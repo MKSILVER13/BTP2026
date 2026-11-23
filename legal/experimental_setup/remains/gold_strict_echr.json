@@ -1,0 +1,365 @@
+[
+  {
+    "prompt_name": "strict_16_echr_labels_700words",
+    "source": "derived_from_2000_word_gold",
+    "document_length_chars": 4161,
+    "gold_output": [
+      {
+        "text": "The applicant complained that by failing to afford her adequate protection against B's violence the State authorities had failed to comply with their positive obligations. She relied on Articles 2, 3 and 8 of the Convention, the relevant parts of which read:",
+        "label": "Application to the concrete case",
+        "text_position": [
+          0,
+          258
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 § 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+        "label": "Decision of the ECHR",
+        "text_position": [
+          1243,
+          1487
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The applicant argued that the State authorities had failed in their positive obligations under Articles 2, 3 and 8 of the Convention in respect of the acts of violence committed against her by B. She maintained that although the national courts, in both criminal and minor offences proceedings, had imposed certain sanctions and ordered certain measures, most of these had not been enforced, thereby seriously undermining any meaningful purpose of those proceedings. The national courts had also misapplied the relevant provisions of the applicable substantive and procedural law.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          1530,
+          2110
+        ],
+        "clipped": false
+      },
+      {
+        "text": "She also argued that the requirement for her to prove an immediate risk to her life in order to have a protective measure of prohibition on harassing and stalking a victim of violence applied put a disproportionate burden on her as the victim of violent acts (see paragraph 35 above). In any event the Z. Minor Offences Court had had sufficient proof of a risk to her life because at that time B had already been convicted of uttering death threats against her (see paragraph 20 above).",
+        "label": "Test of the principle of proportionality—Necessity/Proportionality",
+        "text_position": [
+          2115,
+          2601
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The applicant further maintained that owing to the failure of the national authorities to provide her with adequate protection against B's violence she had to live in fear for her physical integrity and for her life, had had to hide in the shelter, together with C, and had also had to move to a secret address.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          2606,
+          2917
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Government argued that in Croatia the protection of victims of domestic violence was ensured through the mechanisms of criminal law, and in particular the Protection against Domestic Violence Act. In the present case the relevant authorities had reacted to the incidents of violence against the applicant by B, had instituted several sets of both criminal and minor offences proceedings and had applied such criminal sanctions and protective measures against B as they had considered proper and suitable in the circumstances. The Government submitted that the prison term imposed on B for not paying in full the fine imposed in the decision of the Z. Minor Offences Court of 2 October 2006 had not been enforced because Z. Prison had been full to capacity. Likewise, the measure of compulsory psycho-social treatment imposed on B in the same decision had not been implemented owing to the lack of licensed individuals or agencies able to execute such a protective measure (see paragraphs 31 and 34 above).",
+        "label": "Test of the principle of proportionality—Necessity/Proportionality",
+        "text_position": [
+          2922,
+          3931
+        ],
+        "clipped": false
+      },
+      {
+        "text": "In addition, the Government had adopted two national strategies for protection against domestic violence (the first one covering the period between 2005 and 2007 and the second covering the period between 2008 and 2010) which",
+        "label": "Application to the concrete case",
+        "text_position": [
+          3936,
+          4161
+        ],
+        "clipped": true
+      }
+    ]
+  },
+  {
+    "prompt_name": "strict_16_echr_labels_1000words",
+    "source": "derived_from_2000_word_gold",
+    "document_length_chars": 6031,
+    "gold_output": [
+      {
+        "text": "The applicant complained that by failing to afford her adequate protection against B's violence the State authorities had failed to comply with their positive obligations. She relied on Articles 2, 3 and 8 of the Convention, the relevant parts of which read:",
+        "label": "Application to the concrete case",
+        "text_position": [
+          0,
+          258
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 § 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+        "label": "Decision of the ECHR",
+        "text_position": [
+          1243,
+          1487
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The applicant argued that the State authorities had failed in their positive obligations under Articles 2, 3 and 8 of the Convention in respect of the acts of violence committed against her by B. She maintained that although the national courts, in both criminal and minor offences proceedings, had imposed certain sanctions and ordered certain measures, most of these had not been enforced, thereby seriously undermining any meaningful purpose of those proceedings. The national courts had also misapplied the relevant provisions of the applicable substantive and procedural law.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          1530,
+          2110
+        ],
+        "clipped": false
+      },
+      {
+        "text": "She also argued that the requirement for her to prove an immediate risk to her life in order to have a protective measure of prohibition on harassing and stalking a victim of violence applied put a disproportionate burden on her as the victim of violent acts (see paragraph 35 above). In any event the Z. Minor Offences Court had had sufficient proof of a risk to her life because at that time B had already been convicted of uttering death threats against her (see paragraph 20 above).",
+        "label": "Test of the principle of proportionality—Necessity/Proportionality",
+        "text_position": [
+          2115,
+          2601
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The applicant further maintained that owing to the failure of the national authorities to provide her with adequate protection against B's violence she had to live in fear for her physical integrity and for her life, had had to hide in the shelter, together with C, and had also had to move to a secret address.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          2606,
+          2917
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Government argued that in Croatia the protection of victims of domestic violence was ensured through the mechanisms of criminal law, and in particular the Protection against Domestic Violence Act. In the present case the relevant authorities had reacted to the incidents of violence against the applicant by B, had instituted several sets of both criminal and minor offences proceedings and had applied such criminal sanctions and protective measures against B as they had considered proper and suitable in the circumstances. The Government submitted that the prison term imposed on B for not paying in full the fine imposed in the decision of the Z. Minor Offences Court of 2 October 2006 had not been enforced because Z. Prison had been full to capacity. Likewise, the measure of compulsory psycho-social treatment imposed on B in the same decision had not been implemented owing to the lack of licensed individuals or agencies able to execute such a protective measure (see paragraphs 31 and 34 above).",
+        "label": "Test of the principle of proportionality—Necessity/Proportionality",
+        "text_position": [
+          2922,
+          3931
+        ],
+        "clipped": false
+      },
+      {
+        "text": "In addition, the Government had adopted two national strategies for protection against domestic violence (the first one covering the period between 2005 and 2007 and the second covering the period between 2008 and 2010) which included, inter alia, the education of all those involved in cases of domestic violence and cooperation with the non-governmental organisations working in that field as well as financial and other support for them. Thus, in 2008 only sixteen new shelters with a total of 329 places for the victims of violence had been established, of which six were State-funded.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          3936,
+          4525
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court takes note of B's repeated violent behaviour towards the applicant. The facts in issue concern frequent episodes of violence in the period between November 2003 and June 2006, amounting to some two years and seven months. The violence was both verbal, including serious death threats, and physical, including hitting and kicking the applicant in the head, face and body, causing her injuries. In view of the fact that all the incidents of domestic violence in the present case concerned the same perpetrator and occurred in a continual manner, the Court will examine them as a continuous situation.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          4556,
+          5164
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court takes further note of the psychiatric reports concerning B which indicated that he suffered from several mental disorders, including a severe form of PTSD, emphasised his tendency towards violence and his reduced ability to control his impulses, and reiterated the recommendation for continuing compulsory psychiatric treatment (see paragraphs 6, 12 and 13 above).",
+        "label": "Application to the concrete case",
+        "text_position": [
+          5169,
+          5543
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The above facts show that the applicant made credible assertions that over a prolonged period of time B presented a threat to her physical integrity and had actually attacked her on a number of occasions. In view of these facts, the Court considers that the State authorities had a positive obligation to protect the applicant from the violent behaviour of her (former) husband. This obligation might arise under all three Articles of the Convention relied upon, namely Articles 2, 3",
+        "label": "Application to the concrete case",
+        "text_position": [
+          5548,
+          6031
+        ],
+        "clipped": true
+      }
+    ]
+  },
+  {
+    "prompt_name": "strict_16_echr_labels_2000words",
+    "source": "given",
+    "document_length_chars": 12166,
+    "gold_output": [
+      {
+        "text": "The applicant complained that by failing to afford her adequate protection against B's violence the State authorities had failed to comply with their positive obligations. She relied on Articles 2, 3 and 8 of the Convention, the relevant parts of which read:",
+        "label": "Application to the concrete case",
+        "text_position": [
+          0,
+          258
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court notes that this part of the application is not manifestly ill-founded within the meaning of Article 35 § 3 of the Convention. It further notes that it is not inadmissible on any other grounds. It must therefore be declared admissible.",
+        "label": "Decision of the ECHR",
+        "text_position": [
+          1243,
+          1487
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The applicant argued that the State authorities had failed in their positive obligations under Articles 2, 3 and 8 of the Convention in respect of the acts of violence committed against her by B. She maintained that although the national courts, in both criminal and minor offences proceedings, had imposed certain sanctions and ordered certain measures, most of these had not been enforced, thereby seriously undermining any meaningful purpose of those proceedings. The national courts had also misapplied the relevant provisions of the applicable substantive and procedural law.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          1530,
+          2110
+        ],
+        "clipped": false
+      },
+      {
+        "text": "She also argued that the requirement for her to prove an immediate risk to her life in order to have a protective measure of prohibition on harassing and stalking a victim of violence applied put a disproportionate burden on her as the victim of violent acts (see paragraph 35 above). In any event the Z. Minor Offences Court had had sufficient proof of a risk to her life because at that time B had already been convicted of uttering death threats against her (see paragraph 20 above).",
+        "label": "Test of the principle of proportionality—Necessity/Proportionality",
+        "text_position": [
+          2115,
+          2601
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The applicant further maintained that owing to the failure of the national authorities to provide her with adequate protection against B's violence she had to live in fear for her physical integrity and for her life, had had to hide in the shelter, together with C, and had also had to move to a secret address.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          2606,
+          2917
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Government argued that in Croatia the protection of victims of domestic violence was ensured through the mechanisms of criminal law, and in particular the Protection against Domestic Violence Act. In the present case the relevant authorities had reacted to the incidents of violence against the applicant by B, had instituted several sets of both criminal and minor offences proceedings and had applied such criminal sanctions and protective measures against B as they had considered proper and suitable in the circumstances. The Government submitted that the prison term imposed on B for not paying in full the fine imposed in the decision of the Z. Minor Offences Court of 2 October 2006 had not been enforced because Z. Prison had been full to capacity. Likewise, the measure of compulsory psycho-social treatment imposed on B in the same decision had not been implemented owing to the lack of licensed individuals or agencies able to execute such a protective measure (see paragraphs 31 and 34 above).",
+        "label": "Test of the principle of proportionality—Necessity/Proportionality",
+        "text_position": [
+          2922,
+          3931
+        ],
+        "clipped": false
+      },
+      {
+        "text": "In addition, the Government had adopted two national strategies for protection against domestic violence (the first one covering the period between 2005 and 2007 and the second covering the period between 2008 and 2010) which included, inter alia, the education of all those involved in cases of domestic violence and cooperation with the non-governmental organisations working in that field as well as financial and other support for them. Thus, in 2008 only sixteen new shelters with a total of 329 places for the victims of violence had been established, of which six were State-funded.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          3936,
+          4525
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court takes note of B's repeated violent behaviour towards the applicant. The facts in issue concern frequent episodes of violence in the period between November 2003 and June 2006, amounting to some two years and seven months. The violence was both verbal, including serious death threats, and physical, including hitting and kicking the applicant in the head, face and body, causing her injuries. In view of the fact that all the incidents of domestic violence in the present case concerned the same perpetrator and occurred in a continual manner, the Court will examine them as a continuous situation.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          4556,
+          5164
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court takes further note of the psychiatric reports concerning B which indicated that he suffered from several mental disorders, including a severe form of PTSD, emphasised his tendency towards violence and his reduced ability to control his impulses, and reiterated the recommendation for continuing compulsory psychiatric treatment (see paragraphs 6, 12 and 13 above).",
+        "label": "Application to the concrete case",
+        "text_position": [
+          5169,
+          5543
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The above facts show that the applicant made credible assertions that over a prolonged period of time B presented a threat to her physical integrity and had actually attacked her on a number of occasions. In view of these facts, the Court considers that the State authorities had a positive obligation to protect the applicant from the violent behaviour of her (former) husband. This obligation might arise under all three Articles of the Convention relied upon, namely Articles 2, 3 and 8. However, in order to avoid further analysis as to whether the death threats against the applicant engaged the State's positive obligation under Article 2 of the Convention, as well as issues pertinent to the threshold for the purposes of Article 3 of the Convention, the Court will analyse the circumstances of the present case from the standpoint of Article 8 of the Convention.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          5548,
+          6418
+        ],
+        "clipped": false
+      },
+      {
+        "text": "In this connection the Court reiterates that there is no doubt that the events giving raise to the present application pertain to the sphere of private life within the meaning of Article 8 of the Convention.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          6423,
+          6630
+        ],
+        "clipped": false
+      },
+      {
+        "text": "Indeed, the physical and moral integrity of an individual is covered by the concept of private life. The concept of private life extends also to the sphere of the relations of individuals between themselves. There appears, furthermore, to be no reason in principle why the notion of “private life” should be taken to exclude attacks on one's physical integrity (see X and Y v. the Netherlands, 26 March 1985, § 23, Series A no. 91).",
+        "label": "Precedents of the ECHR",
+        "text_position": [
+          6631,
+          7063
+        ],
+        "clipped": false
+      },
+      {
+        "text": "While the essential object of Article 8 is to protect the individual against arbitrary action by the public authorities, there may in addition be positive obligations inherent in effective “respect” for private and family life and these obligations may involve the adoption of measures in the sphere of the relations of individuals between themselves (see, mutatis mutandis, X and Y, cited above, §§ 23-24; Mikulić v. Croatia, no. 53176/99, § 57, ECHR 2002-I; and Sandra Janković v. Croatia, no. 38478/05, § 44, ECHR 2009‑... (extracts)).",
+        "label": "Precedents of the ECHR",
+        "text_position": [
+          7068,
+          7606
+        ],
+        "clipped": false
+      },
+      {
+        "text": "As regards respect for private life, the Court has previously held, in various contexts, that the concept of private life includes a person's physical and psychological integrity. Under Article 8 States have a duty to protect the physical and moral integrity of an individual from other persons. To that end they are to maintain and apply in practice an adequate legal framework affording protection against acts of violence by private individuals (see X and Y, cited above, §§ 22 and 23; Costello-Roberts v. the United Kingdom, 25 March 1993, § 36, Series A no. 247-C; D.P. and J.C. v. the United Kingdom, no. 38719/97, § 118, 10 October 2002; M.C. v. Bulgaria, no. 39272/98, §§ 150 and 152, ECHR 2003‑XII; Bevacqua and S. v. Bulgaria, no. 71127/01, § 65, 12 June 2008; and Sandra Janković, cited above, § 45).",
+        "label": "Precedents of the ECHR",
+        "text_position": [
+          7611,
+          8422
+        ],
+        "clipped": false
+      },
+      {
+        "text": "The Court will therefore examine whether Croatia, in dealing with the applicant's case, has been in breach of its positive obligations under Article 8 of the Convention (see, mutatis mutandis, Handyside v. the United Kingdom, 7 December 1976, § 49, Series A no. 24).",
+        "label": "Application to the concrete case",
+        "text_position": [
+          8427,
+          8693
+        ],
+        "clipped": false
+      },
+      {
+        "text": "As to the measures taken against B by the Croatian authorities, the Court notes that one of the measures applied against B was his pre-trial detention. Thus, in the criminal proceedings on charges of violent behaviour within the family, instituted on 21 November 2005 (see §§ 7–17 above), B was detained from 21 November to 20 December 2005. These proceedings concerned the allegations of physical and verbal violence against the applicant in the period between November 2003 and August 2005 as well as the allegations of child molestation. They are still pending.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          8749,
+          9313
+        ],
+        "clipped": false
+      },
+      {
+        "text": "In the proceedings concerning the charges of making death threats against the applicant and a policewoman, instituted on 1 March 2006 (see §§ 18-22 above), B was detained from 30 June to 24 October 2006.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          9318,
+          9521
+        ],
+        "clipped": false
+      },
+      {
+        "text": "Further to B's detention, the national courts applied some other measures against him. Thus, in the last-mentioned proceedings concerning death threats against the applicant and a policewoman, the Zagreb Municipal Court also issued a restraining order against B, prohibiting access to the applicant at a distance of less than three hundred metres and prohibiting contact with the applicant.",
+        "label": "Application to the concrete case",
+        "text_position": [
+          9557,
+          9947
+        ],
+        "clipped": false
+      },
+      {
+        "text": "In the minor offences proceedings on charges of domestic violence, instituted on 26 March 2006, the Zagreb Minor Offences Court ordered a protective measure prohibiting access to the applicant at a distance of less than one hundred metres for a period of one year (see §§ 29-35 above).",
+        "label": "Application to the concrete case",
+        "text_position": [
+          9952,
+          10237
+        ],
+        "clipped": false
+      },
+      {
+        "text": "However, the Court notes that some further recommendations and measures were not followed or complied with. It must be stated at this juncture that it is not the Court's task to verify whether the domestic courts correctly applied domestic criminal law; what is in issue in the present proceedings is not individual criminal-law liability, but the State's responsibility under the Convention. The Court must grant substantial deference to the national courts in the choice of appropriate measures, while also maintaining a certain power of review and the power to intervene in cases of manifest disproportion between the gravity of the act and the results obtained at domestic level (see, mutatis mutandis, Nikolova and Velichkova v. Bulgaria, no. 7888/03, § 62, 20 December 2007; Atalay v. Turkey, no. 1249/03, § 40, 18 September 2008; and Beganović v. Croatia, no. 46423/06, § 78, ECHR 2009‑...).",
+        "label": "Application to the concrete case",
+        "text_position": [
+          10312,
+          11210
+        ],
+        "clipped": false
+      },
+      {
+        "text": "In this connection the Court notes that the obligation on the State under Article 8 of the Convention in cases involving acts of violence against an applicant would usually require the State to adopt adequate positive measures in the sphere of criminal-law protection. The Court stresses that the Convention is a living instrument which must be interpreted in the light of present-day conditions and that the increasingly high standard being required in the area of the protection of human rights and fundamental liberties correspondingly and inevitably requires greater firmness in assessing breaches of the fundamental values of democratic societies (see, mutatis mutandis, Selmouni v. France, [GC], no. 25803/94, § 101, ECHR 1999-V; Mayeka and Mitunga v. Belgium, no. 13178/03, § 48, ECHR 2006‑XI; and Sandra Janković, cited above, § 47). Bringing to justice perpetrators of violent acts serves mainly to ensure that such acts do not remain ignored",
+        "label": "Precedents of the ECHR",
+        "text_position": [
+          11215,
+          12166
+        ],
+        "clipped": true
+      }
+    ]
+  }
+]

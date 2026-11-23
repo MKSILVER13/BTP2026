@@ -1,0 +1,1022 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+
+(Arising against the impugned order dated 05.12.2023 passed by the Hon’ble
+National Company Law Tribunal, New Delhi Bench in I.A. No. 767 of 2021
+filed in C.P. (IB) No. 1771 of 2018)
+
+IN THE MATTER OF:
+
+Moneywise Financial Services Pvt. Ltd.
+Address: 11/6 B, Second Floor,
+Shanti Chamber, Pusa Road,
+Central Delhi, New Delhi- 110005.
+
+...Appellant
+
+Versus
+
+Mr. Arunava Sikdar,
+Resolution Professional
+M/s Dream Procon Pvt. Ltd.
+Address: C-10, LGF, Lajpat Nagar -3,
+New Delhi, National Capital Territory of Delhi -110024.
+
+...Respondent
+
+Present:
+For Appellant: Mr. Abhishek Garg and Mr. Yash Gaiha, Advocates.
+For Respondent:
+Ms. Varsha Banerjee, Advocate.
+
+J U D G M E N T
+(3rd July, 2025)
+
+INDEVAR PANDEY, MEMBER (T)
+
+The present appeal has been preferred by Moneywise Financial Services
+Private Limited under Section 61 of the Insolvency and Bankruptcy Code,
+2016 (in short, the ‘Code’), being aggrieved by the Impugned Order dated
+05.12.2023 passed by the National Company Law Tribunal (Adjudicating
+Authority), New Delhi Bench, in I.A. No. 767 of 2021 filed in C.P. (IB) No.
+1771 of 2018. By the said order, the Adjudicating Authority dismissed the
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+Appellant’s application seeking admission of its claim as a Financial Creditor
+of M/s Dream Procon Private Limited (Corporate Debtor), despite the
+existence of a valid and enforceable corporate guarantee extended by
+M/s Dream Procon Private Limited for a loan advanced to Indirapuram
+Habitat Center Private Limited (IHCPL).
+
+2.
+The Appellant contends that its claim arises from the corporate
+guarantee, and hence constitutes a “financial debt” under Section 5(8)(i) of
+the Code. The rejection of its claim, without adequate reasoning and without
+appreciating the legally binding guarantee agreement, has necessitated the
+filing of the present appeal
+
+Brief Facts
+
+3.
+Brief facts of the case are given below:
+
+(i)
+The Appellant is engaged in the business of providing financial
+services. The Appellant is the Financial Creditor of the Corporate
+Debtor. The Appellant is a wholly owned subsidiary of SMC Global
+Securities limited and is registered with the Reserve Bank of India as
+a non-deposit taking systematically important non-banking finance
+company.
+(ii)
+On 20.05.2015, the Appellant granted a loan of Rs. 5,00,00,000/- to
+the Corporate Debtor, M/s Dream Procon Pvt. Ltd., for the
+construction of a real estate project titled “Victory Ace” located at Plot
+No. GH-02, Sector 143-B, Noida, Uttar Pradesh. This transaction was
+formalized through a Master Loan Agreement dated 20.05.2015.
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+(iii)
+To secure the above loan, the Corporate Debtor executed a Declaration
+of Security on 21.05.2015, and a Form CHG-01 dated 20.05.2015 was
+filed, signifying the creation of a charge over the assets.
+(iv)
+The above facility was subsequently renewed on 18.05.2017, and
+relevant addendums to the Master Loan Agreement were also executed
+between the parties.
+(v)
+In early April 2016, Indirapuram Habitat Center Private Limited
+(IHCPL), a group concern of the Corporate Debtor, approached the
+Appellant seeking a term loan of Rs. 10,00,00,000/- for developing a
+commercial project in Ghaziabad, Uttar Pradesh.
+(vi)
+A Term Sheet dated 07.04.2016 was issued by the Appellant in favour
+of IHCPL outlining the terms of the proposed loan. Importantly, the
+Corporate Debtor (Dream Procon Pvt. Ltd.) executed a corporate
+guarantee for the due repayment of this loan, thereby binding itself as
+a financial guarantor for the obligations of IHCPL.
+(vii) Following the term sheet, a Master Loan Agreement (MLA) dated
+22.04.2016 was executed between the Appellant and IHCPL for
+disbursal of the Rs. 10 crore loan facility. The Corporate Debtor stood
+as corporate guarantor under the MLA.
+(viii) On 27.12.2017, an addendum to the Master Loan Agreement dated
+22.04.2016 was executed between the Appellant, IHCPL, and the
+Corporate Debtor. On the same date, i.e., 27.12.2017, a Joint
+Declaration and Undertaking was executed by IHCPL and the
+Corporate Debtor in favour of the Appellant, confirming cross-
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+collateralization and cross-guarantee arrangements between the two
+entities for loan facilities extended by the Appellant.
+(ix)
+The CIRP against IHCPL was initiated by the Hon’ble NCLT, Principal
+Bench, New Delhi on 22.08.2019 in CP(IB) No. 1397(PB)/2019. The
+Appellant filed a claim in IHCPL’s CIRP on 07.09.2019 for
+Rs. 14,45,22,111/-, based on the 2016 loan disbursed directly to
+IHCPL.
+(x)
+The CIRP against the Corporate Debtor (Dream Procon Pvt. Ltd was
+initiated on 06.09.2019 by the Hon’ble NCLT, New Delhi Bench in
+CP(IB) No. 1771/2018. On 25.10.2019, the Appellant filed a claim
+under Form C before the IRP of the Corporate Debtor for a sum of Rs.
+7,25,19,134/- (arising from the 2015 loan), which was accepted and is
+not in dispute in the present appeal.
+(xi)
+On 20.10.2020, the Appellant filed a fresh claim in Form C with the
+Respondent (RP of Dream Procon Pvt. Ltd.) for Rs. 14,59,89,580/-,
+arising from the corporate guarantee executed by the Corporate Debtor
+in favour of the Appellant to secure the loan advanced to IHCPL.
+(xii) On 13.11.2020, the Respondent rejected the Appellant’s claim, citing
+that the debt was not disbursed to the Corporate Debtor and hence did
+not qualify as “financial debt” under Section 5(8) of the IBC.
+(xiii) The Appellant responded to this rejection through an email dated
+01.12.2020, asserting that the guarantee obligations of the Corporate
+Debtor are co-extensive with those of the principal borrower under
+Section 128 of the Indian Contract Act, 1872.
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+(xiv) Despite repeated follow-up emails, the Respondent did not reverse the
+decision, prompting the Appellant to file IA No. 767 of 2021 on
+27.01.2021 before the Adjudicating Authority, seeking directions to
+admit its claim for Rs. 14.59 crores as a financial debt.
+(xv) By Order dated 05.12.2023, the Ld. Adjudicating Authority dismissed
+IA No. 767 of 2021, holding that the Appellant failed to demonstrate
+how the claim falls within the scope of clauses (a) to (h) of Section 5(8)
+of the Code, and that no direct disbursal was made to the Corporate
+Debtor.
+(xvi) The Appellant has thus preferred the present Company Appeal seeking
+recognition of its status as a financial creditor of the Corporate Debtor
+under Section 5(7) r/w 5(8)(i) of the Code and consequential reliefs.
+
+Submissions of the Appellant
+
+4.
+Learned Counsel for the Appellant, Moneywise Financial Services Pvt.
+Ltd., respectfully submits that the present appeal arises out of the Impugned
+Order dated 05.12.2023, by which the Hon’ble National Company Law
+Tribunal, New Delhi, has erroneously dismissed the application filed by the
+Appellant solely on the ground that there was no disbursement of the loan
+amount directly from the Appellant to the Corporate Debtor, M/s Dream
+Procon Pvt. Ltd., and thereby concluded that the Appellant does not hold a
+“financial debt” within the meaning of Section 5(8) of the Insolvency and
+Bankruptcy Code, 2016 (“IBC” or “Code”). Counsel for the Appellant submits
+that this conclusion is flawed in both law and fact, as it ignores the well-
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+settled legal position that the liability of a guarantor is independent of the
+requirement of direct disbursement and that the Corporate Debtor had indeed
+stood as a guarantor under a valid and binding agreement.
+5.
+Ld. Counsel for the Appellant further submits that as per Section 128
+of the Indian Contract Act, 1872, the liability of a guarantor is co-extensive
+with that of the principal borrower, and the law does not require any direct
+disbursement to the guarantor to establish such liability. Ld. Counsel points
+out that the Code permits the initiation of CIRP against guarantors; whether
+corporate or personal, even in cases where disbursement has been made only
+to the principal borrower. Therefore, the rejection of the Appellant’s claim on
+the limited ground of non-disbursal to the Corporate Debtor reflects a
+misapplication of the settled legal principle.
+6.
+It is further submitted by counsel for the Appellant that Section 5(8) of
+the Code expressly includes within the definition of "financial debt" any
+liability in respect of a guarantee or indemnity. In this regard, counsel refers
+to the authoritative pronouncements of the Hon’ble Supreme Court in ‘BRS
+Ventures Investments Ltd. v. SREI Infrastructure Finance Ltd., [(2025) 1 SCC
+456]’, particularly at para 26, and ‘Laxmi Pat Surana v. Union of India, [(2021)
+8 SCC 481]’, at paras 31 and 32. In both these cases, Hon’ble Apex Court has
+clearly held that the absence of disbursement to the guarantor does not
+preclude a financial creditor from initiating proceedings against the corporate
+guarantor under the Code. Hence, the Appellant qualifies as a financial
+creditor.
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+7.
+Ld. Counsel for the Appellant draws attention to the Report of the
+Insolvency Law Committee dated 20.02.2020, wherein it has been emphasized
+that the right to pursue simultaneous remedies against both the principal
+borrower and the guarantor is fundamental to the nature of a contract of
+guarantee. The Committee also recommended that creditors must be
+permitted to file claims in the CIRP of both the principal borrower and the
+guarantor. Counsel accordingly submits that the Appellant cannot be denied
+the right to submit its claim in the CIRP of the Corporate Debtor merely
+because a claim has also been filed in the CIRP of Indirapuram Habitat Centre
+Pvt. Ltd. (IHCPL).
+8.
+Further, it is submitted by Ld. Counsel that the Committee categorically
+clarified that if any portion of the debt is recovered in one proceeding (e.g.,
+CIRP of IHCPL), the creditor’s claim in the other (e.g., CIRP of the Corporate
+Debtor) would be proportionately reduced. Therefore, any concern of duplicity
+or double recovery is ill-founded and cannot form the basis for rejection of the
+Appellant’s claim. The claim made by the Appellant in the CIRP of the
+Corporate Debtor is thus legally sustainable.
+9.
+Ld. Counsel also places reliance on the judgment of the Hon’ble NCLAT
+in ‘State Bank of India v. Athena Energy Ventures Pvt. Ltd., CA (AT)(Ins.) No.
+633/2020’, wherein at para 16, the Tribunal reaffirmed that a contract of
+guarantee is enforceable even when CIRP is initiated simultaneously against
+both the principal borrower and the guarantor. Counsel submits that in the
+present case, the Corporate Debtor had stood as a guarantor under a Term
+Sheet and Master Loan Agreement (MLA) executed between the Appellant,
+IHCPL, and the Corporate Debtor.
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+10.
+Ld. Counsel submitted that under Clause 28 of the MLA, the Corporate
+Debtor unconditionally and irrevocably guaranteed the due and timely
+repayment of the loan facilities availed by IHCPL. Counsel points out that the
+MLA is a comprehensive tripartite agreement and clearly outlines the
+Corporate Debtor’s role as a guarantor, and no separate deed of guarantee
+was contemplated or required. The Corporate Debtor’s obligations arise
+directly from the MLA itself.
+11.
+Ld. Counsel further submits that as per Section 126 of the Indian
+Contract Act, 1872, a contract of guarantee may be either express or implied,
+oral or written. Therefore, the argument that the Corporate Debtor’s liability
+is unenforceable in the absence of a separate, registered deed of guarantee is
+untenable. The conduct of the parties and the contents of the MLA, as
+emphasized by counsel, clearly establish the existence of a valid contract of
+guarantee.
+12.
+In support of this position, Ld. Counsel refers to the decision of the
+‘Andhra Pradesh High Court in State Bank of Hyderabad v. Kotha Papi Reddy,
+[1973 SCC OnLine AP 80]’, which held that a deed of guarantee need not be
+registered and can even be oral. Hence, insistence on a registered deed is
+legally erroneous.
+13.
+Ld. Counsel also submits that the Code recognizes the concept of
+“arrangement” under Section 3(31), which includes any agreement or
+understanding intended to secure payment or performance of any obligation.
+The MLA constitutes such an arrangement and Clause 28 therein satisfies the
+statutory test of financial debt.
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+
+14.
+He submitted that the absence of a separate document titled “deed of
+guarantee” does not dilute the Corporate Debtor’s liability. Judicial
+precedents consistently emphasize that courts must consider the totality of
+the agreement, the conduct of the parties, and surrounding circumstances to
+determine whether a guarantee exists. In the present case, all such elements
+point to a clear understanding that the Corporate Debtor was a guarantor.
+
+15.
+Counsel for the Appellant submits that the nature of the transaction
+must be assessed holistically. The MLA was executed to facilitate a loan to
+IHCPL, and the Corporate Debtor’s agreement to act as guarantor is expressly
+recorded therein. The execution of the MLA and Clause 28 unequivocally
+establish the Corporate Debtor’s liability. The argument regarding the
+absence of a separate deed is merely hyper-technical and undermines the
+substance of the transaction.
+
+16.
+Ld. Counsel submitted that the Term Sheet, when read together with
+Clause 28 of the MLA, makes it evident that the Corporate Debtor acted as a
+corporate guarantor for the loan extended to IHCPL. There is no contractual
+requirement that the parties execute an additional deed of guarantee, and the
+guarantee clause within the MLA is sufficient in law.
+
+17.
+It is his submission that the Appellant’s claim arises solely from the
+irrevocable guarantee extended by the Corporate Debtor under the MLA. The
+nature of this obligation is financial, as defined under Section 5(8) of the Code,
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+and the Appellant has rightly lodged its claim in the CIRP of both IHCPL and
+the Corporate Debtor.
+
+18.
+Ld. Counsel emphasizes that the mutual understanding between the
+parties as recorded in the MLA is sufficient to create enforceable rights. No
+further instrument is legally necessary. The guarantee clause in the MLA
+constitutes a binding contractual obligation.
+
+19.
+Lastly, Ld. Counsel points out that the claim was filed in the CIRP of
+the Corporate Debtor within the prescribed timelines and well before approval
+of the resolution plan. This fact remains undisputed by the Respondent in its
+written reply as well as during the oral hearing.
+
+20.
+Summing up his arguments Ld. counsel for the Appellant prays that
+this Hon’ble Tribunal be pleased to set aside the Impugned Order dated
+05.12.2023 and direct the Resolution Professional to admit the claim of the
+Appellant in the CIRP of the Corporate Debtor, as the same arises from a valid
+and enforceable contract of guarantee, satisfying all requirements under
+Section 5(8) of the Insolvency and Bankruptcy Code, 2016.
+
+Submissions of the Respondent
+
+21.
+Ld. Counsel for the Respondent / Resolution Professional (hereinafter
+referred to as “RP” or “Answering Respondent”), of M/s Dream Procon Private
+Limited respectfully submits that the present appeal filed by the Appellant,
+Moneywise Financial Services Private Limited, is wholly misconceived and is
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+liable to be dismissed at the threshold. The Appellant has challenged the
+rejection of its alleged financial claim of Rs. 14,59,89,580/- filed via Form C
+on 20.10.2020. Counsel submits that the said claim was rightly rejected by
+the Respondent on 13.11.2020 on the ground that it does not fall within the
+scope of a “financial debt” as defined under Section 5(8) of the Insolvency and
+Bankruptcy Code, 2016 (“IBC”). The Ld. Adjudicating Authority, by its
+detailed order dated 05.12.2023 passed in I.A. No. 767 of 2021 in CP(IB) No.
+1771/ND/2018, rightly upheld the said rejection, holding that the Appellant
+is not a financial creditor of the Corporate Debtor. The said order is legally
+sustainable and does not warrant any interference.
+
+22.
+Ld. Counsel for the Respondent submits that the primary issue involved
+in the appeal is whether the Respondent correctly rejected the Appellant’s
+claim of Rs. 14,59,89,580/- as a financial creditor of the Corporate Debtor. In
+this regard, counsel submits the following:
+a) That no corporate guarantee was ever executed by the Corporate Debtor
+in favour of the Appellant. Despite repeated assertions, the Appellant
+has failed to place on record any duly executed deed of guarantee by
+the Corporate Debtor. The foundation of the Appellant’s claim thus
+collapses.
+b) That Clause 28 of the Master Loan Agreement, relied upon by the
+Appellant, does not constitute a binding guarantee deed. Moreover,
+there exists no Board Resolution of the Corporate Debtor authorizing
+any of its promoters to execute a corporate guarantee in favour of the
+Appellant.
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+c) That the sanction letter issued by the Appellant to Indirapuram Habitat
+Centre Pvt. Ltd. only refers to an intention to obtain a corporate
+guarantee from the Corporate Debtor. However, in the absence of any
+actual deed of guarantee, no enforceable obligation has been created.
+d) That the claim of the Appellant fails to meet the statutory definition of
+“financial debt” under Section 5(8) of the Code. In the absence of a duly
+executed deed of guarantee, invocation of Clause (i) of Section 5(8) is
+legally impermissible.
+e) That even assuming for arguments sake the existence of any guarantee,
+counsel submits that it was never invoked by the Appellant prior to the
+Insolvency Commencement Date (ICD). Invocation of a guarantee is a
+settled pre-condition for recognition of debt under the IBC.
+f) That the Resolution Plan has already been approved by the Committee
+of Creditors (CoC). Counsel submits that the Appellant’s claim is
+belated and legally inadmissible. The conduct of the Appellant
+demonstrates suppression of facts and constitutes an abuse of process.
+
+23.
+Counsel for the Respondent submits that the Appellant initially referred
+to a purported deed of guarantee dated 22.04.2016 in its claim form dated
+20.10.2020. However, no such deed has been placed on record till date. Even
+before the Adjudicating Authority, the Appellant reiterated this claim and even
+quoted clauses from the alleged deed, but failed to annex or substantiate the
+same. In response, the RP rightly pointed out the absence of any such deed
+executed in favour of the Appellant.
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+24.
+Counsel further points out that in the present appeal, the Appellant has
+conspicuously omitted any reference to the purported deed, thereby admitting
+by implication that its earlier assertions were false and misleading. Such
+suppression of material facts renders the entire claim legally dubious.
+25.
+It is further submitted by counsel that the timeline of claim
+submissions exposes the Appellant’s mala fide intent. For the same loan
+transaction, the Appellant filed a claim against IHCPL (principal borrower) on
+25.10.2019, but waited almost a full year to file the so-called corporate
+guarantee-based claim against the Corporate Debtor on 20.10.2020. This
+clearly establishes that the latter claim is an afterthought, lacking in bona
+fides.
+26.
+Ld. Counsel submitted that even Clause 28 of the MLA, now relied upon
+by the Appellant in lieu of the earlier claimed deed, does not fulfil the statutory
+requirement for an enforceable guarantee. Under Sections 3(31) and 3(33) of
+the IBC, counsel submits that security interest must be based on actual
+executed documents and not on vague references or intentions.
+27.
+Ld. Counsel places reliance on the judgments of this Appellate Tribunal
+in ‘Unity Small Finance Bank Ltd. v. Sripatham Venkatasubramanian
+Ramkumar & Ors., Comp. App. (AT) (Ins.) No. 601 of 2024 (Paras 20, 24)’; and
+‘M/s. Star Maxx Properties v. Arunava Sikdar & Anr., Comp. App. (AT)(Ins.) No.
+338 of 2024 (Paras 5, 31, 32)’ to assert that only formally executed documents
+can constitute a valid security interest.
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+28.
+Ld. Counsel for the Respondent submits that the Appellant has not
+produced any evidence to show that the alleged guarantee was ever invoked
+before the commencement of CIRP. Clause 28 of the MLA contemplates a first
+demand guarantee, yet no such demand has been raised upon the Corporate
+Debtor.
+29.
+Ld. Counsel further submitted that in law, an uninvoked guarantee
+cannot constitute financial debt. The Counsel relies on the following
+judgements of Hon’ble Supreme Court and this Appellate Tribunal in this
+regard:
+i.
+Judgement of Hon’ble SC in Ghanshyam Mishra & Sons v. Edelweiss
+ARC, (2021) 9 SCC 657 (Paras 109, 110);
+ii.
+Judgements of this Appellate Tribunal in
+ EARC v. Orissa Manganese and Minerals Ltd., 2019 SCC OnLine
+NCLAT 764 (Paras 24–28);
+ Ankur Kumar v. Sustainable Agro-Commercial Financial Ltd., CA
+(AT)(INS) No. 484 of 2023 (Paras 25, 29, 31, 32); and
+ IDBI Trusteeship Services Ltd. v. Abhinav Mukherji & Ors., CA
+(AT)(INS) No. 356 of 2022 (Paras 27, 29, 30).
+
+30.
+Ld. Counsel submits that the Appellant’s claim for Rs. 14,59,89,580/-
+has already been admitted in the CIRP of IHCPL. Filing the same claim in the
+CIRP of the Corporate Debtor constitutes double-dipping, which is
+impermissible under the IBC. Permitting such a duplicate claim would
+unjustly prejudice over 500 homebuyers and other stakeholders and
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+undermine the CIRP. Counsel refers to ‘Piramal Capital & Housing Finance
+Ltd. v. Hydric Infrastructure Pvt. Ltd., CA (AT)(INS) No. 851 of 2023 (Paras 29–
+34)’, wherein this Appellate Tribunal held that overlapping claims are
+impermissible.
+31.
+Ld. Counsel for the Respondent reiterates that a financial debt must
+involve disbursement of money against consideration for time value of money
+to the Corporate Debtor. Here, the disbursement was made exclusively to
+IHCPL. The essential criterion of disbursal to the Corporate Debtor is thus not
+satisfied.
+32.
+Ld. Counsel places reliance is placed on the Judgment of Hon’ble SC in
+‘Anuj Jain, Interim RP of Jaypee Infratech Ltd. v. Axis Bank Ltd., [2020 SCC
+OnLine SC 237], (Para 43)’, where the Court clarified that disbursal to the
+corporate debtor is an essential ingredient. Debts not recorded in books or
+unsupported by valid instruments cannot qualify under Section 5(8).
+33.
+Ld. Counsel submits that the last date for submission of claims in the
+CIRP was 29.10.2019. The Appellant filed its claim on 20.11.2020 i.e., 388
+days after the deadline. This unexplained and unjustified delay renders the
+claim inadmissible.
+34.
+Ld. Counsel places reliance upon the following Judgements of Hon’ble
+SC in this regard:
+ Essar Steel v. Satish Gupta, 2019 SCC OnLine SC 1478 (Para 88); and
+ RPS Infrastructure Ltd. v. Mukul Kumar & Anr., (2023) 10 SCC 718 (Paras
+23–24).
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+35.
+Ld. Counsel for the Respondent submits that the Resolution Plan for
+the Corporate Debtor has already been approved by the Committee of
+Creditors with a vote share of 90.66% during the 11th CoC meeting held on
+07.05.2021. Entertaining the Appellant’s claim at this belated stage would
+disrupt the settled commercial wisdom of the CoC, and jeopardize the
+approved resolution plan, contrary to established jurisprudence.
+36.
+In light of the above submissions, counsel for the Respondent prays
+that this Tribunal may dismiss the present appeal with exemplary costs, as it
+is devoid of merit, factually misleading, legally untenable, and constitutes an
+abuse of the process of law.
+Analysis and Findings
+37.
+We have heard the Ld. Counsels for both the parties in great detail. We
+have gone through the records of the case including the written submissions
+of both the parties.
+38.
+Based on the submissions of both the parties we frame the following 3
+issues for adjudication:
+I.
+Whether a valid and enforceable corporate guarantee has been executed
+by the Corporate Debtor, and if so, has it been invoked;
+II.
+Whether the Appellant’s claim, is barred by limitation under the Code;
+and
+III.
+Whether the Appellant’s claim is admissible in the CIRP of the
+Corporate Debtor considering the admitted claim for the same
+underlying debt of in the CIRP of IHCPL
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+Issue I: Whether a valid and enforceable corporate guarantee has been
+executed by the Corporate Debtor, and if so, has it been invoked
+
+39.
+This issue strikes at the core of the present appeal, for if the Appellant
+has not demonstrated the existence of a legally binding and enforceable
+corporate guarantee executed by the Corporate Debtor, then the very
+foundation of its claim, asserting his status a financial creditor under the
+Code, must necessarily fail.
+Under Section 5(8)(i) of the Code, a financial debt includes “any liability
+in respect of a guarantee or indemnity for any of the items referred to in sub-
+clauses (a) to (h).” Thus, the primary legal threshold is whether the Appellant
+has to establish that the Corporate Debtor had, in fact, undertaken such a
+liability by way of a valid guarantee.
+40.
+The Appellant contends that the guarantee arose pursuant to a Master
+Loan Agreement (MLA) dated 22.04.2016, executed between the Appellant
+(Moneywise Financial Services Pvt. Ltd.); the borrower entity Indirapuram
+Habitat Centre Pvt. Ltd. (IHCPL); and the Corporate Debtor, Dream Procon
+Pvt. Ltd. Clause 28 of the MLA is relied upon by the Appellant as evidence
+that Dream Procon undertook a corporate guarantee for repayment of the
+Rs.10 crore facility extended to IHCPL. The Appellant argues that this clause,
+when read in conjunction with the execution of the MLA and the parties’
+conduct; particularly the Joint Declaration dated 27.12.2017 satisfies the
+requirements of a valid and enforceable contract of guarantee, even though a
+standalone guarantee deed was never executed.
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+41.
+The Appellant relies on the principle that a contract of guarantee under
+Section 126 of the Indian Contract Act, 1872 may be either oral or written
+and need not follow a particular format. It further cites the Section 128 of the
+Contract Act to argue that the liability of the guarantor is co-extensive with
+that of the principal debtor and can be enforced without a requirement of
+direct disbursal to the guarantor. The Appellant relies on the Hon’ble Supreme
+Court’s ruling in Laxmi Pat Surana v. Union of India, (2021) 8 SCC 481, where
+it was held that insolvency proceedings can be initiated against a corporate
+guarantor, even when the principal borrower is not a corporate person.
+Similarly, the Appellant cites State Bank of India v. Athena Energy Ventures
+Pvt. Ltd., Company Appeal (AT)(Insolvency) No. 633 of 2020, and also relies
+upon Hon’ble SC’s Judgement in BRS Ventures Investments Ltd. v. SREI
+Infrastructure Finance Ltd., (2025) 1 SCC 456 to reinforce the legal proposition
+that a valid guarantee constitutes a financial debt under Section 5(8)(i) of the
+Code.
+42.
+The Respondent, however, disputes the very existence of a legally valid
+corporate guarantee. It is submitted that while the Appellant initially referred
+to a “Deed of Guarantee dated 22.04.2016” in its Form C claim, no such deed
+was ever produced before the Adjudicating Authority or this Tribunal. The
+Respondent points out that the Appellant has now entirely abandoned that
+position and instead relies solely on Clause 28 of the MLA. It is contended
+that such a clause, appearing within a tripartite loan agreement, does not
+constitute a formal guarantee and lacks the characteristics of an enforceable
+security instrument. Crucially, the Respondent highlights that there is no
+Board Resolution or any other corporate authorization by the Corporate
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+Debtor permitting its promoters or directors to extend a corporate guarantee
+on its behalf. In the absence of such authorization, the Respondent asserts
+that no legal or enforceable corporate guarantee can be inferred. The
+respondent places reliance upon this Appellate Tribunal’s Judgements in
+‘Unity Small Finance Bank Ltd. v. Sripatham Venkatasubramanian Ramkumar
+& Ors., Comp. App. (AT) (Ins.) No. 601 of 2024, and ‘M/s. Star Maxx Properties
+v. Arunava Sikdar & Anr., Comp. App. (AT) (Ins.) No. 338 of 2024’, where this
+Tribunal has held that an enforceable corporate guarantee must be supported
+by clear documentation and formal authorization.
+43.
+We agree that Section 5(8)(i) of the Code read with Section 128 of the
+Contract Act permits invocation of liability against a guarantor in respect of
+debt disbursed to a third-party borrower. However, the existence of a valid
+and enforceable guarantee must still be established by the claimant. In the
+present case, the Appellant has failed to place on record any standalone or
+formally executed deed of guarantee by the Corporate Debtor. A reference has
+been made to the “Deed of Guarantee dated 22.04.2016 in the application
+filed in I.A. No. 767 of 2021. The relevant para 23 of the application is
+reproduced below:
+Para 23 of IA no. 767 of 2021
+“23. That the Deed of Guarantee dated 22.04.2016 as executed
+between the parties further concretizes the claim of the
+applicant to the extent that the liability to repay the credit
+facility availed by IHCPL was co-extensive over the corporate
+debtor. The relevant clause of Deed of Guarantee is reproduced
+below for kind perusal of this Hon'ble Tribunal:
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+“3 (a) In the event of any default on part of the
+Guarantor in payment / repayment of any of the
+monies referred to Clause 2 above, or in the event of
+any default on part of the guarantor to comply with or
+perform any of the terms, conditions and covenants
+contained in the loan documents, the guarantor shall,
+upon demand to the Guarantor, forthwith pay to the
+Moneywise on demand without demur all part of the
+amounts (as demanded by the Moneywise) payable by
+the Guarantor under the Loan Documents...
+(b) In the event of failure by the Guarantor to make
+payment as stated above the Guarantor shall pay the
+default interest at the same rate/s as specified in
+relation to the Facilities for the Borrower till receipt of
+the aforesaid amounts by the Moneywise to its
+satisfaction."
+
+44.
+This deed dated 22-04-2016 having aforesaid para 3 has neither been
+produced before NCLT nor before us. The Appellant has now dropped that
+contention without explanation. It is well settled that guarantees are not
+lightly inferred in corporate law; they must be shown by either formal
+execution or unequivocal documentation, especially in insolvency proceedings
+where competing claims affect the rights of multiple stakeholders.
+45.
+We now have a look at the Master Loan Agreement. The aforesaid
+agreement is an agreement between 6 parties Moneywise Financial Services
+as lender; Indirapuram habitat Centre Pvt. Ltd as Borrower; and 4 Guarantors
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+viz Mr. Pramod Goel; M/s Dream Procon Pvt. Ltd; M/s Victory Infra Projects
+Pvt. Ltd; and M/s Victory Infratech Pvt. Ltd. We now have a look at the clause
+28 of the MLA, which is extracted below:
+Clause 28 of MLA
+“Guarantee
+28. In consideration of Moneywise granting Loan Facility to the
+Borrower under this Agreement. the Guarantor, on request of
+the Borrower, unconditionally guarantees due and timely
+repayment of all Loan Amount according to its terms and
+compliance of all terms and conditions of this Agreement by the
+Borrower and to pay on first demand and without demur all
+amounts due against the Borrower under this Agreement,
+whether on account of principal loan, interest, additional
+interest, costs, charges, or otherwise jointly and severally. Any
+statement of account by Moneywise to the Borrower shall be
+binding on the Guarantor. This Guarantee shall be a continuing
+guarantee, joint and several and coextensive with the Borrower
+and shall not be revocable till all the payments as above nave
+been made. It shall not be necessary for Moneywise to either
+exhaust other remedies against the Borrower or recover from
+other securities before proceeding against the Guarantor or to
+implead the Borrower in any claim or proceeding against the
+Guarantor. In case any claim of Moneywise is not enforceable
+against the Borrower for any reason, the Guarantor shall be
+liable to meet it as the principal debtor. This guarantee shall not
+be discharged by any subsequent variation of the terms of this
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+Agreement by Moneywise as reserved to it in this Agreement or
+by any grant of time or other forbearance by Moneywise to the
+Borrower or by death or change of constitution of the Borrower
+or the Guarantor. For security and comfort of the Lender the
+Guarantor has agreed to provide such security(ies) as the
+Lender may require, to the Lender and to independently
+maintain the Margin during the entire period of the Loan till the
+Loan has been fully repaid with all interest and charges with
+right of the Lender to liquidate the security(ies) and adjust the
+proceeds against the Loan Outstanding on the Guarantor's
+failure to perform the Guarantee within 5 (five) days of first
+demand by the Lender”
+(Emphasis Supplied)
+
+46.
+Clause 28 of the MLA while appearing to contain language of an
+undertaking by the Corporate Debtor to repay the facilities advanced to
+IHCPL, it is embedded within a broader loan agreement, the primary purpose
+of which was to record the loan extended to IHCPL. It also provides for
+invocation of the guarantee. It is an admitted position that the so-called
+guarantee, if any provided by Clause 28 was never invoked. Similarly, even if
+read as a promise to guarantee, it is not supported by any separate
+authorization or corporate resolution from the Board of Directors of Dream
+Procon Pvt. Ltd. The absence of such authorization is fatal. In insolvency law,
+the courts have taken a strict view that a financial creditor must demonstrate
+the basis of its claim through formal instruments that clearly establish the
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+obligation and its enforceability. Hon’ble Supreme Court in Anuj Jain, Interim
+Resolution Professional of Jaypee Infratech Ltd. v. Axis Bank Ltd., (2020) 8 SCC
+401, emphasized that financial debts under Section 5(8) must be evidenced
+by legally valid documentation and that any debt not recorded through a
+demonstrable instrument could not qualify.
+47.
+In this context, it is also relevant to consider the conduct of the
+Appellant. The Appellant’s in NCLT relied on Deed of Guarantee dated
+22.04.2016, but could not produce the document before NCLT or before this
+Appellate Authority. Now before us they have taken the plea of Clause 28 of
+the MLA, an agreement which has 6 parties including 4 guarantors. The
+Clause 28 also clearly provides for invocation of the Guarantee, which clearly
+has not been done by the Appellant. At this stage failure to press its claim
+under Clause 28 initially, and its belated reliance on it only after being unable
+to produce the alleged deed of guarantee, casts serious doubt on the
+credibility and consistency of its position. The Adjudicating Authority also
+notes that while the Appellant refers to the Joint Declaration dated
+27.12.2017 as further evidence of the Corporate Debtor’s obligation, that
+declaration again does not amount to a legally enforceable security or
+guarantee in favour of the Appellant. It merely records mutual arrangements
+and does not independently satisfy the legal criteria for creating enforceable
+financial debt under the Code.
+48.
+A corporate guarantee, like any contingent liability, becomes
+enforceable only upon default of the principal borrower followed by invocation
+by the creditor. In Ghanshyam Mishra & Sons v. Edelweiss ARC (supra), the
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+Hon’ble Supreme Court at paragraphs 109 and 110 held that a debt must be
+real, crystallized, and enforceable as on the Insolvency Commencement Date
+for it to be admitted in the CIRP. In the present case, the Appellant has failed
+to demonstrate any act of invocation; whether by notice, demand letter, or
+otherwise, addressed to Dream Procon prior to 06.09.2019. Although Clause
+28 of the MLA refers to a “first demand” obligation, the Appellant has not
+shown that such demand was ever actually made. The guarantee, even
+assuming its validity, had therefore not matured into an enforceable claim
+against the Corporate Debtor as of the date when CIRP commenced. A mere
+default by IHCPL does not suffice to convert a contingent obligation into a live
+financial debt enforceable against the guarantor in the absence of invocation.
+49.
+The following emerge from the discussion in paras above:
+i.
+The Appellant has failed to prove that a valid and binding corporate
+guarantee was executed by Dream Procon Pvt. Ltd.
+ii. The reliance on Clause 28 of the MLA, unsupported by any separate
+guarantee deed falls short of establishing an enforceable obligation
+under Section 5(8)(i) of the IBC. Even this clause has not been
+invoked by the Appellant which is essential for filing any claim under
+the code.
+iii. The Appellant could not produce a resolution of the board of Directors
+of the Dream Procon Pvt Ltd. for providing such guarantee.
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+We therefore hold that a legally binding valid guarantee has not been
+executed by the Respondent and consequently, the Appellant does not qualify
+as a financial creditor of the Corporate Debtor on the strength of the alleged
+guarantee.
+Issue II: Whether the Appellant’s claim is barred by limitation under the Code
+50.
+The Appellant contends that the claim in question arises from an
+ongoing contractual obligation in the nature of a corporate guarantee and that
+the limitation for enforcing such a claim must be calculated from the date of
+default, which in this case is post-2019. The Appellant also asserts that the
+claim was submitted well in advance of the final approval of the resolution
+plan by the Adjudicating Authority and, therefore, should not have been
+dismissed on procedural grounds alone. It is further submitted that mere
+delay in filing the claim, absent malice or fraud, ought not to bar a creditor
+from asserting a legitimate financial claim, especially when the underlying
+transaction is genuine and enforceable. The Appellant seeks to invoke the
+broad principle laid down by the Hon’ble Supreme Court in Committee of
+Creditors of Essar Steel India Ltd. v. Satish Kumar Gupta & Ors., (2020) 8 SCC
+531, to argue that the procedural timelines in the IBC should not override
+substantial rights and that the resolution process must be inclusive rather
+than overly rigid.
+51.
+On the other hand, the Respondent asserts that the Appellant’s claim
+was filed hopelessly beyond the statutory time limits. The CIRP of the
+Corporate Debtor/ Dream Procon Pvt. Ltd. commenced on 06.09.2019. In
+accordance with Regulation 6(2)(c) of the IBBI (Insolvency Resolution Process
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+for Corporate Persons) Regulations, 2016 read with Section 15(1)(c) of the
+Code, the last date for submission of claims was 29.10.2019. The Appellant,
+who had already participated in the CIRP by filing its earlier claim in respect
+of a separate loan transaction on 25.10.2019, chose to file the present claim
+only on 20.10.2020, almost a year later. This delay of 388 days, according to
+the Respondent, is not only procedurally fatal, but also devoid of any
+justification, as the Appellant was well aware of the CIRP proceedings and its
+timelines.
+52.
+The Respondent further emphasizes that by the time the belated claim
+was filed, the CIRP had advanced significantly and a Resolution Plan had
+already been approved by the Committee of Creditors with 90.66% voting
+share in its meeting held on 07.05.2021. It is contended that once the CoC
+exercises its commercial wisdom to approve a resolution plan, no additional
+liability can be introduced without upsetting the finality and commercial
+balance of the process. To reinforce this position, reliance is placed on several
+judicial pronouncements including ‘Deputy Commissioner v. Kiran Shah,
+Comp. App. (AT)(Ins.) No. 328 of 2021’, of this Appellate Tribunal, where it was
+held that the literal language of Section 12 of the Code mandates strict
+adherence to the time frame it lays down. The Respondent places further
+reliance upon the judgement of Hon’ble SC in ‘RPS Infrastructure Ltd. v. Mukul
+Kumar & Anr., [(2023) 10 SCC 718]’, wherein the Hon’ble Court reaffirmed that
+belated claims cannot be accepted or made part of the CIRP and that doing
+so would compromise the sanctity of timelines and stakeholder expectations.
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+53.
+We are inclined to agree with the Respondent’s submissions. The IBC
+is a time-bound statute, whose framework is premised upon predictability,
+certainty, and strict adherence to procedural milestones. The objective of
+Section 12 and related regulations is to ensure that insolvency proceedings
+conclude within a scheduled timeframe ideally within 180 days and, at most,
+330 days. Regulation 12(2) of the CIRP Regulations does provide a limited
+window for admitting claims after the public announcement, provided they
+are submitted before approval of the resolution plan by the CoC. However,
+even within this discretionary framework, the claimant must demonstrate
+diligence, good faith, and absence of prejudice to other stakeholders. None of
+these factors appear to favour the Appellant in the present case.
+54.
+The Appellant was not a dormant or unaware creditor. It had already
+submitted a claim for a different transaction in October 2019, acknowledging
+the existence and schedule of the CIRP. Its failure to file the present claim
+within the permitted time cannot be attributed to lack of knowledge or
+external impediments. No explanation—let alone a legally sustainable one—
+has been offered to justify a delay of 388 days. Even assuming that the
+Appellant only became aware of its right to enforce the corporate guarantee
+subsequently, it could have sought directions from the Adjudicating Authority
+or filed the claim with a proper explanation. It did neither.
+55.
+The IBC is not designed to accommodate open-ended, hydra-headed
+claims that emerge unpredictably after the CoC has performed its commercial
+function. In this regard, the Tribunal is guided by the reasoning of the Hon’ble
+Supreme Court in ‘RPS Infrastructure Ltd. v. Mukul Kumar & Anr., (2023) 10
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+SCC 718’, where it was held that the Code does not permit revival of stale or
+belated claims once the resolution plan has achieved finality. The Appellant’s
+argument that it should still be allowed to participate merely because the
+claim arose before plan approval is not tenable. The delay was not minimal or
+excusable, it was gross, unexplained, and disruptive.
+56.
+In conclusion, we find that the Appellant’s claim is barred by limitation.
+The same cannot be entertained after the approval of the Resolution Plan by
+the CoC, as doing so would contravene the statutory mandate of Section 12,
+undermine the resolution process, and prejudice the interests of other
+stakeholders. The delay in submission of the claim is solely attributable to the
+Appellant, who was well aware of the timelines and who has already submitted
+one of his claims well within timeline, but submitted the second one with 388
+days delay for which it has no explanation.
+Issue III: Whether the Appellant’s claim is admissible in the CIRP of the
+Corporate Debtor considering the admitted claim for the same underlying debt
+of in the CIRP of IHCPL
+57.
+We now turn to the 3rd issue in this appeal i.e., whether the Appellant,
+even assuming arguendo the existence of a corporate guarantee, could validly
+assert a claim for the same debt in the CIRP of the Corporate Debtor (Dream
+Procon Pvt. Ltd.) despite already having filed and admitted that claim in the
+CIRP of the principal borrower, Indirapuram Habitat Centre Pvt. Ltd. (IHCPL).
+The issue is important because even where a guarantee exists, the claim can
+be rejected, if the right to enforce it has not crystallized, or if admitting it
+would result in unjust enrichment or procedural abuse.
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+58.
+The Appellant contends that it is legally entitled to file claims in both
+CIRPs; that of the principal borrower (IHCPL) and the guarantor (Dream
+Procon Pvt. Ltd.). It argues that Section 128 of the Indian Contract Act, 1872
+clearly provides that the liability of a guarantor is co-extensive with that of
+the principal debtor, unless otherwise agreed, and that a creditor can pursue
+either party or both simultaneously. The Appellant also places reliance on the
+Insolvency Law Committee (ILC) Report dated 20.02.2020, which clarified that
+creditors should be allowed to file claims in both CIRPs without fear of
+duplicity, and that any recovery made in one proceeding would reduce the
+corresponding amount claimed in the other. The Appellant further submits
+that a demand for payment i.e., invocation of the guarantee was not necessary
+prior to the Insolvency Commencement Date (ICD) because the guarantee was
+a “first demand guarantee” and the default of IHCPL in repaying the loan was
+sufficient to trigger liability of the guarantor, Dream Procon. In support of its
+position, the Appellant relies on the judgments of the Hon’ble Supreme Court
+in ‘Laxmi Pat Surana v. Union of India, (2021) 8 SCC 481’ and the NCLAT’s
+decision in ‘State Bank of India v. Athena Energy Ventures Pvt. Ltd., Company
+Appeal (AT)(Insolvency) No. 633 of 2020’, both of which confirm that
+insolvency proceedings can be initiated against corporate guarantors even in
+the absence of direct disbursal of funds to them, and that a valid guarantee
+suffices to create financial creditor status.
+
+59.
+The Respondent on the other hand emphasizes that the Appellant had
+already submitted the very same claim of ₹14.59 crores in the CIRP of IHCPL,
+the principal borrower, and that it was duly admitted there. The filing of an
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+identical claim against the guarantor, Dream Procon, without any disclosure
+of the earlier claim or an adjustment mechanism, constitutes impermissible
+“double dipping” and is contrary to the spirit and structure of the IBC. The
+Respondent relies on the ruling in Piramal Capital & Housing Finance Ltd. v.
+Hydric Infrastructure Pvt. Ltd., Company Appeal (AT)(Insolvency) No. 851 of
+2023, where the NCLAT held that simultaneous and overlapping claims are
+not permissible unless recovery in one CIRP is proportionately adjusted in the
+other. Additionally, the Respondent cites the decisions of Hon’ble SC in
+Ghanshyam Mishra & Sons v. Edelweiss Asset Reconstruction Co. Ltd., (2021)
+9 SCC 657 and of this Appellate Tribunal in IDBI Trusteeship Services Ltd. v.
+Abhinav Mukherji & Ors., Company Appeal (AT)(Insolvency) No. 356 of 2022 to
+emphasize that in the absence of a demand or invocation prior to CIRP, the
+debt cannot be said to have crystallized for purposes of claim admission.
+
+60.
+We find that the Appellant had already submitted and secured
+admission of the ₹14.59 crore claim in the CIRP of IHCPL on 07.09.2019. This
+fact is not denied. A year later, on 20.10.2020, the Appellant filed the same
+claim in the CIRP of Dream Procon without disclosing that the earlier claim
+had been admitted. There was no mechanism proposed for adjusting or
+reconciling the claims in both CIRPs. The Appellant merely filed the same
+claim amount twice in two proceedings for the same underlying loan
+transaction. This, in our view, amounts to impermissible duplication and is
+contrary to the equitable distribution principle underlying the IBC. We are
+guided here by the decision of this Appellate tribunal in Piramal Capital v.
+Hydric Infrastructure Pvt. Ltd.,(supra), wherein it was held that a financial
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+creditor cannot be allowed to enforce the same claim in multiple CIRPs
+without proper adjustment or coordination. The Report of the Insolvency Law
+Committee (2020) also clarifies that simultaneous claims are permitted only
+to the extent that double recovery is avoided. In the present case, the
+Appellant made no effort to safeguard against such eventuality.
+61.
+We also note that permitting such a duplicated claim would seriously
+prejudice other stakeholders in Dream Procon’s CIRP, including over 500
+homebuyers. It would also compromise the discipline and finality of the claims
+process. The IBC is not a forum for speculative assertion of parallel claims,
+and its procedural safeguards must be respected by all creditors. The
+Appellant, being a established financial entity, cannot claim ignorance of this
+obligation.
+62.
+Having considered the facts, submissions, and applicable law, we find
+that the Appellant has failed to establish the existence of any valid or
+enforceable corporate guarantee executed by the Corporate Debtor. Clause 28
+of the Master Loan Agreement, without a separate deed or board resolution,
+does not constitute a financial debt under Section 5(8)(i) of the IBC.
+
+63.
+The claim was filed after a delay of 388 days and cannot be entertained
+post-approval of the Resolution Plan by the CoC with 90.66% majority.
+Further, the alleged guarantee was never invoked prior to the Insolvency
+Commencement Date, and the same claim had already been admitted in the
+CIRP of the principal borrower, IHCPL. Filing the identical claim in the CIRP
+of Dream Procon constitutes impermissible duplication.
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Ins.) No. 310 of 2024
+
+64.
+In view of the above findings, we do not find any infirmity in the
+impugned order. The appeal is dismissed. Pending I.A.s are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

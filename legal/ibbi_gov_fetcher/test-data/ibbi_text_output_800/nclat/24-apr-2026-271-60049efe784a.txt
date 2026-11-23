@@ -1,0 +1,611 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 359 of 2026
+
+[Arising out of the Impugned Order dated 09.01.2026 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench-I in I.A. No. 2397 of 2025 in C.P. (lB)/571 (MB) 2019]
+
+IN THE MATTER OF:
+
+M/s ASREC (India) Limited
+Solitaire Corporate Park, Building No. 2, Unit No. 2 0l
+202A & 200-2028, Ground Floor, Andheri Ghatkopar
+Link Rd. Mumbai-400093
+
+...Appellant(s)
+Versus
+
+1. Bhaskar Gopal Shetty
+(Liquidator of Mirage Ceramics Pvt. Ltd)
+C-77, Shanti Shopping Centre, Mira Road East,
+Mumbai, 401107
+Email:
+mirageceramics.cirp@gmail.com
+and
+cabgshetty@gmail.com
+
+2. Kamlesh Mehta
+Senapati Bapat Marg, Lower Parel
+Business at:5th Floor, Trade Link, (W), Mumbai- 400
+013
+Email: - Shrikant.mirageceramics@gmail.com
+
+...Respondent(s)
+Present:
+
+For Appellant
+: Ms.
+Anjali
+Sharma,
+Mr.
+Ganesh
+Remani,
+Ms.
+Thanglunkim, Mr. Gaikhuanlung and Ms. Annu
+Sharma, Advocates.
+For Respondents
+: Mr. Shadab Jan and Mr. Gaurav Jangle, Advocates for
+R-2.
+Mr. Nausher Kali and Ms. Kejal Kamdar, Advocate for
+R-1.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+The present appeal, filed under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘IBC’ in short) by the Appellant arises out of the
+Order dated 09.01.2026 (hereinafter referred to as the ‘Impugned Order’)
+passed by the Adjudicating Authority (National Company Law Tribunal,
+
+[PAGE 2]
+Page 2 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+Mumbai Bench, Court – I) in I.A No. 2397 of 2025 filed under Section 60(5) of
+the IBC in CP (IB) No. 571(MB) of 2019. By the said impugned order, the
+Adjudicating Authority has dismissed I.A No. 2397 of 2025. Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant.
+2.
+Coming to the brief factual matrix of the case which are relevant to be
+noticed for consideration of the matter at hand, we find that the Corporate
+Debtor-Mirage Ceramics Pvt. Ltd. was admitted into Corporate Insolvency
+Resolution Process (in short ‘CIRP’) on 14.02.2020. The resolution process
+having failed, the Corporate Debtor went into liquidation on 15.06.2023. The
+Corporate Debtor prior to the initiation into CIRP had availed credit facilities
+from Abhyudaya Co-operative Bank (‘Abhyudaya’ in short) and had created
+mortgage and hypothecation over its movable and immovable assets including
+land at Pune besides plant and machinery, stocks and receivables which led
+to the signing of a Hypothecation of Stock and Book-Debts Agreement on
+17.09.2018 (hereinafter referred to as ‘Hypothecation Agreement’).
+Subsequently, Abhyudaya as the assignor executed an Assignment Deed
+dated 26.08.2020 with the Appellant as assignee. Abhyudaya had assigned
+its loan exposure alongwith all underlying security interest of the Corporate
+Debtor to the Appellant-M/s ASREC (India) Ltd. After the Appellant stepped
+into the shoes of Abhyudaya, it enjoyed the status of a secured financial
+creditor of the Corporate Debtor. The claim of Respondent No. 2 had been
+admitted as an unsecured financial creditor during the CIRP process by the
+Resolution Professional (“RP” in short). The RP was subsequently appointed
+as the Liquidator to conduct the liquidation process of the Corporate Debtor
+in accordance with law. During the liquidation process, the Liquidator
+
+[PAGE 3]
+Page 3 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+classified the Respondent No. 2 as a secured financial creditor by adjudicating
+that the claim of Respondent No. 2 was that of a secured debt which was
+based on the creation of second charge on the property of the Corporate
+Debtor in pursuance to an order dated 04.10.2018 passed by the Bombay
+High Court in Commercial Arbitration Petition No. 1074 of 2018. Pursuant to
+the order of the Bombay High Court dated 04.10.2018, the Corporate Debtor
+had executed a Deed of Charge–cum-Hypothecation dated 20.02.2019 (‘Deed
+of Charge’ in short) with the Respondent No. 2 creating a second charge. The
+said hypothecation deed was registered with the Sub-Registrar, Pune Gramin.
+The Liquidator filed I.A No. 508 of 2025 before the Adjudicating Authority
+claiming that the interest of Respondent No. 2 was secured interest as per
+order and decree dated 04.10.2018 passed by the Bombay High Court. The
+Appellant however filed I.A No. 2397 of 2025 before the Adjudicating Authority
+challenging the validity and maintainability of classifying Respondent No. 2
+as a secured financial creditor and inter alia urged the Adjudicating Authority
+to issue directions to the Respondent No. 1–Liquidator to declare the claim of
+Respondent No. 2 as an unsecured creditor of the Corporate Debtor. However,
+I.A No. 2397 of 2025 was dismissed by the Adjudicating Authority vide
+impugned order dated 09.01.2026, the present appeal has been preferred by
+the Appellant.
+3.
+Making submissions on behalf of the Appellant, Ms. Anjali Sharma Ld.
+Counsel for the Appellant submitted that the impugned order passed by the
+Adjudicating Authority was erroneous as it wrongly classified Respondent No.
+2 as a secured financial creditor in the absence of any legally valid and
+enforceable security interest in favour of the Respondent No. 2. It was
+
+[PAGE 4]
+Page 4 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+contended that neither the order passed by Bombay High Court in the
+Commercial Arbitration Petition on 04.10.2018 nor the Deed of Charge dated
+20.02.2019 in pursuant thereof created any security interest in the eyes of
+law. It was submitted that merely because an undertaking had been given by
+the Corporate Debtor before the Bombay High Court to create a second
+charge, the same cannot be construed to be a judicial direction to create
+security interest. Moreover, no legally enforceable security interest could have
+been created by the Deed of Charge in the absence of prior consent of the
+Appellant to the creation of second charge in view of the express contractual
+covenant contained in the 2018 Hypothecation Agreement which prohibited
+creation of further charge without consent of the first charge holder. However,
+in the present case, it was submitted that second charge was created behind
+the back of the first charge-holder and hence the second charge was a
+defective charge. It was further asserted that the Respondent No. 1–Liquidator
+had failed to perform his duties in accordance with Regulation 7(2)(h) of the
+IBBI (Insolvency Professionals) Regulations, 2016 for having suo motu
+classified the Respondent No. 2 as a secured financial creditor without
+adequate and sufficient proof having been provided by the Respondent No. 2
+as mandated by Regulation 21 of the Liquidation Process Regulations (‘LPR’
+in short). It was added that Regulation 21 of the LPR makes it mandatory to
+obtain a certificate of registration of the charge from the Registrar of
+Companies (‘RoC’ in short) for recognition of any party as a secured financial
+creditor. It was submitted that though Respondent No. 2 had given an
+undertaking to register the charge within 15 days, this was done after 139
+days and that too the registration was done with the Sub-Registrar of Pune
+
+[PAGE 5]
+Page 5 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+and not with the RoC. Submission was also pressed that Section 77(3) of the
+Companies Act, 2013 makes it a necessary pre-requisite to obtain a certificate
+from the RoC for recognition as a secured creditor which not having been
+done, the Liquidator had acted without proper verification of the security
+interest and thereby failed to adhere to the Code of Conduct for Insolvency
+Professionals.
+4.
+Refuting the contentions put forward by the Appellant, it was contended
+by Mr. Shadab Jan, Ld. Counsel for the Respondent No. 2 that the present
+appeal was not maintainable since the Appellant had raised similar issues
+seeking identical reliefs in an earlier proceeding which they had subsequently
+withdrawn which had been allowed by the Adjudicating Authority on
+04.03.2024. Since, the Appellant had not obtained liberty to initiate fresh
+proceedings on the same cause of action, the present proceedings were not
+maintainable and deserved to be dismissed in limine. It was contended that
+the status of the Respondent No. 2 as a secured financial creditor was clearly
+established by the consent decree dated 04.10.2018 passed by the High Court
+of Bombay wherein it was expressly recorded and agreed by the Corporate
+Debtor that it shall create a charge in favour of the Respondent No. 2 thereby
+clearly recognising the existence and enforceability of the second charge
+arrangement. It was further submitted that contention regarding non-
+registration of charge under Section 77 of the Companies Act, 2013 was
+wholly misconceived as it is well settled that the act of registration is
+procedural in nature and cannot override or extinguish a validly created
+security interest. Furthermore, when the Deed of Charge of 20.02.2019 clearly
+provided that sale proceeds of secured assets will be first appropriated
+
+[PAGE 6]
+Page 6 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+towards the dues of the Appellant and thereafter the remaining surplus
+amount was to be released to the Respondent No. 2, the Appellant as first
+charge holder not having suffered any legal injury or legal prejudice had no
+locus to question the status of Respondent No.2 as secured financial creditor.
+It was therefore contended that the Adjudicating Authority had taken a well-
+reasoned decision in upholding the treatment of the Respondent No. 2 as a
+secured financial creditor by the Liquidator.
+5.
+The Ld. Counsel for the Respondent No. 1–Liquidator Mr. Nausher also
+supported the arguments which had been canvassed on behalf of Respondent
+No. 2. It was asserted that when the Deed of Charge had been formally and
+legally executed on 20.02.2019 between the Corporate Debtor and
+Respondent No. 2 in pursuance of the binding consent decree of the High
+Court of Bombay, the Deed of Charge formally created and perfected the
+second charge over the moveable and immovable assets of the Corporate
+Debtor and therefore, the Respondent No. 2 had been rightly admitted and
+recognised by the Respondent No. 1 as a secured financial creditor. It was
+emphatically asserted that the Respondent No. 1 had acted strictly within the
+four corners of the statutory provisions of the IBC besides taking into
+consideration judicial orders, contractual covenants and other foundational
+documents like the Deed of Charge etc. and had acted in good faith in
+recognising the Respondent No. 2 as a secured financial creditor for holding
+a valid, subsisting and enforceable second charge over the assets of the
+Corporate Debtor.
+6.
+We have heard Ld. Counsels for all the parties and perused the records
+carefully.
+
+[PAGE 7]
+Page 7 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+7.
+It is the case of the Appellant that the claim of the Respondent No. 2 to
+enjoy the status of secured financial creditor basis second charge over the
+moveable and immovable assets of the Corporate Debtor in pursuance of the
+order passed by the High Court of Bombay on 04.10.2018 passed in
+Commercial Arbitration Petition was misplaced. It was vehemently contended
+that this order was not in the nature of a judicial direction or adjudication by
+the Bombay High court but was merely recording of an undertaking on the
+part of the Corporate Debtor that it would create a second charge in favour of
+the Respondent No. 2. Thus, when the High Court of Bombay did not issue
+any peremptory direction creating a charge, the Adjudicating Authority by
+treating the recording of an undertaking to be an adjudication committed an
+error. It was further added that no legally enforceable interest could have been
+created merely on the basis of such an undertaking without the consent of
+the first charge holder. It was strenuously contended that the financing
+arrangements between the Appellant with the Corporate Debtor vide
+Hypothecation Agreement of 17.09.2018 clearly provided for a restrictive
+covenant which prohibited creation of further encumbrances on the charge
+created over the property of the Corporate Debtor without prior written
+consent of the first charge holder. However, no such consent having been
+either sought from the Appellant or having been given by the Appellant, this
+rendered the creation of the second charge a nullity. It was also contended
+that liquidation being a value distributive regime with strict statutory
+hierarchy where all recognised secured creditors rank at par for purposes of
+distribution, the impugned order by accepting the status of the Respondent
+No. 2 as a secured financial creditor directly prejudiced the vested rights of
+
+[PAGE 8]
+Page 8 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+the Appellant and distorted the statutory waterfall mechanism under Section
+53 of the IBC.
+8.
+Per contra, it is the contention of both the Respondents that the order
+of the High Court of Bombay dated 04.10.2018 was in the nature of a Consent
+Decree which had acquired finality. This undertaking given before the Court
+was further firmed up and crystallized by a Deed of Charge executed between
+the Corporate Debtor and the Respondent No. 2 for creation of a second
+charge. The Liquidator had taken note of the fact that the Deed of Charge had
+been executed in furtherance of and in compliance with the order of the High
+Court of Bombay and therefore accorded the status of secured financial
+creditor on the Respondent No. 2 which has been rightly affirmed by the
+Adjudicating Authority in the impugned order. It was also asserted that the
+Bombay High Court while passing the Consent Decree was fully aware that
+the Appellant was the first charge holder as this factum had been brought to
+the notice of the Bombay High Court. Further the undertaking given was to
+the effect that only after the Appellant recoups his entire security interest that
+the Respondent No. 2 would receive its dues from the residual balance
+proceeds. Thus, when the interests of the Appellant as first charge holder was
+not getting impaired in any manner on the classification of the Respondent
+No. 2 as a secured financial creditor as second charge holder, the Adjudicating
+Authority did not commit any infirmity in upholding the status of secured
+financial creditor being given to Respondent No. 2 by Respondent No. 1.
+9.
+To arrive at our findings on the tenability of the impugned order
+affirming the decision of the Respondent No.1 to classify the Respondent No.
+2 as a secured financial creditor, it would be useful at this stage to first take
+
+[PAGE 9]
+Page 9 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+notice of the directions of the High Court of Bombay dated 04.10.2018 to set
+at rest any doubt as to whether the factum of the Appellant as first charge
+holder had been brought to the clear notice of the Bombay High Court. The
+relevant extracts of the said order are as reproduced below:
+1. Heard the Learned Advocates for both the parties and the following
+order is passed, by consent :-
+(i) Respondent No.1 submits to a decree in the sum of Rs.32,29,25,000/-
+.
+(ii) Respondent No.1 agrees and undertakes that the Petitioner will have
+a second charge on the suit property more particularly described in the
+Schedule to the Loan Agreement dated 28th March, 2018. In addition
+thereto, Respondent No. 1 agrees and undertakes to create a second
+charge on the plant and machinery and hypothecation on the stocks and
+book debts. Respondent No. 1 agrees and undertakes to register the
+aforesaid charges and pay the stamp duty and all other expenses/
+charges within a period of 15 days from the date of this Order being
+uploaded. The undertaking is accepted.
+(iii) The Court Receiver, High Court, Bombay is appointed as Receiver in
+respect of the Manufacturing Unit at Gat No.297/1-2, Shahpur Industrial
+Area, Nandur Village, Pune-Solapur Road, Near Urlikanchan, District -
+Pune 412 2O2 together with all the buildings and structure constructed,
+fixed plant and machinery attached to the earth or permanent fastened
+to anything attached to the earth, fixtures and fittings erected/installed
+and every part thereof on "as is where is and as is what is" basis (suit
+property). However, it is clarified that Abhyudaya Bank has first charge
+over the properties to the extent of Rs.19,69,91,549.64 as of 30th
+September, 2018 qua the facilities enjoyed by Respondent No. l.
+(Emphasis supplied)
+10.
+When we look at the above order of the Bombay High Court at para
+1(iii), it is clear that the High Court of Bombay had the clear knowledge of the
+status of the Appellant as first charge holder and that Abhyudaya as the
+predecessor in interest of the Appellant was to have first charge over the
+properties to the extent of Rs. 19.69 Cr. over the properties of the Corporate
+Debtor. The order had clearly recorded that in the event of liquidation, the
+
+[PAGE 10]
+Page 10 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+first charge over the properties of the Corporate Debtor would devolve upon
+the Appellant. When we look at the above order of the Bombay High Court at
+para 1(ii), it is clear that Respondent No.2 was to have second charge over the
+property of the Corporate Debtor. It follows therefrom that the Respondent
+No. 2 would only enjoy the benefit of second charge over the property of the
+Corporate Debtor after the first charge has been discharged.
+11.
+In this backdrop, we are of the considered view that it has been rightly
+held by the Adjudicating Authority at para 16 of the impugned order that the
+Bombay High Court had passed the consent decree in the Commercial
+Arbitration Petition whereby the second charge on the properties was agreed
+to be created in favour of the Respondent No. 2 while the Appellant enjoyed
+first charge over the properties of the Corporate Debtor. That being the case,
+we do not find any cogent reason for the Appellant to feel aggrieved with the
+status of secured financial creditor being accorded to Respondent No. 2 as
+such classification would not have any detrimental on deleterious impact on
+the claims of the Appellant as the first charge holder.
+12.
+This now brings us to the related issue raised by the Appellant that in
+terms of the Hypothecation Agreement of 2018, there was a restrictive
+covenant that the No-Objection of the Appellant was necessary for creation of
+any charge and that in the absence of the same, the second charge created
+for Respondent No. 2 was rendered a nullity.
+13.
+At this juncture, we may advert our attention to the relevant clause of
+the Hypothecation Agreement which was executed between Abhyudaya and
+the Corporate Debtor. The relevant clause No. 12 in the Hypothecation
+Agreement is as reproduced below:
+
+[PAGE 11]
+Page 11 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+“12. The Bank shall apply the sale proceeds towards the Cash Credit
+account to the extent of the balance due to the Bank or so much thereof
+as shall remain unpaid including interest at the rate of aforesaid until
+payment and including all costs as between Attorney and Client,
+charges and expenses incurred by the Bank on any account whatsoever.
+If the net sum realized by such sale were insufficient to cover the balance
+due to the Bank, the Borrower shall be liable forthwith on production to
+the Borrower, a statement prepared by the Bank to pay the balance due
+to the Bank. The Borrower/s agree/s that the hypothecated assets and
+any documents and any sale proceeds received by the Borrower/s on
+the sale in the ordinary course of business and any insurance monies
+received by them, shall be held by them in trust for the Bank as
+specifically appropriable to this security till such monies are deposited
+in the said account and the Borrower/s undertake to deposit such
+monies in the said account only and not to use the same for any other
+purpose, unless permitted by the Bank in writing. The Borrower/s
+further undertake/s that the Borrower/s will not create or suffer or
+attempt to create or suffer any mortgage, charge, lien, encumbrance,
+attachment or seizure affecting the hypothecated assets or any part
+thereof nor do or allow anything which prejudice the security hereby
+created. The security shall be operative and remain in full force till all
+the dues together with interest of the Borrower are fully paid to the Bank.
+(Emphasis supplied)
+14.
+When we read the above clause, it fortifies the position that the second
+charge-holder was to get his claims from any surplus balance that was left
+after discharge of the security interest of the first charge-holder. When the
+Bombay High Court had passed the Consent Decree that Respondent No. 2
+was to be the second charge-holder after duly safeguarding the interests of
+the Appellant as first charge-holder and the said order was never challenged,
+the Liquidator was bound by the said order. The decision of the Liquidator to
+treat Respondent No. 2 as secured financial creditor in compliance of Consent
+Decree of the Bombay High Court read with the consequential Deed of Charge
+thus cannot be said to have suffered from legal infirmities. Moreover, when
+the charge created for Respondent No. 2 was undisputedly subservient and
+secondary to the charge of the Appellant, the Appellant cannot claim to have
+suffered any injury or prejudice on this count. We therefore do not find
+
+[PAGE 12]
+Page 12 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+substance in the contention raised the Appellant that since the Deed of
+Charge had been executed without the consent of the first charge-holder, the
+Liquidator could not have classified the Respondent No. 2 as a secured
+financial creditor.
+15.
+This brings us to the other limb of argument adopted by the Appellant
+that since the second charge had not been registered with the RoC as required
+in terms of Section 77 or Section 78 of the Companies Act, 2013 either by the
+Corporate Debtor or the Respondent No. 2, the Liquidator could not have
+treated the Respondent No. 2 as a secured financial creditor. It is further the
+case of the Appellant that mere registration of Deed of Charge with the Sub-
+Registrar, Pune Gramin was not sufficient as it does not measure up to the
+requirements contemplated under Regulation 21 of the LPR which governs
+the field. Recognition of any other mode of proof of charge registration was
+impermissible and in support of their contention, reliance was placed on the
+judgment of this Tribunal in Bizloan Pvt. Ltd. vs Amit Chandra Shekhar
+Poddar, Liquidator for Auto Cop (India) Pvt. Ltd. in CA(AT)(Ins) No. 210
+of 2024 wherein it has been held that Regulation 21 of the LPR provides for
+the operative framework which governs the security interest proof. The
+Liquidator ought to have been guided only by Regulation 21 of LPR while
+verifying the security interest or second charge over the assets of the
+Corporate Debtor.
+16.
+Per contra, it is the contention of the Respondents that the Respondent
+No. 2 cannot lose its status as secured financial creditor merely because of
+non-registration of charge under Section 77 of the Companies Act, 2013. In
+support of their contention, reliance was placed on the judgment of this
+
+[PAGE 13]
+Page 13 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+Tribunal in M/s Canara Bank Asset Recovery Management Branch Vs S.
+Rajendran in CA(AT)(CH)(Ins) No. 277 of 2023 wherein it has been held that
+non-registration of mortgage as per Section 77 of the Companies Act, 2013 is
+not sufficient enough ground to come to an opinion whether any party is not
+a secured creditor. It was also added that the Adjudicating Authority had
+correctly relied on the judgment of this Tribunal in Home Kraft Avenues v.
+Jayesh Sanghrajka (RP) and Ors. in CA(AT)(Ins) No. 756 of 2023 in which
+it was categorically held that the legislature had never intended registration
+of charge to be a mandatory pre-condition for recognition of any party as a
+secured creditor under the IBC and that it is settled law that the right of a
+mortgagee under Transfer of Property Act, 1882 cannot be taken away merely
+because of non-registration of charge under Section 77 of the Companies Act,
+2013. In the present case, it was vehemently contended that the Liquidator
+having exercised his judicial discretion in deciding the status of the
+Respondent No. 2 as secured financial creditor on the basis of documentary
+evidence placed before him in terms of the Deed of Charge which had been
+registered before the Sub-Registrar, Pune Gramin, this was sufficient
+notwithstanding non-registration under Section 77 of the Companies Act,
+2013.
+17.
+When we look at the impugned order, we find that the Adjudicating
+Authority has dwelled on this aspect at length. It has noticed the sequence of
+events leading to the creation of second charge on the property of the
+Corporate Debtor following the order of Bombay High Court in Commercial
+Arbitration Petition and registration of charge before Sub-Registrar, Pune
+
+[PAGE 14]
+Page 14 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+Gramin. The factual narrative contained in the impugned order which is
+undisputed is as reproduced below:
+“7. During the CIRP, Respondent No.1 admitted the claim of
+Respondent No.2 as an unsecured financial creditor, and in liquidation
+also, initially admitted the said claim as unsecured financial creditor,
+however, the claim of Respondent No.2 was subsequently classified as
+secured debt basing the creation of second charge on properties of the
+Corporate Debtor pursuant to an order dated 04.10.2018 passed by
+the Hon’ble Bombay High Court in proceedings arising from a
+commercial arbitration petition filed by Respondent No.2. ............
+8. Pursuant to said order, the Corporate Debtor executed a Deed of
+Charge-cum-Hypothecation dated 20.02.2019 was executed between
+the Corporate Debtor and Respondent No.2 creating second charge on
+freehold land bearing Gat No. 94/1 & 94/2 and its present and future
+plant and machinery, book debts and stock in favor the Respondent
+No. 2. The said deed refers to one loan agreement dated 28.3.2018, in
+terms of which one loan granted by associates of Respondent No. 2
+was repayable within 21 months and another loan granted by
+Respondent No. 2 was repayable within 9 months. The said deed is
+registered with Sub Registrar Pune Gramin, however, neither the
+Respondent No. 1 nor Respondent No. 2 had sought registration of said
+charge in the records of MCA in terms of Section 77 of the Companies
+Act, 2013.”
+18.
+We also find that the Adjudicating Authority has taken notice of the
+objection made by the Appellant in classifying the claim of Respondent No. 2
+by Respondent No. 1 as secured on the ground that the charge on which the
+claim was based was not registered with RoC in terms of Section 77 of the
+Companies Act, 2013. However, at para 19 of the impugned order, the
+Adjudicating Authority has discarded the objection of the Appellant by holding
+that registration of charge with RoC is dispensable in case of mortgage under
+the Transfer of Property Act, 1882 by relying on a judicial precedent laid down
+by this Tribunal in S. Rajendran and Home Kraft Avenues judgement
+supra.
+
+[PAGE 15]
+Page 15 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+19.
+At this stage, we may advert our attention to the relevant portion of the
+impugned order wherein it has relied on the judgments of this Tribunal in
+Home Kraft Avenues and S. Rajendran judgement supra to hold that the
+registration of Deed of charge with the Sub Registrar of Pune Gramin was
+sufficient to substantiate security interest. The relevant excerpts are as
+reproduced below:
+“19. It is noted that, in case of Home Kraft Avenues (Supra), the
+Hon’ble NCLAT held that “18. This is in consonance with Section 77
+of the Companies Act 2013. Section 78(3) of the Companies Act, 2013
+states no charge shall be created by the Company shall be taken in
+account by the “Liquidator” unless it is registered under sub-section
+1 and 2. Section 77 (4) of the Companies Act, 2013 clarifies nothing
+in sub-section (c) shall prejudice any contract or obligation for
+repayment of money secured by charge. The obligation is only on the
+Liquidator. In fact, Section 3 (4) of IBC defines charge and Section 3
+(31) of IBC states secured interest means and includes “Charge”.
+Thus, combine reading of all the section clarifies only a Liquidator
+will not consider a claim without registration, however, the RP is
+bound to consider a “Charge” and a Creditor having charge is a
+Secured Creditor”. It is also pertinent to note that Hon’ble NCLAT
+also took note of NCLAT’s Chennai Bench decision in case of S.
+Rajendran (Supra) at Para 17 reproducing para 53 thereof which
+reads as “53. In addition, the `non-registration of the Mortgage’, as
+per Section 77 of the Companies Act, 2013, is not a sufficient /
+enough ground, to come to an `opinion’, that the `Appellant’, is not a
+`Secured Creditor’. In reality, the ‘rights’ of a `Mortgagee’, under the
+`Transfer of Property Act’, 1882 and the ‘SARFAESI Act’, are not to
+be diluted, in terms of Regulation 21 of IBBI (Liquidation process)
+Regulations, 2016.” Accordingly, the Hon’ble NCLAT in Home Kraft
+Avenues (Supra) held that “17. Thus, it is a settled law right of a
+mortgagee under the Transfer of Property Act, 1882 cannot be taken
+away only because of non-registration of the charge u/s 77 of the
+Companies Act, 2013.” It follows from these decisions that
+registration of charge u/s 77 of the Companies Act, 2013 is
+dispensable in case of mortgagee under the Transfer of Property Act,
+1882.
+21. ...... The facts of the case in S. Rajendran and the case of
+Respondent No. 2 are similar as in the present case also, the deed
+
+[PAGE 16]
+Page 16 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+of charge cum hypothecation came to be registered prior to
+February, 2020 and the said deed is duly registered with Sub
+Registrar Pune Gramin. Accordingly, we are bound by the decision
+in case of S. Rajendran, which has also been noticed in Home Kraft
+Avenues and found approval.”
+20.
+This brings us to the argument canvassed the Appellant that the
+Adjudicating Authority has missed out in noting that Regulation 21 of the LPR
+provides for the operative framework which governs the security interest proof
+as has been held by this Tribunal in Bizloan case supra and no other mode
+of proof is permissible in substantiating security interest proof.
+21.
+Before we return our findings, we may first take note of the Regulation
+21 of LPR which is reads as under:
+“Regulation 21: Proving security interest.
+21. The existence of a security interest may be proved by a secured
+creditor on the basis of-
+(a) the records available in an information utility, if any
+(b) certificate of registration of charge issued by the Registrar of
+Companies; or
+(c) proof of registration of charge with the Central Registry of Securitisation
+Asset Reconstruction and Security Interest of India.”
+22.
+A plain reading of Regulation 21 of LPR shows that it outlines that
+security interest can be proved by a secured financial creditor by way of
+Information Utility records or RoC registration or CERSAI Registration.
+However, the use of the word ‘may’ in the opening line of Regulation 21 of
+LPR implies that while these modes of proof are authoritative, reliable and
+assured, the above three modes are not exhaustive. The use of the word ‘may’
+instead of ‘shall’ leaves sufficient room for other alternative modes to
+substantiate the existence of security interest. The judgment of this Tribunal
+in Bizloan supra focusses on the overlap of the three alternative modes laid
+down in Regulation 21 of LPR to prove existence of security interest but does
+
+[PAGE 17]
+Page 17 of 17
+Company Appeal (AT) (Ins) No. 359 of 2026
+
+not make any observation on exclusion of other acceptable proofs or modes
+which could be relied upon to prove security interest. Hence, the reliance
+placed on the Bizloan judgment supra by the Appellant in the present
+factual matrix is misplaced. In the present case, the Deed of Charge had been
+duly registered before the Sub-Registrar, Pune Gramin which was a public
+office competent to register the said instrument and the legality of this
+instrument of registration has remained contested. Given this backdrop, the
+reliance placed by the Adjudicating Authority on the applicability of the S.
+Rajendran judgment supra in holding the second charge to be legally valid
+and enforceable is found to be appropriate. In view of the above backdrop, we
+are not persuaded by the contention of the Appellant that the Liquidator had
+erred in according the status of secured financial creditor to the Respondent
+No. 2 as second charge-holder merely because the Deed of Charge was not
+registered with the RoC.
+23.
+In result, for the foregoing reasons as discussed above, we find the
+appeal to be devoid of merit. The appeal is dismissed. The impugned order is
+affirmed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+Place: New Delhi
+Date : 24.04.2026
+
+Sheetal

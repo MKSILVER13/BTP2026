@@ -1,0 +1,924 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 453 of 2026
+
+[Arising out of the Impugned Order dated 14.01.2026 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench-
+V in C.P. (IB) No. 887/MB/2024]
+
+In the matter of:
+Rattan Singh Builders Private Limited
+Through its Director, Sukhdev Singh
+Registered Office:
+Plot No. 340/2, CRC Road,
+Metro Pillar No. 28B, M.G. Road,
+Near Sultanpur Metro Station,
+Sultanpur, New Delhi – 110030
+Email: rsb@rsbpltd.com
+
+.... Appellant/
+Operational Creditor
+
+Versus
+
+Indorama Ventures Yarns Private Limited
+Registered Office: The Metropolitan,
+6th Floor, Bandra Kurla Complex,
+Bandra (East), Mumbai – 400051,
+Maharashtra India.
+Email: info@ivpl.com;
+pawank.thakur@indorama-ind.com
+.... Respondent/
+Corporate Debtor
+
+Present:
+
+For Appellant
+: Mr. Mohit Chaudhary, Mr. Naveen Sharma, Advocates.
+
+For Respondent
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Sidhartha
+Sharma, Mr. Arjun Asthana, Ms. Aakanksha Sahni,
+Advocates.
+
+[PAGE 2]
+- 2 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+J U D G M E N T
+(06th May, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+
+The present appeal has been preferred by Rattan Singh Builders
+Private Limited (Appellant / Operational Creditor) against Indorama
+Ventures Yarns Private Limited (Respondent / Corporate Debtor),
+assailing the order dated 14.01.2026 passed by the Ld. National Company Law
+Tribunal, Mumbai Bench – V (Adjudicating Authority) in C.P. (IB) No.
+887/MB/2024, whereby the application filed by the Appellant under Section
+9 of the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as
+‘Code’)came to be dismissed on the ground of existence of an alleged “pre-
+existing dispute” between the parties.
+
+2.
+The Appellant, Rattan Singh Builders Private Limited (RSB), has
+approached this Hon’ble Appellate Tribunal contending that despite
+crystallised
+and duly
+certified
+operational
+debt
+amounting
+to
+Rs.
+4,88,42,350/- (including contractual interest @ 18% per annum) payable by
+the Respondent, Indorama Ventures Yarns Private Limited, the Learned
+Adjudicating Authority erroneously declined admission of the petition by
+treating belated and unsubstantiated disputes as pre-existing disputes under
+the Code.
+FACTS OF THE CASE
+3.
+The facts relevant for deciding this matter are as given below:
+
+[PAGE 3]
+- 3 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+i. The Appellant, a construction company was awarded a contract by the
+Respondent through a Letter of Intent dated 25.06.2022 for execution
+of civil, structural and construction work for the DTY Project at its
+Nagpur facility, for a total contract value of Rs. 43,25,00,000/- plus
+GST, with payments to be made on the basis of unit-rate RA Bills.
+ii. The contractual relationship was formalised by execution of a detailed
+Agreement / Work Order dated 13.07.2022, which provided for a
+structured payment mechanism, whereby RA Bills were to be certified
+by the Respondent and its Project Management Consultant, with 85%
+payment upon certification and 5% retention, along with quality
+verification protocols. The scope of work and financial consideration
+were subsequently revised through an Amended Work Order dated
+14.06.2023, whereby the contract value was enhanced from Rs.
+43,25,00,000/- to Rs. 49,46,75,441/-, and the Appellant continued
+execution in terms of revised quantities and scope.
+iii. During execution, multiple extensions of time were granted by the
+Respondent through communications dated 03.03.2023, 14.06.2023,
+20.11.2023, 03.02.2024 and 26.04.2024, extending completion
+timelines due to delays not solely attributable to the Appellant, and
+notably, no liquidated damages were imposed at the time of granting
+such extensions.
+iv. The Appellant, in accordance with contractual terms, raised periodic
+RA Bills supported by measurement sheets and detailed quantity
+extracts, which were duly verified and certified by the Respondent’s
+
+[PAGE 4]
+- 4 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+engineers and PMC, and payments were made on earlier RA Bills
+without protest.
+v. Substantial completion of the project occurred over the period
+05.12.2023 to 26.05.2024, during which the project facilities were
+handed over in phases and became operational, and RA Bills up to RA-
+32 (Final Bill) stood certified, confirming completion of work.
+vi. Following such closure, the Appellant issued a demand through an
+email dated 31.05.2024, seeking payment of outstanding certified dues,
+including RA Bills and retention money. The Appellant further issued a
+detailed
+demand
+through
+email
+dated
+10.06.2024,
+claiming
+approximately Rs. 4.10 crores towards outstanding certified dues,
+retention money, and contractual interest post final closure.
+vii. The Respondent, by its letter dated 12.06.2024, disputed the claim of
+the Appellant and stated that following deductions are to be made from
+the final bill of the Appellant namely:
+ Liquidated Damages of Rs. 2,16,25,000/-,
+ BOCW Cess recovery of Rs. 49,46,754/-,
+ Alleged “mismatch” of Rs. 53,29,543/-, and
+The Respondent admitted balance payable of Rs. 15,32,184/-, only to
+the Appellant for executed works. The Respondent also terminated the
+contract with the Appellant on account of various delays and quality
+issues vide the same letter dated 12.06.2024.
+
+[PAGE 5]
+- 5 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+viii.
+Thereafter, the Appellant issued a statutory demand notice dated
+10.08.2024 under Section 8 of the IBC, calling upon the Respondent to
+discharge the total operational debt of Rs. 4,88,42,350/- along with
+interest @ 18% per annum, failing which insolvency proceedings would
+be initiated.
+ix. The Respondent, in reply through a notice dated 20.08.2024, raised
+allegations relating to delay, defective workmanship, Building and Other
+Construction Workers (BOCW) cess liability and levy of liquidated
+damages, asserting existence of disputes, which according to the
+Appellant were post facto and not contemporaneous with certification of
+RA Bills.
+x. Upon failure of payment, the Appellant filed a Section 9 application
+in September 2024 before the Adjudicating Authority, seeking initiation
+of CIRP for the operational debt of Rs. 4,88,42,350/- along with interest
+@ 18% per annum.
+xi. The Respondent filed its reply before the Adjudicating Authority,
+alleging pre-existing disputes concerning delay, quality issues, losses
+allegedly exceeding Rs. 9,38,00,000/-, and entitlement to invoke
+contractual
+remedies
+including
+liquidated
+damages
+and
+bank
+guarantees.
+xii. The Adjudicating Authority passed the impugned order dated
+14.01.2026, whereby it held that a bona fide pre-existing dispute existed
+and consequently dismissed the Section 9 application.
+
+[PAGE 6]
+- 6 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+xiii. Being aggrieved by the said order, particularly on the ground that
+admitted and certified dues have been disregarded and post-demand
+disputes have been erroneously treated as pre-existing disputes, the
+Appellant has preferred the present appeal before this Hon’ble Appellate
+Tribunal.
+Submissions of the Appellant/ Operational Creditor
+
+4.
+Ld. Counsel for the Appellant/Operational Creditor submits that it had
+filed an application under Section 9 of the Insolvency and Bankruptcy Code,
+2016 on account of an admitted operational debt exceeding Rs. 1 Crore and
+the existence of debt and default is clearly established on record. He submitted
+that upon certification of work by the Corporate Debtor, certified Running
+Account Bills were prepared and a Summary Sheet was generated. The figures
+reflected in the said Summary Sheet are not disputed by the Corporate Debtor
+at any stage, thereby amounting to a clear admission of liability.
+5.
+He submitted that as per the undisputed Summary Sheet, a sum of Rs.
+4,10,24,676/- remains outstanding, comprising certified bills amounting to
+Rs. 3,34,33,481/- and retention money of Rs. 75,91,194/-. He further
+submitted that the total operational debt, including interest separately
+calculated, aggregates to Rs. 4,88,42,350/- as on the date of issuance of
+Demand Notice dated 10.08.2024. The said debt arises from unpaid RA Bills
+Nos. 28 to 31, unpaid Final RA Bill No. 32, retention amount, and interest
+thereon.
+
+[PAGE 7]
+- 7 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+6.
+It is submitted that prior to initiation of legal proceedings, the Appellant
+had duly intimated the Corporate Debtor regarding completion of work and
+outstanding dues through Demand Email dated 31.05.2024, followed by a
+Reminder Email dated 10.06.2024, clearly stating that legal recourse would
+be undertaken in case of non-payment.
+7.
+Ld. Counsel submitted that in response to the said communications,
+and particularly upon the threat of legal action, the Corporate Debtor issued
+a letter dated 12.06.2024 titled “Notice for Final Settlement and issuance of
+Credit Note.” Importantly, in the said communication, the Corporate Debtor
+does not dispute the outstanding amount of Rs. 4,10,24,676/-, but instead
+seeks to reduce the liability by raising unilateral and self-serving claims of set-
+off, namely:
+
+
+Liquidated Damages (LD): Rs. 2,16,25,000/-
+
+Labour Cess (under BOCW Rules): Rs. 49,46,754/-
+
+Alleged mismatch in payments: Rs. 53,29,543/-
+After such deductions, the Corporate Debtor offered to pay a meagre sum of
+Rs. 15,32,184/-. It is submitted that this clearly amounts to an admission of
+debt, with only artificial deductions being introduced to evade liability.
+8.
+He submits that the Adjudicating Authority failed to appreciate that
+there is a clear admission on the part of the Corporate Debtor regarding
+certified bills amounting to Rs. 3,34,33,481/-, and even after claiming set-off
+of Rs. 3,19,01,297/-, the Corporate Debtor itself acknowledges a balance
+payable amount of Rs. 15,32,184/-. This admission itself establishes existence
+
+[PAGE 8]
+- 8 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+of debt and default. It is further submitted that once the Corporate Debtor has
+admitted the certified bills, the burden shifts upon it to justify the alleged set-
+offs from the record. However, the Corporate Debtor has failed to discharge
+this burden.
+9.
+It is submitted that the alleged mismatch in payments of Rs.
+53,29,543/- is entirely baseless. All invoices and corresponding payments
+made through banking channels are duly reflected in the records. There is no
+discrepancy whatsoever. This defence is illusory, sham, and a classic example
+of a moonshine defence liable to be rejected.
+10.
+Ld. Counsel further submits that the deduction towards Labour Cess
+under the Building and Other Construction Workers Act is legally untenable.
+Under the statutory framework, the liability to pay cess is that of the employer,
+i.e., the Corporate Debtor, and not the contractor. Therefore, the claim of set-
+off of Rs. 49,46,754/- is contrary to law and cannot be sustained.
+11.
+He submits that the Corporate Debtor, even as per its own admission,
+remains liable to pay the following amounts:
+
+Rs. 53,29,543/- (alleged mismatch wrongly deducted)
+
+Rs. 49,46,754/- (illegal BOCW cess deduction)
+
+Rs. 15,32,184/- (admitted payable amount)
+Total: Rs. 1,18,08,481/-
+He further submits that the retention amount of Rs. 75,91,194/- and
+applicable interest remain additionally payable and are independent of the
+above calculation.
+
+[PAGE 9]
+- 9 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+12.
+It is submitted that the attempt of the Corporate Debtor to recover
+Building and Other Construction Workers (BOCW) Cess from the Appellant is
+ex facie illegal and contrary to the statutory provisions of the Building and
+Other Construction Workers’ Welfare Cess Act, 1996. Section 3(1) of the Act
+imposes cess on the cost of construction incurred by the employer, while
+Section 3(2) mandates that such cess shall be collected from every employer.
+Further, Section 4 requires the employer to furnish returns, and Rule 4 of the
+1998 Rules explicitly states that the cess shall be paid by the employer.
+13.
+It is further submitted that the statutory scheme clearly establishes that
+the liability to pay cess is on the employer, i.e., the Corporate Debtor, and not
+on the contractor. Any attempt to shift such statutory liability onto the
+Appellant is void being opposed to public policy under Section 23 of the Indian
+Contract Act, 1872, and hence unenforceable. Accordingly, the deduction
+towards BOCW cess is liable to be rejected outright.
+14.
+Regarding the mismatch in payments amounting to Rs. 53,29,543/-
+Learned counsel submits that it is entirely unsubstantiated and devoid of
+merit. The Corporate Debtor has failed to produce any evidence of incorrect
+invoicing, uncredited payments, or discrepancies in the certified Running
+Account Bills. On the contrary, the Summary Sheet and bank statements
+clearly demonstrate that all payments have been duly accounted for and
+credited.
+15.
+He submits that this allegation is merely a smokescreen raised as an
+afterthought to evade liability. The invoices were accepted post inspection and
+verification, and the payments reflected in the bank records are undisputed.
+
+[PAGE 10]
+- 10 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+Therefore, the plea of mismatch is nothing but lip service, bereft of any
+substance, and liable to be rejected in limine.
+16.
+Summing up his arguments learned counsel submits that the defence
+raised by the Corporate Debtor is illusory and untenable in law, and there
+exists a clear, admitted operational debt and default. Accordingly, the
+impugned order deserves to be set aside and the application under Section 9
+ought to be admitted.
+
+Submissions of the Respondent
+17.
+Shri Abhijeet Sinha, Ld. Sr. Counsel for Corporate Debtor submits that
+it had issued a Work Order dated 13.07.2022 which subsequently amended
+on 14.06.2023, for an aggregate value of Rs.49,46,75,441/- for execution of
+civil construction works relating to a DTY Plant. The scope of work was
+extensive and included excavation, PCC, RCC, flooring, drainage, structural
+works, finishing, and statutory compliances such as PF, ESI, and BOCW
+obligations.
+
+18.
+He submits that the chronology of events clearly establishes that the
+Section 9 petition filed by the Appellant is nothing but a counterblast to the
+lawful termination of the contract by the Respondent on 12.06.2024. The Ld.
+Adjudicating Authority has rightly appreciated that multiple disputes had
+arisen between the parties much prior to issuance of the demand notice under
+Section 8 of the Code. He submits that such disputes pertained to (i) delays
+and non-completion of contractual obligations, (ii) poor quality and defective
+workmanship, (iii) levy of liquidated damages, (iv) non-payment of BOCW Cess,
+
+[PAGE 11]
+- 11 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+and (v) losses suffered by the Respondent due to breaches committed by the
+Appellant.
+19.
+Ld. Counsel submits that as per Clause 9 of the Agreement dated
+13.07.2022, the Appellant was under a strict contractual obligation to
+complete the entire civil work within a period of 8 months from the date of
+issuance of the Letter of Intent. However, the Appellant admittedly failed to
+adhere to the contractual timelines and repeatedly defaulted in completing the
+works. It is further submitted that the Appellant itself sought multiple
+extensions, including extension up to 26.10.2023 and thereafter till January
+2024, thereby unequivocally admitting its inability to complete the project
+within time. These admissions are borne out from email communications,
+which were duly considered by the Ld. Adjudicating Authority.
+20.
+He submits that despite repeated indulgence and extensions granted by
+the Respondent, including a final extension up to 28.02.2024, the Appellant
+failed to complete the works. It is submitted that in light of such admitted and
+continued defaults, the Respondent was left with no option, but to terminate
+the Agreement vide notice dated 12.06.2024. The Ld. Adjudicating Authority
+has rightly held that disputes relating to delay and deficiency in service were
+clearly raised prior to termination and much before issuance of the Section 8
+notice.
+21.
+Ld. Counsel submits that the Appellant has erroneously contended that
+certification of Running Account (RA) Bills by the Project Management
+Consultant (PMC) creates an automatic liability upon the Respondent to make
+payments. This contention is wholly misplaced and contrary to the contractual
+
+[PAGE 12]
+- 12 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+framework. It is submitted that as per the Agreement, the PMC was only
+responsible for certifying the quantity of work executed, whereas the quality
+of work remained subject to the satisfaction of the Respondent. Thus,
+certification of RA Bills was merely interim in nature and subject to final
+reconciliation upon completion of the project.
+22.
+Ld. Counsel further submits that there is extensive correspondence
+which clearly shows that the Respondent had consistently raised serious
+issues regarding poor workmanship, defective execution, and discrepancies in
+quantities. These communications date back to as early as 14.06.2023 and
+continued till termination of the contract. It is his submission that the
+existence of such disputes, supported by documentary evidence, clearly
+negates the Appellant’s claim of undisputed operational debt. The law is well
+settled that certification of RA Bills cannot be treated as admission of liability
+in cases, where disputes are evident from record. He submitted that the Ld.
+Adjudicating Authority has rightly relied upon settled jurisprudence to hold
+that such disputes fall outside the scope of summary proceedings under
+Section 9 of the Code.
+23.
+Ld. Counsel further submits that the Clause 10 of the Agreement
+expressly provides for levy of liquidated damages at the rate of 0.5% per week
+of delay, subject to a maximum of 5% of the contract value, in the event of
+delay attributable to the Appellant. He submitted that the Respondent had
+repeatedly communicated to the Appellant regarding levy of such liquidated
+damages through emails dated 03.02.2024, 01.03.2024, and finally in the
+termination notice dated 12.06.2024. The Appellant’s contention that such
+
+[PAGE 13]
+- 13 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+levy was raised belatedly is factually incorrect and contrary to record. The
+contemporaneous communications clearly demonstrate that the issue of
+liquidated damages was raised well before termination and prior to initiation
+of insolvency proceedings. It is submitted that deduction on account of
+liquidated damages is a contractual right, and the same cannot be adjudicated
+in summary proceedings under the Code. Thus, the existence of such
+contractual claims itself constitutes a valid dispute.
+24.
+Ld. Counsel submits that under the terms of the Letter of Intent as well
+as the Agreement, the obligation to pay BOCW Cess and comply with labour-
+related statutory requirements squarely rested upon the Appellant. He further
+submits that the parties had consistently understood and acknowledged that
+the responsibility for payment of such cess was that of the Appellant. It is his
+submission that the Appellant is estopped from denying its contractual
+obligation in this regard, and the issue of non-payment of BOCW cess
+constitutes yet another pre-existing dispute between the parties.
+25.
+Ld. Counsel further submits that the Appellant has, through its own
+communications, repeatedly admitted the existence of disputes as well as its
+failure to complete the work within stipulated timelines. He submits that
+emails dated 14.06.2023, 03.02.2024, 24.04.2024, 03.05.2024, and other
+communications clearly reflect admissions regarding incomplete work,
+ongoing disputes, and requests for additional time.
+26.
+He submitted that even after termination, the Appellant, by its
+communication dated 12.08.2024, expressed willingness to complete the
+remaining work and rectify deficiencies, thereby unequivocally acknowledging
+
+[PAGE 14]
+- 14 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+the existence of defects and incomplete performance. Such clear and repeated
+admissions leave no manner of doubt that disputes existed between the parties
+well before issuance of the demand notice.
+27.
+Ld. Counsel submits that the Appellant has sought to rely upon the
+meeting held on 26.04.2024 to suggest that a settlement or understanding
+had been reached between the parties. However, this assertion is wholly
+incorrect and misleading. The Minutes of Meeting were merely draft
+documents, which were never finalized or signed by the parties. No consensus
+or binding agreement was ever arrived at during the said meeting. The
+termination notice dated 12.06.2024 refers only to the understandings of the
+earlier meeting dated 03.02.2024 and makes no reference whatsoever to any
+settlement arising from the meeting of 26.04.2024. This clearly establishes
+that no agreement was reached in the said meeting.
+28.
+Ld. Counsel submitted that the Appellant has also raised false claims
+regarding an amount of Rs.53,29,543/-, which had already been paid and was
+agreed to be adjusted through issuance of a credit note. The Appellant’s
+subsequent claim is an afterthought and contrary to prior understanding
+between the parties. The Appellant has also made incorrect assertions
+regarding absence of dispute notice, whereas the Respondent had duly issued
+notice of dispute, which has been recorded in the Impugned Order. The law is
+well settled that where there exists a real dispute, communicated prior to
+issuance of Section 8 notice, a Section 9 application cannot be sustained. The
+Adjudicating Authority is not required to adjudicate the merits of the dispute,
+but only to ascertain its existence. In the present case, overwhelming material
+
+[PAGE 15]
+- 15 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+on record clearly demonstrates pre-existing disputes, and therefore, the
+dismissal of the Section 9 petition is fully justified.
+29.
+Concluding his submission, Ld. Counsel states that in view of the
+aforesaid facts, circumstances, and settled legal position, it is submitted that
+the present appeal is devoid of merit and is liable to be dismissed.
+ANALYSIS AND FINDINGS
+30.
+We have gone through the records of the case and heard the Ld.
+Counsels in detail. Both the parties have also submitted their written
+submissions with citations in support of their contentions.
+31.
+The sole issue which arises for consideration in the present appeal is
+whether the Section 9 application filed by the Appellant/Operational Creditor
+was rightly rejected on the ground of existence of a “pre-existing dispute”, and
+whether the Impugned Order dated 14.01.2026 passed by the Learned
+Adjudicating Authority suffers from any legal infirmity warranting interference
+under Section 61 of the Code.
+32.
+The scope of inquiry in such matters is well-settled; the Adjudicating
+Authority is not required to adjudicate upon the merits of the claim or
+determine the exact liability, but only to examine whether there exists a real
+dispute between the parties prior to issuance of the demand notice, and
+whether such dispute is bona fide and not a mere sham defence.
+33.
+The Appellant has contended that the operational debt arises from
+unpaid certified Running Account (RA) Bills Nos. 28 to 31 and the final RA Bill
+No. 32, along with retention money and interest, aggregating to approximately
+
+[PAGE 16]
+- 16 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+Rs. 4.88 crores. It is urged that these RA Bills were duly certified by the Project
+Management Consultant and the Respondent’s engineers, and therefore the
+liability stood crystallised. The Appellant has further relied upon a summary
+sheet and the Respondent’s own communication dated 12.06.2024 to argue
+that even as per the Respondent’s calculation, a substantial amount remained
+payable. It is also the case of the Appellant that during the meeting held on
+26.04.2024, the parties had arrived at a “final closure” of the contract with
+certain descoping of works, and no dispute was recorded regarding the
+certified dues. According to the Appellant, the subsequent allegations of delay,
+poor quality, liquidated damages, BOCW cess, and mismatch in payments are
+afterthoughts, raised only after the issuance of the demand notice dated
+10.08.2024.
+
+34.
+Per contra, the Respondent has placed extensive reliance on the
+contractual terms and contemporaneous correspondence to demonstrate that
+disputes existed throughout the execution of the project. It is submitted that
+the Letter of Intent dated 25.06.2022 and the Agreement dated 13.07.2022
+required the Appellant to complete the civil construction works within a
+stipulated period of 8 months, making time the essence of the contract.
+However, the Appellant failed to adhere to the timeline and repeatedly sought
+extensions, including requests extending completion up to October 2023 and
+thereafter till January 2024. It is further pointed out that the Respondent
+granted extensions up to 28.02.2024, but even within the extended timelines,
+the work remained incomplete. The Respondent has also relied upon multiple
+emails exchanged between June 2023 and June 2024 to show that issues
+
+[PAGE 17]
+- 17 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+relating to delay, defective workmanship, and deficiencies in quantity and
+quality of work were repeatedly raised. The Respondent has further contended
+that under the contract, certification by the PMC was limited to quantity of
+work, while quality and satisfaction were to be determined by the Respondent.
+Ultimately, due to continued delay and unsatisfactory performance, the
+contract was terminated on 12.06.2024. The Respondent has also justified
+deductions towards liquidated damages, BOCW cess, and other losses as being
+in terms of the contractual provisions and prior communications.
+35. We note that the Respondent first issued a Letter of Intent dated
+25.06.2022 and thereafter a Work Order/Agreement dated 13.07.2022 for civil
+construction work of the DTY Project, which was later amended on 14.06.2023
+and the total contract value was increased to Rs.49,46,75,441/-. As per the
+contract, the Appellant had to complete the work within 8 months. However,
+the work was not completed on time, and the Appellant repeatedly asked for
+extension of time through emails dated 13.07.2023 and 18.11.2023, seeking
+time first till October 2023 and then till January 2024. The Respondent
+granted extensions, including the last extension up to 28.02.2024 through
+email dated 03.02.2024. Even after this, disputes regarding delay, incomplete
+work, poor quality, and defective workmanship continued. In emails dated
+24.04.2024 and 03.05.2024, the Appellant itself admitted that some work was
+still incomplete. Although the Appellant relies on the meeting dated
+26.04.2024 and claims that there was a final closure, the signed minutes of
+that meeting are not on record indicating any final settlement. Finally, the
+Respondent terminated the contract on 12.06.2024 due to delay and
+unsatisfactory work. After this, the Appellant issued the demand notice under
+
+[PAGE 18]
+- 18 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+Section 8 on 10.08.2024, and the Respondent replied by pointing out disputes
+which had already existed for a long time. With these facts in mind, we now
+examine whether the Section 9 application was rightly dismissed on the
+ground of pre-existing dispute.
+36.
+Upon a detailed consideration of the material on record, we find that the
+dispute between the parties is does not appear to be superficial or belated
+assertion, but is deeply rooted in the entire course of contractual performance
+and is clearly evidenced through a continuous chain of contemporaneous
+communications exchanged between the parties. The record reflects that as
+early as 14.06.2023, the Respondent had raised concerns regarding the
+Appellant’s performance, including delay in execution, inadequate progress,
+and deficiencies in work, which were acknowledged by the Appellant itself in
+its reply. Thereafter, a series of emails and communications continued
+between the parties, including communication dated 20.09.2023, wherein the
+Respondent specifically highlighted issues relating to poor quality of work,
+defects in execution, and discrepancies in quantity. These were not isolated
+observations, but formed part of repeated follow-ups and reminders issued by
+the Respondent over time. These emails have been noted in the impugned
+order.
+37.
+The Appellant’s own conduct, as reflected in its emails dated
+13.07.2023,
+18.11.2023,
+and
+subsequent
+communications,
+further
+substantiates the existence of dispute. In these emails, the Appellant sought
+extension of time for completion of work, initially up to 26.10.2023 and
+thereafter till January 2024, while expressly admitting that the work remained
+
+[PAGE 19]
+- 19 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+incomplete. These requests for extension were not one-time requests, but were
+part of a continuing pattern, with further requests being made even during
+meetings held in early 2024. The Respondent, despite its dissatisfaction,
+granted extensions from time to time, including a final extension up to
+28.02.2024 vide email dated 03.02.2024, clearly indicating that the project
+had not been completed within the contractual timeline. Even in the
+Appellant’s email dated 03.02.2024, it acknowledged that the “remaining
+works” were yet to be completed and that issues between the parties were still
+“under process of settlement”.
+38.
+Further, communications dated 24.04.2024 and 03.05.2024 clearly
+record that the Appellant admitted that the work was still incomplete and
+required additional time for completion. In the draft Minutes of Meeting dated
+26.04.2024, it was also recorded that certain works remained pending and
+required completion, thereby negating the Appellant’s contention of a complete
+and final closure. Importantly, the said Minutes of Meeting remained in draft
+form and were never executed between the parties, which itself indicates that
+no final agreement or settlement was reached. The absence of any signed
+document or mutual acknowledgment of closure is a critical factor, especially
+when read in light of subsequent events.
+39.
+A plain reading of the contractual clauses supports the Respondent’s
+case and shows that certification of RA Bills by the PMC did not amount to a
+final admission of liability. Clause 2(B) of the Work Order dated 13.07.2022
+which was issued pursuant to Letter of Intent (LoI) dated 30.06.2022, provides
+that 85% payment was to be released against RA Bills certified by the
+
+[PAGE 20]
+- 20 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+PMC/IVYPL Engineer on work progress basis, which shows that such
+certification was only for interim release of payment based on quantity and
+progress of work. The same is extracted below:
+2. Contract Value & Payment Terms
+.......
+(B) 85% of total order value with 100% taxes shall be released against
+RA Bill within 15 days after submission of Bill (work progress basis as
+per contract) certified by PMC/IVYPL Engineer.
+40.
+We now take a look at Clause 4(E) of the same workorder, which is
+extracted below:
+4. Conditions of Work
+.........
+E) All work covered under this contract must be done to the complete
+satisfaction of the COMPANY. In case work carried out/ or if any work/
+portion of the work is delayed appropriate deductions shall be made by
+COMPANY.
+It is clear from this clause that all work had to be completed to the full
+satisfaction of the Company. Secondly, if the work was delayed or found
+unsatisfactory, appropriate deductions could be made by the Company. Thus,
+final satisfaction regarding quality and completion remained with the
+Company/Corporate Debtor and not with the PMC. It should be noted that the
+Respondent has insisted in correspondence that its Engineer has not certified
+the final quality and quantity of work due to defects so the question of balance
+payment beyond 85% does not arise.
+
+41.
+The clause in the Work Order relating to compliance with and statutory
+dues, including labour cess, is the Clause 3(F) which is extracted below:
+3. Workforce
+.........
+F) The RSB shall ensure the compliance of all provisions of the Labour
+legislation and all other applicable and related enactments. The
+COMPANY shall not be held responsible for violation of any provisions
+of Labour legislation or any other applicable and related enactments,
+
+[PAGE 21]
+- 21 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+by the RSB in respect of his workforce or otherwise. The RSB shall
+also ensure that statutory returns are timely deposits/payments
+made towards contributions of P.F. etc. to their work force. Any
+default or liability on account of this aforesaid shall be solely that of
+the RSB and the COMPANY shall not be held liable on whatsoever
+account.
+(Emphasis supplied)
+
+42.
+We note from Clause-3(F) of the work order that it makes the Appellant
+responsible for compliance with Labour Laws and specifically states that any
+such liability in respect of the work force belonging to the operational creditor
+shall be solely that of OC/RSB. Therefore, the Respondent’s deductions
+towards defective work, delay, and BOCW cess arise from the contract itself
+and cannot be treated as an afterthought or a false defence.
+43. Simultaneously, the Respondent continued to raise detailed objections
+regarding quality and workmanship through multiple emails spanning from
+June 2023 to June 2024, including a set of approximately 23 communications
+specifically documenting deficiencies in construction, defects in execution,
+and mismatch in quantities. These communications, as reflected in the record,
+include repeated references to substandard work, non-compliance with
+specifications, and requirement of rectification, thereby demonstrating that
+the dispute was not vague but supported by specific factual assertions. One
+such mail dated 20.09.2023 about quality is extracted below:
+
+[PAGE 22]
+- 22 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+Email dated 20.09.2023
+
+[PAGE 23]
+- 23 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+44.
+In addition to the above, the Respondent had also communicated,
+through its emails dated 03.02.2024, 01.03.2024, and finally through the
+termination notice dated 12.06.2024, that liquidated damages would be levied
+in terms of the contract due to delay attributable to the Appellant. The emails
+dated 03.02.2024, and 12.06.2024 are extracted below:
+
+Email dated 03.02.2024
+
+[PAGE 24]
+- 24 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+Email dated 01.03.2024
+
+[PAGE 25]
+- 25 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+45.
+The culmination of these disputes is reflected in the termination of the
+contract on 12.06.2024, wherein the Respondent expressly referred to the
+Appellant’s failure to complete the work within the extended timelines and the
+unsatisfactory nature of performance. The termination notice has also referred
+to prior communications and meetings, particularly the understandings
+reached during the meeting dated 03.02.2024, while notably making no
+reference to any alleged final settlement of 26.04.2024. The Appellant, in its
+response dated 04.07.2024, did not dispute the absence of any concluded
+agreement arising out of the said meeting, further reinforcing that the disputes
+remained unresolved. The Termination notice dated 12.06.2024 is reproduced
+below:
+
+[PAGE 26]
+- 26 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+Termination notice dated 12.06.2024
+
+[PAGE 27]
+- 27 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+
+46.
+Even after the termination, the Appellant, by its communication dated
+12.08.2024, expressed willingness to complete the remaining works and cure
+
+[PAGE 28]
+- 28 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+discrepancies, which is a clear admission that the work was not completed to
+satisfaction of the corporate debtor and issues were still subsisting. This
+communication, coming after receipt of termination notice and even after the
+issuance of demand notice dated 10.08.2024 under Section 8 of the Code
+issued by the Appellant, clearly indicates that disputes regarding performance
+and completion were ongoing and had not been resolved at any stage. The
+communication dated 12.08.2024 has been extracted below:
+August 12, 2024
+To,
+1. Indorama Ventures Yarns Pvt. Ltd.
+Corp. Office: 20th Floor DLF Square,
+DLF Phase- 122002
+(Haryana)
+
+2. Indorama Ventures Yarns Pvt. Ltd.
+Corp. Office: Plot No.52 & 54
+Delhi Press Building,
+Phase-IV, Udyog Vihar,
+Gurgaon- 122015
+(Haryana)
+
+Kind attention :-
+Authorised Signatory
+Sub :-
+(PENDING) NON PAYMENT RA BILL-32, DUE TO BREACH
+OF CONTRACT, CRITICAL & FUNDAMENTAL DESIGN &
+ENGINEERING DEFECTS ETC.
+
+Ref. :-
+(a)
+Para 2,3 & 5 of RSB letter dated 04th July 2024.
+
+(b)
+RSB mail dt. 22nd July 2024 @1:41 PM
+
+(c)
+GCC Clause 7, clause 8, clause 14(B), clause 2(B)
+
+& warranty-12 months from date of commissioning (LOI).
+
+Dear Sir,
+1. This is with reference to your letter dated 08th August 2024 on the above subject
+matter.
+2. In this regard your attention is invited to para2,3 & 5 of our letter dated 04th
+July 2024 & mail dt. 25th July 2024 @16:53 wherein it was informed that on
+“Completion of Project Works” (as on 25th May 2024), RA Bill -32 (Final) was
+
+[PAGE 29]
+- 29 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+submitted on 27th may 2024 @ 17:33 PM for Rs.1,06,79,163/- along with
+supporting documents & MS (as works executed), thereby activating the Project
+Warranty- 12 months from date of commissioning of Areas, Facilities as handed
+over on various dates & mails, with RSB ‘Repair Team’ available at site to
+address the issue of ‘Snags/defects’ as in OLP Period.
+3. That the “Works Executed” in RA Bill-32 were thoroughly measured, verified
+(jointly) by Mr. Manoj, Vivek & Mr. Davinder in presence of our Billing Engineer
+Mr. Vijay Kumar which was completed in all respect of certification in all respect
+of certification on 02nd July 2024. The same was forwarded by your staff to
+office of Mr. Ganguly for clearance as in contract terms.
+4. However, vide your letter dt. 08th August, 2024 certified payments of
+Rs.1,08,71,581/- are being withheld on the ground of :-
+
+(a) Critical and Fundamental Design and Engineering Defects etc.
+
+(b) Measurement calculation and work quality assessed by Indorama
+Engineers (from srl 1 to 15).
+5. In view of the issue/disputes now raised at para 4 above, (further to our
+accepted mail dt. 24th May 2024 @06:38 PM) RSB confirms the undermentioned
+assertions :-
+
+(a) The subject issues at 4(a) & (b) be first referred to the Architect being the
+originator of drawings & BOQ and to further act upon as in GCC clause 14(B)
+and in tandem with GCC clause 8, to give his detailed report in writing for us
+to rectify the reported defects in time.
+(b) That on the discrepancies and incomplete works with respect to RA Bill-32
+as informed vide your letter dt.08.08.2024, from srl. 1 to 16, ‘RSB Repair Team’
+specifically stationed at site with materials, if available and ready to repair
+such ‘Snags/Defects’ (being part of DLP). Please share complete details on
+priority. In the interim you are requested to give all approvals, permissions to
+‘RSB Repair Team’ without any hindrance, restrains to commence necessary
+task/work as in contract terms.
+6. We shall be obliged.
+
+Thanking you,
+Yours faithfully
+
+Sanjay Khanna
+(CFO)
+(Rattan Singh Builders Pvt. Ltd.)
+
+47.
+When the above sequence of events is read as a whole, it becomes
+evident that the disputes between the parties were continuous, well-
+
+[PAGE 30]
+- 30 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+documented, and existed much prior to the issuance of the demand notice
+dated 10.08.2024. The record reflects a consistent pattern of disagreement
+relating to delay; incomplete work; poor quality; contractual breaches;
+statutory liabilities; and financial adjustments; all of which were actively
+discussed and contested between the parties over a prolonged period. These
+are not matters which have been artificially created in response to the demand
+notice, but are intrinsic to the contractual relationship and its breakdown.
+48.
+In such circumstances, the contention of the Appellant that the dispute
+is a mere afterthought cannot be accepted. On the contrary, the records clearly
+demonstrate that the disputes were real, substantial, and pre-existing,
+supported by a series of contemporaneous communications and culminating
+in termination of the contract itself.
+49.
+In view of the detailed factual analysis as above, we are satisfied that
+the disputes between the parties were continuous, well-documented, and
+existed much prior to the issuance of the Section 8 demand notice dated
+10.08.2024. The record clearly reflects repeated communications regarding
+delay in completion, incomplete execution of work, poor quality and
+workmanship, levy of liquidated damages, and statutory obligations such as
+BOCW cess, all of which remained unresolved throughout the subsistence of
+the contract and ultimately culminated in its termination on 12.06.2024.
+These disputes are supported by contemporaneous emails, admissions of the
+Appellant seeking extensions, and subsequent communications even after
+termination, and therefore cannot be characterized as illusory or an
+afterthought.
+
+[PAGE 31]
+- 31 -
+
+Company Appeal (AT) (Ins) No. 453 of 2026
+50.
+The Respondent has further relied upon by the judgment of Hon’ble
+Supreme Court in “Mobilox Innovations Pvt. Ltd. v. Kirusa Software Pvt. Ltd.,
+(2018) 1 SCC 353” which lays down the law that once a plausible and genuine
+pre-existing dispute is established, the application under Section 9 must be
+rejected, without entering into the merits of the claims and counterclaims. In
+the present case, there are pre-existing disputes which were not resolved till
+the issuance of notice under Section 8 of the Code. The nature of disputes
+raised clearly requires detailed examination of evidence and contractual
+obligations, which falls outside the limited scope of insolvency proceedings.
+We note that the present case is squarely covered by the judgment in Mobilox
+(supra).
+51.
+Accordingly, we are of the view that the Learned Adjudicating Authority
+has rightly appreciated both the factual matrix and the legal position and in
+view of the same dismissed the Section 9 application. The Impugned Order
+dated 14.01.2026 does not suffer from any infirmity or perversity and warrants
+no interference at our end.
+52.
+In view of the findings above, the Appeal is dismissed. Pending IAs, if
+any, are closed. No order as to costs.
+
+[Justice Ashok Bhushan)
+Chairperson
+
+[Mr. Indevar Pandey]
+Member (Technical)
+Place: New Delhi
+Harleen/
+Pragya (LRA)

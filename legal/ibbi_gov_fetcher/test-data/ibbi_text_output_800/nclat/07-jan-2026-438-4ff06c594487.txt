@@ -1,0 +1,3804 @@
+[PAGE 1]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+1
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 500 of 2025 &
+I.A. No. 1911, 2261, 2264 of 2025
+(Arising out of Order dated 25.02.2025 passed by the Adjudicating Authority
+(National
+Company
+Law
+Tribunal),
+New
+Delhi,
+Court-IV
+in
+CP.:
+(IB)
+558(ND)/2024)
+IN THE MATTER OF:
+Gagan Tandon & Ors.
+...Appellants
+Versus
+IL & FS Financial Services Ltd. & Ors.
+...Respondents
+
+Present:
+For Appellant
+: Mr. M.P. Sahay, Adv. Yaman Verma, Ms. Chitra
+Chanda, and Mr. Kartik Virmani, Advocates.
+For Respondents
+: Mr. Gopal Jain, Sr. Advocate with Mr. Satendra
+Rai and Ms. Ruchika D. and Mr. Pareesh
+Virmani, Advocates for R1 IL & FS.
+Mr. Abhishek Anand, Mr. Karan Kohli, Advocates
+for RP.
+Mr. Arijit Prasad, Sr. Advocate with Mr. Ritesh
+Agrawal, Ms. Priyanshi Sharma, Ms. Shruti Vats
+and Mr. Argh B. Sharma, Advocates for Awas
+Vikas Parishad.
+Mr. Seshagiri Vadlamani Advocates for I.A. No.
+2264/25.
+Mr. Vinayak Nath Singh, Advocates for UP Awas.
+
+With
+Company Appeal (AT) (Insolvency) No. 502 of 2025 &
+I.A. No. 1922, 1923, 1924, 1925, 2249, 2250, 2251, 2252, 2254,
+2255, 2256, 2555, 2993, 2994, 3001, 3556, 4193 of 2025
+(Arising out of Order dated 25.02.2025 passed by the Adjudicating Authority
+(National
+Company
+Law
+Tribunal),
+New
+Delhi,
+Court-IV
+in
+CP.:
+(IB)
+558(ND)/2024)
+IN THE MATTER OF:
+Pranav Ansal
+...Appellant
+Versus
+IL & FS Financial Services Ltd. & Anr.
+...Respondents
+
+[PAGE 2]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+2
+
+Present:
+For Appellant
+: Ms. Neeha Nagpal, Mr. Malak Bhatt and Mr.
+Nikunj Mahajan, Advocates.
+Mr. Sanjiv Kumar Dubey, Sr. Advocate with Mr.
+Abhishek Chawdhary, Mr. Shahrukh, Ms. Tanya
+Verma, Advocates for LDA & BKDA.
+Mr. Abhishek Chaudhary, Advocate for GDA &
+ADA.
+For Respondents
+: Mr. Gopal Jain, Sr. Advocate with Mr. Satendra
+Rai and Ms. Ruchika D. and Mr. Pareesh
+Virmani, Advocates for R1 IL & FS.
+Mr. Abhishek Anand, Mr. Karan Kohli, Advocates
+for RP.
+Mr. Ashim Vachher, Sr. Advocate with Ms. Saiba
+M. Rajpal and Mr. Vinayak Uniyal Advocates for
+I.A. 2251 & 3556 of 2025.
+Mr. Arijit Prasad, Sr. Advocate with Mr. Ritesh
+Agrawal, Ms. Ankita Singh, Mr. Argh B. Sharma,
+Mr. Deepak Kumar and Ms. Priyanshi Sharma,
+Advocates for UP Awas
+Mr.
+Karamveer
+and
+Mr.
+Kumar
+Abhishek,
+Advocates for I.A. 2252 of 2025 Homebuyers
+Mr. Thakur Ankit Singh, Advocate for IA No.
+2555 of 2025 & 2993 of 2025.
+Mr. Thakur Ankit Singh, Advocate for I.A. 2993
+of 2025.
+Mr. Anshul Sharma, Advocates for Homebuyers
+in I.A. 3001 of 2025.
+Mr. Sunil Fernandes, Sr. Advocate with Mr.
+Spandan Biswal, Mr. Kaustubh Rai and Mr.
+Shivendra Pandey, Advocates for I.A. No. 4193
+of 2025.
+Mr. A. K. Tewari, Mr. Rahul Burmani and Adv.
+Yosha Dutt, Advocates for I.A. No. 5887 & 5888
+of 2025.
+
+[PAGE 3]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+3
+J U D G M E N T
+ASHOK BHUSHAN, J.
+
+These two Appeal(s) have been filed against the order dated
+25.02.2025 passed by NCLT, New Delhi, Court-IV admitting Section 7
+application filed by M/s IL&FS Financial Services Ltd. (“IL&FS”), the
+Financial Creditor (Respondent No.1 herein). Company Appeal (AT) (Ins.)
+No.502 of 2025 has been filed by Pranav Ansal, the Suspended Director of
+the Corporate Debtor (“CD”) – M/s Ansal Properties and Infrastructure
+Limited (“Ansal Properties”). Company Appeal (AT) (Ins.) No.500 of 2025
+has been filed by Gagan Tandon and Ors., Homebuyers of the “Sushant
+Golf City”, Lucknow Project, developed by Ansal Properties.
+2.
+The facts of the present case and the relevant materials brought on
+record by the parties as well as Intervenors, highlights various aspects of
+insolvency resolution process, which relate to a real estate Company. The
+detailed facts, which we shall notice hereinafter is reflection of varied
+complexities and difficulties in respect to a real estate Company, which
+has Projects, situated in different Cities, different States of the country.
+3.
+We need to notice certain background facts with respect to the CD
+and facts leading to filing of Section 7 application by the Financial
+Creditors:
+(i)
+The State of Uttar Pradesh by Government Order dated
+22.11.2023 announced a policy to promote and facilitate
+private
+sector
+participation
+in
+developing
+of
+Hi-tech
+
+[PAGE 4]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+4
+Townships with world-class infrastructure, keeping in view
+the mandate of national estate housing policies. The policy
+was subsequently revised by Government Order dated
+16.08.2007. Under the policy, the Development Authorities
+were to provide land to the developers under the Land
+Acquisition Act, 1894. The Developer was also to obtain land
+by direct purchase. The State was also entitled to provide
+land after resuming the land from different Gram Sabhas
+under the UP Zamindari Abolition and Land Reforms Act,
+1950.
+(ii)
+As per the above policy, a Memorandum of Understanding
+(“MoU”) was entered between the State of UP through the
+Lucknow Development Authority (“LDA”) and M/s Ansal
+Properties and Infrastructure Limited (the CD). The CD was
+selected to develop Hi-Tech Township at Lucknow on land
+measuring 1500 acres or more. The MoU provided that after
+receiving the land acquisition proposal from the CD, the LDA
+shall initiate land acquisition proceedings and submit the
+acquisition proposal to the Collector of the District. Certain
+exemptions were also granted to the CD, including waiver of
+payment of 10% land acquisition charges, exemption from
+stamp duty for initial purchase and transfer of land, which
+shall be on the lease hold title for 90 years. The land which
+vests with the Gram Sabha was also required to be resumed
+
+[PAGE 5]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+5
+by following the prescribed procedures. One of the Clauses
+under the MoU was to ensure timely completion of Project as
+per the provisions of the approved DPR, the LDA shall retain
+transferable rights of 25% of total saleable land, which shall
+be released in proportion to the second party on successful
+completion of various services to the functional stage. If the
+second party leaves any development work incomplete, the
+same shall be completed by the LDA through sale of the land
+so retained.
+(iii)
+A Development Agreement dated 18.11.2006 was entered
+between the CD and LDA, where the CD was to develop a Hi-
+Tech Township in an area of 1765 acres. As per the Master
+Plan of Lucknow Development, Agreement contained one
+Clause-8 regarding Performance Guarantee, which reads as
+follows:
+“8.
+Performance
+Guarantee
+To ensure timely completion of the
+project as per the provisions of
+approved DPR, the First Party shall
+retain the transferable rights on 25
+percent of total saleable land, which
+shall be released in proportion to
+the Second Party! on successful
+completion of various services to the
+functional stage. If the Second Party
+leaves
+any
+development
+work
+incomplete,
+the
+same
+shall
+be
+completed
+by.
+the
+First
+Party
+through
+sale
+of
+the
+land
+so
+
+[PAGE 6]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+6
+retained.”
+(iv)
+There has been amendment to MoU between LDA and CD.
+On 10.05.2007 Development Agreement – 2 was executed.
+Similarly, on 27.11.2008, Development Agreement-3 was
+executed.
+Development
+Agreement-4
+was
+executed
+on
+20.08.2010.
+One
+more
+Development
+Agreement
+dated
+26.04.2011 was executed between the CD and the LDA,
+which dealt with fifth phase of the proposed Hi-Tech
+Township of 958.85 acres. In the Development Agreement as
+noted above, DPR with respect to proposed lands were
+approved. The Development Agreement contained various
+Clauses, including the Clause of Performance Guarantee.
+Clause-9 of the Development Agreement dated 26.04.2011
+provides as follows:
+“9.
+Performance
+Guarantee
+To ensure timely completion of the
+project as per the provisions of the
+approved DPR and registration of
+transfer
+deeds
+of
+developed
+properties before handing over of
+properties to allottees, the Second
+Party shall mortgage 25 per cent of
+the total saleable land in favour of
+the First Party in accordance with.
+the
+applicable
+rules/Acts.
+The
+mortgage deed shall be 'registered'
+and stamp duty as per Applicable
+Law shall be payable on Mortgage-
+Deed.
+
+[PAGE 7]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+7
+Twenty per cent of the mortgaged
+land shall be released after the
+successful completion of various
+services to the functional 'stage,
+compliance of all -conditions as per
+the provisions of the approved DPR
+especially
+with
+regard
+to
+"the
+ground water recharging system
+ensuring
+120
+per
+cent
+water
+recharging against total amount of
+ground
+water
+drawn
+and
+registration of transfer deeds of
+developed properties in favour of
+allottees. It the Second Party leaves
+any development work Incomplete,
+the same shall be completed by the
+First Party through sale of the land
+so mortgaged. Remaining five per
+cent of the mortgaged land shall be
+kept
+retained
+performance
+guarantee
+to
+ensure
+the
+maintenance of services.”
+(v)
+The above Clause requires the CD to mortgage 25% of the
+total saleable land in favour of LDA.
+(vi)
+Lands were provided by the LDA through acquisition under
+the Land Acquisition Act as well as by redemption of land
+belonging to different Gram Sabha under the UP Zamindari
+Abolition and Land Reforms Act, 1950. The detailed DPR for
+Hi-Tech Technology in different phases approved and was
+sanctioned including the necessary Plans. Several Projects
+were launched by the CD in the State of UP and other States.
+
+[PAGE 8]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+8
+One of the Hi-Tech Township Project at Lucknow was
+Sushant Golf City, Lucknow over an area of 4,465 acres.
+Different Projects were registered under the UP RERA at
+Lucknow, which Projects commenced and under the various
+Projects at Lucknow, the CD allotted units, both residential
+and commercial to large number of unit holders.
+(vii)
+Similarly in the State of UP, under the Hi-Tech Township/
+Integrated Township, Policy in other cities of State, MoU and
+Development Agreements were executed between CD and
+respective Development Authorities.
+(viii) The CD approached the IL&FS Financial Services Ltd., the
+Financial Creditor for sanction of Rupee Term Facility of
+Rs.500 million. The CD was also proposed PMDO Facility
+(Pooled Municipal Debt Obligation) of Rs.3210 million and
+Rs.3930 million funding facilities towards development of
+infrastructure at Lucknow Township. IL&FS Financial
+Services sanctioned Term Loan Facility of Rs.500 million by a
+letter dated 16.02.2016 and terms and conditions for Term
+Loan Facility were part of the Sanctioned Letter. In pursuance
+of Sanction Letter dated 16.02.2016, a Loan Agreement was
+entered on 18.03.2016. Another Term Loan Facility of Rs.100
+crores was sanctioned on 26.10.2016, in pursuance of which
+a Loan Agreement was entered between the CD and IL&FS on
+25.11.2016. The Loan Document-I and Loan Document-II
+
+[PAGE 9]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+9
+both contained details terms and conditions, including details
+of security, purpose for which the loan was sanctioned and
+identified hypothecated receivables. Between 23.03.2016 to
+01.12.2017,
+IL&FS
+disbursed
+amounts
+under
+Loan
+Agreement-I and Loan Agreement-II. On 28.06.2018, the
+Loan
+Agreement
+was
+amended
+vide
+a
+Supplemental
+Agreement dated June 28, 2018, whereby the repayment
+schedule was revised. In pursuance of the amount received
+under both the Facilities, the CD largely utilized such funds
+in the Project of Phase-2 Township located at Lucknow.
+(ix)
+There being default committed by the CD, IL&FS issued
+notice to rectify the alleged breaches. IL&FS vide notice dated
+26.03.2019 recalled the entire Facility and in July 2019 filed
+an application under Section 7 of the Insolvency and
+Bankruptcy Code, 2016 (hereinafter referred to as the “IBC”).
+Being
+CP(IB)
+No.1649/ND/2019
+to
+initiate
+Corporate
+Insolvency Resolution Process (“CIRP”) of the CD.
+(x)
+On a statement made by the parties, the Adjudicating
+Authority vide order dated 27.04.2021 dismissed Section-7
+application as withdrawn with liberty to the Financial
+Creditors to file fresh application.
+(xi)
+The CD gave an offer of settlement to pay an amount of
+Rs.109,66,00,000/-.
+A
+Settlement
+Agreement
+dated
+03.03.2022 was entered between the CD and IL&FS. The
+
+[PAGE 10]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+10
+NCLT
+Mumbai
+in
+CA
+No.130/MB/2022
+in
+CP(IB)
+No.3638/MB/2018 approved the Settlement Agreement
+between the parties. Pursuance to the Settlement Agreement,
+an amount of Rs.5 crores was paid by the CD to IL&FS on
+20.10.2022. The CD proposed a Revised Settlement Plan on
+31.10.2023 of Rs.104,66,00,000/- along with interest on
+delayed payment. On 22.11.2023, IL&FS accepted the
+proposal. In pursuance of settlement an amount of Rs.28.36
+crores were paid by the CD as on March 31,2024. The CD
+asked for extension of time for making the payment, which
+was refused by the IL&FS. On 13.05.2024, IL&FS terminated
+the Settlement Agreement and demanded an amount of
+Rs.2,574,312,692/- having not been paid by the CD.
+(xii)
+On 06.08.2024, IL&FS filed Section 7 application being CP(IB)
+No.558/2024
+claiming
+default
+of
+Rs.2,574,312,692/-.
+Notices were issued in Section 7 application. The CD filed its
+reply. Several Interventions Petitions were also filed in
+Section 7 application. One of the Intervention Petition was
+filed by Gagan Tandon and other Homebuyers of Sushant
+Golf City Project, seeking intervention. Several other
+Intervention Petitions were filed by different parties, including
+Financial Creditors.
+(xiii) Adjudicating Authority heard the parties and passed an order
+on 25.02.2025 admitted Section 7 application filed by the
+
+[PAGE 11]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+11
+IL&FS. The Adjudicating Authority held that CD having not
+denied that it owns a substantial debt to the Applicant and
+the CD has only disputed the quantum of default as claimed
+in Section 7 application and has pleaded that amount
+overdue is only Rs.83 crores. The Adjudicating Authority
+held
+that
+quantum
+does
+not
+affect
+the
+application
+admissibility. The Adjudicating Authority has held that the
+CD having admitted the existence of the debt and the default,
+and the default amount exceeds the statutory threshold of
+Rs.1 crore, the application needs to be admitted. Section 7
+application was admitted and moratorium was imposed
+under Section 14 of the IBC and the Interim Resolution
+Professional (“IRP”) was also appointed. By the separate
+orders of the same day, dated 25.02.2025, Intervention
+Petitions filed by Gagan Tandon and other Intervenors, were
+rejected.
+(xiv) Aggrieved by the order dated 25.02.2025 admitting Section 7
+application, these two Appeal(s) have been filed.
+4.
+When these two Appeal(s) came for hearing on 26.03.2025, learned
+Counsel for LDA and other Development Authorities sought leave to file
+Intervention Applications. Learned Counsel for the Homebuyers also
+sought leave to file Intervention Applications for Homebuyers. On
+26.03.2025, following order was passed in these Appeal(s):
+
+[PAGE 12]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+12
+“26.03.2025: This appeal has been filed against the order initiating
+CIRP on 25.02.2025. Shri Gopal Jain appears for the IL&FS
+Financial Services Ltd/ Financial Creditors. Ld. Counsel for the
+Lucknow
+Development
+Authority
+and
+other
+Development
+Authorities submits that they have also stake in the matter and
+they should be permitted to intervene. Ld. Counsel appearing for
+Homebuyer also seeks liberty to file an intervention application. We
+permit Lucknow Development Authority and other Development
+Authorities as well as Homebuyers to file an intervention
+application along with affidavit within a week from today.
+
+Shri Gopal Jain, counsel appearing for IL&FS Financial
+Services Ltd. may file Reply to the appeal within two weeks.
+Company Appeal (AT) (Ins) No. 500 of 2025
+
+Shri Gopal Jain, Counsel appears for the IL&FS Financial
+Services. Reply, if any, be filed before the next date. Intervention
+application be served on both Appellant as well as IL&FS Financial
+Services.
+
+List these appeals on 15.04.2025 for admission/ disposal.”
+5.
+Various Intervention Applications have been filed by the LDA and
+other Development Authorities and different other Statutory Authorities
+as well as the Homebuyers. We need to notice pleadings and facts
+brought in some of the IAs, so as to capture the nature of dispute and
+other aspects of the real estate Projects, which are up for consideration.
+6.
+IA No.2249 of 2025 : This IA has been filed by LDA praying for
+intervention, wherein following prayers have been made:
+“(a)
+Allow the intervention application of the applicant being a
+necessary party whose rights have been severely prejudiced
+by the order dated 25.02.2025 passed by the Hon’ble NCLT
+without impleading the applicant; and/or
+
+[PAGE 13]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+13
+(b)
+Pleased to set aside the order dated 25.02.2025 passed in
+CP No. IB 558(ND)/2024 passed by the Hon’ble National
+Company Law Tribunal, New Delhi; and/or
+(c)
+Remand the matter back to the Hon’ble NCLT to pass
+appropriate orders after hearing and impleading the
+necessary and affected parties i.e. L.D.A. in the present
+application; and/or
+(d)
+Stay the proceedings before the Ld. IRP till the disposal of
+the present application; and/or
+(e)
+Pass any other or further order of any nature, direction as
+this Hon'ble Tribunal may deem fit and proper in the facts
+and circumstances of the present case and in the interest of
+justice.”
+7.
+LDA’s case in the application is that as per the Hi-Tech Township
+Scheme of the State of UP, an MoU was entered with LDA and the Ansal
+Properties and Infrastructure Limited for development of 1765 acres of
+land on Lucknow Sultanpur Road for Hi-Tech Township. In furtherance
+of which a Development Agreement was also executed between the
+parties. The MoU was for 1765 acres of land. Further, first extension of
+1765 acres of land was also done totaling to 3530 acres. Further
+extension was granted with 2935 acres of land and DPR for 6465 acres
+was sanctioned on 23.05.2015 in approved layout/map. In the MoU
+dated 26.11.2005, 25% of the saleable area was to be retained by the
+LDA. In the application various Clauses of MoU and the Development
+Agreement have been referred to, including the Clause of Performance
+Guarantee. The Applicant’s case is that the CD has also mortgaged its
+land and executed various Mortgage Deeds, which were registered on
+15.10.2018 and thereafter. The Applicant’s case is that LDA has also filed
+
+[PAGE 14]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+14
+the claim in Form-C and the claim was filed on 11.03.2025 for Rs.4,490
+crores and also claimed security interest in various land of the CD by
+different Mortgage Deed and guarantees issued, which claim is claimed to
+have been filed for abundant caution. The LDA also claimed to have filed
+FIR C.C. No.080 of 2025 against the CD. It is pleaded that in event of
+non-completion of the project by the CD, the LDA has the first right to
+complete the project as per Government Hi-Tech Policy and various MoU
+and Development Agreement entered between parties. It is further
+pleaded that the proceedings initiated under Section 7 are malicious
+proceedings, which are against the public interest. The Applicant prays
+that the order initiating CIRP be set aside. Reply and rejoinder to the IA
+have also been filed.
+8.
+IA No.2254 of 2025 : This IA has been filed by Bulandshahr
+Khurja Development Authority (“BKDA”) seeking intervention in the
+Appeal. In the Intervention Application, the Applicant prays for setting
+aside order dated 25.02.2025 and has further prayed that the matter be
+remanded back to the NCLT for hearing the Applicant – BKDA. The
+Applicant’s case is that the Applicant is a Statutory Authority constituted
+under the U.P. Urban Planning & Development Act, 1973. The Applicant
+claims that proceeding initiated is a malicious initiation. The Applicant
+being major stakeholder in the development of integrated Township under
+the State Policy, was required to be heard. It is pleaded that the CD had
+various resources to pay the alleged due to IL&FS, which has not been
+paid. The proceedings initiated is more in nature of recovery of debt. The
+
+[PAGE 15]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+15
+Applicant has a claim of Rs.16879 crores. The MoU dated 18.11.2004 for
+development of Hi-Tech Township was executed between M/s. Uttam
+Galva Steels Ltd. and M/s Ansal Properties & Industries Ltd. for
+development of Hi-Tech Township. A MoU was signed between BKDA and
+M/s Uttam Steel & Associates Consortium and a Development Agreement
+was signed on 07.07.2008 for development of 5.22 acres of land. There
+was Performance Guarantee wherein 25% of the saleable land has to be
+kept as mortgaged. Development Agreement-2 was executed and a
+Security Bond was also executed. BKDA by letter dated 29.04.2023 sent
+reminder to pay outstanding amount of more than Rs.211 crores. It is
+submitted that development of Hi-Tech Township Project named – Dadri
+Project Scheme, Bulandshahr Khurja is different district from the
+Lucknow Project developed by the CD. Various FIRs have been lodged by
+the Applicant and the Homebuyers against the CD. The entire
+proceedings of the CD is vitiated since CD deliberately connived in
+initiation of insolvency proceedings to overcome the various statutory/
+legal proceedings initiated against them in various Fora. The CD is using
+the present proceedings to avoid payment of legitimate dues of
+Government Authorities and defrauding the gullible home buyers. Reply
+has also been filed in the application, to which rejoinder has also been
+filed.
+9.
+IA No.2256 of 2025:
+This IA has been filed by Ghaziabad
+Development Authority (“GDA”) seeking intervention as praying to set
+aside order dated 25.02.2025. GDA has entered into Development
+
+[PAGE 16]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+16
+Agreement with CD for development of integrated Township in the City of
+Ghaziabad. Total land of 3847 sqm of land is mortgaged with GDA
+through registered Mortgage Deed. There is liability of the CD of
+Rs.15,38,80,000/-. A Development Agreement was entered with GDA and
+CD on 09.05.2007 for integrated Township for 153 acres of land, under
+which the CD was to pay various development charges, Performance
+Guarantee to mortgage of 25% of total land in favour of GDA was also
+executed. The initiation of CIRP is malicious initiation. The GDA has also
+filed claim as Financial Creditor on 23.03.2025. Reply has also been filed
+by the ILFS to the application, to which rejoinder has also been filed.
+10.
+IA No.2251 of 2025: This IA has been filed by Neha Singh and
+four others, who claimed to be purchasers of different plots of land from
+the CD in Sushant Golf City, Project partially developed by the CD, which
+Township is situated in Lucknow. The CD has issued the allotment letter
+in favour of the Applicants, who have paid sale consideration. The
+development of basic civic amenities, which was to be developed by the
+CD is still under way. The Sushant Golf City-Hi Tech Township is an
+amalgamation of different projects within it and the NCLT instead of
+keeping those projects which are sufficient to secure the loan of the CD
+has initiated CIRP against the CD itself encompassing all its projects
+across the country and imposing moratorium against all the Projects. The
+Applicant prays that Applicant be permitted to intervene and development
+work be resumed.
+
+[PAGE 17]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+17
+11.
+IA No.2252 of 2025 : This IA has been filed by Arbind Kumar
+Mishra & 26 others, who claimed to be buyers of residential apartment/
+independent floors/ villa & plots in Sushant Golf City, Lucknow developed
+by the CD. It is pleaded that order dated 25.02.2025 should not be made
+applicable to Sushant Golf City, Lucknow Hi-Tech Township as the same
+has been initiated under the UP Hi-Tech Township Policy of the State
+Government of the U.P. and the project is being constructed under the
+MoU and the Joint Development Agreement between the LDA and the CD.
+The initiation of CIRP will jeopardize the real estate project and cause
+irreparable loss and injury to thousands of Homebuyers. The Applicant
+refers to different Clauses of the MoU. It is pleaded that Section 7
+application has been filed only for the debt of Rs.83 crores and the
+creditors are misusing the provisions of IBC as a money recovery tool
+rather than seeking a resolution process. The debt of Rs.83 crores is
+negligible compared to the only Lucknow project, which valuation is more
+than Rs.26,000 crores, which comprises of public funds. The
+continuation of CIRP will jeopardize registries and the rights of the
+Applicant. It is pleaded that in Company Petition No. (IB)-297(ND)/2023
+in Indian Bank vs. Ansal Properties & Infrastructure Ltd., the NCLT
+has confined the CIRP to “Serene Residency Group Housing Project” at
+Sector ETA II, Greater Noida and did not extend it to the entire company.
+The Applicant seeks intervention and prays that impugned order dated
+25.02.2025 be set aside and LDA be directed to take over all the Projects
+and the land of Sushant Golf City as per MoU, which is under UP Hi-Tech
+
+[PAGE 18]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+18
+Township Policy 2003 and to ensure that all the Projects are developed. It
+has further been prayed that CIRP be confined to specific Project,
+Sushant Golf City, Lucknow. Following prayers have been made in the
+application:
+“A.
+Admit the present application and be pleased to consider the
+grounds raised herein in the interest of justice.
+B.
+Allow the present Intervention Application and implead the
+Applicant(s) as necessary parties in the instant appeal in
+order to protect their legitimate interests.
+C.
+Set aside the Impugned Order dated 25.02.2025 passed by
+the NCLT, Bench IV, New Delhi in CP No.: IB 558(ND)/2024
+titled as “IL&FS Financial Services Limited VERSUS M/s
+Ansal
+Properties
+and
+Infrastructure
+Limited”
+with
+consequential reliefs; and
+D.
+Direct the Lucknow Development Authority (LDA) to take
+over all the projects and the land of Sushant Golf City,
+Lucknow, as per the Memorandum of Understanding (MOU)
+and the Uttar Pradesh Hi-Tech Township Policy 2003, to
+ensure that all the projects in which money has been taken
+from the buyers are constructed and completed. The LDA is
+obligated under the MOU and the UP Hi-Tech Township
+Policy 2003 to complete the project in case the developer
+fails to do so.
+E.
+Confine the CIRP proceedings to the specific project,
+"Sushant Golf City, Lucknow", in line with the precedents
+set by the Hon'ble NCLAT and NCLT in similar matters; F.
+Pass such other and further orders as this Hon'ble Tribunal
+may deem fit and proper in the interest of justice.”
+12.
+IA No.2555 of 2025 : This IA has been filed by Arvind Dwivedi,
+who claims to have entered into Buyer Agreement with respect to a
+
+[PAGE 19]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+19
+residential unit in Sushant Golf City, Lucknow Project. The Applicant
+claimed to have paid all the instalments. A Tripartite Agreement has been
+entered with the Indian Bank, the CD and the Applicant, where Applicant
+has been paying EMI to the Bank. The Applicant has executed one more
+Plot Buyer Agreement with the CD. The Applicant has referred to CP(IB)
+No.330(ND)2021 – Bibhuti Bhushan Biswas & Ors. vs. Ansal
+Properties and Infrastructure Ltd., where the CIRP was admitted on
+16.11.2022, wherein Appellate Tribunal vide order dated 04.03.2024
+restrained the Project to the Project ‘Fernhill’ of the CD in Company
+Appeal (AT) (Ins.) No.41 of 2023. Another CP(IB) No.297(ND)/2023 –
+Indian Bank vs. Ansal Properties and Infrastructure Ltd. has been
+admitted by the NCLT on 20.10.2023 qua “Serene Residency” Project of
+the CD. The Applicant seeks intervention and prays that Appeal No.502
+of 2025 be dismissed.
+13.
+IA No.2993 of 2025 : This IA has been filed by Apexstar Infracon
+Pvt. Ltd. and four others, who claim to have been invested money in
+several properties of the CD. Reference to various FIRs against the
+Promoter have also been made. Actions taken by Uttar Pradesh Real
+Estate Regulatory Authority against the CD and its Promoters have also
+been highlighted. The Applicant prays that Appeal be dismissed.
+14.
+IA No.3001 of 2025: This IA has been filed by Rakesh Pandey and
+26 others, who claim to be Homebuyers and have paid substantial
+amount to the CD, who claim to be aggrieved by the order dated
+25.02.2025, initiating the CRIP and have sought intervention.
+
+[PAGE 20]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+20
+15.
+IA No.4193 of 2025: This IA has been filed by Raavee Buildcon Pvt.
+Ltd. and two others. The Applicant has filed this application to safeguard
+its rights and obligations with respect to Sushant Taj City Project in Agra,
+UP. It claims to be co-developer along with the CD. The Applicant claim
+to have made efforts and paid substantial amount, and the Project has
+been progressing. It has received payments from 117 buyers and
+executed Sale Deed to 210 homebuyers. The Applicant seeks intervention
+and prays that Appeal be dismissed.
+16.
+IA No.5887 & 5888 of 2025: This Application has been filed by
+Army Welfare Housing Organisation seeking intervention, who claimed to
+have purchased a land admeasuring 28.81 acres situated at Sector 114,
+Mohali, Punjab from the CD. The Applicant claims to have filed petition
+under Section 11(6) of the Arbitration & Conciliation Act, 1996 before the
+High Court of Punjab. There are 1048 allottees, who are serving/ retired
+Army Personnel and their widows. The Applicant seeks intervention in
+the proceedings. In IA No.5888 of 2025 – The Applicant prayed for
+direction to accept the claim of the Applicant and CD to obtain regulatory
+approvals from the Regulatory Authorities relating to Applicant’s Group
+Housing Project at Sector 114 Mohali. Certain other prayers have been
+made. The Applicant also claims to have filed its claim in Form-C on
+10.09.2025.
+17.
+IA No.3556 of 2025: This IA has been filed by Shri Abhay
+Kesarwani and 47 others, who claim to be Homebuyers of Project namely
+- Sushant Golf City Hi-Tech Township, Lucknow. The Applicants claim
+
+[PAGE 21]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+21
+that there are various Builder Buyer Agreements executed by the CD and
+with respect to certain buyers Sale Deed have also been executed. The
+Applicant seeks intervention and has prayed that Management be
+permitted to run the Project Sushant Golf City Hi-Tech Township, which
+be kept out of CIRP process and direction be issued for execution of
+Conveyance Deed in favour of the Homebuyers.
+18.
+IA No.2261 of 2025 in Company Appeal (AT) (Ins.) No.500 of
+2025: This IA has been filed by UP Awas Evam Vikas Parishad
+(“UPAEVP”) making following prayers:
+“a.
+Allow the UP A VP to intervene in the present appeal;
+b.
+Direct the IRP of the Corporate Debtor to release the land in
+question in favor of the UP A VP, which is part of the
+mortgage deed/ performance guarantee dated 26.08.2019;
+c.
+IRP may be directed to not to create any hindrance in the
+right of UPA VP with respect to 6.954 acres of land which is
+part of the mortgage deed and has stand vested in the UP A
+VP;
+d.
+Pass any other order as this Hon'ble Appellate Tribunal may
+deem fit and proper in the light of facts and circumstances
+hereof.
+19.
+The case of the UPAEVP in the application is that 74.876 acres land
+situated at Sultanpur Road in land Development and Housing Scheme
+(Awadh Vihar Scheme) at Sector-7B, Village Barauna, Lucknow, which
+was utilized in favour of the CD, for which land the CD was required to
+make payment to the UPAEVA, as per the rate agreed between the parties
+and amount payable by M/s Ansal was convered into installments. The
+UPAEVP in is 236th Board Meeting held on 31.05.2016 decided that
+
+[PAGE 22]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+22
+registered mortgage deed shall be executed from M/s Ansal only towards
+the amount payable by them from the land owned by them. Under the
+239th Board meeting held on 21.10.2016, a proposal was passed about
+excluding the 74.876 acres of land situated a village Baruna from the Hi-
+Tech Township Project. In continuation of which Gazatte Notification
+dated 03.12.2016 was published. A mortgage deed between the UPAEVP
+and the CD was executed on 28.06.2019 with respect to certain areas of
+land included in 74.876 acres of land of which only 24.638 is part of Hi-
+Tech Township (Sushant Golf City). The Demand Letter was issued by the
+UPAEVP to the CD. The CD deposited certain amount, but substantial
+amount is still due, for which the Deputy Housing Commissioner of
+UPAEVP on 12.04.2024 requested the District Magistrate, Lucknow to
+initiate recovery proceedings against the CD. The CD had entered into a
+Mortgage Deed, which is in the nature of performance guarantee with the
+UPAEVP. On default of the CD, the possession of the land has to
+automatically come in possession of the UPAEVP. After execution of
+Mortgage Deed, the CD has no right over the land. Out of 74.876 acres of
+land, 24.638 acres of land has been released in favour of the CD by
+UPAEVP as per the proportionate payment made by the CD and on the
+balance 50.238 acres of land, the CD does not have any right. The
+UPAEVP has also lodged FIR against the CD on 29.03.2025. The UPAEVP
+has already filed a claim dated 14.04.2025 for an amount of
+Rs.58,11,68,417/-. The UPAEVP has also filed an application before the
+
+[PAGE 23]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+23
+Adjudicating Authority for excluding the above land from the assets of the
+CD.
+20.
+IA No.2264 of 2025 in Company Appeal (AT) (Ins.) No.500 of
+2025: This IA has been filed by Uttar Pradesh Real Estate Regulatory
+Authority (“UP RERA”) praying for following reliefs:
+“a.
+Allow the present Intervention Application and add the
+Applicant as a proper party to the captioned Appeal in the
+present facts and circumstances of the matter;
+b.
+Allow the Applicant Authority to file a response to the
+present Appeal as well as the connected Appeal;
+c.
+Pass any other Order(s) as this Hon'ble Appellate Tribunal
+may deem fit and proper in the facts and circumstances of
+the present matter.”
+21.
+In the application UP RERA claimed that it is an Statutory
+Authority
+established
+under
+the
+Real
+Estate
+(Regulation
+and
+Development) Act, 2016. Certain Projects are being developed by the CD
+under the Hi-Tech Township Policy of the State Government. Various
+complaints were received by the UP RERA from different Homebuyers, on
+which notices were issued to the CD and various orders imposing penalty
+have been passed against the CD. The CD has got several Projects
+registered with the UP RERA. The UP RERA has also directed the CD for
+getting the unregistered Projects registered. An additional affidavit has
+been filed by the UP RERA, where it has been pleaded that the CD has
+registered 93 real estate projects under the subject property at Lucknow.
+The subject property of the CD spans across an area of 4655 acres, which
+has more than 18,000 allottees. It is pleaded that CIRP proceedings will
+
+[PAGE 24]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+24
+defeat the very objective of the RERA Act and this Tribunal may modify
+the order dated 25.02.2025 and quash the initiation of CIRP.
+22.
+We have heard learned counsel Mr. M.P. Sahay appearing for the
+appellant in Comp. App. (AT) (Ins.) No. 500/2025 and learned counsel Ms.
+Neeha Nagpal appearing for the appellant in Comp. App. (AT) (Ins.) No.
+502/2025 as well as learned Sr. counsel Mr. Gopal Jain appearing for
+IL&FS. We have also heard learned counsel for the intervenors including
+learned counsels appearing for different Development Authorities.
+23.
+The submission of learned counsel for the appellant in Comp. App.
+(AT) (Ins.) No. 500/2025, hereinafter referred to as submissions on behalf
+of the appellants – homebuyers. It is submitted that adjudicating
+authority committed error in initiating CIRP against the corporate debtor.
+Initiation of CIRP will jeopardise and prejudice the Real Estate Projects
+and cause irreparable loss, harm and injury to thousands of homebuyers.
+Real Estate Project was floated under the policies of Government of Uttar
+Pradesh, where corporate debtor is a licence holder authorised to
+construct and developed the project. In view of the Memorandum of
+Understandings (MoUs) entered with the corporate debtor and Lucknow
+Development Authority (LDA), LDA was entitled to take over the project in
+question, in event, the corporate debtor failed to develop the project.
+Section 7 application was filed by the financial creditor for a debt and
+default of Rs.83 crore approximately. Financial creditor does not intend
+to resolve the corporate debtor rather using the Section 7 proceedings as
+money recovery tool. Corporate debtor has substantially completed the
+
+[PAGE 25]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+25
+township project and delivered several thousand units to the allottees.
+Initiation of insolvency is against the interest of the homebuyers.
+Running of CIRP in Real Estates matter is a very complex and often a
+futile exercise. The delay in possession will have a cascading effect on the
+finance of the homebuyers as they are paying both EMIs to the banks and
+rents of their houses. The project being developed under state policy
+ought to be excluded from the CIRP which has been initiated against the
+corporate debtor. All appellants are allottee of the Suhant Golf City High-
+Tech Township Project, for which the corporate debtor was selected as a
+developer under the state policy. The land is owned by the State
+Government. Learned counsel for the appellant – homebuyers submits
+that appellants have also filed an application for intervention in Section 7
+proceedings which was erroneously rejected by the adjudicating authority.
+Appellants are stakeholders in CIRP and Section 7 application filed by the
+financial creditor need to be dismissed in alternative the Township Project
+be excluded from purview of CIRP or this Tribunal may pass such other or
+further orders as may be deemed fit.
+24.
+Learned counsel for the appellant in Comp. App. (AT) (Ins.) No.
+502/2025 submits that corporate debtor has made efforts to liquidate the
+entire amount of the financial creditor as settled, out of settlement
+amount, amount of Rs.28.36 crore was paid by 31.03.2024 and corporate
+debtor has prayed for extension of some more time to pay the balance
+which was erroneously rejected by financial creditor. The corporate
+debtor has explained the reason for delay in arranging the funds. The
+
+[PAGE 26]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+26
+default
+amount
+as
+claimed
+in
+Section
+7
+application
+is
+of
+Rs.257,43,12,692/- is not the amount in default and at best the default
+was only Rs.83 crore. The corporate debtor is financially stable and
+solvent company, it has substantial receivables from its various projects
+across India, including Mother City, Lucknow, which receivables are
+multiple times than the amount of alleged debt, given available resources,
+there is no justification for initiating CIRP against the corporate debtor.
+Corporate debtor has settled huge chunk of allottees/customers of its
+project situated throughout India. In Lucknow, corporate debtor has
+settled its customers amounting to about Rs.126 crore. Corporate debtor
+has executed total of 3,306 Sale Deeds in favour of the allottees. The
+default by the corporate debtor is only with respect to the Project “Mother
+City, Lucknow”. The project in default and CIRP initiated against the
+corporate debtor should be limited to the project in default only.
+Adjudicating authority failed to appreciate that if the distress or default is
+limited to one Project “Mother City, Lucknow”, CIRP should be limited to
+that project alone. Adjudicating authority committed an error in
+admitting Section 7 application despite the fact that the corporate debtor
+had shown bona fide intent to repay and has already repaid Rs.28.36
+crores under the Revised Settlement Amount. The financial creditor is
+misusing the IBC proceedings as debt recovery tool. Adjudicating
+authority failed to appreciate that in case of CIRP against the Real Estate
+Company, it is very difficult to follow the normal process and a reverse
+CIRP should be followed in the case of Real Estate Companies in the
+
+[PAGE 27]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+27
+interest of the allottees and to ensure survival of Real Estate Company,
+and to ensure completion of projects which provide employment to large
+number of unorganized workman and provide benefits to all other
+stakeholders in the infrastructure projects. The corporate debtor has
+several projects spread all over India and default being mainly in the
+Mother City, Lucknow, CIRP should be restricted to Lucknow Project only.
+The blanket admission of CIRP without restricting it to a particular
+project is contrary to settled judicial principles that require insolvency
+resolution to be undertaken on a project specific basis.
+25.
+Learned counsel appearing for the Intervenor – LDA submitted that
+corporate debtor has entered into MoU with LDA under the High-Tech
+Township Policy of the State Government. MoU was entered on
+26.11.2005 with corporate debtor and the LDA under which the corporate
+debtor was selected as developer for developing 1,765 acres of land for
+High-Tech Township. The corporate debtor was granted various
+concessions like waiver of payment of 10% acquisition cost, waver of
+stamp duty. 5 Development Agreements were executed between the LDA
+and the corporate debtor from 18.11.2006 to 26.04.2011 under which
+Development Agreements, the corporate debtor had to carry out the
+development work under High-Tech Township Policy 2003. As per the
+Development Agreement, the corporate debtor had to give performance
+guarantee providing that LDA shall retain 25% of the total saleable land.
+In subsequent Development Agreement dated 20.08.2010, the corporate
+debtor was required to mortgage 25% of the total saleable land in favour
+
+[PAGE 28]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+28
+of the LDA. The Agreement also contemplated that in event, the developer
+fails to complete the project, the project shall be completed by the LDA. It
+is submitted that land was provided by the LDA by acquiring the land.
+Land was also provided by the state of Uttar Pradesh by resuming land
+from various Gaon Sabhas under Uttar Pradesh Zamindari Abolition and
+Land Reforms Act, 1950. The land on the project was land provided to
+the corporate debtor by the state and the LDA. The corporate debtor
+committed error in entering into Rupee Loan Agreement with IL&FS in the
+year 2016, where all relevant clauses of MoU and the Development
+Agreement were concealed. It is submitted by the learned counsel for the
+LDA that Section 7 proceedings have been fraudulently initiated to harm
+the interest of all stakeholders. The corporate debtor was fully capable to
+discharge the amount of Rs.83 crore which was due as per Settlement
+between the IL&FS and the corporate debtor. Large number of First
+Information Reports were lodged against the corporate debtor and its
+Director and corporate debtor in connivance with IL&FS initiated
+proceedings to save itself from its obligation to complete the project and
+pay dues of LDA and other stakeholders. Learned counsel for the LDA
+submits that in the facts of the present case, LDA was also necessary
+party to the proceeding and ought to have been heard before taking a
+decision to initiate CIRP against the corporate debtor. It is submitted that
+as abundant caution, LDA has also filed its claim in the CIRP. Dues of
+the LDA are more than Rs.4,490 crore. The corporate debtor has been
+provided land of thousands of acres. Corporate debtor has also executed
+
+[PAGE 29]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+29
+various mortgage deeds in favour of the LDA towards performance
+guarantee. In the High-Tech Township Project, launched by the State of
+Uttar Pradesh for the benefit of City population will suffer a jolt due to
+initiation of CIRP which is not in the interest of all stakeholders.
+26.
+Learned
+counsel
+appearing
+for
+the
+Bullandshahar
+Khurja
+Development Authority submitted that the Bullandshahar Khurja
+Development Authority has entered into the MoU with corporate debtor
+and Uttam Steels and Associates Consortium, which project is at Dadri.
+MoU was entered on 13.12.2006 between the Ghaziabad Development
+Authority (GDA) and the consortium for development of High-Tech
+Township, where clause 22 provided for retention of 25% of total saleable
+land of the project and right to sale the asset mortgaged land on non-
+completion of development work. It is submitted that default committed
+in by the corporate debtor in the Lucknow Project cannot be a reason to
+put other projects in jeopardise Bullandhahar Khurja Development
+Authority by abundant caution without prejudice to its right filed it claims
+as a financial creditor in ‘Form–C’ in the CIRP. CIRP has been initiated
+from non-payment of dues in the Lucknow project of corporate debtor,
+whereas the Project of Bullandhahar Khurja Development Authority is
+situated in Dadri. More than Rs.1,687 crores are dues on the corporate
+debtor. Corporate debtor had various resources to pay the alleged dues of
+the IL&FS. Learned counsel for the appellant submitted that with respect
+to security given under the Loan Agreement 1 & Loan Agreement 2 by
+IL&FS securities are given out of receivables from Project at Lucknow.
+
+[PAGE 30]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+30
+27.
+Learned counsel for the GDA also submitted that GDA has entered
+into MoU with corporate debtor for development of Integrated Township in
+the City of Ghaziabad. Mortgaged Deed has also been executed by
+corporate debtor in favour of the GDA by abundant caution the claim has
+been filed as a financial creditor. The Section 7 proceeding has been
+maliciously initiated before the NCLT. Adjudicating authority ought to
+have appreciated that initiation of insolvency proceedings against
+corporate debtor will affect all the High-Tech/Integrated Township
+Projects in the State of Uttar Pradesh, various Development Authorities,
+homebuyers etc. shall be prejudicially affected. Adjudicating authority
+ought to have been heard development authority as necessary party
+before passing the order on 25.02.2025 since the impact ramification of
+the impugned order has much wider implication to the public authorities/
+public money and affects and the confidence of the allottees in various
+projects being developed under the High-Tech/Integrated Township policy
+for the state of Uttar Pradesh. Learned counsel for the GDA has also
+prayed for setting aside the order initiating the CIRP.
+28.
+Learned Sr. counsel Mr. Arijit Prasad appearing for the UP Awas
+Evam Vikas Parishad also submitted his submission that UP Awas Evam
+Vikas Parishad has made available the land to the corporate debtor for
+carrying out development. It is submitted that the Projects of UP Awas
+Evam Vikas Parishad which was being developed by the corporate debtor
+be kept out the CIRP process.
+
+[PAGE 31]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+31
+29.
+Several intervention applications have been filed by the homebuyers
+of Sushant Golf City Projects, Lucknow and homebuyer of other Projects
+situated in Agra, Mohali, Punjab, which we have noticed as above, the
+homebuyers in different intervention applications having quite different
+views. In some of the applications homebuyers prayed that CIRP be not
+initiated at all with respect to any project, in some of the applications it is
+prayed that Lucknow Project of Sushant Golf City be excluded from CIRP,
+in some of the applications it is prayed that CIRP, if any, be initiated only
+with respect to Lucknow Project. It is submitted in the intervention
+applications filed by the homebuyers that there is precedent of two earlier
+CIRPs where NCLT have initiated CIRP with respect to two specific
+projects of the corporate debtor. It is submitted that in one project at
+Gurgaon namely ‘Fernhill Project’, there is direction of this Tribunal to
+confine the CIRP to ‘Fernhill Project’ and another project namely Serene
+Residency Group Housing Project situate in Greater Noida is also Project
+specific CIRP where CIRP was sought to be initiated against the corporate
+debtor. There are thus two earlier precedents where CIRP has been
+initiated with regard to two different projects of the corporate debtor and
+not the corporate debtor as a whole.
+30.
+Learned counsel appearing for UP RERA has also prayed for
+intervention claiming that RERA which is statutory authority to regulate
+development of all Real Estate Projects ought to have been heard by the
+adjudicating authority before initiating CIRP.
+
+[PAGE 32]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+32
+31.
+Learned Sr. counsel Mr. Gopal Jain appearing for the IL&FS
+submits that the adjudicating authority has rightly admitted the Section 7
+application, there being admitted debt and default on the part of the
+corporate debtor. It is submitted that financial creditor has granted
+ample opportunity to the corporate debtor to pay its outstanding debt in
+which corporate debtor miserably failed. C.P. (IB) No. 1649/2019 was
+earlier initiated by IL&FS which was withdrawn on 27.04.2021 on
+Settlement Proposal submitted by the corporate debtor to IL&FS.
+Corporate
+debtor
+entered
+into
+Settlement
+dated
+03.03.2022
+for
+Rs.109,66,00,000/- out of only Rs.5 crore was paid. Subsequently on
+31.10.2023, corporate debtor proposed a revised settlement for
+Rs.111,36,00,000/- out of which entire amount was to be paid by
+31.03.2024. Corporate debtor has paid only amount of Rs.28.36 crore.
+Request for further extension of time was not accepted and the Settlement
+Agreement was recalled by IL&FS on 13.05.2024, hence the total amount
+of Rs.257,43,12,692/- became due for which Section 7 proceeding has
+been initiated.
+32.
+Learned counsel for the appellant referring to the reply of the
+corporate debtor filed in Section 7 application submits that the corporate
+debtor pleaded in the reply that at best the default is an amount of only
+Rs.83 crores. It is submitted that default having been admitted by the
+corporate debtor, twin test for admission of Section 7 application were
+clearly fulfilled. Learned counsel for the appellant has relied on the
+judgment of the Hon’ble Supreme Court in ‘Innoventive Industries
+
+[PAGE 33]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+33
+Limited’ Vs. ‘ICICI Bank & Anr.’ reported in [(2018) 1 SCC 407] and in
+‘E.S. Krishnamurthy’ Vs. ‘Bharath Hi-Tecch Builders (P) Ltd.’
+reported in [(2022) 3 SCC 161] as well as the judgment of the Hon’ble
+Supreme Court in ‘M. Suresh Kumar Reddy’ Vs. ‘Canara Bank’
+reported in [(2023) 8 SCC 387]. Learned counsel for the IL&FS submits
+that the CIRP Regulations, 2016 has been amended under which now the
+resolution for Real Estate Projects, RP with the concurrence of the
+Committee was entitled to call for resolution plan project wise. It is
+submitted that statutory regulation provides for mode and manner of
+project wise resolution of Real Estate Company and the question of
+project wise resolution is a question which has to be considered and gone
+into subsequent to the admission of CIRP. It is submitted that admission
+of CIRP is in no manner can be faulted on the ground that corporate
+debtor has large number of projects. It is submitted that Competent
+Authority i.e., RERA who is regulatory authority for regulating the
+projects can be invited to attend the meeting of the CoC for overseeing the
+development. It is submitted that as per the terms and conditions for
+both the Rupee Term Loan Facility dated 16.02.2016 and 26.10.2016, the
+loan was taken by the corporate debtor for all the projects and Term Loan
+Facility extended by IL&FS was not for any specific project. It is
+submitted that mortgage of land by the corporate debtor in favour of the
+IL&FS was earlier in point of time to the mortgage executed in favour of
+the LDA by the corporate debtor. It is submitted that all relevant
+documents pertaining to mortgage and security created by the corporate
+
+[PAGE 34]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+34
+debtor were on the record and were part of the Section 7 application. It is
+submitted that Development Authorities and other regulatory authorities
+who have filed intervention applications are free to approach the
+adjudicating authority for the grievances which are sought to be raised in
+these appeals. The prayer for excluding the particular project from CIRP
+can always be made before the adjudicating authority who seized of the
+entire matter.
+33.
+Learned Sr. counsel Mr. Gopal Jain in the end submits that this
+Appellate Tribunal being exercising the same powers which adjudicating
+authority has exercised, it may issue necessary direction with regard to
+mode and manner in which resolution of different Real Estate Project has
+to be undertaken by the adjudicating authority, however, those are steps
+which need to be taken consequent to initiation of CIRP and has no effect
+on the initiation of CIRP which was validly made by the adjudicating
+authority.
+34.
+We after hearing the learned counsel for the parties and the
+intervenors has noted their respective submissions in order dated
+25.04.2025
+including
+the
+submission
+regarding
+project
+wise
+resolution/reverse CIRP mechanism. We passed an interim order
+directing that till the next date of hearing, no ‘Form-G’ shall be issued in
+CIRP of the corporate debtor and we had allowed the intervention
+applications. In paragraphs 22 & 23, following order was passed:
+“22. Intervention Application(s) filed by Development Authorities/
+UPRERA/ UP Awas Evam Vikas Parishad and the Homebuyers, as
+
+[PAGE 35]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+35
+noted above are allowed. Intervenors are also allowed two weeks
+time to file affidavit in support of their case.
+23. As noted above, keeping in view the issue pertaining to mode
+and manner of the resolution of CD and enormity of Projects, which
+are situated in different cities being involved, we need to hear the
+parties before issuing any direction with regard to manner in which
+Resolution of the CD shall proceed as per the provisions of the IBC.
+At this stage, we issue following directions:
+(1) Lucknow Development Authority and other Development
+Authorities are given liberty to file an Application with regard
+to categorisation of their claims before the Adjudicating
+Authority, which may be considered and decided at an early
+date by the Adjudicating Authority.
+(2) The IRP/ RP shall proceed to collate and verify the claims
+of Creditors in accordance with the CIRP Regulations, 2016.
+Till the next date of hearing, CIRP may go on, however, no
+Form-G shall be issued in the CIRP of the CD.
+Parties may complete the pleadings before the next date.”
+35.
+In Comp. App. (AT) (Ins.) No. 502/2025, we had passed an order on
+01.07.2025 noticing the submission of the appellant in Comp. App. (AT)
+(Ins.) No. 502/2025 to bring on affidavit details of all projects along with
+the current status and other relevant fact. On 01.07.2025, we passed
+following orders:
+“Learned Counsel for the Lucknow Development Authority,
+Bulandshahr, Agra and Ghaziabad submits that they have filed the
+Applications and the affidavit as per earlier order of the Court and
+they have received the Reply in June, 2025 in all four matters by
+the IL & FS Financial Services Ltd. and they pray for a weeks’ time
+to file Rejoinder.
+Mr. Sumant Batra, Learned Counsel appearing in Company Appeal
+(AT) (Insolvency) No. 502 of 2025 submits that the Appellant be
+also allowed a weeks’ time to bring on affidavit the details of all
+projects along with the current status and any other relevant facts
+with regard to said projects, the said affidavit be filed after serving
+it on the Respondent within a week.
+In so far as the other applications which have been filed by
+Interveners, it is open for the parties i.e. the Appellant as well as
+the Respondent to respond before the next date.
+List these Appeals on 07.07.2025 at 02:00 PM.
+
+[PAGE 36]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+36
+Interim Order to continue.”
+36.
+In compliance of the order dated 01.07.2025, appellant in Comp.
+App. (AT) (Ins.) No. 502/2025 has filed an affidavit bringing on record the
+project wise details as Annexure A-1 to the affidavit. Project wise Report,
+Annexure A-1 indicate that the corporate debtor has listed 26 projects in
+different cities of the state of Uttar Pradesh, state of Haryana, state of
+Punjab and state of Rajasthan. With regard to Sushant Golf City,
+Lucknow, Uttar Pradesh was mentioned as High-Tech Township
+Development Project spread over approximately over 4,465 acres. The
+project comprises RERA registered sub-Projects, some of which had
+already been completed Occupancy Certificate obtained. Details of some
+of the sub-Projects of Sushant Golf City, Lucknow are listed at Item No. 1
+to 93, with average status of completion. Annexure A-1 brought on the
+record by the Suspended Director of the corporate debtor by means of an
+affidavit is made part of this judgment as Schedule I.
+37.
+From the materials brought on record and submissions made by
+counsel for the parties and intervenors reflects large scale projects of the
+corporate debtor spread over different states of the country. In the state
+of Uttar Pradesh itself several High-Tech Township/Integrated Township
+Projects have been launched with corporate debtor as developer. In the
+different project spread over several states, thousands of allottees are
+involved. The appeals before us raise complex questions which arise in
+resolution of Real Estate Projects.
+
+[PAGE 37]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+37
+38.
+Learned counsel for the parties have also relied on various
+judgments of the Hon’ble Supreme Court and this Tribunal, where
+mechanism for resolution of Real Estate Project was laid down.
+39.
+From the materials on the record and submissions advanced by the
+counsel for the parties, following are the issues which arose for
+consideration in the present appeals:
+I.
+Whether the IL&FS has brought sufficient materials to prove
+that corporate debtor has committed default in payment to debt
+due in respect of Loan Agreements dated 18.03.20216 and
+25.11.2016 and there was sufficient ground to initiate CIRP
+against the corporate debtor?
+II.
+What are the purpose and extent of two loans and securities giv-
+en by corporate debtor in two loans and whether securities ex-
+tend to all the projects of corporate debtor or were confined to
+only few of projects?
+III.
+Whether moratorium imposed by order dated 25.02.2025 to ex-
+tend all the projects of corporate debtor situated in state of Uttar
+Pradesh and other states or need to be confined to only those
+projects where corporate debtor has given securities for two
+loans taken by IL&FS?
+IV.
+Whether the adjudicating authority ought to have considered in
+the CIRP project wise resolution/reverse CIRP to protect the in-
+terest of all stakeholders?
+
+[PAGE 38]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+38
+V.
+Whether in the facts of the present case, the CIRP needed to be
+confined at Lucknow Project i.e., Sushant Golf Project at first in-
+stance or any other specific project wise resolution?
+VI.
+Whether the facts of the present case have made out the case for
+issuing direction for project wise resolution of the corporate
+debtor/reverse CIRP in the interest of all stakeholders?
+VII.
+What are the way forward and further directions needed in facts
+of the present case?
+Question No.I
+
+40.
+We have noticed the background facts, which led the Financial
+Creditor to file Section 7 application against the CD on 06.08.2024. The
+basis of Section 7 application is two Loan Facilities extended by the IL&FS
+to the CD. The first Loan Facility of Rs.50 crores was extended by Loan
+Agreement dated 18.03.2016 and second Loan Facility of Rs.100 crores
+extended by Loan Agreement dated 26.10.2016. The CD having
+committed default, the Financial Creditor has initiated proceedings under
+Section 7 (earlier proceedings) being CP(IB) No.1649/ND/2019, which
+was withdrawn on 27.04.2021 on statements made by the parties before
+the Adjudicating Authority that CD is making settlement offer. A
+Settlement Agreement was executed on 03.03.2022. The CD has given a
+settlement offer for Rs.109,66,00,000/-, under which settlement offer, an
+amount of Rs.5 crores was paid. Revised settlement offer of
+Rs.104,66,00,000/- was submitted by the CD, which was accepted by the
+IL&FS on 22.11.2023. In pursuance of settlement an amount of Rs.28.36
+
+[PAGE 39]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+39
+crores was paid by the CD as on 31.03.2024. The CD asked for extension
+of time for making payment till 30.09.2024, which was declined by IL&FS.
+The IL&FS by letter dated 13.05.2024 terminated the Settlement
+Agreement and demanded the entire amount of Rs.2,574,312,692/-. Due
+to non-payment of the amount demanded, Section 7 application was filed
+on 06.08.2024. In Part-IV of Section 7 application, Financial Creditor has
+given details of its facilities, Sanctioned Letter dated 16.02.2016 and a
+subsequent Sanction Letter dated 26.10.2016 and the Agreements
+entered thereon. Part-IV of Section 7 application is as follows:
+“Part-IV
+Particulars of Financial Debt
+1.
+Total amount of
+Debt
+granted
+date(s)
+of
+disbursement
+The Applicant has granted a total sum of
+Rs. 150,00,00,000/- (Rupees One Hundred
+and Fifty Crores) ("Entire Loan Amount") to
+the Corporate Debtor on the dates and in
+the manner as detailed out in Annexure- A-
+4.
+The details of the transactions pursuant to
+which the said amounts were disbursed are
+as follows:
+A. Facility I:
+a. Pursuant to the request of the Corporate
+Debtor towards inter alia, requirement
+of funds for the development of a
+project (residential and commercial) at
+Lucknow
+("Project"),
+the
+Applicant
+granted a term loan facility of upto Rs.
+50,00,00,000/- (Rupees Fifty Crores
+only) ("Facility I") vide its Offer /
+Sanction
+Letter
+bearing
+no.
+D/
+OTL/16/89 dated February 16, 2016
+("Sanction Letter I"). A copy of the
+Sanction Letter I is annexed herewith
+as Annexure- A-5.
+b. In furtherance of the same, the Applicant
+executed a Loan Agreement dated
+March 18, 2016 ("Loan Agreement I")
+
+[PAGE 40]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+40
+with the Corporate Debtor. A copy of
+the First Loan Agreement is annexed
+herewith as Annexure- A-6.
+c.
+Pursuant to the Loan Agreement I, the
+Applicant disbursed a total amount of
+Rs.50,00,00,000/- (Rupees Fifty Crores
+only) on the dates and in the manner
+as detailed out in Part A of Annexure-
+A-4.
+d. Subsequently, the Loan Agreement I
+was amended vide a Supplemental
+Agreement
+dated
+June
+28,
+2018
+whereby
+repayment
+schedule
+as
+provided under Clause 14 of the
+Sanction Letter I was revised. A copy of
+the Supplemental Agreement dated
+June 28, 2018, is annexed herewith as
+Annexure- A-7.
+B. Facility II:
+a.
+Upon
+subsequent
+request
+of
+the
+Corporate
+Debtor,
+the
+Applicant
+granted another term loan facility of
+upto Rs. 100,00,00,000/ - (Rupees One
+Hundred Crores Only) ("Facility II") vide
+another Offer /Sanction Letter bearing
+no. DEL/OTL/17 / 100 dated October
+26, 2016 ("Sanction Letter II"). A copy
+of the Second Sanction Letter is
+annexed herewith as Annexure- A-8.
+b. In furtherance to the Sanction Letter II,
+the Applicant executed another Loan
+Agreement dated November 25, 2016
+("Loan Agreement II"). A copy of the
+Loan Agreement II is annexed herewith
+as Annexure- A-9.
+c.
+Pursuant to the Loan Agreement II, the
+Applicant disbursed a total amount of
+Rs.
+100,00,00,000/-
+(Rupees
+One
+Hundred Crores only) on the dates and
+in the manner as detailed out in Part B
+of Annexure- A-4.
+[Facility I and Facility I/ are collectively
+referred to as "Facilities'1 {Loan Agreement I
+and Loan Agreement I/ are collectively
+referred to as "Loan Agreements']
+2.
+Amount
+claimed
+to be in default
+and the date on
+which the default
+The total amount claimed to be default is
+Rs. 257,43,12,692/- (Rupees Two Hundred
+Fifty-Seven Crore Forty- Three Lakh Twelve
+Thousand Six Hundred Ninety-Two Only) -
+
+[PAGE 41]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+41
+
+41.
+In Part-IV details of the events subsequent to two Loan Agreements
+including OTS proposal and revised OTS proposal, which were mentioned
+under the heading A to FF. The Settlement Agreement entered between
+the partis on 03.03.2022 had also approval of the NCLT, Mumbai vide its
+order dated 14.10.2022. In Section 7 application, notices were issued by
+the Adjudicating Authority and reply has been filed by the CD, which
+reply has been brought on the record of the Company Appeal (AT) (Ins.)
+No.502 of 2025. In the reply, which was filed to Section 7 application, the
+CD has not disputed the default, which has been committed by the CD in
+repayment of the loan. In Paragraph 5 of the reply, the CD pleaded that
+amount outstanding is only Rs.83 crores as per revised settlement
+amount. Paragraph 5 of the reply is as follows:
+“5. The alleged default, as claimed by the Applicant, is Rs. 257.43
+crores. The Applicant is not entitled to the alleged debt claimed to
+be in default. The alleged default does not reflect the true situation
+as the Respondent had entered into a Settlement Agreement dated
+03.03.2022 with the Applicant, which was subsequently amended
+by Applicant's Letter dated 22.11.2023, whereby the Applicant
+sanctioned Rs. 111.36 crores ("Revised Settlement Amount") as the
+settled amount. The Respondent has already repaid Rs. 28.36
+crores by 31st March 2024, and only a sum of Rs. 83 crores are
+outstanding of out the Revised Settlement Amount.
+occurred
+(attach
+the workings for
+computation
+of
+amount
+and
+dates of default in
+Tabular Form
+(outstanding as on April 30, 2024). The date
+of default, as detailed hereinafter, is May
+21, 2024.
+.....”
+
+[PAGE 42]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+42
+42.
+The CD, thus, in the proceedings under Section 7, did not dispute
+that there is amount outstanding against the CD, payable to the Financial
+Creditor.
+43.
+We need to first notice the essential requirement, which needs to be
+proved by a Financial Creditor for an application under Section 7. The
+celebrated judgment on the subject, which is often referred to and relied
+is judgment of the Hon’ble Supreme Court in (2018) 1 SCC
+407
+–
+Innoventive Industries Ltd. vs. ICICI Bank and Anr. The Hon’ble
+Supreme Court in Paragraph 28 of the judgment laid down that
+Adjudicating Authority is to be satisfied that default has occurred and the
+CD is entitled to point out that default has not occurred. In Paragraph 28
+of the judgment, following has been laid down:
+“28. When it comes to a financial creditor triggering the process,
+Section 7 becomes relevant. Under the Explanation to Section 7(1),
+a default is in respect of a financial debt owed to any financial
+creditor of the corporate debtor — it need not be a debt owed to the
+applicant financial creditor. Under Section 7(2), an application is to
+be made under sub-section (1) in such form and manner as is
+prescribed, which takes us to the Insolvency and Bankruptcy
+(Application to Adjudicating Authority) Rules, 2016. Under Rule 4,
+the application is made by a financial creditor in Form 1
+accompanied by documents and records required therein. Form 1
+is a detailed form in 5 parts, which requires particulars of the
+applicant in Part I, particulars of the corporate debtor in Part II,
+particulars of the proposed interim resolution professional in Part
+III, particulars of the financial debt in Part IV and documents,
+records and evidence of default in Part V. Under Rule 4(3), the
+applicant is to dispatch a copy of the application filed with the
+adjudicating authority by registered post or speed post to the
+
+[PAGE 43]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+43
+registered office of the corporate debtor. The speed, within which
+the adjudicating authority is to ascertain the existence of a default
+from the records of the information utility or on the basis of
+evidence furnished by the financial creditor, is important. This it
+must do within 14 days of the receipt of the application. It is at the
+stage of Section 7(5), where the adjudicating authority is to be
+satisfied that a default has occurred, that the corporate debtor is
+entitled to point out that a default has not occurred in the sense
+that the “debt”, which may also include a disputed claim, is not
+due. A debt may not be due if it is not payable in law or in fact. The
+moment the adjudicating authority is satisfied that a default has
+occurred, the application must be admitted unless it is incomplete,
+in which case it may give notice to the applicant to rectify the
+defect within 7 days of receipt of a notice from the adjudicating
+authority. Under sub-section (7), the adjudicating authority shall
+then communicate the order passed to the financial creditor and
+corporate debtor within 7 days of admission or rejection of such
+application, as the case may be.”
+
+44.
+The next judgment to be noticed is the judgment of the Hon’ble
+Supreme Court in E.S. Krishnamurthy and Ors. vs. Bharath Hi-Tech
+Builders Pvt. Ltd. – (2022) 3 SCC 161, where the Hon’ble Supreme
+Court held that the Adjudicating Authority is empowered only to verify
+whether default has occurred or if a default has not occurred and based
+on which decision, the Adjudicating Authority must either admit or reject
+the application. In Paragraph 34 of the judgment, following has been laid
+down:
+“34. The adjudicating authority has clearly acted outside the terms
+of its jurisdiction under Section 7(5) IBC. The adjudicating
+authority is empowered only to verify whether a default has
+occurred or if a default has not occurred. Based upon its decision,
+the adjudicating authority must then either admit or reject an
+
+[PAGE 44]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+44
+application, respectively. These are the only two courses of action
+which are open to the adjudicating authority in accordance with
+Section 7(5). The adjudicating authority cannot compel a party to
+the proceedings before it to settle a dispute.”
+45.
+The next judgment which needs to be noticed is the judgment of the
+Hon’ble Supreme Court in M. Suresh Kumar Reddy vs. Canara Bank
+and Ors. – (2022) 8 SCC 387, where Hon’ble Supreme Court in
+Paragraph 13-14 laid down following:
+“13. A review petition was filed by Axis Bank Ltd. seeking a review
+of the decision of Vidarbha Industries [Vidarbha Industries Power
+Ltd. v. Axis Bank Ltd., (2022) 8 SCC 352 : (2022) 4 SCC (Civ) 329]
+on the ground that the attention of the Court was not invited to the
+case of E.S. Krishnamurthy [E.S. Krishnamurthy v. Bharath Hi-
+Tecch Builders (P) Ltd., (2022) 3 SCC 161 : (2022) 2 SCC (Civ) 129]
+. While disposing of review petition by order dated 22-9-2022 [Axis
+Bank Ltd. v. Vidarbha Industries Power Ltd., (2023) 7 SCC 321 :
+(2023) 3 SCC (Civ) 773] , this Court held thus : (Vidarbha
+Industries Power case [Axis Bank Ltd. v. Vidarbha Industries Power
+Ltd., (2023) 7 SCC 321 : (2023) 3 SCC (Civ) 773] , SCC p. 323,
+paras 6-7)
+“6. The elucidation in para 90 and other paragraphs [of the
+judgment
+under
+review]
+[Vidarbha
+Industries
+Power
+Ltd. v. Axis Bank Ltd., (2022) 8 SCC 352 : (2022) 4 SCC (Civ)
+329] were made in the context of the case at hand. It is well
+settled that judgments and observations in judgments are
+not to be read as provisions of statute. Judicial utterances
+and/or pronouncements are in the setting of the facts of a
+particular case.
+7. To interpret words and provisions of a statute, it may
+become necessary for the Judges to embark upon lengthy
+discussions. The words of Judges interpreting statutes are
+not to be interpreted as statutes.”
+
+[PAGE 45]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+45
+14. Thus, it was clarified by the order in review that the decision
+in Vidarbha Industries [Vidarbha Industries Power Ltd. v. Axis
+Bank Ltd., (2022) 8 SCC 352 : (2022) 4 SCC (Civ) 329] was in the
+setting of facts of the case before this Court. Hence, the decision
+in Vidarbha Industries [Vidarbha Industries Power Ltd. v. Axis
+Bank Ltd., (2022) 8 SCC 352 : (2022) 4 SCC (Civ) 329] cannot be
+read and understood as taking a view which is contrary to the view
+taken in Innoventive Industries [Innoventive Industries Ltd. v. ICICI
+Bank, (2018) 1 SCC 407 : (2018) 1 SCC (Civ) 356] and E.S.
+Krishnamurthy [E.S. Krishnamurthy v. Bharath Hi-Tecch Builders
+(P) Ltd., (2022) 3 SCC 161 : (2022) 2 SCC (Civ) 129] . The view
+taken in Innoventive Industries [Innoventive Industries Ltd. v. ICICI
+Bank, (2018) 1 SCC 407 : (2018) 1 SCC (Civ) 356] still holds good.”
+46.
+In the reply, which was filed by the CD before the Adjudicating
+Authority, the CD placed reliance on judgment of the Hon’ble Supreme
+Court in Vidarbha Industries Power Ltd. vs. Axis Bank Ltd. – (2022) 8
+SCC 352, in which case the Hon’ble Supreme Court was of the view that
+in the facts of the said case, where CD was possessed with decree in
+arbitration of decretal amount, which was more than the debt and
+default, it held that initiation of CIRP in such cases is not mandatory. In
+the facts of the present case, there are no such facts or pleadings on
+which it can be held that initiation of CIRP was uncalled for. It is true
+that in the reply, the CD has pleaded that it is executing multiple projects
+across diverse location and initiation of CIRP would paralyze these
+projects and result in destruction of value for creditors and other
+stakeholders.
+47.
+We have considered the facts brought in the present case and all
+materials, which have been brought by the Financial Creditor in Section 7
+
+[PAGE 46]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+46
+application filed against the CD. We are of the view that Adjudicating
+Authority has rightly returned the finding that debt and default on the
+part of the CD in repayment of dues of the Financial Creditor are fully
+proved. In Paragraphs 12 and 13 of the impugned order, the Adjudicating
+Authority has observed following:
+“12. In light of these facts, it is evident that the Corporate Debtor
+has repeatedly failed to honor its financial commitments and has
+not adhered to the timelines set out in the Settlement Agreement.
+The Corporate Debtor's request for additional time to settle the case
+is not a legitimate defense against the admission of the application,
+as it is based on the same pattern of non-payment and delays.
+13. In conclusion, the Corporate Debtor has admitted the existence
+of the debt and the default, and the default amount exceeds the
+statutory threshold of Rs. 1 crore. The dispute over the quantum of
+the debt does not affect the admissibility of the application at this
+stage, as it is a matter for the IRP to resolve post-admission. The
+Corporate Debtor’s repeated defaults, failure to comply with
+settlement
+terms,
+and
+inability
+to
+provide
+a
+satisfactory
+justification for its non-payment further reinforce the need for
+admission of this application. Therefore, we find that the
+application under Section 7 of the IBC is complete in all respects,
+and we hereby admit the application.”
+48.
+We fully concur with the findings and conclusions drawn by the
+Adjudicating Authority that CD has admitted the existence of the debt
+and the default, and the default amount exceeds the statutory threshold
+of Rs.1 crore. We, thus, are satisfied that order of Adjudicating Authority
+initiating CIRP against the CD cannot be faulted. However, in view of the
+fact that CD is carrying various projects situated in different locations of
+the country, what would be the manner and procedure for conducting the
+
+[PAGE 47]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+47
+CIRP against the CD, shall be considered and examined by us in foregoing
+paragraphs of this judgment.
+49.
+In view of the aforesaid, we answer Question No.I to following effect:
+The IL&FS (Financial Creditor) has brought sufficient
+material to prove that the CD has committed default in
+payment of its debt, due in respect of Loan Agreements
+dated
+18.03.2016
+and
+25.11.2016
+and
+there
+was
+sufficient ground to initiate CIRP against the CD.
+Question No.II
+
+50.
+By virtue of order dated 01.07.2025 in these Appeal(s), the CD has
+filed an additional affidavit dated 04.07.2025 in Company Appeal (AT)
+(Ins.) No.502 of 2025 bringing on record project-wise report regarding the
+Projects undertaken by the CD from the year 2000. Annexure A-1
+contains project wise report and details of 93 projects registered with UP
+RERA, which Annexure A-1 is appended as Schedule-1 to this judgment.
+Schedule-1 of the Annexure A-1, captures the extent of various projects,
+which have been undertaken by the CD in different States of this country
+and number of projects, which are being taken at mother City at
+Lucknow.
+51.
+Secton-7 application has been filed by the IL&FS with respect to
+two Rupee Term Loan Facility extended by the Il&FS to the CD. First
+Loan was sanctioned of Rs.50 crores by letter dated 16.02.2016 and the
+second loan was sanctioned by Sanction Letter dated 26.10.2016. The
+
+[PAGE 48]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+48
+first Loan Agreement is dated 18.03.2016 and the second Loan Agreement
+is dated 25.11.2016. The loan was sanctioned by IL&FS to the CD on the
+terms and conditions, which were part of the Sanction Letter and Loan
+Agreements were also executed. As per the terms and conditions, which
+were offered to the CD, two relevant facts have been noticed in the Loan
+Agreements are that the CD has already been sanctioned Rs.3930 million
+(Rs.39.30 crores) funding facility by Consortium of Bankers under Pooled
+Municipal Debt Obligation (“PMDO”) and PMDO Facility of Rs.3210
+million is proposed to the CD. The second Loan Agreement also notices
+that projects of the CD are throughout in India. The Sanction Letters and
+Loan Agreements thus provided for securities, which were to be given by
+the CD for repayment of the two loans.
+52.
+The CD has undertaken projects in different cities of UP under Hi-
+Tech Township Policy of 2003 and apart from Lucknow, the CD entered in
+agreement with Development Authorities and has been carrying out
+different projects in different cities of the State of UP. The CD has also
+Projects in other States including the State of Rajasthan, Haryana and
+Punjab.
+53.
+One of the major problem which is encountered with respect to
+insolvency of real estate project, which are undertaken by a real estate
+Company, are as to extent of the CIRP, which has been initiated by a
+Financial Creditor of one particular Project of real estate Company when
+the real estate Company is carrying on more than one Projects, several
+difficulties arises. Few of which are:
+
+[PAGE 49]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+49
+(1) When Financial Creditor relying on one project, files an
+application under Section 7 of the IBC against a real estate
+Company, whether CIRP should confine to the Project in
+question or it should take into its fold all the projects being run
+by the real estate Company.
+(2) When a Financial Creditor initiate the CIRP with respect to a
+project situated in a particular City or a particular State,
+whether the projects of the CD situated in different cities or
+States, are also to be undertaken in the fold of the CIRP.
+(3) When the Financial Creditor is a Financial Institution and it has
+extended facilities to the CD and has taken security from the CD
+for ensuring repayment of the loan, which security may include
+one or more projects of the CD, whether the CIRP should confine
+only to the projects and assets of the CD, which are part of the
+securities mentioned in the Loan Agreement.
+(4) When a CIRP against one project is being undertaken, whether
+the CoC should confine to the claims with respect to the said
+project only or it should extend to claims in various other
+projects.
+54.
+For answering some of the issues, which arose with respect to
+insolvency resolution of the real estate project, we first need to notice the
+Rupee Term Loan Facilities, which were the basis for initiation of Section
+7 application by the CD. Part-IV of Section 7 application refers to two
+
+[PAGE 50]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+50
+Facilities. Facility-I of Rs.50 crores and Facility-II of Rs.100 crores and
+total amount claimed is Rs.257,43,12,692. We have also extracted the
+relevant portions of Part-IV in the above part of this judgment. Now we
+need to notice the details of Facility-I and Facility-II. We also need to
+notice the securities, which were contemplated in the Facility-I and
+Facility-II and the securities, which have been mentioned in Section 7
+application. The Financial Institutions when extend the loan facilities to a
+CD for its repayment, securities are created and thus security interest of
+the Financial Institutions is created in the asset. Facility-I was sanctioned
+by letter dated 16.02.2016 and along with Sanction Letter, terms and
+conditions for Term Loan Facility was also mentioned. We need to notice
+few Clause of terms and conditions. In Clause-6 PMDO Facility has been
+defined in following manner:
+“6.
+PMDO Facility
+: Rs 3210 mn (proposed) and Rs 3930
+mn funding facilities extended by
+Consortium of Bankers under "Pooled
+Municipal Debt Obligation" to Ansal
+API Infrastructure Ltd (AAIL) towards
+development
+of
+infrastructure
+at
+Lucknow Township”
+
+55.
+Clause-7 contains definition of Hypothecated Identified Receivables
+and other terms, which Clause-7 is as follows:
+“7.
+(a) Hypothecated
+Identified
+Receivables
+
+: (a)
+"Hypothecated
+Identified
+Receivables" shall mean receivables
+aggregating to a minimum ~Rs.5.64 Bn
+from FSI of Mother City/ sold by APIL
+to various Buyers under DA I/II/III/
+(Details
+of
+Hypothecated
+Identified
+Receivables are attached as Annexure
+A)
+
+[PAGE 51]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+51
+
+(b) Escrow FSI
+Receivables
+: (b) "Escrow FSI Receivables" shall mean
+identified receivables from out of the
+Hypothecated
+Identified
+Receivables
+aggregating to Rs 1.35 Bn or such
+amount as may be agreed (the "Escrow
+FSI Receivables") and which shall be
+deposited by the FSI Buyers directly
+into a designated account acceptable to
+IFIN (the "FSI Escrow Account") APIL/
+Promoters will confirm & undertake &
+ensure that the entire Escrow FSI
+Receivables are deposited directly into
+the FSI Escrow Account by the FSI
+Buyers
+Details
+of
+Escrow
+FSI
+Receivables to be provided by the
+Borrower prior to disbursement
+
+(c) Balance FSI
+Receivables
+: (c) "Balance FSI Receivables" shall
+mean
+the
+Hypothecated
+Identified
+Receivables less the Escrowed FSI
+Receivables
+
+(d) IFIN Escrow
+FSI Receivables
+: (d) "IFIN Escrow FSI Receivables" shall
+mean
+75%
+of
+the
+Escrow
+FSI
+Receivables which shall be forthwith
+transferred
+from
+the
+FSI
+Escrow
+Account into a sub-account of the FSI
+Escrow
+Account
+("IFIN
+FSI
+Sub-
+Account")
+
+(e) Segregated
+Escrow FSI
+Receivables
+: (e) "Segregated Escrow FSI Receivables"
+shall mean 25% of the Escrow FSI
+Receivables which shall be forthwith
+transferred
+from
+the
+FSI
+Escrow
+Account into a sub-account of the FSI
+Escrow Account "Segregated FSI Sub-
+Account"
+
+56.
+Clause-10 deals with the ‘Purpose of the Facility’, which provided
+that Facility would be utilized for any of the specific purpose as
+mentioned therein. Clause-10 is as follows:
+“10.
+Purpose
+of
+the
+Facility
+: The funds provided under the Facility
+would be utilized for any of the below
+
+[PAGE 52]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+52
+specified purposes:
+(a)
+Project Development Expenses in
+APIL's
+various
+under
+construction real estate projects
+(b)
+Long Term Working Capital
+(c)
+Extending loan & advance to
+subsidiaries/
+associates
+including loan & advance to
+AAIL(PMDO borrower) towards
+implementation
+of
+trunk
+infrastructure
+at
+Lucknow
+township (Phase II) as envisaged
+by PMDO pending disbursement
+of proposed PMDO loan of Rs.
+3210 mn
+(d)
+General Corporate purposes
+The Borrower shall provide a Statutory
+Auditor's Certificate confirming the
+end-use of funds within 30 days of
+disbursement(s).”
+
+57.
+Clause-15 delas with ‘Sources of Repayment’, which is as follows:
+“15.
+Sources
+of
+Repayment
+: The Facility shall be repaid from the
+below mentioned illustrative sources:
+(a)
+Receivables from Hypothecated
+Identified Receivables
+(b)
+Cash flows from sale from the
+properties mortgaged with IFIN
+(c)
+Disbursement under sanction of
+Rs.3,210 Mn from PMDO/PNB
+to the extent the Facility is
+utilised towards extending loan
+& advance to PMDO borrower
+(AAIL) towards implementation
+of
+trunk
+infrastructure
+at
+Lucknow township (Phase II) as
+envisaged by PMDO / PNB
+(d)
+Revenues/ operating cash flows
+of the Borrower
+(e) Promoter's Equity outright sale
+proceeds
+(f)
+Refinancing
+(g) Fresh infusion of equity/ quasi
+equity
+into
+the
+Borrower/
+divestment proceeds”
+
+[PAGE 53]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+53
+58.
+Clause-21 deals with ‘Security’. Clause-21 specifically refers to
+exclusive mortgage of fully developed plots situated at Mother City,
+Lucknow; Hypothecated receivables of Lucknow plots and first exclusive
+mortgage built up properties located at Lucknow/ Jaipur/ Jodhpur/
+Ajmer. Clause-21 is as follows:
+“21.
+Security
+: The Facility shall be secured by the
+following:
+(a)
+(1) First exclusive mortgage of
+fully developed Plots (ready to
+construct
+plots
+by
+the
+prospective buyers) situated at
+Mother
+city,
+Lucknow
+(the
+"Lucknow
+Plots")
+Valuation/
+Title
+Investigation
+to
+IFIN
+satisfaction by IFIN appointed
+Valuer/s
+&
+Legal
+Counsel.
+Details/
+Title
+Deeds
+to
+be
+provided
+immediately
+for
+expeditious processing
+
+(2) First exclusive hypothecation
+of receivables from the Lucknow
+Plots ("Hypothecated Receivables
+of Lucknow Plots"). Irrevocable
+POA
+from
+Borrower
+for
+the
+Hypothecated Receivables of the
+Lucknow Plots
+(b) First exclusive hypothecation of
+Hypothecated
+Identified
+Receivables
+Irrevocable
+POA
+from
+Borrower
+for
+the
+Hypothecated
+Identified
+Receivables
+(c)
+(1) First exclusive mortgage built
+up properties (ready to move in
+status) (located at Lucknow/
+Jaipur/ Jodhpur/ Ajmer) ("Built
+Up Properties")
+
+(2) First exclusive hypothecation
+of recievables from Built Up
+Properties ("Hypothecated Built
+Up
+Properties
+Receivables").
+Irrevocable POA from Borrower
+for the Hypothecated Built Up
+Properties Receivables
+
+[PAGE 54]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+54
+(d)
+Corporate Guarantee of all land
+owning companies other than
+the Borrower, if any, providing
+immovable property as security
+(e)
+Personal
+Guarantee
+of
+Mr.
+Sushil Ansal and Mr. Pranav
+Ansal
+(f)
+Demand
+Promissory
+note
+in
+favour
+of
+the
+Lender.
+The
+Promissory note shall bear the
+common seal of the Borrower
+duly supported by a resolution of
+the Board of Directors of the
+Borrower
+(g)
+ECS mandate for Principal &
+Interest (including PDC for one
+month interest and Principal)”
+
+59.
+Along with terms and conditions, Annexure-A was also annexed,
+which was “Details of Hypothecated Identified Receivables” in two parts,
+which included residential and commercial assets noted therein. Total
+balance receivables against CD as contained in Annexure-A is Rs.564.33
+crores.
+60.
+The various terms and conditions in the Loan Agreement being
+repetition of terms and conditions as noted above, it needs no repetition.
+61.
+Similarly, second Loan Facility dated 26.10.2016 of Rs.100 crores
+was issued, which also contained the terms and conditions. Clause 6 of
+the PMDO Facility is in following manner:
+“6.
+PMDO Facility
+: PMDO I : Rs 3930 mn funding
+facilities extended by Consortium of
+Bankers under "Pooled Municipal Debt
+Obligation" (`PMDO") to Ansal API
+Infrastructure Ltd ("AAIL") towards
+development of trunk infrastructure at
+Mother City, being part of township
+located at Lucknow ("Mother City,
+Lucknow") which is being developed
+
+[PAGE 55]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+55
+pursuant
+to
+the
+terms
+of
+the
+[development
+agreements
+for
+the
+Mother City, Lucknow project] ("DA
+I/II/III")]
+PMDO II : Proposed term loan of up to
+Rs. 1,500 mn to AAIL from PMDO
+lenders towards development of trunk
+infrastructure for Phase II of the
+township located at Lucknow ("Mother
+City Extension, Lucknow"), which is
+being developed pursuant to the terms
+of the [development agreements for the
+said
+the
+Mother
+City
+Extension,
+Lucknow project] ("DA IV/V") of the
+Lucknow Township”
+
+62.
+Clause-7 refers to ‘Hypothecated & Escrowed Identified Receivables
+– Mother City, Lucknow and Hypothecated & Escrowed Identified
+Receivables- Mother City Extension, which is as follows:
+“7.
+(A) Hypothecated
+&
+Escrowed
+Identified
+Receivables
+—
+Mother City
+
+: (a)
+"Hypothecated
+&
+Escrowed
+Identified Receivables — Mother
+City"
+shall
+mean
+entire
+receivables (present and future)
+from
+FSI/Group
+Housing
+/
+Commercial / Plots / Villas/ any
+other
+development
+(unless
+specifically excluded by IFIN) at
+Mother City, Lucknow proposed
+to be sold/ already sold by APIL
+to various buyers, which Mother
+City, Lucknow is being developed
+pursuant to the terms of DA
+I/II/III
+along
+with
+residual
+cashflows from the said Mother
+City, Lucknow project, for part
+construction of which funding
+has
+also
+been
+availed
+from
+cert3.!tiei,, !er lenders (to be
+specified by the Borrower in
+writing
+with
+details,
+which
+lenders may be excluded upfront
+by IFIN). A summary of the
+Hypothecated
+&
+Escrowed
+Identified Receivables -Mother
+City is provided below:
+
+Category
+Balance
+Total
+
+[PAGE 56]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+56
+
+(B) Hypothecated
+&
+Escrowed
+Identified
+Receivables
+-
+Mother
+City
+Extension
+(Rs.mn)
+Receivables
+Sold
+Unsold
+FSI
+
+--Group
+Housing
+3,790
+4,320
+8,110
+--Commercial
+1,870
+7,320
+9,190
+Plots
+640
+2,370
+3,010
+Villas/Floors
+820
+3,310
+4,120
+Group
+Housing
+1,310
+4,210
+5,520
+Commercial
+290
+1,470
+1,760
+Other (Public,
+recreation,
+etc.)
+660
+2,950
+3,610
+Total
+9,370
+25,950
+35,220
+
+(b)
+"Hypothecated
+&
+Escrowed
+Identified Receivables - Mother
+City
+Extension"
+shall
+mean
+entire receivables (present and
+future) from FSI/Group Housing
+/ Commercial / Plots / Villas/
+any other development (unless
+specifically excluded by IFIN) at
+Mother City Extension, Lucknow
+proposed to be sold/ already
+sold by APIL to various buyers
+which
+are
+being
+developed
+pursuant to the terms of DA wry
+along with residual cashflows
+from
+the
+said
+Mother
+City
+Extension, Lucknow project, for
+which
+part
+of
+construction
+funding is availed from certain
+other lenders (to be specified by
+the Borrower in writing with
+details, who may be excluded
+upfront by IFIN). A summary of
+Hypothecated
+&
+Escrowed
+Identified Receivables - Mother
+City Extension is provided below:
+Category
+(Rs.mn)
+Balance
+Receivables
+Total
+Sold
+Unsold
+FSI
+
+--Group
+Housing
+1,910
+10,400
+12,310
+--Commercial
+120
+2,730
+2,850
+Plots
+2,420
+4,220
+6,640
+Villas/Floors
+2,430
+6,350
+8,780
+Group
+Housing
+1,680
+5,160
+6,840
+Commercial
+30
+80
+110
+Other (Public,
+recreation,
+etc.)
+90
+6,010
+6,100
+Total
+8,690
+34,940
+43,630
+
+[PAGE 57]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+57
+
+The Borrower shall provide all the
+details
+including
+the
+basis
+of
+assessment
+of
+future
+receivables,
+name of the scheme/ FSI buyers,
+approved plan including FSI/ Total
+Sqft, lenders details, as applicable, to
+the satisfaction of IFIN.
+
+63.
+It is relevant to notice that above Loan Agreement refers to
+Development Agreement I, II and III and with regard to Mother City
+Extension. The Loan Agreement, thus, has clearly noticed the
+Development Agreement, which was entered with Lucknow Development
+Authority and the CD. With regard to receivables from Mother City, total
+amount of Rs.35,220 million and for Mother City Extension Rs.43,630
+million have been mentioned. The security, which was provided in
+Clause-21 of the second Agreement clearly mentions for security of plots
+and Mother City Extension, Lucknow; Golf Plots etc. The second Loan
+Agreement, thus mentions security situated at City of Lucknow only.
+64.
+In pursuance of the Sanction Letter dated 26.10.2016, the Loan
+Agreement dated 25.11.2016 was entered with terms and conditions as
+noted in the Sanction Letter. The details of securities were mentioned in
+the Agreement as noted above.
+65.
+Section 7 application filed by the Financial Institution in Part-V has
+given details of security, certificate of registration of charge and other
+details. It is useful to notice Part-V Sl. No.1, which is as follows:
+1.
+Particulars
+of
+security held, if any,
+the
+date
+of
+its
+Under the terms of the Sanction Letters
+read with the Loan Agreements, the
+Corporate
+Debtor
+had
+offered
+the
+
+[PAGE 58]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+58
+creation,
+its
+estimated value as
+per the creditor.
+
+[attach a copy of a
+certificate
+of
+registration
+of
+charge issued by the
+registrar
+of
+companies
+(if
+the
+corporate debtor is a
+company)]
+following as security for securing the
+repayment of the Facility Amount:
+A. First exclusive charge in the form of
+mortgage by deposit of title deeds
+over various properties owned/held
+by the Corporate Debtor as per
+details
+given
+in
+Annexure-
+A-
+27(Colly)
+B. First exclusive charge in the form of
+hypothecation
+over
+receivables
+generated from various properties as
+per details given in Annexure- A-28
+(Colly).
+C.
+Corporate
+Guarantees
+of
+the
+landowning
+companies
+associated
+with
+the
+Corporate
+Debtor
+as
+detailed out in Annexure- A-29
+(Colly)
+D. Personal Guarantees of Mr. Sushi!
+Ansal
+and
+Mr.
+Pranav
+Ansal,
+Chairmen of the Corporate Debtor as
+detailed out in Annexure- A-30
+(Colly).
+E. Demand Promissory Note for:
+a. the amount of Rs.50,00,00,000/-
+(Rupees Fifty Crores only) with
+interest at the rate of 17.5% per
+annum
+executed
+by
+the
+Corporate Debtor under the hand
+of Mr. Ashok Dang and Mr. Kapil
+Arora.
+b. the
+amount
+of
+Rs.100,00,00,000/- (Rupees One
+Hundred
+Crores
+only)
+with
+interest at the rate of 17 .5% per
+annum
+executed
+by
+the
+Corporate Debtor under the hand
+of Mr. Ashok Dang and Mr. Kapil
+Arora.
+Copies
+of
+the
+above-mentioned
+Demand
+Promissory
+Notes
+are
+annexed herewith as Annexure- A-31
+(Colly).
+F. Copies
+of
+the
+certificates
+of
+registration of the said charges are
+annexed herewith as Annexure- A-32
+(Colly)”
+
+[PAGE 59]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+59
+66.
+Above pleadings in Part-V Section 7 application mentions in
+Annexure A-27, first exclusive charge in the form of mortgage by deposit
+of title deeds and first exclusive charge in the form of hypothecation over
+receivable generated from various properties as per details given in
+Annexure-28, and copies of certificates of registration of the charges as
+per details given in Annexure-32. Section-7 application itself provides
+details of security and charges created by the parties.
+67.
+It is relevant to notice that a Settlement Agreement was entered
+between the CD and IL&FS dated 03.03.2022, under which the CD had
+agreed to make total payment of Rs.109,66,00,000/- to the IL&FS. The
+Settlement Agreement in Schedule-B mentions “List of Existing Securities
+and Security Documents”. The securities mentioned at Sl. No.1, 2, 3 and
+4 relates to assets at Lucknow and security mentioned at Sl. No.5
+mention 27 units in building known as Ansal Royal Plaza, Jodhpur; 54
+units in Orchid Plaza and 14 units in Tulip Plaza at Jaipur; Sl. No.6
+mentions 59 built up units at Ajmer, Rajasthan; Sl. No.7 mentions
+property at Jodhpur, Jaipur, Lucknow and Ajmer; and Sl. No.8 deals with
+hypothecation.
+68.
+The relevant terms and conditions of the Sanction Letter and the
+Loan Agreements, thus, clearly provided for immovable securities for
+repayment of both the loans, in addition to the projects of the CD at City
+of Lucknow, U.P., the security was also created with respect to three cities
+in the State of Rajasthan i.e. Ajmer, Jodhpur and Jaipur. From
+Annexure-A, which has been brought on the record by the CD, as noted
+
+[PAGE 60]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+60
+above, it is clear that apart from different projects at City Lucknow, State
+U.P., the CD had projects in the State of Haryana, Mohali (Punjab),
+Rajasthan – Ajmer, Jodhpur and Jaipur. There are 93 registered projects
+in the City of Lucknow alone. The question, which needs to be answered
+is as to whether securities, which have been taken by Financial
+Institutions, i.e. IL&FS in the present case has any relevance with respect
+to CIRP of a real estate Company. The securities obviously have been
+taken by the Financial Institutions to ensure repayment of its loan and
+when the CD commits default as per the Loan Agreement, the Financial
+Institutions are entitled to take remedy as per the Agreement and recover
+its dues by realization as per the insolvency process contemplated under
+the IBC. The IBC and CIRP Regulations, do not contain any provision so
+as to specify if Financial Institutions has receivable or securities of one or
+more projects of the CD in the CIRP, whether the CIRP should confine to
+one project of the CD or all projects or to the projects, in which lenders
+have receivables and securities.
+69.
+We in the order dated 25.04.2025 passed in these Appeal(s) have
+noticed that with respect to the CD, the CIRP has also earlier commenced
+at two occasions with respect to projects namely – Fernhill Project,
+Gurgaon State of Haryana and Serene Residency Group Housing Project
+in the State of UP.
+70.
+With respect of Fernhill Project of the CD, a Section 7 application
+was filed by the allottees of Fernhill Project, on which CIRP commenced
+against the CD on 16.11.2022, against which order Company Appeal (AT)
+
+[PAGE 61]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+61
+(Ins.) Nos.41, 65 and 77 of 2023 were filed in this Tribunal. This
+Tribunal passed an order on 13.01.2023 confining the order of the
+Adjudicating Authority admitting Section 7 application to ‘Fernhill Project’
+situated at District Gurgaon, which has been noticed in the order dated
+04.03.2024 in the above Company Appeal(s). Paragraph 2 of the order
+dated 04.03.2024 is as follows:
+“2. These appeals have been filed against the order dated
+16.11.2022 passed in Section 7 Application by which on an
+Application filed by 125 allottees (Financial Creditors), the
+Adjudicating Authority admitted Section 7 Application. The
+allottees, who filed the Application, were allottees of one Projects
+the ‘Fernhill Project’. This Tribunal entertained the appeal and
+passed following interim order dated 13.01.2023:
+“O R D E R
+13.01.2023: Learned counsel for the Appellant submits that
+the Adjudicating Authority had on an application under
+Section 7 by the allottees of one project Fernhill situated in
+Section-91, Gurgaon, Manesar, Haryana has initiated CIRP
+process against the Corporate Debtor. It is submitted that
+the Corporate Debtor has several projects and the
+Appellants are allottees in two projects situated at Lucknow,
+State of Uttar Pradesh. It is submitted that the Applicant
+allottees being only concerned with Fernhill project CIRP
+ought to have been confined to Fernhill project only and
+projects in other States ought not to have been included.
+Submission needs scrutiny.
+Issue notice. Requisites alongwith process fee be filed
+within three days. Respondents may file Reply within two
+weeks. Rejoinder be filed within two weeks thereafter.
+List this Appeal on 28.02.2023.
+
+[PAGE 62]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+62
+We provide that the order of Adjudicating Authority
+admitting Section 7 application shall confine to ‘Fernhill
+project’ situated at District Gurgaon.”
+71.
+The Appeal(s) were filed challenging the order dated 16.11.2022 by
+the allottees of different projects of the CD, which projects were situated
+in different Cities. The allottees who had initiated the CIRP against the
+CD, relating to Fernhill Project, also had agreed that CIRP initiated vide
+order dated 16.11.2022 be confined to only Fernhill Project. The order of
+the Adjudicating Authority was modified by this Tribunal by directing that
+the same be confined to only one project, i.e. Fernhill. In Paragraph-3,
+following was directed:
+“3. All these appeals by the allottees, who have different projects of
+the Corporate Debtor and by initiation of CIRP they have been
+aggrieved. The Projects of the Appellants are situated at different
+cities and the ‘Fernhill’ project is situated at Manesar, Haryana.
+Learned Counsel for the Appellants as well as the learned Counsel
+for the allottees, who are Applicant, are agreeable that the CIRP
+should be confined only to ‘Fernhill Project’. There being no dispute
+between the parties that CIRP should be confined to Fernhill
+Project, we modify the impugned order dated 16.11.2022 only to
+the extent that the CIRP admitted against the Corporate Debtor
+shall confine only to one project i.e. “The Fernhill” situated at
+“Revenue Estate of Village Mewka, TehsilManesar, Sector-91,
+District- Gurgaon, Haryana”
+72.
+The Appeal was disposed of by this Tribunal accordingly.
+73.
+Another CIRP commenced against the CD with respect to ‘Serene
+Residency Group Housing’ Project, situated at Greater Noida, U.P. and
+
+[PAGE 63]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+63
+that CIRP was also confined to the said Project only, not affecting the
+other Projects.
+74.
+The above facts indicate that there are two instances with respect to
+CIRP against the CD, where the CIRP was confined to the respective
+projects only and the CIRP was not directed to be proceeded with respect
+to all projects of the CD.
+75.
+We have noticed in detail the securities, which have been provided
+for in the Loan Agreements between the CD and IL&FS. For the purpose
+of consideration as to whether the CIRP, which has been initiated by the
+impugned order dated 25.02.2025 should be confined to the assets which
+are included in the securities provided by the CD or it should engulf all
+Projects of the CD, the same shall be considered hereinafter.
+Question Nos.III to VI
+All the above questions being inter-related, are being taken
+together.
+76.
+We have noticed above that on two occasions, where the CIRP
+commenced against the CD, i.e. Ansal Properties and Infrastructure Ltd.,
+the CIRP was confined to two projects respectively, since the CIRP was
+initiated by the Financial Creditors in a class relating to concerned
+projects. We have noticed above the securities and receivables, which are
+contemplated in Loan Agreements between the parties relate to only
+projects of the CD situated at City of Lucknow in the State of U.P. and
+three Cities in the State of Rajasthan, i.e. Ajmer, Jodhpur and Jaipur.
+
+[PAGE 64]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+64
+The details of assets on all securities and mortgages created in the above
+Cities have been noticed above. The present is a case where the CD was
+implementing the Hi-Tech Township Project under the Policy promulgated
+by the State of U.P. in different cities of the State of U.P. Lucknow is one
+of the City, which is referred in the Loan Agreement as Mother City, where
+the CD was carrying out development work as per Development
+Agreements-I to V, when Loan Facility was extended by IL&FS, the IL&FS
+was well aware that CD has been proposed under PMDO-I Rs.3930
+million and under PMDO-II Rs.3210 million. The Financial Creditors,
+thus, was fully conscious of earlier facilities extended by Consortium of
+Bankers to the CD and have provided in detail the securities, which
+include the mortgaged assets, receivables, hypothecated and identifiable
+receivables. It is further relevant to notice that the Sanction Letter dated
+16.02.2016 in Annexure-A notices the hypothecated, identified and
+receivables from residential and commercial units and total balance
+amount receivable from the CD was mentioned at Rs.564.33 crores. In
+second Loan Facility the receivables and assets in the Mother City
+Lucknow and Mother City Extension Lucknow were also noticed. Thus,
+Financial Institution had taken care of repayment of dues.
+77.
+We are conscious that CIRP proceedings are not proceedings of
+repayment of dues or recovery of dues by the Financial Institutions and
+the object is to revive and rehabilitate the CD. When CIRP has
+commenced against a real estate project, the resolution, rehabilitation
+and revival of the project become necessary to safeguard interest of
+
+[PAGE 65]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+65
+stakeholders, specially the allottees, who have been allotted residential/
+commercial plots by the CD. In the present case, the CD, who has been
+developing different projects at the City of Lucknow and other cities, has
+allotted units to different Homebuyers and allottees of residential and
+commercial assets. For resolution of a real estate project, the interest of
+the Homebuyers has to be taken care and the Courts have always taken
+steps to protect the interests of Homebuyers. We in this context refer to a
+recent judgment of the Hon’ble Supreme Court in Mansi Brar Fernandes
+vs. Shubha Sharma and Anr. – Civil Appeal No.3826 of 2020 and
+other Appeals decided on 12.09.2025. The Hon’ble Supreme Court in the
+above case was also considering an Appeal arising out of CIRP of a real
+estate project. In Paragraph 15.2, the Hon’ble Supreme Court has
+reiterated certain principles, which notices that IBC is a Forum of last
+resort, intended to secure revival and completion of viable projects, not to
+serve as a debt recovery mechanism. In Paragraph-15.2, the Hon’ble
+Supreme Court laid down following:
+“15.2. In this necessary in this backdrop to reiterate certain settled
+principles:
+• RERA remains the primary forum for redressal of
+homebuyers’ grievances;
+• The IBC is a forum of last resort, intended to secure
+revival and completion of viable projects, not to serve as a
+debt recovery mechanism; and
+•
+Consumer
+forums
+should
+confine
+themselves
+to
+adjudicating individual service deficiencies, thereby
+avoiding conflicting or overlapping orders across multiple
+fora.”
+
+[PAGE 66]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+66
+78.
+In paragraph 15.5, the Hon’ble Supreme Court further observed
+that a balance judicial approach will have far-reaching benefits. In
+Paragraph-15.5, following was observed:
+“15.5. A balanced judicial approach in this regard will have far-
+reaching benefits: protecting homebuyers, restoring confidence in
+the real estate market, and encouraging reputed business houses
+and conglomerates to participate in residential development. In
+taking this approach, this Court seeks to contribute towards
+cleansing and strengthening a core economic sector that sustains
+millions of livelihoods in both the organised and unorganised
+economy and touches the lives of people at their most fundamental
+level.”
+79.
+The Hon’ble Supreme Court in the above case has also observed
+that right to shelter is an integral part of the right to life under Article 21
+of the Constitution. In Paragraph-20, 20.1 to 20.5 following have been
+laid down:
+“RIGHT
+TO
+SHELTER
+AS
+A
+FUNDAMENTAL
+RIGHT:
+CONSTITUTIONAL OBLIGATION OF THE STATE TO PROTECT
+HOMEBUYERS
+20. This Court has, in a catena of decisions, consistently held and
+reaffirmed that the Right to Shelter is an integral part of the right
+to life under Article 21 of the Constitution. This recognition casts a
+corresponding duty on the State to ensure access to adequate
+housing, particularly for weaker sections. Indeed, various welfare
+schemes such as the Pradhan Mantri Awas Yojana (PMAY) have
+been initiated by the Government to provide affordable housing.
+20.1. A home is not merely a roof over one’s head; it is a reflection
+of one’s hopes and dreams – a safe space for a family, a refuge from
+the worries of the world. With India rapidly industrialising and the
+rural-to-urban mobility proceeding at lightening pace, the demand
+for housing has risen sharply.
+20.2. Yet, the plight of tax-paying middle-class citizens paints a
+disheartening picture. Having invested their lifelong savings in
+pursuit of a home, many are compelled to shoulder a double
+burden – servicing EMIs on one hand, and paying rent on the other
+
+[PAGE 67]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+67
+– only to find their “dream home” reduced to an unfinished
+building. In some cases, construction has not even commenced
+despite full or substantial payment. An average homebuyer may be
+a teacher, lawyer, doctor, IT professional, or a government
+employee, who has poured his or her hard-earned money into the
+pockets of a developer. For such individuals, a stable roof over their
+family’s head is all they desire. The anxiety of not having a home
+despite paying a fortune is bound to take a serious toll on health,
+productivity, and dignity.
+20.3. It is therefore imperative that the life savings of a common
+person culminate in timely possession of their promised home.
+Article 21 would mandate nothing less. In Samatha v. State of
+A.P.21, this Court reiterated that the right to social and economic
+justice as well as the right to shelter are fundamental rights
+encompassed within the ambit of the right to life. Similarly, in
+Chameli Singh v. State of U.P.22 , this Court observed:
+“Shelter for a human being, therefore, is not a mere protection
+of his life and limb. It is home where he has opportunities to
+grow physically, mentally, intellectually and spiritually. Right
+to shelter, therefore, includes adequate living space, safe and
+decent structure, clean and decent surroundings, sufficient
+light, pure air and water, electricity, sanitation and other civic
+amenities like roads etc. so as to have easy access to his
+daily avocation. The right to shelter, therefore, does not mean
+a mere right to a roof over one’s head but right to all the
+infrastructure necessary to enable them to live and develop as
+a human being. Right to shelter when used as an essential
+requisite to the right to live should be deemed to have been
+guaranteed as a fundamental right. As is enjoined in the
+Directive Principles, the State should be deemed to be under
+an obligation to secure it for its citizens, of course subject to
+its economic budgeting. In a democratic society as a member
+of the organised civic community one should have permanent
+shelter so as to physically, mentally and intellectually equip
+oneself to improve his excellence as a useful citizen as
+enjoined in the Fundamental Duties and to be a useful citizen
+and equal participant in democracy. The ultimate object of
+making a man equipped with a right to dignity of person and
+equality of status is to enable him to develop himself into a
+cultured being. Want of decent residence, therefore, frustrates
+the very object of the constitutional animation of right to
+equality, economic justice, fundamental right to residence,
+dignity of person and right to live itself.”
+20.4. Thus, it would be thoroughly erroneous to treat home-buying
+as a mere commercial transaction, or worse, to reduce housing to
+the status of speculative instruments such as stocks, debentures,
+futures, or options through creative contractual devices. Housing is
+neither a luxury nor a commodity for speculation – it is a
+fundamental human need. The right to secure, peaceful, and timely
+
+[PAGE 68]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+68
+possession of one’s home is therefore a facet of the fundamental
+right to shelter enshrined under Article 2123.
+20.5. The State carries a constitutional obligation to create and
+strictly enforce a framework wherein no developer is permitted to
+defraud or exploit homebuyers. Ensuring timely project completion
+must be a cornerstone of India’s urban policy. Equally, the State
+must proactively address the menace of a parallel cash economy
+and speculative practices in the real estate market, which
+artificially inflate housing costs and enable “trigger-happy”
+investors seeking easy exits to jeopardize the interests of genuine
+end-users”
+80.
+The Hon’ble Supreme Court in its conclusion issued various
+directions. The directions issued at Paragraph-21.2(5) and (6), which are
+relevant in the present case, are as follows:
+“21.2(5) Since real estate is the second largest sector in IBC
+proceedings, IBBI24 , in consultation with RERA authorities, shall
+constitute a council to frame specific guidelines for insolvency
+proceedings in real estate, including timelines for project-wise
+CIRP, and safeguards for allottees.
+(6) Resolution of real estate insolvency should, as a rule, proceed
+on a project specific basis rather than the entire corporate debtor,
+unless circumstances justify otherwise. This would protect solvent
+projects and genuine homebuyers from collateral prejudice. IBBI
+shall also devise a mechanism to enable handover of possession to
+willing allottees where substantial units in a project are complete.”
+81.
+What Hon’ble Supreme Court has held in the above case is that
+resolution of real estate insolvency should, as a rule, proceed on a project
+specific basis rather than the entire CD, unless circumstances justify
+otherwise. This would protect solvent projects and genuine homebuyers
+from collateral prejudice.
+82.
+We also need to notice certain provisions of Insolvency and
+Bankruptcy Board of India (Insolvency Resolution Process for Corporate
+Persons) Regulations, 2016 (“CIRP Regulations”), which deals with the
+process for resolution of a CD, with respect to resolution of a real estate
+
+[PAGE 69]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+69
+company, which has several real estate projects, few amendments have
+been made in the CIRP Regulations, which need to be noticed. The CIRP
+Regulations as originally framed did not envisage any real estate project
+resolution. In Regulation 36A for the first time by amendment in
+Regulation 36A(1), a clarification has been added with effect from
+15.02.2024. Regulation 36A, sub-regulation (1) with clarification provides
+as follows:
+“36A(1) The resolution professional shall publish brief particulars
+of the invitation for expression of interest in Form G of the
+123[Schedule-I] at the earliest, 124[not later than sixtieth day]from
+the insolvency commencement date, from interested and eligible
+prospective resolution applicants to submit resolution plans.
+[Clarification: The resolution professional after the approval of the
+committee may invite a resolution plan for each real estate project
+or group of projects of the corporate debtor.]
+83.
+The above provision is an enabling provision that empowers the RP
+after approval of CoC, to invite Resolution Plans for each real estate
+project or projects of the CD. The above Regulation thus, clearly
+contemplates the steps to be undertaken by the RP when there is more
+than one real estate project of the CD. Certain further amendments have
+been made in the Regulation with effect from 03.02.2025, which also
+needs to be noticed. Regulation 4E has been added with effect from
+03.02.2025, which is as follows:
+“4E. Handing over the possession. After obtaining the approval of
+the committee with not less than sixty-six percent of total votes,
+the resolution professional shall hand over the possession of the
+plot, apartment, or building or any instruments agreed to be
+transferred under the real estate project and facilitate registration,
+where the allottee has requested for the same and has performed
+his part under the agreement.”
+
+[PAGE 70]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+70
+84.
+In Regulation 18, sub-regulation (4) has been inserted vide
+Notification dated 03.02.2025, which empowers the CoC to invite the
+competent authority, i.e. Real Estate (Regulation and Development) Act,
+2016. Sub-regulation (4) of Regulation 18 is as follows:
+“18(4) Where the corporate debtor has any real estate project, the
+committee may direct the resolution professional to invite the
+‘competent authority’ as defined in clause (p) of section 2 of the
+Real Estate (Regulation and Development) Act, 2016 (16 of 2016)
+related to such project to attend such meeting(s) of the committee,
+as the committee may decide, without voting rights, for providing
+inputs on matters associated with the development of such
+project.”
+85.
+The above Regulations, even after amendments as noted above,
+throw very little light over the complexities and difficulties, which arise in
+the resolution of the real estate project, undertaken by a real estate
+Company. There have been several precedence of this Tribunal, where
+this Tribunal had occasion to consider the resolution of a real estate
+project. The judgment of this Tribunal in Company Appeal (AT) (Ins.)
+No. 926 of 2019 – Flat Buyers Association Winter Hills – 77,
+Gurgaon vs. Umang Realtech Pvt. Ltd. through IRP & Ors. is one of
+such cases, where this Tribunal has noticed the problems in following
+certain process in the cases of infrastructure companies (for allottees). In
+Paragraphs 9 and 10 of the judgment, following observations have been
+made:
+“9. In terms of the ‘I&B Code’ and the decisions of the Hon’ble
+Supreme Court, the ‘Resolution Plan’ must maximise the assets of
+the Corporate Debtor and balance the stakeholders (secured and
+unsecured creditors- Financial Creditors/ Operational Creditors).
+10. The Infrastructure which is constructed for the allottees by
+Corporate Debtor (Infrastructure Company) is an asset of the
+Corporate Debtor. The assets of the Corporate Debtor as per the
+Code cannot be distributed, which are secured for ‘Secured
+
+[PAGE 71]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+71
+Creditors’. On the contrary, allottees (Homebuyers) who are
+‘Unsecured Creditors’, the assets of the Corporate Debtor which is
+the Infrastructure, is to be transferred in their favour (‘Unsecured
+Creditors’) and not to the ‘Secured Creditors’ such as Financial
+Institutions/ Banks/ NBFCs.”
+86.
+The Hon’ble Supreme Court in the above case has also noticed the
+concept of “reverse corporate insolvency resolution process”. This
+Tribunal in the above judgment, which was delivered on 04.02.2020 had
+observed that in the CIRP against a real estate, if allottees (Financial
+Creditors) or Financial Institutions are of one project initiated CIRP
+against the CD, it be confined to the particular project and it cannot affect
+other projects of the real estate company in other places. In Paragraph 21
+of the judgment, following was laid down:
+“21. In Corporate Insolvency Resolution Process against a real
+estate,
+if
+allottees
+(Financial
+Creditors)
+or
+Financial
+Institutions/Banks (Other Financial Creditors) or Operational
+Creditors of one project initiated Corporate Insolvency Resolution
+Process against the Corporate Debtor (real estate company), it is
+confined to the particular project, it cannot affect any other
+project(s) of the same real estate company (Corporate Debtor) in
+other places where separate plan(s) are approved by different
+authorities, land and its owner may be different and mainly the
+allottees (financial creditors), financial institutions (financial
+creditors, operational creditors are different for such separate
+project. Therefore, all the asset of the company (Corporate Debtor)
+are not to be maximized. The asset of the company (Corporate
+Debtor – real estate) of that particular project is to be maximized
+for balancing the creditors such as allottees, financial institutions
+and operational creditors of that particular project. Corporate
+Insolvency Resolution Process should be project basis, as per
+approved plan by the Competent Authority. Any other allottees
+(financial creditors) or financial institutions/ banks (other financial
+creditors) or operational creditors of other project cannot file a
+claim before the Interim Resolution Professional of other project
+and such claim cannot be entertained.
+So, we hold that Corporate Insolvency Resolution Process
+against a real estate company (Corporate Debtor) is limited to a
+project as per approved plan by the Competent Authority and not
+other projects which are separate at other places for which
+separate plans approved. For example – in this case the Winter Hill
+– 77 Gurgaon Project of the ‘Corporate Debtor’ has been place of
+
+[PAGE 72]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+72
+Corporate Insolvency Resolution Process. If the same real estate
+company (Corporate Debtor herein) has any other project in
+another town such as Delhi or Kerala or Mumbai, they cannot be
+clubbed together nor the asset of the Corporate Debtor (Company)
+for such other projects can be maximised.”
+87.
+This Tribunal in the above case has held that “if the same real
+estate company (Corporate Debtor herein) has any other project in another
+town such as Delhi or Kerala or Mumbai, they cannot be clubbed together
+nor the asset of the Corporate Debtor (Company) for such other projects can
+be maximized”. The above judgment of this Tribunal, thus, has clearly
+observed that when the CIRP by allottees or Financial Institutions relates
+to one project, it should be confined to that project. The above
+proposition, thus, is fully supported by precedence of this Tribunal,
+hence, we have no hesitation to hold that when CIRP initiated by allottees
+or Financial Institutions, under Section 7 relates to one project, the CIRP
+has to be confined to the said project and cannot take into its fold, the
+other real estate projects, situated in other cities or other States.
+88.
+We have noticed above that two Loan Facilities extended by the
+IL&FS to the CD. The purpose of the Loan Facilities as noted above
+provided that it would be utilized for any of the specific purpose as
+mentioned therein from (a) to (d). Clause (a) provided for project
+development expenses in APIL’s various under construction real estate
+projects and Clause (c) provides for expanding loan & advances to
+subsidiaries/ associates including loan and advances to CD towards
+implementation of trunk infrastructure at Lucknow township and general
+corporate purpose. The Facility, thus specifically did not limit the
+
+[PAGE 73]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+73
+utilization for any one project. When source of repayment as provided in
+the Sanctioned Letter and the Loan Agreement confine to specific assets
+mortgaged and charge, we are of the view that in the CIRP, only those
+assets/ projects, which had charge, had to be resolved. It is the CD’s
+case that majority of funds received from IL&FS were utilized for project
+Hi-Tech Township project at Lucknow. Be that as it may, when the
+securities and receivables are specified in the Loan Agreement, we are of
+the view that the CIRP has to be confined to only those projects, which
+form part of securities/ receivables and extending the CIRP to projects,
+which are not contemplated or referred to in the Loan Agreements, is
+uncalled for. The CD and IL&Fs are well aware about all the Hi-Tech
+Township projects and PMDO Facilities, which were undertaken. We have
+noticed Clause 21 of the terms and conditions of Sanctioned Letter dated
+16.02.2016, which was the clause dealing with security. Security was
+clearly provided for Lucknow Plots; hypothecated receivables of Lucknow
+Plots, hypothecated identified receivables and first exclusive mortgage
+built up properties at Lucknow, Ajmer, Jodhpur and Jaipur. For ready
+reference, we may refer to Clause 21 of Sanctioned Letter dated
+16.02.2016, which is as follows:
+“21. Security
+:
+The Facility shall be secured by the following:
+(a)
+(1) First exclusive mortgage of fully
+developed Plots (ready to construct
+plots
+by
+the
+prospective
+buyers)
+situated at Mother city, Lucknow (the
+"Lucknow
+Plots")
+Valuation/
+Title
+Investigation to IFIN satisfaction by
+IFIN
+appointed
+Valuer/s
+&
+Legal
+Counsel. Details/ Title Deeds to be
+provided immediately for expeditious
+
+[PAGE 74]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+74
+processing
+
+(2) First exclusive hypothecation of
+receivables from the Lucknow Plots
+("Hypothecated Receivables of Lucknow
+Plots"). Irrevocable POA from Borrower
+for the Hypothecated Receivables of the
+Lucknow Plots
+(b)
+First
+exclusive
+hypothecation
+of
+Hypothecated
+Identified
+Receivables
+Irrevocable POA from Borrower for the
+Hypothecated Identified Receivables
+(c)
+(1) First exclusive mortgage built up
+properties (ready to move in status)
+(located
+at
+Lucknow/
+Jaipur/
+Jodhpur/ Ajmer) ("Built Up Properties")
+
+(2) First exclusive hypothecation of
+receivables from Built Up Properties
+("Hypothecated
+Built
+Up
+Properties
+Receivables"). Irrevocable POA from
+Borrower for the Hypothecated Built Up
+Properties Receivables
+(d)
+Corporate Guarantee of all land owning
+companies other than the Borrower, if
+any, providing immovable property as
+security
+(e)
+Personal Guarantee of Mr. Sushil Ansal
+and Mr. Pranav Ansal
+(f)
+Demand Promissory note in favour of
+the Lender. The Promissory note shall
+bear the common seal of the Borrower
+duly supported by a resolution of the
+Board of Directors of the Borrower
+(g)
+ECS mandate for Principal & Interest
+(including PDC for one month interest
+and Principal)”
+
+89.
+We have also noticed subsequent Sanction Letter dated 26.10.2016
+by which Term Loan Facility of Rs.100 crores was advanced. The security
+under the said Sanction Letter was provided under Clause 21, which is to
+the following effect:
+“21. Security
+:
+The Facility and all amounts due or payable
+in relation thereto shall be secured by the
+
+[PAGE 75]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+75
+following:
+1.
+(a) First exclusive mortgage of the
+identified FSI Plots (commercial as well
+as residential) situated at Mother City,
+Lucknow
+as
+well
+as
+Mother
+City
+Extension, Lucknow (the "Lucknow FSI
+Plots"). A security cover of 2.5x (being
+the net security cover after deducting
+25% cash flows to be set aside towards
+PMDO repayment in case of cash flows
+from Lucknow FSI Plots forming part of
+Mother
+City,
+Lucknow),
+to
+be
+maintained from mortgage of "Lucknow
+FSI Plots"
+
+(b) First exclusive hypothecation of
+receivables from the Lucknow FSI Plots
+("Hypothecated Receivables of Lucknow
+FSI Plots"). Irrevocable POA shall be
+provided by the Borrower for the
+Hypothecated
+Receivables
+of
+the
+Lucknow FSI Plots
+2.
+(a)
+First
+exclusive
+mortgage
+over
+identified Golf Plots at Mother City,
+Lucknow ("Lucknow Golf Plots"). A
+security cover of 0.5x (being the net
+security cover after deducting 25% cash
+flows to be set aside towards PMDO
+repayment) to be maintained from
+mortgaged of Lucknow Golf Plots.
+
+(b) First exclusive hypothecation of
+receivables from sale of mortgaged
+Lucknow
+Golf
+Plots
+("Hypothecated
+Lucknow
+Golf
+Plots
+Receivables").
+Irrevocable POA shall be provided by
+Borrower
+for
+the
+Hypothecated
+Lucknow
+Gold
+Plots
+Registration
+Valuation/ Title Investigation shall be
+carried out to IFIN satisfaction by IFIN
+appointed Valuer/s & Legal Counsel.
+The Borrower shall provide all required
+details/ documents immediately for
+Title investigation and valuation.
+3.
+First
+Exclusive
+Hypothecation
+and
+escrow of 75% of Hypothecated &
+Escrowed
+Identified
+Receivables
+—
+Mother City and 100% Hypothecated &
+Escrowed
+Identified
+Receivables
+—
+Mother City Extension, as specified in
+Clause 7. Provided that in relation to
+the 75% of Hypothecated & Escrowed
+
+[PAGE 76]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+76
+Identified Receivables — Mother City
+received/
+receivable
+from
+the
+commercial and group housing units
+forming part of Mother City, Lucknow,
+the aforesaid charge shall be shared on
+a pari passu basis with charge created
+in favour of IFIN for securing the
+existing facility of Rs. 500 mn (Rupees
+Five Hundred Million) ("IFIN Existing
+Facility") provided by IFIN to APIL
+pursuant to a Facility Agreement dated
+Mar 18, 2016
+4.
+Corporate Guarantee of all land-owning
+companies other than the Borrower, if
+any, providing immovable property as
+security
+5.
+Personal Guarantee of Mr. Sushil Ansal
+and Mr. Pranav Ansal
+6.
+Demand Promissory note in favour of
+the Lender. The Promissory note shall
+bear the common seal of the Borrower
+duly supported by a resolution of the
+Board of Directors of the Borrower
+7.
+ECS/NACH mandate for Principal &
+Interest (including PDC for one month
+interest and Principal)”
+
+90.
+The above security indicate that securities were only with respect to
+Mother City and Mother City Extension, Lucknow and mortgage of Plots
+and hypothecated & escrowed identified receivables from Mother City and
+Mother City Extension. The above security did not cover any other
+projects, except the projects situated at Lucknow.
+91.
+We may at this juncture also notice another order of this Tribunal
+dated 10.06.2022 in Company Appeal (AT) (Ins.) No.406 of 2022 – Ram
+Kishor Arora Suspended Director of M/s Supertech Ltd. vs. Union
+Bank of India & Anr. In the above case, CIRP commenced against M/s
+Supertech Ltd., a real estate company by an order dated 25.03.2022.
+
+[PAGE 77]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+77
+Supertech has large number of real estate projects. In the Appeal filed by
+Promoters, this Tribunal vide order dated 10.06.2022 issued various
+directions regarding project wise insolvency resolution of the CD. A
+direction was issued to constitute a Committee with respect to only one
+project Eco Village II and with respect to other projects, direction was
+issued for project wise resolution. Challenging the order dated
+10.06.2022 passed by this Tribunal, Civil Appeal No.1925 of 2023 was
+filed by Financial Institution namely – Indiabulls Asset Reconstruction
+Company Ltd. The Hon’ble Supreme Court in the above case examined
+the challenge and at that stage did not interfere with the directions to
+proceed with the project-wise resolution. Paragraphs 21 to 24 of the
+order of this Tribunal dated 10.06.2022 are as follows:
+“21. We are conscious of the fact that ‘CIRP’ has been initiated
+against the Corporate Debtor. ‘CIRP’ has commenced against all
+the projects of the Corporate Debtor. ‘CIRP’ encompasses all the
+assets of the Corporate Debtor including all Bank Accounts. The
+IRP has already been appointed and has taken steps by informing
+all concerned including Banks to add the name of IRP for operation
+of the Account. The Learned Counsel for the Appellant made
+submissions and also filed an I.A. No. 1468 of 2022 by which
+Resolution cum Settlement Proposal has been submitted by the
+Management with an object to carry out the construction of all the
+projects.
+22. As noted above, the consequence of ‘CIRP’ is that all assets of
+the Corporate Debtor come in the control and management of the
+IRP. All bank accounts are to be operated with the counter
+signature of the IRP. No amount from any account can be
+withdrawn without the counter signature and permission of the
+IRP. IRP under the IBC has responsibility to run the Corporate
+Debtor as a going concern. Further when Promoters are ready to
+extend all cooperation with all its staffs and employees to the IRP,
+we see no reason for not to direct the IRP to proceed with
+construction of all the projects under the overall supervision and
+control of the IRP. We by an Interim Order dated 12th April, 2022
+directed not to constitute the ‘CoC’ which Interim Order is
+continuing as on date.
+
+[PAGE 78]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+78
+23. In the facts of the present case and keeping in view the
+submissions raised by the Learned Counsel for the parties, we are
+of the view that in ‘CIRP’ Process, Project-Wise Resolution to be
+started as a test to find out the success of such Resolution.
+Keeping an eye regarding construction and completion of the
+projects, we at present, are of the view that Interim Order dated
+12th April, 2022 staying the constitution of CoC be modified to the
+extent that CoC be constituted for the Eco Village II Project only
+with
+all
+Financial
+Creditors
+including
+Financial
+Creditors/Banks/Home Buyers. The Committee of Creditors of Eco
+Village II Project shall start process for Resolution of Eco Village II
+Project. The IRP shall separate the claims received with regard to
+the
+Eco
+Village
+II
+Project
+and
+prepare
+an
+‘Information
+Memorandum’ accordingly and proceed for meeting of the CoC as
+per the Code. It is further directed that even for Eco Village II
+Project, the IRP shall carry the Project and continue the project as
+ongoing project by taking all assistance from the ex-management,
+employees, workmen etc. We however make it clear that other
+projects apart from the Eco Village II Project shall proceed as
+ongoing project basis under the overall supervision of the IRP. IRP
+in his report stated that with regard to the projects, there are
+separate accounts as per ‘RERA’ Guidelines. Detail account of all
+the inflow and outflow with regard to each project shall be
+separately maintained as per the ‘RERA’ Guidelines. 70% of the
+amount received with regard to the project shall be utilized for
+construction purpose only with regard to the disbursement of rest
+30 % amount, we shall issue appropriate direction after receiving
+further Status Report and after hearing all concern subsequently.
+24. The Promoters of the Corporate Debtor has submitted that they
+shall arrange for Interim Finance to support the ongoing
+construction of the different projects by arranging finances as
+submitted in their Settlement cum Resolution Plan. Annexure 3 to
+the I.A. No. 1468 of 2022, with an object to complete the projects
+and clear the outstanding of all Financial Institutions including the
+Financial Creditors on the basis of 100% ledger balance and also
+payment to the Operational Creditor. The pendency of this
+proceeding shall in no manner hinder the Appellant to approach
+the Financial Creditors for entering into Settlement with the
+Financial Creditors. With regard to the disbursement to the
+Financial Creditors, out of 30% of the amount, we shall issue
+necessary direction after receiving the status report and receiving
+the progress of the projects.”
+92.
+This Tribunal in the above case by subsequent order dated
+12.12.2024 directed for handing over several projects of the CD to NBCC
+for completing the construction, against which Appeal was again filed in
+
+[PAGE 79]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+79
+the Hon’ble Supreme Court, where the Hon’ble Supreme Court has
+entertained the Appeal and the Appeal(s) are still pending.
+93.
+We are of the view that when securities, which were given by the CD
+for repayment of the term loan given by the IL&FS are confined to only
+few projects, the CIRP initiated by the impugned order, cannot engulf all
+the projects of the CD, which are in no manner affected by financial
+facilities extended by the IL&FS to the CD.
+94.
+The other projects apart from projects, which were noticed and
+dealt with in the Loan Agreements between the parties, cannot be affected
+at the instance of the IL&FS in the CIRP against the CD. As noted above,
+the Loan Agreements itself have noticed that projects of the CD, which are
+in different parts of the country. The securities as noticed above are
+confined to assets of the CD at Mother City Lucknow and three Cities in
+the State of Rajasthan. The Financial Institution and the CD having
+noticed in the Agreements that projects of the CD spread over entire
+country and assets of only few projects having been referred to and relied
+on by the Financial Institutions for its repayment and securities, we are of
+the view that CIRP initiated by the impugned order should be confined to
+the projects, which are referred to as securities and repayment. Including
+other projects will cause hardship to the stakeholders of different projects,
+which are not connected or concerned with the CIRP projects of the CD,
+which are subject matter of the Loan Agreements.
+95.
+In view of our foregoing discussions and conclusions, we answer
+Question Nos.III to VI in following manner:
+
+[PAGE 80]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+80
+95.1. The purpose of the Loan Facility of Rs.50 crores and Rs.100 crores
+extended by the IL&FS was for utilizing the funds for any of the specified
+purpose [(a) to (d)] as noted in the Sanction Letter. The securities given
+by the CD in two loans, are securities of the projects of the CD at Mother
+City and Mother City Extension at Lucknow and the three assets situated
+at Ajmer, Jodhpur and Jaipur in the State of Rajasthan, as noted in the
+Sanction Letter dated 16.02.2016 and the securities, thus were confined
+to only few of the projects of the CD and not all the projects of the CD as
+noted above.
+95.2. Answer to Question No.III – The CIRP initiated and the
+moratorium imposed vide order dated 25.02.2025 is to extend to only the
+projects of the CD, which are referred to and relied in the Loan
+Agreements in both the Loan Facilities, as noted above and the
+moratorium cannot extend to other projects of the CD situated in different
+cities of the State of UP (except Mother City Lucknow Projects) and other
+States, i.e. States of Haryana and Punjab (except assets mentioned in City
+of Ajmer, Jaipur and Jodhpur in the State of Rajasthan).
+95.3. Answer to Question No.IV – The Adjudicating Authority ought to
+have adverted to the fact that CD is running several real estate projects in
+different Cities of the U.P. and other States of the country. Before the
+Adjudicating Authority, the above facts were brought and clearly
+mentioned in the reply filed by the CD in Section 7 application. In
+Paragraph 18 of the reply, the CD has pleaded following:
+“18.That the Respondent is executing multiple projects across
+diverse locations. The initiation of CIRP would paralyze these
+projects and result in destruction of value for creditors and other
+
+[PAGE 81]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+81
+stakeholders. It is respectfully submitted that the Respondent's
+operations are integral to ensuring that creditor value is preserved,
+and that CIRP, in this instance, would be counterproductive to the
+interests of all stakeholders.”
+95.4. We may further notice that Homebuyer – Gagan Tandon and others
+filed an Intervention Application before the Adjudicating Authority, which
+Intervention Application was rejected by the order passed on the same
+date, i.e. 25.02.2025. In the order rejecting the Intervention Application,
+the Adjudicating Authority has noticed the plea raised by the Homebuyers
+regarding several projects of the CD. Thus, before the Adjudicating
+Authority, the different projects of the CD had been noticed by the
+Adjudicating Authority itself. It is useful to notice Paragraphs 3 to 7 of
+the order dated 25.02.2025, rejecting the Intervention Petition:
+“3. We have heard the Learned Counsel appearing for the
+Applicants and perused the documents on record. In adjudicating
+upon the matter at hand, we are of the view that the Applicants,
+claiming to be homebuyers in the real estate project developed by
+the Corporate Debtor, seek intervention in the present proceedings
+under Section 7 of the Insolvency and Bankruptcy Code, 2016
+("IBC"). It is well settled that in proceedings initiated under Section
+7, the primary concern is to ascertain the existence of a financial
+debt and default by the Corporate Debtor. The Applicants, being
+homebuyers, may have a financial interest in the project; however,
+their claims are already safeguarded under the provisions of IBC,
+particularly under Section 21(6A), which grants representation to
+allottees in the Committee of Creditors (CoC) through an authorized
+representative. Thus, their intervention at this stage is neither
+necessary nor legally tenable.
+4. The Applicants have contended that the real estate project is a
+government-backed township and that the Corporate Debtor is
+merely a license holder. However, mere regulatory oversight or
+developmental agreements with the State Government and the
+Lucknow Development Authority do not alter the ownership and
+financial liabilities of the Corporate Debtor. The Corporate Debtor
+remains the principal entity responsible for the execution and
+completion of the project, and its financial obligations, including
+debts owed to the Financial Creditor, remain independent of any
+regulatory framework governing the project. The Applicants have
+failed to demonstrate any statutory or contractual immunity that
+
+[PAGE 82]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+82
+would exempt the project from insolvency proceedings under the
+IBC.
+5. The Applicants have sought to highlight the disparity between
+the total investment in the project (₹26,000 crores) and the default
+amount claimed by the Financial Creditor (₹83 crores). However,
+under the scheme of IBC, the quantum of debt is not a
+determinative factor in admitting a Section 7 petition. The only
+requirement is to establish the existence of a financial debt and
+default, as prescribed under Section 7(5). Once these conditions
+are satisfied, the Adjudicating Authority is bound to admit the
+petition. The Applicants’ arguments regarding the scale of the
+project or the potential inconvenience to homebuyers cannot
+override the statutory mandate of IBC.
+6. The concerns raised by the Applicants regarding potential
+disruptions in project completion and property registrations due to
+CIRP, while understandable, cannot justify an exemption of the
+project from insolvency proceedings. The IBC framework itself
+ensures that the interests of homebuyers are protected through the
+CoC mechanism, wherein they are recognized as financial
+creditors. Additionally, CIRP is intended to facilitate resolution and
+revival of the Corporate Debtor rather than its liquidation. In the
+absence of any specific legal provisions supporting the exclusion of
+a particular project from CIRP, the relief sought by the Applicants
+is untenable.
+7. In light of the above findings, this Adjudicating Authority is of
+the considered opinion that the present application lacks merit.
+The Applicants have failed to establish any legal or factual basis for
+their intervention in the ongoing proceedings under Section 7 of
+IBC. The relief sought, particularly the exclusion of the real estate
+project from CIRP, is not supported by any statutory provision or
+judicial precedent.
+Accordingly, the intervention petition Inv P. 43/ND/2024 in
+CP No.: IB 558(ND)/2024 is dismissed.”
+95.5. At the time of initiation of CIRP, the Adjudicating Authority also
+should have adverted to this aspect of the matter to issue necessary
+directions to clear any uncertainty regarding the extent of the CIRP and
+the manner in which the resolution of the CD could proceed.
+95.6. Answer to Question No.V: In the facts of the present case, the
+CIRP needs to be confined at Lucknow project Mother City Lucknow and
+Mother City Extension Lucknow, including Sushant Golf City Project as
+
+[PAGE 83]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+83
+well as three Projects of the CD situated in the State of Rajasthan –
+Ajmer, Jodhpur and Jaipur as referred to in the Sanction Letter dated
+16.02.2016. The Adjudicating Authority needs to consider mode and
+manner of resolution of the above projects of the CD. At the first
+instance, the resolution of the projects situated at Lucknow need to be
+undertaken.
+95.7. Answer to Question No.VI: The CD has 93 projects at Lucknow,
+which are registered with UP RERA. The project wise resolution of the CD
+needs to be proceeded with as required by law. The Adjudicating
+Authority may also issue necessary direction regarding mode and manner
+of resolution of above Projects.
+Question No.VII
+96.
+We have noted above, the judgment of the Hon’ble Supreme Court
+in Mansi Brar Fernandes where the Hon’ble Supreme Court directed that
+resolution of a CD of real estate project should be projects. We have
+further noticed above that CIRP should be confined to projects and assets
+of the CD, which are referred to and provided as security in the Loan
+Agreement I & II. The CIRP need not extend to the projects, which are
+situated in the States of Haryana and Punjab. Further, the CIRP of the
+CD also need not extend to other projects in different cities of U.P., since
+in the security of both the Loan Agreements, only the assets of the CD in
+project at Mother City Lucknow and Mother City Extension Lucknow have
+been provided. Thus, it needs to be clarified that other projects of the CD,
+
+[PAGE 84]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+84
+situated in other cities of U.P. like Bulandshahr, Ghaziabad, Kanpur &
+Agra etc., are not to be affected by order dated 25.02.2025. It is
+necessary to clarify, so that other projects of the CD may proceed in
+accordance with their own terms and conditions.
+97.
+We have noticed above the projects in Lucknow have been
+entrusted to the CD to be developed under the Hi-Tech Township Policy
+promulgated by the State in the year 2003 under different Development
+Agreements noted above. The CD has to develop the projects at Lucknow.
+One of the terms and conditions of the Development Agreement, which
+was executed between the CD and the Lucknow Development Authority
+with respect to projects at Lucknow is that in event the CD fails to develop
+the project, the Lucknow Development Authority, will complete the
+project. The Adjudicating Authority need to consider the above aspect of
+the matter while issuing directions for resolution of the projects at
+Lucknow. We may refer to the MoU dated 26.11.2005 between the
+Lucknow Development Authority and the CD, wherein Clause 22,
+following has been provided:
+“22. That to ensure timely completion of the project as per the
+provisions of the approved DPR, the first party shall retain the
+transferable rights on 25 percent of total saleable land which shall
+be released in proportion to the second party on successful
+completion of various services to the functional stage. If the second
+party leaves any development, work incomplete, the same shall be
+completed by the first party through sale of the land so retained.”
+98.
+The Development Agreement dated 18.11.2006 was executed
+between the Lucknow Development Authority and the CD, where Clause 8
+provides as follows:
+
+[PAGE 85]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+85
+“8.
+Performance
+Guarantee
+To ensure timely completion of the
+project as per the provisions of approved
+DPR, the First Party shall retain the
+transferable rights on 25 percent of total
+saleable land, which shall be released in
+proportion to the Second Party! on
+successful completion of various services
+to the functional stage. If the Second
+Party leaves any development work
+incomplete, the same shall be completed
+by. the First Party through sale of the
+land so retained.”
+99.
+The projects at Lucknow City being projects under Hi-Tech
+Township, the Adjudicating Authority has also to advert to all relevant
+facts to take a decision as to whether under the Agreement between the
+CD and the Lucknow Development Authority, the projects need to be
+completed by the Lucknow Development Authority.
+100. In view of the foregoing facts, we dispose of both the Appeal(s) in
+following manner:
+(1)
+The order dated 25.02.2025 passed by National Company
+Law Tribunal, New Delhi Bench Court-IV admitting Section 7
+application is upheld, subject to following directions:
+(a) The CIRP against the CD is confined to CD’s projects at
+Lucknow Mother City and Mother City Extension at
+Lucknow, Golf Plots at Lucknow and the assets of the CD
+in the State of Rajasthan and built-up properties at
+Ajmer, Jodhpur and Jaipur in the State of Rajasthan (as
+detailed in Schedule-B of Settlement Agreement dated
+03.03.2022 at Sl. No.5, 6 & 7).
+
+[PAGE 86]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+86
+(b) The Adjudicating Authority to consider the mode and
+manner to proceed with project wise resolution of the CD
+as per initiation of CIRP against a real estate company to
+the extent as indicated above.
+(c)
+Further steps in the CIRP of the CD shall be taken as per
+directions of the Adjudicating Authority indicated above.
+The Adjudicating Authority shall also consider with
+respect to resolution of the CD’s project at Lucknow, as
+to whether as per MoU and Development Agreements
+entered between the CD and Lucknow Development
+Authority, the Lucknow Development Authority is to be
+directed to complete the projects of the CD.
+(d) UP Awas Evam Vikas Parishad shall be entitled to
+pursue its application before the Adjudicating Authority
+for excluding the assets claimed by it, from the CIRP of
+the CD, which may be considered and decided in
+accordance with law.
+(e)
+The date of commencement of the CIRP of the CD has to
+be treated as 25.02.2025 and further steps in the CIRP
+be taken as per the directions of the Adjudicating
+Authority to be made hereinafter.
+
+[PAGE 87]
+Company Appeal (AT) (Ins.) Nos.500 & 502 of 2025
+87
+(f)
+The Lucknow Development Authority be made party to
+the CIRP process and it be given opportunity to file its
+affidavit.
+(g)
+The Homebuyers and other Applicants, who have filed
+IAs in these Appeal(s) are at liberty to file Intervention
+Petitions before the Adjudicating Authority in C.P.(IB)
+558(ND)/2024.
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+NEW DELHI
+7th January, 2026
+
+Ashwani/ Himanshu

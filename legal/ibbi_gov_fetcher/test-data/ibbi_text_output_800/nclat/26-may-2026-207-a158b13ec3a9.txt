@@ -1,0 +1,1500 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+[Arising out of the Impugned Order dated 16.02.2026 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai,
+Bench-I in Contempt Application No. 39 of 2025 and Contempt
+Application No. 41 of 2025 in C.P. (IB) 1137/MB/2017]
+
+IN THE MATTER OF:
+
+1. State Bank of India
+Having its registered office at
+State Bank of India, Commercial Branch,
+N.G.N. Vaidya Marg, Bank Street, Horniman
+Circle, Fort, Mumbai - 400 001
+Email: amtl.cbmumbai@sbi.con,
+rmamtl.cbmum@sbi.co.in
+
+2. Bank of India
+Having its registered office at Bank of India,
+Andheri
+Large
+Corporate
+Branch,
+MDJ
+Building, Andheri (W), Mumbai - 400 058
+Email:
+andherilcb.mumbainorth@bankofindia.co.in,
+asset.mnz@bankofindia.co.in
+
+3. Canara Bank
+Having its registered office at Mid Corporate
+Branch, Fort Market, Ground Floor, Canara
+Bank Bldg., Adi Marzban Street, Ballard Estate,
+Mumbai - 400 001
+Email: cb5505@canarabank.com
+
+4. ICICI Bank
+Having its corporate office at ICICI Bank
+Towers, Bandra Kurla Complex, Bandra (East),
+Mumbai, Maharashtra 400 051
+Email: Atit.Dedhia@icicibank.com
+
+5. Indian Bank
+Having its registered office at:
+
+[PAGE 2]
+Page 2 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+Stressed Asset Management Branch,
+Mumbai Office No. 73, 7th Floor, Mittal
+Chambers, Nariman Point,
+Mumbai-400 021
+Email: mumbaifort@indianbank.co.in,
+s816@indianbank.co.in,
+armmumbai@indianbank.co.in,
+A112@indianbanl.co.in,
+horecovery@indianbank.co.in
+
+6. Union Bank of India
+Having its registered office at
+Union Bank of India, Mumbai main office,
+Union Bank Bhavan, Nariman Point, Mumbai -
+400 021
+Email: ubin0549576@unionbankofindia.com,
+samvmumbai@unionbankofindia.com;
+chandradeep@unionbankofindia.bank,
+tnlavand@unionbankofindia.bank
+
+...Appellant(s)
+Versus
+
+1. Jyoti Structures Limited
+Having its registered office at:
+Valecha Chambers, 6th Floor, New Link Road,
+Andheri (West), Mumbai, Maharashtra - 400
+053
+
+2. Abhinav Angirish
+Residing at:
+B/1602, Oberoi Sky Heights, Lokhandwala
+Back Road, Lokhandwala Cx., Andheri West,
+Mumbai, Maharashtra - 400 053
+
+3. Sharad Sanghi
+Residing at:
+No. 23, Sea Gul, Carmicahel Road, Gamdevi,
+Mumbai, Maharashtra - 400 026
+
+...Respondent(s)
+Present:
+
+For Appellant
+: Mr. Tushar Mehta (Solicitor General), Mr. Sunil
+Fernandes, Sr. Advocate with Mr. Abhishek
+
+[PAGE 3]
+Page 3 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+Mukherjee, Mr. Animesh Bisht, Ms. Surabhi
+Khattar, Mr. Aniruddh Gambhir, Mr. Shivansh
+Vishwakarma and Mr. Harsh Rathi, Mr.
+Sriharsh Rai, Anuh A., M. Naik, Vailarh Ram,
+Advocates.
+For
+Respondents
+: Mr. Darius Khambata, Sr. Adv. & Mr. Arun
+Kathpalia, Sr. Advocate with Mr. Anuj Tiwari,
+Ms. Diksha Gupta, Ms. Shalini Basu, Mr.
+Shivendranath Mishra and Mr. Sameer Mishra,
+Vaibhav Vats, Advocates for R1.
+Mr. Abhijeet Sinha, Sr. Advocate with Mr.
+Malak Bhatt and Ms. Samridhi, Advocates for
+R2 and R3.
+
+J U D G M E N T
+(Hybrid Mode)
+Per: Barun Mitra, Member (Technical)
+The present appeal, preferred under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘IBC’ in short), arises from the order dated
+16.02.2026 (hereinafter referred to as the ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-1)
+in Contempt Application No. 39 of 2025 and Contempt Application No. 41 of
+2025 filed in C.P. (IB) N0.1137 (MB) 2017. By the said Impugned Order, the
+Adjudicating Authority has disposed of both Contempt Application Nos. 39 &
+41 of 2025 filed by Respondent No. 1–Jyoti Structures Ltd. and Respondent
+Nos. 2 and 3–Shareholders of Corporate Debtor by directing the Appellants to
+release the rolled over BG limits failing which they would be subject to one
+day simple imprisonment in civil prison. Aggrieved by the impugned order,
+the Appellants – Lender Banks have preferred the present appeal.
+
+[PAGE 4]
+Page 4 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+2.
+Coming to the brief factual matrix of the present case at hand, the
+relevant points which require to be noticed are as follows:-
+• The Adjudicating Authority had admitted the Corporate Debtor–Jyoti
+Structures Ltd. (‘JSL’ in short) into Corporate Insolvency Resolution
+Process (‘CIRP’ in short) on 04.07.2017.
+• The resolution plan submitted by Sharad Sanghi – Respondent No. 3
+was approved by the Adjudicating Authority on 27.03.2019. The
+Committee of Creditors (‘CoC’ in short) which had approved the
+resolution plan interalia comprised of the Appellant Banks viz. State
+Bank of India, Bank of India, Canara Bank, ICICI Bank, Indian Bank
+and Union Bank of India and were assenting Financial Creditors of the
+Corporate Debtor.
+• The approved resolution plan provided for roll-over/issuance of Bank
+Guarantees (‘BGs’ in short)/Letter of Credits (‘LCs’ in short) by the
+Appellants to the Corporate Debtor. The resolution plan provided for
+entering into definitive agreements pursuant to which Non-Fund Based
+Facility Agreement (‘NFB Agreement’ in short) was entered into
+between the Appellants who are Non-Fund Based Lenders of the
+Borrower-Corporate Debtor. The NFB Agreement outlined the detailed
+terms and conditions for issuance of NFB limits.
+• In terms of the NFB Agreement, the Appellants were to issue BGs/LCs
+to the Corporate Debtor immediately upon the “Closing Date” which
+“Closing Date” was achieved on 09.11.2021.
+• On
+achievement
+of
+the
+Closing
+Date,
+the
+proposed
+shareholders/investors in the Corporate Debtor Company had infused
+
+[PAGE 5]
+Page 5 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+Rs. 170 Cr. based on terms and conditions of the approved resolution
+plan and in terms of the NFB Agreement, the obligation of the
+Appellants as NFB Lenders to release the NFB limits became
+purportedly operational.
+• As the Appellants allegedly failed to release the NFB limits as provided
+for in the approved resolution plan and envisaged in the NFB
+Agreement, the Respondents preferred I.A No. 4959 of 2023 and I.A No.
+5023 of 2023 before the Adjudicating Authority under Section 60(5) of
+the IBC. The Adjudicating Authority in its order dated 20.08.2024
+(hereinafter referred to as ‘August 20 NCLT order’) held that NFB limits
+ought to have been released at the first instance by the Appellant
+Lenders as contemplated in the Plan and directed the Appellants to
+release the NFB limits to the Corporate Debtor and the Respondents
+shall furnish information/documents to the Appellant lenders required
+by them for review of financial performance of the Corporate Debtor
+after its first release.
+• The 20 August NCLT order passed by the Adjudicating Authority was
+challenged by the Appellants before this Tribunal. This Tribunal
+however dismissed the appeal filed by the Appellants on 09.12.2024
+(hereinafter referred to as ‘December 9 NCLAT order’) and confirmed
+the August 20 NCLT order. While upholding the order of the NCLT, this
+Tribunal also observed that the clauses of the NFB Agreement have to
+be read in a manner to give effect to the plan and not make any clause
+of the plan otiose and unworkable, the plan having been approved by
+
+[PAGE 6]
+Page 6 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+the lenders themselves wherein a conscious decision was taken to roll-
+over NFB facilities by the existing lenders.
+• On 18.02.2025, the Shareholders of the Corporate Debtor had
+submitted an OTS proposal which was followed by OTS proposal from
+the Corporate Debtor for Rs. 507 Cr. to the Appellants as an alternative
+to the release of NFB Limits which proposal also mentioned that if the
+same is not accepted by the Joint Lenders Meeting (‘JLM’ in short) of
+the Lenders on or before 31.03.2025, the OTS proposal shall stand
+withdrawn. While there was some discussion on the quantum of the
+OTS proposal during the JLM meeting held on 03.06.2025, majority of
+the Appellant Banks were in favour of release of NFB Limits. Another
+JLM was conducted on 10.09.2025 wherein the Appellants discussed
+the status of approval of sanction/roll over of the NFB limits in which
+meeting the representatives of the Borrower was also present.
+• While some of the Appellant Lenders had either issued fresh sanction
+letter or were in the process of issuing such sanction letters sanctioning
+their portion of NFB limits, the fresh sanction letters were objected to
+by the Respondents-Corporate Debtor and Shareholders for the NFB
+facilities had already stood rolled-over in terms of the plan and also
+because the fresh sanction orders imposed terms which were
+inconsistent with the approved resolution plan and NFB Agreement.
+• Since NFB Limits were not released by the Appellants, two separate
+Contempt Applications were filed by Respondents No. 1 and by
+Respondent No. 2 and 3 against the Appellants seeking release of NFB
+Limits on 12.10.2025.
+
+[PAGE 7]
+Page 7 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+• Before the Contempt Applications could be adjudicated by the
+Adjudicating Authority, Bank of Baroda released its BGs/LCs to the
+Borrower on 17.10.2025 which was followed suit by IDBI Bank.
+• On 25.11.2025, the Adjudicating Authority in its interim orders
+directed all Appellants to adhere to the conditions in the approved
+resolution plan and to ensure that sanction letters were issued in
+accordance with the terms of the approved resolution plan.
+• On 17.12.2025, the Appellants filed an additional affidavit placing on
+record the sanction letters issued by each Bank.
+• The Adjudicating Authority passed the impugned order on 16.02.2026
+disposing both the Contempt Applications by issuing directions to the
+Appellant Lenders to release the rolled over BG limits in the manner
+provided under the resolution plan and in terms as were applicable to
+those limits prior to CIRP within one month from the date of the order
+failing which one day simple imprisonment in civil prison was ordered
+against the Appellants.
+• Aggrieved by the impugned order, the present appeal has been filed by
+the Appellants challenging the impugned order on 24.02.2026.
+3.
+Shri Tushar Mehta, Ld. Solicitor General and Shri Sunil Fernandes, Ld.
+Sr. Counsel appeared on behalf of the Appellants; Shri Darius Khambata and
+Shri Arun Kathpalia, Ld. Sr. Counsels appeared on behalf of the Respondent
+No. 1 and Shri Abhijeet Sinha, Ld. Sr. Counsel appeared on behalf of the
+Respondents No. 2 and 3. All the parties were heard at length extensively. At
+the very outset we would like to observe that the arguments canvassed and
+documents relied upon by Respondent No. 1 to 3 being common and
+
+[PAGE 8]
+Page 8 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+overlapping, we propose to conjointly record their submissions for reasons of
+convenience.
+4.
+Making submissions on behalf of the Appellants, Ld. Solicitor General
+submitted that the Contempt Application Nos. 39 & 41 of 2025 filed in CP (IB)
+No. 1137 of 2017 before the Adjudicating Authority under Section 425 of the
+Companies Act, 2013 and Section 12 of the Contempt of Courts Act, 1971,
+suffered from inherent infirmity since the contempt applications were filed by
+the Respondents without identifying or implicating any individual as the
+alleged contemnor. It was vehemently contended that in the absence of
+individuals being specifically named for having wilfully disobeyed the
+directions of the court, the present contempt order imposing one day simple
+imprisonment is not sustainable in the eyes of law. It was contended that the
+impugned order was vitiated in law because the Adjudicating Authority had
+directly imposed punishment without recording prima-facie satisfaction that
+a case of contempt was made out and without having issued a show cause
+notice to the Appellants communicating the gist of charges and giving an
+opportunity to defend themselves.
+5.
+Submission was pressed by the Appellants that the Respondents had
+clearly failed to unequivocally satisfy that the essential ingredient of contempt
+proceedings of wilful and deliberate disobedience of court directions had been
+met in the present case. It was asserted that the primary ground on which
+the Respondents had filed the contempt application was that the 20 August
+NCLT order and 09 December NCLAT Order had laid down that the Appellants
+were required to release the NFB limits to the Respondents without issue of
+sanction letter which was a fallacious and misconceived argument. It was
+
+[PAGE 9]
+Page 9 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+asserted that when the Adjudicating Authority in its own interim order while
+hearing the contempt application on 25.11.2025 had itself directed the
+Appellants to issue sanction letters in accordance with the resolution plan,
+the question of having committed a contempt for having issued sanction
+letters could not have arisen. The interim order dated 25.11.2025 is
+reproduced below:
+“5) Having considered the submissions and in the circumstances, we
+consider it appropriate to direct all the Eight Banks, viz. (i) State
+Bank of India; (ii) Bank of India; (iii) Indian Bank; (iv) ICICI Bank Ltd;
+(v) Canara Bank; (vi) IDBI Bank Ltd; (vii) Union Bank of India; and
+(viii) Bank of Baroda to adhere to the conditions as per the approved
+Resolution Plan and shall ensure that the Sanction Letter in
+accordance with terms of the approved Resolution Plan is issued to
+the Corporate Debtor.”
+(Emphasis supplied)
+
+6.
+It was submitted that the issuance of fresh sanction letters for rolling
+over the existing NFB exposure alongwith conditions did not constitute
+disobedience of August 20 NCLT order or the 09 December NCLAT Order as
+has been misconstrued by the Respondents. Elaborating further, it was added
+that even the impugned order had not only taken cognizance of the sanction
+letters with conditions issued by the Appellants but that the Adjudicating
+Authority neither questioned the authority or competence to issue such
+sanction orders nor held that the conditions contained therein tantamount to
+committing any wilful disobedience of the directions of the Court. Following
+paragraphs from the impugned order were adverted to:
+“37.However, the issuance of fresh sanction letter for rolling over the
+existing exposure cannot be considered to the disobedience of the order
+of this Tribunal so long as the limits are made available in accordance
+
+[PAGE 10]
+Page 10 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+with the approved Resolution Plan as observed by us in the order dated
+20.08.2024.
+
+38.It is not clear to us whether the Corporate Debtor was availing NFB
+limits under consortium financing arrangement. However, if the
+Corporate Debtor was availing the earlier NFB limits under consortium
+financing arrangement, the stipulation of consortium before release of
+rolled over limits cannot said to be contrary to the approved Resolution
+Plan even in view of clause 2.2 of NFB agreement providing for
+individual obligation on part of each Respondent dehors performance
+of such obligation by one or more Respondents. On the contrary, in case
+the Corporate Debtor was not availing the earlier NFB limits under
+consortium financing arrangement, the stipulation of consortium before
+release of rolled over limits certainly results into disobedience of the
+order of this Tribunal and cannot be said an issue of interpretation.
+
+39.Further, the condition in relation to due diligence prior to release of
+NFB facility can only be extended to project specific due diligence and
+not to the company label due diligence. Nonetheless, we do not find
+any disobedience of order in stipulating valuation of securities.
+
+40.Since the personal guarantors have already executed deed of
+personal guarantee in favour of Security Trustee acting for the benefit
+of relevant Respondent Lenders, we of considered view the specific
+stipulation in this relation in the sanction letter does not result into any
+disobedience.
+
+42.As regards pre condition of credit rating, we find that rating
+conditions are post released and are ordinarily imposed by the lenders
+in case last financing for fiscal discipline, we do not consider these
+conditions to be contravening the stipulations of roll-over if the credit
+rating does not result into review of company profile beyond the
+approved Resolution Plan and the order dated 24.08.2024.
+43.Further, as regards the conditions alleged to be "Inconsistent terms
+and provisions" by the Applicant, it is noted that these conditions
+mandates are in nature of general conditions which are incorporated
+by the lenders and ought to have been they're in the earlier sanctions
+as well. However, the Respondents ought to be specific in relation to
+covenants or general conditions to ensure that none of these conditions
+contravene the approved Resolution Plan. In relation to stipulation of
+100% margin for issuance of guarantees covering disputed liabilities,
+we do not find any disobedience in this relation.
+
+[PAGE 11]
+Page 11 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+51. Some of the conditions and issuance of sanction letter found bona-
+fide by this Tribunal cannot be considered as wilful disobedience. The
+Hon'ble Supreme Court in case of Dinesh Kumar Gupta v. United India
+Insurance Co. Ltd., (2010) 12 SCC 770 held at para 23 that " .........
+Bearing this important factor in mind, it is relevant to note that a
+proceeding for civil contempt would not lie if the order alleged to have
+been disobeyed itself provides scope for reasonable or rational
+interpretation of an order or circumstance which is the factual position
+in the instant matter. It would equally not be correct to infer that a party
+although acting due to misapprehension of the correct legal position
+and in good faith without any motive to defeat or defy the order of the
+Court, should be viewed as a serious ground so as to give rise to a
+contempt proceeding".
+(Emphasis supplied)
+7.
+It was also asserted that even the resolution plan and the NFB
+Agreement expressly provided that the request of Respondents for issue of
+BGs/LCs was to be based on due consideration of the project by the issuing
+Lender and after taking into consideration of applicable laws and regulations
+to the satisfaction of the Lender. Attention was adverted to the relevant clause
+in the Plan as reproduced below:
+Resolution Plan(Schedule VI, Clause F(1)
+
+“The Proposed Investors have not sought any fresh BG/LC limits, but
+have only sought a roll-over, utilisation/issuance of the BG/LC limits
+to the extent of the current exposure of financial creditors as on the
+date on which the CoC votes on this Final Resolution Plan. Provided
+however that any such utilisation/issuance of the BG/LC will be done
+based on due consideration of the project by such creditor issuing the
+LC/BG and subject to applicable laws and regulations for such
+issuance / utilisation. However, the approval for the same will not be
+unreasonably withheld by the relevant Secured Financial Creditor
+issuing the BG/LC. Also, prior to issuance/ utilisation of the LC/BG,
+the BG/LC issuing bank will be provided with all details of the project
+including but not limited to the client, location, and project funding
+while requesting for issue of rolled over BG/LC, for its evaluation.”
+
+(Emphasis supplied)
+
+[PAGE 12]
+Page 12 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+8.
+That the Appellant-Lenders were also entitled to appraise the projects
+of the Respondent while issuing sanction letters also formed part of the
+definitive documents which was expressly provided for in the NFB Agreement.
+Canvassing this argument, attentions was drawn to read with Recital D Article
+1.1; Clause 2.4(a)(i) and (iii) of NFB Agreement which are as reproduced below:
+NFB Agreement
+“(D) The execution of this Agreement and other Financing Documents
+by the Borrower has been authorised to give effect to the terms of the
+Approved Resolution Plan.
+
+ARTICLE 1.1
+"Financing Documents" means this (a) this Agreement; (b) any Security
+Document; (c) the lntercreditor Agreement; (d) sanction letters/renewal
+letters issued by Lenders from time to time and (e) any other agreement
+or document so designated by Lenders and the Borrower;”
+
+2.4(a)(i) Subject to the terms and conditions set forth in this Agreement,
+the Borrower may request a Lender to issue, in a form, manner and tenor
+acceptable to such Lender based on due consideration of the Borrower
+and the project by such Lender, a Letter of Credit or Bank Guarantee for
+its own account, up to the Lender’s available Limit in respect of the
+relevant Letter of Credit Facilities or Bank Guarantee Facilities, as the
+case may be. The Letter of Credit Facilities and the Bank Guarantee
+Facilities may be interchanged upto the extent as set out in Schedule I.
+
+(ii)Any request by the Borrower for issuance of a Letter of Credit or Bank
+Guarantee (or the amendment, renewal or extension of a Letter of Credit
+or Bank Guarantee) may be made by the Borrower by sending a notice
+to the relevant Lender (reasonably in advance of the requested date of
+issuance, amendment, renewal or extension), requesting such Lender to
+issue the Letter of Credit or Bank Guarantee or identifying the Letter of
+Credit or Bank Guarantee to be amended, renewed or extended, and
+setting out the information as required by the relevant Lender to prepare,
+amend, renew or extend such Letter of Credit or Bank Guarantee,
+including details pertaining to the project including but not limited to the
+client, location, and project funding while requesting for issue of rolled
+over BG/LC, for its evaluation.
+...
+
+[PAGE 13]
+Page 13 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+2.4(a)(iii)Any such utilisation/issuance of a Bank Guarantee or Letter of
+Credit will be done based on (a) due consideration of the Borrower and
+the project by such Lender issuing the Bank Guarantee or Letter of
+Credit and subject to applicable laws and regulations for such issuance
+/ utilization, to the satisfaction of the Lender. However, the issuance of
+the same will not be unreasonably withheld by the relevant Lender
+issuing the Bank Guarantee or Letter of Credit. Also, prior to issuance /
+utilisation of the Bank Guarantee or Letter of Credit, the issuing Lender
+will be provided with all details of the project including but not limited
+to the client, location, and project funding while requesting for issue of
+rolled over Bank Guarantee or Letter of Credit, for its evaluation and (b)
+the funding/ financial arrangements required for undertaking and
+completing the project (including any fund based or non-fund based
+financing, or milestone based payment in terms of the relevant EPC
+contract for the project, as applicable), for which the Bank Guarantees/
+Letters of Credit is being requested from the relevant Lender(s), has been
+arranged by the Borrower and requisite documents to this effect having
+been submitted to the relevant lender prior to the issuance of the Bank
+Guarantees/ Letters of Credit. The Lender(s) shall also, prior to the
+issuance of any LC/ BG, as required, have the right to appoint a lenders’
+independent engineer for appraisal and evaluation of the project. The
+reasonable costs and expenses of such LIE shall be borne by the
+Borrower. Such appointment shall not be unreasonably withheld or
+delayed by the Lenders.”
+(Emphasis supplied)
+9.
+Even the August 20 NCLT order at paras 7.1 and 7.2 had recognised
+that the Lenders were entitled to appraise the projects of the Company before
+releasing the NFB facilities which is as extracted:
+“7.1. There is no dispute between the parties that the Respondents
+have right to evaluate each project awarded by the customer of
+Company. The dispute before us pertains to the Respondent’s right to
+also evaluate the Company as such before releasing Non-Fund
+Facilities, which shall result into issuance of Guarantee(s)/Letter of
+Credit by the Respondents in relation to projects awarded to the
+Company, as is contemplated in NFB Agreement having been entered
+subsequent to approval of Resolution Plan in terms of stipulation
+contained in such approved Resolution Plan that the parties shall enter
+into definitive agreements.
+
+[PAGE 14]
+Page 14 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+7.2. It is not in dispute that Resolution Plan contemplate for appraisal
+of Project only, however, NFB Agreement contemplate for consideration
+of company as well as project. The consideration of company as
+stipulated in NFB agreement is the bone of contention and has caused
+holding back the NFB facilities by the Respondents, though the
+Guarantees/Letter of Credit in force as on date of approval of
+Resolution Plan were allowed to be continued...
+(Emphasis supplied)
+10.
+Further the above finding has also been affirmed by this Tribunal in its
+9 December order at para 24 wherein it held “that the lenders shall examine
+the project for which bank guarantees have been asked for and the Respondent
+shall have right to constantly monitor the business performance of the company
+and shall be competent to raise flag at appropriate time in case of deviation and
+take
+corrective
+action
+at
+that
+time
+and
+company
+shall
+furnish
+information/documents required by the lenders for review of financial
+performance of the company after its first release”. The NCLAT order had only
+prohibited the reassessment and reappraisal of the Borrower as a condition
+precedent for release of BGs/LCs and Appellants having adhered to this
+observation committed no breach of 09 December NCLAT order. However,
+incorporation of other conditions as provided for in the resolution plan and
+the NFB Agreement and incorporation of conditions arising out standard
+banking requirements had not been prohibited either by the 20 August NCLT
+or the 09 December NCLAT orders.
+11.
+It was vehemently contended that it was misconceived on the part of
+the Respondents to contend that no fresh sanction letters could have been
+issued and that BGs/LCs limits were to be released to the Corporate Debtor
+Company by the Appellant Lenders unconditionally. It was also asserted that
+the conditions in the sanction letters issued by the Appellants were neither
+
+[PAGE 15]
+Page 15 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+unreasonable not did it involve any evaluation or appraisal of the Borrower
+Company. In fact when the rationale for each and every condition in the
+sanction letter was explained in details by the Appellants before the
+Adjudicating Authority, these conditions could not be seen to be a defiance of
+the court directions. When neither the resolution plan nor the NFB Agreement
+nor the August 20 NCLT order or the December 9 NCLAT order put any
+embargo on the issue of sanction letters or imposing of conditionalities
+therein, there was no basis to substantiate wilful disobedience of court
+directions by the Appellants or any cogent ground for the Adjudicating
+Authority to hold that the Appellants by their conduct had committed
+contempt of the orders of the NCLT or this Tribunal. When the impugned order
+itself records that it has found the issuance of the sanction letter with
+conditions to be bonafide, clearly this could not thereafter be a good ground
+for holding the Appellants to be contemnors. Further, the impugned order at
+para 59 having noted that the conduct of the Appellants on release of NFB
+limits has been guided by their concern for safety of public money and
+adherence to RBI norms, this clearly demonstrates that Appellants had raised
+their defence to justify their conduct, hence, the finding of wilful disobedience
+of the courts’ order cannot be sustained.
+12.
+It was also asserted that the Appellants had acted in good faith and
+issued sanction letters as a positive step towards release of NFB limits while
+the delay in the release of NFB limits was entirely attributable to the conduct
+of the Respondents who without fleshing out reasons for their purported
+objections to the conditions contained in the sanction order have
+unreasonably desired unconditional release of NFB limits. The August 20
+
+[PAGE 16]
+Page 16 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+NCLT Order was confined to directing the Appellants to release the NFB limits
+at the first instance but did not prohibit the Appellants from issuing sanction
+letters with specific terms and conditions therein for such release. The
+Appellants having issued the sanction letters had fully discharged their
+obligations. Onus had shifted to the Respondents to accept and comply with
+the terms of the sanction letters. Having refused to accept the sanction letters,
+NFB limits could not have been released by the Appellant Banks. Moreover,
+the Respondents had insisted on unconditional release which was an
+arbitrary demand on their part and towards perpetration of this unreasonable
+demand, they chose to file a contempt application while circumventing their
+own obligations to accept and act upon the sanction letters. Hence, while the
+Appellants having demonstrated their bonafide, the Borrowers by not
+accepting the sanction letters are disentitled from contending that the
+Appellants had wilfully disobeyed the orders of NCLT and NCLAT.
+13.
+A lot of emphasis was laid by Ld. Solicitor General that the Appellants
+being bound by standard banking compliance requirements, issuance of
+sanction letters constituted an integral part of the standard banking norm for
+availing of BGs/LCs, the fundamentals behind issuance of sanction letters
+did not suffer from any impropriety. The issuance of sanction also cannot be
+objected to particularly so since sanction letters were issued to the Corporate
+Debtor even prior to its getting admitted into CIRP. It was further added that
+the Appellants are governed by RBI Regulations and these Regulations
+required periodical review of credit limits and adherence to internal policies
+
+[PAGE 17]
+Page 17 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+relating to NFB facilities, which has also been recorded in the impugned order
+at para 33 (ix) which is as extracted below:
+“ix. Banks are required to make internal policies relating to
+guarantees on aspects such as tenor, renewal. [The RBI (Commercial
+Banks Credit Facilities) Directions, 2025 issued on 28.11.25
+consolidate the extant regulations. They contemplate compliance by
+banks of their internal policies put in place even for the purpose of
+renewal.”
+14.
+Furthermore, it was added that the stance of the Respondents that the
+obligations of the Appellants to release the BG/LC limits was several and not
+joint was entirely misplaced. Clause 2.2(a) of the NFB Agreement itself
+stipulated the liability of the Lenders to be separate and the relevant clause
+is as extracted hereunder:
+2.2. Obligations of the Lenders
+a) Except as specifically set out in this Agreement, the obligations of
+the Lenders under this Agreement are several. No Lender shall
+be responsible for the obligations of any other Lender. The failure
+of any Lender to carry out its obligations under this Agreement
+shall not relieve the Borrower or any other Lender from any of its
+obligations under this Agreement.
+(Emphasis supplied)
+15.
+Moreover, the impugned order has itself recorded that if the Corporate
+Debtor was availing earlier NFB limits under consortium financing
+arrangement, the stipulation of consortium was not contrary to the terms of
+plan. In support of their contention, the Appellants adverted attention to
+paragraph 38 of the impugned order which is to the effect:
+“38. It is not clear to us whether the Corporate Debtor was availing NFB
+limits under consortium financing arrangement. However, if the
+Corporate Debtor was availing the earlier NFB limits under consortium
+financing arrangement, the stipulation of consortium before release of
+rolled over limits cannot said to be contrary to the approved Resolution
+Plan even in view of clause 2.2 of NFB agreement providing for individual
+
+[PAGE 18]
+Page 18 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+obligation on part of each Respondent dehors performance of such
+obligation by one or more Respondents. On the contrary, in case the
+Corporate Debtor was not availing the earlier NFB limits under
+consortium financing arrangement, the stipulation of consortium before
+release of rolled over limits certainly results into disobedience of the
+order of this Tribunal and cannot be said an issue of interpretation.”
+Therefore, it was contended that when the previous sanction letters provided
+for consortium financing arrangement, such an arrangement now in the
+sanction orders cannot be said to be contrary to the resolution plan. Even if
+it is accepted for argument’s sake that there was a condition of several liability
+on the Lenders, the very fact that Lenders have issued their respective
+sanction letters and have also confirmed their willingness to release their
+individual share of the NFB limits, there was no evidence of any violence being
+caused to the court directions. It was pressed hard that it not incumbent upon
+the Appellants to follow the course of action adopted by Bank of Baroda (BoB)
+and IDBI Bank of separate release of NFB limits by them whose exposure was
+distinguishably smaller in comparison to the limits of the other Appellants
+which ranged from Rs. 51 Cr. to Rs. 101 Cr. as against Rs. 3 Cr. to 3.75 Cr.
+in case of BoB and IDBI Bank.
+16.
+It was also contended that when any order is susceptible to more than
+one interpretation, this amounts to ambiguity in the direction of the Court
+and it is a well settled legal precept that disobedience to an ambiguous order
+is a clear defence to contempt action as has been held in the judgement of
+Hon’ble Supreme Court in Ram Kishan v. Tarun Bajaj & Ors., (2014) 16
+SCC 204 which is as reproduced here under:
+“15. It is well-settled principle of law that if two interpretations are
+possible, and if the action is not contumacious, a contempt
+proceeding would not be maintainable. The effect and purport of
+
+[PAGE 19]
+Page 19 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+the order is to be taken into consideration and the same must be
+read in its entirety. Therefore, the element of willingness is an
+indispensable requirement to bring home the charge within the
+meaning of the Act.”
+17.
+Reliance was also placed on the judgement of Hon’ble Supreme Court
+in Sushila Raje Holkar Vs. Anil Kak (2008) 14 SCC 392 to contend that
+the effect and purport of the impugned order cannot be seen in a fragmented
+manner but read in its totality and if multiple interpretations are possible,
+there is a good defence against being held guilty of contempt. The relevant
+portion of the said judgement is as under:
+“28. ...... It is a well-settled principle of law that if two interpretations
+are possible of the order which is ambiguous, a contempt proceeding
+would not be maintainable. In State of Bihar v. Sonabati Kumari it was
+stated: (AIR p. 225, para 18)
+"18. (2) The second contention urged was that even if on a
+proper construction of the order, read in the light of the
+relevant pleadings, the State Government was directed to
+abstain from publishing a notification under Section 3(1) of
+the Act, still, if the order was ambiguous and equivocal and
+reasonably capable of two interpretations, a party who
+acted on the basis of one of such interpretations could not
+be held to have wilfully disobeyed the order. Stated in these
+terms, the contention appears unexceptionable. For its being
+accepted in any particular case, however, two conditions
+have to be satisfied: (1) that the order was ambiguous and
+was reasonably capable of more than one interpretation, (2)
+that the party being proceeded against in fact did not intend
+to disobey the order, but conducted himself in accordance
+with his interpretation of the order."
+Harping on the fact that contempt jurisdiction has a narrow compass, it was
+contended that not only the finding of the Adjudicating Authority about wilful
+disobedience of the court directions cannot be sustained but also that the
+contempt proceedings are liable to be set aside as punishment for contempt
+
+[PAGE 20]
+Page 20 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+has been imposed without identifying specific individuals and without
+notifying them the positive finding recording contempt having been committed
+by them and giving them an opportunity to be heard in their personal
+capacity.
+18.
+Rebutting the arguments canvassed by the Appellants, the Ld.
+Counsels representing the interests on behalf of Respondents No. 1, 2 and 3
+in unison defended the decision of the Adjudicating Authority holding the
+Appellants to be in contempt of their directions of 20.08.2024 which had been
+affirmed by this Tribunal on 09.12.2024. It is the contention of the
+Respondents that the Appellants as the assenting financial creditors of the
+Corporate Debtor Company in the CoC had themselves approved and
+consented to the resolution plan. Hence they were required to fulfil their
+reciprocal obligations under the resolution plan, particularly so, when the
+Investors/Shareholders of the Corporate Debtor had already complied with
+their part of obligations under the resolution plan of infusing funds. The
+Respondents as on the Closing Date had already infused Rs. 170 Cr. by way
+of equity in terms of the resolution plan and because the Appellants had not
+yet fulfilled their reciprocal obligations of releasing NFB limits, the
+Shareholders of the Corporate Debtor were compelled to infuse additional Rs.
+732 Cr. The continued failure of the Appellants to release/disburse the
+BGs/LCs has put to jeopardy the investment made by the shareholders of the
+Company and amounts to clear defiance of court directions.
+19.
+It was also submitted that Corporate Debtor being an Engineering
+Procurement and Construction (EPC) Company was heavily reliant on
+banking support and hence sought roll-over of existing BGs/LCs limits as
+
+[PAGE 21]
+Page 21 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+envisaged under the resolution plan which was not only necessary for the
+growth of revenue and margin of the Corporate Debtor but was essential for
+its survival. The resolution plan in its Executive Summary at Clause 2(b) had
+clearly stipulated that the Shareholders/Investors of the Corporate debtor
+would require a roll-over of the BGs/LCs to the extent of the current exposure
+of the Financial Creditors as on the date of approval of the resolution plan
+approved by the CoC. The said clause is as reproduced below:
+“2. Restructuring of Debt
+(b) Engineering Procurement & Construction ("EPC") business is
+dependent on banking support. In this regard, the Proposed
+Investors have not sought any fresh limits. The Proposed Investors
+would only require roll-over of bank guarantees ("BG")/letter of
+credit ("LC") limits to the extent of the current exposure of financial
+creditors as on the date on which the CoC votes on this Final
+Resolution Plan.
+This will ensure growth of revenue and margins for the Company,
+which are crucial for meeting debt repayment commitments. The
+roll-over of the BG /LC limits is only applicable to the extent of
+released/ discharged/ cancelled/ returned (by the beneficiaries)
+BGs/LCs (and not invoked/ encashed BGs/LCs). This is further
+explained in paragraph F of Section VI.
+In case any new BG/LC, that is issued after the BG/LC limit being
+rolled over, is invoked or encashed, the amount of such invocation/
+encashment will be payable by the Company on demand, as per
+the terms of the BG/LC.”
+It was emphasised that the Respondents had only sought issuance of existing
+BGs/LCs limits and no fresh limits were sought.
+20.
+Besides the resolution plan, even the NFB Agreement which gave effect
+to the terms of the approval resolution plan also recorded the obligations of
+the Appellants to issue BGs/LCs. Recital C and D of the NFB Agreement read
+as under:
+
+[PAGE 22]
+Page 22 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+“(C) In furtherance of the terms of the Approved Resolution Plan, the
+Borrower and the Lenders have agreed that the Lenders shall make
+available to the Borrower the Facilities up to an amount not exceeding
+an aggregate of their respective Limit in the manner stipulated in
+Schedule I hereto and upon the terms and conditions set out in this
+Agreement for existing or future projects to be undertaken by the
+Borrower. This Agreement sets out the terms and conditions of the
+Facilities sanctioned to the Borrower, as extended and modified by the
+Lenders.”
+(Emphasis supplied)
+Also, Article 5 of the NFB Agreement provided that the Appellant were obliged
+to disburse the NFB limits effective as on Closing Date which is as reproduced
+below:
+“5.1 PRE-DISBURSEMENT CONDITIONS
+
+The obligation of the Lenders to disburse/permit it the
+utilization and/or Drawal of the Facilities under this Agreement shall
+be effective as on the Closing Date. Provided that this is without
+prejudice to the continuation of the any bank guarantee or letter of
+credit or indemnity issued by a Lender under the sanction letters
+and subsisting as on the Effective Date which shall continue and be
+in full force and effect and shall be governed by the terms of this
+Agreement and the Approved Resolution Plan.”
+(Emphasis supplied)
+21.
+The NFB had thus clearly set out the terms and conditions of the
+facilities sanctioned to the Corporate Debtor Company which contractually
+obligated the Appellants to disburse BGs/LCs to the Corporate Debtor
+immediately upon the Closing Date. No fresh sanction letter was contemplated
+under the NFB Agreement. It is an undisputed fact that the Closing Date was
+achieved on 09.11.2021 and yet until now even after nearly five years, the
+Appellants have been dragging their feet by not disbursing/releasing the
+BGs/LCs. Once, the resolution plan was approved by the Adjudicating
+Authority it had become statutorily binding on all concerned including the
+
+[PAGE 23]
+Page 23 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+Appellants. The resolution plan had also provided for the execution of
+definitive documents which were to supersede and replace the terms of all
+agreements with all existing financial creditors of the Corporate Debtor
+Company including the Appellants. When the resolution plan provided for
+roll-over of existing NFB limits, it clearly implied that the Appellants had
+already sanctioned the NFB limits and issue of fresh sanction letters by the
+Appellants cannot be viewed as compliance with their reciprocal obligations
+as has been wrongly asserted by the Appellants.
+22.
+When the resolution plan was approved by the Appellant Banks in their
+capacity as CoC members, the plan had become final and binding on all
+stakeholders including the Appellants. The Appellants were obliged and
+bound by the plan to release/disburse NFB limits to the Corporate Debtor in
+accordance with the resolution plan and the NFB Agreement. Embattled as
+they were in making debt repayments and in improving their business
+performance, it was added that the Respondents had made multiple requests
+to the Appellants to issue the BGs/LCs as they were heavily reliant on the
+NFB limits. This was a case where the Appellants despite having already
+secured their share of profits by sale of equity shares received by them from
+the Corporate Debtor on the Closing Date, and reaped the gains from the
+resolution plan they were wilfully jeopardising the revival of the Corporate
+Debtor by non-release of NFB limits.
+23.
+Since, the Appellants had not been acceding to the request of the
+Respondents for issue of BGs/LCs, the Shareholders had approached the
+Adjudicating Authority following which it issued clear directions on
+
+[PAGE 24]
+Page 24 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+20.08.2024 for immediate and several release of NFB limits by the Appellants
+at the first instance. The relevant orders are as extracted below:
+“7.7. ... Accordingly, we have no hesitation to hold that CoC was
+conscious of proposals in the Resolution Plan in relation to NFB limits
+and they voted on the Plan realising fully well that the said NFB limits
+are to be released, subject to project appraisal......
+7.9. ...However, we are of the considered view that the NFB limits
+ought to have been released at the first instance by the lenders as
+contemplated in the plan.”
+
+24.
+It was emphatically asserted that non-release of BGs/LCs had also been
+frowned upon by this Tribunal on 09.12.2024 by observing that the CoC while
+approving the plan had consciously decided to roll-over NFB facilities by the
+existing Lenders such conduct was akin to stopping the Corporate Debtor
+from carrying out its normal functions which was never the object of
+resolution plan. The relevant paragraph of the said order is as reproduced
+below:
+24. ...... We have noticed the relevant clauses of the plan which
+indicate that various repayments have to be made by company out
+of cash flow and revenue generated. The company being EPC
+contractor has to carry out and to work the contract to earn revenue,
+without the company carrying any contract it cannot generate
+revenue. Stopping the company to not able to work any contract due
+to non-release of bank guarantee is akin to stopping the company
+from carrying out normal function which shall lead non-compliance
+of the repayment obligation of the company which can never be
+object of approval of the Resolution Plan. Counsel for the Respondent
+has also relied on Joint Lenders' Meeting held on 26.09.2024 i.e.
+after passing of the order passed by the Adjudicating Authority
+where IDBI Bank has also flagged the issue the non-release of NFB
+limits may jeopardise the operations of the company which will
+impact the repayment of NCDs to assenting Financial Creditors......”
+(Emphasis supplied)
+
+[PAGE 25]
+Page 25 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+25.
+However, the Appellants had consciously and deliberately failed to
+comply with their reciprocal obligations to release the sanction/rolled-over
+NFB limits at the first instance as directed by the 20 August NCLT order which
+was subsequently duly affirmed by this Tribunal vide order dated 09.12.2024.
+This non-release of NFB limits was in gross violation of the judicial orders
+passed. Failure to discharge their reciprocal obligations under the resolution
+plan inspite of clear directions by the Adjudicating Authority and this Tribunal
+clearly constituted contempt of the court’s authority.
+26.
+Once the primary step of issuance of sanction orders had taken place
+after the approval of the resolution plan and the Appellants had signed the
+NFB Agreement setting out the detailed terms and conditions and procedure
+for issue of BGs/LCs, the procedural requirement of sanction order already
+stood met and the Appellants thereafter cannot insist on issuance of a fresh
+sanction. By issuing fresh sanction letters, four years after Closing Date, the
+Appellants had effectively restarted the process. Moreover, the Appellants
+have issued afresh sanction letters without demonstrating any shortcoming
+or deficiencies on the part of the Corporate Debtor Company which had led to
+non-release of BGs/LCs to the Company Corporate Debtor. Issuance of fresh
+sanction was nothing but a disguised attempt to create a new parent
+document to govern the relationship between the Appellants and the
+Corporate Debtor in a manner which was at variance from the original
+relationship envisaged under the resolution plan and the NFB Agreement and
+a contrived afterthought to resile from their obligations under the plan.
+Therefore, the intent was clearly to delay and/or avoid releasing of the NFB
+limits. The fresh sanction letters cannot be taken as an innocent, innocuous
+
+[PAGE 26]
+Page 26 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+and harmless document but a strategised and calculated design to repudiate
+their committed obligations and obstruct the release of the NFB limits. This
+was clearly a wilful breach of the direction given by the Adjudicating Authority
+and this Tribunal in their respective orders of 20.08.2024 and 09.12.2024.
+27.
+It is the case of the Respondents that it has been the consistent
+approach of the Appellants not to release the BGs/LCs which had been rolled
+over under the resolution plan in spite of multiple opportunities given to them.
+The same intransigence can be seen when the Appellants again failed to abide
+by the interim order dated 25.11.2025 passed by the Adjudicating Authority
+wherein the Appellants were directed to ensure that their sanction letter was
+to be in accord with the terms of the approved plan. Despite clear directions
+to the Appellants to adhere to the terms and conditions of the resolution plan,
+they proceeded to issue fresh sanction letters and insisted on compliance with
+new terms and conditions set out therein in variance with the approved
+resolution plan and NFB Agreement. As no forward action was taken by the
+Appellant Banks, the Respondents were left with no choice but to file the
+contempt application. Even the impugned order at Para 59 had provided yet
+another opportunity to the Appellants to release the BGs/LCs in the manner
+provided in the approved resolution plan. Instead of complying thereto, the
+Appellants chose to file an appeal before this Tribunal. In such circumstances,
+the impugned order has rightly found the conduct of the Appellants to be
+intentionally evasive in discharging their obligations of disbursing the NFB
+limits by issue of BGs/LCs which amounted to wilful disobedience of the
+orders of 20.08.2024 and 09.12.2024 issued by the Adjudicating Authority
+and this Tribunal respectively.
+
+[PAGE 27]
+Page 27 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+28.
+It was further contended by the Respondents that the Appellants have
+made the release/disbursal of NFB limits subject to availability of limit by
+other lenders. This conditionality was never contemplated in the plan or the
+NFB Agreement. In terms of the “General Terms of the Facilities” under the
+NFB, the Banks had already sanctioned facilities to the Corporate Debtor
+Company and that upon the Closing Date being achieved ‘each of the Lenders
+had already agreed to extend/lend to the Borrower the facilities to the
+maximum extent of the limits as was clearly spelt out in Clause 2.1(a) of the
+NFB Agreement. Further, the NFB Agreement at Clause 2.2(b) clearly provided
+that the obligation of each NFB Lender was to release its respective limit and
+that the obligation of each of the Lenders was ‘several’.
+“2.2. Obligations of the Lenders
+a) Except as specifically set out in this Agreement, the rights of the
+Lenders under this Agreement are separate and independent rights
+and any debt to any Lender arising under the Financing Documents
+from the Borrower shall be a separate and independent debt from
+debt owed to any other Lender. Except as specifically set out in this
+Agreement, a Lender may separately enforce any of its rights arising
+out of this Agreement.”
+The approved resolution plan had also stipulated that the BG limits will be
+allowed to be used as LCs as per business needs. Clause 2.4 of the NFB
+Agreement under the caption ‘Terms of the Facilities’ also provided that the
+LC and BG facilities may be interchanged up to the extent as set out in
+Schedule I.
+29.
+Once the Closing Date was achieved by which time the investors had
+already infused their share, the obligation of the NFB lenders to
+release/disburse the NFB limits severally and separately had become
+
+[PAGE 28]
+Page 28 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+operational and having failed to release the same, they acted in contravention
+of the resolution plan and NFB Agreement. Further, the contention of the
+Appellants that release of NFB limits was joint was misplaced as it fails to
+explain how BoB and IDBI Bank had released the NFB limits on their own
+steam. It was also pointed out that merely because the comparative quantum
+of exposure of BoB and IDBI were not as large as much as of the Appellants,
+the margin of exposure cannot be a cogent ground not to comply with binding
+release orders issued by the Adjudicating Authority and this Tribunal. It was
+also pointed that on the one hand the Appellants have claimed that they were
+not bound by the decision taken by BoB and IDBI but at the same time have
+also claimed that the release of NFB limits have to be done by the consortium.
+This mutually contradictory stance was also in contravention of the NFB
+Agreement which expressly sets out that the obligation of the Appellants was
+several and not joint.
+30.
+Submission was also pressed that the Appellants had taken shield of
+compliance with RBI Regulations as a condition for non-release of the NFB
+limits without specifically spelling out as to which applicable laws or
+regulations of the standard banking practices prevented them from releasing
+the BGs/LCs limits. It was asserted that the 09 December NCLAT order had
+already dealt with this aspect at para 24 of its order which is as reproduced
+below:
+“24. The above clause which has been relied by Counsel for the
+Appellant as its heading showing is towards 'precautions for
+averting frauds'. The above clause is for the purposes of averting
+frauds. Present is not a case that the borrower is asking for issuance
+of NFB facilities which will lead to perpetuating any fraud on the
+lenders. Present is a case where Resolution Plan has already been
+
+[PAGE 29]
+Page 29 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+approved by the CoC where decision was consciously taken to roll-
+over NFB facilities by the existing lenders. It is also not the case that
+the borrower has defaulted in any of the bank guarantees or letter
+of credit so as to give any apprehension in the mind of the lenders
+that borrower will not be able to honour the service the NFB
+facilities.”
+Taking the plea of RBI Regulations was a farcical ploy adopted by the
+Appellants to justify their wilful and deliberate action of not issuing the
+BGs/LCs. It was also pointed out that when BoB and IDBI Bank which were
+also public sector banks could have issued BGs/LCs upon demand by
+Corporate Debtor under the NFB Agreement, it remains unexplained as to
+how the RBI circulars prevented the Appellants from issuing the BGs/LCs.
+The ground of adherence to RBI norms and Internal Banking Procedures been
+resorted to frustrate the release of the NFB limits which was clearly an
+attempt to defy the judicial directions contained in the August 20 NCLT Order
+and December 9 NCLAT Order.
+31.
+Asserting that the directions of the Adjudicating Authority were clear,
+unambiguous and therefore binding, submission was pressed that conduct of
+the Appellants satisfy all ingredients of wilful and deliberate disobedience of
+court direction. Reliance was placed on the judgment of the Hon’ble Supreme
+Court in Maninderjit Singh Bitta Vs. Union of India, (2012) 1 SCC 273
+wherein it was held that every person is expected to obey the orders of the
+Court in its true spirit and where the party does not obey the orders of the
+Court nor approaches the Court seeking extension of time for compliance or
+variation of the order, the only possible inference is that the party intends to
+disobey the orders of the Court. The persistence on the part of the Appellants
+insisting on issue of fresh sanction letters with new terms and conditions
+
+[PAGE 30]
+Page 30 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+clearly amounted to wilful disobedience and defiance of Courts orders which
+tantamount to committing contempt.
+32.
+We have extensively heard the Ld. Counsel for all the parties and have
+noted the rival contentions in great details and perused the records carefully.
+33.
+It is an undisputed fact that the impugned order has stemmed out from
+the prayers made in two contempt applications which had been filed by the
+Respondents herein.
+34.
+At this stage, it may be useful to glance at the prayers contained in the
+two Contempt Applications which have been filed by the Respondents which
+is reproduced below:
+Cont. App. 39 of 2025
+“In view of the above-mentioned facts and circumstances the Applicant
+most respectfully prays that this Hon 'ble Tribunal may be pleased to
+order and direct:
+a) That this Hon'ble Tribunal order that the Respondents are guilty under
+Section 74(3) of the Code for willfully and knowingly contravening the
+provisions of the Approved Resolution Plan;
+b) That this Hon'ble Tribunal order that the Respondents are guilty of
+contempt of this Hon'ble Tribunal and the Hon'ble Appellate Authority for
+willful, deliberate disobedience/breach of the order dated 20 August
+2024 passed in Interlocutory Application No. 5023 of 2023 by this
+Hon’ble Tribunal and order dated 9 December 2024 of the Hon’ble
+Appellate Authority by way of which it affirmed order dated 20 August
+2024, in terms of Section 12 of the Contempt of Courts Act, 1971;
+c) Order the chairmen/officers in-charge of the Respondent banks, to
+undergo imprisonment and pay fine in terms of Section 74(3) of the Code
+and Section 12 of the Contempt of Courts Act, 1971;
+d) Order and direct Respondents to purge contempt by forthwith
+complying with the order dated 20 August 2024 passed in Interlocuto1y
+Application No. 4959 of 2023 by this Hon'ble Tribunal and order dated
+9 December 2024 of the Hon'ble Appellate Authority by way of which it
+affirmed order dated 20 August 2024;
+
+[PAGE 31]
+Page 31 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+e) Pass any such other order or orders as this Hon'ble Tribunal may
+deem fit, proper, and appropriate in the interest of justice;
+f) Costs of this Application.”
+Cont. App. 41 of 2025
+“In view of the above-mentioned facts and circumstances the Applicant
+most respectfully prays that this Hon'ble Tribunal may be pleased to
+order and direct:
+a) That Respondent banks (No. 1 to 7) are guilty under Section 74(3) of
+the Code for willfully and knowingly contravening the provisions of the
+Approved Resolution Plan;
+b) That this Hon'ble Tribunal order that the Respondent banks (No.1 to
+7) are guilty of contempt of this Hon'ble Tribunal and the Hon'ble
+Appellate Authority for willful, deliberate disobedience/breach of the
+order dated 20 August 2024 passed in Interlocutory Application No.
+5023 of 2023 by this Hon’ble Tribunal and order dated 9 December 2024
+of the Hon'ble Appellate Authority by way of which it affirmed order
+dated 20 August 2024, in terms of Section 12 of the Contempt of Courts
+Act, 1971;
+c) Order the officers in-charge of Respondent banks (No.1 to 7) to undergo
+imprisonment and pay fine in terms of Section 12 of the Contempt of
+Courts Act, 1971 and/or Section 74(3) of the Code;
+d) Order and direct the Respondent banks (No.1 to 7) to purge the
+contempt by forthwith complying with the order dated 20 August 2024
+passed in Interlocutory Application No. 5023 of 2023 by this Hon'ble
+Tribunal and order dated 9 December 2024 of the Hon'ble Appellate
+Authority by way of which it affirmed order dated 20 August 2024;
+e) Pass any such other order or orders as this Hon'ble Tribunal may
+deem fit, proper, and appropriate in the interest of justice;
+f) Pass an order granting the costs of this Application in favour of the
+Applicants.”
+35.
+It would be constructive to see how the Adjudicating Authority had
+disposed of both the Contempt Applications. The relevant para 59 of the
+impugned order is as reproduced below:
+“59. It is noted that the Respondent's Officers are in contempt of this
+Tribunals order however their defiance arises from their concern for
+safety of public money and adherence to the RBI norms. Accordingly, we
+
+[PAGE 32]
+Page 32 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+are of considered view that end of justice would be met if the
+Respondents release rolled over BG limits in the manner provided in the
+approved Resolution Plan and in terms as were applicable to those limits
+prior to commencement of CIRP within one month from the date of
+communication of this Order, considering that the Applicant as well as
+the Respondents have a long way to go together and any disharmony
+between them may be prejudicial to their business interest as well. In
+case, the Respondents failed to do so within the period allowed, this
+Tribunal orders one day of simple imprisonment in civil prison and the
+application herein, shall inform the Prison authorities for taking
+appropriate action for compliance of this order.”
+
+36.
+It was contended by Ld. Solicitor General that the Adjudicating
+Authority in the present case has neither formed any prima-facie satisfaction
+of unambiguous and unequivocal case of wilful disobedience nor issued any
+show cause notice for contempt at any stage. The Adjudicating Authority on
+15.10.2025 had merely directed issuance of routine notice calling upon the
+Appellants to file replies without framing precise charges against the
+Appellants. Pursuant to these directions, notices which came to be issued
+were not “Show Cause Notices” as contemplated under NCLT Rules or Section
+12 of Contempt of Courts Act. Neither did the routine notice identify any
+specific conduct constituting contempt nor was it addressed to specific
+individuals. Contempt proceedings being quasi criminal in nature,
+compliance with procedural requirement is not an empty formality but
+requires to be essentially complied with. But in the present case the
+Adjudicating Authority failed to record that its prima-facie satisfaction that a
+case of contempt had been made out but went ahead to impose punishment
+which suffers from grave procedural infirmities and that too without
+identifying the specific officers of the Appellants before imposing of
+punishment. The direction of imprisonment of the Respondents who are
+
+[PAGE 33]
+Page 33 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+corporate entities without identifying the individual contemnors, the
+contempt order could not have been passed.
+37.
+Per contra, it is the case of the Respondents that the Appellants despite
+being aware of the fact that in terms of the NFB Agreement, they were required
+to disburse the NFB limits from the Closing Date, they have dragged their feet
+for nearly five years in disbursing the NFB limits and have now issued fresh
+sanction orders which are objectionable since the sanction orders contain a
+string of conditionalities which were alien to the resolution plan and the NFB
+Agreement executed in pursuance of the plan. It was also emphatically
+asserted that the intent of Respondents behind filing the contempt application
+was only to make the Appellants see sense and release the NFB limits which
+was vital for their survival as crucial for their revival. The idea behind filing
+the contempt application was to simply make the Appellants comply with the
+court orders for release of NFB limits for the successful resolution of the
+Corporate Debtor. The intent of the Respondents was not to send the
+Appellants to civil prison but to tackle the undue hostility on their part in the
+release of NFB limits.
+38.
+We are conscious that the power to punish a person for contempt is
+undoubtedly a powerful and potent weapon in the hands of court but it is also
+well-recognised that this power has to be exercised with utmost caution and
+circumspection and cannot be used unless the Court is fully satisfied beyond
+doubt that the alleged contemnor has deliberately and intentionally violated
+the order of the Court. Therefore, mere disobedience is not enough to hold a
+person guilty of civil contempt unless it is accompanied with an element of
+
+[PAGE 34]
+Page 34 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+deliberate and wilful intent to defy the orders of the court. Any party which
+complains breach of courts’ order by the other party must allege deliberate or
+contumacious disobedience of the court's order and only if such allegation is
+proven and substantiated before the court that contempt can be said to have
+been made out. It follows therefore that in matters of contempt, following the
+due procedure and the principles of natural justice is of great significance.
+The court must serve a formal, personal notice of show-cause on the person
+charged with contempt which notice must be accompanied by the precise and
+explicit charges framed against him so that he knows exactly what he is
+required to defend. A simple or generic notice is not sufficient. The person so
+charged must also be given a fair chance to file an affidavit in reply to the
+show-cause notice as why he should not be punished. The court must give
+the person a fair opportunity to present his defence before making a final
+determination on whether the purported conduct is contemptuous or
+otherwise. As in the present case, the contempt proceedings have resulted in
+penal consequences of imprisonment, it is all the more incumbent upon us to
+satisfy ourselves whether procedural compliances have been met with or not.
+39.
+Emphasising that contempt proceedings require a two-stage process
+viz., (i) recording of prima facie satisfaction before issuing show case notice;
+and (ii) framing of a precise charge so that the alleged contemnor is conscious
+of the case he has to meet, it was asserted by the Ld. Solicitor General that
+the Adjudicating Authority having brushed aside these procedural niceties
+has exercised the contempt jurisdiction in a casual manner which is not
+sustainable in the eyes of law. Reliance was placed on the judgement of the
+
+[PAGE 35]
+Page 35 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+Hon’ble Supreme Court in Om Prakash Jaiswal Vs. D.K. Mittal & Anr.
+(2000) 3 SCC 171 wherein adverting attention to the well-established practice
+of following the two-stage process, it has been laid down that:
+“15. ...... Filing of an application or petition for initiating proceedings for
+contempt or a mere receipt of such reference by the court does not
+amount to initiation of the proceedings by court. On receiving any such
+document it is usual with the courts to commence some proceedings by
+employing an expression such as "admit", "rule", "issue notice" or "issue
+notice to show cause why proceedings for contempt be not initiated". In
+all such cases the notice is issued either in routine or because the court
+has not yet felt satisfied that a case for initiating any proceedings for
+contempt has been made out and therefore the court calls upon the
+opposite party to admit or deny the allegations made or to collect more
+facts so as to satisfy itself if a case for initiating proceedings for contempt
+was made out. Such a notice is certainly anterior to initiation. The tenor
+of the notice is itself suggestive of the fact that in spite of having applied
+its mind to the allegations and the material placed before it the court was
+not satisfied of the need for initiating proceedings for contempt; it was
+still desirous of ascertaining facts or collecting further material whereon
+to formulate such opinion. It is only when the court has formed an
+opinion that a prima facie case for initiating proceedings for contempt is
+made out and that the respondents or the alleged contemners should be
+called upon to show cause why they should not be punished; then the
+court can be said to have initiated proceedings for contempt. It is the
+result of a conscious application of the mind of the court to the facts and
+the material before it. Such initiation of proceedings for contempt based
+on application of mind by the court to the facts of the case and the
+material before it must take place within a period of one year from the
+date on which the contempt is alleged to have been committed failing
+which the jurisdiction to initiate any proceedings for contempt is lost. The
+heading of Section 20 is "limitation for actions for contempt". Strictly
+speaking, this section does not provide limitation in the sense in which
+the term is understood in the Limitation Act. Section 5 of the Limitation
+Act also does not, therefore, apply. Section 20 strikes at the jurisdiction
+of the court to initiate any proceedings for contempt.”
+
+40.
+Another judgment relied upon by the Appellant in support of the two-
+stage process is that of this Tribunal in G. Ravi Shankar Vs. S
+
+[PAGE 36]
+Page 36 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+Radhakrishnan in CA(AT)(CH) No. 93 of 2023 wherein it was held as
+follows:
+“7. It is only when the Tribunal comes to a conclusion of an apparent,
+intentional and deliberate contempt having been committed, then only
+after framing of a charge under Rule 13 of the Contempt of Courts Rules,
+the appellant may be called upon to appear in-person before the
+Tribunal, if required as per law.”
+
+41.
+Reliance has also been placed on the judgment of Hon’ble Supreme
+Court in L.P Misra Vs. State of UP (1998) 7 SCC 379 wherein it was held
+that the court could not have passed the contempt order without issuing a
+show-cause notice or giving an opportunity to the Appellants to explain the
+alleged contemptuous conduct.
+
+42.
+Yet another judgement which had been adverted to is that of the Hon’ble
+Delhi High Court in McDonald’s India Private Limited v. Union of India &
+Ors. 2018 SCC OnLine Del 6617, as extracted below:
+“35. There can be no quarrel with the proposition that the proceedings
+under the Contempt of Courts Act, 1971 are quasi criminal in nature.
+Initiation of action under the criminal law is one of great import and
+therefore, a serious matter. The burden and standard of proof in
+contempt proceedings is the same standard of proof as required in
+criminal proceedings. Great circumspection is required to be exercised
+by the court or the forum conferred with power to punish for contempt.
+Such action cannot be undertaken merely based on conjectures or
+surmises. The proceedings of contempt of court are generally treated
+as sui generis. Though the procedure adopted both under the common
+law and the statute in this context has invariably been summary in
+nature and the provisions of the Code of Criminal Procedure or the
+Evidence Act do not strictly control the same, it is essential that the
+court or the forum follows the procedure that is fair and objective.
+Before issuing notice calling upon the alleged contemnor to answer the
+charge of contempt, the court or the forum must record satisfaction
+that there is a clear, unambiguous and unequivocal case made out
+showing willful and contumacious conduct by the respondent. The
+procedure to be followed, after formal cognizance is taken, must
+
+[PAGE 37]
+Page 37 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+include framing of a precise and specific charge or notice so as to
+inform the party in question as to the charge he is to meet. It may be
+added that it is not always necessary to frame a formal charge as in
+a criminal trial. It is sufficient if the gist of the specific allegations is
+made clear to the alleged contemnor affording him the opportunity of
+being heard in his defence. Further, the charge must be substantiated
+by clear and reliable evidence to be adduced at the trial.
+......
+49. The NCLT, rather than acting in hurry or undue haste, as is
+alleged, has taken the neutral course of treating the application
+seeking initiation of contempt proceedings or for the parties in question
+to be asked to purge, merely as an application filed in the wake of its
+order dated 13.07.2017. The decision as to whether or not a prima
+facie case of willful disobedience, defiance or commission of any act
+constituting contempt is made out, would undoubtedly be taken by
+the NCLT after it has secured the replies and considered the
+contentions having heard the parties in question. The argument that
+NCLT has acted arbitrarily, or with bias, is without basis. By giving
+opportunity to show cause, it has instead acted in most fair manner,
+following the spirit of the rules. [Rule 59].”
+(Emphasis supplied)
+
+43.
+In their defence, however, the Respondents have argued that that in
+McDonalds India judgement supra it has been held that it is not always
+necessary to frame a formal charge and that it is sufficient if the gist of specific
+allegation is made clear to the alleged contemnor affording him an opportunity
+of being heard in his defence. In the present case, notice had been issued to
+the Appellants on 29.10.2025 directing them to appear before the NCLT and
+the Respondent had been directed to serve a copy of their contempt
+application upon all Appellants which had also been complied with.
+Furthermore, in the interim order dated 25.11.2025 the NCLT had given the
+Appellant Banks another opportunity to comply with the directions to issue
+sanction letters in accordance with the terms of the approved resolution plan
+which not having been complied with, the Adjudicating Authority committed
+no infirmity in holding the conduct of the Appellant Banks to be neither in
+
+[PAGE 38]
+Page 38 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+compliance with the approved resolution plan nor in terms of the August 20
+NCLT Order and December 9 NCLAT Order and therefore their conduct to be
+in contempt of the court.
+44.
+Having perused the judgements cited by both the Appellants and the
+Respondents, we are not inclined to agree with the submission made by the
+Respondents dispensing with the need for the Adjudicating Authority to
+record prima-facie satisfaction of wilful disobedience and communication of
+the charges on the alleged contemnors. The Adjudicating Authority in this
+case has directly imposed punishment without first passing an order
+recording its prima-facie satisfaction that there is a contempt. Further the
+imposition of punishment without issue of a show cause notice to the
+Appellants setting out the issues/charges which allegedly constituted
+contempt of the August 20 NCLT Order and December 9 NCLAT order is a
+procedural breach. Further, penalty can be visited only after receipt of
+explanation and oral hearing of the specific individuals to be penalised which
+has not happened.
+45.
+We find that the judgements relied upon by the Appellants adequately
+support the submissions made by them that contempt proceedings
+necessarily require recording of prima-facie satisfaction by the concerned
+court of law of wilful disobedience of its orders followed by framing of precise
+charges against the alleged contemnor to be met by the alleged contemnor
+before being visited with any punishment arising out of the contempt
+proceedings. The minimal requirement of following the procedure prescribed
+
+[PAGE 39]
+Page 39 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+by law has been clearly overlooked by the Adjudicating Authority in the
+present case.
+46.
+Court must first ascertain facts and satisfy itself that a prima facie case
+of contempt is made out, and only thereafter should it call upon the alleged
+contemnors to show cause why they should not be punished. It is also to be
+kept in mind that contempt can be initiated against specific individuals and
+the principle of natural justice necessitates that a meaningful opportunity is
+to be allowed to the identified contemnors so as to give them an opportunity
+to defend themselves. The Adjudicating Authority in the present case has
+neither formed any prima facie satisfaction for issue of show- cause notice for
+contempt but merely directed issuance of routine notice without framing
+precise charges against specific individual representing the respective
+Appellant lenders. Furthermore, when the sanction letters have been
+independently issued by each of the Appellant Banks, which sanction terms
+are at variance from each other, the Adjudicating Authority without going into
+the specific sanctions order and identifying how each of them breached the
+directions of the court could not have passed a composite order for contempt
+against the Appellant Banks and that too without naming the specific officers
+who are charged with contumacious disobedience. We also find that the
+Appellants have rightly drawn strength from the judgment of Hon’ble Supreme
+Court in Union of India Vs. Satish Chandra Sharma (1980) 2 SCC 144
+which has held as follows:
+“10. We are a little startled that a court in the contempt jurisdiction
+should deprive the personal liberty of a person without naming in the
+order whom the court's bailiff should take into custody or the jail
+authorities should receive........ The constitutional sanctity of liberty
+
+[PAGE 40]
+Page 40 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+and the (then) protection of property will become chimerical and the
+processual law will hang limp if the substantive order is silent and
+identifying the offender is left over as a ministerial measure. ........
+Nameless humans cannot be whisked off to prison even in the name of
+contempt by insertion of the name after the judgment is delivered.
+Natural justice is a pervasive doctrine integral to processual fair play
+in Indian jurisprudence. For this reason alone, the extant order under
+challenge is vulnerable–against both the attachment of unspecified
+property and detention of unnamed contemners.”
+(Emphasis supplied)
+47.
+To our minds, for the reasons stated above, the Adjudicating Authority
+has given a go-by to the procedural requirements which are required to be
+mandatorily followed in contempt proceedings particularly so when a one-day
+imprisonment has been ordered as penal consequence rendering the
+proceedings quasi-criminal in character. We find that the impugned order
+subjecting the Appellants to contempt and consequential civil imprisonment
+suffers from impropriety since punishment arising from contempt is required
+to be directed against an individual(s) who are found to have wilfully and
+deliberately disobeyed the court directions. In the present case, the
+Respondents in their contempt application have not identified specific
+individual(s) by name as alleged contemnors nor made express and specific
+charges of violation of court directions by them. Since contempt jurisdiction
+has not been exercised by the Adjudicating Authority in accordance with the
+procedure prescribed by law, in such circumstances, the impugned order
+cannot be sustained.
+48.
+In view of the forgoing discussion, the Appeal is allowed. The impugned
+order is set aside with the following directions:
+
+[PAGE 41]
+Page 41 of 41
+Comp. App. (AT) (Ins) No. 388 & 389 of 2026
+
+(i) It shall be open to the Respondents to send a written communication to
+each of the Appellant Banks separately for release/disbursal of NFB limits in
+terms of August 20 NCLT order and December 09 NCLAT order.
+(ii) The Appellant Banks so approached may send their categorical response
+on the request for release/disbursal of NFB limits to the Respondents within
+a period of one month from the date on which the request is received from the
+Respondents. The Appellant Banks are also directed to cooperate in providing
+the name of the specific Officer(s) dealing with the disbursal/release of NFB
+limits to the Respondents while sending their respective responses.
+(iii) In the event, the Respondents are aggrieved with the response received
+from the Appellant Banks in respect of Serial No. (ii) above, the Respondents
+shall have the liberty to revive their Contempt Applications before the
+Adjudicating Authority by indicating the name of specific Officer(s) of each
+Appellant Banks by filing fresh averments and pleadings which the
+Adjudicating Authority may consider in accordance with law, without being
+influenced in any manner with any observations made by this Tribunal in this
+order.
+(iv) The parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Mr. Barun Mitra]
+Member (Technical)
+Place: New Delhi
+Date : 26.05.2026
+Sheetal

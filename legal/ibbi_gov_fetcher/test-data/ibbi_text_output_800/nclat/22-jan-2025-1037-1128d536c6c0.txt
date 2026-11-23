@@ -1,0 +1,659 @@
+[PAGE 1]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+1 of 17
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 38 of 2025
+[Arising out of Order dated 04.12.2024 passed by the Adjudicating Authority
+(National Company Law Tribunal, New Delhi, Court V, Division Bench), in
+(IB)-202(PB)/2021 in New IA/5719/2024]
+IN THE MATTER OF:
+
+Anil Kumar
+(Resolution Professional in the
+Personal Insolvency Resolution Process of
+Sh. Mukund Choudhary)
+C-10, Lajpat Nagar – III,
+New Delhi-110024
+Email: jcpersonalinsolvency@gmail.com;
+anil2566@gmail.com
+
+...Appellant
+
+Versus
+
+Mukund Choudhary
+(Personal Guarantor)
+House No. 7, 1st Floor,
+Padmini Enclave, Hauz Khas
+New Delhi-110016
+Email: mukund1971@gmail.com
+
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Milan Singh Negi, Mr. Nikhil Kumar Jha and
+Ms. Aakriti Gupta, Advocates.
+
+For Respondents
+: Ms. Purti Gupta, Ms. Henna George and Ms.
+Harshita Kakkar, Advocates.
+O R D E R
+ASHOK BHUSHAN, J.
+This Appeal has been filed by the Resolution Professional (RP) of the
+Corporate Debtor, challenging the Order dated 04.12.2024 passed by the
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+2 of 17
+Adjudicating Authority (National Company Law Tribunal, New Delhi, Court –
+V, Division Bench), disposing of I.A. No. 5719/2024 filed by the RP.
+2.
+Brief facts necessary to be noticed for deciding the Appeal are:
+i.
+On an Application filed under Section 94(1) of the Insolvency and
+Bankruptcy Code, 2016 (for short ‘The Code’ or ‘The IBC’) by the
+Personal Guarantor, Respondent herein, Adjudicating Authority passed
+an Order on 08.04.2021, declaring Interim Moratorium in terms of
+Section 96 of the IBC. By the same Order, the Appellant herein was
+appointed the Resolution Professional.
+ii.
+Appellant filed a Report under Section 99 of the IBC, which Report was
+considered by the Adjudicating Authority and by Order dated
+30.04.2024, Section 94 Application filed by the Personal Guarantor was
+admitted and Personal Insolvency Resolution Process (PIRP) was
+initiated as per the Order dated 30.04.2024, fresh Moratorium in terms
+of Section 101 was to commence which was contemplated to cease to
+have effect at the end of period of 180 days.
+iii.
+Public announcement was made by RP on 03.05.2024.
+iv.
+Draft Repayment Plan was also submitted by the Personal Guarantor.
+v.
+RP recommended the convening of the Meeting of the Creditors in terms
+of Section 106(2)(c) of the IBC.
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+3 of 17
+vi.
+First Meeting of Creditors was rescheduled on 23.10.2024, when the
+Creditor discussed the Repayment Plan and requested the Personal
+Guarantor to improve the financial proposal and reduce the timeline.
+vii.
+On 28.10.2024, RP was authorised to file an appropriate Application for
+extending PIRP by 90 days beyond 180 days.
+viii.
+Appellant thereafter filed an I.A. 5719/2024 seeking extension of the
+PIRP by 90 days beyond 180 days, which Application came to be
+rejected by Adjudicating Authority on 04.12.2024, by which
+Application, the Adjudicating Authority has granted 90 days extension
+to complete the process, however, no views were expressed on the
+Moratorium.
+ix.
+Aggrieved by the Order dated 04.12.2024, this Appeal has been filed.
+3.
+We have heard Mr. Milan Singh Negi, Learned Counsel appearing on
+behalf of the Appellant and Ms. Purti Gupta, Learned Counsel appearing on
+behalf of the Respondent.
+4.
+Learned Counsel for the Appellant challenging the Order submits that
+Insolvency Resolution Process without Moratorium shall render the entire
+exercise of personal Resolution Process as futile. Adjudicating Authority erred
+in not extending the Moratorium beyond 180 days which 180 days was
+expiring on 28.10.2024. The extended period of PIRP with effect from
+29.10.2024 without Moratorium shall enable the Creditors to take recovery
+action or execute enforced security interest which shall defeat the entire
+exercise of PIRP. In the present case, Repayment Plan has already been
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+4 of 17
+received within 180 days during the Moratorium provided under Section 101.
+The period of 180 days as provided in Section 101 is directory and the
+Adjudicating Authority has jurisdiction to extend the said period. Learned
+Counsel for the Appellant has placed reliance on the Judgment of this
+Tribunal in the matter of ‘Vikas Gautamchand Jain’ in Comp. App. (AT)
+(Ins.) No. 1173/2024, decided on 20.08.2024 to support his submissions.
+Learned Counsel for the Appellant has also relied on the Judgment of the
+Hon’ble Supreme Court in the matter of ‘P. Mohanraj & Ors.’ Vs. ‘Shah
+Brothers Ispat Pvt. Ltd.’ reported in (2021) 6 SCC 258.
+5.
+Learned Counsel Ms. Purti Gupta appearing for the Personal Guarantor
+also supported the submission of the Appellant and submits that prescription
+of 180 days under Section 101 is only directory and is not mandatory. In
+appropriate case Adjudicating Authority has full jurisdiction to extend the
+period of 180 days. It is submitted that without extension of Moratorium
+proceeding under Personal Guarantor shall not yield any favourable results.
+6.
+We have considered the submissions of the Counsel for the Parties and
+perused the record.
+7.
+The PIRP against the Personal Guarantor was admitted by Order of the
+Adjudicating Authority dated 30.04.2024 and while admitting Section 94
+Application filed by the Personal Guarantor, Adjudicating Authority directed
+for fresh Moratorium under Section 101. In Para 10 of the Order following
+has been directed:
+“10. A fresh moratorium in terms of Section 101 of the
+Code shall commence as applicable. RP is directed to
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+5 of 17
+take all further steps in accordance with Part III,
+Chapter III of the Code. During the moratorium period
+– a) any pending legal action or proceedings in respect
+of any debt qua the Respondent shall be deemed to
+have been stayed; b) the creditors shall not initiate any
+legal action or legal proceedings in respect of any debt
+qua the Respondent; and c) the Respondent shall not
+transfer, alienate, encumber, or dispose of any of the
+assets or his legal right or beneficiary interest therein.
+The moratorium shall cease to have effect at the end of
+the period of 180 days.”
+8.
+180 days Moratorium which was imposed on 30.04.2024 was coming
+to an end on 28.10.2024. The Application was filed by the RP being I.A. No.
+5719/2024, where following prayers were made:
+“a. Allow the present application and extend the
+present PIRP of Sh. Mukund Choudhary by 90 days
+w.e.f. 29.10.2024 (180 days expired on 28.10.2024);
+b. Such other order(s)/ directions(s) as this Hon’ble
+Tribunal may deem fit in the facts and circumstances
+of the present case.”
+9.
+When we looked into the prayers of the RP, their prayer was for
+extension of PIRP of the Personal Guarantor for 90 days with effect from
+29.10.2024. The Adjudicating Authority in the Impugned Order has granted
+extension of 90 days with effect from 29.10.2024, however, Adjudicating
+Authority has not expressed any view on the Moratorium. Entire Order dated
+04.12.2024 is as follows:
+“This is an application filed by the Resolution Professional
+under Rule 11 read with Rule 15 of the NCLT Rules, 2016
+seeking extension of the time for completion of the Personal
+Insolvency
+Resolution
+Process,
+for
+90
+days
+w.e.f.
+29.10.2024. Heard the submissions made by Ld. Counsel
+on behalf of Applicant/ RP who submitted that the
+repayment plan has been received and the same is under
+consideration of the creditors and in order to approve the
+repayment plan in terms of Section 112 of the Code, there is
+a need for seeking extension of time for completion of the
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+6 of 17
+process. In view of the fact that the objective of the Code is
+to have Insolvency Resolution Process of the Personal
+Guarantor and in order to achieve the said objective, in the
+facts and circumstances of the present case and in the
+interest of justice, it would be appropriate to give a
+reasonable period to the RP for completion of the process.
+Therefore, RP is allowed to complete the process regarding
+taking decision on the repayment plan and for that purpose,
+90 days extension w.e.f. 29.10.2024 is granted. RP and
+creditors are directed to complete the process within the
+extended period. However, we have not expressed any
+views on the moratorium. With these observations, the
+present application i.e. New IA/5719/2024 is disposed off.”
+10.
+In the Appeal which has been filed, following prayers has been made in
+Paragraph 21:
+“a) Set aside the impugned order dated 04.12.2024
+passed by the Ld. Adjudicating Authority to the extent
+it observes "However, we have not expressed any
+views on the moratorium";
+b) Direct that a moratorium in terms of section 101 of
+IBC shall apply to the present PIRP during the
+extended period of PIRP i.e. 90 days w.e.f. 29.10.2024;
+c) pass any other order/direction in the facts and
+circumstances of the present appeal and in the interest
+of the Justice.”
+11.
+The prayer as noted above in the Appeal is to extend the Moratorium
+for 90 days with effect from 29.10.2024. The question which has come for
+consideration before this Tribunal in this Appeal is as to whether the period
+of Moratorium could have been extended by the Adjudicating Authority,
+although in the Impugned Order, Adjudicating Authority has not expressed
+any opinion regarding Moratorium while extending 90 days for PIRP, but
+Appellants having prayed for extension of Moratorium for 90 days, we need to
+consider provisions of Section 101 of the IBC and to consider as to whether
+extension of Moratorium which is statutory prescribed under Section 101 can
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+7 of 17
+be extended by the Adjudicating Authority or by this Appellate Tribunal.
+Section 101 deals with Moratorium. Section 101 provides as follows:
+“101. Moratorium– (1) When the application is
+admitted under section 100, a moratorium shall
+commence in relation to all the debts and shall cease
+to have effect at the end of the period of one hundred
+and eighty days beginning with the date of admission
+of the application or on the date the Adjudicating
+Authority passes an order on the repayment plan
+under section 114, whichever is earlier.
+(2) During the moratorium period—
+(a) any pending legal action or proceeding in respect of
+any debt shall be deemed to have been stayed;
+(b) the creditors shall not initiate any legal action or
+legal proceedings in respect of any debt; and
+(c) the debtor shall not transfer, alienate, encumber or
+dispose of any of his assets or his legal rights or
+beneficial interest therein;
+(3)
+Where
+an
+order
+admitting
+the
+application
+under section 96 has been made in relation to a firm,
+the moratorium under sub-section (1) shall operate
+against all the partners of the firm.
+(4) The provisions of this section shall not apply to such
+transactions as may be notified by the Central
+Government in consultation with any financial sector
+regulator.”
+12.
+When an Application under Section 95 is admitted, Interim Moratorium
+commences on filing of the Application which is provided in Section 96(1).
+13.
+In the present case, the Application under Section 94 was filed by the
+Personal Guarantor on 08.04.2021 by filing of which the Interim Moratorium
+commenced. Section 94 Application remain pending consideration before the
+Adjudicating Authority on account of challenge of the vires of provisions under
+Section 95 – 100 before the Hon’ble Supreme Court in the matter of ‘Dilip B.
+Jiwrajka’ Vs. ‘Union of India & Ors.’ in Writ Petition No. 1281/2021,
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+8 of 17
+which could be decided in November 2023 and thereafter the Order of
+admission under Section 100 was passed on 30.04.2024. Section 101(1)
+provides that when Application is admitted under Section 100 a Moratorium
+shall commence in relation to all debts and shall cease to have effect at the
+end of period of 180 days. Provisions under Section 101, thus provides about
+both the dates, i.e., date of commencement of the Moratorium and date when
+it shall cease to have effect. The sub-Section uses the expression “and shall
+cease to have effect at the end of period of 180 days”. Thus, the provision
+itself provides for the cessation of the Moratorium, which is the statutory
+scheme as delineated by Section 101(1).
+14.
+The submission which is advanced by the Appellant is that said period
+prescribed under Section 101(1) is only directory and can be extended by
+Adjudicating Authority in appropriate case.
+15.
+The question which has arisen in the present Appeal is regarding
+statutory interpretation of the provision of Section 101(1). The principles for
+interpretation of statute are well settled. We may refer to the Constitution
+Bench Judgment of the Hon’ble Supreme Court in the matter of ‘State of UP
+& Ors.’ Vs. ‘Babu Ram Upadhyay’ reported in AIR 1961 SC 751.
+Constitution Bench held that for determining as to whether statute is
+mandatory or directory, the Court has to ascertain the real intention of the
+nature and the consequences which would follow from construing it from one
+way or other. In Paragraph 29 of the Judgment following was laid down:
+“29. The relevant rules of interpretation may be briefly
+stated thus : When a statute uses the word “shall”,
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+9 of 17
+prima facie, it is mandatory, but the Court may
+ascertain the real intention of the legislature by
+carefully attending to the whole scope of the statute.
+For ascertaining the real intention of the Legislature the
+Court may consider, inter alia, the nature and the
+design of the statute, and the consequences which
+would follow from construing it the one way or the
+other, the impact of other provisions whereby the
+necessity of complying with the provisions in question
+is avoided, the circumstance, namely, that the statute
+provides for a contingency of the non-compliance with
+the provisions, the fact that the non-compliance with
+the provisions is or is not visited by some penalty, the
+serious or trivial consequences that flow therefrom,
+and, above all, whether the object of the legislation will
+be defeated or furthered.”
+16.
+We may refer to another Judgment of the Hon’ble Supreme Court in the
+matter of ‘Rajsekhar Gogoi’ Vs. ‘State of Assam & Ors.’ reported in (2001)
+6 SCC 46, where Hon’ble Supreme Court had occasion to consider Rule 206
+of Assam Excise Rules 1945, which provided that tender must be in such form
+and contained such particulars as may be prescribed by the State
+Government and tenders not containing all the particulars shall be liable to
+be rejected. Arguments was raised before the Hon’ble Supreme Court that
+the said provision is not mandatory, which argument was rejected. Rule 206
+was noted in Paragraph 8 of the Judgment which is as follows:
+“8. Rule 206 after its amendment in 1981 reads as
+follows:
+“206. (1) Save with the special sanction of the
+State Government all country shops will be settled
+under the tender system.
+(2) The tenders must be in such form and contain
+such particulars as may be prescribed by the
+State Government. Tenders not containing all the
+particulars shall be liable to be rejected.
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+10 of 17
+(3) Each tender must bear a court fee stamp of Rs
+24.75 or any other amount as may be prescribed
+by the State Government from time to time.
+(4) Each tender shall be for a single shop, but any
+person may submit separate tenders for any
+number of shops. The tenders are not transferable
+from one shop to another. No shop shall be settled
+with anyone who has not tendered for the shop
+within the notified time. Whenever it is found that
+no tender has been received for a shop within the
+notified time or where a suitable person from
+amongst the tenderers is not found for settlement,
+a fresh notice shall be issued inviting tenders for
+such a shop; provided that a notice of ten days
+will be sufficient in such cases.”
+It is admitted that prior to 1981 the sentence “tenders
+not containing all the particulars shall be liable to be
+rejected” occurring in sub-rule (2) of Rule 206 was not
+there. It is for this reason that the earlier decision of the
+Assam High Court had come to the conclusion that the
+said Rule was not mandatory especially when it did
+not provide for the consequence in the event of the
+application not being filed in accordance with the
+prescribed form. Column 11 of the form of tender reads
+as follows:
+“11. Whether the tenderer will be capable of
+financing his business himself. Give details of
+source: cash in hand, bank balance, security,
+assets etc.”
+In answer, Respondent 4 stated as under:
+“Yes, I am financially capable enough to run the
+business. I shall get financial assistance in this
+respect from my father and also from my sister
+and sister's husband.”
+17.
+In Paragraph 11, the Hon’ble Supreme Court held that the language of
+the rule is clear and unambiguous. It also stipulates the consequence of non-
+compliance, therefore, it is mandatory. Para 11 of the Judgment following
+was held:
+“11. We are, therefore, of the opinion that as the tender
+itself of Respondent 4 was liable to be rejected because
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+11 of 17
+of lack of particulars as stated hereinabove, no further
+question arises. We do not agree with the observations
+of the High Court that Rule 206 is not mandatory. The
+language of the said Rule is clear and unambiguous. It
+not only says that the tenders must be in their required
+form but also stipulates the consequence of non-
+compliance thereto, the consequence being that the
+tenders not containing all the particulars “shall be
+liable to be rejected”.”
+18.
+We may also notice the Judgment of the Hon’ble Supreme Court in the
+matter of ‘Newtech Promoters & Developers Private Limited’ Vs. ‘State of
+Uttar Pradesh & Ors.’ reported in (2021) 18 SCC 1, where Hon’ble Supreme
+Court laid down that it is always advisable to interpret the legislative wisdom
+in the literary sense as being intended by the legislature and the Courts are
+not supposed to embark upon enquiry and find out the solution in
+substituting the legislative wisdom. In Paragraph 84 and 114, following was
+laid down:
+“84. The provisions of which a detailed reference has
+been made, if we go with the literal rule of
+interpretation that when the words of the statute are
+clear, plain and unambiguous, the courts are bound to
+give effect to that meaning regardless of its
+consequence. It leaves no manner of doubt and it is
+always advisable to interpret the legislative wisdom in
+the literary sense as being intended by the legislature
+and the courts are not supposed to embark upon an
+inquiry and find out a solution in substituting the
+legislative wisdom which is always to be avoided.
+114. It is a well-established principle of interpretation
+of law that the court should read the section in literal
+sense and cannot rewrite it to suit its convenience; nor
+does any canon of construction permit the court to read
+the section in such a manner as to render it to some
+extent otiose. Section 81 of the Act positively empowers
+the Authority to delegate such of its powers and
+functions to any member by a general or a special
+order with an exception to make regulations under
+Section 85 of the Act. As a consequence, except the
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+12 of 17
+power to make regulations under Section 85 of the Act,
+other powers and functions of the Authority, by a
+general or special order, if delegated to a Single
+Member of the Authority is indeed within the fold of
+Section 81 of the Act.”
+19.
+To the same effect is another Judgment of the Hon’ble Supreme Court
+in the matter of ‘Kotak Mahindra Bank Ltd.’ Vs. ‘A. Balakrishnan &
+Anr.’, reported in (2022) 9 SCC 186. Hon’ble Supreme Court in the above
+case had occasion to consider Section 238-A and Section 7 of the IBC. Hon’ble
+Supreme Court in the above Judgment has laid down when the language of
+the statutory provisions is plain and unambiguous it is not permissible for
+the Court to add or subtract words to statute or read something into it which
+is not there. In Paragraph 77 & 78, following was held:
+77. It is more than well settled that when the language
+of a statutory provision is plain and unambiguous, it is
+not permissible for the Court to add or subtract words
+to a statute or read something into it which is not there.
+It cannot rewrite or recast legislation. At the cost of
+repetition, we observe that if the argument as
+advanced by Shri Viswanathan is to be accepted, it
+will completely change the texture of the fabric of sub-
+section (22-A) of Section 19 of the Debts Recovery Act.
+78. Though there are umpteen number of authorities to
+support this proposition, we do not wish to burden our
+judgment with them. Suffice it to refer to the judgment
+of
+the
+three-Judge
+Bench
+of
+this
+Court
+in Nasiruddin v. Sita Ram Agarwal [Nasiruddin v. Sita
+Ram Agarwal, (2003) 2 SCC 577] wherein this Court
+has held as under : (SCC p. 589, para 37)
+“37. The court's jurisdiction to interpret a statute can
+be invoked when the same is ambiguous. It is well
+known that in a given case the court can iron out the
+fabric but it cannot change the texture of the fabric. It
+cannot enlarge the scope of legislation or intention
+when the language of the provision is plain and
+unambiguous. It cannot add or subtract words to a
+statute or read something into it which is not there. It
+cannot rewrite or recast legislation. It is also necessary
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+13 of 17
+to determine that there exists a presumption that the
+legislature has not used any superfluous words. It is
+well settled that the real intention of the legislation
+must be gathered from the language used. It may be
+true that use of the expression “shall or may” is not
+decisive for arriving at a finding as to whether the
+statute is directory or mandatory. But the intention of
+the legislature must be found out from the scheme of
+the Act. It is also equally well settled that when
+negative words are used the courts will presume that
+the intention of the legislature was that the provisions
+are mandatory in character.”
+(emphasis supplied)
+20.
+Justice G.P. Singh, in “Principle of the statutory interpretation”, 15th
+Edition has also opined that when consequences are provided by statute,
+when the consequences of nullification are provided by the statute, there can
+be no manner of the doubt that such statutory requirement must be
+interpreted as mandatory. Under the heading “when consequences provided
+by statute” Justice G.P. Singh states:
+“5.6.2 When Consequences Provided by Statute
+When consequence of nullification on failure to comply
+with a prescribed requirement is provided by the
+statute itself, there can be no manner of doubt that
+such statutory requirement must be interpreted as
+mandatory.
+The provisions of Ceylon Ordinance No. 7 of 1840,
+which by clauses 2 and 21 provided certain formalities
+for transfers and contracts and further provided that
+no transfer or contract “shall be of force or avail in law”
+unless it was made in conformity with those
+requirements, were held by the Privy Council to be
+mandatory.
+The periods prescribed in the Schedule to the Indian
+Limitation Act, 1908, for bringing a legal proceeding
+are mandatory as the consequence of the expiry of the
+period of limitation is provided by section 3 of the Act
+in that the court is enjoined to dismiss a legal
+proceeding instituted after expiry of the prescribed
+period. Similar result will follow if the court or the forum
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+14 of 17
+is directed as in section 24A of the Consumer Protection
+Act, 1986 not to admit a complaint unless it is filed
+within the period prescribed. The question of limitation
+in such cases is a jurisdictional fact and has to be
+considered by the court or forum even if not raised by
+any party.”
+21.
+When we look into the statutory scheme of the IBC, it is clear that
+Interim Moratorium is kicked in as soon as Application is filed under Section
+94 and Section 95 by virtue of statutory provision under Section 96 that
+Moratorium continues till an Order is passed under Section 100 for admission
+of rejection of the Application. Section 101 provides that when Application is
+admitted further Moratorium of 180 days shall commence which shall come
+to an end on the date Adjudicating Authority passes an Order on the
+Repayment Plan under Section 114 or 180 days whichever is earlier. The
+language of Section 101(1) is plain and clear, outer limit of Moratorium is
+prescribed by providing that 180 days from date of commencement of
+admission of the Application or an Order is passed by the Adjudicating
+Authority on the Repayment Plan under Section 114 whichever is earlier thus
+on happening of the eventuality as prescribed as Section 101(1) Moratorium
+comes to an end. Conceding any power to the Adjudicating Authority or this
+Tribunal to extend the said period shall be plainly against the statutory
+scheme of Section 101(1). When the statutory scheme is clear and
+unambiguous, there is no role of any interpretive process to find out the
+jurisdiction of NCLT to extend the period of Moratorium when statute provides
+a date for cessation of the Moratorium it cannot be extended by the
+Adjudicating Authority or by this Tribunal against the statutory intendment
+under Section 101(1).
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+15 of 17
+22.
+Counsel for the Appellant has placed reliance on the Judgment of this
+Tribunal in ‘Vikas Gautamchand Jain’ (Supra), this Tribunal had occasion
+to consider the provisions of Section 54D, which provided time limit for
+completion for Pre-Package Insolvency Resolution Process (PPIRP). Section
+54D provides as follows:
+“54D. Time-limit for completion of pre-packaged
+insolvency resolution process.–
+(1) The prepackaged insolvency resolution process
+shall be completed within a period of one hundred and
+twenty days from the pre-packaged insolvency
+commencement date.
+(2) Without prejudice to sub-section (1), the resolution
+professional shall submit the resolution plan, as
+approved by the committee of creditors, to the
+Adjudicating Authority under sub-section (4) or
+subsection (12), as the case may be, of section 54K,
+within a period of ninety days from the prepackaged
+insolvency commencement date.
+(3) Where no resolution plan is approved by the
+committee of creditors within the time period referred
+to in sub-section (2), the resolution professional shall,
+on the day after the expiry of such time period, file an
+application with the Adjudicating Authority for
+termination of the pre-packaged insolvency resolution
+process in such form and manner as may be specified.”
+23.
+This Tribunal after noticing the provisions of Section 54D, Section 54N
+relying on the Judgment of the Hon’ble Supreme Court in ‘Surendra Trading
+Company’ Vs. ‘Jugilal Kamlapat Jute Mills Company Ltd. & Ors.’ in
+(2017) 16 SCC 143 and Judgment of the Hon’ble Supreme Court in the
+matter of ‘Committee of Creditors of Essar Steel India Limited’ Vs.
+‘Satish Kumar Gupta & Ors.’ reported in (2020) 8 SCC 531, came to the
+conclusion that the provisions of Section 54D does not contemplate any
+automatic termination of the PPIRP, hence the Court had discretion to extend
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+16 of 17
+the time in an appropriate case. In Paragraph 29 & 30 of the Judgment
+following was laid down:
+“29. Shri Maninder Singh, learned Senior Counsel,
+appeared on behalf of the State of Gujarat and
+supported para 201 of Nclat judgment by which his
+client would be paid 60.26% of sales tax dues.
+30. Shri Mukul Rohatgi, learned Senior Advocate
+appearing on behalf of Mr Prashant Ruia supported the
+findings of Nclat, insofar as Nclat held that the
+personal guarantees given by his client had become
+ineffective in view of the payment of the debt by way
+of resolution to the original lenders. Further, Shri
+Rohatgi also argued that the right of subrogation and
+the right to be indemnified conferred on a guarantor
+under the Indian Contract Act would continue to exist
+in the absence of a positive waiver of such right by the
+said guarantor.”
+24.
+The Judgment of this Tribunal in the above case is clearly
+distinguishable. When we look into the Section 54D in contradistinction to
+Section 101(1) there is an automatic cessation of Moratorium prescribed by
+Section 101(1) whereas no such automatic termination is provided under
+Section 54D, which is the basis of the Judgment of this Tribunal in ‘Vikas
+Gautamchand Jain’ (Supra). Thus, the above Judgment was interpreting a
+different provision and has no Application on interpretation of Section 101(1)
+of the IBC. Another Judgment relied by the Counsel for the Appellant in the
+matter of ‘P. Mohanraj & Ors.’ (Supra) was a case where Hon’ble Supreme
+Court was considering the effect and consequence of Moratorium. The issue
+which has arisen for consideration in the present case was not for
+consideration in the said case. The question which was answered in the above
+case was regarding Moratorium under Section 14 and applicability of the
+same with regard to proceeding under Section 138/141 of the NI Act. We
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 38 of 2025
+17 of 17
+thus are of the view that the above Judgment of the Hon’ble Supreme Court
+does not help the Appellant in the facts of the present case.
+25.
+In view of the forgoing discussions, we are of the view that prayers made
+in the Appeal cannot be granted, no extension of Moratorium can be allowed.
+In view of the expressed provisions of Section 101(1) limiting the Moratorium
+period to 180 days on the date when the Order is passed by the Adjudicating
+Authority for Repayment Plan, whichever is earlier. 180 days from
+commencement of the Moratorium has come to an end on 28.10.2024. The
+Moratorium has statutorily come to an end and could not be extended.
+We do not find any merit in the Appeal. The Appeal is dismissed.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+NEW DELHI
+22nd January, 2025
+himanshu

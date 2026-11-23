@@ -1,0 +1,1259 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 1351 of 2023
+& I.A. No. 4802, 4803, 4804, 4805, 6007 of 2023
+
+(Arising out of the Order dated 25.08.2023 passed by the National Company
+Law Tribunal, New Delhi Bench (Court-II), in IA. No. 187/ND/2022 IN
+Company Petition No. (IB)-101/(PB)/2017.)
+
+IN THE MATTER OF:
+
+State Bank of India, Singapore Branch
+#27-01, 80 Rabinson Road,
+Singapore, 068898
+Email: svpca@sbising.com
+
+...Appellant
+Versus
+
+1. Shantanu Prakash.
+R/O C-11, DDLF City Phase 1,
+Gurgaon, Haryana.
+
+2. Mahendar Singh Khandelwal
+Resolution
+Professional,
+Educomp
+Solution
+Limited.
+IBBI/IPA-01/IP-00033/2016/17/10086.
+E-mail: mahenderkhandelwal@bdo.in
+BDO India LLP
+The Palm Springs Plaza,
+Office No. 1501-8, 15th Floor,
+Sector- 54, Golf Course Road
+Gurgaon – 122001.
+
+3. Committee of Creditors
+Educomp Solutions Limited
+Corporate Office At 514, Udyog Vihar,
+Phase III, Gurgaon – 122001, Haryana.
+
+4. State Bank of India
+SBI House, 3rd Floor,
+1211, Padma tower I,
+5, Rajendra Place, New Delhi – 110008.
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+...Respondent No. 3
+
+...Respondent No. 4
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 2 of 40
+Present
+For Appellants:
+Mr. Ankur Mittal & Ms. Yashika Sharma,
+Advocates.
+
+For Respondents:
+
+Mr. Sunil Fernandes, Sr. Advocate along with
+Mr. Malak Bhatt, Ms. Rajshree Chaudhary, Ms,
+Diksha Dadu & Ms. Somya Saxena, for R-1.
+
+Mr. Abhishek Sharma, Kritya Sinha, Ms. Shruti
+Poddar, for R-2.
+
+Ms. Moulshree Shukla & Ms. Gayathri, for R-3.
+
+Mr. Ashim Sood & Mr. Aditya Vardhan Sharma,
+Applicant in IA No. 6007 of 2023.
+
+J U D G E M E N T
+(23.01.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e., State Bank of India,
+Singapore Branch against the Impugned Order 25.08.2023 under Section 61 (1)
+of the Insolvency and Bankruptcy Code, 2016 (‘Code’) passed by the National
+Company Law Tribunal, New Delhi Bench (Court-II) (‘Adjudicating
+Authority’) in IA. No. 187/ND/2022 in Company Petition No. (IB)-
+101/(PB)/2017.
+2.
+Mr. Shantanu Prakash who is the Suspended Director of Educomp
+Solutions Limited (‘Corporate Debtor’) is the Respondent No. 1 herein.
+
+Mr. Mahendar Singh Khandelwal who is Resolution Professional of the
+Corporate Debtor is the Respondent No. 2 herein.
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 3 of 40
+
+Committee of Creditors (‘CoC’) of the Corporate Debtor is the Respondent
+No. 3 herein.
+
+State Bank of India is the Respondent No. 4.
+3.
+The Appellant submitted that on 16.05.2008, Educomp Asia Pacific Pte.
+Ltd. ("EAPPL"), a wholly-owned subsidiary of the Corporate Debtor, obtained
+loan facilities from the Appellant amounting to USD 20 million ("Loan Facility").
+This funding was utilized to acquire a 51% stake in the US-based company, The
+Learning Internet Inc.
+4.
+The Appellant submitted that on 22.05.2008, the Corporate Debtor
+executed a Deed of Guarantee in favor of the Appellant to secure the Loan
+Facility. Following the granting of this Loan Facility to EAPPL, the latter
+proceeded to acquire shares in The Learning Internet Inc. through a Purchase
+Agreement dated 16.05.2008. Furthermore, on 23.07.2008, EAPPL entered into
+a Stock Pledge Agreement, pledging 18,173 unlisted shares (representing a 51%
+stake) of The Learning Internet Inc. as collateral with the Appellant.
+5.
+The Appellant stated that on 05.08.2014, EAPPL sought the Appellant's
+approval for the restructuring of the Loan Facility, which was approved on
+03.11.2014, resulting in outstanding dues of USD 14.72 million. In the meantime,
+the Corporate Debtor entered into the Corporate Insolvency Resolution Process
+(‘CIRP’) following an order dated 30.05.2017 passed by the Adjudicating
+Authority issued in the Company Petition No. (IB)-101/(PB)/2017 under Section
+10 of the code.
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 4 of 40
+6.
+The Appellant submitted that on 30.06.2017, EAPPL was ordered into
+liquidation by the High Court of Singapore, resulting in the appointment of Mr.
+Wong Joo Wan and Mr. Yong Chor Ken as liquidators ("Liquidators") for
+EAPPL. During the liquidation proceedings, the Liquidators provided The
+Learning Internet Inc. with the first option to repurchase its own shares by
+submitting a suitable offer. The offer made by The Learning Internet Inc. was
+deemed not acceptable, being on the lower side.
+7.
+The Appellant submitted that a reputable valuation firm was subsequently
+engaged to assess the value of the shares of The Learning Internet Inc. The
+valuation provided by the firm was as follows:
+a) USD 6.78 million (with a low estimate of USD 5.41 million and a high estimate
+of USD 8.16 million) on a controlling, non-marketable basis.
+b) USD 5.31 million (with a low estimate of USD 4.40 million and a high estimate
+of USD 6.22 million) on a non-marketable basis, in the event that the company
+exercised partial Right of First Refusal (ROFR).
+8.
+The Appellant submits that the Liquidators confirmed via email on
+12.02.2020 that there were no better offers available with Liquidators and
+expressed no objection to the sale of shares.
+9.
+The Appellant submitted that, as a result of multiple rounds of negotiations
+with the purchaser, an increased offer was ultimately reached. Consequently, the
+shares were sold to the purchaser through an agreement dated 03.09.2021, which
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 5 of 40
+was also signed by the liquidators of EAPPL. According to the sale agreement,
+the shares were sold for a price of USD 7.10 million.
+10.
+The Appellant submitted that, through the Impugned Order dated
+25.08.2023, the Adjudicating Authority disposed of the application of the
+Respondent No 1 filed vide IA. No. 187/ND/2022 in Company Petition No. (IB)-
+101/(PB)/2017 and made the following determinations in favour of the Appellant:
+a) The Adjudicating Authority acknowledged that the assets of a subsidiary
+company differ from those of its holding company, clarifying that shareholders
+do not acquire an interest in the assets of the company.
+b) It was held that the shares of The Learning Internet Inc. do not constitute part
+of the assets of the Corporate Debtor.
+c) The Resolution Professional (RP) was found to have no obligation to preserve
+the value of the shares of The Learning Internet Inc. held by EAPPL.
+d) The scope of undervalued transactions under the Code pertains to the assets of
+the Corporate Debtor, and thus no declaration regarding shares as an undervalued
+transaction could be granted.
+e) Lastly, it was determined that no moratorium applies to the shares held by
+EAPPL.
+11.
+The Appellant stated that, after rendering along findings favorable to the
+Appellant on all material aspects, the Adjudicating Authority did not dismiss the
+Application but instead directed the Respondent No. 2 for fresh valuation of
+shares and referred to the Insolvency and Bankruptcy Board of India (Liquidation
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 6 of 40
+Process) Regulations, 2016 (‘Liquidation Regulations’) for fresh valuation. The
+Appellant contends that these regulations are not applicable to the Company
+Petition, which pertains to the ongoing insolvency proceedings of the Corporate
+Debtor before the Adjudicating Authority.
+12.
+The Appellant submitted that despite the Adjudicating Authority's findings
+in favor of the Appellant on all significant aspects, the Adjudicating Authority
+issued the directions contrary to legal provisions that upon the deposit of valuation
+fees, to be determined by the IBBI, by the Corporate Debtor, the RP shall
+approach the IBBI within one week from the date of the order for the appointment
+of two Registered Valuers to assess the valuation of shares of The Learning
+Internet Inc. owned by EAPPL and pledged with State Bank of India, Singapore,
+as of 03.09.2021. The appointed Valuers shall submit their valuation report to the
+IBBI and the Resolution Professional within one month of their appointment,
+adhering to internationally accepted valuation standards. If there is a significant
+difference (10% or more) between the average estimates provided by the two
+Registered Valuers, the Resolution Professional may consult with the IBBI to
+appoint a third Registered Valuer for further assessment. Should the valuation
+conducted by any of these valuators exceed USD 7.10 million the price at which
+the shares were sold on 03.09.2021—the claim of State Bank of India (Singapore)
+against the Corporate Debtor would be reduced accordingly.
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 7 of 40
+The Appellant stated that the Adjudicating Authority also stipulated that
+the CIRP concerning the Corporate Debtor shall continue without interruption or
+influence from these directions and the secured financial claim of State Bank of
+India (Singapore) against the Corporate Debtor will be contingent upon the
+outcome of the valuation report.
+13.
+The Appellant stated that the Adjudicating Authority while passing the
+Impugned Order has erred in not appreciating the fact that there was no pleading
+or prayer made from either of the parties giving effect to valuation of shares that
+could lead to such directions from the Adjudicating Authority.
+14.
+It is the case of the Appellant that the Impugned Order has erred by not
+providing any reason to show how even a prima facie case is made out with
+respect to the undervalued transaction of the said sale of shares, when neither the
+EAPPL nor its liquidator raised objections to the said sale of shares.
+15.
+The Appellant further submitted that the Adjudicating Authority while
+passing the Impugned Order has erred in not appreciating the fact that EAPPL,
+who is the principal borrower and is in liquidation, did not at any stage of its
+liquidation process or sale of shares objected to the said sale. To the contrary, the
+liquidators admitted to the fact that with respect to the said sale of shares, the
+liquidator had no better offer.
+16.
+The Appellant submitted that the Impugned Order after giving findings
+passed in favour of the Appellant on majority of aspects, the Adjudicating
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 8 of 40
+Authority should have dismissed the Application of the Respondent No. 1, instead
+of going ahead to make reference to the Liquidation Regulations, which has no
+applicability in the Company Petition which is an insolvency proceeding of the
+Corporate Debtor and not liquidation proceedings.
+17.
+The Appellant stated that Regulation 21 A Liquidation Regulations has no
+applicability to the present case, which is not even a case of liquidation. The
+Appellant clarified that the Resolution Plan is still pending approval of the
+Adjudicating Authority. The provisions regarding relinquishment of security have
+no relation to the issue that was pending before the Adjudicating Authority.
+Therefore, the findings in para 27 of the Impugned Order are perverse and liable
+to be set aside.
+18.
+The Appellant stated that the Adjudicating Authority ignored the vital fact
+that the valuation of shares of EAPPL took place under the supervision of
+Liquidator appointed by the High Court of Singapore, who had no objection to
+the sale of shares at all. In view of such no objection, the Adjudicating Authority
+had no jurisdiction or factual basis to direct any such exercise to be carried out at
+this juncture.
+19.
+The Appellant submitted that while guarantor can be vigilant about value
+of collateral security, yet it gives no statutory right to a guarantor in law to
+interfere in the proceedings against the borrower by way of sale of certain
+securities. The guarantor i.e., Corporate Debtor, in any case did not raise any such
+question ever.
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 9 of 40
+20.
+The Appellant alleged that the Impugned Order merely results into a roving
+enquiry into the valuation of the shares as in the Company Petition which is an
+insolvency proceeding of the Corporate Debtor, the Respondent No. 1 had no
+locus to file the said Application which is related to the Liquidation proceeding
+of the EAPPL and therefore, application was liable to be dismissed on its very
+threshold.
+21.
+The Appellant explained that the Shares of The Learning Internet Inc. do
+not belong to or are owned by the Corporate Debtor as the shares were owned by
+EAPPL which is a subsidiary company of the Corporate Debtor and were pledged
+with the Appellant for the said Loan Facility obtained by EAPPL and by virtue
+of Section 18(1) of the code, the resolution professional of the Corporate Debtor
+had no jurisdiction to take over any asset of the subsidiary company of Debtor.
+22.
+The Appellant further submitted that in the event of CIRP of the Corporate
+Debtor its resolution professional under Section 18 of the code cannot assess the
+assets of the EAPPL which is a subsidiary company of the Corporate Debtor. The
+Resolution Professional, as per the Explanation (b) of Section 18 of the Code has
+no right whatsoever to take control of the assets of EAPPL.
+23.
+The Appellant assailed the conduct of the Respondent No.1 who has raised
+frivolous contentions with respect to sale of shares of The Learning Internet Inc.
+with the intention to convolute the CIRP of the Corporate Debtor. The Appellant
+explained that provisions of the Code make clear distinction between the assets
+and liabilities of the holding company and its subsidiary company during CIRP.
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 10 of 40
+24.
+The Appellant submitted that the Respondent No. 1 has wrongly alleged
+that the sale of shares of The Learning Internet Inc. held by the EAPPL was
+executed by the Appellant and the Appellant explained that the said sale of shares
+of The Learning Internet Inc. was actually conducted by the Liquidators in the
+court monitored liquidation proceedings in Singapore, therefore, the validity or
+invalidity of the sale of shares is a matter on which the Courts at Singapore alone
+would have jurisdiction to look into, and the same cannot be made a subject matter
+of dispute in the Indian Courts. The Appellant mentioned that the Liquidation
+order has been adjudicated as per the laws of Singapore and do not fall under the
+purview of the CIRP of the Corporate Debtor and the Liquidators were appointed
+therein, under the laws of Singapore and therefore the entire Liquidation Process
+falls outside the scope of jurisdiction of the Adjudicating Authority.
+25.
+It is the case of the Appellant that the provisions of Section 45 of the code
+states that a transaction would be undervalued where the Corporate Debtor enters
+into a transaction for the transfer of one or more assets by the Corporate Debtor.
+The Appellant emphasised that the asset forming part of the undervalued
+transaction must be transferred by the Corporate Debtor, which is admittedly not
+the case herein and even otherwise, the sale of shares of The Learning Internet
+Inc. has not taken place within the "Relevant Period" under Section 46 of the
+code.
+26.
+The Appellant elaborated that the Insolvency Commencement Date of the
+Corporate Debtor is 30.05.2017 whereas the sale of shares of The Learning
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 11 of 40
+Internet Inc. was executed by the Liquidators in favour of the Appellant on
+03.09.2021. The application of Section 46(1)(ii) of the Code requires the
+resolution professional to scrutinize the transactions two years prior to the
+Insolvency Commencement Date which falls from 30.05.2015 to 30.05.2017
+therefore, the present case, by no stretch of imagination falls within the scope of
+Section 45 or Section 46 of the Code.
+27.
+The Appellant stated that as per the provisions of Section 14 of the code
+moratorium applies to transfer, encumbrance, and alienation, disposal "by the
+corporate debtor and any of its assets" however, pledged shares of The Learning
+Internet Inc. are neither assets of Corporate Debtor, nor any sale thereof has been
+conducted by the Corporate Debtor, therefore, the rigors of Section 14 of the Code
+do not apply to the said sale.
+28.
+Concluding his arguments, the Appellant urged this Appellate Tribunal to
+dismiss the Impugned Order and allow his appeal.
+29.
+Per contra, the Respondent No. 1 denied all the averments made by the
+Appellant in the present appeal.
+30.
+The Respondent No.1 submitted that in the Impugned Order, the
+Adjudicating Authority accepted the IA No. 187/2022 filed by the Respondent
+No. 1 and directed the Resolution Professional of the Corporate Debtor to
+approach the IBBI for the appointment of Registered Valuators to assess the value
+of the shares of The Learning Internet Inc. and also stipulated that if the valuation
+of these shares exceeds USD 7.1 million—the amount for which they were sold
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 12 of 40
+by SBI Singapore—the claim of SBI Singapore would be reduced accordingly to
+that extent. The Respondent No.1 pleaded that the directive underscores the
+importance of accurate valuation in determining the financial obligations of the
+Corporate Debtor and its implications for SBI Singapore's claims.
+31.
+The Respondent No. 1 submitted that the basis for challenging the
+Impugned Order is that the Adjudicating Authority directed the valuation of the
+shares of The Learning Internet Inc., which were pledged to SBI Singapore under
+a Pledge Agreement dated 23.07.2008. The Appellant contended that SBI
+Singapore sold these shares at an undervalued price in a clandestine manner,
+resulting in substantial losses to the Creditors of the Corporate Debtor. The
+Appellant argued that had the shares been sold at their rightful valuation, it would
+have benefitted the stakeholders and contributed to the revival of the Corporate
+Debtor. The Respondent No.1 argues that the Impugned Order, which merely
+directs a fresh valuation, aligns with the spirit and objectives of the Code,
+particularly with respect to value maximization and this directive is essential for
+ensuring that all stakeholders receive fair treatment and that the financial interests
+of the Corporate Debtor are adequately protected during the insolvency process.
+32.
+The Respondent No. 1 submitted that the Corporate Debtor through its
+wholly-owned subsidiary EAPPL, availed a loan facility of USD 20 million from
+SBI Singapore to acquire a 51% stake in The Learning Internet Inc.. To secure
+this loan, Corporate Debtor entered into a Deed of Guarantee with SBI Singapore,
+and EAPPL pledged the shares of The Learning Internet Inc. under a Share Pledge
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 13 of 40
+Agreement dated 23.07.2008. Subsequently, the shares were valued by registered
+valuators, M/s Mazars, at USD 42.049 million. The Respondent No.1 tried to
+impress upon that following the global pandemic (COVID-19), the valuation of
+The Learning Internet Inc.’s shares significantly increased to approximately USD
+250 million and alleged that despite this substantial increase in value, SBI
+Singapore sold the shares at an undervalued rate of USD 7.1 million resulting in
+considerable losses for the creditors.
+33.
+The Respondent No. 1 asserts that had the shares been sold at their correct
+valuation, it would have generated sufficient funds to nearly extinguish the claims
+of the Creditors and facilitate the revival of the Corporate Debtor. The Appellant
+alleged that undervalued sale not only harmed the financial interests of Corporate
+Debtor but also undermined the objectives of the insolvency proceedings aimed
+at maximizing value for all stakeholders involved.
+34.
+The Respondent No. 1 submitted that the Impugned Order issued by the
+Adjudicating Authority is valid and serves the interests of all creditors and
+stakeholders involved. The order mandates a proper valuation of the shares by
+valuers appointed by the IBBI, which is essential for clarifying share valuation
+and impacting the resolution proceedings and potential revival of the Corporate
+Debtor. The Respondent No.1 stated that Impugned Order does not impose
+coercive measures against SBI Singapore if the valuation does not indicate that
+the sale of The Learning Internet Inc. shares was undervalued and only aims to
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 14 of 40
+assure value maximization of the Corporate Debtor and protect the creditors
+interests.
+35.
+The Respondent No. 1 stated that the Application filed before the
+Adjudicating Authority addresses the issue of the undervalued sale of shares of
+The Learning Internet Inc., which directly impacts the resolution proceedings of
+the Corporate Debtor and the effective implementation of the Resolution Plan for
+all stakeholders involved. The Application highlights critical issues, facts, and
+questions of law that affect both the Corporate Debtor and the Creditors as the
+undervalued sale of The Learning Internet Inc. shares results in lesser funds being
+available for implementing the Resolution Plan, thereby extinguishing creditor
+claims and undermining their financial recovery.
+36.
+The Respondent No. 1 stated that judicial pronouncements by the Supreme
+Court and this Appellate Tribunal have clarified the scope of Section 60(5) of the
+Code, which grants jurisdiction to the Adjudicating Authority to adjudicate
+disputes arising from or related to insolvency proceedings. In "Gujarat Urja
+Vikas Nigam Limited Vs. Amit Kumar Gupta & Ors." [(2021) 7 SCC 209], it
+was held that the Adjudicating Authority has jurisdiction to adjudicate disputes
+that arise solely from or relate to a corporate debtor's insolvency, establishing a
+necessary nexus with the insolvency process, therefore, addressing the
+undervalued sale is essential to ensure adequate funds are utilized for resolution
+efforts, maximizing stakeholder benefits and upholding the integrity of the
+insolvency proceedings.
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 15 of 40
+37.
+The Respondent No. 1 emphasizes that wide discrepancies in valuation
+raises serious concerns about the legitimacy of the sale process conducted by SBI
+Singapore. The undervalued transaction reflects a lack of due diligence and proper
+application of mind, which undermines the financial integrity of the resolution
+proceedings. It is crucial that these issues are addressed to ensure that all
+stakeholders receive fair treatment and that the interests of the creditors are
+protected during the insolvency process. The Respondent No. 1 asserts that
+rectifying this undervalued sale is essential for maximizing asset value and
+ensuring adequate funds are available for the Corporate Debtor's revival efforts.
+38.
+The Respondent No. 1 submitted that upon the initiation of the CIRP and
+the appointment of the Resolution Professional, a comprehensive set of
+responsibilities and duties are conferred upon the Resolution Professional under
+Section 20 of the code, but the Resolution Professional failed to exercise this.
+39.
+The Respondent No. 1 submitted that the shares of The Learning Internet
+Inc. are classified as contingent property of the Corporate Debtor under Section
+3(27) of the Code. Consequently, the Resolution Professional is obligated to
+protect all assets of the Corporate Debtor, including these contingent assets. A
+combined reading of Section 3(27) and Section 20 of the Code clearly indicates
+that the shares held through Educomp belong to Educomp Solutions Limited/
+Corporate Debtor. Therefore, both the Resolution Professional and the CoC have
+a duty to safeguard Corporate Debtor's properties and assets.
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 16 of 40
+40.
+The Respondent No. 1 submitted that despite making representations
+during the 21st and 22nd meetings of the CoC regarding the unfair and non-
+transparent divestment process by SBI Singapore, no action was taken by either
+the CoC or the Resolution Professional. The Respondent No. 1’s effort to
+highlight these concerns went unacknowledged, and it is surprising that both the
+CoC and the Resolution Professional have remained silent on this matter since
+being informed in 2021. Instead, they are opposing the current application, even
+though any funds generated from a genuine and transparent sale of The Learning
+Internet Inc. shares would have benefitted all stakeholders involved.
+41.
+The Respondent No. 1 submitted that, without prejudice to the statements
+made herein, Section 47 of the Code addresses undervalued transactions and
+grants the right to a creditor or partner of the Corporate Debtor to report such
+transactions to the Adjudicating Authority. However, the Code does not permit
+an undervalued transaction or asset sale to be executed at the behest of a creditor;
+it specifically allows for such transactions to be conducted by the Corporate
+Debtor itself.
+42.
+Concluding his arguments, the Respondent No.1 urged this Appellate
+Tribunal to dismiss this appeal with costs.
+43.
+The Respondent No.2 stated that he as an officer of the court is duty bound
+to assist this Appellate Tribunal by bringing on record the relevant facts and
+circumstances for the adjudication of the present Appeal.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 17 of 40
+44.
+The Respondent No.2 submitted that the Shares held by EAPPL in The
+Learning Internet Inc. do not form the assets of the Corporate Debtor and are
+therefore, beyond the remit of the Resolution Professional in terms of Section 18
+and 23 of the code. The Respondent No.2 elaborated that in terms of Section 18
+read with Section 23 of the Code, the Resolution Professional is duty bound to
+take custody and control of all the assets over which the Corporate Debtor has
+ownership rights. While Section 18 of Code clearly sets out the list of assets over
+which the Resolution Professional can exercise control, the explanation to Section
+18 also lists down the assets which shall not form part of the assets of the
+Corporate Debtor which includes assets of any Indian or foreign subsidiary of the
+Corporate Debtor.
+45.
+The Respondent No.2 submitted that since the shares held by Educomp
+Asia in The Learning Internet Inc. are assets of Educomp Asia (a subsidiary of
+the Corporate Debtor) and not of the Corporate Debtor, the Resolution
+Professional cannot take custody and control over such shares. The Respondent
+No. 2 submitted that Section 18(f) of the Code lays down the duty of the
+Resolution to take control and custody of the assets owned by the Corporate
+Debtor and the Explanation (b) to Section 18 expressly excludes assets of a
+subsidiary, Indian or foreign, from its purview. Similarly, in terms of Section
+36(4) of the code, the assets of any subsidiary of a Corporate Debtor are not to be
+considered as the assets of the Corporate Debtor and consequently, not to be
+included within the liquidation estate of the Corporate Debtor. Therefore, the
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 18 of 40
+Respondent No.2 has no obligation to preserve such assets which fall outside the
+purview of Section 18(f) of the code.
+46.
+The Respondent No. 2 submitted that for invocation of Section 45 or
+Section 47 of the Code and declare any transaction as undervalued, it must be
+shown that the Corporate Debtor has entered into a transaction which involves the
+transfer of assets by the Corporate Debtor at a lower value. Admittedly, the sale
+of shares has taken place between EAPPL and the Appellant, and not by the
+Corporate Debtor, therefore, IA No. 187 of 2022 is not maintainable under
+Section 47 of the Code and the Adjudicating Authority has correctly held this
+settled legal position in Para 20 of the Impugned Order.
+47.
+The Respondent No.2 stated that moratorium is inapplicable in respect of
+the shares held by EAPPL and the shares of EAPPL in The Learning Internet Inc.
+are not an asset of the Corporate Debtor and neither have the shares been
+transferred or disposed of by the Corporate Debtor, thus moratorium will not be
+applicable to the said shares in terms of Section 14 of the Code. This position has
+been correctly articulated in Paras 21 to 23 of the Impugned Order.
+48.
+Concluding his arguments, the Respondent No.2 submitted that he has
+brought out correct factual and legal position of the case.
+Findings
+49.
+We have already noted the facts of the case during pleading so the
+Appellant and the Respondents, hence we shall not repeat the same. Suffice to
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 19 of 40
+note that the Impugned Order has been challenged by the Appellant on limited
+grounds regarding fresh valuation of shares of The Learning Internet Inc. held by
+EAPPL ordered by the Adjudicating Authority in Para 27 (a) and (b) and part
+portion of para 27 (c) of the Impugned Order dated 25.08.2023.
+50.
+The Appellant has stated that he is not aggrieved by the remaining part of
+the Impugned Order and therefore requested us to set aside only perverse
+directions contained in Para 27 (a) and (b) and part portion of para 27 (c) of the
+Impugned Order.
+51.
+Thus, it would be desirable to take into consideration the relevant portion
+of the Impugned Order which has been challenged by the Appellant, which reads
+as under :-
+“27. In view of the aforementioned, the present application
+is disposed of with the following directions: -
+a) On deposit of the fees of valuation to be determined by the
+IBBI, by the Applicant herein, the RP shall approach IBBI
+within one week from today for the appointment of two
+Registered Valuers to do the valuation of shares of The
+Learning Internet Inc. owned by the Educomp Asia Pacific
+Pte Limited and pledged with State Bank of India, Singapore
+as on 03.09.2021. The Valuers so appointed shall submit to
+the IBBI and Resolution Professional valuation of the shares
+(ibid) computed in accordance with internationally accepted
+valuation standards within a period of 01 (one) month of their
+appointment.
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 20 of 40
+b) If the average of the two estimates of the valuations of the
+shares as on 03.09.2021 to be done by the Registered Valuers
+to be appointed65 as above are significantly different (the
+difference being 10% or more), the Resolution Professional
+may, in consultation with IBBI, appoint a third registered
+valuer to do the valuation of shares (ibid) as on 03.09.2021.
+If the valuation done by the two valuators or third valuator
+so appointed, as the case may be is found more than the value
+of USD 7.1 million for which the shares were sold on
+03.09.2021, the claim of SBI Singapore against the
+Corporate Debtor would stand reduced to the equal or that
+extent.
+c) The CIRP qua the Educomp Solution Limited (CD) would
+continue unhindered and uninfluenced by the aforementioned
+direction (a & b) The secured financial claim of the State
+Bank of India (Singapore) qua the CD would be subject to the
+outcome of the valuation result/report. No costs.”
+(Emphasis Supplied)
+
+52.
+The Appellant has taken the following grounds for challenging above
+portion in Para 27 of the Impugned Order:-
+(a) The direction given by the Adjudicating Authority for fresh valuation is
+beyond the scope of the Adjudicating Authority in the present case.
+(b) The assets of the subsidiary company are different from the assets of the
+holding company and therefore, the issues raised by the Respondent No. 1
+herein are beyond the scope of the Code.
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 21 of 40
+(c) The Resolution Professional was not under any application to preserve the
+values of shares of EAPPL, which is a subsidiary company of the Corporate
+Debtor.
+(d) No reasoning for under valuation has been recorded.
+(e) The three valuation reports quoted by the Respondent No. 1 to justify the
+revaluation are out of context and not relevant.
+53.
+We would like to take into consideration the relevant sections of the Code
+and Regulations governing the issues raised in the application including
+Regulation 21A of the Liquidation Regulations, which reads as under:-
+"21A. (1) A secured creditor shall inform the liquidator of its
+decision to relinquish its security interest to the liquidation
+estate or realise its security interest, as the case may be, in
+Form C or Form D of Schedule II:
+Provided that, where a secured creditor does not intimate its
+decision
+within
+thirty
+days
+from
+the
+liquidation
+commencement date, the assets covered under the security
+interest shall be presumed to be part of the liquidation estate.
+(2) Where a secured creditor proceeds to realise its security
+interest, it shall pay-
+(a) as much towards the amount payable under clause (a) and
+sub-clause (i) of clause (b) of sub-section (1) of section53, as
+it would have shared in case it had relinquished security
+interest, to the liquidator within ninety days from the
+liquidation commencement date; and
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 22 of 40
+(b) the excess of the realised value of the asset, which is
+subject to security interest, over the amount of his claims
+admitted, to the liquidator within one hundred and eighty
+days from the liquidation commencement date:
+Provided that where the amount payable under this sub-
+regulation is not certain by the date the amount is payable
+under this sub-regulation, the secured creditor shall pay the
+amount, as estimated by the liquidator:
+Provided further that any difference between the amount
+payable under this sub-regulation and the amount paid under
+the first proviso shall be made good by the secured creditor
+or the liquidator, as the case may be, as soon as the amount
+payable under this sub-regulation is certain and so informed
+by the liquidator.
+(3) Where a secured creditor fails to comply with sub-
+regulation (2), the asset, which is subject to security interest,
+shall become part of the liquidation estate.
+Explanation- It is hereby clarified that the requirements of
+this regulation shall apply to the liquidation processes
+commencing on or after the date of the commencement of the
+Insolvency and Bankruptcy Board of India (Liquidation
+Process) (Amendment) Regulations, 2019."
+(Emphasis Supplied)
+
+54.
+Relevant portion of Section 18 of the Code is reproduced below:
+"18 Duties of interim resolution professional
+The interim resolution professional shall perform the
+following duties, namely. take control and custody of any
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 23 of 40
+asset over which the corporate debtor has ownership rights
+as recorded in the balance sheet of the corporate debtor, or
+with information utility or the depository of securities or any
+other registry that records the ownership of assets including-
+(i) assets over which the corporate debtor has ownership
+rights which may be located in a foreign country;
+(ii) assets that may or may not be in possession of the
+corporate debtor;
+(iii) tangible assets, whether movable or immovable;
+(iv) intangible assets including intellectual property;
+(v) securities including shares held in any subsidiary of the
+corporate debtor, financial instruments, insurance policies:
+(vi) assets subject to the determination of ownership by a
+court or authority:
+Explanation. - For the purposes of this section, the term
+"assets" shall not include the following, namely: -
+(a) assets owned by a third party in possession of the
+corporate debtor held under trust or under contractual
+arrangements including bailment;
+(b) assets of any Indian or foreign subsidiary of the corporate
+debtor, and
+(c) such other assets as may be notified by the Central
+Government in consultation with any financial sector
+regulator.
+(f) take control and custody of any asset over which the
+corporate debtor has ownership rights as recorded in the
+balance sheet of the corporate debtor, or with information
+utility or the depository of securities or any other registry that
+records the ownership of assets including –
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 24 of 40
+(i) assets over which the corporate debtor has ownership
+rights which may be located in a foreign country;
+(ii) assets that may or may not be in possession of the
+corporate debtor;
+(iii) tangible assets, whether movable or immovable;
+(iv) intangible assets including intellectual property;
+(v) securities including shares held in any subsidiary of the
+corporate debtor, financial instruments, insurance policies;
+(vi) assets subject to the determination of ownership by a
+court or authority;”
+(Emphasis Supplied)
+
+55.
+We note that the Corporate Debtor i.e., ESL had one subsidiary i.e., EAPPL
+who had taken loan of USD 20 million from the Appellant on 14.05.2008 and
+entered into various loan and pledge agreements.
+56.
+EAPPL subsequently purchased 18,173 shares of The Learning Internet
+Inc., US incorporated company vide purchase agreement dated 16.05.2008 and to
+support this, the Corporate Debtor executed a guarantee deed on 22.05.2008 in
+favour of the appellant for securing loan facilities. In addition, the EAPPL also
+pledged its 18,173 shares (51%) shares in The Learning Internet Inc.with the
+Appellant vide stock pledge agreement dated 23.07.2008.
+57.
+We have noted from the pleadings that EAPPL could not service its
+repayment and therefore, it approached the Appellant for restructuring of its loan
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 25 of 40
+on 05.08.2014 and the Appellant allowed the restructuring of its loan facility vide
+sanction letter dated 03.11.2014.
+58.
+In the meantime, the Corporate Debtor went into CIRP vide order dated
+30.05.2017 filed by the Adjudicating Authority in CP (IB) No. 101/(PB)/2017
+filed under Section 7 of the Code.
+59.
+In an independent move, the EAPPL also went into liquidation after
+passing of suitable order for liquidation passed by the High Court of Singapore
+and two liquidators were appointed, namely, Mr. Wong Joo Wan and Mr. Yong
+Chor Ken by the High Court of Singapore on liquidation of EAPPL.
+60.
+It has been brought out that during pendency of liquidation proceedings,
+the liquidators gave first option and to The Learning Internet Inc. itself to buy
+back its own shares by making suitable offers. However, the offer made by the
+The Learning Internet Inc. was not acceptable as it was on a lower side.
+61.
+The Appellant, therefore, got valuation of shares done through independent
+firms and the Appellant wrote an e-mail to the liquidators on 12.02.2020
+informing that it has an offer of USD 7.1 millions and sought confirmation from
+the liquidator if they have got any better counter offer from any interested party.
+We also note that liquidators vide reply dated 12.02.2020 confirmed that
+liquidators did not have any better offer and gave its NOC to sale of shares of The
+Learning Internet Inc. by the Appellant.
+
+[PAGE 26]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 26 of 40
+62.
+Accordingly, the Appellant sold its 18,173 shares of The Learning Internet
+Inc. vide sale agreement dated 03.09.2021 at higher negotiated price of USD 7.1
+million prices then estimated by the valuers.
+63.
+In this background, we note that Respondent No. 1 i.e., Mr. Shantanu
+Prakash, the Suspended Director of the Corporate Debtor filed an IA. No.
+187/ND/2022 in C.P (IB) No. 187 (PB)/2017 under Section 60(5) r/w Section 47
+of the Code before the Adjudicating Authority alleging an under-valued
+transaction of the shares by the Appellant and further sought directions against
+the Respondent No. 2 to file an appropriate application and to annul sale of shares
+by the Appellant.
+64.
+We observe that the Adjudicating Authority disposed IA. No.
+187/ND/2022 holding that shares are not assets of Corporate Debtor, however,
+directed the Respondent No. 2 to approach the IBBI for appointment of valuers
+for conducting a fresh valuation of 18,173 shares of The Learning Internet Inc.
+vide Impugned Order dated 25.08.2023 as contained in Para 27 (a) and (b) of the
+Impugned Order despite the fact that the shares were already sold on 03.09.2021
+after negotiated deal by the Appellant and after obtaining NOC from the
+Liquidators of EAPPL in Singapore.
+65.
+We observe that during the case was being heard by this Appellate Tribunal
+in the present appeal filed by the Appellant, this Appellate Tribunal stayed
+directions contained in Para 27(a) & (b) of the Impugned Order of the
+Adjudicating Authority on 18.10.2023.
+
+[PAGE 27]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 27 of 40
+66.
+The limited point to decide in this appeal is therefore is whether the
+Adjudicating Authority could have passed the directions to the Respondent No 2
+to approach the IBBI for appointment of valuers for valuation of shares The
+Learning Internet Inc. based on the alleged under valuation of shares by the
+Respondent No. 1. In this connection, we will further like to note the relevant
+portions of the Impugned Order which is reproduced as under :-
+“17. Though, the CD i.e., Educomp Solutions Limited owned
+100% shares of the Educomp Asia Pacific Pte Limited, but it
+does not entitle it to have any interest in the assets of the
+Educomp Asia Pacific Pte Limited...............
+Thus, we are left with no doubt that the assets of Educomp
+Asia Pacific Pte Limited cannot be treated as part of assets
+of Educomp Solutions Limited i.e., the CD in the present
+proceedings............The Learning Internet Inc. could not
+have formed part of assets or property of the CD in any
+manner. Once the holding and subsidiary company are
+different and distinct legal persons and the shareholder is not
+entitled to claim any right or interest qua the assets of a
+company, the percentage of shareholding would not make
+any difference in this regard. Thus, even the 100%
+shareholding by the Educomp Solutions Ltd. in Educomp
+Asia Pacific Pte Limited would not entitle the Educomp
+Solutions Limited i.e., the CD herein to claim the assets of
+Educomp Asia Pacific Pte Limited as that of its own.Maybe
+Mr. Saurabh Kripal Ld. Sr. Counsel for the Applicant is right
+in espousing that the explanation below clause (g) of Section
+18 of IBC, 2016 restricts the exclusion of assets of a
+
+[PAGE 28]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 28 of 40
+subsidiary of a corporate debtor only to said section (Section
+18) i.e., for the purpose of taking the control and custody of
+any asset over which the corporate debtor has ownership
+right, but when in terms of the view taken by Hon’ble
+Supreme Court (ibid), the asset of subsidiary cannot be
+treated as that of holding company, it cannot be viewed that
+the IRP or RP was under obligation to preserve the value of
+the shares held by Educomp Asia Pacific Pte Limited in The
+Learning Internet Inc., in terms of the provisions of Section
+20(1) or Section 25(1) of IBC, 2016...........
+19.
+Apparently, the shares of The Learning Internet Inc.
+(TLI) is an asset/property of the subsidiary of the CD, thus,
+we are unable to countenance the plea espoused on behalf of
+the Applicant that the Respondent Nos. 1 & 2 failed to
+discharge their legal obligations, in not taking steps to
+prevent the Respondent No. 4 from disposing off the shares
+held by Educomp Asia Pacific Pte Limited qua The Learning
+Internet Inc. (TLI) kept as a security with Respondent No. 4.
+20.
+.........It is apparent from above that an under-
+valued transaction can be alleged only against the Corporate
+Debtor. The sale of shares owned by a subsidiary of CD, by
+the lender/financial creditor of the subsidiary of CD, with
+whom the same stood pledged as security for repayment of
+debt cannot be termed as a transaction by the CD (Corporate
+Debtor), thus there is no question of treating the same as an
+under-valued transaction. Thus, the plea raised on behalf of
+the Applicant for declaring the sale of the shares of The
+Learning Internet Inc. (TLI), owned by Educomp Asia Pacific
+Pte Limited, by the Respondent No. 4 with whom the shares
+
+[PAGE 29]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 29 of 40
+were pleaded as security for repayment of loan is not tenable
+and is nixed.
+21.
+.......The Applicant is unable to show any contract,
+arrangement or any other instrument to establish that the CD
+had any entitlement either alone or together with any other
+person to exercise or cause to be exercised any or all of the
+rights or to receive or participate in any dividend or other
+distribution attached to/in respect of the shares of The
+Learning Internet Inc. owned by Educomp Asia Pacific Pte
+Limited.
+23.
+.........As the Applicant herein is unable to show that
+either the CD or Educomp Asia Pacific Pte Limited filed
+Form No. MGT-5 or MGT-4, we are unable to accept the plea
+espoused by the Ld. Sr. Counsel that there being a beneficial
+interest of the CD qua the shares of The Learning Internet
+Inc. owned by Educomp Asia Pacific Pte Limited, by
+operation of Section 14 of IBC, 2016, Moratorium in respect
+of the shares could apply with the commencement of CIRP
+for the CD.
+25...........A contract of guarantee creates some rights and
+liabilities between the lender and the guarantor. A Guarantor
+is technically a debtor because when the principal debtor
+fails to pay his debt, the Guarantor is called upon to pay the
+money owed. The liability of the guarantor crystallizes the
+moment a default occurs on the part of the borrower.”
+(Emphasis Supplied)
+
+[PAGE 30]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 30 of 40
+67.
+We note that vide Impugned Order dated 25.08.2023, the Adjudicating
+Authority framed five questions in para 15. The relevant portion of this para reads
+as under :-
+“15. In the wake of the pleas and submissions raised by the
+counsels for the
+parties, following aspects emerge to be analysed and
+adjudicated by us: -
+(i) Whether the shares held by Educomp Asia Pacific Pte
+Limited i.e., a subsidiary of the CD herein viz. Educomp
+Solutions Limited in The Learning Internet Inc. can be
+treated as an asset of the CD.
+(ii) Whether in the wake of 100% shares of Educomp Asia
+Pacific Pte Limited being held by the CD in the present
+proceedings, the shares held by Educomp Asia Pacific Pte
+Limited in The Learning Internet Inc. can be treated as assets
+of the CD.
+(iii) Whether the plea of under-valuation raised by the
+Applicant in terms of the provisions of Section 47 of IBC is
+tenable.
+(iv) Whether Moratorium could be applied to the shares held
+by Educomp Asia Pacific Pte Limited, a subsidiary of
+Educomp Solutions Limited in The Learning Internet Inc.
+(v) When the Corporate Guarantor is liable to discharge
+such debt of a creditor for which it stands as
+security/executed Deed of Guarantee, whether it can question
+the valuation and sale price of the security pledged by the
+Corporate Debtor with the secured financial creditor as
+collateral/security.”
+
+[PAGE 31]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 31 of 40
+(Emphasis Supplied)
+Suffice to note that the four issues in Para 15(i), (ii), (iii) & (iv) were
+affirmed in favour of the Appellant i..e, SBI Singapore, however, the
+Adjudicating Authority gave a different view rejecting issues framed by the
+Adjudicating Authority in Para 15 (v).
+68.
+In para 26 of the Impugned Order, the Adjudicating Authority had
+discussed regarding contract of guarantee between the Appellant and the
+Respondent No. 1 and also discussed the impact of Section 141 of the Indian
+Contract Act, 1872. The Para 26 of the Impugned Order reads as under :-
+“26. Upon the execution of a contract of guarantee, there
+exists a separate contract between the Creditor and the
+Guarantor, which can be enforced by the Creditor, when
+there is a breach without recourse to the borrower, who is
+the Principal Debtor. Once a debt has accrued and the
+Guarantor is called upon by the Creditor, the Guarantor is
+directly liable to the Creditor independent of the borrower’s
+liability to the Creditor. Similarly, the Guarantor is directly
+liable to the Principal Borrower, in the event, the Principal
+Borrower defaults or refuses to honour his repayment
+obligations. In such situations, definitely a question would
+arise that what steps a Guarantor must take to protect his
+right in a contract of guarantee. It would not be
+inappropriate for every Guarantor to take certain steps so as
+to protect himself to reduce the risk of standing as a
+Guarantor. One of such steps, the Guarantor may take is to
+diligently identify the assets which the borrower intends to
+
+[PAGE 32]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 32 of 40
+nominate as security/collateral for the borrower’s loan.
+Similarly, it would not be impermissible or improper for a
+Guarantor to be vigilant about the valuation of the
+securities/collateral pledged by the debtor to secure loan
+sought to be disposed of by the secured creditor, as the same
+would have direct bearing on the liability of debtor to
+discharge the loan. Section 128 of the Indian Contract Act
+1872, clearly provides that the liability of the surety is co-
+extensive with that principal debtor unless it is otherwise
+provided by the contract. It would not be gain said that the
+liability of the borrower and the guarantor to discharge the
+debt is almost a joint liability. In terms of the provisions of
+Section 141 of the Act (Indian Contract Act, 1872) a surety is
+entitled to the benefit of every security which the Creditor has
+against the principal debtor at the time when the contract of
+suretyship is entered into 64 whether the surety knows the
+existence of each security or not and if the Creditor losses or
+without the consent of the surety, part with such surety, the
+surety is discharged to the extent of the value of the security.
+Section 2(f) of the SARFAESI Act treats the Guarantor as
+Borrower. Section 13(11) of SARFAESI Act give option to
+creditor either to proceeds against the Guarantor or pledged
+asset. In the wake, particularly the provisions of Section 141
+of the Indian Contract Act (ibid), which entitle a surety to
+benefit of every security, the creditor has against the
+principal debtor, we have no hesitation in taking a view that
+the Guarantor/Surety can raise the question about the
+valuation of the security pledged by the Principal
+Debtor/Borrower with the secured creditor.”
+
+[PAGE 33]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 33 of 40
+(Emphasis Supplied)
+
+69.
+Thus, it becomes quite apparent that the Adjudicating Authority has rightly
+held that in terms of the Code and the Regulation, the Corporate Debtor and its
+subsidiary are two legally distinct entities. It has also been correctly held that the
+assets of the subsidiary company cannot be treated as part of the assets of the
+Corporate Debtor. The Adjudicating Authority further rightly held that it is not
+the duty of the Respondent No. 2 to preserve the assets of the subsidiary company
+which are not under control of the Corporate Debtor or which are not part of estate
+of the Corporate Debtor. The Adjudicating Authority has also not found anything
+wrong in the selling of the shares of The Learning Internet Inc.
+70.
+However, the Adjudicating Authority has held that the Respondent No. 1
+being the corporate guarantor of the principal borrower i.e., EAPPL (subsidiary
+of the Corporate Debtor) has right to protect its interest in corporate guarantee
+and therefore the Respondent No. 1 can take certain step to protect himself to
+reduce risk of standing as guarantor to EAPPL.
+71.
+Further the Adjudicating Authority discussed Section 128 and Section 141
+of the Indian Contract Act, 1872 as well as Section 2(f) and Section 13 (11) of
+SARFAESI Act, and held that like rights of surety under Section 141 of Indian
+Contract Act, 1872, the Corporate Debtor can raise the question regarding
+valuation of security pledged by EAPPL with the Appellant. Based on this
+premise, the Adjudicating Authority ordered for fresh valuation to be done by two
+
+[PAGE 34]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 34 of 40
+valuers appointed determined by IBBI on payment of the fee by the Appellant
+herein.
+72.
+We have already noted that the order on liquidation on EAPPL was passed
+by the High Court of Singapore, therefore, any issue regarding the liquidation
+proceedings including sale value of the shares in The Learning Internet Inc. sold
+by the Appellant with the consent of the liquidators of EAPPL could have been
+raised in liquidation proceedings of EAPPL before the High Court of Singapore
+as the assets in question were owned by EAPPL (formed in Singapore) and not
+by the Corporate Debtor. We wonder, on what basis the Adjudicating Authority
+could have intervened in matter directly connected with the liquidation process of
+EAPPL in Singapore, albeit the subsidiary of the Corporate Debtor when it has
+got no jurisdiction in the subject matter of EAPPL.
+73.
+The Respondent No. 1 aggrieved due to alleged under valuation shares of
+The Learning Internet Inc., could have approached the liquidators or could have
+invoked the suitable jurisdiction, if any, in accordance with the relevant
+insolvency law of the Singapore before the High Court of Singapore, which he
+has not done as confirmed by the Respondent No. 1 in reply put by this Appellate
+Tribunal to Respondent No. 1 during the pleadings before us.
+74.
+We hold that it does not give any right to the Respondent No. 1 to approach
+the Adjudicating Authority on this issue and without any doubt, the Adjudicating
+Authority did not has any jurisdiction to give such directions w.r.t. fresh valuation
+in this regard as contained in Para 27 of the Impugned Order.
+
+[PAGE 35]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 35 of 40
+75.
+We also note that the Appellant in fact has categorically and in transparent
+manner wrote to the liquidators about the offer received by him and only after
+getting confirmation from the liquidators that the liquidators did not have better
+value then received by the Appellant, the Appellant went ahead to realise it
+security interest by sale of shares in The Learning Internet Inc.
+76.
+We note that the Adjudicating Authority has referred to Regulation 21A of
+the Liquidation Regulations while ordering for a fresh valuation as contained in
+Para 27 of the Impugned Order. The Adjudicating Authority in its earlier para 25
+discussed about Regulation 21 A of the Liquidation Regulations. We consciously
+note that the present case is regarding CIRP of the Corporate Debtor and not of
+the liquidation and therefore, in such case the Regulation 21 A of the Liquidation
+Regulations is not applicable.
+77.
+Incidentally, we note that the Respondent No. 1 referred to valuation report
+i.e. SBI capital valuation of shares on USD deed 23.24 million somewhere in the
+year 2008. Similarly, the Respondent No. 1 has referred to valuation report of
+M/s Mazars conducted an equity valuation in March, 2014 at USD 42.049 million
+and finally the Appellant referred the higher valuation figures determined by
+Sapient Services Pvt. Ltd. We note that the Appellant, in his Written Submissions
+(given to us on 14.12.2024 after order was reserved on 12.12.2024) brought out
+that the aforesaid valuation reports by the Respondent No. 1 are documents placed
+on record for the first time without seeking the permission of this Appellate
+Tribunal.
+
+[PAGE 36]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 36 of 40
+78.
+We observe that the valuations were done at different time periods and in
+different context on different issues and we are, therefore, of opinion that such
+valuation reports could not have been relied upon by the Adjudicating Authority.
+In any case such valuation reports were done long back in 2008 and 2014-2021
+which would have been conducted based on the estimates and future projections
+relevant at that times and cannot be relied upon now.
+79.
+We note that the actual sale was conducted on 03.09.2021 i.e., during
+COVID-19 pandemic period, affecting the economic valuation of all enterprises
+globally and certainly valuation of shares of The Learning Network Inc. could not
+have remained unaffected. As such we do not find any merit in the contention of
+the Respondent No. 1 raising issue regarding alleged under valuation of shares of
+The Learning Network Inc. sold by the Appellant with the content of the
+Liquidator of EAPPL, Singapore governed by the Singapore Insolvency/
+Liquidation laws.
+80.
+We also note that the Respondent No. 1 has alleged connivance of the
+concerned parties in selling of shares of The Learning Network Inc. at unrealistic
+low prices. It tantamount that there would have been connivance between lenders
+along with the liquidators appointed by the High Court of Singapore laws and
+other stakeholders, for which the Respondent No. 1 could not furnish any concrete
+evidence.
+
+[PAGE 37]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 37 of 40
+81.
+It is also noted that Respondent No. 1 through clause of corporate guarantee
+waived its rights to any disputes or by creditors in any law related to as contained
+in Clause 5 which reads as under :-
+
+“5. WAIVERS
+The Guarantor shall not be released by any act or omission
+on the part of the Lender or by any other matter or thing
+whatsoever which under the law relating to sureties would
+have the effect of so releasing the Guarantor AND the
+Guarantor hereby waives in favour of the Lender so far as
+may be necessary to give effect to any of the provisions of this
+Guarantee, all the suretyship and other rights which the
+Guarantor might otherwise be entitled to enforce.”
+
+(Emphasis Supplied)
+
+82.
+We find merit in the contention of the Appellant and therefore, do not find
+logic with the reasoning given in Para 26 of the Impugned Order.
+83.
+We have also gone through the pleadings of the Respondent No. 2 i.e., RP
+who has brought out all the facts including that after selling the shares of The
+Learning Network Inc. by the Appellant, the Appellant himself has updated
+claims in form C dated 13.10.2021 and reduced its claim from
+Rs. 112,82,42,159.97 (USD 17,455,969,65) to Rs. 67,17,18,480.81 (USD
+10,392,713.40).
+
+[PAGE 38]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 38 of 40
+84.
+The Respondent No. 2/ RP brought to our notice vide para 4.15 of the Reply
+to the Appeal that IBBI has also filed Reply a reply dated 30.10.2023 before the
+Adjudicating Authority in CP No. (B) 101/2017 and asserted that it is not in the
+domain of IBBI in terms of applicable rules of CIRP and IBBI liquidation
+valuation to appoint registered values. The relevant part of the reply of the
+Respondent No. 2 contained in Para 4.15 which reads as under :-
+“4.15. Pertinently, IBBI has also filed a reply dated
+30.10.2023 before the Hon'ble Tribunal in C.P. No. (IB)
+101/2017. It has been asserted in their reply that while the
+Impugned Order directs the IBBI to appoint registered
+valuers to do the valuation of shares, it is not in the domain
+of the IBBI in terms of the applicable CIRP Regulations and
+the IBBI (Liquidation Process) Regulations 2016, to appoint
+registered valuers. Accordingly, it has been submitted that
+the Hon'ble Tribunal may pass appropriate in light of the
+reply submitted on behalf of IBBI.”
+(Emphasis Supplied)
+
+We find merit in the contention of the IBBI which also does not support
+the directives contained in para 27(a) & (b) of the impugned order which are under
+challenge before this Appellate Tribunal.
+85.
+We hold that Regulation 21A of the Liquidation Regulations has no
+applicability in the present Company Petition which is for insolvency proceeding
+of the Corporate Debtor.
+
+[PAGE 39]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 39 of 40
+86.
+Now, we will like to take into account decision of Hon’ble Supreme Court
+of India held in case of Greater Noida Industrial Development Authority
+(GNIDA) v. Roma Unicon Designex Consortium, Company Appeal (AT)
+(Insolvency) No. 180 of 2022. The relevant portion is reproduced below:
+"44. Section 18, sub-section (1), Explanation further clarifies
+the law when it says that assets shall include the assets,
+meaning thereby assets of the Corporate Debtor shall not
+include assets of any Indian subsidiary. In the CIRP of
+Corporate Debtor, thus, assets of subsidiary Company, te.,
+Earth Towne were not to be taken into consideration or
+treated as the assets of the Corporate Debtor. As regards, the
+law relating to resolution process of a corporate person is
+concerned, the law is concerned with assets of the Corporate
+Debtor and its liabilities, so as to focus the resolution on the
+assets of the Corporate Debtor. The natural corollary to the
+above provision is that the assets of the subsidiary Company
+cannot be dealt with, in CIRP of a holding Company. Holding
+Company and subsidiary Company have separate legal
+status and the assets of subsidiary Company cannot he taken
+into consideration."
+(Emphasis Supplied)
+
+This judgement also makes situation quite clear.
+87.
+In view of above detailed analysis, we find merits in the arguments of the
+Appellant. The appeal succeeds and the Impugned Order contained in para 27 (a)
+& (b) and second line of 27 (c) i.e., “The secured financial claim of the State Bank
+
+[PAGE 40]
+Comp. App. (AT) (Ins.) No. 1351 OF 2023
+
+Page 40 of 40
+of India (Singapore) qua the CD would be subject to the outcome of the valuation
+result/report” is set aside. We make it clear that the remaining Impugned Order
+shall survive and shall stand applicable. No costs. I.A., if any, are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+Sim

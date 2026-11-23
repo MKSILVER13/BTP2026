@@ -1,0 +1,208 @@
+# FILE 001-58736.txt  n_chars=119701  units=787  paragraphs=201
+# SCOPE: legal reasoning starts at char 60103 (unit u429) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 94589 (unit u630) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 60103 hidden (facts/procedure; use --show-all to see them) --
+u429 p127  [60103-60110) H | THE LAW
+u430 p128  [60111-60150) H | I. Scope of the issues before the Court
+u431 p129 ¶98 [60155-60414) | In his memorial to the Court of 10 December 1999 the applicant complained that the Government had violated Article 6 of the Convention by unlawfully supporting his opponent H in domestic proceedings which were the subject of his application to the Commission.
+u432 p129  [60415-60535) | Reference was made to the disclosure of his patient records at the request of the Ministry of Social and Health Affairs.
+u433 p129  [60536-60690) | Although the records had not been unknown to the authorities prior to the Ministry's request, they could not be disclosed without the applicant's consent.
+u434 p129  [60691-60835) | The applicant had been unable to obtain any confidential material relating to his opponent which could likewise have been put before the courts.
+u435 p129  [60836-60929) | Although obtained illegally, the medical records had been accepted as evidence by the courts.
+u436 p129  [60930-61106) | Accordingly, as a result of the Government's intervention to his detriment in the domestic proceedings, the applicant had not been placed on an equal footing with his opponent.
+u437 p129  [61107-61257) | In sum, the court proceedings ending on 30 December 1997 and 23 February 1999 had not been fair within the meaning of Article 6 § 1 of the Convention.
+u438 p130 ¶99 [61262-61547) | The applicant further complained that the above disclosure of his medical records and their forwarding to conciliator R.C., the Helsinki District Court and the Ministry for Foreign Affairs had also violated his respect for his private life as guaranteed by Article 8 of the Convention.
+u439 p130  [61548-61696) | He was now unable to use public health services, fearing that any future records on him would likewise be disclosed unlawfully and to his detriment.
+u440 p130  [61697-61752) | Neither could he afford to use private health services.
+u441 p131 ¶100 [61758-61813) | The Government did not comment on the above grievances.
+u442 p132 ¶101 [61819-62369) | The Court notes that the case now before it has been delimited by the Commission's decision on admissibility which dealt only with the applicant's complaints relating to the length of the proceedings, the extent of the access rights granted in respect of his daughter, the non-enforcement of that access and the measures taken by the authorities to keep her whereabouts and other information pertaining to her secret from the applicant (see, for instance, the Olsson v. Sweden (no. 2) judgment of 27 November 1992, Series A no. 250, pp. 30-31, § 75).
+u443 p132  [62370-62749) | The Court is nonetheless competent, in the interests of economy of proceedings, to take into account facts occurring during the course of the proceedings before it, in so far as they constitute a continuation of the facts underlying the complaints declared admissible (see, for instance, the Olsson v. Sweden (no. 1) judgment of 24 March 1988, Series A no. 130, pp. 28-29, § 56).
+u444 p133 ¶102 [62755-63003) | Accordingly, the Court will limit its examination of the complaints under Article 6 to the length of the court proceedings, while also taking into account the proceedings which continued after the Commission had declared the application admissible.
+u445 p133  [63004-63097) | The Court cannot, however, examine the complaint relating to the fairness of the proceedings.
+u446 p133  [63098-63299) | Nor does the Court have jurisdiction to entertain the applicant's complaint under Article 8 that the allegedly unlawful disclosure of his medical records hindered him from using public health services.
+u447 p133  [63300-63303) | Ii.
+u448 p133  [63304-63356) | ALLEGED VIOLATION OF Article 6 § 1 of the Convention
+u449 p134 ¶103 [63362-63609) | The applicant complained that the proceedings had been excessively lengthy, in particular as they involved a number of unnecessary adjournments before the two district courts which had been competent at different stages of the various proceedings.
+u450 p134  [63610-63700) | He invoked Article 6 § 1 of the Convention which reads, in so far as relevant, as follows:
+u451 p134  [63701-63855) Q | “In the determination of his civil rights ..., everyone is entitled to a ... hearing within a reasonable time by [a] ... tribunal established by law. ...”
+u452 p135 ¶104 [63861-64052) | The Government submitted that the proceedings had not been unreasonably lengthy, bearing in mind the complexity of the case and the conduct of both the applicant and the relevant authorities.
+u453 p135  [64053-64245) | The proceedings had commenced in September 1993 when the applicant brought his initial action seeking the establishment of his paternity in respect of I and claiming custody and access rights.
+u454 p135  [64246-64510) | Considering that the civil courts were continuously re-assessing the child's best interests after the entry into force of the 1996 Act, the proceedings had ended in February 1999 with the Supreme Court's refusal of leave in the last set of enforcement proceedings.
+u455 p136 ¶105 [64516-64718) | In the Government's opinion the matter could be considered particularly complex, as clearly shown by the redefinition and final revocation of the access rights in the second set of the main proceedings.
+u456 p136  [64719-64772) | No particular delay was imputable to the authorities.
+u457 p136  [64773-64892) | In five years and five months the matters in question were examined five times, each time at two or three court levels.
+u458 p136  [64893-64936) | The courts were required to seek the truth.
+u459 p136  [64937-65134) | It was only after the applicant's paternity had been clarified in September 1994 that the Kuopio City Court could request opinions from the social welfare authorities concerning custody and access.
+u460 p136  [65135-65275) | The main reason for the Helsinki authority's delay in submitting its opinion was its legal obligation to carry out a thorough investigation.
+u461 p136  [65276-65353) | The meetings with the various parties had been aimed at an amicable solution.
+u462 p136  [65354-65495) | However, H had repeatedly cancelled agreed meetings shortly beforehand and refused even to consider any meetings between I and the applicant.
+u463 p136  [65496-65628) | The persistent refusal on the part of H to comply with the court-ordered access arrangements could not be imputed to the Government.
+u464 p137 ¶106 [65634-65731) | The Government further contended that the applicant himself was partly responsible for the delay.
+u465 p137  [65732-65834) | He had waited four months before requesting enforcement of the access rights granted in December 1994.
+u466 p137  [65835-65926) | He had requested that the conciliator be changed in the middle of the conciliation process.
+u467 p137  [65927-66054) | His demanding, threatening and aggressive behaviour had generally rendered the social welfare authorities' work more difficult.
+u468 p137  [66055-66197) | For instance, in late 1997 he had refused to attend meetings with social welfare officials and refused to disclose his new place of residence.
+u469 p138 ¶107 [66203-66507) | As to the nature of the matter at stake for the applicant, the Government submitted that, unlike the position in the case of H. v. the United Kingdom, the proceedings had never resulted in an adoption order in respect of his child (see the judgment of 8 July 1987, Series A no. 120, pp. 62-63, §§ 85-86).
+u470 p139 ¶108 [66513-66771) | In agreeing with the applicant the Commission noted, in particular, that the two social authorities had not been requested to submit opinions on the question of access until the initial paternity, custody and access proceedings had been pending for one year.
+u471 p139  [66772-66886) | The Helsinki Social Welfare Board had then been granted a total of nine months for the preparation of its opinion.
+u472 p139  [66887-67084) | In the second set of the main custody and access proceedings it had taken the same authority eight months to submit a fresh opinion in a matter which was no doubt complex but by no means new to it.
+u473 p139  [67085-67223) | In sum, the overall proceedings had lasted over five years at the time of the adoption of the Commission's report, which was unreasonable.
+u474 p140 ¶109 [67229-67358) | The Court notes the parties' agreement that Article 6 § 1 applies to the proceedings as a whole, including the enforcement stage.
+u475 p140  [67359-67526) | The Court finds no reason to differ (see, for instance, the Di Pede v. Italy judgment of 26 September 1996, Reports of Judgments and Decisions 1996-IV, p. 1384, § 24).
+u476 p140  [67527-67635) | Thus the proceedings lasted from September 1993 to February 1999, that is to say five years and five months.
+u477 p141 ¶110 [67641-67881) | The reasonableness of the length of proceedings is to be considered in the light of the criteria laid down in the Court's case-law, in particular the complexity of the case, the conduct of the applicant and that of the relevant authorities.
+u478 p141  [67882-68003) | On the latter point, the importance of what is at stake for the applicant in the litigation has to be taken into account.
+u479 p141  [68004-68174) | It is thus essential that custody cases be dealt with speedily (see, for example, the Hokkanen v. Finland judgment of 23 September 1994, Series A no. 299-A, p. 25, § 69).
+u480 p141  [68175-68393) | A delay at some stage may be tolerated if the overall duration of the proceedings cannot be deemed excessive (see, for example, the Pretto and Others v. Italy judgment of 8 December 1983, Series A no. 71, p. 16, § 37).
+u481 p142 ¶111 [68399-68582) | The Court accepts that the present case, although not particularly complex at the outset, became increasingly complicated due to the difficulties encountered at the enforcement stage.
+u482 p142  [68583-68802) | The enforcement proceedings had to be set in motion by the applicant and involved a continuous reassessment of the child's best interests as provided for, most recently, by the 1996 Act (see paragraphs 86 and 89 above).
+u483 p143 ¶112 [68808-69063) | As for the conduct of the authorities, the Court notes that in the initial proceedings regarding paternity, custody and access the first hearing before the Kuopio City Court was held in January 1994, four months after the applicant had brought his action.
+u484 p143  [69064-69201) | The hearing was adjourned for four more months while the parties were obliged to produce blood samples on pain of an administrative fine.
+u485 p143  [69202-69415) | Although H failed to produce samples emanating from herself and I, the court adjourned its hearing for a further period of four months, having imposed a further fine should she persist in her refusal to cooperate.
+u486 p143  [69416-69659) | Having obtained the necessary samples by the time of its hearing in September 1994, the City Court adjourned the case for three months pending the receipt of the opinions of the Kuopio and Helsinki social authorities on the question of access.
+u487 p143  [69660-69913) | In December 1994 the City Court confirmed the paternity of the child but adjourned consideration of the custody and access issues for six months in view of the Helsinki Social Welfare Board's request for an extension of the time allowed for its opinion.
+u488 p143  [69914-69949) | Judgment was rendered in June 1995.
+u489 p143  [69950-70078) | It was upheld by the Helsinki Court of Appeal three months later and the Supreme Court refused leave to appeal six months later.
+u490 p144 ¶113 [70084-70296) | The Court further notes that it took four months before a preliminary hearing was held before the Helsinki District Court in the second set of the main proceedings, which the applicant initiated in December 1996.
+u491 p144  [70297-70466) | At the preliminary hearing the proceedings were adjourned for a further six months pending the receipt of fresh opinions from the Kuopio and Helsinki social authorities.
+u492 p144  [70467-70530) | The Helsinki authority was later granted a two-month extension.
+u493 p144  [70531-70678) | Although the opinions had been received by the end of 1997, the main hearing before the District Court took place four months later, in April 1998.
+u494 p144  [70679-70868) | Its judgment was rendered the same month, whereas the Court of Appeal dealt with the case in six months and it took the Supreme Court two months to consider the request for leave to appeal.
+u495 p145 ¶114 [70874-71104) | The Court accepts the Government's argument that the two social authorities could not be requested to submit opinions on the question of access until the paternity issue had been clarified in the first set of the main proceedings.
+u496 p145  [71105-71252) | The Court notes, however, that the Helsinki Social Welfare Board was afforded a total of nine months to prepare its opinion on the access question.
+u497 p145  [71253-71468) | Moreover, in the second set of the main proceedings the Helsinki Social Welfare Board was granted a total of eight months to submit a fresh opinion in a matter which was no doubt complex but certainly not new to it.
+u498 p145  [71469-71541) | These periods must be considered strikingly long in a case of this kind.
+u499 p146 ¶115 [71547-71745) | As for the conduct of the authorities during the enforcement proceedings, the Court notes that the first set was initiated in April 1995 and ended in February 1997, thus lasting less than two years.
+u500 p146  [71746-71842) | It is true that it took the Court of Appeal one year to decide on the applicant's second appeal.
+u501 p146  [71843-72002) | Given that those proceedings involved two rounds of examination on each of the two decision-making levels, their total duration cannot be considered excessive.
+u502 p147 ¶116 [72008-72175) | Turning to the second set of the enforcement proceedings in 1997, the Court notes that they lasted about one year and involved a three-level examination of the matter.
+u503 p147  [72176-72308) | The third set of the enforcement proceedings initiated in December 1997 ended with the Court of Appeal's decision five months later.
+u504 p147  [72309-72435) | The Court cannot detect any particular delay for which the authorities could be held responsible in either set of proceedings.
+u505 p148 ¶117 [72441-72751) | Summing up, the Court has detected certain delays imputable to the first-instance courts in the two sets of the main proceedings, first in respect of the establishment of the paternity of the child and subsequently as regards the written hearing of the Helsinki Social Welfare Authority on the access question.
+u506 p148  [72752-72971) | Notwithstanding the procrastination of H in producing blood samples capable of establishing I's paternity, the responsibility for ensuring compliance with the requirements of Article 6 rested ultimately with the courts.
+u507 p148  [72972-73258) | The Court further recalls that when requesting opinions from other authorities, the courts remain responsible for ensuring that the proceedings are not excessively prolonged (see, for instance, the Martins Moreira v. Portugal judgment of 26 October 1988, Series A no. 143, p. 21, § 60).
+u508 p149 ¶118 [73264-73373) | As for the conduct of the applicant, the Court agrees with the Government that he is to blame to some extent.
+u509 p149  [73374-73662) | As noted by the Court of Appeal in its decision of 15 December 1998 (see paragraph 76 above), he refused to provide detailed information on his own situation, which cannot but have hampered the fresh investigation requested by the District Court on 23 April 1997 (see paragraph 61 above).
+u510 p150 ¶119 [73668-73928) | The Court recalls, however, that what was at stake for the applicant was not only his right to obtain a speedy court confirmation of his biological and legal ties with I. Those ties were indeed confirmed already in December 1994 and access rights were granted.
+u511 p150  [73929-74012) | At the time the applicant had not yet seen his daughter, then almost two years old.
+u512 p150  [74013-74180) | She was almost seven years old when the ensuing proceedings eventually ended with the revocation of the access rights without the applicant ever having seen his child.
+u513 p151 ¶120 [74186-74406) | In the light of the criteria laid down in its case-law and having regard to the particular circumstances of the case, the Court therefore concludes that the overall length of the proceedings exceeded a “reasonable time”.
+u514 p151  [74407-74482) | Accordingly, there has been a violation of Article 6 § 1 of the Convention.
+u515 p152  [74483-74537) H | III. ALLEGED VIOLATIONS OF ARTicle 8 of the Convention
+u516 p153 ¶121 [74543-74735) | Before the Commission the applicant complained that in spite of the mother's defiance the authorities failed to make sufficient efforts to enforce the access rights in respect of his daughter.
+u517 p153  [74736-74895) | Those rights had been excessively limited at the outset and his daughter's whereabouts and other information about her had been kept secret from the applicant.
+u518 p153  [74896-74983) | As a result they were never able to meet and the access rights were ultimately revoked.
+u519 p153  [74984-75081) | The applicant invoked Article 8 of the Convention which reads, in so far as relevant, as follows:
+u520 p153  [75082-75085) Q | “1.
+u521 p153  [75086-75147) Q | Everyone has the right to respect for his ... family life ...
+u522 p154 ¶2 [75151-75383) | There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society ... for the protection of the rights and freedoms of others.”
+u523 p155  [75384-75423) H | A. Non-enforcement of the access rights
+u524 p156 ¶122 [75429-75531) | The applicant contended that he had not been unwilling to negotiate with the social welfare officials.
+u525 p156  [75532-75670) | He had accepted that the initial meetings between him and his daughter should be supervised and that access should be increased gradually.
+u526 p156  [75671-75884) | However, as a result of the enforcement authorities' ineffectiveness he had been obliged to institute fruitless enforcement proceedings and to seek a reassessment of the substance of the custody and access matter.
+u527 p156  [75885-76085) | Meanwhile, the non-enforcement of the access rights had made him increasingly distressed, ultimately provoking him into behaving in a fashion which had resulted in the revocation of the access rights.
+u528 p157 ¶123 [76091-76229) | The Government recalled that the respondent State's positive obligation inherent in an effective respect for family life was not absolute.
+u529 p157  [76230-76383) | According to the social welfare officials and the conciliators involved, the relationship between the applicant and H had been exceptionally complicated.
+u530 p157  [76384-76623) | Given their very strong negative attitude both towards each other and towards the authorities, the authorities had done everything that could reasonably be expected of them in order to facilitate the enforcement of the access arrangements.
+u531 p157  [76624-76772) | In so far as the non-enforcement had been due to H's non-compliance with the court orders, the Government could not be answerable for her behaviour.
+u532 p157  [76773-77038) | The Government accepted that her refusal to bring I to the meeting with the conciliators at the beginning of 1997, despite her own suggestion that the child should be heard, had contributed to the unsuccessful outcome of the conciliation and the entire proceedings.
+u533 p157  [77039-77346) | However, the applicant had also hampered the enforcement attempts by failing to cooperate with the authorities in order to find a solution which would have been “working and positive from the child's point of view” and based on an investigation which would have been “as reliable and impartial as possible”.
+u534 p157  [77347-77483) | Instead his demanding, threatening and aggressive behaviour towards the authorities showed that the fearful attitude of H was justified.
+u535 p157  [77484-77605) | The applicant further refused to negotiate with H in the presence of the conciliators, unless the child was also present.
+u536 p157  [77606-77696) | The conciliators considered this demand to be contrary to the best interests of the child.
+u537 p158 ¶124 [77702-77964) | The Government, moreover, maintained their reference to the applicant's convictions of attempted manslaughter and assault in 1987 and 1990 as well as to the report on his mental health submitted in the proceedings leading to his conviction of the latter offence.
+u538 p158  [77965-78034) | In October 1991 the applicant had again threatened H and her parents.
+u539 p158  [78035-78279) | The Government considered the applicant to suffer from serious psychological problems, including a mixed personality disorder, as shown, for instance, by his aggressiveness and difficulties in controlling his behaviour towards the conciliators.
+u540 p158  [78280-78568) | While preparing their pleadings to the Commission the Government had obtained more detailed information proving that the applicant's threatening and aggressive behaviour towards H and her resultant fears had constituted reasoned grounds for the non-enforcement of the access arrangements.
+u541 p158  [78569-78794) | According to this information, the applicant's mental health problems had again become acute in 1996, when he had been prescribed medication against his depression and insomnia but had refused to accept psychiatric treatment.
+u542 p158  [78795-79019) | The Government alluded to conciliator R.C.'s observations to the Helsinki District Court of 9 March 1998 in which she observed that the applicant had been giving incorrect information about his mental health and development.
+u543 p158  [79020-79184) | In the Government's view the applicant had thereby contributed to the fact that the access arrangements had not been subjected to stricter conditions at the outset.
+u544 p158  [79185-79306) | Such further restrictions could have diminished H's fears and suspicions, which were understandable and partly justified.
+u545 p158  [79307-79721) | Once it had been established that the courts had not had correct information at their disposal when ordering and upholding the initial access arrangements in 1995, the Helsinki District Court, on 7 April 1997, tried to increase H's willingness to comply with the court orders by placing the meetings under supervision by a professionally trained person and authorising H or a person of her choosing to attend them.
+u546 p158  [79722-79891) | By imposing automatically staggered fines the court also sought to have H cooperate, bearing in mind her strongly negative attitude towards conciliation and enforcement.
+u547 p158  [79892-80104) | The revocation of the access rights in April 1998 was based on the consistent opinions of the Helsinki Social Welfare Authority and Drs O.H. and V as well as on the oral statements of H before the District Court.
+u548 p158  [80105-80300) | At any rate, the enforcement possibilities had always been limited because otherwise the applicant's daughter would have been subjected to situations which would have been “unreasonable” for her.
+u549 p158  [80301-80377) | Nor would this have been in the interests of the applicant in the long term.
+u550 p159 ¶125 [80383-80688) | The Commission considered that the applicant might have contributed to the delays at the enforcement stage, in particular by not cooperating sufficiently with the social authorities during the preparations of their opinions to the Helsinki District Court in the second set of the main proceedings in 1997.
+u551 p159  [80689-80991) | While prepared to make certain allowances for the frustration which the applicant must have experienced after several unsuccessful enforcement attempts, the Commission noted that he had repeatedly behaved in an inappropriate and even aggressive manner towards social welfare officials and conciliators.
+u552 p159  [80992-81239) | However, the Government's allusion to the applicant's criminal past and his mental health which could have endangered the child's development had already been examined in the initial custody and access proceedings resulting in very limited access.
+u553 p159  [81240-81517) | Moreover, in April 1997 the District Court had found that the fresh evidence regarding the applicant's mental state did not show that enforcement of the access arrangements would be contrary to the child's interests, bearing in mind the limited access and the meeting premises.
+u554 p159  [81518-81719) | The Commission concluded, however, that in the continuous reassessment of the child's best interests the District Court could reasonably consider it justified to revoke the access rights in April 1998.
+u555 p159  [81720-81922) | The national authorities having taken all the steps to enforce the access rights which could reasonably be required in the very difficult conflict they had to deal with, Article 8 had not been violated.
+u556 p160 ¶126 [81928-82138) | The Court finds it undisputed that the relationship between the applicant and his daughter amounted to “family life” within the meaning of Article 8 § 1 of the Convention and the Court sees no reason to differ.
+u557 p161 ¶127 [82144-82264) | The essential object of Article 8 is to protect the individual against arbitrary interference by the public authorities.
+u558 p161  [82265-82359) | There may in addition be positive obligations inherent in effective “respect” for family life.
+u559 p161  [82360-82541) | Whilst the boundaries between the State's positive and negative obligations under this provision do not lend themselves to precise definition, the applicable principles are similar.
+u560 p161  [82542-82858) | In both contexts regard must be had to the fair balance that has to be struck between the competing interests of the individual and the community as a whole, and in both contexts the State is recognised as enjoying a certain margin of appreciation (see, for instance, the Hokkanen judgment cited above, p. 20, § 55).
+u561 p162 ¶128 [82864-83062) | The obligation of the national authorities to take measures to facilitate meetings between a parent and his or her child is not absolute, especially where the two are still strangers to one another.
+u562 p162  [83063-83171) | Such access may not be possible immediately and may require preparatory measures being taken to this effect.
+u563 p162  [83172-83355) | The nature and extent of such preparation will depend on the circumstances of each case, but the understanding and cooperation of all concerned will always be an important ingredient.
+u564 p162  [83356-83709) | Whilst national authorities must do their utmost to facilitate such cooperation, any obligation to apply coercion in this area must be limited since the interests as well as the rights and freedoms of all concerned must be taken into account, and more particularly the best interests of the child and his or her rights under Article 8 of the Convention.
+u565 p162  [83710-83887) | Where contacts with the parent might appear to threaten those interests or interfere with those rights, it is for the national authorities to strike a fair balance between them.
+u566 p162  [83888-84133) | What is decisive is whether the national authorities have taken all necessary steps to facilitate access as can reasonably be demanded in the special circumstances of each case (see, for instance, the Hokkanen judgment cited above, p. 22, § 58).
+u567 p163 ¶129 [84139-84511) | In examining whether the non-enforcement of the access arrangements amounted to a lack of respect for the applicant's family life the Court must strike a balance between the various interests involved, namely the interests of the applicant's daughter and her de facto family, those of the applicant himself and the general interest in ensuring respect for the rule of law.
+u568 p164 ¶130 [84517-84704) | The Court recalls that the access rights were in force for over three years, starting with monthly two-hour meetings on neutral ground which were to take place between March and May 1995.
+u569 p164  [84705-84804) | In June 1995 access was restricted to a two-hour meeting every other month starting from July 1995.
+u570 p164  [84805-84983) | In April 1997 and March 1998 the Helsinki District Court, sitting in two completely different compositions, considered that the meetings were still in the child's best interests.
+u571 p164  [84984-85095) | However, in April 1998 the access rights were revoked by the same tribunal, now sitting in a third composition.
+u572 p165 ¶131 [85101-85255) | The Court further notes that the applicant's enforcement requests led to the imposition on H of a fixed administrative fine of FIM 5,000 in February 1996.
+u573 p165  [85256-85349) | In October 1996 she was ordered to pay this fine and a further fine of FIM 8,000 was imposed.
+u574 p165  [85350-85472) | The latter fine was not upheld for payment, having been replaced by an automatically staggered fine imposed in April 1997.
+u575 p165  [85473-85554) | In March 1998 H was ordered to pay this fine, eventually amounting to FIM 16,000.
+u576 p165  [85555-85744) | However, after the revocation of the access rights in April 1998 this fine was waived, even though it had been based on the mother's failure to bring I to meetings preceding the revocation.
+u577 p165  [85745-85838) | Neither was the mother ordered to pay the automatically staggered fine imposed in March 1998.
+u578 p165  [85839-85918) | Accordingly, the only fine eventually upheld for payment amounted to FIM 5,000.
+u579 p166 ¶132 [85924-86325) | The Court notes that, whereas escorting children to meetings with a view to enforcing access arrangements was excluded under domestic law prior to 1 December 1996, the 1996 Act provided for this possibility (see paragraph 87 above), if it was likely that access would not otherwise materialise and provided the particularly weighty reasons at hand were concordant with the best interests of the child.
+u580 p166  [86326-86513) | The applicant's first request to this effect was dismissed by the Helsinki District Court in April 1997 in spite of its finding that the mother would most likely continue her obstruction.
+u581 p166  [86514-86677) | In an attempt to have her cooperate and following the applicant's consent, the court instead modified those arrangements largely according to the mother's request.
+u582 p166  [86678-86793) | Whether alone, assisted or represented, she was now authorised to attend the meetings, which were to be supervised.
+u583 p166  [86794-86924) | Specific measures were also ordered to maintain secrecy in respect of the child's place of residence (see paragraphs 57-58 above).
+u584 p167 ¶133 [86930-87155) | It is true that even after the mother had refused to comply with the modified arrangements of April 1997 the Helsinki District Court, in March 1998, again declined to order that the child be brought in person to the meetings.
+u585 p167  [87156-87305) | Instead the District Court opted for ordering payment of the administrative fine imposed in April 1997, which was thereafter automatically staggered.
+u586 p167  [87306-87454) | At the same time an additional fine of the same nature was imposed on her, should she persist in her refusal to comply with the access arrangements.
+u587 p167  [87455-87687) | Only a month later, however, the District Court, now considering the applicant's request for extended access rights, revoked the access rights after having heard the parties, witnesses and the Helsinki and Kuopio social authorities.
+u588 p167  [87688-87931) | Sitting in a new composition, the Helsinki District Court had become convinced that the mother's fear of the applicant was genuine, thus explaining why she had consistently refused to let her daughter meet the applicant even under supervision.
+u589 p168 ¶134 [87937-88222) | Although escorting I to meetings with a view to enforcing her access rights was thus never recommended or ordered, the Court sees no reason to question the Helsinki District Court's finding on two occasions that such a drastic measure would not have been in the child's best interests.
+u590 p168  [88223-88359) | The fact that the fines imposed on H were eventually lifted, with one exception in 1996, was due to the revocation of the access rights.
+u591 p168  [88360-88604) | The ultimate waiver of those fines cannot therefore be given any decisive significance in the assessment of whether the authorities could, at the time of imposing those fines, reasonably consider them to be sufficient as a means of enforcement.
+u592 p169 ¶135 [88610-88799) | In view of his numerous requests for enforcement the Court is satisfied that the applicant himself took sufficient steps before the courts to seek implementation of the access arrangements.
+u593 p169  [88800-89136) | He must, however, be considered to have contributed to the delays at the enforcement stage by not having cooperated sufficiently, in particular with the Kuopio and Helsinki social authorities in the preparations of their opinions to the Helsinki District Court in the course of the second set of civil proceedings in the middle of 1997.
+u594 p169  [89137-89409) | While mindful of his frustration following numerous fruitless enforcement attempts, the Court finds it established that he repeatedly behaved in an inappropriate and even aggressive manner towards the social welfare officials and the conciliators investigating the matter.
+u595 p170 ¶136 [89415-89519) | The Government have also alluded to the applicant's criminal past and have questioned his mental health.
+u596 p170  [89520-89812) | It is true that the gist of this argument, namely that his meetings with his daughter would endanger her development was already examined in the first set of custody and access proceedings before the Kuopio District Court which resulted in the very limited access rights granted to the child.
+u597 p170  [89813-90113) | Moreover, in its decision of 7 April 1997 the Helsinki District Court found that the fresh evidence regarding the applicant's mental state did not show that enforcement of the access arrangements would be contrary to the child's interests, bearing in mind the limited access and the meeting premises.
+u598 p170  [90114-90457) | The Court considers, however, that in the continuous reassessment of the child's best interests the social authorities in Helsinki could, notably in the light of the applicant's more recent unwillingness to cooperate, reasonably formulate a recommendation that the access rights should be revoked until the child had reached a more mature age.
+u599 p170  [90458-90582) | Likewise the Helsinki District Court's decision to revoke the access rights in April 1998 cannot be considered unreasonable.
+u600 p171 ¶137 [90588-90879) | In the above-mentioned circumstances the Court considers that, having regard to the margin of appreciation afforded to the State, the national authorities took all the steps to enforce the access rights which could reasonably be required in the very difficult conflict they had to deal with.
+u601 p172 ¶138 [90885-91024) | The Court concludes that there has been no violation of Article 8 of the Convention on account of the non-enforcement of the access rights.
+u602 p173  [91025-91060) H | B. Other complaints under Article 8
+u603 p174 ¶139 [91066-91211) | Before the Commission the applicant also alleged, with reference to Article 8, that the access rights had been excessively limited at the outset.
+u604 p174  [91212-91396) | Moreover, the secrecy orders regarding his daughter's whereabouts and the restriction on his right to receive information about her allegedly also constituted a violation of Article 8.
+u605 p174  [91397-91558) | These complaints were not mentioned by the applicant in the proceedings before the Court, which does not consider it necessary to examine them of its own motion.
+u606 p175  [91559-91606) H | IV. APPLICATION OF ARTICLE 41 OF THE CONVENTION
+u607 p176 ¶140 [91612-91650) L | Article 41 of the Convention provides:
+u608 p176  [91651-91932) QL | “If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”
+u609 p177  [91933-91942) H | A. Damage
+u610 p178 ¶141 [91948-92059) L | The applicant sought FIM 200,000 in compensation for non-pecuniary damage attributable to his mental suffering.
+u611 p179 ¶142 [92065-92110) L | The Government considered this sum excessive.
+u612 p179  [92111-92196) L | Were the Court to find a breach of Article 6, the award should not exceed FIM 10,000.
+u613 p179  [92197-92326) L | Should the Court find a violation of Article 8, the Government left it to the Court to fix the amount of the corresponding award.
+u614 p180 ¶143 [92332-92416) L | The Court recalls that it has found a violation only of Article 6 of the Convention.
+u615 p180  [92417-92643) L | Considering the obvious frustration experienced by the applicant as a result of the excessively lengthy proceedings, the Court finds that sufficient just satisfaction would not be provided solely by the aforementioned finding.
+u616 p180  [92644-92782) L | Making its assessment on an equitable basis, the Court therefore awards the applicant FIM 20,000 as compensation for non-pecuniary damage.
+u617 p181  [92783-92804) H | B. Costs and expenses
+u618 p182 ¶144 [92810-93020) L | The applicant claimed reimbursement of costs and expenses totalling FIM 23,998, consisting of FIM 21,472 in legal fees (FIM 17,600 coupled with 22% value-added tax) and FIM 2,526 in translation and other costs.
+u619 p183 ¶145 [93026-93178) L | The Government opposed the claim for reimbursement of legal fees in so far as counsel had charged FIM 1,700 for petitioning the Parliamentary Ombudsman.
+u620 p183  [93179-93237) L | Even the remaining legal fees appeared somewhat excessive.
+u621 p183  [93238-93372) L | The other costs for which reimbursement was sought were either not substantiated by invoices and receipts or their nature was unknown.
+u622 p183  [93373-93503) L | The Government left it to the Court to fix the award after having deducted the legal aid already granted by the Council of Europe.
+u623 p184 ¶146 [93509-93753) L | The Court recalls that an award under this head may be made only in so far as the costs were actually and necessarily incurred in order to avoid, or obtain redress for, the excessive length of the proceedings found to be in breach of Article 6.
+u624 p184  [93754-93921) L | No compensation can therefore be awarded for the fee amounting to FIM 1,200 and relating to the preparation of the applicant's petition to the Parliamentary Ombudsman.
+u625 p184  [93922-94044) L | The Court notes furthermore that the translation and other costs in the amount of FIM 2,526 have remained unsubstantiated.
+u626 p184  [94045-94247) L | Making its assessment on an equitable basis, the Court awards the applicant FIM 10,000 in respect of the proceedings before the Commission and the Court, to be increased by any relevant value-added tax.
+u627 p184  [94248-94391) L | From this sum must be deducted 5,800 French francs already received for legal fees and expenses from the Council of Europe by way of legal aid.
+u628 p185  [94392-94411) H | C. Default interest
+u629 p186 ¶147 [94417-94588) L | According to the information available to the Court, the statutory rate of interest applicable in Finland at the date of adoption of the present judgment is 10% per annum.
+-- tail from char 94589 hidden --

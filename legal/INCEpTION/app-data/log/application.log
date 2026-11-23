@@ -1,0 +1,355 @@
+2026-09-08 11:34:24 INFO [SYSTEM] boot - Settings: /export/settings.properties (file does not exist)
+2026-09-08 11:34:25 INFO [SYSTEM] boot - Max. application memory: 6232MB
+2026-09-08 11:34:25 INFO [SYSTEM] INCEpTION - Starting INCEpTION using Java 25.0.3 with PID 20 (/opt/inception/inception-app-standalone.jar started by inception in /opt/inception)
+2026-09-08 11:34:25 INFO [SYSTEM] INCEpTION - The following 3 profiles are active: "embedded-server", "app", "production"
+2026-09-08 11:34:42 INFO [SYSTEM] boot - Initializing cas storage service
+2026-09-08 11:34:48 WARN [SYSTEM] DatabaseChangeLog - Due to mariadb SQL limitations, modifyDataType will lose primary key/autoincrement/not null/comment settings explicitly redefined in the change. Use <sql> or <modifySql> to re-specify all configuration if this is the case
+2026-09-08 11:34:48 WARN [SYSTEM] DatabaseChangeLog - Due to mariadb SQL limitations, modifyDataType will lose primary key/autoincrement/not null/comment settings explicitly redefined in the change. Use <sql> or <modifySql> to re-specify all configuration if this is the case
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing websocket
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing security
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing recommender service
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing recommender service
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing project export service
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing project export service
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing scheduling service
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing scheduling service
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing document service
+2026-09-08 11:34:56 INFO [SYSTEM] boot - CAS backups enabled - interval: 86400sec  max-backups: 2  max-age: 0sec
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing cas doctor
+2026-09-08 11:34:56 INFO [SYSTEM] boot - Initializing annotation schema service
+2026-09-08 11:34:58 INFO [SYSTEM] boot - CAS cache size: 5000 instances
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing document import export service
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing uima formats
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing project service
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Document repository path: /export/repository
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing annotation
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing constraints service
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing annotation editor
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing external editor
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing pub med services
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing guidelines service
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing tool library
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing universal dependencies project initializers
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Database URL           : [jdbc:mariadb://db:3306/inception?useSSL=false&useUnicode=true&characterEncoding=UTF-8] 
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Database username      : [inception] 
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Database driver        : [MariaDB Connector/J  3.5.10] (auto-detected)
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Database dialect       : [org.hibernate.dialect.MariaDBDialect] (auto-detected)
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Database storage engine: [org.hibernate.dialect.InnoDBStorageEngine] (auto-detected)
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing event logging
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing curation document service
+2026-09-08 11:34:58 INFO [SYSTEM] boot - Initializing annotation ui
+2026-09-08 11:34:59 INFO [SYSTEM] boot - Initializing curation ui
+2026-09-08 11:34:59 INFO [SYSTEM] boot - Initializing legacy curation ui
+2026-09-08 11:34:59 INFO [SYSTEM] boot - Initializing workload management
+2026-09-08 11:34:59 INFO [SYSTEM] boot - Initializing search service
+2026-09-08 11:35:00 INFO [SYSTEM] boot - Initializing agreement
+2026-09-08 11:35:00 INFO [SYSTEM] boot - Initializing cas diff
+2026-09-08 11:35:00 INFO [SYSTEM] boot - Initializing brat annotation editor
+2026-09-08 11:35:00 INFO [SYSTEM] boot - Initializing conll formats
+2026-09-08 11:35:00 INFO [SYSTEM] boot - Initializing project initializers
+2026-09-08 11:35:00 INFO [SYSTEM] boot - Initializing inception security
+2026-09-08 11:35:01 INFO [SYSTEM] boot - Initializing inception security remote api
+2026-09-08 11:35:01 INFO [SYSTEM] boot - Authentication: database
+2026-09-08 11:35:01 INFO [SYSTEM] boot - Initializing inception security web ui built in
+2026-09-08 11:35:01 WARN [SYSTEM] InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing inception security actuator
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing inception security web ui api
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing tcf formats
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing telemetry service
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing text formats
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing web anno formats
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing undo
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing project ui
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing tag sets ui
+2026-09-08 11:35:02 INFO [SYSTEM] boot - Initializing remote api
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Found [2] WebhookService extensions
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing active learning
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing link feature
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing string feature
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing layer behavior
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing chain layer
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing document metadata layer support
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing relation layer
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing span layer
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing apache annotator html annotation editor support
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing external search
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing external search ui
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing search service ui
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing stats service ui
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing knowledge base service
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Knowledge base repository path: /export/repository/kb
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing entity linking service
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing curation service
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing curation properties
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing annotation browser sidebar
+2026-09-08 11:35:03 INFO [SYSTEM] boot - Initializing repository
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing open search document repository
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing pub annotation document repository
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing bio c
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing solr search document repository
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing image support
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing brat
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing html support
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing ims cwb format support
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing uima json cas support
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing nif format support
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing pdf format
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing perseus format
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing rdf format
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing tei formats
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing xml support
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing pdf annotation editor 2 support
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing pivot
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing processing
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing string matching recommender
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing inception basic project initializers
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing inception document labeling project initializers
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing matrix workload manager
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing open nlp recommender
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing inception phi project initializers
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing inception sentence labeling project initializers
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing wiki data linking project initializers
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing elg recommender
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing external recommender
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing llm chat client
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing ollama recommender
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing weblicht recommender
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing mtas document index
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing agreement ui
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing core ui
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing dashboard
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing curation sidebar
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing knowledge base service ui
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing scheduling ui
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing dynamic workload manager
+2026-09-08 11:35:04 INFO [SYSTEM] boot - Initializing workload ui
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [4] MenuBarItemRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [15] ActionBarExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [10] AnnotationSidebarRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [0] ToolLibraryExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] AnnotationTaskCodecExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [1] ContextMenuItemRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] DiffSupportRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [17] ChecksRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [15] RepairsRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] FootprintProviderRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [1] PermissionExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [6] UndoableActionSupportRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [4] SuggestionSupportRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] MergeStrategyFactoryExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [9] FeatureSupportRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [4] LayerSupportRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [16] EditorAjaxRequestHandlerExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] DocumentViewExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [12] ExtractorSupportRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] AggregatorSupportRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [1] BulkProcessorRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [2] ProjectExportExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [1] LlmChatClientExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] VDocumentSerializerExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [8] RenderStepExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] ProjectDashboardDashletExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [2] WorkloadManagerExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [2] WorkflowExtensionPointImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [1] global interceptors
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [4] agreement measure supports
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [6] footer items
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [32] menu items
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [15] project setting panels
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [60] project initializers
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [60] feature initializers
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [1] telemetry supports
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [11] recommendation engines
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [3] external search providers
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [1] index extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [2] feature indexing supports
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [4] entity ranking feature generators
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [7] layer behaviors
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [8] CrossDocumentExporterRegistryImpl extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [2] annotation editor extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [5] annotation editors
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [29] format supports
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [32] event logging adapters
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [2] ClientSiderUserPreferencesProviderRegistry extensions
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [22] project exporters
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [5] statement coloring strategies
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Found [4] value type supports
+2026-09-08 11:35:05 INFO [SYSTEM] INCEpTION - Started INCEpTION in 42.982 seconds (process running for 47.135)
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Console: not available
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Headless: yes
+2026-09-08 11:35:05 INFO [SYSTEM] boot - Running in server environment or from command line: disabling interactive shutdown dialog.
+2026-09-08 11:35:05 INFO [SYSTEM] boot - You can now access INCEpTION at http://localhost:8080/
+2026-09-08 11:35:50 WARN [SYSTEM] PackageResource - resource [path = de/tudarmstadt/ukp/inception/ui/core/dashboard/activity/ActivitiesDashlet.min.css, style = null, variation = null, locale = en_US]: Unable to find resource (status=404)
+2026-09-08 11:36:02 INFO [SYSTEM] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1)
+2026-09-08 11:36:03 INFO [SYSTEM] SelectionTask - [admin]: Starting selection triggered by [DocumentOpenedEvent]
+2026-09-08 11:36:03 INFO [SYSTEM] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-09-08 11:36:05 INFO [SYSTEM] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [1] (min. 2), test set size [0] (min. 2) of total [1] (min. 4)
+2026-09-08 11:36:05 INFO [SYSTEM] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-09-08 11:36:05 INFO [SYSTEM] SelectionTask - [admin]: Evaluation complete
+2026-09-08 11:36:05 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:15 ERROR [SYSTEM] ApplicationPageBase - admin: Unable to create span annotation: Cannot create another annotation of layer [Sentence Label] at this location - no overlap or stacking is allowed for this layer.
+2026-09-08 11:36:31 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:38 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:39 ERROR [SYSTEM] ApplicationPageBase - admin: Unable to create span annotation: No tokens found int range [769-770]
+2026-09-08 11:36:42 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:48 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:53 INFO [SYSTEM] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-09-08 11:36:53 INFO [SYSTEM] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-09-08 11:36:53 INFO [SYSTEM] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [0] (min. 2), test set size [0] (min. 2) of total [0] (min. 4)
+2026-09-08 11:36:53 INFO [SYSTEM] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-09-08 11:36:53 INFO [SYSTEM] SelectionTask - [admin]: Evaluation complete
+2026-09-08 11:36:53 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:37:01 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:37:07 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:39:02 ERROR [SYSTEM] EditorAjaxRequestHandlerBase - Unable to create relation annotation
+java.lang.IllegalArgumentException: Cannot parse visual identifier []
+	at de.tudarmstadt.ukp.inception.rendering.vmodel.VID.parse(VID.java:313)
+	at de.tudarmstadt.ukp.inception.diam.editor.actions.CreateRelationAnnotationHandler.actionArc(CreateRelationAnnotationHandler.java:104)
+	at de.tudarmstadt.ukp.inception.diam.editor.actions.CreateRelationAnnotationHandler.handle(CreateRelationAnnotationHandler.java:91)
+	at de.tudarmstadt.ukp.inception.diam.editor.actions.CreateRelationAnnotationHandler.handle(CreateRelationAnnotationHandler.java:61)
+	at de.tudarmstadt.ukp.inception.diam.editor.DiamAjaxBehavior.call(DiamAjaxBehavior.java:106)
+	at de.tudarmstadt.ukp.inception.diam.editor.DiamAjaxBehavior.lambda$respond$1(DiamAjaxBehavior.java:97)
+	at java.base/java.util.Optional.ifPresent(Unknown Source)
+	at de.tudarmstadt.ukp.inception.diam.editor.DiamAjaxBehavior.respond(DiamAjaxBehavior.java:97)
+	at org.apache.wicket.ajax.AbstractDefaultAjaxBehavior.onRequest(AbstractDefaultAjaxBehavior.java:630)
+	at org.apache.wicket.core.request.handler.ListenerRequestHandler.internalInvoke(ListenerRequestHandler.java:300)
+	at org.apache.wicket.core.request.handler.ListenerRequestHandler.invoke(ListenerRequestHandler.java:274)
+	at org.apache.wicket.core.request.handler.ListenerRequestHandler.invokeListener(ListenerRequestHandler.java:222)
+	at org.apache.wicket.core.request.handler.ListenerRequestHandler.respond(ListenerRequestHandler.java:202)
+	at org.apache.wicket.request.cycle.RequestCycle$HandlerExecutor.respond(RequestCycle.java:913)
+	at org.apache.wicket.request.RequestHandlerExecutor.execute(RequestHandlerExecutor.java:63)
+	at org.apache.wicket.request.cycle.RequestCycle.execute(RequestCycle.java:294)
+	at org.apache.wicket.request.cycle.RequestCycle.processRequest(RequestCycle.java:255)
+	at org.apache.wicket.protocol.http.WicketFilter.processRequestCycle(WicketFilter.java:277)
+	at org.apache.wicket.protocol.http.WicketFilter.processRequest(WicketFilter.java:208)
+	at org.apache.wicket.protocol.http.WicketFilter.doFilter(WicketFilter.java:307)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at de.tudarmstadt.ukp.inception.annotation.storage.OpenCasStorageSessionForRequestFilter.doFilter(OpenCasStorageSessionForRequestFilter.java:50)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at de.tudarmstadt.ukp.inception.app.config.InceptionServletContextInitializer$1.doFilterInternal(InceptionServletContextInitializer.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at de.tudarmstadt.ukp.inception.support.logging.LoggingFilter.doFilter(LoggingFilter.java:58)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.orm.jpa.support.OpenEntityManagerInViewFilter.doFilterInternal(OpenEntityManagerInViewFilter.java:181)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:235)
+	at org.springframework.security.web.ObservationFilterChainDecorator$FilterObservation$SimpleFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:493)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$1(ObservationFilterChainDecorator.java:354)
+	at org.springframework.security.web.ObservationFilterChainDecorator.lambda$wrapSecured$0(ObservationFilterChainDecorator.java:86)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:132)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:132)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:86)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:181)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.session.ConcurrentSessionFilter.doFilter(ConcurrentSessionFilter.java:153)
+	at org.springframework.security.web.session.ConcurrentSessionFilter.doFilter(ConcurrentSessionFilter.java:131)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:110)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:96)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.csrf.CsrfFilter.doFilterInternal(CsrfFilter.java:118)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:231)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.wrapFilter(ObservationFilterChainDecorator.java:244)
+	at org.springframework.security.web.ObservationFilterChainDecorator$AroundFilterObservation$SimpleAroundFilterObservation.lambda$wrap$0(ObservationFilterChainDecorator.java:337)
+	at org.springframework.security.web.ObservationFilterChainDecorator$ObservationFilter.doFilter(ObservationFilterChainDecorator.java:228)
+	at org.springframework.security.web.ObservationFilterChainDecorator$VirtualFilterChain.doFilter(ObservationFilterChainDecorator.java:141)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:237)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:195)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.ServletRequestPathFilter.doFilter(ServletRequestPathFilter.java:52)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebSecurityConfiguration.java:317)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:355)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:272)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:111)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:535)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:86)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:71)
+	at org.apache.catalina.valves.RemoteIpValve.invoke(RemoteIpValve.java:725)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:347)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:406)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1307)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2036)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:949)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:483)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:74)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2026-09-08 11:39:02 ERROR [SYSTEM] ApplicationPageBase - admin: Unable to create relation annotation: Cannot parse visual identifier []
+2026-09-08 11:39:07 ERROR [SYSTEM] ApplicationPageBase - admin: Unable to create relation annotation: There are no relation layers that can be created between these endpoints
+2026-09-08 11:52:01 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:52:04 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:52:15 INFO [SYSTEM] AnnotationSchemaServiceImpl - Created tag [text](6) in tagset [Span labels](2) in project [admin - New project](1)
+2026-09-08 11:52:15 INFO [SYSTEM] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-09-08 11:52:15 INFO [SYSTEM] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-09-08 11:52:16 INFO [SYSTEM] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [0] (min. 2), test set size [0] (min. 2) of total [0] (min. 4)
+2026-09-08 11:52:16 INFO [SYSTEM] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-09-08 11:52:16 INFO [SYSTEM] SelectionTask - [admin]: Evaluation complete
+2026-09-08 11:52:16 INFO [SYSTEM] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender

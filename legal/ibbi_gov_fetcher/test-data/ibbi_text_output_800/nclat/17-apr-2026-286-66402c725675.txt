@@ -1,0 +1,1064 @@
+[PAGE 1]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+1 of 26
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 556 of 2025
+[Arising out of order dated 04.03.2025 passed by the adjudicating authority
+(National Company Law Tribunal, Mumbai Bench – I), in I.A. 595/2025 in
+C.P.(IB)/383(MB)2023]
+IN THE MATTER OF:
+
+Canara Bank
+...Appellant
+Versus
+
+Bhavesh Mansukhbai Rathod,
+Interim Resolution Professional & Ors.
+
+...Respondents
+Present:
+
+For Appellant
+: Mr. Arun Kathpalia, Sr. Advocate with Mr. Aayush
+Agarwala, Ms. Kritika Bhardwaj, Ms. Disha Gupta
+and Mr. Aditya Dhupar, Advocates.
+
+For Respondent
+: Mr. Gopal Jain, Sr. Advocate with Mr. Mahesh
+Agarwal, Mr. Rishi Agarwala, Mr. Ankur Saigal,
+Mr. Shivam Shukla, Mr. Kaustubh Singh and Mr.
+Pranav Saigal, Advocates.
+WITH
+Company Appeal (AT) (Insolvency) No. 588 of 2025
+[Arising out of order dated 04.03.2025 passed by the adjudicating authority
+(National Company Law Tribunal, Mumbai Bench – I), in I.A. 595/2025 in
+C.P.(IB)/383(MB)2023]
+IN THE MATTER OF:
+
+Authum Investment & Infrastructure Ltd.
+...Appellant
+Versus
+
+Canara Bank & Ors.
+...Respondents
+Present:
+
+For Appellant
+: Mr. Gopal Jain, Sr. Advocate with Mr. Mahesh
+Agarwal, Mr. Rishi Agarwala, Mr. Ankur Saigal,
+Mr. Shivam Shukla, Mr. Kaustubh Singh and Mr.
+Pranav Saigal, Advocates.
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+2 of 26
+
+For Respondent
+: Mr. Arun Kathpalia, Sr. Advocate with Mr. Aayush
+Agarwala, Ms. Kritika Bhardwaj, Ms. Disha Gupta
+and Mr. Aditya Dhupar, Advocates.
+J U D G M E N T
+ASHOK BHUSHAN, J.
+These two appeals have been filed against the same order dated
+04.03.2025 passed by the adjudicating authority (National Company Law
+Tribunal (NCLT), Mumbai Bench –I) in I.A. No. 595/2025. By the impugned
+order dated 04.03.2025, I.A. No.595/2025 has been partly allowed. Aggrieved
+by the order dated 04.03.2025, by which order, adjudicating authority has
+not accepted the prayer of the Canara Bank to exercise jurisdiction under
+Section 65 of the Insolvency & Bankruptcy Code, 2016 (for short the ‘Code’ or
+the ‘IBC’), the Comp. App. (AT) (Ins.) No. 556/2025 has been filed. Comp.
+App. (AT) (Ins.) No. 588/2025 has been filed by Authum Investment Limited
+against the directions issued in paragraph 8.12 directing the Resolution
+Professional (RP) to conduct a Forensic Audit in relation to such transaction
+through the applicants empanelled auditor at the cost of the applicant
+(Canara Bank), Comp. App. (AT) (Ins.) No. 588/2025 has been filed against
+the above part of the order.
+2.
+Both the appeals have been heard together and are being decided by
+this common judgment.
+3.
+Brief facts of the case necessary to be noticed for deciding the appeals
+are:
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+3 of 26
+
+i.
+The corporate debtor – Carnival Techno Park Pvt. Ltd. vide its letter
+dated 20.01.2017 requested Reliance Capital Ltd. for financial
+assistance.
+ii.
+Financial creditor, Reliance Capital Ltd. vide its sanction letter dated
+16.01.2017 sanctioned disbursement of Rs.75 crore to the corporate
+debtor. The Facility Agreement dated 20.01.2017 was entered into
+between the Reliance Capital Ltd. and the corporate debtor along with
+the co-borrowers.
+iii.
+Loan Facility was granted at the interest rate of 15% p.a. and in case of
+default in payment, the defaulted amount carried further interest at the
+rate 36% p.a. compounded monthly.
+iv.
+The financial assistance extended by Reliance Capital Ltd. was duly
+secured by way of charge over the intercorporate deposit receivables of
+Rs.175 crore from Advantage Overseas Pvt. Ltd. under deed of
+hypothecation executed in favour of the Reliance Capital Ltd.
+v.
+Under the order of the Bombay High Court dated 06.12.2016 by
+Scheme of Arrangement, dues which were payable by corporate debtor
+to Reliance Capital Ltd. stood transferred and vested in Reliance
+Commercial Finance Ltd. (RCFL).
+vi.
+An addendum dated 16.10.2017 was issued to the sanction letter dated
+16.01.2017 between the corporate debtor as borrower, Asian Business
+Connection Pvt. Ltd. (ABC Pvt. Ltd.) and Reliance Capital Ltd. giving the
+borrower the right to assign the subsisting loan with accrued interest
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+4 of 26
+
+to any of the group entities or its subsidies. The corporate debtor
+claimed to have assigned the debt in the year 2020 to ABC Pvt. Ltd.
+vii.
+The RCFL filed an application under Section 7 against the corporate
+debtor on 24.01.2023 being C.P. (IB) No.383/ND/2023 to initiate
+Corporate Insolvency Resolution Process (CIRP) against the corporate
+debtor alleging an amount due of Rs.201,38,92,545/- as on
+01.01.2023.
+viii.
+Adjudicating authority issued notice in Section 7 application on
+17.05.2023. The corporate debtor appeared and filed its reply objecting
+to the Section 7 application. The corporate debtor pleaded that there is
+no creditor/debtor relationship between the petitioner and the
+respondent. It was further pleaded that the debt was assigned to ABC
+Pvt. Ltd. under the addendum dated 16.10.2017 and there is no debt
+due on the corporate debtor. Adjudicating authority after hearing the
+parties by an order dated 13.02.2024 admitted Section 7 application
+appointed the Interim Resolution Professional (IRP) and declared the
+moratorium.
+ix.
+In the CIRP process of the corporate debtor, the Canara Bank filed its
+claim in ‘Form-C’ on 06.03.2024 claiming the outstanding amount on
+the corporate debtor of Rs. 116,99,83,474/-. Details of security were
+also mentioned in ‘Form-C’. Interim Resolution Professional (IRP)
+constituted the CoC assigning vote share of 71.76% to the financial
+creditor RCFL and 28.24% vote shares to the Canara Bank.
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+5 of 26
+
+x.
+The suspended director of the corporate debtor filed an appeal before
+this Tribunal challenging the admission order being Comp. App. (AT)
+(Ins.) No. 495/2024. On 27.03.2024, Canara Bank filed I.A.
+No.1698/2024 before the adjudicating authority seeking direction
+against the RP to provide particulars of claim of Authum Investment &
+Infrastructure Ltd. (who subsequently took over the RCFL).
+xi.
+The Canara Bank also filed an intervention application in Comp. App.
+(AT) (Ins.) No. 495/2024 before this Tribunal. On 05.06.2024,
+adjudicating authority dismissed I.A. 1698/2024 by which Canara
+Bank had sought documents from RP in respect of lending between the
+Reliance Capital Ltd. and corporate debtor. Canara Bank aggrieved by
+the order dated 05.06.2024 filed Comp. App. (AT) (Ins.) No. 1818/2024
+which appeal was withdrawn by the Canara Bank on 06.09.2024.
+xii.
+Comp. App. (AT) (Ins.) No. 495/2024 was also subsequently withdrawn
+by suspended director on 07.08.2024. On 10.05.2024, this Tribunal
+was pleased to approve the demerger of the financial creditors (RCFL)
+lending business to Authum Investment & Infrastructure Ltd.
+Consequently, Authum Investment & Infrastructure Ltd. became
+member of the Committee of Creditors (CoC) in place of RCFL.
+xiii.
+It was on 10.01.2025, Canara Bank filed the I.A. No.595/2025 seeking
+dismissal of the company petition, imposition of penalty under Sections
+65 & 75 of the Code. The reply was filed to the I.A. 595/2025 by the
+RP as well as the Authum Investment & Infrastructure Ltd.
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+6 of 26
+
+xiv.
+On 04.03.2025, adjudicating authority decided I.A. No.495/2025 partly
+allowing the application insofar as it directed the RP to conduct the
+Forensic Audit through the Canara Bank empanelled auditor at the cost
+of Canara Bank.
+xv.
+Both the above appeals have been filed challenging the order dated
+04.03.2025 as noted above.
+4.
+We have heard learned Sr. counsel Mr. Arun Kathpalia appearing for
+the Canara Bank as well as learned Sr. counsel Mr. Gopal Jain appearing for
+the Authum Investment and Infrastructure Ltd. and Mr. Yahya Batatawala
+appearing for the RP.
+5.
+Learned counsel appearing for the Canara Bank in support of the
+appeal contends that the adjudicating authority committed error in refusing
+to grant relief to the appellant as prayed in the application filed under Section
+65 of the IBC. It is submitted that as on the date of initiation of the CIRP, no
+debt was due to the RCFL pursuant to addendum dated 16.10.2017.
+Corporate debtor has assigned its debt on 30.09.2020 to ABC Pvt. Ltd., hence
+initiation of CIRP was mala fide, fraudulent and malicious. It is submitted
+that in the financial statement of the corporate debtor from 2021 onwards,
+debt was shown to ABC Pvt. Ltd. Financial creditor had not raised any
+objection to the assignment, wherein the financial statement, debt was shown
+in the balance sheet of ABC Pvt. Ltd. There was no occasion to initiate the
+CIRP by financial creditor. Adjudicating authority having found sufficient
+cause for a Forensic Audit, adjudicating authority ought to have exercised its
+jurisdiction under Section 65 to recall the admission order as when the very
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+7 of 26
+
+same transaction that founded the very basis of admission order is the one
+which has been directed to be investigated. Admission of claim RCFL to the
+tune of Rs.293.4 crore is against the sanction loan of Rs.75 crore. On the
+strength of 71.76 voting rights, Authum Investment & Infrastructure Ltd. has
+approved its own resolution plan and is now Successful Resolution Applicant
+(SRA). Taking all facts together it is clear that CIRP had been initiated
+fraudulently and in collusion. Canara Bank is the secured creditor of the
+corporate debtor. Aggrieved by the quantum of RCFL’s claim admission, the
+Canara Bank has asked the IRP to disclose the particulars of RCFL’s loan, on
+refusal of the IRP to disclose the I.A. was filed, which was rejected against
+which the Canara Bank filed its appeal. The appeal was also filed by
+suspended director of the corporate debtor against admission order which
+was withdrawn without any reason. NCLT having directed for conducting the
+Transaction Audit Report it is clear that serious doubt was raised with regard
+to transaction in question, in which circumstances adjudicating authority
+ought to have exercised its jurisdiction under Section 65 of the Code.
+Adjudicating authority committed error in treating the application filed by
+appellant under Section 65 of the Code as an application only to recall the
+admission order, whereas, application filed by Canara bank was to invoke the
+jurisdiction of adjudicating authority under Section 65 of the Code and to set
+aside the entire CIRP process which has been fraudulently and maliciously
+initiated. The application filed by the appellant was not an application to
+recall the admission order.
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+8 of 26
+
+6.
+Learned counsel for the financial creditor refuting the submissions of
+the counsel for the appellant submits that the pleas which are sought to be
+raised by Canara Bank in its I.A. No.595/2025 were already raised by the
+corporate debtor before the adjudicating authority objecting Section 7
+application filed by RCFL. The corporate debtor had already pleaded in its
+reply to Section 7 application that there is no debtor and creditor relationship
+between the financial creditor and the corporate debtor and the debt has
+already been assigned to ABC Pvt. Ltd. Adjudicating authority after
+considering the above plea of the corporate debtor has admitted Section 7
+application finding the debt and default, the Canara Bank by the application
+is now praying to review the said order of the adjudicating authority admitting
+Section 7 application and to hold that no debt exists. Adjudicating authority
+having returned the finding of existence of debt and default which finding
+cannot be allowed to be questioned by Canara Bank indirectly by filing an
+application under Section 65 of the Code. It is submitted that Canara Bank
+is the Member of the CoC with voting right of 28.24% and it has participated
+in all the CoC Meetings. Canara Bank was aggrieved by admission of claim
+of RCFL as secured creditor, which was being objected by the Canara Bank.
+The ingredients of Section 65 of the Code were not present in the facts of the
+present case. The financial creditor has initiated proceedings, since corporate
+debtor committed default. Financial creditor was not party to the addendum
+or assignment of the debt to ABC Pvt. Ltd. It is submitted that there was no
+collusion between the financial creditor with the corporate debtor, corporate
+debtor has raised all pleas objecting to Section 7 application including that
+there is no debt which however was not accepted, the said issue cannot be
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+9 of 26
+
+reagitated by Canara Bank by means of Section 65 application. Canara Bank
+has also filed an appeal challenging the order passed by the adjudicating
+authority on the application filed by Canara Bank, which appeal was
+withdrawn by the Canara Bank itself. All grounds which were raised in the
+appeal filed by the Canara Bank are the grounds which are repeated in
+Section 65 application. Canara Bank having filed ‘Form-C’ as a financial
+creditor which claim was admitted Canara Bank has submitted itself to the
+jurisdiction of the CIRP process and having participated in all CoC Meetings,
+it is not open for the Canara Bank now to contend that there was no debt.
+There was disbursement within meaning of Section 5(8) of the IBC by the
+financial creditor to the corporate debtor. Authum Investment &
+Infrastructure Limited’s predecessor i.e., RCFL has never approved the alleged
+assignment, the Scheme of Demerger had already taken effect post vesting
+RCFL entitlement to recover the debt from corporate debtor which stood
+assigned to RCFL. Application filed under Section 65 by the Canara Bank
+was nothing but an application to recall the order of admission. Allegation of
+collusion has no basis. The admission order by NCLT itself notices the
+application was fully contested by the corporate debtor. Mere fact that appeal
+against the admission order was withdrawn by suspended director cannot be
+basis to infer any collusion. Application under Section 65 need to be based
+on cogent pleadings and particulars of fraud which is wholly absent in the
+application under Section 65 of the Code. There is no prohibition of
+submitting resolution plan by Members of the CoC. All pleas which are sought
+to be raised by Canara Bank in its application under Section 65 were already
+taken by the corporate debtor in reply to Section 7 application, which were
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+10 of 26
+
+considered and rejected. The said issues cannot be allowed to be reagitated
+by means of Section 65 application. Admission order was passed on
+13.02.2024 and Canara Bank application under Section 65 was filed on
+10.01.2025. Canara Bank has filed a financial claim in the CIRP and has
+participated in the Meeting of the CoC as Member of the CoC. Adjudicating
+authority has rightly rejected the application.
+7.
+Learned counsel for the financial creditor in support of Comp. App. (AT)
+(Ins.) No. 588/2025 contended that there being no merit in application under
+Section 65 and the adjudicating authority having refused prayers in Section
+65 application there was no occasion for issuing any direction to conduct a
+Forensic Audit. The direction of the adjudicating authority in paragraph 12.8
+deserves to be set aside.
+8.
+We have considered the submissions of the counsel for the parties and
+perused the records.
+9.
+The order impugned has been passed by the adjudicating authority on
+an application filed by Canara Bank under Sections 65 & 75 of the IBC. The
+prayers made in the application I.A. No.595/2025 has been quoted in
+paragraph 1 of the impugned order, which is as follows:
+“i. This Tribunal be pleased to allow the present
+Application;
+ii. This Tribunal be pleased to take on record and
+consider the facts and documents mentioned by the
+Applicant in the present Application;
+iii. That this Hon'ble Tribunal be pleased to pass orders
+dismissing the Company Petition No.383 of 2023;
+iv. That this Tribunal be pleased to pass an order
+imposing heavy penalty under Section 65 of the
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+11 of 26
+
+Insolvency
+and
+Bankruptcy
+Code
+upon
+the
+Respondents i.e. the Financial Creditor, Corporate
+Debtor and Resolution Professional;
+v. That this Tribunal be pleased to pass an order
+imposing heavy penalty under Section 75 of the
+Insolvency
+and
+Bankruptcy
+Code
+upon
+the
+Respondents i.e. the Financial Creditor, Corporate
+Debtor and Resolution Professional;
+vi. That this Tribunal be pleased to pass orders
+directing The Insolvency and Bankruptcy Board of
+India ("IBBI") to conduct inquiry regarding ex-facie
+collusion between the Resolution Professional, RCFL,
+Corporate Debtor and the Respondent No.4 Prospective
+Resolution Applicant ("PRA");
+vii. This Tribunal be pleased to pass orders directing a
+detailed inquiry through appropriate Investigation
+Agency of Government of India, Serious Fraud
+Investigation Office ('SIFO") into the affairs of the
+Financial Creditor, Corporate Debtor, Resolution
+Professional and Prospective Resolution Applicant,
+viii. pending the hearing and final disposal of the
+present Application the Respondent No. I be restrained
+from opening and placing the Resolution Plan (if any)
+before the CoC;
+ix pending the hearing and final disposal of the present
+Application the Respondent No. I be restrained from
+taking further steps in respect of CIRP of the Corporate
+Debtor;
+x. Pending the hearing and final disposal of the present
+Application the CIRP of the Corporate Debtor be kept in
+abeyance.”
+10.
+Submission which has been advanced by the learned counsel for the
+Canara Bank, the basis of argument and basis of application under Section
+65 is that there was no debt in existence on the date when application under
+Section 7 was filed by financial creditor – RCFL. The basis of such argument
+is that as per addendum dated 16.10.2017, the corporate debtor has assigned
+the debt the ABC Pvt. Ltd. and in the financial statement of the corporate
+debtor although debt was reflected to the financial creditor in the year 2017-
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+12 of 26
+
+18, 2018-19 & 2019-20, but thereafter in the financial statement the debt
+shown in the name of ABC Pvt. Ltd., which clearly means that debt was
+assigned to ABC Pvt. Ltd. and no debt existed payable to the financial creditor
+and very basis for initiation of CIRP was malicious and fraudulent.
+11.
+It is relevant to notice that in Section 7 application which was filed by
+the financial creditor – RCFL, the corporate debtor has filed the reply and
+contested the application. The corporate debtor in its reply has also pleaded
+that there is no creditor/debtor relationship between the petitioner and the
+respondent and further no financial debt is owed by the corporate debtor to
+the said petitioner. The assignment of debt to ABC Pvt. Ltd. was clearly
+pleaded. The adjudicating authority in its admission order dated 13.02.2024
+has noticed the submissions of the corporate debtor in opposition to Section
+7 application. Under heading “C” in paragraph 26 & paragraph 27, following
+has been noticed:
+“C. That there is no financial debt owed by the
+Respondent to the Petitioner.
+i. The Respondent has contended that under the
+Facility Agreement the Applicant had never
+disbursed the amount of 73,32,00,000/-.
+ii. The Applicant has sought to rely upon a
+statement described as "Statement of Accounts
+maintained
+by
+the
+Financial
+Creditor
+in
+accordance with the Bankers Books Evidence Act,
+1891". However, upon bare perusal of this
+document it can be concluded that it cannot
+possibly be a statement of accounts under the
+Bankers Books Evidence Act, 1891. This is for the
+simple reason that the Applicant is not a bank,
+i.e., it is not a company incorporated under the
+relevant provisions of law for the purpose of
+conducting the business of banking. Rather, it is
+an admitted position that the Petitioner is a NBFC,
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+13 of 26
+
+i.e., a Nonbanking Finance Company. Hence, it
+would have produced bank statements.
+iii. Moreover, the amount of Rs. 23,00,00,000/-
+was not disbursed by the Applicant in reality, but
+the amount was shown to have been transferred
+only through a journal entry.
+iv. The Respondent has contested the invoices
+raised by Reliance Money Solutions Private
+Limited and Reliance Securities Limited, wherein
+the amounts of these invoices correspond exactly
+with the purported and alleged disbursals by
+Reliance Capital Limited to Advantage Oversees
+Pvt. Ltd. According to the Respondent, these
+appear to be accounting adjustments. The same
+contentions have been made by the respondent as
+regards the amount of Rs. 50,32,00,000/-
+claimed by the Applicant. Further, no actual
+amounts were transferred either to Cinema
+Ventures Pvt. Ltd. or the Respondent.
+27. Vide the Additional Affidavit the Corporate Debtor
+submitted that the 'debt' forming subject matter of the
+present Application was assigned by the Corporate
+Debtor to Asian Business Connections Pvt. Ltd. based
+on a right of assignment given to the Corporate Debtor
+under an alleged Addendum dated 16.01.2017. It is
+stated that no amount is shown as payable by the
+Corporate Debtor under the Facility Agreement for the
+financial year ending on 31.03.2021 since this debt
+was assigned to Asian Business Connections Pvt. Ltd.
+with effect from 30.09.2020.”
+12.
+The plea which is now sought to be raised by Canara Bank in
+application under Section 65 was thus clearly pleaded and contended by the
+corporate debtor before the adjudicating authority when Section 7 application
+came for consideration. Adjudicating authority has considered the
+submission and held that corporate debtor has shown in its books of account,
+the financial creditor as financial creditor. It was held that corporate debtor
+has declared the applicant as financial creditor in its audited financial
+statement drawn after the effective date. The adjudicating authority has also
+noticed the demerger scheme which was approved by order dated 09.12.2016
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+14 of 26
+
+by Bombay High Court under Sections 391 – 394 of the Companies Act, 2013.
+The findings have been recorded by adjudicating authority in paragraph 31
+holding that corporate debtor has declared the applicant as the financial
+creditor. Corporate debtor is in default. In paragraphs 31 & 32 of the
+judgment dated 13.02.2024 is as follows:
+“31. The Corporate Debtor has also raised an issue of
+privity of contract stating that the facility agreement
+was entered between Reliance Capital Limited and
+Corporate Debtor after the appointed date of demerger,
+accordingly the financial creditor is not the creditor of
+the Corporate Debtor. We find that under the demerger
+scheme,
+the
+commercial
+finance
+division
+was
+demerged and said loan was granted by Reliance
+Capital Limited’s Commercial Finance Division after
+the appointed date but before the effective date. It is in
+public knowledge that the affairs of a company are
+carried by the respective Company’s in their own name
+after the appointed date and the arrangement takes
+affect only after necessary approvals as required
+under Companies Act are obtained and the laid down
+procedure are followed. It is undisputed fact that the
+whole of the Commercial Finance Division was
+demerged into a separate company which came into
+existence as the Applicant after the effective date and
+the assets and liabilities of the said Commercial
+Finance Division became the assets and liabilities of
+the Applicant. Further, the Corporate Debtor has
+declared the Applicant as its Financial Creditor
+audited Financial Statement drawn after the effective
+date and so is the case with the Applicant as well.
+Accordingly, we find that the loan agreements entered
+into in the name of Reliance Finance Ltd is to transfer
+to the Applicant upon the scheme of demerger
+becoming affected. Hence the objection as to the
+absence of privity of contract between the parties has
+no merit.
+32. The application made by the Financial Creditor is
+complete in all respects as required by law. It clearly
+shows that the Corporate Debtor is in default of a debt
+due and payable and the default is in excess of
+minimum amount stipulated undersection 4(1) of the
+IBC. Therefore, the debt and default stand established
+and there is no reason to deny the admission of the
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+15 of 26
+
+Petition. In view of this, this Adjudicating Authority
+admits this Petition and orders initiation of CIRP
+against the Corporate Debtor.”
+13.
+When we look into the application which has been filed by Canara Bank
+under Section 65, it is clear that applicant, Canara Bank is seeking re-
+adjudication of the issue of debt and default by means of Section 65
+application. The plea which are sought to be raised by the Canara Bank in
+its application under Section 65 is that the debt having been assigned to ABC
+Pvt. Ltd. on 30.09.2020, there was no debtor/creditor relationship between
+the financial creditor and the corporate debtor, hence CIRP proceedings need
+to be terminated by dismissing company petition. What is sought to be
+contended by Canara Bank in its application is the same pleas which
+corporate debtor already raised before the adjudicating authority objecting to
+Section 7 application, which pleas were rejected. Adjudicating authority
+having found debt and default and admitted Section 7 application, which
+order also came to be challenged by a suspended director in the appeal before
+this Tribunal, which appeal was subsequently withdrawn.
+14.
+We are conscious that the mere fact that admission order has been
+passed under Section 7, which was not challenged by the Canara Bank before
+the Appellate Tribunal. Canara Bank was not precluded to file a Section 65
+application before the adjudicating authority for terminating the CIRP. Law
+is well settled that admission order Section 7 is not a reason for not
+considering Section 65 application on its merits. Section 65 application is a
+power given to the adjudicating authority to terminate a proceeding initiated
+under Section 7 or Section 9 provided it is satisfied that insolvency resolution
+proceedings have been fraudulently or with malicious intent has been
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+16 of 26
+
+initiated. Present is the case where financial creditor has initiated Section 7
+application on the basis of financial facilities sanctioned to the corporate
+debtor by sanction letter dated 16.01.2017. It is also not disputed that
+corporate debtor in its financial statements in the year 2017-18, 2018-19 &
+2019-20 has continuously shown the debt in the name of financial creditor.
+The ground taken by Canara Bank of assignment of debt by the corporate
+debtor on the basis of addendum dated 16.10.2017 in favour of ABC Pvt. Ltd.
+was raised before the adjudicating authority in Section 65 application which
+has been considered. The claim of the assignment has been dealt with by the
+adjudicating authority in paragraphs 8.9, 8.10 & 8.11, which are as follows:
+“8.9. At the outset, the documents, placed before a
+Court or quasijudicial authority in a proceeding before
+it, are deemed to be taken note and it cannot be said
+that these documents had escaped attention of this
+Tribunal while delivering its Order in the said
+proceedings merely because such document or plea is
+not dealt with in the Order. It is pertinent to refer the
+Clause 3,of the Addendum to Sanction Letter dated
+16.1.2017 along with the Audited Financial Statement
+of the Corporate Debtor for the year ended on
+31.3.2021. The Clause 3 of the Addendum states that:
+"That the Party of the First Part shall have the
+right to assign the subsisting loan with accrued
+interest as per the Said Letter to any of its group
+entity i.e. Asian Business Connections Private
+Limited or its subsidiaries and/ or its associates/
+affiliates at the sole discretion of AB CPL
+(hereinafter referred to ''Assignee" in case if the
+below event triggers which is more particularly set
+out herein:
+i. in case, the First Party decides to sell the
+assets of the Company; or
+ii. in case, the Second Party decides to sell
+the shares of the Company."
+8.10. The assignment of debt pursuant to power vested
+in Corporate Debtor is stated to have taken place on
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+17 of 26
+
+30.9.2020. Clause 3 vests such power in two scenarios
+i.e. (i) in case, Corporate Debtor decides to sell its
+shares, or (ii) ABCPL decides to sell its shareholding in
+Corporate Debtor. We had noted that the Audited
+Financial Statements for the year ended 31.3.2021
+have been drawn on going concern basis, and the
+value of Properties has been reported at its carrying
+value, which is permissible under IND AS only in cases
+where the management has not resolved to put assets
+for its sale. Further, the shareholding of RCFL is
+reported to be held by ABCPL as on 31.3.2020 as well
+as on 31.3.2021 and these financial statements were
+signed by the directors appointed by ABCPL, thus not
+reflecting intent of ABCPL to dispose of its shareholding
+in Corporate Debtor (Nonetheless, ABCPL continues to
+remain holding company of Corporate Debtor as per
+financial statement for the year 2023-24 also). Further,
+the case pleadings do not reveal that the Corporate
+Debtor
+placed
+on
+record
+any
+submission
+demonstrating arising of conditions contemplated in
+Clause 3 of the Addendum. All these facts were before
+this Bench and duly considered. Accordingly, this
+Bench did not take note of fact of assignment and
+passed the Order dated 13.2.2024 on the basis of
+pleadings before it. The debt, in question, is admitted
+in the audited financial statements of the Corporate
+Debtor for the year ended on 31.3.2018 onwards upto
+31.3.2020, where after it ceased to be reported on
+account of purported assignment of debt to ABCPL
+pursuant to authorisation stated to be given to
+Corporate Debtor in terms of Addendum dated
+16.1.2017. The Applicant can be said to be aware of
+the said loan, as appearing in the audited financial
+statement of the Corporate Debtor from 31.3.2018
+onwards even prior sanction of its credit facilities to the
+Corporate, as clause 13 of Other Terms & Conditions
+appended to its Sanction · Letter for Lease Rental
+Discounting facility provides for supply of "Audited
+Financial Statement along with Audit report of the
+company as well as Due. Diligence Certificate within
+seven months from the closure of the financial year.
+Penal interest shall be charged @ 1%p.a.".
+8.11. This takes us to suppression of fact that RCFL
+had not reported the said Credit facility to NeSL, as the
+same is not reflecting in their records. However, we
+find that RCFL had placed on record a CIBIL report
+dated 23.1.2023 which duly records the particulars in
+relation to debt in question. Accordingly, we are of
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+18 of 26
+
+considered view that it cannot be said that the Order
+dated
+13.2.2024
+was
+obtained
+by
+fraud
+or
+misrepresentation.
+Hence,
+this
+Tribunal
+cannot
+exercise its power to recall the said Order dated
+13.2.2024. It is trite law that this Tribunal does not
+have power to review its own Order. Accordingly, it
+cannot proceed to decide the issue again at this stage
+whether there was disbursal of loan so as to constitute
+a financial debt after having dealt with this aspect vide
+Para 30 of the Order.”
+15.
+Adjudicating authority thus has also found that there is no pleading
+which may reveal that corporate debtor placed on record any submission
+demonstrating arising out of conditions contemplated in Clause 3 of
+addendum for exercising the right of assignment.
+16.
+We are of the view that Bank of Baroda cannot be allowed to raise the
+issue that there was no debt and default on the date when Section 7
+application was filed or admitted, the said question having already been
+decided while admitting Section 7 application after taking into consideration
+the plea of the corporate debtor which plea also was based on the assignment
+of debt in favour of ABC Pvt. Ltd. After noticing the said assignment, the
+adjudicating authority found the debt and default, admitted Section 7
+application.
+17.
+Proceeding under Section 65 application has to be based on specific
+pleadings and materials to show that initiation of CIRP was malicious and
+fraudulent. Financial creditor, RCFL which took over the receivables of
+Reliance Capital Ltd. by virtue of order of the Bombay High Court dated
+09.12.2016 and financial creditor was shown as financial creditor in the
+financial statement of the corporate debtor admittedly in 2017-18, 2018-19 &
+2019-20, we do not find initiation of CIRP process by the financial creditor
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+19 of 26
+
+malicious or fraudulent. The addendum which is basis for assignment of debt
+by corporate debtor to ABC Pvt. Ltd. has also been examined by the
+adjudicating authority in the impugned order. Admittedly the RCFL was not
+party to the addendum and assignment of debt took place on 30.09.2020.
+Adjudicating authority in the impugned order dated 04.03.2025 has also
+noticed the Minutes of 8th CoC Meeting in paragraph 8.2, where it has been
+noticed that the corporate debtor has transferred the debt to ABC Pvt. Ltd.
+without obtaining a No Objection Certificate (NoC) from the lender RCFL. We,
+thus are satisfied that there was not sufficient material on the record to hold
+that filing of Section 7 application by financial creditor is malicious or
+fraudulent initiation of CIRP.
+18.
+Learned counsel for the Canara Bank in support of his submission has
+placed reliance on the judgment of this Tribunal in [Comp. App. (AT) (Ins.)
+No. 42/2022] in the matter of ‘Hindalco Industries Ltd.’ Vs. ‘Hirakud
+Industrial Works Limited & Ors.’, where in paragraph 62 of the judgment,
+following was laid down:
+“62. We, thus, find that while the financial creditor
+Nandakini has claimed a financial debt, evidently
+there is no document included in the Form 1 application
+in proof of any loan agreement and/or disbursement of
+the said loan. A purported proof of the disbursement of
+the said loan has been filed by the corporate debtor in
+the form of its balance sheet, but notably there is no
+balance sheet or ledger account of the financial creditor
+for the same financial year showing such a loan. We
+further find that no document or record regarding
+entries in the banker books in accordance with the
+Bankers Book Evidence Act, 1891, which are required
+to be furnished by the financial creditor along with
+Form 1 application under section 7 was filed by the
+Nandakini.”
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+20 of 26
+
+19.
+In the present case, Facility Agreement between the financial creditor
+and corporate debtor is on the record. The balance sheets of the corporate
+debtor immediately after disbursal of the loan reflect the loan in the books of
+the corporate debtor, thus the facts which were noticed in paragraph 62 of
+the
+judgment
+of
+‘Hindalco
+Industries
+Ltd.’
+(supra)
+are
+clearly
+distinguishable. In paragraph 97, following was laid down:
+“97. Section 65 of the IBC prescribes a stringent
+punishment, which may be a penalty extending up to
+Rs. one crore for fraudulent and malicious initiation of
+the CIRP. In such a background, we are of the clear
+view that the initiation of CIRP was done fraudulently
+by the corporate debtor working in collusion with
+financial creditor Nandakini and therefore such
+fraudulent initiation of CIRP started
+with the
+admission order under section 7 is liable to be set
+aside. Therefore, taking recourse to section 65 of the
+IBC, we set aside the admission order of the section 7
+application as its basis, the section 7 application, and
+loan therein which is claimed to be due and in default
+are found to be fraudulent.”
+20.
+There cannot be any dispute to the proposition laid down in the case,
+when initiation of CIRP was done fraudulently with the corporate debtor
+working in collusion with the financial creditor, admission under Section 7 is
+liable to be set aside.
+21.
+Another judgment relied by the counsel for the appellant is judgment of
+this Tribunal in [Comp. App. (AT) (Ins.) No.1480/2024] in the matter of ‘M/s.
+Acute Daily Media Private Limited & Ors.’ Vs. ‘M/s. Rockman
+Advertising and Marketing India Ltd. & Ors.’, whereas this Court was
+considering the appeal filed against the order of the adjudicating authority
+dated 12.06.2024, where adjudicating authority has allowed the Section 65
+application and terminated the CIRP. In the above judgment, this Tribunal
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+21 of 26
+
+has noticed the facts and reasons. This Tribunal has affirmed the order of
+the adjudicating authority terminating the Section 7 application. This
+Tribunal found that CIRP proceedings were initiated by suppression of
+relevant material. It was further reiterated that there is no embargo on the
+adjudicating authority to exercise its discretion in Section 65 application,
+even if admission order has attained finality. In paragraphs 31 to 33,
+following was laid down:
+“31. We have no quarrel with the proposition of the
+Appellants that in terms of Section 7 of the IBC, what
+is required to be seen is the existence of a debt and
+default of the said debt. Once a debt becomes due or
+payable and there is incidence of non-payment of the
+said debt in full or part, CIRP may be triggered by the
+Financial Creditor as long as the amount in default is
+above the threshold limit. Be that as it may, Section 65
+of the IBC is an enabling provision within the statutory
+framework of IBC whereby even if a Section 7
+application has been filed or has been admitted, it
+vests jurisdiction on the Adjudicating Authority to
+examine an application under Section 65, if a prima
+facie case is made out to show that the Section 7
+application had been filed ‘fraudulently’ or ‘with
+malicious intent’ and for purpose other than resolution
+of insolvency or liquidation. In the present case too, we
+therefore do not find any error on the part of the
+Adjudicating Authority to consider the Section 65
+application filed by the Respondent No.1 on being
+prima facie satisfied that the Section 7 application
+seeking initiation of CIRP proceedings had been filed
+by suppression of relevant material for purposes other
+than insolvency resolution. There is no statutory
+embargo on the Adjudicating Authority to exercise its
+discretion carefully and judiciously in a Section 65
+application to prevent and protect the Corporate Debtor
+from being dragged into CIRP. This is a well settled
+proposition of law and the Adjudicating Authority has
+drawn reference to the binding precedents laid down
+by this Tribunal which have already been noticed at
+paragraph 30 above. We are therefore not much
+impressed by the argument of the Appellants that the
+Section 7 order of 17.05.2022 having attained finality,
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+22 of 26
+
+it cannot be relooked into by the Adjudicating Authority
+even when a Section 65 application is filed.
+32. While returning our findings on the tenability of the
+impugned order, we must at the very outset add that
+that to prove any transaction to be collusive and
+fraudulent in nature, the degree of proof and evidence
+required should be beyond reasonable doubt and we
+propose to apply the same standard of proof to the
+facts of the present case.
+33. When we see the material on record, we have no
+doubt that there was disbursal of money by the
+Financial Creditors to the Corporate Debtor. From
+available records, we also agree that the receipt of this
+amount by the Corporate Debtor has not been
+controverted by the Corporate Debtor. Neither has any
+claim been made that this entire sum was paid by the
+Corporate Debtor. That being the case, there was
+outstanding payment on the part of the Corporate
+Debtor qua the Appellants which remained unpaid
+leading to a default. Basis this premise, we notice that
+the Adjudicating Authority on 17.05.2022 had initiated
+CIRP of the Corporate Debtor in terms of Section 7 of
+IBC. However, when the Section 65 application was
+filed, the Adjudicating Authority took cognizance of the
+fact that several facts had not been placed before the
+Adjudicating
+Authority
+during
+the
+Section
+7
+proceedings which culminated in the order of
+17.05.2022. The question which needs to be answered
+is whether the Adjudicating Authority in the impugned
+order was correct in coming to the conclusion that in
+the absence of knowledge of these material facts, for
+reasons of having been either falsified or suppressed,
+the earlier order of 17.05.2022 failed to note that
+routine business transactions were fraudulently given
+the colour and character of loan transactions to bring
+them within the meaning of Section 5(8) of the IBC. It
+may also not add be out of place to take note of the fact
+that when the Section 7 application was being
+considered
+by
+the
+Adjudicating
+Authority,
+the
+promoters
+of
+the
+Corporate
+Debtor
+kept
+the
+Adjudicating Authority in the dark about the ongoing
+OMP.”
+22.
+This Tribunal recorded its conclusion in paragraph 40, which is as
+follows:
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+23 of 26
+
+“40. While there is no quarrel over the fact that Section
+7 vests rights on the financial creditors to initiate CIRP
+proceedings against the defaulting Corporate Debtor,
+however, debt and default cannot always be seen in
+isolation. We cannot be unmindful of the fact that the
+Adjudicating Authority is also required to take care
+that the provisions of Section 7 of IBC are not misused
+or abused in any manner either by the financial
+creditor or the promoters of the Corporate Debtor to
+take undue advantage at the cost of insolvency
+resolution. Present is a case where the promoters of the
+Corporate Debtor and the Financial Creditors in trying
+to create a non-existent financial debt out of routine
+business
+entries,
+have
+ended
+up
+unwittingly
+committing
+lapses
+which
+lapses
+when
+seen
+cumulatively points to a web of conspiracy and
+collusion on their part to create a contrived situation of
+debt and default. The mistakes and infirmities
+committed by the Appellants in the process are not one-
+off or stand-alone mistakes or inadvertent errors.
+These errors are also grave in that it also included
+violation of other statutes like Companies Act. When
+we take a comprehensive and holistic view of the entire
+conspectus of facts and circumstances, we find that
+there is ample proof to show that the Section 7
+application was a motivated attempt to bring the
+Corporate Debtor into the rigours CIRP proceedings.
+The bonafide of the Appellants in the filing of the
+Section 7 application is clearly doubtful. Viewed from
+the angle of the totality of circumstances, the findings
+of the Adjudicating Authority that the insolvency
+proceedings in C.P.(IB)-50(PB)/2021 resulting in the
+order dated 17.05.2022 were initiated fraudulently
+and with malicious intent for a purpose other than the
+resolution of the insolvency of the Corporate Debtor, is
+neither dehors the records nor unwarranted. When
+such fraudulent CIRP proceedings are initiated, the
+Adjudicating Authority has jurisdiction under the IBC
+to consider the allegations of fraudulent and malicious
+initiation of CIRP proceedings in terms of Section 65
+and recall the CIRP admission order.”
+23.
+There can be no dispute to the proposition laid down by the Tribunal in
+the above case in exercise of power under Section 65 even though admission
+order has become final, the Tribunal can terminate the CIRP proceedings
+which is initiated fraudulently and with malicious intent.
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+24 of 26
+
+24.
+Another judgment relied by the counsel for the appellant is [Comp. App.
+(AT) (Ins.) No.1733/2024] in the matter of ‘Mr. Vidyadhar Sarfare and Anr.’
+Vs. ‘CS Anagha Anasingaraju & Ors.’, in which judgment, this Tribunal
+has relied on the earlier judgment of this Tribunal in ‘Hindalco Industries
+Ltd.’ (supra) and reiterated the same proposition which we have already
+noticed above.
+25.
+We have already noticed above that Canara Bank in the present case
+has filed its financial claim in ‘Form-C’ which was admitted by IRP, appellant
+is also Member of the CoC with 28.24% vote shares and appellant has
+participated in CIRP process having participated in the Meetings of the CoC
+held from time to time, from First CoC Meeting which was held on 12.03.2024
+till 10th CoC Meeting held on 07.04.2025. Before filing an application under
+Section 65, Canara Bank has also filed application before the adjudicating
+authority seeking a direction to the IRP to provide documents of loan of
+Authum Investment & Infrastructure Ltd., which application was rejected,
+which was also sought to be challenged by Canara Bank by filing an Comp.
+App. (AT) (Ins.) No.1818/2024, which appeal was withdrawn by Canara Bank.
+The Canara Bank having filed its claim in the CIRP having participated in the
+CoC Meeting as Member of the CoC and having also filed application for
+certain documents, after more than 10 months filed an application under
+Section 65 to agitate the plea that there was no debt in existence when Section
+7 application was filed.
+26.
+We, thus are of the view that in the application filed by Canara Bank
+under Section 65, there is no such pleading or material brought on record, on
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+25 of 26
+
+which this Tribunal can come to the conclusion that initiation of insolvency
+resolution process by financial creditor was fraudulent or with malicious
+intent. Financial creditor has initiated the proceedings on the basis of debt,
+which was transferred to it by virtue of order of the Bombay High Court dated
+16.12.2016. The financial creditor i.e., RCFL was not party to the assignment
+of debt by corporate debtor to ABC Pvt. Ltd. and the financial creditor in the
+proceedings has contested the alleged assignment. We, thus are satisfied that
+no such grounds and materials were brought by the Canara Bank on which
+adjudicating authority could have exercised jurisdiction under Section 65 for
+terminating the CIRP process. We, thus uphold the order of the adjudicating
+authority not exercising jurisdiction under Section 65 in the facts of the
+present case.
+27.
+Now we come to the appeal filed by the financial creditor being Comp.
+App. (AT) (Ins.) No.588/2025, which appeal is limited to challenging the
+directions issued by adjudicating authority in paragraphs 8.12. Prayer 21A
+of the Comp. App. (AT) (Ins.) No.588/2025 is to the following effect:
+“21. RELIEFS SOUGHT
+In view of the facts mentioned in Para 7 above, points
+in dispute and questions of law set out in Para 8, the
+Appellant prays for the following relief (s);
+a) Set aside the Order dated March 25, 2025
+passed by the Hon'ble National Company Law
+Tribunal, Mumbai (Bench I) in Interlocutory
+Application No. 5247 of 2024 in Company Petition
+(IB) No. 3528 of 2018 to the extent it rejects the
+claim of the Appellant for CIRP Costs;”
+28.
+The above order directing the RP to conduct the Forensic Audit was in
+application under Section 65, when the adjudicating authority decided not to
+
+[PAGE 26]
+Comp. App. (AT) (Ins.) No. 556 & 588 of 2025
+26 of 26
+
+exercise jurisdiction under Section 65 of the Code, we are of the view that no
+further order was required in the said application.
+29.
+In the prayers which have been noted by the adjudicating authority in
+paragraph 1 of the impugned order as extracted above, there was not even a
+prayer for directing any Forensic Audit to be conducted in the CIRP process.
+We, thus are of the view that direction as contained in paragraphs 8.12 cannot
+be sustained.
+30.
+In result of the aforesaid discussions, Comp. App. (AT) (Ins.)
+No.556/2025 is dismissed and Comp. App. (AT) (Ins.) No.588/2025 is
+allowed.
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+NEW DELHI
+17th April, 2026
+himanshu

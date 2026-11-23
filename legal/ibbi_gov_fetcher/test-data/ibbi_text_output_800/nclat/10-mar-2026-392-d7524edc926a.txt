@@ -1,0 +1,1070 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+
+(Arising against the impugned order dated 09.01.2026 passed by the Ld.
+National Company Law Tribunal, Delhi Bench in I.A. No. 4269 of 2024 and
+I.A. No. 5798 of 2025 in Company Petition (IB) No. 197 (PB) of 2017)
+
+IN THE MATTER OF:
+
+Ramachandran Subramanian,
+Erstwhile Liquidator of Tecpro Systems Limited
+
+...Appellant
+
+Versus
+
+1. Anil Kohli, New Liquidator of Tecpro Systems
+Limited, ARCK Resolution Professionals LLP, New
+Delhi.
+
+2. Edelweiss
+Asset
+Reconstruction
+Company
+Limited (EARCL).
+
+3. Bank of Baroda, Chennai.
+
+4. Assets Care and Reconstruction Enterprise
+Ltd. (Assignee of Standard Chartered Bank).
+
+5. Pegasus Asset Reconstruction Company Ltd.
+(Assignee of IndusInd Bank).
+
+...Respondent No.1
+
+...Respondent No.2
+
+...Respondent No.3
+
+...Respondent No.4
+
+...Respondent No.5
+
+Present:
+
+For Appellant: Mr. Gaurav Mitra, Mr. Mohit Singh, Ms. Garima Jain,
+Ms. Arushi Mishra, Advocates.
+For Respondents:
+Mr. Sandeep Bajaj, Ms. Aakansha Nehra, Mr. Mayank
+Biyani, Mr. Shubham Jaiswal, Mr. Raj, Mr. N.S. Aulakh,
+Advocates for R-1.
+Mr. Arvind Nayyar, Sr. Advocate, Ms. Nisha, Ms. Charu
+Bansal, Ms. Diksha, Advocates for EARCL.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+J U D G M E N T
+(10th March, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+The present Appeal has been preferred by Mr. Ramachandran
+Subramanian, Erstwhile Liquidator of Tecpro Systems Limited under
+Section 61 of the Insolvency and Bankruptcy Code, 2016, challenging the
+Order dated 09.01.2026 passed by the Ld. National Company Law Tribunal,
+Delhi Bench (Adjudicating Authority) in I.A. No. 4269 of 2024 and I.A. No.
+5798 of 2025 in Company Petition (IB) No. 197 (PB) of 2017. By the said
+order, the Adjudicating Authority dismissed the application filed by the
+Appellant seeking declaration of Edelweiss Asset Reconstruction
+Company Limited (Respondent No. 2) as a “related party” under Section
+5(24) of the IBC and also allowed the application filed by Respondent No. 2
+for replacement of the Appellant as Liquidator. Consequently, Mr. Anil Kohli,
+New Liquidator of Tecpro Systems Limited (Respondent No. 1) was brought
+into the proceedings in his capacity as the newly appointed Liquidator. The
+other respondents in this proceeding are Bank of Baroda (Respondent
+No.3); Assets Care and Reconstruction Enterprise Ltd., assignee of Standard
+Chartered Bank (Respondent No. 4), and Pegasus Asset Reconstruction
+Company Ltd., assignee of IndusInd Bank (Respondent No. 5), all being
+stakeholders in the liquidation process of the Corporate Debtor. The
+Appellant, being aggrieved by his removal on the basis of voting share
+allegedly influenced by a creditor claimed to be a related party, has
+approached this Appellate Tribunal seeking setting aside of the Impugned
+Order.
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+Brief facts of the case
+2.
+The brief facts of the case are as given below:
+i.
+The Corporate Debtor, Tecpro Systems Limited, came under financial
+distress, at this stage, State Bank of India, which was the main
+Financial Creditor of CD assigned its debt of about Rs. 2200 crores to
+Respondent No. 2 – Edelweiss Asset Reconstruction Company Limited
+(EARCL), on 03.03.2015 for a consideration of approximately Rs. 171
+crores. Respondent No. 2 subsequently acquired further stakes from
+other lenders and thereby became the dominant financial creditor.
+ii.
+Following such acquisition during the year 2015, EARCL actively
+participated in the management and affairs of the Corporate Debtor by
+forming committees, stipulating escrow mechanisms, corresponding
+directly with clients and engaging Ernst & Young LLP (EY) under an
+agreement dated 16.09.2015 for monitoring and advisory service.
+iii.
+During a meeting held on 13.09.2017, the Committee of Creditors was
+informed that EY had already been engaged by EARCL since
+16.09.2015 for project monitoring and cash flow supervision with
+respect to the Corporate Debtor, and thereafter on 16.09.2017 the
+erstwhile Resolution Professional entered into a restructuring and IBC
+advisory agreement with EY for preparation of the Information
+Memorandum.
+iv.
+Respondent no. 2 EARCL filed a petition under Section 7 of the Code,
+which was admitted on 07.08.2017 and the Corporate Insolvency
+Resolution Process was initiated against the Corporate Debtor. Mr.
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+Venkatesan Sankaranarayanan was appointed as Interim Resolution
+Professional and later confirmed as Resolution Professional after
+constitution of the Committee of Creditors.
+v.
+During CIRP, the Committee of Creditors approved a Resolution Plan
+submitted by Kridhan Infrastructures Private Limited on 08.03.2019
+with 89.92% voting share, and the same was approved by the Ld. NCLT
+under Section 31 of the IBC on 15.05.2019; however, the Resolution
+Applicant failed to implement the plan and defaulted in fulfilling its
+equity infusion obligations within stipulated timelines.
+vi.
+Consequent upon failure CIRP, the Adjudicating Authority ordered the
+liquidation of the Corporate Debtor on 16.01.2020 and appointed the
+present Appellant as Liquidator to conduct the liquidation proceedings
+in accordance with the provisions of the IBC and the Liquidation
+Process Regulations.
+vii.
+Respondent No.2, EARCL filed I.A. No. 4349 of 2020 on 08.10.2020
+seeking replacement of the Liquidator, and parallel complaints were
+also filed before the IBBI; however, such attempts did not culminate in
+removal of the Appellant at that stage.
+viii.
+During the liquidation process, a property of the Corporate Debtor was
+auctioned in September 2022 yielding realization of approximately Rs.
+28.28 crores against prior valuation of around Rs. 24 crores, and issues
+arose regarding payment of alleged past dues of Rs. 7.89 crores to
+HSIIDC, which according to the Appellant was commercially and legally
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+justified in order to maximize value and ensure viability of the
+transaction.
+ix.
+Respondent No. 2 EARCL filed I.A. No. 5780 of 2023 on 13.10.2023
+seeking replacement of the Appellant as Liquidator. The application was
+disposed of by the Adjudicating Authority on 26.09.2024 based on the
+undertaking given by the Appellant, that he would conduct a meeting
+of Stakeholder’s Consultation Committee on 04.10.2024 on the agenda
+of replacement of existing liquidator.
+x.
+The Appellant filed I.A. No. 4269 of 2024 on 24.08.2024 seeking a
+declaration that EARCL/R-2 be treated as a “related party” under
+Section 5(24) of the IBC on account of its alleged managerial control
+over the Corporate Debtor prior to and during CIRP.
+xi.
+During meetings of the Stakeholders’ Consultation Committee held on
+04.10.2024, an agenda for replacement of the Appellant as Liquidator
+was considered, and voting was conducted between 17.10.2024 and
+18.10.2024, wherein the resolution for replacement was passed with
+92.35% voting share, out of which 84.82% voting share were attributed
+to EARCL.
+xii.
+Based on the resolution passed on 18.10.2024, EARCL/R-2 filed IA No.
+5798 of 2024 before Adjudicating Authority seeking replacement of
+Appellant with Shri Anil Kohli/R-1.
+xiii.
+Upon challenge and further judicial directions, a specific voting exercise
+was conducted on 17.07.2025 under the independent observation of
+Justice (Retd.) Sunil Gaur excluding the vote of EARCL, and in such
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+voting the resolution for replacement secured only about 59% voting
+share, thereby failing to meet the mandatory threshold of 66%
+prescribed under Regulation 31A(11) of the Liquidation Process
+Regulations.
+xiv.
+Despite the above, the Ld. NCLT by the Impugned Order dated
+09.01.2026 dismissed I.A. No. 4269 of 2024 seeking declaration of
+EARCL as related party and allowed I.A. No. 5798 of 2025, thereby
+directing replacement of the Appellant as Liquidator based on voting
+which, according to the Appellant, included invalid vote of a related
+party.
+xv.
+Aggrieved by the dismissal of his application and the consequential
+order permitting his removal as Liquidator, and contending that the
+Impugned Order violates Section 5(24), proviso to Section 21(2) of the
+IBC and Regulation 31A(11) of the Liquidation Process Regulations, the
+Appellant has preferred the present Appeal before this Appellate
+Tribunal on 01.02.2026 challenging the legality and correctness of the
+Impugned Order.
+
+Submissions of the Appellant
+3.
+At the outset, Ld. Counsel for the Appellant respectfully submits that
+the present Appeal has been preferred against the Order dated 09.01.2026
+(“Impugned Order”) passed by the Ld. NCLT, New Delhi Bench in I.A.
+4269/2024 and I.A. 5798/2025 in Company Petition (IB) No. 197 (PB)/2017.
+By way of the Impugned Order, the Ld. NCLT has (a) dismissed the
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+Appellant’s application (I.A. 4269/2024) seeking declaration of Respondent
+No. 2, Edelweiss Asset Reconstruction Company Limited (“EARCL”), as a
+‘related party’ of the Corporate Debtor (“CD”), and (b) allowed EARCL’s
+application (I.A. 5798/2025) seeking replacement of the Appellant as
+Liquidator of the CD.
+4.
+Ld. Counsel submits that during the tenure of the Appellant as
+Liquidator, the CD recovered approximately INR 620 Crores, which is
+significantly higher than the value of INR 470 Crores contemplated under
+the earlier Resolution Plan. Despite such demonstrable recovery and value
+maximization, the Appellant has been removed at the behest of an entity
+which is itself ineligible on account of being a related party.
+5.
+It is submitted that on 23.03.2015, EARCL acquired the entire
+stressed asset portfolio of the CD from State Bank of India for a consideration
+of INR 171 Crores, thereby acquiring control over assets valued in excess of
+INR 2700 Crores, including six immovable properties and 30% of the
+underlying equity, on an absolute ownership basis. Ld. Counsel submits that
+such acquisition was not a mere financial assignment but amounted to
+assumption of managerial control over the CD.
+6.
+Ld. Counsel further submits the following chronology to demonstrate
+EARCL’s pervasive control and conduct:
+i.
+In April 2015, EARCL facilitated an External Financing Support
+Agreement between the CD and CSPGCL for Rs. 55 Crores at 18%
+interest, while exercising control over the CD.
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+ii.
+Vide Agreement dated 16.09.2015 between EARCL and EY, various
+committees and Management Information Systems were established to
+manage the CD, even while the erstwhile top management continued,
+thereby reflecting direct operational structuring by EARCL.
+iii.
+On 07.08.2017, CIRP was initiated on a Section 7 application filed by
+EARCL and Mr. Venkatesan was appointed as IRP and subsequently
+confirmed as RP.
+iv.
+Since the Resolution Plan proposed by Kridhan Infrastructures Private
+Limited
+failed
+implementation,
+liquidation
+was
+permitted
+on
+16.01.2020 and the Appellant was appointed as Liquidator. The said
+order was unsuccessfully challenged before this Hon’ble Tribunal as
+well as before the Hon’ble Supreme Court, wherein EARCL supported
+the challenge by filing impleadment applications.
+v.
+In October 2020, EARCL filed I.A. 4349/2020 seeking removal of the
+Appellant as Liquidator, which came to be dismissed on the basis of
+an undertaking to cooperate with the SCC.
+vi.
+On 05.03.2021, the IBBI Disciplinary Committee passed an Order
+holding that the erstwhile RP acted under the influence of EARCL and
+violated statutory duties.
+vii.
+On 13.10.2023, EARCL filed a second application seeking replacement
+of the Appellant, which was dismissed vide Order dated 26.09.2024.
+viii.
+On 23.08.2024, the Appellant filed I.A. 4269/2024 seeking declaration
+of EARCL as a related party and for denuding its voting rights.
+ix.
+During 17–18.10.2024, voting was conducted for replacement of the
+Appellant wherein EARCL, holding 84.82% share, participated, and
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+the agenda was passed with 92.25% votes. Based on the said voting,
+EARCL filed I.A. 5798/2024 on 03.12.2024 seeking replacement.
+x.
+On 09.07.2025, the Ld. NCLT directed an independent voting exercise
+excluding EARCL under the supervision of Hon’ble Mr. Justice (Retd.)
+Sunil Gaur. On 17.07.2025, the said voting was conducted and the
+resolution for replacement secured only 59%, thereby failing to meet
+the statutory 66% threshold. Despite this, the Impugned Order dated
+09.01.2026 dismissed the Appellant’s application and allowed
+replacement.
+7.
+Ld. Counsel submits that the Impugned Order is unsustainable as the
+Ld. NCLT ignored material evidence demonstrating that EARCL qualifies as
+a related party. It failed to appreciate the IBBI Order which categorically
+recorded that the erstwhile RP was “guided by” EARCL and did not act
+independently. Further, the third Proviso to Regulation 31A(2) of the
+Liquidation Process Regulations bars a related party financial creditor from
+voting in the SCC. The replacement of the Appellant was proposed by EARCL
+itself, which also proposed the new Liquidator. Moreover, the Ld. NCLT’s own
+direction for independent voting excluding EARCL was rendered meaningless
+by ignoring the outcome wherein the replacement failed.
+8.
+Ld. Counsel submits that EARCL dictated the corporate management
+of the CD in multiple ways. It installed EY for day-to-day management,
+demonstrating conduct beyond agency and reflective of absolute ownership.
+It directed that employees take instructions exclusively from EY; mandated
+appointment of an EY representative as CRO and Board Observer; imposed
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+prior approval requirements for agendas; constituted and populated Core,
+Sub and Asset Sale Committees with its personnel; incorporated turnaround
+and restructuring within its agreement with EY; and ensured that all
+outgoing vendor payments required EY approval, with ultimate control
+resting with EARCL.
+9.
+Ld. Counsel further submits that the IBBI Order conclusively
+establishes EARCL’s undue influence. It records that EARCL used its 85%
+stake to unduly influence the CIRP process and that the RP violated Clause
+5 of the Code of Conduct by acting at the instance of EARCL. Emails dated
+14.11.2020 reveal admission that EY was engaged without competitive
+quotes merely because EARCL suggested continuation for operational
+convenience.
+10.
+Ld. Counsel submits that the finding of the Ld. NCLT characterizing
+the Appellant’s application as a ‘counterblast’ is erroneous. The Appellant
+was discharging fiduciary duties to preserve the integrity of the liquidation
+process. It was the Appellant’s refusal to facilitate handover of the CD to a
+disqualified Resolution Applicant that triggered repeated attempts by EARCL
+to remove him. Since October 2020, EARCL has persistently filed
+applications seeking removal. Further, EARCL suppressed its related party
+status and illegally exercised 85% voting rights, thereby diluting rights of
+genuine external creditors such as Standard Chartered Bank, Bank of
+Baroda and Pegasus ARC.
+11.
+Ld. Counsel submits that adjudication of the related party issue is a
+threshold jurisdictional issue. The Proviso to Section 21(2) of the IBC read
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+with the third Proviso to Regulation 31A(2) creates an absolute statutory
+embargo against voting by related party financial creditors. If EARCL is held
+to be a related party, its vote is void ab initio and any resolution based upon
+such vote is a nullity. Allowing such participation defeats the legislative
+intent behind the 2018 amendment to Section 5(24), intended to safeguard
+genuine external creditors.
+12.
+Lastly, Ld. Counsel submits that the Impugned Order itself records
+that no adverse remark shall be pursued against the Appellant and that his
+fee shall be paid in accordance with rules and regulations. The Appellant has
+already filed I.A. No. 610/ND/2026 seeking payment of dues, and notice has
+been issued on 09.02.2026. Without prejudice, in the event this Hon’ble
+Tribunal upholds replacement, a specific direction may kindly be issued to
+ensure expeditious adjudication of the said application so that the Appellant
+is compensated for services rendered.
+13.
+In view of the foregoing submissions, the Appellant prayed for setting
+aside the Impugned Order dated 09.01.2026 and allow the prayer made in
+I.A. 4269/2024 declaring EARCL as a related party and consequently hold
+that its participation and vote in the SCC are void, and restore the Appellant
+as Liquidator of the Corporate Debtor, along with such further orders as this
+Tribunal may deem fit in the interest of justice.
+Submissions of Respondent No. 1/ Liquidator Mr. Anil Kohli
+14.
+Ld. Counsel for Respondent No. 1 respectfully submits that the
+Preliminary Compliance of Impugned Order dated 09.01.2026 has been
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+made by the Respondent No. 1 by taking over charge as the newly appointed
+liquidator of the Corporate Debtor
+15.
+Ld. Counsel submits that pursuant to the Impugned Order,
+representatives of Respondent No. 1 visited the office premises of the
+Corporate Debtor on 02.02.2026 for taking charge. However, the Appellant
+informed telephonically that an appeal had been filed/is being filed and, on
+that ground, the handover process was not initiated by him.
+16.
+It is further submitted that due to complete non-cooperation from the
+Appellant, Respondent No. 1 was constrained to take charge of the premises
+and documents on an “as is where is” basis in the presence of Mr. Rohit
+Singh, an employee of the Corporate Debtor, since neither the Appellant nor
+his representatives appeared for formal handover. The documents available
+appeared to pertain only to the normal course of business, while insolvency
+process records could not be traced.
+17.
+Ld. Counsel submits that despite repeated requests, meetings and
+correspondence, complete handover of process documents and case-specific
+email credentials was not done. In view of multiple ongoing litigations and
+arbitrations involving substantial recoveries in favour of the Corporate
+Debtor, including matters where favourable awards have already been
+passed, Respondent No. 1 was compelled to file 2 applications viz.:
+i.
+I.A. No. 632 of 2026 seeking compliance of the Impugned Order, which
+was allowed on 11.02.2026; and
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+ii.
+Contempt Application No. 2 of 2026, which was listed on 13.02.2026
+and 18.02.2026 and stands adjourned to 27.02.2026.
+18.
+It is submitted that even before this Hon’ble Tribunal on 16.02.2026,
+despite statement of the Appellant’s counsel that charge would be handed
+over within the week, complete handover has still not been affected as on
+20.02.2026.
+19.
+Respondent No. 1 submits that a Liquidator does not possess any
+personal or vested right to continue in the liquidation process once the
+Adjudicating Authority has lawfully ordered his replacement.
+20.
+He places reliance upon the judgment of this Appellate Tribunal in
+Ranjeet Kumar Verma (Erstwhile IRP) v. Committee of Creditors of Straight
+Edge Contract Pvt. Ltd., Company Appeal (AT) (Ins.) No. 1129 of 2020,
+wherein it has been categorically held that an IRP/RP has no vested legal
+interest to continue and has no locus to maintain an appeal against
+replacement once the competent authority has taken a decision.
+21.
+Respondent No. 1 further places reliance upon ‘V. Venkata Sivakumar
+v. IDBI Bank Limited’, [2022 SCC OnLine NCLAT 1616], wherein this Hon’ble
+Tribunal held that a Liquidator does not have any personal right to continue
+in the liquidation process and that replacement by the Adjudicating
+Authority, in exercise of its jurisdiction, is not liable to interference.
+22.
+Ld. Counsel submits that in the present case, the jurisdiction of the
+Learned Adjudicating Authority to pass the replacement order has not been
+substantively challenged. No stakeholder has challenged the Impugned
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+Order. The Appellant, being merely a professional, cannot claim to be an
+“aggrieved person” under Section 61 of the Code, as no legal right of his
+stands infringed. Accordingly, the present appeal is not maintainable and
+deserves dismissal on this ground alone.
+23.
+Ld. Counsel submits that from the records, it is an admitted position
+that EARCL was a member of the Committee of Creditors from
+commencement of CIRP on 07.08.2017 (upon admission of CP (IB) 197 of
+2017 under Section 7 filed by EARCL) until liquidation was ordered on
+16.01.2020. It is submitted that EARCL held approximately 85% voting
+share in the CoC, which remained unchanged and was never challenged at
+any stage of CIRP, including when crucial commercial decisions were taken.
+24.
+It is submitted that the Appellant himself was appointed as Liquidator
+on 16.01.2020 based on the same composition and voting structure of the
+CoC, wherein EARCL held overwhelming majority. Having accepted
+appointment pursuant to such composition, the Appellant cannot now turn
+around and challenge the constitution of the CoC or the status of EARCL.
+25.
+It is further submitted that from 16.01.2020 (date of commencement
+of liquidation) till 23.08.2024 (date of filing I.A. No. 4269 of 2024 by the
+Appellant), no objection was ever raised by the Appellant regarding EARCL
+being a related party.
+26.
+This clearly demonstrates that the objection was an afterthought and
+raised only to derail the liquidation process and resist lawful replacement.
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+27.
+Ld. Counsel submits that the appointment of Respondent No. 1 has
+been made strictly in accordance with the provisions of the Insolvency and
+Bankruptcy Code, 2016 and pursuant to judicial directions of the Learned
+Adjudicating Authority. The Impugned Order was passed after due
+consideration of pleadings and material placed on record. No procedural
+illegality, perversity, or jurisdictional error has been demonstrated by the
+Appellant.
+28.
+He submitted that the entire conduct of the Appellant post
+replacement—non-handover of charge, non-cooperation, and continuation of
+representation—further reinforces the necessity and correctness of the
+Impugned Order.
+29.
+In light of the foregoing submissions, Ld. Counsel for Respondent No.
+1 respectfully submits that:
+
+The Appellant has no vested right or locus to challenge his
+replacement.
+
+The Impugned Order is lawful, reasoned and passed within
+jurisdiction.
+
+No stakeholder has challenged the replacement.
+
+The appeal is devoid of merit and is not maintainable under Section
+61 of the Code.
+
+The conduct of the Appellant post-Impugned Order further justifies
+dismissal of the appeal.
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+Accordingly, Learned Counsel prayed for dismissal of the present Appeal with
+costs.
+
+Submissions of Respondent No. 2/ EARCL
+30.
+Ld. Counsel for EARCL submits that the Impugned Order is well
+reasoned, factually correct, and legally sustainable. The Appellant has
+sought to misconstrue ordinary lender protection mechanisms as instances
+of managerial control so as to wrongly classify EARCL as a related party
+under Section 5(24) of the Insolvency and Bankruptcy Code, 2016 (“Code”).
+The allegations are factually incorrect, legally untenable, and devoid of any
+evidentiary basis.
+31.
+Ld. Counsel submits that the Appellant’s allegation is premised upon
+a fundamental misunderstanding of the nature of security interests. The
+shares referred to were not equity investments by EARCL, but pledged shares
+forming part of the original security package created in favour of SBI and
+later assigned to EARCL. Upon assignment, EARCL merely stepped into the
+shoes of the original lender and acquired the debt along with its underlying
+securities.
+32.
+It is submitted that the pledged shares were never invoked during the
+CIRP. Consequently, no ownership rights, voting rights, or management
+rights ever vested in EARCL. In law, a pledgee has only a limited right to
+retain and, upon default, invoke and sell the pledged securities. Until
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+invocation, ownership remains with the pledgor. Therefore, holding pledged
+shares cannot amount to management or policy control.
+33.
+Ld. Counsel further submits that acceptance of the Appellant’s
+argument would lead to an absurd result whereby every secured creditor
+holding pledged shares would automatically become a related party. Such
+interpretation would disqualify a vast class of secured financial creditors and
+is contrary to both statutory scheme and commercial reality.
+34.
+Ld. Counsel submits that EARCL never appointed or nominated any
+director to the Board of the Corporate Debtor. Mr. D. Venkatsubramaniam,
+an employee of Ernst & Young, was appointed merely as an observer in
+accordance with contractual lender rights. An observer is not recognised
+under the Companies Act, 2013 as a director and possesses no voting or
+statutory authority. The purpose of appointing an observer was limited to
+oversight in a distressed financial scenario to safeguard lender exposure.
+Oversight cannot be equated with management control.
+35.
+With respect to the email dated 16.12.2015 relied upon by the
+Appellant, Ld. Counsel submits that the communication merely required
+sharing of agenda and prior information. It did not confer veto rights,
+approval authority, or decision-making power upon EARCL. Lender oversight
+in distressed accounts cannot be equated with assumption of control.
+36.
+With respect to the escrow arrangement dated 08.09.2015, ld. Counsel
+submitted that it was introduced as a cash-flow monitoring mechanism in
+view of financial stress. Such arrangements are standard in lending
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+transactions to prevent diversion of receivables. The Corporate Debtor was a
+consenting party to the Escrow Agreement. Monitoring of receivables does
+not amount to management or operational control. It does not involve
+business decision-making or policy direction. It is a protective mechanism to
+preserve asset value. By the time EARCL acquired the debt, the Corporate
+Debtor was already classified as NPA. Therefore, the measures adopted were
+routine protective lender actions and cannot constitute control.
+37.
+Ld. Counsel submits that prior to CIRP, EY was engaged under
+contractual lender rights for advisory and monitoring purposes. In December
+2015, Mr. D. Venkatsubramaniam was appointed Chief Restructuring Officer
+for
+monitoring
+cash
+flows
+and
+restructuring
+performance.
+Such
+restructuring support is standard in ARC transactions. The engagement
+letter expressly provided that EY would not assume management
+responsibility, which remained with the Corporate Debtor. EY’s role was
+advisory.
+38.
+Post commencement of CIRP, EY was appointed at the instance of the
+Resolution Professional under Sections 20(2)(a) and 25(2)(d) of the Code. The
+appointment was ratified by an overwhelming majority of the CoC. EY
+functioned only as a professional agency assisting the RP and not as a
+managerial arm of EARCL. Continuity of advisor was logical and
+commercially prudent.
+39.
+Ld. Counsel submits that the allegation regarding facilitation of INR
+55 crores funding from CGPGCL is wholly unsupported by evidence. No
+material has been produced demonstrating EARCL’s role. Similarly,
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+allegations regarding encashment of bank guarantees by NTPC are
+speculative. Even assuming financial consequences arose, such commercial
+arrangements do not establish managerial or policy control.
+40.
+Regarding the sale of Property, Ld. Counsel submits that the sale was
+conducted under the SARFAESI Act through private treaty following due
+statutory procedure and was completed prior to initiation of CIRP. The
+transaction attained finality and was expressly consented to by the ex-
+management. It is impermissible for the Ex-Liquidator to challenge a
+concluded SARFAESI sale years later. In any event, the transaction has no
+nexus with related party determination.
+41.
+It is the submission of the Ld. Counsel that reliance on the IBBI order
+is misplaced. The observation in paragraph 6.3.5 merely notes that the RP
+was guided by EARCL in appointing EY. This cannot be construed as
+evidence of management control. Statutory responsibility for conducting
+CIRP vests exclusively with the Resolution Professional. Observations
+concerning appointment of advisors cannot lead to inference of control by
+EARCL.
+42.
+Ld. Counsel respectfully submits that none of the circumstances relied
+upon by the Appellant demonstrate that EARCL exercised management
+control, policy control, or control of any nature over the Corporate Debtor so
+as to attract related party status under Section 5(24) of the Code. The Ld.
+NCLT rightly rejected the Related Party Application and correctly allowed the
+application for replacement of the Appellant based on the overwhelming
+92.25% SCC vote.
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+43.
+The Impugned Order is legally sound, factually justified, and warrants
+no interference. Accordingly, the present Appeal deserves to be dismissed.
+Analysis and Findings
+44.
+We have heard learned counsel for the parties at length and carefully
+perused the record.
+45.
+The first and foremost issue that arises for determination is whether
+the Liquidator/Appellant has the locus to maintain the appeal against his
+replacement. We would thereafter take up the issues raised in appeal on
+merits.
+46.
+The procedure for replacement of the liquidator is provided in
+Regulation 31A of The IBBI (Liquidation Process) Regulations, 2016. The
+relevant regulation 31A (11) is extracted below:
+“Regulation 31A. Stakeholders’ Consultation Committee
+(1)
+*
+*
+(11) The consultation committee, after recording the reasons, may
+by a majority vote of not less, than sixty-six per cent., propose to
+replace the liquidator and shall file an application, after obtaining
+the written consent of the proposed liquidator in Form AA of the
+Schedule II, before the Adjudicating Authority for replacement of
+the liquidator:
+Provided that where a liquidator is proposed to be replaced, he
+shall-
+(a) continue to work till his replacement; and
+(b) be suitably remunerated for work performed till his
+replacement.
+Provided that where a consultation committee under Regulation
+31A has been constituted before the commencement of Insolvency
+and Bankruptcy Board of India (Liquidation Process) (Second
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+Amendment) Regulations, 2022, the liquidator within thirty days
+of the commencement of the said Regulations, shall re-constitute
+the consultation committee as required under the said
+Regulations and provisions provided under amended Regulation
+31A shall come into effect only after such constitution.”
+
+47.
+It is clear from the aforesaid regulation that the Stakeholders’
+Consultation committee with a majority vote of not less than 66% may
+propose replacement of Liquidator to the Adjudicating Authority.
+48.
+In the facts of the present case, it is seen that as early as 08.10.2020,
+an application was filed seeking removal of the Appellant. In the 22nd SCC
+meeting held on 15.09.2023, it was noted that the Appellant had released
+INR 3,71,06,440 to HSIIDC allegedly in violation of Section 53 of the Code
+and the Process Memorandum, and the SCC decided to file an application
+for replacement. Thereafter, voting in October 2024 reflected an
+overwhelming majority of 92.25% in favour of replacement. Based on this,
+EARCL filed the third removal application and the Impugned Order was
+passed on 09.01.2026.
+49.
+The Appellant argues that an independent voting exercise excluding
+EARCL did not meet the 66% threshold. However, the power of the
+Adjudicating Authority is not limited to mechanical counting of votes. The
+liquidation process remains under the supervision of Adjudicating Authority.
+If the Authority, on overall consideration of stakeholder confidence, conduct
+of proceedings and repeated friction, forms an opinion that continuation of
+the Liquidator is not conducive to smooth completion of liquidation, it is
+within its jurisdiction to direct replacement.
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+50.
+This tribunal in Ranjeet Kumar Verma (Erstwhile IRP) v. Committee of
+Creditors of Straight Edge Contract Ltd., Company Appeal (AT) (Ins.) No.
+1129 of 2020, decided on 04.01.2021, observed as follows in para 3 of the
+judgement:
+"3. In the instant case, it is not disputed that the replacement
+has been done by the Committee of Creditors with 100% vote
+share, the requisite vote share being 66%. It is indisputable that
+the Appellant has no vested legal interest and he has no right to
+continue once the decision is taken by the Committee of Creditors
+to replace him. He has no locus standi to maintain the
+Appeal as he cannot claim invasion of any of his legal
+rights and under the I&B Code, we say so because the
+Interim Resolution Professional is not a stake holder. That
+apart, Committee of Creditors which decided to replace Appellant
+was itself constituted by the Appellant and he would not be
+permitted to argue that the constitution of Committee of Creditors
+was bad."
+(Emphasis Supplied)
+
+51.
+In this judgment, the Appellate Tribunal clearly held that an Interim
+Resolution Professional does not have any vested legal right to continue once
+the Committee of Creditors, by the requisite majority, decides to replace him.
+The Tribunal further observed that the IRP is not a stakeholder in the
+insolvency process and therefore cannot claim that any of his legal rights
+have been invaded, merely because he has been replaced. It was also
+specifically noted that where the CoC, which was constituted during the
+tenure of the professional himself, decides to replace him, he cannot
+subsequently challenge the very constitution or decision-making authority
+of that CoC. Applying this principle to the present case, the Appellant, having
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+functioned as Liquidator pursuant to the decision of the CoC/SCC structure
+in which EARCL was a dominant voting member, cannot now assert that he
+has a legal right to continue in office or challenge the validity of the very
+decision-making body from which his authority originated. The ratio of this
+judgment directly supports the position that the Appellant has no vested
+right to insist upon continuation and that replacement, by itself, does not
+give rise to a cause of action unless some statutory violation is shown.
+52.
+The matter relating to removal of liquidator was examined by Chennai
+bench of this Tribunal in V. Venkata Sivakumar v. IDBI Bank Limited, in
+Company Appeal (AT) (Ins.) No. 269/decided on 20.12.2022. The relevant
+extracts of para 48 relevant portions of which are extracted below:
+
+“This ‘Appellate Tribunal’ also notes that in recent
+judgement passed by Principal Bench, NCLAT vide order dated
+13.10.2022 in Company Appeal (AT) (Ins.) No. 1234 of 2022 as
+held:
+“The Liquidator does not have any personal right to continue in
+the Liquidation Process and the reasons which have been
+noted in the order are sufficient to exercise even the inherent
+power by NCLT to replace the Liquidator. It is not a fit case to
+interfere in exercise of our Appellate Jurisdiction.”
+[emphasis supplied]
+
+This clearly establishes that, no Liquidator, has any
+`personal rights’, to continue in `Liquidation’ and the
+‘Adjudicating Authority’, can order for `Replacement’ of the
+‘Liquidator’, recording sufficient reasons, as per `Law’.
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+
+Further, since the ‘Adjudicating Authority’, is vested with
+the power, to `appoint a Liquidator’, under Section 33 and 34
+of the I & B Code, 2016. It is by the virtue of the Section 16 of
+the General Clauses Act, 1897, that an ‘Adjudicating
+Authority’, who also, has the power, to remove the `Liquidator’.
+
+Combined reading of above Case Laws and Provisions
+along with Section 33 and Section 34 of the I & B Code, 2016,
+would make it clear that the ‘Adjudicating Authority’, which
+had the `powers’, to appoint the ‘Liquidator’, will also have the
+powers,
+to
+remove
+the
+‘Liquidator’
+for
+reasons,
+the
+‘Adjudicating Authority’, may find fit, just, valid and proper.”
+
+53.
+In this decision, the Appellate Tribunal reaffirmed that a Liquidator
+does not possess any personal right to continue in the liquidation process
+and that the Adjudicating Authority is competent to replace a Liquidator if
+reasons exist which justify such action. The Tribunal further observed that
+where the Adjudicating Authority has recorded reasons and exercised even
+its inherent powers to ensure proper conduct of the liquidation process,
+appellate interference is unwarranted, unless the order is perverse or without
+jurisdiction. The emphasis was that the office of Liquidator is functional and
+fiduciary in nature, and continuation depends upon the confidence of
+stakeholders and supervision of the Adjudicating Authority, not upon
+personal entitlement. In the present case, where repeated removal
+applications were filed, stakeholder dissatisfaction was recorded, and an
+overwhelming majority supported replacement, the principle laid down by
+this judgment squarely applies. It reinforces that once the Adjudicating
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+Authority, upon consideration of material on record, forms an opinion that
+replacement is necessary for smooth conduct of liquidation, such decision
+does not violate any personal right of the outgoing Liquidator and does not
+warrant appellate interference.
+54.
+These two judgments establish that the Liquidator’s position is not
+proprietary, that he has no vested right to continue, and that replacement is
+legally sustainable. A Liquidator is appointed under the statutory scheme of
+the IBC. He acts as an officer of the process and performs fiduciary duties
+for the benefit of all stakeholders. He does not acquire any personal or vested
+right to continue in office. It is well settled that once the Adjudicating
+Authority, for reasons recorded, directs replacement of a Liquidator, he
+cannot claim continuation as a matter of right. Section 61 permits an appeal
+by a “person aggrieved.” Removal from a statutory assignment, without
+affecting any independent civil or proprietary right, does not automatically
+create a vested entitlement to continue and such a person can not be treated
+as “person aggrieved” and would therefore have no locus to maintain an
+appeal before this tribunal merely on the ground of replacement.
+55.
+We now turn to the address the appeal on merit on whether EARCL is
+a related party within the meaning of Section 5(24) of the IBC. The Appellant
+contends that EARCL exercised control over the Corporate Debtor by virtue
+of pledged shares, appointment of EY, oversight over board meetings, escrow
+arrangements, facilitation of funding, and alleged influence over the
+Resolution Professional. It is argued that such conduct amounts to
+management and policy control and therefore EARCL must be treated as a
+related party.
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+56.
+Respondent No.2 has, however, given a detailed factual explanation. It
+is clarified that the 30% shares referred to by the Appellant were not equity
+investments made by EARCL, but were pledged shares forming part of the
+security package originally created in favour of SBI and later assigned to
+EARCL. The pledged shares were never invoked. Until invocation of a pledge,
+ownership and voting rights remain with the pledgor. A pledgee merely holds
+a security interest. If mere holding of pledged shares were to make a financial
+creditor a related party, then almost every secured lender would become
+ineligible under the Code, which would defeat the statutory framework. We
+find merit in this submission.
+57.
+With regard to appointment of board observers, Respondent No.2 has
+clarified that no director was appointed by EARCL. An observer from EY was
+present for monitoring purposes. An observer has no voting rights under the
+Companies Act, 2013 and does not form part of the Board. Sharing of agenda
+papers with lenders prior to meetings is a common protective measure in
+distressed accounts. It does not confer decision-making power. Oversight is
+not equivalent to control.
+58.
+The escrow arrangement dated 08.09.2015, relied upon by the
+Appellant, has also been explained. Escrow mechanisms are routinely used
+in stressed accounts to monitor cash flows and prevent diversion of
+receivables. The Corporate Debtor was itself a consenting party to the
+arrangement. Monitoring of receivables cannot be equated with taking over
+business decisions or corporate policy.
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+59.
+With respect to engagement of EY, Respondent No.2 has clarified that
+prior to CIRP, EY was engaged in advisory and restructuring capacity under
+contractual rights of lenders. The engagement letter specifically provided
+that management decisions remained with the Corporate Debtor. After
+commencement of CIRP, EY was appointed by the Resolution Professional
+under Sections 20(2)(a) and 25(2)(d) of the Code and the appointment was
+ratified by the CoC. Therefore, EY functioned as a professional advisor
+assisting the Resolution Professional and not as a managerial arm of EARCL.
+The continuity of EY post-CIRP seems to be based upon familiarity with the
+account and ratification by the CoC.
+60.
+The allegation that EARCL facilitated external funding of Rs. 55 crores
+or permitted encashment of bank guarantees has not been supported by
+documentary evidence, demonstrating management control. Even assuming
+such commercial events occurred, they do not automatically establish policy
+control or managerial takeover. These are mere allegations, not based on any
+documentary evidence.
+61.
+The Appellant has placed reliance on the IBBI Order dated 05.03.2021.
+The relevant para 11.6(iv) of the IBBI order is extracted below:
+“11.6 (iv) Mr. Venkatesan was guided by one of the members
+of CoC Edelweiss while appointing professional services of EY
+and did not act independently nor did he discharge his duty of
+undertaking due diligence before appointing any professional,
+therefore, has contravened section 208(2)(a) and (e) of the
+Code, Regulation 7(2)(a) and (h) of the IP Regulations read with
+clauses 3, 5 and 14 of the Code of Conduct.”
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+62.
+It can be seen from the findings in that order relates to the conduct of
+the Resolution Professional and his independence. The observation that the
+RP was “guided by” EARCL while appointing EY is not equivalent to a finding
+that EARCL exercised statutory control over the Corporate Debtor’s
+management. The responsibility for CIRP vests with the Resolution
+Professional.
+Any
+lapse
+in
+professional
+independence
+cannot
+be
+automatically converted into related party status of a financial creditor.
+63.
+We must also have a look at chronology of events in this case. CIRP of
+the CD commenced in 2017, thereafter, Liquidation was ordered on
+16.01.2020. The Appellant was appointed Liquidator pursuant to a decision
+of the CoC in which EARCL held approximately 85% voting share. From 2020
+till August 2024, no application was filed by the Appellant to declare EARCL
+a related party. The related party application was filed only after replacement
+proceedings were revived against the appellant on 13.10.2023. The facts
+relied upon by the appellant related to period from 2015 onwards, when the
+Corporate Debtor was undergoing restructuring. Thereafter, the CD went in
+CIRP on 07.08.2017 and in liquidation on 16.01.2020. No one including RP;
+erstwhile Directors of CD; members of the CoC; members of Stakeholders
+Committee and Liquidator raised any issue of related party till 2024. It’s only
+after the Respondent-2 filed the application for replacement of liquidator,
+that the appellant suddenly realised that the Respondent-2 was a related
+party and filed the I.A. 4269 0f 2024. The conduct of the liquidator has been
+duly noted by the Adjudicating Authority in the impugned order.
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+64.
+Section 5(24) defines “related party” in specific and precise terms.
+Commercial influence, monitoring rights, and restructuring supervision, are
+common features of lending transactions involving distressed companies.
+These do not automatically amount to management or policy control. Control
+in the statutory sense requires something more concrete and demonstrable.
+We have also noted that almost all the events through which the appellant
+has tried to prove that EARCL is a related party relate to a period prior to
+initiation of CIRP proceedings. Such events are not relevant to the present
+proceedings in any case. Action taken by EARCL during that period are in
+line with restructuring of CD which was under financial stress and EARCL
+as the largest secured creditor was well within its rights to monitor the
+progress of restructuring of the CD.
+65.
+The appellant has relied on first proviso to Section 21 (2) of the Code
+to state that EARCL as a related party could not have taken part in meeting
+of Committee of Creditors. We now have a look at the Section 21 (2) of the
+Code which is extracted below:
+“21. (2) The committee of creditors shall comprise all financial
+creditors of the corporate debtor:
+Provided
+that
+a financial
+creditor
+or
+the
+authorised
+representative of the financial creditor referred to in sub-
+section (6) or sub-section (6A) or sub-section (5) of section 24,
+if it is a related party of the corporate debtor, shall not have
+any right of representation, participation or voting in a
+meeting of the committee of creditors:
+Provided further that the first proviso shall not apply to a
+financial creditor, regulated by a financial sector regulator, if
+it is a related party of the corporate debtor solely on account
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+of conversion or substitution of debt into equity shares or
+instruments convertible into equity shares or completion of
+such transactions as may be prescribed], prior to the
+insolvency commencement date.”
+66.
+It can be seen from the first proviso debars the related parties from
+participating in the CoC meetings. However, it can be seen that the present
+case is covered by the second proviso which is applicable to a Financial
+Creditor regulated by financial sector regulator, which would be RBI in the
+case of Asset Reconstruction Companies (like EARCL in this case) if such an
+entity becomes a related party solely due to conversion or substitution of
+debt into equity shares prior to the insolvency commencement date. The fact
+that EARCL held 30% of the equity shares prior to the initiation of CIRP due
+to assignment of pledged shares which were held by SBI prior to assignment
+of such shares to EARCL does not make EARCL as related party of the
+Corporate Debtor in terms of second proviso of Section 21 (2) of the Code.
+67.
+On the basis of the material placed before us, we are of the view that
+the EARCL does not fall within the statutory definition of related party in the
+present case.
+68.
+It is equally important to reiterate that the Liquidator has no vested
+right to continue in office. Performance during tenure, even if commendable,
+does not create an indefeasible right. The Code prioritizes institutional
+integrity of the process over individual tenure.
+69.
+Under Section 61, this Appellate Tribunal interferes only if the order
+is arbitrary, perverse, or contrary to law. The Impugned Order reflects
+consideration of the related party issue, the history of removal applications,
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 267 of 2026
+SCC decisions, and voting patterns. We do not find any jurisdictional error
+or material irregularity warranting interference.
+70.
+In conclusion, we hold that the direction replacing the Appellant as
+Liquidator was within the supervisory powers of the Adjudicating Authority
+and does not suffer from illegality. The Appellant, in any event, has no vested
+right to continue in office and he had no locus to maintain the appeal against
+his replacement. We further hold that the EARCL cannot be considered as
+related party under Section 5(24) of the code. Accordingly, the Appeal is
+dismissed. Pending I.As, if any, are closed. There shall be no order as to
+costs.
+
+[Justice Ashok Bhushan)
+Chairperson
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

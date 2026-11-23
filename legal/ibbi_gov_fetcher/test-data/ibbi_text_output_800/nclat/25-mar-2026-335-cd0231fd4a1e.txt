@@ -1,0 +1,220 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+25.03.2026
+
+Present:
+JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+ARUN BAROKA, MEMBER (TECHNICAL)
+INDEVAR PANDEY, MEMBER (TECHNICAL)
+
+Company Appeal (AT) (Ins) No.60 of 2025
+Nandani Singh
+
+...Appellant
+Vs
+1. Sandeep Kr. Bhatt
+
+...Respondent No.1
+2. Bank of Baroda
+
+...Respondent No.2
+
+(Arising out of Order dated 04.09.2024 passed by the Adjudicating Authority
+(National Company Law Tribunal, Bench – V, New Delhi) in CP No. (IB)-188/
+2022)
+
+For Appellant:
+Mr. Anup Kumar D. Sayare, Mr. S.N. Gautam,
+Advocates
+
+For Respondent:
+Mr. Ashish Verma, Mr. Nikhil Thakur, Ms. Kriti,
+Advocates for R-1.
+
+Mr. Dhruv Gupta, Advocate for R-2
+
+JUDGEMENT
+Per Justice N. Seshasayee, Member (Judicial)
+This appeal is preferred by a personal guarantor who challenges an Order of the
+Adjudicating Authority (NCLT– V), New Delhi, dated 04.09.2024, in CP (IB) No.
+188 of 2022 under Section 100 of the Insolvency and Bankruptcy Code, 2016.
+
+[PAGE 2]
+2
+
+Brief Facts
+2. The material facts are:
+a) From 2006, M/s. Bank of Baroda, the 2nd respondent herein,
+extended export-linked credit facilities to Theme Exports/Theme
+Exports Pvt. Ltd. (Corporate debtor) and periodically enhanced, and
+secured its repayment by equitable mortgage over its Okhla
+industrial property and hypothecation of movables, with fresh
+DPNs/hypothecation
+agreements
+between
+2009–2014.
+On
+06.01.2017, loan facilities were re-sanctioned to about ₹30.12 crore.
+(and the company acknowledged dues of about ₹27.77 crores)
+b) On 06.01.2017, the appellant, a suspended director of corporate
+debtor and others executed a stamped Deed of continuing
+Guarantee and acknowledgment in favour of the Bank.
+c) On 07.01.2019, the loan account of the corporate debtor was
+classified as NPA. On 27.02.2019, the 2nd respondent issued notice
+under Sec.13(2) of the SARFAESI to both the principal borrower and
+guarantors requiring them to repay the debts due within 60 days.
+The 2nd respondent describes this notice as the first invocation of
+the guarantee.
+d) While so, an operational creditor of the principal borrower filed a
+petition against the latter under Sec. 9 IBC petition. By an order
+dated 29.08.2019, the Adjudicating Authority admitted the principal
+borrower to CIRP. It was not successful and hence on 29.07.2020,
+an order for liquidation came to be passed under section 33 IBC,
+
+[PAGE 3]
+3
+
+where the 2nd respondent had preferred its claim for ₹36.93 crores
+and on 30.07.2020 the same was admitted by the liquidator.
+e) It is in these circumstances, on 04.08.2020, the 2nd respondent
+issued a personal demand cum recall notice to the personal
+guarantors and followed it with a notice 27.09,2021 under Rule 7 to
+the Insolvency and Bankruptcy (Application to Adjudicating
+Authority for Insolvency Resolution Process for Personal Guarantors
+to Corporate Debtors) Rules, 2019, claiming about ₹36.93 crore as
+on
+30.07.2020.
+Meanwhile
+on
+31.01.2021,
+it
+also
+filed O.A.295/2021 before DRT-I for about ₹32.17 crores against the
+personal guarantor.
+f) While things stood thus, on 30.12.2021, the 2nd respondent filed the
+present petition under Sec.95 IBC.
+3. The respondent in her reply has principally contended that the petition is
+barred by limitation, that there are certain incongruencies in the amount claimed
+in the demand notice, in the OA filed against the principal borrower before the
+DRT and the petition. This apart there are certain allegations are made against
+the RP and that he acted with bias.
+4. Relying on the report of the RP filed under Sec.99 and rejecting the appellant’s
+defence, the Adjudicating Authority chose to admit the petition under Sec.100
+IBC. This Order is now under challenge.
+Arguments
+5. The central plank of appellant’s contention is limitation: she contends that
+the Deed of Guarantee dated 06.01.2017 gave rise to a cause of action
+
+[PAGE 4]
+4
+
+which expired three years later, i.e. by 06.01.2020, and that no valid, proved
+invocation occurred within this period, so as on 30.12.2021 there was no legally
+enforceable “debt” for the purposes of IBC section 95(4)(b). The learned counsel
+for the appellant further submitted:
+a) The second aspect agitated was that the Sec.13(2) notice, dated
+27.02.2019 issued under the SARFAESI Act was not originally annexed to
+the petition under Sec. 95 but was introduced only through the report of
+the resolution professional, thereby creating a contradiction in the stand
+of the Respondent as reflected in the Section 95 petition, namely:-
+It is thus contended that such inconsistency warrants scrutiny under Section
+184(1) of the IBC for alleged false and misleading statements on oath.
+b) The NPA date (07.01.2019) is merely a prudential classification, not
+the juridical date of default, and NCLT wrongly conflated, or sidestepped
+this distinction to sustain limitation. Reliance was placed on the ratio in
+Laxmi Pat Surana v. Union Bank of India (2021) 8 SCC 481
+c) This apart there are inconsistencies in amounts stated to be in default of
+₹36.93 crore (Form D/Form B/liquidation) versus ₹32.17 crore (DRT OA
+295/2021 manipulated/incomplete bank ledgers, OCR errors and missing
+pages, and submits that the Bank has not discharged its evidentiary
+burden even at the admission stage, despite Bankers’ Books and section
+65B certificates.
+d) She challenges the independence of the RP, asserting that he is a director
+of an IPE empanelled with Bank of Baroda, a circumstance allegedly not
+disclosed in violation of the IBBI Code of Conduct under the Insolvency
+
+[PAGE 5]
+5
+
+Professionals Regulations, 2016, and that his conduct (very short
+timelines, apparent alignment with the Bank’s narrative) shows bias.
+e) On process, she contends that NCLT mechanically adopted the RP’s
+section 99 report, failed to reason through her detailed written
+submissions, and effectively relied on a document not on record (the
+27.02.2019 notice), violating natural justice and the requirement of
+a reasoned order under IBC section 100 and the rule of law as emphasised
+in Swiss Ribbons v. Union of India (2019) 4 SCC 17.
+6. Per contra, the learned counsel for the respondent contended that:
+a) The Deed of Guarantee which the appellant has executed is a continuing
+guarantee, and becomes enforceable on-demand to perform the contracted
+obligations. Hence limitation will run not from 06.01.2017, but from
+27.02.2019, the date of Sec.13(2) notice issued under the SARFAESI Act
+and that the default crystallised on 27.04.2019. The petition under Sec.95
+was laid on 30.12.2021, which was comfortably within time, with no need
+to even fall back on the Order of the Hon’ble Supreme Court in Suo Motu
+Writ Petition (civil) 3 of 2020. The appellant has acknowledged the receipt
+of the notice dated 27.02.2019, and also the debt vide her replies dated.
+25.09.2020 and 12.11.2021.
+b) So far as the difference in the value of the debt, ₹32.17 crore in O.A. No.
+295 of 2021 and ₹36.93 crore in the Section 95 application / Form B
+demand notice goes, they essentially reflect different cut-off dates and
+verification stages (Filing date of OA before the DRT Vs Date of
+commencement of liquidation of the principal borrower. Indeed, Secs.95
+
+[PAGE 6]
+6
+
+and 100 IBC require proof of existence of a financial debt and default and
+not final adjudication of the amount due payable. That is the matter which
+a resolution professional may be concerned with. After all, inasmuch as
+the principal borrower is in liquidation, the eventual liability of the
+appellant will be limited to that which is required to be paid after the
+realization of debt in the liquidation.
+c) They deny any conflict of interest or misconduct by the RP, noting his
+valid IBBI registration, absence of disciplinary proceedings, his
+correspondence with both sides, and the fact that NCLT exercised its
+independent judicial mind.
+Discussion and Decision
+7. We do not find any merit in the submissions of the appellant. And our
+reasons are:
+a) the thrust on the point of limitation appears more as a plea made in
+desperation. It is far too fundamental a point that where a deed of
+guarantee provides for its invocation through a demand, then the liability
+under the same becomes enforceable only on demand. It is admitted that
+the notice under Sec.13(2) SARFAESI Act was issued on 27.02.2019 and
+the default commenced 27.04.2019. Necessarily the petition filed under
+Sec.95 IBC on 30.12.2021 is within time. Indeed, in the petition under
+Sec.95 IBC, date on which the guarantee was invoked is given as
+04.08.2020, which is the notice which the 2nd respondent had issued after
+the order of liquidation was passed against the principal borrower.
+However, in the report of the Resolution Professional, reliance is placed on
+
+[PAGE 7]
+7
+
+an earlier demand notice dated 27.02.2019 as the date of invocation of
+guarantee.
+b) So far as the allegation of financial debt and default, the 2nd respondent
+has supported its existence with (i) the 06.01.2017 acknowledgment and
+guarantee, (ii) the corporate debtor’s audited balance sheets recognising
+borrowings (FY 2015–16, 2016–17), and (iii) admission of a claim of ₹36.93
+crore in the liquidation proceedings against the principal borrower
+30.07.2020. The difference is self-explanatory as have been established by
+these materials.
+c) Turning to the allegation of RP’s conflict of interest, it may, at the best,
+pave the way for changing the RP, but not for setting aside the Order
+passed under Sec.100. We however, add that we do not intend to pass
+any opinion on the merit of the said allegation and it is left open.
+8. In conclusion, we find no merit in the appeal and the same is dismissed
+but without costs.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+rs/beena

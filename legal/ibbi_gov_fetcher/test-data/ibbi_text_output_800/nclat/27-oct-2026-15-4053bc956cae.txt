@@ -1,0 +1,839 @@
+[PAGE 1]
+2026 INSC 1159
+Civil Appeal No.6268 of 2022 etc. Page 1 of 25
+
+Reportable
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+
+Civil Appeal No.6268 of 2022
+
+ECL Finance Ltd. and Anr.
+...Appellant(s)
+
+Versus
+
+Abhinav Mukherjee and Ors.
+...Respondent(s)
+
+With
+Civil Appeal No.6273 of 2022
+
+Contempt Petition (C) No.730 of 2023
+in Civil Appeal No.6268 of 2022
+
+Contempt Petition (C) No.731 of 2023
+in Civil Appeal No.6273 of 2022
+
+J U D G M E N T
+K.VINOD CHANDRAN, J.
+
+There are two appeals before us; one by the
+Debenture Trustee and the other by the Debenture
+Holder/Lender, who are aggrieved with the order of the
+National Company Law Appellate Tribunal (NCLAT), which
+affirmed the order of the Adjudicating Authority; National
+Company Law Tribunal (NCLT) finding the appellants to be
+Digitally signed by
+CHANDRESH
+Date: 2026.10.27
+17:03:21 IST
+Reason:
+Signature Not Verified
+
+[PAGE 2]
+Civil Appeal No.6268 of 2022 etc. Page 2 of 25
+
+‘related party’ to the Corporate Debtor (CD) under Section
+5(24) of the Insolvency and Bankruptcy Code, 2016 (IBC), and
+thus, not liable to included or participated as a financial
+creditor in the Committee of Creditors (CoC) constituted
+under Section 21 of the IBC.
+2.
+Heard Sri Gaurav Mitra, learned Senior Counsel for
+the appellants and Sri Jayant Mehta & Sri Arijit Prasad,
+learned Senior Counsel for the respondents.
+3.
+The Debenture Trustee is the IDBI Trusteeship
+Services Limited (ITSL) and the Debenture Holder/Lender is
+the ECL Finance Limited (ECL), who were treated as an
+undifferentiated monolith by the NCLAT. However, there is a
+subtle distinction between both, by virtue of the ECL having
+two distinct status, in its relationship with the CD. Hence for
+convenience, we refer to the facts from the order of the NCLT.
+4.
+The claims arose from a Debenture Trust Deed dated
+13.05.2016 and a Facility Agreement dated 22.09.2017. The
+CD is Palm Developers Private Limited, who acted as
+Guarantor to one Saha Infratech Private Limited (SIPL), who
+issued the debentures and availed the Term Loan Facility. In
+June 2016, SIPL, augmenting their resources to generate
+
+[PAGE 3]
+Civil Appeal No.6268 of 2022 etc. Page 3 of 25
+
+funds for developing their various projects, proposed
+issuance of non-convertible debentures having face value of
+Rs.1 Crore each, for an aggregate amount of Rs.160 Crores in
+two tranches. The first tranche was proposed as 110
+debentures and the second tranche comprising 50
+debentures. SIPL appointed ITSL as the trustee for the holders
+of the debentures vide Debenture Trustee Agreement dated
+18.05.2016. As per the Debenture Trust Deed, a part of the
+debenture subscription amount was to be used for funding
+the construction ‘Project Encore’ situated at Greater Noida,
+Uttar Pradesh. Only the first tranche of Rs.110 Crores was
+subscribed and the entire debentures are now held by ECL.
+By the Debenture Trust Deed, the SIPL and the CD
+guaranteed the performance of all the terms and conditions
+of the Debenture Trust Deed, which was secured inter alia by
+an unconditional and irrevocable corporate guarantee by the
+CD. In addition, first charge and mortgage over the lands and
+buildings of ‘Project Encore’ along with hypothecation of the
+‘Project Encore’ receivables and creation of an escrow
+account for the revenue generated from ‘Project Encore’,
+were stipulated in the Debenture Trust Deed.
+
+[PAGE 4]
+Civil Appeal No.6268 of 2022 etc. Page 4 of 25
+
+5.
+Meanwhile SIPL approached ECL for availing
+revolving credit facility to an extent of Rs.90 Crores vide
+letter dated 13.06.2017, and on the sanction of the said
+facility, the SIPL as Principal Borrower entered into a Facility
+Agreement dated 22.09.2017 with ECL along with the CD as
+Obligor No.5; i.e., Guarantor. The Facility Agreement also
+required the Principal Borrower along with the Obligors to
+create securities in favour of ECL on various properties
+including first charge and mortgage over the various
+projects existing and intended, as also furnishing of personal
+as well as corporate guarantees including an irrevocable and
+unconditional corporate guarantee from the CD and a pledge
+of its shares held by the shareholders in favour of ECL to
+secure the due performance of all conditions of the Facility
+Agreement by a separate guarantee agreement dated
+22.09.2017.
+6.
+Hence, we observed at the outset, that ECL in its
+relationship with SIPL, has two status. One, the Lender to SIPL
+and two, the Debenture Holder of SIPL, both intended at
+development of the projects of SIPL; the due satisfaction of
+both having been guaranteed by the CD. The CD, thus, had
+
+[PAGE 5]
+Civil Appeal No.6268 of 2022 etc. Page 5 of 25
+
+a dual obligation to secure the interest of ECL; as a Debenture
+Holder and as Lender.
+7.
+The Corporate Insolvency Resolution Process (CIRP)
+of the CD was commenced when the petition under Section 7
+was admitted on 27.01.2020. On 10.02.2020, ITSL claimed
+Rs.131,17,23,044/- as on 29.02.2020 in its capacity as
+Debenture Trustee, from the CD. Likewise, ECL claimed an
+amount of Rs.139,02,83,168.68/- as amounts due as per the
+Term Loan Facility Agreement. Both the entities were treated
+as financial creditors and included in the CoC, which was
+objected to by one of the financial creditors, a Homebuyer,
+individually, as distinguished from agitating it through the
+Authorized Representative (AR) of the class of creditors;
+herein the Homebuyers. The NCLT found the claims of the
+appellants to be not a financial credit, since there was no
+financial debt incurred by the CD, no direct disbursal of
+amounts to the CD having been occasioned and it also found
+that both the appellants were related party, as defined under
+Section 5(24)(m)(i) of the IBC. The locus of the single
+Homebuyer was accepted.
+
+[PAGE 6]
+Civil Appeal No.6268 of 2022 etc. Page 6 of 25
+
+8.
+The NCLAT found that the ratio of Anuj Jain, Interim
+Resolution Professional for Jaypee Infratech Ltd. v. Axis
+Bank Limited and Others1 is not applicable. We are also of
+the opinion that the NCLT misread Anuj Jain1 to find that since
+the CD was not the principal borrower and was a guarantor
+that would not be a financial debt under Section 5 (8)
+especially when the extracted portion from the cited decision
+itself spoke of “... it may also include any liability in respect of
+a guarantee or indemnity for any of the items referred to in sub-
+clauses (a) to (h) ...’ (sic para 46).
+9.
+However, we find the NCLAT to have erred in finding
+that the appellants’ claim cannot be entertained for reason of
+the corporate guarantee not being invoked prior to the
+commencement of CIRP. We are fortified in taking that view
+by the decision in China Development Bank v. Doha Bank
+Q.P.S.C. and Others2. The appellant therein had sought
+inclusion as a financial creditor in the CoC, which was
+challenged by one another financial creditor. The appellants
+relied on the Deeds of Hypothecation (DoH) executed jointly
+by the group companies, collectively referred to as ‘Rcom
+
+1 (2020) 8 SCC 401
+2 (2025) 7 SCC 729
+
+[PAGE 7]
+Civil Appeal No.6268 of 2022 etc. Page 7 of 25
+
+entities’; one of whom was the CD. The Rcom entities had also
+entered into a Master Security Trustee Agreement with Axis
+Trustees Services Limited, who had executed the DoH on
+behalf of the appellants and the other Lenders, wherein the
+Rcom entities including the CD agreed to provide their
+common pooled assets as security for the loans availed by
+them. The specific contention taken up was that no default
+under the DoH had occasioned, which was rejected, with
+reference to the definition of ‘financial debt’ under Section
+5(8) of the IBC. It was held that there was no requirement
+under Section 5(8), that a facility qualifies as financial debt
+only when a default occurs. Section 5(7) of the IBC was also
+noticed to find that any person to whom financial debt is
+owed, becomes a financial creditor, even if there is no default
+in payment of debt. The definition of ‘default’ under Section
+3(12), it was held, assumes relevance only when Section 7(1)
+of IBC is invoked and a CIRP is sought to be initiated by the
+financial creditor. It was noticed from the DoH that it is a
+contingent contract, wherein the contingent event is the
+shortfall between realization and expenses. The contract
+itself becomes impossible of enforcement, owing to the
+
+[PAGE 8]
+Civil Appeal No.6268 of 2022 etc. Page 8 of 25
+
+moratorium imposed; prohibiting the sale of hypothecated
+properties, and thus, the shortfall cannot be shown to arise.
+Hence, on establishing that there is a financial debt under
+Section 5(8); which does not speak of a contingent default,
+the claim arises for the creditor to approach the IRP/RP,
+which has to be submitted on the public announcement of the
+CIRP.
+10.
+The NCLAT, however, held in favour of the individual
+financial creditor as distinguished from a financial creditor in
+class, who had approached the NCLT, and upheld his locus
+relying on Phoenix ARC Private Limited v. Spade Financial
+Services Limited and Others3, which also answers
+effectively the question as to whether the corporate
+guarantee could be termed to be a financial debt, despite the
+guarantee not having been invoked prior to commencement
+of CIRP, affirmatively. On the locus, the Tribunal referred to
+its own decision in Aashray Social Welfare Society & Ors. v.
+Saha Infratech Pvt. Ltd. & Ors.4 as to the role of the
+‘Authorized Representative’ (AR) of the creditors in a class. It
+was held therein that the AR under the statutory scheme
+
+3 (2021) 3 SCC 475
+4 Company Appeal (AT) (Insolvency) No. 904 of 2021
+
+[PAGE 9]
+Civil Appeal No.6268 of 2022 etc. Page 9 of 25
+
+represents the financial creditors i.e., the Homebuyers in a
+class, for a limited purpose i.e., for attending meetings of the
+CoC and voting on behalf of the financial creditors in a class.
+It cannot be said that since the AR has not himself approached
+the Adjudicating Authority with the application, the
+appellants who themselves are Homebuyers, had no right to
+participate in the adjudication.
+11.
+Phoenix ARC Private Limited3 also considered a
+similar objection, wherein the NCLT allowed two entities,
+who claimed their status as financial creditors, to re-submit
+their claims with a direction to the IRP to consider such
+claims. This was projected as res judicata when two other
+financial creditors objected to their inclusion. This Court
+found that when the NCLT allowed resubmission of claims as
+financial creditors, none of the creditors of the CoC were
+represented in the proceedings. When the order was passed
+without hearing the financial creditors, who had challenged
+their inclusion subsequently, it does not bring in res judicata.
+The financial creditors were held to be legitimately within
+their rights in seeking a direction for exclusion of the two
+entities from the CoC as related parties; which dictum
+
+[PAGE 10]
+Civil Appeal No.6268 of 2022 etc. Page 10 of 25
+
+squarely applies to the present case where an individual
+financial creditor had, before the NCLT, objected to the
+inclusion of the appellants in the CoC, being related parties.
+12.
+What remains is only the question as to whether the
+appellants were related parties of the CD within the meaning
+of Section 5(24) of the IBC and were resultantly liable to be
+excluded from the CoC under the first proviso to Section
+21(2) of the IBC. We extract hereunder Section 5(24)(m)(i),
+sub-sections (1) & (2); its first proviso and (6A) of Section 21:
+‘Section 5(24) “related party” in relation to a
+corporate debtor, means---
+xxx xxx xxx
+(m)- any person who is associated with the
+corporate debtor on account of —
+(i) participation in policy making processes of the
+corporate debtor; or’
+
+‘Section 21(1) The interim resolution professional
+shall after collation of all claims received against
+the corporate debtor and determination of the
+financial position of the corporate debtor,
+constitute a committee of creditors.
+(2) The committee of creditors shall comprise all
+financial creditors of the corporate debtor:
+
+Provided that a financial creditor or the authorised
+representative of the financial creditor referred to
+in sub-section (6) or subsection (6A) or subsection
+(5) of section 24, if it is a related party of the
+corporate debtor shall not have any right of
+representation, participation or voting in a
+meeting of the committee of creditors.’
+
+[PAGE 11]
+Civil Appeal No.6268 of 2022 etc. Page 11 of 25
+
+‘(6A)- Where a financial debt-
+
+(a) is in the form of securities or deposits and the
+terms
+of
+the
+financial
+debt
+provide
+for
+appointment of a trustee or agent to act as
+authorised representative for all the financial
+creditors, such trustee or agent shall act on behalf
+of such financial creditors;
+(b) is owed to a class of creditors exceeding the
+number as may be specified, other than the
+creditors covered under clause (a) or sub-section
+(6), the interim resolution professional shall make
+an application to the Adjudicating Authority along
+with the list of all financial creditors, containing the
+name of an insolvency professional, other than the
+interim resolution professional, to act as their
+authorised representative who shall be appointed
+by the Adjudicating Authority prior to the first
+meeting of the committee of creditors;
+(c) is represented by a guardian, executor or
+administrator, such person shall act as authorised
+representative on behalf of such financial
+creditors,
+and such authorised representative under clause
+(a) or clause (b) or clause (c) shall attend the
+meetings of the committee of creditors, and vote
+on behalf of each financial creditor to the extent of
+his voting share.’
+
+13.
+The Tribunal looked at the various documents,
+including the Debenture Trust Deed as also the Facility
+Agreement to find the appellants to be related party,
+especially relying on the judgment of this Court in Arcelor
+Mittal India Private Limited v. Satish Kumar Gupta and
+
+[PAGE 12]
+Civil Appeal No.6268 of 2022 etc. Page 12 of 25
+
+Others5.
+Therein
+the
+issue
+considered
+was
+the
+disqualification of a Resolution Applicant under Section 29A
+(c). The disqualifications under clause (c) of Section 29A
+leading to ineligibility to submit a Resolution Plan, being any
+one of the three things detailed therein; which are
+disjunctive, must be established. The disqualifications are
+that ‘the Corporate Debtor may be under the management of
+the person referred to in Section 29A, the Corporate Debtor
+may be a person under the control of such person, or the
+Corporate Debtor may be a person, of whom such person is
+a promoter’.
+14.
+Referring to the expression ‘control’ as defined in the
+Companies Act, 2013; Section 2(27), it was held so in
+paragraph 50 as under:
+‘50. The expression “control” is therefore defined
+in two parts. The first part refers to de jure control,
+which includes the right to appoint a majority of
+the Directors of a company. The second part refers
+to de facto control. So long as a person or persons
+acting in concert, directly or indirectly, can
+positively influence, in any manner, management
+or policy decisions, they could be said to be “in
+control”. A management decision is a decision to
+be taken as to how the corporate body is to be run
+in its day-to-day affairs. A policy decision would
+be a decision that would be beyond running day-
+to-day affairs i.e. long-term decisions. So long as
+
+5 (2019) 2 SCC 1
+
+[PAGE 13]
+Civil Appeal No.6268 of 2022 etc. Page 13 of 25
+
+management or policy decisions can be, or are in
+fact, taken by virtue of shareholding, management
+rights,
+shareholders
+agreements,
+voting
+agreements or otherwise, control can be said to
+exist.’
+
+15.
+It was held that the ‘control’ in Section 29A(c) denotes
+positive control, which means that a mere power to block
+special resolutions of the company, cannot amount to control.
+Finding ‘control’ to be the power to drive actual management
+or policy decisions, reference was approvingly made to a
+judgment of the Securities Appellate Tribunal in Subhkam
+Ventures (I) Private Limited v. Securities and Exchange
+Board of India6 and the following paragraph was extracted:
+‘Control — The direct or indirect power to direct
+the management and policies of a person or entity,
+whether through ownership of voting securities, by
+contract, or otherwise; the power or authority to
+manage, direct, or oversee.”
+[Black’s Law Dictionary –Eighth Edition]
+
+Control, according to the definition, is a proactive
+and not a reactive power. It is a power by which an
+acquirer can command the target company to do
+what he wants it to do. Control really means
+creating or controlling a situation by taking the
+initiative. Power by which an acquirer can only
+prevent a company from doing what the latter wants
+to do is by itself not control. In that event, the
+acquirer is only reacting rather than taking the
+initiative. It is a positive power and not a negative
+power. In a board managed company, it is the
+board of directors that is in control. If an acquirer
+
+6 2010 SCC OnLine SAT 35
+
+[PAGE 14]
+Civil Appeal No.6268 of 2022 etc. Page 14 of 25
+
+were to have power to appoint majority of directors,
+it is obvious that he would be in control of the
+company but that is not the only way to be in control.
+If an acquirer were to control the management or
+policy decisions of a company, he would be in
+control. This could happen by virtue of his
+shareholding or management rights or by reason of
+shareholders agreements or voting agreements or
+in any other manner. The test really is whether the
+acquirer is in the driving seat. To extend the
+metaphor further, the question would be whether
+he controls the steering, accelerator, the gears and
+the brakes. If the answer to these questions is in the
+affirmative, then alone would he be in control of the
+company. In other words, the question to be asked
+in each case would be whether the acquirer is the
+driving force behind the company and whether he
+is the one providing motion to the organization. If
+yes, he is in control but not otherwise. In short
+control means effective control.’
+
+16.
+Thus, there was a distinction drawn of a positive or a
+proactive control, as opposed to a mere negative or a
+reactive control. Reference was also made to Clause (g),
+which too refers to ‘the management or control of a
+Corporate Debtor’, the words ‘management’ and ‘control’
+taking colour from each other on the principle of noscitur a
+sociis. It was categorically declared in paragraph 53 that
+‘what is referred to Clauses (c) and (g) is de jure or de facto
+proactive and positive control and not mere negative control,
+as distinguished from an expansive reading of the definition
+
+[PAGE 15]
+Civil Appeal No.6268 of 2022 etc. Page 15 of 25
+
+of the word ‘control’ contained in Section 2(27) of the
+Companies Act, 2013, which is exclusive and not exhaustive
+in nature’ (sic).
+17.
+We must immediately notice that a reading of Section
+5(24) with the first proviso of sub-section (2) and sub-section
+(6A) of Section 21, does not indicate a requirement of a
+proactive control as would the rigour of the word ‘control’ in
+Section 29A (c) & (g) would bring forth. Sub-section (24) of
+Section 5, by sub-clause (m)(i), only requires an association
+with the CD by way of participation in policy making process
+of the CD. First proviso to Section 21, as extracted
+hereinabove, restricts a financial creditor or an AR of a
+financial creditor, inter alia referred to in sub-section (6A), if
+it is a related party of the CD, from the right of representation,
+participation or voting in a meeting of the CoC. Admittedly,
+the status of ECL as a Debenture Holder, which interest ITSL
+as a Debenture Trustee seeks to protect, falls under sub-
+section (6A) (a) of Section 21. We are, hence, only looking at
+whether the association with the CD by the ECL, in its status
+as a Debenture Holder; which alone we would as of now
+consider, brings in a participation in policy making of the
+
+[PAGE 16]
+Civil Appeal No.6268 of 2022 etc. Page 16 of 25
+
+Corporate Debtor. The rigour to find a financial creditor to
+be a related party under Section 21 read with the second
+proviso and sub-section (6A)(a), is a tad lesser than that
+required to find ‘control’ under Section 29A (c) and (g). The
+requirement would not be to the extent of being in the
+driving seat, but a role of navigation would suffice, in
+determining policy and channelising business interests.
+18.
+With this in mind, we look at the order of the NCLAT.
+The financial creditor, the Homebuyer, raised the following
+issues to prohibit the participation of the appellants in the
+CoC. We extract hereunder, for brevity, the specific points
+as extracted in paragraph 37 of the impugned order:
+‘Control over the decisions of the Board of
+Directors.
+• Final say in any decision at a Board Meeting or
+at a shareholders meeting or on any other matter
+in the event of a deadlock.
+• Control over the appointment and removal of
+key managerial personnel of the 'Corporate
+Debtor'.
+• Control over the approval and modifications of
+the business plans of the 'Corporate Debtor'.
+• Control over the modalities of sale of units in the
+projects.
+• Control over the sale of units to prospective
+customers and registration of units before the
+Registrar.
+• Control over all revenue and other accounts of
+the 'Corporate Debtor'.
+• Selling partner of the 'Corporate Debtor'.’
+
+[PAGE 17]
+Civil Appeal No.6268 of 2022 etc. Page 17 of 25
+
+19.
+The Tribunal looked at the Sanction Letter, the Articles
+of Association (AoA), the Facility Agreement and the Builder-
+Buyer Agreement. We will deal separately with the aspects
+concerning the Debenture Trust Deed and the Facility
+Agreement; which are two separate aspects of the matter,
+both giving rise to separate claims, of amounts due on the
+debentures held and the term loan outstanding. Insofar as the
+Debenture Holder is concerned, Clause 7.1 of the AoA was
+extracted, which we deem it proper to extract:
+"7.1. Without prejudice to the other rights of the
+Debenture Holders and the lenders under these
+Articles and the loan documentation and
+debenture trust deed and under applicable Laws,
+the Debenture Holders and/ or the lenders shall
+upon occurrence of an event of default have the
+right to appoint a nominee director on the Board
+of the Company. The Promoters of the Company
+shall take all necessary steps, including passing
+necessary
+resolutions
+at
+the
+Board
+and
+Shareholder meetings and filing necessary forms
+with the RoC, to enable the Debenture Holders
+and/ or the lenders to exercise the aforesaid
+right. Notwithstanding anything contained in
+these Articles and, or, in the Transaction
+Documents, the Promoters and the Company
+shall in the event there is a deadlock on any
+matter/decision at a board meeting and, or, at a
+shareholders meeting amongst the directors or
+the Promoters, such matter/ decision shall be
+referred to the nominee director of the
+Debenture Holder and/ or the lenders and, or, to
+the Debenture Holders or the lenders for final
+
+[PAGE 18]
+Civil Appeal No.6268 of 2022 etc. Page 18 of 25
+
+decision. Any decision by such director of the
+Debenture Holders and/ or lenders and, or, the
+Debenture Holders and/or the lenders shall be
+final and binding on the Promoters of the
+Company."
+
+20.
+The amendments to the Debenture Trust Deed on
+16.01.2017 incorporated the following clause:
+‘10. Business Plan, Project Cost and
+Quarterly Budget Approval Mechanism
+5) The Debenture Trustee/ Monitoring Agent
+may approve the Quarterly Construction
+Budget or may advise the Issuer and/ or
+Security Providers to make modification as
+mutually decided. The Issuer and/ or
+Security Providers will revise/ modify the
+respective Quarterly Construction Budget if
+so advised by the Debenture Trustee/
+Monitoring
+Agent.
+The
+Quarterly
+Construction Budget once approved by the
+Debenture
+Trustee/
+Monitoring
+Agent
+("Approved
+Quarterly
+Construction
+Budget”) shall be applicable to for the
+quarter for which the same is approved and
+the amount from the Escrow Account to meet
+the construction cost shall during such
+quarter will be released as per the Approved
+Quarterly Construction Budget subject to
+availability of the amount in the Escrow
+Accounts.
+The
+Debenture
+Trustee/
+Monitoring
+Agent
+may
+in
+suitable
+circumstances and at the request of the
+Issuer and/ or Security Providers approve
+such
+modification/
+revisions
+in
+the
+respective Approved Quarterly Construction
+Budget as may be deemed necessary by the
+Debenture Trustee/ Monitoring Agent.’
+
+[PAGE 19]
+Civil Appeal No.6268 of 2022 etc. Page 19 of 25
+
+This clearly confers a proactive role on the debenture holder
+and the Trustee in steering the Company, SIPL, through
+difficult times; but also, the CD, who is the security provider.
+21.
+Insofar as the Facility Agreement, the special
+conditions in the Sanction Letter indicate absolute right to
+appoint a Director on the Board of the Borrower and such
+nominee Director, being insulated from any liability, as
+indemnified by the Borrower. The nominee Director also
+would be a member of all the Committees appointed by the
+Board of Directors of the Borrower/Security Providers, and
+the Lender has the right to appoint an Observer on the Board
+of the Borrower and/or Management of the Security
+Providers,
+who
+shall
+forward
+a
+copy
+of
+all
+the
+Notices/Resolutions/Agenda
+of
+the
+respective
+Board
+meeting to such Observer. Clause 6.8 of the Facility
+Agreement, with the nominal heading ‘Management’ was
+also extracted by the Tribunal, which prohibits removal of
+any managerial personnel, of either the Borrower or Obliger,
+having substantial managerial powers and who are available
+at the time of the execution of the Facility Agreement, without
+the consent of the Lender. The Borrower and the Obligor
+
+[PAGE 20]
+Civil Appeal No.6268 of 2022 etc. Page 20 of 25
+
+were also required to appoint and change, to the satisfaction
+of the Lender, suitable, technical, financial and executive
+staff in key posts, if the Borrower or the Obligor fail to adhere
+to the business plan and meet the requirement of project
+milestones as provided in the Facility Agreement. The
+Lender also retains with itself the right to appoint, whenever
+necessary, any person, firm, company or association of
+persons engaged in technical, management or consultancy
+business to inspect and examine the working of the Borrower
+and/or Obligor, as also conduct examination of the financial
+or
+Cost
+Accounting
+Systems,
+through
+Cost
+Accountants/Chartered Accounts, the fees of which will have
+to be borne by the Borrower and/or Obligor.
+22.
+Clause 21 of the Sanction Letter indicates controlling
+power on ECL to appoint Real Estate Agents/Distributing
+Agents on behalf of the CD for sale of specific residential
+unit/inventory of the total saleable area in the various
+projects of the promoters. There was also a Power of Attorney
+executed by the Borrower and/or Obligor, which conferred
+sweeping powers on the ECL in the construction of the
+projects, enabling sanctions and approvals from statutory
+
+[PAGE 21]
+Civil Appeal No.6268 of 2022 etc. Page 21 of 25
+
+authorities, matters related to supply of raw materials,
+appointing labour and construction of the project itself,
+communication with the purchasers and entering into
+transactions, to carry out the finalization of the sales made
+and to ensure the proceeds of the sale to be retained in
+escrow accounts. Clause 4.1 of the AoA was extracted in
+paragraph 53 to find that the project revenues including the
+payments made by the allotees of the CD, is in the direct
+control of the appellant/ECL.
+23.
+From the above, it is crystal clear that ECL has an all-
+pervasive control, insofar as the projects of the principal
+Borrower
+are
+concerned,
+for
+facilitating
+which
+the
+debentures were issued and the Term Loan Facility
+extended. The AoA of the CD, a Guarantor, also indicated
+such
+control
+being
+exercised
+by
+the
+debenture
+holder/lender on its management and it cannot be said to be
+a mere restrictive or negative control exercised. That the
+said control was never put in place, cannot at all be
+countenanced, since the policy implementation and the
+business carried out, were under the overall supervision of
+ECL, both as a Debenture Holder, the powers being
+
+[PAGE 22]
+Civil Appeal No.6268 of 2022 etc. Page 22 of 25
+
+exercised by the Debenture Trustee, the ITSL, and as a Term
+Loan Lender. If the ECL is found to be a related party, as
+coming forth from Section 24(5)(m)(i), then it cannot
+participate in the proceedings of the CoC, nor can it be
+included. If the ECL cannot be included as a Debenture
+Holder, since admittedly the entire debentures are held by
+the ECL, the Debenture Trustee who seeks to secure the
+interest of the Debenture Holder also cannot participate in
+the CoC, nor can it be included.
+24.
+We have also found that the Facility Agreement, as
+also the AoA, enables overall supervision of the activities of
+both the Borrower and the Guarantor by the financial
+creditor. ECL, the Lender who has the status of the Debenture
+Holder, in accordance with the Debenture Trust Deed;
+enabled overall supervision in the policy implementation
+and the business carried out of development of projects, who
+cannot be participated in the CoC, even as a Lender. If the
+status was only of a financial creditor, not coming within the
+ambit of sub-section (6) or (6A) of Section 21 or authorising
+any insolvency professional under sub-section (5) of Section
+24 who is not a related party, ECL would not have been
+
+[PAGE 23]
+Civil Appeal No.6268 of 2022 etc. Page 23 of 25
+
+disqualified under the first proviso to Section 21(2). However,
+ECL having the status of the Debenture Holder is disabled
+from being represented, participating and voting in the CoC
+as the Debenture Holder due to the explicit terms in the
+Debenture Trust Deed and by reason of that, disabled even
+in the status of a lender. The pervasive control conferred on
+the sole Debenture Holder also disables the Debenture
+Trustee, the ITSL, who is protecting the interest of the
+Debenture Holder, from being included in the CoC.
+25.
+Though not specifically argued, we also notice that the
+ECL has assigned its rights as per the Facility Agreement to
+the 2nd appellant in its appeal. Phoenix ARC Private Limited3
+specifically ruled on such assignees being excluded from the
+definition of a related party, if they have legitimately taken
+over the debt of related parties or where the related party
+entity had stopped being a related party ‘long ago’. Reliance
+was also placed on the Insolvency Law Committee Report,
+2020, which cautioned that in order to prevent any misuse
+prior to including an assignee of a related party-financial
+creditor, within the CoC, the Resolution Professional should
+verify that the assignee is not a related party of the CD and in
+
+[PAGE 24]
+Civil Appeal No.6268 of 2022 etc. Page 24 of 25
+
+cases where it may be proved that a related party had
+assigned or transferred its debt to a third party in bad faith
+or with a fraudulent intent to vitiate the proceedings under
+the Code, the assignee should be treated akin to a related
+party-financial creditor, under the first proviso to Section
+21(2).
+26.
+In the present case, we already noticed that it was the
+ECL who raised the claim before the RP and later the
+assignment was made long after the CIRP process was
+commenced. The assignment is not ‘long ago’ and is very
+recent. It can only be considered as one intended to defeat
+the rigour of the proviso to Section 21(2) to participate in the
+CoC, reckoning also the report of the Forensic Audit
+conducted, specifically noticed by the Tribunal. The Tribunal
+referred to the Forensic Audit report, wherein it has been
+stated that the CD, who was the Corporate Guarantor, was
+fraudulently used as a vehicle to transfer funds from SIPL to
+two other entities, which are companies controlled by the
+promoters of the CD, and over which ECL has complete
+charge of their assets. The extract from the report also speaks
+of the very project of ‘Meghdutam Encore’ having been
+
+[PAGE 25]
+Civil Appeal No.6268 of 2022 etc. Page 25 of 25
+
+initiated fraudulently, without any intention to complete it, to
+defraud the Homebuyers and to mortgage it for availing loan
+facilities from financial creditors, which funds would be
+diverted to other connected entities. The assignment hence
+fails the test of a bona fide assignment, and the 2nd appellant
+too cannot be participated.
+27.
+We find absolutely no question of law arising from the
+order of the NCLAT and we find no perversity insofar as the
+analysis of facts leading to the conclusion of the appellants
+being related party under Section 5(24). No valid ground
+vitiates the impugned order, and we find no reason to cause
+interference.
+28.
+The appeals stand dismissed.
+29.
+The Contempt Petitions stand closed.
+30.
+Pending application(s), if any, shall stand rejected.
+
+....................................... J.
+
+(J. B. PARDIWALA)
+
+....................................... J.
+
+(K. VINOD CHANDRAN)
+NEW DELHI;
+OCTOBER 27, 2026.

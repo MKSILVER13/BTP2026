@@ -1,0 +1,1095 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 1609 of 2024
+
+(Arising out of the Order dated 31.05.2024 passed by the National Company
+Law Tribunal, New Delhi Bench (Court-II), in Company Petition No. (IB)-
+446(PB)/2021.)
+
+IN THE MATTER OF:
+
+Present
+For Appellants:
+Mr. Sunil Fernandes, Sr. Advocate along with
+Ms. Rajshree Chaudhary, Mr. Abhinav Kumar
+& Ms. Diksha Dadu, Advocates.
+
+For Respondents:
+
+Mr. Akhil Anand, Ms. Vishrutyi Sahni &
+Ms. Muskaan Gupta, for R-1.
+
+Shantanu Jagdish Prakash
+R/O F-5/2, DLF City Phase 1, Gurgaon, Haryana,
+Presently In New Delhi
+
+...Appellant
+
+Versus
+
+1. State Bank of India
+SBI House, 3rd Floor, 1211, Padma Tower I,
+5, Rajendra Place, New Delhi-110008
+
+2. Mr. Kanti Mohan Rastogi
+Resolution Professional,
+Registration No. IBBI/IPA-002/IPN00097/
+2017-18/10240
+email: Kanti.rustagi@patanjaliassociates.com
+F-14, First Floor, Kailash Colony,
+New Delhi, 110048
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 2 of 37
+J U D G E M E N T
+(23.01.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e., Shantanu Jagdish
+Prakash under Section 61 of the Insolvency and Bankruptcy Code, 2016 (‘Code’)
+against the Impugned Order 31.05.2024 passed by the National Company Law
+Tribunal, New Delhi Bench (Court-II) (‘Adjudicating Authority’) in Company
+Petition No. (IB)-446(PB)/2021.
+2.
+State Bank of India is the Respondent No. 1 herein.
+
+Mr. Kanti Mohan Rastogi is the Resolution Professional of the Corporate
+Debtor and Respondent No. 2 herein.
+3.
+The Appellant submitted that the Impugned Order has led to a gross
+miscarriage of justice, as it failed to recognize that the Petition filed by the
+Respondent No. 1 under Section 95 of the Code was barred by limitation.
+Furthermore, there was no privity of contract between the Appellant and State
+Bank of India (‘SBI’), since the Personal Guarantee dated 03.06.2015 was
+executed solely between the Appellant and SBICAP. Additionally, the Appellant
+asserted that the Impugned Order disregarded the critical fact that if the auction
+of the shares of The Learning.com had been conducted in a fair, transparent, and
+unbiased manner, the principal borrower, Educomp Solution Limited (‘ESL’)
+being the major shareholder of Educomp Asia would have generated substantial
+revenues. This revenue could have satisfied the claims of all lenders including
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 3 of 37
+Respondent No. 1 /SBI, thereby rendering the proceedings before the
+Adjudicating Authority unnecessary.
+4.
+The Appellant submitted that ESL was incorporated in 1994 as the flagship
+company of the Educomp Group within the emerging Education Technology
+sector. The Appellant, an ex-director and promoter of ESL, highlights that ESL
+aimed to establish a digital network for modern education across over 25,000
+schools in India. The Appellant further stated that ESL availed various credit
+facilities from a consortium of banks, including Respondent No. 1 /SBI, to
+support its business operations. However, due to an economic slowdown in 2013,
+ESL faced significant financial difficulties, leading to its accounts being declared
+as Non-Performing Assets (NPA) on 31.03.2013. Consequently, ESL was
+compelled to seek restructuring from the consortium of banks in accordance with
+the Reserve Bank of India's guidelines on Corporate Debt Restructuring (‘CDR’).
+5.
+The Appellant submitted that following the financial difficulties faced by
+ESL, the Corporate Debtor underwent an extensive Techno-Economic Viability
+(‘TEV’) Study, which was a prerequisite for admission into the CDR process.
+This TEV Study was conducted by the one consultant, Matt McDonald who stated
+that the business was viable. The Appellant stated that Master Restructuring
+Agreement (‘MRA’) was executed between the CDR lenders and ESL, with a
+cut-off date of 01.04.2013.
+6.
+The Appellant emphasized that the execution of personal guarantees was
+made a condition precedent to signing the MRA, leaving the Appellant with no
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 4 of 37
+alternative but to comply and execute these guarantees. It is the case of the
+Appellant that the terms and conditions of these personal guarantees were
+imposed by the CDR lenders, over which the Appellant had no control and under
+duress, the Appellant provided personal guarantees in favor of SBICAP Trustee
+Company Limited whenever the financial facilities under the MRA were revised,
+with each new guarantee superseding the previous one. The final personal
+guarantee was executed on 03.06.2015. The Appellant further argued that the
+Appellant was coerced into pledging his shareholding in ESL as additional
+security. The Appellant highlighted that the personal guarantees and share pledge
+were not necessary for the CDR lenders to extend loans, as sufficient security had
+already been provided against these facilities, nonetheless, the CDR lenders,
+including Respondent No. 1 /SBI, insisted on obtaining the Appellant's personal
+guarantee and share pledge as further security measures.
+7.
+The Appellant submitted that, according to the Master Restructuring
+Agreement (MRA), the consortium members were obligated to extend a Capex
+LC limit of Rs. 108,49,00,000/- to ESL which was not honoured by the Lenders
+leading to further financial crises to ESL. It is brought to our notice that the
+relevant clause, Clause 2.15.1 of the MRA, which reads as under:
+"2.15.1. the Parties agree and understand that the Borrower
+has changed its business model from 1 April, 2013 ('New
+Business Model’). Pursuant to the New Business Model, the
+borrower is selling its Smart Classes Products through third
+party i.e., Edu Smart Services Private Limited ("Outright
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 5 of 37
+Sales"). Pursuant to the New Business Mode, the Borrower
+would recognize the sale and expenses towards hardware in
+the same year for the contracts entered on Outright Sale
+basis, whereas for the contracts entered on Build Own
+Operate (BOO) basis, the Borrower would capitalize the
+assets created and book the revenue over a period of the
+contract (typically 3 years). The borrower further agreed
+that gradually it shall increase the proportion of the
+Outright Sales in future and bring down the sales done on
+BOO basis. Similarly, for JCT business, the Borrower
+would incur Capex for the contracts entered on BOO basis
+and for Outright Sales mode; the expense would be booked
+in profit & loss statement. For the contracts entered on BOO
+basis, the Borrower would require Capex LCs with a usance
+period of 3 (three) years for purchase of hardware and the
+same would be capitalized accordingly. "
+(Emphasis Supplied)
+
+8.
+The Appellant submitted that the Capex LC was essential for ESL to
+address its stressed financial situation and embark on a path of recovery and
+expansion under the New Business Model outlined in the MRA. The Appellant
+provided the Personal Guarantee under the belief that this Capex LC limit would
+indeed be extended to ESL. The Appellant castigated the CDR lenders, including
+Respondent No. 1 /SBI who failed to fulfill their part of obligations under the
+MRA, as no funds were released to ESL for the Capex LC limit. It is the case of
+the Appellant that the failure of lenders prevented the effective implementation
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 6 of 37
+of the New Business Model designed to revive ESL and facilitate its recovery and
+expansion. The Appellant argued that actions of the CDR lenders in willfully
+violating the MRA's terms significantly exacerbated ESL's financial distress,
+hindering its ability to recover. The Appellant submitted that ESL underwent a
+Techno-Economic Viability Study (TEV Study) conducted by Price water house
+Coopers Pvt Ltd (‘PwC’) and a forensic audit by Grant Thornton, both of which
+found no adverse findings against ESL.
+9.
+The Appellant submitted that both ESL and the Appellant have complied
+with all terms and conditions set forth in the MRA, and the CDR lenders have
+never raised any objections regarding this compliance. Consequently, the
+Appellant contends that the CDR lenders are entirely culpable for ESL's default.
+Furthermore, since the Personal Guarantee issued by the Appellant was based on
+the assumption of compliance with the MRA by the consortium banks, which was
+intentionally not fulfilled by lenders including Respondent No. 1 /SBI, the
+Appellant argues that this Personal Guarantee is rendered vitiated.
+10.
+The Appellant submitted that in an effort to address the challenges
+associated with the CDR package, ESL submitted a re-work plan for a second
+restructuring during the joint lenders' meeting on 29.07.2015. Although the
+second restructuring was discussed in several meetings over the following two
+years, no decisions were made by the CDR lenders. The Appellant highlighted
+that during this two-year period, the CDR lenders continued to violate the terms
+of the MRA, worsening the ESL's financial situation.
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 7 of 37
+11.
+The Appellant stated that ESL was admitted into Corporate Insolvency
+Resolution Process (‘CIRP’) by an order dated 30.05.2017, issued by the
+Adjudicating Authority in CP(IB) No. 101(PB)/2017 following which,
+Respondent No. 1 /SBI was included in the CoC for ESL after the entirety of SBI's
+claim was accepted.
+12.
+The Appellant submitted that Educomp Asia Pacific Pte Limited
+(‘EAPPL’), ESL's step-down subsidiary, was placed into liquidation by an order
+of the High Court of Singapore. The Appellant explained that ESL, through
+EAPPL, acquired approximately 55% equity in the U.S.-based e-learning
+solutions company, 'The Learning Internet Inc' or 'Learning.com', after securing
+a loan facility of USD 20 million from State Bank of India, Singapore ('SBI
+Singapore'). This loan was further secured by a Corporate Guarantee issued by
+ESL in favor of SBI Singapore. Following ESL's admission into the CIRP, SBI
+Singapore became a member of the CoC.
+13.
+The Appellant stated that, notwithstanding the aforementioned
+circumstances, the Respondent No. 1 /SBI filed O.A. No. 152/2019 before the
+Debt Recovery Tribunal - III, Delhi, against the Appellant under the Recovery of
+Debts Due to Banks and Financial Institutions Act, 1993 seeking recovery of a
+sum Rs. 404,74,85,005.90, which is based on the Personal Guarantee executed by
+the Appellant on June 3, 2015.
+14.
+The Appellant submitted that in the aforementioned O.A. filed before the
+Debt Recovery Tribunal - III, Delhi, the Appellant has made a counterclaims of
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 8 of 37
+Rs. 1,540 Crores against the Respondent No. 1 /SBI and other CDR lenders based
+on the direct commercial losses incurred by the guarantors of ESL, including the
+Appellant, due to the violation of the MRA by the CDR lenders including
+Respondent No. 1 /SBI. The Appellant seeks a set-off or equitable set-off against
+the sum of Rs. 404,74,85,005.90 claimed by SBI in the proceeding before DRT.
+15.
+The Appellant submitted that the CoC of ESL, which includes the
+Respondent No. 1 /SBI, has approved the resolution plan submitted by Ebix
+Singapore Pte Ltd. The claims filed by SBI and SBI Singapore are incorporated
+within this Resolution Plan and by an order dated 09.10.2023, of the Adjudicating
+Authority in CP (IB) No. 101 of 2017 has approved the resolution plan submitted
+by Ebix Singapore Pte Ltd., during the CIRP of ESL, and this plan is currently
+pending implementation.
+16.
+The Appellant submitted that the Respondent No. 1 /SBI, despite lacking
+locus standi, filed an application under Section 95 of the Code, as CP No.
+IB/446/(ND)/2021, based on the Personal Guarantee executed on 03.06.2015, in
+favor of SBICAP. The Appellant contended that this application is hopelessly
+barred by limitation, as ESL's account was declared a Non-Performing Asset
+(NPA) on 31.03.2013, implying that the limitation period expired on 30.03.016.
+The Appellant submitted that Respondent No. 1 /SBI has relied on a Revival
+Letter dated 30.11.2016; however, even if this letter is considered, it cannot serve
+as a valid basis for asserting that the application was filed within the limitation
+period. The Appellant submitted that the limitation period even counting from
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 9 of 37
+the Revival Letter dated 30.11.2016, concluded on 30.11.2019. Following this, a
+Demand Notice under the Code was issued on 05.11.2020, and the application
+under Section 95 of the Code was filed on 01.04.2021 by the Respondent No. 1
+/ SBI and thus both the Demand Notice and the application under Section 95 of
+the Code are time-barred.
+17.
+The Appellant submitted that the Respondent No. 1 /SBI has failed to
+properly invoke the Personal Guarantee, which is in any case is an afterthought,
+as the purported letter of demand dated 22.06.2018, issued under Section 13(2) of
+the Securitization and Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002 ('SARFAESI Act'), amounted to an invocation of the
+Personal Guarantee. The Appellant asserts that SBI incorrectly claims that the
+date of default was August 21, 2018, which cannot be valid as it falls after the
+declaration of the account as a NPA on 31.03.2013.
+18.
+The Appellant submitted that the Respondent No. 1 /SBI is not a signatory
+to the Personal Guarantee dated 03.06.2015, and therefore, could not have
+invoked this guarantee against the Appellant. Furthermore, the invocation of the
+Personal Guarantee was executed in blatant disregard of its express terms, as
+Clause 9 of the guarantee explicitly prohibits lenders from enforcing it severally.
+The Appellant stated that even Clause 17 of the Personal Guarantee has also been
+overlooked, as it requires the issuance of a certificate by the Security Trustee or
+lenders detailing the amount due from the guarantors, which Respondent No. 1
+/SBI failed to provide.
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 10 of 37
+19.
+The Appellant stated that SBI Singapore, in a manner that lacks
+transparency, sold shares of 'Learning.com' pledged to it by EAPPL at a
+significantly undervalued price at USD 7.1 million, intentionally obscuring the
+sale from creditors and other stakeholders of ESL. The shares were valued at USD
+42.049 million in 2014 by the global audit and consulting firm M/s Mazars. It is
+the case of the Appellant that a fair and authentic valuation of 'Learning.com'
+would have placed its worth in the range of USD 400 million, which means that
+ESL's 55% stake would have been sufficient to settle the entire debt owed to the
+CoC.
+20.
+The Appellant submits that on 21.09.2021, the Appellant sent an email to
+the Respondent regarding the shares of Learning.com, requesting information
+about the auction process for these shares, including an independent valuation
+report, a copy of the share purchase agreement with the buyers, approvals
+obtained for the sale, and the latest financial statements for the past three years.
+Additionally, the Appellant was compelled to send a legal notice to the CoC of
+ESL and the Resolution Professional, urging them to investigate the sale of this
+asset and disclose all relevant details to the entire CoC. The notice also called for
+appropriate legal actions, including approaching the Adjudicating Authority to
+reverse the transactions undertaken by SBI in India and Singapore, citing the
+illegal, arbitrary, and non-transparent nature of these actions, however, SBI and
+SBI Singapore failed to provide any of the requested information concerning the
+auction of Learning.com shares.
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 11 of 37
+21.
+The Appellant submitted that the Resolution Professional has erroneously
+relied on Clause 9 of the Personal Guarantee to assert that this clause allows
+lenders to enforce the guarantee jointly and severally against the Appellant as the
+Personal Guarantor. The Appellant contends that the RP has completely
+misconstrued Clause 9, which explicitly refers to the two guarantors, not the
+lenders. This clause permits enforcement of the guarantee either against both
+guarantors or against one guarantor individually, thereby indicating that the
+enforcement cannot be applied to the Appellant alone without considering the
+other guarantor. The said Clause 9 does not permit the lenders to severally enforce
+the Personal Guarantee.
+22.
+The Appellant stated that Clause 17 of the Personal Guarantee, mandates
+the issuance of a certificate by the Security Trustee, to be annexed with any
+application filed under Section 95 of the Code. However, the application
+submitted by Respondent No. 1 /SBI under Section 95 of the Code does not
+include such a certificate from the Security Trustee or the lenders, nor has the
+Security Trustee invoked the Personal Guarantee therefore action of Respondent
+No. 1/SBI is illegal.
+23.
+The Appellant stated that a careful examination of the recitals and Clause
+29 of the Personal Guarantee reveals that the rights to enforce the personal
+guarantee have been ceded to the Security Trustee. Specifically, Recital F states
+that "In order to create a joint guarantee for the Loans, the Security Trustee has
+called upon the Guarantors to execute, and the Guarantors have executed, this
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 12 of 37
+Guarantee in favor of the Security Trustee for the benefit of all Lenders."
+Additionally, Clause 29 clarifies that "The Guarantors agree and declare that the
+rights and powers conferred on the Security Trustee/Lenders by these presents
+may be exercised by the Security Trustee acting for the benefit and on behalf of
+all or any of the Lenders." The Appellant submitted that enforcement actions must
+be taken by the Security Trustee rather than by individual lenders.
+24.
+The Appellant submitted that he presented objections to the petition filed
+under Section 95 of the Code and the report submitted by the Resolution
+Professional under Section 99 of the Code. Among other grounds, the Appellant
+categorically stated that:
+(a) there was no privity of contract between SBI and the Appellant as Guarantor,
+thus Respondent No. 1 /SBI could not invoke a guarantee executed by the
+Appellant and the Security Trustee, SBICAP;
+(b) the purported Personal Guarantee, upon which the application was based, is
+void ab initio and non-est as it contravenes Section 28 of the Indian Contract Act,
+1872;
+(c) the demand notice issued by Respondent No. 1 /SBI on November 5, 2020,
+and the subsequent application under Section 95 of the code were both time-
+barred, having been initiated after the expiration of three years from the date when
+the cause of action arose; and
+(d) the application was premature as Respondent No. 1 /SBI's claim against the
+Appellant had not yet crystallized.
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 13 of 37
+(e) Additionally, during the liquidation process of EAPPL, shares of
+Learning.com were sold on 03.09.2021, at a grossly undervalued price in a
+deliberate attempt to conceal the sale from creditors and other stakeholders of
+ESL, which owned nearly 55% of Learning.com. There was no satisfactory
+explanation provided by Respondent No. 1 /SBI or SBI Singapore regarding the
+sale of this asset at such a low price.
+25.
+The Appellant submitted that, by way of I.A. No. 187/ND/2022 in CP (IB)
+No. 101 (PB)/2017, the Appellant sought directions from the Adjudicating
+Authority to hold SBI and SBI Singapore liable for damages or compensation to
+ESL and/or its lenders for the surplus or profit that would have benefited the
+lenders and other stakeholders of ESL. The Appellant argued that based on this
+IA, in an order dated 25.08.2023, the Adjudicating Authority found merit in the
+Appellant's submissions and directed for re-evaluation of the shares of
+Learning.com.
+26.
+The Appellant submitted that the Adjudicating Authority further directed
+that if the re-evaluated valuation of the shares exceeds USD 7.1 million, which is
+the amount for which the shares were sold on 03.09.2021, then the claim of SBI
+Singapore against ESL would be reduced accordingly. The Appellant contends
+that had the shares of Learning.com been sold at their correct valuation, ESL's
+entire debt would have been settled, leaving nothing to be recovered from the
+Appellant as Guarantor.
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 14 of 37
+27.
+Concluding his arguments, the Appellant urged this Appellate Tribunal to
+dismiss the Impugned Order and allow his appeal.
+28.
+Per contra, the Respondent denied all the averments made by the Appellant
+in the present appeal.
+29.
+The Respondent No.1 submitted that the Corporate Debtor availed a range
+of credit facilities, which included Rupee Term Loans totalling Rs. 636.82 crores
+from existing term loan lenders, and working capital facilities, both fund-based
+and non-fund-based, amounting to Rs. 543.80 crores from working capital
+lenders. Additionally, the Corporate Debtor secured external commercial
+borrowings (‘ECB’) of Rs. 434 Crores from ECB lenders. The Corporate Debtor
+also acquired equipment through financial leases and obtained financial facilities
+backed by pledged promoter’s shares. The Respondent No.1 stated that to secure
+these credit facilities, the Corporate Debtor created charges over its movable
+assets and mortgaged its immovable properties in favor of the lenders. Despite,
+these measures, the Corporate Debtor encountered significant adverse financial
+conditions, leading to its classification as a NPA on 31.03.2013.
+30.
+The Respondent No.1 submitted that the Corporate Debtor acknowledged
+its debt under Section 18 of the Limitation Act, 1963, by executing a Revival
+Letter dated 30.11.2016. However, the Corporate Debtor subsequently defaulted
+on its obligations to Respondent No. 1, with the last payment of ₹1,56,842 made
+on 02.02.2017. The CIRP for the Corporate Debtor commenced on 30.05.2017,
+during which Respondent No. 1 filed and had its claim admitted. Nonetheless, the
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 15 of 37
+approved Resolution Plan under the CIRP allocated only Rs. 40.77 crores against
+Respondent No. 1's total claim of Rs. 532.99 crores.
+31.
+The Respondent No.1 submitted that on 22.06.2018, Respondent No. 1
+issued a demand notice under Section 13(2) of the SARFAESI Act to the
+Appellant, invoking the Personal Guarantee and requesting repayment of the
+outstanding amount. The Appellant failed to discharge the outstanding dues
+within the stipulated 60 days, constituting a default. Subsequently, on 05.11.2020,
+Respondent No. 1 issued another demand notice under Rule 7(1) of the
+Insolvency and Bankruptcy Rules, 2019, demanding payment of Rs.
+532,99,88,089.76 as of 28.02.2021. In response, the Appellant admitted the
+execution of the Personal Guarantee and its failure to pay the debt due in its reply
+to Respondent No. 1's demand notice dated 18.11.2020. Despite this admission,
+neither the Corporate Debtor nor the Appellant has cleared the outstanding dues
+or accrued interest. As a result, Respondent No. 1 filed the Company Petition on
+01.04.2021.
+32.
+The Respondent No.1 submitted that the Resolution Professional, who was
+appointed on 17.11.2021, submitted a report dated 28.01.2022, under Section 99
+of the Code to the Adjudicating Authority recommending the admission of the
+Company Petition against the Appellant. Furthermore, in the Reply/Objections to
+the RP's report filed by the Appellant on 08.04.2022, the Appellant admitted to
+the execution of the Personal Guarantee and acknowledged its failure to pay the
+debt due.
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 16 of 37
+33.
+The Respondent No.1 submitted that allegation of the Appellant that there
+exists no privity of contract between Respondent No. 1 and the Appellant, which
+precludes Respondent No. 1 from invoking the Guarantee executed by the
+Appellant and the security trustee, SBICAP Trustee Company Limited
+("SBICAP") is far from truth. The entries in Form B (Notice of Demand) and
+Form C (Application) are specifically related to the filing of a Section 95 petition
+by a creditor. Importantly, there is no provision in the Code that prohibits a lender
+from filing a petition, even in cases where a security trustee has been appointed
+to hold the security interest. Therefore, the assertion that Respondent No. 1 cannot
+proceed based on the lack of direct contractual relationship with the Appellant is
+unfounded.
+34.
+The Respondent No.1 submitted that the terms of the MRA and the Security
+Trustee Agreement (STA) clearly indicate that the security trustees are holding
+'Security' not for their own benefit, but on behalf of and for the benefit of the
+Claimant/Lender. Consequently, the Lender has the right to enforce the security
+documents even if they are not a party to the trusteeship agreement. Furthermore,
+it is well-established law that beneficiaries under a contract are entitled to enforce
+its covenants. This principle is supported by the case of M.C. Chacko v. State
+Bank of Travancore, Trivandrum, [(1969) 2 SCC 343] at Paras 9-12, which
+affirms that a party can indeed enforce a contract made for its benefit. Therefore,
+the Lender's ability to act upon the security documents is valid and enforceable,
+irrespective of their direct involvement in the trusteeship agreement.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 17 of 37
+35.
+The Respondent No.1 submitted that the arguments of the Appellant about
+the demand notice dated 05.11.2020, and the present Company Petition being
+time-barred, as the Corporate Debtor was declared a NPA on 31.03.2013 are
+misplaced because it relates to loans that predate the MRA, which restructured
+these liabilities with the consent of all parties, culminating in the MRA dated
+25.03.2014. Thus, the argument regarding the NPA from 2013 is irrelevant.
+Furthermore, the appellant acknowledged its liability through a Revival Letter
+dated 30.11.2016. Consequently, any limitation period for the Corporate Debtor
+commenced on that date and expired on 30.11.2019. Respondent No. 1 issued a
+Demand Notice on 22.06.2018, requiring payment within 60 days (i.e., by August
+22, 2018). Therefore, for the present application against the appellant, the
+limitation period commenced on August 22, 2018, and expired on 23.08.2021.
+Since the application was filed on 31.03.2021, it is well within the limitation
+period following the Section 95 Demand Notice issued on 05.04.2020.
+36.
+The Respondent No.1 submitted that it is settled law that when a guarantor
+becomes liable due to a valid demand made in a timely manner, the creditor
+retains the right to sue the guarantor within three years, even if the claim against
+the principal debtor subsequently becomes time-barred. This principle is
+established in the case of Syndicate Bank v. Channaveerappa Beleri & Ors.,
+[(2006) 11 SCC 506] at Paras 9-14. The respondent asserts that the timing of the
+demand and subsequent actions taken by the creditor are valid and enforceable
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 18 of 37
+under the law, irrespective of any limitations that may apply to the principal
+debtor's obligations.
+37.
+The Respondent No.1 submitted that the Adjudicating Authority correctly
+determined that since Respondent No.1/SBI issued the notice demanding
+payment of the entire loan amount within 60 days of service on 23.08. 2018, the
+limitation period for the claim commenced on that date. Consequently, the
+Company Petition was filed within the applicable limitation period. This
+interpretation aligns with established legal principles regarding the
+commencement of limitation periods in insolvency proceedings, reinforcing the
+validity of the petition and the timely actions taken by SBI.
+38.
+The Respondent No.1 submitted that the appellant's contention that the
+Notice of Demand dated 22.06.2018, under Section 13(2) of the SARFAESI Act
+is not an invocation of the personal guarantee is unfounded. Respondent No. 1
+issued the Notice specifically against the Appellant, clearly referencing the
+Personal Guarantee dated 03.06.2015. The Notice explicitly states, "The said
+financial assistance is also secured by the personal guarantee of Sh. Shantanu
+Prakash & Sh. Jagdish Prakash & corporate guarantee of Edu Smart Services
+Pvt Limited for consortium advance." This unequivocal mention demonstrates
+that the personal guarantee was indeed invoked, thereby validating the present
+petition.
+39.
+The Respondent No.1 submitted that the Notice of Demand dated 22.06.
+2018, while referencing Section 13(2) of the SARFAESI Act, explicitly called
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 19 of 37
+upon the Appellant to discharge in full the borrower liabilities stated hereunder to
+the Bank within 60 days of this notice which clearly indicates that the Notice
+fulfils all conditions stipulated under the Personal Guarantee and constitutes a
+valid invocation. Furthermore, the Appellant did not raise this objection in its
+reply to the Demand Notice dated 05.11.2020, suggesting that this argument is an
+afterthought intended to evade the admission of the Application.
+40.
+The Respondent No.1 submitted that the appellant's claim regarding SBI
+Singapore selling a 55% stake in Learning.com during EAPPL's liquidation at an
+undervalued price, leading to insufficient debt recovery is completely unfounded,
+baseless and illegal and with purpose to derail CIRP under section 95 of the code.
+41.
+The Respondent No.1 submitted that the appellant's claim that the Personal
+Guarantee is vitiated due to a breach of the MRA by the CDR Lenders,
+specifically regarding the failure to extend the Capex LC limit of Rs. 108.49
+Crores and the alleged non-implementation of a second restructuring, is without
+merit. The Respondent No.1 submitted that the issues pertain to the terms of the
+MRA, which govern the relationship between the CDR Lenders and the Corporate
+Debtor, and do not impact the enforceability of the Personal Guarantee, which
+remains valid until the underlying debt is fully discharged. Additionally, the
+Revival Letter executed by the appellant on 30.11.2016, further confirms their
+acknowledgment of the outstanding debt and reinforces their continuing liability
+under the Personal Guarantee, irrespective of any disputes regarding MRA
+performance. The Respondent No.1 submitted that appellant's argument fails to
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 20 of 37
+provide any valid legal basis for vitiating the Personal Guarantee, especially
+considering that the default by the Corporate Debtor occurred after both the
+restructuring and the acknowledgment of debt by the Appellant.
+42.
+Concluding, his arguments the Respondent No.1 defended the Impugned
+Order and requested this Appellate Tribunal to dismiss the appeal with exemplary
+costs.
+Findings
+43.
+We note that application under Section 95 of the Code filed by the
+Respondent No.1/SBI was admitted vide the Impugned Order dated 31.05.2024
+and Personal Insolvency Resolution Process (‘PIRP’) has been initiated against
+the Appellant who is the guarantor of the of the Corporate Debtor ESL.
+44.
+We have already noted the facts from the pleadings of the Appellant and
+the Respondent herein above and therefore shall not repeat. The Impugned Order
+has been challenged by the Appellant based on the following grounds :-
+a) The application filed under Section 95 of the Code was barred by
+limitation.
+b) There was no privity of contract between Applicant/ SBI and Appellant/
+personal guarantor.
+c) The Adjudicating Authority could not have passed the Impugned Order
+based on invocation of personal guarantee by 3rd party.
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 21 of 37
+d) The Appellant has also challenged on the ground that the debt itself has
+not been crystalised.
+e) The Impugned Order did not issue direction under Section 100 (2) of
+the Code regarding negotiations to be held in Appellant/ personal
+guarantor and the Creditor/ Respondent.
+f) The Impugned Order ignored the fact regarding under valued sale of
+shares in learning.com held by of Corporate Debtor subsidiary EAPPL
+leading to groups under recovery for the principal borrower.
+45.
+These points are interconnected and inter dependent and shall be dealt in
+conjoint manner in the following discussions :-
+(a) The application filed under Section 95 of the Code was barred by
+limitation.
+(i)
+As regards, the issue of limitation, it is the case of the Appellant
+that ESL was declared as NPA on 31.03.2013 and thus, limitation
+period should have ended on 30.03.2016. The Appellant
+considered that even based on the revival letter dated 30.04.2016,
+the limitation period could have been only up to 30.11.2019.
+(ii)
+The Appellant argued that the demand notice was issued on
+05.11.2020 and an application under Section 95 was filed by the
+Respondent No. 1 on 01.04.2021. Hence, both the demand notice
+and the Section 95 application were time barred.
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 22 of 37
+(iii) In this connection, we note that although the account of the
+Corporate Debtor was declared as NPA on 31.03.2013, however,
+the loans were predating, the MRA was restructured on
+25.03.2014 with the consent of all parties including the Appellant
+herein and therefore, the NPA date ceased to the relevant as such.
+(iv)
+We further note that the Appellant acknowledged its liability
+through a revival letter dated 30.11.2016 and therefore the
+limitation would have expired on 30.11.2019.
+(v)
+We further note that the Respondent No. 1 issued a demand notice
+on 22.06.2018 requesting for payment within 60 days i.e., by
+22.08.2018 and therefore, for the purpose of calculating
+limitation period in the present case would have started on
+22.08.2018 and would have ended on 21.08.2021. We note that
+the application was filed on 31.03.2021 much before the expiry
+of the limitation period.
+(vi)
+Thus, we hold that both the demand notice as well as Section 95
+application were filed within period the period of limitation.
+(vii) The arguments of the Appellant on the issue of limitation stand
+rejected.
+(b) There was no privity of contract between Respondent No.1/ SBI and
+Appellant/ personal guarantor.
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 23 of 37
+(c) The Adjudicating Authority could not have passed the Impugned
+Order based on invocation of personal guarantee by 3rd party.
+(i)
+As regard, the issue of privity of contract, it has been pleaded by
+the appellant that the personal guarantee was between the
+Appellant along with other guarantor with SBICAP Trustee
+Company Limited and the Respondent No. 1 was not signatory to
+personal guarantee as such the Respondent No. 1 could not have
+initiated Section 95 application. On this account, we note that
+concept of trusteeship is to act on behalf of the creditors or
+consortium of creditors.
+(ii)
+Thus, such trusteeship deeds are generally signed between the
+trust on behalf of the lenders and the personal/ corporate
+guarantor of the principal borrower. However, by its inherent
+nature and intent, the lenders or the Financial Creditors are the
+true beneficiaries of such deed of guarantee.
+(iii) We further note that Section 95 of the Code provides right to the
+creditors to file application to initiate PIRP.
+(iv)
+It has been pleaded that security trustee is merely holding security
+in favour of the creditor or consortium of creditors and therefore
+either the trust or creditors may file application under Section 95
+of the Code.
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 24 of 37
+(v)
+The wording of Section 95(1) of the Code clearly stipulate that
+creditor may apply “either by himself or generally with other
+creditors”. Therefore, the creditor i.e., Respondent No. 1 is
+within his right to initiate Section 95 application and does not
+prevent him based on alleged lack of privity of contract with the
+Appellant. It is settled law that a party can enforce the contract
+made for its benefit.
+(vi)
+From the terms of the MRA and the STA, it is clear that the
+security trustees are holding 'Security' not for themselves, but on
+behalf of, and for the benefit of, the Claimant/Lender. The
+Lenders, can therefore, enforce the security documents even if
+they are not a party to the trusteeship agreement.
+(vii) In this connection, we note Clause ‘O’ of MRA, which reads as
+under :-
+“O. The Borrower has appointed SBICAP Trustee
+Company Limited as the Security Trustee in accordance
+with the terms of the security trustee agreement dated
+25/03/2014 ("Security Trustee Agreement") for the
+purpose of holding the security interest for the benefit
+of the CDR Lenders (as defined in Article 1 of this
+Agreement) and Non CDR Lenders (as to give effect to
+Approved CDR Package).”
+(Emphasis Supplied)
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 25 of 37
+(viii) It is settled law that beneficiaries under the terms of a contract
+have the right to enforce the covenants thereof as held by the
+Hon’ble Supreme Court of India in case of M.C. Chacko v. tile
+State Bank of Travancore, Trivandrum, [(1969) 2 SCC 343].
+(ix)
+The MRA acknowledges the Lenders' right to recover their
+independent loans. Thus, by way of the MRA, the CDR Lenders
+had not waived their right to recover their respective Restructured
+Loans, the New Working Capital Facilities and the Corporate
+Loans.
+(x)
+We note the following part of Agreement :-
+“WAIVER
+OF
+EXISTING
+EVENTS
+OF
+DEFAULTS
+Subject to Section 7.3 (Consequences of Revocation),
+each of the CDR Term Loan Lenders and the CDR
+Working Capital Lenders hereby waives any Existing
+Events of Default relating to such Existing Term Loans
+and the Existing Working Capital Facilities and any
+and all rights, remedies and powers that may have
+arisen in connection therewith. For avoidance of doubt,
+it is hereby clarified that the CDR Lender.; do not
+hereby waive their right to recover their respective
+Restructured Loans, the New Working Capital
+Facilities and the Corporate Loans in accordance with
+the terms of this Agreement. In the event any such CDR
+Lender had already committed any action against the
+Borrower and/or its guarantors, such action shall not
+
+[PAGE 26]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 26 of 37
+abate, unless such action is brought to a close through
+consent terms or otherwise pursuant to Restructuring
+Documents.”
+(Emphasis Supplied)
+(xi)
+This makes position very clear and give rights to the Lender/
+Financial Creditor/ Respondent No. 1 herein to pursue its legal
+rights.
+(xii) We have noted that Guarantors has confirmed the existence of the
+existing guarantee given to the Existing Term Loan Lenders and
+Working Capital Lenders through the following :-
+1.3.1
+The
+Guarantors
+hereby
+irrevocably
+acknowledge and confirm the existing guarantee given
+by the guarantors to the Existing Term Loan Lenders
+and the Existing Working Capital Lenders and the
+amount of the Existing Term Loan outstanding to each
+of the Existing Term Loan Lenders and the amount of
+the Existing Working Capital Facilities of the Existing
+Working Capital Lenders and agrees to and
+acknowledges the reconstitution of the Existing Term
+Loans due to the Existing Term Loan Lenders and
+conversion of irregular portion of the Existing Working
+Capital Facilities due to the Existing Working Capital
+Lenders pursuant to the Approved CDR Package and
+the other Restructuring Documents.”
+
+(Emphasis Supplied)
+
+[PAGE 27]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 27 of 37
+(xiii) Now, we will look into various provisions of Personal Guarantee
+deed, which stipulates the rights and obligations. The relevant
+clauses are :-
+➢ As per Clause 1.3.4 of Terms of Guarantee, in case of
+default of the Borrower, the Guarantors without protest
+will pay on their behalf upon demands by the Security
+Trustee/Lenders. Clause 1.3.4 of terms of guarantee reads
+as under :-
+“1.3.4 In the event of any default on the part
+of the Borrower in payment/repayment and in
+reimbursement of any of the monies referred
+to above, or in the event of any default on the
+part of the Borrower to comply with or
+perform any of the terms, conditions and
+covenants contained in the Restructuring
+Documents, the Guarantors shall upon
+demand from the Security Trustee/Lenders,
+forthwith pay to the Security Trustee/Lenders
+without demur and protest all the amounts
+payable
+by
+the
+Borrower
+under
+the
+Restructuring Document.”
+➢ This Clause 1.3.4 makes amply clear that both Trustee as
+well the Lenders have full rights to ask guarantor to pay.
+➢ Further in terms of Clause 1.3.6 of Terms of Guarantee, the
+guarantor shall also indemnify and keep the Security
+
+[PAGE 28]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 28 of 37
+Trustee/Lenders indemnified against all losses, damages,
+costs, claims and expenses whatsoever which the Security
+Trustee/Lenders may suffer, pay or incur by reason of, or
+in connection with any such default on the part of the
+Borrower, including the legal proceedings taken against
+the Borrower and/or the Guarantor for the recovery of
+monies referred to in Clause 1.3.3 and 1.3.4. The Clause
+1.3.6 reads as under :-
+“1.3.6 The guarantors shall also indemnify
+and keep the Security Trustee/Lenders,
+indemnified against all losses damages, costs,
+claims and expenses whatsoever which the
+Security Trustee/Lenders may suffer, pay or
+incur by reason of or in connection with may
+such default on the part of the Borrower
+including legal proceedings taken against the
+Borrower and/or the Guarantors for recovery
+of the monies referred to in Clause 3 and 4
+above.”
+(Emphasis Supplied)
+➢ Further in terms of Clause 1.3.8 of terms of guarantee the
+Security Trustee/Lenders have the liberty to exercise the power
+given to the Lenders, to enforce the payment of the Loans. Clause
+1.3.8 of terms of guarantee reads as under :-
+
+[PAGE 29]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 29 of 37
+“1.3.8 The Security Trustee/Lenders shall have full
+liberty, without notice to the Guarantors and without
+in any way affecting this Guarantee, to exercise at
+any time and in any manner any power or powers
+reserved to the Lenders under the Restructuring
+Documents, to enforce or forbear to enforce payment
+of the Loans or any part thereof or interest or other
+monies due to the Lenders from the Borrower or any
+of the remedies or securities available to the Lenders,
+to enter into any composition or compound with or to
+grant time or any other indulgence or facility to the
+Borrower AND the Guarantors shall not be released
+by the exercise by the Security Trustee/ Lenders of its
+liberty in regard to the matters referred to above or
+by any act or omission on the part of the Security
+Trustee/the Lenders or by any other matter or thing
+whatsoever which under the law relating to sureties
+would but for this provision have the effect of so
+releasing the Guarantors and the Guarantors hereby
+waive in favour of the Security Trustee/the Lenders so
+far as may be necessary to give effect to any of the
+provisions of this Guarantee, all the surety ship and
+other rights which the Guarantors might otherwise be
+entitled to enforce.”
+(Emphasis Supplied)
+(xiv) Clause 28 of terms of guarantee clarifies that the rights and
+powers of the Security Trustee/Lenders are deemed to be joint
+and severable. Clause 28 of terms of guarantee reads as under :-
+
+[PAGE 30]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 30 of 37
+“ 28. The Guarantors agree and declare that the
+rights and powers conferred on the Security Trustee
+/Leaders by these presents to joint and several and
+shall be deemed always to be so and they may be
+exercised
+by
+the
+Security
+Trustee/Lenders
+accordingly.”
+(Emphasis Supplied)
+(xv) In addition, as per Clause 30 of terms of guarantee the Lenders
+have the powers against the Guarantors notwithstanding any
+security given or being given to the Lenders may be void or
+defective. Clause 30 of terms of guarantee reads as under ;-
+“30. The Guarantors agrees that the Lenders shall
+not be bound to enquire into the powers of the
+Borrower and the Lenders have powers against the
+Guarantors notwithstanding any security given or
+being given to the Lenders may be void or
+defective.”
+(Emphasis Supplied)
+
+(xvi) Similarly, Clause 34 (d) stipulate that the liability of the
+Guarantor shall not be prejudiced or affected by way of any
+irregularity or enforceability of any person or security. Clause
+34(d) of terms of guarantee reads as under :-
+“34 (d) any irregularity with respect to or
+enforceability, or of any obligations of any other
+person or security, to the intent that the
+
+[PAGE 31]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 31 of 37
+Guarantor's obligations hereunder shall remain in
+full force and this Guarantee be construed
+accordingly as if there were no such Irregularity,
+unenforceability,
+Illegality,
+invalidity
+or
+frustration.”
+(Emphasis Supplied)
+(xvii) We also note that according to Clause 45 of terms of guarantee
+the Security Trustee or the Lenders or the Monitoring Institution
+can initiate any actions against the Guarantors in any courts or
+tribunals. Clause 45 reads as under :-
+“Clause 45. Any legal action or proceedings
+arising out of this Guarantee shall be brought in
+the courts or tribunals at Delhi In India and the
+parties hereto irrevocably submit themselves to the
+non- exclusive jurisdiction of such court or
+tribunal. The Security Trustee and/or the
+Monitoring Institution and/or the Lenders may,
+however, in their absolute discretion commence
+any legal action or proceedings arising out of this
+Guarantee In any other court, tribunal or other
+appropriate forum, and all the other parties to this
+Guarantee hereby consent to that Jurisdiction.”
+(Emphasis Supplied)
+(xviii) We hold that the Adjudicating Authority has rightly held in para
+14 of the Impugned Order that merely because the trustee acted
+on behalf of Respondent No. l/SBI, it cannot be said that the
+
+[PAGE 32]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 32 of 37
+beneficiary/creditor cannot enforce the Personal Guarantee
+executed by the Appellant. As can be seen from clause O of the
+MRA, SBICAP was appointed as Security Trustee in accordance
+with the terms of the Security Trustee Agreement dated
+25.03.2014 for the purpose of holding the security interest for the
+benefit of the CDR lenders and non-CDR lenders. Thus, SBI had
+the locus to file the Company Petition.
+(xix) Thus, on this point, we do not find any merit and the pleadings of
+the Appellant on this account stand rejected.
+(d) The Appellant has also challenged on the ground that the debt itself
+has not been crystalised.
+(i)
+On this issue pleaded by the Appellant, we note that Section 95
+of the Code has been initiated demanding payment of
+Rs. 532,99,88,089.76 with the date of default specified as
+21.08.2018.
+(ii)
+It is the case of the Appellant that O.A. No. 152/2019 before the
+Debt Recovery Tribunal - III, Delhi was filed by the Respondent
+No. 1 is pending where the Appellant has also filed a counter
+claims of Rs. 1540 Crores against the Respondent No. 1 and
+further seeking set off/ equitable set off for the sum of
+Rs. 404,74,85,005.90/- and thus, the debt has not been
+crystallised.
+
+[PAGE 33]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 33 of 37
+(iii) We find that the personal guarantor signed the personal guarantee
+on 03.06.2015 and became guarantor on behalf of principal
+borrower. The borrower amount has been stipulated therein. We
+have already noted that there has been established the case of
+default of debt and subsequently CDR was sanctioned which also
+failed.
+(iv)
+We further note from the particulars furnished in Section 95
+application of the Respondent No. 1 (relevant portion has been
+reproduced in the Impugned Order) that details of the debts along
+with relied upon documents for debt has been furnished by the
+Respondent No. 1/ SBI.
+(v)
+We, therefore, do not appreciate the arguments of the Appellant
+on this account based on argument that mere fact that the case is
+pending before the DRT and certain counter claims have been
+filed by the Appellant will not make debts payable by the
+Appellant as debts not have been crystalised.
+(vi)
+Therefore, the contention of the Appellant on this ground stand
+rejected.
+(e) The Impugned Order did not issue directions under Section 100 (2)
+of the Code regarding negotiations to be held in Appellant/ personal
+guarantor and the Creditor/ Respondent.
+(i)
+The Section 100 (2) Code reads as under :-
+
+[PAGE 34]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 34 of 37
+
+“(2) Where the Adjudicating Authority admits an
+application under sub-section (1),it may, on the
+request of the resolution professional, issue
+instructions
+for
+the
+purpose
+of
+conducting
+negotiations between the debtor and creditors and for
+arriving at a repayment plan.”
+(Emphasis Supplied)
+(ii)
+We note that Section 100 (2) Code is applicable if repayment plan
+is prepared by the debtor under Section 105 of the Code then
+opportunity should be offered to the debtor. The order of the
+Adjudicating Authority is only if the Resolution Professional
+makes an application for the same.
+(iii) On this issue, we specifically put a query to the Appellant herein
+whether he is in position to repay the demanded money by the
+Respondent No. 1/ SBI and whether he can offer any repayment
+plan even at this stage. The Appellant could not give any concrete
+reply, as such we do not find any substance that debtor/ appellant
+has not been offered an opportunity to offer the repayment plan
+and has suffered on this account.
+(f) The Impugned Order ignored the fact regarding under valued sale
+of shares of Corporate Debtor subsidiary in learning.com leading
+to gross under recovery for the principal borrower.
+
+[PAGE 35]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 35 of 37
+(i)
+This subject of sale of shares of Learning. com/ The Learning
+network.com has already been challenged by SBI Singapore in
+connected Appeal bearing Comp. App. (AT) (Ins.) No. 1351 of
+2023 and is before us. We have examined this issue in great detail
+and judgement is being pronounced in the separate judgement in
+this regard allowing the appeal of SBI Singapore and setting aside
+Para 27(a) and 27 (b) of the Impugned Order dated 25.08.2023
+passed by the Adjudicating Authority in IA. No. 187/ND/2022 in
+Company Petition No. (IB)-101/(PB)/2017.
+(ii)
+As such, we do not find any merit on this ground in the present
+appeal. For purpose of brevity, we are not elaborating the detailed
+reasons once again here as we have heard both the cases together,
+pleaded by the Appellant through same counsel and order was
+reserved on same date and order is pronouncing on the same date
+in both the appeals.
+46.
+We shall also deal some other points which have been raised by the
+Appellant. The Appellant contended that the notice of demand dated 22.06.2018
+under Section 13(2) of the SARFAESI Act is not an invocation of personal
+guarantee and therefore present petition cannot be invoked in absence of proper
+invocation of property. On this point we note that the Respondent No. 1 has issued
+notice to the Appellant specifically mentioning the personal guarantee dated
+03.06.2018 which clearly stipulated that "The said financial assistance is also
+
+[PAGE 36]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 36 of 37
+secured by the personal guarantee of Sh. Shantanu Prakash & Sh. Jagdish Prakash
+& corporate guarantee of Edu Smart Services Pvt limited for consortium
+advance." It has further brought to our notice that while notice was issued under
+Section 13(2) of the SARFAESI Act, which has also specifically called upon the
+Appellant to discharge in full the borrower liability stated therein within 60 days
+of the notice. Thus, the notice fulfils all the condition stipulated under personal
+guarantee and can be treated as valid invocation. On this issue, the Adjudicating
+Authority has also held that the demand notice issued by the Respondent No. 1
+under Rule 7(1) of the I&B (Application to Adjudicating Authority for Insolvency
+Resolution Process for Personal Guarantors to Corporate Debtors) Rules, 2019 as
+valid. Thus, we do not find any error in the Impugned Order on this account.
+47.
+One of the issues raised by the Appellant was regarding breach of the MRA
+by the CDR Lenders which led to collapse of the Corporate Debtor, therefore, the
+Personal Guarantee of the Appellant stood vitiated. It is the case of the Appellant
+that
+the
+CDR lenders did not extend the
+Capex LC limit of
+Rs. 108.49 Crores. On this issue, it has been brought out that the issue of Capex
+LC limit and failure of the Corporate Debtor to implement CDR Plan was relating
+to MRA and between the CDR Lenders and the Corporate Debtor and do not give
+any right to the Appellant/ Personal Guarantor to wriggle out of the personal
+guarantee. We find merit of the contention of the Respondent No. 1.
+
+[PAGE 37]
+Comp. App. (AT) (Ins.) No. 1609 of 2024
+Page 37 of 37
+48.
+In view of detailed examination of various issues brought out in the present
+appeal, we do not find any merit in the Appeal. Appeal stands rejected. No costs.
+I.A, if any, are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+Sim

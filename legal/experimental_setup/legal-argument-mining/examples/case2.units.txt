@@ -1,0 +1,7 @@
+# FILE case2.txt  n_chars=168  units=3  paragraphs=2
+# SCOPE: legal reasoning starts at char 0 (unit u1) via law-heading. Earlier units are hidden (facts/procedure).
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (costs / default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+u1 p1  [0-13) H | AS TO THE LAW
+u2 p2 ¶1 [17-108) | The applicant argued that the law was unclear, but the Court finds that it was foreseeable.
+u3 p2  [109-167) | The Court therefore concludes that there was no violation.

@@ -1,0 +1,1166 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+[Arising out of the Impugned Order dated 22.02.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Jaipur
+Bench in CP (IB) No. 05/7/JPR/2021]
+
+In the matter of:
+Mrs. Madhubala Chauhan
+Suspended director of Karni Developers
+& Construction Company Pvt. Ltd.
+Address:- Eco Friendly Tourist Unit,
+Near Kaylana Road Gram Genva,
+Jodhpur Rajasthan-342009.
+
+...Appellant
+
+Versus
+
+Phoenix Arc Pvt. Ltd.
+Having its registered office at:
+3rd Floor, Wallace Towers
+(earlier known as Shiv Bldg),
+139-140/B/ l, Crossing of Sahar Road and
+West E-Way, Vile Parle East, Mumbai,
+Maharashtra- 400057.
+
+...Respondent no.1
+
+Sh. Manoj Sehgal
+Interim Resolution Professional
+having Registration No.
+IBBI/IPA-002/IP-N00108/2017-18/10256
+Having office at:-
+Flat 71, Tower- Acacia 2,
+Vatika City, Sector 49, Gurgaon,
+Haryana, 122018
+manojsehgal 112l@yahoo.co.in
+
+...Respondent no.2
+
+Present:
+
+For Appellant
+: Mr. Ramji Srinivasan, Sr. Advocate and Mr. Abhijeet
+Sinha, Sr. Advocate with Mr. Syed Arsalan Abio, Mr.
+Prateeek Khaitan, Mr. Chatanya Sharma, Mr. Shitij
+Chakravarty and Mr. Udhav H. Aggarwal, Mr. Aryun
+Bhatia, Ms. Shefali Mundi, Advocates.
+
+[PAGE 2]
+Page 2 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+For Respondent
+: Mr. Amit Singh Chadha, Sr. Advocate with Mr. Suresh
+Dutt Dobhal, Mr. Nirmal Goenka, Mrs. Kanchan Rathuri,
+Advocates for R-1.
+
+Mr. Anurag Bhatt, Mr. Lokesh Pathak, Advocates for
+Intervener.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61(1) of Insolvency and
+Bankruptcy Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order
+dated 22.02.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Jaipur Bench) in CP
+(IB) No. 05/7/JPR/2021. By the impugned order, the Adjudicating Authority
+admitted the Section 7 application filed by Respondent No. 1-Phoenix ARC Pvt.
+Ltd. and admitted the Corporate Debtor into Corporate Insolvency Resolution
+Process (“CIRP” in short). Aggrieved by the impugned order, the present
+Appeal has been preferred by the suspended Director of the Corporate Debtor.
+2.
+Coming to the sequence of events which are required to be noticed for
+deciding the present matter are as outlined hereunder:
+ The Corporate Debtor- Karni Developers & Construction Pvt. Ltd.
+approached the Union Bank of India for a Term Loan (hereinafter
+referred to as “TL-1”) of Rs 15 Cr. which was sanctioned on 02.12.2005.
+An amount of Rs 12.92 Cr. was disbursed.
+
+[PAGE 3]
+Page 3 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+ On 30.04.2007, the Union Bank of India rejected a revised proposal
+from the Corporate Debtor seeking enhancement of the Term Loan from
+Rs 15 Cr. to Rs 35.50 Cr.
+ TL-1 became NPA on 31.12.2008.
+ On 07.01.2009, Union Bank of India issued notice under Section 13(2)
+of SARFAESI Act and took symbolic possession of the mortgaged assets
+on 11.05.2009 and proceeded ahead with SARFAESI proceedings.
+ On 03.12.2013, an Assignment Agreement was signed by which the
+Union Bank of India assigned the TL-I along with the interest,
+underlying security and guarantee to Respondent No. 1-Phoenix ARC
+Pvt. Ltd.
+ A Memorandum of Compromise (“MoC” in short) was entered between
+the Corporate Debtor and Respondent No.1 on 03.12.2013 for a
+settlement amount of Rs 18.10 Cr. besides interest @ 30% p.a. and
+penal interest.
+ The Corporate Debtor wrote to Respondent No. 1 on 03.12.2013 for a
+fresh Term Loan of Rs 6.90 Cr.
+ On 07.02.2014, a Term Loan Agreement (hereinafter referred to as “TL-
+2”) for Term Loan of Rs 3.40 Cr. was entered between Corporate Debtor
+and Respondent No.1 with a rate of interest of 30% p.a. and penal
+interest of 36% p.a. The loan was sanctioned out of which Rs 1.59 Cr.
+was appropriated towards interest. As per Repayment Schedule in
+Schedule-III of TL-2, the repayment was to be done in 12 instalments
+ending on 31.12.2017.
+
+[PAGE 4]
+Page 4 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+ On 27.06.2014, the Respondent No.1 provided a revised repayment
+schedule on the request of the Corporate Debtor. On 30.06.2014, an
+Amendment Agreement was signed amending TL-2 of 07.02.2014.
+ On 29.12.2015, another Amendment Agreement was signed whereby
+the TL-2 was amended again with regard to period of loan.
+ TL-2 was declared NPA by Respondent No. 1 on 31.03.2016.
+ On 29.04.2017, the Respondent No.1 revoked the Memorandum of
+Compromise of 03.12.2013 and issued a Recall Notice of the Term Loan.
+In the Recall Notice dated 29.04.2017, the Respondent No. 1 claimed an
+amount of Rs 5.05 Cr.
+ On 23.06.2017, notice under Section 13(4) of SARFAESI Act was issued
+by Respondent No. l. On 14.08.2019, a demand notice was issued by
+Respondent No. 1 directing repayment of TL-2.
+ On 09.01.2021, the Respondent No. 1 filed Section 7 application against
+the Corporate Debtor for an outstanding amount of Rs 5,05,89,698/- as
+per recall notice of 29.04.2017 alongwith further interest charges.
+ On 22.02.2024, the Section 7 petition was allowed by the Adjudicating
+Authority and aggrieved by this impugned order the suspended Director
+of Corporate Debtor has come up in appeal.
+3.
+Making his submissions, Shri Ramji Srinivasan and Shri Abhijeet Sinha,
+Ld. Sr. Counsels for the Appellant submitted that Part-IV in the Section 7
+application was defective and hence the petition was not maintainable. It was
+contended that the Section 7 petition was liable to be dismissed for not
+mentioning the date of default in Part-IV. The Section 7 application was also filed
+
+[PAGE 5]
+Page 5 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+without proper record of default as contained in the Information Utility or any
+other evidence of default. Further, the claim made in the petition was clearly
+time barred. The loan account of the Corporate Debtor had become NPA from
+31.12.2008. Even if the NPA date was taken to be 31.03.2016 for TL-2 as claimed
+by the Respondent No. 1, the date of default could not have been later than
+31.12.2015. However, the Section 7 application was filed on 09.01.2021 which
+was clearly beyond the three years limitation period. It was pointed out that the
+Hon’ble Supreme in the matter of Babu Lal Vardharji Gurjar Vs Veer Gurjar
+Aluminium Industries (2020) 15 SCC 1 held that the IBC does not intend to
+give a new lease of life to debts which are time-barred and that when a debt is
+barred by time, the right to remedy is time-barred. In the present case, though
+the claim was not made within the prescribed limitation period, the Adjudicating
+Authority had erroneously come to the conclusion that the claim was within the
+limitation. It was also added that the same judgment had also laid down that
+any party seeking extension of period of limitation, requisite evidence has to be
+furnished and relevant facts are required to be pleaded. In the present case, the
+Respondent No.1 had alleged several dates of acknowledgment of the liability by
+the Corporate Debtor without placing the same on record. The Adjudicating
+Authority had wrongly relied on a letter dated 08.05.2017 in treating it as an
+acknowledgment of debt when no such letter was on record. The Adjudicating
+Authority had also wrongly relied upon the balance sheet of the Corporate Debtor
+for financial year 2019-2020 for the purpose of acknowledgment of debt as it was
+beyond three years from the alleged date of default which was 31.12.2015.
+Reliance was also placed on the judgment of Ramdas Dutta Vs IDBI Bank Ltd.
+
+[PAGE 6]
+Page 6 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+in CA(AT)(Ins) No. 1285 of 2022 wherein it has been held that the period of
+limitation would be attracted from the day the default occurs and not from the
+date of declaration of NPA unless the Financial Creditor is able to produce
+evidence of acknowledgement of debt on the part of the Corporate Debtor, the
+period of limitation has to be counted from the date of default. Hence, the benefit
+of Section 18 of Limitation Act could not have been claimed by Respondent No.
+1 in the present factual matrix.
+4.
+Further submission was made that Respondent No. 1 being only an Asset
+Reconstruction Company (‘ARC’ in short) and not a Bank or a Financial
+Institution, it could not have given a loan to the Corporate Debtor. The grant of
+Rs 3.40 Cr. by Respondent No. 1 vide TL-2 was not in accordance with RBI
+guidelines. The ARC was not entitled to grant loan to the Corporate Debtor when
+it had already slipped into the NPC category way back in 2008. Hence the debt
+extended to the Corporate Debtor was not a legally valid debt and the
+Adjudicating Authority ought to have gone into this fact before admitting the
+Section 7 application. It is also contended that the Respondent No. 1 had given
+the loan of Rs 3.40 Cr. to use this credit facility as a tool for recovery of the debt
+and default under TL-1 which was already time-barred and could not been
+revived. Moreover, the Respondent No.1 had adjusted Rs 1.59 Cr. out of the Rs
+3.40 Cr. TL-2 disbursal which was a deviation from the intended purpose of the
+loan which was to cover project related approvals and expenses. The
+Adjudicating Authority had also failed to consider that an exorbitant and
+unreasonable rate of interest and penal interest was being charged. It was also
+contended that the Corporate Debtor was a solvent entity with sound experience
+
+[PAGE 7]
+Page 7 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+in the real estate sector. The Adjudicating Authority failed to appreciate that the
+Respondent No. 1 deliberately created a situation compelling the Corporate
+Debtor to face liquidity crunch by disbursing only Rs 3.40 Cr. against the request
+of Rs 6.90 Cr. and by declaring them to be NPA and pushing them to corporate
+death. It was submitted that on 31.05.2022, the Corporate Debtor had submitted
+a One-time Settlement (OTS) offer of Rs 18 Cr. to the Respondent No. 1 which
+the Corporate Debtor has ability to arrange for repayment of settlement amount
+by disposing of the property of the project. It was also added that their bonafide
+is established by the fact that they had already deposited the principal amount
+indicated in Part-IV with the NCLAT Registry.
+5.
+Refuting the contentions of the Appellant, Shri Amit Singh Chadha, Ld.
+Sr. Advocate representing Respondent No.1 submitted that the Section 7
+application was not time-barred and very much maintainable as it was filed on
+the basis of debt and default in terms of Schedule-III of the TL-2 dated
+07.02.2014. In terms of the repayment schedule of TL-2, the loan of Rs 3.40 Cr.
+was to be paid in 12 quarterly instalments starting from 31.03.2015 and ending
+on 31.12.2017. The account of the Corporate Debtor for this TL-2 was declared
+as NPA on 31.03.2016. A Recall Notice had also been issued on 29.04.2017
+which the Appellant has deliberately not placed on record. Instead, the Appellant
+has tried to mislead this Tribunal by placing on record only the Recall Notice
+issued in respect of recall of MoC dated 03.12.2013. The Ld. Counsel for
+Respondent No. l has also placed reliance on the judgment of this Tribunal in
+Koncentric Investment Ltd. & Anr. Vs Standard Chartered Bank, London
+& Anr in CA(AT)(Ins) No. 911 of 2021 which held that the only statutory
+
+[PAGE 8]
+Page 8 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+requirement under Section 7 is that the default as claimed in the Section 7
+application should be within three years from the date when the application is
+filed under Section 7. It was contended that the Appellant did not file the
+documents like letters dated 05.05.2017 and 11.12.2017 wherein the Corporate
+Debtor had clearly admitted the existence of debt and default of Term Loan of Rs
+3.40 Cr. Also, there is a clear acknowledgment of the debt of the said TL-2 of
+3.40 Cr. in the balance sheet of the Corporate Debtor for the FY 2019-20. Hence,
+in terms of the well settled legal precepts, the period of limitation stood extended
+from the date of acknowledgment. It was also pointed out that in view of the
+judgment of the Hon’ble Supreme Court in Suo-Motu Writ Petition (C) No. 3 of
+2020 wherein it was held that in all cases where limitation would have expired
+during the period between 15.03.2020 till 28.02.2022, notwithstanding the
+actual balance period of limitation remaining, the limitation period of 90 days
+was to be counted from 01.03.2022, hence, in the present case since the Section
+7 application was filed on 09.01.2021, it was well within the limitation period.
+6.
+On the allegation that the rate of interest charged by the Respondent No.1
+was unreasonable and exorbitant, it was contended that the Corporate Debtor
+had themselves voluntarily agreed to the same and accepted all the terms
+including the rate of interest as mentioned in the TL-2. It is the contention of
+Respondent No. 1 that the rate of interest and penal charges was mutually
+agreed to and was a genuine pre-estimate of the loss suffered by Respondent No.
+1 due to inability of the Corporate Debtor to repay the dues. When the TL-2 was
+executed voluntarily and was never challenged at any stage and the Corporate
+Debtor had even voluntarily made interest payment at the agreed rate of interest,
+
+[PAGE 9]
+Page 9 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+it does not lie in their mouth to contend that the TL-2 was signed under undue
+influence, duress or coercion. As regards the contention that Respondent No. 1
+being an ARC could not have given a loan, it is submitted that that this argument
+of the Appellant is misconceived since RBI guidelines of 22.04.2009 clearly
+enunciated that restructuring of loans can be undertaken by Securitisation
+Companies/Reconstruction Companies as one of the measures allowed for
+realisation of their dues. Further, it is pointed out that the Corporate Debtor had
+never raised the issue of RBI guidelines for not permitting additional funding
+when submissions and pleadings were made before the Adjudicating Authority.
+7.
+We have duly considered the arguments advanced by the Learned Counsel
+for both the parties and perused the records carefully.
+8.
+The first issue for our consideration is whether the present Section 7
+petition is time-barred or not and whether TL-1 and TL-2 could have separate
+dates of default. It is the case of the Appellant that the Respondent No. 1 did not
+disclose the status of loan account acquired from Union Bank of India in the
+Section 7 application. This loan account of the Corporate Debtor remained NPA
+from 31.12.2008. This was concealed from the Adjudicating Authority as it would
+have otherwise revealed that the limitation commenced on 31.12.2008. Further
+that Respondent No. 1 had issued a Possession Notice on 23.06.2017 basis the
+Demand Notice dated 07.01.2009 issued by Union Bank of India tantamount to
+the Respondent No. 1 admitting that the loan account of Corporate Debtor
+remained NPA from 31.12.2008. It is also asserted that as per RBI Master
+Circular dated 01.07.2013, the loan account is required to be declared NPA
+borrower-wise and not facility-wise. Since TL-2 was part of restructuring for TL-
+
+[PAGE 10]
+Page 10 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+1, the NPA date should have remained the NPA date in terms of TL-1 i.e.
+31.12.2008 in terms of RBI circular. However, to circumvent this scenario of the
+loan having become time-barred, the Respondent No. 1 filed the Section 7
+application by declaring TL-2 as NPA on 31.03.2016. It was further contended
+that even if the NPA date was to be taken as 31.03.2016 for TL-2 as claimed by
+the Respondent No. 1, the date of default could not have been later than
+31.12.2015. However, the Section 7 application was filed on 09.01.2021 which
+was clearly beyond the three years limitation period.
+9.
+Per contra, the Respondent No. 1 has denied that it has concealed the NPA
+status of TL-1 w.e.f. 31.12.2008 or misled the Adjudicating Authority by
+adverting to another NPA date with respect to TL-2. On the contrary, it was the
+Appellant who has been trying to mislead the Appellate Tribunal by trying to
+mix-up the TL-1 assigned by Union Bank of India to Respondent No.1 with the
+TL-2 of Rs 3.40 Cr. with the latter having been clearly depicted as a “New Loan”
+and as a “New Facility” in the relevant clauses of the Term Loan Agreement of
+07.02.2014. Further in the letters dated 05.05.2017 and 11.12.2017 in which
+the Corporate Debtor has clearly acknowledged debt and default, a distinction
+was also clearly drawn between the TL-1 and the TL-2. The balance sheet of the
+Corporate Debtor for FY 2019-20 and the Independent Auditor’s Report attached
+thereto also clearly indicate the two Term Loans separately. Moreover, the
+Respondent No. 1 has filed the Section 7 application in respect of TL-2 of
+07.02.2014 and hence the NPA date of 31.03.2016 is only applicable. Even the
+Demand Notice issued under Section 13(2) of the SARFAESI Act on 14.08.2019
+
+[PAGE 11]
+Page 11 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+by the Respondent No. 1 to the Corporate Debtor clearly indicated that the
+Demand Notice was issued in respect of TL-2 of Rs 3.40 Cr..
+10. Before we delve into making our analysis, it may be pertinent to notice how
+the limitation issue has been treated by the Adjudicating Authority. The relevant
+extracts from the impugned order are as reproduced below:
+“13. It is pertinent to mention that the Corporate Debtor has acknowledged
+the liability in its letter dated 8.05.2017. Further, as per the Balance Sheet of
+the Corporate Debtor for the Financial Year 2019-20, both the Term Loans
+along with the unpaid interest amount were shown under the head Other-
+Current Liabilities of the Corporate Debtor. As per Section 18 of the Limitation
+Act, 1963, a fresh period of limitation shall be computed from the date of
+acknowledgment of debt provided the acknowledgment is made before the
+expiry of the Limitation Period.
+14. In light of the settled principle of law, a fresh period of limitation will start
+from the date of acknowledgment. In the present case, the Corporate Debtor
+had acknowledged its liability in the letter dated 8.04.2017. Therefore, even
+if the argument of the Corporate Debtor regarding the date of default being a
+date not later than 31.05.2015 is considered, a fresh period of limitation will
+begin on 8.04.2017 as the Corporate Debtor has acknowledged the debt
+within a period of three years from such date of default being not later than
+31.12.2015. Further, as per the guidelines issued by the Supreme Court to
+deal with the Covid Crisis, in cases where the limitation would have expired
+during the period between 15.03.2020- 28.02.2022, notwithstanding the
+actual balance period of limitation remaining, all persons shall have a
+limitation period of 90 days from 01.03.2022. Hence, in our consideration, the
+Present Application which was filed on 9.01.2021 is well within the limitation
+period prescribed by the law and the averment of the Corporate Debtor qua
+non-maintainability of the Application is untenable.”
+11.
+When we look at the Part IV of the Section 7 application, we notice that
+the Respondent No. 1 has filed the Section 7 application in respect of TL-2 of
+07.02.2014 and not for the amounts due and payable in respect of TL-1. The
+relevant portion is reproduced hereunder:
+
+[PAGE 12]
+Page 12 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+PART-IV
+PARTICULARS OF FINANCIAL DEBT
+
+1
+TOTAL AMOUNT
+OF
+DEBT
+GRANTED
+DATE(S) OF THE
+DISBURSEMENT
+
+a) Financial Creditor(s) in the year
+2014 sanctioned a term loan of Rs.
+3,40,00,00/- (Rupees three Crore
+forty lakhs only) vide term Loan
+agreement dated 07.02.2014.
+
+b) The account of the Corporate
+Debtor was classified as NPA on
+31.03.2016
+in
+accordance
+with
+guidelines of Reserve Bank of India.
+
+2
+Amount claimed
+to be in default
+and the date on
+which
+the
+default
+occurred.
+Amount claimed to be in default is
+Rs. 5,05,89,698/- (Rupees Five
+Crores Five Lakhs Eighty-Nine
+Thousand
+Six
+Hundred
+Ninety
+Eight Only as per the Recall notice
+dated 29.04.2017
+
+Please refer updated statement of
+account
+
+12.
+Again, when we look at the clauses of the TL-2 of Rs 3.40 Cr, we find that
+it has been clearly depicted mutually as a “New Loan” and as a “New Facility”.
+The relevant clauses of the TL-2 have been placed at Annexure-VI of APB is
+reproduced below:
+Term Loan Agreement
+This Loan Agreement is made at Jodhpur on this 7 day of February, 2014
+......
+......
+WHEREAS
+The Obligors have requested Phoenix Trust to settle/restructure the liabilities
+and dues in respect of the Assigned Debt (defined hereunder) and upon
+
+[PAGE 13]
+Page 13 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+mutual discussions, the Parties have recorded the terms and conditions of the
+settlement/restructuring, inter-alia, in the Memorandum of Compromise
+(defined hereunder).
+As a part of the terms and conditions of the restructuring/ settlement, the
+Obligors have also requested the Lender for additional funding for the purpose
+of achieving effective restructuring as above by reviving the operations of the
+Borrower. The Lender, at the request of the Obligors, has agreed to extend
+financial assistance upto an amount of Rs.3,40,00,000/- (Rupees Three
+Crores and Forty Lakhs Only) ("New Loan" and more particularly defined
+hereunder) for the Purpose mentioned hereinbelow and subject to the terms
+and conditions set out in this Agreement and such other documents in relation
+thereto executed/to be executed by and between the Lender and the Obligors
+including for creation and perfection of New Loan Security (defined
+hereinafter) (collectively "Facility Documents" and more particularly defined
+hereunder).
+......
+......
+DEFINITIONS AND INTERPRETATION
+(xivii) "New Loan Amount" shall mean the maximum amount of
+Rs.3.40,00,000/- (Rupees Three Crores and Forty Lakhs only).
+(xiviii) "New Facility Documents" shall mean and include:
+(a) this Agreement;
+(b) the New Loan Security Documents;
+(c) any other document categorised by the Lender as a Facility Document.
+(l) "New Loan Dues" shall mean:
+(a) the principal of and interest payable in respect of the New Loan and all
+other obligations and liabilities of the Borrower, default/penal interest,
+indemnities, charges (including prepayment premium if any), fees, penalties,
+expenses, any other monies, incurred, arising out of or payable in connection
+with the New Loan;
+(b) any and all sums incurred/advanced by Lender in order to preserve the
+security interest or any part thereof created/caused to be created by the
+Borrower and/or any Obligor in relation to the New Loan; and
+(c) in the event of any proceeding for the collection or enforcement of the New
+Loan, after an Event of Default shall have occurred, the expenses of retaking,
+holding, preparing for sale or lease, selling or otherwise disposing of or
+realising the security interests or any part thereof, or of any exercise of and
+performance by Lender of its rights, powers, duties under the relevant New
+Facility Documents, together with legal fees and court costs.
+
+[PAGE 14]
+Page 14 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+.....
+INTERPRETATION
+.....
+(vi) Interest
+(a) The Borrower shall pay interest on the New Loan at a rate of 30% p.a.,
+with quarterly rest, as a part of the
+Instalment,
+subject
+to
+Clause
+relating to Event of Default hereinunder written. ("Interest")
+.....
+(e) Without prejudice to the other rights and remedies that the Lender may
+have under the Facility Documents, law or equity, if the Borrower fails to pay
+any sum due and payable to the Lender on the due date(s), the Borrower shall
+pay Interest at the rate of 3% (Three percent) per month. For the avoidance of
+doubt, it is hereby clarified that, upon occurrence of a default in payment, (a)
+the aggregate interest to be charged on the amount due and payable as on
+date of such default shall be 36% p.a. instead of 30% p.a. at quarterly rest
+and calculated for the period beginning from the date of such default until the
+payment of the same; and (b) no further Interest or penal interest/Default
+Interest as aforesaid shall be charged from the date of such default. The
+Borrower acknowledges that all sums payable under the Facility Documents
+by way of Default Interest are reasonable and that they represent genuine
+pre-estimates of the loss incurred by the Lender in the event of non-payment
+or default by the Borrower. The Borrower acknowledges that the New Loan
+provided under this Agreement is for a commercial transaction and waives
+any defences available under usury or other laws relating to the charging of
+interest.
+
+5. SECURITY
+(i) Security
+(a) The Borrower agrees and undertakes that the New Loan together with all
+New Loan Dues thereunder shall be
+secured by the New Loan Security.
+(b) The Borrower shall satisfy the Lender that wherever necessary, the
+particulars of the charge, in respect of the Secured Properties, as may be
+applicable, have been duly registered with the Sub-Registrar of Assurances
+and/or appropriate Governmental Authorities.”
+(Emphasis supplied)
+
+13.
+It is also the contention of the Respondent No. 1 that it was the Corporate
+Debtor which approached Respondent No. 1 to provide this additional loan as is
+
+[PAGE 15]
+Page 15 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+evident from their letter dated 03.12.2013 seeking a fresh Term Loan of Rs 6.90
+Cr. which letter is as reproduced below:
+To,
+
+Date 03.12.2013
+
+Chief Operating Officer
+Phoenix ARC Private Limited
+7th Floor, Dani Corporate Park
+158, C.S.T Road, Kalina,
+Santacruz (E), Mumbai -400098
+Dear Sir,
+As per letter dated 3rd December, 2013 in view of the debt of Union Bank of
+India pertaining to Karni Developer & Construction Company Private Limited
+to your company being transferred to your organisation, we hereby propose
+settlement of existing Term Loan facilities at Rs. 18.10 cr. as per terms agreed
+under Memorandum of Compromise.
+Also, we request Phoenix ARC Pvt. Ltd. as reconstruction measure, to sanction
+Karni Developer & Construction Company Pvt. Ltd. a Fresh Term Loan of Rs
+6.90 cr., the same would be utilised towards taking necessary approval from
+Authority and commencing of proposed residential project at Khasra No.:- 595
+to 599, 575 to 589, 600 to 602, 603 to 621, total admeasuring 33 Bigha 3
+Bishwa at Village- Geva, Tehsil & District- Jodhpur (Raj.). We have already
+shared the estimated project outlay towards cost and expected revenue. A
+copy of same is enclosed herewith.
+Director, Karni Developer & Construction Co. Pvt. Ltd.
+(Emphasis supplied)
+The use of the word “Also” in the 2nd paragraph in the above letter clearly shows
+that the Corporate Debtor had sought a fresh loan apart from settlement of the
+existing Term Loan Facility. Further, when we see the response from the
+Respondent No. 1 to the Corporate Debtor agreeing to disbursal of Rs 3.40 Cr.,
+it has been treated as a “Request for additional funding for the purpose of
+achieving effective restructuring” as may be seen at page-112 of APB. Thus, both
+parties seemed to be at ad idem that the TL-2 was an additional loan and was a
+separate transaction from TL-1.
+
+[PAGE 16]
+Page 16 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+14.
+Even the letters of Personal Guarantee dated 07.02.2014 which have been
+executed by Shri Suresh Chouhan, Shri Kamlesh Chouhan and Smt. Madhubala
+Chouhan in favour of the Corporate Debtor, there is clear mention of the “New
+Loan” as defined in TL-2 of 07.02.2014 for an amount of Rs 3.40 Cr. This letter
+of guarantee which is a registered and stamped document has been placed at
+Annexure-IV by the Respondent No. 1 in their Additional Affidavit (pages 43-55).
+Mention of the “New Loan” of Rs 3.40 Cr. also finds place in the Memorandum
+relating to Deposit of Title Deeds 07.02.2014 (pages 56-65 Additional Affidavit of
+Respondent No.1), Deed of Hypothecation dated 07.02.2014 (pages 66-75 of
+Additional Affidavit of Respondent No.1), declaration and undertaking for
+creation/extension of mortgage dated 07.02.2014 (pages 76-78 of Additional
+Affidavit of Respondent No.1) all mention about the “New Loan”. Even the Recall
+Notice dated 29.04.2017 relates only to the TL-2 of Rs 3.40 Cr. as may be seen
+at pages 79-82 of the Additional Affidavit wherein the interest amount has been
+shown as Rs 1.65 Cr. and the total outstanding shown as Rs 5.05 Cr.
+Interestingly, even in their communications with Respondent No.1 dated
+05.05.2017 and 11.12.2017 which we shall deal with in details later, we notice
+that the Corporate Debtor has made a distinction between the TL-1 and the TL-
+2 of Rs 3.40 Cr. Even the communication dated 31.05.2022 as placed at page
+248 of Appeal Paper Book (‘APB’ in short), we notice that the Corporate Debtor
+has sent a Onetime Settlement (OTS) proposal to the Respondent No. 1 wherein
+again a clear distinction has been drawn by the Corporate Debtor between TL-1
+and TL-2 of Rs 3.40 Cr.
+
+[PAGE 17]
+Page 17 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+15.
+From the above multiple materials/documents available on record, we are
+persuaded to believe that the Respondent No. 1 had filed the Section 7
+application in respect of a new and additional loan under TL-2 of 07.02.2014
+and not for the amount due and payable in respect of TL-1 and accordingly hold
+that the limitation period has to be computed from the NPA date of 31.03.2016.
+Given this backdrop, we do not find much substance in the contention of the
+Appellant that present is a case where the Adjudicating Authority should have
+investigated the nature of transaction and exercised caution in admitting the
+Section 7 application. We note that reliance has been placed by the Appellant on
+the judgment of this Tribunal in Pawan Kumar Vs Utsav Securities Pvt. Ltd.
+in CA(AT)(Ins.) No. 251 of 2020 in which it has been held that that where any
+person furnishes information under Section 7, which is false in material
+particulars or knowingly omits material facts, such a person may be penalised
+by invoking Section 65 of IBC. We have no quarrel with the above proposition of
+law but have to be mindful that the facts of the case in Pawan Kumar supra
+was distinguishable as in that case there was no agreement/document in respect
+of loan and interest and the period of repayment. Nor were Balance Sheets for
+relevant years of the Corporate Debtor placed on record in Pawan Kumar supra.
+It is the case of the Appellant that Respondent No. 1 was trying to use the CIRP
+process as a recovery tool and had supressed material facts and particulars
+before the Adjudicating Authority and fraudulently filed the Section 7
+application. It has also been asserted that the Respondent No. 1 by supressing
+material facts has misused the insolvency proceedings and hence the Section 7
+application attracts Section 65 of the IBC. When we see the prayers contained in
+
+[PAGE 18]
+Page 18 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+the present appeal, we do not find that Section 65 has been sought to be invoked.
+Furthermore, the degree of proof and evidence required to prove any transaction
+to be fraudulent in nature should be beyond reasonable doubt and of an
+unimpeachable nature which is not found established in the present case. We
+find no substance in this contention of the Appellant and reject the same.
+16.
+This brings us to the next contention of the Appellant that the Section 7
+application was time-barred as against the submission made by the Respondent
+No.1 that this standpoint of the Appellant lacks foundational basis.
+17.
+Coming to the impugned order which has already been extracted above,
+we find that the Adjudicating Authority has noted that since the Corporate
+Debtor has acknowledged their liability in their letter dated 08.05.2017 and in
+the Balance Sheet of the Corporate Debtor for the Financial Year 2019-20, in
+terms of Section 18 of the Limitation Act, 1963, a fresh period of limitation shall
+be computed from the date of acknowledgement.
+18.
+When we look at the factual matrix of the present case, we find that in
+terms of the repayment schedule of the TL-2 of 07.02.2014, the repayment was
+to end on 31.12.2017. The account of the Corporate Debtor for this Term Loan
+was declared as NPA on 31.03.2016. Calculating three months prior to the date
+of NPA, the date of default works out to be not later than 31.12.2015. The Section
+7 application was filed on 09.01.2021 which is clearly beyond three years from
+the date of default. What therefore needs to be seen is whether the Respondent
+No. 1 has effectively substantiated the argument canvassed by them that the
+debt and default having been acknowledged by the Corporate Debtor within the
+three years limitation period made room for extension of the period of limitation.
+
+[PAGE 19]
+Page 19 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+19.
+The Appellant’s contention is that the letter of 08.05.2017 which finds
+mention in the impugned order is not on record. We find no reasons to disagree
+with the Appellant on this score. However, we find other material on record which
+has been adverted to by the Respondent No. 1 which were also available before
+the Adjudicating Authority which clearly establish acknowledgement of liability.
+It is an undisputed fact that a Recall Notice had been issued on 29.04.2017 by
+the Respondent No. 1. This Recall Notice had been replied to by the Corporate
+Debtor on 05.05.2017 wherein the Corporate Debtor clearly admitted their debt
+and default and requested for postponement of the Recall Notice. The relevant
+excerpts of this letter placed at 184-186 of APB is as extracted below:
+Date: 05.05.2017
+
+Eshwar Karra,
+Chief Executive Officer
+Phoenix ARC Pvt. Ltd.
+
+Ref: - Your Letter No. PHOENIX/RESL/331/2017-18 dated 29th April, 2017
+
+Subject:- Request to postpone the recall notice against term loan agreement of
+Rs. 3.40 Crores and to initiate any legal action to enforce the security over the
+secured assets for the recovery of the dues.
+Dear Sir,
+
+We are very sorry for unable to pay the settlement amount as per agreed
+terms of Memorandum-of Compromise (MOC) dated 03rd December, 2013. We
+are mentioning below reasons, constraints and circumstances faced by our
+company due to which we could not pay the agreed amount.
+.....
+.....
+We had reached on this conclusion after comprehensive review of the project,
+evaluation and detail analysis of expected cash flows. We were very
+confident on our project as well as our plan to re-start our project & to pay
+your obligation as per pre-determined schedules. On the basis our confidence,
+
+[PAGE 20]
+Page 20 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+we had obtained term loans from you at higher rate of interest i.e. 30% and
+36% in case any defaults.
+........
+.......
+Hence we request you to look in to genuine problems of company & bona fide
+borrower and provide following assistance so we can start our project or find
+out suitable solutions of our problems.
+
+1. To postpone the recall notice against term loan agreement of Rs. 3.40
+Crores and to initiate any legal action to enforce the security over the secured
+assets for the recovery of the dues.
+2. To provide a bank guarantee of Rs. 25,00,000/- in favour of Jodhpur
+Development Authority, Jodhpur so we can obtain final approved plan from
+Jodhpur Development Authority, Jodhpur which will help to submit revised
+repayment schedule for the term loan.
+3. To provide assistance in to find out suitable investors/buyers for our
+project so we can take necessary steps to pay your dues amount as earliest
+as possible.
+4. To provide some additional time to make arrangement for making
+payment of your dues. We regularly realised about heavy cost of fund which
+is very risky for our company and our project.
+
+Yours truly,
+For Karni Developer and Construction
+(Emphasis supplied)
+
+Even though this letter makes reference to inability to pay the settlement amount
+as agreed in terms of MoC of 03.12.2013, nevertheless, there is a clear mention
+of postponement of the Recall Notice against TL-2 of Rs 3.40 Cr.
+20.
+We find yet another letter addressed by the Corporate Debtor on
+11.12.2017 to the Respondent No. 1 admitting the debt and default in respect of
+TL-2 of Rs 3.40 Cr. In the said letter, the Appellant have themselves drawn a
+clear distinction between the TL-1 by way of assignment by Union Bank of India
+on 03.12.2013 and the TL-2 of 07.02.2014 for Rs. 3.40 Cr. as extracted below:
+
+[PAGE 21]
+Page 21 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+Date11.12.2017
+
+Mahesh Malunjkar
+Authorised Officer
+Phoenix ARC Pvt. Ltd.
+
+Ref :- Your Letter
+Subject :- For taking physical possession of property
+
+Dear Sir,
+You have sanctioned the term loan of Rs.18.10 Crores by way of assignment
+of term loan of Union Bank of India on 03rd December, 2013 and also
+sanctioned term loan of Rs. 3.40 Crores on 07th February, 2014 for payment
+against fees and charges of Jodhpur Development Authority for approval of
+Plan.
+
+We have intimated the position of our project time to time through various
+letters, through telephonic talk and meeting with your authorized officers. But
+we were unable to pay your dues as per repayment schedules or agreed
+terms due to project constraints as intimated by us.
+
+We have received your letter to take physical possession of said mortgaged
+property.
+
+Our mortgaged property is located behind our another project property. The
+way to our mortgaged property passes through our another project property.
+Therefore, to reach to our mortgaged property we have to first cross our project
+property.
+
+Therefore, whenever you or any interested investor wants to approach the
+mortgaged property you have to inform us at least 7 days before. So that we
+can assist you to approach the mortgaged property without any difficulty.
+
+For Karni Developer and Construction
+(Emphasis supplied)
+
+From a plain reading of this letter, it becomes clear that the Appellant has
+expressed its inability to pay its due as per repayment schedule and have also
+
+[PAGE 22]
+Page 22 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+taken notice that their mortgaged property has been taken physical possession
+of by the Respondent No. 1 which is a clear acknowledgement of liability.
+21.
+It has also been asserted by the Respondent No. 1 that there is a clear
+acknowledgment of the debt of the said TLA-2 of 3.40 Cr. in the balance sheet of
+the Corporate Debtor for the FY 2019-20. When we look at Annexure-B of the
+Independent Auditor’s Report which is placed at page 284-286 of the APB, there
+is a clear mention of the TL-2 of Rs 3.40 Cr. and the default committed in respect
+of the same, the relevant extract of which is as reproduced below:
+ANNEXURE-B OF INDEPENDENT AUDITOR’S REPORT
+(viii) Company raised two term loans of Rs 18.10 Crores vide agreement
+dated 03.12.2013 and Rs 3.40 Crore vide agreement dated 07.02.2014
+from Phoenix ARC Private Limited and company is in default for
+instalments of Rs 5.25 Crore from 01.04.2015 to 31.03.2016, Rs 8.38 Crore
+from 01.04.2016 to 31.03.2017 and Rs 6.28 Crore from 01.04.2017 to
+31.03.2018 (which is after adjusting of Rs 1,59,34,415 on account of loan
+returned vide demand draft totalling to Rs 19.91 Crore.
+(Emphasis supplied)
+
+22.
+We have already seen that in the above letters dated 05.05.2017 and
+11.12.2017, the Corporate Debtor has acknowledged debt and default after
+making a distinction between the TL-1 and the TL-2 of Rs 3.40 Cr. There is also
+a clear acknowledgment of TL-2 in the balance sheet of the Corporate Debtor for
+FY 2019-20. Furthermore, in view of the documents like the TL-2 Agreement,
+Amendment Agreements, Letters of Personal Guarantee, Memorandum relating
+to deposit of Title Deeds, Recall Notice dated 29.04.2017 and Section 13(2)
+Demand Notice under SARFAESI Act, we find that there is sufficient evidence to
+prove the existence of debt and default. The balance sheet of the Corporate
+
+[PAGE 23]
+Page 23 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+Debtor for FY 2019-20 and the Independent Auditor’s Report attached thereto
+clearly indicate both the Term Loans along with unpaid interest amount. We
+therefore find no error in the impugned order that in view of the
+acknowledgement of liability on the part of the Corporate Debtor, the period of
+limitation stood extended. Hence, though the Section 7 application was filed on
+09.01.2021, it fell within the limitation period in view of the judgment of the
+Hon’ble Supreme Court in Suo-Motu Writ Petition (C) No. 3 of 2020 wherein it
+was held that in all case where limitation would have expired during the period
+between 15.03.2020 till 28.02.2022, notwithstanding the actual balance period
+of limitation remaining, the limitation period of 90 days was to be counted from
+01.03.2022. Hence the application under Section 7 was clearly filed within
+limitation.
+23.
+We now come to the next limb of argument of the Appellant that the
+Respondent No. 1 being an ARC was not entitled to grant fresh loan to the
+Corporate Debtor which had slipped into NPA from 31.12.2008. It has been
+further contended that the Respondent No. 1 is registered under Section 3 of
+SARFAESI Act, 2002 and is therefore bound by statutory provisions and rules of
+SARFAESI Act, including Sections 9 and 10. In terms of these provisions of
+SARFAESI Act, the Respondent No. 1 as an ARC can only buy NPA accounts
+from Banks and NBFCs, and in doing so, can only reschedule payment of debts
+of the borrowers but cannot sanction a fresh loan. It has been contended that
+TL-2 dated 07.02.2014 executed by Respondent No. 1 was not in conformity with
+the Sections 9 and 10 of SARFAESI Act and therefore the said debt was not
+enforceable under IBC. Per contra, it is the contention of the Respondent No.1
+
+[PAGE 24]
+Page 24 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+that this argument of the Corporate Debtor is misconceived since RBI guidelines
+of 22.04.2009 clearly enunciates that “Restructuring of loans by Securitisation
+Companies/Reconstruction Companies” (SC/RCs) is one of the measures
+allowed to be undertaken by SC/RCs for realisation of their dues.
+24.
+When we look at the relevant guidelines of RBI of 22.04.2009 as placed
+before us by the Respondent No.1, we find that there is no bar or embargo on
+SC/RCs deploying their funds for undertaking the restructuring of acquired loan
+account with the sole purpose of realising their dues, which guidelines read as
+under:
+Acquisition of Financial Assets by Securitisation
+Companies/Reconstruction Companies (SC/RCs) – Clarifications
+References have been received by the Bank seeking clarifications whether
+acquisition of financial assets by one SC/RC from another SC/RC will be
+in conformity with the provisions of SARFAESI Act/ guidelines issued by
+the Bank in the matter. Further, certain SC/RCs have desired to know if
+the SC/RCs can deploy their funds for the purpose of restructuring of
+acquired loans to enable them to realise their dues.
+2. The issues were examined and our response is as under:
+(i) A Securitisation Company/Reconstruction Company is neither a ‘bank’
+in terms of provisions of Section 2(1)(c) of SARFAESI Act, 2002 nor a
+‘financial institution’ in terms of provisions of Section 2(1)(m) of the said
+Act. Therefore, acquisition of financial assets by one SC/RC from another
+SC/RC will not be in conformity with the provisions of SARFAESI Act, 2002.
+(ii) ‘Restructuring of loans by SC/RC’ is one of the measures allowed to be
+undertaken by SC/RCs for realisation of their dues. As such, there is no
+bar on SC/RCs deploying their funds for undertaking restructuring of
+acquired loan account with the sole purpose of realizing their dues.
+Chief General Manager In-Charge
+
+Apart from there being no bar, we also notice that it was the Corporate Debtor
+which had approached Respondent No. 1 to provide this additional loan for the
+
+[PAGE 25]
+Page 25 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+purpose of effective restructuring of the Corporate Debtor. This is evident from
+the letter dated 03.12.2013 from the Corporate Debtor to the Respondent No. 1
+seeking a fresh Term Loan of Rs 6.90 Cr. as reconstruction measure which letter
+is already reproduced above at paragraph 13 above. In any case this issue was
+not agitated before the Adjudicating Authority and has been raised as an
+afterthought before this Tribunal.
+25. Another argument which has been canvassed by the Appellant is that the
+imposition of 30% interest p.a. and penal interest 36% p.a. is unlawful under
+the Usurious Loans Act, 1918. This contention was repelled by the Respondent
+No.1 by adverting attention to the Term Loan Agreement-2 wherein the Corporate
+Debtor acknowledged that all sums payable under the Facility Documents by
+way of default interest was reasonable and that it represented genuine pre-
+estimates of the loss incurred by the lender in the event of non-payment or
+default by the Corporate Debtor.
+26.
+When we look at the Term Loan Agreement-2, as reproduced above at para
+12 above, we find that the Corporate Debtor also acknowledged that the TL-2
+was for a commercial transaction and waived any defence available under usury
+or other laws relating to the charging of interest. Since deployment of loan was
+for restructuring of distressed accounts, it attracted higher rate of interest to
+neutralise high risk factor of default. Coming to the contention of the Appellant
+that the Hon’ble High Court of Delhi in Geetu Lakhpat and Other Vs Jaipal
+2011 SCC Online Del 1706 had held 24% p.a. interest as excessive and against
+public policy, we find the facts therein to be different from the present case. The
+distinguishing fact in that case was that the interest therein was decretal interest
+
+[PAGE 26]
+Page 26 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+and not an interest arising out of any contractual term. Reliance has also been
+placed by the Appellant on the judgment of this Tribunal in Tulip Star Hotels
+Ltd. Vs Anish Ranjan Nanavaty in CA(AT)(Ins.) No. 1114-1115 of 2023
+wherein the issue of admitted claim of the Asset Reconstruction Company was
+remanded by this Tribunal to the Adjudicating Authority to be correctly
+redetermined by the Resolution Professional in consultation with the CoC. This
+ratio is also not applicable in the facts of the present case since in Tulip Hotels
+case supra, though the Settlement Agreement which provided for 22% interest
+had already been revoked, yet the Financial Creditor was trying to enforce the
+said rate of interest. The Corporate Debtor having signed the TL-2 dated
+07.02.2014, the terms of the same have become binding. Having signed the TL-
+2 and adhered thereto without challenging the same, the Corporate Debtor
+cannot now raise the issue of legality or validity of the Term Loan Agreement.
+Moreover, when the TL-2 was executed voluntarily and was never challenged at
+any stage and the Corporate Debtor had even voluntarily made interest payment
+at the agreed rate of interest, we do not find much force in the contention of the
+Appellant of the applicability of the Tulip Hotels ratio. We do not find that the
+issue of rate of interest was pressed before the Adjudicating Authority. It is well
+settled that while dealing with a Section 7 application neither the Adjudicating
+Authority nor the Appellate Authority is expected to interfere with the terms of
+contract entered into between the concerned parties. All that is required to be
+seen is whether the debt and default is proven without adjudicating on whether
+the rate of interest was unreasonable or inflated. That being the case, raising
+
+[PAGE 27]
+Page 27 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+this fresh plea at the appellate stage of excessive interest rate cannot be looked
+into.
+27.
+This brings us to the objection raised by the Corporate Debtor that no date
+of default has been mentioned in the Section 7 application. This technical plea
+has been turned down by the Adjudicating Authority in the impugned order
+which is as reproduced below:
+8. In the present Application, the Corporate Debtor has raised a technical
+objection that the date of default has not been mentioned in the Form-1 of the
+Application filed by the Financial Creditor, therefore the application filed
+under Section 7 is defective and is not maintainable. Upon perusal of Form-1
+filed by the Financial Creditor, in Part IV against the amount claimed to be in
+default and the date on which default occurred, the Financial Creditor has
+stated that "Amount claimed to be in default is Rs. 5,05,89,698/- (Rupees
+Five Crores Five Lakhs Eighty-Nine Thousand Six Hundred Ninety-Eight only)
+as per the Recall Notice dated 29.04.2017."
+9. From the Part IV of Form I, it is seen that the Financial Creditor has
+mentioned the amount of default but no date is mentioned regarding the date
+of occurrence of default. However, the Financial Creditor has annexed several
+documents to show the existence of debt and its default including a copy of
+the Term Loan Agreement, Personal Guarantee Agreements, Recall Notice
+dated 29.04.2017 and Notice under Section13(2) of SARFAESI dated
+14.08.2019. The Financial Creditor has also stated that the Account of the
+Corporate Debtor was declared as NPA on 31.03.2016. Further, the Financial
+Creditor has also produced letters from the Corporate Debtor acknowledging
+the debt and the Corporate Debtor has itself annexed the OTS which was
+presented to the Financial Creditor.
+10. The Financial Creditor has produced all the relevant documents regarding
+the debt and its default. In such a situation, it will be inequitable and unjust
+to dismiss the Application solely on the technical ground that the Financial
+Creditor has failed to mention the date of default in Part IV of the Application.
+
+[PAGE 28]
+Page 28 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+28.
+To examine the tenability of the impugned order in this context, we may
+notice the particulars given in Para-V of the Section 7 application which is as
+reproduced below:
+PART-V
+PARTICULARS OF FINANCIAL DEBT (DOCUMENTS, RECORDS AND
+EVIDENCE OF DEFAULT)
+
+THE LATEST AND
+COMPLETE
+COPY
+OF THE FINANCIAL
+CONTRACT
+REFLECTING
+ALL
+AMENDMENTS
+AND WAIVERS TO
+DATE (ATTACH A
+COPY)
+
+Annexure-A1: Copy of certificate
+issued by Reserve Bank of India.
+
+Annexure-A2:
+Board
+Resolution
+dated 27.10.2020.
+
+Annexure-A3: Term Loan Agreement
+dated 07.02.2014 duly affixed on
+stamp paper vide serial No. 404486
+of Rs. 25,000 /-
+
+Annexure-A4:
+First
+Amendment
+agreement dated 30.06.2014.
+
+Annexure-A5: Second Amendment
+agreement dated 29.12.2014.
+
+Annexure-A6: Letter of Personal
+Guarantee
+Dated
+07.02.2014
+executed by Sh. Suresh Chauhan,
+Sh. Kamlesh Chauhan and Smt.
+Madhubala Chauhan.
+
+Annexure-A7:
+Memorandum
+relating to Deposit of Title Deeds
+dated 07.02.2014
+
+Annexure-A8:
+Deed
+of
+Hypothecation dated 07.02.2014.
+
+[PAGE 29]
+Page 29 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+Annexure-A9:
+Declaration
+and
+Undertaking for creation/extension
+of Mortgage executed by Smt.
+Madhubala
+Chouhan
+dated
+07.02.2014.
+
+Annexure-A10: Recall Notice dated
+29.04.2017 issued to the Corporate
+Debtor and Guarantors.
+
+Annexure-A11:
+Notice
+dated
+14.08.2019
+U/s
+13(2)
+of
+the
+SARFAESI Act, 2002.
+
+From the list of documents placed in the Part-V, we notice that the Adjudicating
+Authority had substantial material on record placed before it for determination
+of date of default. We have no reasons to disagree with the Adjudicating Authority
+in recording its satisfaction basis the materials on record placed by Respondent
+No. 1 in Part-V. The Adjudicating Authority has also adverted attention to the
+decision of this Tribunal in the case of Manmohan Singh Jain Vs SBI in
+CA(AT)(CH)(Ins) No. 97 of 2021 wherein it had been held that omission to
+mention date of default is not fatal to a Section 9 application as long as sufficient
+documentary evidence is adduced to establish the date of default.
+29.
+At this juncture, we may notice the relevant findings with regard to debt
+and default as recorded by the Adjudicating Authority in the impugned order
+which has come up in appeal. The relevant portions are as excerpted below:
+15. As far as the other contentions of the Corporate Debtor are concerned, it
+will be relevant to refer to Section 7 of the Code. Section 7 of the Code clarifies
+that the Adjudicating Authority has powers to initiate CIRP upon being
+satisfied that default has occurred of the financial debt. The key ingredients
+
+[PAGE 30]
+Page 30 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+of an Application filed under Section 7 of the Code are: (i) there has to be a
+financial debt and; (ii) there must be a default in repayment of the financial
+debt. While dealing with an application under section 7, the Adjudicating
+Authority is not required to consider the question of the dispute between the
+parties as long as the 'debt' and 'default' is proved.
+16. Presently, the Applicant has contended that the Corporate Debtor has
+defaulted in repayment of Term Loan II and the outstanding amount as per
+Recall Notice dated 29.04.2017 is Rs. 5,05,89,698/- (Rupees Five Crores Five
+Lakhs Eighty-Nine Thousand Six Hundred Ninety-Eight Only).
+17. The Financial Creditor has established the existence of the debt and its
+default. In light of the aforementioned, we are of the view that Corporate
+Insolvency Resolution Process ought to be initiated against the Corporate
+Debtor as all the ingredients laid down under Section 7 of the Code are
+fulfilled in the present matter.
+
+30.
+It has been well settled by the Hon’ble Supreme Court of India in M/s
+Innoventive Industries Ltd. v. ICICI Bank in C.A. Nos. 8337-8338 of 2017
+that upon the Adjudicating Authority being satisfied that a debt was due and
+that default had occurred, it was bound to commit the Corporate Debtor into
+insolvency. The Hon’ble Apex Court in the case of M/s Innoventive Industries
+Ltd. v. ICICI Bank in C.A. Nos. 8337-8338 of 2017 has laid down the guiding
+principles to admit or reject an application filed under Section 7 of the IBC. It
+may be relevant to notice the relevant paragraph of this judgment which is as
+follows:
+“30. On the other hand, as we have seen, in the case of a corporate
+debtor who commits a default of a financial debt, the adjudicating
+authority has merely to see the records of the information utility or other
+evidence produced by the financial creditor to satisfy itself that a
+default has occurred. It is of no matter that the debt is disputed so long
+as the debt is “due” i.e. payable unless interdicted by some law or has
+
+[PAGE 31]
+Page 31 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+not yet become due in the sense that it is payable at some future date.
+It is only when this is proved to the satisfaction of the adjudicating
+authority that the adjudicating authority may reject an application and
+not otherwise.”
+
+31.
+On the question as to whether debt and default was adequately
+demonstrated before the Adjudicating Authority, basis the records made
+available before it, the Adjudicating Authority has rightly concluded that it was
+satisfied with the evidence and material produced before it by the Respondent
+No.1 to prove that a debt had arisen; that a default has occurred and the default
+is above the threshold limit. There was admittedly a debt qua the Financial
+Creditor and there was a default in discharge of the debt obligations by the
+Corporate Debtor. We find no cogent reasons to disagree with this part of the
+impugned order either.
+32.
+The Ld. Sr. Counsel for the Appellant has also submitted that they have
+already deposited the claim set out in Part-IV of Section 7 application with the
+NCLAT Registry and are willing to submit a Settlement Proposal to the
+Respondent No. 1 to amicably resolve the dispute subject to imposition of a
+reasonable rate of interest.
+33.
+In the present case, since the CoC has already been constituted, in the
+event the settlement proposal as proposed by the Appellant is accepted by the
+Respondent No. 1, it shall be open for the Respondent No. 1 to file a Section 12-
+A application read with Regulation 30A of IBBI (Insolvency Resolution Process
+for Corporate Persons) Regulations, 2016 within two weeks from date of
+pronouncement of this order. In the event the settlement proposal is not
+
+[PAGE 32]
+Page 32 of 32
+Company Appeal (AT) (Insolvency) No. 604 of 2024
+
+accepted by Respondent No. 1 and the Section 12-A application is not filed within
+two weeks from date of pronouncement of this order, the RP shall proceed with
+the CIRP of the Corporate Debtor in accordance with law. With the liberty
+aforesaid, the appeal is dismissed with no order as to costs. The NCLAT Registry
+is also directed to refund the amount deposited by the Appellant to them
+forthwith.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 18.03.2025
+
+Abdul/Harleen

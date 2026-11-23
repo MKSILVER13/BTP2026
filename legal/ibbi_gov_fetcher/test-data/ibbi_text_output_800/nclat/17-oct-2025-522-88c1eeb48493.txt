@@ -1,0 +1,637 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 560 of 2025
+
+[Arising out of the Order dated 14.02.2025, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal, New
+Delhi Bench) in CP (IB)-41(ND)/2024]
+
+IN THE MATTER OF:
+
+Subhash Chander Chauhan
+R/o T-66, Near West Patel Nagar
+Baljeet Nagar, Central Delhi
+Delhi – 110028
+
+...Appellant
+
+Versus
+
+1.
+M/s Kaliber Associates Pvt. Ltd.
+(Through Liquidator Sh. Mohan Lal Jain)
+B-1/12, 2nd Floor, Safdarjung Enclave
+New Delhi – 110029
+
+...Respondent No.1
+
+2.
+West Star Constructions Pvt. Ltd.
+Through Interim Resolution Professional
+Office at: Building No. 3, Kh. No. 385
+Plot No. 2, 100 ft. Road Ghitorni
+MG Road, NA Delhi
+Email ID: lekhrajbajaj@rediffmail.com
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. Saurabh Jain and Mr. Prayag Jain, Advocates
+
+For Respondent
+:
+Mr. Abhishek Naik, Ms. Gulafsha Kureshi and Ms.
+Katyayani, Advocates for R2/RP.
+
+Mr. Anirban Bhattacharya, Ms. Priyanka Bhatt and
+Mr. Rajeev Choudhary, Advocates for R1.
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+This Appeal is being filed under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (“Code”) against the Impugned Order dated
+
+[PAGE 2]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 2 of 19
+
+14.02.2025 by National Company Law Tribunal (Adjudicating Authority), New
+Delhi in Company Petition No. (IB)-41(ND)/2024.
+
+2.
+The Appellant is Suspended Director of Corporate Debtor (CD) (West
+Star Constructions Pvt. Ltd.) and was admitted into insolvency on 06.03.2024
+under Section 7 of the Code. This was an ex-parte order and against that an
+Appeal was filed before this Tribunal in CA(AT)(Ins.) No. 666 of 2024 and vide
+order dated 23.09.2024 this Tribunal remanded the matter back to NCLT to
+determine and construe the real nature of the transaction and set aside the
+initiation of the CIRP order.
+
+3.
+Thereafter, the Adjudicating Authority came to a conclusion on
+14.02.2025 through the Impugned Order admitting Section 7 Application
+against the CD thereby initiating CIRP against the CD.
+Brief Facts of the Case
+4.
+The Corporate Debtor (CD) – West Star was engaged in providing
+consultancy services in the real estate sector. In October 2010, Respondent
+No.1-Kaliber approached the Corporate Debtor for consultancy services in
+relation to a commercial real estate project. Pursuant to a mutual
+understanding, Respondent No.1-Kaliber agreed to pay a sum of
+₹1,00,00,000/- as a deposit (as claimed by the Appellant) to facilitate market
+research and analysis. On 20.11.2010, the Corporate Debtor (CD)-West Star
+received the said amount from Respondent No.1-Kaliber. Upon completion of
+the agreed services, the Corporate Debtor (CD)-West Star raised a proforma
+invoice dated 15.12.2012 (No. PI01/12-13) for an amount of ₹1,20,00,000/-,
+
+[PAGE 3]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 3 of 19
+
+stipulating that the final invoice would be issued upon receipt of payment.
+However, Respondent No.1-Kaliber failed to clear the said payment.
+
+5.
+Separately in the CIRP proceedings against Kaliber, on 02.01.2020, the
+Adjudicating Authority, in I.A. No. 1524/C-II/ND/2019 in C.P. (IB) No.
+228/2018, admitted an application filed by the Resolution Professional of M/s
+Kaliber Associates Pvt. Ltd. and initiated liquidation proceedings under
+Sections 33(1) and 33(2) of the Insolvency and Bankruptcy Code, 2016.
+
+6.
+It is to be noted that on 18.07.2019, the Resolution Professional of
+Respondent No.1 had issued a letter to the Corporate Debtor (CD)-West Star
+seeking repayment of ₹1,00,00,000/-. Subsequently, on 20.07.2020,
+Respondent No.1-Kaliber issued a legal notice to the Corporate Debtor (CD)-
+West Star. Thereafter, on 04.01.2024, Respondent No.1-Kaliber filed an
+application under Section 7 before the Adjudicating Authority, registered as
+C.P. (IB) No. 41/ND/2024. Adjudicating Authority, vide ex-parte order dated
+06.03.2024, admitted the application and initiated the Corporate Insolvency
+Resolution Process (CIRP) against the Corporate Debtor. Aggrieved by the said
+order, the Appellant filed Company Appeal (AT) (Insolvency) No. 666 of 2024
+before this Hon’ble Tribunal. Vide order dated 23.09.2024, this Tribunal had
+set aside the initiation of CIRP and remanded the matter back to the
+Adjudicating Authority for reconsideration to determine the true nature of the
+transaction.
+
+7.
+Thereafter, on 01.10.2024, the Corporate Debtor (CD)-West Star, in its
+capacity as an Operational Creditor of Respondent No.1-Kaliber, submitted
+Form-C to the Liquidator for admission of its claim.
+
+[PAGE 4]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 4 of 19
+
+Submissions on behalf of the Appellant
+8.
+The Appellant-Suspended Director of Corporate Debtor (CD)-West Star
+contends that the impugned order is in direct contravention of the binding
+directions of this Appellate Tribunal contained in its order dated 23.09.2024
+in CA (INS) No. 666 of 2024. This Appellate Tribunal had specifically
+remanded the matter to the Adjudicating Authority with a mandate to
+reconsider the Section 7 application afresh, after duly examining the
+underlying transaction, the true nature of the alleged debt, and the
+maintainability of the claim in law. However, the Adjudicating Authority,
+without undertaking any examination of the underlying transaction or
+applying its mind to the character of the alleged liability, has erroneously
+proceeded to hold the Corporate Debtor in default and to admit the Section 7
+Application.
+
+9.
+The genesis of the present dispute lies in a proforma invoice dated
+15.12.2012 issued by the Corporate Debtor - M/s West Star Constructions
+Pvt. Ltd. for “Research Services in Real Estate.” Under the arrangement, the
+total contract value was agreed at ₹1.20 crore, against which Respondent
+No.1-Kaliber advanced a sum of ₹1 crore to the Corporate Debtor towards
+performance of the said services.
+
+10.
+Appellant contends that, owing to tax implications and since the
+balance amount of ₹20 lakh was never paid; the Corporate Debtor was
+constrained not to raise a final invoice. Accordingly, only a proforma invoice
+for ₹1 crore was issued. Several years thereafter, Respondent No.1-Kaliber,
+acting first through its Resolution Professional and subsequently as
+
+[PAGE 5]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 5 of 19
+
+Liquidator, raised a demand of ₹1,00,00,000/- along with interest, alleging
+that the said amount constituted a financial debt. The sole basis for such
+claim was that, in the books of account of Respondent No. 1, the amount was
+reflected under the head short-term loans and advances. A Section 7 petition
+was filed on 04.01.2024, consequently the Adjudicating Authority vide ex-
+parte order dated 06.03.2024 admitted the Section 7 application. This
+admission order was challenged by the Appellant before this Hon’ble Appellate
+Tribunal in CA (INS) No. 666 of 2024. This Appellate Tribunal vide order dated
+23.09.2024 set aside the admission order and remanded the matter to the
+Adjudicating Authority with a clear mandate to consider the objections raised
+by the Appellant, particularly on:
+ Whether the alleged claim constituted a “financial debt” under Section
+5(8) of the IBC;
+
+ Whether the alleged default was supported by conclusive evidence;
+
+ Whether the Section 7 application was maintainable in law.
+
+11.
+Appellant contends that mere accounting entries or reliance on NeSL
+records cannot substitute the essential requirement of proving the underlying
+transaction. Onus lies upon Respondent No. 1 to establish the existence of a
+“financial debt” within the meaning of Section 5(8) of the IBC, 2016. The
+statutory definition necessarily requires a disbursement of money against
+consideration for the time value of money, which must be demonstrated
+through cogent and reliable evidence. Adjudicating Authority has erroneously
+relied upon R1’s own balance sheet, as well as the alleged acknowledgment in
+the books of the Corporate Debtor, which in any event was not reflected under
+the head of long-term borrowings. Such reliance is wholly insufficient to
+
+[PAGE 6]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 6 of 19
+
+establish the existence of a “financial debt” within the meaning of Section 5(8)
+of the Code, as mere accounting entries cannot substitute the statutory
+requirement of demonstrating a disbursement against consideration for the
+time value of money.
+
+12.
+Appellant raised objections:
+• that the underlying transaction was not a loan but arose from a
+proforma invoice for services, which by its very nature cannot
+constitute a financial debt
+• that no document evidencing disbursement against consideration for
+time value of money was ever placed on record; and
+• that the balance sheet treatment in the Corporate Debtor’s accounts
+reflected the amount as a security deposit/other liability, not as
+borrowing AA has not given clear findings on these core objections so
+Adjudicating Authority has acted contrary to the binding remand
+directions of the Appellate Tribunal dated 23.09.2024.
+
+13.
+The Appellant contends that the Corporate Debtor is a financially
+solvent and viable entity. Apart from the disputed claim of Respondent No. 1,
+no other creditor lodged any claim before the Resolution Professional. The sole
+reliance on the present disputed claim demonstrates that the Section 7
+proceedings were never initiated for resolution of genuine financial distress,
+but rather as a means of securing recovery of money. The legislative intent of
+the Insolvency and Bankruptcy Code, 2016, is not to provide an alternative
+forum for money recovery, but to ensure resolution and restructuring of a
+Corporate Debtor in genuine cases of insolvency. Appellant claims that this
+
+[PAGE 7]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 7 of 19
+
+has been reiterated by the Hon’ble Supreme Court in 1M/s Invest Asset
+Securitisation and Reconstruction Pvt. Ltd. v. M/s Girnar Fibres Ltd.,
+Civil Appeal No. 3033 of 2022, 2022 SCC OnLine SC 808.
+Submissions on behalf of the Respondent
+14.
+This Appellate Tribunal vide its judgment dated 23.09.2024 set aside
+the Order dated 06.03.2024 and remitted the matter for fresh consideration
+before the Adjudicating Authority with liberty to the Appellant to file a Reply
+before the Adjudicating Authority. It is relevant to note that this Appellate
+Tribunal while deciding the Appeal categorically held that “We make it clear
+that our observations made in the Orders have been made only for purposes
+of deciding the Appeal and may not be treated any conclusive opinion on the
+issues which are open to consideration in Section 7 Application. Adjudicating
+Authority may proceed to decide Section 7 Application in accordance with law,
+without being influenced by any of the observations made in this Appeal.” It
+was further observed by this Appellate Tribunal that the Adjudicating
+Authority is required to see nature of transaction for coming to conclusion
+that there is a Financial Debt.
+
+15.
+It is the case of the Corporate Debtor that an amount of ₹1,00,00,000/-
+(Rupees One Crore Only) was paid by the Respondent No.1 as an advance
+towards consultancy services rendered by the Appellant for which a
+proforma invoice of ₹1,20,00,000/- (Rupees One Crore Twenty Lakhs Only)
+dated 15.12.2012 was raised and despite the completion of services and
+
+1 M/s Invest Asset Securitisation and Reconstruction Pvt. Ltd. v. M/s Girnar Fibres Ltd., Civil
+Appeal No. 3033 of 2022, SCC OnLine SC 808: it was reiterated that IBC cannot be used as
+a tool for debt recovery, but to ensure resolution and restructuring of a Corporate Debtor.
+
+[PAGE 8]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 8 of 19
+
+issuance of proforma invoice, the payment towards the said invoice of
+₹20,00,000 remained outstanding.
+
+16.
+Only pursuant to the directions issued by this Hon’ble Appellate
+Tribunal vide Judgment dated 23.09.2024, the CD in a calculated and
+motivated manner filed a claim on 01.10.2024 to the Liquidator of the
+Respondent No.1 for the outstanding balance of ₹20,00,000/- (Rupees Twenty
+Lakhs Only). The filing of claim pursuant to the Judgment of this Appellate
+Tribunal is clearly a calculated move to give legitimacy to the case of the
+Appellant that the said amount was received as an advance against the
+consultancy service rendered by the Appellant and accordingly the Appellant
+has set up his defence and filed his claim for remaining amount of
+₹20,00,000/-. The timing and manner of the filing of such a claim clearly
+establish that the same was done solely to strengthen a false plea. The
+Appellant’s claim that the said amount was an advance for consultancy
+services is unsubstantiated, unfounded and contradicts the financial records.
+
+17.
+Further, the balance sheets of the Corporate Debtor reflect an amount
+of ₹1,00,00,000/- (Rupees One Crore Only) against the name of the Financial
+Creditor as “other long term liabilities”. It is the case of the Corporate Debtor
+that the Corporate Debtor rendered consultancy services in real estate
+business for which Proforma Invoice for an amount of ₹1,20,00,000/- (Rupees
+One Crore Twenty Lakhs Only) was raised, out of which ₹1,00,00,000/-
+(Rupees One Crore Only) was received by the Corporate Debtor. It belies logic
+that after receiving ₹1,00,00,000/, the same amount is still maintained as a
+liability in the balance sheets of the Corporate Debtor. However, the total
+
+[PAGE 9]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 9 of 19
+
+amount raised in the Proforma Invoice is ₹1,20,00,000/- (Rupees One Crore
+Twenty Lakhs Only) and liability shown in balance sheets is ₹1,00,00,000/-
+(Rupees One Crore Only). Further, the Corporate Debtor never demanded the
+remaining balance amount of ₹20,00,000/- (Rupees Twenty Lakhs Only) from
+the Financial Creditor which makes the case of the Corporate Debtor false on
+the face of it. It is only on 01.10.2024 when the Corporate Debtor submitted
+its claim of ₹20,00,000/- (Rupees Twenty Lakhs Only) to the Liquidator of the
+Respondent No.1.
+
+18.
+It is claimed that the public announcement was made on 05.01.2020
+and the Corporate Debtor filed its claim of ₹20,00,000/- (Rupees Twenty
+Lakhs Only) after a period of more than four years. This belated filing of claim
+clearly makes the case of the Corporate Debtor false on the face of it. Further,
+the Liquidator of the Financial Creditor vide email dated 04.10.2024 duly
+replied to the Corporate Debtor and requested to provide certain information
+and documents. However, no reply was received on behalf of the Corporate
+Debtor. Accordingly, vide letter dated 16.10.2024 the Liquidator of the
+Financial Creditor rejected the claim of the Corporate Debtor which was never
+challenged by the Appellant.
+
+19.
+It is further claimed that even otherwise, also no reliance can be placed
+upon proforma invoice as the proforma invoice was raised by the Appellant
+on 15.12.2012 and the Respondent no.1 had disbursed loan amount of
+₹1,00,00,000/- (Rupees One Crores Only) to the Appellant on 20.11.2010.
+Assuming the version of the Appellant to be true it still belies logic that an
+amount of ₹1,00,00,000/- (Rupees One Crores Only) was given to the
+
+[PAGE 10]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 10 of 19
+
+Corporate Debtor on 20.11.2010 and invoice for an amount of ₹1,20,00,000/-
+(Rupees One Crore Twenty Lakh Rupees) was raised on 15.12.2012 i.e., after
+a long period of two years. The claim of the Appellant that an amount of
+₹1,00,00,000/- was transferred to it with respect to the services rendered by
+the Appellant to the Respondent no. 1 is false on the face of it. The Appellant
+has failed to show that it ever performed any work for the Respondent.
+
+20.
+It is contended that the Appellant/Corporate Debtor has failed to
+establish that the said amount was paid towards consultancy services to the
+Appellant. The Appellant failed to explain how the amount of advance could
+be shown in the balance sheet as long term liability and if way back in the
+year 2012 the financial creditor was liable to pay ₹20,00,000/- then how the
+balance sheet of year 2021 show long term liability as ₹1,00,00,000/-. The
+entire defence put forth by the Appellant is false, concocted and devoid of any
+cogent material in support.
+
+21.
+It is contended that as per accounting standards “other long term
+liabilities” is classified as “trade payables” and “others” meaning thereby that
+amount due on account of goods purchased or services received in the normal
+course of business. However, in the present case it is not the case that the
+Respondent No.1/Financial Creditor extended any service or made any supply
+to the Appellant qua which the trade payables are there in balance sheets.
+
+22.
+The Respondent No. 1 had disbursed an amount of ₹1,00,00,000/-
+(Rupees One Crore Only) to the Appellant as loan and advances which was
+repayable on demand and accordingly demands were raised vide letters dated
+
+[PAGE 11]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 11 of 19
+
+18.07.2019 and 20.07.2020. The said amount is also reflecting in the balance
+sheets as on 31.03.2018 and 18.01.2019 of the Respondent No. 1 against the
+name of the Appellant as “loan and advances to others”. Further, the balance
+sheets of the Appellant are also reflecting the said amount against the name
+of the Respondent No. 1 as “other long-term liabilities” thereby, clearly
+establishing debt and default.
+
+23.
+It is contented by the Respondent that the Hon’ble Supreme Court in
+2Pioneer Urban Land and Infrastructure Limited and Ors. vs. Union of
+India (UOI) and Ors. (09.08.2019 - SC): MANU/SC/1071/2019 [Para 70-71
+@ Pg. 96] has interpreted “time value of money” and observed that "disbursal"
+must be money and must be against consideration for the "time value of
+money", meaning thereby, the fact that such money is now no longer with the
+lender, but is with the borrower, who then utilises the money.
+
+24.
+It is claimed that balance sheets are relevant for determining as to
+whether there was a financial debt or not. The balance sheets of the Corporate
+Debtor for the Financial Year ending on 31.03.2020, 31.03.2021 and
+31.03.2022 under the head “other long-term liabilities” reflect that there is a
+financial debt which is relevant enough under Section 5(8) of the Code.
+Reliance is placed upon the decision of this Hon’ble Appellate Tribunal in
+3G.S. Buildtech (P) Ltd. v. Ardee Infrastructure Venture (P) Ltd., 2021 SCC
+
+2 Pioneer Urban Land and Infrastructure Limited and Ors. vs. Union of India (UOI) and Ors.
+(09.08.2019 - SC): MANU/SC/1071/2019 [Para 70-71 @ Pg. 96] : interpreted “time value of
+money” and observed that "disbursal" must be money and must be against consideration for
+the "time value of money"
+3 G.S. Buildtech (P) Ltd. v. Ardee Infrastructure Venture (P) Ltd., 2021 SCC OnLine NCLAT
+4979, [Para 10 @ Pg. 117]:by taking into consideration the Balance Sheet, the Adjudicating
+Authority can re-consider the question of Applicant being Financial Creditor or not.
+
+[PAGE 12]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 12 of 19
+
+OnLine NCLAT 4979, [Para 10 @ Pg. 117] wherein this Appellate Tribunal
+has held that consideration of the balance sheet is relevant for determining as
+to whether there was a financial debt or not. Thus, by taking into
+consideration the Balance Sheet, the Adjudicating Authority can re-consider
+the question of Applicant being Financial Creditor or not.
+
+25.
+It is also claimed that to prove loan given by the Respondent no. 1 to the
+Corporate Debtor, there is no need to produce any document or agreement or
+written contract. Reliance is placed upon the decision of the Hon’ble NCLAT in
+4Agarwal Polysacks Ltd. Vs. K. K. Agro Foods and Storage Ltd., Company
+Appeal (AT) (Insolvency) No.1126 of 2022 [Para 21 @ Pg. 134].
+
+26.
+Respondent No.1 - Kaliber claims that the contention of the Appellant
+that Section 7 application cannot be filed for the purpose of recovering a debt
+is incorrect and misconceived. By virtue of Explanation II to Section 11 of the
+IBC, the Applicant is entitled to initiate Corporate Insolvency Resolution
+Process against another Corporate Debtor which even as per the decision of
+the Hon’ble Supreme Court of India in 5Manish Kumar v. Union of India,
+(2021) 5 SCC, [Paras 292 & 310 @ pg. 302] is aimed at enabling the Corporate
+Debtor to recover its dues from its debtors. Even if the application under
+Section 7 of the IBC has been filed for the purpose of recovery, then also the
+
+4 Agarwal Polysacks Ltd. Vs. K. K. Agro Foods and Storage Ltd., Company Appeal (AT)
+(Insolvency) No.1126 of 2022 [Para 21 @ Pg. 134]...no need to produce any document or
+agreement or written contract
+
+5 Manish Kumar v. Union of India, (2021) 5 SCC, [Paras 292 & 310 @ pg. 302]...enabling the
+Corporate Debtor to recover its dues from its debtors even if the application under Section 7
+of the IBC has been filed for the purpose of recovery, then also the same is not barred by law
+
+[PAGE 13]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 13 of 19
+
+same is not barred by law in view of the decision of the Hon’ble Supreme Court
+of India in Manish Kumar (supra). Reliance is further placed on the decision of
+the Hon’ble NCLAT in 6Satish Kumar v. Lion Buildcon and Anr., Company
+Appeal (AT) (Ins) No. 1723 of 2024 [Para 41 @ Pg.387].
+
+27.
+Respondent No.1 – Kaliber also opposes the reliance of the Corporate
+Debtor on the Judgment of the Hon’ble Supreme Court in 7Vidarbha
+Industries Power v. Axis Bank Limited contending that the proceedings
+under Section 7 of IBC are liable to be dismissed if it is established that the
+Corporate Debtor is a going concern and solvent company. Respondent No.1 -
+Kaliber contends that this Hon’ble Appellate Tribunal in 8Edelweiss Asset
+Reconstruction Company Ltd. v. Takshashila Heights India Pvt. Ltd.,
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 [Paras 42 & 46 @pg. 417
+& 422], has held that the arguments that the Corporate Debtor being a going
+concern or a viable entity does not absolve the Corporate Debtor from its
+liabilities to repay the outstanding dues of the Financial Creditor, once the
+NCLT is satisfied that the default has occurred, there is hardly any discretion
+left with the NCLT to refuse admission of the Application under Section 7 IBC.
+Since in the present case the debt and default on the part of the Corporate
+
+6 Satish Kumar v. Lion Buildcon and Anr., Company Appeal (AT) (Ins) No. 1723 of 2024
+
+7 Vidarbha Industries Power v. Axis Bank Limited
+
+8 Edelweiss Asset Reconstruction Company Ltd. v. Takshashila Heights India Pvt. Ltd.,
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 [Paras 42 & 46 @pg. 417 & 422]: That a
+Corporate Debtor being a going concern or a viable entity does not absolve it from its liabilities
+to repay the outstanding dues of the Financial Creditor, once the NCLT is satisfied that the
+default has occurred
+
+[PAGE 14]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 14 of 19
+
+Debtor has already been established, therefore, the Adjudicating Authority
+has rightly admitted Section 7 application.
+Appraisal
+28.
+Heard counsels of both sides and also perused material placed on the
+record.
+
+29.
+We note that the present Appeal has been preferred by the
+Appellant/SD of the Corporate Debtor – West Star challenging the Order of
+the Adjudicating Authority admitting the Application under Section 7 of the
+Insolvency and Bankruptcy Code, 2016 (“IBC”) filed by the Respondent
+No.1/Financial Creditor - Kaliber. Earlier, this Appellate Tribunal vide
+Judgment dated 23.09.2024 had set aside the Order dated 06.03.2024 and
+remitted the matter back for fresh consideration, clarifying that observations
+in that Order were only for the limited purpose of deciding the Appeal and
+that the Adjudicating Authority must independently determine whether the
+transaction in question constituted a “financial debt” under Section 5(8) of
+the IBC. Upon remand, the Adjudicating Authority, after considering the rival
+pleadings and documents, admitted the Section 7 Application. The present
+Appeal assails that admission.
+
+30.
+Before proceeding further, we recapitulate the submissions of the
+appellant herein as under. The Appellant contends that the sum of
+₹1,00,00,000/- received from Respondent No.1 – Kaliber was not a loan but
+an advance towards consultancy services rendered in the real estate business.
+A proforma invoice dated 15.12.2012 for ₹1,20,00,000/- was raised by
+Respondent No.2 – West Star, and ₹20,00,000/- remained unpaid. The
+
+[PAGE 15]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 15 of 19
+
+Appellant submits that the subsequent filing of a claim for ₹20,00,000/-
+before the Liquidator of Respondent No.1 on 01.10.2024 was in furtherance
+of this understanding, but the Liquidator wrongfully rejected the claim. It is
+claimed that balance sheet entries showing ₹1,00,00,000/- as “other long-
+term liabilities” were only accounting treatments, not admissions of financial
+debt. The Respondent’s interpretation of such entries as loan liability is
+misplaced. The Appellant relies on Hon’ble Supreme Court in 1M/s Invest
+Asset Securitisation and Reconstruction Pvt. Ltd., where it was held that
+the purpose of the IBC is to “bring the corporate debtor to its feet” and not to
+be misused as a tool for recovery of dues. Appellant contends that the action
+of the Liquidator in pursuing the Section 7 application demonstrates an
+attempt to misuse the IBC framework for recovery of an alleged claim, in direct
+contravention of the legislative objective. The Appellant also relies on
+7Vidarbha Industries Power v. Axis Bank Ltd., contending that even if a
+debt exists, the Adjudicating Authority has discretion not to admit the Section
+7 Application, particularly when the Corporate Debtor is a solvent and going
+concern.
+
+31.
+The Respondent No.1 - Kaliber disputes the consultancy services
+narrative, contending that no evidence of services rendered has been
+produced. It is argued that the proforma invoice of 2012 is a sham document
+relied upon belatedly to convert a loan transaction into a services transaction.
+The Respondent highlights that the amount of ₹1,00,00,000/- was disbursed
+on 20.11.2010, much prior to the alleged invoice of 2012, which belies the
+claim of advance for services. The Respondent submits that the balance
+
+[PAGE 16]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 16 of 19
+
+sheets of the Corporate Debtor consistently reflect Rs. 1,00,00,000/- as “other
+long-term liabilities” against the Financial Creditor. Relying on
+3G.S.
+Buildtech (P) Ltd. v. Ardee Infrastructure Venture (P) Ltd., it is urged that
+balance sheet entries are reliable evidence of existence of financial debt. The
+Respondent relies on 2Pioneer Urban Land v. Union of India and Agarwal
+Polysacks Ltd. v. K.K. Agro Foods, to argue that absence of a formal loan
+agreement is not fatal, and what matters is disbursal of money against
+consideration for time value of money. It is further submitted that demand
+notices were issued on 18.07.2019 and 20.07.2020. Debt and default being
+established, the Adjudicating Authority had no discretion to reject the Section
+7 Application. Reliance is placed on 8Edelweiss ARC v. Takshashila Heights
+India Pvt. Ltd., holding that solvency of the Corporate Debtor is irrelevant
+once debt and default are proved
+Issues for Consideration
+32.
+The issues which arise for determination are whether the sum of
+₹1,00,00,000/- disbursed by Respondent No.1 constituted a “financial debt”
+under Section 5(8) of the IBC and whether the Corporate Debtor’s defence of
+“consultancy advance” is credible and whether the Adjudicating Authority
+erred in admitting the Section 7 Application despite the plea of solvency?
+
+33.
+With respect to nature of transaction, we find that the material on
+record establishes that the Respondent disbursed ₹1,00,00,000/- on
+20.11.2010. The Corporate Debtor has failed to produce any documentary
+evidence—such as consultancy agreements, invoices contemporaneous to the
+transaction, or tax records—showing that services were rendered in
+
+[PAGE 17]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 17 of 19
+
+consideration. On the contrary, the balance sheets of the Corporate Debtor
+for multiple financial years continuously record the said sum as “other long-
+term liabilities” against the name of the Financial Creditor. As held in G.S.
+Buildtech (supra), such entries are reliable indicators of existence of financial
+debt. The disbursal, coupled with its classification as a liability, satisfies the
+requirement of “time value of money” as explained by the Hon’ble Supreme
+Court in Pioneer Urban (supra). Accordingly, the transaction qualifies as a
+financial debt under Section 5(8) IBC.
+
+34.
+Now we briefly delve into the contention of the Appellant that the object
+of the Code is revival and resolution of genuinely insolvent companies, not
+recovery of money and places its reliance on the Hon’ble Supreme Court in
+9Swiss Ribbons Pvt. Ltd. v. Union of India (2019) 4 SCC 17 and 1Invest
+Asset Securitisation and Reconstruction Pvt. Ltd. v. Girnar Fibres Ltd.
+has emphasized that the IBC is not a substitute for recovery forums. We note
+that by virtue of Explanation II to Section 11 of the IBC, the Respondent-1/FC
+is entitled to initiate Corporate Insolvency Resolution Process against another
+Corporate Debtor which is supported by the decision of the Hon’ble Supreme
+Court of India in 5Manish Kumar which supports the case of the Corporate
+Debtor to recover its dues from its debtors. Even if the application under
+Section 7 of the IBC has been filed for the purpose of recovery, then also the
+same is not barred by law.
+
+9 Swiss Ribbons Pvt. Ltd. v. Union of India (2019) 4 SCC 17: The Court stressed that the
+Code’s object is revival of the Corporate Debtor.
+
+[PAGE 18]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 18 of 19
+
+35.
+It is also noted that appellant has tried to place reliance on 7Vidarbha
+which does not support the case of the Appellant. The Vidarbha Judgment
+specifically says that “Ordinarily, the Adjudicating Authority (NCLT) would
+have to exercise its discretion to admit an application under Section 7 of the IBC
+and initiate CIRP on satisfaction of the existence of a financial debt and default
+on the part of the Corporate Debtor in payment of the debt, unless there are
+good reasons not to admit the petition”. Since in the present case the debt and
+default on the part of the Corporate Debtor has already been established,
+therefore, we cannot find any infirmity in the decision of the Adjudicating
+Authority in admitting Section 7 application.
+
+36.
+With respect to defence of this being a consultancy fees the Appellant’s
+case rests upon a proforma invoice dated 15.12.2012, raised nearly two years
+after the disbursal. No supporting evidence of actual consultancy work
+performed has been filed. The timing of the Appellant’s belated claim before
+the Liquidator on 01.10.2024, only after remand by this Tribunal, further
+weakens the arguments relating to consultancy. The Liquidator’s rejection of
+the claim was never challenged. The consultancy plea thus appears to be an
+afterthought, lacking credibility and thus cannot be accepted.
+Conclusion
+37.
+Having regard to the above findings, we hold as follows:
+o The disbursal of Rs. 1,00,00,000/- by the Financial Creditor is a
+financial debt.
+o The Appellant has failed to substantiate its defence of consultancy
+advance.
+
+[PAGE 19]
+Company Appeal (AT)(Insolvency) No. 560 of 2025 19 of 19
+
+o Debt and default stand established, and admission of the Section 7
+Application by the Adjudicating Authority is in accordance with
+law.
+Orders:
+38.
+No interference is called for with the impugned Order of the
+Adjudicating Authority admitting the Section 7 Application. The Appeal is
+dismissed. No order as to costs.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+October 17, 2025.
+
+pawan

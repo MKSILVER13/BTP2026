@@ -1,0 +1,980 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+[Arising out of the Impugned Order dated 09.04.2026 passed by the
+Adjudicating Authority, National Company Law Tribunal, New Delhi,
+Bench-II in I.A. No. 5111/ND/2025 in CP (IB) 318 (ND)/2025]
+
+IN THE MATTER OF:
+
+GAURAV BHALLA
+Personal Guarantor of Arcturus Developers Private
+Limited Residing at Farm No. 4, Hyde Park, Prakriti
+Marg Sultanpur Farm, Mehrauli New Delhi – 110030.
+
+...Appellant(s)
+Versus
+
+1.BEACON TRUSTEESHIP LIMITED
+Having its Registered Office at: 5W, 5th Floor, The
+Metropolitan
+Building,
+E-
+Block,
+Bandra-Kurla
+Complex (BKC) Bandra (East), Mumbai – 400051
+
+2. CA Nitin Om Kothari
+Resolution Professional
+IBBI
+Regn
+No.:
+IBBI/IPA-001/IP-P01456/2018-
+2019/12272 Address of the IRP: 5A/301, Alica Nagar,
+Lokhandwala Township, Kandivali (East), Mumbai -
+400101
+
+...Respondent(s)
+Present:
+
+For Appellant
+: Mr. Virender Ganda, Sr. Advocate with Mr. Vishal
+Ganda, Mr. Ayandeb Mitra, Ms. Riya Palnitkar and Mr.
+Pulkit Goyal, Advocates.
+For Respondents
+: Mr. Abhijeet Sinha, Sr. Advocate with Ms. Meghna
+Mishra, Mr. Nikhil Ratti Kapoor, Ms. Yashodhara Gupta
+and Mr. Kevin Chadha, Advocates for R-1.
+Mr. Vivek Sharma, Advocate for R-2/RP.
+
+J U D G M E N T
+(Hybrid Mode)
+Per: Barun Mitra, Member (Technical)
+The present appeal filed under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘IBC’ in short) by the Appellant arises out of the
+Order dated 09.04.2026 (hereinafter referred to as the ‘Impugned Order’)
+
+[PAGE 2]
+Page 2 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+passed by the Adjudicating Authority (National Company Law Tribunal, New
+Delhi, Bench-II) in I.A. No. 5111/ND/2025 in CP (IB) 318 (ND)/2025. By the
+said impugned order, the Adjudicating Authority has allowed the application
+i.e. I.A. No. 5111/ND/2025 preferred by the Resolution Professional under
+Section 99 of IBC and has admitted the application preferred by Beacon
+Trusteeship Limited-Debenture Trustee under Section 95(1) and (2) of the IBC
+for initiation of Personal Insolvency Resolution Process of Gaurav Bhalla-
+Appellant/Personal Guarantor. Aggrieved by the impugned order, the present
+appeal has been preferred by the Appellant-Personal Guarantor.
+2.
+Coming to the factual matrix of the present case the salient
+events/development which are relevant to be noticed are as shown hereunder:
+• Arcturus Developers Private Limited (‘ADPL’ in short) had sought to
+raise funds in 2019 through issuance and allotment of 50,00,000
+Optionally Convertible Debentures (‘OCDs’ in short) having a face value
+of Rs. 1,000 each aggregating to a total issue size of Rs. 500 Cr.
+Pursuant thereto, a Debenture Trustee Agreement was executed on
+11.06.2019 between ADPL and Respondent No. 1-Beacon Trusteeship
+Limited (‘Beacon’ in short), appointing it as the Debenture Trustee for
+the benefit of the debenture holders.
+• On 12.06.2019, 50,00,000 OCDs aggregating to Rs. 500 Cr were issued
+to IndiaBulls Dual Advantage Real Asset Fund and on 29.07.2019,
+ADPL entered into a Debenture Trust Deed (‘DTD’ in short) with
+Respondent No. 1-Financial Creditor setting out the terms and
+conditions governing the debentures.
+
+[PAGE 3]
+Page 3 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+• Subsequently, on 23.08.2019, Gaurav Bhalla-Appellant along with
+other promoters of ADPL executed Deeds of Personal Guarantee (‘DPG’
+in short) securing the obligations arising under the debenture issuance.
+• On 17.01.2020, the DTD was amended whereby the redemption
+provisions were revised through the First Amendment to the DTD.
+• On 06.01.2021, the debenture holder exercised its conversion option
+through a First Conversion Notice calling upon ADPL to convert the
+entire 50,00,000 OCDs into Compulsorily Convertible Debentures
+(‘CCDs’ in short) within 36 months.
+• On 05.01.2024, a Second Conversion Notice was issued modifying the
+conversion timeline to convert the OCDs into CCDs within 54 months,
+i.e., by 06.07.2025.
+• Subsequently, on 16.01.2024, the DTD was amended for a second time
+whereby the tenure of the debentures was extended to 108 months from
+the date of allotment, i.e., up to 12.07.2028.
+• Beacon-Respondent No. 1, acting on the instructions of the debenture
+holder, issued a Put Option Notice dated 07.01.2025 seeking to exercise
+the put option under the DTD and calling upon ADPL to pay an amount
+of Rs. 1,258.73 Cr within seven days. The Put Option Notice was
+delivered to ADPL-Corporate Debtor on 10.01.2025. On account of non-
+payment of the said amount within seven days from receipt of the Put
+Option Notice, Respondent No. 1-Beacon claimed occurrence of default
+by ADPL as on 17.01.2025.
+• On 26.03.2025, Respondent No. 1 issued a Demand Notice under
+Clause 2 of the Deed of Guarantee dated 23.08.2019 calling upon the
+
+[PAGE 4]
+Page 4 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+Appellant to discharge the alleged outstanding liability of Rs. 1,258.73
+Cr.
+• On 10.04.2025, Respondent No. 1 issued a Demand Notice under Rule
+7(1) of the IBBI (Application to Adjudicating Authority for Insolvency
+Resolution Process of Personal Guarantors to Corporate Debtors) Rules,
+2019, to pay the outstanding amount wherein the date on which the
+debt became due was stated as 07.01.2025 and the date of default was
+stated as 17.01.2025.
+• The Appellant replied to the said Demand Notice on 15.04.2025
+contending that the OCDs had already been converted into CCDs
+thereby extinguishing the debt besides questioning the locus of
+debenture trustee to file the Section 95 PIRP application.
+• On 06.05.2025, Respondent No. 1 filed an Application under Section
+95 of IBC seeking initiation of personal insolvency proceedings against
+the Appellant in which admittedly the Deed of Guarantee annexed was
+purportedly defective as it was the one executed by Mr. Anil Bhalla
+instead of the Appellant and the date on which the debt became due
+was shown as 07.01.2025 and the date of default as 17.01.2025.
+• On 29.08.2025, the Adjudicating Authority appointed Respondent No.
+2 as the Resolution Professional (‘RP’ in short). The RP issued
+communications to the Respondent No. 1 seeking documents and
+information under Section 99(2) of IBC regarding the DPG. Later, on
+07.10.2025, Respondent No. 2-RP filed IA No. 5111/ND/2025 before
+the Adjudicating Authority placing on record its report under Section
+
+[PAGE 5]
+Page 5 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+99 of the IBC and recommending initiation of insolvency proceedings
+against the Appellant.
+• The Appellant filed detailed Reply/Objections on 29.01.2026 to the
+report submitted by Respondent No. 2-RP.
+• By the impugned order dated 09.04.2026, the Adjudicating Authority
+admitted the application filed under Sections 95(1) and 95(2) of the IBC
+against the Appellant.
+• Aggrieved by this impugned order, the present appeal has been filed by
+the Appellant-Personal Guarantor.
+3.
+Making submissions on behalf of the Appellant, Shri Virender Ganda,
+Ld. Sr. Counsel submitted that Personal Insolvency Resolution Proceedings
+(‘PIRP’ in short) against a Personal Guarantor is not maintainable in the
+absence of a valid and enforceable Deed of Guarantee. Though the Appellant
+had specifically raised this objection in its reply to the application filed by the
+RP under Section 99 of the IBC regarding non-annexation of the Deed of
+Guarantee in respect of the Appellant, the RP did not look into this aspect nor
+took any steps to remedy this fatal defect.
+4.
+It was also submitted that another reason for the application under
+Section 95 of the IBC to be non-est and invalid was on account of the DPG
+being defective as the Respondent No. 1 had annexed a guarantee deed
+executed by Mr. Anil Bhalla and not the guarantee deed executed by the
+Appellant. The RP had noticed this defect in the DPG but only approached
+Respondent No. 1 for the correct copy of the DPG. However, the DPG which
+was placed on record by the RP continued to be defective as it identified the
+guarantor as Gautam Bhalla who was not the Appellant and in spite of this
+
+[PAGE 6]
+Page 6 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+glaring discrepancy, the RP filed the Section 99 application with a defective
+Deed
+of
+Guarantee.
+Submission was pressed that the RP could not have cured the deficiency in
+the guarantee deed by approaching Respondent No. 1 for the correct version
+of the guarantee document and the Respondent No. 1 could not have sought
+enforcement of a faulty instrument under Section 95 of the IBC. Respondent
+No. 1 should have rectified the instrument in accordance with law or by
+initiation of proceedings before a Civil Court under Section 26 of the Specific
+Relief Act, 1963.
+5.
+It was vehemently contended that the RP had committed a grave error
+by suppressing the defects in the guaranteed document while recommending
+the admission of personal insolvency as he was duty-bound to point out the
+inherent defects in the guaranteed document in its report under Section 99
+of the IBC. Even the Adjudicating Authority erred in dismissing the
+fundamental defect in the identity of the guarantor as some sort of a
+typographical/clerical error at a time when no such ground was ever pleaded
+or argued before the Adjudicating Authority by the Respondent No. 1 and
+returning of such suo motu findings is impermissible in law.
+6.
+It was further submitted that obtaining of an order of admission under
+Section 100 of the IBC on the basis of erroneous documents constituted a
+gross misuse of the provisions of IBC. It was submitted that the Respondent
+No. 1 had issued a Demand Notice on 10.04.2025 wherein the date on which
+the debt became due was shown as 07.01.2025 and the date of default as
+17.01.2025. When the Personal Guarantee was not invoked prior to the
+purported date of default, no default could be attributed to the Appellant. It
+
+[PAGE 7]
+Page 7 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+was not clear whether the date of default annexed with Section 95 application
+under IBC and the application under Section 99 of IBC pertained to the
+Appellant-Personal Guarantor or to the Principal Borrower. Submission was
+pressed that the Adjudicating Authority had erred by failing to record any
+finding with respect to the disputes concerning the date of default.
+7.
+It was also contended that the RP is required under the IBC to act
+independently, objectively and with due diligence but in the present case, the
+RP had mechanically recommended the admission of PIRP against the
+Personal Guarantor which amounts to gross misconduct and failure to
+discharge statutory duties and responsibilities. The acceptance of the report
+of the RP by the Adjudicating Authority having caused grave prejudice to the
+Appellant, hence, the impugned order deserves to be set aside.
+8.
+It was further argued that Section 95 of the IBC specifically provided
+that a Section 95 petition can be filed either by the creditor or by the creditors
+through the RP and exercise of this right by any other third party or person
+was not statutorily permissible. It was also contended that the Respondent
+No. 1 being a debenture trustee lacked the locus to initiate proceedings under
+Section 95 of the IBC. When the legislature had not permitted third parties
+such as debenture trustees from filing a petition under Section 95 of the IBC,
+the Adjudicating Authority in the present case by allowing a debenture trustee
+to file a Section 95 application had acted contrary to the text of the statute
+which tantamount to judicial legislation which is impermissible in law.
+9.
+Rebutting the arguments of the Appellant, Shri Abhijeet Sinha, Ld. Sr.
+Counsel for the Respondent No. 1 submitted that the impugned order passed
+
+[PAGE 8]
+Page 8 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+by the Adjudicating Authority admitting the Appellant into PIRP was a well-
+reasoned order which did not suffer from any infirmities. It was submitted
+that a composite reading of the DTD dated 29.07.2019 with the DPG dated
+23.08.2020 and the first and the second amendment to the DPG as well as
+the NeSL report of 21.01.2025 clearly establish that the Appellant had
+provided security for the Principal Borrower as a Personal Guarantor. In
+addition, the Appellant in their reply to the statutory Demand Notice as well
+as in their email addressed to the Interim Resolution Professional have not
+expressly denied their status as that of a Personal Guarantor.
+10.
+It was further submitted that there is no dispute over the fact that the
+Principal Borrower was in default which is conclusively established by the
+Adjudicating Authority in its order dated 20.01.2026 which order was
+affirmed by this Tribunal on 25.02.2026 and the Hon’ble Supreme Court on
+10.04.2026. On default by the Principal Borrower in converting the OCDs into
+equity instruments, the debenture holder had exercised the put option on
+07.01.2025 and default having been committed by the Principal Borrower, the
+debenture trustee had inter alia invoked the DPG of the Appellant by issue of
+a notice on 26.03.2025 followed by issue of a Statutory Demand Notice on
+10.04.2025 and thereafter by filing of Section 95 petition under the IBC. It
+was also pointed out that the Appellant had neither denied the existence of
+the DPG nor the validity of its invocation either in the reply to the statutory
+Demand Notice or in the email addressed by them to the IRP or in the
+objections to the IRP's report which is conclusive evidence that the Appellant
+as Principal Borrower had committed a default which is established beyond
+reasonable doubt.
+
+[PAGE 9]
+Page 9 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+11.
+On the allegation of purported defects in the guarantee documents, the
+wrong attachment of the petition of Anil Bhalla inadvertently to the Section
+95 petition in respect of the Appellant was not relevant in that it had been
+rectified by filing IA No. 746 of 2026 which rectification had also been allowed
+by the Adjudicating Authority on 18.02.2026. It was also submitted that the
+mention of the name of the Personal Guarantor as Gautam Bhalla instead of
+the name of the Appellant-Gaurav Bhalla in Schedule I of the DPG was
+admittedly an error. However, after noticing that all pages of the DPG carried
+the name of the Appellant-Gaurav Bhalla and the stamp paper on which the
+DPG was executed also carried the name and signature of the Appellant, the
+Adjudicating Authority did not commit any error in holding this mistake to be
+a typographical error in view of the surrounding circumstances. It was
+pressed that this objection raised by the Appellant of defect in the guarantee
+deed document was unreasonable and rightly disregarded by the Adjudicating
+Authority. Even the wrong mention of the date of default in the guarantee
+deed was admittedly another inadvertent error. Contending that such
+mistakes in the date of default are curable, attention was adverted to the
+judgement of this Tribunal in Saranga A. Aggarwal vs State Bank of India
+in CA(AT)(Ins) No. 1788 of 2025 which held that amendment of date of
+default is not impermissible. The relevance of the date of default was only with
+regard to calculating the period of limitation and as the present Section 95
+petition had been filed within the period of limitation, no dispute can be raised
+with regard to the date of default.
+12.
+It was further added that the Appellant’s argument that a debenture
+trustee has no locus to initiate proceedings under Section 95 was misplaced.
+
+[PAGE 10]
+Page 10 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+It was asserted that in terms of the judgement of this Tribunal in Krishan
+Kumar Jajoo vs Piramal Enterprises Ltd. in CA(AT)(Ins) No. 1601 of
+2024, a debenture trustee has the locus to initiate proceedings under Section
+95 of the IBC and hence the narrow interpretation ascribed to the word
+"creditor" appearing in Section 95 by the Appellant is misconceived. When the
+terms of the DPG authorised the debenture trustee to take action against the
+personal guarantor and the debenture holders had specifically authorised
+Respondent No. 1 to initiate the present proceedings, the filing of Section 95
+petition by Respondent No. 1 was legally tenable.
+13.
+We have heard Ld. Counsel for both the parties and perused the record
+carefully.
+14.
+Coming to the issue of locus standi of Respondent No. 1 to file the
+Section 95 application, it is the case of the Appellant that the Respondent No.
+1 being only a Debenture Trustee, it lacked the locus to initiate proceedings
+under Section 95 of IBC. In support of their contention, it was contended that
+the legislature in its wisdom consciously restricted the initiation of insolvency
+proceedings under Section 95 of IBC by the creditor himself or jointly with
+other creditors or through a Resolution Professional but does not permit such
+filing through any other person, which was in sharp contrast to Section 7
+which expressly allows a financial creditor to act through an authorized
+person. It was also submitted that the Hon’ble Supreme Court in a catena of
+judgements viz. J. Jayalalithaa & Ors. vs State of Karnataka & Ors.
+(2014) 2 SCC 401; State of Uttar Pradesh vs Singhara Singh & Ors.
+1963 SCC Online SC 23 and Hardeep Singh vs State of Punjab & Ors.
+(2014) 3 SCC 92 has consistently held that when any statute provides for a
+
+[PAGE 11]
+Page 11 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+particular procedure, the relevant authority has to follow the same and cannot
+be permitted to act in contravention of the same. Therefore, in light of the
+legislative intent and the procedure prescribed under the IBC, the Respondent
+No. 1 being only a debenture trustee and not the creditor was not entitled to
+invoke the provisions of Section 95 of the IBC. The Adjudicating Authority had
+therefore erred in holding that an application under Sec 95 of the IBC can be
+filed by a debenture trustee in disregard of the explicit statutory provisions.
+15.
+Per contra, it is the case of the Respondent No.1 that it is already a well
+settled legal precept as laid down in terms of the judgement of this Tribunal
+in Krishan Kumar Jajoo vs Piramal Enterprises Ltd. in CA(AT)(Ins) No.
+1601 of 2024 that a debenture trustee has the locus to initiate proceedings
+under Section 95 of the IBC. Moreover, when the DPG executed between the
+Appellant and the Respondent No. 1 had clearly authorised the debenture
+trustee to take action against the personal guarantor and in the present case
+the debenture holder had also specifically authorised Respondent No. 1 to
+initiate the present proceedings against the personal guarantor, the
+Respondent No. 1 was fully empowered to initiate Section 95 petition on behalf
+of and for the benefit of the debenture holder.
+16.
+To return our findings on the tenability of the locus of the Respondent
+No.1 to file the Section 95 application, at this stage, we may have a look at
+Section 95(1) of the IBC which reads as under:
+Section 95: Application by creditor to initiate insolvency resolution
+process.
+95 (1) A creditor may apply either by himself, or jointly with other
+creditors, or through a resolution professional to the Adjudicating
+
+[PAGE 12]
+Page 12 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+Authority for initiating an insolvency resolution process under this
+section by submitting an application.
+When we look at the wordings of Section 95 of the IBC, it is unambiguously
+clearly that it confers rights on the creditor singly or consortium of creditors
+to jointly file an application to initiate PIRP of the personal guarantor.
+17.
+The question, however, that requires to be answered is that when the
+debenture trustee is holding security in favour of the creditor or consortium
+of creditors, whether in such a case, the debenture trustee can also file an
+application under Section 95 of the IBC. To answer this question, we need to
+look at the relevant provisions of the Debenture Trust Deed and the Deed of
+Personal Guarantee.
+18.
+When we look at the DTD, the salient Clauses are 5.1 and 11.2 which
+are as reproduced below:
+“5.1 Appointment of Debenture Trustee
+The Company has appointed Beacon Trusteeship Limited as the
+debenture trustee pursuant to the Debenture Trustee Agreement. The
+Debenture Trustee has agreed and hereby re-affirms that it shall act
+as the debenture trustee for the benefit of the Secured Parties and their
+successors, transferees and assigns under the trust created pursuant
+to Clause 5.2 (Declaration of Trust by the Debenture Trustee) below and
+in such capacity, the Debenture Trustee agrees and is authorised:
+(iii)subject to the terms and provisions of this Deed and the other
+Definitive Agreements, to take such other action in connection with the
+foregoing as the Debenture Holder(s) may from time to time direct.
+11.2 Consequences of Event of Default
+Upon the occurrence of an Event of Default as set out in Clause 11.1
+(Events of Default) above, the Debenture Trustee may (in its discretion)
+or shall, pursuant to the Approved Instructions, declare the
+Outstanding Amounts to be due and payable forthwith, and take all
+actions necessary under the Definitive Agreements, and the Debenture
+Trustee shall have the following rights:
+
+[PAGE 13]
+Page 13 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+(iv) to enforce any Security created pursuant to the Security Documents
+in accordance with its terms, as may be set out herein or therein,
+towards repayment of the Outstanding Amounts;
+(ix)exercise the Put Option;
+(x)exercise any other rights and remedies that the Debenture Trustee
+and/or Debenture Holder(s) may have under the Definitive Agreements
+or under Applicable Law;
+(xvi) to exercise such other rights as the Debenture Trustee may deem
+fit under Applicable Law to protect the interest of the Debenture
+Holder(s).”
+(Emphasis supplied)
+The above two clauses make it clear that the Debenture Trustee on the
+instruction of the debenture holder was empowered to exercise all rights and
+remedies to enforce any security interest including exercise of the put option.
+We also find that Clause 32 of the DTD further stipulated that the debenture
+trustee was empowered to exercise due diligence in carrying out its duties and
+take all actions necessary to protect and secure the interests of the debenture
+holder and take action on behalf of the debenture holder.
+19.
+This now brings us to the relevant clauses of the DPG which are as
+below:
+“2. GUARANTEE
+2.1. The Guarantor hereby irrevocably and unconditionally guarantees
+to the Debenture Trustee (acting on behalf, and for the benefit, of the
+Debenture Holder(s)), the due and punctual observance and
+performance by the Issuer Company of all its obligations under, or
+pursuant to the Debenture Trust Deed including but not limited to the
+due and punctual payment of the Outstanding Amounts by the Issuer
+Company, in accordance with the terms of the Definitive Agreements.
+
+2.2. Without prejudice to the indemnity obligations of the Guarantor set
+out herein, the Guarantor hereby irrevocably, absolutely and
+unconditionally guarantees to the Debenture Trustee that the
+Guarantor shall upon the occurrence of an Event of Default and upon
+demand by the Debenture Trustee, pay to the Debenture Trustee,
+
+[PAGE 14]
+Page 14 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+within 1 (one) Business Day from the delivery of the Demand Notice (as
+defined below) to the Guarantor, without any demur or protest, the
+amount stated in the Demand Notice. The Debenture Trustee shall be
+entitled to make 1 (one) or more demands (through 1 (one) or more
+Demand Notices) from the Guarantor under this Deed.
+
+2.4. Any demand issued by the Debenture Trustee to the Guarantor
+pursuant to Clause 2.2 above shall be in the form and manner set out
+in Schedule II hereto ("Demand Notice") and shall bind the Guarantor
+and be conclusive evidence that the Guarantor's liability hereunder has
+accrued and that the extent of the Guarantor's liability is the amount
+shown therein, notwithstanding any difference, dispute or Proceedings
+between the Debenture Trustee and/or the Debenture Holder(s) on the
+one hand and the Issuer Company and/ or the Guarantor and / or any
+Obligors on the other hand, pending before any Governmental Agency
+or any arbitrator(s).......”
+(Emphasis supplied)
+
+In addition when we look at Clause 8 of the DPG, it clearly provides that the
+guarantor undertakes that if the Corporate Debtor did not pay the
+outstanding amounts in accordance with the definitive agreements, then the
+guarantor on demand shall pay such amount as if it is the Principal Debtor
+of the secured parties. Further Clause 12 clearly provides that the obligations
+of the guarantor was irrevocable, while Clause 14 clearly provided that the
+obligation of the guarantor was to be of a continuing nature until the final
+discharge date.
+20.
+Having seen the terms of the DTD and the DPG, we have no hesitation
+on our mind that the Respondent No.1 in its capacity of debenture trustee
+was empowered to do all such acts on behalf of the debenture holders that
+were necessary to secure the interest of the debenture holders. It also provided
+for debenture trustee to issue demand notice which was to bind the Guarantor
+as if it was the principal debtor of the secured parties and it was therefore
+
+[PAGE 15]
+Page 15 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+implicit that debenture trustee could file the PIRP application under Section
+95 of the IBC on the directions of the debenture holder. We also find that the
+Debenture Holder had sent a letter dated 30.04.2025 authorising Respondent
+No. 1 to act as their authorized representative and to initiate the present PIRP
+proceedings against the Appellant as is placed at page 749 of Appeal Paper
+Book (‘APB’ in short). Therefore, when Respondent No. 1 was specifically and
+categorically authorised to initiate the Section 95 petition on behalf of and for
+the benefit of the Debenture Holder, the Debenture Trustee stood fully
+empowered to do so.
+21.
+Coming to the catena of judgements relied upon by the Appellant to
+contend that when the legislative intent and the procedure prescribed under
+the IBC provides for a particular procedure, the competent authority was to
+act only in that way which was also applicable to filing of a petition under
+Section 95, we must emphatically add that we have no quarrel with the
+proposition of law laid down by the Hon’ble Supreme Court in the J.
+Jayalalithaa and the other judgements that when the statute provides for a
+particular procedure, the relevant authority cannot act in contravention of the
+same. However, the applicability of these judgments to the facts of the present
+case is misplaced since from a plain reading of Section 95 we do not find the
+debenture trustee to have been expressly prohibited from filing a Section 95
+application on behalf of the debenture holders whose interest it had sought
+to protect in terms of the agreement between the debenture holders and the
+debenture trustee.
+22.
+More pertinently, we find that the Respondent No. 1 has contended that
+this Tribunal in its judgment in Krishan Kumar Jajoo supra has held that
+
+[PAGE 16]
+Page 16 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+Section 95 of the IBC not only provides right to the creditors to file application
+to initiate PIRP but also to the security trustee for holding security in favour
+of the financial creditor/consortium of creditors if the clauses of the personal
+guarantee so provides. The relevant excerpts from the judgment is as
+extracted below:
+“(vii) The terms of the Personal Guarantee clearly stipulated that ‘Lender’
+or the ‘Trustee’ could initiate action against the Appellant as discussed
+below:
+a. The Personal Guarantor guaranteed to pay the lender, on failure to
+pay the outstanding amounts by the Corporate Debtor and on demand
+by the Lender and/or Trustee
+b. In the event of default on the part of the Corporate Debtor in
+payment, the Guarantor shall, upon demand, forthwith pay to the
+Lenders and/or Trustee, without demur, all amounts demanded by the
+Lenders and/or Trustee.
+c. The Lender and the Trustee would be entitled to take action against
+the Corporate Debtor and the Guarantor as it deems fit, in the event of
+failure to honour any terms of the Deed of Guarantee.
+(viii) Above clauses of the Personal Guarantee dated 20.07.2017 are loud
+and vocal and establish the independent rights of creditors in addition to
+Trust. By no way of imagination it can be argued by the Appellant (as
+guarantor) that creditor (including its assignee) cannot pursue his rights
+against the Appellant. The pleading of the Appellant does not stand to any
+logic and need to be dismissed. We do not find any merit in the pleadings
+of the Appellant on their issue and stand rejected.”
+(Emphasis supplied)
+23.
+When seen from the prism of the provisions of the DTD and DPG in the
+present factual matrix as well as judicial precedent laid down by this Tribunal,
+there is no foundation in the contention of the Appellant that the Respondent
+No. 1 lacked the locus and authority to file a Section 95 petition. We are
+inclined to agree with Respondent No. 1 that the Appellant has wrongly
+attached a narrow interpretation to the word “creditor" appearing in Section
+
+[PAGE 17]
+Page 17 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+95 to contend that a debenture trustee has no locus to initiate proceedings
+under Section 95. The Adjudicating Authority by admitting the Section 95
+application was not rewriting or reframing the legislative fiat of the IBC in any
+manner.
+24.
+Coming to the next limb of argument of the Appellant, it is their case
+that neither the Respondent No. 1 in its application under Section 95 of the
+IBC nor the RP in its application under Section 99 of the IBC had filed a valid
+guarantee agreement which recognized the Appellant as the Personal
+Guarantor. The PIRP against the Appellant-Personal Guarantor therefore
+stood vitiated by the non-production of a valid DPG.
+25.
+Repelling the contention raised by the Appellant with respect to absence
+of a valid DPG vitiating the Section 95 proceedings, it was submitted that the
+Appellant had executed an irrevocable, unconditional and continuing deed of
+personal guarantee in favour of Respondent No. 1 for the repayment of all
+outstanding amounts in the event of any default on the part of the Principal
+Borrower and this was clearly borne out by the DTD of 29.07.2019 as well as
+the DPG dated 23.08.2019 and the first and the second amendment thereto.
+Further, the NeSL report of 21.01.2025 clearly mentions that the Appellant
+had provided security for the Principal Borrower as a Personal Guarantor. In
+addition, some of the communications sent by the Appellant themselves viz.
+their reply to the statutory Demand Notice as well their email addressed to
+the IRP substantiates beyond reasonable doubt that the Appellant at no stage
+in those communications had denied their status as a Personal Guarantor.
+
+[PAGE 18]
+Page 18 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+26.
+To return our findings on the veracity of the status of the Appellant as
+Principal Guarantor, we need to see in the first place whether the Principal
+Borrower was in default qua the Respondent No.1. From material placed on
+record, it is clear that the debt of the Principal Borrower qua the Respondent
+No. 1 was decided by the Adjudicating Authority in its order dated 20.01.2026
+which order was subsequently affirmed by this Tribunal on 25.02.2026 and
+later upheld by the Hon’ble Supreme Court on 10.04.2026. These orders
+having attained finality, there is no dispute over the fact that the Principal
+Borrower was clearly in default. Thus, the Adjudicating Authority has rightly
+held that when the default is found to have been committed by the Principal
+Borrower for whom the Appellant stood as Personal Guarantor, in the absence
+of any evidence given by the Personal Guarantor regarding repayment of debt,
+the default of Personal Guarantor stood established. It is a well settled legal
+precept that the liability of the Personal Guarantor is co-extensive with that
+of the Principal Borrower and once the default by the Principal Borrower has
+occurred in respect of the underlying debt, the obligation of the personal
+guarantor stands triggered in law.
+27.
+When we see further material placed on record, it shows that when the
+Principal Borrower had defaulted by failing to convert the OCDs into equity
+instruments, the debenture holder had exercised the put option by issue of
+notice on 07.01.2025 and called upon both the Principal Borrower and the
+present Appellant to remit the outstanding amount of Rs. 1258.73 Cr. In
+response to the put option notice, while on the one hand the Principal
+Borrower had admitted that conversion of the OCDs into equity shares/CCDs
+was adversely hit by absence of an active ISIN number, on the other hand,
+
+[PAGE 19]
+Page 19 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+the Appellant had neither expressly responded to the put option notice nor
+denied the existence of their liability as a surety for the Principal Borrower. It
+is also a fact that when the Principal Borrower failed to redeem the OCDs, the
+Respondent No. 1 had invoked the personal guarantee of the Appellant in
+terms of the DPG by issue of a notice on 26.03.2025 and subsequently by
+issue of a Statutory Demand Notice under Section 95 of IBC on 10.04.2025.
+The Demand Notice and the statutory Demand Notice are conclusive evidence
+that the liability of the Appellant had accrued on account of the inability of
+Principal Borrower to remedy their default. Thereafter, failure of the Appellant
+to remedy the default as principal guarantor within the contractual and
+statutory period, the Respondent No. 1 was constrained to approach the
+Adjudicating Authority by filing the petition under Section 95 of the IBC. Even
+at this stage, the Appellant did not dispute either the existence of DPG
+executed by them as Principal Guarantor nor did they dispute having received
+the Demand Notices. The Appellant did not expressly deny the existence of
+the DPG or its validity on its invocation either in their reply of 15.04.2025 to
+the statutory Demand Notice or in the email addressed by them to the IRP on
+11.09.2025 which establishes beyond reasonable doubt that the Appellant
+was a personal guarantor.
+28.
+At this stage, it may be useful to have a look at the DTD and DPG
+documents. At page 81 of the APB is placed the DTD which was signed inter
+alia between the Principal Borrower, the Debenture Trustee and Gaurav
+Bhalla-Appellant amongst others. The DTD in the ‘Definition Clauses’ shows
+at page 93 of APB that the Appellant is also a promoter of the Principal
+Borrower Company. Clause 7.1(iii) of the DTD clearly provides that in
+
+[PAGE 20]
+Page 20 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+consideration of the debenture holders subscribing to the purchase of the
+debenture, the obligors/promoters which included the Appellant had agreed
+to provide guarantee in favour of the trustee for the benefit of the secured
+parties. The status of the Appellant as a personal guarantor is further fortified
+by Clause 2.1 of the DPG which is already reproduced at para 19 above which
+stipulates that the Guarantor had executed an irrevocable and unconditional
+continuing guarantee to the Debenture Trustee. Even the First and the
+Second Amendment to the DTD which was also executed by the Appellant as
+placed at pages 251and 288 respectively of APB removes all doubts that the
+Appellant is indisputably a Personal Guarantor for the Principal Borrower.
+29.
+We now come to the issue of statutory demand notice on 10.04.2025 by
+the Respondent No. 1 which is placed at page 342-346 of the APB wherein the
+Appellant has been clearly addressed as the “Personal Guarantor” and at Sl.
+No. 7 therein of the notice, it has been stated that the Appellant having
+“Executed the personal guarantee dated 23 August 2019 whereby you have
+irrevocably and unconditionally guaranteed, on a continuing basis, the due and
+punctual discharge of all the Outstanding Amounts in accordance with the
+Debenture Trust Deed dated 29 July 2019 (and addenda thereto) and the Deed
+of Guarantee dated 23 August 2019.” This notice makes it unambiguously
+clear that the Respondent No. 1 had invoked the personal guarantee of the
+Appellant in terms of the DPG ad held the Appellant to be a Personal
+Guarantor.
+30.
+We now look at the reply of the Appellant dated 15.04.2025 to the above
+notice dated 10.04.2025 which is as extracted under:
+
+[PAGE 21]
+Page 21 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+“4. That, on instructions of Our Client, we respond to your Demand
+Notice as under:
+a)That, you have deliberately suppressed the conversion notices
+dated January 6, 2021 and January 5, 2024 ("Conversion
+Notices"), calling upon Arcturus Developers Private Limited to
+convert the Optionally Convertible Debentures ("OCDs") into
+Compulsory Convertible Debentures ("CCDs"), within 54 months
+from January 6, 2021 (i.e.) by July 6, 2025. In pursuance whereof,
+the OCDs have since been converted into CCDs, vide resolutions
+dated December 28, 2024, in accordance with law.
+b)That, your attention is also drawn to Clause 6 of Schedule I to the
+Debenture Trust Deed dated July 29, 2019, which provides for the
+conversion of the debentures. The said clause is reproduced herein
+below for your reference:
+"6. Manner of Conversion.
+a.Within 7 (Seven) days following the receipt of a Conversion
+Notice, the Company shall convert the Debentures into Equity
+Shares;
+b.For the avoidance of doubt, it is clarified that the conversion
+is effective and all Debentures shall be forthwith treated as
+Equity Shares on and from the date on which the Debenture
+Holder(s) issue the Conversion Notice to the Company as
+specified above ("Conversion Date"). Each Debenture Holder
+will, with effect from the Conversion Date, be deemed and be
+treated by the Company for all purposes as the holder of the
+relevant number of Equity Shares issued upon conversion and
+the Company shall immediately record the details of such
+holder of Equity Shares issued pursuant to the conversion of
+Debentures in the relevant statutory registers of the Company;
+c)That, consequent upon the conversion as aforesaid, the said
+debentures have ceased to be a financial debt in terms of the
+provisions of the Insolvency and Bankruptcy Code, 2016.
+Therefore, there is no question of occurrence of any default
+whatsoever, much less on January 17, 2025 as stated in the
+Demand Notice.
+d)That, without prejudice to the above, the Demand Notice fails to
+provide any calculation sheet as to how has the redemption
+premium of Rs. 758,73,33,609 (Rupees Seven Hundred and Fifty-
+Eight Crores Seventy-Three Lakhs Thirty-Three Thousand Six
+Hundred and Nine) is being determined and how has it become due
+and payable.
+Under such facts and circumstances, we are hereby call upon the
+Debenture Trustee to:
+
+[PAGE 22]
+Page 22 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+a.Forthwith withdraw the Demand Notice dated April 10, 2025;
+and
+b.The Debenture Trustee is hereby cautioned from sending such
+notices and/or initiating any legal proceedings against Our
+Client, which if initiated, will be strongly contested. and
+defended, and in respect of the same, the Debenture Trustee
+alone shall be responsible for the cost and consequences.”
+
+31.
+When we read the above response, we do not find the Appellant having
+questioned or challenged Respondent No. 1 for being accorded the status of
+Personal Guarantor. All that has been questioned is the existence of financial
+debt of the Principal Borrower on the purported conversion of the OCDs into
+CCDs. Likewise, when we look at the e-mail addressed by the Appellant-
+Personal Guarantor to the IRP on 11.09.2025 as placed at page 840 of the
+APB, we find that the Appellant has articulated that there was no debt due or
+payable on the conversion of OCDs having already been effected besides
+questioning the locus of the debenture trustee to file a Section 95 application.
+However, in this email reply, the Appellant has not questioned their being
+treated as a Personal Guarantor. Even the NeSL Report as placed at page 742-
+743 of the APB clearly depicts the Appellant as Personal Guarantor for the
+Principal Borrower basis security interest created by the DPG dated
+23.08.2019. The claim of the Appellant that the NeSL details pertain to ADPL
+and not to the Appellant is a hollow argument in view of the fact that it reflects
+the Appellant as a personal guarantor in terms of the DPG which factum has
+not been disputed or controverted.
+32.
+Thus, when all the documents and material placed on record like the
+DTD, DPG and the two Addendums thereto, NeSL Report are seen together
+in a composite manner and read alongwith put option notice issued by
+
+[PAGE 23]
+Page 23 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+Respondent No. 1 and certain communications emanating from the Appellant
+including reply of the Appellant to the guarantee invocation notice of
+10.04.2025 wherein the status of the Appellant being a Personal Guarantor
+has not been contested or challenged, we are inclined to agree with the finding
+returned by the Adjudicating Authority that the Appellant was Personal
+Guarantor to the Principal Borrower having executed an irrevocable,
+unconditional and continuing deed of guarantee and on being satisfied that
+the requirements of Sections 95(4) and 99(2) of the IBC were met, there was
+no reason not to accept the recommendation made by the RP for admission of
+the Section 95 application preferred by Respondent No. 1.
+33.
+This brings us to the contention of the Appellant that the application
+under Section 95 (1) and (2) of the IBC was non-est and illegal as the DPG
+furnished with the Section 95 application was erroneous and defective in that
+the Respondent No. 1 had annexed a guarantee deed executed by one Mr. Anil
+Bhalla and not the guarantee deed executed by the Appellant with the Section
+95 application.
+34.
+Per contra, while conceding this error, it was contended by the
+Respondent No. 1 that this mistake was bonafide. It was submitted by
+Respondent No. 1 that the debt of the Corporate Debtor-ADPL had been
+secured by the personal guarantees not only given by the Appellant but also
+by his other blood relatives, including his father, Anil Bhalla and brother,
+Gautam Bhalla which had led to the unintentional mix-up but this defect was
+cured on time with the approval of the Adjudicating Authority.
+
+[PAGE 24]
+Page 24 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+35.
+Having heard the rival contentions on this score, we notice that this
+inadvertent error was admitted by the Respondent No. 1 that in the process
+of filing the Section 95 petition, the personal guarantee document of Anil
+Bhalla had mistakenly got attached. However, this error was duly rectified by
+the Respondent No. 1 by way of filing IA No. 746 of 2026 which was allowed
+by the Adjudicating Authority on 18.02.2026. This error having already been
+placed before the Adjudicating Authority for due rectification and the
+Adjudicating Authority having allowed the rectification, we do not find any
+good reason for this issue to be re-opened belatedly at this stage.
+36.
+It was vehemently argued by the Appellant that the DPG placed on
+record still continued to be defective as it identified the guarantor at Schedule-
+I as one Gautam Bhalla and not the Appellant-Gaurav Bhalla. As per the
+recital read with Schedule 1 to the DPG, since the guarantor is shown as
+Gautam Bhalla and not Gaurav Bhalla, the covenants signed and agreed to
+by Gautam Bhalla cannot bind Gaurav Bhalla. The Respondent No. 1 could
+not have sought enforcement of such a faulty instrument under the summary
+jurisdiction of Section 95 of the IBC and in the face of such a glaring
+discrepancy, the RP could not have filed the Section 99 application with a
+defective Deed of Guarantee. Thus, the RP had committed a grave error by
+suppressing the defects in the guarantee document while recommending the
+admission of personal insolvency of the Appellant. The RP was duty-bound to
+point out the inherent defects in the guarantee document in its report under
+Section 99 of the IBC. Even the Adjudicating Authority erred in overlooking
+the defect in the identity of the guarantor in the DPG on its own presumption
+of a typographical/clerical error having occurred while this ground was never
+
+[PAGE 25]
+Page 25 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+raised or pleaded by the Respondent No. 1 or the RP at any stage during the
+proceedings before the Adjudicating Authority.
+37.
+When we look at the facts on record, we find that it was again admitted
+by the Respondent No. 1 that in the DPG at Schedule 1, the name of the
+Personal Guarantor had been wrongly mentioned as Gautam Bhalla instead
+of the name of the Appellant-Gaurav Bhalla. We also find that the
+Adjudicating Authority had also taken notice of this discrepancy but after
+finding that each and every other page of the DPG was signed and carried the
+name of the Appellant-Gaurav Bhalla and the stamp paper on which the DPG
+was executed also carried the name and signature of the Appellant-Gaurav
+Bhalla, it did not find this defect to render the Section 95 petition nugatory or
+invalid.
+38.
+To our mind, the mistake in Schedule I of the DPG of 23.08.2019 of the
+mention of Gautam Bhalla in place of Gaurav Bhalla appears to be genuine
+when we look at the 1st and 2nd amendment to the DTD as placed at pages
+251 and 288 of APB respectively wherein Gaurav Bhalla has been shown as
+the guarantor of the Principal Borrower. If Gaurav Bhalla had not been the
+promoter/guarantor in the DPG of 23.08.2019, it defies logic as to how the
+subsequent amendment documents continued to be executed by the
+Appellant in its capacity as a Promoter/Personal Guarantor with his signature
+again appearing on each of the pages. If the original DPG was defective in that
+it wrongly carried the name of Gaurav Bhalla, surely this would have been
+pointed out while signing the subsequent two amendments to the DPG with
+the name of Gaurav Bhalla being repeated again as guarantor. When no such
+disputes were raised in the past, it is clear that the Appellant had signed the
+
+[PAGE 26]
+Page 26 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+two
+amendments
+to
+the
+DPG
+in
+their
+continued
+capacity
+as
+Promoter/Personal Guarantor. When no dispute was raised by the Appellant
+regarding this defect at the time of signing the 1st and 2nd amendments of the
+DPG, this matter cannot be agitated belatedly. The Appellant cannot be seen
+to wash away its personal guarantee liability merely on hyper-technical
+ground that the DPG of 23.08.2019 was defective basis which no personal
+guarantee liability could be invoked.
+39.
+It is also the case of the Appellant that the Respondent No. 1 had
+mentioned an incorrect date of default in the Demand Notice. It was submitted
+that the Respondent No. 1 had issued a Demand Notice on 10.04.2025 under
+Rule 7(1) of the IBBI (Application to Adjudicating Authority for Insolvency
+Resolution Process of Personal Guarantors to Corporate Debtors) Rules, 2019,
+wherein the date on which the debt became due was stated as 07.01.2025
+and the date of default was stated as 17.01.2025. In the absence of invocation
+of the alleged Personal Guarantee prior to the purported date of default, no
+default could be attributed to the Appellant especially when invocation of
+guarantee was a condition precedent for fastening liability upon a guarantor
+under Clause 2.2 of the Deed of Guarantee. Reliance was placed on the
+judgment of this Tribunal in Pooja Ramesh Singh vs State Bank of India
+in CA(AT)(Ins) No. 329 of 2023 which held that default on a guarantee arises
+only after it is invoked as contemplated in the Deed of Guarantee. It was
+contended that the Adjudicating Authority could not have suo motu amended
+the date of default. The onus lay on the Respondent No. 1 to move an
+appropriate application to amend the date of default. However, as no such
+application was either moved, nor any specific pleading made to this effect
+
+[PAGE 27]
+Page 27 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+before the Adjudicating Authority, in such circumstances, the Adjudicating
+Authority could not have accepted the change in the date of default without
+specific pleading.
+40.
+On the alleged mistake in the date of default, the Respondent No. 1
+submitted that it had admitted that an incorrect date of default had been
+mentioned by them and that the correct date of default on part of the
+Appellant as Personal Guarantor was 27.03.2025 being one business day
+from the date of issue of the Demand Notice on 26.03.2025 in terms of Clause
+2.2 of the DPG. It is the contention of the Respondent No. 1 however that the
+defect in the date of default was curable, as has been held by this Tribunal in
+the Saranga A. Aggarwal judgement supra and hence on this ground alone
+the Section 95 application could not have been disallowed by the Adjudicating
+Authority.
+41.
+To return our findings on whether the defect in the date of default was
+sufficient ground for disallowing the Section 95 application, we are guided by
+the judicial precedent laid down in the Saranga A. Aggarwal judgement
+supra which clearly held that amendment of date of default is not
+impermissible. In addition, when Clause 8 of the DPG clearly provided that
+the guarantor undertakes that if the Corporate Debtor did not pay the
+outstanding amount in accordance with the definitive agreements, then the
+Appellant as guarantor on demand shall pay such amount as if it is the
+Principal Debtor of the secured parties, and the Appellant having provided an
+irrevocable, unconditional and continuing personal guarantee for the
+Principal Borrower and the Respondent No.1 having validly invoked the DPG
+by issue of statutory demand notice calling upon the Appellant to remit the
+
+[PAGE 28]
+Page 28 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+outstanding amounts and the receipt of the demand notice not being in
+dispute and the Appellant having failed to remit the outstanding debt and
+default, the contention of the Appellant that the Section 95 application could
+not have been admitted by the Adjudicating Authority on grounds of
+discrepancy in the date of default, in our considered view, is a frivolous and
+specious plea with which we are not impressed.
+42.
+The Adjudicating Authority in the impugned order has clearly noticed
+that the Appellant in their email to the RP on 11.09.2025 did not provide any
+evidence of repayment. In the absence of any evidence regarding the
+repayment of the debt, the default of the Appellant as Personal Guarantor
+stands clearly established since in terms of Clause 2 of the DPG, the Appellant
+had accepted the liability to repay the amount of debt and discharge the
+liability of the Principal Debtor. This has also been clearly noticed by the
+Adjudicating Authority at para 4 of the impugned order. It has also been
+noticed by the Adjudicating Authority at Para 7 of the impugned order that
+the RP in its report has also stated that no evidence as required in terms of
+Section 99(2) of IBC was adduced to establish repayment of the debt and
+hence the requirement of Section 95(6) of the IBC stood met. Moreover, the
+RP has independently suggested admission of Section 95 petition after
+conducting an independent evaluation, as has been noted in details by the
+Adjudicating Authority at para 7 of the impugned order. Hence, the report of
+the RP under Section 99 of IBC cannot be said to be suffering from any
+procedural infirmity in terms of form and content.
+43.
+In fine, we do not find any infirmity in the impugned order allowing the
+Section 99 application filed by the RP and admitting the Section 95
+
+[PAGE 29]
+Page 29 of 29
+Company Appeal (AT) (Insolvency) No. 694 of 2026
+
+application filed by the Respondent No.1. The impugned order does not
+warrant any interference. The Appeal is found to be devoid of merit and is
+accordingly dismissed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+Place: New Delhi
+Date : 30.06.2026
+Farhan

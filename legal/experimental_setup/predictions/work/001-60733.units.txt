@@ -1,0 +1,82 @@
+# FILE 001-60733.txt  n_chars=19763  units=173  paragraphs=99
+# SCOPE: legal reasoning starts at char 7492 (unit u87) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 18643 (unit u161) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# WARNING: the text appears TRUNCATED (it ends mid-sentence). The last unit is flagged T. Annotate what is there; do not invent the missing end (07_edge_cases.md section 4).
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 7492 hidden (facts/procedure; use --show-all to see them) --
+u87 p52  [7492-7499) H | THE LAW
+u88 p53  [7500-7551) H | I. ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION
+u89 p54 ¶26 [7556-7723) | The applicant contended that the refusal to allow him to attend the funerals of his parents violated Article 8 of the Convention, which in so far as relevant provides:
+u90 p54  [7724-7727) Q | “1.
+u91 p54  [7728-7797) Q | Everyone has the right to respect for his private and family life ...
+u92 p55 ¶2 [7801-8209) | There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”
+u93 p56 ¶27 [8214-8507) | The Court reiterates that it has already examined complaints about the refusal of leave to attend the funeral of a relative (see, Marincola and Sestito v. Italy, application no. 42662/98, 25 November 1999, unreported; Georgiou v. Greece, application no. 45138/98, 13 January 2000, unreported).
+u94 p56  [8508-8617) | It considered that the circumstances of these cases did not disclose a breach of Article 8 of the Convention.
+u95 p56  [8618-8894) | The Court considers that, while it is not formally bound to follow any of its previous decisions, it is in the interests of legal certainty, foreseeability and equality before the law that it should not depart, without good reason, from precedents laid down in previous cases.
+u96 p56  [8895-9254) | Since the Convention is first and foremost a system for the protection of human rights, the Court must however have regard to the changing conditions in Contracting States and respond, for example, to any emerging consensus as to the standards to be achieved (see, among other authorities, Chapman v. the United Kingdom [GC], no. 27238/95, § 70, ECHR 2001-I).
+u97 p57  [9255-9284) H | A. Arguments before the Court
+u98 p58  [9285-9301) H | 1. The applicant
+u99 p59 ¶28 [9306-9462) | The applicant submitted that the decisions rejecting his applications for leave to attend the funerals of his parents were arbitrary and violated Article 8.
+u100 p59  [9463-9600) | He had never breached the trust placed in him by the prison authorities when they had allowed him to leave the prison on other occasions.
+u101 p59  [9601-9792) | Moreover, if the authorities considered that there was a risk of his absconding they could have ordered escorted leaves provided for by Article 59 § 1 of the Code of Enforcement of Sentences.
+u102 p59  [9793-9975) | The applicant also submitted that decisions rejecting his applications for leave were not in accordance with domestic law because they were based on § 1 instead of § 2 of Article 59.
+u103 p60  [9977-9994) H | 2. The Government
+u104 p61 ¶29 [9999-10181) | The Government admitted that the rejection of the applications for leave to attend the funerals constituted an interference with the applicant’s right to respect for his family life.
+u105 p61  [10182-10290) | However, they asserted that it was an “inherent and unavoidable consequence ... of the detention on remand”.
+u106 p61  [10291-10438) | Furthermore, the interference was in accordance with the law as it was based on Articles 59 § 1 and 88 § 2 of the Code of Enforcement of Sentences.
+u107 p61  [10439-10570) | In addition, it was necessary in a democratic society in the interest of public safety and for the prevention of disorder or crime.
+u108 p62  [10571-10596) H | B. The Court’s assessment
+u109 p63  [10597-10618) H | 1. General principles
+u110 p64 ¶30 [10623-11080) | The Court reiterates that any interference with an individual’s right to respect for his private and family life will constitute a breach of Article 8, unless it was “in accordance with the law”, pursued a legitimate aim or aims under paragraph 2, and was “necessary in a democratic society” in the sense that it was proportionate to the aims sought to be achieved (see, among other authorities, Elsholz v. Germany [GC], no. 25735/94, § 45, ECHR 2000-VIII).
+u111 p65 ¶31 [11085-11253) | The notion of necessity implies that the interference corresponds to a pressing social need and, in particular, that it is proportionate to the legitimate aims pursued.
+u112 p65  [11254-11430) | In determining whether an interference was “necessary in a democratic society” the Court will take into account that a margin of appreciation is left to the Contracting States.
+u113 p65  [11431-11710) | Furthermore, the Court cannot confine itself to considering the impugned facts in isolation, but must apply an objective standard and look at them in the light of the case as a whole (see, among other authorities, Matter v. Slovakia, no. 31534/96, § 66, 5 July 1999, unreported).
+u114 p66  [11711-11769) H | 2. Application of the above principles to the instant case
+u115 p67  [11770-11799) H | (a) Existence of interference
+u116 p68 ¶32 [11804-11988) | It was not disputed that the refusal to allow the applicant to attend the funerals of his parents constituted an interference with his right to respect for his private and family life.
+u117 p68  [11990-12048) | The Court finds no reason to reach a different conclusion.
+u118 p69  [12050-12088) H | (b) Justification for the interference
+u119 p70  [12089-12121) | (i) “In accordance with the law”
+u120 p71 ¶33 [12126-12292) | The Court is satisfied that the interference, which was based on Articles 59 § 1 and 88 § 2 of the Code of Enforcement of Sentences, was “in accordance with the law”.
+u121 p72  [12293-12312) H | (ii) Legitimate aim
+u122 p73 ¶34 [12317-12482) | The Court agrees with the Government’s submission that the interference took place in the interests of “public safety” and “for the prevention of disorder or crime”.
+u123 p73  [12483-12524) | (iii) “Necessary in a democratic society”
+u124 p74 ¶35 [12529-12828) | The Court reiterates firstly that it will not confine itself to considering the impugned facts in isolation, but will apply an objective standard and look at them in the light of the case as a whole, taking into account a margin of appreciation left to the respondent State (see paragraph 31 above).
+u125 p74  [12829-13072) | The Court emphasises that, even if a detainee by the very nature of his situation must be subjected to various limitations of his rights and freedoms, every such limitation must be nevertheless justifiable as necessary in a democratic society.
+u126 p74  [13073-13212) | It is the duty of the State to demonstrate that such necessity really existed, i.e. to demonstrate the existence of a pressing social need.
+u127 p74  [13213-13323) | The Court notes that the applicant lost both parents in a space of one-month (see paragraphs 12 and 17 above).
+u128 p74  [13324-13595) | Both applications for leave to attend the funerals were accompanied by the statements of prison officers supporting them; what is more, the second of these statements confirmed that the applicant’s behaviour in prison was beyond reproach (see paragraphs 14 and 19 above).
+u129 p75 ¶36 [13601-13770) | Furthermore, the Court considers that the reasons given by domestic authorities (see paragraphs 15-16 and 20-21 above) for rejecting the applications are not persuasive.
+u130 p75  [13771-14034) | In particular, the authorities’ concerns that the applicant “was a habitual offender whose return to the prison cannot be guaranteed” and that the charges relating to larceny involved “a significant danger to society” could have been addressed by escorted leaves.
+u131 p75  [14035-14208) | However, despite the fact that the possibility of escorted leaves was afforded by domestic law (see paragraph 25 above), the authorities apparently did not even consider it.
+u132 p75  [14209-14406) | In addition, the second application was rejected by the Penitentiary Judge on 9 August 1994, i.e. a day after the funeral of the applicant’s father had taken place (see paragraphs 18 and 21 above).
+u133 p75  [14407-14554) | Moreover, the Penitentiary Judge’s conclusion that the applicant’s case did not disclose compassionate circumstances is not supported by the facts.
+u134 p76 ¶37 [14559-14752) | The Court also notes that apparently the charges brought against the applicant did not concern violent crime and that he was released as early as February 1996 (see paragraphs 23 and 24 above).
+u135 p76  [14753-14869) | Therefore, the applicant could not be considered as a prisoner without any prospect of being released from a prison.
+u136 p76  [14870-15021) | It is aware of the problems of a financial and logistical nature caused by escorted leaves and the instances of shortage of police and prison officers.
+u137 p76  [15022-15368) | However, taking into account the seriousness of what is at stake, namely refusing an individual the right to attend the funerals of his parents, the Court is of the view that the respondent State could have refused attendance only if there had been compelling reasons and if no alternative solution – like escorted leaves – could have been found.
+u138 p77 ¶38 [15373-15588) | The Court would reiterate that Article 8 of the Convention does not guarantee a detained person an unconditional right to leave to attend a funeral of a relative (see the case-law referred to in paragraph 27 above).
+u139 p77  [15589-15659) | It is up to domestic authorities to assess each request on its merits.
+u140 p77  [15660-15858) | It’s scrutiny is limited to consideration of the impugned measures in the context of the applicant’s Convention rights, taking into account the margin of appreciation left to the Contracting States.
+u141 p78 ¶39 [15863-16248) | The Court concludes that, in the particular circumstances of the present case, and notwithstanding the margin of appreciation left to the respondent State, the refusals of leave to attend the funerals of the applicant’s parents, were not “necessary in a democratic society” as they did not correspond to a pressing social need and were not proportionate to the legitimate aims pursued.
+u142 p78  [16249-16317) | There has therefore been a violation of Article 8 of the Convention.
+u143 p79  [16318-16365) H | II. APPLICATION OF ARTICLE 41 OF THE CONVENTION
+u144 p80 ¶40 [16370-16408) L | Article 41 of the Convention provides:
+u145 p80  [16409-16690) QL | “If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”
+u146 p81  [16691-16700) H | A. Damage
+u147 p82 ¶41 [16705-16768) L | Mr Płoski sought 300,000 zlotys (PLN) for non-pecuniary damage.
+u148 p82  [16769-16915) L | He submitted that the inability to attend the funerals of his parents caused him lasting suffering since he was deeply committed to family values.
+u149 p83 ¶42 [16920-16987) L | The Government submitted that the applicant’s claim was exorbitant.
+u150 p83  [16988-17131) L | They asked the Court to rule that in the event that it found a violation, this finding would in itself constitute sufficient just satisfaction.
+u151 p83  [17132-17320) L | In the alternative, they requested the Court to assess the amount of just satisfaction to be awarded on the basis of its case-law in similar cases, having regard to national circumstances.
+u152 p84 ¶43 [17325-17518) L | The Court considers that, in the circumstances of this particular case and deciding on an equitable basis, the applicant should be awarded the sum of 1,500 euros (EUR) for non-pecuniary damage.
+u153 p85  [17519-17540) H | B. Costs and expenses
+u154 p86 ¶44 [17545-17705) L | The applicant also claimed PLN 14,800 together with VAT by way of legal costs and expenses incurred in the preparation and defence of his case before the Court.
+u155 p86  [17706-17764) L | This included 37 hours’ work at an hourly rate of PLN 400.
+u156 p87 ¶45 [17769-17933) L | The Government asked the Court to award the costs and expenses only in so far as they have been actually and necessarily incurred and were reasonable as to quantum.
+u157 p88 ¶46 [17939-18047) L | The Court notes that it was not considered necessary to invite the parties to an oral hearing in Strasbourg.
+u158 p88  [18048-18329) L | Having regard to equitable considerations, it awards the applicant EUR 1,800 together with any value-added tax that may be chargeable, less EUR 630 already paid by way of legal aid (see, mutatis mutandis, McShane v. the United Kingdom, no. 43290/98, §160, 28 May 2002, unreported).
+u159 p89  [18330-18349) H | C. Default interest
+u160 p90 ¶47 [18354-18642) L | The Court considers that the default interest should be fixed at an annual rate equal to the marginal lending rate of the European Central Bank plus three percentage points (see Christine Goodwin v. the United Kingdom [GC], application no. 28957, § 124, to be published in ECHR 2002-...).
+-- tail from char 18643 hidden --

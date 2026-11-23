@@ -1,0 +1,122 @@
+# FILE 001-59621.txt  n_chars=32404  units=237  paragraphs=119
+# SCOPE: legal reasoning starts at char 9775 (unit u93) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 27565 (unit u208) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 9775 hidden (facts/procedure; use --show-all to see them) --
+u93 p60  [9775-9782) H | THE LAW
+u94 p61  [9783-9834) H | I. ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION
+u95 p62 ¶31 [9839-9928) | The applicant complained that the Swiss authorities had not renewed his residence permit.
+u96 p62  [9929-10054) | As a result, he had been separated from his wife, who was a Swiss citizen and could not be expected to follow him to Algeria.
+u97 p62  [10055-10131) | He relied on Article 8 of the Convention, the relevant parts of which state:
+u98 p62  [10132-10135) Q | “1.
+u99 p62  [10136-10197) Q | Everyone has the right to respect for his ... family life ...
+u100 p63 ¶2 [10201-10609) | There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well‑being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”
+u101 p64  [10610-10637) H | A. The parties’ submissions
+u102 p65 ¶32 [10642-10780) | The applicant submitted that the mere fact that his wife spoke French was insufficient to make it possible for her to join him in Algeria.
+u103 p65  [10781-10861) | Moreover, in Algeria people lived in constant fear on account of fundamentalism.
+u104 p65  [10862-10943) | It was also unsatisfactory for him and his wife to visit each other occasionally.
+u105 p65  [10944-10983) | In any event, every case was different.
+u106 p65  [10984-11128) | The applicant also pointed out that he had worked successfully, both in prison and thereafter, as assistant to a gardener and to an electrician.
+u107 p65  [11129-11225) | He had even had a contract prepared on the condition that his residence permit would be renewed.
+u108 p66 ¶33 [11230-11417) | The applicant pointed out that although he was currently living with friends in Italy, there was no guarantee that he could do so in the future, and he would not be granted a work permit.
+u109 p66  [11418-11497) | In any event, his wife could not be expected to lead her married life in Italy.
+u110 p67 ¶34 [11502-11585) | The Government contested the allegation of a breach of Article 8 of the Convention.
+u111 p67  [11586-11851) | Reference was made to sections 7(1), 10(1) and 11(3) of the Aliens’ Domicile and Residence Act as well as to Article 16 § 3 of the ordinance implementing the Act, all of which had been duly published and which provided a sufficient legal basis for the interference.
+u112 p67  [11852-12002) | According to these provisions, the residence permit of the foreign spouse of a Swiss citizen would not be renewed if there was a ground for expulsion.
+u113 p67  [12003-12088) | The Swiss authorities were called upon to examine the proportionality of the measure.
+u114 p67  [12089-12438) | Given the offences which the applicant had committed in Switzerland, there could be no doubt that the refusal not to renew the residence permit was called for in the interests of public safety, for the prevention of disorder or crime and for the protection of the rights and freedoms of others, within the meaning of Article 8 § 2 of the Convention.
+u115 p68 ¶35 [12443-12670) | The Government further contended that the measure had been necessary in a democratic society within the meaning of Article 8 § 2 of the Convention and that the Swiss authorities had not overstepped their margin of appreciation.
+u116 p68  [12671-12930) | Particular reference was made to the nature of the offences committed, the length of the prison sentence, the duration of the applicant’s stay in Switzerland and the effects which the refusal to prolong the residence permit would have on the applicant’s wife.
+u117 p68  [12931-13073) | In the present case, both the Federal Court and the Administrative Court of the Canton of Zürich carefully examined the applicant’s situation.
+u118 p68  [13074-13240) | Their analysis of the situation could not be called in question by reason of the fact that the applicant had not committed any offences after his release from prison.
+u119 p69 ¶36 [13245-13359) | The Government also submitted that the applicant’s conviction justified the refusal to renew his residence permit.
+u120 p69  [13360-13510) | Sixteen months after having entered Switzerland he had committed a serious offence and had also been convicted for the unlawful possession of weapons.
+u121 p69  [13511-13728) | The applicant’s stay in Switzerland had been prolonged on the grounds that the judgment of the Court of Appeal of the Canton of Zürich had not yet acquired legal force and that he had had to serve his prison sentence.
+u122 p69  [13729-14028) | Bearing in mind the brutal manner in which the offence was committed, the Government considered that the Court’s case-law concerning drug offences applied by analogy also to the present case (see Dalia v. France, judgment of 19 February 1998, Reports of Judgments and Decisions 1998-I, p. 92, § 54).
+u123 p69  [14029-14146) | This particularly serious breach of public order in itself warranted non-renewal of the applicant’s residence permit.
+u124 p70 ¶37 [14151-14255) | The Government argued that the applicant had grown up in Algeria where a large part of his family lived.
+u125 p70  [14256-14307) | He had left the country mainly on economic grounds.
+u126 p70  [14308-14379) | Before travelling to Switzerland he had lived in Italy for seven years.
+u127 p70  [14380-14491) | There was no indication that he had any ties with Switzerland, where he had been unemployed since October 1994.
+u128 p70  [14492-14547) | He had only been living with his wife for a short time.
+u129 p70  [14548-14672) | She was born in Switzerland, where she had spent all her life and was, at the time when the application was filed, employed.
+u130 p70  [14673-14748) | She did not therefore depend on her husband from an economic point of view.
+u131 p70  [14749-14961) | While she would experience some inconvenience if she had to follow her husband to Algeria, she had been able to establish oral contact, thanks to her knowledge of the French language, with the applicant’s mother.
+u132 p70  [14962-15069) | Moreover, the applicant’s family in Algeria would be able to assist her with integration into that country.
+u133 p70  [15070-15151) | The couple, who have no children, could be expected to travel to another country.
+u134 p70  [15152-15217) | Finally, the applicant was free to visit his wife in Switzerland.
+u135 p71 ¶38 [15222-15322) | The Government pointed out that they were not in a position to indicate the applicant’s whereabouts.
+u136 p71  [15323-15496) | According to his wife, he was living in Italy where he had social contacts, for which reason the applicant and his wife could be expected to lead their family life in Italy.
+u137 p71  [15497-15776) | In fact, the applicant’s current whereabouts were not relevant since the public interest demanded his removal from Switzerland in view of the short time he had spent in Switzerland, his criminal conviction and the particularly brutal manner in which he had committed the offence.
+u138 p72  [15777-15802) H | B. The Court’s assessment
+u139 p73  [15803-15900) H | 1. Whether there was an interference with the applicant’s right under Article 8 of the Convention
+u140 p74 ¶39 [15905-16030) | The Court recalls that the Convention does not guarantee the right of an alien to enter or to reside in a particular country.
+u141 p74  [16031-16332) | However, the removal of a person from a country where close members of his family are living may amount to an infringement of the right to respect for family life as guaranteed in Article 8 § 1 of the Convention (see Moustaquim v. Belgium, judgment of 18 February 1991, Series A no. 193, p. 18, § 36).
+u142 p75 ¶40 [16337-16424) | In the present case, the applicant, an Algerian citizen, is married to a Swiss citizen.
+u143 p75  [16425-16623) | Thus, the refusal to renew the applicant’s residence permit in Switzerland interfered with the applicant’s right to respect for his family life within the meaning of Article 8 § 1 of the Convention.
+u144 p76 ¶41 [16628-16743) | Such an interference will infringe the Convention if it does not meet the requirements of paragraph 2 of Article 8.
+u145 p76  [16744-16943) | It is therefore necessary to determine whether it was “in accordance with the law”, motivated by one or more of the legitimate aims set out in that paragraph, and “necessary in a democratic society”.
+u146 p77 ¶2 [16947-17004) | Whether the interference was “in accordance with the law”
+u147 p78 ¶42 [17009-17242) | The Court observes, and this was not in dispute between the parties, that the Swiss authorities, when refusing to renew the applicant’s residence permit, relied on various provisions of the Federal Aliens’ Domicile and Residence Act.
+u148 p78  [17243-17453) | According to section 7(1) of this Act, a foreigner who has married a Swiss citizen is entitled to a residence permit, or to have it prolonged, although this right will expire if there are grounds for expulsion.
+u149 p78  [17454-17573) | Section 10(1)(a) provides that there is such a ground if the person concerned has been convicted of a criminal offence.
+u150 p78  [17574-17687) | According to section 11(3) of the Act, expulsion must appear appropriate in view of the circumstances as a whole.
+u151 p79 ¶43 [17692-17808) | The interference was, therefore, “in accordance with the law” within the meaning of Article 8 § 2 of the Convention.
+u152 p80  [17809-17861) H | 3. Whether the interference pursued a legitimate aim
+u153 p81 ¶44 [17866-18183) | When refusing to renew the applicant’s residence permit, the Swiss authorities, such as the Federal Court in its judgment of 3 November 1999, considered that the applicant’s residence permit should not be renewed in view of the serious offence which he had committed and in the interests of public order and security.
+u154 p82 ¶45 [18188-18348) | The Court is, therefore, satisfied that the measure was imposed “for the prevention of disorder or crime” within the meaning of Article 8 § 2 of the Convention.
+u155 p83 ¶4 [18352-18416) | Whether the interference was “necessary in a democratic society”
+u156 p84 ¶46 [18421-18680) | The Court recalls that it is for the Contracting States to maintain public order, in particular by exercising their right, as a matter of well‑established international law and subject to their treaty obligations, to control the entry and residence of aliens.
+u157 p84  [18681-18761) | To that end they have the power to deport aliens convicted of criminal offences.
+u158 p84  [18762-19170) | However, their decisions in this field must, in so far as they may interfere with a right protected under paragraph 1 of Article 8, be necessary in a democratic society, that is to say justified by a pressing social need and, in particular, proportionate to the legitimate aim pursued (see Dalia, cited above, p. 91, § 52, and Mehemi v. France, judgment of 26 September 1997, Reports 1997-VI, p. 1971, § 34).
+u159 p85 ¶47 [19175-19499) | Accordingly, the Court’s task consists in ascertaining whether in the circumstances the refusal to renew the applicant’s residence permit struck a fair balance between the relevant interests, namely the applicant’s right to respect for his family life, on the one hand, and the prevention of disorder or crime, on the other.
+u160 p86 ¶48 [19504-19762) | The Court has only a limited number of decided cases where the main obstacle to expulsion was that it would entail difficulties for the spouses to stay together and, in particular, for one of them and/or the children to live in the other’s country of origin.
+u161 p86  [19763-19913) | It is therefore called upon to establish guiding principles in order to examine whether the measure in question was necessary in a democratic society.
+u162 p86  [19914-20637) | In assessing the relevant criteria in such a case, the Court will consider the nature and seriousness of the offence committed by the applicant; the duration of the applicant’s stay in the country from which he is going to be expelled; the time which has elapsed since the commission of the offence and the applicant’s conduct during that period; the nationalities of the various persons concerned; the applicant’s family situation, such as the length of the marriage; other factors revealing whether the couple lead a real and genuine family life; whether the spouse knew about the offence at the time when he or she entered into a family relationship; and whether there are children in the marriage and, if so, their age.
+u163 p86  [20638-20937) | Not least, the Court will also consider the seriousness of the difficulties which the spouse would be likely to encounter in the applicant’s country of origin, although the mere fact that a person might face certain difficulties in accompanying her or his spouse cannot in itself preclude expulsion.
+u164 p87 ¶49 [20942-21088) | The Court notes that the applicant arrived in Switzerland in 1992, and that he married his wife in 1993, whereupon he obtained a residence permit.
+u165 p87  [21089-21167) | However, the permit was not renewed following his criminal conviction in 1997.
+u166 p87  [21168-21285) | The Zürich Court of Appeal considered in its judgment of 31 January 1997 that the applicant’s culpability was severe.
+u167 p87  [21286-21490) | The Government, moreover, have drawn attention to the brutal manner in which the offence concerned had been committed, and that it had occurred only sixteen months after the applicant entered Switzerland.
+u168 p88 ¶50 [21495-21676) | The Court has first considered the extent to which the offence committed by the applicant can provide a basis for assuming that he constituted a danger to public order and security.
+u169 p89 ¶51 [21681-21814) | It is true that the applicant committed a serious offence and was sentenced to a prison sentence which he has served in the meantime.
+u170 p89  [21815-22074) | The Court further notes that the Zürich District Court in its judgment of 17 May 1995 had considered that a mere conditional sentence of eighteen months’ imprisonment, suspended on probation, was adequate punishment for the offence committed by the applicant.
+u171 p89  [22075-22172) | The Zürich Court of Appeal later pronounced an unconditional sentence of two years’ imprisonment.
+u172 p89  [22173-22351) | Furthermore, the offence at issue was committed in 1994, and in the six years thereafter until the applicant’s departure from Switzerland in 2000 he committed no further offence.
+u173 p89  [22352-22459) | Before he began his prison sentence, he obtained professional training as a waiter and worked as a painter.
+u174 p89  [22460-22535) | His conduct in prison was exemplary, and indeed he was given early release.
+u175 p89  [22536-22688) | As from May 1999 until his departure from Switzerland in 2000 he worked as a gardener and an electrician, with the possibility of continuing employment.
+u176 p89  [22689-23108) | As a result, whilst the offence which the applicant committed may give rise to certain fears that he constitutes a danger to public order and security for the future, in the Court’s opinion such fears are mitigated by the particular circumstances of the present case (see, mutatis mutandis, Ezzouhdi v. France, no. 47160/99, § 34, 13 February 2001, unreported, and Baghli v. France, no. 34374/97, § 48, ECHR 1999-VIII).
+u177 p90 ¶52 [23113-23229) | The Court has next examined the possibility for the applicant and his wife to establish their family life elsewhere.
+u178 p91 ¶53 [23234-23333) | The Court has considered, first, whether the applicant and his wife could live together in Algeria.
+u179 p91  [23334-23375) | The applicant’s wife is a Swiss national.
+u180 p91  [23376-23480) | It is true that she can speak French and has had contact by telephone with her mother-in-law in Algeria.
+u181 p91  [23481-23613) | However, the applicant’s wife has never lived in Algeria, she has no other ties with that country, and indeed does not speak Arabic.
+u182 p91  [23614-23734) | In these circumstances she cannot, in the Court’s opinion, be expected to follow her husband, the applicant, to Algeria.
+u183 p92 ¶54 [23739-23841) | There remains the question of the possibility of establishing family life elsewhere, notably in Italy.
+u184 p92  [23842-24049) | In this respect the Court notes that the applicant lawfully resided in Italy from 1989 until 1992 when he left for Switzerland, and he now appears to be living with friends in Italy again, albeit unlawfully.
+u185 p92  [24050-24253) | In the Court’s opinion, it has not been established that both the applicant and his wife could obtain authorisation to reside lawfully in Italy, so that they could lead their family life in that country.
+u186 p92  [24254-24439) | In that context, the Court has noted that the Government have argued that the applicant’s current whereabouts are irrelevant in view of the nature of the offence which he has committed.
+u187 p93 ¶55 [24444-24644) | The Court considers that the applicant has been subjected to a serious impediment to establishing a family life, since it is practically impossible for him to live his family life outside Switzerland.
+u188 p93  [24645-24827) | On the other hand, when the Swiss authorities decided to refuse permission for the applicant to stay in Switzerland, he presented only a comparatively limited danger to public order.
+u189 p93  [24828-24929) | The Court is therefore of the opinion that the interference was not proportionate to the aim pursued.
+u190 p94 ¶56 [24934-25001) | There has accordingly been a breach of Article 8 of the Convention.
+u191 p95  [25002-25049) H | II. APPLICATION OF ARTICLE 41 OF THE CONVENTION
+u192 p96 ¶57 [25054-25092) L | Article 41 of the Convention provides:
+u193 p96  [25093-25374) QL | “If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”
+u194 p97  [25375-25384) H | A. Damage
+u195 p98 ¶58 [25389-25509) L | The applicant has not made any claim in respect of pecuniary or non-pecuniary damage under Article 41 of the Convention.
+u196 p98  [25510-25596) L | In these circumstances, the Court is not called upon to make an award under this head.
+u197 p99  [25597-25618) H | B. Costs and expenses
+u198 p100 ¶59 [25623-25738) L | The applicant requested a total of 21,128.60 Swiss francs (CHF) for costs and expenses in the domestic proceedings.
+u199 p100  [25739-26182) L | He itemised them as follows: CHF 13,216.90 for the proceedings before the District Court and the Court of Appeal of the Canton of Zürich; CHF 2,060 for costs arising in the proceedings before the Court of Cassation of the Canton of Zürich; CHF 505 for costs paid to the Office of the Zürich Police Judge (Polizeirichteramt); and a total of CHF 5,346.70 for costs arising in the proceedings before the Federal Court as well as for legal advice.
+u200 p101 ¶60 [26187-26441) L | The Government replied that the costs for the proceedings before the District Court, the Court of Appeal and the Office of the Police Judge were not related to the present proceedings; and that the Court of Cassation had written off the sum of CHF 2,060.
+u201 p101  [26442-26530) L | On the other hand, the Government agreed to reimburse the remaining sum of CHF 5,346.70.
+u202 p102 ¶61 [26535-26814) L | The Court observes that, according to its case-law, to be awarded costs and expenses the injured party must have incurred them in order to seek prevention or rectification of a violation of the Convention, to have the same established by the Court and to obtain redress therefor.
+u203 p102  [26815-27050) L | It must also be shown that the costs were actually and necessarily incurred and that they are reasonable as to quantum (see, among other authorities, Philis v. Greece (no. 1), judgment of 27 August 1991, Series A no. 209, p. 25, § 74).
+u204 p103 ¶62 [27055-27258) L | In the present case, the Court accepts the Government’s submissions as to those costs which were not incurred in order to prevent or rectify a violation of the Convention, or which did not in fact arise.
+u205 p103  [27259-27365) L | Accordingly, the Court awards the sum of CHF 5,346.70 in respect of legal costs incurred by the applicant.
+u206 p104  [27366-27385) H | C. Default interest
+u207 p105 ¶63 [27390-27564) L | According to the information available to the Court, the statutory rate of interest applicable in Switzerland at the date of adoption of the present judgment is 5% per annum.
+-- tail from char 27565 hidden --

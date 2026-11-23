@@ -1,0 +1,1399 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH
+NEW DELHI
+COMPANY APPEAL (AT) (INSOLVENCY) NO.1305 OF 2022
+& I.A. NO. 4028, 4639 of 2022
+(Arising out of judgement and order dated 23.08.2022 passed by the National
+Company Law Tribunal, Ahmedabad Bench in CP(IB)No.11/AHM/2021)
+In the matter of:
+EBPL Ventures Pvt Ltd
+4/3 Nehru Parisar, Nehru Nagar
+Behind Hero Honda Show Room
+Bhilai Chhattisgarh 490020
+
+..........Appellant
+
+Vs
+
+Sarguja Rail Corridor Pvt. Ltd.
+(Now known as Adani Track Management Services Pvt Ltd)
+Adani Corporate House,
+Shantigram,
+Near Vaishno Devi Circle
+SG Highway Khodiyar
+Ahmedabad 382421
+Gujarat
+
+.........Respondent
+
+Present
+For Appellant:
+Mr Gaurav Mitra, Mr Ankeet Sareen, Mr Piyush Pushkar,
+Ms Prachi Johri, Advocates.
+
+For Respondent: Mr Krishnendu Datta, Sr Advocate, Ms Aakanksha Kaul,
+Mr Adit Khurana, Mr Aman Sahani, Ms Ashima Chopra,
+Mr. Yash Tandon, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+[Per: Ajai Das Mehrotra, Member (Technical)]
+
+The present appeal is filed by the Appellant, EBPL Ventures Pvt Ltd
+(hereinafter referred to as “Operational Creditor” or “OC” or “EBPL”)
+against the order dated 23.08.2022 passed by the Ld. NCLT, Ahmedabad in
+CP(IB) No.11/AHM/2021, wherein the application under Section 9 of the
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as “IBC,
+2016”) filed by the applicant against the Corporate Debtor, Sarguja Rail
+Corridor Pvt Ltd (hereinafter referred to as “Corporate Debtor” or “CD” or
+“SRCPL”) was dismissed.
+2.
+The brief facts of this case as per appeal paper book are as under:
+i)
+Sarguja Rail Corridor Pvt. Ltd. (later the name was changed to Adani
+Track Management Services Private Limited) was ordered the contract to build
+railway line on behalf of South East Central Railway Zone (SECR). SRCPL
+awarded separate contracts to Gannon Dunkerley and Company Limited
+(hereinafter referred to as “GDCL”) and M/s Vijay Nirman Company Private
+Limited (hereinafter referred to as “VNCPL”). The work was sub-contracted to
+the appellant EBPL by both the contractors, GDCL and VNCPL.
+ii)
+SRCPL issued a Letter of Intent (LOI) on 21.05.2014 to GDCL and on
+07.08.2014 and 05.12.2015 to VNCPL for execution of work relating to part
+of the project. The contractor VNCPL gave work to sub-contractor EBPL
+through two contracts dated 15.05.2015 and 21.05.2017. The GDCL sub-
+contracted the work to the Appellant, EBPL on 13.05.2015. The contracts of
+the Appellant with GDCL dated 13.05.2015 and with VNCPL dated
+15.05.2015 and 21.05.2017 were similarly worded.
+iii)
+M/s Howe India Pvt. Ltd. was appointed the project consultant and
+project manager of the said project.
+iv)
+Initially, SRCPL awarded contract to GDCL for construction through
+work order dated 01.08.2015 collectively amounting to Rs. 21.27 crores for
+OHE and P-way work (Phase IIA- 33 to 54 Kms.) which was later reduced to
+Rs. 18.06 crores on reduction of scope of work. Similarly, SRCPL also awarded
+contract dated 07.08.2014 and 05.12.2015 to VNCPL for construction of
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+private railway sidings (phase IIB-54 to 70 Kms. and phase IIC-70 to 75.56
+Kms.).
+v)
+Apparently, disputes arose between the appellant EBPL and the
+contractors GDCL and VNCPL and the completion of the project was stalled.
+vi)
+VNCPL further awarded contracts of construction of P-way works and
+OHE works for Phase II B/C for Rs. 26.70 crores vide work order dated
+16.06.2016 and work order dated 31.12.2016. There was also subsequent
+change in scope without any increase in the contract value.
+vii)
+In its application under Section 9 before the Ld. NCLT, the applicant,
+EBPL (Sub-contractor) alleged that payments were not forthcoming from
+GDCL and VNCPL (Contractors) and then the respondent, SRCPL (Principal
+Employer) stepped in as principal owner and agreed in writing to make all the
+payments due to be paid by contractors. It is alleged that the Corporate Debtor
+directly substituted itself in the shoes of GDCL and VNCPL and agreed to
+make payment and in return the appellant was asked to ensure that final
+pending works, including commissioning of the project, are completed.
+viii)
+The applicant relied upon the minutes of the meeting dated 09.04.2018
+and the Indemnity Bond dated NIL in support of its contention that liability
+of GDCL and VNCPL has been taken over by SRCPL and as amount exceeding
+Rs. 1 crore is due to the applicant, the application under Section 9 ought to
+have been admitted against SRCPL.
+3.
+The Ld. NCLT in the impugned order dated 23.08.2022 dismissed the
+application under Section 9 of IBC, 2016 and held as under:
+5. Heard the learned counsels for both sides and perused the
+material on record. It is noted that the Respondent awarded work
+for engineering, procurement, and construction (EPC) of private
+railway sidings to the GDCL vide contract dated 13.05.2015 for
+Phase IIA (33 Km to 54 Kms) for Rs. 230 crores, and further
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+awarded contracts dated 15.05.2015 & 05.01.2016 for Phase IIB
+(54 Km to 70 Kms) for Rs. 171 crores and for Phase IIC (70 Km-
+75. 77 Kms) for Rs. 35,37,89,327/- respectively to VNCPL. The
+works relating to OHE and linking of tracks were further awarded
+to the applicant in turn by the GDCL and VNCPL.
+The GDCL vide work order dated 01.08.2015 bearing reference
+No. D/CE/003840 awarded the work of design, supply, erection,
+and commissioning of overhead equipment (OHE) of rail track
+(33Km to 54 Kms) for Rs. 10,72,00,000/- and vide work order
+dated 01.08.2015 bearing reference No. D/CE/003841 for
+construction work for supply, laying, linking, testing, and
+commissioning of permanent way work of Rail Track (33 Km to 54
+Kms) for Rs. 10,55,30,000/- of phase IIA to the applicant. The total
+contract amount was of Rs. 21,27,30,000/- both the aforesaid
+works. It is not in dispute that the value of the work orders was
+thereafter reduced to Rs. 18.06 crores due to the reduction of the
+scope of phase-IIA work.
+6. The VNCPL also awarded works to the applicant vide work
+order
+dated
+16.06.2016
+bearing
+reference
+no.
+VNCPL/SRCPL/2016-2017/EBPL/003 for OHE works for Rs.
+13,37,00,000/- and work order dated 31.12.2016 bearing
+reference no. VNCPL/SRCPL/2016-2017 IEBPL/ 10A for the
+execution of P-way work for Rs. 13,33,00,000/- for Phase- IIB and
+IIC respectively. The total contract value was of Rs. 26.70 crores.
+The aforesaid works were duly completed by the applicant and
+completion certificates have been issued by the Respondent on
+25.06.2018 and also by the SECR on 25.07.2018.
+7. The moot question in the present application is whether the
+respondent can be treated as a debtor to the applicant on the basis
+of the Minutes of Meeting [MoM] dated 09.04.2018. If yes, then
+whether there is a pre-existing dispute between the applicant and
+respondent? The present application is filed based on the minutes
+of the meeting dated 09.04.2018 & the Indemnity Bond Cum-
+Undertaking thereon given by the applicant separately in respect
+of the work awarded by GDCL and VNCPL wherein it is clearly
+stated (para 2 of the MoM) that all the terms and conditions of the
+work orders issued by GDCL/VNCPL to the applicant shall remain
+unaltered. It is also mentioned that the GDCL offered an amount
+of Rs. 25.50 crores including the additional claim for extra work
+as a full and final settlement work order price which was not
+acceptable to the applicant. Thereafter, the applicant approached
+the respondent; and the respondent, without going into the details
+of the claim for extra· work and to attempt the amicable settlement
+of the case between the applicant and GDCL, agreed for the
+revised contract price of Rs. 26 crores plus applicable GST on the
+work (including the additional claim for extra work) awarded by
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+GDCL as full and final settlement which was accepted by the
+applicant. The clause of the Indemnity Bond refers for agreement
+on terms of payments for payment of the differential amount (i.e.,
+Rs. 26 crores less the amount actually paid by the GDCL, after
+verification and reconciliation) in three stages - 50% of the due
+amount to be released within two working days of signing EIG
+documents, 25% to be released within 2 working days of obtaining
+EIG approval by SECR; and the balance amount to be released
+within two working days from the date of commissioning and
+placement and removal of rake with OHE loco. Similiarly through
+the separate MoM and Indemnity Bond dated 09.04.2018 in
+respect of the extra claim on VNCPL, it was agreed that the
+differential amount of Rs. 1.70 crores plus GST shall be payable
+to applicant on the same terms. Though as per these MoM and
+Indemnity Cum Undertaking, the respondent had agreed that
+differential amount i.e. Rs. 26 crores less the gross values actually
+paid for GDCL after verification and reconciliation respect of the
+work awarded by GDCL and settled amount of Rs. 1.70 crores
+plus GST on to the work awarded by VNCPL was to be paid to the
+applicant as per the terms set out in the said Minutes/ Indemnity
+Bond, but that nowhere has mentioned as to who amongst
+respondent, GDCL or VNCPL would pay the money. It is also noted
+that as per clause 2 of Indemnity Bond-cum-Undertaking, the
+applicant has clearly stated that it was appointed as a
+subcontractor by the GDCL and VNCPL for the execution of the
+awarded work of railway siding. Hence, the contention of the
+applicant that it became a direct contractor to the respondent on
+the strength of above stated MoMs and Indemnity Bond does not
+sustain. For ready reference, the relevant paras of the MoM &
+Indemnity
+Bond-cum-Undertaking
+dated
+09.04.2018
+are
+reproduced hereunder;
+Minutes of Meeting dated 09.04.2018
+(between SRCPL and GDCL)
+“3. All other terms and conditions of the work orders issued by
+GDCL to EBPL shall remain unaltered”
+INDEMNITY BOND-Cum- UNDERTAKING
+(MoM with respect to GDCL)
+1. "We, EBPL Ventures Pvt Ltd (for short “EBPL” are willingly giving
+this irrevocable and unconditional indemnity bond - cum -
+undertaking to Sarguja Rail Corridor Pvt. Ltd. (for short “SRCPL”
+in the following terms.
+2. We state that we were appointed as a sub-contractor by Gannon
+Dunkerley & Co. Ltd (for short “GDCL”) for execution of work
+under Work Order No. D/CE/003840 dated 01.08.2015for OHE
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+works and Work Order No. D/CE/003841 dated 01.08.2015 for
+P-Way work for contract values of Rs. 10.72 Cr & Rs 10.55 Cr
+respectively (collectively Rs.21.27 cr.). The said collective value
+was subsequently amended to Rs. 18.06. However, we were
+required to undertake certain works beyond the scope of work
+under the aforesaid work orders and consequently we believe
+that we are entitled for revision of the aforesaid amended value
+of work orders to Rs 31.00 Cr. For this purpose, we have
+approached GDCL with the relevant document evidence and
+have requested GDCL to consider our claim for extra work and
+make payment after verifying our claim.
+3. GDCL has reviewed the documents of additional claims and have
+offered to revise the work order value to Rs. 25.50 cr. including
+the additional claim for extra work, as a full and final settlement
+work order price. However, it is not acceptable to us and hence
+we have approached the principal Employer SRCPL for
+settlement of our issue.
+4. SRCPL is yet to go through the details of the claim of extra work.
+However, pending this as an attempt of amicable settlement of
+this case, have offered to us a revised all inclusive contract price
+of Rs. 26 cr plus applicable GST. We have considered and we
+fully agree for settling the revised collective work orders price at
+26 cr plus applicable GST as full and final settlement amount
+towards all work done by us pursuant the aforesaid work order.
+SD shall be refunded as per the books of accounts as agreed
+upon.
+5. SRCPL has agreed that the differential amount i.e. Rs. 26 Cr less
+the gross values actually paid and to be paid to or on behalf of
+EBPL, after verification and reconciliation, as per the terms of
+payment agreed as under:
+i) 50% of the due payment shall be released within two working
+days of signing EIG documents.
+ii) 25% of the due payment shall be released within two working
+days of obtaining EIG approval by SECR
+iii) Balance payment shall be released within two working days
+from the date of commissioning and placement and removal
+of rake with OHE loco ................. ''
+
+Minutes of Meeting dated 09.04.2018
+(between SRCPL and VNCPL)
+“3. All other terms and conditions of the work orders issued by
+VNCPL to EBPL shall remain unaltered”
+INDEMNITY BOND - cum - UNDERTAKING
+(MoM with respect to VNCPL)
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+1. “We, EBPL Ventures Pvt Ltd (for short 'EBPL'} are willingly
+giving this irrevocable and unconditional indemnity bond - cum
+- undertaking to Sarguja Rail Corridor Pvt Ltd (for short
+'SRCPL'1 in the following terms.
+2. We state that we were appointed as a sub-contractor by Vijay
+Nirman Co. Pvt Ltd (for short “VNCPL”) for execution work under
+Work Order No. VNCPUSRCPL/0016-17 /EBPL/003 dated
+16.06.2016 for OHE and Work Order No. VNCPL/SRCPL/0016-
+17/EBPL/010 dated 12.12.2016 for OHE P-Way work for
+contract values of Rs.13.37 Cr & Rs.13.33 Cr respectively
+(collectively Rs. 26.70.cr.). However, we were required to
+undertake certain works beyond the scope of work under the
+aforesaid work orders and consequently we believe that we are
+entitled for additional cost of about Rs. 8.00 Cr. including GST.
+For this purpose, we have approached VNCPL with the relevant
+document evidence and have requested VNCPL to consider our
+claim for extra work and make payment after verifying our
+claim.
+3. Since an amicable settlement with VNCPL could not be reached
+we have approached the principal employer SRCPL for
+settlement of our issue.
+4. SRCPL is yet to go through the details of the claim for extra
+work. However, pending this as an attempt of amicable
+settlement of this case, they have offered to us an additional all
+inclusive settlement of Rs. 1.70 cr. VNCPL shall return the bank
+guarantee submitted by EBPL as a security towards this said
+advance on commissioning of track along with OHE. We have
+considered and we fully agree the same as full and final
+settlement. The SD if any shall be refunded as agreed upon.
+5. SRCPL has agreed that the settled amount i.e. Rs 1.70 Cr, shall
+be paid as per the terms of payment agreed as under:
+i)
+50% of the due payment shall be released within two
+working days of signing EIG documents.
+ii) 25% of the due payments shall be released within two
+working days of obtaining EIG approval by SECR.
+iii) Balance payment shall be released within two working
+days from the date of commissioning and placement and
+removal of rake with OHE loco ............. ''
+
+8.
+It is noted that following the agreement that was
+reached as per Minutes of the Meeting dated 09.04.2018, the
+respondent itself had paid to the applicant Rs. 1,91,71,970/-
+for GDCL and Rs. 93,50,000/- for VNCPL on 17.04.2018.
+9.
+It is the say of the respondent that it had step in as a
+facilitator to settle the dispute between the applicant with
+GDCL/VNCPL as per clause 11.11 of the General Conditions of
+the Contract and the role of the respondent as a facilitator of the
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+dispute is further clarified from the tripartite agreement dated
+27.06.2018 which was executed between VNCPL, applicant,
+and Respondent wherein it is mentioned that VNCPL and the
+applicant acknowledged and confirmed that the Respondent
+had paid to the applicant an amount of Rs. 95,20,000/- (Rs.
+93,50,000/- and Rs. 1,70,000/- as a TDS) on behalf of the
+VNCPL and to the extent of such payment, the Respondent
+stands discharge towards its payment obligation to VNCPL and
+the balance 50% of the remaining amount shall be paid by
+VNCPL after reconciliation of amount. Relevant paras of
+tripartite
+agreement
+dated
+27.06.2018
+are
+reproduced
+hereunder;
+
+“Now, therefore, the parties hereby agree and this agreement
+witnessed as follows;
+
+1. VNCPL and EBPL hereby acknowledge and confirm that SRCPL
+has made following payments directly to EBPL on behalf of
+VNCPL and to the extent of such payment, SRCPL stand
+discharged towards its payment obligation to VNCPL under the
+contract no SRCPL/Ph-IIB/5700135126 dated 15th May 2015.
+
+Table A: Details of Payment:
+Date of
+payment
+Amount paid to
+EBPL(Rs.)
+TDS deducted and
+deposited in name
+and on account of
+(Rs.)
+Total Payment
+including GST (Rs.)
+17-04-2018
+93,50,000
+1,70,000
+95,20,000
+
+EBPL hereby acknowledge the receipt of aforesaid payment and
+confirms that to the extent of the aforesaid payments, obligation
+of VNCPL to make these payments to EBPL under its agreement
+with VNCPL stand discharged. - Further, VNCPL acknowledge
+and confirm that SRCPL had deducted TDS on the aforesaid
+payment in compliance with the applicable laws and VNCPL
+shall further comply with all the applicable laws including
+requirement of deduction of TDS for the payments made to EBPL
+on its behalf.
+
+That for the time being, without going through the details of the
+claim for extra work, SRCPL offers to pay EBPL an additional all-
+inclusive settlement of Rs.1.70 Cr plus applicable GST
+(hereinafter called as 'settled amount') which has already been
+paid by SRCPL (50% on behalf of VNCPL) as per table A above
+and balance (50%) shall be paid by VNCPL on reconciliation of
+accounts and EBPL agrees to the settled amount as full and final
+settlement of its claim on VNCPL except other than routine GST,
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+TDS & contractual amount reconciliation for the works of
+complete track kilometre executed in both the orders of P-way
+and OHE.
+
+2. THAT VNCPL agrees to the settlement and claims that it has
+given mobilization advances and other recoveries to EBPL which
+are pending and shall be adjusted by VNCPL against the settled
+amount. EBPL agrees for the same and both VNCPL and EBPL
+shall jointly reconcile the account and shall settle the pending
+adjustment. The complete account reconciliation shall be done by
+VNCPL with EBPL for the work finally completed by EBPL.
+
+3. THAT VNCPL agrees to pay the Rs.85 lac (Rupees Eighty-jive lac
+only) plus applicable GST i.e. balance 50% of the settled. amount
+to EBPL after adjustment of the pending recoveries and
+reconciliation of the account and EBPL agrees to the same. After
+account reconciliation, if there is any amount due towards EBPL
+then VNCPL shall pay the balance amount of EBPL ........ ".
+
+10.
+As per clause 11.4 (Appendix- VII, General Terms and
+Conditions) of the GDCL Contract, the applicant will not claim its
+right against the Respondent under any circumstances and
+create contractual obligations of the Respondent towards the
+applicant. As per clause 11.11 of the said contract the
+respondent reserves rights upon written intimation to the
+contractors (GDCL and VNCPL) to make payments due hereunder
+directly to the applicant whenever the respondent has reason to
+believe that the Contractor (s) has not paid or is likely not to pay
+the such supplier (the applicant) and an amount is due on a
+timely basis. The relevant paras of the contract (VNCPL and
+GDCL Contracts) are reproduced hereunder;
+
+“11.4 regardless of whether or not the contractor obtains
+approval from the Employer for a Sub Contractor or whether
+the contractor uses a Sub Contractor recommended by
+Employer, use of a Sub Contractor by the contractor will not
+under any circumstances; (a) give rise to any claim by the
+Contractor against the Employer if such Sub Contractor
+breaches its subcontract or contract with the contractor; (b)
+give rise to any claim by such Sub Contractor against the
+Employer; (c) create any contractual obligation of the Employer
+towards the Sub Contractor; (d) give rise to a waiver by
+Employer of its rights to reject any Defects or deficiencies or
+defective work; or (e) in any way release that Contractor from
+being solely responsible to Employer for the Work to be
+performed under the Contract.”
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+
+“11.11 the Contractor shall make payments to all Sub
+Contractors, unless otherwise specified in the Contract, in
+accordance with the respective agreements between the
+Contractor and its Sub Contractors such that Sub Contractors
+will not be in a position to enforce liens and/or other rights
+against Employer or any of its Affiliates, the Works or any part
+thereof. Contractor shall provide and shall obtain from all Sub
+Contractors and deliver to Employer, waivers of all unpaid
+liens under all applicable Laws. Employer reserves the right,
+upon written intimation to Contractor, to make payments due
+hereunder directly to Sub Contractors of Contractor whenever
+Employer has reason to believe Contractor has not paid or is
+likely not to pay such suppliers amounts due to them on a
+timely basis, provided that Employer shall give the Contractor
+notice prior to making such payments. In the event Employer
+makes such payments to Sub Contractors, Contractor shall
+immediately credit, secure or repay to Employer, the amount
+of such payments."
+
+11.
+In view of the above facts, we are of the considered view
+that the respondent has played a role as a facilitator to settle the
+dispute so that construction of railway siding work is not
+delayed/ hampered. Hence, mere facilitation of the dispute
+cannot create a right in favour of the applicant to file this present
+application against the respondent as it debtor; and as such the
+present section 9 application against the respondent is not
+maintainable.
+12.
+Though we hold that the respondent is not a debtor of the
+applicant, however, we further analyzed the matter from the
+perspective of the pre-existing dispute. In the context it is noted
+that the applicant had issued proforma invoice bearing no.
+EBPL/P.I/272 on 04.01.2019 of Rs. 13,56,72,000/- upon the
+VNCPL too and on that basis the applicant issued a demand
+notice to VNCPL on 06.10.2020. The applicant also issued one
+more proforma invoice with the same invoice no. (bearing no.
+EBPL/P.I/272) on 06.01.2019 of Rs. 22,12,90,900/- upon the
+respondent. The applicant issued a demand notice dated
+01.12.2020 which was delivered to the respondent on
+07.12.2020, along with an invoice of Rs. 22, 12,90,900/-. The
+applicant at para-4 of its rejoinder has stated that once the
+Respondent was agreed to pay the dues no scope remains for
+any to be played by the subsidiary companies (GDCL & VNCPL).
+Meaning thereby, at the one hand the applicant is saying the
+respondent is only liable to pay the dues and on the other hand
+the
+applicant
+issued
+a demand notice
+to VNCPL for
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+Rs.13,56,72,000/-. Hence, the applicant cannot be allowed to
+probate and reprobate on the same fact. Moreover, how two
+invoices of different amounts and dates can be issued to two
+different entities with the same invoice number? So, upon
+considering evidence and material on record, we have noted that
+there is a serious dispute pending between the parties to this
+application, about the existence of the Operational Debt against
+the respondent and its alleged default by the respondent. In view
+of the Hon'ble Supreme Court ruling in the case of “Mobilox
+Innovations Private Limited Versus Kirusa Software Private
+Limited”, (2018) 1 Supreme Court Cases 353:2017 SCC online
+SC 1154: (2018) 1 Supreme Court Cases (Civ) 311 that requires
+details investigation/ inquiry of the disputed facts and for that
+reason too the application cannot be admitted.
+13.
+Accordingly, CP (IB) No. 11 of 2021 stands rejected and
+disposed of.”
+(Emphasis Supplied)
+4.
+The Learned Counsel for the appellant referred to various clauses of the
+General Conditions of Contract between the contractors (GDCL and VNCPL)
+and employer (SRCPL). It is stated that the agreement with terms of the
+contract have been altered by the minutes of meeting held on 09.04.2018
+wherein representatives of the SRCPL, GDCL and the appellant were present.
+4.1
+The Learned Counsel for the appellant also referred to Indemnity Bond,
+specifically, para 4, 5, 6 and 10 of the said Indemnity Bond. Further, he
+referred to emails dated 11.08.2018, written by Mr. Viral Gandhi which
+promised payment of 50% of the due amount within two working days of
+submission of signed documents of phase IIA and 50% on submission of
+signed EIG documents for phase IIA, IIB and IIC. The indemnity bond is
+already reproduced above in the order of the Ld. NCLT.
+4.2
+The Learned Counsel for the Appellant submitted that they have
+dropped their allegations under Section 9 relating to VNCPL, as there existed
+a tripartite agreement between SRCPL, VNCPL and the Appellant. He stated
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+that his claim now relates only to work allocated to GDCL which they have
+completed at the behest of SRCPL.
+4.3
+It was submitted that the work was done on the behest of SRCPL,
+Indemnity Bond was issued to SRCPL and certification of work was obtained
+by SRCPL. The SRCPL had paid 50% of the remaining amount but had failed
+to pay balance 50%. In this context, the Learned Counsel for the Appellant
+referred to the minutes of meeting dated 09.04.2018 (page 45 to 46 of
+Convenience Compilation) and the indemnity bond cum undertaking
+(undated) (page 47 to 52 of the CC). The minutes show that the meeting was
+attended by representatives of SRCPL, GDCL and EBPL. However, it is
+contention of the Appellant that minutes was not signed by GDCL. The
+minutes of said meeting are reproduced below:
+“MINUTES OF MEETING
+Date: 09.04.2018
+Venue: Bilaspur
+Attendees:
+
+SRCPL:UV Phani Kumar (CEO); Kailash Varma: PV Rao: Sanjay
+Pathak; Viral Gandhi; GDCL: J.K. Samaiya.
+
+EBPL: Ajay Agrawal: Jayesh Rawal
+
+Subject: SRCPL Phase-II A(Ch.33-54 km)-P Way and OHE Works
+
+Following were discussed and agreed;
+
+1) EBPL have submitted an indemnity bond cum undertaking
+enclosed
+Herewith.
+2) Detailed discussion were held on EBPL’s extra claims on GDCL
+and finally it was agreed that the collective work order values of
+P-Way and OHE work shall be revised as Rs.26 Cr. The
+differential amount shall be payable to EBPL as mentioned in the
+enclosed bond.
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+3) All other terms and conditions of the work orders issued by GDCL
+to EBPL shall remain unaltered.
+4) EBPL shall signed all the documents and declarations related to
+EIG application immediately on signing of this minutes of
+meetings.
+5) By signing and submitting the EIG application, the termination
+notice issued by GDCL shall stand withdrawn and cancelled.
+
+Sd/-
+
+Sd/- 09.04.2018
+For EBPL
+
+For GDCL
+
+For SRCPL
+
+4.4
+The Learned Counsel for the Appellant submitted that indemnity bond
+has been recognised in the said minutes of meeting and as per para 5 of the
+indemnity bond the liability for payment of the differential Rs. 26 crores less
+the gross value actually paid, was on SRCPL. For easy reference, the
+indemnity bond cum undertaking is reproduced below:
+“1) We, EBPL Ventures Pvt Ltd (for short "EBPL") are willingly
+giving this irrevocable and unconditional indemnity bond-cum-
+undertaking to Sarguja Rail Corridor Pvt Ltd (for short "SRCPL") in
+the following terms.
+2) We state that we were appointed as a sub-contractor by
+Gannon Dunkerley & Co. Ltd (for short "GDCL") for execution of
+work under Work Order No. D/CE/003840 dated 01.08.2015 for
+OHE works and Work Order No. D/CE/003841 dated 01.08.2015
+for P-Way work for contract values of Rs. 10.72 Cr & Rs. 10.55 Cr
+respectively (collectively Rs.21.27 cr.). The said collective value
+was subsequently amended to Rs. 18.06. However, we were
+required to undertake certain works beyond the scope of work
+under the aforesaid work orders and consequently we believe that
+we are entitled for revision of the aforesaid amended value of
+work orders to Rs.31.00 Cr. For this purpose, we have approached
+GDCL with the relevant document evidence and have requested
+GDCL to consider our claim for extra work and make payment
+after verifying our claim.
+3) GDCL has reviewed the documents of additional claims and
+have offered to revise the work order value to Rs 25.50 Cr
+including the additional claim for extra work, as a full and final
+settlement work order price. However, it is not acceptable to us
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+and hence we have approached the Principal Employer SRCPL for
+settlement of our issue.
+4) SRCPL is yet to go through the details of the claim for extra
+work. However, pending this as an attempt of amicable settlement
+of this case, have offered to us a revised all-inclusive contract price
+of Rs 26 Cr plus applicable GST. We have considered and we fully
+agree for settling the revised collective work orders price at Rs 26
+Cr plus applicable GST as full and final settlement amount
+towards all work done by us pursuant to the aforesaid work order.
+SD
+shall
+be
+refunded
+as
+per
+the
+books
+of
+accounts as agreed upon.
+5) SRCPL has agreed that the differential amount i.e. Rs 26 Cr less
+the gross values actually paid and to be paid to or on behalf of
+EBPL, after verification and reconciliation as nor the forms of
+payment agreed as under:
+(i) 50% of the due payment shall be released within two
+working days of signing EIG documents.
+(ii) 25% of the due payments shall be released within two
+working days of obtaining EIG approval by SECR.
+(iii) Balance payment shall be released with in two working
+days from the date of commissioning and placement and
+removal of rake with OHE loco.
+6) EBPL shall sign all documents, applications, declarations,
+indemnities etc. that may be required for obtaining EIG approval
+to the satisfaction of SRCPL.
+7) However, in case EBPL is required to sign any other documents,
+EBPL hereby irrevocably and unconditionally undertakes to do the
+same immediately. If, for whatsoever reason, EBPL is unable to
+sign certain documents, Mr. Sanjay Tiwari of GDCL shall be
+authorised to affix his signature and his signatures shall be
+deemed to be treated as our signature and authorisation on our
+behalf for the purposes of EIG approval and EBPL shall be bound
+by the same.
+8) EBPL will complete their scope of work in all respects, as called
+for vide the above referred contacts, EBPL shall extend all support
+for obtaining the EIG approval.
+9) EBPL confirms that all the materials supplied and consumed in
+the project are as per the required specification and quality
+standard and same have been duly inspected and certified by the
+competent agencies like CORE/RDSO/RITES/Consignee. EBPL
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+confirms that they have provided all inspection certificates and
+wherever the inspection certificates have not been provided, the
+same will be provided within two days of signing of this bond.
+10) EBPL confirms that no substandard work has been executed
+in the project and EBPL fully takes the responsibilities and
+indemnify SRCPL against any loss or damage due to any
+substandard work.
+11) Mr. Ajay Agrawal, the signatory of this indemnity bond to
+SRCPL and GDCL and this bond shall be binding on EBPL, its
+successors and permitted assigns. We have willingly signed this
+indemnity and this is not signed under any undue pressure or
+coercion.
+12) In case of any clarification required in respect to this letter or
+in case of any dispute arising of this letter or related thereto, the
+decision of SRCPL shall be final and binding on EBPL without any
+protest or demur.”
+
+4.5
+On specific query by the Bench, the Learned Counsel for the Appellant
+submitted that appellant’s contract with GDCL continued. This is also
+recognised in para 5 of the MoM which records that the termination notice
+issued by GDCL stands withdrawn and cancelled. It was submitted by
+Learned Counsel for the Appellant that as per said indemnity bond the
+balance 50% is yet to be paid by SRCPL, which is cause for filing of application
+under Section 9 by the Appellant.
+4.6
+The Learned Counsel for the Appellant referred to the email
+correspondence with Mr. Viral Gandhi who was the project manager on behalf
+of Howe Engineering Projects (I) Pvt. Ltd. who were entrusted the project
+management consultancy of the project by SRCPL. It was submitted that Mr.
+Viral Gandhi, in the email dated 11.04.2018 had stated that 50% of the due
+payment shall be released within two working days of signing of EIG
+documents for Ph-IIA and 50% of the due payment shall be released within
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+two working days of signing of EIG documents for Ph-IIB & IIC. It was
+submitted that EBPL was registered as a vendor vide email dated 10.04.2018
+with the Adani Group.
+4.7
+It was submitted that residual work and residual payment, as per
+minutes of meeting dated 09.04.2018 constitute separate side contract. It was
+submitted that appellant had carried out all the activities required as per para
+5 (i), (ii) and (iii) of Indemnity Bond including signing of EIG documents,
+obtaining EIG approval by SECR (South East Central Railway) commissioning
+and placement and removal of rake with OHE loco.
+4.8
+The Learned Counsel relied on SECR certificate dated 29.08.2020
+which approved EBPL Ventures Pvt. Ltd. (Appellant herein) as electrical
+contractor for OHE work of SRCPL. The said certificate records that the OHE
+lines were charged with A.C. supply on 10.05.2018 for electrical traffic service
+and now is working satisfactory.
+4.9
+The Learned Counsel for the Appellant also referred to similar certificate
+dated 12.07.2018 wherein the Appellant was certified as approved electrical
+contractor for OHE work of SRCPL. He further referred to email dated
+11.05.2019 from the Adani Group inquiring whether the Appellant was a
+MSME under MSME Act. This email was replied by the Appellant on
+12.05.2019 confirming that it is a registered MSME organization.
+4.10 The Learned Counsel for the Appellant also referred to invoices for the
+work done and further submitted that no payment has been received against
+two invoices dated 14.05.2018, being EBPL/P.I/268 and EBPL/P.I/269 for
+Rs. 97,60,275.84 each. It was submitted that the amount due from SRCPL
+relating to the contractor GDCL in itself is more than threshold value of Rs. 1
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+crore specified under Section 4 of the IBC, 2016 and thus the application
+under Section 9 should have been admitted.
+5.
+The Learned Sr. Counsel for the Respondent submitted that two
+identical contracts were made with GDCL and VNCPL wherein portions of
+work relating to the new railway line was contracted by SRCPL to GDCL and
+VNCPL. In the documents SRCPL is referred to as “Employer” and GDCL and
+VNCPL were referred as “Contractors”. GDCL and VNCPL sub-contracted the
+work to the appellant, EBPL.
+5.1
+Subsequently, due to differences between GDCL and EBPL and between
+VNCPL and EBPL the completion of the project was getting delayed. SRCPL
+facilitated discussions and identical minutes were drawn with EBPL, GDCL
+and SRCPL, and between EBPL, VNCPL and SRCPL. Identical second set of
+minutes were drawn. A tripartite agreement was signed with VNCPL, the
+appellant and SRCPL. Though, in its application before the Ld. NCLT under
+Section 9, the appellant had also taken up alleged debts relating to VNCPL
+but the said allegations are now dropped in the appellate proceedings as
+admitted by the Learned Counsel for the appellant, there by recognising that
+it was always responsibility of VNCPL to pay to EBPL.
+5.2
+Similar understanding existed regarding payments due between GDCL
+and EBPL. Though the minutes of the meeting dated 14.10.2019 were initially
+not signed by the applicant, it was only on 06.04.2020 that the appellant
+returned the signed minutes vide email dated 06.04.2020. It was essentially
+because of the delay in returning the signed minutes that the tripartite
+agreement between GDCL, EBPL and SRCPL was not signed on lines of the
+tripartite agreement already executed between VNCPL, EBPL and SRCPL.
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+5.3
+It is the submission of the Learned Sr. Counsel for the Respondent that
+Appellant had itself withdrawn allegations relating to VNCPL, and because
+GDCL MoM is on identical footing, on this ground itself the appeal should be
+dismissed.
+5.4
+Reference was made to the minutes of meeting dated 14.10.2019 placed
+at page No. 101 to 104 of the Convenience Compilation wherein point no. 4 of
+the agenda was as follows:
+“Bases the minutes of meeting dated 10th April, 2018 it was agreed
+between the parties M/s GDCL and M/s EBPL that M/s GDCL
+will make payments to M/s EBPL as per following
+i. INR 1,74,29,063
+ii. INR 87,14,532
+iii. INR 87,14,532
+Against Point No. 4(i) as above, payment of INR 1,95,20,551 (i.e
+including GST) was made by M/s SRCPL on behalf of M/s GDCL
+to M/s EBPL (dated 17th April, 2018) and balance instalments as
+per point 4(ii) and point 4(iii) are yet to be paid by M/s GDCL”
+(Emphasis Supplied)
+After discussion, as per the said Minutes, the following was decided:
+“Agenda-4
+Action: M/s SRCPL will make above two payments (i.e including
+GST) to M/s EBPL as per agenda No.4(ii) on behalf of M/s GDCL
+within 10 days of agreed date by M/s GDCL as per agenda 1 as
+above i.e. 21st October, 2019 through M/s EBPL has requested
+for processing of payments before 25th October, 2019 on which
+SRCPL has conveyed that it will be attempted on fast track basis
+on receipt of confirmation as per agenda 1.”
+(Emphasis Supplied)
+5.5
+The Learned Sr. Counsel referred to P.S-1 of MoM dated 14.10.2019
+wherein the following is recorded:
+“P.S:1.
+EBPL requests to SRCPL for release of the due balance
+GST amount of 1,80,00,000/- (Rs. One crore eighty Lakhs only) on
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+behalf of GDCL as EBPL shall give GST Invoice to GDCL for
+availing GST credit of the same amount.”
+
+These minutes are duly signed by Mr. Ajay Agarwal on behalf of EBPL.
+5.6
+It was submitted that payments, if any, made or promised by SRCPL
+were on behalf of GDCL. There were no contractual obligation of SRCPL to pay
+the amounts to EBPL. Reference was made to the general condition of the
+contract between SRCPL and GDCL, and it was submitted that identical
+clauses were also in the contract with VNCPL.
+5.7. It was further submitted that basic responsibility for completion of
+project was on SRCPL and since the conduct of the appellant was holding up
+the completion of project, SRCPL only acted as a facilitator and there was no
+direct contractual obligation of SRCPL to pay any amount to EBPL.
+5.8
+The Learned Sr. Counsel referred to minutes of meeting dated
+09.04.2018 and submitted that simultaneously an exercise was done to
+reconcile the accounts and as per the document placed at page 53 of
+Convenience Compilation, there were differences in accounts and the
+amounts were subject to reconciliation. This sheet has been signed by J.K.
+Samaiya on behalf of GDCL and Mr. Ajay Agarwal on behalf of EBPL on
+10.04.2018.
+5.9
+It was submitted that pendency of reconciliation of accounts in itself is
+a pre-existing dispute, as held in the case of “Amit Wadhwani v. M.s Global
+Advertisers [Company Appeal (AT) (Ins.) No. 616 of 2021]”.
+5.10 The Learned Sr. Counsel referred to the tripartite agreement with
+VNCPL wherein in clauses 2 and 3 it has been admitted that there is
+settlement of mobilization advance and other amounts. Similar settlement
+was to be done with GDCL also. Further stated that reconciliation exercise
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+was done by an independent Chartered Accountant Firm, and its report is
+placed at 248 of the Convenience Compilation. The Chartered Accountant’s
+Firm, on examination of accounts, have given the following conclusions:
+
+“Overall conclusion:
+1. Actual payment released by GDCL to EBPL till date as a direct
+payment mode, i.e. excluding the direct payment made by SRCPL
+to EBPL on behalf of GDCL
+
+a. Pre GST regime:
+i.
+Rs. 67,173,294 (According to GDCL statement)
+ii.
+Rs. 67,173,294 (Accepted by EBPL also)
+b. Post GST regime:
+i.
+Rs. 37,549,629 (According to GDCL statement)
+ii.
+Rs. 37,549,629 (Accepted by EBPL also)
+2. Actual payment released by GDCL on behalf of EBPL as in-direct
+payment mode (payment released to EBPL's supplier /
+contractors/labours etc)
+a. Post GST regime:
+i.
+Rs. 67,396,576 (According to GDCL statement)
+ii.
+Rs. 67,396,576 (Accepted by EBPL also)
+3. Direct payment made by SRCPL to EBPL on behalf of GDCL
+i. Rs. 19,520,551 (According to SRCPL, 50% paid as per
+indemnity bond provided by EBPL)
+ii. Rs. 19,520,551 (Accepted by EBPL also)
+4. During the course of our discussion with EBPL and GDCL team,
+it was observed that various amounts were debited to GDCL in
+the books of EBPL on account of services given/material supplied
+without valid GST invoices (in case of post GST period). All the
+amounts debited should be substantiated with relevant GST
+invoices; however, till date we have not received the copies of
+valid GST invoices from EBPL team. Further it has already
+resulted in delay in deposit of GST liability by EBPL.
+5. We have also been provided the minutes signed dated April 10,
+2018 meeting wherein between GDCL and EBPL agreed for the
+total value of contracts D/CE/003840 dated August 1,2015 and
+D/CE/003841 dated August 1, 2015 pertaining to Phase 2A for
+OHE and PWAY works respectively as INR 26,00,00,000
+(excluding GST).
+It was duly discussed and concluded in the meeting held on
+October 14, 2019 at SRCPL's office that EBPL shall provide us
+adequate supporting evidences/invoices in respect of certain
+
+[PAGE 21]
+21
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+payments or other adjustments which are claimed by EBPL from
+GDCL in relation to such project as mentioned in minutes signed
+April 10, 2018.However EBPL has not provided us any such
+information to us till now.
+6. As per EBPL ledger in the books of GDCL, total amount of Rs.
+71,240,158 is debited to EBPL by GDCL in respect of the
+expenditure incurred by GDCL in relation to the project. As per
+GDCL, such amount is debited to EBPL because such work was
+supposed to be carried out by EBPL as per the agreed terms of
+contract, however they have not executed such work.
+
+Please refer Annexure 1 in relation to the details verified and
+supporting documents received for Rs. 71,240,158.
+7. GDCL and EBPL: Account Reconciliation Summary for SRCPL Ph-
+IIA
+
+[PAGE 22]
+22
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+* As per information and explanations given to us, there is
+pending work amounting to Rs. 2.30 crores which is not yet
+executed by either parties i.e. GDCL and EBPL. Such work was
+required to be executed by these parties in accordance with the
+contract terms.
+
+** As per information and explanations given to us, total payment
+made to EBPL includes payment towards applicable GST which
+is in accordance with the terms and conditions specified in the
+contract.
+
+8. Based on the information provided to us and as tabulated above
+in point no.7, no amount is payable to EBPL in the said matter.”
+
+(Emphasis Supplied)
+5.11 It was submitted that as per the report of the independent Chartered
+Accountant Firm, no amount is payable to EBPL.
+5.12 It was further submitted that even if Employer SRCPL has made some
+payments to the sub-contractor on behalf of the contractor, it can not to be
+said to be a new contract or novation of contract. Learned Sr. Counsel referred
+to the judgment of Hon’ble Supreme Court in the case of Essar Oil Ltd. v.
+Hindustan Shipyard Ltd. & Others, (2015) 10 SCC 642, paras 24, 25, 27 and
+29 to support his contentions. The relevant part of the judgment is reproduced
+below:
+“24. It is true that ONGC had made payment to the appellant
+directly on several occasions. Upon perusal of the correspondence,
+we find that some understanding, but not amounting to any
+agreement or contract, was arrived at between ONGC and the
+respondent for making direct payment to the appellant, possibly
+because the respondent was not in a position to make prompt
+payments to the appellant. It also appears that on account of the
+delay in making payment to the appellant, the work of ONGC was
+likely to be adversely affected. ONGC was interested in getting its
+work done promptly and without any hassles. In the
+circumstances, upon perusal of the correspondence, which had
+taken place between ONGC and the respondent, it is clear that so
+
+[PAGE 23]
+23
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+as to facilitate the respondent, ONGC had made payments on
+behalf of the respondent to the appellant directly.
+25. Simply because some payments had been made by ONGC to
+the appellant, it would not be established that there was a privity
+of contract between ONGC and the appellant and only for that
+reason ONGC cannot be saddled with a liability to pay the amount
+payable to the appellant by the respondent.
+.........
+27. We are in agreement with the view expressed by the majority
+of the Arbitral Tribunal. In our opinion, the High Court had
+committed an error by not considering the above facts and by
+observing that the appellant will have to take legal action against
+ONGC for recovery of the amount payable to it. If one looks at the
+relationship between the appellant and the respondent, it is very
+clear that the respondent had given a sub-contract to the appellant
+and in the said agreement of sub-contract, ONGC was not a party
+and there was no liability on the part of ONGC to make any
+payment to the appellant. Moreover, we could not find any
+correspondence establishing contractual relationship between
+ONGC and the appellant. In the circumstances, ONGC cannot be
+made legally liable to make any payment to the appellant. As
+stated hereinabove, only for the sake of convenience and to get
+the work of ONGC without any hassle, ONGC had made payment
+to the appellant on behalf of the respondent without incurring any
+liability to make complete payment on behalf of the respondent.
+..........
+29. For the aforestated reasons, we do not agree with the view
+expressed by the High Court and the impugned judgment'
+delivered by the High Court is set aside. ONGC shall not be liable
+to make payment, as rightly decided by the Arbitral Tribunal, to
+the appellant but the payment shall have to be made by the
+respondent, who had given a sub-contract to the appellant.
+Majority view of the Arbitral Tribunal on the above issue is
+confirmed and the view of the High Court is not accepted. The
+respondent shall accordingly make payment to the appellant.”
+
+5.13 The Learned Sr. Counsel for the Respondent submitted that proceeding
+under Section 9 of the IBC, 2016 are summary proceedings and the Tribunal
+cannot go beyond the written documents and contracts. He drew attention to
+the facts that some amount is due from EBPL to GDCL, and GDCL has
+
+[PAGE 24]
+24
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+initiated proceedings under Section 138 of Negotiable Instruments Act
+regarding bounced cheques which is still pending.
+6.
+In its rejoinder, the Learned Counsel for the appellant stated that
+minutes of meeting dated 14.10.2019 are not signed by GDCL or SRCPL
+therefore should not be used as evidence. In their own written submissions
+before the Ld. NCLT, the respondents had refused to acknowledge the said
+minutes stating that due to long delay in submission of the minutes it is not
+certain as to what transpired in the said meeting. Since there was tripartite
+agreement with VNCPL, the appellant had withdrawn its allegations relating
+to VNCPL. However, lack of such tripartite agreement with GDCL is evidence
+that these transactions were different. The Learned Counsel for the Appellant
+reiterated its submissions that since there was a proposal to make further
+50% payment, they were asked to undertake Vendor registration and also
+regarding their MSME registration, and these actions indicated that the
+appellant had become a direct sub-contractor of SRCPL.
+7.
+Heard and perused the records.
+7.1
+It is an admitted fact in this case Sarguja Rail Corridor Pvt Ltd (SRCPL)
+had got the contract from railways to build railway line on behalf of South
+East Central Railway (SECR) and that SRCPL, referred as Principal Employer,
+awarded separate contracts to Gannon Dunkerley and Company Limited
+(GDCL) and M/s Vijay Nirman Company Private Limited (VNCPL), referred to
+as contractors, for separate sections of the railway line. The contractors GDCL
+and VNCPL further sub- contracted the work to appellant, EBPL Ventures Pvt
+Ltd (EBPL), referred to as sub-contractor.
+7.2
+It is apparent that the work of the railway line was not being completed
+and it was not being put to operational use because of differences between
+
+[PAGE 25]
+25
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+sub-contractor EBPL and contractors GDCL and VNCPL. The position
+regarding complacency of work is best explained by contemporaneous email
+dated 29.03.2018 written by Howe India, the project management consultant
+to GDCL wherein the project management consultant wrote as under:
+“Please note that GDCL has failed to resolve long-pending
+dispute with their subcontractor, EBPL which has adversely
+impacted the EIG approval and SRCPL is unable to utilise the
+track by electric traction. This delay will further cause us huge
+financial losses. We are constrained to conduct meeting directly
+with your subcontractor and make an effort to resolve the
+disputes. We continuously kept stressing that it was most urgent
+for GDCL to resolve the issue on topmost priority. However, we
+regret to state that GDCL could not conclude.
+In your absence we will try to do our best to resolve the disputes.
+Since this dispute is between you and your subcontractor, any
+cost implication resulting from the resolution, if any, shall be
+entirely borne by GDCL. The said implication would also include
+the expenses that would be incurred by SRCPL on account of
+non-availability of electrical lines for operations. The alternative
+solution of terminating this subcontractor and engaging alternate
+subcontractor at this critical stage of the project may lead to
+multiple complexities and also we don't have sufficient time that
+would be required for conclusion of matter through this
+alternative.
+Nevertheless we will inform you about the decision that would
+be taken at your risk and cost.”
+(page 304 of Convenience Compilation)
+7.3
+The principal employer SRCPL stepped in as facilitator and tripartite
+meetings were held on 09.04.2018 and 14.10.2019 wherein representatives
+of sub-contractor, contractor and the principal employer were present. In the
+
+[PAGE 26]
+26
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+case of VNCPL, the process was completed and after the minutes of meeting,
+tripartite agreement was signed wherein it is clearly spelt out that payment
+was to be made by VNCPL, or on its behalf. Though the appellant had included
+the amount involved in the transaction with VNCPL as part of the operational
+debt in its application before Ld. NCLT under Section 9 of the IBC, 2016, and
+in the proceedings before the Ld. NCLT, in the present appeal the appellant
+has withdrawn its allegations regarding VNCPL sub-contract, and as recorded
+in para 4.2 above, the Learned Counsel for the appellant submitted that they
+have dropped the allegations relating to VNCPL and their claim now relates
+only to work allocated by GDCL.
+7.4
+We have perused the minutes of meeting dated 09.04.2018 relied upon
+by the appellant in its support. The said minutes are reproduced in para
+4.3(supra), and are not being reproduced for sake of brevity.
+7.5
+As per the minutes of meeting, the meeting was attended by
+representatives of SRCPL, GDCL and EBPL. The minutes record that EBPL
+has submitted an Indemnity Bond and the differential amount shall be
+payable to EBPL. However, nowhere it is mentioned as to who shall make the
+said payment. The minutes of the meeting also record that all other terms and
+conditions of the work orders issued by GDCL to EBPL shall remain un-
+altered and on signing of the EIG application, the termination notice issued
+by GDCL shall stand withdrawn and cancelled.
+7.6
+We also note that on our specific query, the Learned Counsel for the
+appellant fairly admitted that appellant’s contract with GDCL continued, as
+termination notice issued by GDCL stood withdrawn and cancelled.
+7.7
+We note that another meeting was held between EBPL, GDCL and
+SRCPL on 14.10.2019. The minutes of this meeting have been signed only by
+
+[PAGE 27]
+27
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+EBPL, though belatedly. The minutes of meeting dated 14.10.2019, as signed
+by the appellant, the following is noted in point no. 4 of the agenda:
+“Bases the minutes of meeting dated 10th April, 2018 it was agreed
+between the parties M/s GDCL and M/s EBPL that M/s GDCL
+will make payments to M/s EBPL as per following
+iv. INR 1,74,29,063
+v. INR 87,14,532
+vi. INR 87,14,532
+Against Point No. 4(i) as above, payment of INR 1,95,20,551 (i.e
+including GST) was made by M/s SRCPL on behalf of M/s GDCL
+to M/s EBPL (dated 17th April, 2018) and balance instalments as
+per point 4(ii) and point 4(iii) are yet to be paid by M/s GDCL”
+(Emphasis Supplied)
+After discussion, the following was decided in the said meeting:
+“Agenda-4
+Action: M/s SRCPL will make above two payments (i.e including
+GST) to M/s EBPL as per agenda No.4(ii) on behalf of M/s GDCL
+within 10 days of agreed date by M/s GDCL as per agenda 1 as
+above i.e. 21st October, 2019 through M/s EBPL has requested
+for processing of payments before 25th October, 2019 on which
+SRCPL has conveyed that it will be attempted on fast track basis
+on receipt of confirmation as per agenda 1.”
+(Emphasis Supplied)
+7.8
+We have also noted that in PS-I of minutes of meeting dated 14.10.2019,
+it is admitted that the GST amount shall be released on behalf of GDCL as
+EBPL has given GST invoices to GDCL. The minutes of the meeting dated
+14.10.2019 are duly signed by Mr. Ajay Agrawal on behalf of EBPL and the
+Appellant is not entitled to refute or challenge the correctness of these
+minutes. From the facts of this case, it is apparent that SRCPL had made
+earlier payments on behalf of GDCL.
+7.9
+We also note that in the original contract between SRCPL and the
+contractors GDCL and VNCPL, in the General Conditions of Contract (GCC) it
+has been recorded in paras 11.4 and 11.11 as under:
+
+[PAGE 28]
+28
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+“11.4 regardless of whether or not the contractor obtains
+approval from the Employer for a Sub Contractor or whether the
+contractor uses a Sub Contractor recommended by Employer, use
+of a Sub Contractor by the contractor will not under any
+circumstances; (a) give rise to any claim by the Contractor
+against the Employer if such Sub Contractor breaches its
+subcontract or contract with the contractor; (b) give rise to any
+claim by such Sub Contractor against the Employer; (c) create
+any contractual obligation of the Employer towards the Sub
+Contractor; (d) give rise to a waiver by Employer of its rights to
+reject any Defects or deficiencies or defective work; or (e) in any
+way release that Contractor from being solely responsible to
+Employer for the Work to be performed under the Contract.”
+
+11.11 the Contractor shall make payments to all Sub
+Contractors, unless otherwise specified in the Contract, in
+accordance with the respective agreements between the
+Contractor and its Sub Contractors such that Sub Contractors
+will not be in a position to enforce liens and/or other rights
+against Employer or any of its Affiliates, the Works or any part
+thereof. Contractor shall provide and shall obtain from all Sub
+Contractors and deliver to Employer, waivers of all unpaid liens
+under all applicable Laws. Employer reserves the right, upon
+written intimation to Contractor, to make payments due
+hereunder directly to Sub Contractors of Contractor whenever
+Employer has reason to believe Contractor has not paid or is
+likely not to pay such suppliers amounts due to them on a timely
+basis, provided that Employer shall give the Contractor notice
+prior to making such payments. In the event Employer makes
+such payments to Sub Contractors, Contractor shall immediately
+credit, secure or repay to Employer, the amount of such
+payments."
+
+(Emphasis Supplied)
+7.10 A bare perusal of the clauses 11.4 and 11.11 indicates that the prime
+responsibility of payment to sub-contractor lies on the contractor with the
+employer reserving its right, with intimation to contractor, to make payments
+due to sub-contractor, whenever employer has reason to believe contractor
+has not made the payment on a timely basis, though these payments shall be
+made on behalf of the contractor and that the contractor is required to
+immediately credit, secure or repay the amount of such payments to the
+
+[PAGE 29]
+29
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+principal employer. It is clearly recorded that under no circumstances the
+sub-contractor can make a claim against the employer.
+7.11 The minutes of the meeting dated 09.04.2018 nowhere record that
+SRCPL has taken over the responsibility of payment, as the payer is not
+identified. The unilateral Indemnity Bond given by EBPL records in para 11,
+that the Indemnity Bond is given both to SRCPL and GDCL, and it is binding
+on EBPL.
+7.12 We note that a similar issue was considered by the Hon’ble Supreme
+Court in M/s Essar Oil Limited v. Hindustan Shipyard Ltd. & Ors. in Civil
+Appeal Nos. 3353 and 3355 of 2005 wherein ONGC, as principal employer,
+had entered into a contract with Hindustan Shipyard Ltd, which in turn has
+entered into a sub-contract with M/s Essar Oil Limited (the appellant in both
+the appeals). In paragraphs 24 and 25 of the said judgment, the Hon’ble
+Supreme Court has noted as under:
+24.
+It is true that the ONGC had made payment to the
+appellant directly on several occasions. Upon perusal of the
+correspondence, we find that some understanding, but not
+amounting to any agreement or contract, was arrived at between
+the ONGC and the respondent for making direct payment to the
+appellant, possibly because the respondent was not in a position
+to make prompt payments to the appellant. It also appears that
+on account of the delay in making payment to the appellant, the
+work of the ONGC was likely to be adversely affected. The ONGC
+was interested in getting its work done promptly and without any
+hassles.
+In
+the
+circumstances,
+upon
+perusal
+of
+the
+correspondence, which had taken place between the ONGC and
+the respondent, it is clear that so as to facilitate the respondent,
+the ONGC had made payments on behalf of the respondent to
+the appellant directly.
+25.
+Simply because some payments had been made by the
+ONGC to the appellant, it would not be established that there
+was a privity of contract between the ONGC and the appellant
+and only for that reason the ONGC cannot be saddled with a
+
+[PAGE 30]
+30
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+liability to pay the amount payable to the appellant by the
+respondent.”
+
+(Emphasis supplied)
+7.13 The said judgment of the Hon’ble Supreme Court has been followed by
+this Tribunal in the case of Hardwin Construction Pvt. Ltd. v. ONGC Petro
+Additions Ltd., (2022) ibclaw.in 223 NCLAT wherein it was held that only
+limited liability to make payment was accepted by the Corporate Debtor
+subject to certification of the bills by the original contractor, the Corporate
+Debtor cannot be treated as substituted in place of original contractor.
+7.14 This Tribunal in the case of Sterling and Wilson Private Limited v.
+Embassy Energy Private Limited in Company Appeal (AT) (CH) (Ins.) No. 161 of
+2022 has followed the decision of Hon’ble Supreme Court in M/s Essar Oil
+Limited v. Hindustan Shipyard Ltd. on similar facts and held that there is no
+privity of contract between the appellant and respondent. It was held in para
+14 and 15 of the said judgment, as under:
+14.
+It is clear from the record that there are no ‘goods and
+services’ supplied directly by the ‘Operational Creditor’ to the
+‘Respondent’ herein and therefore it cannot be said that there is
+any ‘Operational Debt’ between the ‘Operational Creditor’ and
+the ‘Respondent’ herein. Merely because the ‘owner’ had given a
+bona fide assurance that if IEDCL fails to pay the amount they
+would pay the same on their behalf, the amount will not fall
+within the definition of ‘Operational Debt’ as defined under
+Section 5(21) of the Code. Learned Sr. Counsel for the
+Respondent submitted that all payments ‘due and payable’ by
+the ‘Respondent’ towards ISPL were made and discharged. The
+Hon’ble Supreme Court in the matter of ‘Essar Oil Limited’ Vs.
+`Hindustan Shipyard Ltd. & Ors.’, has held that when a
+‘principal employer’ grants a contract to a Construction Company
+the sub-Contractors cannot sue the ‘principal employer’ for any
+issues, if payable, as there is no ‘privity of contract’ between the
+sub-Contractors and the ‘principal employer’.....”
+15.
+This Tribunal is of the considered view that any promise
+made in the letter dated 17.10.2018, specifically having regard
+
+[PAGE 31]
+31
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+to Clause 6.1.4 of the ‘Agreement for Civil Works and
+Construction’ entered into between Embassy Energy Private
+Limited and ISPL, whereby and whereunder, it was clearly
+specified that the sub-Contractor, would not have any
+contractual relationship with the owner and would not be entitled
+to prefer any ‘Claims’ against the owner, these amounts claimed
+cannot fall within the definition of ‘acknowledgement of debt’ in
+the absence of any contractual relationship between the
+`Operational Creditor’ and the ‘Respondent’ herein.”
+
+7.15 From the facts of this case as narrated above, and in the light of judicial
+pronouncements cited above, it can be said that there was no privity of
+contract between SRCPL and EBPL and it cannot be said that SRCPL had
+taken over the liability of GDCL in any manner.
+7.16 The Ld. NCLT has also, alternatively, given its finding on the pre-
+existing dispute. We find that accounts between the contractor GDCL and
+sub-contractor EBPL were not reconciled and this fact was recorded and
+signed on 10.04.2018 by both the parties (page no. 53 of Convenience
+Compilation). Clause 4 and 5 of the Indemnity Bond records that claim for
+extra work and payments are subject to verification and reconciliation.
+7.17 We note that subsequently on 21.01.2019, GDCL wrote letter to EBPL
+wherein GDCL stated that they had provided man and material for executing
+part of the project which was in the scope of work of EBPL and are also
+incurring expenditure during defect liability period. GDCL requested EBPL to
+refund excess amount of Rs. 10.6 crores which was over paid to EBPL at the
+earliest.
+7.18 We also note that subsequently an independent Chartered Accountant’s
+Firm had examined the various claims and counter claims and had given a
+report placed at page 255 of Convenience Compilation (reproduced in para
+
+[PAGE 32]
+32
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+5.10 supra) wherein they have concluded that no amount is outstanding
+towards the complainant EBPL.
+7.19 The pendency of reconciliation of account has been treated as a pre-
+existing dispute by this Tribunal in Amit Wadhwani v. M.s Global Advertisers
+[Company Appeal (AT) (Ins.) No. 616 of 2021], (2022) ibclaw.in 480 NCLAT,
+wherein it has been noted as under:
+“14. Besides other documents letter dated 11th March, 2020
+addressed to the Corporate Debtor issued on behalf of the
+Operational Creditor makes it clear that for reconciliation of
+account date was fixed to 14th March, 2020. However, record
+shows that thereafter no reconciliation of accounts had taken
+place in between the parties. It goes without saying that in
+accounting, reconciliation is the process of ensuring that two sets
+of records are in agreement. Accordingly it can be inferred that
+in absence of reconciliation of accounts there was pre-existing
+dispute between the parties. ...”
+
+7.20 From various correspondences on record it is apparent that there was
+a pre-existing dispute relating to payment due to EBPL. GDCL on 21.10.2019
+had made a claim of excess payment of Rs. 10.6 crore to EBPL and had sought
+its refund.
+7.21 We also note that the respondent is a solvent company and is a going
+concern. It was held in the Anita Jindal v. Jindal Buildtech Pvt. Ltd. & Anr.,
+Company Appeal (AT) (Ins.) No. 512 of 2021 that IBC cannot be used to
+penalise solvent companies.
+7.22 Considering the conspectus of facts of this case and the judicial
+guidelines though the judgments cited above, we hold that the appellant has
+not been able to establish any privity of contract with the respondent. We also
+
+[PAGE 33]
+33
+
+Company Appeal (AT) (Insolvency) No. 1305 of 2022
+note that there was pre-existing dispute regarding reconciliation of accounts
+between the sub-contractor and the contractor. We are therefore unable to
+find any reason to interfere with the impugned order. For the forgoing reasons,
+this appeal is dismissed, being devoid of merits. All pending IAs, if any, are
+closed. No order as to costs.
+
+[Justice Yogesh Khanna]
+Member (Judicial)
+
+[Mr. Ajai Das Mehrotra]
+Member (Technical)
+
+Place: New Delhi
+Dated: 01.08.2025
+Ram N.

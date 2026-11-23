@@ -1,0 +1,15 @@
+PyMuPDF>=1.24
+torch>=2.2
+transformers>=4.40
+accelerate>=0.30
+datasets>=2.18
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+tqdm>=4.66
+sentencepiece>=0.2
+jsonlines>=4.0
+# Optional OCR: install Tesseract separately and then install pytesseract.
+# pytesseract>=0.3.10
+# Optional 54B backend:
+# vllm>=0.5

@@ -1,0 +1,336 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+[Arising out of the Impugned Order dated 13.01.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench
+in C.P.(IB) No. 787(MB)/C-II/2022]
+In the matter of:
+Royal Construction
+Having its office at:
+Rohit Villa, 12 Patel Colony,
+Gandhinagar Main Road,
+Jamnagar-3610008
+
+...Appellant
+
+Versus
+
+Gannon Dunkerley & Company Limited
+Having its Registered office at:
+New Excelsior Building, 3rd Floor,
+A.K. Nayak Marg, Fort, Mumbai,
+Maharashtra-400001
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Yashwardhan, Mr. S. Sukumaran, Mr. Anand
+Sukumar and Mr. Pranav Das, Advocates.
+
+For Respondent
+: Mr. Amir Arsiwala and Mr. Rahul Gupta, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+13.01.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench) in
+C.P.(IB) No. 787(MB)/C-II/2022. By the impugned order, the Adjudicating
+
+[PAGE 2]
+Page 2 of 8
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+Authority has dismissed the Section 9 application filed by the Operational
+Creditor. Aggrieved by the impugned order, the present appeal has been
+preferred by the Appellant-Operational creditor.
+2. Coming to the brief factual matrix, a Section 9 petition was filed by Royal
+Construction-Operational Creditor seeking initiation of CIRP against Gannon
+Dunkerley & Company Ltd.-Corporate Debtor for an alleged outstanding debt of
+₹10.18 crore arising out of multiple work orders issued by the Corporate Debtor
+between 2009 and 2018. The Operational Creditor had sent three Section 8
+demand notices on 17.08.2020, 15.09.2020 and 27.01.2022.The Corporate
+Debtor disputed the claims raised by the Operational Creditor on grounds of
+poor work quality; project delays; abandonment of projects etc. besides raising
+the ground that the invoices basis which the claims were raised are time-barred.
+The Adjudicating Authority dismissed the Section 9 petition both on grounds of
+pre-existing dispute and on grounds that the date of default fell within the
+Section 10A period rendering the petition non-maintainable. Aggrieved by this
+impugned order, the Appellant has come up in appeal.
+3.
+Making his submissions, the Ld. Counsel for the Appellant submitted that
+the Corporate Debtor had issued multiple work orders in favour of the Appellant
+for various projects including BHEL Sikka Site, Package-O and Package-17 of
+Madhya Pradesh Major District Roads Upgradation Project. The Appellant had
+successfully executed and completed the assigned work. However, the Corporate
+Debtor made only partial payments and failed to clear the full dues despite
+repeated reminders from the Operational Creditor. As the outstanding amount
+stood at ₹10,18,16,863/-, the Appellant issued three demand notices under
+
+[PAGE 3]
+Page 3 of 8
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+Section 8 of IBC, the last one being on 27.01.2022. Since the Corporate Debtor
+did not make good the outstanding debt, the Section 9 application was filed by
+the Appellant which was erroneously rejected by the Adjudicating Authority.
+
+4.
+It was vehemently contended that the Adjudicating Authority held the
+section 9 petition to be non-maintainable by misapplying Section 10A of the IBC.
+It was asserted that the Adjudicating Authority had failed to appreciate that the
+dates of default were inadvertently and erroneously shown by the Appellant in
+Part IV of Form 5 as 03.05.2020 for BHEL Sikka Site; as 15.08.2020 for Package-
+O and 25.11.2020 for Package-17 of the Section 9 application. It was contended
+that Adjudicating Authority should have considered their pleadings and
+examined the documents on record to determine the actual date of default
+instead of relying on the date of default reflected in the demand notice by the
+Appellant by mistake.
+5.
+We have duly considered the arguments advanced by the Learned Counsel
+for the Appellant and perused the records carefully.
+6.
+The short issue for our consideration is the maintainability of the present
+Section 9 application in the backdrop of the statutory provision contained in
+section 10A of the IBC.
+7.
+At the very outset, it would be prudent to refer to the details of the
+operational debt claimed by the Operational Creditor in Part IV of Form 5 as
+placed at page 192- 193 of Appeal Paper Book (‘APB’ in short). The particulars
+are as extracted below:
+
+[PAGE 4]
+Page 4 of 8
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+PART IV
+
+PARTICULARS OF OPERATIONAL DEBT
+
+1. TOTAL AMOUNT OF DEBT,
+DETAILS OF TRANSACTION
+ON ACCOUNT OF WHICH
+DEBT FELL DUE, AND THE
+DATE FROM WHICH SUCH
+DEBT FEL LDUE
+Total Amount Due from Gannon
+Dunkerley
+&
+Co.
+-Ltd.
+is
+Rs.
+10,18,16,863/- (Rupees Rupees Ten
+Crores
+Eighteen
+Lakhs
+Sixteen
+Thousand Eight hundred Sixty three
+Only)
+
+a) Out of which Rs.1,96,04,794/-
+stands
+outstanding
+for
+contractual work carried out for
+Civil
+Work,
+Fabrication,
+Masonry, Mechanical, work at
+BHEL Site, Sikka which fell due
+on 03.05.2020.
+b) Out of which Rs. 3,12,87,916/-
+stands
+outstanding
+for
+contractual work carried out for
+Road
+Widening
+and
+Road
+Reconstruction for Dewas to
+Newari
+Road
+for
+MPRDC,
+Package-O which fell due on
+15.08.2020
+c) Out of which Rs. 5,09,24,153/-
+stands
+outstanding
+for
+contractual work carried out for
+Road
+Widening
+and
+Road
+Reconstruction for Rangwasa-
+Agra-
+Girota
+for
+MPRDC,
+Package-17 which fell due on
+25.11.2020
+
+2. AMOUNT CLAIMED TO BE
+IN
+DEFAULT
+AND
+THE
+DATE
+ON
+WHICH
+THE
+DEFAULT
+OCCURRED
+(ATTACH
+THE
+WORKING
+FOR DEFAULT TABULAR
+FORM)
+10,18,16,863/-(Rupees Ten Crores
+Eighteen Lakhs Sixteen Thousand
+Eight Hundred Sixty Three Only) Bhel
+Sikka Site - 03.05.2020, PKG-O Site -
+15.08.2020
+PKG Site- 01.01.2021
+Separate
+sheet
+enclosed
+stating
+Computation of Default and interest
+claimed thereon from the date of initial
+refusal to pay for the outstanding
+amount. (Annexed as Exhibit 'C’)
+
+[PAGE 5]
+Page 5 of 8
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+When we peruse Part IV of Form 5 as annexed in the Section 9 petition, we find
+that the dates of default have been clearly shown as 03.05.2020, 15.08.2020
+and 01.01.2021 in respect of the outstanding operational debt claimed by the
+Operational Creditor. The same dates of default have also been mentioned in
+Form 3 of the Demand Notice dated 27.01.2022 as is seen at page 170 of APB.
+8.
+This brings us next to the question as to whether these three dates of
+default mentioned in Section 8 Demand Notice and Section 9 application fall
+within the purview of the prohibited period prescribed under Section 10A and
+consequentially hit by the bar imposed by Section 10A of the IBC.
+9.
+To appreciate the applicability of the bar imposed by Section 10A in the
+present factual matrix, it would be relevant to notice the provisions of Section
+10A of the IBC, 2016 which is reproduced as follows:
+Section 10A: Suspension of initiation of corporate insolvency
+resolution process.
+10A. Notwithstanding anything contained in sections 7, 9 and 10, no
+application for initiation of corporate insolvency resolution process of a
+corporate debtor shall be filed, for any default arising on or after 25th
+March, 2020 for a period of six months or such further period, not exceeding
+one year from such date, as may be notified in this behalf:
+Provided that no application shall ever be filed for initiation of corporate
+insolvency resolution process of a corporate debtor for the said default
+occurring during the said period.
+Explanation– For the removal of doubts, it is hereby clarified that the
+provisions of this section shall not apply to any default committed under
+the said sections before 25th March, 2020.
+y
+10.
+The ambit and scope of Section 10A has been well settled in the landmark
+judgment of the Hon’ble Supreme Court in Ramesh Kymal Vs Siemens
+
+[PAGE 6]
+Page 6 of 8
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+Gamesha Renewable Power Pvt. Ltd. (2021) 3 SCC 224 wherein it was held
+that no application for initiation of CIRP under Section 9 can be initiated for
+default which is committed during the Section 10A period. Since the Ramesh
+Kymal judgment supra has been relied upon by the Adjudicating Authority and
+paragraph 11 of the Ramesh Kymal judgment supra has been reproduced at
+para 20 of the impugned order, we do not feel the need of reproducing the same
+here. It is well settled in terms of this judgement of the Hon’ble Apex Court that
+if any Corporate Debtor suffered default on account of Covid-19, they should be
+protected from the filing of any insolvency application in respect of default
+committed by them during this prohibited period. Thus, any default committed
+after 15.03.2020 till 28.02.2022 (extended period of suo-moto limitation) enjoyed
+complete immunity from initiation of CIRP proceedings.
+11.
+In the present case, the dates of default of the claims, basis which the
+Section 9 application has been filed, the dates indisputably fall during the
+prohibited period of Section 10A of IBC. The dates of default in the present facts
+of the case fell between 03.05.2020 and 01.01.2021 which dates were hit by
+Section 10A of the IBC. In terms of the statutory provision of Section 10A and as
+held by the Hon’ble Supreme Court in Ramesh Kymal judgment supra, no
+default falling within this period can form the basis for initiating CIRP since the
+default which occur during the Section 10A period cannot be included in the
+calculation of debt and default for initiating CIRP.
+12.
+When we look at the impugned order, we find that the Adjudicating
+Authority has gone into the Demand Notice and the dates of default to arrive at
+
+[PAGE 7]
+Page 7 of 8
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+the conclusion that the dates of default are hit by Section 10A of IBC. The
+relevant excerpts of the impugned order are as reproduced below:
+“21. As per Part IV of Form 5 annexed in the Petition, the date of default falls
+on 03.05.2020, 15.08.2020 and 01.01.2021. Prima facie, these dates fall
+under the purview of the period covered by Section 10A of the Code. These
+dates have been mentioned in Part IV of Form 5 as well as in the Demand
+Notice dated 27.01.2022. Furthermore, the dates of default mentioned in the
+Demand Notice dated 27.01.2022 were also 03.05.2020, 15.08.2020 and
+25.11.2020. We note that, the due date of all the invoices shall be assessed
+separately and the invoices which fall within the period of 10A shall be
+excluded. In the present case, all the 3 dates of default mentioned, fall within
+the period prescribed under Section 10A of the Code, therefore as per the
+provisions of section 10A of the Code, the present petition cannot be
+proceeded with on this ground also.”
+
+13.
+No liability can be fastened on the Corporate Debtor for default committed
+during Section 10A period. The Adjudicating Authority has therefore not
+committed any error in holding the Section 9 application as non-maintainable.
+We find no error in the impugned order holding that since the date of default
+falls within the Section 10A period, Section 9 proceedings under IBC cannot be
+initiated at the instance of Operational Creditor.
+14.
+The contention of the Appellant that the Adjudicating Authority should
+have modified the date of default after examining the records is an absurd
+proposition. If the date of default required any change or modification, the onus
+was on the Appellant to have sought leave of the Adjudicating Authority to file
+an amendment application. To expect the Adjudicating Authority to have
+amended the date of default without any amendment application or specific
+pleading made for such a modification would tantamount to the Adjudicating
+Authority exceeding its jurisdiction which cannot be countenanced.
+
+[PAGE 8]
+Page 8 of 8
+Company Appeal (AT) (Insolvency) No. 393 of 2025
+
+15.
+In fine, we do not find any merit in the Appeal. The Appeal is dismissed.
+The impugned order does not warrant any interference. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 01.04.2025
+
+Abdul/Harleen

@@ -1,0 +1,88 @@
+# FILE 001-57929.txt  n_chars=31550  units=278  paragraphs=161
+# SCOPE: legal reasoning starts at char 20693 (unit u185) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 30872 (unit u265) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# WARNING: the text appears TRUNCATED (it ends mid-sentence). The last unit is flagged T. Annotate what is there; do not invent the missing end (07_edge_cases.md section 4).
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 20693 hidden (facts/procedure; use --show-all to see them) --
+u185 p108  [20693-20706) H | AS TO THE LAW
+u186 p109  [20707-20766) H | I. ALLEGED VIOLATION OF ARTICLE 7 para. 1 (art. 7-1) OF THE
+u187 p110  [20768-20778) H | CONVENTION
+u188 p111  [20779-20846) H | 25. Mr Jamil complained of the prolongation - by twenty months - of
+u189 p112  [20847-20978) | the term of imprisonment in default ordered by the Paris Court of Appeal pursuant to a law enacted after the offence was committed.
+u190 p112  [20979-21148) | He contended that this infringed the principle that penalties must not be applied retrospectively, as enunciated in Article 7 (art. 7) of the Convention, which provides:
+u191 p112  [21150-21153) Q | "1.
+u192 p112  [21154-21357) Q | No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed.
+u193 p112  [21358-21479) Q | Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.
+u194 p113  [21481-21539) H | 2. This Article (art. 7) shall not prejudice the trial and
+u195 p114  [21541-21723) | punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognised by civilised nations."
+u196 p115  [21724-21772) H | A. Applicability of Article 7 para. 1 (art. 7-1)
+u197 p116  [21773-21841) H | 26. The main question to be resolved is whether the measure provided
+u198 p117  [21842-21982) | for in Article 749 of the Code of Criminal Procedure is a penalty within the meaning of the second sentence of Article 7 para. 1 (art. 7-1).
+u199 p118  [21983-22052) H | 27. The applicant asserted that Article 749 prohibited the imposition
+u200 p119  [22053-22098) | of imprisonment in default in a civil matter.
+u201 p119  [22099-22283) | He emphasised that, in addition to criminal proceedings, the public prosecutor's office could bring an ancillary action on behalf of the customs for the imposition of fiscal penalties.
+u202 p119  [22284-22511) | It followed that imprisonment in default and the fine whose payment it was intended to ensure were penalties, as the fine could not be a substitute for customs duties not collected when prohibited goods were illegally imported.
+u203 p119  [22512-22722) | The applicant also complained that the imposition of imprisonment in default was automatic and that the fines for drug trafficking were so heavy that in practice convicted offenders had no means of paying them.
+u204 p120 ¶28 [22727-22787) | The Commission agreed with Mr Jamil's argument in substance.
+u205 p121  [22788-22848) H | 29. The Government contended that Article 7 (art. 7) was not
+u206 p122  [22849-22917) | applicable in the case as imprisonment in default was not a penalty.
+u207 p122  [22918-23050) | Customs fines, even supposing that they determined the nature of imprisonment in default, were intended to indemnify and compensate.
+u208 p122  [23051-23298) | They were calculated on the basis of the value of the contraband goods, not the debtor's ability to pay, and were designed to make good the pecuniary and non-pecuniary damage sustained by the customs through the illegal import of prohibited goods.
+u209 p122  [23300-23555) | Deprivation of liberty through imprisonment in default, which was in any event permitted under Article 5 para. 1 (b) (art. 5-1-b) of the Convention, did not belong to the "criminal" sphere (matière pénale) within the meaning of Article 6 (art. 6) thereof.
+u210 p122  [23556-23781) | It was a means of enforcing payment of a debt to the State directed against the debtor's person, not imprisonment in lieu of payment, and punished not the commission of an offence but failure to comply with a pecuniary order.
+u211 p122  [23782-23887) | It was similar to seizure of movable or immovable property, which resulted in deprivation of possessions.
+u212 p122  [23889-24023) | Failure to pay a sum of money was not a criminal offence in French law, and only a particular category of persons could be defaulters.
+u213 p122  [24024-24193) | The rule complained of did not therefore concern virtually the whole population, but only debtors whose solvency had been proved and who refused to discharge their debt.
+u214 p122  [24194-24340) | The severity of the detention was not by itself the decisive factor, and the conditions of that detention also took it out of the criminal sphere.
+u215 p122  [24341-24418) | The prisoner was not entitled to remission, pardon, parole or rehabilitation.
+u216 p122  [24419-24497) | There was no qualifying period for external placements, semi-liberty or leave.
+u217 p122  [24498-24633) | The prisoner could not be prosecuted for escape, and the period of detention on remand was not set off against imprisonment in default.
+u218 p122  [24634-24854) | Above all, enforcement of imprisonment in default did not extinguish the debt or absolve the debtor from the obligation to pay, since he was released only if he paid part of the fine or furnished proof of his insolvency.
+u219 p122  [24855-24998) | There was no criminal justice system in which an obligation would continue to exist in this way after enforcement of a penalty arising from it.
+u220 p123  [24999-25060) H | 30. The Court reiterates that the word "penalty" in Article 7
+u221 p124  [25061-25105) | para. 1 (art. 7-1) is autonomous in meaning.
+u222 p124  [25106-25504) | To render the protection afforded by Article 7 para. 1 (art. 7-1) effective, the Court must remain free to go behind appearances and assess for itself whether a particular measure amounts in substance to a "penalty" within the meaning of this provision (art. 7-1) (see, as the most recent authority, the Welch v. the United Kingdom judgment of 9 February 1995, Series A no. 307-A, p. 13, para. 27).
+u223 p125 ¶31 [25509-25745) | The wording of Article 7 para. 1 (art. 7-1), second sentence, indicates that the starting-point in any assessment of the existence of a penalty is whether the measure in question is imposed following conviction for a "criminal offence".
+u224 p125  [25746-25978) | Other factors that may be taken into account as relevant in this connection are the characterisation of the measure under national law; its nature and purpose; the procedures involved in the making and implementation of the measure;
+u225 p125  [25979-26055) | and its severity (see the Welch judgment previously cited, p. 13, para. 28).
+u226 p126  [26056-26125) H | 32. The Court notes that the sanction imposed on Mr Jamil was ordered
+u227 p127  [26126-26189) | in a criminal-law context - the prevention of drug trafficking.
+u228 p127  [26190-26302) | It observes, however, that in France imprisonment in default is not confined to this single, ordinary-law field.
+u229 p127  [26303-26508) | As it is a means of enforcing the payment of debts to the Treasury other than those partaking of the nature of civil damages, it can also be attached to penalties for customs or tax offences, among others.
+u230 p127  [26510-26707) | In order to determine how imprisonment in default should be classified for the purposes of Article 7 (art. 7), it is therefore necessary also to ascertain its purpose and the rules which govern it.
+u231 p127  [26708-26961) | The measure in question is intended to ensure payment of fines, inter alia, by enforcement directed at the person of a debtor who cannot prove his insolvency, and its object is to compel such payment by the threat of incarceration under a prison regime.
+u232 p127  [26962-27138) | This regime is harsher than for sentences of imprisonment under the ordinary criminal law, mainly because it is not attenuated as they are by such measures as parole or pardon.
+u233 p127  [27139-27373) | Imprisonment in default is a survival of the ancient system of imprisonment for debt; it now exists only in respect of debts to the State and does not absolve the debtor from the obligation to pay which led to his committal to prison.
+u234 p127  [27374-27510) | Although he can no longer thereafter be compelled to pay by means directed against his person, his goods are still subject to distraint.
+u235 p127  [27511-27630) | It is not a measure which can be likened to the seizure of movable or immovable property referred to by the Government.
+u236 p127  [27632-27830) | The sanction imposed on Mr Jamil was ordered by a criminal court, was intended to be deterrent and could have led to a punitive deprivation of liberty (see, mutatis mutandis, the Engel and Others v.
+u237 p127  [27831-27996) | the Netherlands judgment of 8 June 1976, Series A no. 22, p. 35, para. 82, and the Öztürk v. Germany judgment of 21 February 1984, Series A no. 73, p. 20, para. 53).
+u238 p127  [27997-28093) | It was therefore a penalty within the meaning of Article 7 para. 1 (art. 7-1) of the Convention.
+u239 p127  [28095-28347) | Admittedly, the applicant was absolved from the obligation to pay a substantial part of the customs fine, although he had never been made to serve any period of imprisonment in default, a fact for which the Government have not supplied any explanation.
+u240 p127  [28348-28426) | However, that exemption does not suffice to invalidate the foregoing analysis.
+u241 p128 ¶33 [28431-28496) | In short, Article 7 para. 1 (art. 7-1) is applicable in the case.
+u242 p129  [28497-28544) H | B. Compliance with Article 7 para. 1 (art. 7-1)
+u243 p130  [28545-28608) H | 34. The Court notes that at the time when the offences of which
+u244 p131  [28609-28766) | Mr Jamil was convicted were committed, the maximum period of imprisonment in default to which he was liable was four months (see paragraphs 10 and 17 above).
+u245 p131  [28767-28902) | The Paris Court of Appeal nevertheless applied a new law which had increased the maximum to two years (see paragraphs 11 and 19 above).
+u246 p132  [28903-28964) H | 35. No one contested that in the instant case this law on the
+u247 p133  [28965-29049) | prevention of drug trafficking was applied retrospectively (see paragraph 11 above).
+u248 p134  [29050-29114) H | 36. It follows that there has been a breach of Article 7 para. 1
+u249 p135  [29115-29126) | (art. 7-1).
+u250 p136  [29127-29184) H | II. APPLICATION OF ARTICLE 50 (art. 50) OF THE CONVENTION
+u251 p137 ¶37 [29189-29428) L | Under Article 50 (art. 50), "If the Court finds that a decision or a measure taken by a legal authority or any other authority of a High Contracting Party is completely or partially in conflict with the obligations arising from the ...
+u252 p137  [29429-29673) L | Convention, and if the internal law of the said Party allows only partial reparation to be made for the consequences of this decision or measure, the decision of the Court shall, if necessary, afford just satisfaction to the injured party."
+u253 p138  [29674-29697) H | A. Non-pecuniary damage
+u254 p139 ¶38 [29702-29923) L | Mr Jamil first claimed compensation for non-pecuniary damage, which he put at FRF 100,000, and which he alleged he had sustained when he had to serve his ordinary-law sentence with the prospect of a two-year prolongation.
+u255 p140  [29924-29993) H | 39. Like the Government and the Delegate of the Commission, the Court
+u256 p141  [29994-30247) L | considers that the finding of a breach of Article 7 (art. 7) constitutes in itself sufficient just satisfaction for any non-pecuniary damage sustained, as the applicant did not serve any period of imprisonment under the warrant of committal for default.
+u257 p142  [30248-30269) H | B. Costs and expenses
+u258 p143  [30270-30334) H | 40. Mr Jamil also claimed FRF 50,000 in respect of the costs and
+u259 p144  [30335-30416) L | expenses incurred in the proceedings in the Court of Cassation and at Strasbourg.
+u260 p144  [30417-30606) L | He maintained that the conclusion of a friendly settlement with the customs authorities was not unconnected with the fact that he had lodged an application with the Convention institutions.
+u261 p145  [30607-30673) H | 41. The Government, subject to proof of costs, and the Delegate of
+u262 p146  [30674-30737) L | the Commission left this matter to the discretion of the Court.
+u263 p147  [30738-30799) H | 42. On the basis of the information in its possession and its
+u264 p148  [30800-30871) L | case-law in the matter, the Court allows the applicant's claim in full.
+-- tail from char 30872 hidden --

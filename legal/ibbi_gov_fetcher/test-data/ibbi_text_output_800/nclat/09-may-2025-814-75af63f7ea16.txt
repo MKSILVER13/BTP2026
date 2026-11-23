@@ -1,0 +1,484 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+[Arising out of the Impugned Order dated 02.01.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench-I
+in CP (IB) 728/MB/C-I/2023]
+In the matter of:
+Vinita Pramod Devkar
+Suspended Director of
+M/s. Rameshwar Textile Mills Private Limited
+Residing at:
+Flat No. B/1201 B Building,
+Rajhans Elita, Pal Hajira Road,
+Opp. New RTO, Surat,
+Gujarat - 395009
+
+...Appellant
+
+Versus
+
+(1) Shri Kailash Shah
+
+Interim Resolution Professional of
+
+M/s. Rameshwar Textile Mills Private Limited
+
+Having its address at:
+
+505, 21st Century Business Centre
+
+Near World Trade Centre Ring Road, Surat
+
+Gujarat 395002.
+
+(2) Ashish Omprakash Jain
+
+Proprietary Concern of Sadhna Dye Chem
+
+235, GIDC Industrial Estate, Pandesara
+
+Surat Gujarat 394221.
+
+...Respondents
+Present:
+
+For Appellant
+: Mr. Palash S. Singhai, Mr. Pragya Prakash Upadhyay and
+Mr. Harshal Sareen, Advocates.
+
+For Respondent
+: Mr. Gaurav Mitra, Sr. Advocate, Mr. Ravi Raghunath and
+Ms. Aarushi Mishra, Advocates for R-2.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+
+[PAGE 2]
+Page 2 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+02.01.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-I) in
+C.P.(I.B.)728/MB/C-I/2023. By the impugned order, the Adjudicating
+Authority has admitted the Section 9 petition filed by the Operational Creditor
+admitting the Corporate Debtor into the rigors of Corporate Insolvency
+Resolution Process (‘CIRP’ in short). Aggrieved by the impugned order, the
+present appeal has been preferred by the suspended Director of the Corporate
+Debtor.
+2.
+Coming to the brief factual background which is relevant for considering
+the matter at hand, we find that an agreement was entered between S.R.
+Garments and the Government of Uttar Pradesh for supply of socks. For this
+purpose, M/s Rameshwar Textiles Mills Private Limited - Corporate Debtor
+engaged Sadhna Dye Chem – Operational Creditor as sub-contractor and in
+turn the Operational Creditor had engaged AOV Clever Knit LLP (‘Clever Knit’
+in short) as sub-contractor. As part of business transactions, the Operational
+Creditor supplied socks to the Corporate Debtor and raised six invoices
+amounting to Rs.1,65,97,750/-. On not having received payments, a Section 8
+Demand Notice was issued by the Operational Creditor on 24.04.2023 by post,
+delivery of which was admittedly unsuccessful. Thereafter on 02.05.2023, the
+Demand Notice was purportedly served by the Operational Creditor by email
+which the Corporate Debtor contended not to have received. On 07.07.2023,
+the Operational Creditor filed Section 9 application for an operational debt of
+Rs.4,29,14,887/- and purportedly served an advance copy of Section 9 petition
+by email on 07.07.2023. The Adjudicating Authority on 21.08.2023 issued
+
+[PAGE 3]
+Page 3 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+notice and directed the matter to be listed on 12.09.2023. The Corporate Debtor
+was informed about the date of hearing by email by the Operational Creditor.
+However, as the Corporate Debtor was not present during the hearing on
+12.09.2023, the Adjudicating Authority gave another opportunity to appear on
+16.10.2023. The Corporate Debtor was intimated about the next date of hearing
+by an email sent by the Operational Creditor on 15.10.2023. On 16.10.2023,
+as the Corporate Debtor again remained absent from the hearing, the
+Adjudicating Authority granted yet another chance to the Corporate Debtor to
+file an affidavit in reply and fixed the next hearing as the last opportunity on
+22.11.2023. Since the Corporate Debtor did not appear on 22.11.2023, the
+matter was set ex-parte by the Adjudicating Authority and the Section 9 petition
+was admitted and CIRP initiated against the Corporate Debtor. Aggrieved by the
+impugned order, the suspended Director has come up in appeal.
+3.
+Shri Palash S. Singhai, Ld. Advocate for the Appellant submitted that the
+Section 9 application had been admitted ex-parte by the Adjudicating Authority
+without giving the Appellant a meaningful opportunity to be heard thereby
+violating the principles of natural justice. Submission was pressed that the
+Operational Creditor had failed to validly serve and deliver the Demand Notice
+under Section 8(1) of the IBC. This led to ex-parte admission of the Section 9
+petition without the Corporate Debtor getting a fair hearing before the
+Adjudicating Authority and therefore the impugned order deserves to be set
+aside. Submission was also pressed that there were pre-existing disputes
+between the parties and hence the Section 9 petition ought not to have been
+admitted by the Adjudicating Authority. Apart from the need to reconcile the
+
+[PAGE 4]
+Page 4 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+account there was also an incidence of dispute between the parties in respect
+of the defective quality of goods supplied by the Operational Creditor as raised
+in their letter dated 05.07.2018 which issues have not been dealt in the
+impugned order by the Adjudicating Authority.
+4.
+Refuting the contentions of the Appellant, Shri Gaurav Mitra, Ld.
+Advocate for the Respondent stated that the claim of the Operational Creditor
+stood at Rs. 4.29 Cr comprising of principal amount of Rs. 1,65,97,750/- and
+interest amount of Rs.2,63,17,137/-. This operational debt had arisen from the
+supply of socks under six invoices issued between 16.11.2017 to 27.12.2017
+which invoices carried an express clause stipulating interest @30% p.a. for
+delayed payments. It was asserted that the alleged dispute raised by the
+Corporate Debtor with respect to supply of defective socks have no nexus with
+the six invoices which formed the subject matter of the present Section 9
+petition. The bogey of pre-existing dispute was therefore a moonshine defence
+which has been raised by the Corporate Debtor to save themselves from the
+rigours of insolvency proceedings. On the contention that there was violation of
+natural justice on grounds of non-service of Section 8 Demand Notice, it was
+pointed out by the Operational Creditor that the Corporate Debtor was
+intimated through email on the registered email address of the Corporate
+Debtor regarding the issue of Section 8 Demand Notice as also in respect of
+dates of hearing fixed in the matter by the Adjudicating Authority. These emails
+were sent on the registered email address of the Corporate Debtor and the
+contention of the Appellant that this email ID was non-operational is a feeble
+
+[PAGE 5]
+Page 5 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+and frivolous defence since the Corporate Debtor had continued to use the
+same email account even after November, 2021.
+5.
+We have duly considered the arguments advanced by the Learned
+Counsel for the parties and perused the records carefully.
+6.
+The first bone of contention between the two parties is with regard to
+issue of valid service of Section 8 Demand notice on the Appellant by the
+Respondent No.2. It is the case of the Appellant that the Demand Notice which
+had been served through speed post to the registered office of the Corporate
+Debtor was not successfully served and had been returned to the Operational
+Creditor. It is also contended that the Demand Notice which was claimed to
+have been served by the Operational Creditor on 02.05.2023 by email at the
+email ID of rameshwart73@gmail.com was also not received by the Corporate
+Debtor as this email was not operational since July 2021. This email address
+of the Corporate Debtor was under the control of a former employee who was
+managing the email account but had quit the services of the Corporate Debtor.
+It was also contended that the Operational Creditor deliberately served the
+notice on this email knowing fully well that the email was no longer in use by
+the Corporate Debtor. Assertion was also made that though the notices were
+not served effectively by post or by email yet no order was issued for issue of
+substituted service of notice by way of newspaper publication by the
+Adjudicating Authority towards rendering effective service of notice. Much
+emphasis was laid on the fact that service of the Demand Notice under Section
+8 is a condition precedent for filing a Section 9 application which pre requisite
+was clearly not complied with. Reliance was placed on the judgment of this
+
+[PAGE 6]
+Page 6 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+Tribunal in Sunil Sanghavi Vs. Cytech Coatings Pvt. Ltd. in CA(AT)(Ins) No.
+635 of 2018 wherein it has been held that in terms of the statutory construct
+of the IBC, there is a clear legislative fiat that a Corporate Debtor has to be put
+on notice that there was an outstanding amount which was due and payable
+by the Corporate Debtor qua the Operational Creditor and that the said amount
+remained unpaid. It has been vehemently contended that since no Section 8(1)
+notice had been validly served upon them, the Corporate Debtor remained
+unaware of the Section 9 proceedings and was precluded from defending
+themselves before the Adjudicating Authority.
+7.
+Per contra it is the contention of the Respondent No.2 that the Section 8
+Demand Notice was communicated to the Corporate Debtor by email on the
+registered email address of the Corporate Debtor. The email was sent on the
+registered email address which had been provided by the Corporate Debtor to
+the Ministry of Corporate Affairs and even uploaded and disclosed on the
+Company Master Data. The ground taken by the Appellant that their registered
+email account was not operational since it was handled by an employee who
+had discontinued working after July 2021 is contrary to record since the same
+email ID of the Corporate Debtor continued to remain in the public domain even
+after the said employee had purportedly quit from the rolls of the Corporate
+Debtor. Even the Section 9 petition filing and dates of hearing fixed by the
+Adjudicating Authority were communicated by email at the same registered
+address and hence the contention of the Appellant that notice was not duly
+served upon them lacks foundation.
+
+[PAGE 7]
+Page 7 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+8.
+Before we return our findings on whether the Section 8 Demand Notice
+was validly served upon the Corporate Debtor, we take notice that in support
+of their contention that the service of demand notice by the Operational Creditor
+on the Corporate Debtor under Section 8 of the IBC is mandatory, reliance has
+been placed on the judgment of this Tribunal in Shailendra Sharma vs Ercon
+Composite in CA(AT)(Ins) No. 159 of 2020. Reference has also been made to
+the judgment of this Tribunal Sunil Sanghavi supra that it is the mandate of
+law that Section 8 notice has to be validly served upon the Corporate Debtor
+and service of notice was therefore not an empty formality. We have no quarrel
+with the proposition of law laid down in the above judgments that the
+Operational Creditor is required to deliver a demand notice on the occurrence
+of default on the Corporate Debtor and that a demand notice under Section 8
+is a forerunner to the commencement of insolvency proceedings against a
+Corporate Debtor.
+9.
+When we look at the sequence of events in the present case, we find that
+the Operational Creditor had initially sent the Section 8 Demand Notice by
+speed post which was admittedly unsuccessful. The notice was thereafter sent
+on the registered email address of the Corporate Debtor which address had
+been provided by them to the Ministry of Corporate Affairs. The same email ID
+is uploaded and disclosed on the Company Master Data. The ground taken by
+the Appellant that their registered email account was not in use since it was
+handled by an employee who had discontinued working with them after July
+2021 lacks foundation since this address has been depicted as the email ID in
+public documents even after July 2021. This is substantiated by the fact that
+
+[PAGE 8]
+Page 8 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+Form No. MGT-7 in respect of the Annual Return for F.Y. 2020-21 records the
+same email address as placed at page 42 of Reply Affidavit of Operational
+Creditor. The MCA Company Master Data as on 20.07.2024 mentions the same
+email address as placed at page 22 of Reply Affidavit. The Board Resolutions of
+the Corporate Debtor dated 30.11.2021 at page 54 of Reply Affidavit also
+reflects the same email address. The Corporate Debtor was therefore clearly
+bound by the representation made by them to the world at large about their
+registered email address having placed the same on the public domain. Thus,
+when we look at the facts of the present case, we do not find any infraction of
+the ratio contained in the above Shailendra Sharma and Sunil Sanghavi
+judgments supra, since the Operational Creditor had met with the
+requirements prescribed by the statutory construct of IBC by having served the
+demand notice on the registered email address of the Corporate Debtor after
+the earlier delivery of the said notice by post had been unsuccessful. The
+Appellant has relied on the judgment of this Tribunal in Sharad Kesarwani
+Vs. M/s. Planetcast Media Services Ltd. & Anr. in CA (AT) (Ins) No. 272 of
+2018 wherein it was held that a demand notice under Section 8(1) of IBC is
+not supposed to have been served if the notice was not served by post at the
+correct address. The present case is distinguishable since in this case the
+demand notice was dispatched by post at the given address of the Corporate
+Debtor but could not be delivered since the office was under renovation. On the
+other hand, in the Sharad Kesarwani judgment supra, the notice was issued
+by the Operational Creditor at a wrong address even though the Operational
+Creditor was aware of the correct address of the Corporate Debtor. Hence, the
+
+[PAGE 9]
+Page 9 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+Sharad Kesarwani judgment supra does not come to the rescue of the
+Appellant.
+10.
+It is pertinent to notice that reliance has been placed by the Respondent
+No.2 on the judgment of this Tribunal in Rajnish Gupta v. Union Bank of
+India & Anr in CA (AT) (Ins) No. 351 of 2021 wherein it was held that the
+service by email on the registered email ID of the Appellant is sufficient in the
+eyes of law. When we look at the facts of the present case, we find that the
+demand notice had been served on the registered email ID of the Corporate
+Debtor as appearing on the Company Master Data. Attention has been adverted
+by the Respondent No.2 to the judgment of this Tribunal in Naresh Kumar
+Aggarwal v. CFM Asset Reconstruction Pvt. Ltd. & Anr. in CA(AT)(Ins) No.
+736 of 2022 wherein it was held that service of notice by way of email on the
+email address registered with the MCA would suffice the purpose of notice
+having been properly served. Doubts on the authenticity of the email ID used
+by the Operational Creditor in serving the demand notice on the Corporate
+Debtor cannot be entertained since the email ID happened to be the registered
+email ID of the Corporate Debtor as reflected in multifarious documents issued
+by them. Hence, to contend that the demand notice was not served on an
+operational email ID was simply a ruse raised to overcome the admission of
+Section 9 application admitted against them. Since the Demand Notice had
+been delivered at the registered email address of the Corporate Debtor which
+was on the public domain, the contention of the Corporate Debtor that the
+demand notice had not been served upon them does not appeal to reason. We
+
+[PAGE 10]
+Page 10 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+are of the considered view that there was no cogent basis for the Appellant to
+claim that Section 8 demand notice had not been validly served on them.
+11.
+We also do not find much force in the contention of the Appellant that
+they were prejudiced since they did not get an opportunity of hearing. As has
+been noted by us at para 2, the Appellant neither filed a reply nor appeared
+before the Adjudicating Authority despite having been served with notices by
+email by the Operational Creditor of the hearings fixed by Adjudicating
+Authority. The Appellant cannot be seen to take advantage of their own
+misdoing of not presenting themselves before the Adjudicating Authority on the
+dates fixed for hearing.
+12.
+The second limb of argument which has been raised by the Appellant is
+the existence of pre-existing disputes between the two parties. It was submitted
+that the Operational Creditor-Respondent No.2 had claimed that the Corporate
+Debtor had failed to pay Rs. 1,65,97,750/- in respect of six invoices raised from
+16.11.2017 to 27.12.2017 (after taking into account payment of a sum of Rs
+24,66,892/- on 16.11.2017) while deliberately concealing the fact that the
+Corporate Debtor had paid Rs.1,40,00,000/- in respect of the same transaction
+relating to the six invoices to AOV Clever Knit LLP (‘Clever Knit’ in short) on
+the instructions of the Operational Creditor. Attention was also adverted to the
+fact that Clever Knit had moved an application before the MSME Council
+making certain claims against the Operational Creditor and if the same is taken
+into cognisance, the claim of the Operational Creditor cannot be said to have
+fulfilled the threshold of Rs.1 Crore thereby making the Section 9 petition non-
+maintainable. It was also contended that since the application preferred by
+
+[PAGE 11]
+Page 11 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+Clever Knit is pending adjudication, the purported claim of the Operational
+Creditor stood disputed and therefore the amount of debt due was not yet
+crystallised. It was therefore asserted that the accounts between the Corporate
+Debtor and the Operational Creditor required to be reconciled. It was also
+asserted that there was clear evidence of pre-existing disputes between the
+parties as they had brought to the attention of the Operational Creditor vide
+their letter dated 05.07.2018 as placed at page 112 of Appeal Paper Book (‘APB’
+in short) to arrange replacement of damaged socks suppled to them. In such
+circumstances, the Operational Creditor should not have been allowed to drag
+the Corporate Debtor into the rigours of insolvency by manipulating the
+transactions and payments. Assailing the impugned order, it was submitted
+that the Adjudicating Authority after merely noting the absence of the
+Corporate Debtor proceeded to admit the Section 9 petition without considering
+the issue of disputes over the quantum of debt and supply of damaged goods.
+This has rendered the Section 9 admission order illegal and unsustainable. It
+was also contended that the Section 9 petition was filed with the malafide
+intention not for insolvency resolution but for recovery proceedings which
+defeats the object and purpose of IBC.
+13.
+Reliance has been placed by the Appellant on the judgment of the Hon’ble
+Supreme Court in Mobilox Innovations Pvt Ltd. Vs Kirusa Software Pvt Ltd.
+in (2018) 1 SCC 353 wherein it has been held that the Adjudicating Authority
+must reject a Section 9 application if a notice of dispute has been received by
+the Operational Creditor or there is a record of dispute in the information
+utility.
+
+[PAGE 12]
+Page 12 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+14.
+Rival submission was made by the Respondent No.2 that the ground
+taken by the Appellant that the debt had not crystallised since certain claims
+had been filed by the Clever Knit before the MSME Council is entirely irrelevant
+to the present Section 9 petition. It was contended that the factum of
+Operational Creditor sub-contracting their supply order with Clever Knit was
+in the full knowledge of the Corporate Debtor and at no stage had the Corporate
+Debtor raised any dispute against the Operational Creditor in relation to the
+transactions with the Clever Knit. Further, the journal vouchers entries made
+by the Corporate Debtor to reduce the dues owed to the Operational Creditor
+by showing payments to Clever Knit are entries which are unilateral in nature
+and constituted internal records which cannot be relied upon to show that the
+debt had been extinguished. It was further submitted that since no demur,
+protest or dispute was raised in relation to these invoices prior to issue of
+Demand Notice or even prior to filing of Section 9 Petition, this testifies the
+absence of pre-existing dispute. It was also asserted that the dispute raised by
+the Corporate Debtor with respect to supply of defective socks was not related
+with the six invoices which formed the basis of the present Section 9 petition.
+Since the Corporate Debtor had failed to make payments despite several
+reminders, the interest of delayed payments was also occasioned. Since debt
+had become due and payable and default had been committed and there being
+no real and genuine pre-existing dispute, the Adjudicating Authority had rightly
+admitted their Section 9 application.
+15.
+Coming to our findings on the issue of pre-existing dispute, at the outset
+we would like to observe that the principles laid down in Mobilox judgment
+
+[PAGE 13]
+Page 13 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+supra which has been relied upon by the Appellant is settled law. The relevant
+excerpts of the said judgment is as reproduced below:
+“It is clear that such notice must bring to the notice of the operational
+creditor the “existence” of a dispute or the fact that a suit or arbitration
+proceeding relating to a dispute is pending between the parties. Therefore,
+all that the adjudicating authority is to see at this stage is whether there is
+a plausible contention which requires further investigation and that the
+“dispute” is not a patently feeble legal argument or an assertion of fact
+unsupported by evidence. It is important to separate the grain from the
+chaff and to reject a spurious defence which is mere bluster. However, in
+doing so, the Court does not need to be satisfied that the defence is likely
+to succeed. The Court does not at this stage examine the merits of the
+dispute except to the extent indicated above. So long as a dispute truly
+exists in fact and is not spurious, hypothetical or illusory, the adjudicating
+authority has to reject the application.”
+
+The Hon’ble Supreme Court in the Mobilox judgement supra has however also
+clearly laid down that pre-existing dispute between the parties cannot be a
+feeble legal argument or an assertion of facts unsupported by evidence.
+16.
+When we peruse the material on record, we find that the outstanding
+amount as per ledger filed by the Appellant in their Rejoinder-Reply at pages
+27-28 is Rs.1,65,97,750/- which is identical to the outstanding principal sum
+claimed by the Operational Creditor. There is also no correlation between the
+invoices raised by the Operational Creditor between 16.11.2017 to 27.12.2017
+and the letter dated 05.06.2018 raising an alleged dispute for a sum of
+Rs.19,41,740/- on account of defective goods supplied. Further when we see
+the letter of 05.07.2018, we notice that the Corporate Debtor had mentioned
+therein that if the damaged socks were not replaced, they would be constrained
+to issue any debit note of Rs.19,41,740/-. However, there is no material on
+record to substantiate that any such debit note was issued. No supporting
+
+[PAGE 14]
+Page 14 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+documents are available on record to show exchange of any sustained
+correspondence with the Operational Creditor having taken place with regard
+to this dispute. Thus, there is nothing credible to substantiate the pre-
+existence of dispute. Further if there was actually a dispute between the two
+parties basis the letter of 05.07.2018, it remains unexplained as to why the
+Corporate Debtor had continued to make the further payments to the
+Operational Creditor on 14.12.2021, 15.12.2021 and 21.12.2021 aggregating
+to Rs.40,00,000/- to the Operational Creditor. If the Corporate Debtor was of
+the firm view that defective goods had been supplied, it remains unexplained
+as to why no debit notes were issued nor has it been persuasively explained as
+to why the matter was not followed up by the Corporate Debtor. Coming to the
+contention of the Appellant that they had purportedly paid Rs.1,40,00,000/- to
+Clever Knit allegedly on the instructions of the Operational Creditor, we are
+constrained to note that we do not find any communication showing any
+authorisation or request given by the Operational Creditor to the Corporate
+Debtor for making any such payments to Clever Knit.
+17.
+Thus, when we look at the alleged pre-existing dispute raised by the
+Corporate Debtor in the present matter, we are not convinced that the disputes
+are genuine and real. We are of the considered view that the defence taken by
+the Corporate Debtor of having been supplied with defective goods as the basis
+of pre-existing disputes is a moonshine defence.
+18.
+From the aforesaid discussion and analysis of facts and circumstances,
+we are of the considered opinion that the Corporate Debtor has defaulted in the
+payment of operational debt which amount had clearly become due and
+
+[PAGE 15]
+Page 15 of 15
+Company Appeal (AT) (Insolvency) No. 364 of 2024
+
+payable, and further in the absence of any credible and real pre-existing
+dispute, we find that no error has been committed by the Adjudicating
+Authority in admitting the application under Section 9 of IBC and putting the
+Corporate Debtor into CIRP. We find the Appeal to be devoid of merit. Appeal
+is dismissed. No Costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 09.05.2025
+
+Harleen/ Abdul

@@ -1,0 +1,1764 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 2077 of 2024
+
+[Arising out of the Order dated 05.09.2024, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal, New
+Delhi Bench) in CP (IB) No. 882/ND/2022)]
+
+IN THE MATTER OF:
+
+Reliance Realty Limited
+Registered Office at:
+H- Block, 1st Floor
+Dhirubhai Ambani Knowledge City
+Navi Mumbai- 400710
+
+...Appellant/
+Operational Creditor
+
+Versus
+
+Altruist Customer Management India Pvt. Ltd.
+Formerly known as Vertex Customer
+Management India Private Ltd
+Registered Office at:
+151/B, Block CC, Shalimar Bagh,
+North West, New Delhi – 110088
+
+...Respondent/
+Corporate Debtor
+
+Present:
+
+For Appellant
+:
+Mr. Krishnendu Datta, Sr. Advocate with Mr.
+Vaijayant Paliwal, Mr. Nikhil Mathur, Ms. Tanya
+Chib and Ms. Alina Merin Mathew, Advocates.
+
+For Respondent
+:
+Mr. Vishal Sharma, Sr. Standing Counsel and
+Mr. Manjit Singh, Advocates
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+The present Appeal has been filed on behalf of 1Reliance Realty Limited
+(“Appellant/Operational Creditor”) under Section 61 of the Insolvency and
+
+1 Appellant - Operational Creditor: Reliance Realty Limited
+
+[PAGE 2]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 2 of 53
+
+Bankruptcy Code, 2016 (“Code”) assailing the order dated 05 September 2024
+(“Impugned Order”) passed by Ld. National Company Law Tribunal, New Delhi
+Bench (“Adjudicating Authority”) in an application filed by the Appellant
+under Section 9 of the Code (bearing number CP (IB) No. 882/ND/2022)
+(“Section 9 Application”) seeking for Initiation of Corporate Insolvency
+Resolution Process (“CIRP”) against 2Altruist Customer Management India
+Private Limited, (“Corporate Debtor”).
+
+2.
+A petition CP (IB) No. 882/ND/2022) was filed by Reliance Reality Ltd.
+(Operational Creditor) to initiate Corporate Insolvency Resolution Process
+(CIRP) against Altruist Customer Management India Pvt. Ltd. (Corporate
+Debtor), under Section 9 of the Insolvency and Bankruptcy Code for a total
+outstanding amount of Rs.24,34,59,787 before National Company Law
+Tribunal, New Delhi Bench. The Appellant had filed the Section 9 Petition on
+account of operational debt i.e., rental dues during the period between May
+2019 to September 2022 (before filing of the Section 9 Petition) owed by the
+Corporate Debtor to the Appellant ("Default Period") for possession and
+occupation of Building No. A-8 situated in Sector 1, Plot No. MBP-2 at TTC
+Industrial area within the limits of Vill Mahape and Dist. Thane, Maharashtra
+400710 comprising of ground plus 3 upper floors each admeasuring 11566
+sq. mtrs. equivalent to 12447 sq. ft. ("Premises") under the License Agreement
+dated 29 March 2019 ("License Agreement"). NCLT Delhi dismissed the
+section 9 application inter alia on the grounds of pre-existing dispute between
+
+2 Respondent -Corporate Debtor: Altruist Customer Management India Private Limited
+
+[PAGE 3]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 3 of 53
+
+the parties relating to the question of percentage of debt liable to be paid to
+the Appellant by the CD as per the license agreement.
+Submissions of the 3Appellant/Operational Creditor-RRL
+3.
+The Appellant had filed the Section 9 Petition before the AA on account
+of operational debt i.e., rental dues during the period between May 2019 to
+September 2022 (before filing of the Section 9 Petition) owed by the
+4Corporate Debtor – Altruist Customer Management India Pvt. Ltd. (ACMIPL)
+to the Appellant - Reliance Realty Limited (RRL) for possession and
+occupation of Building No. A-8 situated in Sector 1, Plot No. MBP-2 at TTC
+Industrial area within the limits of Vill Mahape and Dist. Thane, Maharashtra
+- 400710 comprising of ground plus 3 upper floors each admeasuring 11566
+sq .mtrs. equivalent to 12447 sq. ft. ("Premises") under the License Agreement
+dated 29 March 2019 ("License Agreement").
+
+4.
+Section 9 Petition was dismissed on 05.09.2024 by the Adjudicating
+Authority on the ground of purported pre-existence of dispute over the
+operational debt payable by the Corporate Debtor to the Appellant on an
+erroneous ground that the issue regarding payment of rental dues to the
+Appellant by the Corporate Debtor alone or jointly with another entity
+(Reliance Communications Limited) is disputed in the present case.
+
+5.
+The Appellant seeks payment of debt to the tune of INR 25,48,83,305/-
+as on 15 September 2022 as outstanding rent payable to the Appellant.
+
+3 Appellant/Operational Creditor is Reliance Realty Limited-RRL
+4 Respondent/Corporate Debtor is Altruist Customer Management India Private Limited formerly Vertex
+
+[PAGE 4]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 4 of 53
+
+Appellant contends that the Corporate Debtor has admitted its liability
+towards 20% of the rent payable each month to the Appellant. The said
+admission was also noted by the Adjudicating Authority. Appellant claims
+that even if only 20% of the rent is taken into account, the debt payable still
+crosses the threshold — beyond INR 1 crore and satisfies the condition for
+initiation of insolvency proceedings against the Corporate Debtor. The
+Impugned Order too records under "Analysis and Findings" that per the
+terms of MOS, MOU and LOU, the Corporate Debtor was liable towards 20%
+of the License Fee. Evidently, the Adjudicating Authority has failed to
+examine the consequences of its own observations made in the Impugned
+Order as well as the admissions made by the Corporate Debtor in its reply to
+the Section 9 Application, which categorically highlights that there is no
+dispute with respect to 20% of the amount being payable by the Corporate
+Debtor to the Appellant towards the License Fees under the License
+Agreement. Corporate Debtor has only made part payment towards License
+Fee and since April 2021, the Corporate Debtor has stopped making payment
+towards the License Fee. Thus, even if only the assumed 20% obligation of
+the Corporate Debtor to pay make payment towards License Fees is
+considered, the same crosses the minimum requirement of INR 1 crore under
+the Code. It is submitted that not only did the. Adjudicating Authority failed
+to recognise the admitted operational debt, but it did also not even consider
+that the License Agreement stood terminated and additional delay charges
+continue to accrue on the operational debt.
+
+[PAGE 5]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 5 of 53
+
+6.
+Appellant contends that this Appellate Tribunal in Manmohan Gupta
+v MDS Digital Media Pvt. Ltd. & Anr., Company Appeal (AT) (INS) No. 202
+of 2023 (Ref para 4) and Nandamuri Meenalatha v Quality Steels and
+Wire Products & Anr. Company Appeal (AT) (INS) No. 11 of 2023 (Ref para
+78) has held that the Adjudicating Authority ought to only look at the
+admitted debt whether it breaches the threshold of INR 1 crore under Section
+4 of the Code and the question regarding the correct amount of debt ought
+to be looked at the time of collation of claim and not for the purpose of
+admission of application under Section 9 of the Code. Therefore, the
+observation of the Adjudicating Authority that the Corporate Debtor was not
+liable to pay the operational debt to the Appellant is erroneous in view of the
+admitted liability by the Corporate Debtor and settled position of law by this
+Appellate Tribunal.
+
+7.
+The Adjudicating Authority has erred in relying on agreements which
+were executed prior to the registered License Agreement. Section 94 of the
+Bharatiya Sakshya Adhiniyam, 2023 ("BSA"), which corresponds to Section
+91 of the Indian Evidence Act, 1872 states that:
+“When the terms of a contract, or of a grant, or of any other disposition of
+property, have been reduced to the form of a document, and in all cases in
+which any matter is required by law to be reduced to the form of a
+document, no evidence shall be given in proof of the terms of such
+contract, grant or other disposition of property, or of such matter, except
+the document itself or secondary evidence of its contents in cases in which
+secondary evidence is admissible under the provisions hereinbefore
+contained”
+
+[PAGE 6]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 6 of 53
+
+8.
+Thus, from a bare reading of the above, it is evident that the License
+Agreement ought to be considered as the primary document to adjudicate any
+purported dispute between the parties and reliance cannot be placed on
+earlier agreements between the parties or otherwise. (Ref: Para 17-Roop
+Kumar v. Mohan Thedani (2003) 6 SCC 595). In this regard, it is relevant
+to note that the License Agreement also includes the 'Entire Agreement
+Clause' Pg. 126-APB I/Appeal) which provided that the License Agreement
+would constitute the entire agreement between the parties with respect to the
+Premises and would supersede all oral and written understanding and
+agreements with respect thereto and shall also inter alia govern the
+enforcement of the said License Agreement.
+
+9.
+The jurisprudence has been settled by the judgments of the Hon'ble
+Supreme Court in Joshi Technologies International INC. v Union of India
+& Ors. (2015) 7 SCC 728 where the Hon'ble Court had held that the intention
+behind the entire agreement clauses is to not look into any other document
+or correspondence which took placed between the parties before signing of
+the agreement (para 41, 42 and 47 of the judgment.) The Hon'ble Delhi High
+Court in Thyssen Krupp Materials AG v Mr. Karan Luthra 2017 SCC
+Online Del 7997 also held that the object of insertion of entire agreement
+clause in an agreement is to prevent either parties from raising any claims
+that are not encompassed in the executed agreement or which form part of
+the pre-negotiations. (Ref para 71-72 of the judgment).
+
+[PAGE 7]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 7 of 53
+
+10. Further, it is trite law that the parties are bound by the terms of the
+contract and the court cannot transplant any equity to the same by re-writing
+the terms of the contract (Ref: Para 14; Kunnel Engineers & Contractors
+Pvt. Ltd., v New India Insurance Company Limited, (2023) 15 SCC 776
+and (Ref: Para 10 Oriental Insurance Company Limited v Narbheram
+Power & Steel Pvt/ Ltd., (2018) 6 SCC 534).
+
+11. Furthermore, the MOS stipulates the bifurcation of the rent payable
+whereby 80% is payable by RCOM on behalf of the Corporate Debtor to the
+Appellant and 20% of the rent is payable by the Corporate Debtor to the
+Appellant. However, no such bifurcation was provided in License Agreement.
+Thus, the Impugned Order fails to recognise the entire agreement clause in
+the License Agreement which provides that all agreements between the
+parties are subsumed on account of execution of License Agreement. Further,
+the Adjudicating Authority has also failed to appreciate that the distinct
+agreements relied upon in the Impugned Order i.e., namely the MOS, MOU
+and undated LOU do not form part and/or find reference in the License
+Agreement (which is a later agreement) under which the operational debt is
+payable to the Appellant.
+
+12. In relation to reference placed by the Adjudicating Authority and the
+Corporate Debtor on the LOU, the said undated LOU does not refer to the
+License Agreement but refers to a Sub Lease Deed Dated 28 August 2018.
+This shows the non-application of mind with which the NCLT has rejected
+Section 9 Application.
+
+[PAGE 8]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 8 of 53
+
+13. Even on a reading of the terms of the MOS, MOU and LOU, the liability
+to pay License Fee i.e., operational debt owed to Appellant rests on the
+Corporate Debtor, as a whole, regardless of the arrangement between Reliance
+Companies and the Corporate Debtor. In fact, in view of March Termination
+Notice, the Adjudicating Authority failed to apply its mind on the Corporate
+Debtor's admitted case that as per Clause a (vi) of the MOS even in the event
+of termination of the License Agreement assuming the terms of MOS are to be
+considered, it is not the Appellant but the Reliance Companies which ought
+to pay to the Corporate Debtor.
+
+14. Assuming but not admitting, even if the Corporate Debtor was only
+liable to pay 20% of the License Fee, after initiation of CIRP against Rcom
+(original borrower), the liability to pay the entire License Fee fell on the
+Corporate Debtor. The License Agreement does not at any juncture envisage
+a creditor debtor relationship between Rcom and the Appellant and only forms
+a creditor/debtor relationship between the Appellant and the Corporate
+Debtor. There is no averment/submission which can contradict a clear
+creditor/debtor relationship between the Corporate Debtor and the Appellant
+and the fact that the Corporate Debtor was liable to pay the full amount due
+towards License Fees to the Appellant.
+
+15. The NCLT has completely neglected the judgment of the Hon'ble
+Supreme Court in Mobilox Innovations Private Limited v. Kirusa Software
+Private Limited (2018) I SCC 353 ("Mobilox Judgment"), which expounds
+the true import and nature of the term 'dispute' and pre-existing dispute' as
+
+[PAGE 9]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 9 of 53
+
+provided under the Code. The Supreme Court had held that existence of
+'dispute' needs to be established prior to issuance of demand notice and such
+dispute ought not to be hypothetical or illusory.
+
+16. Section 5(6) of the Code defines the term 'dispute' to refer to the
+pendency of proceedings initiated against the existence of amount of debt,
+quality of goods or service and breach of representation and warranty. In the
+absence of any such condition being fulfilled and no proceedings being
+initiated prior to the issuance of the Demand Notice, the NCLT ought not to
+have concluded the existence of a pre-existing dispute.
+
+17. It is not the case that the Corporate Debtor did not admit to its liability
+under the License Agreement (even though towards 20%- which in itself
+would surpass the threshold of INR 1 crore). Thus, the NCLT has grossly erred
+in holding that there is a pre-existing dispute vis-à-vis the operational debt is
+payable to the Appellant.
+
+18. The NCLT in the Impugned Order ("Analysis and Findings") made a
+vague reference to the eviction proceedings initiated by the Appellant against
+the Corporate Debtor before the Civil Court in Thane, Mumbai, (Commercial
+Suit No. 9 of 2020) without providing specifically on whether the said
+observation has had a role to play in the determination of a pre-existing
+dispute by the Adjudicating Authority in the present proceedings. Assuming
+such an observation has contributed towards the Adjudicating Authority
+finding the existence of an alleged pre-existing dispute, the said civil
+proceedings pertain to eviction of the Corporate Debtor from the Premises
+
+[PAGE 10]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 10 of 53
+
+which have been initiated for vacation of Premises which has been illegally
+occupied by the Corporate Debtor despite lack of payments being provided to
+it by the Appellant. It is axiomatic that such proceedings are separate from
+the creditor/debtor liability under which the jurisdiction of the Adjudicating
+Authority and cannot be deemed to fall under the definition of "dispute" under
+as contemplated under Section 5(6) of the Code as it does not pertain to (i)
+existence of the amount of debt i.e., License Fee payable by the Corporate
+Debtor; (ii) quality of good or service; (iii) breach of any warranty or
+representation. Section 9 Petition was erroneously dismissed by the
+Adjudicating Authority on the ground of purported pre-existence of dispute
+over the operational debt payable by the Corporate Debtor to the Appellant.
+The Appellant had filed the Section 9 Petition on account of operational debt
+i.e., rental dues during the period between May 2019 to September 2022
+(before filing of the Section 9 Petition) owed by the Corporate Debtor to the
+Appellant ("Default Period"). In fact, the Corporate Debtor had admitted its
+liability, in the pleadings before the Adjudicating Authority as also recorded
+in the Impugned Order and in its reply filed in the Appeal, towards 20% of
+such rental dues as payable to the Appellant. Such admitted dues are
+evidently above the minimum threshold level of INR 1 crore, as provided under
+Section 4 of the Code. However, the Adjudicating Authority failed to consider
+the said admitted debt, which satisfies the conditions laid down under Section
+9 of the Code for admission of a petition filed therein and proceeded to reject
+the same on erroneous grounds, as detailed in the captioned Appeal and
+herein below.
+
+[PAGE 11]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 11 of 53
+
+19. The Adjudicating Authority has failed to consider that the debt admitted
+by the Corporate Debtor (in the Impugned Order itself) crosses the threshold
+of INR 1 crore, which is the only consideration mandated for admission of a
+petition filed under Section 9 of the Code. The Appellant and the Corporate
+Debtor had executed the License Agreement for the purpose of licensing of
+the Premises to the Corporate Debtor for consideration of INR 49,77,880/-,
+including GST and applicable tax at source, with the said rent to be escalated
+by 10% every three years ("License Fee"). Sometime in 2014, the Reliance
+Companies had engaged the services of the Corporate Debtor wherein on
+account of such services, there were some dues which were payable by the
+Reliance Companies to the Corporate Debtor. It is pertinent to highlight that
+the Appellant had not engaged any services provided by the Corporate Debtor
+and stood as a separate legal entity. Thereafter, these dues which were taken
+by the Reliance Companies were contemplated to be settled between the
+Corporate Debtor and the Reliance Companies. In view thereof, the Reliance
+Companies executed a Memorandum of Settlement dated 20 August 2018
+("MoS") with the Corporate Debtor towards settlement of dues payable to the
+Corporate Debtor by Reliance Companies. However, it is pertinent to note that
+the Appellant was not a party to such settlement agreement. As per the terms
+of the MoS, the debt payable by Reliance Companies to the Corporate Debtor
+would get settled by licensing the Premises to the Corporate Debtor for the
+rent amounting INR 4,97,788/-. It was inter alia further contemplated that
+RCom would pay 80% of the license fee (stipulated therein) to the Appellant
+and the balance 20% of the license fee was to be paid by the Corporate Debtor
+
+[PAGE 12]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 12 of 53
+
+to Appellant. Thereafter, a Memorandum of Understanding dated 20 August
+2018 ("MoU") was executed between RCom, the Appellant and the Corporate
+Debtor, which reiterated the terms of the MoS. Even under the MoU INR
+4,97,788 was to be paid as rent towards the Premises, i.e., 80% by Rcom to
+the Appellant and 20% by the Corporate Debtor to the Appellant. In view of
+this arrangement, a Sub Lease Deed dated 28 August 2018 was executed
+between the Appellant and the Corporate Debtor, which is also referred in the
+LoU (defined below). Further, an undated Letter of Understanding ("LoU") was
+addressed by the Reliance Companies and the Appellant to the Corporate
+Debtor. The said LoU merely recorded that in the event of conflict between the
+terms of the MoU, MoS and the Sub-Lease Deed agreement 28 August 2018,
+the terms of MoS would prevail. Notably, by way of a Sub Lease Cancellation
+letter dated 29 March 2019, the said Sub Lease Deed was mutually
+terminated by the parties. Evidently, the said Sub Lease Agreement was not
+in operation during the Default Period, against which the Appellant had filed
+the Section 9 Petition and thereafter, the present Appeal. Pertinently, the LoU
+refers to the Sub Lease Deed which has been erroneously equated by the
+Adjudicating Authority with that of the License Agreement. Accordingly, the
+event of conflict contemplated in the LoU pertained to Sub Lease Agreement
+and the MoS, not the License Agreement, as wrongly held by the Adjudicating
+Authority under the Impugned Order. It is the Corporate Debtor's case that
+the terms of the MoS and MoU. govern the rights of the parties in relation to
+rent payable towards the Premises. Thus, the Corporate Debtor was only
+liable to pay 20% of the License Fee to the Appellant. The Adjudicating
+
+[PAGE 13]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 13 of 53
+
+Authority has also erroneously relied upon the LoU and held that the LoU
+provides that in case of conflict, the terms of the MoS shall prevail between
+the parties. Based on the said interpretation, the Adjudicating Authority came
+to an incorrect conclusion that it is not a clear case of rent being due from
+the Corporate Debtor to the Appellant. Without prejudice to the contentions
+raised by the Appellant that the Corporate Debtor is liable to pay the entire
+dues towards the License Fee, it is crucial to highlight that the Adjudicating
+Authority has in an absurd fashion completely turned a blind eye towards the
+consequences of its own records in the Impugned Order as well as categorical
+admissions of debt by the Corporate Debtor under its Reply to the Section 9
+Petition with respect to its liability towards 20% of the License Fee. The
+Impugned Order specifically in Para 2(II) while capturing the Corporate
+Debtor's contentions and further in Para4 (V) and para 4(VI) under the
+heading "Analysis and Findings" observes that as per the terms of the MoS,
+MoU and LoU, the Corporate Debtor was liable towards 20% of the License
+Fee. Further, in the reply filed by the Corporate Debtor to the Section 9
+Petition at Para l(a), Para l(g) and 2(b) and the Reply to the present Appeal at
+para 3 and 4, the VII. Corporate Debtor expressly admits that 20% of the
+License Fee is payable by the Corporate Debtor. Pertinently, the Corporate
+Debtor has itself at Annexure R-8 (Detailed chart evidencing the total sum
+calculated by the Corporate Debtor as payable to it pursuant to deduction of
+License Fee as per purported 80:20 ratio) to its Reply before the Adjudicating
+Authority admitted that an amount of INR 1,39,38,062/- is payable to the
+Appellant. Thus, it is evident that the Adjudicating Authority has failed to
+
+[PAGE 14]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 14 of 53
+
+take note that even after accepting the contentions raised by the Corporate
+Debtor that it is only liable towards 20% of the License Fee, if such a
+calculation is to be considered, even then the assumed operational debt would
+cross the threshold of INR 1 Crore and the Section 9 Petition ought to be
+admitted. In fact, the Corporate Debtor has also admitted in its Reply to the
+Appeal that it was obligated to pay 20% of the License Fee. Further, the
+Corporate Debtor has not disputed the computation appended to the Appeal
+where the Appellant has set out the operational debt payable by the Corporate
+Debtor under the License Agreement. Therefore, the Corporate Debtor, has at
+all times, admitted its liability to pay 20% of the License Fee to the Appellant.
+However, and despite of such admission, the Corporate Debtor has
+deliberately failed to made payments towards the License Fee, even for 20%
+since April 2021 and the same has not been denied by the Corporate Debtor,
+at any stage of the proceedings i.e., neither before the Adjudicating Authority
+nor before this Hon'ble Tribunal.
+
+20. Notably, even if the Corporate Debtor's liability of 20% to pay the
+License Fee is considered, the amount payable towards such operational debt
+still crosses the threshold - beyond INR 1 crore., as demonstrated below. The
+below table has been prepared based on the detailed computation annexed as
+Annexure A-6 to the Appeal. The below period accounts for the duration when
+the Corporate Debtor did not make any payment towards rent payable to the
+Appellant.
+Sr.No.
+Period
+Base Rendal Amount (INR)
+1.
+July 2020
+4977880
+2.
+August 2020
+4977880
+
+[PAGE 15]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 15 of 53
+
+3.
+September 2020
+4977880
+4.
+April 2021
+4977880
+5.
+May 2021
+4977880
+6.
+June 2021
+4977880
+7.
+July 2021
+4977880
+8.
+August 2021
+4977880
+9.
+September 2021
+5475668
+Note: The rent was escalated as
+per Article II (c) of the License
+Agreement
+10.
+October 2021
+5475668
+11.
+November 2021
+5475668
+12.
+December 2021
+5475668
+13.
+January 2022
+5475668
+14.
+February 2022
+5475668
+15.
+March 2022
+5475668
+16.
+April 2022
+5475668
+17.
+May 2022
+5475668
+Note: Without prejudice to the
+contentions of the Appellant on
+150% of the license fee to be
+charged on account of termination
+of the License Agreement, for the
+purpose of the present calculation,
+only base rental amount is being
+considered.
+18.
+June 2022
+5475668
+19.
+July 2022
+5475668
+20.
+August 2022
+5475668
+21.
+September 2022
+5475668
+
+Total
+11,10,06,724
+
+Accordingly, even if 20% payment towards the License Fee is accepted
+(without admitting the same), it is clear that the rent payable to the Appellant,
+as on filing of the Section 9 Petition crossed INR 1 crore threshold, as required
+under Section 4 of the Code. In view of the same, is humbly submitted that
+the Appeal deserves to be allowed, and CIRP ought to be initiated against the
+Corporate Debtor.
+
+[PAGE 16]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 16 of 53
+
+21. Appellant contends that it is settled law that where the admitted
+amount of the operation debt is in excess of the threshold of INR 1 crore, the
+Adjudicating Authority must admit the Section 9 Petition and the Corporate
+Debtor into CIRP, as held by this Hon'ble Tribunal in Manmohan Gupta v
+MDS Digital Media Pvt. Ltd. & Anr., Company Appeal (AT)(INS) No. 202 of
+2023. Further, this Appellate Tribunal in Nandamuri Meena Latha v Quality
+Steels and Wire Products & Anr., Company Appeal (AT)(CH)(INS) No. 11
+of 2023 has held that if the debt payable is more than the threshold limit
+provided Section 4 of the Code, the application filed under Section 9 of the
+Code must be admitted by an Adjudicating Authority. Thus, it is evident that
+the Adjudicating Authority has evidently failed to consider the settled law of
+admitting the undisputed debt (20% of the License Fee) which crosses the
+threshold of INR 1 crore.
+
+22. Appellant again reiterates that no pre-existing dispute subsists between
+the parties qua the License Fee. The Corporate Debtor has alleged that the
+Adjudicating Authority has correctly dismissed the Section 9 Petition on
+ground that there was a pre-existing dispute between the parties and in order
+to settle the alleged pre-existing dispute, the MoS and the MoU were executed
+by the parties. Notably, the Adjudicating Authority has erroneously concluded
+in the Impugned Order that there was a 'pre-existing dispute' between the
+parties. The Adjudicating Authority has placed incorrect reliance on distinct
+agreements, namely MoS, MoU and the LoU, in order to ascertain whether the
+payment of License Fee can be attributed fully on the Corporate Debtor alone
+
+[PAGE 17]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 17 of 53
+
+in as much as large part of the License Fee i.e., 80% was allegedly payable by
+Reliance Companies on behalf of the Corporate Debtor to the Appellant.
+
+23. Adjudicating Authority has grossly erred at holding that the parties
+have a pre-existing dispute in relation to the operational debt claimed under
+the Section 9 Petition. Firstly, Adjudicating Authority has failed to establish
+how the definition of dispute and conditions as stipulated under Section 5(6)
+of the Code stand fulfilled for the said interpretational issue to be deemed 10
+as a pre-existing dispute. Crucially, the term "dispute" as contemplated under
+Section 5(6) of the Code refers to pendency of proceedings initiated against
+the existence of amount of debt, quality of goods or service and breach of
+representation and warranty. In the absence of any such condition being
+fulfilled and no proceedings being initiated prior to the issuance of the
+Demand Notice, the Adjudicating Authority ought not to. have concluded the
+existence of a pre-existing dispute. Secondly, one of such terms in the License
+Agreement contemplated the entire agreement clause which provided that the
+License Agreement would constitute the entire agreement between the parties
+with respect to the Premises and would supersede all oral and written
+understanding and agreement with respect thereto and shall also inter alia
+govern the enforcement of the said License Agreement. Adjudicating Authority
+failed to consider the above clause which makes it abundantly clear that the
+License Agreement contains the entire agreement between the parties and
+does not, either implicitly or otherwise, incorporate the MoS, MoU or LoU,
+which the Adjudicating Authority has considered under the Impugned Order.
+Thus, any arrangement which is prior to the execution of the License
+
+[PAGE 18]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 18 of 53
+
+Agreement either would have been merged into the License Agreement and
+would have been reflected in the same or the terms of the License Agreement
+ought to be read in isolation.
+
+24. Additionally, the Corporate Debtor alleged that the Appellant is bound
+by the principles of estoppel which binds it to the terms of the MoS and MoU
+and reference to the License Agreement is nothing but an act of fraud.
+Notably, the principle of estoppel, as alleged by the Corporate Debtor, is not
+applicable in the present case against the Appellant. In fact, the Corporate
+Debtor is bound by the principle of estoppel as pursuant to execution of the
+License Agreement and having agreed to the terms of the License Agreement,
+it cannot now renege from the same.
+
+25. Moreover, the Corporate Debtor has alleged that the MoS which was
+executed between the Corporate Debtor and Rcom (parent company of the
+Appellant), binds the Appellant as well to execute a lease deed for the period
+of 7 years for the purpose of settlement of dues of the Corporate Debtor
+payable by the Reliance Companies. Thus, the Corporate Debtor contends
+that the bifurcation of payment of the rent towards the Premises, as
+contemplated in the MoS i.e., 20% payable by the Corporate Debtor and 80%
+payable by RCOM was agreed upon by the parties as rent/License Fee payable
+towards the Premise. The Corporate Debtor further alleged that the lease
+deed, referred therein, could not have been terminated unless the Reliance
+Companies paid the entire settlement amount to the Corporate Debtor.
+Arguendo, even if the submissions of the Corporate Debtor are considered and
+
+[PAGE 19]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 19 of 53
+
+the rights of the parties are presumed to be governed by the MoU, MoS and
+the LoU, a bare perusal of the License Agreement would make it evident that
+the bifurcation contended by the Corporate Debtor is not reflected or
+contemplated in the License Agreement. In fact, there is no reference to MoS
+or MoU or the LoU in the License Agreement which could have extended the
+arrangement in relation to bifurcation of the License Fee payable to the
+Appellant. Thus, it cannot be contended by the Corporate Debtor that the
+terms of the previous agreement, which have no reference in the subsequent
+agreement, would govern the rights and obligations of the parties
+contemplated in such subsequence agreement. In any event, the reference to
+payment of settlement amount on account of termination before the lock-in
+period is erroneous. As detailed in the Appeal, the License Agreement has
+been terminated in accordance with the terms of the License Agreement and
+these terms have not bene disputed by the Corporate Debtor. Instead, it relies
+on the terms of a separate agreement to state that the Appellant could not
+have terminated the License Agreement. Further, the terms of the MoS cannot
+be imposed on the Appellant who is not even a signatory to the said
+agreement. Thus, it is clear that the Adjudicating Authority failed to
+acknowledge the basic principle of interpretation of commercial contracts that
+the interpretation of any clause of a contract must be first done on the basis
+of the bare reading of such contract. However, the Adjudicating Authority
+failed to interpret the unambiguous tenns of the License Agreement, and also
+brought the terms of the MoS, MoU and LoU into the License Agreement which
+does not refer to such documents.
+
+[PAGE 20]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 20 of 53
+
+26. While alleging material suppression of facts, the Corporate Debtor has
+failed to adduce any evidence demonstrating such material suppression of
+facts. Such bald statements, without showing any incidence of the alleged
+suppression, are merely being made to obfuscate this Appellate Tribunal from
+considering the clear error of law committed under the Impugned order. The
+Corporate Debtor also contends that the Appellant ought to have taken the
+recourse of arbitration which is contemplated under the MoS/MoU and the
+LoU. As stated above, the Appellant and the Corporate Debtor are bound by
+the terms of the License Agreement and in any event, the existence of an
+arbitration agreement does not preclude the Appellant from exercising its
+rights under the Code.
+
+27. Pertinently, a bare reading of the License Agreement, in particular,
+Article II demonstrates that the liability and responsibility of payment of the
+License Fee rests upon the Corporate Debtor. The Corporate Debtor has
+admittedly only made part payment of the License Fee to the Appellant since
+May 2019 and from April 2021 onwards the Corporate Debtor has failed to
+make any payments towards its obligation for payment of the License Fee
+under the License Agreement. Thus, the Adjudicating Authority has failed to
+apply its mind on the overwhelming evidence produced by Appellant to
+establish the existence of an operational debt owed by the Corporate Debtor
+to Appellant. The Adjudicating Authority disregarded the abstruse terms of
+the License Agreement which contemplates 100% payment of the License Fee
+by the Corporate Debtor and instead relied upon the terms of the distinct,
+different and separate agreements, one of which does not even have the
+
+[PAGE 21]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 21 of 53
+
+Appellant as a party (MoS) and to an undated letter (LoU) which refers to a
+separate Sub Lease Deed and does not refer to the License Agreement. Thus,
+it is submitted that the Adjudicating Authority has erroneously held MoS,
+MoU and the LoU is the guiding document for the purpose of determining the
+License Fee. The non-application of mind is evident from the bare reading of
+the undated LoU which refers to Sub Lease Deed dated 28 August 2018. On
+the other hand, the present dispute relates to the non-payment of the
+operational debt accruing from the License Agreement dated 29 March 2019.
+Thus, without perusing the implication of documents, the Adjudicating
+Authority imposed the liabilities from several distinct agreements viz., MoS,
+MoU and LoU unto the Appellant.
+
+28. Thus, the Adjudicating Authority has completely erred in holding that
+this is not a clear case of rent being due from the Corporate Debtor to the
+Appellant. The Adjudicating Authority arrived at the erroneous conclusions
+based on an incorrect reliance on the documents which were executed before
+the License Agreement. Admittedly and as recorded in the Impugned Order,
+the Appellant is not a party to the MoS which is the reference document for
+the purported arrangement on License Fee payment whereby 80% of the
+License Fee was to be paid by Rcom to the Appellant on behalf of the Corporate
+Debtor and 20% of the amount was to be paid by the Corporate Debtor.
+Pertinently, the said bifurcation of the payment is not stipulated under the
+License Agreement. Thus, the liability to make payment of the whole amount
+of the License Fee is solely on the Corporate Debtor as far as the Appellant is
+concerned. Given that the Appellant is not a party to the MoS, the
+
+[PAGE 22]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 22 of 53
+
+Adjudicating Authority imposing the implication and liabilities arising from
+an agreement to which the Appellant is not even a party is in clear violation
+of the settled principles of law and contours of the Code.
+
+29. Thus, it is clear from the above, that the Adjudicating Authority has
+failed to appreciate the scope and intent of the MoU, MoS and the LoU vis-à-
+vis the terms of the License Agreement and completely turned a blind eye to
+the evidence produced by the Appellant to substantiate the debt and default
+in the said proceedings by merely accepting the illusory defence offered by the
+Corporate Debtor in contravention to the provisions of the Code.
+
+30. Notably, the Corporate Debtor has constructed a baseless and false
+narrative on pre-existence of dispute in the present case. However, without
+appreciating the glaring evidence in favour of the obligation of the Corporate
+Debtor to pay the License Fee, the Adjudicating Authority has failed to grasp
+the true import and nature of the term 'dispute' as provided under the Code.
+In Mobilox Innovations Private Limited Vs. Kirusa Software Private
+Limited (2018) 1 SCC 353, the Hon'ble Supreme Court has held that a
+dispute is said to exist, as long as there is a real dispute as to payment
+between the parties that would fall within the inclusive definition contained
+in Section 5(6) of the Code. Particularly, Section 5(6) of the Code defines
+'dispute' to include a suit or arbitration proceedings relation to (a) the
+existence of the amount of debt; (b) the quality of goods or services or (c) the
+reach of a representation or warranty. As stated above, the Adjudicating
+
+[PAGE 23]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 23 of 53
+
+Authority has failed to evaluate whether the purported defence raised by the
+Corporate Debtor qualifies as dispute under the Code.
+
+31. Pertinently, the Adjudicating Authority plainly dismissed the Section 9
+Petition on the ground that the Corporate Debtor is not liable to pay the
+operational debt in its entirety. The Adjudicating Authority did not examine
+the nature of the operational debt which towards non-payment of the rental
+dues to the Appellant sought under the License Agreement. Nor did the
+Adjudicating Authority evaluate the terms of the License Agreement which
+clearly stipulate that the Corporate Debtor is liable to pay the License Fee to
+the Appellant as consideration for occupying the Premises. It is not the case
+of the Corporate Debtor. that the License Agreement bifurcates the liability
+towards payment of rent with the ratio of 80:20 where the Corporate Debtor
+was only liable to pay 20% of the License Fee. In fact, the Corporate Debtor
+imported the terms of the distinct agreements (MoS, MoU and LoU) and
+merged the bifurcation towards payment of License Fee which is not
+stipulated in the License Agreement. Thus, it is clear that the Corporate
+Debtor has created a spurious, mere bluster and vexatious defence and have
+labelled the same as 'pre-existence' between the parties.
+
+32. At this juncture, it is pertinent to highlight the judgment of this
+Appellate Tribunal in IDBI Capital Markets & Securities Ltd v JBF
+Petrochemicals Ltd., 2021 SCC Online NCLAT 4553, where the Hon'ble
+Tribunal had examined the contours of pre-existence of a dispute and had
+inter alia held as follows:
+
+[PAGE 24]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 24 of 53
+
+"MEANING OF DISPUTE
+46 It must be borne in mind that a 'Dispute' is not to be a just denial of the
+due payment. A 'Dispute' is to come within the definition of Section 5(6) of
+the I&B Code. The term 'includes' in the definition of 'Dispute' (as per
+Section 5(6) of the Code) is to be read as 'means' and not as 'include'. An
+'Adjudicating Authority 'is to be subjectively satisfied that there exists a
+'Dispute' and the same is not a frivolous or vexatious one. Also, it cannot
+be forgotten that an 'Adjudicating Authority' under the I&B Code is not the
+'proper Forum' for deciding the disputed claims/triable issues of a given
+case, in the considered opinion of this 'Tribunal'. "
+
+33. Similarly, this Appellate Tribunal in Soham Polymers Private Limited
+Vs. Flocksur India Private Limited Company Appeal (AT) (Insolvency) No.
+924/2021, has held that in proceedings under Section 9 of the Code, the
+Court has to be satisfied that a dispute truly exists in fact and is not spurious,
+hypothetical or illusory. While adjudicating an application under Section 9 of
+the Code, this Appellate Tribunal has held in Deepak Modi Vs. Shalfeyo
+Industries Private Limited, 2023 SCC Online NCLAT 169 that a "genuine"
+pre-existing dispute is a must in order to reject an application under Section
+9 of the Code. Pertinently, the Corporate Debtor's limited defence remained
+that the earlier executed agreements, viz., MoS/MoU provided that the
+Corporate Debtor would only pay 20 % of the debt. However, the Corporate
+Debtor never refuted the binding nature of the terms and the obligations
+under the License Agreement. In fact, the Corporate Debtor never challenged
+the License Agreement or contended that the License Agreement was not
+executed by the Corporate Debtor. Thus, by importing the reference of
+separate agreements into the License Agreements, the Corporate Debtor is
+
+[PAGE 25]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 25 of 53
+
+only trying to create an illusory and moonshine defence of pre -existing
+dispute and the same deserves to be dismissed in view of the settled
+judgments of this Hon'ble Tribunal and the Hon'ble Supreme Court.
+
+34. In view thereof, it is clear that the Adjudicating Authority has wrongly
+held that 80% of the License Fee was not payable by the Corporate Debtor.
+The Adjudicating Authority erred at relying on MoS, MoU and an undated LoU
+which was executed prior to the registered License Agreement. In fact, the
+License Agreement does not contain reference of MoS/MoU or LoU which
+evidently demonstrates the intention of the Appellant and Corporate Debtor
+to restrict their rights and liabilities to the License Agreement. Evidently, the
+'Appellant's right in claiming the License Fee stems from the License
+Agreement and not MoS/MoU or LoU. Thus, placing reliance on these
+documents and not on the License Agreement when the Section 9 Petition has
+been based on the non-payment of License Fee, amounting to operational
+debt, is completely erroneous and against the ethos of the Code. The eviction
+suit filed by the Appellant does not qualify as a pre-existing dispute.
+Adjudicating Authority has erred in holding that the parties had a pre-existing
+dispute on account of eviction suit filed by the Appellant against the Corporate
+Debtor. Particularly, under the heading "Analysis and Findings", the
+Adjudicating Authority makes vague reference to the eviction proceedings
+initiated by the Appellant against the Corporate Debtor before the Civil Court
+in Thane, Mumbai, (Commercial Suit No. 9 of 2020, renumbered as
+Commercial Suit No. 2 of 2023) without providing specifically whether the
+said observation has had a role to play in the determination of a pre-existing
+
+[PAGE 26]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 26 of 53
+
+dispute by the Adjudicating Authority in the present proceedings. Assuming
+that the said observation has had an impact towards the finding of the
+Adjudicating Authority on the existence of a pre-existing dispute, it is crucial
+to highlight that the said proceedings have been initiated for vacation of the
+Premises which has been illegally occupied by the Corporate Debtor despite
+lack of any payments being provided by it to the Appellant. In contrast, the
+present proceedings have been initiated seeking for initiation of insolvency
+proceedings against the Corporate Debtor for continuous defaults in payment
+towards the License Fees. The definition of 'dispute' is clear and on bare
+reading of the same, it is evident that the subject matter of the eviction
+proceedings does not pertain to either (i) existence of the amount of debt i.e.,
+License Fee payable by the Corporate Debtor; (ii) the quality of the good or
+service or (iii) breach of any warranty or representation. The civil suit is
+completely distinct from the subject matter of the present Section 9
+Application and cannot, by any stretch of imagination, fall under any of the
+heads prescribed under the definition of "dispute" under the Code. Thus, it
+cannot be treated as a "pre-existing dispute" for the purposes of the Section
+9 Application, particularly the manner in which the same has been considered
+under the Impugned Order by the Adjudicating Authority. Thus, it is clear
+that the Adjudicating Authority completely failed to consider the above
+arguments and passed the Impugned Order without application of mind and
+in gross violation of the Code.
+
+35. The Appellant further submits and reiterates that the liability to pay the
+entire License Fee solely devolves upon the Corporate Debtor even as per the
+
+[PAGE 27]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 27 of 53
+
+terms of the MoS, MoU and LoU. In view of the above, it is clear that the
+Adjudicating Authority has ignored the settled provision of law laid down by
+the Hon'ble Supreme Court and this Hon'ble Tribunal that (i) an application
+under Section 9 of the Code must be allowed when the admitted debt crosses
+the monetary threshold of INR 1 crore as prescribed under Section 4 of the
+Code; (ii) a moonshine defence cannot be considered for the purpose of
+examination of the 'pre-existence' of a dispute under Sections 8 and 9 of the
+Code; (iii) the interpretation of commercial contracts require literal
+interpretation; (iv) a civil suit filed in relation to eviction of the Corporate
+Debtor could not be considered as a pre-existing dispute between the parties.
+
+36. Thus, in view of the above submissions, the Appellant humbly submits
+and prays that the Appeal deserves to be admitted and the Impugned Order
+ought to be set aside.
+Submissions of the Respondent – Altruist Customer Management India
+Pvt. Ltd. earlier Vertex Customer Management India Private Ltd
+
+37. Adjudicating Authority has rightly appreciated that the appeal filed in
+NCLT was not maintainable in terms to Section 9 of the IBC 2016 due to pre-
+existing dispute between the parties evident from the conclusion made in para
+no 4, 11, 9 and 6 of the judgment at page no. 92 to 97 of the order dated
+05.09.2024. The appellant is trying to mislead the Court from the fact that
+how the existence of landlord and tenant come into picture. Memorandum of
+settlement at page 284 of the appeal shows that for settling the dues of
+Rs.32,86,56,444/- the parental company Reliance Communication Limited
+agreed to let out the space to the Corporate Debtor by binding its subsidiary
+
+[PAGE 28]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 28 of 53
+
+company i.e. Appellant whereby it was agreed that the Appellant will execute
+a Lease Deed for the property situated at BLDG No. A-8, Sector No.1, Plot No.
+MBP2, TTC, Mhape, Navi Mumbai for a period of 7 years 4 months to settle
+the dues of their parental company. It was also agreed that the 20% of the
+rent will be paid by the Corporate Debtor to the Appellant directly and rest
+80% shall be paid by the parental company i.e, Reliance Communication Ltd.
+to Appellant directly and the parental company to the extent of 80% will not
+deduct TDS evident at page no. 285 (III) of the said settlement deed. At Clause
+No. F of the said settlement deed at page no. 286 it is clearly mentioned that
+the terms of MOS is executed free of consent and to square of the debts and
+outstanding of the Corporate Debtor by reliance and its affiliates and Group
+Companies page no. 286. it is also mentioned in Clause R and page no. 287
+for the settlement deed that in case of any dispute under the said MOS same
+shall be referred to Arbitration.
+
+38. After the execution of Memorandum of Settlement on 20.08.2018
+another Memorandum of Understanding subsequent was signed in which at
+page no. 291 it is categorically written that they are settling the disputes of
+the settlement amount specified in the Memorandum of Settlement and
+accepted the terms contained in the said Memorandum of Settlement and to
+give effect to the Memorandum of Settlement the Memorandum of
+Understanding was executed on the same day on dated 20.08.2018 whereby
+in Clause 1.2 and 1.7 the Appellant bind themselves for the making the
+payment of the settlement amount and also accepted the proportion of rent
+to be paid 20:80 ratio and in Clause 2 of the said Understanding parental
+
+[PAGE 29]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 29 of 53
+
+company agreed that the 80% amount paid to Appellant directly in terms to
+settled condition of MOS (Memorandum of Settlement). Even Appellant was
+party to the same clearly mentioned that the MOU shall read in conjunction
+with the MOS and in case any of term herein been contrary to the terms of
+MOS the terms of MOS shall prevail page no. 29l. Even on the same day a
+LETTER OF UNDERSTANDING dated 20.08.2018 which Annexure R-4, page
+no. 453 of the appeal clearly demonstrate that the Appellant undertakes that
+the terms of MOS, MOU and deed shall be read together and in case of any
+inconsistency therein term of MOS will prevail between Appellant, its parental
+company and its Group Companies and Corporate Debtor and which was duly
+signed by all parties.
+
+39. Respondent contends that the present appeal challenging the Order
+dated 05.09.2024 is totally perverse and an attempt to misguide the Appellate
+Tribunal and an attempt to get something out of nothing as the Adjudicating
+Authority while passing the said order has rightly appreciated that the same
+appeal filed in NCLT was not maintainable in terms to Section 9 of the IBC
+2016 due to pre-existing dispute between the parties evident from the
+conclusion made in para no 4, 11, 9 and 6 of the judgment at page no. 92 to
+97 of the order dated 05.09.2024.
+
+40. Respondent contends that the appellant is trying to mislead the Court
+from the fact that how the existence of landlord and tenant come into picture.
+It is evident from the Memorandum of settlement at page no. 98 of APB it is
+admitted fact that for settling the dues of Rs.32,86,56,444/- (Rs. Thirty Two
+
+[PAGE 30]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 30 of 53
+
+Crores Eighty Six Lacs Fifty Six Thousand Four Hundred and Forty Four Only)
+the 5parental company Reliance Communication Limited agreed to let out the
+space to the Corporate Debtor by binding its subsidiary company i.e.
+Appellant whereby it was agreed that the Appellant will execute a Lease Deed
+for the property situated at BLDG No. A-8, Sector No.1, Plot No. MBP2, TTC,
+Mhape, Nevi Mumbai for a period of 7 years 4 months to settle the dues of
+their parental company. It was agreed that the 20% of the tenant will be paid
+by the Corporate Debtor to the Appellant directly and rest 80% shall be paid
+by the parental company i.e, Reliance Communication Ltd. to Appellant
+directly and the parental company to the extent of 80% will not deduct TDS
+as per settlement deed.
+
+41. Furthermore, at Clause No. f of the said settlement deed, it is clearly
+mentioned that the terms of MOS are executed free of consent and to square
+of the debts and outstanding of the Corporate Debtor by reliance and its
+affiliates and Group Companies page no. 286. It is also mentioned in Clause
+r of settlement deed that in case of any dispute under the said MOS same
+shall be referred to Arbitration.
+
+42. After the execution of Memorandum of Settlement on 20.08.2018,
+another Memorandum of Understanding was signed where it is categorically
+written that they have settlement of the dispute of the settlement amount
+specified in the Memorandum of Settlement and accepted the terms contained
+in the said Memorandum of Settlement and to give effect to the Memorandum
+
+5 Clause (a) of MOS
+
+[PAGE 31]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 31 of 53
+
+of Settlement the Memorandum of Understanding was executed on the same
+day on dated 20.08.2018 whereby in Clause 1.2 and 1.7 the Appellant bind
+themselves for the making the payment of the settlement amount and also
+accepted the proportion of rent to be paid 20:80 ratio and in Clause 2 of the
+said Understanding parental company agreed that the 80% amount paid to
+Appellant directly in terms to settled condition of MOS (Memorandum of
+Settlement).
+
+43. Appellant is trying to mislead the Appellate Tribunal by filing a vague,
+baseless appeal because as per Clause 6 of the said Memorandum of
+Understanding executed by Appellant and wherein even Appellant was party
+to the same clearly mentioned that the MOU shall read in conjunction with
+the MOS and in case any of term herein been contrary to the terms of MOS
+the terms of MOS shall prevail.
+
+44. Even on the same day a Letter of Understanding 6dated 20.08.2018
+which is at page no. 111 of the appeal clearly demonstrate that the Appellant
+undertakes that the terms of MOS, MOU and deed shall be read together and
+in case of any inconsistency therein, terms of MOS will prevail between
+Appellant, its parental company and its Group Companies and Corporate
+Debtor and which was duly signed by all parties.
+
+45. Adjudicating Authority has rightly passed the order dated 05.09.2024
+and there is no illegality or perversity and or non-application of judicious mind
+while rejecting the Section 9 application in terms to section 9(5)(2)(d) of the
+
+6 As per records it is undated letter of understanding
+
+[PAGE 32]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 32 of 53
+
+Appellants in terms to condition mentioned in MOA, MOU, Letter of
+Understanding executed between both parties on 20.08.2018.Order dated
+05.09.2024 passed by Adjudicating Authority is absolutely legal and correct
+in terms to settled judgment of this AT passed in Company Appeal (AT)
+(Insolvency) No. 95 of 2025 titled "Tirupati Drilling & Mining Services
+Private Ltd vs Sadbhav Engineering Limited" on the ground that in case
+there is pre-existing dispute between the parties, Section 9 petition is not
+maintainable which the Adjudicating Authority rightly appreciated.
+Adjudicating Authority passed the order by verifying all the facts and terms
+of MOS, MOU and letter of understanding which are conjoint with each other.
+Further only after signing Memorandum of Settlement and Memorandum of
+Understanding and letter of understanding between Appellant and parental
+company with Corporate Debtor the later agreed to settle his dues of recovery
+i.e. Rs Rs.32,86,56,444/- [Rs. Thirty Two Crores Eighty Six Lacs Fifty Six
+Thousand Four Hundred and Forty Four Only] and agreed to take the said
+premises on lease for the period of 7 years and 4 months in terms of the letter
+of understanding duly signed by Appellant and Corporate Debtor the
+existence of lease deeds comes. Lease deeds in question cannot be read in bits
+and pieces and standalone manner.
+
+46. MOS, MOU and letter of understanding, were all executed on the same
+day i.e. 20.08.2018 to settle the dispute between the parental company which
+binds its Group Company i.e. Appellant to give the premises on rent in terms
+of 20:80 ratio for a period of 7 years 4 months to settle its outstanding towards
+Corporate Debtor. Further when it is duly signed by the Appellant Company
+
+[PAGE 33]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 33 of 53
+
+and acted on the same till 2020 by taking 20% rent from Corporate Debtor
+from 2018, Appellant in no way can say that the said dues of 80% is also a
+liability of the Corporate Debtor. At best they Appellant should have gone to
+Arbitration for the same and in no means Section 9 petition is maintainable
+until the dues and the duration for the which the MOS and MOU and letter
+of Understanding was signed between the parties is lapsed. Therefore, to
+demand the said 80% component of the rent from the Corporate Debtor is
+totally unfair and un warranted.
+
+47. Moreover, once a legal notice for eviction notice is given, ignoring the
+terms of MOS and MOU and letter of understanding duly executed between
+the parties, the entire act of Appellant is nothing but violation of the terms of
+the said deeds and have no right to approach this forum as a recovery forum.
+On the contrary Appellant should have moved to Arbitration of Eviction
+proceedings, which they had already done by approaching or Eviction
+proceedings in District Thana Mumbai, which was objected by the Appellant,
+while moving an application u/s 11 of the Arbitration Act. District Court
+Mumbai vide order dated 11.03.2025 directed the Appellant to approach the
+concerned Arbitration for their eviction and recovery proceedings. According
+to law due to a pre-existing dispute they cannot treat NCLT as Recovery forum
+pre-existing dispute under Section 9 petition is maintainable basis the facts
+and evidence tendered by both the parties. Ld. Adjudicating Authority has
+rightly dismissed the petition of Appellant, while passing the order dated
+05.09.2024 which is under appeal as not maintainable.
+
+[PAGE 34]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 34 of 53
+
+48. Once a pre-existing dispute is there, which includes giving eviction
+notice by Appellant and duly replied by the Corporate Debtor prior to issue of
+Demand Notice under IBC Code 2016 the proceedings of Section 9 initiation
+under IBC are barred.
+
+49. Further due to the fact that the Appellant was receiving the rent in
+20:80 ratio from 2018 till 2020, this itself binds themselves with the terms of
+conditions of MOS, MOU and letter of understanding and principle of estopple
+by conduct. Moreover, refusing to accept the terms till the lapse of the period
+of 7 years, 4 months mentioned in the Memorandum of Settlement-on which
+the existence of the lease deeds comes into existence making a relationship of
+landlord and tenant between both the parties cannot be read independently
+therefore, it is nothing but an act of unjust enrichment on the part of the
+Appellant.
+
+50. The present appeal filed by appellant is liable to be dismissed out rightly
+and there is no scope of interference in the order dated 05.09.2024 passed by
+Adjudicating Authority under Section 9(5)(2)(d) of IBC Code 2016 and also
+imposing exemplary costs on the Appellant for filing false, frivolous and
+baseless appeal in the interest of justice.
+
+51. The order passed by the NCLT (Adjudicating Authority) dated
+05.09.2024 is in consonance with Section 9 (5) (2) (d) as there was a pre-
+existing dispute between both the parties pertaining to lease property. Lease
+executed by the Appellant in favour of Corporate Debtor, was under the
+contractual obligation in terms to Memorandum of Settlement dated
+
+[PAGE 35]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 35 of 53
+
+20.08.2018 which was conjoint with another documents i.e. Memorandum of
+Understanding and letter of Undertaking all executed on the same day dated
+20.08.2018 so binds both parties to the amicable settlement for clearing the
+dues of the Corporate Debtor amounting to Rs.32,86,56,444/- which was due
+and payable and outstanding towards principal company of the Appellant. It
+was a contractual obligation of the Appellant Company to execute a lease deed
+in favour of Corporate Debtor for the period of 7 years 4 months for clearing
+the dues of their principal company to clear the outstanding of the Corporate
+Debtor by giving on lease the subjected property in question. So the existence
+of the lease deed executed between both parties came into existence only after
+the said principal documents including Memorandum of Settlement,
+Memorandum of Understanding and letter of undertaking were executed
+between all necessary parties so stating that the lease deed should be read
+independent for purpose of present petition is totally baseless and vague.
+
+52. Memorandum of Settlement says about contractual obligations that
+says rent would be Rs.49,97,788/-, which was the total rent which was
+supposed to be charged after three months in proportion to 20:80 ratio and
+lock in period was one year. Same obligation Clause (a) of Article (ii) L&L
+Agreement of 29.03.2019 [@119 APB] which also proves the facts that lease
+is supposed to commence from 28.11.2018 which is much prior from the
+execution of the said lease documents. Therefore, claiming that lease has no
+reference of Memorandum of Settlement or other documents dated
+20.08.2018 is totally wrong and baseless. As Contract of lease came into
+existence due to the existence of Memorandum of Settlement, Memorandum
+
+[PAGE 36]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 36 of 53
+
+of Understanding and Letter of Undertaking executed and therefore, Contract
+be implied by law or by the conduct of the parties creates legally binding
+obligation even without written and spoken terms in the said lease deed and
+had to read all the documents con-jointly not separately.
+
+53. Once a disputed fact need to be appreciated on evidence under Indian
+Evidence Act and pre-existing dispute, the adjudicating authority’s role is
+limited to ascertaining if the genuine dispute is present or not. Even evidence
+such as an Arbitration notice or termination notice or reply to termination
+notice are signals of pre-existing disputes rightly held by this Tribunal and
+Hon’ble Supreme Court in Mobilox Innovation Pvt. Ltd. (Supra) and other
+judgments, which says the authority should not get involved in sifting through
+complex reliable contentions on giving a judgment on merits of the dispute.
+
+54. That Adjudicating Authority cannot act as recovery forum once there is
+mentioning of Arbitration Clause or Eviction Suit already filed by the
+connected party on a demand letter dated 23.08.2022 of 100% amount which
+is objected and under dispute between both parties.
+
+55. Hence the present petition u/s 9 is not maintainable and the Order
+passed by Adjudicating Authority dated 05.09.2024 by NCLT Delhi has no
+infirmity and within the Section 9 (5) (2) (d) of IBC code 2016 and relevant
+judgment filed by the respondent in their reply. Present petition filed by the
+Operational Creditor u/s 9 of IBC 2016 deserves to be dismissed as not
+maintainable and liable to be rejected u/s 9 (5) (2) (d) of IBC 2016.
+
+[PAGE 37]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 37 of 53
+
+Appraisal
+56.
+This appeal arises out of the rejection of a Section 9 petition filed by
+Reliance Realty Limited-RRL-Appellant claiming operational debt against
+Altruist Customer Management India Pvt. Ltd.-ACMIPL- Respondent-
+Corporate Debtor formerly known as Vertex Customer Management India
+Private Ltd. relating to unpaid rentals under a License Agreement dated 29
+March 2019.
+
+57.
+We have heard counsel of both sides and perused the materials placed
+on record. The issue that arises for deciding this Appeal is whether dismissal
+of CP filed by the Appellant for invoking CIR Proceedings against the Appellant
+under Section 9 of the Code is sustainable due to an existence of dispute
+between the Appellant – OC – RRL and the CD – Altruist.
+
+58.
+Before proceeding further, we find out the genesis of the “Operational
+debt”. We note that the debt in question, as per claims of the Appellant-RRL
+have risen pursuant to a License Agreement dated March 29, 2019, executed
+between Reliance Realty Limited and Altruist Customer Management India
+Pvt. Ltd. the Corporate Debtor. Under this agreement, the Corporate Debtor
+was granted possession and occupation of a Building. The Corporate Debtor
+agreed to pay monthly rental dues but some dues are outstanding. Appellant
+contends that these dues constitute an operational debt within the meaning
+of Section 5(21) of the Insolvency and Bankruptcy Code, 2016. Accordingly,
+the Appellant issued a demand notice under Section 8 of the IBC for recovery
+of these dues, as per Section 9 of the Code. It is contended by the Appellant
+that there is no genuine dispute regarding the debt as the Corporate Debtor
+
+[PAGE 38]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 38 of 53
+
+itself had admitted liability for at least 20% of the monthly rent during
+relevant periods which itself exceeds the threshold limit of INR 1 crore
+prescribed in Section 4 of the IBC for initiating insolvency proceedings. The
+admitted liability itself suffices to demonstrate the existence of a debt and
+default warranting admission of the Section 9 petition, as held in Nandamuri
+Meenalatha v. Quality Steels and Wire Products, Company Appeal (AT)
+(Insolvency) No. 11 of 2023. Appellant further contends that the existence
+of the debt is further substantiated by the License Agreement, which is a
+registered contract containing an “entire agreement” clause. This agreement
+supersedes all prior arrangements, including the Memorandum of Settlement-
+MoS, the Memorandum of Understanding-MoU, and an undated Letter of
+Understanding-LoU executed between the parties or their related entities.
+Such prior agreements were entered into between Reliance group companies,
+including Reliance Communications Limited (RCom), which underwent
+insolvency proceedings, and the Corporate Debtor, as part of a larger
+consolidated settlement framework.
+
+59.
+To determine the correctness of the outstanding dues per leave and
+license agreement, we find that it has historical linkage with the settlement of
+the past dues of Appellant as is noted in the demand notice issued by the
+Appellant dated 23rd August 2023 in @185 onwards in the APB which states
+as follows:
+“...
+2.
+You (Altruist Customer Management India Private Limited or
+'Altruist' or 'you'), are in the business of providing BPO operations and
+connected services to various entities. Under a Registered Agreement of
+Leave and License dated 29th March, 2019 (hereinafter referred to as the
+
+[PAGE 39]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 39 of 53
+
+said 'Agreement) entered. between the Operational Creditor as the
+Licensor and you as the Licensee, the Operational Creditor permitted you,
+for the purpose of conducting your BPO operations in the said premises,
+on terms and conditions contained therein. The tenure of the Agreement
+was 60 months commencing from 28th August, 2018. The lock-in period
+was for a period of twelve (12) months commencing from 28th August,
+2018 wherein the Licensee (You) shall not be entitled to terminate the
+Agreement. The (Operational Creditor Licensor had a lock-in-period of nine
+(9) months commencing after three months from 28th August, 2018.
+
+3.
+Under the License Agreement, you have agreed to pay licensee less
+@ Rs.49,77,880/- per month plus GST as applicable subject to deduction
+of applicable taxes at sources as required by law. The Operational Creditor
+was entitled to charge interest @15% p.a. on the outstanding sum if the
+payment is made after 7th of each calendar month towards delayed
+payment up to 60 days. All the statutory payments were to be made by
+you. There was escalation of license fees @10% after the first three years
+starting from the date of commencement of the agreement i.e. 28th
+August, 2018.
+
+4.
+Few of Reliance Entities i.e. Reliance Communications Limited
+('RCOM) and its subsidiaries namely Reliance Communications
+Infrastructure Limited ('RCIL), Reliance Telecom Limited (RTL) and Reliance
+Web Service Limited ('RWSL) [Collectively RCOM, RTL, RCIL and RWSL are
+referred to as 'Group Companies'] had availed services from You (formerly
+known as Vertex Customer Solutions India Private Limited) under Master
+Services Agreement dated 01.09.2014 ('MSA). Vide a Memorandum of
+Settlement dated 20th August, 2018, four of the Group companies of the
+Operational Creditor had entered into a Settlement with your Company
+against the dues that were payable by them to your company for the
+services provided to them by you under the MSA. Under the Memorandum
+of Settlement, it was agreed by the Group Companies that the property of
+the Operational Creditor shall be let out by the Operational Creditor to
+your Company and towards the license fee, 80% of the monthly license
+fees shall be paid by RCOM to the Operational Creditor to adjust the
+outstanding dues of RCOM to your company, and the balance 20% was to
+be paid by your Company Lo the Operational Creditor directly. It is
+pertinent to note that the Operational Creditor was not a party to the
+Memorandum of Settlement Deed dated 20th August, 2018 that was
+executed between you and the Group Companies.
+
+[PAGE 40]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 40 of 53
+
+5.
+You and the Operational Creditor have entered into a
+Memorandum Understanding of dated 20th August, 2018 wherein it was
+agreed by the parties that 80% of the License fees shall be paid by RCOM
+and you shall be paying 20% of the monthly license fees and other
+incidental charges to the Operational Creditor. This agreement in clear
+terms also provided the rights of the Operational Creditor to terminate the
+Leave and License Agreement and the consequences of termination of the
+Leave and License Agreement post the lock-in-period, whereby RCOM shall
+pay the balance unadjusted Settlement under their Memorandum of
+Settlement dated 20th August, 2018 to you. This means that there were
+no restrictions or embargo on the termination of the Leave and License
+Agreement and the Operational Creditor was at all times entitled to
+receive the entire license lees under the Leave and License Agreement. The
+Operational Creditor being a separate legal entity, was not in any way
+concerned about any dispute or settlement between the Group
+Companies and you and that was the reason that Operational Creditor had
+the right to terminate the Leave and License Agreement in case of breach
+of its provisions in terms of the Leave and License Agreement and the
+Memorandum of Settlement and Memorandum of Understanding, and the
+arrangement between you and the Group Companies was independent
+arrangement.
+
+6.
+The Operational Creditor states that three of the companies to the
+said Memorandum of Settlement dated 20th August, 2018 went under the
+Corporate Insolvency Resolution Process, the License fees committed by
+you through these companies stopped coming in, or the Operational
+Creditor was not receiving the entire License fees that was
+promised/undertaken to be paid by you through these companies,
+resulting in outstanding dues to the extent of Rs. 3,72,34,546/- as оn 9th
+January, 2020 unpaid by you. The Operational Creditor VII (1) the License
+accordingly in terms of Article of Agreement, issued a notice dated 9th
+January 2020 to you to remedy the breach within a period of 30 days
+thereof by making the payment of the outstanding License fees of Rs.
+3,72,34,546/ that was due as on 9th January, 2020 along with the
+prescribed rate of interest as per the Agreement @15% p.a., within a
+period of 30 days thereof, failing which the Operational Creditor would be
+taking appropriate action against the you...”
+
+60.
+Further, the details of the past dues are noted in the APB in the very
+beginning of the APB at pages 7 onwards noted as below:
+
+[PAGE 41]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 41 of 53
+
+01.09.2014
+Reliance Group Companies (RCOM, RCIL, RTL, RWSL) availed services of
+the Corporate Debtor under a Master Services Agreement. Bills mounted
+to INR 32,86,56,444 owed to Vertex Customer Management India Private
+Ltd now Altruist Customer Management India Pvt. Ltd.
+20.08.2018
+For settlement of debt amounting to INR 32,86,56,444 owed to the
+Corporate Debtor (“MoS”), Group Companies and Corporate Debtor
+entered a Memorandum of Settlement regarding dues payable, agreeing
+that the Operational Creditor’s property would be let out to the
+Corporate Debtor, with 80% license fees payable by RCOM and 20% by
+the Corporate Debtor.
+20.08.2018
+Memorandum of Understanding dated 20 August 2018, (“MoU”)
+executed between RCL, the Appellant and the Corporate Debtor which
+reiterated the terms of MoS INR 4,97,788(0)7 as rent payable for the
+Premises. The terms of the MoS were reiterated in MoU.
+28.08.2018
+Sub Lease Deed executed between Appellant and the Corporate Debtor
+where the parties had agreed that the Premises would be licensed to the
+Corporate Debtor by the Appellant on a monthly rent of INR 49,77,880 .
+29.03.2019
+The Appellant and the Corporate Debtor executed Sub Lease
+Cancellation Letter where the parties mutually decided to terminate and
+cancel the Sub Lease Deed dated 28 August 2018.
+29.03.2019
+A registered Leave and License Agreement was executed between the
+Operational Creditor (Licensor) and Corporate Debtor (Licensee) at a
+monthly license fee of ₹49,77,880/- plus GST.
+06.11.2019
+Appellant informed the Corporate Debtor that the License Fee for the
+month of November 2019 i.e., INR 58,73,898 is payable by the Corporate
+Debtor.
+02.12.2019
+Representative of the Appellant addressed another email to the
+Corporate Debtor seeking payment of INR 58,73,898.
+13.12.2019
+Representative of the Appellant once again called upon the Corporate
+Debtor to make full payment of License Fee to Appellant without
+deducting 80% amount and to also pay any differential in the payments
+made towards License Fee since 10 May 2019.
+09.01.2020
+Operational Creditor issued a notice to Corporate Debtor for breach due
+to outstanding dues of ₹3,72,34,546/- and called for payment with
+interest within 30 days.
+28.01.2020
+Corporate Debtor replied denying breach, claiming compliance with the
+MoU and Settlement terms, while continuing to occupy the premises
+without paying license fees.
+
+7 We find this figure to be different than claimed later parts in the APB with one additional zero in the end
+
+[PAGE 42]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 42 of 53
+
+21.03.2022
+Operational Creditor issued a termination notice under the Agreement,
+requiring Corporate Debtor to vacate by 21.05.2022 and pay 150% of
+license fee per day of delay.
+25.03.2022
+Corporate Debtor wrote to Operational Creditor and Group Companies,
+stating RCOM must pay its unadjusted dues to Corporate Debtor before
+eviction.
+18.05.2022
+Operational Creditor clarified that they were not a party to the
+Settlement and had full contractual right to terminate and seek eviction.
+21.05.2022
+Corporate Debtor reiterated disputes under the Settlement and claimed
+Operational Creditor could not terminate until those issues were
+resolved.
+26.05.2022
+Operational Creditor replied that Corporate Debtor was bound only by
+the Agreement and would be considered a trespasser if they failed to
+vacate.
+01.06.2022
+Corporate Debtor contended that the Agreement could not be read in
+isolation from the MoU and Settlement and refused eviction, indicating
+arbitration would be invoked.
+13.06.2022
+Operational Creditor again asserted its right to terminate and demanded
+outstanding payments or vacation of premises.
+
+Corporate Debtor’s outstanding dues stood at ₹ 19.89 crore license fees
+and ₹24.34 crore including 15% interest, payable to Operational Creditor.
+23.08.2022
+Operational Creditor issued a demand notice in Form 3 under Section 9
+of the Insolvency and Bankruptcy Code, 2016.
+
+61.
+From the perusal of averments of the Appellant in the demand notice
+and also extracts of chronology, it is clear that the leave and license agreement
+has a direct linkage with the LOS and MoU as mentioned in the APB itself.
+We note that the building was licensed to the Respondent for settlement of
+their past dues. And now apparently the settlement has failed in this case,
+due to peculiar circumstance as noted in the demand notice that “three of the
+companies to the said Memorandum of Settlement dated 20th August, 2018
+went under the Corporate Insolvency Resolution Process, the License fees
+committed by you through these companies stopped coming in, or the
+Operational Creditor was not receiving the entire License fees that was
+
+[PAGE 43]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 43 of 53
+
+promised/undertaken to be paid by you through these companies, resulting in
+outstanding dues to the extent of Rs.3,72,34,546/- as on 9th January, 2020
+unpaid by you”. In such a situation who is liable to pay rest 80% and then
+subsequent termination of the leave and license agreement by the Appellant-
+RRL are contractual disputes and Adjudicating authority cannot determine
+the debt and default - even to the extent of 20% of the rent and cannot be
+undisputedly fastened on the Respondents.
+
+62.
+The Respondent claims that the License Agreement incorporates the
+terms of these prior agreements, including the liabilities of the related group
+companies, and that these cannot be excluded from the scope of the debt
+claim. Reliance Realty Limited, as a successor-in-interest and operational
+creditor, cannot evade responsibility for the debt underlying the License
+Agreement by invoking the insolvency status of other Reliance group
+companies. We may not enter into this question at this stage as we note from
+the Leave and license agreement which was signed on 29th March, 2019 and
+the tenure of the Agreement was 60 months commencing from 28th August,
+2018 and the licensee fess was @ Rs.49,77,880/- per month. We note all this
+corresponds to the facts in the sublease deed signed on 28th August, 2018
+pursuant to the MoS and MOU, culminating in the Sublease deed. We also
+note that subsequent contracts incorporating earlier obligations bind parties
+and related entities.
+
+63.
+The Appellant relies on the judicial pronouncements of the Supreme
+Court, including Joshi Technologies International Inc. v. Union of India,
+
+[PAGE 44]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 44 of 53
+
+(2015) 7 SCC 728 and Roop Kumar v. Mohan Thedani, (2003) 6 SCC 595,
+which recognize the supremacy of a registered contract and prohibit the
+introduction of contradictory prior negotiations or agreements to diminish
+contractual liabilities. Section 94 of the Bharatiya Sakshya Adhiniyam,
+2023 (formerly Section 91 of the Indian Evidence Act, 1872) directly
+addresses the weight of such documents. The Appellant argues that the claim
+is not subject to any pre-existing dispute within the meaning of Section 8(2)(a)
+of the IBC. It is emphasized that the Corporate Debtor’s admissions and the
+license payments admitted demonstrate an undisputed sum sufficient to
+trigger the CIRP. The Appellant invokes Mobilox Innovations Pvt. Ltd. v.
+Kirusa Software Pvt. Ltd., (2018) 1 SCC 353, which clarified that “a dispute
+must be genuine, not spurious,” and “must have existed at the time of the
+notice.” In summary, Appellant contends that the debt arises under a legally
+binding and registered License Agreement that absorbs prior settlements
+among the Reliance group entities. The liability admitted by the Corporate
+Debtor exceeds the threshold amount under Section 4 of the IBC, qualifying
+the operational creditor’s application for initiation of the CIRP.
+
+64.
+We find that prior to the License Agreement dated 29 March 2019, the
+parties
+entered
+into
+several
+settlement
+documents
+including
+the
+Memorandum of Settlement (“MoS”), the Memorandum of Understanding
+(“MoU”), and an undated Letter of Understanding (“LoU”). These agreements,
+which involved the Appellant as well as related Reliance group companies,
+including
+Reliance
+Communications
+Limited
+(“RCom,”
+undergoing
+insolvency), explicitly settled and adjusted the liabilities pertaining to rental
+
+[PAGE 45]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 45 of 53
+
+dues, and such arrangements were implemented and acted upon, thus
+forming the true basis of the liabilities. We are inclined to agree with the
+Respondent that these settlement agreements are binding and constitute the
+true, operative contractual framework controlling the liabilities and
+obligations of the parties. But in the facts and circumstances of the case we
+not disputes which require interpretation of contractual obligations, and thus
+the determination of debt as claimed in the demand notice comes under cloud.
+We also observe that Respondent has strongly denied and disputes have been
+raised as noted below from page 218 APB in the reply of the Respondent to
+the Demand Notice:
+“....
+a. As already communicated by us on multiple occasions, there already exists
+a dispute between the Parties as your Notice of termination notice 21st
+March, 2022 was Arbitrary against the understanding of the Agreements
+and due to this fact, Altruist disputed your termination.
+b. It is a matter of record that Leave and License Agreement dated 29th
+March 2019 (LLA) was executed between Altruist Customer Management
+India Private Limited (Altruist) and the first addressee being Reliance Realty
+Ltd in respect of building No A-8 at Sector 1, MBP 2, TTC Industrial Area
+Mahape Taluka Dist Thane Navi Mumbai ("Demised Premises).
+
+c. The execution of the LLA was in reference to Memorandum of Settlement
+("MOS") dated 20th August, 2018 entered into with various Reliance
+entities namely a) Reliance Communications Limited, b) Reliance Telecom
+Limited, c) Reliance Web Services Limited and d) Reliance Communication
+Infrastructure Limited (collectively "Reliance"). A Memorandum of
+Understanding dated 20th August, 2018 (MOU) which was drawn from the
+terms of the Memorandum of Settlement dated20th August,2018 (MOS)
+
+[PAGE 46]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 46 of 53
+
+was signed by the Parties. You had agreed to abide by the terms of the
+MOS by signing the MOU.
+
+d. As per clause a (vi) of the said MOS, in the event of termination of lease by
+Reliance Reality Limited, the unadjusted outstanding dues shall be payable
+to Altruist and all Reliance entities which had signed the MOS shall become
+liable to pay the dues to Altruist. By virtue of you having agreed upon the
+terms of the MOS, you are bound to follow the agreed terms of MOS, thus
+the due amounts from the Reliance share towards the rent for the Demised
+Premises should have been collected by you from them and besides that
+the due amounts to us towards our outstanding are also to be settled by
+you. Till date, Reliance is yet to clear the balance amounting to Rs. 14.46
+crores due to Altruist Customer Management.
+
+e. As mentioned in our previous occasions, the terms of the MOS shall prevail
+over all other documents signed by the Parties in this regard. Therefore,
+any conditions which overrides the MOS shall become invalid.
+
+f. We are in no way in acceptance of your notice of termination which was
+arbitrary and without any merit and for other reasons stated herein. This
+is being a dispute between you and us. In terms of the MOU, MOS and
+Leave and License Agreement("Agreements"), any dispute or difference
+shall be settled through the process of Arbitration.
+
+g. You had also failed to deposit GST which was collected from us on certain
+months’ forms part of the dispute.
+
+h. Since there is a definitive dispute between the Parties as stated above, your
+alleged demand cannot be under the purview of the IBC/NCLT...”
+
+65.
+From the above, we note that Section 8 notice and subsequent
+Section 9 petition rely heavily on the leave and license agreement signed
+between the Appellant – RRL and CD – Altruist on 29th March 2019.
+
+[PAGE 47]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 47 of 53
+
+Even though it is signed on 29.03.2019 but the “license shall commence
+from 28 Nov. 2018” (Clause (a) of Article II relating to license fees) clearly
+stands out. A question arises that, if it has to be read as a standalone
+agreement why from a backdate of 28 Nov. 2018. Further, schedule of
+property mentioned herein in this L & L agreement is same as with any
+other documents i.e. MOS & MOU. Memorandum of Settlement says
+about contractual obligations and also states rent would be
+Rs.49,97,788/-, which was the total rent which was supposed to be
+charged after three months in proportion to 20:80 ratio and lock in
+period was one year. A similar obligation in Clause (a) of Article (ii)
+under leave and License Agreement of 29.03.2019 [@119 APB] also
+proves the facts that lease was supposed to commence from
+28.11.2018, which is much prior from the execution of the said lease
+documents. Therefore, we find that claiming that the lease of 29th March
+2019 has no reference of Memorandum of Settlement or other
+documents dated 20.08.2018 is incorrect and needs further
+determination. We find that as contract of lease came into existence due
+to the existence of Memorandum of Settlement, Memorandum of
+Understanding and Letter of Undertaking executed. Therefore, contract
+will be implied by law or by the conduct of the parties and creates legally
+binding obligation even without written and spoken terms in the said
+lease deed and all the documents had to be read con-jointly not
+separately.
+
+[PAGE 48]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 48 of 53
+
+66.
+We further note that the Appellant’s claim of an admitted 20% liability
+by the Corporate Debtor is only a part of the picture, with the Respondent
+disputing the balance as settled in the MoS and LoU. We note that only after
+signing Memorandum of Settlement and Memorandum of Understanding and
+letter of understanding between Appellant and parental company, the
+Corporate Debtor agreed to settle his dues of Rs Rs.32,86,56,444/- and
+agreed to take the said premises on lease. Thereafter lease deeds comes into
+existence and lease deeds in question cannot be read in bits and pieces and
+stand alone. The moment there is any conflict between the terms of MOS,
+MOU all executed on the same day i.e. 20.08.2018 and undated letter of
+understanding - to settle the dispute between the parental company which
+binds its Group Company i.e. Appellant to give the premises on rent to settle
+its outstanding towards Corporate Debtor and when it is duly signed by the
+Appellant Company and acted on the same till 2020 by taking 20% rent from
+Corporate Debtor from 2018, one cannot say that the said dues of 80% is also
+a liability of the Corporate Debtor. Respondent’s canvasses convincing
+arguments that Appellant’s should have gone to Arbitration for the same and
+not Section 9 until the dues and the duration for the which the MOS and MOU
+and letter of Understanding was signed between the parties is lapsed. We
+thus find that such disputes concerning admissibility and quantum of debt
+are to be adjudged outside the insolvency proceedings.
+
+67.
+Further we note the MOS, MOU has been arrived at for settlement of
+the dues of Reliance Companies of about Rs. 32.87 Crores towards the CD.
+Now since the lease is being terminated by the Appellate, CD raises a ground
+
+[PAGE 49]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 49 of 53
+
+that its Rs.32.87 crores should be settled before they could be dispossessed.
+It is a dispute – which is pre-existing and prior to the issue of the demand
+notice.
+
+68.
+The Respondent asserts that a genuine and bona fide dispute exists
+regarding the amount claimed by the Appellant. The dispute involves
+questions of the quantum of the debt, the effect of the previous settlement
+agreements, and the precise portion of liabilities admitted and payable by the
+Corporate Debtor. This dispute has been expressed through correspondence
+and existing legal and contractual documents. We find this dispute is not a
+moonshine or illusory and cannot be determined in the insolvency
+proceedings. Furthermore, we note that dispute is prior to the issuance of the
+demand notice under Section 8 of the IBC, thereby triggering the provisions
+under Section 9(5)(ii) of the Code which mandate the rejection of the Section
+9 petition where there is a pre-existing dispute as to the debt or default. We
+note that the Hon’ble Supreme Court in Mobilox Innovations Pvt. Ltd. v.
+Kirusa Software Pvt. Ltd., (2018) 1 SCC 353, expounded that a dispute
+must be existing and real, and mere plea or averment of dispute in the reply
+is insufficient unless it has existed prior to the demand notice. We find in this
+case that a disputed fact needs to be appreciated based on evidence under
+Indian Evidence Act, and in such a situation the adjudicating authority’s role
+is limited to ascertaining if the genuine dispute is present or not. Even
+evidence such as an Arbitration notice or termination notice or reply to
+termination notice are signals of pre-existing disputes and this Tribunal
+
+[PAGE 50]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 50 of 53
+
+should not get involved in sifting through complex contentions on giving a
+judgment on merits of the dispute.
+
+69.
+We also note that the Adjudicating Authority in the impugned order has
+concluded as follows:
+“....
+4...
+
+VIII.
+From the above, it is apparent that this is not a clear
+case of rent being due from the Corporate Debtor to the
+Financial Creditor and not having been paid, therefore,
+constituting a debt and default. Since, in respect of
+settlement of the dues of the Corporate Debtor to
+the Group Companies through the rent amount payable to the
+Financial Creditor a large part i.e. 80% of the rent due was to
+be paid by another company, other than the Corporate Debtor.
+
+IX.
+The Letter of Understanding which has also been
+signed by the Financial Creditor, further goes to show that the
+liability for the entire rent cannot be placed upon the
+Corporate debtor and that the corresponding debt cannot be
+fully attributed to the Corporate Debtor.
+
+X.
+The contention of the Financial Creditor is that
+reliance be placed only on the Lease and License Agreement
+(which has been entered between the Financial Creditor and
+the Corporate Debtor) only and not on other Agreements
+such as the MoS, MoU and Letter of Understanding.
+
+XI.
+In our view, at this stage this contention is misplaced
+because in respect of other issues the Financial Creditor itself
+has relied upon provisions of the MoS, MoU, etc. Notably in
+respect of the payment of TDS which as per the MoS was to be
+done for the total rent amount including that of 80% which
+was to be paid by RCOM by the Corporate Debtor. The Letter
+of Understanding is also significant since the Financial Creditor
+is also a signatory to that and which clearly stipulates that in
+case of conflict amongst any of the Agreements/Lease deed,
+
+[PAGE 51]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 51 of 53
+
+the terms of the MoS shall prevail. It is also clear from the
+records that the Financial Creditor had full knowledge of
+all the Agreements entered into between the Group
+Companies and the Corporate Debtor including the MoS,
+MoU and Letter of Understanding. Hence, it is very clear
+that the dispute is deeply embedded in the matter with
+regard to payment of rent by the Corporate Debtor alone or
+jointly by the Corporate Debtor and another Group.
+
+5. It is also noteworthy that for eviction of the Corporate Debtor
+from the premises, the Financial Creditor has filed a suit
+before the Civil Court in Thane, Mumbai.
+
+6. In the light of the above observations, we are not inclined to
+agree with the submissions of the Operational Creditor that this
+is an Operational debt which the Corporate Debtor was liable to
+pay in its entirety, since other parties also had the responsibility
+for payment. This is a pre- existing dispute raised by the
+Corporate Debtor which is substantiated by the records and
+submissions.....”
+
+70.
+We observe that the vehemently argues that the Corporate Debtor has
+admitted its liability towards 20% of the rent payable each month to the
+Appellant. Appellant claims that even if only 20% of the rent is taken into
+account, the debt payable still crosses the threshold — beyond INR 1 crore
+and satisfies the condition for initiation of insolvency proceedings against the
+Corporate Debtor. Corporate Debtor has only made part payment towards
+License Fee and since April 2021, the Corporate Debtor has stopped making
+payment towards the License Fee. Thus, even if only the assumed 20%
+obligation of the Corporate Debtor to pay make payment towards License
+Fees is considered, the same crosses the minimum requirement of INR 1 crore
+under the Code as of September 2022. We note that such an argument
+presumes that the Adjudicating Authority has to adjudicate on the amount
+
+[PAGE 52]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 52 of 53
+
+payable in the chequered background of the debt. It is plainly clear from the
+materials placed on record that claims cannot erase the original claim of the
+Corporate Debtor and which is the dispute which is much prior to section 8
+demand notice and it the CD had raised it in its reply to the Section 8 demand
+notice which links the issue of original debt for the settlement for which MOS
+and LOU were signed and the present premises of the FC was allowed to be
+used on lease. We also observe that this is not a spurious or moonshine
+dispute but it is a substantive dispute, for which insolvency proceedings
+under Section 9 of the Code cannot be invoked.
+71.
+Thus, we observe that the dispute is deeply embedded in the matter
+with regard to payment of rent by the Corporate Debtor alone or jointly by
+the Corporate Debtor and another group company. Also, for eviction of the
+Corporate Debtor from the premises, the Financial Creditor has filed a suit
+before the Civil Court in Thane, Mumbai. Thus, we have no hesitation in
+observing that this is a case of pre-existing dispute, raised by the Corporate
+Debtor, which is substantiated by the records and submissions and is not a
+spurious or moonshine dispute and the present appeal doesn’t merit
+consideration.
+Conclusions
+72.
+In the above facts and circumstances of the present case, we therefore
+don’t find any infirmity in the conclusions and the findings of the Adjudicating
+Authority. Adjudicating Authority correctly rejected the Section 9 petition due
+to the existence of a bona fide dispute.
+
+[PAGE 53]
+Company Appeal (AT)(Insolvency) No. 2077 of 2024 53 of 53
+
+Orders
+73.
+The appeal filed by Appellant-Reliance Realty Limited is accordingly
+dismissed with no costs. All pending applications, if any, shall stand disposed
+of. Operational Creditor/petitioner is at liberty to pursue his claims before
+appropriate forum in accordance with the applicable law.
+
+[Justice N Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+New Delhi.
+March 09, 2026.
+
+pawan

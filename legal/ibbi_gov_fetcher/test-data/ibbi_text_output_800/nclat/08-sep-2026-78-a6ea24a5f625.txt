@@ -1,0 +1,528 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 1233 of 2026
+[Arising out of Order dated 28.04.2026 passed by the Adjudicating Authority
+(National Company Law Tribunal, Division Bench, Court – I, Ahmedabad), in
+C.P.(IB)/103(AHM)2025]
+IN THE MATTER OF:
+
+M/s Shambhu Technology Services Pvt. Ltd.
+Through Authorized Representative
+Mr. Rahul Neb, Director
+Legal Office-1 E/2,
+Jhandewalan Extension,
+Delhi-110055.
+
+...Appellant
+Versus
+
+M/s OFB Tech Limited
+Having its Registered Office at:
+B-1102, Sankalp Iconic Tower,
+Opp. Vikram Nagar, Bopal Ambli Road,
+Bodakdev, Ahmedabad – 380054.
+and
+Address at which the books of account are to be
+maintained:
+6th Floor, Tower A, Global Business Park,
+MG Road, Gurgaon,
+Haryana – 122001.
+Email – compliance@ofbusiness.in,
+finance@ofbusiness.in, yadvender.yadav@ofbusiness.in,
+ankush.jain@ofbusiness.in,
+Soumya.kumar@ofbusiness.in
+
+...Respondent
+Present:
+
+For Appellant
+: Mr. Kunal Sabharwal, Mr. Damandeep Singh
+Bhalla, Mr. Sahil Chopra, Ms. Renu Sharma and
+Ms. Surabhi Sharma, Advocates.
+
+For Respondent
+: Mr. Gaurav Mitra, Sr. Advocate with Mr. Sameer
+Abhyankar, Mr. Aakash Thakur, Mr. Dhruv Suri,
+Ms. Yashika, Ms. Urvika Suri, Ms. Saumya Tiwari
+and Ms. Ritika Garg, Advocates.
+
+[PAGE 2]
+2
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+2 of 12
+
+J U D G M E N T
+JUSTICE YOGESH KHANNA, MEMBER (JUDICIAL)
+
+This appeal is filed against an impugned order dated 28.04.2026 passed
+by the Ld. Adjudicating Authority in C.P. (IB) No.103/(AHM)/2025, whereby
+an application filed under Section 9 of the Insolvency & Bankruptcy Code,
+2016 (for short the “IBC”) for initiation of Corporate Insolvency Resolution
+Process (“CIRP”) against the respondent/corporate debtor on account of a
+default in payment of the operational debt amounting to Rs.3,61,24,534.33/-
+was dismissed.
+2.
+It is alleged the operational debt arises out of the goods duly supplied
+by the appellant to the respondent, for which invoices were raised and part
+payments were also made. It is further submitted initially the company
+petition was dismissed by the Ld. Adjudicating Authority vide order dated
+31.07.2025 solely on the ground, the respondent has been admitted into CIRP
+in another company petition viz. C.P. (IB) No.369/AHM/2024 and the
+adjudicating authority while dismissing the proceedings granted liberty to the
+appellant to seek revival of the Company Petition, in case the admission order
+is set aside. Subsequently, this Tribunal had set aside the admission order
+vide order dated 14.11.2025 and thereafter the Adjudicating Authority vide
+its order dated 31.07.2025 had granted liberty to the appellant to revive the
+petition. Thus, C.P. (IB) No.103/AHM/2025 was restored.
+3.
+However, vide the impugned order, this company petition was again
+dismissed on the ground there exists a Pre-Existing Dispute between the
+parties.
+
+[PAGE 3]
+3
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+3 of 12
+
+4.
+It is submitted by the learned counsel for the appellant the appellant is
+doing the business of software publishing, consultancy, supply, etc. and it
+provides a platform to various entities to act as a link between seller and
+purchaser in respect of several commodities. It was argued all the transaction
+between the parties were recorded in the invoices for each delivery, raised on
+each occasion and the outstanding amount was payable within the period of
+7 days of raising of such invoices. It was argued during the performance of
+the contracts between the parties, initially the Respondent adhered to the
+payment schedule but later failed to make payments of the outstanding
+amounts for invoices between June – July, 2024. There were constant and
+multiple follow up on Whatsapp group as well as on email but the payments
+were not forthcoming, hence a legal notice was issued on 07.10.2024 under
+Section 8 of the IBC by the appellant to the Respondent requiring the
+Respondent to repay the entire operational debt but nothing was paid and
+arbitration was also initiated.
+5.
+The defence of the respondent was, there exists a Pre-Existing Dispute
+besides allegations of fraud, collusion alleging interalia the entire transactions
+during the relevant period were perpetrated by certain ex-employees of the
+corporate debtor in collusion with the operational creditor and fake purchase
+orders were generated and the goods were allegedly supplied to third parties
+without any authorisation by the Respondent and payments were wrongfully
+debited by misuse of internal systems. Due to these facts even a legal notice
+dated 28.08.2024 was issued by the respondent and subsequently the
+complaints were also lodged before the authorities qua fraud. The corporate
+
+[PAGE 4]
+4
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+4 of 12
+
+debtor pointed out discrepancies in the documents relied upon by the
+operational creditor viz. absence of co-relation between purchase orders,
+invoices and delivery which involved a detailed examination and could not be
+adjudicated in summary proceedings.
+6.
+We have also perused the legal notice dated 28.08.2024 issued by the
+respondents herein, which reads as under: -
+“28 August 2024
+To,
+SHAMBHU
+TECHNOLOGY
+SERVICES
+PRIVATE
+LIMITED
+1-E/2, Jhandewalan Extension, Delhi, Delhi-110055
+Dear Sir
+Re- Legal notice Regarding Fraudulent Transactions
+carried out by SHAMBHU TECHNOLOGY SERVICES
+PRIVATE LIMITED having
+its office
+at 1-E/2,
+Jhandewalan
+Extension,
+Delhi,
+Delhi-110055
+("Addressee")
+We issue this legal notice on behalf of OFB Tech Pvt.
+Ltd., having its registered office at Shop No. G-22C,
+(UGF) D-1 (K-84), Green Park Main, New Delhi-110016
+("Our Client") concerning the serious and fraudulent
+activities involving certain transactions ostensibly
+between Our Client and the Addressee. This notice
+serves to formally outline our client's position regarding
+the fraudulent purchase orders ("POs") and the
+consequent purported delivery of materials by the
+Addressee to Our Client.
+1. Pursuant to an ongoing internal investigation and
+verification of facts, it has come to Our Client's
+knowledge that the Addressee, through its various
+officers, in collusion with certain employees of Our
+Client, have engaged in siphoning off of funds from Our
+Clients through the modus of generation of fake POs
+which have resulted in imposition of false and
+unfounded liabilities on Our Client. Without prejudice
+to the discoveries which may be made during the
+course of the ongoing investigation (as well as that
+which may be initiated pursuant to a criminal
+
+[PAGE 5]
+5
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+5 of 12
+
+complaint
+lodged
+by
+Our
+Client),
+Our
+Client
+categorically denies any and all claims or liabilities
+arising specifically out of the following POs, against
+which the Addressee has sought to raise a claim
+against Our Client:
+Order
+SPO Value
+OFB117224326765977
+16,13,640
+OFB117224325979919
+16,31,963
+OFB117224325559987
+8,14,328
+OFB117224324993419
+16,18,155
+OFB11722432427225
+8,04,563
+OFB117224234972256
+16,17,000
+OFB117224126339125
+8,08,500
+OFB117223386593253
+16,22,040
+OFB117223385597470
+16,64,040
+OFB117223383975791
+16,64,040
+OFB117223138778257
+7,96,871
+OFB117222582042143
+7,91,070
+OFB117222527713705
+8,04,720
+OFB117220967418892
+30,28,922
+OFB117220956048556
+12,04,875
+OFB117220894954370
+22,18,742
+Total
+2,27,03,468”
+7.
+We have also examined the impugned order and the following
+paragraphs are most relevant:-
+
+[PAGE 6]
+6
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+6 of 12
+
+“27. It is further contended by the Corporate Debtor
+that there exists a pre-existing dispute prior to
+issuance of the demand notice, as evidenced by legal
+notices
+dated
+28.08.2024
+and
+subsequent
+correspondence, as well as complaints lodged before
+authorities regarding the alleged fraud. The Corporate
+Debtor has also pointed out discrepancies in the
+documents relied upon by the Operational Creditor,
+including absence of correlation between purchase
+orders, invoices and delivery, and has submitted that
+the matter involves disputed questions of fact which
+require
+detailed
+examination
+and
+cannot
+be
+adjudicated in summary proceedings under Section 9
+of the Code.
+31.2. The Corporate Debtor has placed reliance on a
+series of communications and proceedings to contend
+that disputes had arisen well prior to the demand
+notice. In particular, reference has been made to the
+legal notice dated 28.08.2024 issued by the Corporate
+Debtor disputing the alleged transactions, reply dated
+17.10.2024 reiterating denial of purchase orders and
+supply of goods, as well as complaints dated
+13.08.2024/15.08.2024 lodged before the authorities
+regarding the alleged fraud committed by its
+employees in collusion with the Operational Creditor.
+The Corporate Debtor has also relied upon the
+resignation letter dated 12.08.2024 of one of its
+employees detailing the alleged modus operandi of the
+transactions.
+31.3. It is further the case of the Corporate Debtor that
+even prior to issuance of the demand notice, the entire
+transaction had been disputed on the ground that no
+valid purchase orders were issued, no goods were
+received, and that the alleged supplies were a result of
+fraudulent acts. The Corporate Debtor has also relied
+upon correspondence exchanged between the parties,
+including notices dated 13.09.2024 and 17.10.2024,
+to demonstrate that disputes regarding the very
+foundation of the claim were in existence prior to
+invocation of the Code.
+31.4. Per contra, the Operational Creditor has
+contended
+that
+the
+alleged
+disputes
+are
+an
+afterthought and have been raised only to evade
+liability. It is submitted that the Corporate Debtor had
+acknowledged the transactions and made payments
+during the course of business, and that no dispute was
+raised contemporaneously with the supply of goods. It
+
+[PAGE 7]
+7
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+7 of 12
+
+is further contended that the reliance placed by the
+Corporate Debtor on criminal complaints and other
+proceedings does not constitute a valid pre-existing
+dispute in terms of the Code, particularly when such
+proceedings were either closed or withdrawn.
+31.7. Upon consideration of the material placed on
+record, it is observed that the Corporate Debtor had,
+prior to issuance of the demand notice dated
+07.10.2024, issued a legal notice dated 28.08.2024
+disputing the existence of purchase orders and the
+alleged transactions. Further, complaints regarding
+alleged fraudulent transactions were initiated in
+August 2024, and correspondence between the parties
+indicates that the Corporate Debtor had raised
+objections with respect to the very basis of the claim.
+These documents demonstrate that disputes were
+raised prior to the demand notice and were not raised
+for the first time in response thereto.
+31.8. It is also pertinent to note that the record of the
+Information Utility, placed on record by the Operational
+Creditor itself as Annexure A-14, reflects that the debt
+has been marked as "disputed". The said record
+further captures that a legal demand notice and notice
+of dispute dated 28.08.2024 had been issued by the
+Corporate Debtor to the Operational Creditor. The said
+entry in the Information Utility, which is a statutory
+record, lends further support to the contention of the
+Corporate Debtor that the dispute had arisen prior to
+issuance of the demand notice under Section 8 of the
+Code.”
+8.
+Thus, in view of the Pre-Existing Dispute, the application under Section
+9 IBC was dismissed.
+9.
+It was submitted the pre-existing dispute between the parties is a
+subject matter of a suit before the Hon’ble High Court of Delhi, at New Delhi
+filed by the Respondent against the appellant seeking recovery of the amount
+of Rs.6,62,76,979/-, which was wrongly paid by the respondent to the
+appellant as a result of a fraud. This suit, filed on 09.07.2025 finds mention
+in the impugned judgement at paragraph 17. Further, the suit filed by the
+
+[PAGE 8]
+8
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+8 of 12
+
+respondent also is based on the same assertions of fact to contest the claim
+of the appellant as are contained in the respondent’s legal notice dated
+28.08.2024 issued prior to the demand notice dated 07.10.2024. Pertinently,
+in the said suit, the appellant has filed a counter claim for the very sum of
+money (i.e., Rs.3,61,24,524.33/-) which is claimed as an operational debt in
+the present proceedings. Summons have been issued on the counter claim
+on 09.07.2026 by the High Court. Therefore, it was submitted the pre-existing
+dispute between the parties, based on the voluminous documents and
+contested facts, is subject matter of a trial before a civil court, which is soon
+to commence.
+10.
+Thus, it is the consistent case of the respondent the entire transaction
+between the appellant and respondent, carried out in the short interval of
+time between June 2024 to July 2024, was a result of a fraud played upon
+the respondent by its ex-employees in collusion with the appellant; the entire
+transaction was made to appear genuine by these ex-employees of the
+respondent by fabrication of documents and records; any payments released
+by the respondent to the appellant were under this impression of genuineness
+of the transaction, which was only exposed to be false and fabricated on or
+about 12.08.2024; the entire facts, as they became known over a period of
+time, are set out in detail in the Suit filed by the respondent before the Delhi
+High Court and are indicative of the several disputed questions of fact between
+the parties, which will be adjudicated upon at the trial; the actual transaction
+came to light over a period of time, when internal investigation was carried
+out by the respondent.
+
+[PAGE 9]
+9
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+9 of 12
+
+11.
+It was further submitted the fact of non-genuineness of the transaction
+was evident from the documents filed by the appellant itself. It is seen from
+the appellant’s documents that: out of the 132 invoices relied upon by the
+appellant to claim operational debt, only 6 invoices were shown to have been
+issued against a Purchase Order; all of the above 6 invoices were issued
+against the same 2 Purchase Orders. Most importantly, the consignee
+address in the invoices is different from the ‘ship to’ address in the Purchase
+Orders. Most importantly, the consignees mentioned in the Purchase Orders
+are all entities associated with one of the ex-employees of the respondent who
+was an alleged perpetrator of the entire fraud.
+12.
+Lastly, the Learned counsel for the appellant argued the total demand
+raised was Rs.3.6 crores approximately and if one look into the respondent’s
+notice dated 28.08.2024, it speaks of the fabricated purchase orders only to
+an extent of Rs.2.27 crores and even if such claim is duly considered, then
+also, admittedly, the respondent was liable to pay more than Rs.1 crore viz.
+above the threshold. We have also examined the notice dated 28.08.2024
+sent on behalf of respondent and it notes the allegations against two of its
+former employees namely Mr. Vaibhav Jain and Mr. Rishab Chaudhury, both
+in its sales team, being found engaged in unauthorised and fraudulent
+activities and they issued multiple purchase orders, including the purchase
+orders mentioned in para 1 of the notice amount to Rs.2.27 crore. Thus it
+cannot be said the respondent admitted the balance amount of Rs.1.3 crores
+approximately. In Paragraphs 4, 5 and 8 of its notice, the respondent has
+rather mentioned:
+
+[PAGE 10]
+10
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+10 of 12
+
+“4. xxxxx.... Our preliminary investigation has revealed
+that there is no internal record of any such POs being
+sanctioned by Our Client. The Addressee's collusion in
+the transaction is also evident from the fact no
+verification of the genuineness of the POs was ever
+conducted by the Addressee. Further, as is seen from
+at least the POs mentioned in paragraph 1, each of the
+said POs were raised for supply to the same purchaser,
+who, it has now been discovered, is also part of the
+conspiracy to defraud Our Client so as to siphon off
+money from Our Client. Further still, there has been a
+stark deviation from the SOP which was followed by
+Our Client in all other transactions except the ones
+mentioned under the POs mentioned in paragraph 1 of
+this Notice.
+5. Notably, the goods allegedly ordered under these
+fraudulent POs were delivered to a third-party trader(s)
+with whom Our Client has no relationship, business or
+otherwise. Subsequently, the funds generated from
+these fraudulent transactions were misappropriated
+by at least one of the implicated employees named
+herein for personal gains. It may be stated that Our
+Client has already initiated suitable legal action
+against these employees and those found to be in
+collusion with these employees.
+8. Therefore, in the light of the above facts, the
+Addressee is hereby notified that Our client is not liable
+to any amounts claimed by the Addressee against the
+POs mentioned in paragraph 1 and any such others as
+may have been generated by the Addressee in
+collusion with the aforesaid erstwhile employees or
+buyers and which may come to light as a result of the
+ongoing investigation.”
+13.
+Thus it cannot be said that Respondent ever admitted the debt of more
+than Rs.1 crore at any stage of the proceedings. Admittedly they had filed
+Civil Suit qua the loss and against issuance of purchase orders and allege
+never any supplies were made to them against purchase orders.
+14.
+Thus all of these disputed question of facts require adjudication by way
+of a detailed trial, such as the one which is pending before the Delhi High
+Court.
+
+[PAGE 11]
+11
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+11 of 12
+
+15.
+In ‘Mobilox Innovations Pvt. Ltd.’ Vs. ‘Kirusa Software Pvt. Ltd.’
+reported in [(2018) 1 SCC 353], the following was held:-
+“51. It is clear, therefore, that once the operational
+creditor has filed an application, which is otherwise
+complete, the adjudicating authority must reject the
+application under Section 9(5)(i)(d) if notice of dispute
+has been received by the operational creditor or there
+is a record of dispute in the information utility. It is
+clear that such notice must bring to the notice of the
+operational creditor the “existence” of a dispute or the
+fact that a suit or arbitration proceeding relating to a
+dispute is pending between the parties. Therefore, all
+that the adjudicating authority is to see at this stage is
+whether there is a plausible contention which requires
+further investigation and that the “dispute” is not a
+patently feeble legal argument or an assertion of fact
+unsupported by evidence. It is important to separate
+the grain from the chaff and to reject a spurious
+defence which is mere bluster. However, in doing so,
+the Court does not need to be satisfied that the defence
+is likely to succeed. The Court does not at this stage
+examine the merits of the dispute except to the extent
+indicated above. So long as a dispute truly exists in
+fact and is not spurious, hypothetical or illusory, the
+adjudicating authority has to reject the application.”
+16.
+Thus, where the record of information utility shows the amount being
+disputed and where the dispute is shown to have arisen prior to issuance of
+notice under Section 8 of the IBC, the application under Section 9, IBC needs
+to be rejected. The Ld. Adjudicating Authority rather relied upon the
+judgment of this Tribunal in ‘Bhawani Prasad Mishra’ Vs. ‘Armaco
+Infralinks Pvt. Ltd. & Anr.’ in [Company Appeal (AT) (Insolvency)
+No.557/2025], wherein the following was held:-
+“28. When we look into Section 9(5)(ii)(d) there are two
+circumstances under which Section 9 application
+deserves to be rejected i.e. (i) notice of dispute has been
+received by operational creditor or (ii) there is record of
+dispute in the Information Utility.”
+
+[PAGE 12]
+12
+
+Comp. App. (AT) (Ins.) No. 1233 of 2026
+12 of 12
+
+17.
+Thus, we see no reason to entertain this appeal. Admittedly, the
+appellants have resorted to alternative remedies viz. filing of civil suit, stated
+to be pending between the parties, and hence we are not inclined to interfere
+with the impugned order. The appeal stands dismissed. Pending applications
+are also disposed of.
+
+[Justice Yogesh Khanna]
+Officiating Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Ajai Das Mehrotra]
+Member (Technical)
+
+NEW DELHI
+8th September, 2026
+Himanshu/bm

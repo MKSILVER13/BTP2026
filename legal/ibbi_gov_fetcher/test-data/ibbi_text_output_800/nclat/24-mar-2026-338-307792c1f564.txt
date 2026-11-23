@@ -1,0 +1,2986 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Ins) No. 1786 of 2025
+
+[Arising out of the Order dated 31.10.2025, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Mumbai Bench), IA 2590 of 2025 in COMPANY PETITION (IB)
+N0.1113/NCLT/MB/2022]
+
+IN THE MATTER OF:
+
+1.
+
+BSE Limited
+Having its registered office at:
+25th Floor, Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort,
+Mumbai – 400 001, Maharashtra
+Email: registrar@thelawpoint.com
+
+...Appellant
+
+Versus
+
+1.
+Mr. Avil Menezes
+Interim Resolution Professional of
+Future
+Corporate
+Resources
+Private
+Limited
+106, 1st Floor, Kanakia Atrium 2,
+Cross Road A, Behind Courtyard Marriott,
+Chakala, Andheri East, Mumbai-400093
+Email
+ID:
+avil@caavil.com
+;
+irp.fcrpl@aegisipe.com
+
+..Respondent No.1
+2.
+Central
+Depository
+Services
+(India)
+Limited
+Marathon Futurex, A-Wing, a 25th floor,
+NM Joshi Marg, Lower Parel, Mumbai-
+400013
+Email ID: cdsllegal@cdslindia.com
+
+..Respondent No. 2
+3.
+Securities and Exchange Board of India
+SEBI Bhavan BKC
+Mittal Court, ‘B’ & ‘C’ Wind
+1st Floor, 224 Nariman Point
+Mumbai-400021
+Email ID: sebinro@sebi.gov.in
+
+..Respondent No. 3
+4.
+Samurai Securities Pvt. Ltd.
+DP ID: 12038600
+303/306 Raheja Chambers, F.P.J. Marg,
+Nariman Point, Mumbai 400021
+Email ID: admin@samuraisec.co.in
+
+..Respondent No. 4
+
+[PAGE 2]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 2 of 75
+
+Present:
+For Appellant
+:
+
+Mr. Abhishek Puri, Mr. Surbhi Gupta, Mr. Sahil
+Grewal, Mr. Manish Chhangani & Mr. Abhay
+Chauhan, Advocates.
+For
+Respondent
+:
+
+Mr. Neeraj Malhotra Sr. Adv. with Mr. Abhishek
+Baid, Mr. Mohit Kumar Bagna, Mr. Praneet Das,
+Mr. Ravinder Kumar & Mr. Nimish Kumar,
+Advocates for R-3 (SEBI).
+Mr. Anand Sengar, Advocate for R-4.
+Mr. Ajit Shah, Advocate for R-2.
+Mr. J. Rajesh, Mr. Dhrupad Vaghani, Mr. Md.
+Arsalan Ahmed & Mr. Yashwardhan Aggarwal,
+Advocates for R-1.
+
+With
+Company Appeal (AT) (Ins) No. 1862 of 2024
+
+[Arising out of the Order dated 31.07.2024, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Mumbai Bench, Court-III), IA/928/2023 in C.P. (IB)/2941
+(MB)C-III-2019]
+
+IN THE MATTER OF:
+
+1.
+
+BSE Limited
+Having its registered office at:
+25th Floor, Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort,
+Mumbai – 400 001, Maharashtra
+Email: registrar@thelawpoint.com
+
+...Appellant
+
+Versus
+
+1.
+Ms. Mrudula Brodie,
+
+Liquidator for Liz Traders and Agents Pvt.
+Ltd., Having office at: A-403, Silver Estate
+Apartment, Raghukul Creation, Manish
+Nagar, Nagpur- 440 015
+Email: siriuslegaladvocates@gmail.com
+
+..Respondent No.1
+2.
+National Stock Exchange of India Ltd.
+(NSE)
+
+Having registered office at:
+Exchange Plaza, C-1, Block G, Bandra
+Kurla Complex,
+Bandra
+(East),
+Mumbai
+–
+400
+051,
+Maharashtra
+Email:
+service.mumbai@parinamlaw.com
+
+..Respondent No. 2
+
+[PAGE 3]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 3 of 75
+
+3.
+National
+Securities
+Depository
+Ltd.
+(NSDL)
+Having office at:
+Trade World, A wing, 4th Floor,
+Kamala Mills Compound, Lower Parel,
+Mumbai – 400 013, Maharashtra
+Email: info@nsdl.com
+
+..Respondent No. 3
+4.
+India Infoline Finance Ltd. (IIFL)
+Having office at:
+801, 8th Floor, Hubtown Solris, N.S
+Phadke Marg, Vijay Nagar, Andheri East,
+Mumbai – 400 069, Maharashtra
+info@iiflcap.co
+
+..Respondent No. 4
+5.
+Securities and Exchange Board of India
+(SEBI)
+Having its head office at:
+Plot No.C4 – A, “G” Block, Bandra – Kurla
+Complex, Bandra (E)
+Mumbai
+–
+400
+051,
+Maharashtra
+Vinayak@sebi.gov.in
+
+..Respondent No. 5
+
+Present:
+
+For Appellant
+:
+
+Mr. Abhishek Puri, Mr. Surbhi Gupta, Mr. Sahil
+Grewal, Mr. Manish Chhangani & Mr. Abhay
+Chauhan, Advocates.
+For
+Respondent
+:
+
+Mr. Neeraj Malhotra Sr. Adv. with Mr. Abhishek
+Baid, Mr. Mohit Kumar Bagna, Mr. Praneet Das,
+Mr. Ravinder Kumar & Mr. Nimish Kumar,
+Advocates for R-5 (SEBI).
+Mr. Amit Agrawal, Mr. Naveen Wegde, Mr. Sarthak
+Wadhwa, Ms. Lakshmi Nair & Mr. Nayak Samuel,
+Advocates for R-1.
+
+[PAGE 4]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 4 of 75
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Justice Mohd. Faiz Alam Khan, Member (Judicial)]
+A common issue is involved in the aforesaid appeals and therefore for
+the sake of convenience both above appeals are being disposed of by passing
+this common order.
+Factual Matrix pertaining to CA (AT) (Ins) No. 1786 of 2025
+2.
+CA (AT) (Ins) No. 1786 of 2025 has been filed by the appellant-BSE
+Ltd. Challenging the impugned order dated 31.10.2025 passed by the Ld.
+National Company Law Tribunal, Mumbai (Adjudicating Authority) in IA No.
+2590 of 2025 in CP (IB) No. 1113(MB) of 2022 whereby the appellant has
+been directed to vacate the debit freeze with immediate effect and issue
+necessary communication to the Respondent No. 2 within 15 days from the
+passing of the order.
+3.
+Brief facts necessary for the disposal of the instant appeal are that
+Corporate Debtor (CD) is an Investment Company /Holding Company of the
+future group facilitating the funding of group companies through various
+investments and landing of loans and advances and also providing services
+to scale up/support the retail business of the group.
+4.
+The CIRP of the CD was initiated vide order dated 24.09.2024 passed
+by the Ld. Adjudicating Authority in CP (IB) No. 1113 of 2022 and the
+Respondent No.1 was appointed as the Interim Resolution Professional (IRP)
+of the CD and Management of the affairs of the CD vested in him.
+5.
+It is further reflected from the record that after verifying the claims of
+the creditors the Committed of Creditors (CoC) was constituted and
+
+[PAGE 5]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 5 of 75
+
+thereafter it was known that the CD holds a Demat account with appellant
+to hold shares and securities in Dematerialized form.
+6.
+It is further reflected that in order to take control of the assets of the
+CD, Respondent no. 1 enquired from Respondent No. 4 pertaining to the
+status of the securities held by the CD and it was informed by Respondent
+No. 4 that a debit freeze is imposed on this Demat account.
+7.
+It is further reflected that on request, Respondent No. 4 enquired with
+Respondent No. 2 vide email dated 21.02.2025, for the reasons of such debit
+freeze and the steps required to defreeze the same. Respondent no. 2
+informed vide email dated 24.02.2025 that the debit freeze on this Demat
+account was initiated on the instructions received from appellant and asked
+Respondent No. 4 to provide with confirmation from the appellant for lifting
+of such freeze.
+8.
+It is further reflected that the Respondent No. 1/IRP addressed a letter
+to the appellant on 25.02.2025 and Respondent No. 2 as well as to
+Respondent No. 4 regarding the initiation of the CIRP of the CD and
+requested to remove the debit freeze on this Demat account with a further
+request to provide the copy of the order by which the Demat account was
+frozen.
+9.
+It is also reflected that appellant vide email dated 27.02.2025
+responded to the Respondent No. 1 stating that the debit freeze on the
+Demat account was pursuant to the default committed by Future Retail Ltd.
+(FRL) in paying the annual listing fee to Respondent No. 2 as per the listing
+agreement entered into by and between appellant and FRL and also
+mentioned Circular no. 20210625-43 of date 25.06.2021 issued by the
+
+[PAGE 6]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 6 of 75
+
+appellant with regard to the action which may be taken for non-payment of
+the annual listing fee.
+10.
+It is also reflected that Respondent No. 1 vide letter dated 19.03.2025,
+addressed to appellant and Respondent No. 2 requested to defreeze the
+above mentioned Demat account however vide reply dated 24.03.2025
+appellant responded by stating that they will only lift the debit freeze after
+receiving the due amount of Rs. 15,15,857/- and as such the debit freeze on
+the Demat account was not removed.
+11.
+Aggrieved by the refusal of the appellant to defreeze the aforesaid
+Demat account of the CD the appellant –BSE Ltd. has preferred an IA No.
+2590 of 2025 before Ld. Adjudicating Authority, which was disposed of by
+passing impugned order, which is under challenge in this appeal.
+Factual Matrix pertaining to CA (AT) (Ins) No. 1862 of 2024
+12.
+The instant appeal has been preferred by the appellant-BSE Ltd.
+challenging the impugned order dated 31.07.2024, passed by Ld. NCLT,
+Mumbai (Adjudicating Authority) disposing IA No. 928 of 2023in CP IB No.
+2941/MB/2019 whereby the application moved by the Respondent No.
+1/liquidator has been allowed and direction has been given to the appellant
+and other Respondents to defreeze the Demat account of the CD with
+consequential directions.
+13.
+Necessary facts required for the disposal of this appeal are that vide
+order dated 25.02.2022, passed in CP (IB) No. 2941/MB/2019 by Xander
+Finance Services Ltd. under Section 7 of the IBC, 2016 the CIRP was
+initiated against the Liz Traders and Agents Pvt. Ltd. (CD) and Ms. Prajakta
+
+[PAGE 7]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 7 of 75
+
+Menezes was appointed as the Interim Resolution Professional (IRP) who was
+subsequently confirmed as RP (Resolution Professional).
+14.
+It is also reflected that the CoC of the CD in its 3rd meeting approved
+the liquidation of the CD which was approved by Ld. Adjudicating Authority
+vide order dated 05.09.2022 and Ms. Mrudula Cletus Brodie was appointed
+as the liquidator.
+15.
+The liquidator while going through the documents and financial
+statements of the CD got knowledge of certain shares of listed companies
+held by the CD and requested for the statement of holding from Respondent
+No. 4- India Infoline Finance Ltd. (IIFL) as Demat account was managed by
+the Respondent No. 4 and vide reply of the Respondent No. 4 dated
+02.12.2022 it was known that the CD was holding 5,600 shares of Tata
+Chemicals Ltd., 6,384 shares of Tata Consumer Products Ltd., 572 shares of
+The Indian Hotels Company Ltd., 63 shares of The Indian Hotels Company
+Ltd., 45,387 shares of Cox and Kings Ltd., 110,209 shares of Cox and Kings
+Financial Services Ltd. and 8 shares of Videocon Industries Ltd.
+16.
+It is further reflected that the liquidator also got knowledge that above
+mentioned Demat account of the CD has bene frozen due to which selling of
+the shares and transferring the proceeds from such sale to the stakeholders
+of the CD is not possible and in order to get this Demat account de-freezed
+the liquidator wrote an email on 13.12.2022, to Respondent No. 4 pertaining
+to the liquidation of the CD and of her appointment as liquidator with a
+further request to defreeze the Demat account of the CD, however,
+Respondent No. 4 failed to defreeze the same and in this regard an email
+dated 09.01.2023 was also written by the Liquidator to Respondent No. 3
+
+[PAGE 8]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 8 of 75
+
+/National Securities Depositary Ltd. (NSDL) and a response with regard to
+the same was received on 13.01.2023, however the Demat account was not
+de-frozen.
+17.
+It is further reflected that after exchange of various correspondence/
+emails between the Respondent No. 1 and Respondent No. 4 the Demat
+account was not de-frozen and ultimately the appellant as well as National
+Stock Exchange of India Ltd. (NSE)/Respondent No. 2 in their separate
+emails addressed to the Respondent No.1/liquidator dated 24.02.2023 and
+23.02.2023 respectively, stated that the Demat account of the CD can only
+be de-freezed if the CD has completed all the necessary compliances in
+accordance with the LODR Regulation, as well as the fine so levied on the
+CD is paid. It is further stated that the CD has neither completed necessary
+compliances in accordance with the LODR Regulations nor has paid the
+fines levied for such non-compliances. It was further informed that due to
+non-compliance of various Regulations of SEBI (LODR) Regulations, 2015,
+freezing action against Cox and kings Ltd., Cox and Kings Financial Services
+Ltd. and Tulip Stars Hotels Ltd. were taken on November 19, 2019 and
+February 25, 2020, respectively. It was further stated that since Liz Traders
+and Agents Pvt. Ltd. were disclosed as Promoters of the above mentioned
+companies in the shareholding pattern filed by the them, Demat account of
+Liz traders and agents has also freezed.
+18.
+Aggrieved by the refusal of the appellant to de freeze the
+aforementioned Demat account the IA No. 928 of 2023 was filed by the
+liquidator/Respondent No. 1 requesting the Adjudicating Authority to direct
+the appellant and other Respondents to defreeze the Demat account of the
+
+[PAGE 9]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 9 of 75
+
+CD with consequential directions and vide impugned order of dated
+31.07.2024 Ld. Adjudicating Authority allowed the aforesaid application of
+the liquidator and directed the appellant and other Respondents therein to
+defreeze the Demat account of the CD with a further direction to Respondent
+No. 4/IIFL to extend its co-operation by ensuring the proper functioning of
+the trading account.
+19.
+The BSE Ltd.-Appellant feeling aggrieved by the impugned order
+passed by the Ld. Adjudicating Authority has preferred instant appeal.
+Submissions of Ld. Counsels
+20.
+Ld. Counsel for the appellant submits that the Demat account of the
+CD was frozen pursuant to the failure of the CD to pay Annual Listing Fees
+(ALF) in accordance with the circular dated 25.06.2021 issued by the
+appellant read with Circular dated 11.02.2021 (SoP) Circular issued by the
+SEBI/Respondent No.3, however instead of carrying out the business of the
+CD in accordance with the applicable laws and Regulations or take
+appropriate measures to rectify such non-compliance for the purpose of de-
+freezing of the Demat account the Respondent No. 1/IRP along with the CoC
+proceeded to invite the Expression of Interest (EOI) for process sale of shares
+lying in the Demat account of the CD and with the intent to bypass the
+necessary requirements for the purpose of de-freezing the above mentioned
+Demat account the IA No. 2590 of 2025 was filed before Adjudicating
+Authority under Section 60 (5) of the Insolvency and Bankruptcy Code,
+2016 (Code).
+21.
+It is further submitted that the Ld. Adjudicating Authority while
+passing the impugned judgment has relied on its own judgment passed in IA
+
+[PAGE 10]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 10 of 75
+
+No. 928 of 2025 in CP IB No. 2914 of 2019 which is the subject matter of
+the connected appeal in complete ignorance of the orders passed by the
+Hon’ble Supreme Court and the judgment passed by the co-ordinate
+Benches.
+22.
+It is vehemently submitted that Ld. Adjudicating Authority was not
+having any jurisdiction at all under Section 60 (5) of the Code to adjudicate
+on the issues which are within the Securities Law Framework and SEBI
+Circulars. Elaborating further it is submitted that the action of freezing of
+the Demat account the CD has been taken in exercise of power contained
+under the SoP Circular read with BSE ALF Circular. In this regard Section
+9(2) and Section 21 of the Securities Contracts (Regulation) Act, 1956
+(SCRA) has been highlighted along with Regulation 14 of SEBI (Listing
+obligations and Disclosure Requirements) Regulations, 2015 (LODR)
+Regulations and it is submitted that a comprehensive securities law
+framework exists to ensure compliance by listed entities including payment
+of Annual License Fee (ALF) and the issue falls within the domain of the
+exchange and the Adjudicating Authority was not having any jurisdiction to
+grant the prayers sought by the Respondent No. 1. Reliance has been placed
+by Ld. Counsel for the Appellant on Embassy Property Developments Pvt.
+Ltd. vs. State of Karnataka, (2019) SCC Online SC 1542.
+23.
+It is further submitted that Demat accounts of the CD were freezed
+much prior to the commencement to the CIRP process and thus was not an
+action arising from or in relation to the Insolvency Proceedings. Emphasis
+has been laid on Gujarat Urja Vikas Nigam Ltd. vs. Amit Gupta and
+Ors., (2021) 7 SCC 209.
+
+[PAGE 11]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 11 of 75
+
+24.
+It is further submitted that the impugned order fails to consider that
+freezing of the Demat account has no nexus with the Insolvency/liquidation
+of the CD under the Securities Law Framework and therefore there was no
+occasion for the Ld. Adjudicating Authority to assume any jurisdiction
+which was not available. Reliance has been placed on the judgment passed
+by the Ld. NCLT Mumbai of date 20.08.2024, in IA No. 5538 of 2023 in
+Dolphin off Shore Enterprises (India) Ltd. vs. BSE Ltd. in order to show
+that the Reliance of Ld. Adjudicating Authority on Clause 5 of the SoP
+circular is erroneous.
+25.
+It is further submitted that the IRP is only obliged to carry out the
+business of the CD in compliance of the applicable laws including his
+obligations and requirement under the Securities Law Framework(SLF) in
+view of Section 17(2)(e) of the Code and Section 25(2) (b) also gives power to
+the RP to represent the CD with the third parties in all proceedings and
+therefore the IRP/RP should have approached the appropriate forum for
+defreezing of the Demat account of the CD. However, the IRP in this case
+failed to conduct necessary diligence before initiating the process for sale of
+assets under Section 29 of the IBBI (Corporate Insolvency Resolution
+Process) Regulations, 2016 (CIRP) Regulations and thus the IRP was under a
+legal obligation to determine the status of the assets of the CD before
+initiating the any process for sale of such assets and therefore was not
+having any locus to file an application for de-freezing of the demat account
+under Section 60 (5) of the Code and thus have by passed the Regulatory
+Framework Governing Securities Market.
+
+[PAGE 12]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 12 of 75
+
+26.
+It is also submitted that the moratorium as provided under Section 14
+of the Code is not applicable to actions taken for compliance with mandatory
+securities regime and prior action of freezing of demat account as the
+objective of the freezing action is not recovery but to ensure compliance with
+the applicable laws and Regulations and therefore the action of freezing is
+not barred by moratorium as the moratorium provided in the Code is with
+regard to suits and proceedings in relation to the debts payable by the CD
+and could not encroach upon the right of other authorities, duly empowered
+under a statute or Regulations. Reliance in this regard has been placed on
+Regional P.F. Commissioner vs. T.V. Balasubramanian (RP), CA (AT)
+(Ins) No. 1521 of 2019 decided on 08.06.2020 as well as on Roofit
+Industries ltd. vs. Jitender Kumar Jain and Ors., (2017) SCC Online
+NCLT 12085. It is submitted that the Reliance of Respondent No. 1 on Anju
+Aggarwal Resolution Professional of Shree Bhavani Paper Mills vs.
+BSE Ltd. is wholly misplaced.
+27.
+It is further submitted that pre-requisite for application of the
+overriding Principle contained under Section 238 of the Code that the
+provisions of the other law are in consistent with the provisions of the Code
+as per the test laid down by the Hon’ble Supreme Court in Kishorebhai
+Khamachand Goyal vs. State of Gujarat (2003) 12 SCC 274. However,
+those tests are not satisfied in the instant case.
+28.
+It is further submitted that despite the impugned order recognized
+that appellant has discretion and power to relax the action taken in terms of
+the circulars issued by the SEBI and exchange, has completely disregarded
+the submissions of the appellant that the appellant should be given an
+
+[PAGE 13]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 13 of 75
+
+opportunity to exercise its discretion under the various circulars issued by
+the SEBI and the Exchange and has set a dangerous precedent allowing the
+non-compliant listed entities to allow them to simply by pass the process
+and requirements under aforesaid circulars and in this way the various
+circulars issued by the SEBI and Exchange has been ignored and the
+Securities Law Framework has been undermined.
+29.
+Ld. Counsel for the Appellant further submits that in Judgment dated
+29.07.2017 passed by the Hon’ble NCLT, Mumbai in CP 593 &
+CP1085/I&BP/ NCLT/ MAH/ 2017 in “Shobha Limited and Sadashiv
+Lazman Jogalekar v. Pancard Clubs Limited” NCLT Mumbai has held that
+Section 238 of I&B Code cannot be said to have an overriding effect or
+overlapping effect over the provisions of Securities and Exchange Board of
+India Act, 1992 (“SEBI Act”) and that nullification of actions taken by
+regulatory authorities / SEBI does not fall in the jurisdiction of the Hon’ble
+NCLT. Reliance is also placed on the judgment passed by NCLT, New Delhi
+vide Order dated 23.02.2021 in M/s Adonis Electronics Pvt. Ltd. v M/s
+Saka Ltd and also that Hon’ble Supreme Court in Civil Appeal No.7038
+/2025 in the matter of BSE Ltd. Vs. Spice Energy Pvt. Ltd. has granted
+stay of the Order dated 30.04.2025 passed by SAT directing refund of ALF
+by the Appellant and de-freezing of demat account of the promoter of a
+corporate debtor. The said Order dated 30.04.2025 passed by SAT was
+premised on the finding that the said action of freezing was in teeth of
+Section 238 and Section 14 of I&B Code. It is also submitted that the case
+laws relied on by the Appellants are not applicable to the facts of these
+cases.
+
+[PAGE 14]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 14 of 75
+
+30.
+Ld. Counsel for the Respondent No.1 in CA (AT) (Ins) No.1786 of 2025
+submits that the Resolution Professional is entitled to take custody of the
+assets of the Corporate Debtor and during the moratorium under Section 14
+of the Code enforcement proceedings by the appellant cannot continue
+against the Corporate Debtor and the SEBI Circular dated 11.02.2021 also
+recognizes and relaxes the restraint imposed during moratorium, thus there
+is no illegality in the impugned orders.
+30.1 It is further submitted that Future Corporate Resources Pvt. Ltd.
+(Corporate Debtor) is the suspended promoter company of Future Retails
+Limited (FRL) and the Appellant had frozen the Demat Account of the
+Corporate Debtor, as FRL had not paid its Annual Listing Fees (ALF), despite
+the Appellant having filed a claim for the ALF, which was admitted in the
+CIRP and the Liquidation process of FRL and recovery proceedings for the
+ALF by the Appellant under the SEBI Circular dated 11.02.2021 against FRL
+are barred by Section 14(1)(a) of the Code.
+30.2 It is submitted that SEBI Circular dated 11.02.2021 provides the SOP
+for listed entities that fail to pay ALF, which requires the Appellant to follow
+up with the listed entity and, only thereafter, deny permission for further
+listing. The Appellant may freeze the promoters' shares only if the listed
+entity fails to pay the ALF. In other words, freezing of the promoters' shares
+can occur only as the third step in the recovery process by the Appellant
+under the SEBI Circular dated 11.02.2021.
+30.3 It is also submitted that the Appellant has filed claim in the CIRP of
+FRL which was admitted in full by the RP of FRL and when FRL was
+admitted into Liquidation the Appellant again filed the claim which was also
+
+[PAGE 15]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 15 of 75
+
+admitted in full and the payment to the Appellant was subject to the
+provisions of the Code, and the recovery of the ALF was also subject to the
+insolvency resolution and liquidation process. The SEBI Circular dated
+11.02.2021 at Clause 5 provides that no action must be taken, and to
+withdraw any action where the listed entity is under moratorium,
+recognizing the bar against recovery proceedings under Section 14(1)(a) of
+the Code.
+30.4 It is also submitted that SEBI had, in their Affidavit in Reply to the IA
+No. 2590 of 2025, relied on Clause 5 of the SEBI Circular dated 11.02.2021,
+and had given a no-objection before Ld. Adjudicating Authority for de-
+freezing the Corporate Debtor’s demat account.
+30.5 It is further submitted that the SEBI Circular dated 11.02.2021 at
+para 3.3 states that if the listed entity fails to pay ALF, the Appellant shall
+issue a notice to the promoter company to pay ALF for the listed entity. In
+the present case, after FRL was admitted into CIRP, the promoters were
+suspended and therefore were barred under Section 17(1)(b) from acting on
+behalf of the FRL. Therefore, the Appellant could not initiate recovery
+proceedings, nor could they have required the promoter to act on behalf of
+FRL, and pay ALF.
+30.6 It is further submitted that the Corporate Debtor was not vicariously
+liable for its group company, i.e., FRL, as, due to the operation of Section
+14(1)(a) of the Code, FRL could not be proceeded against for recovery of ALF
+by the Appellant. Reliance is placed on the Judgment of the Hon’ble
+Supreme Court in State Bank of India v. Shyama Devi (1978) 3 SCC 399,
+Dilip Hariramani v Bank of Baroda (2024) 15 SCC, Ashutosh Ashok
+
+[PAGE 16]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 16 of 75
+
+Parasrampuriya and others. v Gharrkul Industries Private Limited,
+(2023)
+14
+SCC
+770
+and
+Pradeep
+Kumar
+Kabra
+v
+Assistant
+Commissioner, CGST & Central Excise Comp. App. (AT)(Ins) No. 409 of
+2023 to emphasize that assets attached prior to CIRP may be released by
+the Adjudicating Authority, as the assets are the property of the Corporate
+Debtor. Reliance is also placed on ArcelorMittal India Private Ltd. v.
+Satish Kumar Gupta (2019) 2 SCC 1 and Embassy Property
+Developments (P) Ltd. v State of Karnataka (2020) 13 SCC 308 in order
+to show that the Adjudicating Authority alone has jurisdiction when it
+comes to proceedings by or against the Corporate Debtor and once the dues
+have been crystallized and are recoverable from the Corporate Debtor, the
+claim of the government would be operational debt, and would make the
+government an operational creditor. Therefore, the government dues would
+have to be paid only in the manner as provided in the resolution plan.
+30.7 Reliance is also placed on Ms. Anju Agarwal v. Bombay Stock
+Exchange & Ors. Company Appeal (AT)(Ins) 734 of 2018 in the context
+that recovery proceedings, including under Section 28A of the SEBI Act,
+cannot continue during a moratorium as well on National Spot Exchange
+Ltd. through its Authorised Representative v Namdhari Foods
+International Pvt. Ltd. 2021 SCC OnLine NCLAT 2918, Pinakin Shah-
+Liquidator v The Assistant Commissioner of State Tax Company Appeal
+(AT)(Ins) No. 32 of 2021, Hemant Mehta, RP of Pan India Utilities v Ass.
+Commissioner of State Tax 2022 SCC Online NCLAT 4191, GUVNL v
+Amit Gupta (2021) 7 SCC 209, Varrsana Ispat Ltd v Deputy Director of
+
+[PAGE 17]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 17 of 75
+
+Enforcement 2019 SCC OnLine NCLAT 235 and Kiran Shah v
+Enforcement Directorate Company Appeal (AT)(Ins) No. 817 of 2021.
+
+30.8 Ld. Counsel for the Respondent No.3 SEBI on the other hand submits
+that the issue of freezing of the demat accounts of the Corporate Debtor falls
+within the domain of the Stock Exchange in terms of the circulars issued by
+the Respondent No. 3/SEBI and the Exchange; and the Hon’ble NCLT does
+not have jurisdiction to grant the prayers sought for by the Respondent No.
+1 under Section 60(5) of the IBC in view of the law laid down by the Hon’ble
+Supreme Court in Embassy Property Developments Pvt. Ltd. v State of
+Karnataka [ 2019 SCC Online SC 1542] and Gujrat Urja Vikas Nigam
+Limited v. Amit Gupta and Ors. [(2021) 7 SCC 209], as Ld. NCLT does not
+have jurisdiction under Section 60(5)(c) of the Insolvency and Bankruptcy
+Code, 2016 which the IBC expressly does not empower it to do. The
+residuary jurisdiction vested with the Ld. NCLT under the IBC is confined
+only to facts and issues that arise solely out of, or in relation to the
+insolvency of the Corporate Debtor.
+30.9 It is further submitted that the Impugned Order fails to consider that
+the freezing action by the Appellant/BSE was initiated against the Corporate
+Debtor in accordance with the circulars issued by the Respondent No.
+3/SEBI and Appellant/BSE much prior to initiation of CIRP, has no nexus
+with the insolvency/ liquidation of the Corporate Debtor, but with the
+obligations of listed entities and the promoters thereof of the listed entities
+under the securities law framework.
+
+[PAGE 18]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 18 of 75
+
+30.10 It is further submitted that the interpretation accorded by the Ld.
+NCLT to Clause 5 of the SOP Circular is wholly misconceived and legally
+untenable. At no stage does Clause 5 confer any adjudicatory power upon
+the Ld. NCLT to direct de-freezing of a Demat account, nor does it dilute the
+statutory powers exercised by SEBI under the provisions of the SEBI Act,
+1992 and the Regulations framed thereunder.
+30.11 It is further submitted that Section 25(2)(b) of the IBC gives the power
+to the RP to represent and act on behalf of the Corporate Debtor with third
+parties, and exercise rights for the benefits of the Corporate Debtor in
+judicial, quasi-judicial and arbitration proceedings. The Hon’ble Supreme
+Court in Embassy Property Developments (supra) at Para 40-41 has held
+that this provision clearly shows that the corporate debtor continues to have
+rights to represent before judicial and quasi-judicial forums and the RP,
+thus, cannot short-circuit the same and bring a claim before NCLT taking
+advantage of Section 60(5) of the IBC.
+30.12 Reliance has been placed on Regional P.F Commissioner Vs. T.V.
+Balasubramanian (RP) (Sholingur Textiles Ltd) & Anr. (Company Appeal
+(AT) (Insolvency) No. 1521 of 2019, decided on June 08, 2020)10,
+whereby the attachment of property by EPFO before initiation of CIRP was
+held to be valid and Directorate of Economic Offences Vs. Binay Kumar
+Singhania & Ors. (CA(AT)(Ins) 935 of 2020 decided on May 04, 2021),P.
+Mohanraj v Shah Brothers Ispat Pvt. Ltd., (2021) 6 SCC 258, Varrsana
+Ispat Limited versus Deputy Director of Enforcement; 2019 SCC
+OnLine NCLAT 235 to show that the moratorium may not have any adverse
+effect on the rights of the Appellant and Respondent No. 3 and also on
+
+[PAGE 19]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 19 of 75
+
+Saranga Anilkumar Aggarwal v. Bhavesh Dhirajlal Sheth & Ors.; 2025
+SCC OnLine SC 493,Judgment dated 20.08.2024 passed by the Hon’ble
+NCLT, Mumbai in IA 5538/ 2023 in Dolphin Offshore Enterprises (India)
+Ltd. v BSE Ltd. to show lack of jurisdiction of NCLT to entertain application
+to defreeze the demat account.
+30.13 Ld. Counsel for the Respondent No.1 in company Appeal No. 1862 of
+2024 submits that he approached BSE and NSE for de-freezing the demat
+account but was refused. Hence, she filed IA No. 928/2023 seeking de-
+freezing of the demat account and by passing the Impugned Order the
+demat account was unfrozen and the shares there after were sold for Rs.
+1,36,65,499.2/- and amount has been distributed to the creditors on an
+undertaking to abide by any orders passed by this Hon’ble Tribunal.
+Admittedly, the shares in the demat account of the CD were owned by it and
+there is no controversy or dispute surrounding the same.
+
+30.14 It is further submitted that Ld. Adjudicating Authority is having
+jurisdiction to pass the impugned order as R1 is neither challenging the
+validity of the actions of the stock exchanges, nor is questioning the
+quantum of penalty imposed and the issue was limited as to how CD’s
+assets are to be dealt with BSE’s contentions need outright rejection as
+entire objective to conclude liquidation in a time bound manner would
+become impossible. The liquidation process would not get over for years
+since all statutory authorities would have to be separately moved.
+30.15 It is further submitted that Section 35(1)(b) of the Code, casts an
+obligation on the liquidator to take into her custody/control all properties of
+the CD, and Section 35(1)(f) mandates the liquidator to sell such properties,
+
+[PAGE 20]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 20 of 75
+
+subject only to Section 52 of the Code. Section 36 of the Code includes all
+assets of the CD in the liquidation estate, with Section 36(3) specifically
+including encumbered assets not in possession of the CD. Thus, all
+properties of the CD must be taken over and sold by the liquidator, and the
+proceeds must be distributed as per Section 53 of the Code. Moreover, the
+Jurisdiction of NCLT arises not only under Section 60(5) but also under
+Section 35(1)(n) of IBC. Reliance has also placed on Section 32A (2) of the
+Code in order to show that no action shall be taken against property of the
+CD in relation to an offence committed prior to insolvency commencement
+date, when such property is covered under sale of liquidation assets. Sale of
+assets can only be made only if the property is made available for sale and is
+free from attachment. Explanation to Section 32A (2) clarifies that “action”
+includes attachment, retention or even confiscation of property. “Offence” is
+not defined, but would include all actions inviting punishment, and would
+therefore include actions resulting in penalties. Thus, sale under the
+liquidation process is protected under Section 32A(2) notwithstanding
+existence of any freezing order.
+30.16 It is further submitted that S. 32 of the SEBI Act, 1992 states that it
+is in addition to, and not in derogation of, other laws; while S. 238 of the
+Code provides an overriding effect over anything inconsistent in any other
+law. The Circular dt. 03.05.2018 under which the freezing orders have been
+passed, provides no mechanism to sell the frozen assets; and in fact states
+that the de-freezing can be made pursuant to court orders. Reliance is
+placed on Anju Agarwal v BSE, CA(AT)(Ins) No. 734/2018 dt. 23.04.2019
+in order to show that penalties payable to BSE or SEBI are ‘operational debt’
+
+[PAGE 21]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 21 of 75
+
+and that Section 238 of the Code Overrides Section 28A of the SEBI Act.
+The case of Hemant Mehta v ACST, CA(AT)(Ins) No. 328/2022 dt.
+05.08.2022 has also been relied to show that, where bank accounts had
+been frozen by GST authorities, the Adjudicating Authority has jurisdiction
+to interfere under Section 60(5).
+30.17 Ld. Counsel for the Respondent No. 1 has further placed reliance on
+ED v Manoj Kumar Agrawal, CA(AT)(Ins) No. 575/2019 dt. 09.04.2021
+that attachments cannot continue and property would be available till
+resolution in terms of Section 32A of the Code. Three-member judgment of
+this Appellate Tribunal in Vantage Point Asset Management Pte Ltd. v
+Gaurav Misra, 2025 SCC Online NCLAT 1652 has also been relied wherein
+it is held that properties attached under PMLA prior to initiation of
+insolvency proceedings could be included in the information memorandum
+and could be part of a resolution plan. ABG Shipyard Liquidator v CBITC,
+(2023) 1 SCC 472 is also highlighted wherein the Hon’ble Supreme Court
+held that the Code overrides the Customs Act. It is submitted that the
+appeal is liable to be dismissed.
+Analysis and Findings
+31.
+Having heard Ld. Counsel for the parties and having considered the
+record it is reflected that in both the above appeals on an application moved
+by the RP/liquidator, the adjudicating authority has de freezed the demat
+accounts of the CD which was freezed by the appellant on account of non-
+payment of annual listing fee by the CD. It is to be recalled that in CA (AT)
+(Ins) No. 1786 of 2025 the CD i.e. M/s Future Corporate Resources Pvt. Ltd.
+a promoter of M/s Future Retail Ltd., a listed company, was holding 0.82%
+
+[PAGE 22]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 22 of 75
+
+equity shares of Generali Central Insurance Company Ltd. and 2.22% equity
+stake in Shendra Advisory Pvt. Ltd. which translate to 1.09% equity shares
+in Generali Central Insurance Company Ltd., in demat account with the
+appellant. Likewise, in CA (AT) (ins) No. 1862 of 2024 the CD i.e. Liz traders
+and agents Pvt. Ltd. was having 5,600 shares of Tata Chemicals Ltd., 6,384
+shares of Tata Consumer Products Ltd., 572 shares of The Indian Hotels
+Company Ltd., 63 shares of The Indian Hotels Company Ltd., 45,387 shares
+of Cox and Kings Ltd., 110,209 shares of Cox and Kings Financial Services
+Ltd. and 8 shares of Videocon Industries Ltd., in a demat account lying with
+the appellant.
+32.
+There is no dispute with regard to the ownership of these shares by
+CD’s of these shares, as the case of the appellant is only that due to non-
+payment of annual listing fee by these corporate debtors, their demat
+account were debit freezed. Thus, so far as the shares lying in these demat
+accounts are concerned, were owned by the respective CDs and this fact has
+also not been denied by the appellant. The contention of appellant and
+Respondent No. 3-SEBI is that debit freeze of these demat accounts was
+done by the appellant on account of non-payment of annual listing fee, in
+exercise of powers provided under the SoP Circulars read with BSE ALF
+circulars and in pursuance of the provisions contained under Section 9(2)
+and 21 of the Securities Contracts (Regulations Act) 1956, (SCRA)
+Regulation 14 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (LODR) Regulations and thus according to appellant a
+comprehensive securities law framework exists to ensure compliance by
+listed entities and their promoter entities to comply with the listing
+
+[PAGE 23]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 23 of 75
+
+requirements including payment of ALF and further that freezing and de-
+freezing of the demat accounts of the CD is in the domain of the exchange
+and the NCLT does not have jurisdiction to entertain any application for de
+freezing of these demat accounts as the same could only be done by an
+appropriate authority established under the securities law framework, more
+so when the same was not having any nexus with the Insolvency/liquidation
+of the CD and was connected solely with the obligations of listed entities and
+promoter of listed entities, to be discharged under the securities law
+framework.
+33.
+At this juncture, it would be relevant to have a glance on the relevant
+provisions of the SCRA, LODR Regulations and SOP Circulars issued by the
+appellant. Section 9 of the SCRA, 1956 is reproduced as under:
+“Power of recognised stock exchanges to make bye-
+laws.
+9. (1) Any recognised stock exchange may, subject to the
+previous approval of the 27[Securities and Exchange
+Board of India], make bye-laws for the regulation and
+control of contracts.
+(2) In particular, and without prejudice to the generality of
+the foregoing power, such bye-laws may provide for:
+(a) the opening and closing of markets and the regulation
+of the hours of trade;
+(b) a clearing house for the periodical settlement of
+contracts and differences thereunder, the delivery of and
+payment for securities, the passing on of delivery orders
+and the regulation and maintenance of such clearing
+house;
+(c) the submission to the 28[Securities and Exchange
+Board of India] by the clearing house as soon as may be
+after each periodical settlement of all or any of the
+following particulars as the 29[Securities and Exchange
+Board of India] may, from time to time, require, namely: —
+
+[PAGE 24]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 24 of 75
+
+(i) the total number of each category of security carried
+over from one settlement period to another;
+(ii) the total number of each category of security, contracts
+in respect of which have been squared up during the
+course of each settlement period;
+(iii) the total number of each category of security actually
+delivered at each clearing;
+(d) the publication by the clearing house of all or any of the
+particulars submitted to the 30[Securities and Exchange
+Board of India] under clause (c) subject to the directions, if
+any, issued by the 31[Securities and Exchange Board of
+India] in this behalf;
+(e) the regulation or prohibition of blank transfers;
+(f) the number and classes of contracts in respect of which
+settlements shall be made or differences paid through the
+clearing house;
+(g) the regulation, or prohibition of budlas or carry-over
+facilities;
+(h) the fixing, altering or postponing of days for
+settlements;
+(i) the determination and declaration of market rates,
+including the opening, closing highest and lowest rates for
+securities;
+(j) the terms, conditions and incidents of contracts,
+including the prescription of margin requirements, if any,
+and conditions relating thereto, and the forms of contracts
+in writing;
+(k) the regulation of the entering into, making, performance,
+recession and termination, of contracts, including contracts
+between members or between a member and his
+constituent or between a member and a person who is not
+a member, and the consequences of default or insolvency
+on the part of a seller or buyer or intermediary, the
+consequences of a breach or omission by a seller or buyer,
+and the responsibility of members who are not parties to
+such contracts;
+(l) the regulation of taravani business including the placing
+of limitations thereon;
+
+[PAGE 25]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 25 of 75
+
+(m) the listing of securities on the stock exchange, the
+inclusion of any security for the purpose of dealings and
+the suspension or withdrawal of any such securities, and
+the suspension or prohibition of trading in any specified
+securities;
+(n) the method and procedure for the settlement of claims
+or disputes, including settlement by arbitration;
+(o) the levy and recovery of fees, fines and penalties;
+(p) the regulation of the course of business between parties
+to contracts in any capacity;
+(q) the fixing of a scale of brokerage and other charges;
+(r) the making, comparing, settling and closing of
+bargains;
+(s) the emergencies in trade which may arise, whether as a
+result of pool or syndicated operations or cornering or
+otherwise,
+and
+the
+exercise
+of
+powers
+in
+such
+emergencies, including the power to fix maximum and
+minimum prices for securities;
+(t) the regulation of dealings by members for their own
+account;
+(u) the separation of the functions of jobbers and brokers;
+(v) the limitations on the volume of trade done by any
+individual member in exceptional circumstances;
+(w) the obligation of members to supply such information or
+explanation and to produce such documents relating to the
+business as the governing body may require.
+(3) The bye-laws made under this section may—
+(a) specify the bye-laws the contravention of which shall
+make a contract entered into otherwise than in accordance
+with the bye-laws void under sub-section (1) of section 14;
+(b) provide that the contravention of any of the bye-laws
+shall render the member concerned liable to one or more of
+the following punishments, namely: —
+(i) fine,
+(ii) expulsion from membership,
+(iii) suspension from membership for a specified period,
+
+[PAGE 26]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 26 of 75
+
+(iv) any other penalty of a like nature not involving the
+payment of money.
+(4) Any bye-laws made under this section shall be subject
+to such conditions in regard to previous publication as may
+be prescribed, and, when approved by the [Securities and
+Exchange Board of India], shall be published in the
+Gazette of India and also in the Official Gazette of the
+State in which the principal office of the recognised stock
+exchange is situate, and shall have effect as from the date
+of its publication in the Gazette of India:
+Provided that if the [Securities and Exchange Board of
+India] is satisfied in any case that in the interest of the
+trade or in the public interest any bye-law should be made
+immediately, it may, by order in writing specifying the
+reasons therefore, dispense with the condition of previous
+publication”.
+Section 21, is reproduced as under:
+[Conditions for listing.
+21. Where securities are listed on the application of any
+person in any recognised stock exchange, such person
+shall comply with the conditions of the listing agreement
+with that stock exchange.]
+
+Regulation 14 of the LODR Regulations, 2015 is
+reproduced as under:
+
+Fees and other charges to be paid to the recognized
+stock exchange(s)
+14. The listed entity shall pay all such fees or charges, as
+applicable, to the recognised stock exchange(s), in the
+manner specified by the Board or the recognised stock
+exchange(s).
+
+Regulation 98 is reproduced as under:
+Liability of contravention of the Act, rules or the
+regulations.
+98. (1) The listed entity or any other person thereof who
+contravenes any of the provisions of these regulations,
+shall, in addition to liability for action in terms of the
+securities laws, be liable for the following actions by the
+
+[PAGE 27]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 27 of 75
+
+respective stock exchange(s), in the manner specified in
+circulars or guidelines issued by the Board:
+(a) imposition of fines;
+(b) suspension of trading;
+(c) freezing of promoter/promoter group holding of
+designated
+securities,
+as
+may
+be
+applicable,
+in
+coordination with depositories.
+(d) any other action as may be specified by the Board from
+time to time
+(2) The manner of revocation of actions specified in clauses
+(b) and (c) of sub-regulation (1), shall be as specified in
+circulars or guidelines issued by the Board.
+Section 11 A of the Securities and Exchange Board of
+India Act, 1992 is reproduced as under:
+Securities and Exchange Board of India Act, 1992
+11A. (1) Without prejudice to the provisions of the
+Companies Act, 1956 (1 of 1956), the Board may, for the
+protection of investors, —
+(a) specify, by regulations—
+(i) the matters relating to issue of capital, transfer of
+securities and other matters incidental thereto; and
+(ii) the manner in which such matters shall be disclosed by
+the companies;
+(b) by general or special orders—
+(i) prohibit any company from issuing prospectus, any offer
+document, or advertisement soliciting money from the
+public for the issue of securities;
+(ii) specify the conditions subject to which the prospectus,
+such offer document or advertisement, if not prohibited,
+may be issued.
+(2) Without prejudice to the provisions of section 21 of the
+Securities Contracts (Regulation) Act, 1956 (42 of 1956),
+the Board may specify the requirements for listing and
+transfer of securities and other matters incidental thereto.]
+
+[PAGE 28]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 28 of 75
+
+34.
+SEBI circular of date 22.01.2020 also provides for the action which
+may be taken by the stock exchanges for violation of listing regulations by
+listing entities, including freeze or unfreeze of shareholding and payment of
+fine and are reproduced as under:
+4. The fines specified above shall continue to accrue till the
+time of rectification of the non-compliance
+to
+the
+satisfaction of the concerned recognized stock exchange or
+till the scrip of the listed entity is suspended from trading
+for non-compliance with aforesaid provisions". Such
+accrual
+shall
+be
+irrespective
+of
+any
+other
+disciplinary/enforcement action(s) initiated by recognized
+stock exchange(s)/SEBI.
+5. Every recognized stock exchange shall review the
+compliance status of the listed entities and shall issue
+notices to the non-compliant listed entities within 30 days
+from the due date of submission of information. Non-
+compliant listed entity shall ensure compliance with the
+requirement(s) and pay fines as per the circular within 15
+days from the date of such notice. If the non-compliant
+listed
+entity
+fails
+to
+comply
+with
+the
+aforesaid
+requirement(s) and/or pay fine levied within the stipulated
+period as per the notice stated above, the concerned
+recognized stock exchange(s) shall, upon expiry of the
+period indicated in the notice, shall issue notices to the
+promoter(s) of such non-compliant entities, to ensure
+compliance with the requirement(s) and pay fines within
+10 days from the date of such notice. While issuing the
+aforementioned notices, the recognized stock exchange
+shall also send intimation to other recognized stock
+exchange(s) where the shares of the non-compliant entity
+are listed.
+6. The concerned recognized stock exchange(s) shall, upon
+expiry
+of
+the
+stipulated
+periods
+indicated
+in
+the
+aforementioned notices, forthwith intimate the depositories
+to freeze the entire shareholding of the promoter(s) in such
+entity as well as all other securities held in the demat
+accounts, if the non-compliant listed entity fails to comply
+with the aforesaid requirement(s) and/or pay fine levied.
+The depository(ies) shall immediately freeze such demat
+accounts and also intimate the promoter(s) about the
+details of non-compliances resulting in freezing of their
+demat accounts.
+7. If the non-compliant listed entity subsequently complies
+with the respective requirement(s) and pays the fine levied,
+in terms of this circular, the concerned recognized stock
+
+[PAGE 29]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 29 of 75
+
+exchange(s) shall display on their website details of
+compliance
+and
+fines
+paid
+by
+the
+listed
+entity.
+Simultaneously, the recognized stock exchange(s) shall
+intimate
+the
+depositories
+to
+unfreeze
+the
+entire
+shareholding of the promoter(s) in such entity as well as all
+other securities held in the demat account of the
+promoter(s), immediately from the date of compliance.
+
+8. If any non-compliant listed entity fails to pay the fine
+despite receipt of the notice as stated above, the
+recognized stock exchange(s) may also initiate appropriate
+enforcement action.
+
+9. The recognised stock exchange(s) shall also advise the
+non-compliant listed entity to ensure that the subject
+matter of non-compliance which has been identified and
+indicated by the recognised stock exchange(s) and any
+subsequent
+action
+taken
+by
+the
+recognised
+stock
+exchange(s) in this regard shall be placed before the Board
+of Directors of the company in its next meeting. Comments
+made by the board shall be duly informed to the
+recognised stock exchange(s) for dissemination.
+
+35.
+SOP Circular issued by the SEBI of date 11.02.2021 is also relevant
+and is reproduced in full as under:
+
+[PAGE 30]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 30 of 75
+
+[PAGE 31]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 31 of 75
+
+[PAGE 32]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 32 of 75
+
+[PAGE 33]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 33 of 75
+
+36.
+The BSE ALF Circular dated 25.06.2021 is also important and is also
+reproduced as under:
+
+[PAGE 34]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 34 of 75
+
+37.
+Perusal of the above placed Securities Law Framework would reveal
+that adequate provisions have been made therein for regulating the business
+of listing entities at stock exchanges including payment of ALF by them and
+also for the purpose of complying other Regulations for transaction of
+business in such stock exchanges and also the action which may be taken
+against any erring/non-compliant listing entity including debit freeze of its
+demat account. Thus all above placed provisions and circulars have been
+
+[PAGE 35]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 35 of 75
+
+placed for smooth functioning of the stock exchanges and conduction of
+business by the listing entities and an effective regulatory framework has
+been established.
+38.
+It is also reflected that on complying with the Regulations and other
+necessary compliances and also by payment of ALF the demat accounts
+lying with the appellant even if freezed by non-payment of the ALF may be
+de freezed subsequently by paying the arrears of ALF. Thus the scheme is
+that only a compliant entity would be allowed to do the business at the
+exchange and those non-compliant shall not be allowed to do the business
+at the stock exchanges and certain punitive actions, including imposition of
+fine and even freezing of their demat accounts may also be undertaken
+however, after complying with the rules and regulations, these entities may
+again be permitted to commence their business at stock exchanges. Thus,
+the foremost purpose of these regulations and circulars and scheme is to
+streamline the business at stock exchanges. Therefore, any dispute which is
+pertaining to the performance of business at the stock exchange is
+necessarily required to be resolved and taken care of within the securities
+law frame work including SEBI Regulations and SoP Circulars discussed
+herein before.
+39.
+At this juncture, it is also necessary to recall the relevant provisions of
+the Insolvency and Bankruptcy Code, 2016 (Code) to understand the
+jurisdiction of the NCLT as provided under Section 60 (5) of the Code and
+also the relevant provisions of the Code which deals with the duty of the
+IRP/RP as well as the liquidator with regard to dealing with the properties of
+the CD.
+
+[PAGE 36]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 36 of 75
+
+“Section 16 Appointment and tenure of Interim
+Resolution Professional
+
+(1) The Adjudicating Authority shall appoint an interim
+resolution professional 1[on the insolvency commencement
+date].
+(2) Where the
+application for corporate
+insolvency
+resolution process is made by a financial creditor or the
+corporate debtor, as the case may be, the resolution
+professional, as proposed respectively in the application
+under section 7 or section 10, shall be appointed as the
+interim
+resolution
+professional,
+if
+no
+disciplinary
+proceedings are pending against him.
+(3) Where the
+application for corporate
+insolvency
+resolution process is made by an operational creditor and--
+(a) no proposal for an interim resolution professional is
+made, the Adjudicating Authority shall make a reference
+to the Board for the recommendation of an insolvency
+professional who may act as an interim resolution
+professional;
+(b) a proposal for an interim resolution professional is
+made under sub-section (4) of section 9, the resolution
+professional as proposed, shall be appointed as the
+interim
+resolution
+professional,
+if
+no
+disciplinary
+proceedings are pending against him.
+(4) The Board shall, within ten days of the receipt of a
+reference from the Adjudicating Authority under sub-
+section (3), recommend the name of an insolvency
+professional to the Adjudicating Authority against whom
+no disciplinary proceedings are pending.
+(5) The term of the interim resolution professional 2[shall
+continue till the date of appointment of the resolution
+professional under section 22].
+Section 17 Management of affairs of corporate debtor
+by interim resolution professional.
+
+(1) From the date of appointment of the interim resolution
+professional, ---
+(a) the management of the affairs of the corporate debtor
+shall vest in the interim resolution professional;
+(b) the powers of the board of directors or the partners of
+the corporate debtor, as the case may be, shall stand
+suspended and be exercised by the interim resolution
+professional;
+(c) the officers and managers of the corporate debtor
+shall report to the interim resolution professional and
+provide access to such documents and records of the
+corporate debtor as may be required by the interim
+resolution professional;
+
+[PAGE 37]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 37 of 75
+
+(d) the financial institutions maintaining accounts of the
+corporate debtor shall act on the instructions of the
+interim resolution professional in relation to such
+accounts and furnish all information relating to the
+corporate debtor available with them to the interim
+resolution professional.
+
+(2) The interim resolution professional vested with the
+management of the corporate debtor shall---
+(a) act and execute in the name and on behalf of the
+corporate
+debtor
+all
+deeds,
+receipts,
+and
+other
+documents, if any;
+(b) take such actions, in the manner and subject to such
+restrictions, as may be specified by the Board;
+(c) have the authority to access the electronic records of
+corporate debtor from information utility having financial
+information of the corporate debtor;
+(d) have the authority to access the books of account,
+records and other relevant documents of corporate
+debtor available with government authorities, statutory
+auditors, accountants and such other persons as 1[may
+be specified; and].
+[(e) be responsible for complying with the requirements
+under any law for the time being in force on behalf of
+the corporate debtor.].
+
+Section 18 Duties of Interim Resolution Professional
+
+The interim resolution professional shall perform the
+following duties, namely: —
+(a) collect all information relating to the assets, finances
+and operations of the corporate debtor for determining
+the financial position of the corporate debtor, including
+information relating to—
+(i) business operations for the previous two years;
+(ii) financial and operational payments for the
+previous two years;
+(iii) list of assets and liabilities as on the initiation
+date; and
+(iv) such other matters as may be specified;
+
+(b) receive and collate all the claims submitted by
+creditors to him, pursuant to the public announcement
+made under sections 13 and 15;
+(c) constitute a committee of creditors;
+(d) monitor the assets of the corporate debtor and
+manage its operations until a resolution professional is
+appointed by the committee of creditors;
+(e) file information collected with the information utility,
+if necessary; and
+
+[PAGE 38]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 38 of 75
+
+(f) take control and custody of any asset over which the
+corporate debtor has ownership rights as recorded in
+the balance sheet of the corporate debtor, or with
+information utility or the depository of securities or any
+other registry that records the ownership of assets
+including—
+(i) assets over which the corporate debtor has
+ownership rights which may be located in a foreign
+country;
+(ii) assets that may or may not be in possession of the
+corporate debtor;
+(iii) tangible assets, whether movable or immovable;
+(iv) intangible assets including intellectual property;
+(v) securities including shares held in any subsidiary of
+the corporate debtor, financial instruments, insurance
+policies;
+(vi) assets subject to the determination of ownership by
+a court or authority;
+(g) to perform such other duties as may be specified by
+the Board.
+Explanation. —For the purposes of this 1 [section], the
+term "assets" shall not include the following, namely: —
+(a) assets owned by a third party in possession of the
+corporate debtor held under trust or under contractual
+arrangements including bailment;
+(b) assets of any Indian or foreign subsidiary of the
+corporate debtor; and
+(c) such other assets as may be notified by the Central
+Government in consultation with any financial sector
+regulator.
+
+Section 19 Personnel to extend co-operation to
+Interim Resolution Professional
+(1) The personnel of the corporate debtor, its promoters
+or any other person associated with the management of
+the corporate debtor shall extend all assistance and
+cooperation to the interim resolution professional as may
+be required by him in managing the affairs of the
+corporate debtor.
+
+(2) Where any personnel of the corporate debtor, its
+promoter or any other person required to assist or
+cooperate with the interim resolution professional does
+not
+assist
+or
+cooperate,
+the
+interim
+resolution
+professional
+may
+make
+an
+application
+to
+the
+Adjudicating Authority for necessary directions.
+
+(3)
+The
+Adjudicating
+Authority,
+on
+receiving
+an
+application under sub-section (2), shall by an order,
+direct such personnel or other person to comply with the
+
+[PAGE 39]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 39 of 75
+
+instructions of the resolution professional and to
+cooperate with him in collection of information and
+management of the corporate debtor.
+
+Section 20 Management of operations of corporate
+debtor as going concern.
+
+(1) The interim resolution professional shall make every
+endeavor to protect and preserve the value of the
+property of the corporate debtor and manage the
+operations of the corporate debtor as a going concern.
+(2) For the purposes of sub-section (1), the interim
+resolution professional shall have the authority—
+(a) to appoint accountants, legal or other professionals
+as may be necessary;
+(b) to enter into contracts on behalf of the corporate
+debtor or to amend or modify the contracts or
+transactions which were entered into before the
+commencement of corporate insolvency resolution
+process;
+(c) to raise interim finance provided that no security
+interest shall be created over any encumbered property
+of the corporate debtor without the prior consent of the
+creditors whose debt is secured over such encumbered
+property:
+
+Provided that no prior consent of the creditor shall be
+required where the value of such property is not less
+than the amount equivalent to twice the amount of the
+debt.
+
+(d) to issue instructions to personnel of the corporate
+debtor as may be necessary for keeping the corporate
+debtor as a going concern; and
+(e) to take all such actions as are necessary to keep the
+corporate debtor as a going concern.
+
+Section 22 Appointment of Resolution Professional
+
+(1) The first meeting of the committee of creditors shall
+be held within seven days of the constitution of the
+committee of creditors.
+
+(2) The committee of creditors, may, in the first meeting,
+by a majority vote of not less than [sixty six] per cent. of
+the voting share of the financial creditors, either resolve
+to appoint the interim resolution professional as a
+resolution professional or to replace the interim
+resolution
+professional
+by
+another
+resolution
+professional.
+
+[PAGE 40]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 40 of 75
+
+(3) Where the committee of creditors resolves under sub-
+section (2) ---
+(a) to continue the interim resolution professional as
+resolution professional, it shall communicate its
+decision to the interim resolution professional, [subject
+to a written consent from the interim resolution
+professional in the specified form] it shall communicate
+its decision to the interim resolution professional, the
+corporate debtor and the Adjudicating Authority; or
+(b) to replace the interim resolution professional, it shall
+file an application before the Adjudicating Authority for
+the
+appointment
+of
+the
+proposed
+resolution
+professional. [along with a written consent from the
+proposed resolution professional in the specified form].
+
+(4) The Adjudicating Authority shall forward the name of
+the resolution professional proposed under clause (b) of
+sub-section (3) to the Board for its confirmation and
+shall make such appointment after confirmation by the
+Board.
+
+(5) Where the Board does not confirm the name of the
+proposed resolution professional within ten days of the
+receipt of the name of the proposed resolution
+professional, the Adjudicating Authority shall, by order,
+direct the interim resolution professional to continue to
+function as the resolution professional until such time as
+the Board confirms the appointment of the proposed
+resolution professional.
+
+Section 25 Duties of Resolution Professional
+
+(1) It shall be the duty of the resolution professional to
+preserve and protect the assets of the corporate debtor,
+including the continued business operations of the
+corporate debtor.
+(2) For the purposes of sub-section (1), the resolution
+professional shall undertake the following actions,
+namely: —
+(a) take immediate custody and control of all the assets
+of the corporate debtor, including the business records
+of the corporate debtor;
+(b) represent and act on behalf of the corporate debtor
+with third parties, exercise rights for the benefit of the
+corporate debtor in judicial, quasi-judicial or arbitration
+proceedings;
+(c) raise interim finances subject to the approval of the
+committee of creditors under section 28;
+
+[PAGE 41]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 41 of 75
+
+(d) appoint accountants, legal or other professionals in
+the manner as specified by Board;
+(e) maintain an updated list of claims;
+(f) convene and attend all meetings of the committee of
+creditors;
+(g) prepare the information memorandum in accordance
+with section 29;
+[(h) invite prospective resolution applicants, who fulfil
+such criteria as may be laid down by him with the
+approval of committee of creditors, having regard to the
+complexity and scale of operations of the business of
+the corporate debtor and such other conditions as may
+be specified by the Board, to submit a resolution plan
+or plans.].
+(i) present all resolution plans at the meetings of the
+committee of creditors;
+(j) file application for avoidance of transactions in
+accordance with Chapter III, if any; and
+(k) such other actions as may be specified by the Board.
+
+Section
+29
+Preparation
+of
+Information
+Memorandum.
+
+(1) The resolution professional shall prepare an
+information memorandum in such form and manner
+containing such relevant information as may be
+specified by the Board for formulating a resolution plan.
+(2) The resolution professional shall provide to the
+resolution applicant access to all relevant information in
+physical and electronic form, provided such resolution
+applicant undertakes—
+(a) to comply with provisions of law for the time being in
+force relating to confidentiality and insider trading;
+(b) to protect any intellectual property of the corporate
+debtor it may have access to; and
+(c) not to share relevant information with third parties
+unless clauses (a) and (b) of this sub-section are
+complied with.
+Explanation. —For the purposes of this section,
+“relevant information” means the information required
+by the resolution applicant to make the resolution plan
+for the corporate debtor, which shall include the
+financial position of the corporate debtor, all information
+related to disputes by or against the corporate debtor
+and any other matter pertaining to the corporate debtor
+as may be specified.
+
+Section 35 Powers and Duties of Liquidator.
+
+[PAGE 42]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 42 of 75
+
+(1) Subject to the directions of the Adjudicating
+Authority, the liquidator shall have the following powers
+and duties, namely: —
+(a) to verify claims of all the creditors;
+(b) to take into his custody or control all the assets,
+property, effects and actionable claims of the corporate
+debtor;
+(c) to evaluate the assets and property of the corporate
+debtor in the manner as may be specified by the Board
+and prepare a report;
+(d) to take such measures to protect and preserve the
+assets and properties of the corporate debtor as he
+considers necessary;
+(e) to carry on the business of the corporate debtor for
+its beneficial liquidation as he considers necessary;
+(f) subject to section 52, to sell the immovable and
+movable property and actionable claims of the
+corporate debtor in liquidation by public auction or
+private contract, with power to transfer such property
+to any person or body corporate, or to sell the same in
+parcels in such manner as may be specified;
+[Provided that the liquidator shall not sell the immovable
+and movable property or actionable claims of the
+corporate debtor in liquidation to any person who is not
+eligible to be a resolution applicant].
+(g) to draw, accept, make and endorse any negotiable
+instruments including bill of exchange, hundi or
+promissory note in the name and on behalf of the
+corporate debtor, with the same effect with respect to
+the liability as if such instruments were drawn,
+accepted, made or endorsed by or on behalf of the
+corporate debtor in the ordinary course of its business;
+(h) to take out, in his official name, letter of
+administration to any deceased contributory and to do
+in his official name any other act necessary for
+obtaining payment of any money due and payable
+from a contributory or his estate which cannot be
+ordinarily done in the name of the corporate debtor,
+and in all such cases, the money due and payable
+shall, for the purpose of enabling the liquidator to take
+out the letter of administration or recover the money, be
+deemed to be due to the liquidator himself;
+(i) to obtain any professional assistance from any
+person or appoint any professional, in discharge of his
+duties, obligations and responsibilities;
+(j) to invite and settle claims of creditors and claimants
+and distribute proceeds in accordance with the
+provisions of this Code;
+
+[PAGE 43]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 43 of 75
+
+(k) to institute or defend any suit, prosecution or other
+legal proceedings, civil or criminal, in the name of on
+behalf of the corporate debtor;
+(l) to investigate the financial affairs of the corporate
+debtor to determine undervalued or preferential
+transactions;
+(m) to take all such actions, steps, or to sign, execute
+and verify any paper, deed, receipt document,
+application, petition, affidavit, bond or instrument and
+for such purpose to use the common seal, if any, as
+may be necessary for liquidation, distribution of assets
+and in discharge of his duties and obligations and
+functions as liquidator;
+(n) to apply to the Adjudicating Authority for such
+orders or directions as may be necessary for the
+liquidation of the corporate debtor and to report the
+progress of the liquidation process in a manner as may
+be specified by the Board; and
+(o) to perform such other functions as may be specified
+by the Board.
+
+(2) The liquidator shall have the power to consult any of
+the stakeholders entitled to a distribution of proceeds
+under section 53:
+Provided that any such consultation shall not be binding
+on the liquidator:
+Provided further
+that
+the
+records
+of
+any
+such
+consultation shall be made available to all other
+stakeholders not so consulted, in a manner specified by
+the Board.
+
+Section 36 Liquidation Estate
+
+(1) For the purposes of liquidation, the liquidator shall
+form an estate of the assets mentioned in sub-section
+(3), which will be called the liquidation estate in relation
+to the corporate debtor.
+(2) The liquidator shall hold the liquidation estate as a
+fiduciary for the benefit of all the creditors.
+(3) Subject to sub-section (4), the liquidation estate shall
+comprise all liquidation estate assets which shall
+include the following: —
+(a) any assets over which the corporate debtor has
+ownership rights, including all rights and interests
+therein as evidenced in the balance sheet of the
+corporate debtor or an information utility or records in
+the registry or any depository recording securities of the
+corporate debtor or by any other means as may be
+
+[PAGE 44]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 44 of 75
+
+specified by the Board, including shares held in any
+subsidiary of the corporate debtor;
+(b) assets that may or may not be in possession of the
+corporate debtor including but not limited to encumbered
+assets;
+(c) tangible assets, whether movable or immovable;
+(d) intangible assets including but not limited to
+intellectual property, securities (including shares held in
+a subsidiary of the corporate debtor) and financial
+instruments, insurance policies, contractual rights;
+(e) assets subject to the determination of ownership by
+the court or authority;
+(f) any assets or their value recovered through
+proceedings for avoidance of transactions in accordance
+with this Chapter;
+(g) any asset of the corporate debtor in respect of which
+a secured creditor has relinquished security interest;
+(h) any other property belonging to or vested in the
+corporate debtor at the insolvency commencement date;
+and
+(i) all proceeds of liquidation as and when they are
+realised.
+(4) The following shall not be included in the liquidation
+estate assets and shall not be used for recovery in the
+liquidation: —
+(a) assets owned by a third party which are in
+possession of the corporate debtor, including—
+(i) assets held in trust for any third party;
+(ii) bailment contracts;
+(iii) all sums due to any workman or employee from the
+provident fund, the pension fund and the gratuity fund;
+(iv) other contractual arrangements which do not
+stipulate transfer of title but only use of the assets; and
+(v) such other assets as may be notified by the Central
+Government in consultation with any financial sector
+regulator;
+(b) assets in security collateral held by financial services
+providers and are subject to netting and set-off in multi-
+lateral trading or clearing transactions;
+(c) personal assets of any shareholder or partner of a
+corporate debtor as the case may be provided such
+assets
+are
+not
+held
+on
+account
+of
+avoidance
+transactions that may be avoided under this Chapter;
+(d) assets of any Indian or foreign subsidiary of the
+corporate debtor; or
+(e) any other assets as may be specified by the Board,
+including assets which could be subject to set-off on
+account of mutual dealings between the corporate
+debtor and any creditor”.
+
+[PAGE 45]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 45 of 75
+
+40.
+Above placed provisions thus provide that after being appointed as the
+IRP the management of the affairs of the CD shall vest in the IRP and the
+officers and managers of the CD shall report to the IRP and powers of the
+Board of Directors of the CD shall also stand suspended (Section 16 and 17
+of the Code). Section 18 of the Code provides that apart from other
+obligation, the IRP shall take control and custody of any assets over which
+the CD has ownership rights as recorded in the balance sheet of the CD or
+with information utility and also securities including shares held in any
+subsidiary of the CD, financial instruments, insurance policies and also the
+assets subject to the determination of the ownership by a court or authority.
+(Section 18 of the Code). Section 25 of the Code provides that it shall be the
+duty of the RP to protect and preserve the assets of the CD and for this
+purpose the RP shall immediately take custody and control of all the assets
+of the CD, represent the CD with third party and also to prepare information
+memorandum.
+41.
+Likewise, the liquidator is duty bound to take into his custody or
+control all the assets, property and actionable claims of the CD and to take
+such measures to protect and preserve the assets and properties of the CD
+as he considers necessary and also to sell immovable and movable
+properties and actionable claims of the CD by public auction (Section 35 of
+the Code). The liquidator is further obliged to form a liquidation estate of
+the assets of the CD and shall hold the same as a fiduciary for the benefit of
+all the creditors. Thus the scheme as provided in the IBC empowers the
+IRP/RP and liquidator of the CD to immediately take the custody of the
+
+[PAGE 46]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 46 of 75
+
+properties and assets of the CD and to further deal with the same as
+provided under relevant provisions of the Code.
+42.
+Incidentally, these powers of the IRP/RP and liquidator has not been
+disputed by Ld. Counsels for Appellant and Respondent No. 3 but their
+reservation is that the RP or the liquidator as the case may be, should have
+approached the authority constituted under the Securities Regulatory
+framework for the purpose of defreezing of the demat accounts of the CD
+and also that these demat accounts could only be de freezed by the
+appellant or any appellate forum established under the Securities
+Regulatory framework and in any case the NCLT was not having any
+jurisdiction to entertain an application to de freeze the demat accounts
+under Section 60 (5) of the Code. Ld. Counsels for the appellant and
+Respondent No. 3 have relied on various case laws in support of their
+submission and for the purpose of convenience we are placing the same as
+under:
+43.
+The first case relied on by the appellant is Embassy Property
+Developments (P) Ltd. v. State of Karnataka, (2020) 13 SCC 308
+wherein Hon’ble Supreme Court while considering the jurisdiction of the
+NCLT under section 60(5) of the IBC, has held as under:
+"31. NCLT and NCLAT are constituted, not under the IBC,
+2016 but under Sections 408 and 410 of the Companies
+Act, 2013. Without specifically defining the powers and
+functions of the NCLT, Section 408 of the Companies Act,
+2013 simply states that the Central Government shall
+constitute a National Company Law Tribunal, to exercise
+and discharge such powers and functions as are or may
+be, conferred on it by or under the Companies Act or any
+other law for the time being in force. Insofar as NCLAT is
+concerned, Section 410 of the Companies Act merely states
+that the Central Government shall constitute an Appellate
+
+[PAGE 47]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 47 of 75
+
+Tribunal for hearing appeals against the orders of the
+Tribunal. The matters that fall within the jurisdiction of the
+NCLT, under the Companies Act, 2013, lie scattered all
+over the Companies Act. Therefore, Sections 420 and 424
+of the Companies Act, 2013 indicate in broad terms,
+merely the procedure to be followed by the NCLT and
+NCLAT before passing orders. However, there are no
+separate provisions in the Companies Act, exclusively
+dealing with the jurisdiction and powers of NCLT.
+
+32. In contrast, sub-sections (4) and (5) of Section 60 of the
+IBC, 2016 give an indication respectively about the powers
+and jurisdiction of the NCLT.
+****************************************************************
+******
+37. From a combined reading of sub-section (4) and sub-
+section (2) of Section 60 with Section 179, it is clear that
+none of them hold the key to the question as to whether
+NCLT would have jurisdiction over a decision taken by the
+Government under the provisions of the MMDR Act, 1957
+and the Rules issued thereunder. The only provision which
+can probably throw light on this question would be sub-
+section (5) of Section 60, as it speaks about the jurisdiction
+of the NCLT. Clause (c) of sub-section (5) of Section 60 is
+very broad in its sweep, in that it speaks about any
+question of law or fact, arising out of or in relation to
+insolvency resolution. But a decision taken by the
+Government or a statutory authority in relation to a matter
+which is in the realm of public law, cannot, by any stretch
+of imagination, be brought within the fold of the phrase
+“arising out of or in relation to the insolvency resolution”
+appearing in clause (c) of sub-section (5). Let us take for
+instance a case where a corporate debtor had suffered an
+order at the hands of the Income Tax Appellate Tribunal, at
+the time of initiation of CIRP. If Section 60(5)(c) of the IBC is
+interpreted to include all questions of law or facts under
+the sky, an Interim Resolution Professional/Resolution
+Professional will then claim a right to challenge the order
+of the Income Tax Appellate Tribunal before the NCLT,
+instead of moving a statutory appeal under Section 260-A
+of the Income Tax Act, 1961. Therefore, the jurisdiction of
+the NCLT delineated in Section 60(5) cannot be stretched
+so far as to bring absurd results. [It will be a different
+matter, if proceedings under statutes like Income
+Tax Act had attained finality, fastening a liability
+upon the corporate debtor, since, in such cases, the
+dues payable to the Government would come within
+the meaning of the expression “operational debt”
+under Section 5(21), making the Government an
+
+[PAGE 48]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 48 of 75
+
+“operational creditor” in terms of Section 5(20). The
+moment the dues to the Government are crystallised
+and what remains is only payment, the claim of the
+Government will have to be adjudicated and paid
+only in a manner prescribed in the resolution plan
+as approved by the adjudicating authority, namely,
+the NCLT.
+
+40. If NCLT has been conferred with jurisdiction to decide
+all types of claims to property, of the corporate debtor,
+Section 18(1)(f)(vi) would not have made the task of the
+interim resolution professional in taking control and
+custody of an asset over which the corporate debtor has
+ownership
+rights,
+subject
+to
+the
+determination
+of
+ownership by a court or other authority. In fact, an asset
+owned by a third party, but which is in the possession of
+the corporate debtor under contractual arrangements, is
+specifically kept out of the definition of the term “assets”
+under the Explanation to Section 18. This assumes
+significance in view of the language used in Sections 18
+and 25 in contrast to the language employed in Section 20.
+Section 18 speaks about the duties of the interim
+resolution professional and Section 25 speaks about the
+duties of resolution professional. These two provisions use
+the word “assets”, while Section 20(1) uses the word
+“property” together with the word “value”. Sections 18 and
+25 do not use the expression “property”. Another important
+aspect is that under Section 25(2)(b) of the IBC, 2016, the
+resolution professional is obliged to represent and act on
+behalf of the corporate debtor with third parties and
+exercise rights for the benefit of the corporate debtor in
+judicial,
+quasi-judicial
+and
+arbitration
+proceedings.
+Sections 25(1) and 25(2)(b) reads as follows:
+“25. Duties of resolution professional. — (1) It shall be
+the duty of the resolution professional to preserve and
+protect the assets of the corporate debtor, including the
+continued business operations of the corporate debtor.
+(2) For the purposes of sub-section (1), the resolution
+professional shall undertake the following actions:
+(a) ***
+(b) represent and act on behalf of the corporate debtor with
+third parties, exercise rights for the benefit of the corporate
+debtor
+in
+judicial,
+quasi-judicial
+and
+arbitration
+proceedings;”
+(emphasis supplied)
+
+This shows that wherever the corporate debtor has to
+exercise rights in judicial, quasi-judicial proceedings, the
+resolution professional cannot short-circuit the same and
+
+[PAGE 49]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 49 of 75
+
+bring a claim before NCLT taking advantage of Section
+60(5).
+
+41. Therefore in the light of the statutory scheme as culled
+out from various provisions of the IBC, 2016 it is clear that
+wherever the corporate debtor has to exercise a right that
+falls outside the purview of the IBC, 2016 especially in the
+realm of the public law, they cannot, through the resolution
+professional, take a bypass and go before NCLT for the
+enforcement of such a right.
+
+(Emphasis Ours)
+
+44.
+Another case which has been relied on by Appellant as well as
+Respondent No.3 is Gujarat Urja Vikas Nigam Ltd. v. Amit Gupta, (2021)
+7 SCC 209, wherein the Hon’ble Supreme Court Observed as under:
+"69. The institutional framework under IBC contemplated
+the establishment of a single forum to deal with matters of
+insolvency, which were distributed earlier across multiple
+fora. In the absence of a court exercising exclusive
+jurisdiction over matters relating to insolvency, the
+corporate debtor would have to file and/or defend multiple
+proceedings in different fora. These proceedings may
+cause undue delay in the insolvency resolution process
+due to multiple proceedings in trial courts and courts of
+appeal.
+A
+delay
+in
+completion
+of
+the
+insolvency
+proceedings would diminish the value of the debtor's
+assets and hamper the prospects of a successful
+reorganisation or liquidation. For the success of an
+insolvency regime, it is necessary that insolvency
+proceedings are dealt with in a timely, effective and
+efficient manner. Pursuing this them in Innoventive
+[Innoventive Industries Ltd. v. ICICI Bank, (2018) 1 SCC
+407: (2018) 1 SCC (Civ) 356] this Court observed that:
+(SCC p. 422, para 13)
+
+“13. One of the important objectives of the Code is to bring
+the insolvency law in India under a single unified umbrella
+with the object of speeding up of the insolvency process.”
+
+The principle was reiterated in ArcelorMittal [ArcelorMittal
+(India) (P) Ltd. v. Satish Kumar Gupta, (2019) 2 SCC 1]
+where this Court held that: (SCC p. 88, para 84)
+
+[PAGE 50]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 50 of 75
+
+“84. ... The non obstante clause in Section 60(5) is
+designed for a different purpose: to ensure that NCLT
+alone has jurisdiction when it comes to applications and
+proceedings by or against a corporate debtor covered by
+the Code, making it clear that no other forum has
+jurisdiction to entertain or dispose of such applications or
+proceedings.”
+
+Therefore, considering the text of Section 60(5)(c) and the
+interpretation of similar provisions in other insolvency
+related statutes, NCLT has jurisdiction to adjudicate
+disputes, which arise solely from or which relate to the
+insolvency of the corporate debtor. However, in doing so,
+we issue a note of caution to NCLT and NCLAT to ensure
+that they do not usurp the legitimate jurisdiction of other
+courts, tribunals and fora when the dispute is one which
+does not arise solely from or relate to the insolvency of the
+corporate debtor. The nexus with the insolvency of the
+corporate debtor must exist.
+
+74. Therefore, we hold that the RP can approach NCLT for
+adjudication of disputes that are related to the insolvency
+resolution process. However, for adjudication of disputes
+that arise dehors the insolvency of the corporate debtor,
+the RP must approach the relevant competent authority.
+For instance, if the dispute in the present matter related to
+the non-supply of electricity, the RP would not have been
+entitled to invoke the jurisdiction of NCLT under IBC.
+However, since the dispute in the present case has arisen
+solely on the ground of the insolvency of the corporate
+debtor, NCLT is empowered to adjudicate this dispute
+under Section 60(5)(c) of IBC.
+
+I.3. Residuary jurisdiction of NCLT under Section
+60(5)(c)
+84. The respondents have relied upon the decision of this
+Court in Essar Steel (India) Ltd. (CoC) v. Satish Kumar
+Gupta [Essar Steel (India) Ltd. (CoC) v. Satish Kumar
+Gupta, (2020) 8 SCC 531: (2021) 2 SCC (Civ) 443], where
+this Court held that Section 60(5)(c) of IBC “is in the nature
+of residuary jurisdiction vested in NCLT so that NCLT may
+decide all questions of law or fact arising out of or in
+relation to insolvency or liquidation under the Code” [Id p.
+589, para 69.].
+
+[PAGE 51]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 51 of 75
+
+91. The residuary jurisdiction of NCLT under Section
+60(5)(c) of IBC provides it a wide discretion to adjudicate
+questions of law or fact arising from or in relation to the
+insolvency resolution proceedings. If the jurisdiction of
+NCLT were to be confined to actions prohibited by Section
+14 of IBC, there would have been no requirement for the
+legislature to enact Section 60(5)(c) of IBC. Section 60(5)(c)
+would be rendered otiose if Section 14 is held to be
+exhaustive
+of
+the
+grounds
+of
+judicial
+intervention
+contemplated under IBC in matters of preserving the value
+of the corporate debtor and its status as a “going concern”.
+We hasten to add that our finding on the validity of the
+exercise of residuary power by NCLT is premised on the
+facts of this case. We are not laying down a general
+principle on the contours of the exercise of residuary power
+by NCLT. However, it is pertinent to mention that NCLT
+cannot exercise its jurisdiction over matters dehors the
+insolvency proceedings since such matters would fall
+outside the realm of IBC. Any other interpretation of
+Section 60(5)(c) would be in contradiction of the holding of
+this Court in Satish Kumar Gupta [Essar Steel (India) Ltd.
+(CoC) v. Satish Kumar Gupta, (2020) 8 SCC 531: (2021) 2
+SCC (Civ) 443].
+
+173. Although various provisions of IBC indicate that the
+objective of the statute is to ensure that the corporate
+debtor remains a “going concern”, there must be a specific
+textual hook for NCLT to exercise its jurisdiction. NCLT
+cannot derive its powers from the “spirit” or “object” of IBC.
+Section 60(5)(c) of IBC vests NCLT with wide powers since
+it can entertain and dispose of any question of fact or law
+arising out or in relation to the insolvency resolution
+process. We hasten to add, however, that NCLT's
+residuary jurisdiction, though wide, is nonetheless defined
+by the text of IBC. Specifically, NCLT cannot do what IBC
+consciously did not provide it the power to do."
+
+45.
+In TATA Consultancy Services Ltd. v. SK Wheels (P) Ltd.
+(Resolution Professional), 2021 SCC OnLine SC 1113, Hon’ble Supreme
+Court cautioned the NCLT in exercising jurisdiction even at interim stage, in
+following words;
+"31. While in the present case, the second issue
+formulated by this Court has no bearing, we would like to
+
+[PAGE 52]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 52 of 75
+
+issue a note of caution to NCLT and NCLAT regarding
+interference with a party's contractual right to terminate a
+contract. Even if the contractual dispute arises in relation
+to the insolvency, a party can be restrained from
+terminating the contract only if it is central to the success
+of CIRP. Crucially, the termination of the contract should
+result in the corporate death of corporate debtor.
+The jurisdiction of NCLT under Section 60(5)(c) of IBC
+cannot be invoked in matters where a termination may
+take place on grounds unrelated to the insolvency of
+corporate debtor. Even more crucially, it cannot even be
+invoked in the event of a legitimate termination of a
+contract based on an ipso facto clause ......
+33. Admittedly, this Court has clarified the law on the
+present subject-matter in Gujarat Urja [Gujarat Urja Vikas
+Nigam Ltd. v. Amit Gupta, (2021) 7 SCC 209: (2021) 4 SCC
+(Civ) 1] after the pronouncements of NCLT and NCLAT.
+Going forward, the exercise of NCLT's residuary powers
+should be governed by the above decision."
+
+46.
+The Hon’ble Supreme Court in SEBI v. Ajay Agarwal, (2010) 3 SCC
+765 Observed that the legislative intent for enacting the securities and
+Exchange Board of India Act,1992 was to achieve the twin purposes of
+promoting orderly and healthy growth of securities market and for protecting
+the interest of the investors. The requirement of such an enactment was felt in
+view of substantial growth in the capital market by increasing the
+participation of the investors. In fact, such enactment was necessary in order
+to ensure the confidence of the investors in the capital market by giving them
+some protection. It was also clarified that the Act makes it clear that the
+primary function of the Board is to regulate the business in stock exchanges
+and any other securities markets and in order to do so it has been entrusted
+with various powers.
+47.
+In Chalasani Udaya Shankar v. Lexus Technologies (P) Ltd., (2024)
+10 SCC 303 para) Hon’ble Supreme Court has given a note of caution in
+terms that when constitutional courts are called upon to interpret provisions
+
+[PAGE 53]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 53 of 75
+
+affecting exercise of powers and jurisdiction by regulatory bodies, it is the
+duty of the Court to ensure that transactions falling within the province of the
+regulators are necessarily subjected to their scrutiny and regulation. It was
+pointed out that this would ensure that the regulatory body charged with the
+duty to protect the consumers has real-time control over the sector, thereby
+realising the purpose of its constitution. It was, therefore, held that the
+purpose of these regulations could not be short-circuited by making an
+application to the Company Court under Section 111-A of the 1956 Act, on the
+ground that the provision bestowed jurisdiction parallel to the SEBI.
+48.
+In Vishal Tiwari (Adani Group Investigation) v. Union of India,
+(2024) 4 SCC 115 (para) Hon’ble Supreme Court observed that when
+technical questions arise particularly in the financial or economic realm;
+experts with domain knowledge in the field have expressed their views; and
+such views are duly considered by the expert regulator in designing policies
+and implementing them in the exercise of its power to frame subordinate
+legislation, the court ought not to substitute its own view by supplanting the
+role of the expert. Courts do not act as appellate authorities over policies
+framed by the statutory regulator and may interfere only when it is found
+that the actions are arbitrary or violate of constitutional or statutory
+mandates. The court cannot examine the correctness, suitability, or
+appropriateness of the policy, particularly when it is framed by a specialised
+regulatory agency in collaboration with experts. The court cannot interfere
+merely because in its opinion a better alternative is available.
+49.
+The Hon’ble Supreme Court in BALCO Employees' Union v. Union of
+India, (2002) 2 SCC 333 observed that it is neither within the domain of
+
+[PAGE 54]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 54 of 75
+
+the courts nor the scope of the judicial review to embark upon an enquiry as
+to whether a particular public policy is wise or whether better public policy
+can be evolved.
+50.
+The Hon’ble Supreme Court again in ArcelorMittal (India) (P) Ltd. v.
+Satish Kumar Gupta, (2019) 2 SCC 1 held as under:
+"84.............. Section 60(5), when it speaks of the NCLT
+having jurisdiction to entertain or dispose of any
+application or proceeding by or against the corporate
+debtor or corporate person, does not invest the NCLT with
+the jurisdiction to interfere at an applicant's behest at a
+stage before the quasi-judicial determination made by the
+adjudicating authority. The non obstante clause in Section
+60(5) is designed for a different purpose: to ensure that the
+NCLT alone has jurisdiction when it comes to applications
+and proceedings by or against a corporate debtor covered
+by the Code, making it clear that no other forum has
+jurisdiction to entertain or dispose of such applications or
+proceedings."
+
+51.
+This Appellate Tribunal in Pradeep Kumar Kabra v. Assistant
+Commissioner,
+CGST
+&
+Central
+Excise
+Company
+Appeal
+(AT)
+(Insolvency) No. 409 of 2023 Observed that in view of the Circular issued
+by Central Board of Excise and Customs, the Department itself has
+understood that when CIRP has been initiated for recovering any amount,
+the claim has to be filed and no recovery can be made since moratorium has
+been imposed under the Code. The Respondent after imposition of
+moratorium with effect from 27.04.2022 could not have recovered its dues.
+The attachment of the goods of the Corporate Debtor were made before
+initiation of CIRP. The assets, which were attached were still the assets of
+the Corporate Debtor, which were in the ‘supurdagi’ of the Corporate Debtor.
+Respondent being unable to recover the amount from the attached assets,
+
+[PAGE 55]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 55 of 75
+
+the RP has rightly filed the Application seeking a direction for release of the
+attachment, so that assets can be included in the assets of the Corporate
+Debtor for payment to the creditors. It was held that the Adjudicating
+Authority has committed error in rejecting Application filed by RP, by
+holding that Adjudicating Authority has no jurisdiction to issue direction to
+the State Authority, when the IRP is duty bound to take custody and control
+of the assets belonging to the Corporate Debtor, Application under Section
+60, sub-section (5), sub-clause (c) was clearly maintainable and the
+Adjudicating Authority had ample jurisdiction to issue necessary direction.
+52.
+This Appellate Tribunal in Hemant Mehta v. Asst. Commissioner of
+State Tax, 2022 SCC OnLine NCLAT 4191 held as under:
+
+"14. From a plain reading of the above provision of IBC
+(Section 60) and also given that the said section is
+prefaced with a non-obstante clause, we are inclined to
+agree that the Adjudicating Authority is vested with
+residuary
+jurisdiction
+and
+it
+therefore
+casts
+a
+responsibility on the Adjudicating Authority to intervene in
+certain circumstances. The present is also a fit case where
+the Adjudicating Authority could have exercised its
+residuary discretion under Section 60(5) so as to ensure
+that the objectives of IBC are not frustrated including
+providing
+relief
+to
+the
+Liquidator
+in
+stalemate
+circumstances as the present. It has also been held by the
+Hon'ble Supreme Court in the Gujarat Urja Vikas Nigam
+Ltd. v. Amit Gupta (Civil Appeal No. 9241 of 2019) that
+the residuary jurisdiction of the NCLT under Section
+60(5)(c) of the IBC provides it a wide jurisdiction and can
+be exercised as long as the matter is not dehors the
+insolvency proceedings.
+
+17. Given that the persistent efforts on the part of the
+Appellant to defreeze the accounts of the Corporate Debtor
+did not bear any result; given that there is sufficient proof
+of reluctance on the part of Respondents 1 to 4 to defreeze
+the bank accounts of the Corporate Debtor; given that
+Section 238 of IBC overrides anything inconsistent
+contained in any other enactment and also given that
+
+[PAGE 56]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 56 of 75
+
+Section 60(5) of the IBC vests residuary jurisdiction on the
+Adjudicating Authority to intervene and, above all, keeping
+in mind that the cardinal objective of the IBC Code is to
+obviate uncalled for derailment of the insolvency resolution
+process, we find sufficient merit in the submission made
+by the Learned Counsel for the Appellant that the
+Adjudicating Authority ought to have appreciated the
+constraints
+faced
+by
+the
+Appellant/Liquidator
+and
+provided relief by exercising its residuary jurisdiction
+rather than remanding the Appellant once again back in
+the hands of the government authorities.
+
+18. In view of the above discussions, facts and
+circumstances, we hold that the Adjudicating Authority
+erred in not exercising the residuary jurisdiction vested in
+it under Section 60(5) of the IBC.........."
+
+53.
+In Pinakin Shah (Liquidator) v. The Assistant Commissioner of
+State Tax, (2021) ibclaw.in137 NCLAT this Appellate tribunal held as
+under:
+"8. The Learned Counsel has referred to this Order of
+Hon’ble Supreme Court as well as the Judgment referred
+by the Hon’ble Supreme Court in the Order and submits
+that the freezing of Account by the Respondent No. 1 is not
+maintainable and the Liquidator cannot be made to run to
+the parties and Authorities under the Sales Tax Act to get
+the Account defreezed. Learned Counsel submits, and,
+rightly says that Liquidation Proceedings are time-bound to
+maximize the value and all the Creditors are entitled to get
+their dues only in terms of Section 53 of I & B Code, 2016
+and different Creditors cannot be allowed to resort to
+different proceedings and enactments only because they
+are Authorities under earlier enactments considering the
+Provision of Section 238 of I & B Code, 2016.
+10. We find that the Adjudicating Authority has failed to
+exercise jurisdiction vested in it to give relief to the
+Appellant in the context of the position of law under
+Section 238 of IBC."
+54.
+This Appellate Tribunal in Varrsana Ispat Limited Vs. Deputy
+Director, Directorate of Enforcement, 2019 SCC OnLine NCLAT 236
+held that ‘Prevention of Money Laundering Act, 2002’ relates to different
+
+[PAGE 57]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 57 of 75
+
+fields of penal action of ‘proceeds of crime’, it invokes simultaneously with
+the ‘I&B Code’, having no overriding effect of one Act over the other
+including the ‘I&B Code’.
+55.
+In Kiran Shah Vs. Enforcement Directorate. (Company Appeal (AT)
+(Ins) No. 817 of 2021 this Appellate Tribunal again opined as under;
+
+"110. ‘Tribunal’ makes it candidly clear that filing of
+Application under Section 60(5) of the I & B Code is not an
+‘all pervasive’ one, thereby conferring ‘Jurisdiction’ to an
+‘Adjudicating
+Authority’
+(NCLT)
+to
+determine
+‘any
+question/issue of priorities’, question of Law or Facts
+pertaining to the ‘Corporate Debtor’ when in reality in
+‘Law’,
+the
+‘Adjudicating
+Authority’
+(NCLT)
+is
+not
+empowered to deal with the matters falling under the
+purview of another authority under PMLA."
+
+56.
+Reliance has been placed by the Appellant on the judgement of this
+Appellate Tribunal in Regional Provident Fund Commissioner Vs. T.V.
+Balasubramanian (RP) (Sholingur Textiles Limited) & Anr. (Company
+Appeal (AT) (Ins) N0. 1521 of 2019 wherein the attachment made by the
+EPFO before initiation of the CIRP was held to be valid.
+57.
+In P. Mohanraj and Others Vs. Shah Brothers Ispat Private
+Limited, (2021) 6 SCC 258 Hon’ble Supreme Court has considered the
+applicability of moratorium on the act of statutory Authority and held that
+no Sections 138/141 proceeding can continue or be initiated against the
+corporate debtor because of a statutory bar, such proceedings can be
+initiated or continued against the persons mentioned in Sections 141 (1)
+and (2) of the Negotiable Instruments Act. This being the case, it is clear
+that the moratorium provision contained in Section 14 IBC would apply
+
+[PAGE 58]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 58 of 75
+
+only to the corporate debtor, the natural persons mentioned in Section
+141 continuing to be statutorily liable under Chapter XVII of the
+Negotiable Instruments Act.
+58.
+Much emphasis has been placed on the judgement in Roofit
+Industries Limited vs. Jitender Kumar Jain and Ors. (2017 SCC
+OnLine NCLT 12085) placed as under:
+
+"1. It is a Company Application filed by the Resolution
+Professional assailing the Order of Delisting passed by
+Bombay Stock Exchange delisting the shares of the
+Corporate Debtor Company along with other Companies on
+21.8.2017 with reliefs as follows:
+(a) To declare that the order of 1st and 2nd Respondent i.e.
+Bombay Stock Exchange Ltd. and National Stock Exchange
+Ltd. to delist the shares of the Corporate Debtor and
+consequential impact that they are under SEBI Laws
+including the delisting Regulations of the Corporate Debtor
+as illegal and void in view of the provisions of section
+14/238 of the Insolvency & Bankruptcy Code, 2016.
+(b) To direct the Respondents not to deal with the shares of
+the Corporate Debtor pending Moratorium granted by this
+Tribunal.
+((c) To direct the Respondents to list the shares of the
+Corporate Debtor back on the Stock Exchanges operated
+by them pending validity of Moratorium passed by this
+Bench under section 14 of I&B Code.
+(d) To declare the provisions of SEBI laws including
+Delisting Regulations to the extent such provisions are
+inconsistent with the provisions of I&B Code not applicable
+to the Companies which are under Corporate Insolvency
+Resolution process under I&B Code. (e) Any other relief or
+reliefs in favor of the Applicants as this Tribunal deem fit
+and proper.
+14. As to application of section 238 is concerned, that non-
+obstante clause can be invoked only when any other law,
+dealing with the core issues this enactment dealt with, is
+inconsistent with the provisions of I&B Code, since the
+provisions of Securities Contract Regulations Rules of
+1957/- provisions in respect to the Listing of shares before
+
+[PAGE 59]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 59 of 75
+
+Exchanges is nowhere connected to the dues payable by
+the company, it can't be said that action under Securities
+Contract Regulations Rules of 1957 is hit by either
+Moratorium under section 14 or under section 238 of the
+Code. It is an issue in relation to Investors therefore, such
+an issue cannot be construed as inconsistent with the
+provisions of I&B Code, therefore, this Bench is of the
+opinion that the action of National Stock Exchange or
+Bombay Stock Exchange is neither connected to the
+prohibitions given."
+
+59.
+Reliance is also placed on the judgement of the Hon’ble Supreme
+Court in Kishorebhai Khamanchand Goyal Vs. State of Gujarat and
+Another (2003) 12 SCC 274 in order to emphasise that the overriding effect
+of the IBC by virtue of section 238 of the IBC could only be enjoyed when the
+following tests are passed:
+"(1) Whether there is direct conflict between the two provisions.
+(2) Whether the legislature intended to lay down an exhaustive
+Code in respect of the subject-matter replacing the earlier law.
+(3) Whether the two laws occupy the same field."
+
+60.
+Ld. Counsels for the Appellant and Respondent No.3 have also placed
+reliance on the case decided by NCLT Mumbai in Shobha Limited. &
+Sadash Lazman Jogalekar v. Pancard Clubs Ltd, CP No. 593 and 1085 of
+2016 dated 29.07.2017, wherein relying on Kishore Bhai (Supra), no
+inconsistency or conflict was found between the SEBI Act and IBC and held
+that that these two laws are occupying different fields and not the same field
+and there cannot be any occasion to presume that I & B Code has come into
+existence to replace SEBI jurisdiction.
+61.
+Ld. Counsel for the Respondent No.1 in both the appeals i.e.
+Resolution Professional and Liquidator however submits that in case of
+conflict of any statute with the provisions of the IBC, the code shall override
+
+[PAGE 60]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 60 of 75
+
+SEBI circulars, provisions of the securities contract (Regulations) Act, 1956
+and the Securities Exchange Board of India Act, 1992. Reliance in this
+regard is placed on the judgement of the Hon’ble Supreme Court passed in
+Sundaresh Bhatt, Liquidator of ABG Shipyard v. Central Board of
+Indirect Taxes & Customs, (2023) 1 SCC 472 placed as under:
+
+"40. We may note that the IBC, being the more recent
+statute, clearly overrides the Customs Act. This is clearly
+made out by a reading of Section 142-A of the Customs
+Act. The aforesaid provision notes that the Customs
+Authorities would have first charge on the assets of an
+assesse under the Customs Act, except with respect to
+cases under Section 529-A of the Companies Act, 1956;
+Recovery
+of
+Debts
+and
+Bankruptcy
+Act,
+1993;
+Securitisation and Reconstruction of Financial Assets and
+Enforcement of Security Interest Act, 2002 and the IBC,
+2016. Accordingly, such an exception created under the
+Customs Act is duly acknowledged under Section 238 of
+the IBC as well.
+
+43. From the above, it is to be noted that the Customs Act
+and the IBC act in their own spheres. In case of any
+conflict, the IBC overrides the Customs Act. In present
+context, this Court has to ascertain as to whether there is
+a conflict in the operation of two different statutes in the
+given circumstances. As the first effort, this Court is
+mandated to harmoniously read the two legislations,
+unless this Court finds a clear conflict in its operation."
+
+[PAGE 61]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 61 of 75
+
+62.
+Reliance was also placed on the judgement of the Hon’ble Supreme
+Court passed in Paschimanchal Vidyut Vitran Nigam Ltd. V. Raman
+Ispat Private Limited (2023) 10 SCC 60:
+
+"56. The views expressed by the present judgment finds
+support in the decision reported as ABG Shipyard
+Liquidator v. Central Board of Indirect Taxes & Customs.
+In that case, Section 142-A of the Customs Act, 1962 was
+in issue — authorities had submitted that dues payable to
+it were to be treated as “first charge” on the property of the
+assesse concerned. In the resolution process, it was
+argued that the Customs Act, 1962 acquired primacy and
+had to be given effect to. This Court, after noticing the
+overriding effect of Section 238 IBC, held as follows: (SCC
+p. 496, paras 56-57)
+
+“56. For the sake of clarity following questions, may be
+answered as under:
+
+(a) Whether the provisions of IBC would prevail over the
+Customs Act, and if so, to what extent?
+
+56.1. IBC would prevail over the Customs Act, to the extent
+that once moratorium is imposed in terms of Sections 14 or
+33(5) IBC as the case may be, the respondent authority
+only has a limited jurisdiction to assess/determine the
+quantum of customs duty and other levies. The respondent
+authority does not have the power to initiate recovery of
+dues by means of sale/confiscation, as provided under the
+Customs Act.
+
+[PAGE 62]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 62 of 75
+
+(a) Whether the respondent could claim title over the goods
+and issue notice to sell the goods in terms of the Customs
+Act when the liquidation process has been initiated?
+56.2. Answered in the negative.
+57. On the basis of the above discussions, following are
+our conclusions:
+57.1. Once moratorium is imposed in terms of Sections 14
+or 33(5) IBC as the case may be, the respondent authority
+only has a limited jurisdiction to assess/determine the
+quantum of customs duty and other levies. The respondent
+authority does not have the power to initiate recovery of
+dues by means of sale/confiscation, as provided under the
+Customs Act.
+57.2. After such assessment, the respondent authority has
+to submit its claims (concerning customs dues/operational
+debt) in terms of the procedure laid down, in strict
+compliance of the time periods prescribed under IBC,
+before the adjudicating authority.
+57.3. In any case, the IRP/RP/liquidator can immediately
+secure goods from the respondent authority to be dealt
+with appropriately, in terms of IBC.”
+57. Similarly, in Duncans Industries Ltd. v. AJ Agrochem,
+Section 16-G of the Tea Act, 1953 which required prior
+consent of the Central Government (for initiation of
+winding-up proceedings) was held to be overridden by
+IBC. In a similar manner, it is held that Section 238 IBC
+overrides the provisions of the Electricity Act, 2003 despite
+the latter containing two specific provisions which open
+with non obstante clauses (i.e. Sections 173 and 174). The
+position of law with respect to primacy of IBC, is identical
+with
+the
+position
+discussed
+in ABG
+Shipyard
+Liquidator and Duncans Industries [refer also: Innoventive
+Industries, CIT v. Monnet Ispat & Energy Ltd Ghanashyam
+Mishra & Sons (P) Ltd. v. Edelweiss Asset Reconstruction
+Co. Ltd., and Jagmohan Bajaj v. Shivam Fragrances (P)
+Ltd. "
+
+63.
+Reliance is also placed on the following paragraph of the judgement
+of the Hon’ble Supreme Court in Principal Commissioner of Income
+TAX vs. Monnet Ispat and Energy Limited (2018) 18 SCC 786:
+
+"2. Given Section 238 of the Insolvency and Bankruptcy
+Code, 2016, it is obvious that the Code will override
+
+[PAGE 63]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 63 of 75
+
+anything inconsistent contained in any other enactment,
+including the Income Tax Act. We may also refer in this
+connection to Dena Bank v. Bhikhabhai Prabhudas Parekh
+and Co. [Dena Bank v. Bhikhabhai Prabhudas Parekh and
+Co., and its progeny, making it clear that income tax dues,
+being in the nature of Crown debts, do not take precedence
+even over secured creditors, who are private persons."
+
+64.
+It is submitted by Ld. Counsel for the Respondent No.1 that the
+liability on the CD is vicarious and the same has arisen on account of failure
+of FRL to pay the ALF and the CD may not be held vicariously liable to pay
+the ALF. Reliance in this regard is placed on the judgement of the Hon’ble
+Supreme Court in State Bank of India v. Smt. Shyama Devi (1978) 3 SCC
+399, Dilip Hariramani v. Bank of Baroda (2024) 15 SCC 443 and
+Ashutosh Ashok Parasrampuriya and Anr. V Gharrkul Industries Private
+Limited (2023) 14 SCC 770.
+65.
+Ld. counsel for the appellant and Respondent No.3 in rebuttal has
+placed reliance on Dolphin Offshore Enterprises (India) Limited v.
+Bombay
+Stock
+Exchange
+Limited
+(BSE),
+IA/5538/2023
+In
+C.P.(IB)/4087(MB)/C-III-2018 decided by the NCLT wherein after approval
+and implementation of the Resolution Plan, and after the decision of the new
+management to continue trading of the shares of the Applicant on BSE, the
+new management applied to the BSE for which reinstatement fee as per the
+SEBI LODR was asked to be paid and quantum of which, on an application
+by the Applicant, was suitably reduced. Further the applicant paid such fees
+on its own and without taking any legal recourse. It is also noteworthy that
+
+[PAGE 64]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 64 of 75
+
+the fine imposed by the BSE for non-compliance was completely waived and
+what has been paid by the Applicant is only reduced re-instatement fee,
+refund of which is being sought through the instant application. Under such
+facts and circumstances of the case it was held that if the Applicant despite
+making payment of re-instatement fee is aggrieved by any action of the
+SEBI, it should have approached the appropriate forum i.e., SAT for
+redressal of its grievances, as per the provisions of the SCR Act, 1956. It was
+also held that the issue on hand is not related to the insolvency of the
+Corporate Debtor and also that the dispute is not the one arising from or
+relate to the Insolvency as the Corporate Insolvency Resolution Proceedings.
+This judgment though not having any precedential value for this Appellate
+Tribunal but we do not have any quarrel with the ratio decided in that case,
+for the reason that in that case refund of reduced re-instatement fee
+deposited by the applicant was being sought, which could only be
+entertained by the appropriate forum established in that regime and not the
+NCLT.
+66.
+We also notice that in Mr. Hemant Mehta, RP of Pan India
+Utilities Distribution Company Ltd. vs. Assistant Commissioner of
+State Tax and Ors., CA (AT) (Ins) No. 328 of 2022 decided on
+05.08.2022 a three Members Bench of this Appellate Tribunal while
+considering the de-freezing of the frozen bank accounts of the CD by the
+IDBI and Axis Bank on the direction of Assistant Commissioner of State Tax
+Mumbai and Commercial Tax Officer Gwalior Madhya Pradesh taking into
+consideration Section 35, 60 (5) and 238 of the Code and also keeping in
+view the ratio of the decision of the Hon’ble Supreme Court in Gujarat Urja
+
+[PAGE 65]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 65 of 75
+
+Vikas Nigam Ltd. (Supra) as well as in Principal Commissioner of
+Income Tax vs. Monnet Ispat and Energy Ltd. (2018) SCC Online SC
+3465 observed that Section 60 (5) of the Code is starting with a non-
+obstante clause and the Adjudicating Authority is vested with residuary
+jurisdiction which casts a responsibility on the Adjudicating Authority to
+intervene in certain circumstances and held that the directions of aforesaid
+authorities to freeze the accounts of the CD during liquidation process are
+bad in law and it was within the jurisdiction of the Adjudicating Authority to
+issue appropriate directions for providing statutory relief to the appellants.
+67.
+In Vantage Point Asset Management Pte. Ltd. vs. Gaurav Mishra
+(RP) and Anr., CA (AT) (Ins) No. 1495 of 2024 decided on 14.010.2025,
+a co-ordinate Bench of this Appellate Tribunal while considering the
+applicability of Section 32 A of the Code came to the conclusion that by
+provisional attachment of the property by the Directorate of Enforcement the
+ownership rights of the CD may not be divested and it may not be said that
+the CD does not continue to be the owner of the asset and despite
+attachment the CD is entitle to enjoy that property.
+68.
+In Ms. Anju Agarwal RP v. Bombay Stock Exchange & Ors., (2019)
+ibclaw.in 123 NCLAT, this Appellate Tribunal held that Section 14 of the
+Code will prevail over Section 28A of the SEBI Act, 1992 and Securities
+Exchange Board of India cannot recover any amount including the penalty
+from the Corporate Debtor. The Bombay Stock Exchange for the same very
+reason cannot take any coercive steps against the Corporate Debtor nor can
+threaten the Corporate Debtor for suspension of trading of shares. The
+Bombay Stock Exchange deals with the shares. The shares of the Corporate
+
+[PAGE 66]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 66 of 75
+
+Debtor, if listed with the Bombay Stock Exchange, can be dealt with by the
+Bombay Stock Exchange. However, in view of Section 18 of the Code, the
+IRP while taking control and custody of any asset including the tangible and
+intangible assets, cannot sell the shares of the Corporate Debtor during the
+period of Moratorium except in accordance with the provisions of the Code
+and with the approval of the Committee of Creditors. Therefore, dealing with
+the shares of the Corporate Debtor by the Bombay Stock Exchange during
+the period of Moratorium normally does not arise. The shares can be
+transferred only in the manner prescribed under the Code and following
+requirements framed under the SEBI Act, 1992 and the Companies Act,
+2013. The case of Maharashtra Seamless Ltd. vs. Shri Padmanabhan
+Venkatesh & Ors.─Company Appeal (AT) (Insolvency) No. 220 of 2019,
+is also quoted with approval wherein this Appellate Tribunal held that the
+statutory dues i.e. the dues to Central Government or the State Government
+arising under any law for the time being in force and payable come within
+the meaning of Operational Debt. If penalty is imposed or amount is payable
+to the ‘Securities Exchange Board of India’ in such case, it may claim as an
+‘Operational Creditor’ but cannot recover the same during the Resolution
+Process.
+69.
+At this juncture it is required to place on record section 60 of the Code
+and the same is placed as under;
+Section 60. Adjudicating authority for corporate
+persons. —
+(1) The adjudicating authority, in relation to insolvency
+resolution and liquidation for corporate persons including
+corporate debtors and personal guarantors thereof shall
+
+[PAGE 67]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 67 of 75
+
+be the National Company Law Tribunal having territorial
+jurisdiction over the place where the registered office of
+the corporate person is located.
+(2)
+Without
+prejudice
+to
+sub-section
+(1)
+and
+notwithstanding anything to the contrary contained in
+this Code, where a corporate insolvency resolution
+process or liquidation proceeding of a corporate debtor is
+pending before the National Company Law Tribunal, an
+application relating to the insolvency resolution or
+liquidation or bankruptcy of a corporate guarantor or
+personal guarantor, as the case may be, of such
+corporate debtor shall be filed before such National
+Company Law Tribunal.
+(3) An insolvency resolution process or liquidation or
+bankruptcy proceeding of a corporate guarantor or
+personal guarantor, as the case may be, of the corporate
+debtor pending in any court or tribunal shall stand
+transferred to the adjudicating authority dealing with
+insolvency resolution process or liquidation proceeding of
+such corporate debtor.
+(4) The National Company Law Tribunal shall be vested
+with all the powers of the Debts Recovery Tribunal as
+contemplated under Part III of this Code for the purpose
+of sub-section (2).
+(5) Notwithstanding anything to the contrary contained in
+any other law for the time being in force, the National
+Company Law Tribunal shall have jurisdiction to
+entertain or dispose of—
+(a) any application or proceeding by or against the
+corporate debtor or corporate person;
+(b) any claim made by or against the corporate debtor or
+corporate person, including claims by or against any of
+its subsidiaries situated in India; and
+
+[PAGE 68]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 68 of 75
+
+(c) any question of priorities or any question of law or
+facts, arising out of or in relation to the insolvency
+resolution or liquidation proceedings of the corporate
+debtor or corporate person under this Code.
+(6) Notwithstanding anything contained in the Limitation
+Act, 1963 (36 of 1963) or in any other law for the time
+being in force, in computing the period of limitation
+specified for any suit or application by or against a
+corporate debtor for which an order of moratorium has
+been made under this Part, the period during which such
+moratorium is in place shall be excluded.
+
+70.
+Section 238 of the IBC is also pertinent and is reproduced as under;
+
+Section 238: Provisions of this Code to override other
+laws.
+“238. The provisions of this Code shall have effect,
+notwithstanding anything inconsistent therewith contained
+in any other law for the time being in force or any
+instrument having effect by virtue of any such law”.
+
+71.
+Perusal of Section 60(5) of the Code will reveal that it provides power
+to the Adjudicating Authority which can be invoked to entertain or dispose
+of any claim made by or against the corporate debtor or corporate person
+and also any question of priorities or any question of law or facts, arising
+out of or in relation to the insolvency resolution or liquidation proceedings of
+the corporate debtor or corporate person under this Code. Section 238 of the
+Code creates an overriding effect which provides that the provisions of this
+Code shall have effect, notwithstanding anything inconsistent therewith
+contained in any other law for the time being in force or any instrument
+having effect by virtue of any such law. We are of the firm view that
+
+[PAGE 69]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 69 of 75
+
+Embassy Property Developments (P) Ltd. and Gujrat Urja Vikas Nigam
+(Supra) are the sheet anchor so far as the determination of the jurisdiction
+of NCLT is concerned. It has been held in Gujrat Urja Vikas Nigam (Supra)
+that the non-obstante clause in Section 60(5) is designed for a different
+purpose to ensure that the NCLT alone has the jurisdiction when it comes to
+the applications and proceedings by or against a corporate debtor covered
+by the Code, making it clear that no other forum has jurisdiction to
+entertain or dispose of such applications or proceedings. It is held that the
+NCLT has the jurisdiction to adjudicate such disputes, which arise solely
+from or which relate to the insolvency of the corporate debtor but it has also
+been cautioned that while doing so, the Tribunal may not usurp the
+legitimate jurisdiction of other courts, tribunals and fora when the dispute is
+one which does not arise solely from or relate to the insolvency of the
+corporate debtor and nexus with the insolvency of the corporate debtor must
+exist.
+72.
+Since much emphasis has been given by Ld. Counsels for the
+Appellant and Respondent No.3 on the two cases (Embassy Property
+Developments (P) Ltd. and Gujrat Urja Vikas Nigam (Supra). It is
+pertinent to mention that in the facts of the case of Gujrat Urja Vikas
+Nigam (Supra) PPA was terminated solely on the ground of insolvency since
+the event of default contemplated was the commencement of insolvency
+proceedings against the corporate debtor. In absence of the insolvency of the
+corporate debtor, there would be no ground to terminate the PPA. The
+termination was not independent of the insolvency, therefore, the dispute in
+that case was solely arising out of and relates to the insolvency of the
+
+[PAGE 70]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 70 of 75
+
+corporate debtor and it was thus held that the RP can approach the NCLT
+for adjudication of the dispute which was related to the insolvency
+resolution.
+73.
+In the case of Embassy Property Developments Pvt. Ltd. (Supra),
+the corporate debtor was holding a mining lease granted by the Government
+of Karnataka which was to expire on 25.05.2018. A notice for premature
+termination of the lease was issued on 09.08.2017, on the allegation of
+violation of the terms and conditions of the lease deed, no order of
+termination had been passed till the date of initiation of the CIRP. The IRP
+wrote many letters to various authorities informing them of the
+commencement of CIRP. and also for seeking the benefit of deemed
+extension of the lease in terms of Section 8-A (6) of the mines and minerals
+(development and regulation) Act, 1957. RP also filed a writ petition seeking
+a declaration that the mining lease should be deemed to be valid up to
+31.03.2020 but during the pendency of the writ petition, Government of
+Karnataka rejected the proposal for deemed extension. The RP thereafter
+moved an application before the NCLT for setting aside the order of the
+Government of Karnataka and seeking a declaration that the lease should be
+deemed to be valid up to 31.03.2020 which was allowed by the NCLT and
+ultimately the Adjudicating Authority directed the Government of Karnataka
+to execute the supplement lease deed. In the background of these facts, the
+Hon’ble Supreme Court held that in the light of the statutory scheme as
+culled out from various provisions of the IBC, 2016 it is clear that wherever
+the corporate debtor has to exercise a right that falls outside the purview of
+the IBC, 2016 especially in the realm of the public law, they cannot through
+
+[PAGE 71]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 71 of 75
+
+the RP, take a bypass and approach NCLT for the enforcement of such a
+right. Similarly, in the case of Tata Consultancy Service Limited (Supra)
+the Hon’ble Supreme Court has reiterated that the RP can approach the
+NCLT for adjudication of disputes which relate to the insolvency resolution
+process, but when the dispute arises dehors the insolvency of the corporate
+debtor, the RP must approach the relevant competent authority, even at an
+interim stage.
+74.
+Having considered the aforesaid legal position with regard to the
+jurisdiction of the NCLT as provided under Section 60 (5) of the Code and
+keeping in view Section 238 of the Code wherein a specific provision has
+been made that in case of any conflict with the IBC with any other law, the
+provisions of the IBC would be having overriding effect and notwithstanding
+anything contained in any other law for the time being enforce the NCLT
+shall have jurisdiction to entertain or dispose of any question of fact or law
+arising out of or in relation to the Insolvency Resolution or Liquidation
+Proceedings of the Corporate Debtor or Corporate Person under this Code,
+in our, considered opinion, the issue of de-freezing of the Demat account of
+the CD, wherein the shares, which are admittedly the property of the CD,
+were lying, was/is a question of fact arising out of and in relation to the
+insolvency resolution and liquidation proceedings of the corporate debtors,
+as provided under Section 60 (5) (c) of the Code.
+
+75.
+We earlier in this judgment while discussing the SEBI Act, SCRA,
+LODR Regulations and Circulars issued by the SEBI have stated that the
+main object of framing these Regulations and Act is to streamline the
+Regulatory framework of the Securities at the exchange and any entity
+
+[PAGE 72]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 72 of 75
+
+which will comply with the provisions contained therein would only be
+entitled to transact business at the exchange and in this regard ample
+powers have been provided to the appellant to regulate and streamline such
+business and in doing so the powers have also been given even to impose
+penalties on those entities which are not compliant with these Regulations
+/Circulars and the power also lies with the appellant to freeze the demat
+accounts of such entities in case the annual listing fee has not been paid.
+76.
+Having considered the scheme of the Regulatory framework of the
+appellant in view of the SCRA, SEBI Act, LODR Regulations and various
+circulars issued by the appellant, which we have reproduced herein before,
+we are of the considered view that aforesaid Act and Regulations and
+Circular orders are not in contravention to any of the Provisions contained
+under IBC except Section 14 of the code and Section 28 of the SEBI Act. It is
+to be recalled that by the effect of Moratorium as provided under Section 14
+of the IB Code no recovery of any Fee or Dues can be made during moratorium
+under Section 28 of the SEBI Act and to that extent by virtue of section 238 of
+the Code the provision contained under Section 14 of the Code would have over
+riding effect vis a vis section 28 of the SEBI Act. But present is not a case where
+effect of Moratorium is required to be examined or considered as the Demat
+Accounts of the CD's have already been de freezed by the Ld. Adjudicating
+Authority and the main contention of appellant is that the Ld. Adjudicating
+Authority is not having jurisdiction either to entertain any such application or
+for passing impugned orders. At the cost of repetition, it is stated that by
+passing the aforesaid SEBI Act or SCRA or DOLR Regulations and by
+issuance of circular letters the business of listing of the securities has been
+
+[PAGE 73]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 73 of 75
+
+controlled and streamlined and any cause of action with regard to
+conduction or regulation of such business or levying of any penalty or
+reduction of the same would certainly fall within the domain of the
+Securities Regulatory Framework. However, where no such cause of action
+is accruing in the realm of the public law and the Fee or dues towards the
+CD have been finalised/crystallized and only the recovery of the same is left
+the matter will fall squarely within the ambit of the IBC and the NCLT by
+virtue of Section 60 (5) and Section 238 of the Code would have jurisdiction
+with regard to the same.
+77.
+We notice that on account of non-payment of Annual Listing Fee (ALF)
+the demat accounts of the CD were debit freezed and such Annual Listing
+Fee was crystallized and nothing was pending in the realm of the Securities
+Regulatory Framework for the purpose of quantifying such annual listing fee
+and therefore, in view of the fact that there was no controversy with regard
+to the ownership of shares lying in the Demat account, Ld. NCLT was
+certainly having jurisdiction to entertain an application for de freezing of the
+aforesaid Demat accounts. We at this juncture, recall that in Embassy
+Property Development Pvt. Ltd. (supra) Hon’ble Supreme Court while
+considering the jurisdiction of NCLT under Section 60 (5) (C) of the IBC
+precisely in paragraph no. 37 held that the jurisdiction of the NCLT
+delineated under Section 60 (5) cannot be stretched so far as to bring
+absurd results and held that it will be a different matter if proceedings
+under statutes like Income Tax Act had attained finality, the dues payable to
+the Government would come within the meaning of the expression
+operational debt under Section 5 (21) of the Code, making the Government
+
+[PAGE 74]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 74 of 75
+
+operational creditor in terms of Section 5 (20) and further clarified that the
+moment the dues to the Government are crystallized and what remains is
+only the payment, the claim of the Government will have to be adjudicated
+and paid only in a manner prescribed in the Resolution Plan as approved by
+the Adjudicating Authority namely the NCLT.
+78.
+Thus a distinction has been carved out by the Hon’ble Supreme Court
+in those cases where the dues have not been crystallized vis a vis the cases
+where the dues has been crystallized, attained finality and nothing remained
+to be done further in that forum and only the recovery is left and that the
+dues has become debt due to its finality and in that case it is opined that
+the NCLT would be having jurisdiction to deal those dues (debt) under the
+framework of the IBC, as the same is connected with the insolvency of the
+CD.
+79.
+In the instant case it appears to be admitted situation that the annual
+listing fee required to be paid by both the CD’s was quantified/crystallized
+and no further proceeding with regard to the payment of this annual listing
+fee was pending anywhere with any authority created under the Securities
+Regulatory Framework and what had remained is only the payment or
+Recovery of the same and it is only on the happening of the default of the
+payment of the same the Demat accounts of the CD’s were debit freezed,
+therefore keeping in view the law laid down by the Hon’ble Supreme Court in
+Embassy Property Development Pvt. Ltd. and Gujarat Urja Vikas Nigam
+Ltd. (supra) and keeping an eye on the fact that the ownership of the CD's
+with regard to the shares lying in the aforesaid Demat accounts have not
+been disputed by anyone, the de freezing of these Demat accounts of the CD
+
+[PAGE 75]
+Company Appeal (AT) (Ins) Nos. 1786 of 2025, 1862 of 2024 75 of 75
+
+was a question arising out of and in relation to the Insolvency Resolution of
+the aforesaid CD’s and thus NCLT/Adjudicating Authority was having
+jurisdiction to pass impugned orders by assuming jurisdiction as provided
+under Section 60 (5) of the Code and we do not find any illegality in exercise
+of such jurisdiction by the NCLT.
+80.
+We place on record at this juncture that various submissions were
+raised by Ld. Counsels for the parties pertaining to section 14 of the Code
+but since the application to de freeze these Demat accounts were moved by
+the RP and Liquidator for the benefit of the CD, which action is not barred
+under Section 14 of the Code and the fate of these appeals was dependent
+on the issue as to whether Ld. Adjudicating Authority is/ was having
+jurisdiction under Section 60 of the IBC to pass impugned orders, we do
+not find it relevant to discuss this aspect of the matter at length, as we have
+already held that Ld. NCLT was having jurisdiction under section 60(5) of
+the Code to entertain such applications and the impugned orders have been
+passed in valid exercise of such jurisdiction.
+81.
+For the reasons mentioned herein before, we do not find any good
+ground to interfere in the impugned judgments.
+82.
+In result, we do not find any merit in the appeals and the same are
+dismissed as such. There is no order as to costs.
+83.
+Pending I.A.’s if any are hereby closed.
+
+[Justice Mohd. Faiz Alam Khan]
+Member (Judicial)
+
+[Naresh Salecha]
+Member (Technical)
+New Delhi.
+24.03.2026.
+sr

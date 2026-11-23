@@ -1,0 +1,653 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+15.10.2025
+
+Present:
+JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+
+MR. ARUN BAROKA, MEMBER (TECHNICAL)
+
+Company Appeal (AT) (Ins) No.293 of 2025
+
+Shankar Khandelwal,
+
+...Appellant
+Erstwhile Director of Sanwariyaji Business
+Ventures Pvt Ltd.
+
+Vs.
+
+1. Omkara Asset Reconstruction Pvt. Ltd.
+
+...Respondent No.1
+
+2. Interim Resolution Professional of
+
+...Respondent No.2
+Sanwariyaji Business Ventures Pvt Ltd.
+
+(Arising out of Impugned Order dated 22.01.2025 passed by the Adjudicating
+Authority (National Company Law Tribunal, Jaipur Bench) in C.P. (I.B)
+No.94/7/JPR/2024)
+With
+Company Appeal (AT) (Ins) No.294 of 2025
+
+Shankar Khandelwal,
+
+...Appellant
+Erstwhile Director of Shrinathji Business
+Ventures Pvt Ltd.
+
+Vs.
+
+[PAGE 2]
+2
+
+1. Omkara Asset Reconstruction Pvt. Ltd.
+
+...Respondent No.1
+
+2. Interim Resolution Professional of
+
+...Respondent No.2
+Shrinathji Business Ventures Pvt Ltd.
+
+(Arising out of Impugned Order dated 22.01.2025 passed by the Adjudicating
+Authority (National Company Law Tribunal, Jaipur Bench) in C.P. (I.B)
+No.93/7/JPR/2024)
+
+For Appellant :
+Mr. Sunil Fernandes, Sr. Advocate with Mr. Prakul
+Khurana and Mr. Gourav Asati, Advocates
+
+For Respondent : Mr. Gaurav Agarwal, Sr. Counsel and Mr. Ayush J.
+Rajani, Advocate for R-1
+
+JUDGEMENT
+Per Justice N. Seshasayee, Member (Judicial)
+These appeals are preferred by the erstwhile director of the Corporate Debtor
+challenging the Order of the Adjudicating Authority (NCLT), Jaipur, dated
+22.01.2025 in C.P IB 94/7/JPR/2024, and C.P.93/7/JPR/2024 admitting
+two independent petitions for initiating CIRP IBC against the same financial
+creditor. The financial creditor appeared to have considered it fit to file two
+separate petitions under Sec.7 IBC for each of the two loans it had advanced.
+1.2 Before the Adjudicating Authority, the CD neither denied nor disputed
+either the debt or default, but defended the action on the ground that the
+debts were time barred. This defence was negatived by the Adjudicating
+Authority.
+
+[PAGE 3]
+3
+
+Facts:
+2.1 Except for the two separate loans advanced to the CD, rest of the facts,
+more particularly that which are relevant in the context of the line of defence
+adopted by the appellant before the Adjudicating Authority, are identical.
+2.2 Two loans were advanced by M/s Diwan Housing Finance Corporation Ltd
+(DHFL) to the CD, and the details are:
+a) On 10.09.2014, a loan of Rs.12.0 crores was sanctioned as against
+which Rs.11.50 crores was advanced on various dates to the CD. (Ref:
+C.A.293 of 2025). This loan was to be repaid in 24 EMI and the first
+instalment was to commence on the expiry of 24 months from the date
+of disbursements.
+b) On 25.09.2014, the second loan of Rs. 11.0 crores was sanctioned out
+of which Rs.9.50 crores was disbursed. This loan was to be repaid in
+36 EMI and as in the earlier loan, the first instalment fell due for
+payment after 24 months from the date of payment of loan amount to
+the CD.
+2.3 As stated earlier, other facts in both the cases are identical, and they are
+stated below: (Note: The paper book containing copies of the petition filed
+before the Adjudicating Authority under Sec.7 IBC vis-à-vis the appeal in
+C.A.293 of 2025 was of least assistance to this tribunal and hence dates as
+given in the pleadings are relied on for factual narration)
+a) The CD defaulted in repaying both the loans. This prompted DHFL to
+issue separate notices, one dated 16.11.2016 (relevant to C.A.93 of
+
+[PAGE 4]
+4
+
+2016) and 15.11.2016 (related to C.A.94 of 2016) and recalled the loans
+and required the borrower to repay the loan dues within 7 days.
+b) The CD did not repay the loan and the default continued. Eventually on
+06.12.2016 DHFL classified both the loans as NPA. This was followed
+by issuance of notices dated 08.12.2016 under Sec. 13(2) of the
+SARFAESI Act on the CD.
+c) While things stood thus, DHFL, the creditor, itself was sucked into a
+CIRP proceedings when the same was admitted vide the order of the
+Adjudicating Authority dated 03.12.2019. The resolution process of the
+DHFL was successful with the resolution plan of certain Piramal Capital
+and Housing Finance Ltd. (SRA) obtaining the approval of the
+Adjudicating Authority on 07.06.2021.
+d) On 10.01.2023, Piramal Capital, the SRA, assigned the two loans which
+DHFL had advanced to the CD to the respondent herein.
+This concludes the first segment of fact-narration.
+2.4 To continue the fact-narration, in this segment the following facts are
+relevant:
+a) Prior to the aforesaid assignment of debt to the respondent herein by
+the SRA of DHFL, on 23.12.2021, CD was drawn to face a CIRP
+proceedings when the Adjudicating Authority admitted C.P.161 of 2020
+at the instance of some third party. This order was later set aside by
+the Adjudicating Authority vide its order dated 29.07.2024 under Sec.
+65 of the Code.
+
+[PAGE 5]
+5
+
+b) On 17.03.2022, Piramal, the SRA of DHFL preferred its claim to the
+resolution profession appointed in the CIRP of the CD. This was
+admitted by the RP as he uploaded in the portal of the IBBI on
+02.05.2022 and updated the same on 21.02.2024.
+c) Subsequently on 23.09.2024 the respondent herein laid both C.P.93 of
+2024 and C.P.94 of 2024 (which respectively relate to C.A.294 of 2025
+and C.A.293 of 2025) under Sec.7 IBC. In part IV of the petition, the
+respondent had given the date of default as 06.12.2016 and also had
+referred to 29.07.2024, the date on which the first CIRP proceedings
+against the CD was set aside.
+3. As outlined earlier, the appellant’s only line of defence was limitation. Since
+the same formed the arguments in this appeal, they are not detailed. Suffice
+to state, the Adjudicating Authority has found the appellant’s defence
+untenable and admitted both the petitions to CIRP process vide separate
+Orders. These orders are now under challenge in these appeals.
+Arguments
+4. Before adverting to the rival arguments few dates are contextually pertinent
+are collated as below:
+a) In Part IV of the petitions to initiate both the CIRP, 16.11.2016 is stated
+to be the date of default.
+b) Between 03.12.2019 and 07.06.2021 there was moratorium vis-à-vis
+the creditor DHFL.
+c) From 23.12.2021 till 29.07.2024, CD was under first CIRP, and it was
+under moratorium during this period.
+
+[PAGE 6]
+6
+
+d) In between, from 15.03.2020 to 28.02.2022 limitation was in eclipse
+thanks to the order of the Hon’ble Supreme Court in suo motu W.P.(C)
+3 of 2020.
+5. The counsel for the appellant argued:
+a) DHFL had issued a notice dated 16.11.2016 recalling the loan and
+granted the CD 7 days time to repay. Effectively the default had
+occurred on 23.11.2016. If it is so, then limitation for instituting a CIRP
+would expire on 22.11.2019. And, inasmuch as the creditor relies on
+16.11.2016 as the date of default in part IV of its petition, limitation for
+initiating a CIRP would expire on 22.11.2019 (three years from the date
+on which the CD was required to make repayment pursuant to the
+notice dated 16.11.2016)
+b) If 06.12.2016, the date on which loan was notified as NPA is reckoned
+as terminus a quo, limitation would expire on 06.12.2019. But, since
+from 03.12.2016, moratorium for the creditor-DHFL had commenced,
+barely two days remained before limitation could intervene. The
+moratorium of DHFL ended on 07.05.2021 when Piramal’s plan was
+approved by the Adjudicating Authority. Therefore, limitation vis-à-vis
+the original debt revived on 08.05.2021 and expired two days later, on
+10.05.2021. However, since the limitation period expired during the
+period covered by the Order of the Hon’ble Supreme Court in suo motu
+W.P.(C) 3 of 2020. But from 23.12.2021 till 29.07.2024 there was
+moratorium of the CD and hence the two days which remain for the
+expiration of the limitation period will have to be added after
+
+[PAGE 7]
+7
+
+29.07.2024. Accordingly, on 31.07.2024 limitation period would
+expire. However, the present set of petitions under Sec.7 were filed only
+30.11.2024 and 28.12.2024, few months after the expiry of the period
+of limitation.
+c) Inasmuch as the balance two days period as explained above fell during
+Covid days and is covered by the aforesaid Order of the Hon’ble
+Supreme Court, and since period is less than 90 days, in terms of the
+Order dated 10.01.2022 of the Court, a period of 90 days could be
+reckoned only from 01.03.2022 and not from 29.07.2024.
+6. Per contra, the learned counsel for the respondent- the financial creditor
+contended:
+a) 06.12.2016 is the date on which DHFL had notified both the loans of
+the CD as NPA. However, it was followed by notices under Sec.13(2) of
+the SARFAESI Act, dated 08.12.2016. And, in terms of Sec.13(4) right
+of action commences only after the expiry of 60 days stipulated therein,
+and hence actual default which is essential to be reckoned for
+computing limitation 07.02.2017. Reliance was to the ratio of this
+tribunal in Shantanu Jagdish Prakash Vs SBI [2025 SCC OnLine
+NCLAT117] and Mavjibhai Nagarbhai Patel Vs SBI [2024 SCC OnLine
+NCLAT 2014]. This apart, limitation being a legal question it can be
+considered at any stage by the courts or tribunal. Reliance was placed
+on the ratio in R. Kandasamy Vs T.R.K.Sarawathy [(2025) 3 SCC
+513], S. Shivraj Reddy Vs S. Raghuraj Reddy [2024 SCC OnLine SC
+
+[PAGE 8]
+8
+
+963] and National Textile Corporation Ltd., Vs Nareshku [(2011)12
+SCC 695]
+b) Secondly as per Sec.60(6) of the IBC, for computing the period of
+limitation for suit or application by or against the corporate debtor, the
+period during which the CD was under moratorium should be excluded.
+Here, there was moratorium both against DHFL, the original creditor of
+the CD and also the CD itself. These periods have to be eventually
+added. Reliance was placed on the ratio of the Hon’ble Supreme Court
+in New Delhi Municipal Council Vs Minosha India Pvt., Ltd.,
+[(2022)8 SCC 384].
+c) Thirdly, on 17.03.2022, Piramal, the SRA of DHFL preferred its claim
+to the resolution profession appointed in the CIRP of the CD. This was
+admitted by the RP as he uploaded in the portal of the IBBI on
+02.05.2022 and updated the same on 21.02.2024. This fact was not
+denied by the CD. Necessarily, the debt was alive as on 21.02.2024,
+and it amounted to acknowledgement which gave a fresh terminus a quo
+for computing limitation, and the petitions under Sec.7 was filed in
+November and December, 2024, which is well within the period of
+limitation. Reliance was placed on the ratio in Laxmipat Surana Vs
+Union Bank of India & another [(2021) 8 SCC 421].
+d) This apart the period from 15.03.2020 to 28.02.2022 (the period
+covered by the Order of the Hon’ble Supreme Court in Suo motu W.P.
+3 of 2020) must also be required to be excluded.
+
+[PAGE 9]
+9
+
+7. The counsel for the appellant would now contend that:
+a) So far as shifting the terminus a quo to 21.02.2024, the date on which
+the RP in the first CIRP commenced against the CD updated the claim
+in the official portal of IBBI, is concerned, law makes a distinction
+between the limitation for initiating a CIRP under Sec.7 of the IBC and
+the limitation for preferring a claim. While the former is governed by
+Article 137 of the Limitation Act, the residuary provision which
+prescribes a limitation period of 3 years for initiating an action for which
+no period of limitation is specifically provided for, the limitation for a
+creditor secured by a mortgage to initiate an action for recovery is 12
+years under Article 62 of the Act. Accordingly, if a secured creditor only
+intends to make a claim for recovery of his debts, then he will have 12
+years to claim, whereas if the same creditor intends to initiate a CIRP
+under sec.7 of the IBC, even though the cause of action may be the
+same, yet the limitation would be only three years.
+b) Secondly, a Resolution Professional is not statutorily empowered to
+make acknowledgement of debt on behalf of the CD. Indeed, all such
+admission of claims must be approved by the CoC in terms of Sec.28 of
+the IBC. At any rate for an acknowledgement of debt to be legally
+cognizable under Sec.18 of the Act, it must have been made before the
+period of limitation has expired. DHFL had issued a notice dated
+16.11.2016 recalling the loan and granted the CD 7 days time to repay.
+Effectively the default had occurred on 23.11.2016. If 23.11.2016, is
+reckoned as the date of commencement of limitation, it necessarily ends
+
+[PAGE 10]
+10
+
+on 23.11.2019. But RP had admitted the claim of the creditor long after
+the expiry of the limitation period.
+Discussion & Decision
+8. The arguments have been carefully assessed for their respective merits.
+Before adverting to the specifics of the arguments, it is necessary to set right
+few aspects:
+a) Contrary to the contention of the respondent, limitation is not a pure
+question of law, but is a mixed question of law and fact. This has long
+been settled.
+b) The second aspect relates to Sec.238A of the Act. It provides that the
+provisions of the Limitation Act would apply, as for as may be, to the
+proceedings or appeals before the Adjudicating Authority, the NCLAT,
+the DRT or DRAT as the case may be. Here Sec. 3(1) of the Limitation
+Act becomes most relevant. It reads:
+Sec.3 Bar of limitation:
+Subject to the provisions contained in Sec.4 to 24 (inclusive),
+every suit instituted, appeal preferred, and application made
+after the prescribed period shall be dismissed, although
+limitation has not been set up as a defence.”
+
+c) Therefore, issue of limitation can neither be depended on any
+concession of parties, nor is it made depended on any defence of bar of
+limitation. On the other hand, determining the issue of limitation falls
+within the exclusive domain of the Court or the tribunals, as the case
+may be. It is the duty of these remedial fora to compute limitation from
+
+[PAGE 11]
+11
+
+the facts placed before it. Therefore, while discharging its statutory
+obligation, the tribunals cannot be guided solely by what the parties
+may believe but may have to travel beyond. If it were to be held
+otherwise, it would defeat the legislative purpose behind Sec.3 of the
+Limitation Act.
+d) The next aspect is the significance of date of default as provided in Part
+IV of the petition under sec.7 for computing limitation. In SBI Vs
+Rakesh Hariram Agarwal [Comp.A. (AT)(Ins) No.246 of 2025, dated
+23.09.2025], this tribunal has held:
+“15.1 A distinction between date of arising of cause of action for
+filing a petition under Sec.7,9 or Sec. 95 IBC and the date relevant
+for computation of limitation is now required to be understood. As
+is well known cause of action (to understand it better, cause for an
+action) are the bundle of facts which are required to be proved by
+a litigant to succeed in an action. So far as the law of limitation is
+concerned, it does not act on the cause of action, but acts on the
+right to maintain an action – it acts on the remedy. Thus, even
+though there may be a cause for initiating an action, the action can
+be instituted till the last date on which limitation prescribed for
+initiating the intended action intervenes.
+
+15.2 In the context of a CIRP or a PIRP, for initiating an action,
+the creditor is required to establish two facts which provides the
+cause for initiating it: existence of a debt and the default in
+repaying it. The default in paying the debt, therefore, provides
+one of the facts constituting the cause of action for initiating any of
+these proceedings. The date of default which is required to be
+provided in Part IV of a petition under Sec.7 or 9, or Part III of a
+petition 95 only indicates the date on which one of the facts
+constituting the cause of action has arisen. As earlier stated,
+limitation for initiating a CIRP or a PIRP is not about constituting a
+cause of action, for about enforcing a cause of action. Therefore,
+
+[PAGE 12]
+12
+
+the date of commencement of limitation need not necessarily be
+the same, and it depends on the facts of each particular case. To
+explain, if the IBC has not prescribed any Form of pleadings, or if
+it had suggested that it may assume the form of a plaint, then the
+factum of default in repaying the debt would have to be indicated
+as one of the facts constituting a cause of action and so is the date
+as to when this fact has happened. Merely because the IBC has
+prescribed a Form of pleading, that does not ipso facto imply that
+the date of default in paying the debt and the date of
+commencement of limitation for commencing a CIRP or PIRP should
+not be different. And, this distinction should neither be lost sight
+of, nor should they be confused.”
+
+The date of default (in repaying the debt) in Part IV of the Statutory Form
+of pleading is part of the cause of action and not part of the remedy. To
+explain, every action requires a cause for instituting it, and any action
+founded on such a cause must be within the period of limitation. This
+tribunal, therefore, holds that while the date of default in payment of
+the debt as mentioned in Part IV of the petition under Sec.7 IBC
+deserves to be factored in for the purpose of computation of limitation
+in instituting the petition, yet it is not always bound by it, as it has a
+statutory duty to perform under Sec.3 of the Limitation Act.
+9. Now, turning to the argument of the appellant’s counsel, it appears
+absolutely impressive when he contended that as a secured creditor appellant
+had 12 years period under Article 62 of the Limitation Act to make a Claim
+but if it were to institute a proceeding under Sec.7 IBC, it has only 3 years to
+go from the date of initial default. According to him, what is relevant for
+preferring a Claim before the IRP in a CIRP proceeding may not be relevant for
+instituting a CIRP, and hence 16.11.2016 the date on which the appellant had
+
+[PAGE 13]
+13
+
+issued the notices recalling the loans or latest by 23.11.2016 (the date on
+which the seven days period given in those notices for repayment had expired),
+will gain relevance, and terminus a quo would be either of 16.11.2016 or
+23.11.2016.
+10. Now, if the moratorium of the financial creditor DHFL between
+03.12.2019 and 07.06.2021 and the Covid days and the Order of the Hon’ble
+Supreme Court in the Suo Motu W.P.(C) 3 of 2020 are kept aside for the
+present, the latest date which may save limitation for the respondent to
+institute the present set of CIRP petitions with least difficulty is 02.05.2022,
+the date on which the RP had admitted the Claim of the respondent in the first
+CIRP proceedings against the CD. Therefore, if the date on which the IRP/RP
+in the first CIRP against the CD had admitted the claim of the respondent
+marks the beginning of a fresh period of limitation, then it can settle the issue
+without any need to sit with a calendar and a calculator to count the days for
+ascertaining if the present batch of petitions were laid in time.
+The Issues
+11. The issues that would now engage this tribunal are twofold: (a) whether
+admission of a Claim by the RP in an earlier CIRP proceeding against the CD
+would constitute an acknowledgement of debt by a CD to save limitation for
+the initiation of a fresh CIRP against that very CD; and (b) whether the RP has
+the authority to make an acknowledgement on behalf of the CD.
+Authority of the IRP or the RP
+12. The second question is considered first. When once a CIRP under Sec.7
+IBC (also Sec.9 ) is admitted and the IRP is appointed, Sec.17(1) steps into
+
+[PAGE 14]
+14
+
+declare that the Board of Directors of the CD will stand suspended and that
+the entire management of the CD will stand vested in the IRP and that even
+the officers of the CD would have to report to the IRP and the financial
+institutions are required to act on his instructions. Sec.17(2)(a) authorises an
+IRP to “act and execute in the name and on behalf of the corporate debtor all
+deeds, receipts, and other documents, if any.” Sec.18 expands and also
+explains the scope of an IRP’s authority. Indeed, Sec.18(1)(b) authorises him
+to “receive and collate all the claims submitted by creditors to him...” Sec.20 of
+the IBC vests the IRP with the authority to make every endeavour to ensure
+that the CD is kept alive as a going concern. And, when an IRP is replaced by
+a RP post the constitution of the CoC, Sec.25 read with Sec.28 the IBC informs
+that RP would continue to discharge substantially the functions which the IRP
+has been hitherto performing, and more. In particular Sec.25(2)(e) mandates
+that a resolution professional “shall update the list of claims.”. Thus, when
+the IRP at the initial stage of the CIRP proceeding and the RP at a later stage
+is required to perform the functions of the Board of Directors and also have
+been authorised to admit Claims from the creditors of the CD, to dispute the
+authority of the IRP or the RP to act for and on behalf of the CD would be
+fallacious.
+13. When a claim is admitted either by the IRP or by the RP, the suspended
+Board of Directors cannot stop payment post a successful resolution process
+irrespective of what is actually paid. Once a CIRP is admitted, neither
+fraudulently nor maliciously, the former directors of the CD are substantially
+reduced to mere spectators, and unless the very admission of the CD to CIRP
+
+[PAGE 15]
+15
+
+is terminated or the CD is a MSME, these suspended directors do not have
+any prospects of getting control of the CD again. There is therefore, little
+difficulty in holding RP and only RP has the authority to act on behalf of the
+CD.
+Admission of Claim Vs Acknowledgement of Debt
+14. Now, to the principal issue: whether admission of a Claim by the IRP or
+RP in an earlier CIRP proceeding against the CD which was subsequently
+terminated can amount to an acknowledgement of liability as to provide the
+secured financial creditor a fresh terminus a quo for commencing a fresh CIRP
+proceeding against the CD? To enable an understanding of the issue in its
+deeper layers, let the basic premise be set:
+a) It has been now firmly entrenched by a long catena of authorities that
+initiation of a CIRP proceeding is not a mechanism for realisation of debt
+by a creditor. In addition to the prevailing view on the matter, it may
+also be added that CIRP proceeding is fundamentally a class action,
+often set in motion by a creditor (and if the debt is financial debt, then
+creditors) for the benefit of the entire body of creditors (in which the
+other creditors may eventually join). Contrary to an action for repayment
+of the debt-dues, in a CIRP proceedings, the petitioning creditor makes
+a conscious choice to pool his or its individual right to repayment of
+debt with similar right of other creditors of the CD (whom the
+petitioning-creditor may or may not know), and share the consequence
+thereof with all the creditors out of the value which the assets of the CD
+
+[PAGE 16]
+16
+
+may fetch in the resolution process (or liquidation process) and in the
+manner contemplated under Sec.53 IBC.
+b) It is also settled beyond debate that limitation for initiating a CIRP is
+three years from the date of default under Article 137 of the Limitation
+Act.
+c) When a CIRP is admitted leading to the onset of the moratorium, its
+immediate legal implication is that the secured creditors will cease to
+have control over the security-assets but without losing their character
+as secured creditors. It now follows that, when a CIRP is terminated or
+the admission of the CD to CIRP is later negatived, the right of the
+secured creditors to exercise their right in relation to the security-assets
+gets restored to them.
+15.1 Turning to a Claim, it per se cannot be equated to initiating a CIRP
+proceeding, something which the counsel for the appellant himself argued.
+Sec.3(6) of the IBC defines a Claim to broadly mean (a) either a right to
+payment, or (b) a right to remedy for breach of contract, and in either case a
+claim need not be based on a decree of the court. Accordingly, when a creditor
+makes a Claim it is founded on his or its right to payment, or more precisely
+right to repayment.
+15.2 It now logically follows that where a default in repayment of a secured
+debt has continued for a period beyond three years, a secured financial
+creditor, even if it may not be able to institute a petition under Sec.7 IBC, can
+still make a Claim to the IRP or the RP in a pending CIRP, if the Claim itself is
+not barred by limitation under Article 62 of the Limitation Act. This distinction
+
+[PAGE 17]
+17
+
+is amply amplified In Babulal Vardharji Gurjar Vs Veer Gurjar
+Aluminimum Industries Pvt. Ltd., & another [(2020)15 SCC 1], where the
+Hon’ble Supreme Court, after collating and considering all the earlier
+authorities on the point of limitation, summed up its conclusion inter alia as
+below:
+“32. When Section 238-A of the Code is read with the above noted
+consistent decisions of this Code in ........., the following basics
+undoubtedly come to the fore:
+
+(a) to (g) ......
+
+(h) an application under Section 7 of the Code is not for enforcement
+of mortgage liability and Article 62 of the Limitation Act does not
+apply to this application.”
+While, an application under Sec.7 of the Code is not an action for recovery of
+a secured debt but a class action as explained above, a Claim of a creditor
+indeed is akin to an action for recovery of debt for it can be made only
+pursuant to a pre-existing right to enforce a right of repayment. Indeed, even
+a petitioning creditor is required to prefer a claim, and his pleading for
+initiating a CIRP is not reckoned or treated as a Claim within the scheme of
+the IBC. Necessarily, the limitation for initiating a CIRP proceeding and
+making a Claim does not, need not, and cannot be the same. In Dena Bank
+(now Bank of Baroda) Vs C. Shivakumar Reddy [(2021)10 SCC 330] and
+Tottempudi Salalith Vs SBI and other [(2024) 1 SCC 24], the Hon’ble
+Supreme court has held that a recovery certificate issued by the DRT can
+provide a fresh terminus a quo for initiating a CIRP, but what could also be
+derived from those authorities is that, in case a recovery-certificate holder does
+
+[PAGE 18]
+18
+
+not initiate a CIRP proceeding, it can still prefer a Claim within 12 years since
+a recovery certificate is a deemed decree and Article 136 of the Limitation Act
+provides 12 years period for executing it. This would signify the keenness of
+both the Court and the legislature to preserve the right to repayment of debt-
+dues when the latter included Sec.238A of the Code and the former did not
+attempt to stretch the effect of Article 137 of the Limitation Act to obliterate
+the effect of its other provisions. Hence application of Article 62 of the
+Limitation Act is not disturbed vis-à-vis the situations where it can apply.
+15.3 In the instant case, if the date of default is reckoned as 16.11.2016 or
+23.11.2016, the SRA of the creditor has still made its Claim before the IRP or
+the RP in the first CIRP against the CD within 12 years, when the right to
+enforce the right to recover secured debt is still alive and not barred by
+limitation.
+16.1 Does admission of a Claim by the RP in an earlier CIRP would amount
+to an acknowledgement of the debt? A financial creditor is required to prefer
+its Claim in terms of Regulation 8 of the CIRP Regulations, 2016, and in cases
+of a financial debt in terms of Regulation 12(3) the IRP or the RP, as the case
+may be, may not have an option but to admit the Claim. And, when the Claim
+is admitted, it only implies that the CD through the offices of IRP or the RP
+has admitted the pre-existing liability of the CD to pay the creditor who has
+an enforceable right to payment.
+16.2 It is here, Regulation 12(3) which mandates that claims of all financial
+debt shall be admitted without a scrutiny may require a qualification, for ex
+facie it seems to suggest that even a Claim of a time barred secured financial
+
+[PAGE 19]
+19
+
+debt can be admitted. It is one thing to say that a claim of a financial creditor
+shall be admitted without proof of entitlement to make a claim, and it is
+entirely another thing to say that that even a time barred financial debt can
+be admitted. However, this issue may have to be tested in appropriate cases,
+for this case does not invite an opinion from this tribunal on this point.
+17.
+Returning to the point of discussion, if the entire management of the
+CD is vested with the IRP or the RP, as the case may be, and if they were
+statutorily authorised to admit a claim, in the absence of the board of directors
+to perform any function in relation to the CD, admission of a Claim either by
+the IRP or the RP would amount to admission of a liability of the CD to repay
+the creditor, to emphasis, based on a pre-existing and enforceable right of
+payment. And, acknowledgement of a debt within the meaning of Sec.18 of
+the Limitation Act in essence is but an admission of the liability to repay. A
+mere choice of expression such as ‘acknowledgement’ or ‘admission’ used in
+different statutory schemes cannot alter the fundamentals: existing of a
+liability, correlatable to a pre-existing and enforceable right to repayment.
+Therefore, where an IRP or a RP has admitted a claim, it does constitute an
+acknowledgement under Sec.18 of the Limitation Act. To state it differently, if
+the RP has the authority to admit a claim and if admission of a Claim also
+constitutes an acknowledgement of liability, it follows that the RP has the
+authority to acknowledge a liability on behalf of the CD.
+18.1 Having stated thus, it must be said what has been discussed above is
+not without a rider. Where a CIRP proceeding itself is terminated, the
+suspended Board of Directors though may not have a right to challenge the
+
+[PAGE 20]
+20
+
+admission of Claim by an IRP or the RP in the earlier CIRP proceeding, may
+still obtain a right to challenge the admission of the said claim on the ground
+that the IRP or the RP, as the case may be, had admitted a time barred debt
+in the earlier proceeding. Therefore, even if Regulation 12(3) of the CIRP
+Regulation (whose validity can be suspect as it appears to enable admission
+of a time barred financial debt mandatorily) as it now exists is presumed to be
+valid, it, at the best, may apply to the particular CIRP in which a Claim is
+made, but not in any subsequent independent proceedings initiated by the
+financial creditor.
+18.2 In the instant case, there is no case for the appellant that in the earlier
+CIRP proceeding against the CD, when the claim of the respondent was
+admitted, it has already become time barred. Indeed, the facts as have been
+presented does not even provide any opportunity to the appellant to take any
+such defence.
+19. There is therefore, little difficulty in holding that the date of admission of
+a Claim by the IRP grants a fresh date for commencement of limitation and
+when the Claims are subsequently updated it pushes the date of terminus a
+quo to that date.
+20. Here at least two judgements of the Hon’ble Supreme Court are required
+to be considered. In Dena Bank case [(2021)10 SCC 330], the question before
+the Court was whether limitation must be reckoned from the date of initial
+default or whether subsequent dates on which the CD has acknowledged the
+liability in its balance sheet and account books can be considered. The Court
+held it in the affirmative, and in so doing it has observed:
+
+[PAGE 21]
+21
+
+“140.......an application under Section 7 IBC would not be barred
+by limitation, on the ground that it had been filed byond a period
+of three years from the date of declaration of the loan account of
+the corporate debtor as NPA, if there were an acknowledgement
+of the debt by the corporate debtor before the expiry of the
+period of limitation of three years, in which case the period of
+limitation would get extended by a further period of three years.”
+The second authority is the one in SBI Vs Krishindhan Seed Pvt., Ltd.
+[(2023)1 SCC 209]. There, the Hon’ble Supreme Court had held in paragraph
+14.2 as below:
+“14.2. An acknowledgement in a balance sheet without a
+qualification can furnish a legitimate basis for determining as to
+whether the period of limitation would stand extended, so long as
+the acknowledgement was within a period of three years from the
+original date of default. However, the issue before the Hon’ble
+Supreme Court did not include whether a Claim of a secured
+creditor (mortgagee) which an IRP or the RP had admitted would
+constitute an acknowledgement within the meaning of Sec.18 read
+with Article 62 of the Limitation Act, and hence there no occasion
+for the Court to consider this aspect.”
+It may be stated with utmost respect that in neither of these two cases the
+Hon’ble Supreme Court was invited to address an issue as to whether a Claim
+of a secured creditor (mortgagee) which an IRP or the RP has admitted would
+constitute an acknowledgement within the meaning of Sec.18 read with
+Article 62 of the Limitation Act, something which has visited this tribunal in
+this case. Consequently, the Hon’ble Supreme Court did not have an
+occasion to address the same in the cases before it.
+
+[PAGE 22]
+22
+
+21. In the end, the first impression which the appellant’s counsel could make,
+on a deeper scrutiny turns out to be unsustainable. This tribunal holds that
+that the admission of the Claim by the RP in the first CIRP against the CD on
+22.05.2022 constituted a valid acknowledgement and its subsequent updating
+on 21.02.2024 constituted the second acknowledgement, and if terminus a
+quo is reckoned from any of these dates, then both the petitions laid by the
+respondent are validly instituted as the debts are not time barred on the
+respective dates when they were so instituted. In view of the same, this
+tribunal does not find any need to consider the other modes of computation
+of limitation necessary.
+Conclusion
+22. In view of the discussion above, both these appeals are liable to be
+dismissed and are so dismissed, and the Orders of the Adjudicating Authority
+dated 22.01.2025 in C.P. C.P. (I.B) No.94/7/JPR/2024 and C.P. (I.B)
+No.93/7/JPR/2024 are hereby confirmed. No costs.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+rs/sk

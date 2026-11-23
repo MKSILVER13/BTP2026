@@ -1,0 +1,1648 @@
+[PAGE 1]
+Cont’d.../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+(Arising out of Order dated 29.08.2023 passed by the Adjudicating
+Authority (National Company Law Tribunal), Division Bench, Court No. II,
+Kolkata in C.P. (IB) No.156/KB/2022)
+
+IN THE MATTER OF:
+EPC Constructions India
+Limited through its Liquidator-
+Abhijit Guhathakurta,
+Correspondence office: Deloitte India Insolvency
+Professionals LLP, 32nd Floor, Tower 3, One
+International Centre, Senapati Bapat Marg, Mumbai.
+.... Appellant
+
+Vs
+
+M/S Matix Fertilisers and Chemicals Limited,
+Registered office: Panagarh Industrial Park,
+P.O., Panagarh Bazar,
+District- Purba Bardhaman Panagarh Bardhaman,
+WB 713148 IN.
+
+.... Respondent
+
+Present:
+
+For Appellant:
+Mr. Niranjan Reddy, Sr. Advocate with Mr.
+Abhishek Swaroop, Mr. Aditya Vikram
+Singh,
+Ms.
+Akhila
+and
+Ms.
+Shreya
+Chandhok, Advocates.
+
+For Respondent:
+Mr. Arun Kathpalia, Sr. Advocate with Mr.
+Shantanu Awasthi and Mr. Jatin Kapur,
+Advocate.
+.
+
+J U D G M E N T
+
+ASHOK BHUSHAN, J.
+
+This appeal has been filed challenging the order dated 29.08.2023
+passed by the Adjudicating Authority (National Company Law Tribunal),
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+Division Bench, Court No. II, Kolkata rejecting Section 7 application filed
+by the Appellant.
+2.
+Brief facts of the case necessary to be noticed for deciding this appeal
+are:
+(i)
+The Appellant executed an EPC contract with the Respondent for
+setting up a fertilizer complex for production of ammonia-urea
+complex at Panagarh Industrial Park, Distict Burdwan, West
+Bengal on 11.12.2009. Contracts for onshore supply, offshore
+supply as well as engineering and construction were entered
+between the parties in the year 2010.
+(ii)
+Amounts became due and payable by the Respondent towards the
+Appellant in pursuance of the contract. The Respondent on
+28.04.2015 wrote a letter to the Appellant requesting Essar
+Projects (India) Ltd. (earlier name of the Appellant) to consider
+converting the amounts outstanding as subordinated debt.
+(iii)
+The Appellant sent its agreement vide letter dated 08.05.2015 to
+give an extended credit upto Rs.403 Crores against their
+receivables from Matix.
+(iv)
+A resolution dated 30.07.2015 was passed by the Appellant giving
+consent to make investment upto Rs.400 Crores into 8%
+Cumulative Redeemable Preference Shares (hereinafter referred
+to as ‘CRPS’) of Rs.10/- each of Matix Fertilizer and Chemicals
+Limited (Matix) in one or more tranches.
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+(v)
+The Respondent responded to the e-mail of the Appellant dated
+31.07.2015 on 26.08.2015 that the decision of Appellant in
+converting outstanding receivables from Matix to the Appellant
+towards work done under EPC contract into 8% Cumulative
+Redeemable Preference Shares of Matix has also been approved
+by the board in its meeting dated 14.08.2015 as well as in meeting
+of the shareholders. Matix in consequence allotted 25,00,00,000
+8% Cumulative Redeemable Preference Shares of Rs.10/- each to
+Appellant and Essar Projects in terms and conditions mentioned
+therein. The Cumulative Redeemable Preference Shares were
+renewable within three years.
+(vi)
+NCLT initiated CIRP against the Appellant by order dated
+20.04.2018. The Appellant issued a letter on 28.08.2018 to the
+Matix asking the Matix for redemption of CRPS including
+dividend, aggregating to Rs.310 Crore.
+(vii)
+Matix sent a reply dated 24.08.2018 informing that liability
+towards redemption of CRPS along with cumulative dividend,
+aggregating to Rs.310 Crores have been adjusted against the
+claim which Matix has against the Appellant. It was also informed
+that Matix has submitted a claim in the CIRP of Appellant of
+Rs.377.87 Crores, information of which was also sent on
+05.06.2018 for adjustment of total liability of CRPS against the
+aforesaid claim.
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+(viii) The Resolution Professional of the Appellant also wrote a letter on
+27.10.2018 to the Matix claiming total amount of debt of
+Rs.632.71 Crores which included amount of Rs.250 Crores
+towards investment in CRPS with dividend of Rs.60 Crores
+totaling to Rs.310 Crores.
+(ix)
+The Liquidator of the Corporate Debtor moved an application
+before the Adjudicating Authority seeking leave under Section 33
+of the I&B Code for taking proceeding for recovery of the debt of
+the Appellant. Consequently, an application under Section 7 was
+filed by the Liquidator of the Appellant on 25.04.2022 against the
+Matix claiming default amount of Rs.250 Crores + Rs.60 Crores
+totaling to Rs.310 Crores. Date of default was mentioned as
+August, 2018.
+(x)
+Notice was issued under Section 7 to the which reply was filed by
+the Matix. Matix contested the claim of the Appellant. Rejoinder
+and Sur-rejoinder were also filed before the Adjudicating
+Authority. The Adjudicating Authority heard both the parties and
+by the impugned order dated 26.07.2023 has rejected Section 7
+application.
+(xi)
+The Adjudicating Authority framed three issues for consideration,
+as noted in Para 14.2 of the order, which are as follows:
+“14.2. The issues that have cropped up for
+determination are as follows:
+(i) Whether a Preference Shareholder is a Creditor of a
+Company.
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+(ii) Whether an application under Section 7 of I&B Code
+filed by a Preference Shareholder is maintainable.
+(iii) Whether Cumulatively Redeemable Preference
+Shares ("CRPS" for brevity) was in the nature of an
+investment or a financial debt having commercial effect
+of borrowing.”
+(xii)
+The Adjudicating Authority after considering various facts and
+circumstances and precedent relied by the parties held that the
+Cumulative Redeemable Preference Shares are not payable,
+hence, no default is established. In Para 14.4 the Adjudicating
+Authority made following observations:
+“14.4. It is evident that ‘Preference Shares’ are not
+defined in the I&B Code. Therefore, one must then look
+into its definition and meaning assigned to preference
+shares under the Companies Act. Companies Act is a
+complete code enacted to consolidate and amend the
+law relating to companies and the legislature was
+conscious of this fact in drafting the I&B Code. It is
+accordingly that Section 3(37) of the I&B Code states
+that "words and expressions used but not defined in
+this Code but defined in the ...Companies Act, 2013(18
+of 2013) shall have the meanings respectively
+assigned to those Acts." Therefore, the definition and
+relevant provisions of the Companies Act must be
+looked into in order to determine whether a preference
+share is an instrument "having the commercial effect of
+borrowing" as contended by the Petitioner.”
+(xiii) The Adjudicating Authority further held that preferential share is
+not a financial debt unless the preferential shares becomes due
+for redemption. In Para 14.9 following was observed:
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+“14.9. Thus, Section 55 is explicit that if the issuing
+company is not making profits which are available for
+dividend or has not raised any equity investments
+specifically for the purpose of redemption of preference
+shares, then the preference shares cannot be
+redeemed. Thus, shareholders cannot receive any
+payment before the debt of the company is fully
+discharged, unless preference shareholders are paid
+out of dividend/ profits of the company and thus, the
+non-redemption of preference shares does not result in
+preference shareholders becoming creditors or the
+carrying value of preference shares and dividends
+becoming
+a
+debt.
+Therefore,
+a
+Preference
+Shareholder cannot step into the shoes of a
+creditor of the Company unless their Preference
+Shares become redeemable in above terms.”
+(xiv) The Adjudicating Authority came to the conclusion that no case
+of any debt due to the Appellant and no existence of default on
+part of Respondent has been made out, hence, Section 7
+application is not maintainable. In Para 15 of the order following
+was observed by the Adjudicating Authority:
+“15. Such being the factual and legal position, we are
+constrained to hold that no case of any "debt" due to
+the Applicant and no existence of "default" on the part
+of Respondent within the meaning ascribed to the
+terms "debt" and "default" in the Code, is made out. In
+the aforesaid backdrop, we hold that this Petition, filed
+under Section 7 of IBC, 2016, is not maintainable.”
+(xv)
+Application under Section 7 was thus rejected by order dated
+29.08.2023, aggrieved by which order this appeal has been filed.
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+3.
+We have heard Shri Niranjan Reddy, learned senior counsel for the
+Appellant and Shri Arun Kathpalia, learned senior counsel appearing for
+the Respondent.
+4.
+Shri Niranjan Reddy, learned senior counsel for the Appellant
+challenging the impugned order submits that the Cumulative Redeemable
+Preference Shares (CRPS) were allotted by the Respondent in lieu of the
+debt which was owed by the Respondent to the Appellant, which is an
+admitted fact. It is submitted that the Respondent has also admitted the
+debt of amount of Rs.310 Crores and claims its adjustment in the
+outstanding amount payable to the Respondent as per his case. It is
+submitted that the transaction under which the CRPS were allotted is a
+commercial transaction and the transaction is fully covered by Section 5
+Sub-section (8) Sub-clause (f). The transaction having commercial effect of
+borrowing is a financial debt and the Adjudicating Authority committed
+error in rejecting the application filed by the Appellant under Section 7. It
+is submitted that it was Respondent who requested the Appellant to convert
+the amount outstanding from Matix to Appellant as Subordinated Debt.
+Matix clearly communicated that Matix has raised equity and the same will
+be earmarked for paying of this subordinate debt of Appellant [EPCC]. It is
+submitted that the nature of transaction is basis for determining the nature
+of debt. The present is a case which clearly proves that there was financial
+debt in the transaction entered between the parties under which CRPS were
+allotted. The shares were Cumulative Redeemable Preference Shares which
+required to be paid with dividend of 8%. Time value of money was also
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+clearly proved and reflected in the transaction. Within the meaning of I&B
+Code, the transaction fully satisfies the commercial effect of borrowing,
+hence, it was a financial debt. Learned counsel for the Appellant referred
+to Section 91 of the Evidence Act, 1872 and Illustration 1. It is submitted
+that the Adjudicating Authority erred in not considering the letter dated
+24.08.2018 which in clear terms showed acknowledgment of debt by the
+Respondent. It is further submitted that in the Audited Financial
+Statement of 2016-17 of the Corporate Debtor it was shown as its liability.
+Learned counsel for the Appellant submits that Appellant has successfully
+proved that Respondent owed a financial debt. Appellant after three years
+of issuance of CRPS was entitled to redeem the same and Appellant having
+written to the Respondent to pay the redemption amount along with
+dividend, financial debt was owed by the Respondent and the Adjudicating
+Authority committed error in rejecting Section 7 application.
+5.
+Shri Arun Kathpalia, learned senior counsel appearing for the
+Respondent refuting the submissions of learned counsel for the Appellant
+submits that Cumulative Redeemable Preference Shares is a capital and is
+not a financial debt owed by the Corporate Debtor to the Appellant. It is
+submitted that the outstanding amount which was payable to the
+Appellant under the contract by the Corporate Debtor having been
+converted into CRPS the debt extinguished. After debt is converted into
+shares, debt or liability losses the character of debt. It is submitted that
+terms ‘preferential share’ and ‘investment’ have been defined under the
+Companies Act, 2013, hence, relevant provision of the Companies Act,
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+2013 have to be looked into to find the nature of debt and claim under the
+CRPS. It is submitted that the preferential shares can only be redeemed
+as per Section 55 of the Companies Act out of the profit of the Company
+which would otherwise be available for dividend or out of the proceeds of a
+fresh issue of shares made for the purposes of such redemption. It is
+submitted that the Company did not earned any profit in the relevant year
+so as to preferential shares could have been redeemed nor any amount was
+available towards fresh issue of shares for redeeming the preferential
+shares. No payment could have been made in the preferential shares as
+no amount was due nor any default could said have been committed. It is
+submitted that the Appellant has filed an application under Section 7 on
+the basis of 25 Crore CRPS which was foundation of Section 7 application.
+The nature of debt has to be found out from the transaction which
+culminated in 25 Crore CRPS. The CRPS is not a financial debt. The
+legislature is fully conversant of the law which it enacts. The legislature
+was well aware with the concept of preferential shares, debentures and in
+Section 5(8)(c) expression ‘debentures’ has been used but there is no
+mention of preferential shares. The legislature was fully aware that a
+preferential shareholder is not a financial creditor. It is submitted that
+written contract between the parties must be interpreted on its terms alone
+and any other evidence to interpret the same, must be excluded. There is
+no obligation to redeem preference shares when the company has not made
+any profit, and dividend has not been declared. I&B Code is a complete
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+code, hence, the financial debt has to be proved as per the provisions of the
+I&B Code.
+6.
+Learned counsel for the parties have also placed reliance on various
+judgments of this Tribunal and Hon’ble Supreme Court in support of their
+respective submissions which we will go through while considering the rival
+submissions.
+7.
+We have considered the submissions of learned counsel for the
+parties and perused the record. Before we proceed to enter into the
+respective submissions of learned counsel for the parties, it is necessary to
+notice the transaction between the parties which is basis of filing of Section
+7 application by the Appellant. Appellant in the appeal has brought on
+record relevant correspondence between the parties with respect to
+allotment of Cumulative Redeemable Preference Shares. Appellant has
+brought on record as Annexure A-5, the copy of resolution passed by the
+Directors of Essar Projects dated 30.07.2015 where consent was given by
+the Board to make investment upto Rs.400 Crores into 8% Cumulative
+Redeemable Preference Shares of Rs. 10/- each of Matix Fertilizer and
+Chemicals Limited. It is useful to extract Annexure A-5, which is as follows:
+“Essar
+Projects
+(India)
+Limited
+Equinox Business Park
+Tower 2
+Off Bandra Kuria Complex
+L. B. S. Marg, Kurla (W)
+Mumbai 400 070
+India
+Corporate Identity Number
+U99999MH1989PLC063280
+T +91 22 6733 5000
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+F +91 22 6706 2194
+www.essarprojects.com
+www.essar.com
+
+CERTIFIED EXTRACT OF
+THE RESOLUTION PASSED
+UNANIMOUSLY
+AT
+THE
+MEETING OF THE BOARD
+OF DIRECTORS OF ESSAR
+PROJECTS (INDIA) LIMITED
+HELD ON JULY 30, 2015
+AT
+THE
+REGISTERED
+OFFICE OF THE COMPANY
+AT ESSAR HOUSE, 11 K. K.
+MARG,
+MAHALAXMI,
+MUMBAI- 400 034.
+--------------------------------------------
+INVESTMENT
+INCUMULATIVE
+REDEEMABLE
+PREFERENCE SHARES OF MATIX FERTILIZER
+AND CHEMICALS LIMITED.
+
+"RESOLVED THAT subject to such statutory approvals
+as may be required, if any and pursuant to the
+provisions of Section 179, 186 and any other
+applicable provisions, if any, of the Companies Act.
+2013 read with rules made thereunder and subject
+such consents and approvals, if any, as may be
+required, the consent of the Board of Directors of the
+Company be and is hereby accorded to make
+investment upto Rs. 400 Crores into 8% Cumulative
+Redeemable Preference Shares of Rs. 10/- each of
+Matix Fertilizer and Chemicals Limited (Matix) in one or
+more tranches.
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+RESOLVED FURTHER THAT either of the followings
+namely 1) Mr, A V. Amarnath 2) Mr. Chander
+Krishnamoorlhy 3) Mr. Vasant Savla 3) Mr. D. V Prasad
+4) Mr Raghupati Mishra 5) Ms. Yogita Purohit
+(hereinafter referred to as "the Authorised Executives”)
+be and are hereby severally authorised to take all
+decisions and steps in respect of the above investment
+as may deem appropriate, and to do and perform all
+such acts, deeds, matters and things, as may be
+necessary or expedient in this regard and to exercise
+all the rights and powers which would vest in the
+Company in pursuance of such investment.
+RESOLVED FURTHER THAT a copy of the foregoing
+resolution duly certified by any Director or Company
+Secretary be forwarded as may be required.”
+For Essar Projects (India) Limited
+
+Yogita Purohit
+Company Secretary
+ACS 29624”
+8.
+The above resolution dated 30.07.2015 was communicated to Matix
+and Matix after receipt of email dated 31.07.2015 has communicated
+approval of the Board of Matix as well as Shareholders for allotment of 25
+Crore 8% CRPS of Rs.10 each. Copy of letter dated 20.08.2025 has been
+brought on record as Annexure A-6, which is as follows:
+“Matix Fertilisers And Chemicals
+Ltd.
+CIN : U24120WB2009PLC153272
+Poonam Chambers
+B-Wing, 5th Floor
+Dr. Annie Besant Road
+Worli, Mumbai - 400 010
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+India.
+T +91 22 61167000
+F +91 22 61167011
+info@matixgroup.com
+
+26th August, 2015
+
+To
+
+The Company Secretary
+Essar Projects India Limited
+Mumbai
+
+Sub.- Allotment of 25,00,00,000 8% Cumulative
+Redeemable Preference Shares of Rs.10/- each
+aggregating to Rs. 250,00,00,000 to Essar
+Projects
+India
+Limited
+(EPIL)
+against
+the
+outstanding receivables under EPC Contract
+
+Dear Madam
+
+We refer to your e- mail dated July 31, 2015 wherein
+Essar Projects India Limited Board has approved and
+accepted for conversion of outstanding receivables
+from Matix Fertilisers And Chemicals Limited (Matix) to
+EPIL towards work done under EPC Contract into 8%
+Cumulative Redeemable preference Shares (CRPS) of
+Matix The same was also approved by the Board of
+Matix in its Board Meeting held on 14th August, 2015
+and thereafter, by the Shareholders of Matix in its
+Extra Ordinary General Meeting held on 26!t1 August,
+2015.
+Pursuant to the approval of shareholders Matix Board
+in its meeting held on 26th August, 2015 Matix has
+allotted 25,00,00,000 8% Cumulative Redeemable
+Preference Shares of Rs.10/-each aggregating to
+Rs.250,00,00,000 to Essar Projects India Limited on
+the following terms and conditions:
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+Sr.
+Particulars
+Amount Rs.
+1
+Total Value of CRPS Rs. 250 Crs (Rs. Two Hundred Fifty
+Crores)
+2
+Face value
+Rs. 10 per share
+3
+Issue Price
+At par (face value)
+4
+Tranches
+Can be issued in one or more tranches
+5
+Tenor
+and
+Redemption
+Redeemable at par at the end of 3 years.
+However,
+Company
+at
+its
+sole
+discretion, may redeem CRPS at any
+time within 3 years from the date of
+issue.
+6
+Annual
+Dividend
+rate (Cumulative)
+8% in first year
+8% in second year
+8% in third year
+7
+Transferability
+Can be transferred subject to the
+approval of Board of the Company
+8
+Listing
+Not to be listed
+9
+Rights
+These CRPS carry a preferential right
+with respect to—
+a) payment of dividend, and
+b) repayment, in the case of a winding
+up or repayment of capital, of the
+amount of the share capital paid-up
+or deemed to have been paid-up
+10
+Modification
+of
+terms
+Can be modified before redemption with
+mutual discussions and written consent
+of both the parties.
+We request your confirmation by signing as EPILs
+acceptance to proceed with documentation and other
+necessary compliances
+
+Thanking you
+
+Accepted by
+
+For Matix Fertrilisers And
+For Essar Projects
+Chemicals Limited
+India Limited
+
+Company Secretary.
+
+Company Secretary”
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+9.
+Thus, the resolution of the Appellant, as noticed above, as well as
+the letter dated 26.08.2015 captures the transaction between the parties
+which indicate that the Matix has allotted 25 Crore 8% CRPS of Rs.10/-
+each to the Appellant. A letter was sent on 20.08.2018 on behalf of the
+EPC Constructions India Ltd. informing the Respondent to take steps to
+redeem the CRPS aggregating to Rs.310 Crores on 25.08.2018 on which
+date it is becoming due. Letter on which Appellant has relied is letter of
+the Matix dated 24.08.2018 where reply was given to the letter dated
+20.08.2018 sent on behalf of the Appellant. It is useful to notice letter
+dated 24.08.2018 written by Matix to the Appellant, which is as follows:
+“Matix Fertilisers And Chemicals
+Ltd.
+CIN : U24120WB2009PLC153272
+Poonam Chambers
+B-Wing, 5th Floor
+Dr. Annie Besant Road
+Worli, Mumbai - 400 010
+India.
+T +91 22 61167000
+F +91 22 61167011
+info@matixgroup.com
+
+Date:-24th August, 2018
+
+To
+
+EPC Construction India Limited,
+1st Floor, Tower 2,
+Equinox Business Park,
+LBS Marg, Kurla (West),
+Mumbai-400070.
+
+Kind attn.:- Mr. Manoj Agarwala, (Chief
+Financial Officer)
+
+Ref:-
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+1. Matix Company submitted its Claim dt.
+10th May, 2018 & email dated 25th May,
+2018;
+2. Letter dt. 5th June, 2018 for adjustment
+amount of Issued 8% Cumulative Redeemable
+Preference
+Shares
+(CRPS)
+by
+Company
+against the claim raised in favour of EPC
+Construction India Limited ("EPC"|.
+3. Your letter dt. 20th August, 2018
+(acknowledged on 21st August, 2018 at
+around 5.20pm).
+
+We note that your Financial Creditor(s) has appointed
+Insolvency
+Resolution
+Professional,
+Mr.
+Abhijit
+Guhathakurta
+in
+your
+Company,
+which
+is
+subsequently approved as Insolvency Professional
+("IP") by the competitive authority and, in pursuant to
+your public announcement published on dated 27
+April, 2018 under regulation 6 of IBBI (Insolvency
+Resolution Process for Corporate Persons) Regulation,
+2016; the Company has submitted Its poof of claim for
+recovery of dues from EPC Construction India Limited
+in prescribed Form B, under Regulation 7 of the
+Insolvency and Bankruptcy Board of India (Insolvency
+Resolution Process for Corporate Persons) Regulations,
+2016 of Rs. 377.87 Crores (excluding claim on account
+of Performance LD (Provisional Future Claim) of Rs.
+160.00 Crores).
+
+Subsequently, Company informed to your IP vide letter
+dt. 5th June, 2018 for adjustment of total liability of
+CRPS amounting to Rs. 310.00 Crores (principal plus
+accumulated dividend) against of aforesaid raised and
+submitted claim. The copy of the letter is attached for
+your ready reference and records as annexure-A. It's a
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+deemed approval by your IP, and Company's liability
+towards redemption of CRPS along with cumulative
+dividend at the rate of 8% p.a. for three years,
+aggregating of Rs. 310.00 Crores, is considered as
+adjusted against of our filed claim of Rs. 377.87 Crores
+(excluding claim on account of Performance LD
+(Provisional Future Claim) of Rs. 160.00 Crores), and
+we shall appreciate for payment of balance amount of
+our claim after adjusting the amount of aforesaid CRPS
+at the earliest.
+
+Hence, payment of CRPS amount aggregating to Rs.
+310.00 Crores will be Rs. NIL as on 25th August, 2018
+(the date of redemption of CRPS).
+
+Thanking you.
+
+Your sincerely,
+FOR MATIX FERTRILISERS AND CHEMICALS LIMITED
+
+AUTHORISED SIGNATORY
+
+Encl.:- The copy of the letter date 5th June, 2018 as
+Annexure-A.
+
+CC:- Mr. Abhijit Guhathakurta
+Regn. No.: IBBI/IPA-003/IP-N000103/2017-2018/111S8
+Insolvency Professional of EPC Constructions India Limited
+Deloitte Touche Tohmatsu India LLP
+Indiabulls Finance Centre, Tower 3,
+27th Floor, Senapati Bapat Marg,
+Elphinestone Road (West),
+Mumbai – 400 013.”
+10.
+The demand was issued by the Resolution Professional from the
+Matix on 25.08.2018 of Rs.632.7 Crore which also include 310 Crores
+towards CRPS and it was thereafter Section 7 application was filed. Part
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+IV of the Section 7 application gives the particulars of financial debt. It is
+useful to notice Part IV of the application, which is as follows:
+“PART-IV
+PARTICULARS OF FINANCIAL DEBT
+1 TOTAL
+AMOUNT
+OF
+DEBT GRANTED
+
+DATE(S)
+OF
+DISBURSEMENT
+INR 250,00,00,000/-
+(Rupees two hundred fifty crores)
+
+Term-sheet dated 26.08.2015
+2 AMOUNT CLAIMED TO
+BE IN DEFAULT AND
+
+THE DATE ON WHICH
+THE
+OCCURRED
+DEFAULT
+
+(ATTACH
+WORKINGS
+COMPUTATION
+THE
+FOR OF AMOUNT AND
+DAYS OF DEFAULT IN
+TABULAR FORM)
+Total Amount:
+INR 310,00,00,000/-
+(Rupees three-hundred and ten crores)
+
+26.08.2018
+Date On Which The Default Occurred:
+The date of default has been taken as
+26.08.2018 i.e. the date from which the
+Corporate Debtor defaulted in the payment
+of
+redemption
+amount
+of
+Redeemable
+Cumulative Preference Shares. The amount
+of INR 250 crore out of the total receivables
+of INR 450 crore (approx.) as on March/April
+2015, was infused as a sub-debt into the
+capital of the corporate debtor and in lieu of
+such infusion, 25 crore CRPS, carrying
+cumulative dividend of 8% every year, was
+issued, which was payable at par after three
+years. The amount of INR 310 crores is
+outstanding as on date and has been
+acknowledged as payable debt/liability in
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+the audited balance sheets of the Corporate
+Debtor upto Financial Year 2020-21 (which
+are a part of the annual general report).
+11.
+Section 2(37) of the I&B Code provides that words and expressions
+used but not defined in the Code but defined in other statutes including
+Companies Act, 2013 shall have meaning respectively assigned to them in
+those acts. Certain provisions of the Companies Act, 2013 which are
+relevant to find out the nature of the preferential shares allotted to the
+Appellant needs to be noticed. The Companies Act defines ‘shares’ as well
+as ‘debentures’ in Section 2(84) and 2(30) of the Companies Act, which are
+as follows:
+“(84) “share” means a share in the share capital
+of a company and includes stock;”
+“(30) “debenture” includes debenture stock,
+bonds or any other instrument of a company
+evidencing a debt, whether constituting a charge on the
+assets of the company or not:
+2 [Provided that—
+(a) the instruments referred to in Chapter III-D of
+the Reserve Bank of India Act, 1934 (2 of 1934); and
+(b) such other instrument, as may be prescribed
+by the Central Government in consultation with the
+Reserve Bank of India, issued by a company,
+shall not be treated as debenture;]”
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+12.
+Section 43 of the Companies Act deals with ‘Kinds of Share Capital’.
+Share Capital are equity share capital or preference share capital. Section
+43 of the Companies Act is as follows:
+“43. Kinds of share capital.—The share capital
+of a company limited by shares shall be of two kinds,
+namely:—
+(a) equity share capital—
+(i) with voting rights; or
+(ii) with differential rights as to dividend,
+voting or otherwise in accordance with such
+rules as may be prescribed; and
+(b) preference share capital:
+Provided that nothing contained in this Act shall
+affect the rights of the preference share holders who
+are entitled to participate in the proceeds of winding up
+before the commencement of this Act.
+Explanation.—For the purposes of this section,—
+(i) “equity share capital”, with reference to
+any company limited by shares, means all share
+capital which is not preference share capital;
+(ii) “preference share capital”, with reference
+to any company limited by shares, means that
+part of the issued share capital of the company
+which carries or would carry a preferential right
+with respect to—
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+(a) payment of dividend, either as a
+fixed amount or an amount calculated at a
+fixed rate, which may either be free of or
+subject to income-tax; and
+(b) repayment, in the case of a winding
+up or repayment of capital, of the amount of
+the share capital paid-up or deemed to have
+been paid-up, whether or not, there is a
+preferential right to the payment of any fixed
+premium or premium on any fixed scale,
+specified in the memorandum or articles of
+the company;
+(iii) capital shall be deemed to be preference
+capital, notwithstanding that it is entitled to either
+or both of the following rights, namely:—
+(a) that in respect of dividends, in
+addition to the preferential rights to the
+amounts specified in sub-clause (a) of clause
+(ii), it has a right to participate, whether fully
+or to a limited extent, with capital not entitled
+to the preferential right aforesaid;
+(b) that in respect of capital, in addition
+to the preferential right to the repayment, on
+a winding up, of the amounts specified in
+sub-clause (b) of clause (ii), it has a right to
+participate, whether fully or to a limited
+extent, with capital not entitled to that
+preferential right in any surplus which may
+remain after the entire capital has been
+repaid.”
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+13.
+Section 55 on which reliance has been placed by learned counsel for
+the Respondent deals with ‘Issue and Redemption of Preferential Shares’.
+Following has been provided in Section 55 Sub-section (2):
+“(2) A company limited by shares may, if so
+authorised by its articles, issue preference shares
+which are liable to be redeemed within a period not
+exceeding twenty years from the date of their issue
+subject to such conditions as may be prescribed:
+Provided that a company may issue preference
+shares for a period exceeding twenty years for
+infrastructure projects, subject to the redemption of
+such percentage of shares as may be prescribed on an
+annual basis at the option of such preferential
+shareholders:
+Provided further that—
+(a) no such shares shall be redeemed except
+out of the profits of the company which would
+otherwise be available for dividend or out of the
+proceeds of a fresh issue of shares made for the
+purposes of such redemption;
+(b) no such shares shall be redeemed unless
+they are fully paid;
+(c) where such shares are proposed to be
+redeemed out of the profits of the company, there
+shall, out of such profits, be transferred, a sum
+equal to the nominal amount of the shares to be
+redeemed, to a reserve, to be called the Capital
+Redemption Reserve Account, and the provisions
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+of this Act relating to reduction of share capital of
+a company shall, except as provided in this
+section, apply as if the Capital Redemption
+Reserve Account were paid-up share capital of the
+company; and
+(d) (i) in case of such class of companies, as
+may be prescribed and whose financial statement
+comply with the accounting standards prescribed
+for such class of companies under section 133, the
+premium, if any, payable on redemption shall be
+provided for out of the profits of the company,
+before the shares are redeemed:
+Provided also that premium, if any, payable
+on redemption of any preference shares issued on
+or before the commencement of this Act by any
+such company shall be provided for out of the
+profits of the company or out of the company’s
+securities premium account, before such shares
+are redeemed.
+(ii) in a case not falling under sub-clause (i)
+above,
+the
+premium,
+if
+any,
+payable
+on
+redemption shall be provided for out of the profits
+of the company or out of the company’s securities
+premium account, before such shares are
+redeemed.”
+14.
+The proviso to the Section 55 provides that no such shares shall be
+redeemed except out of the profits of the company which would otherwise
+be available for dividend or out of the proceeds of a fresh issue of shares
+made for the purposes of such redemption.
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+15.
+The present is a case where Respondent’s consistent case is that after
+allotment of CRPS to the Appellant, Respondent Company never declared
+dividend or earned profit to redeem the preferential shares. If the
+preferential shares allotted to the Appellant could not have been redeemed,
+no debt became due. The finding of the Adjudicating Authority is that the
+preferential shares being not redeemable, the company having not earned
+profit nor there were any proceeds of fresh issue of shares made for the
+purpose of such redemption. We, thus, fully concur with the finding of the
+Adjudicating Authority that there was no existence of default on the part of
+the Respondent so as to admit Section 7 application.
+16.
+Much emphasis has been laid by learned counsel for the Appellant
+that the preferential shares were allotted in lieu of amount outstanding
+which was to be converted as subordinated debt as was requested by Matix
+itself. The correspondence between the parties which ultimately resulted
+in approval of resolution by the Board of Directors of the Appellant on
+30.07.2015 and allotment of shares by letter dated 26.08.2015 are
+evidence of contract between the parties for allotment of 25,00,00,000 8%
+Cumulative Redeemable Preference Shares of Rs.10/- each aggregating to
+Rs.250,00,00,000. Thus, it is the transaction, nature of which shall
+determine as to whether the Appellant is a Financial Creditor. When
+preferential shares were allotted to the Appellant, the shares were towards
+the capital of the Company and the earlier outstanding amount, which
+according to the Appellant was foundation of issuance of preferential
+shares, shall come to an end. Learned counsel for the Respondent has
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+relied on judgment of Hon’ble Delhi High Court in “Commissioner of
+Income Tax–V vs. Rathi Graphics Technologies Limited, 2015 SCC
+Online Del 14470”. The Delhi High Court in Para 15 made following
+observations:
+“15. When pursuant to a settlement the creditor
+agrees to convert a portion of interest into shares, it
+must be treated as an extinguishment of liability to pay
+interest to that extent. In essence there will be no
+further
+outstanding
+interest
+to
+that
+extent.
+Consequently, the situation where an interest payable
+on a loan is converted into shares in the name of the
+lender/creditor
+is
+different
+from
+the
+situation
+envisaged in Explanation 3C to section 43B of the Act,
+viz., conversion of interest into “a loan or borrowing”.
+In the latter instance, the liability continues, although
+in a different form. However, where the interest or a
+part thereof is converted into equity shares, the said
+interest amount for which the conversion is taking
+place is no longer a liability.”
+17.
+Another judgment relied by learned counsel for the Respondent is
+judgment of this Tribunal in “Rita Kapur vs. Invest Care Real Estate
+LLP, 2020 SCC Online NCLAT 627”. In the above case, an amended
+agreement was entered where investment was certified as capital
+contribution. In the above case, the Adjudicating Authority rejected
+Section 7 application. This Tribunal affirming the above judgment made
+following observations in Para 10:
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+“10. From the above provisions of law, it is
+latently & patently clear that once the ‘Debt’ is
+converted into “Capital” it cannot be termed as
+‘Financial Debt’ and the Appellant cannot be
+described as ‘Financial Creditor’.”
+18.
+Learned counsel for the Respondent has also relied the judgment of
+Hon’ble Supreme Court in “Radha Exports vs. KP Jayaram, (2020) 10
+SCC 538”. In the above case, shares were allotted on request made by the
+Respondent No.2 and Appellant has allotted shares. The Hon’ble Supreme
+Court in the above case in Para 42 while dealing with Section 5(8) of the
+I&B Code held following:
+“42. The definition of "financial debt" in Section
+5(8) makes it clear that "financial debt" means a debt
+along with interest, if any, disbursed against the
+consideration for time value of money and would
+include money raised or borrowed against the
+payment of interest; amount raised by acceptance
+under
+any
+acceptance
+credit
+facility
+or
+its
+dematerialised equivalent; amount raised pursuant to
+any note purchase facility or the issue of bonds, notes,
+debentures, loan stock or any similar instrument; the
+amount of any liability in respect of any lease or hire
+purchase contract which is deemed as a finance or
+capital lease under the Indian accounting standards or
+such
+other
+accounting
+standards
+as
+may
+be
+prescribed; receivables sold or discounted other than
+any receivables sold on non-recourse basis or any
+amount raised under any other transaction. including
+any forward sale or purchase agreement, having the
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+commercial effect of a borrowing. Explanation to
+Section 5(8) which relates to real estate projects is of
+no relevance in the facts and circumstances of this
+case. The payment received for shares, duly issued to
+a third party at the request of the payee as evident
+from official records, cannot be a debt, not to speak of
+financial debt. Shares of a company are transferable
+subject to restrictions, if any, in its Articles of
+Association and attract dividend when the company
+makes profits.”
+19.
+Learned counsel for the Respondent has also relied on judgment of
+the Bombay High Court in “Aditya Prakash Entertainment Pvt. Ltd. vs.
+Magikwand Media Pvt. Ltd., 2018 SCC Online Bom 551”. In the said
+case also Petitioner was a shareholder holding preferential redeemable
+preference shares. Application by the Petitioner was filed for winding up of
+the Company, in which case the Bombay High Court held that holder of
+preferential shares does not assume character of creditor. In Para 9 of the
+judgment following was laid down:
+“9. In this case, there is no dispute to the fact that
+petitioner was a shareholder holding preferential
+redeemable preference shares. The only question that
+requires to be considered is whether petitioner would
+be a creditor of the company. Sub-section 1 of Section
+80 says, subject to the provisions of this section, a
+company limited by shares may, if so authorised by its
+articles, issue preference shares which are, or at the
+option of the company are to be liable, to be redeemed.
+Proviso, however, states that no such shares shall be
+redeemed except out of profits of the company which
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+would otherwise be available for dividend or out of the
+proceeds of a fresh issue of shares made for the
+purposes of the redemption. This aspect, in my view,
+shows that where redeemable preference shares are
+issued but not honoured when they are ripe for
+redemption, the holder of those shares does not
+automatically assume the character of a “creditor”. The
+reason is that his shares can be redeemed only out of
+the profits of the company which would otherwise be
+available for dividend, or by afresh issue of shares.
+This is a limitation which is not applicable to any other
+creditor of the company. The shareholders of
+redeemable preference shares of the company do not
+become creditors of the company in case their shares
+are not redeemed by the company at the appropriate
+time. They continue to be shareholders, no doubt
+subject to certain preferential rights mentioned in
+Section 85 of the Companies Act, 1956. If they do not
+become the creditors of the company, they cannot
+apply for winding up of the company under Section
+433(e) of the Companies Act, 1956.
+20.
+Similar view has also been taken by the Andhra Pradesh High Court
+in “Lalchand Surana and others vs. M/s Hyderabad Vanaspathy Ltd.,
+1988 SCC OnLine AP 290” as well as by Bombay High Court in “State
+Bank of India v/s Alstom Power Boilers Ltd. & Ors, 2003 SCC OnLine
+Bom 321”. Other judgment relied by the Respondent in this context has
+already been noticed by the Adjudicating Authority which needs no
+repetition.
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+21.
+Learned counsel for the Appellant referring to the entries in the
+balance sheet of the Corporate Debtor submits that the balance sheet
+reflects the financial liabilities. Learned counsel for the Respondent
+refuting the above submission contends that the fact that under Indian
+Accountancy System the entry of balance sheet has to be made as per
+accounting standard is not determinative of true nature of the transaction.
+Learned counsel for the Respondent submits that in the financial
+statement of Matix for FY 2015-16, the CRPS are shown as part of share
+capital in the audited balance statement of Matix and in the same year, it
+is also shown as investment in Financial Statement of the EPCC. Due to
+change of accounting standards in the FY 2016-17, from GAAP to Ind AS,
+the CRPS were required to be shown as a form of financial liability from FY
+2016-17 onwards. Following of accounting standard is only for the purpose
+of accounting perspective and it does not change or determine the nature
+of liability, which has to be determined on the basis of the transaction
+entered between the parties.
+22.
+Learned counsel for the Respondent has referred to the financial
+statement of the Matix as on 31.03.2017. In the ‘Notes to Financial
+Statements for the year ended 31 March 2017, Note (b) provides as follows:
+“b. Redeemable preference shares
+Under previous GAAP, the redeemable preference
+shares were classified as equity. Under Ind AS 109,
+these preference shares have been classified as a
+financial liability. The effect of this change is decrease
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+in equity and increase in borrowings as at 31 March
+2016 of Rs.2,50,00,00,000.
+Further dividend provided on the same for the year
+ended 31 March 2016. The effect of this change is
+increase in CWIP (Finance cost) and other financial
+liabilities as at 31 March 2016 of Rs.14,37,70,104.”
+23.
+Learned counsel for the Respondent has placed reliance on judgment
+of Hon’ble Supreme Court in “Union of India vs. Assn. of Unified
+Telecom Service Providers of India, (2020) 3 SCC 525” where noticing
+the accounting standard AS-9 following was observed in Para 65 and 76:
+“65.
+As per Clause 20.4, a licensee must make
+quarterly payment in the prescribed format as
+Annexure II showing the computation of revenue and
+licence fee payable. The format is part of the licence
+and is independent of accounting standards and is in
+tune with the definition of gross revenue, and is the
+basis for the calculation of licence fee. It is only for
+uniformity that the account has to be maintained as
+per accounting standards AS-9 which are prescribed
+from time to time. Once the licensee provides the details
+to the Government in format Annexure II along with
+accounts certified by the auditor, the reconciliation has
+to take place. The accounting standard AS-9 is relevant
+only for whether the figure given by the licensee as to
+gross revenue is maintained in proper manner once
+gross revenue is ascertained, then after certain
+deductions, adjusted gross revenue has to be worked
+out. The accounting standard provided in AS-9 cannot
+override the definition of gross revenue, which is the
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+total revenue for licence and the finding in Union of
+India v. Assn. of Unified Telecom Service Providers of
+India in this regard is final. binding and operative. The
+accounting standard AS-9 makes it clear that same is
+in the form of guidelines, it is not comprehensive and
+does not supersede the practice of accounting. It only
+lays down a system in which accounts have to be
+maintained. Accounting standards make it clear that it
+does not provide for a straitjacket formula for
+accounting but merely provides for guidelines to
+maintain the account books in systematic manner.”
+“76.
+The definition of gross revenue is crystal clear in
+the agreement. How the adjusted gross revenue to be
+arrived at is also evident. It cannot be submitted that
+the revenue has not been defined in the contract. Once
+the gross revenue is defined, one cannot depart from it
+and the very meaning is to be given to the revenue for
+the agreement. Overall revenue, has to be taken into
+account for determination of licence fees without set
+off, as provided in the agreement. The same was
+defined to simplify it to rule out the litigation, disputes
+and accounting myriads. The submission raised that
+the term revenue has to be interpreted as the
+consideration payable in keeping with commercial and
+financial parlance is what is intended to be avoided.
+Raising of such submission is a futile attempt that has
+been made to wriggle out of the definition of gross
+revenue, which has been held to be binding in the
+previous judgment in Union of India v. Assn. of Unified
+Telecom Service Providers of India. The submission
+that the contract recognises the applicability of
+accounting standards, in our opinion, it is only to
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+maintain books of accounts. To a certain extent, it
+cannot be disputed that to have clarity, uniformity and
+definitiveness; the accounting standards lay down
+guidelines with respect to financial terms. However,
+when the financial terms in the agreement are clear in
+the form of definition of gross revenue governed by
+Clause 19.1 of the agreement, the definition of
+Accounting Standard 9 cannot supersede it which is a
+general one.”
+24.
+We may notice the judgment of Hon’ble Supreme Court in “Global
+Credit Capital Ltd. & Anr. vs. Sach Marketing Pvt. Ltd. & Anr., Civil
+Appeal No.1143 of 2022, decided on 25.04.2024” where Hon’ble
+Supreme Court held that for determining the nature of debt, the real nature
+of transaction has to be looked into. Where in Para 14 of the judgment
+observed, “Therefore, it is necessary to determine the real nature of the
+transaction on a plain reading of the agreements”.
+25.
+Learned counsel for the Appellant has relied on judgment of the
+Hon’ble Supreme Court in “Roop Kumar vs. Mohan Thedani, (2003) 6
+SCC 595” in support of his submission that Section 91 of the Evidence Act
+declare doctrine of substantive law in the case of a written contract, that
+all proceedings and contemporaneous oral expressions of the thing are
+merged in the writing or displaced by it. In Para 13 of the judgment
+regulating principles of Section 91 of the Evidence Act, the Hon’ble
+Supreme Court has laid down following:
+“13. Section 91 relates to evidence of terms of contract,
+grants and other disposition of properties reduced to
+
+[PAGE 33]
+-33-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+form of document. This section merely forbids proving
+the contents of a writing otherwise than by writing
+itself; it is covered by the ordinary rule of law of
+evidence, applicable not merely to solemn writings of
+the sort named but to others known sometimes as the
+"best-evidence rule". It is in reality declaring a doctrine
+of the substantive law, namely, in the case of a written
+contract, that all proceedings and contemporaneous
+oral expressions of the thing are merged in the writing
+or displaced by it. (See Thayer's Preliminary Law on
+Evidence, p. 397 and p. 398; Phipson's Evidence, 7th
+Edn., p. 546; Wigmore's Evidence, p. 2406.) It has been
+best described by Wigmore stating that the rule is in no
+sense a rule of evidence but a rule of substantive law.
+It does not exclude certain data because they are for
+one or another reason untrustworthy or undesirable
+means of evidencing some fact to be proved. It does not
+concern a probative mental process - the process of
+believing one fact on the faith of another. What the rule
+does is to declare that certain kinds of facts are legally
+ineffective in the substantive law; and this of course
+(like any other ruling of substantive law) results in
+forbidding the fact to be proved at all. But this
+prohibition of proving it is merely that dramatic aspect
+of the process of applying the rule of substantive law.
+When a thing is not to be proved at all the rule of
+prohibition does not become a rule of evidence merely
+because it comes into play when the counsel offers to
+"prove" it or "give evidence" of it; otherwise, any rule of
+law whatever might be reduced to a rule of evidence. It
+would become the legitimate progeny of the law of
+evidence. For the purpose of specific varieties of jural
+
+[PAGE 34]
+-34-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+effects – sale, contract etc. there are specific
+requirements varying according to the subject. On the
+contrary there are also certain fundamental elements
+common to all and capable of being generalised. Every
+jural act may have the following four elements:
+(a) the enaction or creation of the act;
+(b) its integration or embodiment in a single
+memorial when desired;
+(c) its solemnization or fulfilment of the prescribed
+forms, if any; and
+(d) the interpretation or application of the act to the
+external objects affected by it.”
+26.
+The present is a case where both the parties are relying on written
+correspondence including the letter dated 26.08.2015 by which 25 Crore
+CRPS were allotted to the Appellant. The Hon’ble Supreme Court with
+regard to Section 91 held “this section merely forbids proving the contents
+of a writing otherwise than by writing itself”. Section 91, thus, itself does
+prevent to look into any other material except written letter brought by the
+Appellant itself to know the nature of the transaction. When the CRPS
+have been allotted in favour of the Appellant, submission of the Appellant
+has to flow from the said shares and it is precluded to lead any other
+evidence or material to show or reflect on the nature of transaction.
+27.
+Learned counsel for the Appellant relied on judgment of this Tribunal
+in “Sanjay D. Kakade vs. HDFC Ventures Trustee Company Ltd. and
+Ors., Company Appeal (AT) (Insol.) No.481 of 2023.”, where this
+
+[PAGE 35]
+-35-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+Tribunal had occasion to consider Share Subscription and Shareholders
+Agreement between the Promoters and IL&FS Trust Company Ltd., the
+Financial Creditor. Section 7 application was filed by the Financial
+Creditor which application was admitted by the Adjudicating Authority.
+Challenging the said order, the Suspended Director had filed the appeal. It
+is submitted by learned counsel for the Appellant that in the said case the
+investment
+made
+through
+Share
+Subscription
+and
+Shareholders
+Agreement was treated to be financial debt. Learned counsel for the
+Respondent submits that judgment of this Tribunal in Sanjay D. Kakade
+is clearly distinguishable since in the said case question involved was not
+of preferential shares. Sanjay D. Kakade was not a case of preferential
+shares simpliciter as in the present case. The Share Subscription and
+Shareholders Agreement which was entered contained various rights
+including guarantees and indemnities which took it into the realm of a
+financial debt within the meaning of Section 5(8) of the I&B Code. Several
+relevant conditions in the Share Subscription and Shareholders Agreement
+in Sanjay D. Kakade’s Case were noticed by this Tribunal in Para 11,12
+and 13, which are as follows:
+“11. The transaction between the parties and the
+sequence of events are not in dispute. Investment was
+made in the Corporate Debtor by means of Share
+subscription and Shareholders Agreement, between
+the Financial Creditor, Promoters of the Corporate
+Debtor and the Corporate Debtor - Kakade Estate
+Developer Private Limited. The Company has been
+engaged in construction of commercial/ residential
+
+[PAGE 36]
+-36-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+buildings/ setting up of residential township project on
+the land in village Bhugaon, District Pune. The Share
+Subscription and Shareholders Agreement dated
+14.05.2008 was entered into by the Financial Creditor
+and the Company, where Financial Creditor agreed to
+subscribe shares in accordance with the terms and
+conditions of the Original Agreement. An Amended
+and Restated Share Subscription and Shareholders
+Agreement (“Amended Agreement”) was entered
+between the Promoters, Financial Creditor, Company
+and the Corporate Debtor on 14.05.2008. The
+Financial Creditor, by virtue of Clause 2 of the
+Agreement, agreed to pay a sum of Rs.72,86,65,720/.
+For shares, under Clause 14, there was certain
+encumbrance to sell or transfer the shares. The
+Financial Creditor had pre-emption right in their favour
+in event of any of the Promoters of the Corporate Debtor
+desires to transfer his shares. Clause-16 of the
+Agreement provided for ‘Exit Mechanism’ to the
+Investors. Put Option was also contained in Clause
+16.4. As per Clause-16.4, Promoters were under
+unconditional obligation to buy shares on an as if
+converted basis at the Fair Market Value as
+determined under Clause 19.9. Clause 16.4, is as
+follows:
+“16.4 Put Option
+(a)
+In the event the Promoters and the
+Company are unable to provide an exit to
+the IL&FS Investors and/ or the HIREF
+Investors and/ or their Affiliates before
+March 31, 2015 in any manner as
+specified in Clauses 16.1 to 16.2 above,
+without prejudice to any other rights or
+remedies available to the IL&FS Investors
+and/or the BIREF Investors, the IL&FS
+
+[PAGE 37]
+-37-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+Investors and/or the HIREF Investors
+shall have the option to require the
+Promoters to buy their Shares and the
+Promoters
+shall
+be
+under
+an
+unconditional obligation to buy such
+Shares on an as if converted basis at the
+Fair Market Value as determined under
+clause 19.9 below. For this purpose the
+IL&FS
+Investors
+and/or
+the
+HIREF
+Investors and/or their Affiliates shall
+serve to the Promoters as put option notice
+(“Put Option Notice”), and the Promoters
+shall be obliged to perform their respective
+obligation as aforesaid, within 60 days
+from the date of receipt of the Put Option
+Notice.
+(b)
+If the Promoters fail to comply with their
+obligations to buy Shares held by the
+IL&FS
+Investors
+and/or
+the
+HIREF
+Investors and/or their Affiliates, then
+each of the IL&FS Investors and/or the
+HIREF
+Investors
+shall
+forthwith
+(i)
+takeover the control and the management
+of the Company and may consider partial
+sale of division or assets of the Company
+and may consider partial sale of division
+or assets of the Company to recover the
+IL&FS Investors Capital Investment and
+HIREF Investors Capital Investment at the
+Fair Market Value under this Agreement,
+and (ii) have lien over the Shares held by
+the Promoters and their Affiliates. The
+Promoters hereby irrevocably and by way
+of security for its obligation contemplated
+herein appoints one nominee Director of
+the IL&FS Investors and one nominee
+Director of the HIREF Investors as their
+constituted attorney to execute and
+deliver any documentation and do any act
+or thing required in connection with
+creation of lien on the Shares held by the
+Promoters.”
+
+12.
+Clause-17 dealt with ‘Events of Default’ and
+Clause-18 ‘Consequences of Event of Default’. Clause-
+19 provided for ‘Consequences of Termination of this
+
+[PAGE 38]
+-38-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+Agreement Vis-à-vis IL&FS Investors’. Paragraph 19.1
+(a) and 19.6(a), which are relevant are as follows:
+“19.1 Upon the exercise by the IL&FS Investors,
+of their right to terminate this Agreement
+pursuant Clause 18, the Non-defaulting
+Shareholders shall, without prejudice to
+any other rights they may have under this
+Agreement or otherwise, have the right, at
+their sole discretion to either:
+(a) Require the Defaulting Shareholders
+Group to purchase from the Non-
+defaulting Shareholders all the Shares
+held
+by
+the
+Non-defaulting
+Shareholders at a price that provides
+the Non-defaulting Shareholders an
+Internal rate of return of 15% per
+annum compounded annually, or the
+Fair Market Value,
+whichever is
+higher, subject to applicable laws.
+Provided if the Non-defaulting HIREF
+Shareholders have also exercised their
+right
+under
+Clause
+19.6(a),
+the
+Defaulting Shareholders Group shall
+purchase all the Shares held by the
+Non-defaulting Shareholders and Non-
+defaulting HIREF Shareholders; and
+***
+
+***
+
+***
+19.6 The Non-defaulting HIREF Shareholders
+shall, without prejudice to any other rights
+they may have under this Agreement or
+otherwise, have the right, at their sole
+discretion to either:
+(a)
+require the Defaulting Shareholders
+Group to purchase from the Non-
+defaulting HIREF Shareholders all
+the Shares held by the Non-
+defaulting HIREF Shareholders at a
+price
+that
+provides
+the
+Non-
+defaulting HIREF Shareholders an
+Internal Rate of Return of 15% per
+annum compounded annually, or
+the Fair Market Value, whichever is
+higher, subject applicable laws.
+Provided
+if
+the
+Non-defaulting
+Shareholders have also exercised
+their similar right under Clause
+
+[PAGE 39]
+-39-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+19.1(a),
+the
+Defaulting
+Shareholders Group shall purchase
+either all the Shares held by the
+Non-defaulting
+HIREF
+Shareholders
+and
+the
+Non-
+defaulting Shareholders; and”
+
+13.
+Clause-21 provided for ‘Indemnity’, which was
+given by the Company and the Promoters to indemnify
+the IL&FS Investors and the HIREF Investors. The
+Agreement contained other details of terms and
+conditions.”
+28.
+Present is a case where CRPS were allotted to the Appellant, there is
+no Share Subscription and Shareholders Agreement entered between the
+parties nor CRPS is hedged by any such condition which may lead to
+accepting the transaction as financial debt. We, thus, are of the view that
+judgment of this Tribunal in Sanjay D. Kakade is clearly distinguishable
+and has not applicability in the facts of the present case.
+29.
+In view of the above discussion and conclusions, we are of the view
+that the Appellant who is holder CRPS is holder of shares which is in the
+nature of equity in capital, which is part of preferential share capital as
+defined in Section 43. Preferential shares being part of the preferential
+share capital of the Company shall not transfer any debt so as to initiate
+any Section 7 proceeding. Further, the Company having not earned any
+profit nor any dividend having been declared, no redemption was
+permissible by the statutory provision, hence, no debt was due on basis of
+which Section 7 application could be filed by the Appellant. There is also
+no material that any proceeds of a fresh issue of shares made for the
+
+[PAGE 40]
+-40-
+
+Company Appeal (AT) (Insolvency) No. 1424 of 2023
+
+purpose of such redemption was available. We, thus, fully endorse the
+finding of the Adjudicating Authority that there did not exist any default.
+We, thus, do not find any merit in this appeal. Appeal is dismissed.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+NEW DELHI
+
+09th April, 2025
+
+Archana

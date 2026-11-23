@@ -1,0 +1,1242 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1083 of 2024
+
+[Arising out of the Impugned Order dated 08.04.2024 passed by the
+National Company Law Tribunal, Mumbai Bench in C.P.(IB)/7(MB)/2024]
+In the matter of:
+
+Metamorphosis Trading LLP
+4th Floor, Paville house, twin Tower Lane,
+Off Veer Savarkar Marg, Prabhadevi
+Mumbai-400025
+... Appellant
+
+Versus
+
+Kumar Motors Private Limited
+Gat No. 316, at Kasar-Amboli,
+Post Ambedwet,
+Pune, Maharashtra-412111
+... Respondent
+Present:
+
+For Appellant
+: Mr. Shikhil Suri, Sr. Advocate with Ms. Aastha Mehta,
+Ms. Prerana Mohapatra, Ms. Wamika Chadha, Ms.
+Sakshi Arora, Advocates.
+
+For Respondents
+: Mr. Mrinal Harsh Vardhan, Ms. Rituparna Patra & Mr.
+Pradhumn Rao, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+[Per: Ajai Das Mehrotra, Member (Technical)]
+
+The present appeal is filed by the Appellant assailing the impugned order
+dated 08.04.2024 passed by the National Company law Tribunal, Mumbai Bench
+in CP(IB)/7(MB)/2024 wherein the petition under Section 7 of the Insolvency
+and Bankruptcy Code, 2016 (hereinafter referred to as the ‘IBC, 2016’) against
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 2 of 28
+
+Kumar Motors Private Limited (hereinafter referred to as the ‘Corporate
+Debtor’/‘Respondent’), was dismissed.
+2.
+The brief facts of this case are as under:
+i.
+The Corporate Debtor is a Private Limited company incorporated on
+10.02.2004 having registered office in Pune. The company has authorised share
+capital of Rs. 20.20 crores. The Corporate Debtor is involved in the business of
+manufacturing, hiring, assembling, dealing, trading, etc. of automobiles, motor
+vehicles, water ski jets, etc.
+ii.
+A Subscription and Shareholders Agreement (in short ‘SSA’) was entered
+on 06.09.2021 between Innoventive Industries Limited (identified as “Investor”),
+Mr. Rajeev Kumar Nair and Ms. Jyothi Rajeev Nair and Ms. Vijaya Nair and Ms.
+Renu Nair and Shreyas Constructions Private Limited (identified as “Promoters”)
+and Kumar Motors Private Limited (identified as “Company”) in the said
+agreement.
+iii.
+Between 08.09.2011 and 09.05.2012 Innoventive Industries Ltd. paid a
+sum of Rs. 8,70,03,374/- to the Corporate Debtor out of which Rs. 1 crore was
+taken back on 11.01.2012, though immediately, within 12 days, it was again
+made available to the Corporate Debtor.
+iv.
+On 04.03.2013, Innoventive Industries Ltd. wrote letter to the Corporate
+Debtor that it has not carried out its obligations under the SSA.
+v.
+On 21.03.2013, a reminder notice was sent by Innoventive Industries Ltd.
+to the Corporate Debtor seeking repayment of the entire amount with 24%
+interest within 7 days mentioning the amount as “inter-corporate loan”.
+vi.
+On 20.06.2013, Innoventive Industries Ltd. filed Company Petition No.
+468 of 2013 before the Hon’ble High Court of Bombay under Section 450 of the
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 3 of 28
+
+Companies Act, 1956 for winding up of the Corporate Debtor (Kumar Motors)
+and for appointment of the official liquidator to take over the assets of the
+Corporate Debtor. The said petition was admitted vide order dated 04.08.2015
+and the liquidation of the Corporate Debtor was initiated.
+vii.
+In another proceedings liquidation of Innoventive Industries Ltd. (the
+Investor) was ordered on 08.12.2017 and Mr. Dhinal Shah was appointed as its
+liquidator.
+viii.
+Subsequently, on 21.07.2021, the Appellant emerged as a successful
+bidder and entered into a deed of assignment with Mr. Dhinal Shah, liquidator,
+whereby the assets of Innoventive Industries Ltd. were transferred in favour of
+the Appellant. The Appellant stepped into the shoes of the Innoventive Industries
+Ltd. and by way of assignment deed dated 21.07.2017, all the rights vested in
+the Innoventive Industries Ltd. and all the assets along with right to initiate
+action have been vested in the Appellant. Though the Appellant is not a party to
+the SSA, by virtue of being successful bidder and assignee of the assignment
+deed, it has stepped into the shoes of the Innoventive Industries Ltd., the
+“investor” as per SSA and has acquired the right to recover the amount of Rs.
+8.70 crores approximately due from the Corporate Debtor.
+ix.
+The Appellant then filed IA No. 3648/2022 on 28.09.2021 before the
+Hon’ble High Court of Bombay seeking transfer of CP No. 468/2013 filed by
+Innoventive Industries Ltd. for winding up of Corporate Debtor, in accordance
+with provisions contained in Section 431(1)(c) of the Companies Act, 2013.
+x.
+The CP No. 468/2013 was transferred to NCLT vide order dated
+27.07.2022. The Appellant, being granted liberty by the Hon’ble High Court to
+transfer CP NO. 468/2013 to NCLT, filed transfer petition (IB) 01/2013 on
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 4 of 28
+
+06.06.2023. This transfer petition was disposed of vide order dated 11.09.2023
+by Ld. NCLT with liberty to financial creditor/appellant to file a fresh petition
+under Section 7 of the IBC, 2016.
+xi.
+The fresh petition under Section 7 of the IBC, 2016 was filed and was
+numbered as CP(IB)/7(MB)/2024 seeking Corporate Insolvency Resolution
+Process (hereinafter referred to as the ‘CIRP’) against the Corporate Debtor. In
+the petition under Section 7, it has been submitted that there is a debt of Rs.
+8,70,03,275/-, and the date of default is 21.07.2021. The said petition under
+Section 7 of the IBC, 2016 has been dismissed by the impugned order dated
+08.04.2024.
+xii.
+While dismissing the petition under Section 7 of the IBC, 2016, the Ld.
+NCLT has held as under:
+“23.
+Heard learned Counsel for both the parties and perused
+the documents placed on record.
+24.
+We note that the Petitioner had paid a sum of Rs. 6
+Crores in terms of SSA, which required the petitioner to arrange
+credit facility for the Corporate Debtor of an equivalent amount
+and in case of failure to arrange such facilities the Petitioner was
+itself liable to pay this amount till such time the credit facilities
+were arranged. It is not in dispute that the credit facilities could
+not be arranged for the Corporate Debtor till the time the original
+investor, that is Innoventive Industries Ltd. was admitted into
+CIRP. This debt was acquired by the Applicant from the liquidator
+of the original investor.
+25.
+Clause 4A.5 of the SSA provides that “Promoters agree
+to convert Warrants into Warrant Shares as envisaged in this
+Agreement subject to fulfillment of obligations specified in Clause
+4A (1) & (2) by the Investor.”
+26.
+Clause 4 (A) 1 of the SSA reads as follows: “The Investor
+will arrange required debt of Rs. 600,00,000/- (Rupees Six Crores
+only) for the company for the financial year 2011-12 in the
+following manner;
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 5 of 28
+
+“(a) The investor will arrange for Cash Credit Account or
+Letter of Credit or Purchase Bill Discounting limit(s) or
+equivalent amount of credit to the Company which will take
+care of the Company’s stocks.
+(b) In the event, Investor is unable to arrange debt of Rs.
+600,00,000/- (Rupees Six Crores only) to the company by
+the end of September 2011, the Investor will make the
+payment of said Rs. 600,00,000/- (Rupees Six Crores only)
+directly to the Company till the time funds have been
+arranged in above sub-clause (a).”
+27.
+It is not in dispute that the then investor i.e. Innoventive
+Industries Ltd. failed to comply with the obligations in Clause 4A.1
+and 4A.2 of SSA, which imply that conversion in terms of shares
+and warrants in accordance with clause 4A.5 of the SSA could not
+be claimed by the original investor.
+28.
+On a careful reading of clause 4.A.5, clause 2.1 of SSA
+and recital A of the SSA we find that the original investor was
+roped in as an equity investor and accordingly was called investor
+in the agreement. Recital A of SSA reads as “the Investor has, for
+consideration and on terms and conditions detailed herein, agreed
+to subscribe to the investor shares and in the investor warrants”
+and the agreement nowhere casts any obligation on Corporate
+debtor to refund the amount paid in terms of clause 4A.1 & 4A.2
+or repay towards the warrants acquired on conversion
+contemplating clause 4A.5. In the absence of any obligation of the
+Corporate Debtor, a default cannot be said to exist because the
+default in terms of Section 3 (12) means “non-payment of debt
+when whole or any part or instalment of the amount of debt has
+become due and payable and is not [paid] by the debtor or the
+Corporate Debtor, as the case may be”. Accordingly, we are of the
+considered view that the present application is not maintainable
+in the absence of default.
+29.
+Nonetheless, it is trite in law that the amount given as
+an advance towards the Share Application money is not a
+Financial Debt and consequently no Petition u/s 7 is admissible
+for the same. Accordingly, the present petition is not admissible
+since upon perusal of the SSA, it is clearly evident that the amount
+paid by the Financial Creditor is against the subscription of
+investor’s shares and warrants.
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 6 of 28
+
+30.
+The Petition bearing CP (IB) 7/(MB) 2024 filed by
+Metamorphosis Trading LLP [LLPIN: AAX-2069], the Financial
+Creditor, under section 7 of the IBC read with rule 6(1) of the
+Insolvency & Bankruptcy (Application to Adjudicating Authority)
+Rules, 2016 for initiating Corporate Insolvency Resolution Process
+(CIRP)
+against
+Kumar
+Motors
+Private
+Limited
+[CIN:
+U34102PN2004PTC018890], the Corporate Debtor, is disposed of
+as dismissed.”
+Being aggrieved by the dismissal of petition under Section 7, the Appellant
+has filed the present appeal.
+3.
+In its oral and written submissions, the Ld. Sr. Counsel for the Appellant
+has argued as under:
+i.
+The NCLT erred in dismissing the Section 7 petition by erroneously
+concluding that no financial debt exists.
+ii.
+The amounts advanced under Subscription and Shareholders Agreement
+(in short ‘SSA’) dated 06.09.2011 clearly demonstrate the ‘commercial effect of
+a borrowing’ and hence is a “financial debt” under Section 5(8)(f) of the IBC,
+2016.
+iii.
+The Ld. Sr. Counsel referred to clause 4A.1 and clause 4A.2 of the SSA
+which reads as under:
+“4A. RIGHTS & DUTIES OF THE INVESTOR
+4A.1
+The Investor will arrange required debt of Rs.
+600,00,000/- (Rupees Six Crores only) for the Company for the
+financial year 2011-12 in the following manner:
+a)
+The Investor will arrange for Cash Credit Account or
+Letter of Credit or Purchase Bill Discounting limit(s) or
+equivalent amount of credit to the Company which will take
+care of the Company's stocks.
+b)
+In the event, Investor is unable to arrange debt of Rs.
+600,00,000/-(Rupees Six Crores only) to the Company by the
+end of September 2011, Investor will make the payment of
+said Rs. 600,00,000/- (Rupees Six Crores only) directly to the
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 7 of 28
+
+Company till the time funds have been arranged as stated in
+above sub-clause (a).
+4A.2
+The Investor would help the Company in raising a sum
+of Rs. 700,00,000/-(Rupees Seven Crores only) from banks,
+financial institutions or any other person for the purpose of its
+CAPEX Plan. CAPEX Plan means funds required broadly for Paint
+Shop, Conveyors Tools & Fixtures to enable the Company in
+achieving the Business Plan of 1000 vehicles per month.”
+
+iv.
+It is argued that the Appellant has helped the company raise funds for its
+CAPEX plan. The transaction under the SSA had “commercial effect of
+borrowing” and is covered under Section 5(8)(f) of the IBC, 2016.
+v.
+The sum of Rs. 8.70 crores was paid between 08.09.2011 to 09.05.2012
+and Innoventive Industries Ltd., the predecessor of the Appellant, had through
+notice dated 21.03.2013 explicitly demanded repayment of entire amount with
+24% interest.
+vi.
+Section 5(8) (f) is a “catch all” and “residuary” provision which includes as
+“financial debt” any transaction having the “commercial effect of borrowing” even
+though it is not a conventional loan.
+vii.
+The Appellant submitted that it is to be determined if the advanced
+amount of 8.70 crores under the SSA constitutes a “financial debt”, particularly
+considering that the non-allotment of shares within 60 days, as per Section 42(6)
+of the Companies Act, 2013, transforms such money into a loan, a position
+further supported by the exit clause 18.12 of the SSA, which provided investor
+an exit option within 60 months. The amount is shown in “borrowings” in the
+balance sheet.
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 8 of 28
+
+viii.
+It is argued that since no shares were allotted, amount advanced
+metamorphosed into “financial debt” in light of Section 42(6) of the Companies
+Act, 2013.
+ix.
+The Ld. Sr. Counsel for the Appellant submitted that courts in the cases
+of Global Credit Capital Ltd. & Anr. v. Sach Marketing Pvt. Ltd. & Anr. reported in
+(2024) 9 SCC 482 and in the case of Sanjay D. Kakade v. HDFC Ventures Trustee
+Company Ltd. & Ors. in Company Appeal (AT) (Ins.) No. 481 of 2023 have held
+that character of transaction has to be seen, including, intent and conduct of
+the parties.
+x.
+A perusal of the agreement of SSA will show that the intent was to
+participate in the business of Respondent. Clause 8.1 of SSA deals with
+constitution of board of directors and clause 9.1 states that the company shall
+obtain prior consent of majority warrant holder, without which the company
+shall not be able to take any such action on the “fundamental issues”. The
+“fundamental issues” are defined in clause 9.3 and largely relate to conduct of
+the business, including, corporate governance. The projected fund flow given at
+page 90 to 92 of the Appeal Paper Book (APB) was drawn from June 2011 to
+February 2015 thereby showing the intent of the Appellant to finance and guide
+the business. Similarly, clause 5 of the SSA, protects the business by specifying
+that promoters will ensure that the directors or KMP (key managerial persons)
+do not indulge in activities which compete with business of the company.
+Similarly, in clause 6 of the SSA, restriction on transfer of shares of the
+promoters and in clause 6.4 the pre-emptive rights protect the ownership of the
+company.
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 9 of 28
+
+xi.
+It is argued that a closer examination of the SSA will show that it was not
+a simplicitor Share Subscription Agreement but an agreement to finance and
+assist the business of the Corporate Debtor.
+4.
+The Ld. Counsel for the Respondent in its oral and written submissions
+argued as under:
+i.
+The Appellant does not qualify as a “financial creditor” under the SSA. The
+amount paid by Innoventive Industries Ltd. were towards equity participation
+and subscription of shares and thereafter, payment of warrant subscription
+price. The SSA did not contain any stipulation for repayment of the invested
+amount, payment of interest, or assured returns.
+ii.
+There is history of this case wherein the Appellant had filed application
+before the Hon’ble High Court seeking winding up of the Respondent in which
+the Hon’ble High Court passed order on 27.07.2022, directing the transfer of
+pending winding up proceedings to NCLT, Mumbai Bench. While allowing the
+transfer petition, Hon’ble Bombay High Court recalled its order of admission
+dated 04.08.2015 and order of winding up dated 08.02.2019 and revoked the
+winding up proceedings. The Ld. NCLT vide order dated 11.09.2023 disposed of
+proceedings of winding up petition as not maintainable while granting Appellant
+liberty to file a fresh petition under Section 7 of the IBC, 2016. The said petition
+under Section 7 was dismissed vide the impugned order.
+iii.
+The said petition under Section 7 has barred by limitation as the date of
+default is 09.04.2013, when the statutory notice under Section 433 of the
+Companies Act, 1956 was issued. It is argued the proceedings before the Hon’ble
+High Court of Bombay will not extend the period of limitation.
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 10 of 28
+
+iv.
+The Appellant is the assignee of Innoventive Industries Ltd. Innoventive
+Industries Ltd. itself was not a financial creditor and the assignee cannot get a
+better right.
+v.
+The reading of relevant provisions of SSA dated 06.09.2011, especially
+clauses 1.1, 2.1(b), 2.2, 3, 4A, 6 & 6.1, 8, 10, 12, 15 and 18.2 clearly indicate
+that Innoventive Industries Ltd. was engaged in the capacity of an “investor”
+subscribing to shares and warrants of the Respondent company and there was
+no contemplation of repayment.
+vi.
+The transaction governed by the SSA contained no stipulation for
+repayment, interest, maturity or assured returns and lacks any element of time
+value of money.
+vii.
+A holistic reading of the SSA makes it clear that Innoventive Industries
+Ltd. assumed the risks of equity investor and not the position of a creditor. The
+amount advanced towards subscription of shares and equity warrants does not
+transform into “financial debt”.
+viii.
+In the summary jurisdiction under Section 7 of the IBC, 2016, jurisdiction
+is confined primafacie to determination of “debt” and “default”. No further
+enquiry into contractual dispute is warranted. Since there was no repayment
+obligation, there was no debt and since there was no obligation for repayment,
+there was no default.
+ix.
+The alleged breach(es) of contract under the SSA, at best, give rise to civil
+and arbitral remedies. The arbitration proceedings regarding the said
+transactions are already going on.
+x.
+The allegation of the Appellant that debt is shown as “long term borrowing”
+in the balance sheet is incorrect. The audited financial statement shows that
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 11 of 28
+
+share capital of the company had increased from Rs. 5.50 crores to Rs. 14.20
+crores in financial year 2012-13 corresponding to the amount received from the
+Appellant.
+xi.
+The breach of SSA was committed by Innoventive Industries Ltd. with
+reference to its contractual obligations under clauses 4A.1 and 4A.2 of the SSA,
+including violation to adhere to the stipulated subscription time line.
+xii.
+In the arbitration proceedings relating to the said transaction, the
+Respondent have not only contested the claims but also had filed substantial
+counter claims to the tune of Rs. 26 crores on account of losses caused by
+breaches by Innoventive Industries Ltd. In the cross-examination in the
+arbitration proceedings, the Appellant had admitted that the sole object of
+amount given to the Respondent was to secure 51% of the shareholding of the
+Respondent company.
+5.
+Heard. Perused the records.
+6.
+Under the provisions of Section 7 of IBC, 2016, the CIRP against the
+Corporate Debtor can be initiated by “financial creditor” either by itself or jointly
+with other financial creditors by filing an application before the Adjudicating
+Authority (NCLT) when a default has occurred.
+6.1
+Section 5(7) defines “financial creditor” means any person to whom a
+financial debt is owed and includes a person to whom such debt has been legally
+assigned or transferred to.
+6.2
+The term “financial debt” is defines in Section 5(8), which is as under:
+“5. Definitions
+..................
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 12 of 28
+
+(8) “financial debt” means a debt alongwith interest, if any, which
+is disbursed against the consideration for the time value of money
+and includes—
+(a) money borrowed against the payment of interest;
+(b) any amount raised by acceptance under any acceptance credit
+facility or its de-materialised equivalent;
+(c) any amount raised pursuant to any note purchase facility or the
+issue of bonds, notes, debentures, loan stock or any similar
+instrument;
+(d) the amount of any liability in respect of any lease or hire
+purchase contract which is deemed as a finance or capital lease
+under the Indian Accounting Standards or such other accounting
+standards as may be prescribed;
+(e) receivables sold or discounted other than any receivables sold
+on non-recourse basis;
+(f) any amount raised under any other transaction, including any
+forward sale or purchase agreement, having the commercial effect
+of a borrowing.”
+6.3
+It is the case of the Appellant that the impugned transaction is covered by
+the terms “any other transaction” “having the commercial effect of a borrowing”.
+6.4
+The admitted facts in this case are that Innoventive Industries Ltd. had
+paid an amount of Rs. 8.7 crores to the Corporate Debtor under Subscription
+and Shareholders Agreement (in short ‘SSA’) in the period from 08.09.2011 to
+09.05.2012. Through the liquidation of Innoventive Industries Ltd., its debts and
+assets have been assigned to the Appellant-Metamorphosis Trading LLP on
+21.07.2021. Being the assignee of the debts and assets, the Appellant stepped
+into the shoes of the Innoventive Industries Ltd.
+6.5
+The issue to be decided in this case is whether the amount received by the
+Respondent-Corporate Debtor under the SSA dated 06.09.2011 constitutes
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 13 of 28
+
+“financial debt” within the meaning of Section 5(8), specifically under clause (f)
+of the said section. For proper understanding of this issue, one has to refer to
+SSA. The relevant portions of the SSA are extracted as under:
+“This Subscription and Shareholders Agreement Made At Pune This
+6th Day of September, 2011 by and between:
+Innoventive Industries Limited, referred to as The “Investor”
+
+AND
+Mr. Rajeev Kumar Nair, referred to as “Promoter 1”
+
+AND
+Ms. Jyoti Rajeev Nair, referred to as “Promoter 2”
+
+AND
+Ms. Vijaya Nair, referred to as “Promoter 3”
+
+AND
+Ms. Renu Nair, hereinafter referred to as “Promoter 4”
+
+AND
+Shreyas Constructions Private Limited, hereinafter referred to as
+“Promoter 4”
+
+AND
+Kumar Motors Private Limited, referred to as “Company”
+
+(Promoter 1 to Promoter 5 are collectively referred to as the
+“Promoters”)
+WHEREAS:
+A.
+The Investor has, for consideration and on terms and conditions
+detailed herein, agreed to subscribe to the Investor Shares and the
+Investor Warrants.
+.............
+C.
+Parties hereto have agreed that their respective rights and
+obligations with regard to the business relationship between them
+infer se will be interpreted, acted upon and governed solely in
+accordance with the terms and conditions of this Agreement and the
+Memorandum and Articles of Association of the Company, which are
+being modified to conform to this Agreement.
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 14 of 28
+
+1.
+DEFINITIONS & INTERPRETATIONS
+1.1. In this Agreement, except to the extent that the context otherwise
+requires, the following words and expressions shall have the
+following meanings:
+......
+"Fundamental Issues" means the matters set out in Clause 9.3 which
+relate to the Company;
+"Investor" means Innoventive Industries Limited.
+"Investor Shares" mean the Shares to be allotted in favour of the
+Investor by the Company in accordance with Clause 2.1(a) of this
+Agreement;
+"Investor Share Subscription Amount" shall mean a sum of Rs. 100/-
+towards issue & allotment of 10 Equity Shares by the Company;
+"Investor Subscription Amount" means the aggregate of the Investor
+Share Subscription Amount and the Warrant Subscription Amount;
+"Majority Warrant holder" means at any point of time, a Person
+holding at least 66.67% of the number of Warrants (whether held in
+the form of Warrants, or in case of conversion and issue of Warrant
+Shares as per the terms hereof, including the Warrants represented
+by the Warrant Shares);
+................
+"Shareholding Pattern" means the percentage of Shareholding (%)
+held by the Shareholders of Kumar Motors Private Limited which is
+as follows:
+
+Sr.No.
+Name Of
+Shareholders
+Percentage of
+Shareholdings
+(%)
+1.
+Rajeev Kumar Nair
+26
+2.
+Vijaya Nair
+7
+3.
+Jyothi Nair
+28
+4.
+Renu Nair
+6
+5.
+Shreyas Construction Pvt.
+Ltd.
+33
+
+TOTAL
+100
+................
+"Warrant(s)" means warrants of face value of Rs. 800,000/- (Rupees
+Eight Lacs only) to be issued by the Company to the Investor in
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 15 of 28
+
+accordance with this Agreement, each such warrant being
+convertible into Shares subject to adjustment at the time of actual
+conversion for (i) any bonus issue of Shares; or (ii) consolidation or
+sub- division of Shares (including share split); or (iii) issue of Shares
+on rights basis or (iv) any other dilution or consolidation events that
+may have occurred prior to such conversion;
+
+"Warrantholder" in relation to a Warrant at any point of time,
+means the owner of such Warrant;
+
+"Warrant Exercise Price" means a sum of Rs. 800,00,000/-
+(Rupees Eight Hundred Lacs only) payable by the Investor to the
+Company;
+
+"Warrant Shares" means the Shares issued to the Warrant holder
+upon conversion in the manner provided in this Agreement;
+
+"Warrant Shareholder" means the holder of the Warrant Shares;
+
+"Warrant Subscription Price" means a price of Rs. 1000/- per
+Warrant.
+...................
+2. SUBSCRIPTION TO SHARES AND WARRANTS
+2.1. Upon the terms and conditions of this Agreement, in exchange
+for good and valuable consideration, the receipt and sufficiency of
+which is hereby acknowledged, and in consideration of the mutual
+rights and obligations of the Parties:
+(a)
+The Investor agrees to subscribe to, and the Company agrees
+to issue, allot and deliver to the Investor, free and clear of all
+Encumbrances, 10 (Ten) Investor Shares at a price of Rs. 10/- per
+Investor Share aggregating to Rs. 100/- (Rupees One Hundred only)
+("the Investor Share Subscription Amount"). The Investor Shares
+shall be fully paid up, rank pari passu with, and be identical in all
+respects to the Shares.
+(b)
+The Investor agrees to subscribe to, and the Company agrees
+to issue, allot and deliver to the Investor, free and clear of all
+Encumbrances, 100 (One hundred) Warrants to the Investor. The
+Warrant Subscription Price in respect of all the Warrants (the
+"Warrant Subscription Amount") shall be payable upfront at the time
+of allotment of the Warrants. Upon payment of the Warrant Exercise
+Price, each Warrant shall confer upon the Warrant holder the right
+to subscribe to such number of Shares as set out in this Agreement.
+(c)
+The Warrant Subscription Price per Warrant paid upon
+allotment of the Warrants shall be adjusted against the Warrants
+Exercise Price payable at the time of conversion of the Warrants.
+2.2 All Parties acknowledge that the subscription by the Investor of
+the Investor Shares and the Warrants is based on the integral
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 16 of 28
+
+condition that the Investor Subscription Amount and the Warrant
+Exercise Price received upon conversion of the Warrants shall be
+utilized exclusively for the purpose of the Business of the Company.
+2.3 Conversion of Warrants
+Any time between March 31, 2012 to March 31, 2015, any
+Warrantholder may choose to convert all or any of the Warrants in
+his possession by giving 7 (seven) days prior written notice to the
+Company ("Warrant Exercise Notice") specifying therein (i) the date
+on which the Warrantholder intends to exercise the Warrants
+("Warrant Exercise Date") and; (ii) the number of Warrants proposed
+to be exercised ("Exercise Warrants");
+2.4. On the Warrant Exercise Date, all (but not only some) of the
+following shall take place:
+(a)
+The Warrantholder shall pay the Warrant Exercise Price (as
+reduced by the Warrant Subscription Price) for each Exercise
+Warrant to the Company in such manner as Majority Warrantholder
+may decide;
+(b)
+the Promoters shall cause a meeting of the Board or its duly
+authorized committee to be held and allot the Warrant Shares arising
+upon conversion of the Warrants specified in the Warrant Exercise
+Notice in favour of the Warrantholder in accordance with this
+Agreement, issue certificates in respect of such Warrant Shares and
+shall make the necessary entries in its register of members for the
+allotment of such Shares in favour of the Investor or, as the case may
+be, the Warrantholder;
+........
+2.5. Warrant Shares
+In the event, Warrantholder opts to convert all 100 Warrants into
+Shares, Promoters and the Company expressly agree in writing to
+issue & allot such number of Warrant Shares which would entitle
+Warrantholder to hold not less than 51% of total paid-up equity
+share capital of the Company, on a fully diluted basis, at the time of
+such conversion.
+(a)
+In the event, Warrantholder opts to convert some of the
+Warrants into Shares, Promoters and the Company expressly agree
+in writing to issue & allot proportionate number of Warrant Shares
+for e.g. if 50 Warrants are being converted, number of Warrant
+Shares which would entitle Warrantholder to hold not less than
+25.5% of total paid-up equity share capital of the Company would be
+issued, on a fully diluted basis, at the time of such conversion.
+2.6. The Promoters shall ensure that on or before September 30,
+2011 the Company's authorized share capital is such that the
+conversion of the Warrants in the manner envisaged under this
+Agreement is permissible.
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 17 of 28
+
+3.
+CLOSING
+3.1 Closing shall take place simultaneously at any place and time
+as may be mutually agreed upon by the Parties immediately upon
+the satisfaction by the Company or waiver in writing by the Investor,
+in its sole discretion, of the conditions set forth in Clause 4 herein.
+3.2. At Closing, all (but not only some) of the following shall take
+place:
+(a). The Investor shall subscribe to the Investor Shares and the
+Warrants and shall pay the Investor Subscription Amount to the
+Company in a manner Majority Warrantholder may decide;
+(b). The Board shall issue and allot to the Investor, duly stamped
+share certificates and warrant certificates in respect of the Investor
+Shares and the Warrants respectively;
+(C). The Company and the Promoters shall ensure that the
+Company hold a meeting of the Board or its duly authorized
+committee for passing the following resolutions (certified copies of
+which resolutions shall be in Agreed Form and shall be delivered to
+the Investor):
+i.
+The issue and allotment of the Investor Shares and the
+Warrants tothe Investor;
+ii.
+Convening an extraordinary general meeting of the Company
+for considering the resolutions set out in Sub-clause (d) below.
+(d) . The Company shall hold an extraordinary general meeting at
+which the following resolutions shall be passed in the Agreed Form:
+i.
+Adopting the Memorandum of Association and the Articles of
+Association in the Agreed Form, in order to reflect the relevant
+provisions of this Agreement;
+(e) All requisite forms and returns including, without limitation, the
+return of allotment to be filed in respect of the allotment of the
+Investor Shares and the Warrants shall be prepared and signed on
+behalf of the Company and filed with the appropriate authorities;
+(f). All corporate, secretarial and statutory filings and entries in
+statutory registers required to be done for the Closing shall be
+carried out to the satisfaction of the Investor.
+4. CONDITIONS PRECEDENT
+..............
+4.7. The Company shall have completed the conversion of the Shares
+into dematerialized form.
+..............
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 18 of 28
+
+4.9. Increasing Company's authorized share capital so that the
+conversion of the Warrants in the manner envisaged under this
+Agreement is permissible.
+4A. RIGHTS & DUTIES OF THE INVESTOR
+4A.1 The Investor will arrange required debt of Rs. 600,00,000/-
+(Rupees Six Crores only) for the Company for the financial year
+2011-12 in the following manner:
+a)
+The Investor will arrange for Cash Credit Account or
+Letter of Credit or Purchase Bill Discounting limit(s) or equivalent
+amount of credit to the Company which will take care of the
+Company's stocks.
+b)
+In the event, Investor is unable to arrange debt of Rs.
+600,00,000/-(Rupees Six Crores only) to the Company by the
+end of September 2011, Investor will make the payment of said
+Rs. 600,00,000/- (Rupees Six Crores only) directly to the
+Company till the time funds have been arranged as stated in
+above sub-clause (a).
+...................
+4A.6 ............................. in Schedule 1 which forms an integral
+part of this
+Agreement. Any failure on the part of Company and/or Promoters to
+achieve
+performance as per Business Plan would empower the Majority
+Warrantholder to
+revise Warrant Exercise Price in such manner as he may deem fit &
+appropriate.
+5.
+NON-COMPETE AGREEMENT
+5.1 The Promoters shall undertake that they will not initiate any
+new activities or expansions related to the Company's existing or
+proposed future line of business through any vehicle, including other
+companies/affiliates where promoters have an interest, direct or
+indirect. Such initiatives if undertaken it shall be only under the
+Company or 100% subsidiary of the Company.
+................
+5.3 Promoters will ensure that any Director or Key Managerial
+Person of the Company is not indulged in any activity which results
+in competing with the business of the Company either directly or
+indirectly.
+6. SHARE AND WARRANT TRANSFER PROVISIONS
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 19 of 28
+
+For the purpose of this Clause 6, unless specified otherwise, the term
+"Promoter Shares" shall mean and include any Shares held by the
+Promoters or any of their Affiliates in the Company.
+Transfer restrictions - General
+6.1. 100% of shares held in the Company by the Promoters cannot
+be transferred to any third party either directly or indirectly, in any
+manner whatsoever, and shall stand locked in from the date of issue
+and allotment thereof. However with the prior written Consent,
+Promoters may transfer such number of Equity Shares as approved
+by the Investor subject to fulfillment of such terms & conditions as
+Investor may deem fit & appropriate.
+Pre-emptive Rights
+6.4 With the prior written approval of the Investor, and subject to
+what is provided elsewhere in this Agreement, the Company may
+raise funds by way of issue of Equity Shares or instruments
+convertible in to Equity Shares, from other investors or issue Shares
+to any other person (hereinafter together referred to as "the New
+Investor/s").
+6.5 The Promoters and the Company undertake that in case of any
+issue of Equity Shares or other instruments convertible into Equity
+Shares to New Investor/s, the Investor shall have an independent
+right to subscribe to additional Equity Shares or Warrants or any
+other instruments convertible in to Equity Shares, at their own
+discretion, at the same price and terms at which the New Investor/s
+has/ve agreed to invest, so as to enable the Investor to maintain its
+stake in the Company.
+Transfer of Warrants and Warrant Shares
+6.6. Subject to Applicable Law, the Warrantholder shall always be
+entitled to freely Transfer the Warrants and/or Warrant Shares to
+any Person at its own discretion and at such price as it may deem
+fit provided right of first refusal is being granted to the Promoters.
+...............
+8 . BOARD REPRESENTATION
+For the purpose of this Clause 8, unless specified otherwise, the term
+"Board" or "Board of Directors" shall mean and include the Board
+of Directors of the Company including any committee of such "Board
+of Directors" and the term "Director" shall be construed accordingly.
+8.1. CONSTITUTION OF BOARD OF DIRECTORS
+a)
+The Board of Directors of the Company shall comprise of not
+more than six (6) Directors.
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 20 of 28
+
+b)
+The Majority Warrantholder shall be entitled to nominate 50%
+of the Directors i.e. 3 (three) directors (the Nominee Directors) on the
+Board of Directors of the Company.
+c)
+The remaining members of the Board of Directors shall be
+nominated by the Promoters.
+9. FUNDAMENTAL ISSUES
+For the purpose of this Clause 9, the terms "Board" or "Board of
+Directors" shall mean the Board of Directors of the Company and
+shall include any committee of the Board.
+9.1. If the Company or the shareholders of the Company, as the
+case may be wish to take any action with respect to the
+Fundamental Issues at any meeting of the Board or at any general
+meeting of shareholders (if such issue requires the approval of the
+shareholders in general meeting), as the case may be, the Company
+shall obtain the prior written consent of the Majority Warrantholder
+without which the Company shall not be able to take any such
+action.
+.................
+14.4. AUTHORIZED SHARE CAPITAL AND RIGHTS ISSUE OF
+SHARES
+Notwithstanding anything contained herein, the Promoters and the
+Company agree that in order to protect the investment made by the
+Investor under this Agreement, on and from the date of Closing (i)
+any resolution placed before the shareholders of the Company to
+increase the authorized share capital of the Company shall be
+required to be passed by a special resolution and (ii) Company shall
+not issue any further Shares or instruments convertible at any future
+date into Shares of Company, whether such further issuances are
+on rights basis or otherwise, unless such further issuance has been
+approved by the shareholders of Company by way of a special
+resolution.
+14.5.
+DEMATERIALISATION OF SHARES
+The Company undertakes and confirms that it shall ensure that the
+shares of the Company are dematerialised within 30 (thirty) days
+from the date of issue of the Warrants hereunder.
+15. TERMINATION
+15.1 This Agreement may be terminated at any time by mutual
+written agreement of the Parties;
+15.2 In the event of a material breach by the Promoters or the
+Company
+("Defaulting
+Party")
+of
+any
+of
+their
+respective
+representations, Warranties, covenants, undertakings or obligations
+herein, the Investor and the Majority Warrantholder shall, if such
+breach is not cured by the Defaulting Party within 15 days of receipt
+
+[PAGE 21]
+21
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 21 of 28
+
+of a written notice to that effect from the Investor or the Majority
+Warrantholder, have the right to forthwith terminate this Agreement.
+.............
+18. MISCELLANEOUS
+....................
+18.3 BINDING EFFECT
+Subject to the terms and conditions hereof, this Agreement is binding
+upon the Parties and their respective successors and permitted
+assigns.
+.................
+18.11 EXERCISE OF VOTING RIGHT
+The Promoters undertake to ensure that they, their representatives,
+proxies and agents representing them at general meetings of the
+shareholders of the Company shall at all- time exercise their votes
+and to the extent permitted by Applicable Law, act in such manner,
+so as to comply with, and to fully and effectually implement, the
+spirit, intent and specific provisions of this Agreement.
+Notwithstanding anything contained herein, Promoters and the
+Company have agreed that Investor and Majority Warrantholder
+(collectively) would be effectively entitled to exercise 51% of the total
+voting power in the Company from the date of execution of this
+Agreement till all Warrants are converted into Warrant Shares in the
+manner set out herein.
+18.12 EXIT OPTION
+Notwithstanding anything contained herein this Agreement, Investor
+shall be free to liquidate its Warrants and/or Warrant Shares in the
+Company in a form and fashion consistent with the Investors'
+objectives and at the option of the Investor. The Promoters and the
+Company undertake to provide an exit to the Investors within 60
+months from the date of investment, which shall include IPO,
+Strategic Sale/Merger.
+...............
+20. SUN-SET CLAUSE
+Rights of the Investor and Majority Warrantholder will cease to be
+valid once the Company is listed on Stock Exchange.
+21. SURVIVAL OF PROVISIONS
+Notwithstanding anything contained herein, the provisions of Clause
+5 (Non- Compete), Clause 7 (Confidential Information), Clause 12
+(Indemnity), Clause 16 (Dispute Resolution), Clause 17 (Governing
+Law), Clause 18.1 (Representative of the Promoters) and Clause 19
+
+[PAGE 22]
+22
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 22 of 28
+
+(Notices) shall survive extinguishment of rights and obligations
+pursuant to Clause 15 or termination of this Agreement.”
+
+6.6
+A perusal of the SSA dated 06.09.2011, the relevant portions of which are
+extracted above, shows that Innoventive Industries Ltd. wanted to invest in the
+Corporate Debtor so as to become majority shareholder. Clause 2.5 reproduced
+(supra) states that if the warrant holder opts to convert warrants into shares, it
+would be entitled to hold not less than 51% of total paid up equity share capital
+of the company.
+6.7
+In essence the agreement entails that against the amount invested as also
+bought in through associates, the “investor” shall gain control over the majority
+voting rights (equity shareholding) as also the composition of the board of
+directors. Clause 8.1 of the SSA (supra) states that board of directors of the
+company shall comprise of not more than 6 directors wherein majority warrant
+holder shall be entitled to nominate at least 3 directors. The remaining 3
+directors shall be nominated by the promoters. Clause 9 of the SSA (supra) states
+that action on fundamental issues, which are listed in clause 9.3, and which
+cover almost all major decisions pertaining to operations of company, can be
+taken only after prior written consent of the majority warrant holder. For brevity,
+this list running from sub clause (a) to sub clause (u) has not been reproduced
+above, but it includes amendment to constitutional documents, mergers and
+acquisitions, finalisation of the business plan, purchase of real estate, change
+in the name of the company, increase or decrease in size of board of directors,
+change in accounting methods, etc. which are the major critical decisions in
+governance of a company. Thus, had the agreement been fully implemented, the
+
+[PAGE 23]
+23
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 23 of 28
+
+majority warrant bolder/investor would have acquired majority shareholding,
+majority position in board of directors and control over running of the company.
+6.8
+The SSA prescribes issue of shares and conversion of warrants into shares
+on receipt of payment from “investor”. There is no clause which deals with
+repayment of the amount. The SSA, as per clause 15 (supra), can be terminated
+by mutual written agreement of the parties. As per clause 18.12 (supra), investor
+will have an exit option within 60 months of the date of investment. However, if
+the investor exercises such option, the exit shall be provided through issue of
+IPO, strategic sale/merger. The clause 20 (supra), titled as “sun-set clause”
+states that the rights of the investor and majority warrantholder will cease to be
+valid once the company is listed on stock exchange. The SSA does not contain
+any provision for repayment to the investor, and only consideration in exchange
+is 51% of the equity shareholding and voting rights as given in part 18.11 (supra),
+and if the investor becomes the majority warrantholder, it gets right to nominate
+50% of the directors on the board and gets to control the company.
+6.9
+It is apparent that the SSA is an agreement through which the “investor”
+was to become the majority shareholder of the Corporate Debtor, and was to
+exercise attendant rights on becoming majority shareholder.
+6.10 It is admitted position that the SSA was not fully implemented.
+6.11 The equity shares and warrants were not allotted to the Appellant. It is the
+submission of the Appellant that if no allotment is made against the amount
+paid for allotment of shares, the said amount partakes the character of a
+deposit/loan as per the provisions of sub-Section (6) of Section 42 of the
+Companies Act, 2013, which is as under:
+“SECTION 42: Issue of shares on private placement basis.
+
+[PAGE 24]
+24
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 24 of 28
+
+(6) A company making an offer or invitation under this section
+shall allot its securities within sixty days from the date of receipt
+of the application money for such securities and if the company
+is not able to allot the securities within that period, it shall repay
+the application money to the subscribers within fifteen days from
+the expiry of sixty days and if the company fails to repay the
+application money within the aforesaid period, it shall be liable
+to repay that money with interest at the rate of twelve per cent.
+per annum from the expiry of the sixtieth day:
+Provided that monies received on application under this section
+shall be kept in a separate bank account in a scheduled bank
+and shall not be utilised for any purpose other than-
+(a) for adjustment against allotment of securities; or
+(b) for the repayment of monies where the company is
+unable to allot securities.”
+
+6.12 We find even this objection of the Appellant is not maintainable as the said
+provision under Section 42 has been introduced in the Companies Act, 2013
+and no parallel or equivalent provision existed in the Companies Act, 1956. It is
+the admitted fact that the SSA was executed on 06.09.2011, when the provisions
+of Companies Act, 1956 were prevalent. Further, as no private placement of
+shares is made, Section 42 of Companies Act, 2013 is not, even otherwise,
+applicable, as held by this Tribunal in M/s Murlidhar Vincom Pvt. Ltd. v. M/s
+Skoda (India) Pvt. Ltd. in Company Appeal (AT) (Ins.) No. 1334 of 2024.
+6.13 We note that both sides have conflicting submissions regarding reflection
+of the transaction in the balance sheet of Corporate Debtor. It is the submission
+of the Appellant that the amount is shown in ‘borrowings’ whereas the
+Respondent disputed it and states that amount is shown in the “share capital”.
+We note that this issue was not raised before the Ld. NCLT and has not been
+adjudicated upon. We further note that the Hon’ble Supreme Court in the case
+
+[PAGE 25]
+25
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 25 of 28
+
+of IL & FS Financial Services Ltd. v. Adhunik Meghalaya Steels Pvt. Ltd. in Civil
+Appeal No. 5787 of 2025 has noted that whether a certain document in a given
+case constitutes a valid acknowledgement would depend on the facts and
+circumstances of each case and that balance sheet is prepared in the statutory
+format which did not provide the specific name of every secured and unsecured
+creditor. In the present case, both the amount “borrowings” and “share capital”
+have gone up and from the mere perusal of the balance sheet one is not able to
+make out whether the amount is treated as share capital or as borrowings. The
+Ld. Counsel for the Respondent has explained that the increase in share capital
+corresponds to the exact amount of money taken from the Appellant. In any
+case, character of the transaction is determined by the SSA under which the
+amount was advanced, which we have already analysed above to state that
+amount was given with aim to acquire 51% shareholding of the Corporate
+Debtor.
+6.14 At this stage, we look for judicial guidelines and precedence regarding
+maintainability of a petition under Section 7 of the IBC, 2016 for the amounts
+advanced for the purchase of equity shares or the share application money.
+i.
+The Hon’ble Supreme Court in EPC Constructions India Ltd. v. M/s Matix
+Fertilizers and Chemicals Ltd., CA No. 11077 of 2025 held as under:
+
+“46. Another important Section in the IBC to be noticed is Section
+5(8) which prescribes that to be a financial debt there needs to be
+disbursal against consideration for the time value of money.
+Section 5(8)(c) does not talk of preference shares while it talks of
+note purchase facility, bonds, notes, debentures, loan stock, or
+any other similar instrument to the categories mentioned
+thereunder. The omission is significant. As demonstrated above,
+
+[PAGE 26]
+26
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 26 of 28
+
+the paid up money on shares being “share capital” they do not
+constitute debt.
+47. As far as 5(8)(f) is concerned before we deal with the term
+commercial effect of borrowing the opening clause of 5(8) cannot
+be lost sight of. It has to be first a debt and such debt would be a
+financial debt if it is raised under any other transaction including
+any forward sale or purchase agreement having the commercial
+effect of borrowing. As already explained the paid up amounts
+towards shares do not have the character of debt. The further
+argument that redemption was due, is also not meritorious. As
+required under Section 55 of the Companies Act, 2013, the shares
+could be redeemed only out of the profits or with any amount kept
+apart for dividends which is not the situation in the present case.”
+
+(Emphasis supplied)
+
+ii.
+This Tribunal in Prakash Ambure v. Invest Bio Med Private Ltd.,
+CA(AT)(Ins.) No. 582 of 2024 has held as under:
+“8.
+Per contra, relying on the ratio in Pramod Sharma Vs
+Karanaya Healthcare Pvt. Ltd., [C.A. (AT)(Ins) 426 of 2022], dated
+21.04.2022 which was relied on in M/s Muralidhar Vincom Pvt.
+Ltd., Vs M/s Skoda (India) Pvt. Ltd., [C.A.(AT)(Ins) 1334 of 2024],
+dated 26.11.2024, the learned counsel for the respondent
+submitted that the appellant had merely made investment to
+purchase shares in the respondent when it was under the
+erstwhile management and an investment for purchase of shares
+does not constitute a financial debt within the meaning of Sec.5(8)
+of the Code and hence a proceeding under sec.7 of the IBC can
+neither be maintained nor sustained. The learned counsel then
+proceeded to adopt the stands of the respondent vis-à-vis the point
+of limitation which it adopted before the Adjudicating Authority.
+9. .................
+
+[PAGE 27]
+27
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 27 of 28
+
+10.
+Very evidently, the appellant aims at a rear-guard action,
+but it is not without its fallacies. Is there a subsequent change of
+character of the money which the appellant had paid the
+respondent as to bring it within the definition of a financial debt?
+If the appellant’s payment were to be treated as share
+subscription money, he straight away is driven beyond the IBC
+zone. If he were to give it a colour of deposit, then it would stand
+excluded in terms of Rule 2(c)(vii) of the Companies (Acceptance of
+Deposits) Rules, 2014. The point is how far the trial balance of the
+respondent referred to earlier will be of use to the appellant? It is
+true, the respondent goes silent on it in its pleading, but it may
+have least impact since it will still stand excluded from the
+definition of deposit in terms of Rule 2(c)(vii) of the Companies
+(Acceptance of Deposits) Rules, which positively excludes share
+subscription amount from the definition of deposit. See:
+Muralidhar Vincom case [C.A.(AT)(Ins) 1334 of 2024]. Therefore,
+even if there is no pointed finding of the Adjudicating Authority as
+to the existence of a financial debt, we have little hesitation in
+holding that there exists no financial debt which may enable the
+appellant to invoke IBC.”
+
+(Emphasis supplied)
+iii.
+This Tribunal in the case of Pramod Sharma v. Karayana HeatCare Pvt.
+Ltd. in Company Appeal (AT) (Ins.) No. 426 of 2022 has held as under:
+“5. Admittedly, the amount was given, as per the case of the
+Appellant, as a Share Application Money on which no share was
+allotted. Under some settlement, the principal amount was
+refunded and thereafter, the Application under Section 7 was filed
+by the Appellant. We are of the view that the Adjudicating
+Authority rightly took the view that the amount which was given
+by the Appellant as Share Application Money cannot be treated to
+be a financial debt so as to enable the Appellant to trigger the
+Insolvency Process under Section 7 of the Code.”
+
+[PAGE 28]
+28
+
+Company Appeal (AT) (Ins.) No. 1083 of 2024
+
+Page 28 of 28
+
+The above judgments lay down that any amount paid towards acquisition
+of share capital does not constitute a “financial debt”.
+6.15 On the basis of analysis of the facts of this case, in the background of SSA
+and judicial guidelines provided by the courts, we are of the opinion that the
+amount advanced by Innoventive Industries Ltd., subsequently assigned to the
+Appellant, does not amount to “financial debt”. There is no clear-cut clause for
+repayment in SSA and as the amount advanced was towards purchase of
+equity/convertible warrants, it is not a financial debt. The Ld. NCLT has rightly
+rejected the petition under Section 7 of the IBC, 2016.
+6.16 In view of the aforesaid, there is no merit in the present appeal and hence
+the same is dismissed. We, however, clarify that the present order will not, in
+any way, reflect on the rights available to the Appellant to take up its case before
+other judicial forum. Pending application(s), if any, are closed. No order as to
+costs.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Mr. Ajai Das Mehrotra]
+Member (Technical)
+
+Place: New Delhi
+Dated: 01.07.2026
+Ram N.

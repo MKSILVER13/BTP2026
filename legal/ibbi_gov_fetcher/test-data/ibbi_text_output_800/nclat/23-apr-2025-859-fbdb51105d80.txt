@@ -1,0 +1,1027 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 261 of 2025
+
+[Arising out of the Order dated December 11, 2024, passed by
+the ‘Adjudicating Authority’ (National Company Law Tribunal,
+Court-V, Mumbai Bench) in C.P(IB) No.177 /MB/2023]
+
+IN THE MATTER OF:
+
+OM SAI MOULDS & PLACTICS
+A Partnership Firm
+Having its Office at:
+D-111, MIDC, Ambad,
+Nashik – 422 010, Maharashtra
+Email: niilesh.dahanukar@omsaimoulds.com
+
+...Appellant
+
+Versus
+
+1.
+Pllastomax Engineering Private Limited
+A Company incorporated under the provisions
+of Companies Act, 2013 (as amended till date),
+Having its Registered Office at:
+Flat No.7, Shriram Apartment,
+College Road, Amandwan Colony,
+Nashik – 422007, Maharashtra
+Email: ashwini.gaurang@gmail.com;
+accounts@pllastomax.com
+Mobile: (+91) 9820063929
+
+Also At:
+SR. No.176/ 1/2, P. No.52,
+Shri Guru Gajanan Industrial Estate,
+Villoli Shivar, Ambad, Nashik,
+Maharaslltra-422010
+
+...Respondent No. 1
+
+2.
+Sheetal Dahanukar
+Flat No. 2605, Wing-13,
+Casa Scereno, Lodha Amara, Kolshet Road,
+Thane (West) - 400607, Maharashtra.
+Email: sheetalj9@gmail.com;
+Mobile No: (+91) 9892653381
+
+...Respondent No. 2
+
+Present:
+
+For Appellant
+:
+Mr. Vijay Nair, Mr. Arpit Dwivedi, Mr. Manmeet
+Nagpal, Ms. Sakshi Kapoor, Advocates.
+
+For Respondent
+:
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 2 of 31
+
+O R D E R
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+The Appellant – Om Sai Moulds & Plastics has filed an Appeal against
+the dismissal of Section 9 Application 9 filed before the Adjudicating
+Authority. The claims debt and default a sum of ₹1,27,91,513/- with includes
+principal amount of ₹1,21,76,420/- and interest of ₹ 6,15,093/-.
+Brief facts of the case
+2.
+The Appellant-OC-Om Sai, an Operational Creditor, filed the Section 9
+Petition for recovery of ₹ 1.27 crore (inclusive of interest) against the Corporate
+Debtor for goods supplied between 2021 and 2022. The goods, being plastic
+injection moulds, were delivered with proper invoices and duly acknowledged
+delivery challans. No disputes were raised at the time of supply. Despite
+multiple reminders and a statutory Demand Notice, the Respondent failed to
+make the payment. The NCLT dismissed the Section 9 Petition on the ground
+that the claim was motivated by personal disputes between the parties,
+specifically the matrimonial dispute between Mr Nilesh Dahanukar (partner
+of the Appellant) and Mrs Sheetal Dahanukar (director of the Respondent),
+and allegations of oppression and mismanagement by minority shareholders.
+The NCLT imposed a cost of ₹ 10 lakh on the Appellant for filing a frivolous
+and vexatious Petition. The Appellant contends that the NCLT erred in
+dismissing the Section 9 Petition based on personal disputes, which do not
+qualify as a "dispute" under Section 5 (6) of the Code. It is claimed that the
+Code mandates that the dispute must relate to the existence of the debt,
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 3 of 31
+
+quality of goods, or breach of representation or warranty. The disputes raised
+by the Respondent were unrelated to these criteria. The Corporate Debtor
+admitted the debt and default, and there was no objection raised regarding
+the quality of goods supplied. The NCLT lifted the corporate veil to consider
+personal disputes and minority shareholder conflicts, which are irrelevant to
+operational debt and default under the Code. The Appellant had paid GST for
+the transactions, further validating the genuineness of the debt. The
+Appellant seeks to set aside the Impugned Order and admit the Section 9
+Petition to initiate the Corporate Insolvency Resolution Process ("CIRP")
+against the Corporate Debtor.
+Submissions of the Appellant
+3.
+The Appellant, an Operational Creditor, filed Section 9 Petition for
+recovery of ₹ 1.27 crore (inclusive of interest) against the Corporate Debtor for
+goods supplied between 2021 and 2022. The goods were delivered with proper
+invoices and duly acknowledged delivery challans. No disputes were raised at
+the time of supply. Despite multiple reminders and a statutory Demand
+Notice, the Respondent failed to make the payment. The NCLT dismissed the
+Section 9 Petition on the ground that the claim was motivated by personal
+disputes between the parties, specifically the matrimonial dispute between
+Mr Nilesh Dahanukar (partner of the Appellant) and Mrs Sheetal Dahanukar
+(director
+of
+the
+Respondent),
+and
+allegations
+of
+oppression
+and
+mismanagement by minority shareholders. The Appellant contends that the
+NCLT erred in dismissing the Section 9 Petition based on personal disputes,
+which do not qualify as a "dispute" under Section 5 (6) of the Code. The Code
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 4 of 31
+
+mandates that the dispute must relate to the existence of the debt, quality of
+goods, or breach of representation or warranty. The disputes raised by the
+Respondent were unrelated to these criteria. The Corporate Debtor admitted
+the debt and default, and there was no objection raised regarding the quality
+of goods supplied. The NCLT incorrectly lifted the corporate veil to consider
+personal disputes and minority shareholder conflicts, which are irrelevant to
+operational debt and default under the Code. The Appellant had paid GST for
+the transactions, further validating the genuineness of the debt. The
+Appellant seeks to set aside the Impugned Order and admit the Section 9
+Petition to initiate the Corporate Insolvency Resolution Process ("CIRP")
+against the Corporate Debtor.
+
+4.
+The Respondent Company had admitted the claims of the Appellant.
+The Code for the purpose of Section 9 Petition mandates that the "dispute"
+ought to be a dispute in relation to existence of the amount of debt; quality of
+goods or services; or the breach of a representation or warranty. Section 5 (6)
+of the Code defines "dispute" as under:
+“(6) "disputes" includes a suit or arbitration proceedings
+relating to-
+(a) the existence of the amount of debt
+(b) the quality of goods or service
+(c) the breach of a representation or warrant"
+
+Section 4 (11) of the Code defines "debt" as a liability or obligation in respect
+of a claim which is due from any person and includes a financial debt and
+operational debt. Section 4 (12) of the Code defines "default" as non-payment
+of debt when whole or any part or instalment of the amount of debt has
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 5 of 31
+
+become due and payable and is not paid by the Debtor or the Corporate
+Debtor, as the case may be. In view of above, the non-payment of invoice
+amount by the Respondent post supply of goods pursuant to the Work Order
+constitutes a legal and valid "debt" under the Code.
+
+5.
+The dispute alleged by Mrs Sheetal Dahanukar, one of the directors of
+the Respondent-CD-Plastomax Engineering were not "disputes", and they fall
+outside Section 5 (6) of the Code - warranting rejections of the Section 9
+Petition as the same did not relate to the existence of the amount of debt
+claimed by the Appellant or quality of goods or services provided by the
+Appellant to the Respondent. The disputes alleged by one director of the
+Respondent were relating to matrimonial dispute between her and one of the
+partners of Appellant being spouses. Similarly, another dispute alleged by one
+of the Director of the Respondent was related to pending oppression of
+minority shareholder of the Respondent Company and mismanagement of
+affairs of the Respondent Company. The Section 9 Petition arose out of non-
+payment of invoices raised by the Appellant-OC-Om Sai against supply of
+plastic injection moulds/dies requested for production of irrigation parts
+against several Work Orders issued on the Appellant by the Respondent
+during the year 2021. The pendency of dispute between the shareholders of
+Respondent Company and/or matrimonial dispute between one of the
+partners of the Appellant and director of Respondent Company, who happen
+to be husband and wife cannot be a ground for rejection of Section 9 Petition.
+None of the grounds failing under Sub-Section 5 (ii) of Section 9 of the Code
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 6 of 31
+
+existed for rejection of the Section 9 Petition. Sub-Section 5 (ii) of Section 9
+provides that Section 9 Petition can be dismissed by the Adjudicating
+Authority if-
+(a) The Application made under Sub-Section (2) is incomplete
+(b) There has been payment of the unpaid operational debt
+(c) The Creditor has not delivered the invoice or notice for
+payment to the Corporate Debtor
+(d) Notice of dispute has been received by the Operational
+Creditor or there is a record of dispute in the information utility
+(e) Any disciplinary proceeding is pending against the proposed
+Resolution Professional
+
+6.
+The disputes alleged by the Respondent were not disputed in relation
+to existence of debt, quality of goods and service and/or breach of
+representation or warranty. In the plea raised by one of the Director of
+Respondent Company that one of the partner of Appellant was running and
+managing the Respondent and she was merely a namesake shareholder and
+Director is considered for the sake of arguments without admitting any
+liability arising therefrom then the Appellant would not have filed and
+instituted the Section 9 Petition seeking insolvency of its own Company. Thus,
+Section 9 Petition was liable to be admitted at the threshold.
+
+7.
+Despite having received the emails dated 25.08.2022 and 09.11.2022
+and also Demand Notice dated 29.11.2022, the Intervenor/Director of the
+Respondent did not dispute the transaction with the Appellant against which
+payment was sought nor had filed any suit/litigation claiming that the
+Appellant had forged and fabricated the Works Orders as alleged to contest
+the Section 9 Petition. Further, the Appellant had deposited GST payment to
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 7 of 31
+
+the tune of Rs 18,57,420/- on the basis of e-way bills for the material supplied
+to the Respondent/Corporate Debtor. The Appellant would not have deposited
+such a hefty sum only to cause harassment to the wife.
+Submissions of Respondent No 2
+8.
+Bases the materials placed on record, we note the contentions of the
+Respondent's Director-Mrs. Sheetal Dahanukar - intervener in original
+application before the adjudicating authority.
+
+9.
+The Petitioner and the Respondent Company have direct nexus with
+each other and effectively are governed and controlled by same set of people.
+As such the Deponent has not even been provided the hard/physical copy of
+the present Petition.
+
+10.
+The goods alleged to be supplied were never actually supplied to the
+Respondent Company. Back-dated invoices and purchase orders were signed
+by Ashwini on Nilesh's insistence and the same is clear from Reply filed by
+Respondent Company. The delivery note annexed to the Petition does not bear
+signature of any of parties of Respondent Company, which clearly shows none
+of goods as alleged were supplied by the Petitioner firm. Furthermore,
+generating e-way bill does not in any way confirm or show that the material
+is being delivered rather the same is generated by Petitioner firm. The
+Petitioner firm had all means, that is, signed back dated purchase orders and
+invoices to generate false e-way bills. This clearly shows that Petitioner firm
+has forged the documents to pressurise the Deponent and put the
+Respondent and, hence, the Deponent under financial burden.
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 8 of 31
+
+11.
+Due to certain astrological reasons and to avail the subsidies for women
+led Company and in order to show that the Company is owned and led by
+women, the Deponent and Ashwini were made Directors of the Respondent
+Company.
+However,
+the
+Company
+i.e.
+Respondent-CD-Plastomax
+Engineering and its day-to-day affairs were run by Nilesh and Gaurang.
+Respondent's Director-Mrs. Sheetal Dahanukar had limited role in running
+the Company except signing certain documents and forms etc. Respondent
+No 2 was not at all involved in the day-to-day business activities of the
+Respondent Company and it was in fact Nilesh viz. the partner of the
+Petitioner itself, along with Gaurang who used to run the Respondent
+Company as their own. Taking advantage of the said fact, Nilesh has 'created'
+fake invoices merely in order to bring the present frivolous petition without
+there being any real underlying business/trading transactions between the
+Petitioner and the Respondent Company.
+
+12.
+The registered and official email address/ID of Respondent Company
+viz. niilesh.dahanukar@omsaimoulds.com, as shown in the master data of
+the Respondent Company, is in fact the personal work email ID used by Nilesh
+for the official and business purposes of the Petitioner firm and in the name
+of the domain of the Petitioner firm. The said email ID, just like the
+Respondent Company, is completely managed and operated by Nilesh viz.,
+the partner of the Petitioner herein. This clearly shows the extremely close
+nexus between the Petitioner and the Respondent Company as well as their
+management and operations, which are being run by the same email id for
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 9 of 31
+
+the convenience of Nilesh who in fact runs the Respondent Company as well
+making it easy for Nilesh to create fake paperwork forming the basis for the
+present frivolous proceedings.
+
+13.
+Further, the registered address of the Respondent Company viz. Flat
+No. 7, Shriram Appt, PNO-37 Anandwan Colony, Nashik - 422007,
+Maharashtra, as shown in the master data of the Respondent Company, is in
+fact the personal residential address of Nilesh viz. the partner of the Petitioner
+firm. This further clearly shows the extremely close nexus between Nilesh and
+the Respondent Company as well as their management and operations. which
+are being run from the same address for the convenience of Nilesh who in fact
+runs the Respondent Company as well making it all the more easier for Nilesh
+to create fake paperwork forming the basis for the present frivolous
+proceedings given his control over the registered address of the Respondent
+Company entities and their paperwork/documentation maintained at one
+and the same address.
+
+14.
+Nilesh is not only Respondent No 2’s husband but also the partner of
+the Petitioner firm but he was also placed at the post of Secretary of the
+Respondent Company as stated above.
+
+15.
+The captioned Petition is a frivolous Petition filed with nothing but a
+malafide intention and by “creating” fake invoices in the name of the
+Respondent Company in connivance with Ashwini and, hence, it should be
+dismissed by imposing heavy cost on the Petitioner. The present proceedings
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 10 of 31
+
+are a classic example of revenge litigation. The Work Orders and invoices,
+forming the subject matter of the present dispute, have been created out of
+thin air without any actual underlying business transactions as allegedly
+shown by the said work orders and invoices. Furthermore, none of the Work
+Orders/purchase orders contain my signatures and only contains signature
+of Ashwini and Gaurang which also clearly shows nexus between the parties.
+
+16.
+The
+Reply
+to
+Demand
+Notice
+is
+made
+without
+proper
+approval/resolution passed by the Respondent Company and furthermore,
+the Deponent was never referred to in this matter.
+
+17.
+Without prejudice, it is pertinent to note that Ashwini herself in the
+Reply has mentioned she has signed back dated purchase orders and invoices
+to the Company on Nilesh's instructions. Entire reading of Reply dated
+03.01.2023 shows the nexus between the Petitioner and Ashwini, Gaurang.
+Furthermore, Ashwini has mentioned in the Reply as it is pertinent to state
+that Sheetal Dahanukar never attended any of the meetings of the Company
+and all the decisions of the Company were taken by NPD. This is evident from
+various email correspondences sent by NPD with the Company and Mr
+Gaurang Ghodi that NPD was de facto a shareholder and Director of the
+Company.
+
+18.
+Nilesh is one of the partners of the Petitioner, Secretary of the
+Respondent Company and the husband of one of Directors of the Respondent
+Company. Thus, it is clear that Nilesh had plenty of access not only to the
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 11 of 31
+
+Respondent Company (given the ownership cum governing structure
+mentioned in the foregoing paragraphs) but also Petitioner as well as the
+documentation pertaining to the business relationship/transactions between
+the Petitioner and the Respondent Company. Furthermore, Nilesh has access
+to registered office of the Company and to Company's seal, stamp and
+letterheads and he also had access to Respondent's Director-Mrs. Sheetal
+Dahanukar digital signature which was kept in registered office of the
+Company.
+
+19.
+The entire mischief has been played by Nilesh viz. partner of Petitioner
+firm only to wreak havoc in the life of wife i.e. Director of the Respondent
+Company and exact revenge against her due to the ongoing matrimonial
+disputes between Nilesh and Respondent's Director-Mrs. Sheetal Dahanukar.
+Nilesh and Respondent No. 2 are currently going through a nasty divorce and
+several other ancillary matrimonial and criminal proceedings related to the
+matrimonial disputes and the same are now pending.
+
+20.
+The bitterness of the partner of the Petitioner firm viz. Nilesh becomes
+clear from the fact that almost all of the Work Orders and invoices forming
+the basis of the captioned Petition are dated after April 2021 viz. after the date
+on which disputes between Nilesh and Respondent No. 2 grew toxic and
+strenuous and she left her matrimonial house viz. the registered address of
+Respondent Company as mentioned above. The timing of the said invoices
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 12 of 31
+
+and work orders clearly show that all of it has been done by Nilesh in his spite
+against Respondent No. 2 over our matrimonial disputes.
+
+21.
+Further, a FIR dated 12.05.2021, No. 126 of 2021 has also been
+registered against Nilesh and the related criminal proceedings are currently
+underway. Also, criminal proceedings namely Cri MA No. 1290 of 2021 filed
+by Respondent No. 2 against Nilesh for the offence of ‘forgery’ before the Court
+of the Addl Chief Judicial Magistrate, Nashik. In the said proceedings, vide
+an Order dated 07.11.2022, the Court found sufficient grounds to proceed
+against Nilesh for offence punishable under Section 465 of IPC and, hence,
+Court was pleased to issue process of summons against Nilesh viz. partner of
+the Petitioner firm, and to register a Summary Criminal Case against the
+Petitioner. Hence, Summary Criminal Case No. 5613 of 2022 came to be
+registered. It is pertinent to note that only after passing of the Order dated
+07.11.2022, the Demand Notice dated 29.11.2022 was issued by the advocate
+for Nilesh against the Respondent Company merely as a counterblast to the
+said Order dated 07.11.2022.
+
+22.
+After filing of the FIR and under apprehension that Nilesh will create
+more fake bills and withdraw monies from the Respondent Company,
+Respondent No. 2 stopped/blocked the operations of the bank account of the
+Company in June, 2022. Hence, as the operations of the bank account was
+blocked, Nilesh, through his firm, that is, the Petitioner started raising back-
+dated invoices and further fake invoices even though no goods were supplied
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 13 of 31
+
+to the Respondent Company only to raise financial obligations against
+Respondent No. 2 who is a Director of the Respondent Company. Ashwini has
+signed back dated purchase orders and invoices, the same is clear from the
+Reply to Demand Notice. Furthermore, it is pertinent to note that none of the
+delivery notes annexed with the Petition are signed by the Respondent
+Company, which shows that goods as alleged were never delivered to the
+Respondent Company.
+
+23.
+It clearly shows the malafide intention of Nilesh (acting through the
+Petitioner firm) in engaging in frivolous and false litigation like the captioned
+Petition. Now these proceedings are nothing but a revenge litigation created
+by Nilesh in order to wreak havoc in my life in view of the pending matrimonial
+disputes. It is an attempt to not buy Respondent No. 2’s shares in the
+Respondent Company but to dissolve the Respondent Company, pocket the
+alleged claims amounts and then revive the Company and operate it by
+kicking Respondent No. 2 out or to make sure the same exists just on paper
+with no money and/or assets making it impossible for Respondent No. 2 to
+run the Respondent Company even after its revival and completion of CIRP
+proceedings, if at all.
+
+24.
+Before the Demand Notice was raised by the Petitioner, there were
+mediation talks going on between Respondent No. 2 , Nilesh, Ashwini and
+Gaurang wrt buying of Respondent No. 2's shares. However, the Petitioner,
+along with Ashwini and Gaurang, has resorted to this method for kicking the
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 14 of 31
+
+Deponent out of the Respondent Company. Further, the nexus is clearly
+established as Ashwini and Gaurang replied to the Legal Notice and failed to
+appear before this Tribunal on behalf of the Respondent Company.
+
+25.
+On the one hand Nilesh is trying to make sure that the insolvency of
+the Respondent Company goes through by showing that the Respondent
+Company is unable to pay its dues and is trying to reduce Respondent No. 2’s
+financial standing down to zero and on the other hand is taking a stance in
+the maintenance proceedings (filed by me) decided before the Family Court,
+Nashik, that Respondent No. 2 is a Director of the Respondent Company and
+owns 49% stake in the same and, hence, cannot be said to be one who is not
+capable for earning a livelihood for herself. On the basis of the said stance,
+the Family Court also rejected interim maintenance as prayed for by
+Respondent No. 2. Thus, Nilesh is trying to blow hot and cold at the same
+time and this Tribunal should be pleased enough to take a note of the same
+and stop the Petitioner at the threshold by dismissing the captioned Petition
+in limine.
+
+26.
+Nilesh, the Petitioner firm, Gaurang (through Pan Products) and
+Ashwini, are all conspiring in order to gain financial advantage to all of them
+with regards to an outstanding loan amount of ₹ 42,12,000/- due and payable
+to SIDBI. A loan of the said amount under loan agreement dated 21.12.2020
+was borrowed by Respondent Company and Pan Products as co-borrowers
+and in lieu of the same, a charge has been created on certain moveable
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 15 of 31
+
+properties and a fixed deposit belonging to the Respondent Company, as more
+particularly stated in the said agreement dated 21.12.2020. Also, the claim
+in the captioned Petition is conveniently higher than that of the outstanding
+loan which can be repaid from the claim amount herein (as sought to be
+recovered in the insolvency process if the Petition gets admitted) which means
+that effectively the Respondent Company will repay the entire loan on
+Respondent's Company as alienation of the assets of the Respondent
+Company will render the value of my share/stake in the Respondent
+Company effectively nil since the Respondent Company doesn't have any
+other major assets. There can also be some of my personal liability since the
+assets of the Respondent Company is clearly not enough to make up for the
+claim amount.
+
+27.
+If the captioned Petition is actually admitted and CIRP proceedings are
+initiated, there will be claims from Pan Products as well since they have also
+created a fake claim based on fabricated documents/invoices which come up
+to ₹ 70,00,000/-. The same is also done with the aid and support of Ashwini
+who is also a partner in Pan Products along with her husband viz Gaurang.
+Further, Pan Products is also the co-borrower of the said loan of ₹ 42,12,000/-
+and their conduct, as described in the oppression mismanagement Petition is
+to completely try and evade the burden of repayment of the said loan and
+push the brunt of the same completely on the Director, that is, Respondent
+No. 2. All of this highlights a clear scheme of fraudulently creating claims and
+filing the present frivolous petition against the Respondent Company only to
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 16 of 31
+
+corner Respondent No. 2 and put the brunt of losses and repayment of loan
+singly on Respondent No. 2.
+
+28.
+Furthermore, Respondent No 2 claims that the partners of the
+Petitioner along with the other Director and Gaurang have conspired together
+by creating fake bills, documents and misusing the official documents of the
+Respondent Company and used fake bills etc. without her knowledge and
+consent. Furthermore, it is claimed that many financial documents,
+transactions documents etc. were signed with Respondent No 2’s digital
+signature without her knowledge and consent. Hence, Respondent No 2 has
+also filed a police complaint to Officer-in-Charge/Senior Police Inspector,
+Kasarvadavli Police Station, Thane, 400615, on 01.06.2023 via email.
+
+29.
+Also, another matter was pending before the Micro Small Medium
+Enterprise Facilitation Council, wherein the Council was dealing with similar
+cause of action and similar amounts had been claimed by the Petitioner
+herein before this Tribunal. On filing of Intervention Petition by Deponent, the
+Petitioner withdrew the same. This has been done with the sole intention to
+get an award to show that there is no pre-existing dispute and to indulge in
+forum shopping. This Tribunal should not consider the Company Petition filed
+by the Petitioner on its merits.
+
+30.
+The Petitioner did not include Respondent No 2’s Reply in the Petition
+and the Petitioner as well as Ashwini failed to inform the Deponent about
+actions taken on behalf of the Respondent Company. This non-disclosure and
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 17 of 31
+
+lack of transparency clearly shows that this is a well-planned Company
+Petition to dissolve the Respondent Company and discharge its liabilities for
+pennies on dollar by the Petitioner and the Respondent Company.
+
+31.
+It is claimed that Respondent No 2’s digital signature was used without
+her knowledge and consent in financial transactions, which further raises
+concerns about the authenticity of the claims in the Petition. The Respondent
+No 2 blocked the operations of the Respondent Company Company's bank
+account due to apprehension of misuse by the Petitioner. The Company
+Petition is a reaction to legitimate actions taken by the Deponent to protect
+the company's finances. The Respondent No 2 claims that the present
+Company Petition has been filed by the Petitioner in connivance with the
+Respondent Company and the other director and the claim is false claim. The
+Claim has been filed as counter blast to marital proceedings going on between
+the Deponent and husband of the Deponent. Hence, on this ground the
+Petition should be dismissed with costs.
+Appraisal
+32.
+Recapitulating the case in hand, we note that the Appellant-OC-Om Sai
+filed the Section 9 Petition under the IBC to seek the initiation of the
+Corporate Insolvency Resolution Process against Respondent-CD-Plastomax
+Engineering. The Appellant's claim arises from operational debt of about
+₹1.27 crore (including interest) for goods supplied by the Appellant-OC-Om
+Sai under eight work/purchase orders issued between 2021 and 2022. It is
+contended that the Appellant-OC-Om Sai provided invoices, delivery challans,
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 18 of 31
+
+and received no objections from the Respondent-CD-Plastomax Engineering
+at the time of delivery. The Appellant-OC-Om Sai issued a statutory demand
+notice on 29.11.2022, claiming Appellant-OC-Om Sai ₹ 1.27 crore, which was
+acknowledged by the Respondent-CD-Plastomax Engineering on 12.12.2022
+admitting the debt but offering frivolous pleas regarding non-payment. In its
+reply to the demand notice dated 12.12.2022, the Respondent acknowledged
+the delivery of goods but claimed that the payment was contingent on the
+Respondent becoming profitable, which constitutes an acknowledgment of
+debt. Despite multiple reminders and a statutory demand notice under
+Section 8 of the IBC, the Corporate Debtor failed to make the payment for the
+goods supplied.
+
+33.
+On 24.01.2023, the Appellant filed the Section 9 Petition for initiating
+CIRP against the Corporate Debtor due to the default in the payment of ₹1.27
+crore. However, on 25.01.2023, the Respondent's Director-Mrs. Sheetal
+Dahanukar- who is the wife of Director of the Appellant firm filed a counter
+petition under Section 241-242 of the Companies Act, 2013, to address
+shareholder disputes and involving the partner of the Appellant as a party.
+On 31.10.2023, Mrs. Sheetal Dahanukar filed an Intervention Application
+(No. 60 of 2023) seeking to intervene in the Section 9 Petition and raise
+objections against it.
+
+34.
+On 11.12.2024, the NCLT - Adjudicating Authority dismissed the
+Section 9 Petition of the Appellant, finding it to be a "blatant attempt to
+misuse the process of law" for personal agendas between the parties. The
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 19 of 31
+
+NCLT - Adjudicating Authority highlighted the personal disputes between the
+parties, including a matrimonial dispute involving one of the partners of the
+Appellant and the Respondent's director, and shareholder oppression and
+mismanagement allegations. The NCLT - ADJUDICATING AUTHORITY also
+imposed a cost of INR 10 lakh on the Appellant for filing a frivolous and
+motivated petition.
+
+35.
+Before the Impugned Order on 11.12.2024, on 31.10.2023, an
+Intervention Application (No. 60 of 2023) was filed by Mrs. Sheetal Dahanukar
+in the ongoing Section 9 Petition, who is one of the directors of the Corporate
+Debtor (Respondent). The intervention was intended to raise objections
+against the Section 9 Petition and seek the dismissal of the petition based on
+the personal and matrimonial disputes between the parties involved. Mrs.
+Sheetal Dahanukar contended that the Section 9 Petition was a strategic
+manoeuvre to settle personal grievances, particularly related to matrimonial
+disputes between her and Mr. Nilesh Dahanukar, one of the partners of the
+Appellant Company. She also brought forward the issue of oppression and
+mismanagement in the Respondent-CD-Plastomax Engineering, claiming
+that there were shareholder disputes affecting the Respondent Company,
+which she argued were more pertinent to the dispute than the financial claims
+of the Appellant. The Section 9 Petition filed by the Appellant was dismissed
+by the Ld. Adjudicating Authority (NCLT) raising serious doubts about the
+genuineness of the claim. The reasons cited included:
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 20 of 31
+
+o The close relationships between the parties involved, notably Mr.
+Nilesh Dahanukar (Partner of the Appellant) and Mrs Ashwini
+Gaurang Ghodi (Partner of the Respondent), and
+
+o Allegations of personal disputes, such as a petition for
+oppression and mismanagement filed by Mrs. Sheetal
+Dahanukar (Director of the Respondent).
+
+The Impugned Order notes that the petition was filed with ulterior motives to
+advance personal agendas, rather than to resolve corporate debt.
+
+36.
+The Appellant is seeking the following reliefs:
+o Setting aside the Impugned Order dated 11.12.2024
+passed by the Ld. NCLT, Court-V, Mumbai Bench, in
+C.P(IB) No. 177/MB/2023.
+o Allowing the Section 9 Petition and initiating the Corporate
+Insolvency Resolution Process (CIRP) against the Corporate
+Debtor.
+o Setting aside the imposition of costs of INR 10 lakh.
+o Directing the Respondent to pay the outstanding debt of
+INR 1.27 crore along with interest as per the applicable
+terms.
+37.
+We have heard the Learned Counsel for the Appellant and also perused
+the material on record.
+
+38.
+Application on behalf of Appellant under Section 61(2) of the Insolvency
+& Bankruptcy Code was filed read with Rule 11 of National Company Law
+Appellate Tribunal, 2016 seeking condonation of delay of 9 days in filing of
+the appeal arising out of impugned order dated 11.12.2024. This was
+condoned vide order dated 21.02.2025.
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 21 of 31
+
+39.
+While going through the Section 9 Application, we find that Mr. Nilesh
+Dahanukar, partner of the Petitioner firm, is the husband of the Intervener,
+Mrs. Sheetal Dahanukar, who is a director of the Respondent Company.
+Furthermore, Mr. Nilesh Dahanukar has been acting as the Secretary of the
+Respondent Company. We find close nexus between the Appellant Firm and
+the Respondent Company as is evident from the Agreement for Term Loan
+cum Hypothecation dated 21.12.2020, entered between the Respondent
+Company, i.e., M/s Pllastomax Engineering, and Pan Products, wherein Mr.
+Nilesh Dahanukar has signed the said Agreement as the Secretary of the
+Respondent Company. Also Mr. Nilesh Dahanukar is the Secretary of the
+Respondent Company and is in such a position to have complete access to
+the Respondent Company's privileged information. Further, we find that the
+registered
+email
+address
+of
+the
+Respondent
+Company
+is
+'niilesh.dahanukar@omsaimoulds.com',
+which
+is
+the
+Email
+address
+mentioned in the Master Data of the Respondent Company. The
+aforementioned email address contains the domain name of the Petitioner
+Firm, i.e., Om Sai Moulds, and the name of the partner of the Petitioner Firm
+i.e. Mr. Nilesh Dahanukar. Therefore, we find that the registered email
+address of the Respondent Company is the Email address of Mr. Nilesh
+Dahanukar, partner in the Appellant’s Firm, and the said Email address
+could be used for official communication of the Petitioner Firm. Therefore, in
+light of the fact that the partner of the Petitioner Firm, Mr. Nilesh Dahanukar,
+was placed at the post of Secretary of the Respondent Company, it becomes
+clear that Mr. Nilesh Dahanukar was very well involved in the management
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 22 of 31
+
+and operations of the Respondent Company as both the Companies are being
+run by the same email address. Otherwise also the letterhead of the Petitioner
+Firm bears the same Email address as that of the Corporate Debtor Company.
+Furthermore, it is also noted that the registered address of the Respondent
+Company is the personal residential address of Mr. Nilesh Dahanukar, the
+Petitioner. Therefore, we note that the Petitioner Mr. Nilesh Dahanukar was
+in a position to influence the working of the Respondent Company and is
+capable of exercising control over its affairs and has also access to its
+registered email address, company seal end of this.
+
+40.
+On perusal of the documents placed on record, we find that the
+Intervener, Mrs. Sheetal Dahanukar, one of the Directors of the Respondent
+Company, is a minority shareholder in the Respondent Company, owning
+49% stake in the said Company and Mrs. Ashwini Ghodi is the other Director
+in the said company, having 51% shareholding. Further, upon perusal of the
+reply dated 12.12.2022 filed by the Respondent Company in response to the
+Demand Notice dated 29.11.2022, it has come to light that, as contented in
+the reply, "Mrs. Sheetal Dahanukar never attended any of the meetings of the
+Company and all the decisions of the Company were taken by NPD ("Nilesh
+Dahanukar")". Further, it was also contented in the said reply that "NPD
+insisted that Ashwini Ghodi should sign back dated purchase orders and
+raised various invoices to the Company". The relevant extract from the reply
+of the Respondent-CD-Plastomax Engineering dated 12th December 2022 is
+as below:
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 23 of 31
+
+“...
+7.
+However, since May 2021, the operations of the Company
+were obstructed owing to the personal disputes between NPD and
+NPD’s wife Mrs. Sheetal Dahanukar who is named as a
+director/shareholder of the Company. It is pertinent to state that
+Sheetal Dahanukar never attended any of the meetings of the
+Company and all the decisions of the Company were taken by
+NPD. This is evident from various email correspondences sent by
+NPD with the Company and Mr. Gaurang Ghodi that NPD was de
+facto a shareholder and director of the Company. Meanwhile,
+Ashwani Ghodi kept on investing money in the Company.
+
+8.
+In June 2021, NPD attempted to transfer the shares held in
+the name of Sheetal Dhanukar to himself. However, he was
+unsuccessful. Moreover, both the parties continued incurring
+expenses towards business operations of the Company and it was
+reagreed that that the payments towards the same will not be done
+unless the Company is profitable.
+
+9.
+It is pertinent to state that, upon several occasions your
+Client’s partner, NPD insisted that Ashwini Ghodi should sign
+backdated purchase order’s and raised invoices to the Company
+misinforming as that the same is required only to confirm
+receipt of the goods by the Company. However, your Client’s
+partner, NPD, specifically agreed that the payment was due only
+after Company is profitable. Therefore, Ashwini Ghodi signed the
+purchase order periodically only to confirm receipt of the moulds
+and upon a clear understanding that quantum and time of payment
+will be agreed when the Company is profitable.”
+[emphasis supplied]
+
+41.
+Upon perusal of the Purchase Orders, which form basis of the current
+Company Petition, annexed as "ANNEXURE V-1 to V-8", we find that all the
+said Purchase Orders have been signed by Mrs. Ashwini Ghodi or Mr.
+Gaurang Ghodi, and not a single Purchase Order bears the signature of the
+Intervener, Mrs. Sheetal Dahanukar. Further it is claimed by the Intervener
+that all the said purchase orders are post April 2021, which is after the date
+on which dispute between Mr. Nilesh Dahanaukar and the Intervener grew
+strenuous and the intervener left her matrimonial house. This disputed
+nature of the aforementioned facts raises serious doubts about the
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 24 of 31
+
+genuineness of the claim filed by the Petition Firm. Thus, the Intervener's
+contention with respect to the same holds merit and cannot be ignored.
+
+42.
+We also find that Mr. Gaurang Ghodi, partner of Pan Products and the
+husband of Mrs. Ashwini Ghodi (Director of Respondent Company), are
+involved in the internal affairs of the Respondent Company. The same can be
+noted from an email dated 03.01.2023 sent by Mr. Gaurang Ghodi using the
+email address of the Respondent Company to the Intervener, which is
+extracted by the AA in the impugned order as follows:
+
+Thus, in view of the abovementioned email, we find that there exists a nexus
+between the partner of Pan Products, Mr. Gaurang Ghodi, and the
+Respondent Company and Mr Nilesh who is the Director of Appellant-OC-Om
+Sai. In view of the aforementioned email dated 03.01.2023 and the Purchase
+Orders dated 27.10.2021 and 13.06.2022, which are signed by Mr Ghodi, we
+find that Mr. Gaurang Ghodi is also involved in the day-to-day internal affairs
+and workings of the Respondent-CD-Plastomax Engineering, to such an
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 25 of 31
+
+extent that Mr. Gaurang Ghodi was in a position to send official emails and
+even sign Purchase Orders on behalf of the Respondent Company.
+
+43.
+We also note that Mrs. Sheetal Dahanukar, the intervener, in January
+2023, has filed an Oppression and Mismanagement Petition with Company
+Petition No. 66 of 2023 before the NCLT under Sections 213, 241 to 242 of
+Companies Act, 2013. This was against oppression and mismanagement being
+faced by her in the Corporate Debtor Company and the said Petition has been
+filed against Mrs. Ashwini Ghodi (Director of the Corporate Debtor), Mr.
+Gaurang Ghodi (Partner in Pan Products), Mr. Nilesh Dahanukar (Partner in
+Petitioner Firm), Om Sai Moulds and Plastics (Petitioner Firm), and Pan
+Products (Partnership run by Mr. and Mrs. Ghodi). The contentions as raised
+by Mrs. Sheetal Dahanukar in the reply to the present Company Petition
+highlight the blatant collusion between Pan Products and the Petitioner Firm,
+Om Sai Moulds & Plastics, and further evidencing the said oppression and
+mismanagement against her.
+
+44.
+There are also criminal proceedings pending against Mr. Nilesh
+Dahanukar, including an FIR and an Order by the Hon'ble Chief Judicial
+Magistrate, Nashik, finding sufficient grounds to proceed against him for
+offences under Section 465 of IPC, which casts a shadow on the credibility of
+the present Company Petition. The fact that the Demand Notice was issued
+shortly after these legal developments suggests that it may be a retaliatory
+measure rather than a genuine attempt for resolution of the Corporate
+Debtor/Respondent Company.
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 26 of 31
+
+45.
+We also note allegations of fabrication of documents as alleged by the
+Intervenor, Mrs. Sheetal Dahanukar who is wife of the Petitioner. The
+Intervenor has raised serious allegations about the authenticity of the
+invoices and purchase orders presented by the Petitioner. While the Petitioner
+has contended that the invoices are genuine and based on actual
+transactions, the close relationship between the parties and the
+circumstances surrounding the case raise doubts about the veracity of these
+claims. Further, as it is evident from the perusal of the documents on record,
+vide an order dated 07.11.2022, the Hon'ble Addl. Chief Judicial Magistrate,
+Nashik found sufficient grounds to proceed against Mr. Nilesh Dahanukar for
+the offence punishable under Section 465 of IPC. Thus, keeping this offence
+of forgery committed by Mr. Nilesh Dahanukar in mind and in view of the
+contentions raised by the Intervener, we have sufficient grounds to believe
+that it is plausible for Mr. Nilesh Dahanukar to forge signature of his wife, the
+Intervener and the contention raised by the Intervener with respect to the
+same holds merit and cannot be brushed aside.
+
+46.
+The Appellant claims to qualify as an operational creditor under Section
+5(20) of the IBC, and accordingly claims that the debt is clearly an operational
+debt arising from the supply of goods to the Respondent. It claims that the
+personal and matrimonial disputes raised by the director of the Respondent
+do not constitute a "dispute" as per Section 5(6) of the IBC. And the IBC
+defines a "dispute" as one related to the existence of the debt, quality of
+goods/services, or breach of warranty or representation, none of which are
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 27 of 31
+
+applicable to the alleged personal disputes between the parties. The disputes
+raised by Mrs. Sheetal Dahanukar were personal in nature (e.g., matrimonial
+issues and shareholder oppression) and not related to the operational debt or
+quality of goods supplied. It claims that the NCLT erroneously lifted the
+corporate veil to consider personal disputes, which are irrelevant to the
+determination of operational debt and default and against the statutory
+requirements for filing a Section 9 Petition. It is also claimed that the
+Respondent did not raise any valid dispute about the debt, and the alleged
+disputes are related to personal matters such as matrimonial discord and
+shareholder disputes, which do not qualify as valid disputes under Section
+5(6) of the IBC.
+
+47.
+The Adjudicating Authority in its order has elaborated the reasons for
+dismissal of Section 9 Application which are contained at paragraph 15,
+which are extracted as follows:
+“....
+15.
+In light of the aforementioned observations highlighted, it
+stands established that there are serious doubts about the
+genuineness of the claim presented in the Company Petition. The
+close relationship between the parties, the involvement of Mr.
+Nilesh Dahanukar (Partner of the Petitioner Company) and Mr.
+Gaurang Ghodi (Partner of Pan Products) in the internal affairs of
+the Respondent Company, and the backdrop of personal disputes
+between the Intervener (Director of the Respondent Company) and
+Mr.
+Nilesh
+Dahanukar
+and
+also
+the
+oppression
+and
+mismanagement Petition filed by Mrs. Sheetal, suggest that this
+Petition is a blatant attempt to misuse the due process of law and
+is filed furtherance of the personal agendas between the parties
+rather than to resolve the Corporate Debtor. It deserves to be taken
+note of that the present Company Petition is an attempt to exploit
+the provisions of the Insolvency and Bankruptcy Code for purposes
+other than its true and correct objective. There exists a close nexus
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 28 of 31
+
+between the parties, Mr. Nilesh Dahanukar being Secretary of the
+Respondent Company, the personal email address of Mr. Nilesh
+Dahanukar and official email address of the Respondent Company
+is same, and there exists a blatant collusion between the Directors
+of Pan Products and the Petitioner Firm, and the backdrop of
+personal disputes all point towards a blatant attempt to abuse and
+misuse the legal process by misleading the courts. It further
+deserves to be appreciated that by filing a Petition which is evidently
+collusive and motivated by personal disputes, the Petitioner has
+attempted to play fraud on this Hon'ble Tribunal. Such a deception
+is gravely prejudicial to the cause and interest of justice and also to
+the judicial institution as well.”
+[emphasis supplied]
+
+Conclusions
+48.
+From the material which is placed on record and by the sequence of
+events and circumstances, we find sufficient reasons not to agree with the
+grounds raised by the Appellant to admit the Section 9 application. Firstly,
+we find that there is a close nexus between the parties. The Appellant -
+operational creditor and the Respondent-CD-Plastomax Engineering are
+interrelated as the OC has the husband as its Director [Mr Nilesh] and his
+wife [Sheetal] is the Director of CD. Furthermore, Mr Nilesh is also the
+Secretary of the Respondent-CD-Plastomax Engineering. Thus, we find that
+Nilesh had plenty of access not only to the Respondent Company (given the
+ownership cum governing structure mentioned in the foregoing paragraphs)
+but also Petitioner as well as the documentation pertaining to the business
+relationship/transactions between the Petitioner and the Respondent
+Company. Furthermore, Nilesh had access to registered office of the Company
+and to Company's seal, stamp and letterheads and he also had access to
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 29 of 31
+
+Respondent's Director-Mrs. Sheetal Dahanukar’s digital signature which was
+kept in registered office of the Company.
+
+49.
+Both husband and wife were having matrimonial disputes and have
+filed criminal complaints and counter complaints against each other- which
+have not been disputed by the Appellant. Also, a case of forgery has been filed
+by Respondent No. 2 against Appellant-OC-Om Sai’s Director Mr Nilesh and
+proceedings are underway. Since the Director of the operational creditor had
+full access to the management and the governance of the CD, such a situation
+is not possible without him creating it. Mr Nilesh has created a situation in
+which insolvency has been manufactured to make sure that the CD suffers
+and in turn her wife also suffers. There is 3rd entity also namely M/s Pan
+Products whose Director’s [Mr Ghodi] wife Mrs Ashwini is the Director of the
+CD. This third entity is also having strong control in the day to day working
+and affairs of the CD. From the materials placed on record, we find that the
+intervener namely Mrs Sheetal Dahunker - the Director of the CD is not
+having any say in the working of the CD. We find that the personal disputes
+between Mr Nilesh and Ms Sheetal have reached such extreme that Mr Nilesh
+is using the insolvency proceedings through Appellant to settle personal score
+and take revenge.
+
+50.
+It is argued by the Appellant that the debt is clearly an operational debt
+arising from the supply of goods to the respondent, invoices raised and issued
+and demand notice issued and the demand was never disputed and therefore
+there is a debt and a default and which was admitted also. Thus, the
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 30 of 31
+
+Appellant qualifies as an operational creditor and argues that the personal
+and matrimonial disputes raised by the director of the respondent do not
+constitute a dispute as per Section 5(6) of the code. Therefore, the
+adjudicating authority should have admitted the application under Section 9
+of the Code. This argument presumes that all that which has been produced
+before the adjudicating authority is correct and believable and not
+manufactured and fabricated. From the materials placed on record and also
+the sequence of events, we find that personal disputes are being settled by
+creating a situation wherein insolvency is being manufactured against the
+corporate debtor. In such a background, we don’t have any hesitation in
+concluding that the issue of admission under Section 9 does not arise.
+
+51.
+We also agree with the intervener that these are not insolvency
+proceedings but revenge litigation. The claim of operational debt was
+motivated by personal disputes between the parties, specifically the
+matrimonial dispute between Mr Nilesh Dahanukar (partner of the Appellant)
+and Mrs Sheetal Dahanukar (director of the Respondent), and allegations of
+oppression and mismanagement by minority shareholders. We, thus, find
+that the company petition has not been filed for insolvency proceedings but
+is for ulterior motives. We don’t find any infirmity in the findings of the
+adjudicating authority that the Section 9 application has been filed to settle
+personal disputes and such an act is reprehensible. In this background, we
+also agree with the finding of the adjudicating authority for imposition of a
+cost of ₹ 10 lakhs on the petitioner for filing frivolous and motivated petition.
+
+[PAGE 31]
+Company Appeal (AT) (Insolvency) No. 261 of 2025 31 of 31
+
+Orders
+52.
+Accordingly, the appeal is dismissed. All IAs are also disposed of
+accordingly. No orders as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+April 23, 2025.
+
+pawan

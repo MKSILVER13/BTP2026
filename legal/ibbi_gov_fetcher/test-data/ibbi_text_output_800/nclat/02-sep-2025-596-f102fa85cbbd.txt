@@ -1,0 +1,855 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+I.A. No. 4524 of 2025
+In
+Company Appeal (AT) (Insolvency) No. 955 of 2025
+[Arising out of Order dated 01.07.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal, Mumbai Bench – I), in C.P. (IB) No.
+510/MB/2021 & I.A. No. 382 of 2023]
+IN THE MATTER OF:
+
+Kiran Kumar Jain
+...Appellant
+Versus
+
+Cosmos Co-Operative Bank Ltd. & Anr.
+...Respondents
+Present:
+
+For Appellant
+: Mr. Arun Kathpalia & Mr. Abhijeet Sinha, Sr.
+Advocates with Mr. NPS Chawla, Mr. Sujoy Datta,
+Mr. Surekh Kant Buxy, Ms. Kinjal Goyal and Mr.
+Ritwik D. and Mr. Akhil Bhansali, Advocates.
+
+For Respondents
+: Mr. Krishnendu Dutta, Sr. Advocate with Mr.
+Ramchandra Madan, Ms. Mehak Khurana and Mr.
+Tushar Nigam, Advocates for R-1.
+
+Mr. Gaurav Mitra, Mr. Himanshu Shembekar and
+Ms. Aarushi, Advocates for R-2.
+
+Mr. Himanshu Shembekar, Advocate for RP.
+J U D G M E N T
+ASHOK BHUSHAN, J.
+Comp. App. (AT) (Ins.) No. 955/2025
+This appeal by a personal guarantor has been filed challenging the
+order dated 01.07.2025 passed by the adjudicating authority (National
+Company Law Tribunal, Mumbai Bench – I) admitting Section 95 application
+filed by the financial creditor, Cosmos Cooperative Bank Limited & Anr. By
+
+[PAGE 2]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+2 of 23
+the impugned order, adjudicating authority after considering the Report of
+Resolution Professional (RP) admitted Section 95 application by passing an
+order under Section 100 of the Insolvency and Bankruptcy Code, 2016,
+(hereinafter referred to as the ‘IBC’ or the ‘Code’). Aggrieved by the order
+admitting Section 95 application, this appeal has been filed by the personal
+guarantor.
+2.
+Brief facts of the case necessary to be noticed for deciding the appeal
+are:
+i.
+Cosmos Cooperative Bank Limited, the financial creditor granted
+various credit facilities to the corporate debtor M/s. Dilip Chabria
+Design Private Ltd.
+ii.
+Cash credit limit of ₹16 crore and term loan facilities of ₹22 crore as on
+25.06.2014 was sanctioned by the financial creditor. The repayment of
+the said facilities among the others was secured by personal guarantee
+by the deed of guarantee dated 28.07.2014.
+iii.
+Existing facilities were renewed and deed of guarantee was issued on
+29.09.2015 and further the deed of guarantee was issued on
+26.11.2015.
+iv.
+The above guarantee issued in 2014–15 was issued by personal
+guarantors, which did not include the appellant herein.
+v.
+A fresh loan agreement was executed on 02.03.2016 and a deed of
+guarantee was executed on 02.03.2016 by personal guarantors of the
+corporate debtor including the appellant.
+
+[PAGE 3]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+3 of 23
+vi.
+On 02.03.2016, a promissory note was also issued for an amount of
+₹44 crore by personal guarantors, including the appellant. Continuing
+guarantee, letter of lien was also issued on 02.03.2016 by the personal
+guarantor including the appellant. The corporate debtor failed to
+honour the repayment obligations hence a call back was issued by the
+financial creditor dated 31.08.2018 to the corporate debtor and also to
+personal guarantors, including the appellant asking to repay the entire
+outstanding loan amount of ₹36,23,10,825/- as on 01.08.2018 within
+seven days.
+vii.
+The bank also issued a notice under Section 13(2) to the corporate
+debtor and all personal guarantors dated 05.10.2018, referring to the
+various guarantee agreements, including guarantee agreement dated
+02.03.2016. Outstanding amount mentioned was ₹37,20,41,186/- as
+on 30.09.2018.
+viii.
+Cosmos Cooperative Bank Limited (hereinafter referred to as the ‘Bank’)
+also filed the application before the Debt Recovery Tribunal (DRT),
+claiming an amount of ₹38,72,48,452/-.
+ix.
+Appellant on 09.11.2020 filed a Counter Claim No. 01/2021 before the
+DRT. In the meantime, Section 7 proceeding were initiated against the
+corporate debtor by a different financial creditor which was admitted on
+14.12.2018, the said proceedings came to be settled by order dated
+17.09.2019, Section 7 application was admitted against corporate
+debtor initiated by one Creative Garments Private Limited, in which
+proceedings subsequently an order of liquidation has been passed
+against the corporate debtor.
+
+[PAGE 4]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+4 of 23
+x.
+The bank issued a notice on 31.07.2020 under Rule 7(1) of
+the Insolvency and Bankruptcy (Application to Adjudicating Authority
+for Insolvency Resolution Process of Personal Guarantors to Corporate
+Debtors) Rules, 2019, calling upon the appellant, the personal
+guarantor to pay unpaid debt of ₹39,64,17,695/-, demand notice dated
+31.07.2020 was replied by the appellant on 14.09.2020.
+xi.
+It was stated by appellant that appellant is also a financial creditor of
+corporate debtor, who owes an amount of ₹95,24,91,521/- and a claim
+has also been filed in the Corporate Insolvency Resolution Process
+(CIRP) of the corporate debtor by the appellant.
+xii.
+It was pleaded that appellant was informed by the management that
+additional capital was required for operation of the company for which
+they approached the bank for additional funding of ₹44 crore for which
+the appellant was requested to give a guarantee. It was pleaded that
+no amount was disbursed by the bank, hence there is no valid claim
+against the personal guarantor, no amount was disbursed for which
+guarantee was obtained from the appellant. After serving notice under
+Rule 7, the bank filed a Section 95 application being C.P. No.510/2021
+on 07.12.2020.
+xiii.
+Appellant has also filed an arbitration application under Section 9 of
+the
+Arbitration
+and
+Conciliation
+Act,
+1996,
+on
+26.08.2021.
+Adjudicating Authority appointed the RP. Appellant also filed an I.A. in
+the company petition seeking a declaration of deed of guarantee
+02.03.2016 as null and void. Reply was also filed by the bank to the
+IA. The RP submitted report under Section 99 on 22.02.2020
+
+[PAGE 5]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+5 of 23
+recommending admission of Section 95 application. Appellant filed its
+response to the Report. Parties were heard by adjudicating authority
+and vide order dated 01.07.2025 admitted Section 95 application.
+Adjudicating authority held that guarantee deed dated 02.03.2016 was
+invoked. The amount of ₹44 crore for which guarantee was given was
+the amount already granted and disbursed by the bank. Appellant have
+given guarantee to guarantee the repayment for Rs.44 crore which
+amount had already has granted by bank. Adjudicating authority held
+that Section 95 application was filed after service of demand notice on
+the personal guarantor.
+xiv.
+Aggrieved by the order admitting Section 95 application, this appeal has
+been filed.
+3.
+We have heard learned senior counsels Mr. Arun Kathpalia and Mr.
+Abhijit Sinha appearing for the appellant. Learned senior counsel Mr.
+Krishnendu Dutta has appeared for the Bank. Learned counsel Mr. Gaurav
+Mitra has appeared for the RP.
+4.
+Learned counsel for the appellant challenging the impugned order
+submits that the guarantee was given by the appellant on 02.03.2016 on the
+representation of the corporate debtor that corporate debtor requires
+additional finance for carrying its operation for which bank has agreed to
+sanction ₹44 crore. The amount of ₹44 crore for which guarantee was given
+by appellant never came to be sanctioned or disbursed subsequent to
+02.03.2016, no amount of ₹44 crore having been disbursed by the bank.
+There is no liability of appellant for any repayment there is no debt no default
+attributable to the appellant. It is further pleaded that guarantee was never
+
+[PAGE 6]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+6 of 23
+invoked, there is no crystallised liability on the appellant. The deed of
+guarantee 02.03.2016 clearly pertains only to proposed fresh facility.
+Adjudicating authority, exceeded its summary jurisdiction by interpreting the
+commercial document and imputing liability for past loans, which was
+secured by separate personal guarantee executed by other directors in the
+year 2014–15. It is submitted that in the application filed before the DRT by
+the bank, claiming recovery of the amount, counter claim has already been
+filed where the appellant has questioned liability qua the guarantee dated
+02.03.2016. The issue of guarantee dated 02.03.2016 being pending
+adjudication, bank was not authorised to file Section 95 application.
+Appellant is a solvent individual with positive net worth. Appellant is also
+financial creditor of the corporate debtor, it has filed its claim in CIRP of the
+corporate debtor. Bank has proceeded to initiate proceeding only against the
+appellant, whereas, there are other directors, personal guarantors of the
+corporate debtor, with whom the bank has not proceeded with. There is no
+evidence of any legally enforceable debt against the appellant.
+5.
+Learned counsel for the bank refuting the submissions of the appellant
+submits that appellant admittedly has execute a personal guarantee dated
+02.03.2016, which guarantee clearly covered the facilities agreed to grant
+and/or continue to grant and/or granted to the borrower. The guarantee
+mentions aggregate sum of ₹44 crore which was facilities already granted.
+The guarantee thus clearly cover the facilities already extended to the
+borrowers i.e., the corporate guarantee. It is on the record that Rs.22 crore
+term loan was granted and disbursed to the borrower with cash credit limit of
+₹21 crore and further credit of Rs.1 crore. Loan agreement was also executed
+
+[PAGE 7]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+7 of 23
+on 02.03.2016, which in paragraph 5 has referred to credit facilities
+aggregating to ₹44 crore. The said loan agreement contained the
+repayment/prepayment of the term loan, which repayment was to begin with
+payment of first instalment on 04.03.2016. The loan agreement further
+contemplated the issue of unconditional guarantee by personal guarantors,
+including the appellant. Appellant also on the same day, executed a
+promissory note for repayment of ₹44 crore, letter of continuing security and
+letter of lien on 02.03.2016. The execution of aforesaid documents on
+02.03.2016 by the appellant clearly indicate that appellant was well aware of
+the financial facilities already granted to the borrower and gave personal
+guarantee to ensure the repayment. The appellant’s case that no
+disbursement having been made subsequent to 02.03.2016, there is no
+liability of the appellant cannot be accepted. The guarantee also covered the
+facilities already granted, and the bank has proved by filing relevant
+statement of account of the corporate debtor to prove the disbursement and
+outstanding in the cash credit account. Disbursal of term loan and facility of
+cash credit extended was fully proved by the bank. The submission of the
+appellant that deed of guarantee was never invoked also cannot be accepted.
+Call back notice dated 31.08.2017 was issued to other personal guarantors
+including the appellant demanding the amount from all. Section 13(2) notice
+also referring to the various guarantee is called upon the corporate debtor and
+all personal guarantor to make the repayment hence the guarantee was fully
+invoked. Section 95 application was filed on 07.12.2020 after service of notice
+under Rule 7 dated 31.07.2020. The RP has rightly submitted a Report after
+considering all relevant facts, recommending admission of Section 95
+
+[PAGE 8]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+8 of 23
+application. The counter claim filed by the appellant before the DRT cannot
+be a ground to ignore the guarantee deed dated 02.03.2016. Before the
+adjudicating authority and before this tribunal, appellant's case is not that he
+has not executed the guarantee 02.03.2016, rather appellant is contending
+that no disbursal having been made of ₹44 crore subsequent to 02.03.2016,
+there is no liability of the appellant, which contention is wholly unacceptable.
+Appellant was well aware of the financial facilities already extended to the
+corporate debtor prior to 02.03.2016, for which guarantee was given.
+6.
+We have considered the submissions of counsel for the parties and
+perused the records.
+7.
+There is no dispute between the parties that corporate debtor availed
+the various credit facilities from the bank. The term loan of ₹22 crore with
+cash credit limit of ₹21 crore, the said facilities were obtained in the year
+2014-15 for which guarantee was given on 28.07.2014 and further guarantee
+deeds were given on 29.09.2015 and 26.11.2015 by other personal guarantors
+including Dilip Chabria. The appellant gave guarantee subsequently on
+02.03.2016 to secure the repayment of debt of the bank.
+8.
+The principal submission which has been advanced by the appellant is
+that since no disbursal of credit facility of ₹44 crore was extended by the bank
+subsequent to the issuance of guarantee on 02.03.2016 by the appellant there
+is liability or debt on the appellant nor any default can be imputed to the
+appellant since no disbursal was made after 02.03.2016. The bank has filed
+all relevant deed of guarantee including deed of guarantee dated 02.03.2016
+as well as other document executed on 02.03.2016 including the loan
+agreement dated 02.03.2016. There is no dispute that the earlier guarantee
+
+[PAGE 9]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+9 of 23
+was given by Dilip Harikishin Chabria and other directors of the corporate
+debtor in 2014-15 and it was for the first time that appellant was part of the
+deed of guarantee on 02.03.2016.
+9.
+We may first notice the loan agreement dated 02.03.2016 which is
+brought on record. The loan agreement dated 02.03.2016 was executed by
+the bank and the corporate debtor. Paragraph 5 of the loan agreement is as
+follows:
+“5. The Borrower/s agree/s to borrow from the Bank
+and the Bank at the request of the Borrower/s having
+agreed to grant and / or continue to grant and / or
+granted to the Borrower's the following credit
+facility/les with a limit of / and / or an aggregate limit
+of Rs. 44,00,00,000/-:
+Facility/ies
+Principal sum
+limits (In
+lacs/crores)
+Rate of
+Interest
+Cash Credit
+(Hypothecation of
+stocks and book debts
+2100.00
+12.25%
+Bill Discounting Facility
+
+Term Loan for purchase
+of machinery
+2200.00
+12.25%
+Term Loan for land and
+building
+
+Term Laon for other
+purpose
+
+Bank Guarantee Limit
+
+Letter of Credit
+(inland/foreign)
+
+Letter of Credit (one
+time)
+100.00
+
+Working Capital Term
+Loan
+
+Specific Loan for
+specific purpose (SLSP)
+
+Packing Credit
+
+Cheque Purchase
+Facility
+
+Ad-hoc Facility/ Stand
+by Credit
+
+[PAGE 10]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+10 of 23
+Total
+4400.00
+
+On the terms and conditions contained herein and such
+other conditions as may be stipulated by the Bank from
+time to time.”
+10.
+The above paragraph mentions cash credit of ₹21 crore term loan of ₹22
+crore and loan of credit of ₹1 crore totalling to ₹44 crore. Under the heading
+repayment, with regard to term loan the amount was to be repaid in 60 equal
+quarterly instalment of Rs.55,60,000/- and which instalment was to begin on
+04.03.2016. Thus, the loan agreement indicated that the repayment has to
+begin with effect from 04.03.2016 for term loan. Repayment begins on
+04.03.2016 clearly proves that loan was already disbursed. Article 2 of the
+loan agreement deals with is of (securities for credit facilities). The Schedule
+II, Clause 5 provides that borrower shall procure irrevocable and
+unconditional guarantees in the form prescribed by the bank from corporate
+debtor and other guarantors. In paragraph 5, the name of appellant was also
+mentioned. The agreement dated 02.03.2016 also mentions the name of
+appellant Kirankumar Moolchand Jain as one of the guarantors at item No.
+5. The guarantee is for banking facility for credit sum of ₹44 crore. Clause 1
+of the guarantee deed reads as follows:
+“1. In consideration of the Bank at the request of the
+Borrower/s, having agreed to grant and/or continue to
+grant and/or granted to the Borrower/s banking
+facility/ies or accommodation for a sum and/or for an
+aggregate sum of Rs. 44,00,00,000/-pursuant to the
+sanction
+letter
+dated
+_______
+and
+punctually
+repay/pay the aforesaid amount/s together with
+further interest, The Borrower/s shall duly costs,
+charges
+and
+expenses
+and
+all
+other
+monies,
+whatsoever stipulated in or payable under the Banking
+facility/ies and/or other security documents, and
+perform and comply with all other terms, conditions
+and covenants contained in the loan document and
+
+[PAGE 11]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+11 of 23
+other security documents. In the event of any default
+on part of the Borrower/s in payment/re-payment of
+any of the monies referred herein above, or in the event
+of default on the part of the Borrower to comply with or
+perform any of the terms, conditions and covenants
+contained in the Loan document or other security
+document, the Guarantor/s shall, upon demand,
+forthwith pay to the Bank without demurall the
+amount/s payable by the Borrower/s under the
+aforesaid Banking facility/ies. Any such demand
+made by the Bank on the Guarantor/s shall be final,
+conclusive and binding notwithstanding any difference
+or
+any
+dispute
+between
+the
+Bank
+and
+the
+Borrower/s/Arbitration/or
+any
+other
+legal
+proceeding/s pending before any Court/s, Tribunal/s,
+Arbitrator/s or any other authority/ies.”
+11.
+Clause 4 of the guarantee deed also mentions that the guarantee shall
+be irrevocable and obligation of the guarantor shall not conditional and
+receipt of any prior notice by the guarantor or borrower and demand of the
+notice by the bank for payment shall be sufficient notice to the notice of
+demand to the guarantor. Clause 4 is as follows:
+“4. The Guarantor/s hereby agree that this guarantee
+shall be irrevocable and the obligations of the
+Guarantor/s hereunder shall not be conditional on the
+receipt of any prior notice by the Guarantor/s or by the
+Borrower/s and the demand or notice by the Bank for
+payment or notice under this guarantee shall be
+sufficient notice to or demand on the Guarantor/s. This
+guarantee shall be continuing one and shall remain in
+full force and effect and/or binding on the legal
+representative, executor, administrator, successor and
+assigns till such time the Borrower/s repay/pay in full
+the amount mentioned herein above together with all
+interest, commission, cost, charges and expenses and
+all other monies whatsoever stipulated in or payable
+under the Loan document and/or other documents.”
+12.
+Clause 1 of the guarantee deed uses the expression “in consideration of
+the bank at the request of the borrowers having agreed to grant and/or
+continue to grant and/or granted to the borrower banking facilities or
+
+[PAGE 12]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+12 of 23
+accommodation for sum and/or for aggregate sum of Rs.44 crores pursuant
+to the sanction letter dated _______. The borrower shall duly and punctually
+pay the aforesaid amount together with further interest costs, charges and
+expenses and all other monies, whatsoever stipulated in or payable under the
+Banking facilities and/or other security documents, and perform and comply
+with all other terms, conditions and covenants contained in the loan
+document and other security documents. Thus, the guarantee contemplates
+the facilities GRANTED TO THE BORROWER.
+13.
+Facilities of ₹44 crore have already been granted to the borrower which
+was duly proved by the bank by producing the relevant records including the
+bank statement. The submission of the appellant that the said guarantee was
+given by the appellant only on the representation that guarantee is given by
+the appellant for disbursement of ₹44 crore which was to be made after
+execution of the deed of guarantee cannot be accepted. The guarantee by a
+personal guarantor can be issued for a consideration which has already been
+received by a borrower or to be received by borrower and in the facts of the
+present case the facility of ₹44 crore has already been received by the borrower
+which is amply proved. The submission of the appellant that since no
+disbursement was made on ₹44 crore subsequent to the execution of the
+personal guarantee by the appellant hence there is no liability on the
+appellant cannot be accepted. We have noticed the loan agreement which
+clearly also contains the same expression that the bank at request of the
+borrower having agreed to grant and/or continue to grant and/or granted to
+the borrower. Thus, the loan agreement subsequently mentions cash credit
+of ₹21 lakhs term loan of ₹22 crores and letter of credit of ₹1 crore totalling to
+
+[PAGE 13]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+13 of 23
+₹44 crores thus clearly refers to facilities granted to the borrower by the bank.
+Use of expression granted to the borrower clearly covers all facilities which
+were granted and existing.
+14.
+We have also noticed the Clause under the heading repayment in the
+loan agreement, which clauses is as follows:
+“REPAYMENT/PREPAYMENT
+1. The Borrower shall repay the term loan of Rs.
+22,00,00,000/-
+by
+60
+equal
+monthly/quarterly
+Instalment of Rs. 55,05,000/- together with accrued
+interest as set out in SCHEDULE IIT hereunder written,
+the first of such instalments being payable on the 4th
+day of March 2016 and the subsequent Instalments
+being payable on the 4th day of each succeeding
+month/quarter until the entire loan is repaid in full.
+PROVIDED THAT the repayment schedule advised and
+mentioned in Schedule-III in this agreement may
+change and/or extend in view of modification/
+enhancement of rate/s of interest. The Borrower
+agrees and undertakes to such change or extend the
+repayment schedule fill the entire term loan is repaid
+in full.
+2. The Borrower/s shall have an option to prepay the
+entire
+loan/advances
+or
+any
+part
+thereof.
+If
+prepayment of the entire term loan is made then the
+Borrower/s has to pay as per 5% sanction letter
+prepayment charges on the outstanding balance
+amount for the entire unexpired period of the loan.”
+15.
+Repayment of the loan had to begin on 04.03.2016 which is a clear
+stipulation in the loan agreement thus, repayment of the loan clearly pre-
+supposes the receipt of facilities and two days after the execution of the
+guarantee the repayment had to begin. We have further noticed that under
+Schedule II of the loan agreement, the borrower undertaken to procure
+irrevocable and unconditional guarantees from several person including the
+
+[PAGE 14]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+14 of 23
+appellant whose name was specifically mentioned in Clause 5 of the loan
+agreement.
+16.
+It is also on the record that on 02.03.2016 a promissory note was issued
+by all guarantors including the appellant who give a promissory note to the
+bank to repay amount of ₹44 crores which promissory note was also brought
+on the record by the bank. Promissory note is part of Annexure A-9 to the
+appeal. Promissory note was also executed by appellant who is referred as
+authorised director. Promissory note was issued for an amount of ₹44 crore.
+There was no occasion for issuance of promissory note unless a consideration
+has already received. Continuing security of ₹44 crore was also issued by
+corporate debtor and other personal guarantors which was also signed by the
+appellant. Sufficient material was brought on the record by the bank to prove
+that guarantee dated 02.03.2016 was in consideration of the facilities granted
+by the bank to the corporate debtor aggregating to ₹44 crore.
+17.
+We thus are not persuaded to accept the submission of the appellant
+then there being no disbursal after 02.03.2016 of ₹44 crore, the appellant is
+not liable for any debt. Appellant having given personal guarantee on
+02.03.2016, which guarantee also extended facilities granted by the bank to
+the borrower, which facilities were aggregating to ₹44 crore as on the date.
+18.
+The submission of the appellant that management has represented the
+appellant that bank shall agree to give further credit of ₹44 crore for starting
+new business and appellant gave guarantee only on the representation that a
+new business shall be started by the corporate debtor with fresh financial
+credit cannot be accepted. The execution of the guarantee on 02.03.2016 is
+not denied by the appellant. The guarantee deed with other documents have
+
+[PAGE 15]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+15 of 23
+to be read in the manner as the deed and document contains the recitals and
+recommendation.
+19.
+We thus reject the submission of the appellant that there is no liability
+on the appellant since no disbursal of ₹44 crore was made subsequent to
+02.03.2016.
+20.
+Insofar as submission of the appellant that guarantee was not invoked
+the said submission is belied from the call back notice dated 31.08.2018 and
+Section 13(2) notice dated 05.10.2016 which notices were part of Section 95
+application and after the aforesaid notices, the bank initiated proceedings
+under Section 19 for recovery before the DRT in which counter claim has been
+filed. Notice under Rule 7(1) 2019 dated 31.07.2018 was duly served which
+was also replied by the appellant. There is a clear material to indicate that
+guarantee was duly invoked and the application under Section 95 was filed
+by the bank after due invocation of the personal guarantee.
+21.
+The submission of the appellant that his counter claim filed before the
+DRT, where he has questioned the liability as per guarantee deed dated
+02.03.2016 is pending consideration hence bank was not entitled to initiate
+proceedings under Section 95 cannot be accepted. The fact that application
+for recovery of the debt filed by the bank before the DRT is pending along with
+counter claim filed by the appellant does not preclude the bank from initiating
+proceeding Section 95 of the IBC which is separate remedy provided by the
+bank.
+22.
+We thus do not find any substance in the submission of the counsel for
+the appellant that pendency of the counter claim in any manner preclude the
+initiation of proceeding under Section 95.
+
+[PAGE 16]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+16 of 23
+23.
+The submission of the appellant that bank has proceeded to initiate
+proceeding only against the appellant, whereas, it has chosen not to
+proceeded against other co-guarantors who were also part of guarantee dated
+02.03.2016 also does not commend us. It is for the bank to proceed against
+one or all personal guarantors of a corporate debtor under Section 95 and the
+mere fact that bank has proceeded against the appellant cannot be any reason
+to reject any application under Section 95 filed by bank against one personal
+guarantors. The submission of the appellant is that appellant is solvent with
+positive of networth. It is always open for the appellant to submit a repayment
+plan before the RP as per the provisions of the IBC which shall be considered
+and decided in accordance with law.
+24.
+We, thus do not find any ground raised by the appellant warranting any
+interference with the order of the adjudicating authority admitting Section 95
+application.
+I.A. No. 4524 of 2025
+In
+Company Appeal (AT) (Insolvency) No. 955 of 2025
+25.
+IA No.4524 of 2025 has been filed by the Applicant/Appellant praying
+for following reliefs:-
+“(a) Take on record the Settlement Agreement dated
+01.08.2025 executed between the Appellant and
+Respondent No.1;
+(b) Pass an order disposing of the present Appeal in
+terms of the Settlement Agreement;
+(c) Pass directions for closure of the insolvency
+resolution process initiated pursuant to the order
+dated 01.07.2025 in CP (IB) No. 510 (MB) of 2021
+before the Hon’ble National Company Law Tribunal,
+Mumbai;
+
+[PAGE 17]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+17 of 23
+(d) Pass such other & further order(s) as this Hon’ble
+Appellate Tribunal may deem fit and proper in facts
+and circumstances of the case.”
+26.
+The Applicant’s case is that after filing of the present Appeal challenging
+the order dated 01.07.2025 admitting application under Section 95 filed by
+Cosmos Co-operative Bank Ltd. against the Appellant, the personal
+guarantor, the Bank has entered into settlement and executed a Settlement
+Agreement dated 01.08.2025. Counsel for the Appellant submitted that in
+view of the Settlement Agreement, the Appellant has undertaken to make
+payment of Rs.15 Crore to the Cosmos Co-operative Bank, the Respondent
+No.1 in the manner as agreed in the Settlement Agreement and Bank has
+agreed to discharge the personal guarantee. Submission of the Counsel for
+the Appellant is that in view of the Settlement, the Appeal be disposed of and
+personal insolvency resolution process initiated against the Appellant by
+order dated 01.07.2025 be closed.
+27.
+In the above application, Reply has been filed by the Resolution
+Professional. Counsel for the Resolution Professional referring to the reply
+submits that in pursuance of the order dated 01.07.2025 initiating personal
+insolvency against the Appellant, publication was made on 04.07.2025. It is
+submitted that initially the matter was reserved in the present Appeal on
+08.07.2025. Resolution Professional received e-mail dated 24.07.2025 from
+Deputy Commissioner of Income Tax by which claim of Rs.17,80,96,393/-
+has been received which receipt was acknowledged by the Resolution
+Professional. The claim was also partly admitted and remaining provisionally
+admitted. Resolution Professional also submits that he was apprised by the
+Appellant and the Bank that they have executed a Settlement Agreement on
+
+[PAGE 18]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+18 of 23
+01.08.2025 and amount of Rs.5 Crore has already been paid to the Bank.
+Appellant intimated the Resolution Professional on 09.08.2025 that Appellant
+is entitled to refund of nearly Rs.19.5 Crore of the Department. Counsel for
+the Resolution Professional refers to the Insolvency and Bankruptcy
+(Application to Adjudicating Authority for Insolvency Resolution Process for
+Personal Guarantors to Corporate Debtors) Rules, 2019 and submits that post
+admission, Application can be allowed to be withdrawn if 90% of the creditors
+consent to such withdrawal. It is submitted that the list of creditors has not
+been uploaded in view of the interim order passed on 06.08.2025 by this
+Tribunal in the present application.
+28.
+Counsel for the Appellant in his rejoinder submission submits that in
+view of the Settlement Agreement with the Bank, personal insolvency initiated
+by order dated 01.08.2025 needs to be closed. It is submitted that the
+Resolution Professional has erroneously admitted the claim of Income Tax
+Department whereas the crystallised demand has already been set aside by
+the Commissioner of Income Tax (Appeals) vide order dated 19.12.2018 which
+was upheld by the High Court. In paragraph 15 of the rejoinder, details of the
+orders by which demand of different assessment years have been set aside
+have been mentioned. It is further submitted that no demand/ assessment
+could have been initiated during interim Moratorium period. It is submitted
+that this Tribunal under the inherent powers can permit CIRP to be
+withdrawn.
+29.
+Counsel for the Bank does not dispute the settlement with the
+Appellant, however, it is submitted that under Settlement, payments are
+
+[PAGE 19]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+19 of 23
+required to be paid by the Appellant in phased manner and in event, the
+default is committed by the Appellant, there shall be liberty to Bank to initiate
+proceeding in accordance with law.
+30.
+We have considered the submissions of the Counsel for the parties
+made in the IA No.4524 of 2025 as noted above.
+31.
+Section 95 application filed by the Cosmos Co-operative Bank Ltd. was
+admitted by order dated 01.07.2025 against which Appeal was filed. Appellant
+was initially heard on 08.07.2025 and orders were reserved and thereafter
+this IA No.4524 of 2025 was filed by the Appellant after taking liberty from
+this Tribunal which was directed to be listed by order dated 06.08.2025 is as
+follows:-
+“06.08.2025:
+This
+Appeal
+was
+heard
+and
+judgment was reserved on 08.07.2025. With liberty,
+the Appellant has filed an IA No.4524 of 2025
+bringing on record the settlement with the Bank
+dated 01.08.2025.
+2. Counsel for the Applicant/ Appellant submits that
+in view of the fact that the Bank who has initiated
+Personal Insolvency Proceeding has entered into
+settlement, Section 95 proceedings be permitted to
+be withdrawn.
+3. Counsel for the Resolution Professional prays that
+he be permitted to file the reply to the IA. We allow
+one week’s time to the Resolution Professional to file
+reply.
+4. Counsel for the Bank may also obtain
+instructions and may file reply, if any, before the
+date fixed.
+5. List this Application for consideration on
+13.08.2025.
+
+Counsel for the Resolution Professional may
+communicate the Resolution Professional that he
+may not take any further steps.”
+
+[PAGE 20]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+20 of 23
+32.
+Settlement Agreement between Appellant and Cosmos Co-operative
+Bank Ltd. which initiated personal insolvency proceeding against the
+Appellant- personal guarantor has been entered which settlement dated
+01.08.2025 has been brought on the record as Annexure A-1 to the
+application. The question which need to be considered is as to whether on the
+basis of settlement, the insolvency resolution process initiated against the
+Appellant- personal guarantor need to be closed in this Appeal. Rule 11 of the
+Insolvency and Bankruptcy (Application to Adjudicating Authority for
+Insolvency Resolution Process for Personal Guarantors to Corporate Debtors)
+Rules, 2019 provides for ‘withdrawal of application’. Rule 11 provides as
+follows:-
+“11. Withdrawal of application. ― (1) The
+Adjudicating Authority may permit withdrawal of the
+application submitted under rule 6 or rule 7, as the
+case may be,-
+(a) before its admission, on a request made by the
+applicant;
+(b) after its admission, on the request made by the
+applicant, if ninety per cent. of the creditors agree to
+such withdrawal.
+(2) An application for withdrawal under clause (b) of
+sub-rule (1) shall be in Form D.”
+33.
+Counsel for the Appellant has referred to the Insolvency and
+Bankruptcy Board of India (Insolvency Resolution Process for Personal
+Guarantors to Corporate Debtors) Regulations, 2019. It is submitted that
+under sub-regulation (5) of Regulation 7, the Resolution Professional shall
+verify each claim as soon as it is received and prepare a list of creditors within
+30 days from the date of public notice. It is further submitted that the
+
+[PAGE 21]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+21 of 23
+Resolution Professional shall modify the amounts of claims admitted, after he
+comes across additional information. Regulation 7(5) and 7(7) is as follows:-
+“7. Submission and verification of claim.- (5) The
+resolution professional shall verify each claim as soon
+as it is received and prepare a list of creditors under
+sub-section (1) of section 104 within thirty days from
+the date of public notice.
+(7) The resolution professional shall modify the
+amounts of claims admitted, including the estimates of
+claims made under sub-regulation (6), as soon as may
+be practicable, after he comes across additional
+information warranting such revision, till the approval
+of a repayment plan by the creditors.”
+34.
+Regulation 9 provides for ‘list of creditors’. Regulation 9 is as follows:-
+“9. List of creditors. (1) The list of creditors under sub-
+section (1) of section 104 shall contain the names of
+creditors, amount claimed, amount admitted and security
+interest, if any, in respect of such claims.
+(2) The resolution professional shall –
+(a) make the list of creditors available for inspection
+by the persons who submitted claims with proof;
+(b) serve a copy of the list of creditors to the guarantor;
+(c) make available the list of creditors on the website,
+if any, of the guarantor;
+(d) present the list of creditors at the meeting of
+creditors; and
+(e) file a certified copy of the list of creditors with the
+Adjudicating Authority along with the repayment
+plan.”
+35.
+Rule 11 of the Insolvency and Bankruptcy (Application to Adjudicating
+Authority for Insolvency Resolution Process for Personal Guarantors to
+Corporate Debtors) Rules, 2019 contains withdrawal of application filed by
+creditors or guarantor. In the present case, Section 95 application having
+already been admitted on 01.07.2025 against which order this Appeal has
+been filed.
+
+[PAGE 22]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+22 of 23
+36.
+We have considered the respective submissions of the parties in the
+Company Appeal (AT) (Insolvency) No.955 of 2025 and have come to the
+conclusion that the order of admission of the Adjudicating Authority cannot
+be faulted. We having upheld the order dated 01.07.2025 admitting Section
+95 application, for withdrawal of application procedure as contemplated
+under Rule 11(1)(b) has to be followed.
+37.
+Counsel for the Resolution Professional submits that he shall publish
+the list of creditors after modification in the amount of claim as per materials
+now received by the Resolution Professional and thereafter shall ascertain as
+to whether 90% of the creditors have agreed to such withdrawal.
+38.
+In view of the aforesaid, we are of the view that IA No.4524 of 2025
+needs to be disposed of in following manner:-
+i.
+Resolution Professional may upload the list of creditors along with the
+respective amount admitted.
+ii.
+The Financial Creditor is permitted to file an application for withdrawal
+of Section 95 application before the Adjudicating Authority.
+iii.
+The Resolution Professional shall ascertain as to whether 90% of the
+creditors agree to withdrawal of Section 95 application and submit
+report/affidavit before the Adjudicating Authority on the application for
+withdrawal as noted above.
+39.
+It shall be open for the Adjudicating Authority to consider the
+application for withdrawal and pass appropriate order as per Rule 11 of the
+Insolvency and Bankruptcy (Application to Adjudicating Authority for
+
+[PAGE 23]
+I.A. No. 4524 of 2025 in Comp. App. (AT) (Ins.) No. 955 of 2025
+23 of 23
+Insolvency Resolution Process for Personal Guarantors to Corporate Debtors)
+Rules, 2019.
+40.
+In result of foregoing discussions, we uphold the order dated
+01.07.2025 passed by the Adjudicating Authority admitting Section 95
+application. IA No.4524 of 2025 is disposed of as above.
+In result, both the appeal as well as IA No.4524 of 2025 are disposed of
+as above.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+NEW DELHI
+02nd September, 2025
+himanshu/anjali

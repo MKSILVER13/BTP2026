@@ -1,0 +1,714 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+
+[Arising out of the Impugned Order dated 17.10.2023 passed by
+the Adjudicating Authority, National Company Law Tribunal,
+Mumbai Bench, Court-V in C.P. (IB) No. 533/MB/2022]
+In the matter of:
+Pravin Electricals Private Ltd.
+E-S/2, First Floor, Highland Park,
+Jai Shastri Nagar, Mulund (West),
+Mumbai – 400 082, Maharashtra
+Through Its Director
+Ms. Rechel Philip Sajesh
+
+...Appellant
+Versus
+
+Akshaya Engineering Works Private Ltd.
+602 B, Vaibhav Giri, Siddhanchal Phase I,
+Off. Pokhran Road, Near Vasant Vihar,
+Thane – 400 601, Maharashtra
+
+...Respondent
+Present:
+
+For Appellant
+: Mr. Gaurav Mitra with Ms. Poorva Garg, Ms. Lavanya
+Pathak, Mr. Abhay Sinha and Mr. Saswat Patnaik,
+Advocates.
+
+For Respondent
+: Mr. Pragyan Pradip Sharma, Sr. Advocate with Mr.
+Manish Sarkar, Mr. Hardik Jain, Mr. Rustam Chaudhuri
+and Mr. Kushagra Goyal, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+17.10.2023 (hereinafter referred to as ‘Impugned Order’) passed by the
+
+[PAGE 2]
+Page 2 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-V)
+in C.P. (IB) No. 533/MB/2022. By the impugned order, the Adjudicating
+Authority has admitted the Section 9 application filed by the Appellant-
+Operational Creditor and admitted the Corporate Debtor the rigours of
+Corporate Insolvency Resolution Process (“CIRP” in short). Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant.
+2.
+Coming to the brief factual matrix of the case at hand, we notice that
+the Corporate Debtor-Pravin Electricals Pvt. Ltd. had been awarded two
+contracts by the Maharashtra State Electricity Distribution Company Ltd.
+(“MSEDCL” in short) on 07.03.2018. While one contract was for supply of
+equipment and material for which an Agreement for Supply was entered into
+for an amount of Rs 33.33 Cr., the second contract was for installation of
+plant and equipment for which an Agreement for Services was entered into
+for an amount of Rs 9 Cr. In terms of the two contracts, the project was to be
+completed within a span of 18 months. The contracts allowed the Corporate
+Debtor to sub-contract the works to another party. The Appellant-Corporate
+Debtor sub-contracted the work to Akshaya Engineering Works Pvt. Ltd.–
+Operational Creditor. The Appellant had awarded two Letters of Award (“LoA”
+in short) in favour of the Operational Creditor-Respondent on 07.7.2018
+which culminated into two contracts viz. Contract Agreement for Services and
+Contract Agreement for Supply which were both dated 07.07.2018. Prior to
+subcontracting the work by the Corporate Debtor, the MSEDCL had issued
+two Notices to Correct on 09.04.2018 and 19.05.2018 on the Corporate
+Debtor for delay in execution of work. Pursuant to the sub-contract, the
+Operational Creditor claimed to have provided the services/supplies in terms
+
+[PAGE 3]
+Page 3 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+of the Contract Agreements and thereafter raised 17 invoices against which
+the Corporate Debtor purportedly made only partial payment. As the residual
+payments were not forthcoming, the Operational Creditor sent a Demand
+Notice dated 14.12.2021 under Section 8 of the IBC to the Corporate Debtor.
+The Corporate Debtor replied to the Demand Notice on 25.02.2022. Since the
+default continued, the Operational Creditor filed the Section 9 application on
+16.03.2022 for an outstanding debt of Rs 1.54 Cr. including interest. Holding
+that the Operational Creditor had successfully demonstrated the existence of
+debt and default with no pre-existing dispute between the parties, the
+Adjudicating Authority admitted the Section 9 application vide impugned
+order dated 17.10.2023. Aggrieved by the impugned order, the present appeal
+has been preferred by the Authorised Representative of the Corporate Debtor
+3.
+Making his submissions, Shri Gaurav Mitra, Ld. Counsel for the
+Appellant vehemently contended that the outstanding dues claimed by the
+Operational Creditor of Rs 1.54 Cr. is disputed being neither due nor payable.
+It was submitted that the Contract Agreements for supply and services which
+was entered into by the Appellant with the Respondent mirrored
+corresponding terms as in the contract awarded to the Corporate Debtor by
+MSEDCL including the payment terms which were back-to-back as per
+contract of the Corporate Debtor with the MSEDCL. The Corporate Debtor
+had already paid 60% of the material supply invoices and 90% of the
+service/installation invoices as stipulated in the terms of payment. The
+balance amount was payable only on final reconciliation and closure of the
+project by the MSEDCL. Mere raising of invoices did not entitle the
+Respondent to receive payment. The Respondent never produced any
+
+[PAGE 4]
+Page 4 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+authentic HOTO Certificate before the Adjudicating Authority to show that
+work was completed as per terms of the contract but relied on an undated
+and unsigned extract of this certificate which was not even issued on
+letterhead of MSEDCL. In any event, the Respondent could not have obtained
+HOTO certificate as they had failed to erect, test and commission all the
+materials supplied up to the standards of satisfaction as set out by MSEDCL.
+Since reconciliation of running accounts was still pending with MSEDCL and
+financial account statement was yet to be received from MSEDCL, the balance
+payments of 40% and 10% amounts have been legally withheld. It has been
+the consistent stand of the Appellant including in their reply to the Demand
+Notice that they did not owe any debt to the Operational Creditor. Reliance
+has been placed on the judgment of Sabarmati Gas Ltd. VS Shah Alloys
+Ltd. (2023) 3 SCC 229 to contend that in case reconciliation has not taken
+place, the dues payable are liable to become a subject of pre-existing dispute.
+4.
+Elaborating further it was submitted that it was incumbent for the
+Operational Creditor to meet the satisfaction of MSEDCL which it failed to
+fulfil. Various problems had cropped up in installation and supply including
+quality of services and consequently MSEDCL had claimed certain amounts
+towards material return, unexecuted work penalty and risk and cost etc. It
+was submitted that these deficiencies in work execution had arisen on
+account of negligence and incompetence of the Operational Creditor. Several
+e-mail communications were also sent by the Corporate Debtor to the
+Operational Creditor from 17.11.2018 to 16.03.2020 regarding their slipshod
+performance. It was strenuously contended that these communications testify
+the presence of pre-existing disputes between the parties. It is contended by
+
+[PAGE 5]
+Page 5 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+the Corporate Debtor that the Adjudicating Authority erroneously relied on
+the misplaced submission made by the Operational Creditor that the quality
+and time of work executed by them had met the satisfaction of both the end
+user innumerable copious exchange of communications which substantiated
+the presence of pre-existing disputes.
+5.
+It is also the contention of the Appellant that the Respondent has
+wrongfully claimed interest in terms of the MSME Act though the Operational
+Creditor did not have MSME registration during the period that they had
+raised invoices. Submission was made by the Appellant that it is a profit-
+making company which is financially solvent having large number of
+employees on its rolls. It was also contended that the Appellant has never
+defaulted on any loans from any financial institution. The IBC proceedings
+not being debt recovery proceedings, present Section 9 application being a
+recovery attempt in the guise of insolvency should not have been allowed by
+the Adjudicating Authority.
+6.
+Refuting the contentions made by the Appellant, submissions were
+made by Shri Pragyan Pradip Sharma, Ld. Sr. Counsel for the Respondent-
+Operational Creditor that is undisputed that the Operational Creditor had
+raised 17 invoices totalling Rs 4.43 Cr. from 31.10.2018 to 18.10.2019. As
+per Clause 8.3 of the General Conditions of Contract (‘GCC’ in short),
+payments against invoices became due within 21 days and the same not
+having been paid, debt had become due and payable. The absence of any
+protest or objection to the invoices establish a clear admission of debt being
+due and payable towards the Operational Creditor, making it a fit case for
+
+[PAGE 6]
+Page 6 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+admission of Section 9. Further partial payment of Rs 3.28 Cr. was already
+made without protest which also constitutes a tacit acceptance of the invoices.
+7.
+It has also been stated that in the e-mail dated 02.05.2019, the
+Corporate Debtor had acknowledged their liability to pay Rs 1.70 Cr. towards
+7 invoices. Further, the Corporate Debtor in their own reply dated 25.02.2022
+to the Demand Notice received from the Operational Creditor has admitted
+that they were unable to pay the Operational Creditor since they had not
+received payment from MSEDCL. This goes to show that the Corporate Debtor
+had not only admitted their liability but also conceded that their inability to
+pay was not on account of any dispute with the Operational Creditor but on
+account of non-receipt of payment from MSEDCL. It was asserted that
+inability on the part of the Corporate Debtor to receive payment from MSEDCL
+does not confer any right upon them to withhold payments due to the
+Operational Creditor under the sub-contract. The liabilities which arose
+under sub-contract was independent of the happenings in the contract
+between Corporate Debtor and MSEDCL. It was vehemently contended that
+the stand taken by the Corporate Debtor that payment to the Operational
+Creditor was contingent upon receipt of payment from MSEDCL under a “pay
+when paid” model is misconceived. It was submitted that the Adjudicating
+Authority has correctly relied on the judgment of the Hon’ble Supreme Court
+in Zonal General Manager, IRCON International Ltd. Vs Vinay Heavy
+Equipment’s (2015) 13 SCC 680 and the judgment of Hon’ble Delhi High
+Court in National Projects Construction Corporation Ltd. Vs Harvinder
+Singh & Company 2018 SCC OnLine Del 9573 in holding that the principle
+of “pay when paid” is not fit to be applied in the present matter.
+
+[PAGE 7]
+Page 7 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+8.
+Submission was also made that as regards the e-mails referred to by
+the Appellant to establish disputes, none of these letters preceded the
+Contractual Agreement or Demand Notice and therefore do not constitute a
+pre-existing dispute under IBC. These disputes were raised only in the written
+submissions after final arguments before the Adjudicating Authority. The
+bogey of pre-existing dispute surrounding the claim has been raised by the
+Appellant as a calculated afterthought to escape contractual obligations. The
+GCC provided for resolution procedure clause to be followed in the event of a
+dispute. The Appellant not having invoked this clause testifies the absence of
+any pre-existing dispute. Hence the defence of pre-existing dispute is vague
+and untenable.
+9.
+Further, the performance of the Operational Creditor has been wrongly
+questioned by the Corporate Debtor. The satisfactory performance of the
+Operational Creditor stands confirmed by the issue of HOTO certificate
+received from MSEDCL. The Notice of MSEDCL dated 09.04.2018 and
+19.05.2018 and Show Cause Notice dated 07.06.2018 pre-dated the
+engagement of the Operational Creditor which happened on 07.07.2018,
+Hence, delay, if any, was clearly attributable to the Corporate Debtor. The
+Notices issued from MSEDCL regarding delay or non-performance of the
+project work never fixed any liability on the Operational Creditor. The upshot
+is that there was no infirmity in the impugned order admitting the Section 9
+application.
+10.
+We have duly considered the arguments advanced by the Learned
+Counsel for the parties and perused the records carefully.
+
+[PAGE 8]
+Page 8 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+11.
+The short point for consideration is whether there was any discernible
+pre-existing dispute surrounding the debt claimed to be due and payable by
+the Operational Creditor. This examination would be in line with the test
+which has been laid down by the Hon’ble Supreme Court in Mobilox
+Innovations Pvt. Ltd. Vs. Kirusa Software Private Limited (2018) 1 SCC
+353.
+12.
+At the outset it will be both useful and relevant to refer to paras 33, 51
+and 56 of Mobilox judgment supra which is extracted as hereunder: -
+“33............What is important is that the existence of the dispute
+and/or the suit or arbitration proceeding must be pre-existing i.e. it
+must exist before the receipt of the demand notice or invoice, as the
+case maybe. In case the unpaid operational debt has been repaid, the
+corporate debtor shall within a period of the self-same 10 days sent
+and attested copy of the record of the electronic transfer of the unpaid
+amount from the bank account of the corporate debtor or send an
+attested copy of the record that an operational creditor has encashed
+a cheque or otherwise received payment from the corporate debt
+[Section 8(2) (b)]. It is only if, after the expiry of the period of the said
+10 days, the operational creditor does not either receive payment from
+the corporate debtor or notice of dispute, that the operational creditor
+may trigger the insolvency process by filing an application before the
+adjudicating authority under Sections 9(1) and 9(2).........”
+***
+51. It is clear, therefore, that once the operational creditor has filed an
+application, which is otherwise complete, the adjudicating authority
+must reject the application under Section 9(5)(2)(d) if notice of dispute
+has been received by the operational creditor or there is a record of
+dispute in the information utility. It is clear that such notice must bring
+to the notice of the operational creditor the “existence” of a dispute or
+the fact that a suit or arbitration proceeding relating to a dispute is
+pending between the parties. Therefore, all that the adjudicating
+authority is to see at this stage is whether there is a plausible
+contention which requires further investigation and that the “dispute”
+is not a patently feeble legal argument or an assertion of fact
+unsupported by evidence. It is important to separate the grain from
+the chaff and to reject a spurious defence which is mere bluster.
+However, in doing so, the Court does not need to be satisfied that the
+
+[PAGE 9]
+Page 9 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+defence is likely to succeed. The Court does not at this stage examine
+the merits of the dispute except to the extent indicated above. So long
+as a dispute truly exists in fact and is not spurious, hypothetical or
+illusory, the adjudicating authority has to reject the application.”
+***
+“56. Going by the aforesaid test of “existence of a dispute”, it is clear
+that without going into the merits of the dispute, the appellant has
+raised a plausible contention requiring further investigation which is
+not a patently feeble legal argument or an assertion of facts
+unsupported by evidence. The defense is not spurious, mere bluster,
+plainly frivolous or vexatious. A dispute does truly exist in fact
+between the parties, which may or may not ultimately succeed, and
+the Appellate Tribunal was wholly incorrect in characterizing the
+defense as vague, got-up and motivated to evade liability.”
+
+13.
+Coming to the issue of whether the debt was due and payable, it is the
+case of the Appellant that the outstanding dues claimed by the Operational
+Creditor of Rs 1.54 Cr. is neither due nor payable. It is also the contention
+that payment as stipulated under the contract had already been made and
+balance was payable only after reconciliation of running accounts which
+exercise was still pending.
+Per contra, it has been contended by the
+Operational Creditor that since there was no protest or demur by the
+Corporate Debtor at the time of acceptance of the 17 bills submitted by them,
+it shows that the Corporate Debtor had unequivocally admitted their liability
+and non-payment thereof led to default on the part of the Corporate Debtor.
+Submission was pressed that correct finding has been returned by the
+Adjudicating Authority in that the Corporate Debtor had accepted their
+liability in their e-mail dated 02.05.2019 containing the Ledger Statement of
+the Operational Creditor in their own books for an outstanding balance of Rs
+1.70 Cr. No contest or protest was raised on the residual amount to be paid
+to the Operational Creditor.
+
+[PAGE 10]
+Page 10 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+14.
+Coming to our findings, we notice that both the Operational Creditor
+and the Adjudicating Authority have primarily relied on the e-mail dated
+02.05.2019 to conclude that the Corporate Debtor had acknowledged their
+liability to pay Rs 1.70 Cr. towards 7 invoices. Subsequent emails exchanged
+between the two parties have been lost sight of by the Adjudicating Authority.
+It would be pertinent to point out that the Operational Creditor in their e-mail
+dated 27.07.2021 had sought balance confirmation of their ledger as was
+appearing in the books of accounts of the Corporate Debtor as maybe seen at
+page 129 of Appeal Paper Book (‘APB’ in short). This was replied to by the
+Corporate Debtor on 08.08.2021 categorically stating that the Respondent’s
+ledger cannot be confirmed until final closure of the project by MSEDCL. The
+said emails appearing at page128 of APB is extracted below:
+From: Priya Sajesh
+Sent: 08th August 2021 10:47
+To: Akshaya Account; Pravin Electricals Pvt. Ltd.
+Subject: Re: LEDGR CONFIRMATION
+
+Dear Ajay,
+
+Your ledger cannot be confirmed until the final closure MSCEDL
+project.
+Best Regards,
+
+15.
+The above e-mail of 08.08.2021 was followed by another e-mail on
+04.09.2021 in which the Corporate Debtor again denied that they had
+confirmed any outstanding payment. This e-mail is as extracted below:
+From: Rahul N Patil [mailto:billing@pronettechnologies.com]
+Sent: 04/09/2021 5:47 PM
+To: 'Sadanand Deshmane'; 'priya.sajesh@pronettechnologies.com';
+'Pravin Electricals Pvt Ltd';
+Subject: RE: Billing status of DD-125 between PEPL & AEWPL
+Dear Sadanand sir
+
+[PAGE 11]
+Page 11 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+We had discussion to have clarity on the bills that are booked in line
+with bills as per MSEDCL & we did not confirm any outstanding
+payment.
+We will update you after our closure of bill with MSEDCL.
+As you are well aware the bill of DD-29 & DD-125 are not booked in
+MSEDCL system
+
+16.
+It is clear therefore from the above two e-mails which were both issued
+prior to receipt of Demand Notice, that the Corporate Debtor had categorically
+disputed the debt claimed by the Operational Creditor and contended that the
+balance amount was to be paid only on final reconciliation and closure of the
+project which reconciliation was still pending with MSEDCL as running
+accounts statement was yet to be received from MSEDCL.
+17.
+Since reconciliation adjustment was yet to be done by MSEDCL, the
+debt due and payable had not yet crystallized. Since the project was yet to see
+the final closure, the debt amount if any was not yet firmed and final and
+hence not due and payable. We are therefore inclined to agree with the
+Corporate Debtor that the Adjudicating Authority had failed to take notice of
+the fact that there existed dispute between the parties regarding the fact
+whether the debt claimed by the Operational Creditor was accepted by the
+Corporate Debtor as due and payable or not.
+18.
+Be that as it may, we now address the argument canvassed by the
+Operational Creditor that the inability of the Corporate Debtor to pay was not
+on account of any dispute with the Operational Creditor but on account of
+non-receipt of payment from MSEDCL. Thus, this is not a case that the debt
+was not due but one wherein the Corporate Debtor was unable to pay the
+Operational Creditor since they had not received payment from MSEDCL as
+is clearly manifested in the Reply to the Demand Notice sent by the Corporate
+
+[PAGE 12]
+Page 12 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+Debtor on 25.02.2022. It was further contended that the contract between the
+Corporate Debtor and Operational Creditor created separate privity of
+contracts and independent obligations and cannot be enmeshed with the
+liabilities and obligations arising out of the contractual arrangement between
+Corporate Debtor and MSEDCL. Both these contracts being separate
+contracts in the eyes of law, parties were entitled take recourse against each
+other to enforce their rights under the contract in which they have privity.
+Hence the Operational Creditor was well within its rights to file a Section 9
+application against the Corporate Debtor as the latter had failed to discharge
+its obligations of clearing their outstanding liability.
+19.
+At this stage it may be useful to first notice the relevant paragraphs of
+the Notice of Dispute dated 25.02.2022 as raised by the Corporate Debtor in
+the context of terms of payment before we return our finding as to whether
+the contract between the Corporate Debtor and MSEDCL, on the one hand,
+and the contract between the Corporate Debtor and Operational Creditor, on
+the other hand had any inter-se bearing on each other. The relevant
+paragraphs from the Notice of Dispute are as reproduced below:
+“6. As per the Contract/Agreement, the payment terms and conditions
+has been clearly stipulated in the said agreement dated 07.07.2018
+at Appendix 1-terms and procedures of payment. The said terms and
+conditions of procedures of payment has been clearly confirmed by
+you at the signing of the contract wherein the terms of payment
+stipulates payment on back to back work order.
+7.
+As a result thereof, since all payment terms are back to back
+as per our contract with MSEDCL and on receipt of payments from
+MSEDCL the said payments would have been released to you.
+Apparently, vide letter dated 01.03.2019 which is to your knowledge
+and information due to poor progress the scope of tender was limited
+to only touched work and the contract was partially terminated vide
+letter under ref No. 5 in respect to Tender No. DD-125.
+
+[PAGE 13]
+Page 13 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+11. On one hand there are several emails issued by you to M/s. Pravin
+Electricals Pvt. Ltd., demanding payment of outstanding amount
+which you have categorized as operational debt and on the other hand
+M/s Pravin Electricals Pvt. Ltd. is facing the brunt of MSEDCL
+primarily because of the negligence at your end. It be noted that the
+payment terms was clear right at the beginning. In fact the contract
+was executed with the clear condition that your clients would receive
+payments only on payment received from MSEDCL. In fact, M/s
+Pravin Electricals Pvt. Ltd., has not received the sum of Rs.1.88 Crores
+and therefore, the liability as alleged by you and claimed by you to
+the extent of Rs. 1.54 crores is bad in law and is an attempt to usurp
+money out of our clients and so is the Notice issued under form-3 on
+our clients. The entire story as set out in the Demand Notice, clearly
+has left out core issue of payment terms and the said payment terms
+is the moot question and crux of the said dispute as and by way of
+demand in the Notice under form-3 dated 14.12.2021.
+12. You M/s Akshaya Engineering Work Pvt. Ltd. was issued contract
+by our clients M/s Pravin Electricals Pvt. Ltd. for supply installation
+plant and machinery as the sites of MSEDCL and you have not
+fulfilled the contract as a result thereof MSEDCL has penalized M/s
+Pravin Electricals Pvt. Ltd. and therefore, the sum of Rs. 1,54,41,823
+as demanded by you being outstanding is not tenable in law primarily
+because of the fact that our clients has not received money against
+the said invoice and that MSEDCL has themselves penalized our
+clients to the extent of Rs. 1.88 crores for the reason of negligence and
+poor performance and mishandling, pertaining to the work assigned
+to you and the said penalty could be only attributed to your negligence
+and poor work progress as described and mentioned in the letter
+dated 01.03.2019.”
+(Emphasis supplied)
+20.
+When we read the above Notice of Dispute it is clear that Corporate
+Debtor has stated loud and clear that the payment terms is the crux of the
+dispute. It is contended by the Appellant that in terms of the Supply and
+Service Contract, the payment terms with the Operational Creditor was back-
+to-back corresponding with the contract between the Appellant and MSEDCL
+as elaborated in Appendix-I therein. Per contra, it is the contention of the
+Respondent that the agreement between the Appellant and MSEDCL was
+
+[PAGE 14]
+Page 14 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+distinct from the contractual agreement between the Corporate Debtor and
+Operational Creditor and the two contracts not being interdependent would
+have no bearing on each other. Submission was also pressed that the doctrine
+of privity of a contract under the common law principle implies that only
+parties to a contract are allowed to sue each other to enforce their rights and
+liabilities and no stranger is allowed to confer obligations upon any person
+who is not a party to contract.
+21.
+To weigh the force of the rival contentions, we may now take notice of
+the Contract Agreements for supply of material and for installation and
+services and the LoAs entered into by the Appellant with the Respondent. The
+LoA for Supply is placed at page 71 of APB and LoA for Services is placed at
+page 76 of APB. Clause 9 of both LoAs stipulate that the milestone chart and
+construction schedule finalized by the Project Manager of MSEDCL will form
+part of the agreement to be signed by the Respondent-Operational Creditor
+with MSEDCL. More significantly, Clause 12 of Supply LoA and Clause 11.1
+of Service LoA specifically mentions that all payment terms to the
+Respondent-Operational Creditor are back-to-back in terms of the contract
+between the Appellant and MSEDCL as elaborated in Terms and Procedure of
+Payments at Appendix-I. The LoAs therefore mirrored corresponding terms as
+in the contract awarded to the Appellant by MSEDCL. When we run our eyes
+through the terms and procedure for payment in Appendix-I at page 108 of
+APB, it lays down that for contract for supply, in terms of Clause 2.1 thereof,
+the first instalment of 60% would be mobilization advance for adjusting
+payments made against supplies subject to submission of certificate by
+Project Manager of MSEDCL that materials have been supplied. The second
+
+[PAGE 15]
+Page 15 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+instalment of 30% as envisaged under Clause 2.2 was payable subject to
+submission of certificate on measurement book by Project Manager of
+MSEDCL. Clause 2.3 specified that the balance 10% was to be reimbursed on
+successful testing and commissioning of the project and issue of HOTO
+certificate. For contract of service, in terms of Clause 3.1, the first instalment
+would be 90% paid on erection, testing and commissioning subject to material
+reconciliation statement and final instalment of 10% on submission of
+certificate
+by
+Project
+Manager
+of
+MSEDCL
+that
+installation
+and
+commissioning has been completed successfully and that assets are created
+and taken over by MSEDCL.
+22.
+It is the case of the Appellant that in terms of Clause 2.3 of the
+Appendix-1, only 60% payment had to be made for material supply which has
+already been done. The remaining 30% and 10% was payable upon
+submission of Certificate on Measurement Book by MSEDCL Project Manager
+and issue of HOTO Certificate by the Employer. Similarly for erection and
+installation work, as per Clause 3.1 of the Appendix-1, only 90% was to be
+paid which has been done while 10% was paid upon issue of HOTO Certificate.
+Thus, the payments having already been made in accordance with terms of
+payment as outlined in Appendix-1, debt and default has been disputed by
+the Appellant.
+23.
+This brings us to the issue whether the MSEDCL had given their
+certification on the material supplied and successful installation and
+commissioning.
+24.
+It is the case of the Operational Creditor that they have placed on record
+by way of additional documents at pages 8-247 the various HOTO certificates
+
+[PAGE 16]
+Page 16 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+issued to them by MSEDCL which clearly shows that there was no deficiency
+or disability on behalf of the Operational Creditor with respect to the quality
+of work or timely execution of work. The issue of HOTO certificates validates
+their claim as rightful claim. The “Notices to Correct” of MSEDCL dated
+09.04.2018 and 19.05.2018 and Show Cause Notice dated 07.06.2018 pre-
+dated the engagement of the Operational Creditor. Much emphasis was also
+laid that delay in the execution of the project work was not attributable to
+them but had arisen before their joining. It was further pointed out that the
+Operational Creditor cannot be blamed for any delay since they had been
+engaged nearly 10 months after the contract between the Corporate Debtor
+and MSEDCL had commenced.
+25.
+This argument has been repelled by the Corporate Debtor stating that
+mere submission of abstract sheet or HOTO Certificate will not render the
+account reconciliation complete between the parties. It is also contended that
+the Respondent has conveniently not mentioned the activity/work for which
+material has been supplied but has not been installed, tested and
+commissioned and that much credence cannot be given to these HOTO
+certificates. Further if the HOTO certificates from MSEDCL were already in
+place it remains unexplained why till date reconciliation of accounts has
+remained standstill and full payments were not released by MSEDCL. It was
+submitted that if the HOTO certificates are to be believed then it is
+inexplicable that MSEDCL would issue a Notice penalizing the Corporate
+Debtor for a sum of Rs 1.88 Cr. because of the poor and dismal performance
+of the project work. MSEDCL has also levied certain amounts for recovery as
+a result of shoddy and delayed work as below:
+
+[PAGE 17]
+Page 17 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+(i) Material Return Deliveries- Rs 62,43,542.40/- i.e. material which
+was not installed by Respondent which ought to have been delivered to
+MSEDCL since Respondent was paid for the same.
+(ii) Recovery for dismantling Old Poles- Rs 3,93,000/-
+(iii) Unexecuted work penalty- Rs 38,55,000/- for the touched work,
+execution of which was not completed by the Respondent.
+(iv) Risk & Cost- Rs 3,10,63,000/- levied due to partial termination of
+the contract due to very slow progress and poor performance by the
+Respondent.
+26.
+Prima facie when we peruse the material on record, there is no material
+to support that MSEDCL had tendered its full satisfaction report with regard
+to work completion either to the Corporate Debtor or the Operational Creditor.
+Instead, we find that MSEDCL not only pointed out shortcomings in the work
+execution but also had to partially terminate the contract. We notice that
+MSEDCL had convened a meeting on 19.11.2018 to review work progress for
+timely completion. The Operational Creditor did not attend this meeting
+though invited by the Corporate Debtor over email on 17.11.2018 (page 115
+of APB) to attend. On 27.11.2018, the Appellant forwarded the Minutes of the
+Meeting to the Respondent-Operational Creditor (page 116-118 of APB)
+wherein MSEDCL after review of activity wise work progress expressed
+extreme displeasure on the work progress. As the time stipulated for
+completion of the works was 28.02.2019 and timeliness was held to be the
+essence of the contract, we find a communication from MSEDCL dated
+09.01.2019 (page 443 of APB) partially terminating the contract due to failure
+to execute the work as per agreed milestones. This partial termination was
+issued after reviewing the progress of work undertaken during 23.08.2018 to
+14.11.2018 during which period the Operational Creditor had already been
+sub-contracted the work. The MSEDCL besides expressing their displeasure
+
+[PAGE 18]
+Page 18 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+also levied risk and cost of Rs 3.10 Cr. towards partial termination. Yet
+another letter was issued by MSEDCL to the Corporate Debtor on 28.06.2019
+highlighting the poor work performance and calling upon to expedite the
+touched work of the partially terminated contract. This letter of MSEDCL was
+brought to the knowledge of the Operational Creditor on 01.07.2019 (page
+539 of APB). The fourth e-mail was sent on 16.07.2019 by the Corporate
+Debtor to the Operational Creditor called upon them to improve their
+performance since the project stood delayed due to negligence of the
+Operational Creditor (page 122 of APB). The fifth e-mail sent by the Corporate
+Debtor to the Operational Creditor was on 26.07.2019 (page 123 of APB)
+requesting them to complete the touched work before15.08.2019 since
+MSEDCL had threatened to short close the tender. The Operational Creditor
+was again reminded on 30.07.2019 to complete all the touched work before
+15.08.2019 (page 124 of APB) by the Corporate Debtor and that on levy of
+penalty it will be recoverable from the Operational Creditor. On 03.07.2019,
+MSEDCL informed both the Corporate Debtor and Operational Creditor
+regarding non installation of bill boards by them (page 542 of APB). The
+MSEDCL again complained to both the Corporate Debtor and Operational
+Creditor even after expiry of the contractual deadline for completion of balance
+unexecuted works (page 543 of APB).
+27.
+These disputes have also been echoed in the Notice for Dispute by the
+Appellant which is as extracted below:
+8. .......The said contract by MSEDL was re-assigned to you vide
+Contract/Agreement dated 07.07.2018. Apparently due to the bad
+progress and your client's negligence, MSEDCL has penalised M/s.
+Pravin Electricals Pvt. Ltd. As a result thereof letter dated 01.03.2019
+
+[PAGE 19]
+Page 19 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+was issued to M/s Pravin Electricals Pvt. Ltd., clearly stipulating the
+reasons for partial termination of Turnkey contract of such nature
+which was otherwise a very profitable venture to M/s Pravin Electricals
+Pvt. Ltd.
+9. ...... Infact, MSEDCL has informed our clients that huge material
+debits aggregating to Rs.1.88 crores is due from our clients. As a result
+thereof due to your mishandling the material debits of Rs.1.88 crores,
+our client has suffered monetarily.
+10.
+Apparently under no circumstances can the Notice under Form-
+3 be issued to our clients M/s Pravin Electricals Pvt. Ltd. and MSEDCL
+has verge of issuing Notice penalizing our clients M/s. Pravin
+Electricals Pvt. Ltd for a sum of Rs. 1.88 Crores and the said
+penalization was primarily because of the poor performance of your
+clients and also the fact that the supply installation and commissioning
+and all other works was not up to the standards as set out by MSEDCL.
+Our clients M/s. Pravin Electricals Pvt. Ltd. had to bear the brunt of
+such poor performance and as a result thereof our clients, has lost
+market goodwill and contracts has been partially terminated only on
+account of your clients negligence and poor performance and since you
+have not bothered to adhere to timely stipulations as per the contract.”
+(Emphasis supplied)
+
+28.
+When we look at the above emails and correspondences which find
+mention at para 23 above and the Notice of Dispute extracted above, it
+becomes clear that not only the Corporate Debtor but even MSEDCL had on
+occasions exchanged communications with the Operational Creditor
+highlighting their shoddy performance. All these emails and correspondences
+between 17.11.2018 to 16.03.2020 which eventually led to partial termination
+of the contract relates to the period when the work had already been sub-
+contracted to the Operational Creditor for which they cannot deny
+accountability. We therefore find substance in the contention of the Corporate
+Debtor that these communications which pre-date the issue of Section 8
+Demand Notice clearly evidences pre-existing disputes between them and the
+
+[PAGE 20]
+Page 20 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+Operational Creditor. We have no hesitation in observing that the
+Adjudicating Authority has erroneously ignored this copious exchange of
+communications between the MSEDCL, Appellant and Respondent raising
+issues on the quality and timeliness of work including imposition of penalties,
+risk and cost. When MSEDCL never gave final closure of the project, the
+Adjudicating Authority grossly erred in accepting the unilateral submission
+made by the Respondent that the work executed by them was perfect in
+nature which met the satisfaction of both the End User as well as the
+Corporate Debtor.
+29.
+We are therefore satisfied that there is sufficient foundation that
+genuine pre-existing disputes existed between the two parties not only on
+whether the debt had crystallised and was payable but also on the deficiencies
+and shortcomings of the work executed. These disputes though amply borne
+out by records have been glossed over by the Adjudicating Authority. In the
+present factual matrix, the defence raised by the Corporate Debtor is
+plausible, which to our minds, deserves further investigation. The ratio of
+judgment by the Hon’ble Supreme Court in Mobilox judgement supra is
+squarely applicable in the facts of the present case. It is not the remit of IBC
+to investigate such contractual disputes and the defence raised by the
+Corporate Debtor not found to be moonshine, Section 9 application could not
+have been initiated at the instance of the Operational Creditor.
+30.
+For the foregoing reasons, we are of the considered opinion that the
+Adjudicating Authority committed serious error in admitting Section 9
+application in the facts of the present case. We therefore, allow the Appeal.
+The impugned order dated 17.10.2023 initiating CIRP of the Corporate Debtor
+
+[PAGE 21]
+Page 21 of 21
+Company Appeal (AT) (Insolvency) No. 1457 of 2023
+and all other orders pursuant to impugned order are therefore set aside. The
+Corporate Debtor is released from the rigours of CIRP and is allowed to
+function independently through its board of directors with immediate effect.
+We are however not expressing any views on the merits of the disputes raised
+and in the event the Respondent-Operational Creditor is desirous of seeking
+alternative legal remedy, it shall remain open to agitate before the appropriate
+legal forum as permissible in law. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 30.07.2025
+
+Harleen/Abdul

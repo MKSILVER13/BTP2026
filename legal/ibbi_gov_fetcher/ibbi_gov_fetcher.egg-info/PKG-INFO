@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ibbi-gov-fetcher
+Version: 0.1.0
+Summary: Downloader and metadata indexer for public IBBI order PDFs
+Requires-Python: >=3.10
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: requests>=2.31

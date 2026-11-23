@@ -1,0 +1,373 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+17.07.2026
+
+Present:
+JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+BARUN MITRA, MEMBER (TECHNICAL)
+
+I.A. No.4537 of 2026 in
+Company Appeal (AT) (Ins) No. 1165 of 2026
+
+Sachin Naveen Sinha
+
+...Appellant
+Erstwhile Interim Resolution Professional
+
+Vs
+The Insolvency and Bankruptcy Board of India
+
+...Respondent
+Through its Chairperson
+
+For Appellant:
+Mr. Harshit Khare, Mr. Prafful Saini, Mr. Ayuj Agrawal,
+Mr. Brijesh Gupta, Advocates
+
+For Respondent: Mr. Naveen Pawan, Sr. Advocate with Mr. Ashish Verma,
+Mr. Nikhil Thuhor, Mrs. Kriti, Mr. Rafid Akhtar, Advocates
+Mr. Gaurav Mitra, Sr. Advocate with Mr. Asav Rajan, Mr.
+Kashish Chadha, Mr. Aditya Shah, Advocates
+
+JUDGEMENT
+Per Justice N. Seshasayee, Member (Judicial)
+The appellant herein is a resolution professional, whose registration has been
+suspended by the IBBI for three years vide its proceeding dated, 08.06.2026,
+following a disciplinary proceeding it had initiated against it. This is now
+under challenge in this appeal.
+
+[PAGE 2]
+2
+
+2.
+Earlier, the Adjudicating Authority vide its Order dated 26.09.2025, in
+I.A.382/2025 in C.P.(IB) 63/9/JPR/2020 had removed the appellant as a
+resolution professional in a certain CIRP and also directed him to refund ₹.2.0
+lakhs he had received as his initial remuneration besides recommending a
+disciplinary action against him by the IBBI. This Order of the Adjudicating
+Authority was challenged in C.A.1609 of 2025, wherein this tribunal has passed
+an interim Order of stay of the direction to return ₹.2.0 lakh.
+3.
+Besides the CIRP from which the appellant was removed, there were three
+other CIRP in which the appellant has been appointed as a resolution professional.
+Now, by virtue of the Order impugned in this appeal, IBBI has removed him as
+the resolution professional. This Order of suspension was to take effect from
+08.07.2026. The appellant’s core contention is that, the IBBI, in exercise of its
+disciplinary jurisdiction, has the authority to remove a resolution professional
+only from a particular assignment in relation to which it had initiated a
+disciplinary proceeding against the resolution professional, and cannot ban him
+from functioning as a resolution professional with regard to others. Clearly, the
+appellant raises an issue on the extent of jurisdiction IBBI has.
+4.
+Appeal against any decision made by the Disciplinary Committee of the
+IBBI, hitherto was only subjected to a juridical review of the statutory action of
+a statutory authority under Article 226 of the Constitution before the High Courts.
+However, vide IBC (Amendment) Act 6 of 2026, which came into effect on
+
+[PAGE 3]
+3
+
+22.05.2026, Parliament has vested first appellate jurisdiction on this tribunal vide
+the newly introduced Sec.220(7) IBC. It reads:
+“Any person aggrieved by an Order of the disciplinary committee,
+under sub-section (2) to (5), may prefer an appeal to the National
+Company Law Appellate Tribunal within a period of thirty days
+from the date of receipt of the order.”
+The provision, ex facie, does not limit the extent of jurisdiction which this tribunal
+may exercise. In other words, the provision tends to indicate that the jurisdiction
+of this tribunal is not limited to a mere examination of procedural compliance and
+processual fairness required of a legally sustainable disciplinary proceeding, but
+appears to enable a re-appraisal of the facts of such proceeding. However, the
+learned senior counsel for the IBBI differed on this point. This invited an
+argument on an interpretation of Sec.220(7) of the Code for its most probable
+understanding. This became critical in the context of the relief sought in I.A.4537
+of 2026, which the appellant has filed for staying the operation of the impugned
+Order since it requires us to ascertain the extent of authority this tribunal may
+have to interfere with the extent of penal powers which the IBBI has assumed.
+5.
+Besides the counsel for the parties hereto, we also had the advantage of
+hearing the arguments of Shri. Krishnendu Datta and Shri. Abhijit Sinha, both
+senior counsel, who have a similar matter before us and are waiting for their turn.
+And, they supported the contention of the appellant’s counsel.
+
+[PAGE 4]
+4
+
+Arguments
+6.
+As outlined earlier the appellant argued that the extent of authority vested
+in this tribunal under Sec.220(7) of the Code is unbridled and is comparable to
+the jurisdiction which a first appellate court has under Sec.96 CPC – unlimited at
+the point of scrutiny and unrestricted at the point of interference. The line of
+interpretation adopted is:
+a) Sec.220(7), on its face, does not have a limiting factor in defining the extent
+of jurisdiction of the tribunal. Indeed, the report of the BLRC, published
+on 15th November, 2015 (before the IBC was launched), states: “The
+Committee recognises that actions taken by regulators can impose
+significant penalties and burden on regulated entities. Therefore, the rule
+of law requires that a clear judicial process be available to persons who
+seek to challenge regulatory actions.” The report of the Select Committee
+on IBC (Amendment) Bill, 2025, in paragraph 62.5.1(i) records the written
+replies received by it from the Ministry which reads: “The proposed
+amendments to section 220 address the concern about proportional and
+fair penalties” and that “.. the amendments aim to ensure fairness,
+transparency, and appropriate safeguards against excessive punishment
+for minor lapses.” The report of the Select Committee thereafter proceeds
+to record its recommendations, and in paragraph 62.6.2 it concludes:
+“Upon examination and after considering the view of the Ministry and
+
+[PAGE 5]
+5
+
+stakeholders, the Committee observe that the amendments proposed in
+clause 62 are necessary to ensure fairness and proportionality in
+disciplinary actions and to enhance the overall regulatory effectiveness.
+Therefore, the Committee accept the Clause 62 as proposed without any
+modification.” Set in the context, Sec.220(7) can only be termed as the
+legislative expression of the views of the BLRC and the Select Committee
+of the Parliament. This cannot be overlooked.
+b) Under the Scheme of IBC, a resolution professional is appointed by the
+Adjudicating Authority on the recommendation of the CoC. A CIRP is
+CoC centric, and only the CoC oversees the quality of performance of a
+resolution professional closely, and if it is dissatisfied with the functioning
+of a resolution professional then it has all the authority vested in it under
+Sec.27 of the Code to replace him. The IBBI, therefore, cannot supersede
+the statutory authority of the CoC in banning a resolution professional
+when the CoC in a particular CIRP is not unhappy with his performance.
+This idea is captured in Regulation 13(7) of the IBBI (Inspection and
+Investigation) Regulations, 2017. It reads:
+“Regulation 13(7): In case where the service provider is an
+insolvency professional, the Board shall intimate the order to all
+the members of committee of creditors of the insolvency
+resolution process in which he is acting as an interim resolution
+professional or resolution professional, as the case may be, and
+to the Adjudicating Authority.”
+
+[PAGE 6]
+6
+
+The IBBI, which framed the Regulation, is conscious of the statutory
+scheme of the Code and hence has consciously avoided interfering with the
+sphere of action and activity of the CoC. This would necessarily mean that
+the legislative intent behind these Regulations cannot be ignored when this
+tribunal exercises its jurisdiction, and this is possible only if there is no
+limiting factor, not found in Sec.220(7), is not read into it.
+c) The Code, when it intended to restrict or limit the scope and extent of the
+appellate jurisdiction has unhesitantly done it. Examples of the same can
+be found in Sec.61(1) which does not have any limiting factor, whereas in
+Sec.61(3), which concerns a challenge to a resolution plan, the Code has
+limited the scope of appellate jurisdiction as it limited the grounds on
+which a challenge under Sec.61(3) could be made. So also Sec.62 which
+deals with the second appeal that may be preferred to the Hon’ble Supreme
+Court. Therefore, if only the legislature has intended not to vest absolute
+power to the appellate tribunal under Sec.220(7), it would have limited it.
+The bottomline is, where Sec.220(7) does not have a limiting clause on the
+extent of authority this tribunal has, it should not be read into it.
+7.
+Per contra, the learned counsel for the IBBI contended, that the role of
+the IBBI is that of a regulator and has its defined role as an expert body in
+regulating the course of working of the Code and that may not be easily
+interfered with. He explained:
+
+[PAGE 7]
+7
+
+a) A disciplinary action is not initiated without application of mind.
+Sec.218 of the Code provides that when a complaint is received against
+a service provider (prior to 2026 amendment, it was ‘insolvency
+professional agency or information utility’) alleging contravention of any
+of the provisions of the Code, or the rules, or regulations or directions
+made thereunder, then IBBI can hold an inspection or investigation.
+And, only after ascertaining the existence of prima facie case of
+contravention of the Code or Regulations etc., it issues a show cause
+notice as provided for in Sec.219 of the Code and invites a reply to it.
+Then commences the job of the Disciplinary Committee. In terms of
+Sec.220(2), its powers are absolute:
+“Where the disciplinary committee, after giving the service
+provider an opportunity of being heard, is satisfied that
+sufficient cause exists, it may impose a penalty as provided in
+sub-section (3) or suspend or cancel the registration of the
+service provider, or direct disgorgement under sub-section
+(4)”
+Inasmuch as IBBI is an expert body, its perception and understanding of
+the breach of the Code or the Regulation etc., and the ramification it may
+have needs to be respected. Therefore, notwithstanding the fact that
+Sec.220(7) may not have an apparent factor limiting the jurisdiction of this
+tribunal, in understanding its true import and reach, the contextual setting
+in which it is required to operate cannot be ignored.
+
+[PAGE 8]
+8
+
+b) The Hon’ble Supreme Court has always respected the role of a regulator as
+an expert, and why it functions as an expert should be kept beyond the
+judicial scrutiny. Reliance was placed on the ratio in Vishal Tiwari Vs UoI
+and others [(2024) 4 SCC 115]. Indeed, in Apex Heights Pvt. Ltd., Vs
+Ram Kishore Arora & another [I.A.107113 /2026, in C.A.2626 of 2025,
+dated 10.04.2026], the Supreme Court has gone to the extent of declaring
+that propriety requires that a resolution professional withdrew from his
+responsibility when he faces the ire of the disciplinary committee till he is
+cleared. The IBBI sets the standard necessary for achieving the objectives
+of the Code, and hence this tribunal, may not sit on the lap of the Board
+and remote control what it is required to do while sitting to judicially
+review the decision of the Board in an appeal. Reliance was also placed
+on the ratio in Chairman, SEBI Vs Shriram Mutual Fund & another
+[(2006) 5 SCC 361]. Therefore, when the Disciplinary Committee
+concludes that a certain service provider, which includes a resolution
+professional deserves to be barred from functioning as one, then while
+exercising its appellate jurisdiction under Sec.220(7) of the Code, should
+be less enthusiastic in subjecting the judgement of the disciplinary
+committee to judicial scrutiny, lest, an expert body may not be able to play
+the role expected of it.
+
+[PAGE 9]
+9
+
+c) When the registration of a resolution professional is suspended, it operates
+vis-à-vis all his assignments and not selectively. It is akin to a suspension
+of sanad of an Advocate.
+8.
+In response the learned counsel for the appellant argued that, no parallel
+can be drawn as between the suspension of registration of a resolution
+professional and suspension of sanad of an Advocate. What it fails to negotiate
+is the effect of Sections. 22, 27 and Regulation 13(7) of IBBI (Inspection &
+Investigation) Regulation. So far as the ratio of Vishal Tiwari case goes, there
+the challenge was to a certain regulation as framed by an expert body under
+Article 32 of the Constitution and not what flowed from its operation. In the
+present case, no statutory provision or rules are challenged, but what is purported
+to have been done pursuant thereto. So far as Apex Heights Case goes, on facts
+the corporate debtor had undertaken multiple projects, and the Supreme Court has
+desisted the resolution professional from associating himself from all the projects
+of the same corporate debtor till his name is cleared, and not from every
+assignment in which the resolution professional is appointed as such.
+Discussion & Decision
+9.
+The issue in relation to which a decision is required to be made falls within
+a very narrow space: inasmuch as the impugned proceeding of the IBBI has
+barred the appellant from associating with every assignment he is entrusted with,
+should the suspension of the resolution professional, which has taken effect
+
+[PAGE 10]
+10
+
+during the hearing on this application, should be suspended. So far as the
+particular CIRP in which he has been replaced, the dispute raised can be probed
+separately when the main appeal is taken up for hearing.
+10. As we consider the submissions made at the bar on the scope of jurisdiction
+which we may exercise under Sec.220(7) of the Code, two aspects stood out: (a)
+the defined role of CoC in appointing and replacing a resolution professional vis-
+à-vis the authority of the IBBI under Sec.220; and (b) the extent of authority
+which IBBI claims to supersede the authority of CoC in replacing a resolution
+professional. While it requires greater and deeper examination, we may still make
+a prima facie statement on it.
+11.
+Has the CoC any authority to appoint a resolution professional or replace
+him if his registration is not subsisting? Indeed, Sec.22(4) mandates that when
+the CoC recommends an individual for him to be appointed by the Adjudicating
+Authority as a resolution professional, the latter is required to obtain the
+confirmation of the IBBI. This perhaps is to ascertain if the one who is proposed
+to be appointed as a resolution professional is not disqualified to be so appointed.
+What other purpose can it serve? Indeed, a similar provision is made when an
+IRP is appointed as could be seen in Sec.16(2) and (3), and also under Sec.27(4)
+when the resolution professional is sought to be replaced. In other words, no CoC
+has the authority to insist in appointing the one whose nomination is not approved
+by the IBBI.
+
+[PAGE 11]
+11
+
+12.
+The issue, however, is not about the appointment made at the first instance
+under Sec.22, or replacement of the resolution professional under Sec.27, but the
+extent of authority of the IBBI has to suspend a resolution professional from
+acting as such in every assignment without the CoC of each of those assignment
+joining the issue on a finding of professional misconduct of a resolution
+professional in one. If we hold it in the affirmative then it renders Regulation
+13(7) of the IBBI (Inspection and Investigation) Regulation redundant or otiose.
+After all, in terms of Sec.241 of the Code, every Regulation, for framing which
+the Board has authority under Sec.240, is required to be placed before the
+Parliament while in session, and becomes operational subject to the authority of
+the Parliament to modify them. Can therefore a Regulation, which in the instant
+case is Regulation 13(7), which has passed the legislative process as envisaged
+under Sec.241, be allowed to be diluted under the weight of authority which the
+IBBI claims under Sec.220(2)?
+13.
+Existence of authority must be distinguished from its exercise. A Regulator
+may have been vested with the power of a giant, but is it necessary for it to act as
+a giant? Who will check if it is arbitrarily exercised? Statutorily, Regulation
+13(7) steps in which has required the IBBI, which itself is a creation of the statute,
+only to inform the CoCs of other assignments where the same resolution
+professional who has been indicted by the Board, for them to take appropriate
+decision. This has at least three advantages: (a) first, it ensures rule of
+
+[PAGE 12]
+12
+
+proportionality when it indicates that no resolution professional be penalised
+more than the extent required to, and to arrest excessive reaction and response
+from the Board to an allegation of misconduct in a particular assignment; (b)
+secondly, it balances the statutory authority of CoC to replace a resolution
+professional with the authority of the IBBI to discipline a resolution professional;
+and (c) thirdly, it upholds the eternal doctrine in administrative law, or even in
+common law, that no right be banished without a hearing those who are likely to
+be affected thereby. In our considered opinion, where these aspects come under
+a cloud, then judicial review under Sec.220(7) cannot sidestep them.
+14.
+So far as the reach of the proceedings of the IBBI now impugned before us
+goes, it attempts to bar the appellant from acting as a resolution professional in
+every case in which he is appointed, but was he heard on his conduct in every
+assignment? The impugned proceeding only records the charge of a particular
+CIRP where the appellant was said to have failed in constituting a CoC for about
+two years when the corporate debtor has a secured financial creditor in SBI, but
+then it is a specific allegation in a particular CIRP, with no reference to other
+CIRPs where the appellant is functioning as a resolution professional. When one
+who is entitled to be heard but penalised without a hearing, our conscience
+instantly gets disturbed. It is not therefore, about the existence of authority or its
+extent which IBBI claims under Sec.220(2) of the Code but how it purports to
+
+[PAGE 13]
+13
+
+exercise it. Does not the act of the IBBI contravene Sec.218 and 291 of the Code?
+There is a world of difference between a rule and the way a rule-book is handled.
+15.
+We, therefore, have little hesitation in holding that the Board has over
+stepped. So far as the extent of authority we have – whether the tribunal has the
+power of a civil court to examine and re-appreciate the facts as the Authority of
+the first instance a la the power of the civil court under Sec.96 CPC, though a
+prima facie view suggests a possibility, a final opinion can be made only when
+the main appeal is taken up for consideration. Or may be in a situation, where
+the proceeding suspending the registration of the resolution professional in the
+particular CIRP in which he is so penalised comes up for consideration.
+16. We may record now that a third party has filed I.A.4610 of 2026 to
+intervene in the matter to oppose why it may not be desirable to let the appellant
+continue as a resolution professional in other assignments as well, and also placed
+materials before us to justify the same. We take note of them, but underscore that
+we may not be able to act on them, as we are certain that the rule of audi alteram
+partem is sacrosanct in our jurisprudence, and no matter how high the nature of
+authority vested in an Authority, the doctrine emphasising the right of hearing
+should not be violated. The appellant therefore, cannot be banished without a
+hearing on the materials so placed. The proposed intervener however, is free to
+move the IBBI under Sec.218(1) of the Code, if he is so desirous.
+
+[PAGE 14]
+14
+
+17. To conclude, we find that the appellant has made a strong prima facie case,
+that balance of convenience is in his favour and that irreparable injury will be
+caused if appellant is barred from associating with other assignments other
+than the one in which the Adjudicating Authority has removed him and
+recommended a disciplinary action against him. We accordingly suspend the
+Order of suspension imposed on the appellant with regard to other assignments
+in which the appellant is appointed as a resolution professional. The IBBI
+however, may communicate the impugned order to the other CoC of such other
+assignments, and once done, it is for the respective CoC to take a call on its
+preference for the appellant as a resolution professional. No costs.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Barun Mitra]
+Member (Technical)
+rs/beena

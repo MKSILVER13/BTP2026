@@ -1,0 +1,614 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 394 of 2025
+
+[Arising out of the Order dated January 10, 2025, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Chandigarh Bench) in 258/CHD/HRY/2022]
+
+IN THE MATTER OF:
+
+M/s Drilltech Engineers Pvt. Ltd.
+Registered office at:
+505/B, Kanara Business Centre,
+Next to Everest Garden, Ghatkoper (e)
+Mumbai, Maharashtra-400075
+Email ID: drilltechengineers@yahoo.com
+
+...Appellant
+
+Versus
+
+M/s DLF Limited
+Registered Office at:
+3RD Floor, Arjun Marg, DLF City,
+Phase-1, Gurgaon, Haryana – 122002
+Email ID: cprporateaffairs@dlf.in
+
+...Respondent
+
+Present:
+
+For Appellant
+:
+Mr. P. Nagesh, Sr. Advocate with Mr. Rishabh Singh
+and Mr. S. Shiva, Advocates.
+
+For Respondent
+:
+Ms. Meghna Mishra, Mr. Ankit Rajgarhia and Ms.
+Palak Sharma, Advocates.
+
+O R D E R
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+This is an Appeal under Section 61 of the Insolvency and Bankruptcy
+Code, 2016 read with Rule 22 of the National Company Law Appellate
+Tribunal Rules, 2016 against the order dated 10.01.2025 passed by the
+Hon'ble National Company Law Tribunal, Chandigarh Bench in CP (IB) No.
+258/CHD/I-IRY/2022. Section 9 Application was dismissed on the ground
+that there was a pre-existing dispute between the parties. Adjudicating
+Authority accepted the Corporate Debtor's defence that there were concerns
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 2 of 15
+
+regarding the quality of work, and hence, no operational debt was due and
+payable It was held that this falls within the scope of Section 9(5)(ii)(d) i.e.
+there is an existence of a prior dispute.
+Submissions of the Appellant
+2.
+On 08.10.2021, the Corporate Debtor-DLF issued a tender for piling
+works at its commercial project located at 35, Patto Plaza, Panji, Goa- 403001.
+The Operational Creditor (M/s Drilltech Engineers Pvt. Ltd.) submitted its bid
+and was declared the successful bidder. Based on discussions and
+negotiations, a Letter of Intent (LOI) was issued on 18.11.2021 for 335 piles.
+The Operational Creditor mobilized plant and machinery to the site on
+30.11.2021 and 06.12.2021. A formal agreement incorporating the LOI and
+terms and conditions was signed on 25.11.2021. The work was executed in
+phases. Interim and RA (Running Account) bills were raised after approval of
+Proforma invoices by the Corporate Debtor. The payment due date was 10
+days from the date of invoice approval. On 05.03.2022, an amendment (No.-
+01) was issued for 100 additional piles, of which 98 were fully completed and
+drilling of 2 piles was done as instructed. The entire scope of work (335 + 100
+piles) was completed by 26.05.2022. On 03.06.2022 and 06.06.2022,
+Corporate Debtor offered an additional 16 piles. Operational Creditor declined
+the offer citing persistent payment defaults. On 02.07.2022, a notice under
+Section 8 of IBC was sent by the Operational Creditor. It was served via email
+and speed post. On 12.07.2022, Corporate Debtor replied with alleged
+frivolous and fabricated claims. On 30.07.2022, the Operational Creditor filed
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 3 of 15
+
+a Section 9 Application under the Insolvency and Bankruptcy Code, 2016,
+before the NCLT, Chandigarh Bench.
+
+3.
+Appellant – Operational Creditor contends that the Adjudicating
+Authority gravely erred in concluding that a pre-existing dispute existed
+between the parties at the time of issuance of the statutory demand notice
+under Section 8 of the Insolvency and Bankruptcy Code, 2016. The
+Operational Creditor had executed the assigned work diligently and to the
+satisfaction of the Corporate Debtor. The work carried out at the site located
+at 35, Patto Plaza, Panji, Goa, was inspected and duly approved by engineers
+representing both parties. As per Clause 69.2 of the binding agreement dated
+25.11.2021, the final approval of work by engineers constituted conclusive
+acceptance of the same and, by extension, approval of the corresponding
+invoices. The Operational Creditor submitted bills only after obtaining
+approval on the proforma invoices, thereby complying strictly with
+contractual terms. The Adjudicating Authority failed to consider that these
+approvals negate any claim of a pre-existing dispute. Further the Corporate
+Debtor’s claim of a dispute, it is an admitted fact that following the completion
+of initial and additional scope (335 + 100 piles), the Corporate Debtor,
+through email communications dated 03.06.2022 and 06.06.2022, assigned
+additional work involving 16 more piles to the Operational Creditor. Such an
+assignment, coming after the full execution of the primary scope of work,
+indicates the Corporate Debtor’s continued satisfaction with the Operational
+Creditor’s performance. No party, acting in good faith, would assign further
+technical work involving structural integrity, such as piling, to a contractor
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 4 of 15
+
+whose previous performance was in dispute. This clearly contradicts the
+Corporate Debtor’s subsequent claims of defective performance and further
+contradicts the assertion of a pre-existing dispute. The reply to the Section 8
+notice served by the Operational Creditor was riddled with vague, concocted,
+and unsubstantiated allegations, raised only after the demand notice was
+issued on 01.07.2022. The Corporate Debtor’s response, dated 12.07.2022,
+failed to establish any real, bona fide dispute. The timing of the response,
+coming only after the refusal of the additional 16-pile assignment and the
+issuance of the demand notice, renders the defence highly suspicious and
+non-genuine. Such afterthought justifications do not qualify as pre-existing
+disputes under the judicial precedents laid down by the Hon’ble Supreme
+Court, including the landmark judgment in Mobilox Innovations Pvt. Ltd.
+v. Kirusa Software Pvt. Ltd. The conduct of the Corporate Debtor further
+supports the position that there was no dispute prior to the notice. Initial
+payments made on earlier invoices and continued issuance of work orders
+serve as clear acknowledgments of debt. Such behaviour constitutes an
+admission of liability, as against any subsequent denial. The invoices were
+not only raised in accordance with contractual terms but also approved, at
+least partially, and honoured in part – reinforcing that the remaining unpaid
+invoices also stood due and payable. The agreement between the parties
+explicitly provides that payment for approved bills was to be made within ten
+days from the date of such approval. The Operational Creditor complied with
+all conditions, including submission of proforma invoices and obtaining
+requisite approvals before raising final bills. Despite this, the Corporate
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 5 of 15
+
+Debtor defaulted on making payments within the stipulated period. Such a
+failure constitutes a clear contractual breach, and the same was never
+disputed until after the statutory notice was served. The Adjudicating
+Authority failed to appreciate this blatant violation of payment terms, which
+is the foundation of the debt under consideration. The Corporate Debtor’s
+assertion of dispute was raised only after the Operational Creditor declined
+the June 2022 offer for additional piling work due to persistent delays in
+payment. This sequence of events clearly indicates that the so-called dispute
+was not only raised belatedly but was also reactionary – motivated by the
+Operational Creditor's decision to cease further cooperation with a non-
+paying client. It is a settled principle that disputes raised after issuance of a
+demand notice, especially when unsubstantiated and without prior
+communication, do not constitute a “pre-existing dispute” under the
+framework of the Insolvency and Bankruptcy Code.
+
+4.
+The Appellant prays to set aside the impugned order dated 10.01.2025
+passed by NCLT, Chandigarh Bench and admit the Section 9 Application filed
+by the Appellant under the Insolvency and Bankruptcy Code, 2016.
+Findings and Conclusions
+5.
+Heard counsels of both sides and also perused materials placed on
+record.
+
+6.
+We note that the application before the adjudicating authority has been
+found to be non-maintainable due to pre-existing dispute between the parties.
+This has been challenged before us. We now proceed to see the material on
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 6 of 15
+
+record to know whether there is a pre-existing dispute between the parties or
+not, and whether initiation of the CIRP against the respondent-corporate
+debtor is justified or not.
+
+7.
+We find that the Operational Creditor – Drilltech Engineers had issued
+a demand notice dated 01.07.2022, which was received by the Corporate
+Debtor – DLF on 02.07.2022. The Corporate Debtor – DLF had issued a reply
+dated 12.07.2022.
+
+8.
+From the materials on record we find that before the demand notice
+dated 01.07.2022 was issued by the Operational Creditor – Drilltech
+Engineers, the Corporate Debtor – DLF had already issued a Show Cause
+Notice (SCN) dated 21.06.2022, which is being dealt little later as per
+chronology of events. From the records, it can also be seen that the show
+cause notice had called upon the Operational Creditor to rectify the defective
+works and reserved its rights to recover revenue losses suffered by it.
+
+9.
+Even prior to SCN, the Corporate Debtor had been corresponding with
+the Operational Creditor on various issues, which is noted in next few
+paragraphs. Through its letter dated 15.12.2021, the Corporate Debtor had
+brought to the notice of the Operational Creditor – M/s Drilltech Engineers
+Pvt. Ltd. about various issues relating to slow progress and the site protection.
+These issues are extracted as below:
+“1.
+Mobilization of 4 nos Rigs 4 nos rigs was supposed to be
+Mobilized within 10 days from date of issue of LOI (18.11.2021) i.e,
+by 28 Nov 21. 3 nos Rigs with complete accessories was reached on
+site on 6th Dec 2021 and 4th Rig on 11th Dec 21. There is a delay
+of 9 days for 3 rigs & 14 days for 4th Rig. M/s Drilltech is solely
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 7 of 15
+
+responsible for the delay. The time & cost impact due to the said
+delay will be informed soon.
+2.
+Mobilization of another 2 nos Rigs - Another 2 nos rigs was
+supposed to be Mobilized within 20 days from date of issue of LOI
+(18.11.2021) i.e. by 08 Dec 21. There is no visibility on Mobilization
+of another 2 rigs.
+
+3.
+Submission of Required compliances & Policies: Drilitech
+was required to required compliances and policies within 7 days
+from the date of issue of LOI, but the CAR policy is submitted on
+8th Dec 21 & indemnity bond is still pending at M/s Drilltech end.
+
+4.
+Process of Stage Payment against mobilization of Rig: The Pl
+against mobilization of Rigs was submitted without compliances on
+1st Dec. The 3 Rigs were completely mobilized on 6th Dec 21 instead
+of 28th Nov 21 as claimed by M/s Drilltech. The compliances ie,
+CAR Policy was submitted on 8th Dec 21 which was supposed to be
+submitted on 25th Dec 21. DLF has released the payment as an
+exceptional case on 9th Dec 21 without the compliances.
+
+5.
+Delay in Start of Piling Works: The mobilization of 3 rigs
+delayed by 9 Days & 4th Rig by 14 days as mentioned above. Also,
+the bentonite reached at site on 6th Dec 21. As per LOI, contractor
+to complete 100 piles within 30 days from the date of issue of LOI
+le, by 17th Dec 21. However, contractor has completed only 21 piles
+up to 13th Dec 2021. The asking rate to complete the 100 piles
+within stipulated time as per LOI is 5 piles per day, but since the
+inception of piling works, the rate of piling per day comes to 1.4
+Piles per day which is significantly way behind the asking rate.
+Hence, contractor is required to submit detailed Programme to
+achieve the same within stipulated timeline as per LOI. Please note
+that DLF reserve the right to engage another contractor on risk &
+cost of M/s Drilltech to achieve the milestones.
+
+6.
+Site Inspection: Site inspection was not done by M/s
+Drilltech before the submission of tender document & commercial
+bid. As per GCC condition no. 18 the contractor is deemed to have
+inspected and examined the site & its surrounding. In general. Shall
+be deemed to have obtained all necessary information, as to risks,
+contingencies and all other circumstances which may influence or
+affect his tender. However, based on the problem intimated by M/s
+Drilltech, DLF have completed 50% filling of site up to 6th Dec 21
+and Workfront for 150 piles was available to the contractor. The
+surface condition for starting of piling work was not intimated by
+contractor to DLF before issue of LOI, thus any delay in this regard
+will solely be on contractor part. Also, date of handover of site will
+not be changed and will be considered as same as date of LOI.
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 8 of 15
+
+7.
+Security & Lighting: As per clause 29 of the GCC, the
+contractor shall provide & maintain, at his cost, all lights, quards,
+fencing, and security when and where necessary or required by
+Engineer or by any duly constituted authority for the protection of
+works, materials, plants and equipment, including the property of
+the owner. M/s Drilitech has not provided security and adequate
+lighting at site. Hence, DLF, reserves the right to deploy the Security
+& Lighting at risk & cost of the contractor.
+
+Thus, M/s Drilltech is required to take appropriate measure & also
+to comply with all applicable laws to finish the work within
+stipulated timeline as per LOI.
+For your necessary action & record.”
+[emphasis supplied]
+
+10.
+This was replied by the Operational Creditor – Drilltech Engineers
+through its email dated 18.12.2021. The matter was once again taken up by
+the Corporate Debtor – DLF on 29.12.2021, which is extracted as below:
+“With refer to trailing mail below would like to intimated you
+referred that still there is no action taken up at your and about to
+clear the Muck from site. Now its creating hindrance to continue
+the balance pilling work in Zone 01 & 02. Also the Pile boring &
+casting speed is considerably came down, affecting the overall work
+progress. The interim Milestone based on LOI has already been
+lapsed further need catch-up plan to achieve the final Milestone as
+declared in LOI.
+
+Therefore, intimating you herein to deploy more vehicles to cart off
+the existing Muck with immediate effect, failing which DLF will
+deploy the agency to cart off the Muck out of site premises at your
+risk & cost.”
+[emphasis supplied]
+
+11.
+The matter was once again raised by the Corporate Debtor on
+07.01.2022 in which concerns were once again raised by the Corporate
+Debtor, which is extracted as below:
+“It is regretted to inform you that no action has been taken up till
+now in view of the points as stated in trailing mail below. Due to
+such lethargic approach at your end the following activities such as
+Excavation, laterite rubble soling, stone pitching for sail
+stabilization & balance sub-structural activities are getting delayed
+since no working fronts are available considering present site
+scenario. Your negligence towards clearing of slush/muck from
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 9 of 15
+
+Zone 01 & 02 is now affecting the overall progress of the whole
+project & we are losing our targets.
+
+In present site condition it becomes difficult to retrieve the existing
+laterite rubble from zone 01 & zone 02 since slush /muck is not yet
+cleared. Considering the above scenario, M/s Drilltech has forced
+DLF to do laterite filling in Zone-5 at risk and cost of M/s Drilltech.
+
+Also if muck/slush will not be removed by M/s Drilltech in next 3
+days from today, DLF will appoint another agency at risk and cost
+of M/s Drilltech.”
+[emphasis supplied]
+
+12.
+On 06.01.2022, the Corporate Debtor once again expressed its
+concerns as follows:
+“It becomes very disappointing that you are still not responding to
+the points as listed below,
+
+1-ACTION TO ACCELERATE CARTING AWAY THE MUCK FROM
+SITE PREMISES PARTICULAR FORM ZONE 01 & ZONE 02, IS NOT
+YET INITIATED IN SPITE OF CONSTANT FOLLOW-UPS
+
+2-NO ACTION HAS BEEN TAKEN UP TILL DATE ABOUT CLEANING
+OF EXTERNAL ROADS ON REGULAR BASIS AS THE SAME ARE
+GETTING SPOILED DURING CARTING OF MUCK.
+3-DISPOSAL OF CONCRETE IN INAPPROPRIATE MANNER INSIDE
+THE PREMISES
+
+4-SEEPAGE OF NIGHT SOIL THROUGH THE SEPTIC TANK,
+TOILETS CONSTRUCTED FOR LABOURS
+
+It has been constantly communicated to you as well as with your
+site team in timely manner thru mails dtd. 27th Dec 21, 29th Dec
+21 & 05th Jan 22, but as on date no action has been taken to attend
+& conclude the same.
+
+Now the Excavation agency is on board and ready in position to
+start the work. But due to the above said hindrance cited 01 the
+activity is getting delayed.
+
+Expecting action at your end with immediate effect. Also you are
+intimated herein to make attention towards HSE aspects (refer
+point cited 02 to 03)”
+[emphasis supplied]
+
+13.
+On 12.03.2022, the Corporate Debtor once again raised the issues
+relating to the work which is extracted as below:
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 10 of 15
+
+“This is to bring to your notice that, yesterday late night. 11-Mar-22
+there was some heated arguments with your operator's team and
+engineering staff outside DLF site premises. As a result, no one
+including operators and engineering staff has come for the works.
+We have completely wasted a day towards this reason. Please note
+that, we cannot afford to stop the piling works at this stage and it is
+not expected further more. As all other activities are completely
+depending on piling works.
+
+This situation is very much alarming for us, since we need to
+complete the entice scope of works till ground floor including piling,
+excavation, RCC raft, pille cap, etc. well before the forthcoming
+monsoon. Hence, you are required to resume work immediately
+without further delay. All activities including chipping of pile,
+building-up the under cast pile, pile integrity tests, pile dynamic
+tests, etc. are already far behind the completion schedule.
+We expect a positive response in the above issues with immediate
+effect.”
+[emphasis supplied]
+
+14.
+On 12.03.2022, the Corporate Debtor wrote two letters, which are
+extracted as below:
+“This is with reference to the site visit made by the geotechnical
+consultant on 10-Mar-22 regarding the issue of under cast piles
+observed in the phase 1 of the excavation area. In this connection,
+you are immediately requested to furnish the methodology as
+directed by the geotechnical consultant which has already been
+shared with you today.
+
+The same shall be further shared with the consultant and take their
+approval for execution of the balance piles.
+
+You are directed to furnish the method statement for the building-
+up under cast piles with immediate effect. You are required to
+deploy the resources along with the materials, etc. and complete the
+entire scope of under cast piles with Immediate effect. Please note
+here that, all further activities are very much linked with this
+building-up piles. Hence, any further delays will be solely attributed
+to you only and dealt as per the contract terms and conditions.
+
+Also, the issue of collapse of concrete in the pile no. 420 casted on
+09-Mar-22 needs the method statement as discussed with the
+consultants on his site visit on 10-Mar-22.
+
+We expect a line of positive response in the above issues with
+Immediate effect.”
+[emphasis supplied]
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 11 of 15
+
+15.
+This was followed by another letter on 02.05.2022, wherein the
+Corporate Debtor rejected incentive request and directed to complete the
+entire scope of filing works as per the tender / contract specifications
+urgently and without fail. And since the Corporate Debtor has claimed to
+incur losses and was continuing to do so due to non-performance of the
+Contractor – Operational Creditor it claimed to reserve its rights to recover
+the same from the contractor – Operational Creditor. On 23.05.2022 we find
+another letter, wherein the Corporate Debtor wrote then that since the
+Operational Creditor has shown their inability to carry out such orders
+therefore, the Corporate Debtor is entitled to employee another contractor at
+the risk and cost of the Operational Creditor.
+
+16.
+We find that the Corporate Debtor issued a show cause notice to the
+Operational Creditor on 21.06.2022, which is instructive to note as follows:
+“Ref No.: DL/PP/DEPL/004 21-Jun-2022
+
+M/s. Drilltech Engineers Pvt. Ltd.,
+505-B, Kanara Business Centre,
+Near Laxmi Nagar Bus Stop,
+Ghatkopar (East), Mumbai-400 075.
+
+Sub: - Piling Works at Plot # 35, Patto Plaza, Panaji,
+Goa-Show Cause Notice.
+
+Ref:- DLF Letter Dated 17-Mar-22
+DLF Letter Dated 02-May-22
+DLF Letter Dated 05-May-22
+DLF Letter Dated 23-May-22
+DLF Letter Dated 08-Jun-22
+
+Dear Mr. Salauddin / Mr. Vivek Patel,
+
+With reference to your email dated 20th Jun 22, all allegations and
+averments made in the email are strictly denied and refuted in their
+entirely. Nothing contained in the e-mail shall be deemed to be
+admitted. The e-mail by Drilltech is baseless, misleading and
+incorrect. Drilltech has made false allegations against DLF, despite
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 12 of 15
+
+being fully aware that the truth is to the contrary. The machines
+are idle due to Drilltech inability to rectify the defective works before
+monsoon at its own expense.
+
+Kindly read this letter in conjunction to our earlier correspondences
+as mentioned above, RA bill payments has been released only to
+ease the cashflow of the contractor, it doesn't mean that defective
+work is accepted by DLF. You were informed through various
+correspondences w.r.t defective work and its rectification. During
+discussion on 15th June-2022, owner of M/s Drilltech agreed to
+rectify the defective work and agreed to hold defective work cost till
+the time it is rectified by M/s Drilltech.
+
+Furthermore, as per contract only those piles will be eligible for
+payments which will pass all necessary testing. Therefore,
+considering the above facts, M/s Drilltech is not eligible for further
+payment till the time under-cast piles are developed and new
+compensatory piles are done in lieu of abandoned piles by Drilltech
+without any cost impact on DLF.
+
+Due to inferior quality of works, the other subsequent activities
+have got delayed and entire project duration has been adversely
+affected by 9 months, due to which DLF is incurring huge losses.
+The additional cost of compensatory piles to be done in lieu of
+abandoned piles and development of undercast pile is estimated
+around Rs 10.00 Crs.
+In lieu of above, DLF reserves the right to recover the revenue loss
+attributable to the Contractor by Invoking relevant clause no 81 of
+GCC. Hence, M/s Drilltech is hereby advised to explain - why the
+relevant clause should not be exercised by DLF with justification
+and way forward to rectify the defective works. M/s Drilltech is once
+again strongly advised to do the following:
+
+1. Undertake rectification of all defective works and confirm
+mobilization schedule for the same in writing within 7 working
+days from receipt of this letter.
+
+2. Submit No claim certificate and NOC of RMC suppliers and
+other agencies.
+
+3. Submit GST deposit proof.”
+[emphasis supplied]
+
+17.
+In the meantime, the Operational Creditor had sent notice dated
+01.07.2022 to the Corporate Debtor vide email as well as speed post which
+was replied by the Corporate Debtor on 12.07.2022 and on 30.07.2022 the
+Operational Creditor filed an Application under Section 9 of the Code. The
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 13 of 15
+
+Appellant-Operational Creditor – Drilltech Engineers claims that the alleged
+disputes were raised post facto. The Corporate Debtor had availed GST input
+credit on invoices, for which the work has already been performed by the
+Operational Creditor, but were subsequently disputed by the Corporate
+Debtor for evading payment. Corporate Debtor had made partial payments
+without protest and continued receiving services from the Appellant.
+Corporate Debtor had disputed its liability only before the NCLAT. The prior
+conduct of Corporate Debtor – DLF for approving the work, making the
+payments and failing to issue contemporaneous objections contradicts its
+own claims, proving that the alleged dispute was fabricated. The Corporate
+Debtor – DLF had also given additional work/contract for 165 piles on
+03.06.2022/06.06, which shows that work and conduct of Operational
+Creditor was satisfactory. Only for that reason fresh work was offered by the
+Corporate Debtor. The Operational Creditor – Drilltech Engineers also
+contends that part payments were made even after raising so-called disputes
+by the Corporate Debtor. At no point in time the contract was terminated or
+proceedings for liquidated damages were issued. It also contends that the
+piles were undercast as per the letter dated 02.05.2022 and 23.05.2022
+issued by the Corporate Debtor, whereas its own subsequent letters show
+that there is an issue of earth settlement and loose status while at the site.
+
+18.
+From the materials on record and in the above facts and
+circumstances, we find that there is lot of communication exchanged
+between the two parties indicating pre-existing dispute, which cannot be
+ignored and which cannot be said to be moonshine or spurious and it is
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 14 of 15
+
+much prior in time to the issuance of demand notice by the Operational
+Creditor – Drilltech Engineers. The final SCN dated 21.06.2022 issued by
+Corporate Debtor, prior to the demand notice of the Operational Creditor
+dated 01.07.2022 succinctly captures the pre-existing dispute. We therefore
+conclude that these are pre-existing disputes which cannot be adjudicated
+by NCLT and this need to be settled at appropriate forum. The law is very
+clear that as per Section 9(5)(ii)(d) of the Code, on existence of pre-existing
+dispute, the application is not maintainable. Furthermore, the law has been
+clearly laid by Hon’ble Supreme Court in Mobilox Innovation Pvt. Ltd. Vs.
+Kirusa Software Private Limited (2018) 1 SCC 353 at para 40 held as
+under:
+“....
+40.
+It is clear, therefore, that once the operational creditor has
+filed an application, which is otherwise complete, the adjudicating
+authority must reject the application under Section 9(5)(2)(d) if
+notice of dispute has been received by the operational creditor or
+there is a record of dispute in the information utility. It is clear that
+such notice must bring to the notice of the operational creditor the
+“existence” of a dispute or the fact that a suit or arbitration
+proceeding relating to a dispute is pending between the parties.
+Therefore, all that the adjudicating authority is to see at this stage
+is whether there is a plausible contention which requires further
+investigation and that the “dispute” is not a patently feeble legal
+argument or an assertion of fact unsupported by evidence. It is
+important to separate the grain from the chaff and to reject a
+spurious defence which is mere bluster. However, in doing so, the
+Court does not need to be satisfied that the defence is likely to
+succeed. The Court does not at this stage examine the merits of the
+dispute except to the extent indicated above. So long as a dispute
+truly exists in fact and is not spurious, hypothetical or illusory, the
+adjudicating authority has to reject the application...”
+
+19.
+The matter has been accordingly adjudicated by the NCLT, Chandigarh
+and Section 9 Application was dismissed with the conclusion that “Thus, it
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 394 of 2025 15 of 15
+
+is safe to conclude that a pre-existing dispute existed between the parties as
+the amount claimed by the Operational Creditor is disputed on the basis of
+earlier communication between the parties, by the Corporate Debtor in its reply
+to the demand notice.”
+Orders
+20.
+The Adjudicating Authority has rightly rejected the Section 9
+Application. Perusal of the rival contentions indicate that there is a pre-
+existing dispute, which has been going on prior to the issuance of demand
+notice by the Operational Creditor – Drilltech Engineers. We do not find any
+infirmity in the orders of the Adjudicating Authority and we uphold its orders.
+The Appeal is therefore, dismissed. The Appellant is at liberty to pursue
+remedies as available to him as per law. No orders as to cost.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+May 01, 2025.
+
+pawan

@@ -1,0 +1,808 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+(Arising out of the Order dated 23.07.2026 passed by the National Company
+Law Tribunal, Mumbi Bench, in IA (I.B.C)/3054(MB)2026 in C.P.
+(IB)/414(MB)2025
+
+IN THE MATTER OF:
+
+1.
+Phoenix ARC Limited (formerly known as
+Phoenix ARC Private Limited), Trustee of Phoenix
+Trust FY 22-16
+3rd Floor, Wallace Towers, 139- 140/B/l,
+Crossing of Sahar Road and Western Express
+Highway, Vile Parle (East), Mumbai,
+Maharashtra, India – 400057
+
+...Appellant
+
+Versus
+
+1.
+Rajesh Jhunjhunwala, Erstwhile Resolution
+Professional of Supreme Best Value Kolhapur
+(Shiroli) Sangli Tollways Private Limited
+A51, Aashit CHS, Azad Road,
+H B Gawde Marg, Stanburg Estate,
+Juhu Koliwada, Mumbai - 400049
+
+2.
+Supreme Best Value Kolhapur (Shiroli)
+Sangli Tollways Private Limited, Represented
+through its Liquidator, Mr. Shailesh Pranlal Bhuta
+901, Regent Chambers, Nariman Point,
+Mumbai – 400021
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 2 of 31
+
+Present
+For Appellant:
+Mr. Gaurav Mitra, Sr. Adv. along with Ms. Chitra
+Rentala, Mr. Khyati Mehrotra, Mr. Treenok Guha &
+Ms. Shravani Madirrala.
+
+For Respondents:
+
+Mr. Rajesh Jhunjhunwala, for R-1 (in person).
+Mr. Rudra Deosthali, for R-2.
+
+J U D G E M E N T
+( 06.10.2026)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e., Phoenix ARC
+Limited (formerly known as Phoenix ARC Private Limited), acting in its capacity
+as trustee of Phoenix Trust FY 22-16, who is the Financial Creditor, herein, under
+Section 61 of the Insolvency and Bankruptcy Code, 2016 (‘Code’) against the
+Order dated 23.07.2026 ("Impugned Order") passed by the National Company
+Law
+Tribunal, Mumbai Bench
+("Adjudicating Authority")
+in IA
+(I.B.C)/3054(MB)2026 in C.P. (IB)/414(MB)2025.
+Rajesh Jhunjhunwala, who is the erstwhile Resolution Professional of
+Supreme Best Value Kolhapur (Shiroli) Sangli Tollways Private Limited, is the
+Respondent No.1 herein.
+Supreme Best Value Kolhapur (Shiroli) Sangli Tollways Private Limited,
+represented through its Liquidator, Mr. Shailesh Pranlal Bhuta, who is the
+Corporate Debtor, is Respondent No. 2, herein.
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 3 of 31
+
+2.
+The Appellant submitted that as per the Impugned Order dated 23.07.2026,
+the application under Section 33(1A) of the Code, was rejected and liquidation of
+the Corporate Debtor was directed, which proceeds on an erroneous construction
+of Section 33(1A) of the code, according to the Appellant. The Appellant
+contended that the statutory conditions contemplated under the said provision
+stood satisfied in the present case, as no resolution plan had been approved within
+the CIRP period and the Committee of Creditors (“CoC”) had, by a unanimous
+voting share of 100%, resolved to seek restoration of the CIRP.
+3.
+The Appellant submitted that Section 33(1A), brought into force with
+effect from 26.05.2026, enables the Adjudicating Authority, before passing an
+order of liquidation, to consider an application approved by not less than 66% of
+the voting share of the CoC for restoration of the CIRP for a period not exceeding
+120 days. The Explanation to the provision also extends its application to CIRPs
+which had commenced prior to the amendment, where no liquidation order had
+been passed. In the present case, the CoC’s resolution dated 02.07.2026 was
+therefore squarely within the statutory framework introduced by Section 33(1A).
+4.
+It is submitted that the CoC did not merely satisfy the statutory threshold
+of 66%. The proposal for restoration of the CIRP, together with exclusion of 120
+days, was approved unanimously by 100% voting share, while the proposal for
+liquidation was unanimously rejected. The Appellant, holding 17.17% voting
+share in the CoC, itself voted in favour of restoration and against liquidation. The
+Appellant therefore contended that the Impugned Order effectively nullifies a
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 4 of 31
+
+statutory mechanism by which the CoC was expressly permitted to seek a further
+opportunity for resolution.
+5.
+The Appellant submitted that the Adjudicating Authority itself recorded in
+paragraph 10 of the Impugned Order that the CoC’s resolution for restoration had
+been approved unanimously by 100% voting share and that the statutory threshold
+of 66% had been “comfortably exceeded”. There was, therefore, no finding of
+any procedural infirmity in the decision-making process of the CoC or any
+allegation of mala fides in the decision to seek restoration.
+6.
+In such circumstances, the Appellant contended that the Adjudicating
+Authority could not substitute its own assessment as to whether restoration was
+commercially justified for the unanimous commercial decision of the CoC. The
+Appellant submitted that the CoC had considered the available alternatives,
+namely restoration of CIRP, recovery of the dues arising from the Arbitral Award,
+and liquidation, and had thereafter consciously and unanimously chosen
+restoration while rejecting liquidation.
+7.
+The Appellant further submitted that the commercial decision was not
+taken in isolation. It was preceded by the rejection of four resolution plans after
+multiple rounds of negotiations and by consideration of the Corporate Debtor’s
+principal asset, the Arbitral Award, the market response to the earlier Form G,
+and the possibility of a fresh resolution process. The decision was consequently
+the result of a deliberative commercial process and not an unexplained or
+mechanical exercise of voting.
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 5 of 31
+
+8.
+The Appellant contended that once the statutory threshold had been
+satisfied and the CoC had unanimously determined that a further resolution
+process was commercially viable, the Adjudicating Authority could not
+effectively sit in appeal over that commercial determination by concluding that
+liquidation was preferable. Such an approach, according to the Appellant,
+amounts to judicial substitution of commercial wisdom in a field entrusted by the
+Code to the CoC.
+9.
+The Appellant submitted that the principal reason assigned in the
+Impugned Order for declining restoration was that the Arbitral Award could also
+be pursued during liquidation. It is contended that this reasoning proceeds on an
+erroneous premise, because the mere availability of liquidation as an alternative
+mechanism for realisation of an asset cannot, by itself, defeat an otherwise
+statutorily permissible application for restoration under Section 33(1A).
+10.
+The Appellant submitted that the Corporate Debtor’s principal asset is the
+Arbitral Award for approximately Rs. 318,94,70,738/-, inclusive of litigation
+costs of Rs. 3,00,00,000/-, together with interest at 12.50% per annum from
+20.09.2016 until actual payment. The Award was passed in favour of the
+Corporate Debtor against the Public Works Department, Government of
+Maharashtra. The challenge to the Award under Section 34 of the Arbitration and
+Conciliation Act, 1996 remains pending before the Hon’ble Bombay High Court,
+with no stay having been granted, while execution proceedings are also pending.
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 6 of 31
+
+11.
+It is further submitted that the Corporate Debtor’s total claim, including
+accrued interest, was approximately Rs. 800 crores, and settlement discussions
+with the PWD under the Vivad Se Vishwas Scheme had included a figure of
+approximately Rs. 363.60 crores, although no final settlement had been arrived
+at and further time was indicated to be required for obtaining cabinet approval.
+Thus, the asset was not a merely speculative or extinguished claim but
+represented substantial value which remained capable of realisation.
+12.
+The Appellant contended that if the reasoning adopted in the Impugned
+Order were accepted, every corporate debtor whose principal asset is a monetary
+or actionable claim could be denied restoration merely because such claim could
+technically be pursued in liquidation. Such an interpretation would create an
+exclusion from Section 33(1A) which is not contained in the statutory text and
+would materially restrict the operation of a provision specifically introduced to
+enable a further attempt at resolution before liquidation.
+13.
+The Appellant submitted that Section 33(1A) would be rendered
+substantially ineffective if the existence of an alternative liquidation route were
+itself treated as sufficient reason to refuse restoration. Liquidation is precisely the
+consequence which Section 33(1A) permits the CoC to seek to avoid where it
+considers that a further time-bound resolution process may maximise value.
+14.
+The Appellant contended that the finding that restoration was not justified
+failed to give due consideration to the material demonstrating continued market
+interest. Pursuant to the Form G published on 24.10.2025, as many as 11 EOIs
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 7 of 31
+
+were received, from which four resolution plans were ultimately submitted by
+SMS Limited, Viceroy Hotels Limited, Shanti G.D. Ispat and Power, and Agra
+Gwalior Pathways Private Limited. Although all four plans were eventually
+rejected after negotiations and voting, the earlier participation itself demonstrated
+that the Corporate Debtor had attracted prospective resolution applicants.
+15.
+The Appellant further submitted that the fresh process approved by the
+CoC was not merely prospective or hypothetical. Pursuant to the CoC’s resolution
+dated 02.07.2026, a fresh Form G was republished on 13.07.2026. By the notice
+dated 30.07.2026 for the 13th CoC meeting, seven EOIs had already been
+received, of which five were accompanied by earnest money deposits. In addition,
+an eighth EOI accompanied by an earnest money deposit of Rs. 1,00,00,000/- was
+received on 29.07.2026 from SMS Limited, an earlier prospective resolution
+applicant.
+16.
+It is submitted that these developments occurred immediately after the CoC
+had resolved to restore the CIRP and before the liquidation process had
+meaningfully progressed. According to the Appellant, the subsequent market
+response materially corroborated the CoC’s assessment that a fresh resolution
+process remained commercially viable. The Appellant also submitted that the
+fresh EOI process was structured to invite resolution plans on three alternative
+bases: the Corporate Debtor as a whole on a going-concern basis, the Corporate
+Debtor excluding the Arbitral Award, and the Arbitral Award alone. Thus, the
+fresh process was designed to explore resolution of the Corporate Debtor in
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 8 of 31
+
+different commercial configurations and was not confined merely to monetisation
+of the Arbitral Award.
+17.
+The Appellant submitted that the Impugned Order further proceeded on the
+observation that continuation of the CIRP could permit monetisation of
+unabsorbed losses available to the Corporate Debtor at the cost of the
+Government exchequer. It is contended that this consideration did not arise from
+the application under Section 33(1A), nor did the Impugned Order identify any
+material establishing that restoration would operate to the detriment of the public
+exchequer.
+18.
+The Appellant submitted that the Corporate Debtor had carried-forward
+losses of approximately Rs. 397 crores, accumulated over the preceding four
+years. It was specifically submitted that a major part of these losses comprised
+interest payable on debt raised for construction of the asset and depreciation
+thereof, and that such amounts had been and would be treated in accordance with
+applicable law, including the applicable accounting and taxation treatment. The
+Appellant contended that such lawful treatment of losses cannot, without more,
+be characterised as a benefit accruing at the cost of the Government exchequer.
+19.
+It is further submitted that the object of the code is value maximisation and
+resolution, and any treatment of losses in accordance with law which facilitates
+maximisation of the value of the Corporate Debtor and consequent recovery of
+creditors cannot, merely on account of its tax consequences, constitute a ground
+to reject a statutory application for restoration. The Appellant therefore contended
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 9 of 31
+
+that the reasoning concerning carried-forward losses was vague, unsupported by
+any demonstrated prejudice to the exchequer, and unrelated to the statutory
+considerations governing restoration under Section 33(1A).
+20.
+The Appellant submitted that the Impugned Order is also materially
+inconsistent with the earlier order dated 02.06.2026 passed by the very same
+Adjudicating Authority in the same CIRP. By that order, a further extension of
+60 days was granted up to 21.07.2026, and the Adjudicating Authority expressly
+recorded the existence of “exceptional circumstances” warranting such extension
+so as to avoid liquidation, which could be considered a last resort, and to enable
+successful resolution of the Corporate Debtor in accordance with the objectives
+of the Code.
+21.
+The Appellant contended that the material circumstances which formed the
+basis of the earlier order substantially continued when the application under
+Section 33(1A) came to be considered. The Arbitral Award remained the
+principal asset; settlement efforts with PWD continued; and, importantly, the
+CoC had thereafter unanimously rejected liquidation and approved restoration
+with 100% voting share.
+22.
+It is submitted that, within approximately six weeks, the Adjudicating
+Authority adopted a contrary approach and directed liquidation, without
+adequately explaining the basis for such departure. According to the Appellant,
+the subsequent factual developments did not diminish the case for resolution;
+rather, the CoC had undertaken a fresh commercial assessment and the
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 10 of 31
+
+subsequent EOI process had generated further market participation. The
+Appellant therefore contended that the departure from the earlier approach,
+particularly in relation to liquidation being treated as a last resort, required cogent
+reasons, which are absent from the Impugned Order.
+23.
+The Appellant submitted that the CIRP had commenced on 25.08.2025
+and, after an initial period of 180 days, had been extended by 90 days up to
+22.05.2026 and thereafter by a further 60 days up to 21.07.2026, resulting in a
+total CIRP period of 330 days.
+24.
+Following rejection of all four resolution plans on 29.06.2026, the CoC met
+on 02.07.2026 and considered restoration under Section 33(1A). The application
+seeking restoration and exclusion of 120 days was filed on 16.07.2026, before
+expiry of the CIRP period on 21.07.2026. The restoration sought would extend
+the CIRP period up to 18.11.2026. The Appellant submitted that the sequence of
+events demonstrates that the CoC acted within the statutory framework and before
+liquidation had been ordered. The statutory mechanism was therefore invoked at
+the stage and in the circumstances for which Section 33(1A) had been enacted.
+25.
+The Appellant submitted that the record discloses a case where the CoC,
+by 100% voting share, rejected liquidation and resolved to pursue restoration for
+a further 120 days, while the fresh resolution process had already generated
+further market participation, including eight EOIs, with five of the first seven
+EOIs accompanied by earnest money deposits and a further EOI from SMS
+Limited accompanied by an earnest money deposit of Rs. 1,00,00,000/-.
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 11 of 31
+
+26.
+Concluding arguments, the Appellants requested this Appellate Tribunal to
+set aside the Impugned Order and allow this appeal.
+27.
+Per contra, during the pleadings, the Respondents have submitted that they
+do not wish to file any reply to the IAs or the Appeal, which has also been
+considered by us in our order dated 16.09.2026, which reads as under:
+
+Findings
+28.
+At the outset, we take into consideration that Section 33(1A) of the Code
+was inserted by the Insolvency and Bankruptcy Code (Amendment) Act, 2026,
+with effect from 26.05.2026. The relevant provision, reads as under:
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 12 of 31
+
+"(1A) Notwithstanding anything contained in sub-section (1),
+where the Adjudicating Authority is satisfied that the grounds
+mentioned in clause (a) or clause (b) of sub-section (1) of this
+section exist, it shall, before passing the liquidation order,
+consider an application made by the committee of creditors, in
+such manner and subject to such conditions as may be specified,
+by not less than sixty-six per cent. of the voting share, for restoring
+the corporate insolvency resolution process, and, upon
+considering such application, may, by order, restore the corporate
+insolvency resolution process for such period, not exceeding one
+hundred and twenty days, as it deems fit.
+Explanation. — For the removal of doubts, it is hereby clarified
+that the provisions of this sub-section shall also apply in relation
+to a corporate insolvency resolution process commenced before
+the commencement of the Insolvency and Bankruptcy Code
+(Amendment) Act, 2026, where no order of liquidation under sub-
+section (1) has been passed."
+
+29.
+Having noted pleadings of the all parties noted earlier, which we will not
+repeat for sake of brevity, we find that in order to decide the present appeal, we
+need to frame following issues: -
+ISSUE I- What is the nature and extent of the Adjudicating Authority's
+power, under Section 33(1A) of the Code, over a restoration application
+approved by the CoC with the requisite majority - is the CoC's commercial
+decision immune from interference in the same manner as its decision
+approving or rejecting a resolution plan under Sections 30 and 31 of the
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 13 of 31
+
+Code, or does the Adjudicating Authority retain an independent discretion,
+and if so, of what character and subject to what constraints?
+ISSUE II- Whether the finding in the Impugned Order that continuation of
+the CIRP would enable the Corporate Debtor's creditors to "monetise
+unabsorbed losses...at the cost of the Government exchequer" is sustainable,
+having regard to (a) whether it is founded on any material or submission on
+the record; (b) whether it comports with the principles of natural justice;
+and (c) whether, even taken at its highest, it is legally capable of outweighing
+a unanimous, threshold-exceeding CoC decision?
+ISSUE III- Whether the reasoning that the Corporate Debtor's arbitral
+claim "can further proceed in the liquidation process also", and that
+restoration would therefore serve no independent purpose, furnishes a
+legally sound basis, on the facts of this case, for declining restoration under
+Section 33(1A)?
+ISSUE IV- Whether, and to what extent, the Impugned Order's departure,
+without reference or explanation, from the Adjudicating Authority's own
+Extension Order dated 02.06.2026, passed in the very same proceeding,
+bears upon the sustainability of the Impugned Order?
+ISSUE V- Whether the Impugned Order satisfies the standard of a reasoned,
+speaking order, particularly where it overrides a unanimous commercial
+decision of the CoC taken pursuant to a specific statutory mechanism?
+ISSUE VI- What relief follows?
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 14 of 31
+
+30.
+ISSUE I- What is the nature and extent of the Adjudicating
+Authority's power, under Section 33(1A) of the Code, over a restoration
+application approved by the CoC with the requisite majority - is the CoC's
+commercial decision immune from interference in the same manner as its
+decision approving or rejecting a resolution plan under Sections 30 and 31
+of the Code, or does the Adjudicating Authority retain an independent
+discretion, and if so, of what character and subject to what constraints?
+31.
+We note that it is by now settled beyond controversy that the commercial
+wisdom of the CoC, in matters entrusted to it under the scheme of the Code
+principally, the approval or rejection of a resolution plan under Sections 30(4)
+and 31, is not open to judicial review on merits, and that the jurisdiction of the
+Adjudicating Authority, is confined to examining whether the decision-making
+process prescribed by the Code has been observed. This position stands
+authoritatively laid down in K. Sashidhar v. Indian Overseas Bank, (2019) 12
+SCC 150; reaffirmed and elaborated in Committee of Creditors of Essar Steel
+India Ltd. v. Satish Kumar Gupta, (2020) 8 SCC 531, holding that the
+commercial wisdom of the CoC has been given paramountcy without any judicial
+intervention, and that the Adjudicating Authority and the Appellate Tribunal
+cannot substitute their views for the collective business decision of the financial
+creditors.
+32.
+We take into consideration the fact that Section 33(1A), however, is not
+framed in the same terms as Sections 30(2) and 31. Under the latter, once the
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 15 of 31
+
+Adjudicating Authority is satisfied that a resolution plan approved by the CoC
+meets the requirements of Section 30(2), it has no discretion to withhold approval;
+its role is confined to a check on compliance. Section 33(1A), by contrast, on the
+material before us, casts on the Adjudicating Authority a duty to consider the
+CoC's application, and confers upon it a power, cast in terms of discretion ("may...
+restore"), to allow or decline restoration, subject to the outer time-limit of 120
+days. The provision does not, in terms, replicate the closed, compliance-only
+architecture of Section 30(2)/31; nor, on the other hand, does it purport to hand
+the Adjudicating Authority an unconfined power to reject a compliant application
+on any ground it thinks fit.
+33.
+In our considered view, the correct position lies between these two poles.
+Where the CoC's application satisfies the twin statutory conditions, namely, that
+a ground under Section 33(1)(a) or (b) exists, and that the application carries the
+approval of not less than 66% of the voting share, the residual discretion vested
+in the Adjudicating Authority is a real one. However, the discretion vested must
+accordingly be exercised judicially on relevant considerations in accordance to
+the object of the provision i.e., whether a further time-bound attempt at resolution
+is likely to serve, rather than defeat, the value-maximisation and resolution-first
+objectives enshrined in the Code and not on considerations extraneous to the
+record, or mere preference for a different commercial outcome than the one the
+CoC, exercising its own commercial wisdom, has arrived at. This Appellate
+Tribunal and the Adjudicating Authority ordinarily accord to the CoC's
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 16 of 31
+
+commercial wisdom under Sections 30-31, even though it is not, the case of
+complete ouster of the discretion of the Adjudicating Authority. In the other
+words the considered CoC's decision, which is unanimous or comfortably
+exceeds the statutory threshold, and is the request of deliberation across
+successive meetings rather than a single meeting, then more cogent and specific
+reasons must exist for declining the request of the CoC by the Adjudicating
+Authority.
+34.
+Tested against this standard, we note that the Impugned Order itself
+records, that the resolution for restoration was approved unanimously by 100%
+voting share, comfortably exceeding the statutory threshold of 66%, and does not
+anywhere suggest that the CoC's decision-making process suffered from any
+procedural infirmity, or that it was tainted by mala fides or arrived at without due
+deliberation. It is noted that indeed, the record (12th CoC Minutes) shows the
+contrary as liquidation was commercial decision of the CoC member, against
+liquidation and in favour of restoration. We find that in these circumstances, the
+threshold conditions under Section 33(1A) stood not merely met but substantially
+exceeded, and the burden was squarely on the Adjudicating Authority, if it were
+to decline restoration after restoring specific and cogent, reasons capable of
+displacing so considered and unanimous a commercial decision of the CoC.
+Therefore, we find merit in the contentions of the Appellant on this issue, based
+on the specific facts of the present case.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 17 of 31
+
+35.
+ISSUE II- Whether the finding in the Impugned Order that
+continuation of the CIRP would enable the Corporate Debtor's creditors to
+"monetise unabsorbed losses...at the cost of the Government exchequer" is
+sustainable, having regard to (a) whether it is founded on any material or
+submission on the record; (b) whether it comports with the principles of
+natural justice; and (c) whether, even taken at its highest, it is legally capable
+of outweighing a unanimous, threshold-exceeding CoC decision?
+36.
+The Impugned Order records, that the Adjudicating Authority was
+conscious that if CIRP is continued, the Creditors may be able to monetize
+unabsorbed losses available to the Corporate Debtor at the cost of the
+Government exchequer, and holds that the resolution of corporate debtor only
+with objective of such monetization would not be in accordance with the spirit
+and intent of IBC.
+Based on the record before us, this consideration does not appear to have been
+raised by any party or canvassed in the IA, or put to the Resolution Professional
+or the CoC for an explanation before being relied upon by the Adjudicating
+Authority before rejecting the application. We may infer that perhaps the only
+reference to accumulated losses on this record is disclosure made by the
+Resolution Professional in the ordinary course of his overview of the Corporate
+Debtor's financial position at the 12th CoC meeting that the Corporate Debtor
+carried forward losses of approximately Rs. 397 crores over the preceding four
+years. It seems that such disclosure are made in insolvency proceedings and not
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 18 of 31
+
+accompanied by, or connected to, any suggestion that such losses were intended
+to be, or were capable of being, unlawfully monetised. We also note that the
+findings in the Impugned order, does not identify the mechanism by which such
+monetisation was apprehended to occur. The impugned order also does not
+explain how it would operate at the cost of the Government exchequer, and does
+not engage with the fact that the treatment of carried-forward business losses of
+a corporate debtor is, in the first instance, governed by the provisions of the
+Income-tax Act, 1961 and administered by the income-tax authorities, not by the
+Adjudicating Authority under the Code. We are of opinion that the issue as to
+whether, and to what extent, an incoming resolution applicant may set off or carry
+forward such losses is a matter of substantive tax law and falls to be examined,
+by the tax authorities in accordance with the relevant law. We also do not find
+any specific and reasoned finding in the impugned order that the CoC's or the
+RP's conduct involved fraud, or an abuse of the resolution process for an object
+extraneous to the Code. It may be stated that the availability of such losses on the
+Corporate Debtor's books is result of its financial history and cannot, be converted
+into a disqualifying feature of a CoC approved restoration application without
+any specific reasons. No such finding of fraud or abuse is recorded in the
+Impugned Order.
+37.
+We also note that the finding is based on apprehension and possibility that
+creditors may be able to monetise such losses, rather than as a definite finding.
+We are of considered view that a conjectural apprehension of this nature,
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 19 of 31
+
+unaccompanied by any supporting material, reasoning, or opportunity to the
+affected party to respond, is an insufficient basis on which to override a
+unanimous, commercial decision of the CoC, taken pursuant to a specific
+statutory mechanism enacted for precisely such situations.
+38.
+For these reasons, we find that the Impugned Order's reliance on the
+possibility of monetisation of unabsorbed losses...at the cost of the Government
+exchequer is unsustainable, both as a matter of procedural fairness and on its own
+merits, and cannot furnish a valid ground for declining restoration under Section
+33(1A).
+39.
+ISSUE III- Whether the reasoning that the Corporate Debtor's
+arbitral claim "can further proceed in the liquidation process also", and that
+restoration would therefore serve no i01ndependent purpose, furnishes a
+legally sound basis, on the facts of this case, for declining restoration under
+Section 33(1A)?
+40.
+The Impugned Order's other reasoning is that since the Corporate Debtor's
+only asset is, in substance, the arbitral claim against the Public Works
+Department, Government of Maharashtra, valued, as recorded before the
+Adjudicating Authority, at approximately Rs. 318.94 crore inclusive of litigation
+costs, with interest accruing at 12.5% per annum. This was subject of a settlement
+discussion pegged at approximately Rs. 363 crores before the Amicable
+Settlement Committee constituted under the Vivad Se Vishwas Scheme of the
+government. We are unable to sustain this reasoning, for various reasons. First, it
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 20 of 31
+
+proceeds on a premise that is only partially accurate. It has been brought to our
+notice that the Preliminary Report of the Liquidator dated 21.08.2026 (filed under
+Regulation 13 of the IBBI (Liquidation Process) Regulations, 2016) itself records
+that the Corporate Debtor's assets, valued in aggregate at approximately Rs.
+390.48 crore of which the arbitral claim/receivable, carried as an intangible asset,
+accounts for approximately Rs. 386.69 crore. This stand against aggregate
+liabilities of approximately Rs. 913.82 crore. In this background whether the
+claim is pursued through a resolution applicant who acquires the Corporate
+Debtor or is instead realised by a liquidator through sale of the entity's remaining
+assets under Section 33(5) and the Liquidation Process Regulations, the
+underlying claim remain the same claim. The Impugned Order does not undertake
+the process, timeline, and value likely to be realised through either route of
+restoration and possible resolution of the Corporate Debtor vis-à-vis straight
+liquidation of the Corporate Debtor.
+41.
+We must emphasise that it is well settled now that resolution and not
+liquidation is the primary object of the Code, the liquidation is intended to operate
+as a measure of last resort and not a default outcome to be preferred over a
+genuine, credible prospect of resolution. This very principle was applied by the
+Adjudicating Authority itself, on materially the same facts, in its own Extension
+Order dated 02.06.2026. We also note that Section 33(1A) of the code is the
+Legislature's own, express instantiation of this principle for the cases, like the
+present case, where the CIRP period has run its full course without an approved
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 21 of 31
+
+plan. In case of the liquidation, the creditors alone bear the ultimate economic
+consequences of that choice. During the hearing, the appellant emphatically
+pleaded that given a chance they will be able to achieve better outcomes rather
+than the liquidation which has got its own limitations. We note that on the facts
+of this case, the record discloses more than a bare, generalised hope of a better
+outcome. Eleven EOIs were received against the original Form G, of which four
+converted into resolution plans that were the subject of extensive negotiation over
+several months. We also note the submissions made by the Appellants that since
+then, seven fresh EOIs had already been received against the republished Form G
+within a fortnight, five of them with the requisite EMD, and an eighth (also with
+EMD) followed a day later from one of the original resolution applicants.
+Although we also notice consciously that the fresh bids were received subsequent
+to passing of the impugned order, and therefore the adjudicating authority did not
+have benefit of the details, however since we are considering the appeal based on
+the facts and the pleadings made by the appellants before us, to justify their case,
+we take into consideration of these facts. In view of this, in our assessment, the
+CoC's optimism about the prospect of an improved resolution outcome did not
+rest on speculation. Nor, in our view, can it be said that a liquidator's realisation
+of the same claim would necessarily yield comparable value. A sale of a disputed,
+sub judice arbitral receivable in liquidation , necessarily discounted for litigation
+risk, and further uncertain enforcement timeline. The very fact that the CoC
+structured its fresh Form G to invite plans on a going-concern basis (and not
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 22 of 31
+
+merely for assignment of the bare receivable) reflects a considered commercial
+judgment, one this Appellate Tribunal will not to discount merely because, in the
+abstract, a claim can be pursued either way.
+42.
+We would only add, that we do not read Section 33(1A) as requiring the
+Adjudicating Authority, in every case, to restore the CIRP wherever the CoC
+applies nor do we suggest that the mere theoretical possibility of an improved
+outcome will always suffice. What we hold is that a bare, undifferentiated
+statement that a monetary claim can proceed in liquidation also, without any
+comparative assessment of realisable value, timelines, cost, and the market
+response cannot, without more, constitute a sufficient reason to override a
+unanimous, statutorily compliant CoC decision. We do not consider that
+Parliament, in enacting Section 33(1A) with retrospective application to pending
+CIRPs by way of the Explanation, intended the provision to be so readily rendered
+nugatory.
+43.
+For these reasons, we find that the logic of the Adjudicating Authority that
+the arbitral claim can further proceed in the liquidation process also does not, on
+the facts of this case, furnish a legally sound or sufficient basis for declining
+restoration under Section 33(1A). We, however, would like to make it clear that
+we are not laying any general law that the Adjudicating authority can never order
+for liquidation despite the COC contrary recommendations. We reiterate that all
+this will depend upon the facts of each case and prevailing circumstances. In the
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 23 of 31
+
+present case, we find sufficient reasoning as submitted by the appellant to be
+convincing to support their case in the present appeal
+44.
+ISSUE IV- Whether, and to what extent, the Impugned Order's
+departure, without reference or explanation, from the Adjudicating
+Authority's own Extension Order dated 02.06.2026, passed in the very same
+proceeding, bears upon the sustainability of the Impugned Order?
+45.
+We note that on 02.06.2026, in this very proceeding, the Adjudicating
+Authority allowed a 60-day extension of the CIRP period, recording in terms that
+there exist exceptional circumstances warranting for the extension as prayed for
+by the Applicant in this Application so as to avoid Liquidation, which can be
+considered as last resort and enable the Successful Resolution of the Corporate
+Debtor in line with the objectives of the Code. That finding rested on the same
+arbitral award, the same ongoing settlement engagement with PWD, and the same
+underlying commercial rationale namely, that a genuine, live prospect of
+resolution justified a further extension in preference to allowing the process to
+lapse into liquidation.
+46.
+In this background, it is taken into consideration that in around seven
+weeks later, on materially the same factual matrix, save that the facts had, if
+anything, moved further in favour of continued resolution, in that the CoC had by
+then, unanimously, rejected liquidation and approved restoration The Impugned
+Order reached the opposite conclusion, without any reference whatsoever to the
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 24 of 31
+
+Extension Order or to the last resort principle it had itself applied few weeks
+earlier.
+47.
+We do not suggest that an Adjudicating Authority is bound, as a matter of
+res judicata or issue estoppel, to reach the same conclusion at a later stage of the
+same CIRP merely because it reached a particular conclusion earlier. We do not
+overlook that the Extension Order was passed under Section 12(2) of the Code,
+in the context of an ongoing process with resolution plans still under
+consideration, whereas the Impugned Order arose under Section 33(1A), after the
+CIRP period had fully run its course. It is also noted that the fresh restoration was
+being sought at a materially different statutory stage, entailing a materially
+different statutory test. To that extent, the two orders cannot be compared. What
+is nonetheless required, as a matter of the reasoned, consistent exercise, is that
+where an authority departs from a considered assessment it had itself earlier
+recorded on substantially the same underlying facts , the value of the arbitral
+award, the state of settlement discussions, and the applicability of the "liquidation
+as last resort" principle , it should, at a minimum, advert to that earlier assessment
+and explain why the same underlying facts no longer justify the same approach.
+The complete silence of the Impugned Order on this score is not, by itself, an
+independent ground for setting it aside but it is a significant indicator, when read
+together with our findings on Points (II) and (III) above, of the absence of the
+considered engagement with the record that the magnitude of the decision,
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 25 of 31
+
+overriding a unanimous CoC vote and consigning the Corporate Debtor to
+liquidation, is called for.
+48.
+ISSUE V- Whether the Impugned Order satisfies the standard of a
+reasoned, speaking order, particularly where it overrides a unanimous
+commercial decision of the CoC taken pursuant to a specific statutory
+mechanism?
+49.
+It is well settled that the Adjudicating Authority is required to record
+reasons that are intelligible and demonstrate due application of mind to the
+material on record as reasons are the heartbeats of every conclusion, and their
+absence renders an order vulnerable. Measured against this standard, the entirety
+of the Adjudicating Authority's reasoning for overriding the CoC's unanimous
+resolution is contained within two paragraphs of the Impugned Order (paragraphs
+15 and 16), which reads as under:
+
+[PAGE 26]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 26 of 31
+
+[PAGE 27]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 27 of 31
+
+[PAGE 28]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 28 of 31
+
+[PAGE 29]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 29 of 31
+
+50.
+In our considered view, these 2 paragraphs do not advert to the eleven
+EOIs received against the original Form G, or what they demonstrate about the
+Corporate Debtor's standing as a going-concern proposition independent of the
+bare arbitral receivable; The fact, and manner, of the CoC's deliberation across
+separate meetings over several months, including that liquidation was placed was
+rejected by the CoC. The Adjudicating Authority's own Extension Order was not
+discussed in the Impugned Order and no comparative assessment of realisable
+value between the resolution and liquidation routes was done. The Impugned
+Order rests instead on the proposition that the claim can proceed in either i.e.
+Resolution or Liquidation. We find, accordingly, that the reasoning recorded in
+the Impugned Order is disproportionately brief and insufficiently engaged with
+
+[PAGE 30]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 30 of 31
+
+the record, having regard to the magnitude of what it overrides, and does not meet
+the standard of a reasoned order expected of a quasi-judicial authority in the
+circumstances of this case.
+51.
+ISSUE VI- What relief follows?
+52.
+On a cumulative consideration of the foregoing, we find that the Impugned
+Order cannot be sustained which it overrides a unanimous, CoC decision without
+any cogent reasons and merely on a consideration that the monetisation of
+unabsorbed losses which was unpleaded, unexplained, and insufficiently
+supported on the record, could perhaps be misutilised. On a further consideration
+that the claim can equally be pursued in liquidation that does not engage with the
+comparative value-maximisation inquiry central to the object of Section 33(1A).
+53.
+Before concluding, we would like to reiterate that each case is required to
+be dealt based on its own facts and circumstances. It is also reiterated that
+liquidation is the last resort as it results in the corporate death of the corporate
+entity. However, we need to keep in mind that prolonged CIRP extensions or
+restoration, as the case may be, without any likely resolution of the corporate
+debtor, does not also do any good to the creditors and it in this background, the
+parliament has passed 2026 amendment, giving sufficient discretionary powers
+to the adjudicating authority to decide on the issue of liquidation. If the facts of
+any particular case warrants that liquidation is the only remedy or the whole
+process seem to be vitiated based on the circumstance of the particular case, the
+adjudicating authority will be within rights to determine and order for liquidation
+
+[PAGE 31]
+Comp. App. (AT) (Ins.) No. 1745 of 2026
+Page 31 of 31
+
+of the corporate debtor, despite any contrary recommendations of the COC, using
+discretion provided in the recently amendments, we discussed earlier. However,
+we find sufficient merit in the submissions of the appellant in the present case and
+simultaneously, we do not find sufficient reasoning in the impugned order
+justifying liquidation in the present case at this stage
+54.
+We find sufficient merit in the appeal. The Appeal accordingly succeeds,
+and the Impugned Order dated 23.07.2026 is set aside. All the parties are directed
+to appear before the Adjudicating Authority on 26th October, 2026. The
+Adjudicating Authority shall process the original petition in accordance with law.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Naresh Salecha]
+Member (Technical)
+
+Sim
+Chinmayee Sinha

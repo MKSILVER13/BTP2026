@@ -1,0 +1,1009 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins) No. 1565 of 2025
+
+[Arising out of the Impugned Order dated 01.09.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench-
+V in C.P. (IB)/583(MB)2024]
+
+IN THE MATTER OF:
+
+PROGFIN PRIVATE LIMITED
+76, 1 st Floor, Okhla Industrial Estate,
+Okhla, New Delhi - 110020.
+Email: legal@progcap.com
+
+...Appellant(s)
+Versus
+
+M/S. GANESH BENZOPLAST LIMITED
+Dina Building, 1st Floor, M.K. Road,
+Marines Lines (East), Mumbai – 400 002
+Maharashtra
+Email: compliance@gblinfra.com
+
+...Respondent(s)
+
+Present:
+
+For Appellant
+: Mr. Bishwajit Dubey, Mr. Kaustubh Rai and Mr.
+Vipulaaksh Moondra, Mr. Akshat Awasthi, Advocates
+
+For Respondents
+: Mr. Krishnendu Datta, Sr. Advocate with Mr. Aditya
+Dewan, Mr. Parag Khandhar, Mr. Tapan, Ms. Pratyusha
+Dhodda, Advocates
+
+J U D G M E N T
+(Hybrid Mode)
+Per: Barun Mitra, Member (Technical)
+The present appeal, preferred under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘IBC’ in short), arises from the order dated
+01.09.2025 (hereinafter referred to as the ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-V)
+in C.P. (IB) No.583(MB) 2024. By the said Impugned Order, the Adjudicating
+
+[PAGE 2]
+Page 2 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Authority has dismissed the Section 7 petition filed by the Appellant seeking
+admission of the Respondent into the rigours of Corporate Insolvency
+Resolution Proceedings (“CIRP” in short). Aggrieved by the impugned order,
+the Appellant has preferred the present appeal.
+2.
+Coming to the brief factual matrix of the present case at hand, the
+relevant points which require to be noticed is that the Appellant-Progfin
+Private Ltd. (hereinafter referred to as “Progfin”), a Non-Banking Financial
+Company which is a wholly owned subsidiary of Desiderata Impact Ventures
+Private Limited (referred to hereafter as “DIVPL”) had extended loan facility
+to the Corporate Debtor-GBL Chemical Limited (hereinafter referred to as
+“GBLC”) which is a wholly owned subsidiary of parent company, Ganesh
+Benzoplast Ltd (hereinafter referred to as “Ganesh Benzo”) which was also
+the Corporate Guarantor of the Corporate Debtor in the present matter. DIVPL
+was acting as the Facility Agent of the Appellant. Basis an application received
+from the Corporate Debtor, the Appellant-Financial Creditor had purportedly
+sanctioned working capital limits to the Corporate Debtor by issue of a
+sanction letter followed up by a Facility Agreement purportedly backed by a
+Board Resolution of the Corporate Debtor. The Facility Agreement and Deed
+of Corporate Guarantee was found by the Appellant to be in order since it was
+purportedly executed by Ramakant Pilani, who was both Director of the
+Corporate Debtor/Principal Borrower and the CEO of Ganesh Benzo-
+Corporate Guarantor. Besides the corporate guarantee, two personal
+guarantee deeds were also executed by Rishi Pilani, Director of the Corporate
+Debtor and Ramakant Pilani. The money sanctioned through the Agreement
+was supposed to be repaid within 90 days of the disbursal with interest
+
+[PAGE 3]
+Page 3 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+payments. Further as the money had been disbursed by the Appellant to the
+account of the Principal Borrower coupled with the fact that the money so
+disbursed had also been repaid by the Corporate Debtor to the Appellant from
+the same account, the money so disbursed was claimed by the Appellant to
+fall within the purview of “financial debt” under Section 5(8) of the IBC. When
+the Principal Borrower-Corporate Debtor had allegedly defaulted in the
+repayment of dues, the Appellant had issued a Recall Notice dated 15.04.2024
+for the payment of outstanding dues besides invoking the Corporate
+Guarantee and the Personal Guarantees. The Corporate Debtor replied to the
+Recall Notice on 17.04.2024 denying their liability by contending that the loan
+was taken without proper authorization by Ramakant Pilani and that the
+money was disbursed into an account which though was in the name of the
+Principal Borrower but was opened without proper authority by Ramakant
+Pilani. However, by claiming that a certain amount still remained outstanding
+to be paid by the Principal Borrower and the Corporate Guarantor, the
+Appellant claimed that a default had come into existence. The Appellant
+thereafter filed a Section 7 petition against the Respondent-Corporate
+Guarantor on the ground that the twin tests of debt and default stood satisfied
+warranting admission of the Corporate Debtor into CIRP. The Adjudicating
+Authority, after considering the matter, however, came to the conclusion that
+though facially debt and default are established, the lending did not enure to
+the benefit of the Corporate Debtor and that Ramakant Pilani was not
+authorized to execute the transaction documents and the board resolutions
+basis which Ramakant Pilani had executed them were non-existent and
+fabricated. Hence the Adjudicating Authority dismissed the Section 7 petition
+
+[PAGE 4]
+Page 4 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+on grounds of fraud and forgery. Aggrieved by the impugned order, the
+Appellant has filed the present Section 7 petition.
+3.
+Making submissions on behalf of the Appellant, Shri Bishwajit Dubey,
+Ld. Counsel for the Appellant submitted that the transaction documents for
+the grant of the loan facility of Rs.10 Cr. which was later enhanced to Rs.15
+Cr. were executed by Ramakant Pilani duly supported by Board Resolutions.
+Ramakant Pilani who was the executor of the transaction documents was also
+the co-founder of the Respondent-Ganesh Benzo and was also its CEO besides
+being the erstwhile Director of the Corporate Debtor and heading the
+Chemical Division of the Ganesh Group besides being closely related to
+Ramesh Pilani and Rishi Pilani. The Board Resolution of 17.10.2023 had been
+passed by the Corporate Debtor, specifically and singly authorising either
+Ramakant Pilani or any other director of the Principal Borrower to execute the
+original Facility Agreement following which the same was executed by him on
+behalf of the Principal Borrower for a working capital facility of Rs.10 Cr. on
+21.10.2023. Similarly, another Board Resolution of 16.10.2023 passed by the
+Respondent-Corporate Guarantor had also specifically and singly authorised
+Ramakant Pilani to execute the corporate guarantee in favour of the Appellant
+which had been executed on 21.10.2023 by Ramakant Pilani. Two separate
+personal guarantees had also been signed by Ramakant Pilani and by Rishi
+Pilani also on 21.10.2023 and 26.10.2023 respectively. It was pointed out that
+even the transaction documents for the enhanced facility were supported by
+a Board Resolution dated 24.01.2024, which had been passed by Respondent-
+Corporate
+Guarantor
+authorising
+Ramakant
+Pilani
+to
+execute
+the
+
+[PAGE 5]
+Page 5 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Supplemental Corporate Guarantee in favour of the Appellant which was
+executed on 30.01.2024. Similarly, Board Resolution of 25.01.2024 passed
+by the Corporate Debtor also authorised Ramakant Pilani to execute the
+Addendum to the Facility Agreement which was executed on 30.01.2024.
+Even Supplemental Personal Guarantees had also been executed on
+30.01.2024.
+4.
+Submission was further made that disbursal of the facility had been
+made by the Appellant in the bank account of the Corporate Debtor
+maintained at SBI between 27.10.2023 and 09.02.2024. Once the Appellant
+had acted on the transaction documents provided to it and had disbursed the
+facility amount in the bank account of the principal borrower against which
+part repayment of the debt had also occurred, discrepancies even if any, in
+the transaction documents, cannot controvert the fact that there was a
+disbursal by the Appellant to the Principal Borrower and to that extent the
+Respondent was bound by the corporate guarantee given by it to secure this
+debt. Allegations made by the Respondent that the Board Resolutions were
+forged are also not relevant to the present proceedings since the Appellant
+was entitled to rely on the Doctrine of Indoor Management to hold that
+Ramakant Pilani had the ostensible authority to bind the Corporate Debtor-
+Principal Borrower and the Respondent-Corporate Guarantor in respect of the
+loan disbursed in the bank account of the Principal Borrower. It was also
+submitted that there is no substance in the claim of the Respondent that the
+Board Resolutions authorizing Ramakant Pilani were forged or that the SBI
+account was opened by Ramakant Pilani for his personal benefit as the
+
+[PAGE 6]
+Page 6 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+mastermind of the alleged fraud. When the loan had been disbursed by the
+Appellant pursuant to representations and documentation provided by the
+Principal Borrower which had been executed by a sitting director and CEO of
+the Corporate Debtor and also the Corporate Guarantor, it was emphatically
+asserted that the Corporate Guarantor and the Principal Borrower cannot
+rightfully contend to be absolved of their liability under the Facility Agreement
+and the corporate guarantee. It was pointed out that the impugned order is
+contrary to the settled law laid down by the Hon’ble Supreme Court in
+Innoventive Industries Limited vs. ICICI Bank (2018) 1 SCC 407 and M.
+Suresh Kumar Reddy v. Canara Bank (2023) 8 SCC 387, which had
+categorically held that once the twin tests of financial debt and default are
+satisfied, the application under Section 7 must be admitted. An interse
+dispute between the company and Ramakant Pilani does not extinguish the
+company's liability towards the Appellant.
+5.
+When the SBI bank-account statements and the KPMG report clearly
+show that money disbursed by the Appellant into the said SBI account was
+used to make third-party payments, including payment to vendors and also
+for repayment of loan to the Appellant towards their debt-liability, submission
+was pressed that this clearly satisfied the twin-test of debt and default. It was
+asserted that the reports of the hand-writing expert and KPMG which have
+been placed on record by Corporate Debtor to contend that the Facility
+Agreement and the Deed of Corporate Guarantee are forged and fabricated,
+has been wrongly given undue credence by the Adjudicating Authority in
+contravention of the ratio laid down by this Tribunal in Tulip Hotel Private
+Ltd vs JC Flowers Asset Reconstruction Pvt Ltd in CA(AT)(Ins)No. 1146
+
+[PAGE 7]
+Page 7 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+of 2023, wherein it has been categorically held that unilaterally prepared
+reports and expert opinions cannot be looked into by the Adjudicating
+Authority for the purpose of determining debt and default. As regards the
+initiation of criminal and civil proceedings, which defence has been taken by
+the Respondent and duly endorsed by the Adjudicating Authority while
+dismissing the Section 7 petition, it was pointed out that these proceedings
+do not have relevance in that in some cases no charge-sheet has been filed till
+date and the Bombay High Court has held in its order in WP (CRL) No. 5612
+of 2024 that the dispute forming the subject matter of FIR No. 315 of 2024 is
+commercial in nature. As regards FIR No. 103 of 2024 and 581 of 2025,
+though charge-sheets have been filed in the said FIRs, the charge-sheet do
+not concern the Appellant since they are not named as an accused in the said
+FIRs or in the charge-sheets. It was also emphasized that the Respondent has
+wrongly placed emphasis on the solvent status of the Corporate Debtor; its
+market capitalization and high networth particularly when the documents,
+including MGT-7 clearly show that the Principal Borrower had a negative net-
+worth and was in need of funds. The contention that the auditors of the
+Respondent have given the opinion that there is no liability on part of the
+Respondent is misplaced and factually incorrect since the Director's Report
+for the FY 2024-25 clearly showed that there were loans of the Appellant to
+the Principal Borrower even though they have been reflected as "contingent
+liability".
+6.
+Rebutting the arguments canvassed by the Appellant, Shri Krishnendu
+Dutta, Ld. Senior Counsel representing the Respondent strenuously
+contended that there are serious discrepancies in various documents
+
+[PAGE 8]
+Page 8 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+including the purported Facility Agreement, the purported Corporate
+Guarantee and the purported Board Resolutions as different dates appear on
+different versions of the same document besides missing signatures on
+different versions of the same document and mention of fictitious dates of
+Board Resolution meetings therein thus creating doubts about the
+authenticity and genuineness of the purported documents. It was submitted
+that the Board Resolution of 16.10.2023 of the Respondent-Corporate
+Guarantor and the Board Resolution of 17.10.2023 of the Corporate Debtor
+relied upon by the Appellant basis which the Facility Agreement and Deed of
+Corporate Guarantee were purportedly executed were fake and fabricated as
+no board meetings had taken place on those dates. Further the version of
+Facility Agreement filed by the Appellant in the Company Petition before the
+Adjudicating Authority and the version filed before this Tribunal in appeal
+and the one filed in the Writ Petition No. 5612 of 2024 before the Bombay
+High Court all carried different dates which discrepancy puts serious question
+marks on the veracity and genuineness of the transaction documents.
+Similarly, even the Deed of Corporate Guarantee which had been filed by the
+Appellant in the appeal before this Tribunal and that before the Adjudicating
+Authority in the Company Petition carried different dates. The Facility
+Agreement of 26.10.2023, which had been annexed with the Company
+Petition filed before the Adjudicating Authority, besides having discrepancy in
+the date also did not contain the signature of the Appellant. Even the
+Supplemental Guarantee Deed which was allegedly executed between the
+Respondent and the Appellant on 30.01.2024 referred to the date of original
+Guarantee Deed as 21.10.2023, whereas the purported Deed of Guarantee
+
+[PAGE 9]
+Page 9 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+filed with the Company Petition was dated 26.10.2023. It was submitted that
+the handwriting analysis report reports had also analysed that one of the
+signatures appearing on the Board Resolution submitted for opening the
+fraudulent SBI Account was a forged signature. All this show that the
+Appellant was now attempting to misuse the summary jurisdiction of this
+Appellate Tribunal to legitimize a non-existent transaction on the basis of
+forged and fabricated documents.
+7.
+It was further added that as soon as the fraud came to the knowledge
+of the Respondent and the Corporate Debtor, they issued notices in the public
+domain regarding the fraud committed against them and also informed the
+State Bank of India (SBI) about the discovery of the fake and fraudulent bank
+account opened with them. This was followed by the filing of Commercial Suit
+No. 1169 of 2024 before the Bombay City Civil Court on 05.04.2024 by them.
+The Respondent also filed FIR No. 103 of 2024 on 05.05.2024 at the Cuff
+Parade P.S. in respect of the fraudulent bank account and the other related
+acts of fraudulent transactions including the making of forged/fabricated
+documents which led to framing of a charge-sheet wherein one of the SBI
+employees was named as an accused. Commercial Suit No. 21035 of
+2024/Commercial Suit No. 60 of 2025 was also filed before the Bombay High
+Court on 05.07.2024 wherein the Court had granted interim relief to the
+Respondent after observing that allegations involving serious fraud could only
+be adjudicated by Civil Courts. It was emphatically asserted that only after
+the Respondent had filed the Commercial Suit before the City Civil Court of
+Bombay and the High Court of Bombay and notifying SBI of the fraudulent
+
+[PAGE 10]
+Page 10 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+transactions that the Appellant had filed the Section 7 petition before the
+Adjudicating Authority on 20.07.2024.
+8.
+Submission was further pressed that no monies as such were ever
+received by the Corporate Debtor and mere advancement of monies to a third-
+party fraudulent and bogus account does not either qualify to be a Financial
+Debt or renders the debt binding the Respondent-Corporate Guarantor. It was
+also submitted that FIR No. 0581 of 2025 was registered by Andheri Police
+Station, Mumbai in relation to cheques allegedly issued by Ramakant Pilani
+to the Appellant without authorization of the Respondent or Corporate Debtor.
+Reliance was placed on the judgement of this Tribunal in Ocean Deity
+Investment Holdings Limited vs. Suraksha Asset Reconstruction
+Limited in CA(AT)(Ins) No. 795 of 2021 wherein it was held that valid
+disbursement is said to have taken place only when money is no longer with
+the lender but with the borrower who then utilizes the money and that if there
+exists fraud in relation to the said transaction in question, such transactions
+do not create a “Financial Debt” under Section 5(8) of the IBC. It was also
+submitted that the amount allegedly received in the fraudulent bank account
+from the Appellant and other third-parties was further transferred online by
+one Manish Chaturvedi to another bank account of one Cardier Foods and
+Beverages Private Limited and one Yamuna Tradelink and other companies
+basis fake and fabricated invoices showing an illusory delivery of goods. Even
+the independent forensic audit report prepared by KPMG clearly concluded
+that Corporate Debtor does not seem to be a beneficiary of the funds received
+in the fraudulent SBI Account. Thus, when the Corporate Debtor was not the
+
+[PAGE 11]
+Page 11 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+real beneficiary of the funds received in the fraudulent bank account, the
+money never came to the Principal Borrower and in such circumstances, the
+Corporate Debtor cannot be held liable for having defaulted. Contending that
+the Appellant was maliciously attempting to force a solvent entity into CIRP
+which factum had been rightly noticed by the Adjudicating Authority and
+hence Section 7 petition was dismissed, reliance is placed on the judgement
+of the Hon’ble Apex Court in Anjani Technoplast vs Shubh Gautam in Civil
+Appeal No. 8427 of 2022 and on the judgement of this Tribunal in
+Shitanshu Bipin Vora Suspended Director of Exclusive Linen Fabrics
+Pvt. Ltd. vs. Shree Hari Yarns Pvt. Ltd. in CA(AT)(Ins) No. 2204 of 2024
+wherein it was held that any attempt to weaponize the IBC based on a non-
+existent debt must be dismissed at the threshold with exemplary costs.
+9.
+We have heard the Ld. Counsel for all the parties at length and have
+noted their rival contentions besides also perused the records carefully.
+10.
+It is the case of the Appellant that it had sanctioned working capital
+limits to the Corporate Debtor on the basis of an application from the
+Corporate Debtor, which was followed up by issue of a sanction letter and
+execution of a Facility Agreement, which Facility Agreement was purportedly
+backed by a Board Resolution on 17.10.2023 of the Corporate Debtor. Besides
+the Facility Agreement, there was a Deed of Corporate Guarantee executed by
+the Respondent duly supported by Board Resolution of 16.10.2023 and two
+other personal guarantee deeds also executed dated 21.10.2023 and
+26.10.2023. The initial sanction of Rs. 10 crore under the Facility Agreement
+was subsequently increased to Rs. 15 crore by way of an Addendum dated
+
+[PAGE 12]
+Page 12 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+30.01.2024, which was further secured by way of Supplemental Deeds of
+corporate guarantee dated 30.01.2024 and personal guarantees. The
+Addendum was executed by Ramakant Pilani on behalf of the Corporate
+Debtor purportedly backed by a Board Resolution dated 25.01.2024 while
+Supplemental Corporate Guarantee, also executed by Ramakant Pilani on
+30.01.2024, was supported by a Board Resolution dated 24.01.2024. It has
+been claimed by the Appellant that in terms of the Facility Agreement the last
+disbursal was made to the Corporate Debtor on 09.02.2024 and the Corporate
+Debtor had also made their last part-repayment of debt to the Appellant on
+08.02.2024 which clearly shows that debt was still due and payable. When
+the Corporate Debtor failed to make payment of the further outstanding
+amounts, the Appellant issued a loan recall and demand notice dated
+15.04.2024 for immediate payment of Rs 15.44 crore. The Appellant also
+invoked the Corporate Guarantee and the personal guarantees and called
+upon the Corporate Guarantor and Personal Guarantors to fulfil the
+repayment liability in the event the Corporate Debtor failed in its obligations.
+It is the case of the Appellant that once debt and default stands established
+by documentary evidence, mere raising of allegations of fraud and forgery by
+the Corporate Debtor and Respondent-Corporate Guarantor cannot defeat
+their statutory remedy of invoking Section 7 under IBC. The presumption of
+debt and default arising from signed agreements, Board Resolutions, loan
+release into the Borrowers account and part-prepayment already made by the
+Corporate Debtor cannot be nullified by the plea taken by the Respondent of
+pending commercial suits, FIRs, or charge-sheets against third parties when
+neither the Appellant nor any of their representatives were implicated or
+
+[PAGE 13]
+Page 13 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+arrayed as an accused party. Thus, when the allegations of fraud, forgery and
+fabrication against the Appellant was not unequivocally established, there
+was no cogent ground for the Adjudicating Authority to throw out a Section 7
+application.
+11.
+Per contra, it is the case of the Respondent that the foundational
+transaction documents relied upon by the Appellant to assert debt and default
+were riddled with discrepancies which could not be accepted at face value. To
+substantiate their contention, it was added that there were three versions of
+the Facility Agreement and multiple versions of the Corporate Guarantee.
+Furthermore, even the date of Board Resolutions did not match with the
+particulars of the Board Meeting details as reflected in Form MGT-7 of the
+Corporate Debtor. It is further the case of the Respondent that even the Board
+Resolutions placed on record by the Appellant in support of execution of
+Facility Agreement and Corporate Guarantee suffers from gross infirmities. It
+is also the case of the Respondent that they became aware of the Facility on
+12.04.2024 for the first time when a representative of the Appellant informed
+them of the same following which they acted with utmost dispatch and a letter
+dated 17.04.2024 was sent to the Appellant on behalf of the Corporate Debtor,
+the Corporate Guarantor and Personal Guarantors wherein the existence and
+validity of the financing documents was denied by pointing out that these
+were forged and fabricated documents. Further monies were remitted by the
+Appellant into the alleged fraudulent bank account of the Corporate Debtor
+at a time when by their own records held details of a different account in
+respect of the Corporate Debtor. It was also added that though the
+
+[PAGE 14]
+Page 14 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Disbursement Mechanism mentioned in Schedule 1 of the Purported Facility
+Agreement provided that all disbursements were to be made to the Borrower's
+Cash Credit account but the repayments from the fraudulent bank account
+were routed to DIVPL which was the holding entity of the Appellant thus
+creating room for circumspection.
+12.
+When we look at the material placed on record, we find that the original
+Facility Agreement dated 21.10.2023 had been executed by Ramakant Pilani
+on behalf of the Corporate Debtor. On the same date, a corporate guarantee
+had also been issued on behalf of the Respondent-Ganesh Benzo which Deed
+of Corporate Guarantee was also executed by Ramakant Pilani. The Appellant
+has however used multiple versions of the Facility Agreement on different
+occasions which are at variance with each other in terms of dates affixed
+thereon or the signatures contained therein. The Facility Agreement filed
+along with the Appeal is dated 21.10.2023 as placed at page 127 of the Appeal
+Paper Book (“APB” in short) while the Facility Agreement filed along with the
+Company Petition was dated 26.10.2023 as placed at page 271 of APB. The
+Facility Agreement dated 26.10.2023 submitted by the Appellant appearing
+at page 1058 of APB is not signed by the Appellant whereas the Facility
+Agreement of 21.10.2023 annexed to the Appeal is signed by the
+representative of the Appellant as placed at page 165 of the APB. Similar is
+the picture surrounding the Corporate Guarantees. The Corporate Guarantee
+dated 21.10.2023 filed with the Appeal at page 174 of APB carries the stamp
+of the Facility Agent-DIVPL and is signed by a representative of the Appellant
+as at page 179 of APB while the Corporate Guarantee filed with the Company
+
+[PAGE 15]
+Page 15 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Petition is dated 26.10.2023 as placed at page 321 of APB which guarantee is
+neither stamped nor signed by the Appellant as maybe seen at page 326 of
+APB. Discrepancy in dates of the Facility Agreement and corporate guarantee
+coupled with disappearance of signatures of the Appellants from the Facility
+Agreement are oddities which cannot be simply overlooked. However, to be
+fair, explanation was offered by the Appellant to clarify the reasons for
+discrepancies in the documents. The Appellant admitted that as the original
+facility documents received from the Corporate Debtor did not carry the
+signature of the concerned parties on certain pages, the Corporate Debtor was
+requested by the Appellant to rectify the mistakes. Even in the rectified
+documents, the date of execution again got wrongly mentioned as 26.10.2023
+instead of 21.10.2023. Before the corrections could be carried out, the parties
+had agreed to amend and extend the facility limit to Rs.15 Cr. which led to
+the execution of an Addendum to the Facility Agreement on 30.01.2024. Be
+that as it may, notwithstanding the explanation adduced by the Appellant, it
+is an indisputable fact that it emerges from the records available before us
+that multiple versions of the Facility Agreement with inconsistencies therein
+seem to be floating around. When the documentary substratum of the appeal
+is riddled with inconsistencies and discrepancies, it clearly lay beyond the
+summary jurisdiction of the Adjudicating Authority to undertake any
+investigation thereof.
+13.
+Having already noticed the aforementioned discrepancies in the Facility
+Agreement and Deed of Corporate Guarantee before us, we now come to the
+various Board Resolutions which have been adverted attention to by the
+
+[PAGE 16]
+Page 16 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Appellant to claim that the Facility Agreements and the Guarantee documents
+were entered into in an authorized manner. However, before going into the
+specific Board Resolutions, we may notice the Directors Report at page 24-25
+of Reply Affidavit of the Respondent which records the Board Meeting details
+as under:
+25. Committees & Meetings of the Board
+During the year under review, Ten (10) Board meetings were held on
+May 25, 2023, June 19, 2023, August 11, 2023, September 4, 2023,
+November 7, 2023, November 27, 2023, December 5, 2023, December
+20, 2023, January 29, 2024 and February 12, 2024. The details of
+number of meetings of the Board held during the year along with
+attendance are given in the Corporate Governance Report which forms
+part of this Annual Report.
+14.
+We now come to the Board Resolution of Respondent-Corporate
+Guarantor dated 16.10.2023 as placed at page 328 of APB by the Appellant
+in respect of Deed of Corporate Guarantee. However, when we peruse the
+Director’s Report for FY 2023-24, it shows that no Board meeting had taken
+place on this date as maybe seen at page 24 of Reply Affidavit of the
+Respondent. The Board Resolution of the Respondent-Corporate Guarantor
+dated 24.01.2024 for the Supplemental Corporate Guarantee as at page 1189
+of APB is contrary to the Director’s Report for FY 2023-24 which shows that
+no meeting had taken place on this date as maybe seen at page 24 of Reply
+Affidavit of the Respondent. Similar discrepancies are pointed out in respect
+of the purported Board Resolution of the Corporate Debtor of 25.01.2024. The
+Board Resolution of the Corporate Debtor dated 17.10.2023 in respect of
+Facility Agreement as at page 172 of APB is contrary to the Form MGT-7 for
+FY 2023-24 which shows that no meeting had taken place on this date as
+
+[PAGE 17]
+Page 17 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+maybe seen at page 29 and 38 of Reply Affidavit of the Respondent. The Board
+Resolution of the Corporate Debtor dated 25.01.2024 for Addendum to
+Facility Agreement as at page 204 of APB is contrary to the Form MGT-7 for
+FY 2023-24 which shows that no meeting had taken place on this date as
+maybe seen at page 29 and 38 of Reply Affidavit of the Respondent.
+Furthermore, the wording of the Board Resolution of 24.01.2024 which
+purportedly authorised Ramakant Pilani to execute the purported
+Supplemental Corporate Guarantee shows that it was passed for the purpose
+of the purported Corporate Guarantee of the year 2023 which is an
+impossibility from the chronological perspective.
+15.
+We now shift our focus to how the Respondent had reacted when it was
+confronted by a representative of the Appellant on 12.04.2024 apprising the
+Appellant of the Facility Agreement and other supporting transaction
+document purportedly executed by the Respondent though admittedly before
+the filing of the Section 7 petition on 06.08.2024. The Respondent not only
+denied the existence of these foundational documents and their authenticity
+but also filed an FIR vide No. 0103 of 2024 dated 02.05.2024 in the Cuffe
+Parade Police Station in relation to the opening of a fake and fraudulent bank
+account and the related acts of forgery in the opening of the fraudulent bank
+account and the transactions carried out therein by the Appellant as placed
+at page 593 of APB leading to filing of a chargesheet No. 800/PW/2024 before
+the CMM Court, Mumbai as can be seen at page 837 of APB. In this charge-
+sheet, apart from Ramakant Pilani, an employee of the SBI, Prashant Bhise,
+had also been named as an accused in the chargesheet as at page 882 of APB.
+
+[PAGE 18]
+Page 18 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Upon carrying out investigations, the police authorities have also inter alia
+concluded that the alleged amount allegedly received in the fraudulent bank
+account from the Appellant and other third-parties was transferred by Manish
+Chaturvedi to another bank account of one Cardier Foods and Beverages
+Private Limited and one Yamuna Tradelink via online as at page 992 of APB
+basis invoices which were also ex-facie forged. These invoices besides not
+being on the letterhead of Corporate Debtor were not even part of the records
+of the Respondent or Corporate Debtor and the quantities of the goods shown
+to be delivered as per each invoice was significantly more than the load
+carrying capacity of the vehicles mentioned therein. Additionally, another FIR
+No. 0315 of 2024 had been registered by Vanrai Police Station in respect of
+the transactions forming subject matter herein in which an employee of the
+Appellant, Yogesh Parab has been made an accused. This FIR also records
+that the correspondence by the Appellant was carried out by using fake email
+ids as at pages 534 and 554 of APB. As Ramakant Pilani had also provided
+three undated cheques in favor of the Appellant purportedly from the official
+domain of the Corporate Debtor being the "ganeshgroup.com", yet another
+FIR No. 0581 of 2025 was registered by Andheri Police Station, Mumbai for
+issuing cheques unauthorizedly by Ramakant Pilani to the Appellant without
+authorization of the Respondent or Corporate Debtor.
+16.
+Besides the filing of FIR’s, the Respondent and the Corporate Debtor
+jointly challenged the tenability of the fraudulent transaction by filing of
+Commercial Suit No. 1169 of 2024 before the Bombay City Civil Court on
+05.04.2024. Notices of Motion Nos. 1503 and 1658 of 2024 was preferred by
+
+[PAGE 19]
+Page 19 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+the Respondent in the above Commercial Suit filed before the Civil Court,
+Bombay wherein the Court had held that the Respondent and Corporate
+Debtor were victims of the alleged fraud and forgery and were not borrowers
+under the fraudulent loan transaction and observed that such allegations
+involving serious fraud could only be adjudicated by Civil Courts. This was
+followed by the filing of Commercial Suit No. 21035 of 2024/Commercial Suit
+No. 60 of 2025 filed before the Bombay High Court on 05.07.2024. The
+Appellant had clearly filed the Section 7 petition before the Adjudicating
+Authority on a date which was subsequent to the filing of Commercial Suit
+before the City Civil Court of Bombay and the High Court of Bombay by the
+Respondent as well as issue of public notice and notifying SBI of the
+fraudulent transactions.
+17.
+At this stage it may be useful to see how the Adjudicating Authority has
+dealt with the issue. The Adjudicating Authority at para 21 of the impugned
+order has noticed that the Facility Agreement dated 26.10.2023; the
+Corporate Guarantee Deed dated 26.10.2023 and the bank statements of the
+account in which the monies were allegedly disbursed had all been disputed
+by the Respondent as fraudulent/fabricated documents. It was also noticed
+by the Adjudicating Authority that the Respondent had also disputed the
+bank account opened with SBI by Ramakant Pilani as it had been opened and
+operated by him in collusion with others to unauthorizedly avail credit
+facilities and loan from various entities to cheat and defraud the Respondent
+and the Corporate Debtor.
+
+[PAGE 20]
+Page 20 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+18.
+The Adjudicating Authority has further noticed at para 22 of the
+impugned order that the Respondent has relied on para 35 of the Director's
+Report of 30.05.2024 which contained the 37th Annual Report of the
+Respondent company along with the audited financial statements, wherein a
+disclosure had been made that the bank account was opened to borrow money
+in the name of the Corporate Debtor and that these transactions were
+conducted without valid authorization and without the express consent of the
+company's board or shareholders and therefore the entire amount was
+brought under contingent liabilities. The Adjudicating Authority therefore
+observed that the Annual Report of the Respondent had clearly disclosed that
+money borrowed in the name of the Corporate Debtor seems to have been
+used for an untruthful purpose and therefore no financial liability should fall
+on either the Corporate Debtor or the Respondent. The Adjudicating Authority
+thereafter has relied on the judgment of the Hon’ble Supreme Court in Radha
+Exports (India) Pvt. Ltd. v. K.P. Jayaram (2020)10 SCC 538 wherein it has
+been held that disputes relating to forged signatures or fabricated records can
+be adjudicated upon evidence in a regular suit and not in proceedings under
+Section 7 of IBC since the latter proceedings are clothed with a summary
+jurisdiction. The Adjudicating Authority further held at para 29 that it lacked
+jurisdiction to adjudicate upon fraudulent transactions based on forged and
+fabricated documents.
+19.
+The Appellant has assailed the finding contained at para 29 of the
+impugned order and contended that when Ramakant Pilani was the Director
+of the Corporate Debtor and the CEO of the Respondent-Corporate Guarantor
+
+[PAGE 21]
+Page 21 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+at the relevant point of time when the loan had been sanctioned and he was
+duly authorised by the Board Resolutions to act as the authorized
+representative of both the Corporate Debtor and the Respondent-Corporate
+Guarantor, the Adjudicating Authority could not have overlooked that mere
+allegations of fraud and forgery did not automatically oust its jurisdiction
+under Section 7 of the IBC particularly when at para 25 of the impugned
+order, the Adjudicating Authority has categorically held that there is debt and
+consequent default. Once debt and default is established, there is no
+discretion left with the Adjudicating Authority but to admit a Section 7
+application. In support of their contention reliance was placed on Innoventive
+judgment supra of the Hon’ble Supreme Court which is as reproduced
+hereunder:
+“27. The scheme of the Code is to ensure that when a default takes place,
+in the sense that a debt becomes due and is not paid, the insolvency
+resolution process begins. “Default” is defined in Section 3(12) in very
+wide terms as meaning non-payment of a debt once it becomes due and
+payable, which includes non-payment of even part thereof or an
+instalment amount. For the meaning of “debt”, we have to go to Section
+3(11), which in turn tells us that a debt means a liability of obligation in
+respect of a “claim” and for the meaning of “claim”, we have to go back to
+Section 3(6) which defines “claim” to mean a right to payment even if it is
+disputed. The Code gets triggered the moment default is of rupees one
+lakh or more (Section 4). The corporate insolvency resolution process may
+be triggered by the corporate debtor itself or a financial creditor or
+operational creditor. ...
+28. ... It is at the stage of Section 7(5), where the adjudicating authority
+is to be satisfied that a default has occurred, that the corporate debtor is
+entitled to point out that a default has not occurred in the sense that the
+“debt”, which may also include a disputed claim, is not due. A debt may
+not be due if it is not payable in law or in fact. The moment the
+adjudicating authority is satisfied that a default has occurred, the
+application must be admitted unless it is incomplete, in which case it may
+
+[PAGE 22]
+Page 22 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+give notice to the applicant to rectify the defect within 7 days of receipt of
+a notice from the adjudicating authority. Under sub-section (7), the
+adjudicating authority shall then communicate the order passed to the
+financial creditor and corporate debtor within 7 days of admission or
+rejection of such application, as the case may be.”
+30. On the other hand, as we have seen, in the case of a corporate debtor
+who commits a default of a financial debt, the adjudicating authority has
+merely to see the records of the information utility or other evidence
+produced by the financial creditor to satisfy itself that a default has
+occurred. It is of no matter that the debt is disputed so long as the debt is
+“due” i.e. payable unless interdicted by some law or has not yet become
+due in the sense that it is payable at some future date. It is only when
+this is proved to the satisfaction of the adjudicating authority that the
+adjudicating authority may reject an application and not otherwise.”
+(Emphasis supplied)
+20.
+It was also added that the above view taken in Innoventive Industries
+judgement has been followed in E.S. Krishnamurthy v. Bharath Hi-Tech
+Builders (P) Ltd.(2022) 3 SCC 161 and in M. Suresh Kumar Reddy
+judgement. The same dictum of law propounded by the Hon’ble Apex Court
+in the above judgements permeate the judgment of this Tribunal in
+Allahabad Bank v. Poonam Resorts Ltd. in CA(AT)(Ins.) Nos. 1303 &
+1304 of 2019 wherein it was held that the satisfaction the Adjudicating
+Authority with regard to occurrence of default has to be drawn by the
+Adjudicating Authority either from the records of the information utility or
+other evidence provided by the Financial Creditor and the Adjudicating
+Authority cannot direct a forensic audit or engage in a long drawn pre-
+admission exercise which will have the effect of defeating the object of the IBC.
+The initiation of Corporate Insolvency Resolution Process cannot be allowed
+to be thwarted unless in a given case forgery or falsification of documents is
+patent and prima facie established. Thus, once the Adjudicating Authority is
+
+[PAGE 23]
+Page 23 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+satisfied that there is a debt which is due and payable and default thereto has
+occurred, there is hardly a discretion left with Adjudicating Authority to refuse
+admission of the application under Section 7 and hence in the present case
+the Section 7 application could not have been dismissed.
+21.
+Per contra, it is the contention of the Respondent that the Adjudicating
+Authority in the present case has taken into account the surrounding
+circumstances of fraud and fabrication at para 25 of the impugned order in
+rejecting the Section 7 application and hence the impugned order cannot be
+said to be flawed. Reliance has been placed by the Respondent on the
+judgement of this Tribunal in Ocean Deity Investment Holdings Limited
+Vs. Suraksha Asset Reconstruction Limited in CA(AT)(Ins)No.795 of 2021
+to contend that that the Adjudicating Authority has the jurisdiction to enquire
+into allegations of fraud when there is a prima facie case of fraudulent
+initiation of CIRP. It may be relevant to notice the relevant excerpts from the
+said judgment which is as follows:
+“24. In view of this overwhelming evidence and conclusion by Statutory
+Bodies which are independent agencies we are of the considered view
+that these financial transactions have to be examined on the
+touchstone of the ratio laid down by the Hon’ble Supreme Court in
+‘Phoenix ARC Private Limited’ Vs. ‘Spade Financial Services Ltd. &
+Ors.’, (2021) 3 SCC 475, wherein the Hon’ble Apex Court has observed
+that ‘collusive transaction does not lead to a creation of ‘Financial Debt’
+under Section 5(8) of the Code’..........Therefore, we are of the
+considered view that the subject commercial transactions were
+collusive in nature and are squarely covered by the observations made
+by the Hon’ble Apex Court in ‘Phoenix ARC Pvt. Ltd.’ (Supra). As we
+hold that these transactions were collusive in nature, they do not fall
+within the ambit of the definition of ‘Financial Debt’ as defined under
+Section 5(8) of the Code and therefore Suraksha, the Assignee, cannot
+be termed as a ‘Financial Creditor’ as defined under Section 5(7) of the
+Code.....”
+
+[PAGE 24]
+Page 24 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+27. Keeping in view all the aforenoted Judgements and the
+documentary evidence on record, we are of the earnest view that
+merely because there is a ‘debt’ and a ‘default’ it cannot be construed
+that a Section 7 Application is required to be admitted. The Adjudicating
+Authority ought to have examined the ‘nature of these financial
+transactions’ having regard to the Investigation Reports which were
+filed by the Appellant herein, the violation of the Articles of Association
+and assessed whether the transactions were collusive in nature or not
+and used its discretion whether to admit such an Application or not,
+keeping in view the scope and objective of the Code. It is appropriate at
+this juncture, to rely on the Judgement of the Hon’ble Supreme Court in
+‘Embassy Property Development Pvt. Ltd.’ Vs. ‘State of Karnataka’
+(2020) 13 SCC 308, in which the Hon’ble Apex Court has clearly noted
+that the Adjudicating Authority has the jurisdiction to enquire into
+allegations of fraud when there is a prima facie case of fraudulent
+initiation of CIRP.
+28. The chequered history of the loan transactions and collusive
+arrangements indulged by Yes Bank demonstrate that the Term Loans
+disbursed in the name of Mack Star is an ‘eye-wash’ and Yes Bank
+has disbursed these loans with an ulterior motive.....This Tribunal
+observed that the fundamental scope & objective of IBC is ‘Resolution’
+and ‘Maximization of Assets’ and not ‘Recovery’ of loans which do not
+strictly fall within the definition of ‘Financial Debt’ as defined under
+Section 5(8) of the Code.”
+(Emphasis supplied)
+22.
+Reliance has also been placed on the judgement of Hon’ble Supreme
+Court in Bhaurao Dagdu Paralkar Vs. State of Maharashtra (2005) 7
+SCC 605 which held that that fraud vitiates every solemn act and if a party
+makes representations, which he knows to be false, and injury ensues
+therefrom this tantamount to be a fraud in law. Reliance has also been placed
+on the judgement of this Tribunal in M/s Acute Daily Media Pvt Ltd. & Ors.
+Vs. M/s Rockman Advertising and Marketing (India) Ltd. & Ors in
+CA(AT)(Ins) No. 1480 of 2024 wherein the Tribunal had held as under:
+“40. While there is no quarrel over the fact that Section 7 vests rights on
+the financial creditors to initiate CIRP proceedings against the defaulting
+
+[PAGE 25]
+Page 25 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Corporate Debtor, however, debt and default cannot always be seen in
+isolation. We cannot be unmindful of the fact that the Adjudicating
+Authority is also required to take care that the provisions of Section 7 of
+IBC are not misused or abused in any manner either by the financial
+creditor or the promoters of the Corporate Debtor to take undue
+advantage at the cost of insolvency resolution...”
+Basis the ratio of the above judgements, it is the contention of the Respondent
+that there being sufficient evidence of fraud, deception and misrepresentation
+on the part of Ramakant Pilani who acted in cahoots with the Appellant for
+ulterior reasons to create a contrived situation of debt and default, the Section
+7 petition was rightly not admitted by the Adjudicating Authority.
+23.
+Having noticed the judgements relied upon by both sides in support of
+their respective contention of either assailing or endorsing the impugned
+order, before we return our findings on the applicability of these judgements
+to the present factual matrix, at this stage for easy referencing, we would like
+to first reproduce para 25 of the impugned order which reads as under:
+“25. As regards the Petitioner’s contention regarding the facts relating to
+disbursement of the amount, consequent debt and default is concerned
+while one may agree with such proposition but the facts and
+circumstances surrounding such disbursements and consequent debt
+and default cannot be overlooked. The Petition under Section 7 filed by
+a Financial Creditor cannot be admitted unless the debt and default is
+established. In the present case though there is debt and consequent
+default but the same cannot be established against the Respondent
+herein in the wake of the surrounding circumstances which include the
+disbursement made into a bank account which is not the bank account
+authorizedly opened by the Principal Borrower, the Deed of Guarantee
+executed being claimed to be on account of fraud, the signatures and the
+Board Resolutions supporting such actions of opening bank account and
+executing Deed of Guarantee alleged to be fabricated. These aspects
+being disputed and consequent litigations being pursued by the Parties
+clearly limit the jurisdiction of this Tribunal in coming to a conclusion in
+respect of establishing of existence of debt and default.”
+
+[PAGE 26]
+Page 26 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+(Emphasis supplied)
+24.
+When we look at para 25 of the impugned order, we find that the
+Adjudicating Authority has noticed that the disbursement was made by the
+Appellant into a bank account unauthorisedly opened by Ramakant Pilani on
+behalf of the Principal Borrower; the Deed of Corporate Guarantee executed
+by Ramakant Pilani on behalf of the Corporate Guarantor sans the authority
+of Board Resolutions having been disputed by the Respondent and
+consequential litigations initiated and pursued by the Corporate Debtor and
+the Respondent to be relevant surrounding circumstances which clearly
+limited the summary jurisdiction of this Tribunal in ascertaining the existence
+of debt and default. It is therefore entirely misconstrued and misconceived on
+the part of the Appellant to claim that the Adjudicating Authority had
+admitted that debt and default stood established in the present matter, and
+that since these essential twin ingredients stood met, the Section 7 petition
+ought to have been admitted and not rejected.
+25.
+Coming to our findings, we have no reasons to quarrel and quibble with
+the well-settled legal proposition laid down by the Hon’ble Supreme Court in
+the Innoventive judgment supra that admission of debt and default is
+sufficient for admission of a Section 7 petition. Basis the ratio of this
+judgment, the Appellant has claimed that the Adjudicating Authority cannot
+decline its jurisdiction under Section 7 of the IBC on grounds of allegation of
+fraud and forgery particularly when there is sufficient cogent documentary
+evidence of debt and default. It has been contended that unproven allegations
+of fraud, pending FIRs or civil suits cannot by themselves bar the admission
+
+[PAGE 27]
+Page 27 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+of a petition under Section 7 of the IBC, hence, the Adjudicating Authority
+could not have refused adjudication by harping on the principles of summary
+jurisdiction of the Adjudicating Authority. But what the Appellant has clearly
+missed out is that the Adjudicating Authority has not accepted that this is a
+case of unqualified debt and default for it has proceeded to take note of the
+circumstances surrounding the purported disbursements made by the
+Appellant and recorded that these circumstances have consequential impact
+on debt and default.
+26.
+We are inclined to agree with the Adjudicating Authority that mere
+advancement of monies by the Appellant to a third-party fraudulent account
+does not ipso facto qualify as a binding financial debt on the Corporate Debtor
+or the Corporate Guarantor. The judgment of this Tribunal in Ocean Deity
+Investment Holdings Limited vs Suraksha Asset Reconstruction Limited
+in CA(AT)(Ins)No. 795 of 2021 wherein it has been held that valid
+disbursement of monies creating a debt arises only when the money is no
+longer with the lender but with the borrower who then utilizes the money
+clearly comes to the aid of the Respondent. The ratio of the above judgement
+of this Tribunal which is predicated on the ratio laid down by the Hon’ble
+Supreme Court in Phoenix ARC Private Limited vs. Spade Financial
+Services Ltd. & Ors. in (2021) 3 SCC 475 is squarely applicable in the
+present facts of the case in view of the multiple FIRs filed in the matter with
+employee(s) of the Appellant named therein and charge-sheet also having been
+framed in certain cases wherein an SBI employee has been arrayed as an
+accused in the fraudulent banking transactions entered by the Appellant;
+
+[PAGE 28]
+Page 28 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+Ramakant Pilani acting unauthorizedly on behalf of the Corporate Debtor as
+well as the Corporate Guarantor and himself as a personal guarantor besides
+other ongoing civil suit proceedings before the Civil Court, Mumbai and High
+Court of Mumbai. In the present facts of the case since the surrounding
+circumstances resonates with an element of fraud permeating the banking
+transactions, the Adjudicating Authority cannot be said to have committed
+any error in denying simpliciter admission of the Section 7 application.
+27.
+This brings us to the other contention of the Appellant that third parties
+who enter into a contract with any company are protected against
+irregularities in the internal procedure of the company. In support of their
+contention, reliance was placed on the judgment of this Tribunal in Tulip
+Hotel Private Limited vs. JC Flowers Asset Reconstruction Pvt. Ltd. &
+Ors. in CA(AT)(Ins.) No. 1146 of 2023 the relevant excerpts of the judgement
+which read as under:
+“23. ....... In other words, the company's indoor affairs are to be treated
+as the company's outlook. What happens internally in a company is not
+a matter of public knowledge and hence an outsider can only presume
+the intentions of a company and cannot be expected to know the
+information he/she is not privy to. Only if the compliance or non-
+compliance with an internal requirement becomes ascertainable from the
+company's public documents, the protective shield of the doctrine of
+indoor management disclosure gets ruptured as the countervailing
+doctrine of constructive notice comes into play.”
+(Emphasis supplied)
+It was contended that when no conclusive findings of any statutory/quasi-
+judicial body had come to surface which established the element of forgery
+and fabrication, merely on the basis of unilateral reports by hand-writing
+experts and/or by the KPMG in the present case, the Adjudicating Authority
+
+[PAGE 29]
+Page 29 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+could not have summarily concluded the transaction documents and Board
+Resolutions to be fraudulent/forged documents while considering the present
+Section 7 petition.
+28.
+Per contra, the Respondent has contended that the Appellant having
+not done due diligence and knowingly disbursed funds to an unauthorized
+account thus acting in collusion cannot be seen to invoke the doctrine of
+indoor management. In support, reliance has been placed on the judgment of
+the Hon’ble Supreme Court in MRF Limited v. Manohar Parikkar (2010)
+11 SCC 374 which is to the effect:
+111. The doctrine of indoor management is in direct contrast to the
+doctrine or rule of constructive notice, which is essentially a
+presumption operating in favour of the company against the outsider.
+It prevents the outsider from alleging that he did not know that the
+constitution of the company rendered a particular act or a particular
+delegation of authority ultra vires. The doctrine of indoor management
+is an exception to the rule of constructive notice. It imposes an important
+limitation on the doctrine of constructive notice. According to this
+doctrine, persons dealing with the company are entitled to presume
+that internal requirements prescribed in the memorandum and articles
+have
+been
+properly
+observed.
+Therefore,
+doctrine
+of
+indoor
+management protects outsiders dealing or contracting with a company,
+whereas doctrine of constructive notice protects the insiders of a
+company or corporation against dealings with the outsiders. However,
+suspicion of irregularity has been widely recognised as an exception to
+the doctrine of indoor management. The protection of the doctrine is not
+available where the circumstances surrounding the contract are
+suspicious and therefore invite inquiry.
+29.
+Reliance was also placed on the judgment of the Hon’ble Supreme Court
+in Mahima Datla v. Renuka Datla (2022) 10 SCC 258 which categorically
+held that the doctrine of indoor management cannot apply when there is
+suspicion of irregularity. It was emphatically asserted that when the
+
+[PAGE 30]
+Page 30 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+circumstances surrounding the transaction are suspicious enough for any
+prudent party to make necessary inquiries, the Adjudicating Authority cannot
+be seen to wear blinkers to obvious fraudulent transactions. It has been
+asserted that the doctrine of indoor management is a shield for the innocent
+and not a sanctuary for the complicit, collusive or negligent parties and in the
+present case the doctrine of indoor management does not apply for the
+Appellant's conduct is not merely negligent but it is actively complicit and
+collusive.
+30.
+When we see the impugned order, we find that the Adjudicating
+Authority after taking notice of the multiple pending civil and criminal
+proceedings did not make any attempt to conduct any trial of sorts to
+ascertain whether the transactions are actually fraudulent thus respecting
+the boundaries of the limited summary jurisdiction enjoyed by it. Having said
+that, in our considered view, we are not persuaded to agree with the
+contention of the Appellant that the Adjudicating Authority had misapplied
+the principles laid down by this Tribunal in the Tulip Hotel judgment as in
+that case this Tribunal had held that allegations of fraud or forgery cannot be
+considered by the Adjudicating Authority at the time of adjudicating a petition
+under Section 7 of the IBC. In the given circumstances, we do not find the
+Adjudicating Authority to have either over-stepped its jurisdiction or found to
+have abandoned or declined to exercise its jurisdiction and therefore neither
+transgressed or undermined the legislative intent of the IBC in rejecting the
+Section 7 application.
+
+[PAGE 31]
+Page 31 of 31
+Comp. App. (AT) (Ins) No. 1565 of 2025
+
+31.
+In fine, we do not find any good ground to interfere with the impugned
+order rejecting the Section 7 application. We do not find any merit in the
+Appeal. The Appeal is accordingly dismissed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Mr. Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date : 30.06.2026
+Farhan

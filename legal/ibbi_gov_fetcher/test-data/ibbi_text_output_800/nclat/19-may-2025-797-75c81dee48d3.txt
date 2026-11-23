@@ -1,0 +1,2064 @@
+[PAGE 1]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+1
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 611 of 2025
+(Arising out of Order dated 09.04.2025 passed by the Adjudicating Authority
+(National
+Company
+Law
+Tribunal),
+Mumbai
+Bench-VI
+in
+CP(IB)
+No.1260/MB/2022 with IA No.18/2023, IA No.29/2023 & IA No.4417/2024)
+IN THE MATTER OF:
+Anil Biyani
+Suspended Director of Future Ideas Company Ltd.
+...Appellant
+
+Versus
+Axis Trustee Services Ltd. & Anr.
+...Respondents
+
+Present:
+For Appellant
+: Mr. Arun Kathpalia, Sr. Advocate with Ms.
+Petrushka Dasgupta, Mr. Harsh S. Moorjani, Mr.
+Mridul Yadav, Ms. Krishna Baruah, Mr. Anand
+Singh Sengar, Mr. Raghav Mittal, Advocates
+For Respondents
+: Mr. Krishnendu Datta, Sr. Advocate with Ms.
+Suchitra
+Valjee,
+Mr.
+Varun
+Nathani,
+Mr.
+Sanidhya Kumar, Mr. Ankit Lohia, Ms. Palak
+Damani, Mr. Kartik Nagarkatti, Ms. Rajyi Shah,
+Advocates for R1.
+Ms. Priyanka Jain, Ms. Swastika Mukherjee,
+Advocates for R-2 (IRP).
+J U D G M E N T
+ASHOK BHUSHAN, J.
+
+This Appeal by a Suspended Director of the Corporate Debtor (“CD”)
+- Future Ideas Company Ltd. has been filed challenging the order dated
+09.04.2025 passed by National Company Law Tribunal (“NCLT”), Mumbai
+Bench-VI admitting Section 7 Application filed by Axis Trustee Services
+Limited. IA No.18 of 2023 and IA No.29 of 2023 filed by the Appellant
+
+[PAGE 2]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+2
+
+were also dismissed and IA No.4417 of 2024 was disposed of by the same
+order.
+2.
+Brief facts of the case necessary to be noticed for deciding the
+Appeal are:
+(i)
+A Debenture Trust-cum-Mortgage Deed (“DTMD”) dated
+15.10.2018
+was
+signed
+and
+executed
+between
+Debenture Trustee – Axis Trustee Services Ltd.
+(Respondent No.1 herein) and the Corporate Debtor –
+Future Ideas Company Limited. Schedule I of the
+DTMD mentions the names of the initial Debenture
+Holders.
+(ii)
+A Public Announcement was made on 29.08.2020 by
+Future
+Group,
+which
+commenced
+a
+major
+reorganisation
+of
+its
+businesses,
+in
+which
+key
+companies in the Future Group were to be merged into
+Future Enterprises Limited (“FEL”). On 29.08.2020 an
+Acquisition Agreement was entered into between CD
+and Rivaaz Trade Ventures Pvt. Ltd. (“RTVPL”), where
+debt amounting to Rs.122.83 crores under the Non-
+Convertible Debentures (“NCD”) issued by CD was
+acquired by RTVPL. In the Acquisition Agreement,
+
+[PAGE 3]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+3
+
+neither the Debenture Trustee nor the Debenture
+Holders were party.
+(iii)
+On 31.08.2020 an email was sent on behalf of the
+Future Group to a representative of the Debenture
+Holders, informing them of the composite scheme of
+arrangement. It was also informed that by way of
+Acquisition Agreement, RTVPL had acquired the NCDs
+from FICL. Vide email dated 01.09.2020, representative
+of Debenture Holders asked for a copy of the
+Acquisition Agreement from the representative of the
+Future Group. Copies of the Acquisition Agreement
+were
+forwarded
+to
+the
+Debenture
+Holders
+on
+02.09.2020.
+(iv)
+On 22.10.2020, Financial Creditor issued a notice to
+the CD, asking for certain repayment. The CD on
+20.01.2021 sent an email to the Debenture Holders
+seeking details regarding the balance outstanding
+details for the NCDs issued by RTVPL, FICL and NFDIL.
+(v)
+On 27.07.2021 the proposed scheme of arrangement
+was filed before the NCLT, Mumbai. Debenture Holders
+voted in the Composite Scheme of Arrangement
+between Reliance Retail Ventures Ltd. (“RRVL”), Future
+
+[PAGE 4]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+4
+
+Group of companies and Reliance Retail and Fashion
+Limited
+(“RRFIL”).
+
+The
+Composite
+Scheme
+of
+Arrangement was disapproved.
+(vi)
+Respondent issued a notice to the CD and Personal
+Guarantor. On 01.07.2022, a Demand Notice was
+issued by Debenture Trustee asking for full repayment
+of all dues pursuant to “event of default”. On
+20.10.2022, Financial Creditor filed an Application
+under Section 7 of the Insolvency and Bankruptcy
+Code, 2016 (hereinafter referred to as the “IBC”)
+claiming debt and default amounting to Rs.122.83
+crores as on 27.09.2022. An affidavit in reply was filed
+to the Application on 29.12.2022 by the CD, on which
+date, two IAs were also filed by the CD being IA No.29
+of 2023 for dismissal of Section 7 Application on the
+basis that the debt under NCDs has been acquired by
+RTVPL and IA No.18 of 2023 for dismissal of the main
+petition on the ground that it is hit by Section 10A of
+the IBC. The Financial Creditor filed its rejoinder
+affidavit as well as reply to IA Nos.18 and 29 of 2023.
+Certain more affidavits were filed by Debenture Trustee
+and the CD. The Financial Creditor tendered the
+
+[PAGE 5]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+5
+
+Report on the Audit of the Financial Statements of
+Frankling Tempelton for the Financial Year 2023-24 at
+the end of hearing of the Company Petition. On
+02.09.2024, the CD filed an IA No.4417 of 2024 seeking
+relief inter alia to not consider the Report for the
+Financial Year 2023-24 while deciding the main
+Company Petition. Debenture Trustee filed reply to IA
+No.4417 of 2024.
+(vii)
+The hearing in all the IAs as well as Company Petition
+was concluded and the Adjudicating Authority by the
+impugned order rejected IA No.18 of 2023 and IA No.29
+of 2023 and disposed of IA No.4417 of 2024, taking on
+record the Financial Statement for the year 2023-24
+and by the same order admitted Section 7 Application
+filed by the Debenture Trustee and appointed Mr.
+Ritesh Agarwal, as an IRP. Aggrieved by the order
+dated 09.04.2025, this Appeal has been filed.
+3.
+We have heard learned Counsel for the Appellant as well as learned
+Counsel for the Debenture Trustee and learned Counsel for the IRP on
+23.04.2025, when judgment was reserved and it was directed that
+Committee of Creditors, if not constituted, shall not be constituted till
+delivery of the judgment.
+
+[PAGE 6]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+6
+
+4.
+We have heard Shri Arun Kathpalia, learned Senior Counsel
+appearing for the Appellant and Shri Krishnendu Datta, learned Senior
+Counsel appearing for the Financial Creditor and Priyanka Jain, learned
+Counsel appearing for the IRP.
+5.
+Learned Counsel for the Appellant challenging the impugned order
+submits that after execution of the Acquisition Agreement dated
+29.08.2020, the Debenture Holders were intimated of the acquisition by
+email dated 31.08.2020 and on the request of the Debenture Holders, the
+Acquisition Agreement was also forwarded. The Debenture Trustee never
+disputed the Acquisition Agreement and vide email dated 05.10.2021
+Debenture Holders sought confirmation of all NCDs issued by the three
+entities, RTVPL, the CD and NFDIL and evidence of acknowledgement and
+consent to the Acquisition Agreement. In the Balance Sheet of RTVPL
+acquisition of debt underlying the subject NCDs as on 31.03.2021 are
+clearly reflected and in the Balance Sheet of the CD, transfer of NCD to
+RTVPL is reflected. Debenture Holders has also voted on the scheme in
+exercise of their voting right on 22.04.2022 in respect of the units of
+debentures, which stood transferred to RTVPL. The voting by the
+Debenture Holders of the units transferred to RTVPL is also a clear
+acknowledgement of the Debenture Holders of transfer of debt under the
+NCDs to RTVPL. Debenture Trustee cannot dispute the Acquisition
+Agreement when Debenture Holders have accepted the Acquisition
+Agreement in various correspondence with the CD. The debts and
+
+[PAGE 7]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+7
+
+liabilities of the CD stood transferred under the Acquisition Agreement to
+RTVPL
+and
+Debenture
+Holders
+by
+their
+own
+admissions
+in
+contemporaneous correspondence not only acted, but also voted as a
+creditor of RTVPL. Hence, it is not open for the Financial Creditor to
+claim any debt with the CD. The CD is no longer a debtor of the Financial
+Creditor and the Application filed under Section 7 by Financial Creditor
+against the CD is not maintainable. The Adjudicating Authority erred in
+not adverting to all the correspondence exchanged between the parties.
+The Acquisition Agreement was ratified by the conduct of the Debenture
+Holders and constituted acceptance, waiver and acquiescence on their
+part, on the basis of which the CD and RTVPL altered their position. The
+Debenture Holders are bound by principle of waiver and acceptance and
+cannot claim now that CD is liable for NCDs. The Acquisition Agreement
+was a concluded contract and was not contingent upon the scheme being
+approved. The fact that scheme has not been approved by the NCLT, does
+not have any effect and consequence on the Acquisition Agreement dated
+29.08.2020. The contractual issues between the Debenture Holders, the
+CD and RTVPL are the questions, which cannot be examined and decided
+by the Adjudicating Authority and the remedy lies in the Civil Court only.
+The Adjudicating Authority exceeded its jurisdiction in entering into
+contractual issues and declaring the Acquisition Agreement as void,
+which is beyond the jurisdiction of the Adjudicating Authority. The
+Adjudicating Authority cannot exercise jurisdiction of Civil Court in
+
+[PAGE 8]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+8
+
+declaring the Acquisition Agreement as void.
+6.
+Shri Krishnendu Datta, learned Senior Counsel appearing for the
+Respondent refuting the submissions of the Appellant submits that as per
+the DTMD, the CD had no right to assign its rights and obligations under
+the Deed. The Acquisition Agreement relied by the Appellant itself in
+Clause 2.2 requires the CD to obtain approval/ no objection from the
+Debenture Trustee. No objection having not been obtained from the
+Debenture Trustee, the Acquisition Agreement has not even come into
+force. The purported Acquisition Agreement dated 29.08.2020 was part of
+composite scheme of arrangement as for the public statement dated
+29.08.2020 by Future Group, the composite scheme of arrangement
+having not been approved, the Acquisition Agreement cannot be
+implemented. The composite scheme proposed that only upon scheme of
+arrangement sanctioned by NCLT, debt under the NCDs would be
+transferred to FEL through Rivaaz. The scheme was subject to regulatory
+and stakeholders’ approval. The scheme ultimately having not been
+approved, the entire arrangement for acquisition has failed. The email
+dated 31.08.2020, which was sent to the Debenture Holders, clearly
+mentioned that FEL would discharge the liabilities under the NCDs and
+not Rivaaz. The composite scheme having failed, the debentures, which
+are statutory instruments/ contracts issued under the provisions of the
+Companies Act, 2013 and ruled framed thereunder, the CD cannot
+contract out of statutory liability. Reliance on email, which was sent to
+
+[PAGE 9]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+9
+
+Debenture Holders is misplaced. The said correspondence does not
+constitute any consent to transfer of liabilities to Rivaaz. In the Financial
+Statement of Financial Creditor, the debt is still shown with the CD and
+the Acquisition Agreement has never been reflected in the Financial
+Statement of the Financial Creditor. The email referred by the Appellant
+during the submission, does not constitute any consent to transfer of
+liabilities to Rivaaz. The consolidation of debt was only for voting
+purpose, which did not constitute any consent/ admission to transfer
+liabilities to Rivaaz. The Debenture Holders have voted against the
+composite scheme of arrangement. No act of waiver or acquiescence was
+done by the Debenture Holders to demonstrate that the Debenture
+Holders treated the assignment of the obligation from the CD to Rivaaz as
+only an intermediate step and only a part of what was originally envisaged
+under the scheme of arrangement. The Debenture Holders have never
+abandoned their right to take legal action to initiate proceedings against
+the CD for debt due under the NCDs. The Debenture Holders have never
+waived their right, nor they have agreed to transfer their liability to
+Rivaaz. The NCLT has considered all relevant judgments relied by the
+Appellant. The CD in its reply have relied on the Acquisition Agreement
+dated 29.08.2020 as a defence to Section 7 Application. The Adjudicating
+Authority did not commit any error in entering into Acquisition Agreement
+and returning finding as to whether debt under the NCDs stood validly
+
+[PAGE 10]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+10
+
+transferred to Rivaaz. The Adjudicating Authority has ample jurisdiction
+to consider and answer all issues raised before it.
+7.
+Learned Counsel for the parties have also relied on various
+judgments of the Hon’ble Supreme Court and this Tribunal in support of
+their submissions, which shall be noticed hereinafter.
+8.
+We have considered the submissions of learned Counsel for the
+parties and have perused the records.
+9.
+As noted above, the Adjudicating Authority has decided IA No.18 of
+2023, IA No.29 of 2023 as well as IA No.4417 of 2024 while deciding
+Section 7 Application filed by Debenture Trustee. The issues and
+objections raised in IA Nos.18 and 29 of 2023 were all objections to
+Section 7 Application and in the IAs, the CD has prayed for dismissal of
+Section 7 Application filed by Debenture Trustee.
+10.
+From the submissions raised by learned Counsel for the parties and
+materials on record, following are the questions, which arise for answer in
+the present Appeal:
+(1)
+Whether Section 7 Application filed by Respondent No.1 was
+barred by Section 10A of IBC in view of notice dated
+22.10.2020 issued by the Financial Creditor seeking
+repayment under the mandatory repayment clause under
+Debenture Trust-cum-Mortgage Deed dated 16.09.2015?
+
+[PAGE 11]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+11
+
+(2)
+Whether by virtue of Acquisition Agreement dated 29.08.2020
+the rights and obligations of CD under the NCDs issued by
+the CD, stood transferred to RTVPL?
+(3)
+Whether the correspondence between the Debenture Holders
+and the CD brought on record demonstrate that Debenture
+Holders have ratified the Acquisition Agreement by their
+conduct and due to waiver and the acquiescence, they cannot
+question Acquisition Agreement?
+(4)
+Whether the Adjudicating Authority had jurisdiction to look
+into the issues raised with regard to Acquisition Agreement
+and observation of the Adjudicating Authority that DTMD is a
+statutory contract and any Agreement contrary to the
+statutory mandate, will be void, are sustainable?
+(5)
+Whether the Adjudicating Authority committed error in
+accepting the Financial Statements of Franklin Templeton
+India for Financial Year 2023-24 during the hearing of
+Section 7 Application?
+(6)
+Whether
+the
+order
+of
+Adjudicating
+Authority
+dated
+09.04.2025 is not sustainable?
+11.
+Before we enter into various Questions noticed above, we need to
+notice certain Clauses of Debenture Trust-cum-Mortgage Deed dated
+15.10.2018, which is basis of Application under Section 7 by the
+
+[PAGE 12]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+12
+
+Debenture Trustee. The DTMD dated 15.10.2018 was entered into
+between Future Ideas Company Limited, the CD and Axis Trustee
+Services Ltd. Clause 3 of the DTMD deals with ‘Amount of Debentures
+and Covenant to pay Principal and Interest’. Clause 3.1 deals with
+Amount of Debentures. Clause 3.2 deals with ‘Covenant to pay principal
+and interest’. Clause 10.2 contains certain ‘Negative Covenants’, which
+are as follows:
+“10.2 Negative Covenants
+The Company shall not, without procuring the prior written
+consent of the Debenture. Trustee (acting on the instructions of the
+Majority Debenture Holders):
+(a)
+undertake or enter into any amalgamation, demerger,
+merger or corporate restructuring or reconstruction scheme
+proposed;
+(b)
+incur any Financial Indebtedness;
+(c)
+enter into a single transaction or a series of transactions
+(whether
+related
+or
+not)
+and
+whether
+voluntary
+or
+involuntary to sell, lease, transfer or otherwise encumber or
+dispose the Mortgaged Property or any part thereof,
+(d)
+It is being carried (d) make any change in the nature and
+conduct of its business (from what is t out as the date
+hereof);
+(e)
+voluntarily wind up, liquidate or dissolve its affairs;
+(f)
+purchase, redeem or buyback its shares or reduce its share
+capital;
+(g)
+enter into any agreement which conflicts with the provisions
+of this Deed or the other Transaction Documents;
+
+[PAGE 13]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+13
+
+(h)
+amend or modify the object clause set out in the
+memorandum and articles of association of the Company:
+(i)
+make any changes to its accounting policies or accounting
+methods or change its financial year from April 1-March 31,
+unless otherwise required under Applicable Law;
+(j)
+make any changes, amendments or modifications to any of
+the Master License Agreements, the Tri-partite Agreements
+or the Escrow Agreement or exercise any of the rights of the
+Company or grant any waivers or indulgences under the
+Master License Agreements, the Tri-partite Agreements or
+the Escrow Agreement;
+(k)
+sell, transfer, assign or otherwise create any Encumbrance
+over the Future Trademarks (as defined in the Master
+License Agreement) and shall at all times continue to hold
+all right, title and interest in respect thereto.
+12.
+Clause 13 deals with ‘Event of default and remedies’. Clause 17
+deals with ‘Modifications to these presents’, which is as follows:
+“17. MODIFICATIONS TO THESE PRESENTS
+The Debenture Trustee shall concur with the Company in making
+any modifications to these presents which in the opinion of the
+Debenture Trustee shall be expedient to make provided that the
+modification has been approved by the Majority Debenture Holders,
+the Debenture Trustee shall give effect to the same by executing
+necessary supplemental deed(s) to these presents.”
+13.
+Schedule-I, list four initial Debenture Holders and Number of
+Debentures and Series. Clause 12 of the Schedule-II, deals with ‘Transfer
+of Debentures’, where clause 12.2. deals with the Debenture Holders shall
+also have the right to novate, transfer and assign its rights and/ or the
+
+[PAGE 14]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+14
+
+benefits under the Transaction Documents with prior notice to the
+Company. Clause 12.3 provides that Company shall not be entitled to
+assign any of its rights, duties or obligations under the Transaction
+Documents or in relation to the Debentures. Clauses 12.2 and 12.3 are
+as follows:
+“12.2 The Debenture Holders shall also have the right to novate,
+transfer or assign its rights and/or the benefits under the
+Transaction Documents upon such transfer/transmission of the
+Debentures with prior notice to the Company and at the Debenture
+Holders' own cost and expense.
+12.3 It is clarified that the Company shall not be entitled to assign
+any of the rights, duties of obligations under the Transaction
+Documents or in relation to the Debentures.”
+14.
+Schedule-IV of the Deed deals with ‘Payment Dates’. Another
+document, which needs to be noticed is the Acquisition Agreement dated
+29.08.2020, which is filed as Annexure A-5 to the Appeal. The
+Acquisition Agreement is entered between Future Ideas Company Limited,
+the CD and Rivaaz Trade Ventures Pvt. Ltd., who are referred to as Buyer
+and the Seller. It is useful to extract the opening part of the Acquisition
+Agreement, which is as follows:
+“ACQUISITION AGREEMENT
+This Acquisition Agreement (Agreement) is executed on this 29th
+day of August 2020 (Execution Date), between:
+(1)
+FUTURE
+IDEAS
+COMPANY
+LIMITED,
+a
+company
+incorporated under the laws of India, having its principal
+office at Knowledge House, Shyam Nagar, Off. JVLR,
+
+[PAGE 15]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+15
+
+Jogeshwari (East), Mumbai 400 060 (hereinafter referred to
+as the Seller, which expression shall, unless repugnant to
+the context or meaning thereof, be deemed to include its
+successors) of the FIRST PART; and
+(2)
+RIVAAZ
+TRADE
+VENTURES
+PRIVATE
+LIMITED,
+a
+company incorporated under the laws of India, having its
+principal office at 101, Shivam Building. Mistry Complex, JB
+Nagar, Andheri East, Mumbai 400 059 (hereinafter referred
+to as the Buyer, which expression shall, unless repugnant to
+the context or meaning thereof, be deemed to include its
+successors) of the SECOND PART.
+The Buyer and the Seller are collectively referred to as the Parties,
+and the term Party shall refer to any of them.
+WHEREAS:
+A.
+The Parties have agreed that the Seller shall sell and
+transfer to the Buyer, and the Buyer shall purchase and
+receive from the Seller, the Identified Assets (as defined
+below) and Identified Liabilities (as defined below) of the
+Seller, for consideration of an amount equivalent to the
+Consideration (as defined below) and upon the terms set
+forth herein.
+B.
+The Parties have agreed that only the Identified Assets and
+the Identified Liabilities shall be transferred by the Seller to
+the Buyer and the remaining assets and liabilities of the
+Seller shall continue to remain with the Seller.
+C.
+The Seller and the Buyer wish to record in this Agreement
+the terms of the proposed transfer of the Identified Assets
+and the Identified Liabilities.”
+15.
+Schedule-2 of the Acquisition Agreement deals with ‘Identified
+Liabilities’. Schedule-2 of the Acquisition Agreement is as follows:
+
+[PAGE 16]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+16
+
+“SCHEDULE 2
+IDENTIFIED LIABILITIES
+1.
+The obligations of the Sellers in respect of repayment
+of outstanding amounts in relation to the non-
+convertible debentures issued to Franklin India,
+under financing documents executed by the Seller in
+respect
+thereof
+(including
+but
+not
+limited
+to
+Debenture Trust Deed cum Mortgage Deed dated 16
+September 2015 executed by the Seller and Axis
+Trustee Services Limited (in its capacity as the
+debenture holder) and all documents identified as
+'debenture documents therein), for which the total
+outstanding amounts as of the Execution Date is INR
+30 Crores (NCDs I).
+2.
+The obligations of the Seller in respect of repayment
+of outstanding amounts, in relation to the non-
+convertible debentures issued to Franklin India,
+under financing documents executed by the Seller in
+respect
+thereof
+(including
+but
+not
+limited
+to
+Debenture Trust Deed cum Mortgage Deed dated 15
+October 2018 executed by the Seller and Axis
+Trustee Services Limited (in its capacity as the
+debenture holder) and all documents identified as
+'debenture documents therein), for which the total
+outstanding amounts as of the Execution Date is INR
+97.5 Crores (NCDs II).”
+16.
+We may also notice the Part-IV of the Company Petition filed by the
+Axis Trustee Services Ltd under Section 7 against the CD. In the
+synopsis of Section 7 Application, the Axis Trustee Services Ltd. has given
+following brief facts:
+
+[PAGE 17]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+17
+
+“SYNOPSIS
+The Applicant subscribed to 1000 (One Thousand) rated, unlisted,
+secured, redeemable non-convertible debentures each having a face
+value of Rs. 10,00,000/- (Rupees Ten Lakh Only) in 4 series viz.
+Series A, Series B, Series C, and Series D aggregating to Rs.
+100,00,00,000/- (Rupees One Hundred Crores Only)]. As condition
+precedent to the issuance of the debentures by the Corporate
+Debtor, various documents were executed in favor of the Applicant
+including a Debenture Trust cum Mortgage Deed dated 15 October
+2018 recording the terms of the debentures and creation of security
+including movable and immovable properties as mentioned therein.
+In accordance with the terms of the transaction Documents, the
+Corporate Debtor was required to redeem the Debentures and pay
+coupon at the rates and on the dates as specified therein.
+There were certain defaults committed by the Corporate Debtor
+around 2020, due to which the Applicant was constrained to issue
+a Notice dated 22 October 2020 through their Advocates recording
+the defaults and calling upon the Corporate Debtor to make
+payment as mentioned therein. Considering the Corporate Debtor
+committed default in Redemption of the Debentures on the due
+date i.e., 30th March 2022, the same was construed as an Event of
+Default
+under
+the
+transaction
+documents.
+Applicant
+was
+constrained to issue a Notice dated 1st July 2022 calling upon the
+Corporate Debtor to make payment of all amounts under and in
+respect of the debentures. Instead of making payment of the
+amounts under said Debentures, the corporate debtor by its
+response dated 7th July 2022 raised frivolous defenses which was
+responded to by the Corporate Debtor by their Rejoinder dated 21st
+July 2022. Despite receipt of the Notices, the corporate debtor has
+failed to honor the Notices issued by the Applicant and comply with
+their obligations of payment. The present amount of Debt is Rs.
+
+[PAGE 18]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+18
+
+122,83,28,079/- as on 27th September 2022 which is much more
+than the mandated limited under the Code.
+The debt and default are established, and the Corporate Debtor has
+even acknowledged its liability as recorded in the balance sheet for
+the year ended 21st March 2022.
+In light of the above, the Corporate Debtor having defaulted in the
+repayment dues, the Applicant is constrained to file the present
+Application for triggering Corporate Insolvency Resolution process
+of the Corporate Debtor under the Insolvency & Bankruptcy Code,
+2016.
+Since the Registered office of the Corporate Debtor is situated in
+Raigad, Maharashtra, this Hon'ble Tribunal has the territorial
+jurisdiction to entertain the present Application.”
+17.
+Part-IV of Section 7 Application mentions the total amount of debt
+and defaulted amount as Rs.122,83,28,079/- and date of default is
+mentioned as 30.04.2021. Part-IV of Section 7 Application is as follows:
+“PARTICULARS OF FINANCIAL DEBT
+1.
+TOTAL
+AMOUNT
+OF
+DEBT GRANTED
+
+A. Total
+Amount
+of
+Debt
+granted.
+Rs. 100,00,00,000/- (Rupees One
+Hundred Crores Only).
+[With
+respect
+to
+1000
+(One
+Thousand)
+rated,
+unlisted,
+secured,
+redeemable
+non-
+convertible
+debentures
+each
+having
+a
+face
+value
+of
+Rs.
+10,00,000/- (Rupees Ten Lakh
+Only) in 4 series viz. Series A,
+Series B, Series C, and Series D
+
+[PAGE 19]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+19
+
+DATE(S) OF
+DISBURSEMENT
+aggregating
+to
+Rs.
+100,00,00,000/-
+(Rupees
+One
+Hundred Crores Only)].
+Purpose: For general corporate
+purposes
+including
+without
+limitation
+the
+acquisition
+of
+movable assets and repayment of
+existing borrowings.
+Date
+of
+Disbursement/
+Subscription
+of
+NCDs:
+28th
+September 2018.
+2.
+AMOUNT CLAIMED TO
+BE IN DEFAULT AND
+THE DATE ON WHICH
+THE
+DEFAULT
+OCCURRED
+
+(ATTACH THE WORKING
+FOR COMPUTATION OF
+AMOUNT AND DAYS OF
+DEFAULT IN TABULAR
+FORM)
+
+A. Default Amount:
+Total amount payable as on 27th
+September
+2022
+is
+Rs.
+122,83,28,079
+(One
+Hundred
+Twenty-Two Crores Eighty-Three
+Lakhs, Twenty-Eight Thousand
+and Seventy-Nine Only)
+B.
+Date of Default: 30th April
+2021
+[When Debentures were to be
+redeemed as per the Debenture
+Trust cum Mortgage Deed dated
+15th October 2018]
+The
+Computation
+of
+Claim
+Amount
+has
+been
+annexed
+herewith at ANNEXURE 5.”
+
+[PAGE 20]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+20
+
+18.
+After having noticed the Debenture Trust-cum-Mortgage Deed dated
+15.10.2018, Acquisition Agreement dated 29.10.2020 and Part-VI of
+Section 7 Application, now we proceed to consider the Questions.
+Question No.(1)
+19.
+The CD by filing an IA No.18 of 2023 has prayed for rejection of
+Section 7 Application on the grounds of bar of Section 10A of the IBC.
+The basis of the Application – IA No.18 of 2023 is the notice dated
+22.10.2020, by which according to the CD, the Financial Creditor sought
+repayment under the Mandatory Prepayment clause of previous
+Debenture Trust-cum-Mortgage Deed dated 16.09.2015, due to a default
+caused by the downgrading of debenture ratings between March and
+August, 2018. The notice dated 22.10.2020 is filed as Annexure A-7 to
+the Appeal. The said notice was issued in reference to downgrading of the
+ratings of debentures, which entitled the Financial Creditor – Debenture
+Holders to trigger the Mandatory Prepayment Option. It is useful to refer
+to paragraphs 12, 13 and 14 of the notice, which clearly indicate that
+Debenture Trustee reserve its right to accelerate the redemption of the
+Debentures. Paragraphs 12, 13 and 14 are as follows:
+“12. Further, per the Transaction Documents, in the event the
+rating of the Debentures, at any point in time until the Final
+Settlement Date, falls to or below BBB+, each of the
+Debentures Holders shall be entitled to exercise the
+Mandatory Prepayment Options and the Company shall be
+
+[PAGE 21]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+21
+
+obligated to comply with the Mandatory Prepayment Notice.
+Considering the present rating of the Debentures at D(CE)
+level which is below the Mandatory Prepayment Option
+Threshold, and which entitles our client to trigger the
+Mandatory Prepayment Option, and our client reserves its
+rights to exercise the same, as and when required.
+13.
+From the foregoing, it is manifest that the Company has
+committed
+several
+breaches
+under
+the
+Transaction
+Documents and failed to make payment of the scheduled
+amount on the due dates. Our client is compelled to record
+that the above breaches are continuous, subsisting and un-
+remedied till date.
+14.
+In view of what is stated hereinabove, the Event of Default
+has occurred under the Deed and our client, in accordance
+with the terms of the terms of Transaction Documents,
+reserves its right to accelerate the redemption of the
+Debentures.”
+20.
+The notice also referred to email dated 31.08.2020 sent on behalf of
+CD, the Issuer and Future group confirming that all the amounts due and
+payable by the Company shall be paid off upon completion of the ongoing
+transaction between Future Group and Reliance Retail Ventures Ltd. The
+said statement has been noticed in paragraph 15 of the notice, which is
+as follows:
+“15. Our client finds it pertinent to· point out that by email dated
+31st August 2020, Mr. Akhilesh Kalra, on behalf of the Issuer
+and Future group, had confirmed that all the amounts due
+and payable by the Company shall be paid off upon
+completion of the ongoing transaction between Future Group
+and Reliance Retail Ventures Ltd. The Company is,
+
+[PAGE 22]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+22
+
+therefore, obligated to honor its commitment to our client in
+respect of the Debentures.
+21.
+What was asked by the notice, was confirmation of full payment of
+all dues, which was consequent to communication dated 31.08.2020 that
+all amount due and payable by the Company shall be paid upon
+completion of ongoing transaction between Future Group and Reliance
+Retail Ventures Ltd. We have also noticed above that the scheme of
+composite arrangement, as was to enter into between Future Group and
+Reliance Retail Ventures Ltd., subsequently failed. We have also noticed
+Part-IV of Section 7 Application, which was basis of initiation of Section 7
+Application. The date of default mentioned in Part-IV of the Application is
+30.04.2021 and it also mentions that debentures were to be redeemed as
+per the DTMD dated 15.10.2018. The DTMD dated 15.10.2018 as noticed
+above contained a schedule regarding payment details. The date,
+30.04.2021 is one of the dates of Redemption Schedule as per Schedule-
+IV ‘Payment Dates’ and amount of Rs. 5 crores were to be paid. The
+payment dates indicate that default in repayment also prior to
+24.03.2021. It is well settled that Section 7 Application can very well be
+filed by a Financial Creditor on defaults committed by the CD, which
+defaults are committed subsequent to 10A period. The present is a case
+where Section 7 Application clearly mentions the date of default as
+30.04.2021, hence, the Adjudicating Authority has rightly not accepted
+the submission of the CD that Application is barred by Section 10A. The
+
+[PAGE 23]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+23
+
+Adjudicating Authority in paragraph 8.7 has observed that Financial
+Creditor cannot be held to be barred from filing application under Section
+7 on the basis of default subsequent to Section 10A period. Paragraphs
+8.7 and 8.8 of the impugned order are as follows:
+“8.7 Be that as it may, it is now well-settled that Section 10A will
+have no bearing on defaults occurring after the expiry of the
+prohibited period. We find merit in the Respondent's contention
+that since the Applicant/Corporate Debtor has committed multiple
+defaults not only during the suspension period covered by Section
+10A but also beyond such period, there is no bar on the
+Respondent/Financial Creditor to prefer application under Section
+7 based on the subsequent defaults not covered by the prohibited
+period. Merely because the Applicant/Corporate Debtor committed
+default during the Section 10A period, it cannot be said that the
+Respondent/Financial
+Creditor
+is
+now
+barred
+from
+filing
+application under Section 7 on the basis of default subsequent to
+Section 10A period. There is no embargo under Section 7 of the
+Code, which prevents the Respondent/ Financial Creditor from
+approaching the Adjudicating Authority on the occurrence of a
+default subsequent to the prohibited period. Section 10A has no
+application when an action is initiated for default which occurred
+subsequent to Section 10A period, as held by the Hon'ble NCLAT in
+its judgment on more or less similar facts in the matter of a related
+entity of the Applicant/ Corporate Debtor, namely, NuFuture
+Digital (1) Ltd. Vs. Axis Trustee Services Ltd. [(2023) SCC
+OnLine NCLAT 242]. Therefore, when a subsequent default takes
+place in the post-suspension period, the Applicant/Corporate
+Debtor cannot claim that the Respondent is attempting to shift the
+date of default or that the subsequent notice dated 01.07.2022 is
+contradictory to the previous notice dated 22.10.2020, because
+both these notices are in relation to two separate issues of the
+
+[PAGE 24]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+24
+
+debentures as well as separate events of default giving rise to
+separate causes of action. In view of this position, reliance of the
+Applicant/Corporate Debtor on the decisions in ITC Ltd (supra)
+and Jagdish Prasad Sarada (supra) is misconceived and is
+accordingly of no avail.”
+22.
+We, thus, are of the view that Application filed under Section 7 by
+the Financial Creditor was not barred by Section 10A and Adjudicating
+Authority has rightly held that Application was not barred by 10A. There
+is no error in the order of Adjudicating Authority rejecting IA No.18 of
+2023. Question No.(1) is answered accordingly.
+Question Nos.(2) & (3)
+23.
+Both the questions being interrelated are being taken together.
+24.
+The Acquisition Agreement dated 29.08.2020 was entered between
+corporate debtor and Rivaaz Trade Ventures Private Limited (hereinafter
+referred to as ‘RTVPL’ or ‘Rivaaz’). The financial creditor, debenture trus-
+tee or the debenture holder were not part to the Agreement. Clause 2.2 of
+the Acquisition Agreement provided that identified liabilities by the seller
+to the buyers shall be subject to receipt of approval/non-objection letters
+from Axis Trustee Service Limited, debenture trustee in respect of NCD 1
+and NCD 2. The corporate debtor has not pleaded or claimed that any
+approval or no objection letter was received from Axis Trustee Service
+Limited. The case set up before the adjudicating authority by the corpo-
+rate debtor in I.A. No.29/2023, as well as in reply to Section 7 application
+
+[PAGE 25]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+25
+
+based on email dated 31.08.2020 sent by the corporate debtor to the de-
+benture holders and other correspondence exchanged between the parties
+on basis of which, according to the corporate debtor, transfer of liability is
+substantiated. In paragraph 4.1 of the impugned order, adjudicating au-
+thority has noticed the averments of the corporate debtor. It is useful to
+extract paragraph 4.1 of the impugned order, which is as follows:
+“4.1 The Respondent/Financial Creditor no longer qualifies as a
+creditor under Sections 3 and 5(8) of the Code, as the liabilities
+related to the NCDs have been acquired by RTVPL under an
+Acquisition Agreement dated 29.08.2020. The Respondent is no
+more a creditor also in the books of account of the Corporate
+Debtor. The Acquisition Agreement was communicated to the
+Debenture Holders by the Corporate Debtor vide email dated
+31.08.2020, without any contemporaneous dispute being raised.
+The following correspondences and notices exchanged between the
+parties further substantiate the transfer of liabilities under the
+NCDs:-
+a. Emails dated 05.10.2021 titled "Future Group- NCDs and
+31.03.2022 titled "Rivaaz- outstanding as of Jan 31, 2022" from the
+Debenture Holders to the Corporate Debtor confirmed the
+consolidation of NCDs under RTVPL, amounting to Rs. 1004,24,
+16,661/-. In email dated 06.10.2021, a confirmation of the
+consolidation of NCDs with RTVPL was provided to the Debenture
+Holders.
+b. Email dated 31.03.2022, titled "Rivaaz - Outstanding as of Jan
+31, 2022: The Debenture Holders acknowledged that the debt
+underlying the NCDs had vested in RTVPL as of 31.01.2022. An
+internal email dated 29.12.2021 from the Debenture Holders
+acknowledged their exposure to RTVPL regarding the NCDs in place
+of the Applicant.
+c. In the Notice dated 20.04.2022 addressed by the Financial
+Creditor to Mr. Kishore Biyani regarding invocation of Deed of
+Guarantee cum Undertaking dated 27.09.2018, the Debenture
+Holders, through paragraph 5 of the notice, admitted having
+knowledge of the Acquisition Agreement as far back as 31.08.2020.
+d. Additionally, the Applicant's balance sheet as on 31.03.2021
+evidences the transfer of long-term borrowings amounting to Rs.
+1,27,50,00,000/-, as the value under long-term borrowings became
+
+[PAGE 26]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+26
+
+nil between 31.03.2020 and 31.03.2021. Correspondingly, RTVPL's
+balance sheet reflects the acquisition of the debt underlying the
+NCDs as on 31.03.2021.
+e. On 22.04.2022, the Debenture Holders after confirming the
+principal outstanding of Rs.1004,24,16,661/- voted on the Scheme
+regarding the transferred NCDs.”
+25.
+It is further pleaded by the corporate debtor that debenture holders
+have ratified the Acquisition Agreement through their conduct. The cor-
+porate debtor also pressed the waiver and acquiescence against the de-
+benture holders. We have noticed the Debenture Trust cum Mortgage
+Deed (DTMD) dated 15.10.2018 and noticed certain relevant clauses of
+deed which was entered between the corporate debtor and financial credi-
+tor. Clause 10.1 of the DTMD contains affirmative covenants by the com-
+pany. Positive covenants include Clauses (g) & (i), which is as follows:
+“(g) The Company shall discharge its obligations in connection with
+the Debentures in a reasonable and prudent manner.
+(i) The Company shall comply with any directions/guidelines issued
+by any Governmental Authority, in relation to the Debentures.”
+26.
+Clause 10.2 contains negative covenants. Negative covenants
+under clause 10.2 is as follows:
+“10.2 Negative Covenants
+The Company shall not, without procuring the prior written
+consent of the Debenture Trustee (acting on the instructions of the
+Majority Debenture Holders):
+(a) undertake or enter into any amalgamation, demerger, merger or
+corporate restructuring or reconstruction scheme proposed;
+(b) incur any Financial Indebtedness;
+
+[PAGE 27]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+27
+
+(c) enter into a single transaction or a series of transactions
+(whether related or not) and whether voluntary or involuntary to
+sell, lease, transfer or otherwise encumber or dispose the
+Mortgaged Property or any part thereof;
+(d) make any change in the nature and conduct of its business
+(from what is being carried out as on the date hereof);
+(e) voluntarily wind up, liquidate or dissolve its affairs;
+(f) purchase, redeem or buyback its shares or reduce its share
+capital;
+(g) enter into any agreement which conflicts with the provisions of
+this Deed or the other Transaction Documents;
+(h) amend or modify the object clause set out in the memorandum
+and articles of association of the Company;
+(i) make any changes to its accounting policies or accounting
+methods or change its financial year from April 1-March 31, unless
+otherwise required under Applicable Law;
+(j) make any changes, amendments or modifications to any of the
+Master License Agreements, the Tri-partite Agreements or the
+Escrow Agreement or exercise any of the rights of the Company, or
+grant any waivers or indulgences under the Master License
+Agreements, the Tri-partite Agreements or the Escrow Agreement;
+(k) sell, transfer, assign or otherwise create any Encumbrance over
+the Future Trademarks (as defined in the Master License
+Agreement) and shall at all times continue to hold all night, title
+and interest in respect thereto.”
+27.
+We have also noticed Schedule II of the DTMD. Clause 12, which
+deals with transfer of debentures. Clauses 12.1, 12.2, 12.3 are extracted
+for ready reference, which are as follows:
+“12. TRANSFER OF DEBENTURES
+12.1 The Debentures shall be freely transferable and transmittable
+by the Debenture Holders in accordance with provisions of
+Applicable Law.
+12.2 The Debenture Holders shall have the right to novate transfer
+or assign its rights and/or the benefits under the Transaction
+Documents upon such transfer/transmission of the Debentures
+
+[PAGE 28]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+28
+
+with prior notice to the Company and at the Debenture Holders
+own cost and expense.
+12.3 It is clarified that the Company shall not be entitled to assign
+any or the rights, duties or obligation under the Transaction
+Documents or in relation to the Debentures.”
+28.
+Clause 12.3 provides that company shall not be entitled to assign
+any of its right, duties or obligations under the transaction documents or
+in relation to the debentures. To the contrary Clauses 12.1 & 12.2 clearly
+provides debenture holders to transfer or assigned its rights under the
+transaction document which debentures were freely transferable by the
+debenture holders. Clear contrast in the above clauses indicate that
+DTMD never intended the company to assign any of its rights, duties or
+obligations. Despite the aforesaid clauses of the transaction, DTMD Ac-
+quisition Agreement was entered between Company and the Rivaaz.
+Clause 2.2 of the Acquisition Agreement contemplated that approval/no
+objection of debenture trustee was to be obtained. Clause 2.2 of the Ac-
+quisition Agreement is as follows:
+“2.2 The transfer of the Identified Assets and Identified Liabilities
+by the Seller to the Bayer shall be subject to receipt of
+approvals/no-objection letters from Axis Trustee Services Limited,
+debenture trustee in respect of the NCDs I and NCDs II pursuant to
+the financing documents executed in relation to NCDs 1 and NCDs
+II. The Seller shall also ensure that such waiver/approval shall
+contain approval for assignment of the Master License Agreements
+in favour of the Buyer.”
+29.
+There are no approval or no objection by debenture trustee pleaded
+or proved. Corporate debtor has endeavoured to treat conduct of deben-
+ture holders which, according to the corporate debtor has ratified the Ac-
+
+[PAGE 29]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+29
+
+quisition Agreement. Corporate debtor has relied on email dated
+31.08.2020 sent by one Mr. Akhilesh Kalra of Future Group to one Mr.
+Arun Gupta of Franklin Templeton. Copy of which email was also sent to
+the directors of the corporate debtor. The email also referred to the Ac-
+quisition Agreement executed by corporate debtor with Rivaaz, whereas
+corporate debtor has transferred its obligation towards repayment of NCD
+1 and NCD 2 to Rivaaz. It is useful to extract email dated 31.08.2020,
+which is as follows:
+“From: Akhilesh Kalra <Akhilesh Kalra@futuregroup.in>
+Sent: Monday, August 31, 2020 10:44 AM
+To: Gupta, Arun Arun.Gupta@franklintempleton.com
+CC: Kishore Biyani Kishore.Biyani@futuregroup.in; Vijay Biyani
+Vijay.Biyani@futuregroup.in;
+Kamath,
+Santosh
+Das
+Santosh.daskamath@franklintempleton.com
+Subject: Future Group Transaction Update and Franklin Templeton
+NCDs
+Dear Arun,
+Thanks for your continued support and co-operation extended to
+Future Group till date (including approval of 3-month moratorium
+earlier in April'2020).
+As outlined in our previous communication, we have now
+successfully finalized the terms of the strategic transaction. We
+sincerely thank you for your patience all the way through.
+Following are brief details about the transaction and next steps
+vis a vis Franklin Templeton's NCO exposure to Future Group:
+1. Future Group has announced a major reorganization of its
+businesses on August 29, 2020 in which the key group listed
+entities along with few other entities (including Rivaaz Trade
+Ventures Private Limited {"Rivaaz"}) would get merged into Future
+Enterprises
+Limited
+("FEL")
+{"Composite
+Scheme
+of
+Arrangement"}.
+
+[PAGE 30]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+30
+
+2. FEL will subsequently sell by way of a slump sale the retail and
+wholesale business to Reliance Retail and Fashion Lifestyle Limited
+("RRFLL"), a wholly owned subsidiary of Reliance Retail Ventures
+Limited ("RRVL"). FEL will also sell the logistics and warehouse
+business to RRVL by way of a slump sale. RRFLL and RRVL will
+take over certain borrowings and current liabilities related to the
+business and discharge the balance consideration by way of cash.
+3. Future Group will retain its FMCG and Integrated Fashion
+Sourcing & Merchandising businesses in FEL, and its Insurance
+JVs with Generali along with NTC Mills JVs.
+4. FEL will have strategic supply and distribution arrangements
+for the FMCG and fashion businesses with Reliance Retail. RRFLL
+will additionally invest Rs. 2800 Cr in equity & warrants of FEL to
+acquire 13.15% stake, showcasing strategic intent.
+5. With regards to NCDs issued by each of Future Ideas Company
+Limited ("FICL") and nuFuture Digital (India) Limited ("NFDIL") to
+Franklin Templeton ("FT"), please note:
+a. FICL has executed an Acquisition Agreement with Rivaaz
+wherein FICL has transferred its obligations toward repayment of
+NCD-1 and NCD-2 (current o/s Rs. 127.5 Cr.) along with equivalent
+amount of identified assets to Rivaaz
+b. Similarly, NFDIL has executed an Acquisition Agreement with
+Rivaaz wherein NFDIL has transferred its obligations toward
+repayment of NCD-1 and NCD-2 (current o/s Rs. 256.3 Cr.) along
+with equivalent amount of identified assets to Rivaaz
+6. Since the acquirer was desirous of purchasing all the assets
+pertaining to the retail, wholesale, logistics & warehouse
+businesses (including those owned by Rivaaz, FICL and NFDIL),
+consequently, the equity shares of Rivaaz have been acquired by
+wholly owned subsidiary of FEL, Future Bazaar India Limited
+(FBIL), rendering Rivaaz a wholly owned subsidiary of FBIL.
+7. As part of the Composite Scheme of Arrangement (subject to
+necessary regulatory and stakeholders' approvals), FBIL and its
+wholly owned subsidiaries (including Rivaaz) would be merging with
+FEL. Thereby, the assets and liabilities with regards to the FT
+NCDs would ultimately reside with FEL.
+8. Upon completion of the aforementioned Composite Scheme of
+Arrangement, FEL would repay the obligations under the FT NCDs
+through the proceeds received from the slump sale consideration.
+We would like to reiterate that it is Future Group's endeavour to
+honour and repay the obligations under the FT NCDs at the
+
+[PAGE 31]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+31
+
+earliest. Accordingly, we will approach you over the coming week
+with additional details on the next steps.”
+30.
+The above email was sent on behalf of the Future Group informing
+the debenture holders about the Acquisition Agreement entered with cor-
+porate debtor with Rivaaz. It was also communicated that under the
+composite scheme of arrangement which is subject to necessary regulato-
+ry and stakeholders approvals, NFDIL and its wholly own subsidiary, in-
+cluding Rivaaz could be merging with Future Enterprises Limited (FEL),
+whereby the assets and liabilities with regard to financial creditors and
+corporate debtors could ultimately reside with FEL.
+31.
+Now we need to look into other correspondence, which is relied in-
+cluding email dated 05.10.2021 and 31.03.2022 issued from the deben-
+ture holders to the corporate debtor and email dated 06.10.2021 regard-
+ing confirmation of the consolidation of NCDs with RTVPL. The email
+dated 05.10.2021 was sent from Franklin Templeton to Mr. Akhilesh
+Kalra, Future Group, by which email the audited financials were asked for
+with regard to three entities, Rivaaz, nuFuture and Future Ideas, which
+email reads as follows:
+“From: Gupta, Arun ArunGupta@franklintempleton.com
+Sent: 05 October 2021 16:10
+To: Akhilesh Kalra <Akhilesh. Kaira@futuregroup.in>
+Cc:
+Kamath,
+Santosh
+Das
+Santosh.daskamath@franklintempleton.com;
+
+Agrawal,
+Kunal
+kunal.agrowai@franklintempleton.com;
+Shah,
+Nischal
+Nischal.Shah@franklintempleton.com;
+Padmanabhan,
+Radhika
+Radhika.Padmanabhan@franklintempleton.com
+
+[PAGE 32]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+32
+
+Subject: Futura group NCDs
+CAUTION: This email originated from outside your organization.
+Exercise caution when opening attachments or on clicking links
+from unknown senders.
+Hi Akhilesh,
+Thanks for the call earlier today
+Request you to send across the audited financials for March 31,
+2020 and audited/provisional financials for March 31, 2021 for all
+the three entities-Rivaaz/NuFuture and Future Ideas.
+Also, as discussed please confirm that all NCDs issued by the
+above 3 entitles and held by FMF are consolidated under Rivaaz
+and are included in the March 31, 2022 financials of Rivaaz Trade
+Ventures.
+Please respond to this priority. Thanks.
+Regards,
+Arun”
+32.
+The above email cannot be read as giving any type of consent or ap-
+proval of the Acquisition Agreement. The email dated 05.10.2021 was re-
+plied on 06.10.2021 informing that NCDs issued by the three entities and
+are consolidated under Rivaaz and are included in the March 31, 2021
+financials of RTVPL. Another email replied on 21.03.2021, which was
+sent on behalf of the debenture holders to Future Group, which reads as
+follows:
+“From: Akshay KUBDE akshaykubde@hsbc.co.in
+Sent: Tuesday, December 21, 2021 4:32 PM
+To: Vaidya, Mayur <Mayur Vaidya@franklintempleton.com>
+Cc: #fundscsv fundscav@hsbc.co.in; Investment Ops IND AMC
+InvestmentOpsiNDAMC@franklintempleton.com
+Subject: FW: EXTERNAL: Fw: Fw: Certificate
+
+[PAGE 33]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+33
+
+Hi Mayur,
+As discussed, our Custody team in in receipt of below mail
+regarding amount Outstanding as on 31.03.21 for Rivaaz Trade
+Ventures Pvt Ltd.
+Please check and confirm.
+Thanks and regards,
+Akshay Kubde
+Fund Services, Securities Services
+The Hongkong and Shanghal Banking Corporation Limited
+11th Floor, Building #3, Nesco IT Park, W.E. Highway,
+Goregaon (E), Mumbai 400053
+Phone 91-22-45053453
+Mobile 91-9892113490
+Fax 91-22-66964470”
+33.
+An internal email dated 29.12.2021 from debenture holders have
+also been referred to, which email has also been filed in I.A. 29/2022 and
+at page 2110 of the appeal paper book. It is useful to refer to the said
+email 29.12.2021, which was with respect to reference to certain balance
+confirmation request sent by internally. The email reads as follows:
+“From: Gupta, Arun
+Sent: Wednesday, December 29, 2021 10:30 AM
+To: Vaidya, Mayur Mayur.Vaidya@franklintempleton.com; FIXED
+INCOME-INDIA
+FIXEDINCOME-INDIA@franklintempleton.com;
+rajwani1115@rediffmail.com>
+Cc: Investment Ops IND AMC
+InvestmentOpsINDAMC@franklintempleton.com;
+akshaykubde@hsbc.co.in
+Subject: RE: EXTERNAL: Fw: Fw: Certificate
+Hi,
+This is with reference to the balance confirmation request sent by
+you.
+
+[PAGE 34]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+34
+
+We note that the balance computed by the company is based on the
+scheduled payment and does not factor the interest impact for
+missed payments.
+Please see below summary of our exposure outstanding to Rivaaz
+Trade Ventures Ltd. as of March 31, 2021.
+O/S Claim against FT MF NCDs as on March
+31, 2021
+TOTAL
+Principal Outstanding
+10,042,416,667
+Interest
+1,253,809,741
+Redemption Premium
+64,180,561
+Step-up Interest
+216,047,981
+Default Interest
+19,848,741
+Total
+11,596,303,690
+Will be happy to clarify further as required. Thanks.
+Regards,
+Arun”
+34.
+It was next pleaded by corporate debtor that debenture holders af-
+ter confirming the principal outstanding of ₹1004,24,02,661/- has voted
+on the scheme regarding the transferred NCD. All the above correspond-
+ence relied by the corporate debtor, cannot be read as giving any approval
+or no objection to the acquisition. In the internal email 29.12.2021 relied
+by the corporate debtor, summary of exposure outstanding to RTVPL was
+communicated in response to the balance confirmation request received
+internally from debenture holders. The other emails as noted above sent
+
+[PAGE 35]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+35
+
+by the debenture holders asked for the Acquisition Agreement, enquired
+about the exposures regarding NCDs in the Rivaaz. All those cannot be
+read to mean that at any point of time debenture holders have given their
+consent or no objection to the acquisition. We have noticed above, that
+Clause 2.2 of Acquisition Agreement itself required approval/no objection
+of debenture trustee. Neither any correspondence from debenture trustee
+has been referred or relied to claim that debenture trustee at any point of
+time gave its approval or no objection to the Acquisition Agreement.
+Thus, according to own case of the corporate debtor, there was no com-
+pliance of Clause 2.2 of the Acquisition Agreement. Reference of certain
+correspondence by the debenture holders in the above regard cannot be
+substituted as approval and no objection from the Axis Trustee Service
+Limited, the respondent herein which is specifically required under Acqui-
+sition Agreement Clause 2.2 as noted above. Thus, Acquisition Agree-
+ment itself having not been complied with insofar as obtaining approval or
+no objection of Axis Trustee Service Limited, there is no occasion to ac-
+cept the case of the corporate debtor that obligation under the NCDs as
+per debenture trust DTMD stood transferred from corporate debtor to
+Rivaaz. As noted above the financial creditor or debenture holders were
+never party to the Acquisition Agreement 29.08.2020.
+35.
+Learned counsel for the appellant submits that at no point of time,
+the respondent who was aware about the Acquisition Agreement or even
+
+[PAGE 36]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+36
+
+the debenture holders raised any objection to the Acquisition Agreement.
+It is further pleaded that in the balance sheets of the corporate debtor,
+the above NCD liabilities stand transferred to the Rivaaz, and in the an-
+nual statement of the Rivaaz, the said NCD liabilities are reflected. Adju-
+dicating Authority has noticed in the impugned order that the liability of
+corporate debtor towards the NCDs is continuously reflected in the bal-
+ance sheets of the financial creditors and in the balance sheets of the fi-
+nancial creditors, the obligations towards the NCDs has not been noticed
+towards Rivaaz, what is reflected in the balance sheets of the corporate
+debtor or Rivaaz are not binding to the financial creditors. Learned coun-
+sel for the appellant contended that debenture holders ratified the acqui-
+sition which constituted acceptance, waiver, and acquiescence on their
+part, the corporate debtor and Rivaaz altered their position which is
+demonstrated in their respective balance sheets. Hence on the principle
+of waiver and acceptance, both debenture holders and debenture trustees
+cannot take any contrary stand. Learned counsel for the appellant has
+relied on the judgment of the Hon’ble Supreme Court in the matter of
+‘B.L. Sreedhar & Ors.’ Vs. ‘KM Munireddy & Ors.’ reported in (2003) 2
+SCC 355. Learned counsel for the appellant relied on paragraphs 24, 25
+& 30 of the judgment, where following was laid down:
+“24. The following passage from the Law Relating to Estoppel by
+Representation by George Spencer, 2nd Edn. as indicated in Article
+3 is as follows:
+
+[PAGE 37]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+37
+
+“It will be convenient to begin with a satisfactory definition of
+estoppel by representation. From a careful scrutiny and
+collation of the various judicial pronouncements on the
+subject, of which no single one is, or was perhaps intended to
+be, quite adequate, and many are incorrect, redundant, or
+slipshod in expression; the following general statement of the
+doctrine of estoppel by representation emerges; where one
+person (‘the representor’) had made a representation to
+another person (‘the representee’) in words or by acts and
+conduct, or (being under a duty to the representee to speak or
+act) by silence or inaction, with the intention (actual or
+presumptive), and with the result, of inducing the representee
+on the faith of such representation to alter his position to his
+detriment, the representor in any litigation which may
+afterwards take place between him and the representee, is
+estopped, as against the representee, from making, or
+attempting
+to
+establish
+by
+evidence,
+any
+averment
+substantially at variance with his former representation, if the
+representor at the proper time, and in the proper manner,
+objects thereto.”
+25. In Article 1175 at p. 637 of Halsbury's Laws of England, 3rd
+Edn., Vol. 14, it is stated as follows:
+“1175. Waiver is the abandonment of a right, and is either
+express or implied from conduct. A person who is entitled to
+the benefit of a stipulation in a contract or of a statutory
+provision (a) may waive it....”
+“The essence of waiver is ‘estoppel’ and where there is no
+‘estoppel’ there can be no ‘waiver’, the connection between
+‘estoppel’ and ‘waiver’ being very close. But, in spite of that,
+there is an essential difference between the two and that is
+whereas estoppel is a rule of evidence, waiver is a rule of
+conduct. Waiver has reference to man's conduct, while
+estoppel refers to the consequences of that conduct.”
+30. If a man either by words or by conduct has intimated that he
+consents to an act which has been done and that he will not offer
+any opposition to it, although it could not have been lawfully done
+without his consent, and he thereby induces others to do that
+which they otherwise might have abstained from, he cannot
+question the legality of the act he had sanctioned to the prejudice of
+those who have so given faith to his words or to the fair inference to
+be drawn from his conduct.”
+36.
+The above judgment of the Hon’ble Supreme Court has no applica-
+tion in the facts of the present case. Hon’ble Supreme Court in the above
+
+[PAGE 38]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+38
+
+case has occasion to elaborate the principles of waiver and acquiescence.
+It was held that if a man either by words or by conduct has intimated that
+he consents to an act which has been done and that he will not offer any
+opposition to it although it could not have been lawfully done without his
+consent, he cannot question the legality of the act he had sanctioned.
+The correspondence which we have noticed above on behalf of the deben-
+ture holders does not contain any approval or no objection by debenture
+holder to the Acquisition Agreement. Debenture holder were informed
+about the Acquisition Agreement by the corporate debtor, hence infor-
+mation regarding outstanding of NCDs in the Rivaaz were asked for and
+called for. No waiver or acquiescence can be pressed against even deben-
+ture holders in the present case. More so, Clause 2.2 of the Acquisition
+Agreement as noted above required approval or no objection of the deben-
+ture trustee. Present is not a case where any approval or no objection is
+even pleaded from the debenture trustee. Thus the submission advanced
+by the appellant on the principle of waiver and acquiescence are not at-
+tracted.
+37.
+Another judgment relied by the counsel for the appellant is ‘Kal-
+praj Dharamshi & Anr.’ Vs. ‘Kotak Investment Advisors Ltd. & Anr.’
+reported in (2021) 10 SCC 401, where Hon’ble Supreme Court has occa-
+sion to consider as to whether there was waiver and acceptance by KIAL
+so as to stop it from challenging the participation of Kalpraj. Above was a
+
+[PAGE 39]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+39
+
+case where both Kalpraj where KIAL has submitted a resolution plan and
+belatedly Kalpraj was also permitted to participate, subsequently KIAL
+challenged the participation of Kalpraj, hence the question arose as to
+whether KIAL by principle of waiver and acquiescence is estopped from
+challenging the participation of Kalpraj. In the above context, Hon’ble
+Supreme Court had occasion to consider waiver in paragraphs 117, 118,
+119, 122 and 124, which are as follows:
+“117. The word “waiver” has been described in Halsbury's Laws of
+England, 4th Edn., Para 1471, which reads thus:
+“1471. Waiver.—Waiver is the abandonment of a right in such
+a way that the other party is entitled to plead the
+abandonment by way of confession and avoidance if the right
+is thereafter asserted, and is either express or implied from
+conduct. ... A person who is entitled to rely on a stipulation,
+existing for his benefit alone, in a contract or of a statutory
+provision, may waive it, and allow the contract or transaction
+to proceed as though the stipulation or provision did not exist.
+Waiver of this kind depends upon consent, and the fact that
+the other party has acted on it is sufficient consideration. ...
+It seems that, in general, where one party has, by his words or
+conduct, made to the other a promise or assurance which was
+intended to affect the legal relations between them and to be acted
+on accordingly, then, once the other party has taken him at his
+word and acted on it, so as to alter his position, the party who gave
+the promise or assurance cannot afterwards be allowed to revert to
+the previous legal relationship as if no such promise or assurance
+had been made by him, but he must accept their legal relations
+subject to the qualification which he has himself so introduced,
+even though it is not supported in point of law by any
+consideration.”
+118. In Halsbury's Laws of England, Vol. 16(2), 4th Edn., Para 907,
+it is stated:
+“The expression “waiver” may, in law, bear different meanings.
+The primary meaning has been said to be the abandonment of
+a right in such a way that the other party is entitled to plead
+the abandonment by way of confession and avoidance if the
+right is thereafter asserted, and is either express or implied
+
+[PAGE 40]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+40
+
+from conduct. It may arise from a party making an election,
+for example whether or not to exercise a contractual right...
+Waiver may also be by virtue of equitable or promissory
+estoppel; unlike waiver arising from an election, no question
+arises of any particular knowledge on the part of the person
+making the representation, and the estoppel may be
+suspensory only... Where the waiver is not express, it may be
+implied from conduct which is inconsistent with the
+continuance of the right, without the need for writing or for
+consideration moving from, or detriment to, the party who
+benefits by the waiver, but mere acts of indulgence will not
+amount to waiver; nor may a party benefit from the waiver
+unless he has altered his position in reliance on it.”
+119. For considering, as to whether a party has waived its rights or
+not, it will be relevant to consider the conduct of a party. For
+establishing waiver, it will have to be established, that a party
+expressly or by its conduct acted in a manner, which is
+inconsistent with the continuance of its rights. However, the mere
+acts of indulgence will not amount to waiver. A party claiming
+waiver would also not be entitled to claim the benefit of waiver,
+unless it has altered its position in reliance on the same.
+122. As such, for applying the principle of waiver, it will have to be
+established, that though a party was aware about the relevant facts
+and the right to take an objection, he has neglected to take such an
+objection.
+124. However, in the proceedings initiated by the trade union, the
+retrenchment was held to be illegal and he was directed to be
+deemed to be in continuous service with all benefits. A writ petition
+was filed by the respondent before the High Court. The said writ
+petition was dismissed [Purna Theatre v. State of W.B., 1996 SCC
+OnLine Cal 318] by the Single Judge of the High Court, upholding
+the findings of the Tribunal. In an appeal before the Division
+Bench, a plea was taken for the first time, that the workman had
+accepted the amount paid by the employer and as such, it
+amounted to waiver by the workman. The Division Bench allowed
+[Purna Theatre v. State of W.B., 1999 SCC OnLine Cal 448] the
+appeal and set aside the award passed by the Tribunal and the
+judgment and order passed by the Single Judge. Setting aside the
+judgment of the Division Bench, this Court observed thus :
+(Krishna Bahadur case [Krishna Bahadur v. Purna Theatre, (2004) 8
+SCC 229 : 2004 SCC (L&S) 1086] , SCC p. 233, paras 9-10)
+“9. The principle of waiver although is akin to the principle of
+estoppel; the difference between the two, however, is that
+whereas estoppel is not a cause of action; it is a rule of
+evidence; waiver is contractual and may constitute a cause of
+action; it is an agreement between the parties and a party
+
+[PAGE 41]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+41
+
+fully knowing of its rights has agreed not to assert a right for a
+consideration.
+10. A right can be waived by the party for whose benefit
+certain requirements or conditions had been provided for by a
+statute subject to the condition that no public interest is
+involved therein. Whenever waiver is pleaded it is for the party
+pleading the same to show that an agreement waiving the
+right in consideration of some compromise came into being.
+Statutory right, however, may also be waived by his conduct.”
+38.
+Hon’ble Supreme Court laid down in paragraph 127 and ultimately
+after examining the facts of the said case held that KIAL was not estopped
+from challenging the process on the ground of acquiescence and waiver.
+39.
+Debenture trustee was appointed to watch the interest of the de-
+benture holders and DTMD was entered between the corporate debtor and
+the debenture trustee who was party to the Agreement dated 15.10.2018.
+Even in the Acquisition Agreement dated 29.08.2020 approval or no ob-
+jection trustee was envisaged thus there is no occasion for pressing the
+waiver or acquiescence on the part of debenture holders in the facts of the
+present case.
+40.
+We may also notice one more submission on behalf of the appellant
+that the debenture holders have exercised their voting rights in the com-
+posite scheme and has voted on 22.04.2022 against the scheme and the
+voting right was exercised as per their outstanding with respect to Rivaaz,
+who was part of composite scheme of arrangement. It is on the record
+that the debenture holders voted against the scheme and the outstanding
+in Rivaaz as on 31.03.2021 as was communicated to the debenture hold-
+
+[PAGE 42]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+42
+
+ers was for purposes of scheme voting. The debenture holders were op-
+posed to the scheme arrangement and voted against it which scheme ul-
+timately was not approved. The voting of debenture holders against the
+scheme with regard to which public statement was given by the Future
+Group as noted above no waiver or acquiescence can be treated against
+the debenture holders with respect to Acquisition Agreement. Adjudicat-
+ing authority in the impugned order has also rightly observed that the Ac-
+quisition Agreement was part of the larger and composite scheme of
+transfer and merger of the Future Group entities into reliance and which
+composite scheme having failed to obtain the regulatory approval, the Ac-
+quisition Agreement has to be looked into as an step into the integral pro-
+cess.
+41.
+In view of the forgoing discussions and conclusions, we are of the
+view that no approval or consent to the Acquisition Agreement can be im-
+puted to the debenture holders, whereas, no approval or consent is even
+pleaded on the part of the debenture trustee.
+42.
+In view of the forgoing discussions and conclusions, we answer
+Question Nos. (2) & (3) in following manner:
+I.
+By virtue of Acquisition Agreement dated 29.08.2020 the rights and
+obligations of the corporate debtor under the NCD issued by the
+corporate debtor were not transferred to RTVPL.
+II.
+From the correspondence between the debenture holders, and the
+corporate debtor brought on record, demonstrates that debenture
+
+[PAGE 43]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+43
+
+holders had never ratified or given their consent to the Acquisition
+Agreement, either by their conduct or by waiver and acquiescence.
+Question No. (4)
+43.
+Learned counsel for the appellant has submitted that adjudicating
+authority had no jurisdiction to look into issues with regard to Acquisition
+Agreement dated 29.08.2020 and observation of the adjudicating authori-
+ty that DTMD being a statutory contract, any Agreement contrary to the
+statutory mandate will be void or unsustainable. The appellant has ques-
+tioned the jurisdiction of the adjudicating authority to enter into various
+issues with respect to Acquisition Agreement dated 29.08.2020. It is
+submitted that adjudicating authority has exceeded its jurisdiction in ob-
+serving that Acquisition Agreement is void. Learned counsel for the ap-
+pellant has referred to paragraph 9.3 of the impugned order where adju-
+dicating authority has made following observations:
+“9.3 Now, it is proposed to examine the merits of the Corporate
+Debtor's contentions that the outstanding debt or liability under
+the debentures no longer lies with the Corporate Debtor as the
+same has been transferred to RTVPL through an Acquisition
+Agreement dated 29.08.2020 and that the debenture holders had
+allegedly acquiesced to the said agreement and purportedly waived
+strict adherence to the provisions of the DTMD. As regards the
+validity of the Acquisition Agreement and the question whether it
+supersedes the provisions of the Companies Act, 2013, and the
+DTMD, it is necessary to examine the statutory provisions relating
+to the transfer of liability and the nature of the DTMD as a
+statutory contract. There is no doubt that Debentures are statutory
+instruments governed by the Companies Act, 2013, and related
+rules. Section 71(8) of the Companies Act, 2013, read with Rule
+18(1)(c) and sub-rule (5) of the Companies (Share Capital and
+Debentures) Rules, 2014, mandates that the issuer of debentures
+remains liable to redeem the debentures. Form SH-12 requires an
+
+[PAGE 44]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+44
+
+undertaking to pay interest and principal as per the terms of the
+offer, as reflected in Clause 3.2 of the DTMD, which contains a
+covenant to pay principal and interest. We find merit in the
+Financial Creditor's submission that the issuer of the debentures
+cannot contract out of a statutory obligation or liability by way of a
+private contract and any such contract being contrary to the
+statutory mandate will be void...”
+44.
+The Acquisition Agreement was relied by the corporate debtor in its
+reply to Section 7 application, in I.A. 23/2023 filed by the corporate debt-
+or, praying for dismissal of Section 7 application. It was case of the cor-
+porate debtor that on account of the Acquisition Agreement, the corporate
+debtor is no longer debtor and the obligation has been undertaken by
+Rivaaz, hence Section 7 application could not have been filed by the cor-
+porate debtor. In this context, we refer to paragraph 4 of the reply filed by
+the corporate debtor to Section 7 application where the Acquisition
+Agreement 29.08.2020 has been relied. Paragraph 4 of the reply is as fol-
+lows:
+“4. Firstly, it is stated that, that the alleged liability of Rs.
+122,83,28,079/- (Rupees One Hundred Twenty-Two Crore Eighty
+Three Lacs Twenty Eight Thousand Seventy Nine Only) for
+supposed dues arising out of certain Non-Convertible Debentures
+(NCDs) as more particularly enumerated in the captioned Petition,
+have been acquired by Rivaaz Trade Ventures Pvt. Ltd. (RVTPL) vide
+an Acquisition Agreement dated 29 August,2020 (Acquisition
+Agreement). This fact has been duly brought to the notice of the
+Financial Creditor on 31 August,2020 itself and no dispute with
+respect to the same was raised. It is pertinent to note that the
+Financial Creditor has even acknowledged that the debt has been
+assigned by the Corporate Debtor in terms of the Assignment
+Agreement by voting in the Composite Scheme of Arrangement
+meeting held on 22 April, 2022 with respect to RTVPL which
+included the acquired liabilities of the Corporate Debtor. Thus, the
+present Company Petition is filed without any application of mind
+and only with the intention to harass the Corporate Debtor.
+
+[PAGE 45]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+45
+
+In view of the above, the Financial Creditor is no longer a creditor
+in terms of Section 3 and Section 5(8) of the Insolvency and
+Bankruptcy Code (2016) of the Corporate Debtor and has no right
+to enforce any debt/liabilities including inter alia the NCDs and/or
+Securities against the Corporate Debtor and needs to exercise its
+rights and remedies against RTVPL, if at all, which has acquired
+the liabilities in terms of the Acquisition Agreement and has
+therefore replaced the Corporate Debtor as the Obligor in terms of
+the liabilities under the NCDs.”
+45.
+When the corporate debtor in its reply has relied on Acquisition
+Agreement and pleaded that by virtue of Acquisition Agreement, the cor-
+porate debtor has no longer any obligation towards the NCD, the adjudi-
+cating authority for determining the question of default on the part of the
+corporate debtor has to go into the question related to the Acquisition
+Agreement and the submission of the appellant that adjudicating authori-
+ty has no jurisdiction and it exceeded the jurisdiction by making observa-
+tion that Acquisition Agreement is void cannot be accepted. We have no-
+ticed that Clauses of DTMD under which without procuring the prior giv-
+en consent of the debenture trustee, the corporate debtor could not have
+entered into the Agreement which conflicts provisions of the deed or the
+other transaction document. The present is the case where no prior writ-
+ten consent of the debenture trustee has been obtained or even pleaded.
+We have further noticed Scheduled II Clause 12.3 which prohibited the
+company to assign any of its rights, duties, or obligations. Acquisition
+Agreement is thus clearly not in conformity with the DTMD and thus is
+clearly void being in contravention of the DTMD. We thus sustain the
+
+[PAGE 46]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+46
+
+finding of the adjudicating authority that Acquisition Agreement is void,
+but for the reasons as indicated above.
+46.
+Learned counsel for the appellant to contend that adjudicating au-
+thority has exceeded its jurisdiction in delving issues or rendering finding
+that Acquisition Agreement is void relied on the judgment of the Hon’ble
+Supreme Court in ‘Embassy Properties Development (P) Ltd.’ Vs.
+‘State of Karnataka & Ors.’ (2020) 13 SCC 308, paragraph 30. In the
+above case, NCLT Chennai has passed an order directing the state of Kar-
+nataka to renew the mining lease of the corporate debtor and execute a
+supplemental lease deed, which was challenged before the High Court
+where an interim order was passed in the Writ Petition filed by the State
+of Karnataka, against which interim order, the matter was taken to the
+Hon’ble Supreme Court. In paragraph 30 of the judgment which is relied
+by the appellant, Hon’ble Supreme Court laid down following:
+“30. The NCLT is not even a civil court, which has jurisdiction by
+virtue of Section 9 of the Code of Civil Procedure to try all suits of a
+civil nature excepting suits, of which their cognizance is either
+expressly or impliedly barred. Therefore NCLT can exercise only
+such powers within the contours of jurisdiction as prescribed by
+the statute, the law in respect of which, it is called upon to
+administer. Hence, let us now see the jurisdiction and powers
+conferred upon NCLT.”
+47.
+There can be no quarrel to the proposition laid down by the Hon’ble
+Supreme Court in paragraph 9, adjudicating authority is not a civil court
+
+[PAGE 47]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+47
+
+nor can try all Suites of the civil nature. The jurisdiction and power of the
+NCLT has been dealt with by the Hon’ble Supreme Court in the above
+case where in paragraph 46, Hon’ble Supreme Court laid down following:
+“46. Therefore, in fine, our answer to the first question would
+be that NCLT did not have jurisdiction to entertain an
+application against the Government of Karnataka for a
+direction to execute supplemental lease deeds for the
+extension of the mining lease. Since NCLT chose to exercise a
+jurisdiction not vested in it in law, the High Court of
+Karnataka was justified in entertaining the writ petition, on
+the basis that NCLT was coram non judice.”
+48.
+The observations by the Hon’ble Supreme Court that NCLT have no
+jurisdiction were made in facts of the said case where Hon’ble Supreme
+Court had held that NCLT had no jurisdiction to entertain an application
+against the Government of Karnataka for direction to exclude the supple-
+mental lease deed for the extension of mining lease. The present is a case
+where Section 7 application was filed by financial creditor, claiming debt
+and default on the part of the corporate debtor. Corporate debtor in its
+defence have come up with Acquisition Agreement, pleading that by Ac-
+quisition Agreement obligation of the corporate debtor has been trans-
+ferred to the Rivaaz. The adjudicating authority was thus fully entitled to
+look into the Acquisition Agreement and considered the same in light of
+the principal document i.e., DTMD dated 15.10.2018.
+
+[PAGE 48]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+48
+
+49.
+Another judgment relied by counsel for the appellant is ‘Subodh
+Kumar Gupta’ Vs. ‘Shrikant Gupta & Ors.’ reported in (1993) 4 SCC 1
+reliance has been placed on paragraph 3, which is as follows:
+“3. ...If it is the case of the plaintiff that this document was
+obtained by fraud or misrepresentation by suppression of material
+facts or for any other like reason he must have the agreement set
+aside through court and unless he does that he cannot go behind
+the agreement, ignore it as a void document and proceed to sue for
+dissolution of the partnership and rendition of accounts. It is not a
+matter of the volition of the plaintiff to disregard the document as
+void and proceed to ignore it altogether without having it declared
+void by a competent court. It, therefore, appears clear to us that no
+part of the cause of action arose within the territorial jurisdiction of
+the Chandigarh Court.”
+50.
+In the above observation, Hon’ble Supreme Court held that if the
+case of the plaintiff is that document was obtained by fraud or misinter-
+pretation by suppression of material fact or for any other like nature
+Agreement was required to be set aside through court. The above obser-
+vation has no application in the present case since financial creditors are
+not claiming that Acquisition Agreement was obtained by fraud or misrep-
+resentation or by suppression of material facts. Appellant has contended
+that Acquisition Agreement is contrary to the DTMD, which question
+could have been very well be gone into by the adjudicating authority.
+51.
+Next judgment relied by the appellant is ‘S. Chand & Co.’ Vs. ‘M/s.
+Bharat Carpets Ltd.’ reported in 2011 SCC OnLine DEL 4984, reliance
+has been placed on paragraph 37, which is as follows:
+
+[PAGE 49]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+49
+
+“37. In any event, it is settled law that objectors cannot wish
+away a share purchase agreement/MoU/deed of arrangement
+by merely stating that they are void documents. They cannot
+rest content by alleging that the documents have no efficacy
+in law and must be ignored. If it is their case that these
+documents
+have
+been
+obtained
+by
+fraud
+or
+mis-
+representation by suppression of material facts or any other
+reason, they must have the agreements set aside through
+Court and unless they do that they cannot go behind the
+agreement and ignore them as void documents. [See : Subodh
+Kumar Gupta v. Shrikant Gupta, (1993) 4 SCC 1].”
+52.
+In the above paragraph, the Hon’ble Delhi High Court has reiterated
+the same principles which have been laid down by the Hon’ble Supreme
+Court in ‘Subodh Kumar Gupta’ (Supra). In the present case Acquisi-
+tion Agreement are questioned on the ground that it is contrary to the
+DTMD with regard to which document Acquisition Agreement have been
+entered.
+53.
+We thus are satisfied that adjudicating authority did not exceed its
+jurisdiction in entering into consideration of the Acquisition Agreement
+dated 29.08.2020. We, however, are of the view that Acquisition Agree-
+ment can be held to be void and contrary to DTMD as indicated above in
+this order.
+
+[PAGE 50]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+50
+
+54.
+We thus are of the view that submission of the appellant that adju-
+dicating authority travelled beyond its jurisdiction to enter into Acquisi-
+tion Agreement cannot be accepted.
+We answer Question No. (4) in following manner:
+I.
+Adjudicating authority has jurisdiction to look into the issues raised
+with regard to Acquisition Agreement and observations made by ad-
+judicating authority that Acquisition Agreement is void are sustain-
+able, for the reasons indicated above.
+Question No. (5)
+55.
+Adjudicating authority has noted that an application was filed by
+the appellant being I.A. No. 4417/2024, where the corporate debtor has
+objected to the bringing on record of Audited Financial Statements of the
+debenture holders. In paragraph 10 of the impugned order adjudicating
+authority has noticed the prayer made in the application, which is as fol-
+lows:
+“10. The issues arising for consideration in this IA are (i) whether
+the audited financial statements of the Debenture Holder produced
+by the Respondent are admissible’ (ii) whether certain schemes of
+the Debenture Holders had been liquidated as per order of the
+Hon’ble Supreme Court and the Respondent suppressed this fact
+from the Tribunal; (iii) whether pursuant to the liquidation the said
+trust/Debenture Trustee/Respondent stands extinguished in terms
+of provisions of the Indian Trust Act; and (iv) whether pursuant to
+the liquidation the Respondent/Financial Creditor has the
+
+[PAGE 51]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+51
+
+authority or locus standi from SBI Funds or FTMF to file the Main
+Application.”
+56.
+Replying on the judgment of the Hon’ble Supreme Court in ‘Dena
+Bank (Now Bank of Baroda)’ Vs. ‘C. Shivakumar Reddy & Anr.’ re-
+ported in (2021) 10 SCC 330, the adjudicating authority has rightly ob-
+served that additional document amended the pleading can be accepted
+and permitted by the Tribunal. With regard to balance sheets of deben-
+ture holders, adjudicating authority has held that corporate debtor has
+failed to show any grave prejudice or any unfair advantage was derived by
+the financial creditor due to non-production of the balance sheets of the
+debenture holders. It was held that balance sheets of the debenture hold-
+er which is a mutual fund being public documents are available on the
+website. Adjudicating Authority held that the balance sheets of the de-
+benture holders need to be accepted on the record. In paragraph 10.7 fol-
+lowing observations have been made by the adjudicating authority:
+“10.7 The Corporate Debtor has failed to show whether any grave
+prejudice was caused to it or whether any unfair advantage was
+derived by the Respondent/Financial Creditor due to non-
+production of the balance sheets of the Debenture Holders by the
+Debenture Trustee/Financial Creditor. It is also pertinent to note
+that the balance sheets of FTMF, being a mutual fund, are public
+documents available on their website. It is not the case of the
+Corporate Debtor that the balance sheets produced by the
+Respondent/Financial Creditor are different from the actual
+balance sheets. The Corporate Debtor’s vehement objection stems
+from the fact that the balance sheets of the Debenture Holders very
+clearly show that they have not treated RTVPL as the obligor of the
+NCDs issued by the Corporate Debtor and that the said NCDs
+continue to be reflected therein in the name of the Corporate
+Debtor (as the issuer as well as obligor). Notwithstanding the
+winding up of six schemes of FTMF, the liability of the Corporate
+
+[PAGE 52]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+52
+
+Debtor remains intact. The Corporate Debtor thus seems to be
+catching as straws in its attempt to escape the rigours of the Code.”
+57.
+As noted above, when the corporate debtor was relying on the con-
+duct and correspondence by the debenture holders for relying on the con-
+sent of the debenture holders to the Acquisition Agreement, opposition to
+the receiving of the financial statements of the debenture holders is unex-
+plainable. We thus are of the view that the adjudicating authority has
+rightly accepted the financial statements of the debenture holders and
+held that the objections raised by the corporate debtor were without any
+substance. In paragraph 10.15 following has been observed:
+“10.15 We head both the parties on the Main Application [C.P.
+(IB)/1260/2022] along with IA(IBC)18/2023 and IA(IBC)/29/2023,
+on 02.07.2024; 25.07.2024; 08.08.2024; and 29.08.2024; and also
+IA(IBC)/4417/2014, on 09.10.2024; and 21.10.2024. Considering
+the submissions of both the parties, the Applicant/Corporate
+Debtor
+was
+provided
+a
+fair
+opportunity
+hearing
+on
+IA(IBC)/4417/2014, challenging taking on record the Report on the
+Audit of the Financial Statements of FT for FY 2023-2024 (Report),
+produced by the Respondent/Financial Creditor. After hearing the
+Report is accepted on record having found that the same is
+essential in the adjudication of the Main Application. We hold that
+no prejudice would be caused to either of the parties, especially the
+Applicant/Corporate Debtor in taking on record the Report. The
+written submissions of the Applicant/Corporate Debtor and also
+the written submissions filed by the Respondent/Financial Creditor
+are duly considered by us. In the result, all four issues framed in
+para 10 above concerning admissibility of audited financial
+statements of the Debenture Holders, alleged suppression of facts
+relating to winding up of certain Schemes, extinguishment of the
+trust/Debenture Trustee pursuant to liquidation and lack of
+authority of the Respondent/Financial Creditor are found to be
+devoid
+of
+substance
+and
+are
+decided
+against
+the
+Applicant/Corporate Debtor. Accordingly, IA No.4417/2024 is
+disposed of.”
+
+[PAGE 53]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+53
+
+58.
+We fully concur with the view expressed by the adjudicating author-
+ity taking on record the report of the audit of the financial statements for
+Financial Year 2023-2024.
+Question No. (5) is answered accordingly.
+Question No. (6)
+59.
+Now coming to the order of the adjudicating authority dated
+09.04.2025, admitting Section 7 application, adjudicating authority has
+come to finding that there exist a financial debt within the meaning of
+Section 5(8) of the Code exceeding for the monetary default of ₹1 crore
+which is due and payable to the financial creditor. It was held that exist-
+ence of financial debt and occurrence of default has been established by
+the financial creditor. Adjudicating Authority having returned the afore-
+said finding, we do not find any error in the order of the adjudicating au-
+thority in admitting Section 7 application.
+60.
+The order of the adjudicating authority dated 09.04.2025 indicate
+that adjudicating authority has elaborately considered all submissions
+raised by the parties, and after due consideration of all aspect to the mat-
+ter has returned its finding and admitted Section 7 application. Order of
+the adjudicating authority dated 09.04.2025 is a well-considered order,
+which needs no interference by this Court in exercise of the Appellate Ju-
+risdiction.
+
+[PAGE 54]
+Company Appeal (AT) (Ins.) Nos.611 of 2025
+54
+
+61.
+We do not find any substance in any of the submission of the appel-
+lant. The appeal is dismissed.
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+NEW DELHI
+19th May, 2025
+
+Ashwani/Himanshu

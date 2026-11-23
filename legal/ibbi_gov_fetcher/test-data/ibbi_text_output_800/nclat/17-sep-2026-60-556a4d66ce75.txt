@@ -1,0 +1,934 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 325 of 2025
+
+(Arising out of the Impugned Order dated 18.12.2024 passed by
+the ‘Adjudicating Authority’ (National Company Law Tribunal,
+Mumbai Bench-I, in I.A. No. 479 of 2024)
+
+IN THE MATTER OF:
+
+1.
+Mr. Dinesh Keshawrao Atkare
+Having its address at:
+Muramba Village, Taluka Murtizapur,
+PO Kinkhed, District Akola – 444107
+
+...Appellant No.1
+
+2.
+Mr. Madan Keshawrao Atkare
+Having address at:
+Muramba Village, Taluka Murtizapur,
+PO Kinkhed, District Akola – 444107
+
+...Appellant No.2
+
+Versus
+
+Ms. Palak Swapnil Desai
+Erstwhile Resolution Professional of
+Santoshi Barrier Film India Pvt. Ltd.
+Flat No. 901, 9th Floor, Park Vistas,
+Opposite Lallubhai Park, Near MTNL,
+Andheri West, Mumbai – 400058
+
+...Respondent
+Present:
+
+For Appellant
+:
+Mr. Gaurav Mitra, Sr. Advocate with Mr. Dhruv
+Gupta and Ms. Lavanya, Advocates.
+
+For Respondent
+:
+Mr. Devul Dighr and Mr. Manish Jha, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)
+This Appeal is directed against the impugned order dated 18.12.2024
+passed by the National Company Law Tribunal, Mumbai Bench-I, in I.A. No.
+479 of 2024 (“Impugned Order”). The application was preferred invoking
+Section 66 of the Insolvency and Bankruptcy Code, 2016 (“Code”). By virtue
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 2 of 28
+
+of the Impugned Order, the Adjudicating Authority directed the Appellants to
+remit ₹17,23,05,603.50, upon recording a finding that the machinery
+hypothecated in favour of the Financial Creditors was not the machinery
+which was found at the premises of the Corporate Debtor.
+Submissions of the Appellant/ Suspended Directors
+2.
+The Appellant claims that those were allegations of irregularity and not
+fraudulent business as contemplated under Section 66 of the Code. It claims
+that even if the allegation of a machine swap is taken as true, this act, in and
+of itself, does not automatically constitute a "fraudulent business" under
+Section 66 of the Code. A single fraudulent transaction is not a pointer to the
+entire business being fraudulent. The Appellant relies on the judgment of this
+Appellate Tribunal in the case of Renuka Devi v. Regen Powertech, (2023
+SCC Online NCLAT 4726) wherein it was held that a single fraudulent act on
+a Corporate Debtor during business does not itself necessarily infer that the
+business was carried on with the intent to defraud creditors. Paragraph 30 of
+the said decision reads thus:
+“30.
+It must be borne in mind that whenever a "fraud" on a "corporate
+debtor" is committed, in the course of carrying "business", it does not
+necessarily mean that the "business" is being carried on with an intent to
+"defraud" the "creditors". In this connection, this "Tribunal" pertinently,
+points out that if the "directors" of a "company" had acted on a bona fide
+belief that the "company" will recover from its "financial set
+back"/"difficulties"/"problems", then, it will not be liable for the
+"Act"/"offence" of "fraudulent trading", in the considered opinion of this
+"Tribunal"."
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 3 of 28
+
+3.
+The finding of the Ld. Adjudicating Authority is based on a single
+disputed transaction, which is not sufficient to satisfy and meet the
+requirements of Section 66 of the Code as per the precedent set by the
+NCLAT. In the present case, the Ld. NCLT has failed to meet this high
+standard of proof and has not established a pattern of fraudulent
+business.
+
+4.
+The said proposition that the intent to defraud the creditors by
+carrying on business CD is a sine qua non for a finding that the Section
+66 of the Code is applicable as has been held by Hon'ble Supreme Court
+in the matter of Piramal Capital and Housing Finance Ltd Vs 63 Moons
+Technologies Ltd. dated 1st April 2025 [Civil Appeal Nos. 1632-1634
+of 2022], the relevant extract of which is held as under:-
+"55.
+So far as section 66 is concerned, the same falls under Chapter VI
+and it pertains to the "fraudulent trading or wrongful trading." Subsection
+1 of section 66 provides that if during the CIRP or a liquidation process, it
+is found that any business of the CD has been carried on with intent to
+defraud creditors of the CD or for any fraudulent purpose, the Adjudicating
+Authority may on the application of the resolution professional, pass an
+order that any persons who were knowingly parties to the carrying on of
+the business in such manner, shall be liable to make such contributions to
+the assets of the CD, as it may deem fit. From the bare reading of section
+66(1), it is very much discernible that the said provision pertains to the
+"fraudulent trading or wrongful trading" in respect of the business of the
+CD.
+
+56.
+Thus, there is a clear distinction between the avoidance
+applications that may be filed by the resolution professional in view of
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 4 of 28
+
+section 25(2)(j) for avoidance of transactions in accordance with Chapter
+III of the Code, and the applications that may be filed by the resolution
+professional in respect of the fraudulent trading or wrongful trading under
+section 66, which falls under Chapter VI of the Code. The Legislature has
+consciously kept the applications in respect of fraudulent trading or
+wrongful trading falling in Chapter VI, outside the purview of section 25(2),
+which requires the resolution professional to undertake the actions and file
+applications for the avoidance of transactions in accordance with Chapter
+III. Both, the avoidance applications under Chapter III and the applications
+in respect of fraudulent trading or wrongful trading under Chapter VI,
+operate in different situations. The powers of the Adjudicating Authority in
+respect of the avoidance applications filed under Chapter III and the
+powers of the Adjudicating Authority in respect of the applications
+pertaining to the fraudulent and wrongful trading filed under Chapter VI,
+have also been separately circumscribed."
+
+5.
+The Appellant also claims that the findings of the Ld. Adjudicating
+Authority, on the identity of the machinery are contradictory. The NCLT's
+order contains mutually contradictory findings regarding the identity of
+the machinery. While the order proceeds to hold that the Appellants was
+liable for the discrepancy, it simultaneously casts doubt on the ability of
+the parties to conclusively identify the machines (para 21 of the Impugned
+Order). This creates a fundamental flaw in the NCLT's reasoning. The
+NCLT's conclusion that the machinery at the premises is not what was
+hypothecated is directly contradicted by its own admission of the lack of a
+convincing case by the Resolution Professional (RP) on the identity of the
+machinery. Particularly when, the tribunal has acknowledged that it is not
+its prerogative to determine the identity of the machinery, but rather was
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 5 of 28
+
+observed to be a matter of investigation beyond its jurisdiction. It has also
+noted that the parties may approach the appropriate forum to resolve that
+dispute. This is clear from paragraph 22 of the impugned order, which
+states that it is not "this Tribunal's prerogative to determine whether the
+machine actually installed at the Corporate Debtor's premises was the C.I.
+Flexographic Machine or the Flexographic Press, as that would be a matter
+of investigation beyond the jurisdiction of this Tribunal and the parties may
+approach the appropriate forum to resolve that dispute". It is of pertinence
+to note that once the tribunal has come to a finding that it has no
+jurisdiction to decide the issue of identity of machineries, which is at the
+core of the controversy then the Tribunal cannot venture into adjudication
+of the Section 66 application at all and same should have been dismissed
+in limine for want of jurisdiction.
+
+6.
+The NCLT's finding is in direct conflict with the report of Ankit Goel,
+an IBBI empaneled expert, who was appointed by the Appellants to inspect
+the machinery. The Tribunal has failed to give due weight to this expert
+report by an IBBI empaneled chartered engineer, which directly refutes the
+vague and unsubstantiated claims of the RP's valuer.
+
+7.
+The Appellant also rebuts the valuation report, prepared by the
+Resolution Professional, and also claims estoppel against the Financial
+Creditors. The appellant claims that the entire action under Section 66 of
+the Insolvency and Bankruptcy Code, 2016, originated from an email
+dated 12.10.2023 by Pranav Ambaselkar, a valuer appointed by the RP.
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 6 of 28
+
+This email claimed that Rotogravure Printing machines were found instead
+of the C.I. Flexographic Press. This claim has been fully rebutted by the
+actions and conduct of the financial creditors themselves, which establish
+a clear case of estoppel and waiver.
+
+8.
+The Appellant claims that the identity of the machinery was duly
+established and verified on multiple occasions. A Court Receiver appointed
+by the Hon'ble Bombay High Court submitted a report verifying and
+confirming the presence of the machine, a Flexographic Press NSA-14.
+This report was signed by the financial creditor's representative.
+
+9.
+The Financial Creditors took possession of the machinery under
+Section 13(4) of the SARFAESI Act on 19.09.2020, without raising any
+objections regarding the machine's identity.
+
+10.
+The Appellant claims that the Financial Creditors' prior acceptance
+and verification of the machinery's identity, both through the Court
+Receiver's report and their own due diligence, create a clear case of
+estoppel. They cannot now, through the RP, question the identity of the
+very machine they previously verified and took possession of.
+
+11.
+The Appellant further contends that the entire email of 12.10.2023
+by Pranav Ambaselkar was rebutted by relying on the affidavit of Francis
+Fernandes, the purported supplier of the machine, who denied having
+supplied machinery or parts to the Corporate Debtor. The affidavit, on
+pages 452-456 of Annexure A17, directly contradicts the valuer's report,
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 7 of 28
+
+which was the very basis of the RP's case. This goes to the root of the case
+and establishes that the very genesis of the Section 66 action was incorrect
+and malafide.
+
+12.
+The Appellant further claims even on the assumption that the
+machinery was not what was originally intended, the NCLT's order to pay
+₹17,23,05,603.50 is legally and factually incorrect. The amount represents
+the equivalent price of the machines as per the application, which fails to
+account for several crucial factors.
+
+13.
+The NCLT's order for damages is based on an incorrect calculation,
+devoid
+of
+factoring
+in
+the
+depreciation
+of
+the
+hypothecated
+asset/machinery and without deducting the realisable/market value of the
+asset/machinery found at the premises. On demurrer, it is submitted that
+the correct approach should have considered the depreciated and
+realizable value of the assets. The appellant claims that the Hypothecated
+Price (₹17,23,05,603.50) should have been Depreciated Value of
+Hypothecated Machine less Realisable Value of Machines at Premises.
+
+14.
+Therefore, the impugned order does not consider the depreciated
+value of the machinery at the time of the Corporate Insolvency Resolution
+Process (CIRP). Equally, the NCLT also fails to deduct the realizable value
+of the machines that were actually found at the premises. The appellant
+claims that this ground alone, is fatal to the validity of the impugned order.
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 8 of 28
+
+15.
+The Appellant claims that the NCLT's order suffers from several legal
+and factual infirmities. The order is based on contradictory findings, ignores
+the principle of estoppel, miscalculates the potential damages, and incorrectly
+applies the provisions of Section 66 of the IBC. The Appellants submit that
+the impugned order should be set aside as it is based on a flawed
+interpretation of the facts and the law, and is contrary to established
+precedents on the applicability of Section 66.
+Submissions of Respondent No. 2/Liquidator
+
+16.
+The Respondent No. 2 submits that undisputedly, the Corporate Debtor
+had availed 2 (two) loans from Tata Capital Financial Services Limited for an
+amount of ₹ 8 Crores and Hero Fincorp Limited (now Phoenix ARC on account
+of assignment of loan) for an amount of ₹ 4 Crores for the purchase of 2 (two)
+C.I. Flexographic Press Machines, 6 colours Varieties along with its
+accessories.
+
+17.
+The Corporate Debtor purchased the C.I. Flexographic Press with 6
+Colour Variety along with accessories from Brick and Byte Innovative
+Products Private Limited vide Invoice No. 107 dated 23rd December 2016 for
+total amount ₹11,50,33,603.50/- by utilizing the proceeds of loan obtained
+from Tata Capital Financial Services Limited to the tune of ₹ 8,00,00,000/.
+The said invoice duly reflects the delivery note number and the vehicle
+number through which it was dispatched. (Invoice at Page No. 178 of the
+Appeal Memo).
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 9 of 28
+
+18.
+The Corporate Debtor further purchased second C.I. Flexographic Press
+with 6 Colour Variety from Nyles Sales Agencies Private Limited vide Tax
+Invoice No. NSA/16-17/1182 dated 14th March 2017 for a total amount of
+₹5,72,72,000/-by utilizing the proceeds of loan obtained from Hero Fincorp
+Limited (now Phoenix ARC) for an amount of ₹ 4,00,00,000/-. The said invoice
+also contains details of vehicles through which the said machine was
+dispatched to the factory premises of the Corporate Debtor, being D-51, MIDC
+Buti-Bori, Nagpur. (Invoices at Page No. 177 of the Appeal Memo).
+
+19.
+The Corporate Debtor secured the loan availed and amounts utilized for
+the purchase of machineries from the respective lenders by creating security
+interest in the form of hypothecation in favour of the said lenders i.e. Tata
+Capital Services Private Limited and Hero Fincorp Limited vide Hypothecation
+Agreements dated 21 October 2016 and 5th January 2017 (hereinafter
+referred to as "Hypothecation Agreements") and Appellant No. 1 itself has filed
+Form CHG-1 with MCA annexed at Page No. 179.
+
+20.
+The Appellants despite producing invoices and creating security
+interest over C.I Flexographic Press Machine 6 colour variant, the Appellants
+thereafter contended that it made a decision to procure, 8 colour variant of
+the Flexographic Printing Machine. The Appellants could not produce any
+invoices or evidences to discharge the burden of proof and show the Invoice
+and/or the documents of title under which Flexographic Press Machine 8.
+colour variant was purchased and as to why no prior consent of the secured
+lenders were obtained.
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 10 of 28
+
+21.
+The Respondent No. 2 states that what machines were actually found
+were neither C.L. Flexographic 6 or an 8 colour variant but was rather a
+Rotogravure Printing Machine which is substantially lower in value than a
+C.I. Flexographic Press Machine and therefore, evidently there has been fraud
+played upon by the Appellants upon the Corporate Debtor and its creditors
+particularly the secured creditors. (Valuer Mangesh Ketkar Report dated
+17.07.2023 Page No. 423 of Appeal Memo & Valuer Pranav Ambaselkar Report
+dated 13th September 2023 Page No. 433 of the Appeal Memo).
+
+22.
+The Respondent No. 2 states that in fact, the entire falsity of the case
+of the Appellants is exposed from the fact that, their entire case is based upon
+an overall insinuations and contentions made by them without any iota of
+corroborative or of documentary evidence on whether and how it has
+purchased an 8 colour variant of Flexographic Printing Machine instead of 6
+colour variant of C.I. Flexographic Press Machine without even informing
+secured lenders. The Respondent No. 2 further submits that neither the
+Appellants could produce the invoices for purchase of an 8 colour variant
+and/or cancellation of the invoices for purchase of the 6 colour variant
+(without prejudice to the proof of delivery of machines under the said Invoices)
+nor could the Appellants place any documents on record to support as to why
+and under what circumstances the make, model, manufacture type etc. of
+machine was removed or why there were inconsistencies in the labels of the
+machines than those mentioned in the invoice. The same is without prejudice
+to the fact that, neither of the said 2 (two) C.I. Flexographic Press Machines
+or even Flexographic Printing Machine as contended by the Appellant were
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 11 of 28
+
+found or available at the factory premises of the Corporate Debtor. (Valuers
+Email dated 12th October 2023-Page No. 193 of Appeal Memo & Valuer Pranav
+Ambaselkar Report dated 13th September 2023 Page No. 433 of the Appeal
+Memo)).
+
+23.
+The Respondent No. 2 submits that both the valuers appointed by the
+RP being Mangesh Khedkar and Pranav Ambaselkar registered with the Board
+and being Mechanical Engineers have categorically observed in their valuation
+report that both machines at site are Rotogravure Printing Machine. It is
+further submitted that the valuer Pranav Ambaselkar, Chartered Engineers
+in his valuation report dated 13th September 2023 has stated that there
+exists evidence wherein it appears that machinery had been installed but
+since it had been removed. Therefore, it is evident that in order to defraud the
+creditors, Rotogravure Printing Machines of substantially less value has been
+installed there at instead of C.1. Flexographic Press Machine, under the said
+modus operandi, in order to defraud the creditors by swindling away and
+taking out of the reach of the creditors, the said C.I. Flexographic Press
+Machines over which security interest was created in favour of the secured
+lenders having value of ₹17,23,05,603.50 (Rupees Seventeen Crores Twenty
+Three Lakhs Five Thousand Six Hundred Three and Fifty Paise only)
+respectively as against Rotogravure Printing machines having value of merely
+₹40,00,000/-only approximately. (Valuers Email dated 12th October 2023-
+Page No. 193 of Appeal Memo).
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 12 of 28
+
+24.
+The Respondent No. 2 therefore submits that the relevant experts on
+this subject have given an determinate and conclusive opinion and evidence
+on the nature of the machines, which demonstrate beyond any reasonable
+doubt that C.I. Flexographic Press Machines have been moved out or probably
+disposed of, to keep them out of the reach of the creditors/secured lenders in
+order to defraud them by replacing them with Rotogravure Printing Machines
+of substantially lower value or rather having a scrap value about 20 to 30
+lakhs as against the original price of ₹ 17,23,05,603.50/-.
+
+25.
+Further, the double standards in the case of the Appellants can be
+further better ascertained from the fact that the Appellants on one hand
+question the findings of 2 (two) "independent" "chartered engineers"/valuers
+having requisite qualifications as a "Mechanical Engineers" who were
+appointed by the Resolution Professional in terms of the provisions of the
+Insolvency Code and therefore, under statutory mandate, having requisite
+qualification and on the other hand seek quite hypocritically seek to establish
+their case that the machines in questions are Flexographic Printing Machines
+8 colour variant on the basis of independent valuer appointed by Appellants
+themselves without any statutory mandate or prior order/approval from the
+Hon'ble Adjudicating Authority having qualification of an "electrical engineer".
+(Valuer Ankit Goel Certificate of Comparison and Technical Superiority dated
+5th July 2024, appointed Suo Moto by the Appellant Page No. 405 to 409 of
+the Appeal Memo). The Appellants, on one hand questions the findings of such
+valuers appointed by the RP and the senior industrial expert stating that the
+senior industrial expert did not actually visit or inspect the machines in
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 13 of 28
+
+question and on other hand relies on and seeks to solely establish their case
+based on opinion of valuer Mr. Ankit Goel appointed suo moto by them who
+never actually inspected the said machines by himself but had rather merely
+sent a representative having no technical knowledge whatsoever and merely
+on the basis of photographs clicked by him, gave an opinion on certain
+comparative features of machines at site and not even a determinate opinion
+that machines are Flexographic Printing Machines 8 colour variants and yet,
+the Appellants quite astoundingly contend that they are in fact Flexographic
+Printing Machines 8 colour variants and from the aforesaid, it is evident that
+the case of Appellants is without substance and fall flat on its head.
+(Impugned Order dated 18.12.2024 Para 14 to 17 at Page No. 131 & 132 of
+the Appeal Memo).
+
+26.
+Respondent No. 2 submits that viewed from any angle or perspective,
+the fact that loans were obtained to purchase (two) machines of certain
+description C.L. Flexographic Press Machine 6 colour variant by the Corporate
+Debtor through the Appellants in charge and control of the Corporate Debtor
+and inability on the part of the Appellants being in control of the Corporate
+Debtor to handover the possession of the same or account for the same is a
+manifest fraud or even otherwise, if the Appellant had. procured loan against
+purchase of certain specified equipment and subsequently, did not purchase
+or account for the same, in any event, otherwise also, this is apparent fraud
+in itself committed by the Appellants. The Respondent No. 2 submits that
+once if fraud is perpetrated and a transaction intends defrauding the creditors
+has been quite intentionally committed by the Appellants in charge of the
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 14 of 28
+
+Corporate Debtor, the Appellants become liable to contribute the amount of
+money for which the fraud is perpetrated vide the said transactions
+defrauding creditors. The exact nature and the manner in which the fraud
+was perpetrated and hence transaction defrauding creditors was undertaken
+by the Appellants are of no consequence.
+
+27.
+The Respondent No. 2 further states that, it is glaring to note that the
+make, type, as well as the registration number mentioned upon the machine
+was not identifiable which appears to be a deliberate attempt to tamper to
+suppress the identification of machine from the RP/Liquidator and make
+identification of machine difficult to be identified and at the same time no
+explanation whatsoever, was provided as to why the machines on factory site
+which are of 2012 make and plate details are of Frans Engineering
+Corporation while the C.1. Flexographic Press Machines were purchased from
+Nyle Sales Agencies Private Limited and Brick & Bite Innovative Products
+Private Limited, which clearly demonstrates that the machines were replaced
+with Rotogravure Machines, otherwise, there is no occasion or reason as to
+why the make and manufacturer of the said machines can possibly change or
+the Appellants would simply, without any need or benefit or logic change the
+plate of the maker or manufacturer from the machine and insert name of
+another manufacturer, unless it was a part of a larger design or conspiracy to
+defraud creditors. (Valuers Pranav Ambaselkar Email dated 12.10.2023 Page
+No. 193 of the Appeal Memo) (Affidavit in Reply of Appellant before Bombay
+High Court Para 10 of Page No. 201 of Appeal Memo) (Email of RP dated 16th
+October 2023-Page No. 196 of the Appeal Memo).
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 15 of 28
+
+28.
+Even the Hon'ble High Court of Bombay in the order passed on 8th
+January 2020 passed in Commercial Arbitration Petition (L) No. 1603 of 2019
+in paragraph No. 9 has recorded the inconsistencies in the stand of the
+Appellant that despite the loan documents clearly mentioning the vendor and
+the year of manufacturing as of 2016, but there are even records now to
+indicate said machine at site was not of manufacturer in the year 2016 but
+2017 and some parts supplied by Brick & Byte Innovative Products relates to
+some printing machinery units without specifications and not to the machine
+itself while only one machine at the site was bearing endorsement of the
+manufacturing year as of 2017 which the Hon'ble High Court noted raises
+more questions than giving the answers. (Page No. 355 of Appeal Memo).
+
+29.
+The Respondent No. 2 submits that on CIRP being commenced on 18th
+April 2023, the Appellants were duly bound to handover C.I. Flexographic
+Press 6 Colour Variant or in any case Flexographic Printing Machine 8 Colour
+Variant as contended by Appellants themselves, but what machines were
+available on site after possession was taken over by the RP on 5th July 2023
+pursuant to order dated 8th June 2023 passed by Hon'ble NCLT, Mumbai
+Bench in I.A. (IBC) 2363 of 2023 directing station officer to expand assistance
+for the same on account of non-cooperation by the Appellant. The real
+substance of the case lies in the said fact as to machines available on site
+when RP took over control of registered office and possession of the site and
+what machines were at site in the year 2020 or 2021 is inconsequential.
+Therefore, evidently and beyond reasonable doubt, a transaction was done to
+keep assets out of reach of creditors and to benefit themselves from their own
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 16 of 28
+
+acts of fraudulent trading in such assets which squarely within the meaning
+of Section 66 of the Code.
+
+30.
+The Respondent No. 2 states that this Hon'ble Appellate Tribunal in the
+case of Gopal Kalra vs Akhilesh Kumar Gupta (Company Appeal (AT) (Ins)
+No. 567 of 2024) vide its very recent judgment dated 3rd July 2025 relying
+on the decision of the Hon'ble Supreme Court in the case of Anuj Jain, IRP
+for Jaypee Infratech Limited vs Axis Bank Limited & Ors. (Civil Appeal
+No. 8512-8527 of 2019) held that fraud under IBC is a matter of inference
+based on pattern and substance of transaction. Courts are not required to
+have direct proof of criminal intent, circumstantial evidence, when sufficiently
+compelling can justify a finding of fraudulent trading. The said case was also
+based on fraudulent trading based on fictious trading or transactions under
+which payments were made by the Corporate Debtor to third party sellers.
+The basis of such application was the forensic audit report backed by field
+investigation report that these entities were not having address as purported
+place of business as per the documents. The Hon'ble Adjudicating Authority
+have to consider the facts and proving finding where transactions were
+orchestrated or undertaken to cause financial loss to the Corporate Debtor
+and/or its creditors. A copy of the said Judgment is hereto annexed as
+Annexure "А".
+
+31.
+A copy of Joint Inspection Report dated 4th July 2024 which was
+undertaken vide order dated 9th May 2024 passed by the Ld. NCLT and which
+was also forming part of original pleading vide Additional Affidavit dated 10th
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 17 of 28
+
+August 2024 but not annexed is hereto annexed as Annexure "B". The said
+inspection report exposes the Appellants of its false hood that if two
+flexographic printing machines were purchased then why they were different
+in size and why does their own valuer Ankit Goel refer to second machine on
+site as 6 colour variant. Hence, it is prayed that present Appeal be dismissed
+with cost.
+Analysis and Findings
+32.
+We have considered the submissions of the parties and perused the
+material placed on record. The principal question for consideration is whether
+the Adjudicating Authority was justified in exercising jurisdiction under
+Section 66 of the Code and in directing the Appellants to make contribution
+to the assets of the Corporate Debtor on account of the removal and
+replacement of the machinery financed and hypothecated in favour of the
+Financial Creditors.
+
+33.
+At the outset, the documentary record establishes that the Corporate
+Debtor had obtained finance from the two Financial Creditors for purchase of
+two C.I. Flexographic Press Machines of six-colour variety. The relevant
+invoices record the purchase and dispatch of the machines to the factory
+premises. The machinery was also subjected to hypothecation in favour of the
+Financial Creditors. Thus, the existence of the financed and hypothecated
+machinery is not founded merely upon an oral assertion; it is supported by
+contemporaneous documentary material.
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 18 of 28
+
+34.
+The Appellants’ principal defence is that the machinery subsequently
+found at the premises was an alternative machine of better specifications and
+that the change had been orally discussed with the Financial Creditor. We
+find no contemporaneous documentary evidence on record establishing that
+the Financial Creditors have ever by virtue of any documents consented to
+substitution of the hypothecated machinery. Significantly, the material relied
+upon by the Liquidator indicates that the explanation concerning an
+alternative machine was advanced only subsequently. In the circumstances,
+the plea appears to be an afterthought and cannot displace the documentary
+evidence relating to the original financed machinery.
+
+35.
+The contention that the Financial Creditor (Hero Fin Corp. Ltd., HFCL)
+had earlier taken possession of the machinery under Section 13(4) of the
+SARFAESI Act and did not then raise an objection regarding its identity does
+not, by itself, create an estoppel against examination of the machinery during
+the insolvency process. The question before us is not whether an earlier
+possession exercise conclusively determines the identity of the machinery for
+all purposes, but whether the material available in the insolvency proceedings
+supports the finding that the assets financed and hypothecated to the
+creditors were subsequently removed and replaced to the detriment of the
+Corporate Debtor and its creditors.
+
+36.
+We are also unable to accept the submission that the reports relied
+upon by the Resolution Professional are so contradictory or inconclusive as
+to render the Section 66 proceedings unsustainable. The record contains the
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 19 of 28
+
+opinions of two independent valuers regarding the machinery found at the
+premises. It is worthwhile to note the reports of experts which was done in
+terms of Regulation 35 of the IBBI (CIRP) Regulations 2016, are quite
+revealing. The valuation report of Mangesh Kedkar indicates that the fair
+value and the liquidation value of the plant and machinery are about ₹ 96.9
+lakhs and ₹ 77.51 lakhs, respectively, and the installed machinery is a
+rotogravure printing-type machine. The second report of Mr. Pranav
+Ambaselkar indicates that the fair value is ₹ 79.04 lakhs and the liquidation
+value is ₹ 63.43 lakhs and the installed machinery is a rotogravure printing-
+type machine. The photographs attached with this report clearly indicate the
+label of Frans Engineering Corporation with its address noted therein, which
+is placed on record at page 443.
+
+37.
+On further inquiry the valuer had clarified that, specifically, the C.I
+flexographic machines for which invoices were shown to him were not present
+on site but there was the presence of a rotogravure printing machine. The
+valuer also notes that during their on-site assessment they observed the
+existence of machinery foundations that suggested that machines had
+previously been installed but had subsequently been removed. The valuer also
+brings to the notice of the liquidator that the most reliable way to validate the
+presence of particular machinery is by cross-checking the serial number,
+model number, or make of the on-site machine with the information outlined
+in the invoices or documents. However, in this particular case, they faced
+challenges verifying the serial number and model number due to either
+missing or mismatched nameplates.
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 20 of 28
+
+38.
+Thus we find that the reports, read with the physical indications at the
+factory premises and the absence of documentary material accounting for the
+alleged substituted machinery, provide material from which the Adjudicating
+Authority could draw an inference. The report produced by the Appellants’
+own expert does not, in our view, satisfactorily displace that evidence,
+particularly when the expert did not himself undertake a direct inspection of
+the machinery and the opinion was based upon photographs and comparative
+features.
+
+39.
+The fact that the Appellants dispute the identity or description of the
+machinery does not deprive the Adjudicating Authority of jurisdiction under
+Section 66.
+
+40.
+The observations in paragraph 22 of the Impugned Order have to be
+read in the context in which they were made. Relevant extract of the
+paragraph is as follows:
+“22.
+It is abundantly clear from this timeline that the machine originally
+purchased was the C.I. Flexographic Machine and that the machine
+currently at the premises of the Corporate Debtor is the Rotogravure
+Machine. It is not this Tribunal's prerogative to determine whether the
+machine actually installed at the Corporate Debtor's premises was the C.I.
+Flexographic Machine or the Flexographic Press, as that would be a matter
+of investigation beyond the jurisdiction of this Tribunal and the parties may
+approach the appropriate forum to resolve that dispute.”
+
+41.
+The Adjudicating Authority under law could not be called upon to
+conduct a technical investigation in the nature of a criminal trial; it was
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 21 of 28
+
+required to determine, on the basis of material before it, whether the business
+of the Corporate Debtor had been carried on in the manner contemplated by
+Section 66 of the Code. The finding of fraudulent conduct can be based upon
+the cumulative effect of documentary and circumstantial evidence. And if we
+peruse subsequent paragraphs of the impugned order, the things become
+clear and for that reason they are extracted as below:
+“23.
+The discrepancy in the documents and the invoices, the actual state
+and the identification of the machinery as Rotogravure Printing Machine
+and the unmistakable inconsistencies in the submissions of the
+Respondents, clearly demonstrate that the machines that the financial
+creditors financed, whether the C.I. Flexographic Machine or the
+Flexographic machine, are not the machines installed in the premises of
+the Corporate Debtor. Instead, the machines installed in the premises of
+the Corporate Debtor are Rotogravure Machines that are valued much less
+than the sanctioned machines. A high standard is always applied for the
+proof of a positive fact, while the standard of preponderance of probability
+is sufficient to prove a negative fact. In the present case, it is more
+probable than not that the Respondent Nos. 1 and 2 have changed the
+machinery in the Corporate Debtor's premises with machinery of much
+less value for their own unjust enrichment.
+
+24.
+In light of the above discussion, we find that the Respondent Nos.
+1 and 2 acted in bad faith and defrauded the creditors by availing a loan of
+Rs. 12 crores for the purchase of certain machinery and have instead
+installed completely different machinery, that is valued at a much lower
+price, in the premises of the Corporate Debtor.”
+
+42.
+The plea that Section 66 of the Code, cannot apply because the case
+concerns only one transaction is equally without merit. For better
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 22 of 28
+
+appreciation of the power relating to fraudulent or wrongful trading as per the
+Insolvency and Bankruptcy Code, the relevant provisions are extracted as
+below:
+“Section 66-Fraudulent or wrongful trading.
+(1) If during the corporate insolvency resolution process or a liquidation
+process, it is found that any business of the corporate debtor has been
+carried on with intent to defraud creditors of the corporate debtor or
+for any fraudulent purpose, the Adjudicating Authority may on the
+application of the resolution professional or the liquidator pass an
+order that any persons who were knowingly parties to the carrying on
+of the business in such manner shall be liable to make such
+contributions to the assets of the corporate debtor as it may deem fit.
+
+(2) On an application made by a resolution professional during the
+corporate insolvency resolution process, or by a liquidator the
+Adjudicating Authority may by an order direct that a director
+or partner of the corporate debtor, as the case may be, shall be liable
+to make such contribution to the assets of the corporate debtor as it
+may deem fit, if—
+
+(a) before the insolvency commencement date, such director or
+partner knew or ought to have known that the there was no
+reasonable prospect of avoiding the commencement of a
+corporate insolvency resolution process in respect of such
+corporate debtor; and
+
+(b) such director or partner did not exercise due diligence in
+minimising the potential loss to the creditors of the corporate
+debtor.
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 23 of 28
+
+(3) Notwithstanding anything contained in this section, no application shall
+be filed by a resolution professional under subsection (2), in respect of
+such default against which initiation of corporate insolvency resolution
+process is suspended as per section 10A.
+
+Explanation.—For the purposes of this section a director or partner of the
+corporate debtor, as the case may be, shall be deemed to have exercised
+due diligence if such diligence was reasonably expected of a person
+carrying out the same functions as are carried out by such director or
+partner, as the case may be, in relation to the corporate debtor.
+[Emphasis supplied]
+
+43.
+Section 66(1) of the Code, does not prescribe that fraudulent trading
+must necessarily be established through a series of independent transactions.
+What would be material is whether the business of the Corporate Debtor was
+carried on with intent to defraud creditors or for a fraudulent purpose. The
+removal of high-value secured machinery and its replacement by
+substantially lower-value machinery, if established on the evidence, is not a
+mere technical irregularity. It directly affects the asset base of the Corporate
+Debtor and the security and recovery prospects of its creditors. We find that
+the adjudicating authority is sufficiently empowered to delve into the issue of
+fraudulent or wrongful trading and the resolution professional has rightly
+moved the application. The Adjudicating Authority was well empowered to
+direct the suspended director of the Corporate Debtor to make such
+contribution to the assets of the Corporate Debtor as it deemed fit.
+
+44.
+Furthermore, we are conscious of the principle, relied upon by the
+Appellants, that a finding under Section 66 of the Code, requires the statutory
+ingredients to be established and that mere negligence or an isolated
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 24 of 28
+
+irregularity cannot automatically be characterized as fraudulent trading. The
+authorities cited by the Appellants therefore do not lay down that direct
+evidence of fraudulent intent is indispensable in every case. On the contrary,
+the nature of the enquiry permits the adjudicatory authority to draw a
+conclusion from the totality of the circumstances. Thus we find that the
+appellant's reliance on Renuka Devi (supra) is of no assistance to it.
+
+45.
+The decision in Piramal Capital and Housing Finance Ltd. (supra)
+also makes clear the distinct nature of proceedings under Section 66, different
+from avoidance application. The distinction noted in this judgment does not
+assist the Appellants where the material on record, taken cumulatively,
+establishes the requisite fraudulent purpose.
+
+46.
+In the present case, several circumstances operate cumulatively:
+
+(i)
+The original machinery was financed by the financial creditors
+and supported by invoices and dispatch particulars;
+
+(ii)
+The machinery was hypothecated in their favour;
+
+(iii)
+The suspended Board did not permit timely possession of the
+Corporate Debtor’s assets after commencement of CIRP;
+
+(iv)
+Possession was ultimately obtained only pursuant to the orders
+of the Adjudicating Authority and with police assistance;
+
+(v)
+The inspection material records indications that machinery had
+been removed from the premises;
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 25 of 28
+
+(vi)
+The machinery found at the site was identified by the
+independent
+valuers
+as
+substantially
+different
+and
+of
+considerably lower value;
+
+(vii)
+The alleged substituted machinery is not supported by the
+contemporaneous purchase documentation which one would
+ordinarily expect; and
+(viii) There is no satisfactory evidence of prior approval or consent of
+the secured creditors for substitution of the hypothecated assets.
+
+47.
+The cumulative effect of these circumstances is significant. The
+expensive machinery which constituted the subject matter of the financing
+and security interest was required to be available for the benefit of the
+Corporate Debtor and its creditors. Its disappearance, coupled with the
+presence of substantially lower-value machinery and the failure of the persons
+in control of the Corporate Debtor to satisfactorily account for the
+substitution, constitutes compelling circumstantial evidence of conduct
+intended to keep valuable assets beyond the reach of creditors. We therefore
+find no perversity or illegality in the conclusion of the Adjudicating Authority
+that the original machinery had been removed.
+
+48.
+The Appellants have also questioned the quantum of ₹17,23,05,603.50.
+Once the finding of fraudulent removal of the secured machinery is upheld,
+the direction under Section 66 is intended to restore the assets of the
+Corporate Debtor to the extent determined by the Adjudicating Authority. The
+Appellants have not demonstrated before us that the quantum directed by the
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 26 of 28
+
+Adjudicating Authority is so arbitrary or unsupported by the record as to
+warrant appellate interference. The plea regarding depreciation and realizable
+value, in the circumstances of the present case, does not dislodge the
+substantive finding that the financed and hypothecated machinery was
+removed and that the Corporate Debtor’s asset position was thereby depleted.
+
+49.
+We also reject the submission that the Resolution Professional or
+Liquidator was required to conduct a forensic investigation of every aspect of
+the alleged removal before an application under Section 66 could be
+maintained. The insolvency process cannot be rendered ineffective merely
+because the precise manner in which an asset was removed cannot be
+reconstructed with mathematical certainty. The adjudicatory determination
+is based upon the evidence available on record and the cumulative inferences
+arising therefrom.
+
+50.
+The conduct of the suspended Board in resisting or delaying the taking
+over of possession assumes relevance in the present factual matrix. The CIRP
+commenced on 18.04.2023, whereas possession of the assets was ultimately
+taken on 05.07.2023 pursuant to the orders of the Adjudicating Authority.
+The intervening period, when the persons in control did not permit the
+Resolution Professional to take possession, is a circumstance which, when
+considered with the inspection and valuation material, strengthens rather
+than weakens the inference drawn by the Adjudicating Authority.
+
+51.
+For the foregoing reasons, we are satisfied that the Adjudicating
+Authority correctly exercised its jurisdiction under Section 66 of the Code.
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 27 of 28
+
+The finding is not based upon a bare allegation or an isolated discrepancy,
+but upon the cumulative effect of documentary evidence, inspection reports,
+valuation reports, the absence of satisfactory contemporaneous explanation
+and the conduct of the suspended Board. The Appellants have failed to
+demonstrate any error of law, perversity or material irregularity warranting
+interference under Section 61 of the Code.
+Conclusion
+52.
+In view of the foregoing discussion, we find no merit in the Appeal. The
+Impugned Order dated 18.12.2024 passed by the Ld. National Company Law
+Tribunal, Mumbai Bench-I, in I.A. No. 479 of 2024 is hereby affirmed. The
+direction requiring the Appellants to remit/contribute ₹ 17,23,05,603.50 to
+the assets of the Corporate Debtor is upheld. The Liquidator is permitted to
+continue with the liquidation process and to take all consequential steps in
+accordance with the Code and the orders of the Adjudicating Authority.
+
+53.
+We further note that the Appellant/Suspended Board of Directors have
+filed a frivolous appeal and has wasted the precious time of this Appellate
+Tribunal. Accordingly, we are constrained to impose sufficient cost to deter
+such litigants from wasting the precious time of this Appellate Tribunal.
+Order
+54.
+The Appeal is dismissed. The order dated 18.12.2024 passed by the
+National Company Law Tribunal, Mumbai Bench-I, in I.A. No. 479 of 2024 is
+confirmed. The direction issued under Section 66 of the Insolvency and
+Bankruptcy Code, 2016, including the direction for contribution of
+₹17,23,05,603.50, is upheld. The Liquidator is permitted to continue with the
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 325 of 2025 28 of 28
+
+liquidation proceedings in accordance with law and to take all consequential
+and necessary steps for preservation and realization of the assets of the
+Corporate Debtor. We dismiss the Appeal. All related pending Interlocutory
+Applications, if any, stand disposed of. In the facts and circumstances of the
+case, both the Appellants shall bear costs of ₹ 5,00,000/- each, to be
+deposited in the Prime Minister’s National Relief Fund.
+
+[Justice Sharad Kumar Sharma]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+New Delhi.
+September 17, 2026.
+
+pawan

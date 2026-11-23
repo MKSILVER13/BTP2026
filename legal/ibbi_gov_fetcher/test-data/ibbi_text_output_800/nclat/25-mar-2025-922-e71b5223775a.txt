@@ -1,0 +1,646 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+[Arising out of the Impugned Order dated 16.05.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Guwahati
+Bench in C.P.(IB) No. 02/GB/2024]
+In the matter of:
+IL&FS Financial Services Limited
+Through its Senior Manager &
+Authorised Signatory
+Mr. Keshav Das
+Address:
+IL&FS Financial Centre 8th Floor
+Plot C-22 'G' Block, Bandra Kurla Complex
+Bandra (East) Mumbai 400051
+India
+
+Also at:
+1st Floor, Plot no. 815
+Udyog Vihar Phase – V
+Gurugram - 122016
+India
+
+...Appellant
+
+Versus
+
+Adhunik Meghalaya Steels Private Limited
+Through its Authorized Signatory
+Address:
+Plot No. 19 23E P I P Zone Byrnihat
+Jaintia Hills, Meghalya 793101
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Krishnendu Dutta, Sr. Advocate with Ms. Niharika
+Sharma and Ms. Kiran Sharma, Advocates.
+
+For Respondent
+: Mr. Ramji Srinivasan, Sr. Advocate with Mr. Swarnendu
+Chatterjee (AOR), Mr. Nilay Sengupta, Mr. D.N. Sharma, Mr.
+Sujit Banerjee, Ms. Deepakshi Garg and Ms. Harshita Rawat,
+Advocates.
+
+[PAGE 2]
+Page 2 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy Code
+2016 (‘IBC’ in short) by the Appellant arises out of the Order dated 16.05.2024
+(hereinafter referred to as ‘Impugned Order’) passed by the Adjudicating Authority
+(National Company Law Tribunal, Guwahati Bench) in C.P.(IB) No.02/GB/2024. By
+the impugned order, the Adjudicating Authority has dismissed Section 7 application
+filed by the Financial Creditor-Appellant on the grounds of being time-barred.
+Aggrieved by the impugned order, the present appeal has been preferred by the
+Appellant- IL&FS Financial Services Limited.
+2.
+Coming to the brief factual matrix, we notice that a Loan Agreement had been
+executed between the IL&FS Financial Services Ltd.-Financial Creditor and the
+Adhunik Meghalaya Steels Pvt. Ltd.-Corporate Debtor on 27.02.2015 for a loan of
+Rs 30 Cr. against which an amount of Rs 24.44 Cr. was disbursed on 17.03.2015.
+This loan was also secured by way of pledge of 8,10,804 shares of Adhunik Metals
+Ltd. (“Adhunik” in short) in favour of the Financial Creditor. This pledge of share
+was reflected both in the Charge Form and in the Pledge Agreement. Since the
+Corporate Debtor failed to repay the outstanding debt in terms of the loan facility
+documents, the Financial Creditor declared the account of the Corporate Debtor as
+NPA on 01.03.2018. Subsequently, on 10.07.2018, the Financial Creditor issued a
+notice of default to the Corporate Debtor and followed it up with a Recall Notice on
+10.08.2018. Since the Corporate Debtor did not make good the debt liability, the
+
+[PAGE 3]
+Page 3 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+Financial Creditor filed a Section 7 application on 15.01.2024 for a claim amount
+of Rs 55.45 Cr. The Section 7 application was rejected by the Adjudicating Authority
+on the grounds of being time-barred and assailing the impugned order, the
+Appellant-Financial Creditor has come up in appeal.
+3.
+We have heard Shri Krishnendu Dutta, Ld. Senior Advocate for Appellant and
+Shri Ramji Srinivasan, Ld. Senior Advocate representing Respondent.
+4.
+Making his submissions, Shri Krishnendu Dutta, the Ld. Sr. Counsel for the
+Appellant-Financial Creditor submitted that the Adjudicating Authority has
+erroneously held that the Section 7 application had been filed beyond the
+permissible period of limitation of three years. It is submitted that though the
+Account of the Corporate Debtor had been declared NPA on 01.03.2018, however,
+as the Corporate Debtor continued to acknowledge their debt liability in their
+Balance sheets even after the date of default, the period of limitation continued to
+be extended in terms of Section 18 of the Limitation Act. It was added that the
+Balance sheet of the Corporate Debtor for FY 2019-20 clearly recorded an amount
+of Rs 24.41 Cr. under “secured borrowings” which was a clear acknowledgement of
+liability. Reliance was placed on the judgement of the Hon’ble Supreme Court in
+Vidya Sagar Vs UCO Bank 2024 SCC OnLine SC 2993 wherein it held that an
+acknowledgment of debt in a balance sheet constitutes an acknowledgement of
+liability even if it does not specify the exact nature of the liability or a name of
+particular creditor. Further attention was adverted to the ratio contained in L.C.
+Mills v. Aluminium Corpn. of India Ltd. (1971) 1 SCC 67 wherein it held that
+the statement on which the plea of acknowledgment is founded must relate to a
+
+[PAGE 4]
+Page 4 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+subsisting liability and indicate the existence of jural relationship between the
+parties though the statement need not indicate the exact nature or the specific
+character of the liability.
+5.
+Submission was further pressed that the Adjudicating Authority wrongly
+calculated the extension of limitation from the date of signing of the Balance sheet
+by the Corporate Debtor i.e. from 12.08.2020 instead of calculating it from the date
+it was uploaded on the MCA website i.e. on 14.02.2021. It was asserted that the
+filing of Balance sheet with RoC serves as the formal acknowledgment of debt by
+the debtor. Since there was deliberate failure on the part of the Corporate Debtor
+to file the Balance sheets with RoC in a timely manner, they cannot be allowed to
+seek benefit on account of their own act of omission in arguing that the limitation
+period should commence from the date of signing the Balance sheet and not from
+the date of filing of Balance sheet. The impugned order passed by the Adjudicating
+Authority was further assailed on the ground that the Adjudicating Authority had
+erroneously interpreted the order of the Hon’ble Supreme Court delivered in Suo
+Moto Writ Petition(C) No. 03 of 2020 (hereinafter referred to as the “suo moto
+orders”). The Adjudicating Authority had wrongly applied paragraph 5.III of the suo
+moto orders of the Hon’ble Supreme Court in computing the limitation period. In
+the instant case, the applicable paragraph is paragraph 5.I of the suo moto orders
+which paragraph specifically provides that the entire period between 15.03.2020
+and 28.02.2022 is to be excluded in calculating the limitation period and by
+applying this yardstick the filing of the Section 7 petition on 15.01.2024 fell
+
+[PAGE 5]
+Page 5 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+squarely within the limitation period. In support of their contention, reliance was
+placed on the judgment of the Hon’ble Supreme Court in Arif Azim Co. Ltd. V.
+Aptech Ltd. (2024) 5 SCC 313 and Prakash Corporates v. Dee Vee Projects
+Limited (2022) 5 SCC 112.
+6.
+Refuting the contentions of the Appellant, Shri Ramji Srinivasan, Ld. Sr.
+Counsel for the Respondent submitted that the date of default in the present case
+is 01.03.2018 and computing the limitation period from this date of default, the
+three years period for filing the Section 7 application ended on 28.02.2021. Since
+28.02.2021 fell within the Covid period, this period was covered by the suo moto
+orders of the Hon’ble Supreme Court. Hence the benefit of Para III of the suo moto
+order would become available and applying para 5.III of the suo moto order, the
+limitation period would be extended by 90 days until 30.05.2022. However, the
+present petition was filed on 15.01.2024, which was much after the 90 days period
+allowed under para 5.III. Hence, the Section 7 application was clearly hit by
+limitation and therefore been correctly dismissed by the Adjudicating Authority as
+time-barred.
+7.
+It was further contended that even if for arguments sake, the contention of
+the Appellant is accepted that the acknowledgement of the liability in the balance
+sheet of the Corporate Debtor of FY 2019-20 extended the period of limitation, even
+in such an event, since the said balance sheet was signed on 12.08.2020, the three
+years limitation period would have commenced from 12.08.2020 and the exclusion
+period under suo moto orders does not come to the rescue of the Appellant. As the
+
+[PAGE 6]
+Page 6 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+Section 7 petition was filed on 15.01.2024, it was clearly hit by limitation. On the
+stand taken by the Appellant that the trigger point for limitation is to commence
+not from the date when the Balance sheet was signed but from the date it was
+uploaded on the MCA Portal and registered with the RoC, it was vehemently
+opposed by the Respondent as fallacious and bereft of legal basis. In support of
+their contention, the Respondent has relied on the judgment of the Hon’ble
+Supreme Court in Asset Reconstruction Company (India) Ltd. Vs Tulip Star
+Hotels Ltd. & Ors in Civil Appeal Nos. 84-85 of 2020 wherein the Hon’ble
+Supreme Court held that the Section 7 application filed in that case on 03.04.2018
+was within the limitation as it was filed within three years of signing of balance
+sheet. The Hon’ble Supreme Court took into reckoning the date of signing of balance
+sheet and not date of filing of balance sheet with MCA. It has been further
+contended that mere entries in Balance sheet cannot be taken as unequivocal and
+unqualified acknowledgment of debt particularly so when the name of Financial
+Creditor is not found to be specifically mentioned in the Balance sheet of FY 2019-
+20. The admission in a Balance sheet has to be qua the particular creditor for
+Balance sheet acknowledgement. It has been vehemently contended that the
+Appellant-Financial Creditor has failed to establish any jural relationship between
+the Financial Creditor and Corporate Debtor and the Bishal Jaiswal judgment
+clearly states that the Adjudicating Authority cannot get into investigations to find
+out the borrower in respect of whom the credit amount stands reflected in the
+Balance sheet of the Corporate Debtor.
+
+[PAGE 7]
+Page 7 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+8.
+We have duly considered the arguments advanced by the Learned Counsel
+for both the parties and perused the records carefully.
+9.
+Considering the facts and circumstances in the present case, the narrow
+compass for our consideration is to decide whether the Section 7 application filed
+by the Appellant-Financial Creditor was time-barred or otherwise.
+10.
+Before we proceed to analyse the facts of the present case, it may be useful
+to draw our attention to the suo moto orders of the Hon’ble Supreme Court on
+which reliance has been placed by both the rival parties. In the judgement of
+Hon’ble Supreme Court in Re: Cognizance for Extension of Limitation in Suo
+Motu Writ Petition (C) No. 3 of 2020 it has been held:
+“5. Taking into consideration the arguments advanced by learned counsel
+and the impact of the surge of the virus on public health and adversities
+faced by litigants in the prevailing conditions, we deem it appropriate to
+dispose of the M.A. No. 21 of 2022 with the following directions:
+I. The order dated 23.03.2020 is restored and in continuation of the
+subsequent orders dated 08.03.2021, 27.04.2021 and 23.09.2021, it is
+directed that the period from 15.03.2020 till 28.02.2022 shall stand
+excluded for the purposes of limitation as may be prescribed under any
+general or special laws in respect of all judicial or quasi-judicial proceedings.
+II. Consequently, the balance period of limitation remaining as on
+03.10.2021, if any, shall become available with effect from 01.03.2022.
+III. In cases where the limitation would have expired during the period
+between 15.03.2020 till 28.02.2022, notwithstanding the actual balance
+period of limitation remaining, all persons shall have a limitation period of
+90 days from 01.03.2022. In the event the actual balance period of limitation
+remaining, with effect from 01.03.2022 is greater than 90 days, that longer
+period shall apply.”
+
+[PAGE 8]
+Page 8 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+11.
+It is the case of the Appellant-Financial Creditor that though the account of
+the Corporate Debtor had been declared NPA on 01.03.2018 and the date of default
+of 01.03.2018 on the part of the Corporate Debtor as 01.03.2018 is officially
+recorded with the Information Utility as also uploaded on NeSL, however, as the
+Corporate Debtor continued to acknowledge their debt liability in their Balance
+sheets even after the date of default, the period of limitation continued to be
+extended in terms of Section 18 of the Limitation Act. Elaborating this standpoint,
+it was pointed out that the Balance sheet of the Corporate Debtor for the FY 2016-
+17 acknowledged the loan from the Financial Creditor amounting to Rs 24.57 Cr.
+secured by the pledge of 8,10,804 shares of Adhunik. The Balance sheet for FY
+2017-18 similarly recorded the pledge of same number of shares besides reflecting
+an amount of Rs 23.68 Cr. under the heading of “secured borrowings”. Though the
+Balance sheet for FY 2018-19 had not been filed by the Corporate Debtor with the
+Registrar of Companies (“RoC” in short), it was added that the Balance sheet for
+the subsequent FY 2019-20 recorded an amount of Rs 24.41 Cr. under “secured
+borrowings”. Since the financial statements of the Corporate Debtor consistently
+acknowledged the debt owed to the Financial Creditor, the period of limitation got
+extended each time. These acknowledgements in the financial statements of the
+Corporate Debtor constituted sufficient basis for extending the period of limitation.
+Taking into account the extension of the limitation period which was triggered upon
+by the successive acknowledgement of the debt by the Corporate Debtor in their
+
+[PAGE 9]
+Page 9 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+Balance sheets, the filing of Section 7 application fell very much within the extended
+period of limitation.
+12.
+It is also the case of the Appellant that the Adjudicating Authority had
+erroneously interpreted the suo moto orders of the Hon’ble Supreme Court and
+wrongly applied paragraph 5.III of the suo moto orders while computing the
+limitation period in the instant case. It was submitted that paragraph 5.III of the
+suo moto orders is applicable only in those cases where the original limitation period
+would have expired between 15.03.2020 and 28.02.2022. In the present case, since
+the Balance sheet of FY 2019-20 of the Corporate Debtor was filed on 14.02.2021,
+paragraph 5.III of the suo moto order is inapplicable. Instead, the applicable
+paragraph in the present situation is paragraph 5.I of the suo moto orders which
+paragraph specifically provides that the entire period between 15.03.2020 and
+28.02.2022 is to be excluded in calculating the limitation period since the original
+balance limitation period was more than 90 days available with the Financial
+Creditor. Wherever a longer period is available, then such longer period would
+apply. Computed accordingly, the filing of the Section 7 petition on 15.01.2024 fell
+squarely within the limitation period.
+13.
+Per contra it is the case of the Respondent submitted that the date of default
+in the present case is 01.03.2018 and computing the limitation period from this
+date of default, the three years period for filing the Section 7 application ended on
+28.02.2021. Since 28.02.2021 fell within the Covid period, this period was covered
+by the suo moto orders of the Hon’ble Supreme Court. Hence only the benefit of
+Para III of the suo moto order would become available and applying para 5.III of the
+
+[PAGE 10]
+Page 10 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+suo moto order, the limitation period would be extended by 90 days until
+30.05.2022. However, the present petition was filed on 15.01.2024, which was
+much after the 90 days period allowed under para 5.III. Hence, the Section 7
+application was clearly hit by limitation and therefore been correctly dismissed by
+the Adjudicating Authority as time-barred. It was contended that the reliance
+placed by the Appellant on the ratio of the Vidyasagar Prasad judgment supra is
+misconceived since the facts in that case were distinguishable since in that case
+there was an OTS proposal given by the Appellant which was considered to be an
+acknowledgement. In the present case, the Corporate Debtor had not only denied
+the debt but the entries of debt in the Balance sheet also did not specify the lender
+and therefore no jural relationship of debtor and creditor can be established. It was
+reiterated that mere entry in the Balance sheet cannot be construed to be
+acknowledgement of debt if it fails to mention the name of the Financial Creditor
+specifically. It has also been contended that the charge form filed by the Corporate
+Debtor was dated 27.02.2015 and since more than 10 years have elapsed this
+charge form cannot be relied upon either.
+14.
+Having noted the rival submissions of both the parties, we would like to
+confine ourselves to find out whether the Balance sheets of the Corporate Debtor
+from 2016-17 onwards constitute sufficient ground for allowing extension of the
+period of limitation and the applicability of the suo moto orders of the Hon’ble
+Supreme Court.
+
+[PAGE 11]
+Page 11 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+15.
+When we look at the material placed on record, we notice that the name of
+the Financial Creditor appears under the heading of “Secured borrowings” in the
+balance sheet of F.Y. 2016-17 as may be seen at page 370-371 of Appeal Paper
+Book (“APB” in short). This entry of “Secured borrowings” continues in subsequent
+balance sheets as well up to F.Y. 2019-20 as at page 558 of APB. We also notice
+that the F.Y. 2019-20 balance sheet was approved by the Board of Directors and
+signed by the authorised signatory on 12.08.2020 and uploaded on the portal of
+MCA on 14.02.2021. It is however also pertinent to note that the Corporate Debtor
+has contended that unlike in the Balance sheet of FY 2016-17, the name of the
+Financial Creditor does not appear in the Balance sheet of FY 2019-20. Be that as
+it may at this stage, we do not wish to enter into the issue as to whether the entries
+in the Balance sheet of FY 2019-20 clearly established a jural relationship between
+the Appellant and Respondent as Financial Creditor and Corporate Debtor.
+16.
+It is well settled that if a corporate debtor acknowledges its debt in writing
+before the expiration of the three-year period, the limitation period would be
+extended by another three years. This is in conformity with Section 18 of the
+Limitation Act, which allows for the revival of the limitation period based on the
+acknowledgment of debt. The question of acknowledgement of liability made in a
+Balance sheet as acknowledgement of debt has been considered by the Hon’ble
+Supreme Court in Tulip Star supra wherein it has been held that balance sheet
+entry can be regarded as an acknowledgment of liability for the purpose of
+limitation law. The relevant excerpts from the above judgment is as extracted below:
+
+[PAGE 12]
+Page 12 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+“83. As per Section 18 of Limitation Act, an acknowledgement of present
+subsisting liability, made in writing in respect of any right claimed by the
+opposite party and signed by the party against whom the right is claimed, has
+the effect of commencing a fresh period of limitation from the date on which the
+acknowledgement is signed. Such acknowledgment need not be accompanied
+by a promise to pay expressly or even by implication. However, the
+acknowledgment must be made before the relevant period of limitation has
+expired.”
+85. It is well settled that entries in books of accounts and/or balance sheets of
+a Corporate Debtor would amount to an acknowledgment under Section 18 of
+the Limitation Act. In Bishal Jaiswal (supra) authored by Nariman, J. this Court
+quoted with approval the judgments, inter alia, of Calcutta High Court in Bengal
+Silk Mills Co. v. Ismail Golam Hossain Ariff, and Pandem Tea Co. Ltd.,
+the judgment of the Delhi High Court in South Asia Industries (P) Ltd. v.
+General Krishna Shamsher Jung Bahadur Rana and the judgment of
+Karnataka High Court in Hegde Golay Ltd. v. State Bank of India and held
+that an acknowledgement of liability that is made in a balance sheet can amount
+to an acknowledgement of debt.”
+
+17.
+Coming to our analysis, even if the argument of the Appellant is accepted
+that the acknowledgement of the liability in the balance sheet of the Corporate
+Debtor of FY 2017-18 extended the period of limitation, even in such an event, since
+the balance sheet was signed on 02.09.2018, the three years period would have
+ended on 01.09.2021. Since the date 01.09.2021 fell within the excluded period as
+provided under the suo moto orders, this would clearly have attracted para 5.III of
+the suo moto orders and the last date for filing for Section 7 petition would still have
+been a date on or before expiry of 90 days from 01.03.2022. Thus, the limitation
+period would have extended until 30.05.2022 and therefore the Section 7
+application filed on 05.01.2024 would have been hit by limitation.
+
+[PAGE 13]
+Page 13 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+18.
+If we now take the argument canvassed by the Appellant that there is
+acknowledgement of debt in the balance sheet for FY 2019-20, we notice that the
+said balance sheet of FY 2019-20 was signed on 12.08.2020, Even in this case,
+para 5.III of the suo moto orders would have been attracted and the last date for
+filing of Section 7 petition would have continued until expiry of 90 days from
+01.03.2022. Since the Section 7 petition was filed on 15.01.2024, it, therefore,
+stood clearly time-barred. The Adjudicating Authority has correctly held that the
+exclusion period under suo moto orders does not come to the rescue of the Appellant
+even in this case.
+19.
+This bring us to the next limb of the argument of the Appellant that the
+acknowledgement of liability in the Balance sheet for the FY 2019-20 is not to be
+computed from the date of signing of the Balance sheet but from the date on which
+the Balance sheet was filed with the RoC. Since the Balance sheet of FY 2019-20
+was uploaded in the MCA website on 14.02.2021, the balance sheet could come to
+notice of the Appellant only on that date and hence this should be the effective date
+for computing limitation. Therefore, the period of limitation should commence from
+the date of filing of the Balance sheet before the MCA/RoC and not from the date
+of signing of the Balance sheet. Computing limitation period from 14.02.2021, the
+filing of Section 7 application on 15.01.2024 fell very much within the limitation
+period. It was also asserted that the Corporate Debtor had failed to file the Balance
+sheets on time with RoC in violation of the statutory obligations under Companies
+Act, 2013. Since the Balance sheet of FY 2019-20 was filed with the MCA only on
+
+[PAGE 14]
+Page 14 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+14.02.2021, the Balance sheet came to the knowledge of the Appellant on that date
+and hence the limitation is to be counted from 14.02.2021. It is the case of the
+Appellant that no party can be allowed to take undue advantage of their own wrong.
+The Adjudicating Authority completely missed out on this aspect that the
+Respondent was trying to take advantage of their own wrong by not filing the
+Balance sheet on time. Allowing this would enable the Corporate Debtor to evade
+their repayment obligations under the loan facility. It has been contended that the
+Balance sheet of FY 2019-20 was filed on 14.02.2021 and hence the filing of the
+Section 7 petition on 15.01.2024 was well within the limitation period of three
+years.
+20.
+Per contra, the Respondent has contended that the stand taken by the
+Appellant that the trigger point for limitation is to commence from the date when
+the Balance sheet was uploaded on the MCA Portal and registered with the RoC
+and not from date of signing of the Balance sheet is fallacious. It was vehemently
+contended by the Respondent that the contention of the Appellant that the date of
+uploading on the MCA portal is the relevant date indicating acknowledgement for
+limitation purposes lacks legal basis.
+21.
+This brings before us the moot question as to whether acknowledgment in
+Balance sheet for the purpose of limitation has to be counted from the date of
+signing of the Balance sheet or from the date of its uploading with the RoC on the
+MCA portal.
+
+[PAGE 15]
+Page 15 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+22.
+To arrive at our finding, at this stage, we may in the first instance, notice the
+provision contained in Section 18 of the Limitation Act,1963 which reads as under:
+-
+“18. Effect of acknowledgment in writing.—(1) Where, before the expiration of
+the prescribed period for a suit or application in respect of any property or
+right, an acknowledgment of liability in respect of such property or right has
+been made in writing signed by the party against whom such property or right
+is claimed, or by any person through whom he derives his title or liability, a
+fresh period of limitation shall be computed from the time when the
+acknowledgment was so signed.
+(2) Where the writing containing the acknowledgment is undated, oral
+evidence may be given of the time when it was signed; but subject to the
+provisions of the Indian Evidence Act, 1872 (1 of 1872), oral evidence of its
+contents shall not be received.
+Explanation. —For the purposes of this section, —
+(a) an acknowledgment may be sufficient though it omits to specify the exact
+nature of the property or right, or avers that the time for payment, delivery,
+performance or enjoyment has not yet come or is accompanied by a refusal to
+pay, deliver, perform or permit to enjoy, or is coupled with a claim to set off,
+or is addressed to a person other than a person entitled to the property or
+right,
+(b) the word “signed” means signed either personally or by an agent duly
+authorised in this behalf, and
+(c) an application for the execution of a decree or order shall not be deemed to
+be an application in respect of any property or right.”
+
+23.
+A plain reading of the above provision shows that the conditionalities
+required for attracting Section 18 of the Limitation Act, 1963 are (i) an admission
+or acknowledgement of liability; (ii) such acknowledgement must be in respect of a
+property or right; (iii) that the acknowledgement must be made before the expiry of
+limitation and (iv) that it should be in writing and signed by the party against whom
+
+[PAGE 16]
+Page 16 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+such property or right is claimed. The Explanation clause thereto, however,
+provides that an acknowledgment may be sufficient though it may omit to specify
+the exact nature or the specific character of the said liability. However, the person
+acknowledging must be conscious of his liability and commitment should be made
+towards that liability. The plea of acknowledgment must relate to a present
+subsisting liability and indicate the existence of jural relationship between the
+parties such as that of debtor and creditor or the intention to admit such jural
+relationship. Any writing to be an acknowledgment of liability must entail an
+admission of a subsisting jural relationship between the parties and there should
+be a conscious affirmation of an intention of continuing such relationship in respect
+of this existing liability.
+24.
+As to whether the clock of limitation starts ticking again from the date of
+signing or date of uploading of the Balance sheet, we are guided by the decision of
+this Tribunal in G.S. Buildtech Pvt. Ltd. Vs Ardree Infrastructure Venture Pvt.
+Ltd. in CA(AT) (Ins) No. 388 of 2021. In this case, the fresh period of limitation
+was allowed in respect of Balance sheet for FY ending on 31.03.2017 when the
+same was signed by the Corporate Debtor on 01.09.2017. Thus, this Tribunal has
+already held in the affirmative in the above judgment that the acknowledgement of
+liability in the balance sheet arises once the balance sheet is signed by an
+authorised signatory.
+25.
+It may be relevant to refer to the relevant portions of G.S. Buildtech
+judgment supra which is as under:
+
+[PAGE 17]
+Page 17 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+“5. The Balance Sheet for the Financial Year 2016-17 having been signed
+on 01.09.2017 and the above Application having been filed on 20.03.2020,
+it is well within three years’ period from acknowledgment of debt as
+claimed by the Appellant. It is now well settled that acknowledgment in the
+Balance Sheet is sufficient acknowledgment under Section 18 of the
+Limitation Act, 1963.
+We may refer to the judgment of the Hon’ble Supreme Court in “Asset
+Reconstruction Company (India) Limited vs. Bishal Jaiswal and
+Anr.-(2021) 6 SCC 366”. After referring to the earlier judgment of the
+Hon’ble Supreme Court on the question and noticing the provisions of the
+Companies Act regarding preparation of the Balance Sheets, following was
+laid down in paragraphs 35 and 40: -
+
+“35. A perusal of the aforesaid Sections would show that there is no
+doubt that the filing of a balance sheet in accordance with the
+provisions of the Companies Act is mandatory, any transgression of the
+same being punishable by law. However, what is of importance is that
+notes that are annexed to or forming part of such financial statements
+are expressly recognised by Section 134(7). Equally, the auditor’s report
+may also enter caveats with regard to acknowledgements made in the
+books of accounts including the balance sheet. A perusal of the
+aforesaid would show that the statement of law contained in Bengal
+Silk Mills (supra), that there is a compulsion in law to prepare a balance
+sheet but no compulsion to make any particular admission, is correct in
+law as it would depend on the facts of each case as to whether an entry
+made in a balance sheet qua any particular creditor is unequivocal or
+has been entered into with caveats, which then has to be examined on
+a case by case basis to establish whether an acknowledgement of
+liability has, in fact, been made, thereby extending limitation under
+Section 18 of the Limitation Act.
+xxx
+
+xxx
+
+xxx
+40. In CIT-III v. Shri Vardhman Overseas Ltd., 2011 SCC OnLine Del
+5599 : (2012) 343 ITR 408, the Delhi High Court held:
+“17. In the case before us, as rightly pointed out by the Tribunal, the
+assessee has not transferred the said amount from the creditors'
+account to its profit and loss account. The liability was shown in the
+balance sheet as on 31st March, 2002. The assessee being a limited
+company, this amounted to acknowledging the debts in favour of the
+
+[PAGE 18]
+Page 18 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+creditors. Section 18 of the Limitation Act, 1963 provides for effect of
+acknowledgement in writing. It says where before the expiration of the
+prescribed period for a suit in respect of any property or right, an
+acknowledgement of liability in respect of such property or right has
+been made in writing signed by the party against whom such property
+or right is claimed, a fresh period of limitation shall commence from the
+time when the acknowledgement was so signed. In an early case, in
+England, in Jones v. Bellgrove Properties, (1949) 2KB 700, it was held
+that a statement in a balance sheet of a company presented to a
+creditor-share holder of the company and duly signed by the directors
+constitutes an acknowledgement of the debt.”
+(Emphasis supplied)
+26.
+We are also guided by the judgement of Hon’ble High Court of Andhra
+Pradesh in Vijaya Kumar Machinery & Electrical Stores Versus Alaparthi
+Lakshmikanthamma 1968 SCC OnLine AP 219 wherein it has been held that
+that the date on which the balance-sheet was signed is material to constitute an
+acknowledgment. It may be useful to refer to the relevant portions of the said
+judgment which is as below:
+“46. The first of them is that of a Bench of the Madras High Court in Rajah of
+Vizianagaram v. Official Liquidator, Vizianagaram Mining Company Ltd. One
+of the appeals considered therein was a case of a balance-sheet presented at
+an annual general meeting of the company. The relevant discussion is
+contained in paragraph 33 of the said judgment. A certain amount was
+claimed in the case. The objection as to bar of limitation in regard to the claim,
+was sought to be got over by relying upon the inclusion of the item in the
+balance-sheet presented to the annual general meeting of the limited
+company. The balance-sheet was signed by the agents of the company and it
+was also found that the amount claimed was included in the balance-sheet.
+Reliance was placed upon the decision in Jones v. Bellegrove Properties Ltd.
+Therein the Court of Appeal took the view that when a balance-sheet was
+presented to the annual general meeting, it was an acknowledgment that the
+debt was due on the date of the annual general meeting. This view of the
+Court of Appeal was approved and followed by the learned judge of the
+
+[PAGE 19]
+Page 19 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+Madras High Court. The principle that follows is that the date on which the
+balance-sheet was signed and presented is also material and that the
+presentation of the balance-sheet either to the general meeting of the company
+or to the Income-Tax authorities would constitute an acknowledgment of a
+subsisting liability as on the date of the signature and presentation of the
+balance-sheet.
+47. The Punjab High Court also took a similar view in Lahore Enamelling and
+Stamping Co. Ltd. v. A.K. Bhalla. In paragraph 37 it was laid down as follows:
+"Debts due to creditors not mentioned by name but included in the item
+relating to 'loans (unsecured)' or as due to 'sundry creditors' mentioned in the
+balance-sheet amount to an acknowledgment within the provisions of section
+19 of the Indian Limitation Act, so as to extend the period of limitation with
+effect from the date of the signing of the acknowledgment."
+48. In coming to this conclusion, the learned judge of the Punjab High Court
+relied on the Madras decision in Rajah of Vizianagaram v. Vizianagaram
+Mining Co. Ltd. Thus, the Punjab High Court also took the view that the period
+of limitation is extended from the date of the signing of the balance-sheet.”
+(Emphasis supplied)
+
+27.
+Basis the above precedent, we do not find any error on the part of the
+Adjudicating Authority to have relied on the date of signing of the Balance sheet for
+extension of limitation period. We therefore do not find any substance in the
+contention of the Appellant that the period of limitation is to be counted from
+14.02.2021. There is no merit in the argument of the Appellant that the
+Adjudicating Authority had wrongly calculated the extension of limitation from the
+date of signing of the Balance sheet by the Corporate Debtor i.e. on 12.08.2020
+instead of calculating it from the date it was uploaded on the MCA website i.e. on
+14.02.2021. There is no mandatory requirement for factorising the date of
+uploading of the balance sheet on the MCA portal for computing the period of
+limitation. Having already noted in the preceding paragraphs that the Balance sheet
+
+[PAGE 20]
+Page 20 of 20
+Company Appeal (AT) (Insolvency) No. 1379 of 2024
+
+of FY 2019-20 having been signed on 12.08.2020, the filing of Section 7 petition on
+15.01.2024 was clearly time-barred, we do not consider it necessary to dwell upon
+the question as to whether the entries appearing in the Balance sheet of the
+Corporate Debtor clearly established a jural relationship between the two parties
+as debtor and creditor.
+28.
+For the foregoing reasons, we do not find any merit in the Appeal. The Appeal
+is dismissed and the impugned order is upheld. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 25.03.2025
+
+Abdul/Harleen

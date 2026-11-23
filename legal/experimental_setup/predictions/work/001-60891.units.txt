@@ -1,0 +1,79 @@
+# FILE 001-60891.txt  n_chars=28652  units=183  paragraphs=109
+# SCOPE: legal reasoning starts at char 15430 (unit u99) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 27505 (unit u170) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# WARNING: the text appears TRUNCATED (it ends mid-sentence). The last unit is flagged T. Annotate what is there; do not invent the missing end (07_edge_cases.md section 4).
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 15430 hidden (facts/procedure; use --show-all to see them) --
+u99 p68  [15430-15437) H | THE LAW
+u100 p69  [15438-15489) H | I. ALLEGED VIOLATION OF ARTICLE 7 OF THE CONVENTION
+u101 p70 ¶27 [15494-15789) | The applicant complained that his conviction of offences committed in 1993 and 1994 under criminal legislation which had come into force on 13 January 1995 infringed the guarantee against the retrospective application of criminal law set forth in Article 7 § 1 of the Convention, which provides:
+u102 p70  [15790-15991) Q | “No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed.
+u103 p70  [15992-16112) Q | Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.”
+u104 p71  [16113-16140) H | A. Arguments of the parties
+u105 p72 ¶28 [16145-16272) | The applicant submitted that his acts prior to 13 January 1995 did not qualify as criminal under the law in force at that time.
+u106 p72  [16273-16507) | He pointed out that, as worded prior to that date, Article 148-1 of the Criminal Code made the existence of a previous administrative penalty for a similar offence a precondition for a criminal conviction for the acts defined therein.
+u107 p72  [16508-16557) | However, no such penalty had been imposed on him.
+u108 p72  [16558-16678) | Therefore, his conviction of those acts under the law of 13 January 1995 violated the nullum crimen sine lege principle.
+u109 p73 ¶29 [16683-16906) | The Government submitted that the applicant had been given a clear indication in the bill of indictment, which had been approved on 11 November 1996, of the acts of which he was accused as well as their legal qualification.
+u110 p73  [16907-17033) | The indictment contained the dates of the incriminated acts and the reasons for qualifying those acts as a continuing offence.
+u111 p73  [17034-17420) | The Government further referred to the application and interpretation of Article 148-1 § 7 of the Criminal Code by the domestic courts in the applicant's case and the practice of the Supreme Court, according to which Article 148-1 was applicable to acts of intentional and continuing tax evasion even before the amendment if the criminal activity had continued after it came into force.
+u112 p73  [17421-17630) | The domestic courts had given sufficiently detailed reasons for their decision to qualify the acts committed by the applicant as a continuing offence and to rely on all of them as the basis for convicting him.
+u113 p73  [17631-17717) | The courts had applied the criminal law in the same way in a number of criminal cases.
+u114 p73  [17718-17789) | All the relevant judgments were published and accessible to the public.
+u115 p73  [17790-17922) | Therefore, the application and interpretation of Article 148-1 did not go beyond what could be reasonably foreseen by the applicant.
+u116 p73  [17923-18214) | It was further argued that the qualification by the domestic courts of the applicant's tax evasion during the period from 1993 to 1995 as an ongoing crime had no effect on the nature and gravity of the sanction – a suspended sentence – and entailed no tangible negative consequences for him.
+u117 p73  [18215-18354) | The Government pointed out that tax evasion had also been defined as a crime in the earlier versions of Article 148-1 of the Criminal Code.
+u118 p74  [18355-18380) H | B. The Court's assessment
+u119 p75 ¶30 [18385-18695) | The Court reiterates that the guarantee enshrined in Article 7, which is an essential element of the rule of law, occupies a prominent place in the Convention system of protection, as is underlined by the fact that no derogation from it is permissible under Article 15 in time of war or other public emergency.
+u120 p75  [18696-19048) | It should be construed and applied, as follows from its object and purpose, in such a way as to provide effective safeguards against arbitrary prosecution, conviction and punishment (see S.W. v. the United Kingdom and C.R. v. the United Kingdom, judgments of 22 November 1995 (Series A nos. 335-B and 335-C, p. 41, § 34, and p. 68, § 32, respectively).
+u121 p76 ¶31 [19053-19475) | According to the Court's case-law, Article 7 of the Convention is not confined to prohibiting the retrospective application of the criminal law to an accused's disadvantage: it also embodies, more generally, the principle that only the law can define a crime and prescribe a penalty (nullum crimen, nulla poena sine lege) and the principle that the criminal law must not be extensively construed to an accused's detriment.
+u122 p76  [19476-19560) | From these principles it follows that an offence must be clearly defined in the law.
+u123 p76  [19561-19968) | This requirement is satisfied where the individual can know from the wording of the relevant provision and, if need be, with the assistance of the courts' interpretation of it, what acts and omissions will make him criminally liable (see S.W. and C.R., cited above, pp. 41-42, § 35, and pp. 68-69, § 33, respectively; see also Kokkinakis v. Greece, judgment of 25 May 1993, Series A no. 260-A, p. 22, § 52).
+u124 p77 ¶32 [19973-20212) | Turning to the facts of the present case, the Court notes that the applicant was convicted under Article 148-1 § 7 of the Criminal Code, as worded since 13 January 1995, of tax offences which were committed in the period from 1993 to 1996.
+u125 p77  [20214-20342) | It observes that the application of the criminal law of 13 January 1995 to subsequent acts is not at issue in the instance case.
+u126 p77  [20343-20511) | The question to be determined is whether the extension of the law to acts committed prior to that date infringed the guarantee set forth in Article 7 of the Convention.
+u127 p78 ¶33 [20516-21052) | In this connection the Court reiterates that it is not its task to rule on the applicant's criminal responsibility, that being primarily a matter for the assessment of the domestic courts, but to consider, from the standpoint of Article 7 § 1 of the Convention, whether the applicant's acts, at the time when they were committed, constituted offences defined with sufficient accessibility and foreseeability by the national law (see Streletz, Kessler and Krenz v. Germany [GC], nos. 34044/96, 35532/97 and 44801/98, § 51, ECHR 2001‑II).
+u128 p79 ¶34 [21057-21272) | It notes that under Article 148-1 of the Criminal Code tax evasion was also an offence prior to 13 January 1995, in particular in 1993 and 1994, when the applicant committed some of the acts of which he was accused.
+u129 p79  [21273-21487) | However, a prerequisite for a criminal conviction under the law in force at that time was that the person concerned had previously been found liable for a similar offence and subjected to an administrative penalty.
+u130 p79  [21488-21686) | The version of Article 148-1 of the Criminal Code which came into effect on 13 January 1995 maintained the requirement for a previous administrative penalty, but added a condition concerning intent.
+u131 p79  [21687-21818) | The two conditions were alternative, not cumulative, thus making a person criminally liable if one of the conditions was satisfied.
+u132 p79  [21819-22014) | Thus, in finding the applicant guilty under that Article, the domestic courts held that the fact that no administrative penalty had previously been imposed on him was not a bar to his conviction.
+u133 p79  [22015-22238) | However, the courts included in their findings under the 1995 legislation acts that had been committed during the preceding two years, holding that they were part of continuing criminal activity which had lasted until 1996.
+u134 p80 ¶35 [22243-22437) | The Court observes that, by definition, a “continuing offence” is a type of crime committed over a period of time (see Ecer and Zeyrek v. Turkey, nos. 29295/95 and 29363/95, § 33, ECHR 2001-II).
+u135 p80  [22438-22686) | It notes that the applicant was charged with and convicted of the intentional, continuous and large-scale concealment of taxable amounts and of submitting false information to the tax authorities on the companies' expenditure over a period of time.
+u136 p80  [22687-22931) | While the starting-point of the applicant's activity pre-dated the entry into effect of the provision under which he was convicted, the activity was considered as resulting in a persisting criminal state which continued after the critical date.
+u137 p81 ¶36 [22936-23199) | The Court observes that, according to the text of Article 148-1 of the Criminal Code before its amendment in 1995, a person could be held criminally liable for tax evasion only “if an administrative penalty ha[d] been imposed on him or her for a similar offence”.
+u138 p81  [23200-23317) | The condition was thus an element of the offence of tax evasion without which a criminal conviction could not follow.
+u139 p81  [23318-23510) | It further observes that a considerable number of the acts of which the applicant was convicted took place exclusively within the period prior to January 1995 (see paragraphs 14 and 18 above).
+u140 p81  [23511-23682) | The sentence imposed on the applicant – a suspended term of three years and six months' imprisonment – took into account acts committed both before and after January 1995.
+u141 p81  [23683-23913) | Contrary to the Government's submission, it cannot be stated with any certainty that the domestic courts' approach had no effect on the severity of the punishment or did not entail tangible negative consequences for the applicant.
+u142 p82 ¶37 [23919-24167) | The Court notes the Government's argument that the jurisprudence of the Supreme Court on the application and interpretation of the 1995 version of Article 148-1 of the Criminal Code made the risk of criminal punishment foreseeable to the applicant.
+u143 p82  [24168-24403) | It observes, however, that the decisions of the Supreme Court referred to by the Government were handed down in April 1997 and January 1998, whereas the applicant's complaint concerns acts committed during the period from 1993 to 1994.
+u144 p82  [24404-24605) | At that time, considering the terms of the criminal law in force during that period, the applicant could not have foreseen that he would face criminal conviction at the first discovery of his activity.
+u145 p83 ¶38 [24610-24797) | In these circumstances, the Court finds that the domestic courts applied the 1995 amendment to the law retrospectively to behaviour which did not previously constitute a criminal offence.
+u146 p84 ¶39 [24803-24881) | It follows that there has been a violation of Article 7 § 1 of the Convention.
+u147 p85  [24882-24929) H | II. APPLICATION OF ARTICLE 41 OF THE CONVENTION
+u148 p86 ¶40 [24934-24972) L | Article 41 of the Convention provides:
+u149 p86  [24973-25254) QL | “If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”
+u150 p87  [25255-25274) H | A. Pecuniary damage
+u151 p88 ¶41 [25279-25421) L | The applicant claimed 853,550 Estonian kroons (EEK), a sum which he was required to pay in damages to the tax authorities upon his conviction.
+u152 p88  [25422-25495) L | He submitted that he had paid to the authorities EEK 185,000 of that sum.
+u153 p89 ¶42 [25500-25655) L | The Government maintained that the applicant should only be awarded an amount corresponding to the damage he actually suffered, that is to say EEK 185,000.
+u154 p90 ¶43 [25661-25856) L | The Court reiterates that it will award pecuniary compensation under Article 41 only where it is satisfied that the loss or damage complained of was actually caused by the violation it has found.
+u155 p90  [25857-25987) L | It notes that the applicant's claim relates to his obligation to pay outstanding taxes which were due under the relevant tax laws.
+u156 p90  [25988-26207) L | Although the order to pay the required taxes was issued by the criminal court, it was separate from the suspended sentence imposed on the applicant and did not involve a tax surcharge or a fine (see paragraph 18 above).
+u157 p90  [26208-26391) L | As there is no causal link between the sums claimed for pecuniary damage and the violation of Article 7 § 1 of the Convention, the Court rejects the applicant's claim under this head.
+u158 p91  [26392-26415) H | B. Non-pecuniary damage
+u159 p92 ¶44 [26420-26527) L | The applicant claimed EEK 50,000 for feelings of stress and helplessness caused by his wrongful conviction.
+u160 p93 ¶45 [26532-26645) L | The Government submitted that the finding of a violation would constitute in itself sufficient just satisfaction.
+u161 p93  [26646-26747) L | In the alternative, they invited the Court to determine the amount of an award on an equitable basis.
+u162 p94 ¶46 [26752-26884) L | The Court considers that the applicant must have suffered distress which cannot be compensated solely by the finding of a violation.
+u163 p94  [26885-26989) L | Ruling on an equitable basis, the Court awards the applicant 2,000 euros (EUR) for non-pecuniary damage.
+u164 p95  [26990-27011) H | C. Costs and expenses
+u165 p96 ¶47 [27016-27168) L | The applicant sought reimbursement of 5,000 Finnish markkas (EUR 840.90) which he had paid for the services of his lawyer in the Strasbourg proceedings.
+u166 p97 ¶48 [27173-27213) L | The Government did not dispute that sum.
+u167 p98 ¶49 [27218-27293) L | The Court considers the applicant's claim reasonable and allows it in full.
+u168 p99  [27295-27314) H | D. Default interest
+u169 p100 ¶50 [27319-27504) L | The Court considers it appropriate that the default interest should be based on the marginal lending rate of the European Central Bank, to which should be added three percentage points.
+-- tail from char 27505 hidden --

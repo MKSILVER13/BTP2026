@@ -1,0 +1,418 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Ins) No. 966 of 2025
+
+IN THE MATTER OF:
+
+J.C. Flowers Asset Reconstruction Pvt. Ltd.
+...Appellants
+Versus
+
+Harish Kant Kaushik,
+RP of Reliance Innoventures Pvt. Ltd. & Anr.
+...Respondents
+Present:
+
+For Appellant
+:
+
+Mr. Krishnendu Datta Sr. Advocate with Mr.
+Chitranshul Sinha, Mr. Shivam Shorewala, Mr.
+Rakshit
+Bhargava
+and
+Mr.
+Yash
+Tandon,
+Advocates.
+
+For Respondents
+:
+
+Ms. Jyoti Singh, Advocate for R1.
+
+Mr. Harish Kant Kaushik, Advocate for RP.
+O R D E R
+(Hybrid Mode)
+29.07.2025:
+Heard counsel for the appellant as well as Ld. Counsel for
+the Resolution Professional.
+2.
+This appeal has been filed against the order passed by the Adjudicating
+Authority dated 03.06.2025 in IA No. 62 of 2024 by the impugned order
+Adjudicating Authority has disposed of I.A. 62/2024 and sent the plan back
+to the Committee of Creditors (“CoC”) on the ground that the plan does not
+comply the statutory provisions that is Section 30(2) of the IBC. The CoC
+aggrieved by the order has come up in this appeal.
+3.
+Ld. Counsel for the appellant challenging the order impugned submits
+that there was no non-compliance of Section 30(2). The Adjudicating
+Authority has observed that non-compliance of Section 30(2)(a) on the
+
+[PAGE 2]
+2 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+grounds that plan provides for payments of CIRP cost out of internal accruals
+of the Corporate Debtor and no separate amount for the same has been
+provided in the plan. It is submitted that the Adjudicating Authority has not
+adverted to the clause both in the original Resolution Plan and in the
+addendum that if internal accruals are not sufficient SRA shall make the
+payment towards CIRP Cost without effecting the payouts of the Financial
+Creditors. It is further submitted that finding that there is a non-compliance
+of Section 30(2)(a) is not correct. Committee of Creditors after considering all
+aspects of the matter has approved the plan. It is further submitted by the
+counsel for the appellant that although in the addendum the plan value was
+increased from Rs.92.15 Crores to Rs.110.10 Crores but equivalent changes
+have not been carried out in the fund infusion clause. It is submitted that
+when the addendum clearly has increased the amount to Rs.110.10 Crores
+that was commitment of the SRA on the basis of negotiation by the CoC and
+in the clause of fund infusion mention of figure Rs.92.15 is inconsequent and
+in any case its plan value has to be treated as Rs.110.10 Crores.
+4.
+It is further submitted that another discrepancy pointed out by the
+Adjudicating Authority is that in Form-H for Operational Creditor amount
+mention was Rs.12.63 Crores whereas in addendum the amount admitted
+towards same category is Rs.12.05 Crores. It is submitted that above is only
+typographical mistake, the SRA accepts the figure of Rs.12.63 Crores and in
+the admission as well as the payment there is no change.
+
+[PAGE 3]
+3 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+5.
+Ld. Counsel for the Resolution Professional (“RP”) supported the
+submissions of the CoC and submits that plan fully complied with Section
+30(2) and Adjudicating Authority ought not to have interfered with the plan.
+6.
+We have considered the submission of counsel for the parties and
+perused the records.
+7.
+The Resolution Plan has been approved by the CoC who is appellant
+before us questioning the order impugned. The Adjudicating Authority has
+proceeded to hold the plan non-compliance of Section 30(2)(a) for the reasons
+as noticed in the paragraphs- 36 to 41.
+“36. At this juncture, it is pertinent to refer the relevant clauses
+of Resolution Plan submitted by the Successful Resolution
+Applicant. In the Resolution Plan the treatment for the CIRP
+Cost is mentioned as follow:
+“Treatment of CIRP Costs.-
+As per the Code, the CIRP Costs are accorded highest priority
+amongst the creditors of a Company and the CIRP Costs shall,
+amongst other things, include the costs, fees and charges
+incurred by the Resolution Professional, in running the
+operations of the Company as a going concern. It is evident
+from the records that during the CIRP period internal accruals
+and/or other cash flows of the Company will be sufficient to
+pay the CIRP Costs as approved by the CoC. The CIRP Costs
+will be paid in full and in priority to and other creditor of the
+Company upon the Resolution Plan becoming effective, out of
+the internal accruals of the Company. If the internal accruals of
+the Company are not sufficient to meet the CIRP Costs, the
+Resolution Applicant will make the payment towards the
+balance unpaid portion of the CIRP Costs (“Unpaid CIRP Costs”}
+out of the Total Resolution Amount on the Closing Date. It is
+clarified that any interim finance raised by the Resolution
+Professional from the Financial Creditors which has been
+utilized towards the payment of CIRP Costs shall be treated as
+part of the Unpaid CIRP Costs.”
+
+[PAGE 4]
+4 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+further as per Form -H and the Resolution Plan, the plan value
+is INR 110. 10 Crores, for clarity bifurcation is provided
+hereunder:
+
+Particulars
+
+Cash Component
+
+(a) CIRP Cost
+
+-
+(b)
+Secured
+Financial
+Creditors
+101.58
+(c)
+Unsecured
+Financial
+Creditors
+8.37
+(d) Operational Creditors
+(Statutory Authorities)
+0.02
+(e)
+Other
+Operational
+Creditors
+0. 13
+Total
+Resolution
+Plan
+Value
+110.10
+
+37. On bare perusal of the aforementioned clauses under the
+Resolution Plan it transpires that the CIRP Cost will be paid out
+of the internal accruals of the Corporate Debtor and no separate
+amount for the same has been provided in the plan value.
+Further, the instant Resolution Plan does not give any specifics
+about the internal accruals of the Corporate Debtor from which
+the payment will be made and whether the same will be
+sufficient to provide complete payment towards the CIRP Cost.
+38. Further, the clause under the Resolution Plan qua CIRP Cost
+mentions that if the internal accruals of the Corporate Debtor
+are not sufficient to meet the CIRP Cost, the SRA will make the
+payments towards the balance unpaid portion out of the total
+Resolution Plan value. Thus, the SRA will not introduce any
+additional funds in case the internal accruals are insufficient
+for meeting out the CIRP Cost. Further, the scheme proposed by
+the SRA for the payment of the CIRP Cost in case of
+insufficiency of the internal accruals will affect the whole
+disbursement as proposed in the plan towards other creditors
+of
+the
+Corporate
+Debtor.
+Hence,
+changing
+the
+very
+fundamentals of the Resolution Plan on the basis of which the
+plan was approved by the COC.
+
+[PAGE 5]
+5 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+39. Henceforth, we are of the opinion that the Resolution Plan
+submitted by the SRA is in non-compliance of Section 30(2)(a) of
+the Code, 2016.
+40.
+Besides
+the
+aforementioned
+non-compliance
+of
+the
+mandatory provisions of the Code, there are other discrepancies
+in the Resolution Plan and the addendum to the Resolution
+Plan. We have noticed that, the Resolution Plan value as
+provided under the Resolution Plan initially was Rs. 92.15 Cr.
+and the same was to be introduced through fund infusion.
+Further, the definition of the fund infusion as provided in the
+Resolution Plan stated that “INR 92.15 Cr [Indian Rupees
+Ninety Two Crores Fifteen Lakhs Only] to be infused in the CD
+through SPV(s) to make specified payments as per the
+Resolution Plan in the form of equity, debt or any other
+instrument as decided by the RA in its sole discretion.” There is
+no other mechanism provided in plan for making the payment to
+the creditors. Subsequently, the plan value was enhanced from
+Rs. 92.15 Crores to Rs. 110.10 Crores via the addendum to the
+Resolution Plan. However, requisite equivalent changes have
+not been carried out in the “Fund Infusion” clause of the
+Resolution Plan which still reflects the fund infusion to the
+extent of Rs. 92.15 Cr. Thus, there remains an ambiguity
+towards the introduction of the enhanced amount in the
+Resolution Plan i.e., Rs. 17.95 Cr.”
+
+The ambit and jurisdiction of the Adjudicating Authority while
+considering the plan approved by Committee of Creditors is too limited. The
+Adjudicating Authority does have jurisdiction to interfere with the decision of
+the Committee of Creditors taken in commercial wisdom, in event the plan
+violates any of the statutory provisions and is not in compliance with Section
+30(2) the Adjudicating Authority can interfere. It is submitted by the appellant
+and Ld. Counsel for the RP that there was no non-compliance of the Section
+30(2). We thus need to examine the plan in above reference as to whether
+there is non-compliance of Section 30(2) or not?
+
+[PAGE 6]
+6 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+8.
+The first main ground which has been given by the Adjudicating
+Authority is with regard to non-providing for payment of CIRP cost in priority.
+The Adjudicating Authority in paragraph-36 has noted the clause in the
+Resolution Plan with regard to CIRP cost paragraph-36 is as follows:-
+
+“36. At this juncture, it is pertinent to refer the relevant clauses
+of Resolution Plan submitted by the Successful Resolution
+Applicant. In the Resolution Plan the treatment for the CIRP
+Cost is mentioned as follow:
+“Treatment of CIRP Costs.-
+As per the Code, the CIRP Costs are accorded highest priority
+amongst the creditors of a Company and the CIRP Costs shall,
+amongst other things, include the costs, fees and charges
+incurred by the Resolution Professional, in running the
+operations of the Company as a going concern. It is evident
+from the records that during the CIRP period internal accruals
+and/or other cash flows of the Company will be sufficient to
+pay the CIRP Costs as approved by the CoC. The CIRP Costs
+will be paid in full and in priority to and other creditor of the
+Company upon the Resolution Plan becoming effective, out of
+the internal accruals of the Company. If the internal accruals of
+the Company are not sufficient to meet the CIRP Costs, the
+Resolution Applicant will make the payment towards the
+balance unpaid portion of the CIRP Costs (“Unpaid CIRP Costs”}
+out of the Total Resolution Amount on the Closing Date. It is
+clarified that any interim finance raised by the Resolution
+Professional from the Financial Creditors which has been
+utilized towards the payment of CIRP Costs shall be treated as
+part of the Unpaid CIRP Costs.”
+further as per Form -H and the Resolution Plan, the plan value
+is INR 110. 10 Crores, for clarity bifurcation is provided
+hereunder:
+
+Particulars
+
+Cash Component
+
+(a) CIRP Cost
+
+-
+(b)
+Secured
+Financial
+Creditors
+101.58
+
+[PAGE 7]
+7 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+(c)
+Unsecured
+Financial
+Creditors
+8.37
+(d) Operational Creditors
+(Statutory Authorities)
+0.02
+(e)
+Other
+Operational
+Creditors
+0. 13
+Total
+Resolution
+Plan
+Value
+110.10
+
+9.
+The Ld. Counsel for the appellant has referred to the addendum of the
+Resolution Plan as well as similar clause in the original plan. It is useful to
+notice the clause-4 of the addendum which is brought on record as Annexure
+A-15. Clause-4 of the addendum provides as follows:-
+“4. It is evident from the records that during the CIRP period
+internal accruals and/ or other cash flows of the Company will
+be sufficient to pay the CIRP Costs as approved by the CoC.
+The CIRP Costs will be paid in full and in priority to any other
+creditor of the Company upon the Resolution Plan becoming
+effective out of the internal accruals of the Company. If the
+internal accruals of the Company are not sufficient to meet the
+CIRP Costs, the Resolution Applicant will make the payment
+towards the balance unpaid portion of the CIRP Costs (“Unpaid
+CIRP Costs”) at actuals without any deduction from the Upfront
+FC Debt Payment amount in terms of this Resolution Plan.”
+
+The above clause clearly provides that in event internal accruals of the
+Company are not sufficient to meet the CIRP cost resolution applicant will
+make the payment towards the balance unpaid portion of CIRP Cost at actual
+without any deduction from the amount payable to Financial Creditor in
+terms of Resolution Plan. The above clause is clear and categorically makes
+provision for payment of CIRP Costs. It cannot be held that the above clause
+in any manner violates Section 30(2) or provisions of Regulation, 2016 which
+provides requirement of provisions for CIRP cost. We thus are of the view that
+
+[PAGE 8]
+8 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+Adjudicating Authority committed error in holding the plan non-compliance
+on the above ground.
+
+10.
+Now we come to the next ground given by the Adjudicating Authority is
+that initially the plan value was Rs. 92.15 Crores which was increased to
+Rs.110.10 Crores vide addendum but the requisite equivalent changes have
+not been carried out in the fund infusion clause of the Resolution Plan which
+still reflects fund infusion to the extent of Rs.92.15 Crores. Paragraph-40 of
+the judgment is as follows:-
+“40. Besides the aforementioned non-compliance of the
+mandatory provisions of the Code, there are other discrepancies
+in the Resolution Plan and the addendum to the Resolution
+Plan. We have noticed that, the Resolution Plan value as
+provided under the Resolution Plan initially was Rs. 92.15 Cr.
+and the same was to be introduced through fund infusion.
+Further, the definition of the fund infusion as provided in the
+Resolution Plan stated that “INR 92.15 Cr [Indian Rupees
+Ninety Two Crores Fifteen Lakhs Only] to be infused in the CD
+through SPV(s) to make specified payments as per the
+Resolution Plan in the form of equity, debt or any other
+instrument as decided by the RA in its sole discretion.” There is
+no other mechanism provided in plan for making the payment to
+the creditors. Subsequently, the plan value was enhanced from
+Rs. 92.15 Crores to Rs. 110.10 Crores via the addendum to the
+Resolution Plan. However, requisite equivalent changes have
+not been carried out in the “Fund Infusion” clause of the
+Resolution Plan which still reflects the fund infusion to the
+extent of Rs. 92.15 Cr. Thus, there remains an ambiguity
+towards the introduction of the enhanced amount in the
+Resolution Plan i.e., Rs. 17.95 Cr.”
+
+There is no dispute from the addendum which have been brought on the
+record the plan value has been increased to Rs.110.10 Crores after
+negotiation between CoC and the SRA. There is no dispute that increased
+
+[PAGE 9]
+9 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+plan value is Rs.110.10 Crores. The mere fact that in the Clause of fund
+infusion by mistake the mention Rs.92.15 Crores is there the said mention is
+in consequential since it is not the case of anyone that enhanced plan value is
+not Rs.110.10 Crores. Further, present is a case where no objection have
+been raised by any stakeholder before the Adjudicating Authority pointing out
+any non-compliance of provisions on any other reason. We thus, are of the
+view that said cannot be any ground for not approving the plan.
+
+11.
+The third ground taken by the Adjudicating Authority is that in Form-H
+amount admitted towards the operational creditor is Rs.12.63 Crores and in
+the addendum the amount admitted is the shown as Rs.12.05 Crore. Ld.
+Counsel pointed out that the mention of admitted claim of Rs.12.05 Crore
+was only a typographical mistake since the payout in the plan is the same i.e;
+Rs.0.13 Crores which is not changed. Hence, the said in no manner effect the
+validity of the plan. Ld. Counsel for the appellant has submitted that in the
+addendum payment as part of the Resolution Plan is clearly mentioned which
+is as page-507 of the paper book where the payout to the Operational Creditor
+other than workman employee is same i.e. Rs.0.13 Crores. It is submitted
+that mention by typographical error with regard to admitted claim as
+Rs.12.05 Crores instead of Rs.12.63 Crores was also in consequential. No
+Operational Creditor has also raised any objection before the Adjudicating
+Authority with regard to any discrepancy in the Resolution Plan, the said
+mistake was only clerical error not effecting the validity of the plan and nor
+the above in any manner violates the provisions of Section 30(2) or payout
+being not in accordance with the requirement of Section 30(2).
+
+[PAGE 10]
+10 of 10
+Company Appeal (AT) (Ins) No. 966 of 2025
+12.
+In view of the above, we are of the view that none of the grounds given
+by the Adjudicating Authority for not approving the plan can be sustained.
+We found that the Resolution Plan is not in violation of Section 30(2). There
+being very limited scope of interference by the Adjudicating Authority in the
+commercial wisdom of the CoC in approving the plan, we are of the view that
+order passed by Adjudicating Authority is unsustainable. In result, the order
+passed by the Adjudicating Authority is set aside. The plan approval
+application is revived before the Adjudicating Authority for passing a fresh
+order in accordance with law at an early date.
+With the above, Appeal is disposed of.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+harleen/NN

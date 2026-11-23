@@ -1,0 +1,604 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+[Arising out of the Impugned Order dated 27.02.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench-
+III in C.P. No. (IB) No.1068/MB/C-III/2023]
+In the matter of:
+Deepak Mahadev Shirke
+S/o Mahadev Shirke,
+R/o 425, Mahakali Darshan Transit Camp No. 2,
+Azad Road, Near Western Express Highway
+Guindavali Gaothan, Andheri East,
+Mumbai Maharashtra - 400069
+
+...Appellant
+
+Versus
+
+(i) Unity Small Finance Bank Limited
+
+Registered Office:
+
+Centrum House, CST Road,
+
+Vidyanagari Marg, Kalina Santacruz (E),
+
+Mumbai – 400098.
+
+(ii) Excel Arcade Private Limited
+
+3rd Floor, HDIL Towers, Anant Kanekar Marg,
+
+Mumbai 400051
+
+Through, Mr. Vimal Kumar Agrawal,
+
+Registration No. IBBI/IPA-001/IP-P00741/2017-2018/11247
+
+...Respondents
+
+Present:
+
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Advocate with Ms. Neha Nagpal,
+Ms. Malak Bhatt, Ms. Disha Shah and Mr. Kailash Ram,
+Advocates.
+
+For Respondent
+: Ms. Varsha Banerjee, Mr. Aishwarya Nabh, Advocates for
+R-1.
+
+[PAGE 2]
+Page 2 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+27.02.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-III) in
+C.P.(IB) No.1068/MB/C-III/2023. By the impugned order, the Adjudicating
+Authority has admitted the Section 7 application filed by the Unity Small Finance
+Bank Ltd.- Respondent No.1 and initiated Corporate Insolvency Resolution
+Process (“CIRP” in short) against the Corporate Debtor-Excel Arcade Pvt. Ltd.
+Aggrieved by the impugned order, the present appeal has been preferred by the
+suspended Director of the Corporate Debtor.
+2.
+Coming to the relevant factual background and sequence of events in the
+matter, put briefly, the Corporate Debtor had availed a credit facility from the
+Punjab & Maharashtra Cooperative Bank which later merged with the Unity
+Small Finance Bank Ltd. (“USFB” in short). Since the Corporate Debtor had
+allegedly defaulted in discharging their debt obligations, the Corporate Debtor
+was declared NPA on 12.02.2019. The USFB-Respondent No.1 issued notices on
+07.10.2019, 24.06.2020 and 28.01.2021 demanding repayment of the loan
+amount from the Corporate Debtor as well as its guarantors. The Respondent
+No.1 also initiated arbitration proceedings which got concluded by the Arbitrator
+by passing an award on 28.04.2022 in favour of the Respondent No.1 for an
+amount of Rs 106 Cr. with interest. Following the arbitral award, the Respondent
+
+[PAGE 3]
+Page 3 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+No.1 initiated execution proceedings against the Corporate Debtor before the
+Hon’ble High Court of Bombay on which notice was issued to the Corporate
+Debtor vide order dated 04.01.2024. The Respondent No.1 also separately filed
+a Section 7 application against the Corporate Debtor on 10.11.2023 for an
+amount of Rs 149 Cr. on which the Adjudicating Authority on 21.11.2023
+ordered the issue of notice to the Corporate Debtor. Since service of notice upon
+the Corporate Debtor had failed, the Adjudicating Authority on 01.05.2024
+permitted service of notice through substituted mode and accordingly newspaper
+publication was made. Since the Corporate Debtor did not appear on the date of
+hearing, the Adjudicating Authority set them ex-parte. As the Corporate Debtor
+was set as ex-parte, they filed IA No. 624 of 2025 in December 2024 seeking to
+set aside the ex-parte order of 01.05.2024. IA No. 624 of 2025 was disposed of
+by the Adjudicating Authority on 05.02.2025 granting liberty to the Corporate
+Debtor to present their case by way of written submission and the matter was
+set for hearing on 10.02.2025. The Corporate Debtor filed their written
+submissions before the Adjudicating Authority wherein they raised the
+objections on the maintainability of the Section 7 petition on grounds of
+limitation. The Adjudicating Authority after holding that fresh limitation started
+from the date of arbitral award it found the Section 7 application to be
+maintainable. On being satisfied that the Section 7 petition was within
+limitation, the Adjudicating Authority proceeded to look into the matter on merits
+and came to the conclusion that there was debt due and payable in law and that
+default above the threshold limit having occurred, admitted the Section 7
+
+[PAGE 4]
+Page 4 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+application. Aggrieved by the impugned order, the suspended Director of the
+Corporate Debtor has come up in appeal.
+3.
+Making his submissions, Shri Abhijeet Sinha, Ld. Sr. Counsel for the
+Appellant submitted that the Adjudicating Authority had committed an error in
+admitting the Section 7 application inspite of the same being clearly time barred.
+It was contended that the date of default which had been pleaded by the
+Respondent No.1 was 12.11.2018 as reflected in Part-IV of Form-1 filed by the
+Respondent No.1. Taking into account the excluded period in terms of the
+judgment of the Hon’ble Supreme Court in Suo Moto Writ Petition(C) No. 03 of
+2020, the limitation period stood expired on 28.10.2023. Hence, the Section 7
+application having been filed on 08.11.2023, it stood barred by the law of
+limitation. It was emphatically asserted that since the Section 7 petition was
+time-barred, the Adjudicating Authority should have dismissed the Section 7
+petition at the very threshold. The Adjudicating Authority could not have
+proceeded to examine the matter on merits when the petition was palpably not
+maintainable.
+4.
+It was further contended that limitation cannot be extended merely by
+mention of arbitration proceedings and without the arbitral award being set up
+in Part-IV. Part-IV did not show arbitral award as the basis of default. Hence the
+arbitral award did not automatically extend the limitation. The Adjudicating
+Authority had wrongly relied upon the arbitral award dated 28.04.2022 to extend
+the limitation though the date of default arising out of the arbitral award was
+never pleaded by the Respondent No.1 as the basis for default in their Section 7
+application. A reading of the Part-IV would show that only a reference was made
+
+[PAGE 5]
+Page 5 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+in the factual narration of events therein with respect to the arbitral award.
+Submission was pressed that once a particular date of default is pleaded in the
+Section 7 application, the date of default cannot be altered in the absence of
+specific pleadings to that effect. A formal amendment application is required for
+bringing about any alteration or shift in the date of default. In the present case,
+the Adjudicating Authority made an error in allowing the date of default to be
+unilaterally altered, basis the arbitral award, by way of oral submissions of the
+Respondent No.1 without their following the due process of filing a formal
+amendment application. In support of their contention that date of default
+cannot be changed by the Financial Creditor without a formal amendment
+application, reliance was placed on the judgment of Hon’ble Supreme Court in
+Ramesh Kymal Vs Siemens Gamesa 2021 (3) SCC 224 and judgment of this
+Tribunal in Ramdas Datta Vs IDBI Bank (2023) SCC Online NCLAT 1306
+wherein it has been held that the date of default once pleaded becomes binding
+and cannot be altered or amended at will.
+5.
+Argument was also canvassed by the Appellant in stating that the failure
+to make arbitral award payment constituted a separate default in itself leading
+to a fresh cause of action. In such a case, the date of default shall be the date of
+the arbitral award and not the date of original default pleaded in Section 7
+petition. Hence, this would lead to a fresh date of default which cannot be held
+to be a reaffirmation of the original default. Thus, the arbitral award would give
+rise to a fresh period of limitation and cannot breathe fresh life to the original
+date of default of 12.11.2018 for initiation of CIRP. The date of default in such a
+case would therefore be 28.04.2022 being the date of arbitral award. In support
+
+[PAGE 6]
+Page 6 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+of their contention, reliance was placed on the judgement of the Hon’ble Supreme
+Court in Dena Bank Vs C. Shivakumar Reddy 2021 SCC Online SC 543
+wherein it has been held that an arbitral award, if not satisfied, would fall within
+the ambit of a “financial debt” of IBC to enable a Financial Creditor to file a
+Section 7 application giving rise to a fresh cause of action and a fresh period of
+limitation. It was contended that the arbitral award would give rise to a fresh
+period of limitation for initiation of CIRP on committing default in making the
+payment as determined by the arbitral award.
+6.
+Ms. Varsha Banerjee, Ld. Counsel for the Respondent No.1 submitted that
+though the date of default was 12.11.2018, after taking into consideration the
+exclusion granted by the Hon’ble Supreme Court in the Suo Moto judgment
+supra, the period of limitation undisputedly stood extended until 28.10.2023.
+However, since an arbitral award was passed on 28.04.2022, this created a fresh
+acknowledgment which in turn reset the period of limitation. Reliance was placed
+on the judgment of the Hon’ble Supreme Court in Dena Bank Vs C.
+Shivakumar Reddy (2021) SCC Online SC 543 wherein it has been held that
+a decree in recovery proceedings gives rise to a new limitation period for initiating
+CIRP if the decree remains unsatisfied. It was emphatically contended that
+arbitral award not only finds mention in para(g) and (h) of the Part-IV but the
+arbitral award was also a part of record before the Adjudicating Authority. Hence
+the Adjudicating Authority did not commit any mistake in holding that the period
+of limitation stood extended from the date of the arbitral award. Attention was
+adverted to the decision of the Hon’ble Supreme Court in Vidyasagar Prasad
+Vs UCO Bank & Anr. in Civil Appeal No. 1031 of 2022 wherein it upheld the
+
+[PAGE 7]
+Page 7 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+Section 7 admission order of NCLAT after extending limitation on the basis of
+balance sheet which had been brought on record before the Adjudicating
+Authority without any pleading having been made with respect to the balance
+sheet acknowledgement in the Section 7 application at Part-IV in Form-1.
+7.
+We have duly considered the arguments advanced by the Learned Counsel
+for both the parties and perused the records carefully.
+8.
+The short issue before us for our consideration is whether the date of
+default arising out of the arbitral award could have been taken cognisance of by
+the Adjudicating Authority in extending the period of limitation without a formal
+amendment application seeking alteration of the date of default.
+9.
+At the very outset, it would be constructive to notice the applicability of
+the Suo Moto orders of the Hon’ble Supreme Court and its impact on extension
+of the period of limitation in the present facts of the case. We find that this
+calculation of limitation period was carried out by the Corporate Debtor and
+incorporated in their written submissions placed before the Adjudicating
+Authority which reads as under:
+PARTICULARS
+DATES
+
+Date of Default (as pleaded in the
+Company Petition)
+12.11.2018
+Limitation expired till 15.03.2020
+(12.11.2018 to 15.03.2020)
+489 days
+Effect of Hon’ble Supreme Court’s Order
+(3 years = 1095 days)
+15.03.2020 to 28.02.2022
+excluded
+Balance period of limitation available
+from 01.03.2022 (1095 days – 489 days)
+606 days
+Therefore, limitation period expired
+on (606 days from 01.03.2022)
+28.10.2023
+Date of filing the captioned Company
+Petition
+08.11.2023
+
+[PAGE 8]
+Page 8 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+It is an uncontested fact that seen from the original date of default of 12.11.2018,
+the three year period of limitation expired on 28.10.2023 after taking into
+account the Suo Moto orders of the Hon’ble Supreme Court. It is also an
+undisputed fact that the Section 7 application was filed on 08.11.2023 which
+was clearly beyond the three year period of limitation when counted from the
+original date of default of 12.11.2018. However, the Adjudicating Authority has
+found the Section 7 application to be within the limitation period on the basis of
+the contention raised by the Respondent No.1 that a fresh acknowledgment had
+been created with the passing of an arbitral award on 28.04.2022.
+10.
+We next choose to peruse the Part-IV of Form-1 filed by the Respondent
+No.1 in the Section 7 application, the relevant portions of which are as extracted
+hereunder:
+PART-IV
+PARTICULARS OF FINANCIAL DEBT
+2.
+AMOUNT CLAIMED TO BE IN
+DEFAULT AND THE DATE ON
+WHICH
+THE
+DEFAULT
+OCCURRED
+(Attach
+The
+Workings
+For
+Computation of Amount and
+Days of Default in Tabular Form)
+Rs. 1,49,21,38,099.61/- (One Hundred and
+Forty Nine Crores Twenty One Lakhs Thirty
+Eight Thousand Ninety Nine Rupees and Sixty
+One Paisa) as on 31st October, 2023.
+
+Date of Default: 12.11.2018
+.........
+g.
+The aforesaid arbitration proceedings
+concluded with an Arbitral Award dated
+28.04.2022 in favour of the Financial Creditor,
+thereby allowing the claim of the Financial
+Creditor, to the tune of Rs. 1,06,84,932/- along
+with interest @ 13% from 01.02.2021 till
+realization and also the cost of Rs. 4,74,064/-
+as litigation costs. On failure on part of the
+Corporate Debtor to pay the claim amount, the
+Financial Creditor also initiated Execution
+Proceeding before Hon’ble Bombay High
+
+[PAGE 9]
+Page 9 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+Court,
+which
+is
+currently
+pending
+for
+adjudication.
+A
+copy
+of
+the
+Arbitral
+Award
+dated
+28.04.2022 in favor of the Financial Creditor
+is
+annexed
+herewith
+and
+marked
+as
+ANNEXURE A-8.
+
+h.
+It is pertinent to note that the Corporate
+Debtor has consistently defaulted since
+12.11.2018. It is submitted that in accordance
+to Article 137 of Limitation Act, 1963, the
+limitation to file a petition under section 7 of
+IBC is 3 years from the date of default or
+acknowledgment.
+
+A plain reading of the above particulars contained in Part-IV of the Section 7
+application shows that the date of default by the Corporate Debtor as claimed
+by the Respondent No.1 is 12.11.2018. We also notice that the Part-IV makes a
+mention of the arbitral award of 28.04.2022 at paras (g) and (h). However, it is
+also pertinent to note that the Part-IV does not claim the date of arbitral award
+to be the new date of default. We also notice that mention has been made that
+execution proceeding in respect of the arbitral award is currently pending
+adjudication before the Hon’ble Bombay High Court.
+11.
+We now proceed to find out how the Adjudicating Authority has computed
+the period of limitation in the impugned order and reproduce the relevant
+paragraphs hereunder:
+“17. We note that though the Financial Creditor in Part IV of the Petition has
+mentioned the date of default as 12.11.2018, the petition also mentions about
+the arbitration proceedings and the Arbitral Award dated 28.04.2022 is
+annexed to the Petition itself. Further, during the course of hearing, Ld.
+Counsel appearing for the Financial Creditor also made his submission that
+
+[PAGE 10]
+Page 10 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+a fresh period of limitation starts from the date of passing of the Arbitral
+Award.
+.......
+22. The loan recall notice dated 07.10.2019 sent by the PMC Bank to the
+Corporate Debtor indicates that the Corporate Debtor has defaulted in timely
+payment of interest. On continuing default by the Corporate Debtor, the PMC
+Bank initiated arbitration proceedings against the Corporate Debtor. The Ld.
+Arbitrator has passed the Arbitral Award dated 28.04.2022 in favour of the
+Financial Creditor.
+23. The Financial Creditor has annexed the NPA Account Statement of the
+Corporate Debtor. As per the statement, the Corporate Debtor received the
+loan amount of Rs. 100 crores on 12.09.2018. The first monthly interest was
+due on 12.10.2018 and the Corporate Debtor had paid interest of Rs.
+1,06,84,932 on 12.10.2018. Thereafter, the Corporate Debtor also made part
+payment of Rs. 19,65,96,986 on 31.10.2018. Thereafter, the Corporate
+Debtor failed to make pay interest for the next month and there onwards
+continued defaulting. Thus, default has been committed on 12.11.2018 i.e.
+the date of payment of monthly interest. The NeSL Report also states the date
+of default to be 12.11.2018. Further, the account of the Corporate Debtor was
+declared as NPA by PMC Bank on 12.02.2019. Thus, the date of default is
+12.11.2018.
+24. Considering that the date of default is 12.11.2018, we note that the
+period of limitation after taking into account the exclusion granted by Hon'ble
+Supreme Court in Suo Moto (supra) gets extended till 28.10.2023. In the
+meantime, the Arbitral Award dated 28.04.2022 was passed in favour of the
+Financial Creditor. It is no more res integra that an award or decree gives rise
+to a fresh cause of action and a fresh period of limitation. We refer to the
+observations of Hon'ble Supreme Court in Dena Bank (supra):
+“130. In effect, this Court speaking through Nariman J., approved the
+proposition that an application under Section 7 or 9 of the IBC may be
+time barred, even though some other recovery proceedings might have
+been instituted earlier, well within the period of limitation, in respect of
+the same debt. However, it would have been a different matter, if the
+applicant had approached the Adjudicating Authority after obtaining a
+final order and/or decree in the recovery proceedings, if the decree
+remained unsatisfied. This Court held that a decree and/or final
+adjudication would give rise to a fresh period of limitation for initiation
+of the Corporate Insolvency Resolution Process.”
+
+[PAGE 11]
+Page 11 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+25. Following the ratio laid down by Hon’ble Supreme Court in Dena Bank
+(supra), the Arbitral Award has given the Financial Creditor a fresh cause of
+action and accordingly, a fresh limitation started from the date of the arbitral
+award, thereby extending the limitation. The present Petition has been filed
+on 09.11.2023. Therefore, we are satisfied that the present petition is within
+limitation.”
+(Emphasis supplied)
+12.
+Perusal of the impugned order as reproduced above shows that the date
+of default in terms of the above order was 12.11.2018 and the date of NPA was
+12.02.2019. The impugned order has also taken note that arbitration
+proceedings had been initiated against the Corporate Debtor in which arbitral
+award was passed in favour of the Respondent No.1-Financial Creditor on
+28.04.2022. While holding the date of default to be 12.11.2018, the Adjudicating
+Authority has, however, worked out the period of limitation by taking into
+account the decision of the Hon’ble Supreme Court in the Suo Moto matter and
+the arbitral award to find the Section 7 application to be within limitation. It is
+therefore, clear that the Adjudicating Authority has on its own held that the
+arbitral award gave rise to a fresh cause of action and a fresh period of limitation
+even while the date of default remained unchanged from what was declared as
+12.11.2018 in Part-IV of the Section 7 application by the Respondent No.1.
+13.
+When we look at the impugned order and on having heard both the parties,
+we find that the Appellant, Respondent No.1 and the Adjudicating Authority
+have all acknowledged the settled law laid down in the judgment of the Hon’ble
+Supreme Court in Dena Bank vs. C. Shivakumar Reddy & Anr. 2021 SCC
+Online SC 543 wherein it held that a final judgment or decree of any Court or
+Tribunal or any Arbitral Award for payment of money, if not satisfied would fall
+
+[PAGE 12]
+Page 12 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+within the ambit of a financial debt enabling the creditor to initiate proceedings
+under Section 7 of the IBC. At this stage, it may be useful to refer also to para
+143 of the said judgment besides para 130 which finds mention in the impugned
+order. Para 143 of the Dena Bank Judgment supra is as extracted below:
+“143. Moreover, a judgment and/or decree for money in favour of the
+Financial Creditor, passed by the DRT, or any other Tribunal or Court, or
+the issuance of a Certificate of Recovery in favour of the Financial
+Creditor, would give rise to a fresh cause of action for the Financial
+Creditor, to initiate proceedings under Section 7 of the IBC for initiation of
+the Corporate Insolvency Resolution Process, within three years from the
+date of the judgment and/or decree or within three years from the date of
+issuance of the Certificate of Recovery, if the dues of the Corporate Debtor
+to the Financial Debtor, under the judgment and/or decree and/or in
+terms of the Certificate of Recovery, or any part thereof remained unpaid.”
+14.
+It is the case of the Corporate Debtor that when the arbitral award has
+neither been set up as the basis of default in the Part-IV of the Section 7
+application nor the date of default has been subsequently amended to be the
+date of arbitral award, the Respondent No.1 is disentitled to claim the benefit of
+limitation from the date of arbitral award. Hence, assailing the impugned order,
+it was vehemently contended that the Section 7 application was clearly not
+maintainable since 12.11.2018 as the date of default remained unchanged. It
+was also contended that the concept of ‘continuing default on the part of
+Corporate Debtor’, claimed by Respondent No.1 is misplaced as ‘continuing
+default’ does not find place in the scheme of IBC.
+15.
+Per contra, it is the contention of the Respondent No.1 that since the
+arbitral award finds mention in para (g) and (h) of the Part-IV and the arbitral
+award was annexed to the Section 7 petition, this was sufficient for being treated
+as an acknowledgement of liability and for extending the period of limitation and
+
+[PAGE 13]
+Page 13 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+Adjudicating Authority had rightly held that it gave rise to a fresh period of
+limitation.
+16.
+It was emphatically asserted by the Respondent No.1 that the arbitral
+award had been filed before the Adjudicating Authority and averment in this
+regard has been made by the Respondent No.1 at paras (g) and (h) of the Part-
+IV in Form-1 application. The arbitral award finds specific mention at para 22 of
+the impugned order basis which extension of limitation was rightly allowed by
+the Adjudicating Authority at para 25 of the impugned order. It was contended
+that since the arbitral award had been brought to the knowledge of the
+Adjudicating Authority, it was sufficient for the Adjudicating Authority to take
+the arbitral award into consideration for deciding the issue of limitation.
+17.
+In support of the above argument, Ld. Counsel for Respondent No.1 has
+relied on the judgment of Vidyasagar Prasad Vs. UCO Bank & Anr. in Civil
+Appeal No. 1031 of 2022 which is reproduced below:
+“5. Aggrieved by the admission of Section 7 application, initiation of CIRP
+and appointment of IRP, the appellant preferred an appeal to the NCLAT,
+Principal Bench. The same arguments were advanced before the NCLAT and
+having considered the same in detail, the NCLAT dismissed the appeal with
+the following reasoning:
+"11.5 Therefore, in the instant case, the balance sheet that has been
+brought on record in the instant case before the Adjudicating Authority
+shall be taken into consideration while deciding the question of limitation
+and default on the part of the Corporate Debtor. The said documents
+cannot be ignored simply on the premise that it is not pleaded in the
+Application filed in Form-1 for initiation of the Corporate Insolvency
+Process......
+13. Having examined the matter in detail, we are of the opinion that the
+findings arrived at by the Adjudicating Authority and NCLAT are correct in
+law and fact. We find no merit in the appeal. The Civil Appeal No. 1031 of
+
+[PAGE 14]
+Page 14 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+2022 arising out of the NCLAT order dated 04.10.2021 (Company Appeal
+(AT)(Insolvency) No. 238 of 2020) is dismissed accordingly.”
+18.
+When we look at paragraphs 5 and 13 of the Vidyasagar judgment supra
+in conjunction, it is clear that even if the balance sheet is not reflected in Form-
+1 but once the balance sheet is brought on record before the Adjudicating
+Authority, the balance sheets are required to be taken into consideration while
+deciding the question of limitation.
+19.
+The Ld. Sr. Counsel for the Appellant drew a distinction in the facts of the
+present case which is premised on an arbitral award while the Vidyasagar
+judgment supra was in the context of balance-sheet being the basis of
+acknowledgement. It was contended that while a balance sheet of a Corporate
+Debtor is an acknowledgment of liability made to the world at large, the same
+principle of acknowledgement cannot be applied in the case of arbitral award
+unless it is specifically pleaded. The balance sheet being an information available
+in the public domain, the same cannot be ignored, in computing the period of
+limitation even if it is not pleaded.
+20.
+In support of their contention, attention was adverted by the Appellant to
+the judgment of the Hon’ble Supreme Court in Asset Reconstruction Company
+(India) Ltd. Vs Bishal Jaiswal (2021) 6 SCC 366 in which the Hon’ble Supreme
+Court had categorically submitted that unless acknowledgement of liability is
+pleaded, it cannot extend limitation. The relevant paragraphs of the Bishal
+Jaiswal judgment supra are as reproduced below:
+“Civil Appeal No. 3765 of 2020
+57. There can be no doubt whatsoever that the appellant has been completely
+remiss and deficient in pleading acknowledgment of liability on the facts of
+this case. However, given the staggering amount allegedly due from the
+
+[PAGE 15]
+Page 15 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+respondents, we afford one further opportunity to the appellant to amend its
+pleadings so as to incorporate what is stated in the written submissions filed
+by it before NCLAT, subject to costs of Rs.1,00,000 to be paid by the appellant
+to the respondents within a period of four weeks from today.
+Civil Appeal No.– 3228 of 2020
+64. As decided by us in Civil Appeal No. 323 of 2021, we give one more
+opportunity to the appellant in this case to amend its pleading on payment of
+costs of Rs.1,00,000 to the respondents within four weeks from today. NCLAT
+judgment dated 7-2-2020 is set aside and the matter is remanded to NCLAT
+to decide the matter afresh in accordance with the law laid down in Civil
+Appeal No. 323 of 2021.”
+21.
+It is therefore the contention of the Appellant keeping in mind the ratio of
+the Bishal Jaiswal judgment, the reliance placed by the Adjudicating Authority
+on the arbitral award to extend the limitation period without any specific
+pleading to that effect by the Respondent No.1 amounted to misinterpretation of
+law and procedure.
+22.
+From a reading of the above-quoted paragraphs of the Bishal Jaiswal
+judgment supra, it is clear that the Hon’ble Supreme Court did not allow the
+date of default to be amended merely on the basis of oral arguments. For
+extending the period of limitation, the concerned parties were directed by the
+Hon’ble Apex Court to necessarily amend their pleadings. Once the Section 7
+application is filed, the date of default in Part-IV becomes binding. We however
+notice that in the instant case, the Respondent No.1 failed to bring about change
+in the date of default through a formal amendment in the Section 7 petition. The
+date of default has been held to be the date of arbitral award by the Adjudicating
+Authority without the Respondent No.1 having made a formal pleading to that
+effect. The Respondent No.1 not having amended their petition or made
+pleadings to the effect that the date of default had changed, the Adjudicating
+
+[PAGE 16]
+Page 16 of 16
+Company Appeal (AT) (Insolvency) No. 490 of 2025
+
+Authority could not have held that the arbitral award of 28.04.2022 had reset
+the limitation period. In the given facts and circumstances, we are therefore
+inclined to agree with the Appellant that the Adjudicating Authority has erred in
+extending the period of limitation basis the arbitral award.
+23. In result, the impugned order is set aside. While giving liberty to the
+Respondent No. 1 to amend their pleadings, within a period of four weeks from
+the date of this order, before the Adjudicating Authority for deciding the question
+of limitation and default on the part of the Corporate Debtor basis the arbitral
+award, the matter is remanded back to the Adjudicating Authority to decide the
+matter afresh in accordance with law and on merits basis the amended
+pleadings, if any, filed by the Respondent No.1. The Financial Creditor shall pay
+the fee & expenses to IRP as directed by the Adjudicating Authority, if not already
+paid. The appeal is disposed of accordingly. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 16.04.2025
+
+Abdul

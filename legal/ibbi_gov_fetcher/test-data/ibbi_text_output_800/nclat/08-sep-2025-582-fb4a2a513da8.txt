@@ -1,0 +1,256 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Ins) No. 578 of 2024
+
+08.09.2025
+
+Present:
+JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+
+MR. BARUN MITRA, MEMBER (TECHNICAL)
+
+Dezire Group
+
+Through Mr. Harmanjeet Singh Bedi, Partner
+
+Vs
+M/s Indamer Mjets Airport Service Pvt. Ltd.
+...Appellant
+
+...Respondent
+(Arising out of Impugned Order dated 20.11.2023 passed by the Adjudicating
+Authority (National Company Law Tribunal, Mumbai Bench, Court - III) in
+C.P.(IB)-1033(MB)/C-III/2022)
+
+For Appellant:
+
+Mr. Palash S. Singhai and Mr. Harshal Sareen,
+Advocates
+For Respondent:
+Mr. Hemant Phalpher and Mr. Kunal Sinha,
+Advocates
+
+JUDGEMENT
+Per Justice N. Seshasayee, Member (Judicial)
+
+An Operational creditor, whose application for initiating a CIRP under Sec 9
+of IBC was dismissed by the Adjudicating Authority on the ground of existence
+of a pre-existing dispute between the parties, has preferred this appeal.
+
+[PAGE 2]
+2
+
+The Facts
+2. The material facts that provide a backdrop to this case are as below:
+a) The appellant is a partnership firm and is involved in the business of
+construction. While so, on 01.03.2021 it entered into a Construction
+Contract with the respondent for the execution of certain civil work and
+allied interior work associated with the lounge near Terminal 3 of Delhi
+International Airport. Alongside this contract, both the parties entered
+into what is known as ‘Workshop Contract’ (the copy of this second
+mentioned contract is not made part of the record, and the debt involved
+in this case does not relate to this contract but to the Construction
+Contract).
+
+b) The Construction Contract stipulated three months’ time for completing
+the work. Clause 15 of the said contract provides that the contractor
+could submit the running bill fortnightly upon receiving which the
+respondent would release payment within 5 days there from. And, the
+contractor is required to submit its final bill within 30 days from the
+date of completion the contracted work duly certified by the respondent,
+and the payment there under would be finalised within 30 days from
+the date of the bill.
+
+c) Be that as it may, the appellant had raised four Running Account bills
+(referred to as Running Bills in the Clause 5 of the Contract), the details
+
+[PAGE 3]
+3
+
+whereof are as below:
+Sl.No
+Date
+Amount
+(in Rs.)
+1.
+10.03.2021
+66,17,293
+2.
+10.06.2021
+36,25,358
+3.
+08.12.2021
+1,11,04,433
+4.
+15.02.2022
+86,64,411
+
+d) Besides the above bills, the appellant claims another Rs.17.0 lakhs
+towards glass and aluminium vide Annexure 5, which was said to have
+been raised sometime in February, 2022.
+
+e) While the contract work was in focus, on 21.03.2022 the respondent
+abruptly terminated the contract. And on 11.04.2022, the appellant
+raised its final bill. In all, the total value of the work which the appellant
+had done is Rs.4,66,89,639/-, out of which the respondent had paid
+Rs.3,09,70,026/- leaving a balance of Rs.1,57,19,613.00 to be paid.
+
+f) According to the appellant, despite due verification of all these bills, the
+respondent showed no intention to honour its liability under the bills.
+It is in these circumstances, on 03.07.2022, the appellant had issued a
+demand notice as required under Sec. 8 IBC, but despite receiving it,
+the respondent showed no interest to pay the same.
+
+The respondent has thus committed default in paying the debt, which in turn
+had given the appellant a cause for filing its petition under Sec.9 of IBC for
+commencing a insolvency resolution process against the respondent.
+
+[PAGE 4]
+4
+
+3. In its Reply, the respondent contended:
+a) That the construction contract which the appellant had entered into
+with the respondent commenced on 01.03.2021, and it stipulated that
+the entire work must be completed in three months. However, the
+appellant did not complete the work within the time stipulated, and
+since the contract-period had fallen within the pandemic days due to
+Covid – 19, time was periodically extended and finally up to 31.01.2022.
+The work still was not complete. Hence the respondent was constrained
+to terminate the Construction Contract.
+b) In terms of the contract dated 01.03.2021, if the appellant delayed in
+completing the work, it is liable to pay a penalty of Rs.25,000/- a day.
+c) This apart vide e-mails dated 02.12.2021, 24.12.2021 and 09.01.2022,
+complaints were raised on the aspect of delay, on the invoice, and also
+on the quality of work done. In effect, the respondents have raised
+certain dispute even prior to the commencement of CIRP.
+d) IBC is not a recovery mechanism, and if at all the appellant feels
+aggrieved, it should resort to arbitration in terms of the contract.
+4. After considering the rival submissions, the Adjudicating Authority had
+concluded vide its Order dated 20.11.2023 that the appellant’s Petition under
+Section 9 of IBC is liable to be dismissed since there exists a pre-existing
+dispute between parties which included delay in performance of the
+contractual obligation by the appellant. This Order is now under challenge.
+
+[PAGE 5]
+5
+
+Arguments
+5. The learned counsel for the appellant submitted: that on 11.04.2022
+(however, in the notes of arguments provided by the appellant it is mentioned
+as 14.04.2022) the appellant raised the final bill and it was verified by the
+respondent. When once the final bill amount was verified by the respondent,
+the latter’s obligation to pay the amount so verified commences. Admittedly,
+this amount has not been paid, and it completes the debt-default equation
+necessary to invoke Sec.9 IBC. Reliance was placed on the ratio of this
+tribunal in R.R.Gopaljee Vs I.O.B. & Others [Comp. A (AT)(Ins) 748 of 2019].
+The tribunal however, relied on an e-mail of the respondent dated 25.04.2022
+for concluding that there existed a dispute which originated even prior to the
+issuance of notice under Sec.8 IBC, but this e-mail relates to what is styled
+as ‘Workshop Contract’, and does not relate to the contract vis-à-vis the final
+bill whose non-payment has given rise to the cause of action for invoking Sec.9
+IBC.
+6. Per contra, the learned counsel for the respondent submitted that the main
+plank of the respondent’s defence was that the appellant had not completed
+the contracted work despite multiple extension and it forced the respondent
+to terminate the contract. Now for belated payment the respondent is entitled
+to claim penalty @ Rs.25,000/- for every day of delay. Secondly, the purported
+claim in the final bill is only for Rs.81,76,767/- and it does not meet the
+threshold limit of Rs.1.0 crore to invoke the IBC. Thirdly, that the claim of the
+appellant was not free of dispute is established by: (i) in the final bill, an
+endorsement has been made on behalf of the respondent that it is not
+
+[PAGE 6]
+6
+
+accepted; (ii) that vide e-mail dated 26.11.2022, the appellant had listed its
+difficulties in executing the work and in the respondent’s mail dated
+02.12.2021, the respondent had alleged the appellant of its negligence in
+executing the work; (iii) in its e-mail dated 09.01.2022, the respondent had
+raised quality-issue in the work executed by the appellant which relates to
+leakage due to rain. Indeed, the respondent had expressed its displeasure
+both regarding the pace of execution of the work and quality of the work done
+vide e-mails dated 01.02.2022 and 14.02.2022, and eventually the
+respondent was constrained to terminate the contract. In effect, the appellant
+attempts to brand a solvent company as insolvent when the fault lies with it.
+Reliance was placed on the ratio in Kay Bouvet Engineering Ltd., Vs
+Overseas Infrastructure Alliance (India) (P) Ltd., [(2021)10 SCC 483].
+Discussion & Decision
+7. After carefully evaluating rival submissions we consider that this appeal is
+liable to be dismissed, and the reasons are:
+a) That the final bill dated 11.04.2022 is not seen approved for payment
+by the respondent, nor its correctness acknowledged by it. On the
+contrary, the respondent’s representative has made two endorsements.
+The first endorsement runs into two sentences and commences with the
+phrase: ‘Not accepting...’. The learned counsel for the appellant
+contended that it related to releasing the security deposit, but on a plain
+observation of the final bill it is not adequately evident that the phrase
+‘not accepting’ must be read only in relation to the security deposit, even
+
+[PAGE 7]
+7
+
+though the endorsement also refers to security deposit. And there is a
+second endorsement as well. Taking both these endorsements together,
+it does not establish that the respondent had accepted the liability
+under the final bill unconditionally and without any qualification. This
+requires further evidence and it cannot be decided in a summary
+proceeding.
+b) In terms of the final bill (Annexure 6), the net amount payable was
+mentioned as Rs.81,76,767/-. However, in the statutory demand notice
+dated 03.07.2022, it is mentioned as Rs.1,02,87,004/-. To this was
+added another Rs.17.0 lakhs as bill for glass and aluminium. It is not
+adequately explained how Rs.81.76,767/- has enlarged to Rs.1.02 crore
+and odd. Now, unless the justification for a claim of Rs.1.02 crore has
+been established, even the inclusion of the bill for Rs.17.0 glass and
+aluminium will not help in crossing the threshold limit of Rs.1.0 crore.
+In effect, the appellant has not been able to establish the exact debt due
+from the respondent, and at any rate that it is at least more than the
+threshold limit of Rs.1.0 crore. When the entire case of the appellant is
+spun around the final bill dated 11.04.2022, it is not adequately
+explained how it hits the threshold limit for invoking the IBC.
+c) There are two e-mails, of which one is from the respondent to the
+appellant dated 09.01.2022 (Annexure D to the respondent’s reply filed
+before the tribunal below) in which it had pointedly raised an issue of
+quality of the work done. The other e-mail is dated 31.05.2022 from
+the appellant to the respondent wherein the representative of the
+
+[PAGE 8]
+8
+
+appellant writes: “My bills have been verified and submitted, barring a
+few discrepancies, which have to be sorted out....”. There is no reference
+as to when exactly this discrepancy was and if it was sorted out. This
+apart, Clause 15 of the Construction Contract stipulates that the
+payment of the final bill would be done but after due certification of the
+completion of the work. To sum up, the final bill is not unqualified. This
+apart, the respondent himself has admitted to some discrepancies in
+the bill. Given the setting, there is a doubt if the time for payment of the
+alleged debt has arrived. In other words, both the debt and the default
+in paying the same which are sine qua non for invoking Sec.9 are in
+doubt.
+d) That the work was not executed in time, that it was not completed
+despite extension of time granted by the respondent, that the
+respondent had terminated the contract etc., are not disputed, nor is
+the contractual term enabling the respondent to claim Rs.25,000/-
+from the appellant for every day’s delay. Whether the respondent will
+be entitled to claim damages at Rs.25,000/- per day might have to be
+tested in a separate proceeding, but nothing prevents the respondent
+from making the claim based on this term. And, the respondent had
+raised this point in its defence, and if this is telescoped into the case of
+the appellant, it leaves the appellant’s claim shaky.
+8. It is very apparent that the case of the appellant is not free of factors which
+the IBC regime does not accommodate. Consequently, this tribunal does not
+find any material to interfere with the Order of the Adjudicating Authority
+
+[PAGE 9]
+9
+
+dated 20.11.2021 in C.P. (IB) 1033 of 2022. This appeal is accordingly
+dismissed.
+
+(Justice N. Seshasayee)
+Member (Judicial)
+
+(Barun Mitra)
+Member (Technical)

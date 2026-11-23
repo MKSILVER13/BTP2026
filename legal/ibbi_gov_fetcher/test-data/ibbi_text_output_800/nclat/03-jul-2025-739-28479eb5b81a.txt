@@ -1,0 +1,1076 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+
+(Arising against the impugned order dated 16.06.2023 passed by the Hon’ble
+National Company Law Tribunal, Mumbai Bench in CP (IB) No.
+144/MB/2023)
+
+IN THE MATTER OF:
+
+IDBI Bank Ltd.
+
+Registered Office at:
+
+IDBI Tower, WTC Complex, Cuffe Parade,
+Mumbai-400005.
+
+Branch Office:
+
+7th Floor, NMG, IDBI Tower,
+WTC Complex, Cuffe Parade,
+Mumbai-400005.
+
+Through its Authorised Signatory,
+Mr. O.T. Tolani, General Manager
+E-mail: ot.tolani@idbi.co.in
+
+...Appellant
+
+Versus
+
+ARM Infra & Utilities Pvt. Ltd.
+
+18th Floor, A Wing, Marathon Futurex,
+N.M. Joshi Marg, Lower Parel,
+Mumbai-400013.
+
+E-mail: rohan.kabra@esselgroup.in
+secretarial@esselgroup.in
+
+...Respondent
+
+Present:
+For Appellant: Mr. Sudhir Makkar, Sr. Advocate, Mr. Sidhartha Barua,
+Mr. Praful Jindal, Mr. Akash Mohan, Ms. Aadhya,
+Advocates.
+For Respondents:
+Mr. Krishnendu Datta, Sr. Advocate, Ms. Smriti
+Churiwal, Mr. Jaiveer Kant, Advocates.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+J U D G M E N T
+(3rd July, 2025)
+
+INDEVAR PANDEY, MEMBER (T)
+
+The present appeal arises out of the judgment and final order dated
+16.06.2023 passed by the National Company Law Tribunal, (Adjudicating
+Authority) Mumbai Bench in CP (IB) No. 144/MB/2023, whereby the Section
+7 petition under Insolvency and Bankruptcy Code, 2016 (‘Code’) filed by the
+IDBI Bank Ltd./(Appellant), against ARM Infra & Utilities Pvt. Ltd. the
+Corporate Guarantor/(Respondent), was dismissed. The Appellant had
+sought initiation of Corporate Insolvency Resolution Process (CIRP) under the
+Code, on account of a default of Rs.193.82 crore by the Principal Borrower
+Siti Networks Ltd., whose liabilities were secured by unconditional and
+irrevocable corporate guarantees executed by the Respondent.
+2.
+The Adjudicating Authority vide the impugned judgement held that the
+date of default fell within the “prohibited period” (i.e., between 25.03.2020
+and 25.03.2021) under Section 10A of the Code, and therefore rejected the
+petition as non-maintainable. Aggrieved by the said dismissal, the Appellant
+has preferred the instant appeal under Section 61 of the code, challenging the
+erroneous interpretation of the default date and the applicability of Section
+10A to the facts of the case.
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Brief Facts of the Case
+3.
+The brief facts of the case are given below:
+i.
+On 24.11.2008, IDBI Bank Ltd. (Appellant) sanctioned a Cash Credit
+facility of Rs.25 crore in favour of Wire and Wireless (India) Ltd., which
+was later renamed as Siti Networks Ltd., (the Principal Borrower. The
+purpose of the facility was to meet working capital requirements,
+secured by a first pari-passu charge on movable and immovable assets,
+and a corporate guarantee from Zee Entertainment Enterprises Ltd.
+ii.
+Subsequently, on 09.12.2009, two separate facilities were extended—
+(a) a renewed Working Capital Facility (Rs.50 crore limit, including
+CC/STL and LC components), and (b) a Rupee Term Loan (RTL) of Rs.75
+crore—for capital expenditure and working capital augmentation.
+Security was provided by Zee Entertainment Enterprises Ltd., with
+Board Resolutions supporting the transactions. The working capital
+facility was further renewed and enhanced, including a CMS limit of
+Rs.2 crore, under an overall credit exposure of Rs.62 crore on
+09.03.2011.
+iii.
+On 29.05.2012, the Appellant sanctioned enhanced credit facilities of
+Rs.150 crore (Rs.50 crore Fund-Based and Rs.100 crore Non-Fund-
+Based), along with a Letter of Exchange Risk (LER) limit of Rs.5 crore
+and continued CMS limits of Rs.2 crore. A fresh Board Resolution was
+passed by the Principal Borrower confirming acceptance of terms.
+iv.
+The facility structure was further renewed and raised by the appellant
+on 26.12.2014 on 26.12.2014. the Respondent, ARM Infra & Utilities
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Pvt. Ltd., executed a Corporate Guarantee dated 31.12.2014 in favour
+of the Appellant, covering the entire facility obligations of the Principal
+Borrower. This was supported by resolutions from the Respondent’s
+Board of Directors.
+v.
+On 11.02.2016, the Appellant further renewed the sanction facilities
+including enhanced term loans and working capital exposure. In
+relation
+thereto,
+the
+Respondent
+executed
+another
+Corporate
+Guarantee dated 29.02.2016, reinforcing its undertaking to repay the
+dues of the Principal Borrower in case of default. These facilities were
+further revised and continued on 19.07.2017 and 19.12.2018.
+vi.
+On 31.12.2018, a joint Revival Letter was executed by both the Principal
+Borrower and the Respondent, reaffirming their liability under the
+respective financial arrangements, thereby extending limitation under
+the corporate guarantee.
+vii.
+The account of the Principal Borrower was declared as Non-Performing
+Asset (NPA) on 31.01.2020 by the Appellant due to non-payment of
+interest and principal dues. As per records, the default amount was
+Rs.193,82,66,336.74 as on that date. Appellant continuously engaged
+with principal borrower to make the account regular, however the
+efforts of the bank did not succeed.
+viii.
+Due to the continuing default, the Appellant issued a Recall Notice
+dated 18.02.2021 to the Principal Borrower, demanding immediate
+repayment of the entire outstanding amount of Rs.193.82 crore.
+ix.
+The Appellant served formal Demand Notice on 05.03.2021, upon the
+Respondent (Corporate Guarantor) invoking the corporate guarantees
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+dated 31.12.2014 and 29.02.2016, calling upon the Respondent to pay
+the defaulted sum of Rs. 60.87 crore towards Working capital facility
+(fund based) and Rs.16.98 Crore towards Rupee Term Loan (RTL). There
+was no response or payment from the Respondent.
+x.
+the Appellant issued a Second Notice to the respondent invoking the
+corporate guarantee on 09.12.2022, in view of further default by the
+principal borrower and asking the respondent to deposit Rs. 166.78
+crores within seven days from the receipt of the notice. This amount
+related to working capital and Term-loan. Despite ample opportunity,
+the Respondent failed to comply.
+xi.
+The Appellant filed a Section 7 Petition under Code on 11.01.2023,
+before the Adjudicating Authority seeking initiation of Corporate
+Insolvency Resolution Process (CIRP) against the Respondent as a
+Corporate Guarantor. The Appellant filed an Additional Affidavit in
+support of its petition on 28.02.2023, further affirming the
+enforceability of the corporate guarantees and continuing nature of
+default.
+xii.
+The Adjudicating Authority vide its order dated 16.06.2023 dismissed
+the Section 7 Petition, holding that the date of default fell within the
+barred period under Section 10A of IBC.
+xiii.
+Aggrieved by the said dismissal, the Appellant has filed the present
+appeal under Section 61 of the IBC, assailing the findings in the
+impugned order dated 16.06.2023 and seeking admission of the Section
+7 petition against the Respondent.
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Submissions of the Appellant
+4.
+The Learned Counsel appearing for the Appellant submits that the
+impugned order dated 16.06.2023 passed by the Hon’ble National Company
+Law Tribunal, Mumbai Bench in CP (IB) No. 144/2023, is liable to be set aside
+as the Adjudicating Authority failed to appreciate that the present application
+under Section 7 of the IBC was not premised on the guarantee invocation
+dated 05.03.2021, which admittedly fell within the scope of the Section 10A
+exclusion period, but rather on a fresh and independent invocation dated
+09.12.2022, which occurred well after the expiry of the 10A bar. It is
+submitted that the said invocation was based on continuing contractual
+obligations under two corporate guarantees executed by the Respondent—
+Corporate Guarantee I dated 31.12.2014 and Corporate Guarantee II dated
+29.02.2016; each of which were explicitly continuing, irrevocable,
+unconditional, and on-demand in nature. The invocation dated 09.12.2022,
+along with the computation dated 08.12.2022, formed the foundational basis
+of the debt and default as reflected in Entry 2 and Entry 8 of Part IV of the
+Form-1 application filed before the Hon’ble Tribunal.
+5.
+The Appellant’s counsel submits that the financial facilities were
+granted to the Principal Borrower, Siti Networks Ltd., under a Rupee Term
+Loan sanctioned on 26.12.2014 amounting to Rs.125 Crores, and further
+working capital facilities were sanctioned on 29.02.2016. These facilities were
+duly secured by the aforementioned corporate guarantees executed by the
+Respondent. It is pertinent to note that the Respondent’s obligations under
+these guarantees were co-extensive with those of the Principal Borrower, and
+expressly permitted multiple and successive invocations until full and final
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+repayment of all dues. In particular, Clause 15 of Guarantee I and Clause 7
+of Guarantee II unambiguously provide that the guarantor shall be liable to
+pay the outstanding amounts “on demand” and that the guarantee shall not
+be exhausted by partial payments or earlier demands. These clauses, coupled
+with Clause 18 of CG-I describing the guarantee as a “continuing guarantee,”
+render the Appellant’s right to issue a fresh demand both lawful and
+enforceable.
+6.
+Ld. Counsel further submitted that the first invocation of the corporate
+guarantees was made on 05.03.2021, for Rs. 60.87 Crore towards Working
+Capital Facility and Rs. 16.98 Crores towards Rupee Term Loan (RTL) facility
+shortly after the issuance of the Recall Notice dated 18.02.2021. However, this
+invocation was made during the Section 10A exclusion period, which lasted
+from 25.03.2020 to 25.03.2021. Though the invocation was valid, any default
+arising therefrom could not form the basis of a Section 7 application, in view
+of the statutory bar.
+7.
+The Ld. Counsel submits that subsequent to this invocation, and
+despite partial payments made by the Principal Borrower (including Rs.24
+Lakhs on 29.05.2021 and Rs.6.14 Crores on 12.04.2022), the Respondent
+continued to remain in default, leading to a fresh and independent invocation
+on 09.12.2022.
+8.
+The learned counsel for the Appellant emphasizes that the second
+invocation dated 09.12.2022 was issued pursuant to the continuing
+contractual liability of the Respondent to maintain a Debt Service Reserve
+Account (DSRA) of Rs.166.78 Crores, as computed on 08.12.2022. This
+demand, made under the terms of the loan documents and guarantees, was
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+clear and unconditional, and called upon the Respondent to deposit the said
+amount within seven days. This invocation, being distinct in its nature, time
+frame, and substance, gave rise to a new cause of action, post the expiry of
+the Section 10A bar, and therefore cannot be dismissed merely because of the
+existence of a prior invocation.
+9.
+The Appellant further relies upon the decision of this Hon’ble Tribunal
+in ‘NuFuture Digital (India) Ltd. v. Axis Trustee Services Ltd., Co.’ [Company
+Appeal (AT) (Ins.) No. 444/2023], wherein at para 20 it was held that even if
+the original invocation fell within the 10A bar period, a fresh invocation post
+10A with subsisting default is legally permissible. Similarly, in ‘SIDBI v.
+Sambandh Finserve Pvt. Ltd., Co.’ [Company Appeal (AT) (Ins.) No. 784/2023],
+at paras 28-29, it was held that continuing obligations under a guarantee
+allow multiple invocations, and default arising after the 10A period can
+sustain a Section 7 petition. The Appellant also relies on ‘Manmohan Singh
+Jain v. State Bank of India’, [2021 SCC OnLine NCLAT 5983], where at para
+47 this Tribunal held that even if the date of default is not explicitly stated in
+Form-1, the application is not defective if sufficient documentary evidence is
+placed on record establishing default.
+10.
+The Appellant’s counsel further distinguishes the ruling in ‘IDBI Bank
+Ltd. v. Zee Entertainment Enterprises Ltd., Co.’ [Company Appeal (AT) (Ins.)
+No. 939/2023], where the only invocation was dated 05.03.2021 and there
+was no subsequent demand or invocation. In contrast, the present application
+is squarely based on the 09.12.2022 invocation, which is a distinct and new
+default supported by contractual documents, and clearly falls outside the
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Section 10A shield. Moreover, the Respondent has not placed any material to
+rebut this fresh invocation or the computation dated 08.12.2022.
+11.
+Lastly, the Appellant submits that the law as laid down by the Hon’ble
+Supreme Court in ‘Dena Bank v. C. Shivakumar Reddy’ [(2021) 10 SCC 330],
+para
+144,
+and
+‘Kotak
+Mahindra
+Bank
+Ltd.
+v.
+Anuj
+Kumar’,
+[MANU/DE/4116/2015 (Del HC)], supports the proposition that each default
+gives rise to a fresh cause of action, and where guarantees are continuing,
+repeated demands can be raised lawfully. In the present case, the Appellant’s
+second invocation stands on firm legal footing, and the denial of admission
+solely on the basis of the earlier invocation is an error apparent on the face of
+the record.
+12.
+Therefore, in light of the facts, contractual terms, repeated defaults, and
+settled jurisprudence, the Appellant humbly prays that the present appeal be
+allowed, the impugned order dated 16.06.2023 be set aside, and the
+application under Section 7 of the IBC against the Respondent be admitted to
+initiate CIRP.
+Submissions of the Respondent
+13.
+The Learned counsel appearing for the Respondent submits that the
+impugned order passed by the Hon’ble NCLT on 16.06.2023 does not suffer
+from any infirmity and deserves to be upheld. It is submitted that the
+application under Section 7 filed by the Appellant is wholly barred by the
+express mandate of Section 10A of the IBC, as the only valid invocation of the
+corporate guarantees executed by the Respondent was made on 05.03.2021,
+which squarely falls within the statutory bar period of 25.03.2020 to
+25.03.2021. The invocation notices served on that date demanded Rs.16.98
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Crores and Rs.60.87 Crores under the RTL and WCF respectively. These were
+full and final invocations, and no reservation was made in the said letters
+regarding future or repeated invocation.
+14.
+The Respondent further submits that the so-called second invocation
+dated 09.12.2022 was not an invocation of the guarantee in law or in
+substance. The said letter was not issued under any express provision of the
+corporate guarantees and merely directed the Respondent to maintain a DSRA
+amount of Rs.166.78 Crores. However, there is no clause under either CG-I
+or CG-II which imposes such a DSRA obligation on the Respondent. Moreover,
+once the facilities were recalled on 18.02.2021 and the guarantees were
+invoked on 05.03.2021, the entire outstanding amount under the loan stood
+accelerated and became due. Thereafter, the concept of maintaining a DSRA—
+meant to be a reserve for servicing future instalments—ceased to have any
+contractual or practical relevance.
+15.
+It is also submitted that the invocation made on 05.03.2021 was the
+only valid invocation pleaded by the Appellant before the Hon’ble NCLT. In
+Part IV of Form-1, the Appellant mentioned the date of default as 29.12.2019,
+i.e., the NPA date, and further referred only to the 05.03.2021 letters as the
+basis of default. The invocation dated 09.12.2022 was never pleaded as the
+foundation of default in the original application. It is settled law that an
+applicant cannot improve its case at the appellate stage. In this regard,
+reliance is placed on the judgment of the Hon’ble Supreme Court in ‘Bachhaj
+Nahar v. Nilima Mandal’ [(2008) 17 SCC 491], paras 12–13, and ‘Arikala
+Narasa Reddy v. Venkata Ram Reddy’ [(2014) 5 SCC 312], para 15.
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+16.
+The Respondent strongly relies on IDBI Bank Ltd. v. Zee Entertainment
+Enterprises Ltd., (supra), where this Hon’ble Tribunal, on identical facts, held
+that invocation dated 05.03.2021 being within the Section 10A bar period,
+could not sustain a Section 7 application. There, as here, the invocation was
+under the same facilities, against the same borrower, and involved identical
+language. This authoritative ruling covers the present case squarely.
+17.
+The Respondent also submits that the invocation of a guarantee is a
+one-time cause of action unless expressly permitted otherwise. There is no
+contractual provision permitting second invocation once full liability has been
+demanded. In this respect, the Respondent places reliance on ‘Syndicate Bank
+v. Channaveerappa Beleri’ [(2006) 11 SCC 506], paras 9-13, wherein the
+Hon’ble Supreme Court held that the right to sue a guarantor accrues only
+upon invocation, and not on the date of borrower’s NPA.
+18.
+In conclusion, the Respondent humbly submits that the present appeal
+is wholly devoid of merit, and that the Appellant, having invoked the
+guarantee within the Section 10A bar period, cannot resuscitate its cause of
+action through an unrelated demand letter issued 20 months later. The
+invocation of 09.12.2022 cannot be construed as a fresh default under the
+guarantees. Therefore, the impugned order does not warrant any interference
+and the appeal may be dismissed with costs.
+
+Analysis and Findings
+19.
+We have gone through the records of the case and heard the Learned
+Counsels in detail.
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+20.
+There are three basic issues to be decided in the present case.
+(i)
+Whether the second invocation dated 09.12.2022 reflects a fresh
+default with fresh cause of action beyond Section 10A exemption
+period?
+(ii)
+Whether
+multiple
+invocations
+to
+continuing
+guarantees
+is
+permissible?
+
+21.
+In the present case the loan account of principal borrower (Siti
+Networks Ltd.) was classified as Non-performing Asset (NPA) by the appellant
+on 29.12.2019. The amount outstanding on that date was Rs. 193.82 Crores.
+This date is significant as it is prior to commencement of Section 10 A period
+which begun on 25.03.2020. Prior to the classification as loan as NPA, the
+principal borrower consistently acknowledged the liability through various
+communications including a revival letter dated 31.12.2018 and further
+emails during February and March 2020 which affirmed the continuity of debt
+obligation and reflected a liability that pre-dated the Section 10A period.
+
+22.
+The Respondent had executed two guarantees, the first on 31.12.2014
+and the second on 29.02.2016. The first invocation of these guarantees by
+IDBI Bank occurred on 05.03.2021 during the prohibited period under the
+Section 10A. The Adjudicating Authority treated this as the only date of
+default and held that the Section 7 petition was not maintainable.
+23.
+The Adjudicating Authority in para 4.6 of the impugned order has given
+the following findings:
+4.6 This Bench finds that the Financial Creditor has contended
+that the default is established by multiple documents including
+(a)
+emails
+dated
+31.12.2018,
+16.01.2019,
+02.02.2019,
+04.02.2019, 28.02.2020, 02.03.2020 (all before the Covid
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Period); and (b) 18.02.2021, 05.03.2021 and 09.12.2022. On
+perusal of email dated 31.12.2018, this Bench finds that the
+said email pertains to intimation to the principal borrower
+regarding devolvement of a bank guarantee on 28.02.2018 with
+request to principal borrower to regularize CC account. The
+email dated 16.01.2019 for also requires the principal borrower
+to regularize the account. The email dated 02.02.2019 informs
+the avoiding possession in account as on 02.02.2019 with
+request to principal borrower to regularize CC account. The
+email dated 04.02.2019 is response from the Corporate Debtor
+assuring the Financial Creditor that the principal borrower's
+internal accruals and cash flow is enough to take care all the
+future debts service obligation requirement and sought removal
+of lien from the cash credit account. Further, email dated
+28.02.2020, a copy of which is marked to Mr. Chetan Sharma
+of the Corporate Debtor, is a communication from the principal
+borrower seeking suitable restructuring to help the principal
+borrower to overcome the liquidate issue and requested not to
+take any legal action against the principal borrower. The email
+dated 02.03.2020 is an email response from the Financial
+Creditor to the email dated 28.02.2020 seeking clarity on the
+restructuring request and informing the avoiding position as on
+02.03.2020. The said email communicated that Financial
+Creditor will be forced to initiate action against the borrower and
+guarantor company. Communication dated 18.02.2021 and
+05.03.2021 is a notice of recall of facilities and notice of
+invocation of guarantee respectively. This Bench does not find
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+any demand having been made upon the Corporate Debtor
+asking it to pay the amount outstanding against the principal
+borrower in these communications except notice dated
+05.03.2021.”
+(Emphasis supplied)
+24.
+In paragraph 4.11 of the impugned order the Adjudicating Authority
+gave the following findings:
+“4.11. In the present case, it is undisputed facts that the first
+demand notice was addressed to the Corporate Debtor on
+05.03.2021 to pay an amount of Rs. 60,67,89,718/-, being
+outstanding in working facility capital account and another
+amount of Rs.16,98,45,076.61/- upon receipt of the notice.
+accordingly, the default qua Corporate Debtor took place on the
+date when the demand notice dated 05.03.2021 was served
+upon it. The Financial Creditor has not claimed that the service
+of the demand notice was complete on after 24.03.2021.
+Accordingly, this Bench is of the considered view that the
+Corporate Debtor committed the default in in discharge of its
+obligation under guarantee agreement dated 31.12.2014 and
+29.02.2016 during the period specified in Section 10A of the
+Code. As per the provisions of Section 10A of the Code, no
+application for initiation of corporate insolvency resolution
+process can be filed in respect of a default that has occurred on
+or after 25th March, 2020 till 24th September, 2020. By a
+notification dated 24th September 2020 the applicability of
+Section 10A was extended for a further period of three months
+till 25th December, 2020. Thereafter, by a notification dated
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+22nd December, 2022 the applicability of section 10A was
+further extended by a period of three months till 25th March,
+2021. Thus, Section 10A bars absolutely and forever, the filing
+of any application under Sections 7, 9 and 10 of the Code, for
+defaults committed on or after 25th March, 2020 upto 25th
+March, 2021.”
+25.
+It is seen from the findings in the paragraph 4.6 and 4.11 that the
+Adjudicating Authority did not find any demand having been made on the
+Corporate Debtor asking it to pay the outstanding amount against the
+Principal Borrower except for notice dated 05.03.2021. The Tribunal mentions
+the email dated 09.12.2022 but does not examine it or discuss it and relies
+totally on notice dated 05.03.2021. Whereas it is seen from the records that
+the letter dated 09.12.2022 is the second demand placed upon the Corporate
+Debtor based on the continuing default by the Principal Borrower.
+
+26.
+It is important to note that the Section 7 application filed on 11.01.2023
+was not based solely on 05.03.2021 invocation. The first invocation of
+05.03.2021 was only made for funds based working capital facilities for an
+amount of Rs. 60.87 Crores under Working Capital Facility and Rs. 16.98
+Crores towards Rupee Term Loan (RTL). A second invocation was made on
+09.12.2022, after a detailed computation as on 08.12.2022, which reaffirmed
+the continuing default and the failure of Corporate Guarantor to discharge its
+obligations. These were placed on record before the Adjudicating Authority.
+27.
+To obtain the correct picture we have a look at the relevant portions of
+Form-1 are extracted below:
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+“Part (iv)- Particulars of financial debt
+Amount claimed to be in
+default and the date on
+which
+the
+default
+occurred
+(attach
+the
+workings for computation
+of amount and days of
+default in tabular form)
+
+The total amount of default under
+the Working Capital Facility of Rs
+150 crore and term loan of Rs. 125
+crore
+is
+Rs.
+168,45,83,258/-
+(Rupees One Hundred Sixty Eight
+Crore Forty Five Lakh Eighty Three
+Thousand Two Hundred and Fifty
+Eight Only) as on 08 December
+2022 together with the applicable
+interest, penal interest, premia,
+charges
+etc.
+thereon
+at
+the
+contractual rates upon the footing of
+compound
+interest
+until
+payment/realization
+to
+the
+satisfaction of Financial Creditor.
+
+The Borrower defaulted in payment
+of its obligations under the Working
+Capital Facility on 30 September
+2019 and under the 125 Cr. Term
+Loan Facility on 30 September 2019
+and the account of the Corporate
+Debtor was classified as a Non-
+Performing Asset on 29 December
+2019
+in
+accordance
+with
+the
+existing guidelines of Reserve Bank
+of India.
+
+A tabular computation of amount in
+default and days of default is
+annexed herewith as "Annexure
+AE".
+
+Part -V -Particulars of Financial Debt (Documents,
+Records and Evidence of default)
+8. List of other documents attached to this application in
+order to prove the existence of financial debt, the amount and
+date of default
+(C). On 05 March 2021, the Financial Creditor invoked the
+guarantee provided by the Corporate debtor under deed of
+guarantee dated 29 February 2016 and called upon the
+Corporate debtor to pay Rs 60,87,89,718.00 together with
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+further interest from 18 February 2021. The Financial
+Creditor has not received any response to the invocation
+letter dated 05 March 2021. A copy of the demand notice
+dated 5 March 2021 is annexed hereto and marked as
+Annexure-O.
+(D). By way of separate letter dated 5 March 2021, the
+Financial Creditor invoked the guarantee provided by the
+Corporate debtor under deed of guarantee dated 31
+December 2014 and called upon the Corporate debtor to pay
+Rs 16,98,45,076.61 together with further interest from 18
+February 2021. The Financial Creditor has not received any
+response to the invocation letter dated 05 March 2021. A
+copy of the demand notice dated 5 March 2021 is annexed
+hereto and marked as "Annexure-P".
+(G). The Financial Creditor issued notice dated 21 November
+2022 to the Borrower calling upon the Borrower to maintain
+the DSRA balance. A copy of the notice dated 21 November
+2022 is annexed and marked as "Annexure R".
+(H). Subsequent to the failure on the part of the Borrower to
+maintain the DSRA balance, Financial Creditor issued notice
+dated 09 December 2022 to the Corporate Debtor
+demanding Corporate Debtor to maintain the DSRA balance.
+A copy of the notice dated 09 December 2022 is annexed
+hereto and marked as "Annexure-S".
+28.
+It can be seen from the Part (iv) of Form-1 that the appellant has
+calculated the amount in default by Principal Borrower from 29.12.2019
+which was the date of NPA in accordance with the existing guidelines of
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Reserve Bank of India. In Part(V) of the Form-1 the appellant has given the
+sequence of events with regard to existence of Financial Debt, the amount and
+date of default. It can be seen from description in Para (C) and (D) that the
+first invocation was made on 05.03.2021 for Rs. 60.87 Crores towards
+Working Capital Facility (fund based) and by a separate letter of the same date
+for Rs. 16.98 Crores as rupee term loan.
+29.
+From Para (G) and (H) of Part (V) we see that on 09.12.2022 a separate
+notice was issued to Corporate Debtor. This notice is also invocation of the
+Corporate Guarantee for Rs.166.78 Crores. This invocation was for both fund
+based and non-fund based Working Capital Facility, Rupee Term Loan and
+other dues.
+30.
+We also have a look at the relevant Clauses 6 & 7 of the letter dated
+09.12.2022 which is extracted below:
+“6. In view of the defaults committed by Borrower towards
+maintenance of DSRA, we in terms of aforementioned clauses of
+guarantee agreement, call upon you to immediately to maintain
+a balance of Rs. 166,78,34,329/- (Rupees One Hundred Sixty
+Six Crore Seventy Eight Lakh Thirty Four Thousand Three
+Hundred Twenty Nine Only) as on November 14, 2022 in DSRA
+within seven days from the date of receipt of this letter.
+7. In case of your failure to comply as aforesaid, IDBI Bank shall
+be constrained to take such steps as may be necessary for
+enforcing its rights at your own risk, as to the costs and
+consequences thereof.”
+31.
+This is similar to the language of notice dated 05.03.2021, the relevant
+para 6 is extracted below:
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+“6. In the premises, we hereby call upon you and demand from
+you to pay forthwith to IDBI Bank at IDBI Tower, 8th floor, "D"
+Wing, WTC Complex, Cuffe Parade, Mumbai 400 005 sums
+aggregating Rs.60,87,89,718/- (Rupees Sixty crore, eighty
+seven lakh, eighty nine thousand seven hundred and eighteen
+only), as per details given in Annexure II of this letter, together
+with further interest thereon with effect from 18.02.2021 at the
+given contractual rates, upon the footing of compound interest
+until payment/realisation. In case, you fail to make the
+payments as aforesaid, IDBI Bank, shall be constrained to take
+such steps against you as may be necessary for enforcing the
+guarantees and realising the dues at your own risk as to the
+costs and consequences thereof.”
+32.
+It is clear from the language of both the letters that both involved
+invocation of corporate guarantee by the financial creditor. The first
+invocation made in March 2021 was limited in scope. It was based only on a
+part of the total liability- specifically, the fund-based Working Capital Facility
+and the Rupee Term Loan. In particular, IDBI Bank demanded a sum of
+Rs.16.98 crore under the RTL and Rs.60.87 crore under the fund-based
+working capital. This demand was issued shortly after the bank recalled the
+facilities on 18.02.2021. It did not include several other components of the
+sanctioned credit facilities such as the non-fund-based exposures (including
+letters of credit and bank guarantees), treasury transactions, or DSRA (Debt
+Service Reserve Account) obligations, which were also covered under the
+credit agreements. The Principal Borrower accepted this liability but
+expressed its inability to make payment of the outstanding amount.
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+Consequently, the Appellant invoked the Corporate Guarantee covering these
+items vide the letter dated 09.12.2022.
+33.
+The default date mentioned by the appellant in Part (iv) of Section 7
+Petition relates to the Principal Borrower and the same is stated as
+29.12.2019 which is the NPA date of Principal Borrowers account. However,
+in Part (v) of the Section 7 Petition which has the particulars of Financial Debt
+documents, records and evidence of default, has details of notices dated
+05.03.2021 and 09.12.2022. It is the settled position that in case the date of
+default is not specifically mentioned in the Section 7 Petition but the same
+can be ascertained from documents in Part (v) the same would be admissible.
+34.
+The relevant findings in this regard relates to this Tribunal Judgment
+in Manmohan Singh Jain v. State Bank of India (supra) wherein it was held
+that:
+“47) This 'Tribunal' deal with the issues as raised by the
+Learned Counsel for the Appellant, the facts of the present case
+and law applicable to it. In the present Appeal, though the first
+date of NPA is with respect to Axis Bank i.e. 10.02.2017.
+However, the RBI circulars/Directives provides filing of
+independent application by the Financial Creditor i.e. the SBI
+before the Adjudicating Authority (NCLT) under Section 7 of the
+IBC. Accordingly, the Applicant the 1st Respondent herein filed
+application under Section 7 of the IBC for initiating the CIRP
+against the Corporate Debtor independently taking into the date
+of NPA/default and the amount of debt and default. There is no
+dispute with regard to the existence of debt and default
+committed by the Corporate Debtor. However, there is only an
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+objection raised with respect to omission to mention the date of
+default in Part IV of Form 1 filed before the Adjudicating
+Authority. It is evident from the records that the date of NPA of
+the SBI is 27.11.2018 and the application filed by the Financial
+Creditor on 19.12.2019 even if the 90 days period prior to NPA
+is taken into consideration for the purpose of deciding default
+as per the Judgment of the Hon'ble Supreme Court in Re Laxmi
+Pat Surana, the application is within the period of limitation.
+Further, this 'Tribunal' hold that omission to mention date of
+default in Col. 2 Part IV in Form 1 is not fatal to the application.
+As we are of the view that as per Col. 8 of Part V in Form 1
+regarding particulars of Financial Debt documents, records and
+evidence of default to be attached, the Financial Creditor has
+shown sufficient documentary evidence to establish the date of
+NPA i.e. 27.11.2018 and the Adjudicating Authority has taken
+note of the same and admitted the application. This 'Tribunal'
+do not find any illegality in admitting the application.”
+35.
+The second invocation referred to continuing unpaid dues under the
+guarantees and demanded immediate payment of Rs.166.78 crore from the
+Corporate Guarantor. The invocation was not merely a request to maintain a
+DSRA (Debt Service Reserve Account), as claimed by the Respondent. Rather,
+it was a formal invocation of liability based on the original guarantees and the
+underlying loan documents. The Appellant annexed both the computation
+and invocation to its Form-1 filed before the NCLT, and also submitted an
+additional affidavit explaining that the application was based on this second
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+invocation, which occurred after the Section 10A exclusion period. The
+documents were properly placed on record and pleaded.
+36.
+The second invocation made on 09.12.2022 was based on a
+comprehensive and updated computation of the borrower’s total dues as of
+08.12.2022. The total liability computed by IDBI Bank at that time stood at
+Rs.166.78 crore. This amount included not only the unpaid dues under the
+RTL and working capital facilities but also several additional heads of liability,
+making the second invocation materially different from the first. A breakup of
+the total dues as per the 8 December 2022 computation is as follows:
+
+Rupee Term Loan outstanding (principal and interest): Rs.16.98 crore
+
+Fund-Based Working Capital Facility dues: Rs.60.87 crore
+
+Non-Fund-Based exposure devolved: Rs.44.34 crore
+
+DSRA (Debt Service Reserve Account) shortfall: Rs.39.90 crore
+
+Treasury and other unadjusted items: Rs.4.69 crore
+
+Total: Rs.166.78 crore
+37.
+The DSRA obligation, in particular, arose under the financial covenants
+of the sanction letter, requiring the borrower to maintain a dedicated reserve
+for timely servicing of debt. Its breach gave rise to a specific contractual event
+of default, which is separate from the borrower’s failure to repay the principal
+or interest. The inclusion of devolved non-fund-based facilities and treasury
+exposures also reflects defaults under other components of the credit package
+that were not part of the earlier invocation.
+38.
+We find that the second invocation dated 09.12.2022 was valid,
+independent, and enforceable. The Adjudicating Authority failed to take
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+cognizance of letter dated 09.12.2022 and did not examine its relevance to
+the CIRP proceedings. Accordingly, we find that the second invocation
+constitutes a distinct cause of action, and the Section 7 application filed by
+IDBI Bank on 11 January 2023 based on this default is legally maintainable.
+39.
+The second issue to be decided in this case is whether multiple
+invocations of corporate guarantee is permissible in such cases. We take a
+look at the relevant clauses of the second guarantee dated 29.02.2016:
+“6. In order to give effect to the Guarantee herein contained the
+Bank shall, upon invoking of the Guarantee, be entitled to act as if
+the Guarantors were principal debtors to the Bank for all payments
+guaranteed by them as aforesaid to the Bank.
+7. The Guarantee herein contained is a continuing one for all
+amounts advanced by the Bank to the Borrower in respect of or
+under the Facilities as also for all interest, costs and all other
+monies which may from time to time become due and remain
+unpaid to the Bank under the Facilities Agreement and shall not be
+determined or in any way be affected by any account or accounts
+opened or to be opened by the Bank becoming nil or coming into
+credits at any time or from time to time or by reason of the said
+account or accounts being closed and fresh account or accounts
+being opened in respect of fresh facilities being granted within the
+overall limit sanctioned to the Borrower.
+10.
+The guarantee shall be irrevocable and enforceable
+against the Guarantors notwithstanding any dispute between the
+Bank and The Borrower.
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+11. The guarantors shall forthwith on demand made by the
+Bank deposit with the Bank such sum or security or further sum or
+security as the Bank may from time to time specify as securities for
+the due fulfillment of their obligations under this guarantee and any
+security deposited with the Bank any be sold by the Bank after
+giving to the Guarantors 7 days' notice of sale and the said sum or
+the proceeds of sale of the securities may be appropriated by the
+Bank in or towards satisfaction of the said obligation and any
+liability arising out of non-fulfillment thereof by the Guarantors.”
+(emphasis supplied)
+(Identical clauses are there in the first guarantee dated
+31.12.2014).
+40.
+A demand for payment under a corporate guarantee need not be limited
+to a one-time or all-inclusive invocation, unless the guarantee contract itself
+provides such a restriction. Here, the guarantees are described in express
+terms as “continuing,” “irrevocable,” and “on demand.” Clause 18 of
+Guarantee-I and Clause 7 of Guarantee-II provide that the liability of the
+guarantor continues until full repayment of all dues, and that the obligation
+shall not be discharged by partial payments or earlier demands.
+41.
+In law, a “continuing guarantee” under Section 129 of the Indian
+Contract Act, 1872, remains in force until revoked or until the obligation is
+satisfied in full. The creditor can make successive demands under such a
+guarantee until full payment is received. This principle is well supported by
+judicial precedents. In Dena Bank v. C. Shivakumar Reddy (2021) 10 SCC
+330, the Hon’ble Supreme Court held that repeated defaults and
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+acknowledgments under a continuing obligation can constitute fresh causes
+of action.
+42.
+In Kotak Mahindra Bank Ltd. v. Anuj Kumar (supra) the Delhi High
+Court also explained that where a financial obligation is still unpaid, and
+where the contract is still in force- especially in the case of continuing
+guarantees or loan agreements- the creditor does not have to act only at the
+time of the first default. The creditor can act later, based on a new or repeated
+failure to pay. Each time the borrower or guarantor fails to meet their
+responsibility under the contract, the creditor gets a new right to sue.
+43.
+The Respondent has not produced any evidence to show that the
+guarantee was discharged or that the debt was fully paid. The defense that
+the invocation was a mere administrative request is inconsistent with the
+express language of the demand letter and the computation annexed to the
+application.
+44.
+Now applying these principles to the present case, this Tribunal finds
+that the factual situation clearly supports the Appellant’s argument. The
+guarantees issued by the Respondent were described in clear terms as
+continuing, irrevocable, and on-demand. This means that they were not
+meant to be used only once. As long as the borrower’s dues remained unpaid,
+IDBI Bank was legally allowed to make a fresh demand at any time. The first
+invocation made in March 2021 was only with respect to part of the dues—
+specifically, the Rupee Term Loan and the fund-based working capital. That
+invocation did not include other unpaid components of the borrower’s
+liabilities such as the non-fund-based exposures, unpaid treasury dues, and
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+the shortfall in the Debt Service Reserve Account (DSRA), which were part of
+the same credit facility.
+45.
+Over time, as the Principal Borrower failed to make full repayment and
+as the unpaid amount increased, the Bank issued a second invocation notice
+in December 2022. This second invocation was not a repetition of the earlier
+one. It was based on a new and comprehensive computation dated
+08.12.2022, showing a total outstanding of Rs.166.78 crore. This amount
+included new components of default- specifically, Rs.44.34 crore towards
+devolved non-fund-based limits, Rs.39.90 crore towards DSRA shortfall, and
+other treasury dues. These amounts had not been demanded earlier, and
+therefore the failure to pay them gave rise to a fresh default.
+46.
+The argument raised by the Respondent that the first invocation
+exhausted the right of the Appellant to proceed again is not supported either
+by contract or law. The guarantees do not provide for single enforcement, and
+the conduct of parties indicates a subsisting liability. We are satisfied that the
+guarantees in question are continuing guarantees, and the Appellant was
+legally entitled to issue a second invocation on 9 December 2022.
+47.
+The Respondent has referred to the decision in IDBI Bank Ltd. v. Zee
+Entertainment Enterprises Ltd., Company Appeal (AT) (Insolvency) No. 939 of
+2023, to argue that since the first invocation of the corporate guarantee by
+IDBI Bank was made on 05.03.2021- during the one-year bar period under
+Section 10A of the IBC- the Appellant was permanently barred from initiating
+insolvency proceedings, even at a later stage. The Respondent further claimed
+that the second invocation made in December 2022 was not a fresh or
+separate demand, but merely a continuation of the earlier invocation. On this
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+basis, it was submitted that the present application under Section 7 is also
+barred.
+48.
+This case has been cited by both the appellant and respondent in
+support of their case. The relevant paras 27, 34 & 35 are reproduced below:
+“27. In any view of the matter as noted, we have already noticed
+the pleadings in Section 7 application which was made by the IDBI
+Bank. IDBI bank in his Section 7 application has clearly pleaded
+that “on 05.03.2021, financial creditor invoked the guarantee
+provided by the corporate debtor and called upon the corporate
+debtor to pay Rs.61,97,33,612/-”. Further in Part IV Serial No. 2
+again following was pleaded “financial creditor invoked the
+guarantee on 05.03.2021 and the corporate debtor is in continuous
+default in terms of the guarantee agreement dated 03.08.2012”.
+When the appellant financial creditor has come with the
+categorical case that guarantee was invoked only on 05.03.2021,
+there cannot be any occasion to treat any other date as date for
+invocation of guarantee. The letter dated 05.03.2021 is also
+brought on the record as Annexure–31. Letter dated 05.03.2021
+has been addressed to the corporate debtor. Para 6 of the notice
+provided as follows:
+“6. In the premises, we hereby call upon you and
+demand from you to pay forthwith to IDBI Bank at IDBI
+Tower, 8th floor, "D" Wing, WTC Complex, Cuffe Parade,
+Mumbai
+400
+005
+sums
+aggregating
+Rs.
+61,97,33,612.80/- (Rupees Sixty one crore, ninety
+seven lakh, thirty three thousand six hundred & twelve
+and paisa eighty only), as per details given in Annexure
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+II of this letter, together with further interest thereon
+with effect from 18.02.2021 at the given contractual
+rates, upon the footing of compound interest until
+payment/realisation. In case, you fail to make the
+payments as aforesaid, IDBI Bank, shall be constrained
+to take such steps against you as may be necessary for
+enforcing the guarantees and realising the dues at your
+own risk as to the costs and consequences thereof.”
+34. Much emphasis has been given by the learned counsel for the
+appellant that corporate debtor is continuing with the default even
+after 10A period which was also even pleaded in Part IV where it
+was pleaded that financial creditor invoked the guarantee of
+05.03.2021 and the corporate debtor is in continuous default in
+terms of the guarantee agreement. As noted above, the application
+under Section 7 was filed on the basis of invocation of guarantee
+on 05.03.2021, which period fell during the 10A period. A reading
+of the application does not indicate that Section 7 application is
+founded on any default which is subsequence to the 10A period.
+35. In the facts of the present case, we are of the view that
+although order impugned of the adjudicating authority needs to be
+affirmed, but liberty need to be given to the appellant, if so,
+advised to file a Section 7 application for default of corporate
+debtor subsequent to 10A period i.e., a default subsequent to
+24.03.2021.”
+49.
+In Zee Entertainment (supra), the Financial Creditor had made only one
+invocation of the guarantee, and that too during the Section 10A prohibition
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+period. No second invocation was issued, and no new default was pleaded
+after the expiry of the bar period. The Section 7 application in that case was
+filed entirely based on the default covered by the single invocation. Therefore,
+the Appellate Tribunal held that the application was not maintainable, as it
+was based on a default which happened during the period when filing was
+legally prohibited.
+50.
+The Tribunal, however, gave liberty to the Financial Creditor IDBI Bank
+to file a fresh Section 7 petition if the default continues beyond the prohibition
+period of Section 10A.
+51.
+The present case, however, is different from the Zee Entertainment
+(supra) in the sense that the IDBI Bank did issue a first invocation on
+05.03.2021, but it also issued a second, separate invocation on 09.12.2022.
+That second invocation was based on a new and updated computation of the
+borrower’s total dues as on 08.12.2022. The updated calculation included
+liabilities that were not part of the earlier invocation—such as non-fund-based
+limits, DSRA shortfalls, and treasury dues. This second invocation was made
+after the Section 10A bar period had ended and was based on a broader
+default that continued. The application under Section 7 was filed on
+11.01.2023 - well after the Section 10A exclusion period—and was based
+entirely on this second invocation.
+52.
+This Judgment clearly supports the contention of appellants in the
+matter of second invocation of guarantee. It is also important to note that even
+in the Zee Entertainment decision, the Appellate Tribunal never stated that a
+fresh application based on a later default would be barred. On the contrary,
+the Tribunal explained that if a new default arises after the 10A period ends,
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 1046 of 2023
+and that default is supported by proper demand and documentation, then an
+application under Section 7 would be maintainable. That principle directly
+supports IDBI Bank’s case in the present appeal.
+53.
+We, therefore, hold that the Corporate Guarantee could be invoked
+successively, if the guarantee was a continuing guarantee, loan default
+continues post Section 10A period, and the debt obligation were not fully met
+by the Principal Borrower. Accordingly, this issue is also decided in
+affirmative.
+54.
+Thus, both the issues are decided in favour of Appellants. The appeal
+is allowed. The impugned order is set aside and CP (IB) No. 144/MB/2023 is
+restored. The parties to approach the Ld. NCLT on 17.07.2025. There is no
+order as to costs. Pending I.As if any are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

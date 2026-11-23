@@ -1,0 +1,85 @@
+# FILE 001-57960.txt  n_chars=33733  units=254  paragraphs=139
+# SCOPE: legal reasoning starts at char 16865 (unit u139) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 28728 (unit u217) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 16865 hidden (facts/procedure; use --show-all to see them) --
+u139 p89  [16865-16878) H | AS TO THE LAW
+u140 p90  [16880-16950) H | I. ALLEGED VIOLATION OF ARTICLE 6 PARA. 1 (art. 6-1) OF THE CONVENTION
+u141 p91 ¶32 [16956-17062) | The applicant complained of a violation of Article 6 para. 1 (art. 6-1) of the Convention, which provides:
+u142 p91  [17064-17225) Q | "In the determination of ... any criminal charge against him, everyone is entitled to a fair and public hearing ... by an independent and impartial tribunal ..."
+u143 p91  [17227-17324) | He had, he maintained, been denied the right to a "tribunal" and to a hearing before such a body.
+u144 p92  [17326-17374) H | A. Applicability of Article 6 para. 1 (art. 6-1)
+u145 p93 ¶1 [17379-17416) | Whether there was a "criminal charge"
+u146 p94 ¶33 [17422-17543) | In Mr Palaoro's submission, the administrative criminal offence of which he was accused gave rise to a "criminal charge".
+u147 p94  [17544-17584) | This was not disputed by the Government.
+u148 p95 ¶34 [17590-18178) | In order to determine whether an offence qualifies as "criminal" for the purposes of the Convention, it is first necessary to ascertain whether or not the provision (art. 6-1) defining the offence belongs, in the legal system of the respondent State, to criminal law; next the "very nature of the offence" and the degree of severity of the penalty risked must be considered (see, among other authorities, the Öztürk v. Germany judgment of 21 February 1984, Series A no. 73, p. 18, para. 50, and the Demicoli v. Malta judgment of 27 August 1991, Series A no. 210, pp. 15-17, paras. 31-34).
+u149 p96 ¶35 [18184-18378) | Like the Commission, the Court notes that, although the offences in issue and the procedures followed in the case fall within the administrative sphere, they are nevertheless criminal in nature.
+u150 p96  [18379-18434) | This is moreover reflected in the terminology employed.
+u151 p96  [18435-18577) | Thus Austrian law refers to administrative offences (Verwaltungsstraftaten) and administrative criminal procedure (Verwaltungsstrafverfahren).
+u152 p96  [18578-18748) | In addition, the fine imposed on the applicant was accompanied by an order for his committal to prison in the event of his defaulting on payment (see paragraph 18 above).
+u153 p96  [18750-18918) | These considerations are sufficient to establish that the offence of which the applicant was accused may be classified as "criminal" for the purposes of the Convention.
+u154 p96  [18919-18962) | It follows that Article 6 (art. 6) applies.
+u155 p97  [18964-19039) H | 2. Austria's reservation in respect of Article 5 (art. 5) of the Convention
+u156 p98 ¶36 [19045-19188) | According to the Government, the procedure in question was covered by Austria's reservation in respect of Article 5 (art. 5) of the Convention.
+u157 p98  [19189-19384) | There could be no doubt that by the reference in that reservation to "measures for the deprivation of liberty" the Austrian Government had meant to include proceedings resulting in such measures.
+u158 p98  [19385-19670) | Any other construction would not only lack coherence; it would also run counter to the authorities' intention, which had been to remove from the scope of the Convention the whole administrative system, including the substantive and procedural provisions of administrative criminal law.
+u159 p98  [19671-19839) | That would be so even in a case where, as in this instance, the accused was merely fined, in so far as default on payment of that fine would entail committal to prison.
+u160 p98  [19841-19938) | Admittedly, the Road Traffic Act 1960 was not one of the four laws designated in the reservation.
+u161 p98  [19939-20152) | However, one of those laws, the Administrative Criminal Justice Act, stated in section 10 that, except as otherwise provided, the general administrative laws were to determine the nature and severity of sanctions.
+u162 p98  [20153-20459) | It mattered little in this respect that sections 20 and 52 of the Road Traffic Act, which were applied in the present case, had been enacted after the reservation had been deposited, because those provisions merely clarified the substance of an existing obligation laid down in the Traffic Police Act 1947.
+u163 p99 ¶37 [20465-20543) | The applicant argued that the reservation could not apply in the present case.
+u164 p99  [20544-20660) | In the first place, it failed to satisfy the requirements of Article 64 (art. 64) of the Convention, which provides:
+u165 p99  [20662-20665) Q | "1.
+u166 p99  [20666-20936) Q | Any State may, when signing [the] Convention or when depositing its instrument of ratification, make a reservation in respect of any particular provision of the Convention to the extent that any law then in force in its territory is not in conformity with the provision.
+u167 p99  [20937-21025) Q | Reservations of a general character shall not be permitted under this Article (art. 64).
+u168 p100 ¶2 [21030-21134) | Any reservation made under this Article (art. 64) shall contain a brief statement of the law concerned."
+u169 p100  [21136-21264) | Secondly, on a strict construction, its wording precluded extending its scope to the procedural sphere, which was in issue here.
+u170 p101 ¶38 [21270-21515) | The Court points out that in the Chorherr v. Austria judgment of 25 August 1993 it held that Austria's reservation in respect of Article 5 (art. 5) of the Convention was compatible with Article 64 (art. 64) (Series A no. 266-B, p. 35, para. 21).
+u171 p101  [21516-21656) | It therefore remains only to ascertain whether the provisions applied (art. 5, art. 64) in the present case are covered by that reservation.
+u172 p101  [21657-21740) | They differ in certain essential respects from those in issue in the Chorherr case.
+u173 p101  [21742-22012) | The Court notes that Mr Palaoro based his complaints on Article 6 (art. 6) of the Convention, whereas the wording of the reservation invoked by the Government mentions only Article 5 (art. 5) and makes express reference solely to measures for the deprivation of liberty.
+u174 p101  [22013-22184) | Moreover, the reservation only comes into play where both substantive and procedural provisions of one or more of the four specific laws indicated in it have been applied.
+u175 p101  [22185-22287) | Here, however, the substantive provisions of a different Act, the Road Traffic Act 1960, were applied.
+u176 p101  [22289-22416) | These considerations are a sufficient basis for concluding that the reservation in question does not apply in the instant case.
+u177 p102  [22418-22465) H | B. Compliance with Article 6 para. 1 (art. 6-1)
+u178 p103  [22467-22490) H | 1. Access to a tribunal
+u179 p104 ¶39 [22496-22683) | Mr Palaoro contended that none of the bodies that had dealt with his case in the proceedings in issue could be regarded as a "tribunal" within the meaning of Article 6 para. 1 (art. 6-1).
+u180 p104  [22684-22874) | This was true not only of the administrative authorities, but also of the Constitutional Court, whose review was confined to constitutional issues, and above all of the Administrative Court.
+u181 p104  [22875-23103) | The latter was bound by the administrative authorities' findings of fact, except where there was a procedural defect within the meaning of section 42(2), sub-paragraph 3, of the Administrative Court Act (see paragraph 24 above).
+u182 p104  [23104-23224) | It was therefore not empowered to take evidence itself, or to establish the facts, or to take cognisance of new matters.
+u183 p104  [23225-23430) | Moreover, in the event of its quashing an administrative measure, it was not entitled to substitute its own decision for that of the authority concerned, but had always to remit the case to that authority.
+u184 p104  [23431-23588) | In short, its review was confined exclusively to questions of law and therefore could not be regarded as equivalent to that of a body with full jurisdiction.
+u185 p105 ¶40 [23594-23665) | The Government contested this view, whereas the Commission accepted it.
+u186 p106 ¶41 [23671-24331) | The Court reiterates that decisions taken by administrative authorities which do not themselves satisfy the requirements of Article 6 para. 1 (art. 6-1) of the Convention - as is the case in this instance with the district authority and the regional government (see paragraphs 10, 11 and 12 above) - must be subject to subsequent control by a "judicial body that has full jurisdiction" (see, inter alia and mutatis mutandis, the following judgments: Albert and Le Compte v. Belgium of 10 February 1983, Series A no. 58, p. 16, para. 29; Öztürk, previously cited, pp. 21-22, para. 56; and Fischer v. Austria of 26 April 1995, Series A no. 312, p. 17, para. 28).
+u187 p107 ¶42 [24337-24381) | The Constitutional Court is not such a body.
+u188 p107  [24382-24576) | In the present case it could look at the impugned proceedings only from the point of view of their conformity with the Constitution, and this did not enable it to examine all the relevant facts.
+u189 p107  [24577-24654) | It accordingly lacked the powers required under Article 6 para. 1 (art. 6-1).
+u190 p108 ¶43 [24660-24862) | The powers of the Administrative Court must be assessed in the light of the fact that the court in this case was sitting in proceedings that were of a criminal nature for the purposes of the Convention.
+u191 p108  [24863-25135) | It follows that when the compatibility of those powers with Article 6 para. 1 (art. 6-1) is being gauged, regard must be had to the complaints raised in that court by the applicant as well as to the defining characteristics of a "judicial body that has full jurisdiction".
+u192 p108  [25136-25247) | These include the power to quash in all respects, on questions of fact and law, the decision of the body below.
+u193 p108  [25248-25369) | As the Administrative Court lacks that power, it cannot be regarded as a "tribunal" within the meaning of the Convention.
+u194 p108  [25370-25675) | Moreover, in a judgment of 14 October 1987 the Constitutional Court held that in respect of criminal penalties not covered by the reservation in respect of Article 5 (art. 5), the limited review carried out by the Administrative Court or the Constitutional Court was insufficient (see paragraph 26 above).
+u195 p109 ¶44 [25681-25747) | It follows that the applicant did not have access to a "tribunal".
+u196 p109  [25748-25833) | There has accordingly been a violation of Article 6 para. 1 (art. 6-1) on this point.
+u197 p110  [25835-25899) H | 2. Lack of a hearing and failure to take evidence from witnesses
+u198 p111 ¶45 [25905-26022) | Mr Palaoro further criticised the Administrative Court for failing to hold a hearing or take evidence from witnesses.
+u199 p112 ¶46 [26028-26152) | Having regard to the conclusion in paragraph 44 above, the Court does not consider it necessary to examine these complaints.
+u200 p113  [26154-26211) H | II. APPLICATION OF ARTICLE 50 (art. 50) OF THE CONVENTION
+u201 p114 ¶47 [26217-26471) L | Under Article 50 (art. 50) of the Convention, "If the Court finds that a decision or a measure taken by a legal authority or any other authority of a High Contracting Party is completely or partially in conflict with the obligations arising from the ...
+u202 p114  [26472-26712) L | Convention, and if the internal law of the said Party allows only partial reparation to be made for the consequences of this decision or measure, the decision of the Court shall, if necessary, afford just satisfaction to the injured party."
+u203 p115 ¶48 [26718-26817) L | The Delegate of the Commission left the matter of just satisfaction to the discretion of the Court.
+u204 p116  [26819-26828) H | A. Damage
+u205 p117 ¶49 [26834-26951) L | In respect of pecuniary damage, the applicant claimed repayment of the fine imposed on him, that is to say ATS 6,600.
+u206 p117  [26952-27003) L | He also claimed ATS 6,000 for non-pecuniary damage.
+u207 p118 ¶50 [27009-27151) L | The Government contended that the Court had no jurisdiction to quash convictions pronounced by national courts or to order repayment of fines.
+u208 p118  [27152-27383) L | Moreover, it could not, in awarding reparation, speculate as to what the outcome of the proceedings would have been if the applicant had had access to a tribunal within the meaning of Article 6 para. 1 (art. 6-1) of the Convention.
+u209 p119 ¶51 [27389-27406) L | The Court agrees.
+u210 p119  [27407-27786) L | It cannot speculate as to what the outcome of the proceedings in issue might have been if the violation of the Convention had not occurred (see the Hauschildt v. Denmark judgment of 24 May 1989, Series A no. 154, p. 24, para. 57; the Saïdi v. France judgment of 20 September 1993, Series A no. 261-C, p. 58, para. 49; and the Fischer judgment, previously cited, p. 21, para. 47).
+u211 p119  [27787-27905) L | It considers that, in the circumstances of the case, the present judgment affords the applicant sufficient reparation.
+u212 p120  [27907-27928) H | B. Costs and expenses
+u213 p121 ¶52 [27934-28117) L | In addition, Mr Palaoro claimed the sum of ATS 204,039 for the costs and expenses incurred in the proceedings first in the domestic courts and then before the Convention institutions.
+u214 p122 ¶53 [28123-28314) L | The Government expressed the view that only the proceedings in the Administrative Court - which had given rise to the alleged violations - and those in Strasbourg could be taken into account.
+u215 p122  [28315-28567) L | They also contested the quantum of the costs, but they were prepared to reimburse a total of ATS 300,000 in respect of the Umlauft, Pramstaller, Palaoro and Pfarrmeier cases, the applicants in all these cases having been represented by the same lawyer.
+u216 p123 ¶54 [28573-28726) L | Making an assessment on an equitable basis, having regard to the information in its possession and its case-law, the Court awards Mr Palaoro ATS 100,000.
+-- tail from char 28728 hidden --

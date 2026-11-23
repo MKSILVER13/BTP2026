@@ -1,0 +1,730 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+(Arising out of order dated 01.02.2024 passed by the National Company Law
+Tribunal, Ahmedabad Bench at Ahmedabad in I.A. No. 1467(AHM) of 2023 in
+CP (IB) No. 184 (AHM) of 2022)
+In the matter of:
+State Tax Officer -6
+Unit -92, Rajkot
+Having its address at:
+Jilla Seva Sadan -2,
+Block No. 1, 4th Floor,
+Rajkot- 360001
+
+...Appellant
+
+Vs.
+
+1.
+Besto Tradelink Limited
+
+Having its registered office address at:
+
+9th Floor, BD Patel House, Naranpura,
+
+Ahmedabad, Gujarat, India, 380014
+
+...Respondent No.1/SRA
+
+2.
+Rishabh Chand Lodha
+
+(Insolvency Professional)
+
+Having its address at:
+
+E-5, Shraman Basant Vihar,
+
+Gandhi Nagar, Bhilwara,
+
+Rajasthan, 311001
+...Respondent No. 2/ RP
+3. Saurashtra Specialities Private Limited
+
+Having address at:
+
+Survey No. 196, National Highway,
+
+8-B, Navagram, Anandpur,
+
+Rajlot, Gujarat- 360003
+...Respondent No. 3/ Corporate
+Debtor
+
+[PAGE 2]
+Page 2 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+Present:
+
+For Appellant:
+
+Ms. Ritu Guru, Mr. Bhargav Dangar, Advocate
+For Respondents:
+Ms. Shankari Mishra, Advocate for R-1.
+
+Mr. Abhishek Naik, Ms. Gulafsha Kureshi, Mr. Bhavesh
+Bothra, Mr. Rishabh Chand Lodha, Advocates for R-2.
+
+J U D G M E N T
+(30th June, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+
+The present appeal has been filed by State Tax Officer-6, Rajkot/
+Appellant, who is aggrieved by the order dated 01.02.2024 passed by the Ld.
+National Company Law Tribunal,
+Ahmedabad Bench (Adjudicating
+Authority), in I.A. No. 1467(AHM) of 2023, in CP(IB) 184 (AHM) of 2022, in
+the Corporate Insolvency Resolution Process (CIRP) proceedings of
+Saurashtra Specialities Private Limited/Corporate Debtor (CD). The
+Corporate Debtor is the Respondent No.3 herein. Ld. Adjudicating Authority
+vide the impugned order allowed the application of the Resolution
+Professional (RP)-Respondent No.2 herein, for approval of the Resolution
+plan of CD submitted by Respondent No.1-Besto Tradelink Limited
+(Successful Resolution Applicant). The Appellant is aggrieved by treatment
+of its claim of outstanding GST dues from Corporate Debtor of
+Rs.83,05,820/-, which were raised by the Appellant upon corporate debtor
+for previous Assessment Years. The Appellant has been treated as
+Operational Creditor in the Resolution Plan instead of Secured Operational
+Creditor.
+
+[PAGE 3]
+Page 3 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+BRIEF FACTS OF THE CASE
+The brief facts relevant to deciding the present appeal are as given below: -
+i)
+The present Appeal has been preferred by the State Tax Officer, Unit-
+92, Rajkot, assailing the order dated 01.02.2024 passed by the
+Adjudicating Authority in IA No. 1467 of 2023 filed by the RP in CP (IB)
+No. 184 of 2022, whereby the Resolution Plan of Corporate Debtor
+submitted by SRA & Respondent No.1 (Besto Tradelink Limited) was
+approved by the Ld. Adjudicating Authority.
+ii)
+The Corporate Debtor was admitted into Corporate Insolvency
+Resolution Process ("CIRP") vide order dated 31.10.2022 passed on an
+application under Section 9 of the Insolvency and Bankruptcy Code,
+2016 (herein after referred as "Code") filed by an Operational Creditor,
+namely Aries Paper Company. Consequent upon commencement of
+CIRP, Mr. Ashish Shah was appointed as Interim Resolution
+Professional ("IRP"), who made public announcements and invited
+claims from stakeholders.
+iii)
+Appellant initially filed their claim on 12.11.2022, thereafter it revised
+its claim on 21.11.2022 furnishing the details of the alleged security
+interest / charge on the property of the Corporate Debtor. The IRP vide
+email dated 24.11.2022 gave a detailed explanation to the Appellant
+stating his reason for not considering the claim of the Appellant as the
+“Secured Creditor”. The claim of the Appellant was however admitted
+for an amount of Rs.82,98,381/- in the category of “Operational
+Unsecured Creditor”.
+
+[PAGE 4]
+Page 4 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+iv)
+Subsequently, Rishabh Chand Lodha/Respondent No.2 was
+appointed as the Resolution Professional of the Corporate Debtor.
+The Respondent No.2 after receiving repeated representations from the
+Appellant requesting its classification as a secured creditor, reiterated
+the erstwhile IRP stand, vide Letter dated 15.04.2023 that there is a
+clear legal distinction between the CGST Act and GVAT Act.
+Furthermore, he informed the Appellant that the judgment of the
+Hon'ble Supreme Court in “State Tax Officer v. Rainbow Papers
+Ltd., (Civil Appeal No.1661 of 2020)” was rendered in the context of
+Gujarat VAT Act, and not w.r.t the CGST Act. Accordingly, it was
+reiterated that the claim of the Appellant would not be considered as a
+secured creditor, and the ratio of Rainbow Papers (supra) cannot be
+mechanically applied to GST claims.
+v)
+The Adjudicating Authority, vide the impugned order dated 01.02.2024
+approved the Resolution Plan and declared it binding on the Corporate
+Debtor and all stakeholders. Aggrieved by the approval of the
+Resolution Plan and the rejection of the tax demands claimed by the
+State Tax Department, the Appellant has preferred the present Appeal
+before this Appellate Tribunal.
+Submissions of the Appellant
+2.
+Learned Counsel for the Appellant submits that the Resolution
+Professional and the Adjudicating Authority failed to recognize the Appellant
+as a Secured Creditor despite the existence of a statutory first charge over
+the assets of the Corporate Debtor. It is contended that Section 82 of the
+
+[PAGE 5]
+Page 5 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+CGST Act creates a first charge upon the property of a taxable person in
+respect of outstanding tax dues, which constitutes a "security interest" within
+the meaning of Sections 3(30) and 3(31) of the Code. Since the definition of
+"security interest" includes any right, title, interest, claim, charge or
+encumbrance created by operation of law, the holder of such statutory charge
+necessarily acquires the status of a Secured Creditor.
+
+3.
+Learned Counsel further submits that the Resolution Professional
+committed a serious error in treating the Appellant merely as an Operational
+Creditor while overlooking the statutory charge existing in favour of the State
+Tax Department. It is further submitted that a first charge had already been
+created over the properties and bank accounts of the Corporate Debtor on
+25.07.2022 and 14.10.2022, prior to commencement of CIRP and imposition
+of moratorium under Section 14 of the Code. Consequently, the security
+interest had crystallized before commencement of insolvency proceedings and
+could not have been ignored while collating and admitting claims.
+
+4.
+Learned Counsel contends that undue reliance has been placed upon
+the expression "save as otherwise provided in the Insolvency and Bankruptcy
+Code, 2016" occurring in Section 82 of the CGST Act. According to the
+Appellant, the saving clause does not extinguish or nullify the statutory
+charge, and neither the Resolution Professional nor the Adjudicating
+Authority has identified any specific provision of the Code which expressly
+overrides or invalidates the charge. In the absence of any direct inconsistency
+between the two enactments, the statutory charge continues to subsist and
+must be given full effect. The interpretation adopted by the Resolution
+
+[PAGE 6]
+Page 6 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+Professional renders Section 82 otiose and defeats the legislative intent
+underlying the provision.
+
+5.
+Learned Counsel next submits that the approved Resolution Plan is
+contrary to Sections 30(2) and 31 of the Code. Under Section 30(2)(b), the
+Resolution Professional is required to ensure that the Resolution Plan
+provides for treatment of creditors in accordance with the statutory
+framework. Once the statutory charge under Section 82 is recognized, the
+Appellant falls within the category of Secured Creditors and is entitled to
+treatment consistent with the priority contemplated under Section 53 of the
+Code.
+
+6.
+Appellant submitted that the Resolution Plan completely ignores the
+secured nature of the Appellant's claim and fails to provide any meaningful
+distribution towards the statutory dues payable to the State Tax Department.
+The Committee of Creditors cannot exercise its commercial wisdom in a
+manner that defeats mandatory statutory provisions, and commercial
+wisdom operates only within the framework of the Code.
+
+7.
+Learned Counsel further submits that the Hon'ble Supreme Court has
+held that where a statutory first charge exists in favour of a Government
+Authority, such authority is entitled to be treated as a Secured Creditor in
+insolvency proceedings. Reliance is placed upon the judgment in State Tax
+Officer v. Rainbow Papers Ltd., Civil Appeal No.1661 of 2020. According to the
+Appellant, the principle laid down therein is directly applicable since Section
+82 of the CGST Act creates a statutory first charge in favour of the
+Government. The Adjudicating Authority approved the Resolution Plan
+
+[PAGE 7]
+Page 7 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+without properly appreciating the ratio of Rainbow Papers and thereby
+committed a manifest error of law.
+
+8.
+Apart from the issue of classification of the claim, Learned Counsel also
+assails the action of the Resolution Professional in rejecting the updated
+claim submitted by the Appellant. During the moratorium period, scrutiny
+proceedings resulted in determination of additional tax liability of the
+Corporate Debtor, whereupon the Appellant requested the Resolution
+Professional to take the updated liability into account.
+
+9.
+Learned Counsel submits that the Resolution Professional wrongly
+refused to admit the updated claim on the premise that it arose during the
+moratorium period. Assessment, adjudication, scrutiny or determination of
+tax liability by a statutory authority does not amount to recovery proceedings
+and therefore does not violate the moratorium under Section 14 of the Code.
+Since no coercive recovery action was initiated and the tax authorities merely
+quantified the liability, there was no legal impediment to considering the
+updated claim. The rejection of the revised claim has caused substantial
+prejudice to the Appellant and further vitiated the Resolution Plan.
+
+10.
+In conclusion, Learned Counsel for the Appellant submits that the
+Appellant is a Secured Creditor by virtue of the statutory first charge created
+under Section 82 of the CGST Act; the Resolution Professional wrongly
+classified the Appellant as an unsecured Operational Creditor; the Resolution
+Plan violates Sections 30(2) and 31 of the Code by failing to recognize and
+adequately provide for the Appellant's secured claim; the judgment in
+Rainbow Papers squarely covers the controversy in favour of the Appellant;
+
+[PAGE 8]
+Page 8 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+the rejection of the updated claim during CIRP is legally unsustainable; and
+the Impugned Order approving the Resolution Plan is liable to be set aside.
+It is accordingly prayed that the Impugned Order be set aside, the Appellant
+be declared a Secured Creditor under the Code, and appropriate directions
+be issued for modification of the Resolution Plan and distribution mechanism
+so as to duly recognize and satisfy the Appellant's statutory dues.
+Submission of Respondent No. 1/SRA
+11.
+Ld. Counsel for SRA submits that the Appellant was duly informed by
+the erstwhile Interim Resolution Professional vide e-mail dated 24.11.2022
+that its claim could not be treated as that of a “Secured Creditor”. The reasons
+for such determination were specifically communicated. Despite being aware
+of the said determination, the Appellant did not avail the statutory remedy
+available before the Adjudicating Authority and chose not to challenge the
+categorization of its claim at the relevant stage.
+
+12.
+Learned Counsel further submits that instead of pursuing the
+appropriate legal remedy, the Appellant merely continued addressing
+communications and representations to the Resolution Professional and
+other stakeholders seeking recognition of its claim as that of a secured
+creditor on the basis of the judgment of the Hon’ble Supreme Court in State
+Tax Officer vs. Rainbow Papers Ltd., Civil Appeal No.1661 of 2020. According
+to Respondent No.1, the Resolution Professional had consistently informed
+the Appellant that the facts of the present case as well as the applicable
+statutory provisions were distinguishable and therefore the said decision was
+inapplicable.
+
+[PAGE 9]
+Page 9 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+13.
+It is further contended by the SRA that the Appellant never raised any
+objection to the Resolution Plan submitted by Respondent No.1 despite being
+fully aware that its claim had been treated as that of an unsecured
+operational creditor. The Appellant also failed to object when the Resolution
+Plan was under consideration before the Adjudicating Authority for approval.
+
+14.
+Learned Counsel submits that the Resolution Plan has been fully
+implemented. Payments envisaged under the approved Resolution Plan have
+already been made to the stakeholders and the resolution process has
+attained finality. It is argued that the Appellant’s failure to challenge its
+categorization at the appropriate stage has resulted in an irreversible
+situation and therefore no equitable relief can now be granted.
+
+15.
+Respondent No.1 further submits that the Resolution Professionals
+correctly appreciated the legal position while examining the nature of the
+Appellant’s claim. It is argued that Section 82 of the Central Goods and
+Services Tax Act, 2017 cannot be equated with Section 48 of the Gujarat
+Value Added Tax Act, which was under consideration in Rainbow Papers.
+Particular emphasis has been laid upon the language employed in Section 82
+of the CGST Act, namely, “save as otherwise provided in the Insolvency and
+Bankruptcy Code, 2016”. According to the Respondent, the aforesaid
+provision itself manifests the legislative intent that, where insolvency
+proceedings are being conducted under the Insolvency and Bankruptcy Code,
+2016, the provisions of the Code shall prevail notwithstanding any charge
+purportedly created under the CGST Act.
+
+[PAGE 10]
+Page 10 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+16.
+It is submitted by the SRA that in view of the express statutory
+exclusion contained in Section 82 of the CGST Act, the Appellant cannot
+claim the status of a secured creditor merely on account of tax dues.
+Therefore, the Appellant’s reliance upon Section 82 of the CGST Act is stated
+to be misplaced and legally untenable.
+
+17.
+Ld. Counsel for SRA placed reliance upon the judgment of this
+Appellate Tribunal in Department of State Tax through the Deputy
+Commissioner of State Tax v. Pranav Constructions Systems Pvt. Ltd. & Anr.,
+Company Appeal (AT) (Ins.) No.1945 of 2024, decided on 14.11.2024, and
+Department of State Tax through the Deputy Commissioner of State Tax v.
+Zicom SaaS Pvt. Ltd. & Anr., Company Appeal (AT) (Ins.) No.246 of 2022,
+decided on 07.02.2023. In both the aforesaid decisions, similar claims of
+Government Departments seeking treatment as secured creditors on the
+basis of statutory charge provisions were rejected by this Tribunal.
+
+18.
+Ld. counsel reiterated that the Adjudicating Authority has committed
+no error while approving the Resolution Plan. The Resolution Plan was
+examined in detail and found to be compliant with all requirements of the
+Insolvency and Bankruptcy Code, 2016, including Section 30(2) thereof. The
+Resolution Plan has been fully implemented and the Monitoring Committee
+has already been dissolved, consequently, no interference with the Impugned
+Order is warranted. He therefore prayed for dismissal of the appeal with
+costs.
+
+[PAGE 11]
+Page 11 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+Submissions of Respondent No. 2/RP
+
+19.
+Ld. Counsel for RP submitted that the Appellant has sought to
+challenge the approved Resolution Plan by relying exclusively upon the
+judgment of the Hon'ble Supreme Court in Rainbow Papers. According to the
+Respondent, such reliance is entirely misplaced in view of the statutory
+framework governing GST dues and the subsequent judicial pronouncements
+clarifying the limited applicability of the said judgment.
+
+20.
+Learned Counsel further submits that the ratio of Rainbow Papers
+cannot be mechanically applied to the present case. It is pointed out that the
+Hon'ble Supreme Court in Rainbow Papers was considering Section 48 of the
+Gujarat Value Added Tax Act, 2003, which creates a first charge over the
+property of the dealer without any qualification or subordination to the
+Insolvency and Bankruptcy Code, 2016. In contrast, Section 82 of the Central
+Goods and Services Tax Act, 2017 expressly provides that any first charge
+created thereunder shall operate "save as otherwise provided in the
+Insolvency and Bankruptcy Code, 2016". The aforesaid saving clause is of
+decisive significance. The legislature, while enacting the CGST Act
+subsequent to the enactment of the Insolvency and Bankruptcy Code,
+consciously subordinated the statutory charge under Section 82 to the
+overriding framework of the Code. Consequently, once insolvency
+proceedings commence under the IBC, the treatment of claims and
+distribution of proceeds are governed exclusively by the provisions of the
+Code.
+
+[PAGE 12]
+Page 12 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+21.
+RP submitted that the express legislative recognition accorded to the
+IBC in Section 82 of the CGST Act clearly demonstrates that the statutory
+charge contemplated under the GST regime cannot override the insolvency
+framework or alter the priority mechanism prescribed under the Code.
+Accordingly, the Appellant's claim could not be treated as that of a secured
+creditor merely by virtue of Section 82 of the CGST Act.
+
+22.
+Learned Counsel further submits that the claim of the Appellant was
+accordingly admitted as an operational debt and classified as an unsecured
+operational claim. Such classification was first communicated by the
+erstwhile Interim Resolution Professional and was subsequently reaffirmed
+by Respondent No. 2 through letter dated 15.04.2023 after considering
+repeated representations made by the Appellant.
+
+23.
+RP further placed reliance upon the judgment of the Hon'ble Supreme
+Court in “Paschimanchal Vidyut Vitran Nigam Ltd. v. Raman Ispat
+Private Limited [Civil Appeal No. 7976 of 2019]”, wherein it was observed
+that the decision in Rainbow Papers must be confined to the facts of that
+case. The aforesaid observation itself demonstrates that the Appellant cannot
+seek automatic application of the ratio of Rainbow Papers to every statutory
+charge provision contained in different taxing enactments.
+
+24.
+RP further relies upon the judgment of this Appellate Tribunal in
+“Department of State Tax v. Zicom SaaS Pvt. Ltd. & Anr., Company
+Appeal (AT) (Ins.) No. 246 of 2022”, wherein this Tribunal distinguished
+Rainbow Papers and held that where the relevant taxing statute itself
+acknowledges the operation of a Central enactment creating priority, the
+
+[PAGE 13]
+Page 13 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+provisions of the Insolvency and Bankruptcy Code would prevail. It is
+submitted that this Tribunal specifically held that treatment of such
+statutory dues as operational debt did not violate Section 30(2)(b) of the Code.
+Reliance is also placed upon the subsequent decision of this Appellate
+Tribunal in “Department of State Tax v. Pranav Constructions Systems
+Pvt. Ltd. & Anr., Company Appeal (AT) (Ins.) No. 1945 of 2024”, wherein
+a similar claim by GST authorities seeking recognition as secured creditors
+was rejected. On the basis of the aforesaid statutory provisions and judicial
+precedents, the decision of the Resolution Professional to classify the
+Appellant as an unsecured operational creditor was legally correct and
+cannot be faulted.
+
+25.
+Ld. Counsel submits that the conduct of the Appellant disentitles it
+from any discretionary relief. The Appellant had filed its claim during the
+Corporate Insolvency Resolution Process and had also furnished details of
+the alleged statutory charge. The erstwhile Interim Resolution Professional,
+by email dated 24.11.2022, expressly communicated the reasons for not
+treating the Appellant as a secured creditor and admitted the claim under
+the category of unsecured operational debt. RP submits that, despite having
+complete knowledge of the decision taken by the Resolution Professional, the
+Appellant never challenged the same before the Adjudicating Authority.
+Instead, the Appellant merely continued to address representations and
+correspondence seeking reconsideration of its claim.
+
+26.
+Learned Counsel further submits that even after being informed about
+approval of the Resolution Plan, the Appellant did not seek any immediate
+
+[PAGE 14]
+Page 14 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+relief before the Adjudicating Authority. Instead, it directly preferred the
+present Appeal. Appellant thereby sought to bypass the statutory framework
+contemplated under the Code and the settled principle that grievances
+concerning actions of the Resolution Professional ought to be raised before
+the Adjudicating Authority in the first instance. The Appellant remained a
+silent spectator throughout the CIRP despite full knowledge of the treatment
+accorded to its claim. Such prolonged inaction, according to the Respondent,
+amounts to waiver, acquiescence and acceptance of the position adopted
+during the resolution process.
+
+27.
+The RP submits that the Adjudicating Authority, after examining the
+Resolution Plan in detail, found the same to be feasible, viable and compliant
+with all requirements of the Insolvency and Bankruptcy Code, 2016 and the
+regulations framed thereunder, including Section 30(2) of the Code.
+
+28.
+It is further submitted by the RP that the Resolution Plan has since
+been fully implemented. Payments contemplated under the approved plan
+have already been made and the Monitoring Committee constituted for
+implementation of the Resolution Plan has also been dissolved pursuant to
+orders of the Adjudicating Authority. Consequently, the resolution process
+has attained finality and any interference at this stage would seriously
+prejudice the sanctity and certainty of the insolvency framework.
+
+29.
+Ld. Counsel further submits that the appeal is stated to be founded
+upon an erroneous interpretation of Section 82 of the CGST Act, contrary to
+binding precedents and further barred by the Appellant's own conduct,
+
+[PAGE 15]
+Page 15 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+acquiescence and delay. Accordingly, it is prayed that the Appeal be
+dismissed with costs.
+Analysis and Findings
+30.
+We have gone through the records of the case and heard the Ld.
+Counsel for the parties.
+31.
+The only issue which arises for consideration in the present Appeal is
+whether Section 82 of the CGST Act confers the status of a Secured Creditor
+upon the Appellant which is a State Government Department.
+
+32.
+The entire challenge of the Appellant rests upon the judgment of the
+Hon'ble Supreme Court in Rainbow Papers (supra). The submission of the
+Appellant is that by virtue of Section 82 of the CGST Act, a statutory first
+charge stood created over the assets of the Corporate Debtor and
+consequently the Appellant ought to have been treated as a secured creditor
+in the CIRP. It is further contended that failure to accord such status renders
+the approved Resolution Plan violative of Section 30(2)(b) of the Insolvency
+and Bankruptcy Code, 2016.
+
+33.
+Section 48 of the Gujarat Value Added Tax Act, 2003, which fell for
+consideration before the Hon'ble Supreme Court in Rainbow Papers, reads as
+follows:
+"48. Notwithstanding anything to the contrary contained in any
+law for the time being in force, any amount payable by a dealer or
+any other person on account of tax, interest or penalty for which
+
+[PAGE 16]
+Page 16 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+he is liable to pay to the Government shall be a first charge on the
+property of such dealer..."
+
+34.
+State Tax Department of Gujarat under the GVAT Act, 2003, charges
+Value Added Tax (VAT) from the dealers registered with it for sale of goods by
+them. As prescribed in the Section 48 of the GVAT Act, 2003 the dues of VAT
+on account of tax, interest or penalty was to be the first charge upon the
+property of such dealer. It was held in Rainbow Papers (supra) that in case of
+distribution of assets of a Corporate Debtor in accordance with Section 53 of
+the Code, which is done on the basis of categorisation of claims as prescribed
+in Section 53, the State Tax Authority, Gujarat would be treated as secured
+creditor on the basis of Section 48 of GVAT Act, 2003. This decision led to
+consideration of claims of Gujarat Tax Department under Section 53(1)(b)(ii)
+of the Code in CIRP and Liquidation Proceedings. Prior to the Rainbow (supra)
+the dues of Gujarat Tax Department were lower in priority at Section
+53(1)(e)(i) of Code, under which the dues of all Central & State Government
+Departments were considered. Thus, the judgment in Rainbow (supra)
+allowed treatment of Gujarat Tax Department as secured creditor in priority
+over the dues of Central and other State Governments under the waterfall
+mechanism provided in Section 53(1) of the Code.
+35.
+The claim of the Appellant in the present case is on account of GST
+dues under CGST Act, 2017 from the Corporate Debtor. The foundation of
+the Appellant's argument is that Section 82 of the CGST Act is pari materia
+with Section 48 of the Gujarat Value Added Tax Act, 2003 which was
+considered by the Hon'ble Supreme Court in Rainbow Papers.
+
+[PAGE 17]
+Page 17 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+36.
+We now take a look at Section 82 of the CGST Act, 2017 which is
+extracted below:
+"82. Notwithstanding anything to the contrary contained in any
+law for the time being in force, save as otherwise provided in the
+Insolvency and Bankruptcy Code, 2016, any amount payable by
+a taxable person or any other person on account of tax, interest or
+penalty... shall be the first charge on the property..."
+
+37.
+A plain reading of the aforesaid provisions demonstrates a material
+and substantive distinction between the two enactments. While Section 48
+of the GVAT Act creates a first charge simpliciter, Section 82 of the CGST Act
+expressly incorporates the phrase "save as otherwise provided in the
+Insolvency and Bankruptcy Code, 2016". The aforesaid expression cannot
+be ignored while interpreting the scope and effect of Section 82. It is a settled
+principle of statutory interpretation that every word employed by the
+legislature must be assigned meaning and effect, which the legislature
+intended. Courts cannot adopt an interpretation which renders any part of
+the statute redundant or otiose.
+38.
+The Parliament, while enacting the CGST Act in the year 2017, was
+fully conscious of the existence and operation of the Insolvency and
+Bankruptcy Code, 2016. It consciously incorporated a saving clause making
+the statutory charge under Section 82 subject to the provisions of the Code.
+The legislative intent is therefore explicit and unambiguous. The first charge
+contemplated under Section 82 is not absolute. It operates subject to the
+provisions of the Insolvency and Bankruptcy Code. Consequently, once
+
+[PAGE 18]
+Page 18 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+insolvency proceedings commence under the Code, the treatment of claims,
+determination of priorities and distribution of proceeds are governed by the
+statutory scheme of the Code.
+39.
+The Hon'ble Supreme Court in Rainbow Papers was concerned only
+with Section 48 of the Gujarat Value Added Tax Act, 2003, Section 82 of the
+CGST Act 2017 containing an express saving clause in favour of the
+Insolvency and Bankruptcy Code was not before the court. The statutory
+framework involved in Rainbow Papers was therefore materially different from
+the statutory framework governing the present Appeal.
+
+40.
+We further notice that subsequent judicial pronouncements have
+clarified the limited applicability of the judgment in Rainbow Papers. In
+Paschimanchal Vidyut Vitran Nigam Ltd. v. Raman Ispat Private Limited, Civil
+Appeal No.7976 of 2019, the Hon'ble Supreme Court observed that:
+"The judgment in Rainbow Papers has to be confined to the facts of
+that case."
+41.
+The claim of the Appellant to be treated as Secured Operational
+Creditor here is based on interpretation of Section 82 of the CGST Act, 2017
+which clearly states that the charge on the property shall be considered as
+first charge but in case of treatment under IBC, 2016 the same would be
+considered as per provisions of the Code. This means that the dues of the
+Central or State Government would be treated in accordance with Section
+53(1)(e)(i) in case of proceedings under the Code.
+
+[PAGE 19]
+Page 19 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+42.
+We are therefore of the considered opinion that Section 82 itself
+furnishes the answer to the controversy raised by the Appellant. The
+statutory charge contemplated therein cannot override the insolvency
+framework nor can it alter the priority mechanism prescribed under the Code.
+We are therefore of the considered view that the reliance placed by the
+Appellant upon Rainbow Papers is misplaced and is not appliable to the facts
+of the present case.
+
+43.
+This Appellate Tribunal in “Department of State Tax v. Zicom Saas
+Pvt. Ltd. & Anr., Company Appeal (AT) (Ins.) No.246 of 2022”, while
+considering a similar contention founded upon Rainbow Papers, held in
+Paragraph 10 as follows:
+“10. We thus are of the view that the Judgement of the Hon’ble
+Supreme Court in “Rainbow Paper Limited” relied by Learned
+Counsel for the Appellant is distinguishable. The Appellant having
+been treated as Operational Creditor allocation of amount in the
+Resolution Plan cannot be said to be in violation of Section 30
+(2)(b). We thus are of the view that no ground has been made to
+interfere with the Impugned Order.”
+
+44.
+In the case of Department of State Tax vs. Zicom (supra) the claim was
+filed by Maharashtra State Tax Department where a reliance was placed upon
+judgment in Rainbow (supra). The Appellants had relied upon Section 37of
+Maharashtra Value Added Tax Act, 2002, however, Section 37 specifically
+uses the expression “subject to any provision regarding creation of first charge
+in any Central Act.” The provision itself contemplated that Section 37 was
+subject to any provision in Central Act. Accordingly, this Tribunal refused to
+
+[PAGE 20]
+Page 20 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+consider Maharashtra Tax Department as Secured Creditor and its treatment
+as “operational creditor” was held to be valid.
+45.
+The ratio laid down in the aforesaid judgment squarely applies to the
+facts of the present case as Section 82 of the CGST Act, 2017 clearly states
+that "save as otherwise provided in the Insolvency and Bankruptcy Code,
+2016" means IBC will prevail over CGST Act and the claim of Appellant has
+to be treated as under operational Debt as State Government dues.
+
+46.
+We also take notice of the subsequent judgment of this Appellate
+Tribunal in “Department of State Tax v. Pranav Constructions Systems
+Pvt. Ltd. & Anr., Company Appeal (AT) (Ins.) No.1945 of 2024”, wherein
+a similar claim seeking recognition of GST dues as secured debt was rejected.
+
+47.
+We have seen from the records that both IRP and RP had at different
+times informed the Appellant that they were to be treated as unsecured
+operational creditor and that the Rainbow Papers (supra) was not applicable
+to the facts of the case which related to GST Claims and not the VAT Claims
+which are covered by judgment in Rainbow Papers (supra).
+
+48.
+The Appellant also did not raise any objection when the Resolution Plan
+was placed before the Committee of Creditors. It did not filed any objection
+before the Adjudicating Authority, when approval of the Resolution Plan was
+sought. Even after approval of the Resolution Plan, the Appellant did not seek
+any immediate remedy before the Adjudicating Authority and instead chose
+to file the present Appeal. The conduct of the Appellant clearly demonstrates
+that it remained a silent spectator throughout the resolution process despite
+being fully aware of the treatment accorded to its claim.
+
+[PAGE 21]
+Page 21 of 21
+Company Appeal (AT) (Ins.) No. 1451 of 2024
+
+49.
+Another issue raised by the Appellant is that during the moratorium
+period, scrutiny proceedings resulted in additional tax liability of the
+corporate debtor for which the Appellant requested the RP to update the
+liability and update the claim of the department. However, the RP rejected
+such updated claim.
+
+50.
+We are of the view that in view of the moratorium operating during the
+CIRP proceedings no scrutiny orders could have been passed by the Appellant
+imposing further liability upon the Corporate Debtor. We find no infirmity in
+the decision of the RP rejecting such additional claims.
+
+51.
+We further note that the resolution plan has been fully implemented.
+Payments to all creditors as per resolution plan have been made. The
+Monitoring Committee constituted for implementation of resolution plan has
+already been dissolved.
+
+52.
+In view of the findings above, we do not find any infirmity in the
+impugned order. The Appeal is dismissed. Pending IAs, if any, are closed. No
+order as to costs.
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+Place: New Delhi
+Harleen

@@ -1,0 +1,1255 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1324 of 2024
+
+[Arising out of the Order dated June 13, 2024 passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+New Delhi) in CP (IB) No. 24(ND)/2023]
+
+IN THE MATTER OF:
+
+Mahdoom Bava Bahrudeen Noorul Ameen
+S/o Noorul Ameen
+R/o B-7, Parsn Guruprasad Resident Complex
+No. 432 (204), T.T.K. Road, Alwarpet, Teynampet
+Chennai, Tamil Nadu – 600018
+Email: mahdoombava@gmail.com
+
+...Appellant
+Versus
+
+1. State Bank of India
+Through Stressed Assets Management Branch-I
+Having its office at:
+12th Floor, Jawahar Vyapar Bhawan
+1 Tosltoy Marg, New Delhi – 110001
+
+...Respondent No.1
+
+2. Mr. Deepak Mittal
+Resolution Professional
+Having IBBI Registration No.
+IBBI/IPA-001/IP-PO2096/20-21/13264
+Address: R-4/39, Raj Nagar, Ghaziabad
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. Siddharth Khattar, Mr. Divij Andley and Mr.
+Gaurav Parewa, Advocates.
+
+For Respondent
+:
+Mr. Siddharth Sangal, Mr. Chirag Sharma, Ms.
+Richa Mishra and Ms. Harshita Agarwal, Advocates
+for R-1.
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+
+This is an appeal filed under Section 61(3) in conjunction with Section
+61(1) of the Insolvency and Bankruptcy Code, 2016 (“IBC”). The appeal is
+against the order dated June 13, 2024, issued by the Adjudicating Authority
+(National Company Law Tribunal, New Delhi) in CP (IB) No. 24(ND)/2023.
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 2 of 31
+
+Through this order, the Personal Insolvency Resolution Process was initiated
+against the Appellant, who is the Personal Guarantor (PG).
+Brief facts of the case
+2.
+Brief chronology relevant for appreciation of the issues involved in the
+case is a follows:
+1.
+2007-2012
+
+NaftoGaz India Pvt Ltd took various credit facilities from SBI and
+SBBJ in which the Appellant was the Personal Guarantor.
+2. 28.01.2012
+
+Loan account of NaftoGaz India Pvt Ltd was classified as NPA by
+SBBJ
+3. 13.06.2012
+
+Loan account of NaftoGaz India Pvt Ltd was classified as NPA by the
+SBI
+4. 08.10.2012
+
+NaftoGaz India Pvt Ltd went into liquidation vide Order passed by
+the High Court of Delhi.
+5. 26.12.2013
+
+SBI sent Demand Notice dated 26.12.2013 under Section 13(2) of
+SARFAESI Act, 2002, calling upon to repay the amount of Rs 64.48
+crs (approx.).
+6.
+2014
+
+SBI filed OA No. 133 of 2014 before the Debt Recovery Tribunal, New
+Delhi, and the same is pending adjudication till date.
+7. 28.06.2021
+
+Respondent No. 1/SBI sent a Demand Notice under Rule 7(1) of the
+Insolvency and Bankruptcy (Application to Adjudicating Authority
+for Insolvency Resolution Process of Personal Guarantors to
+Corporate Debtors) Rule, 2019, demanding payment of Rs 264.61
+crs - as on 31.05.2021.
+8. 03.12.2022
+
+Respondent No. 1 filed the Application under Section 95(1) of IBC
+seeking initiation of Personal Insolvency Resolution Process against
+the Appellant (PG) r/w Rule 7(2) of Insolvency and Bankruptcy
+(Application to Adjudicating Authority for Insolvency Resolution
+Process Guarantors to Corporate Debtors) Rules 2019 with an
+outstanding default amount of Rs. 315 crs (approx.) as on
+30.06.2022.
+9. 05.12.2023
+
+NCLT appointed Mr Deepak Mittal as the Resolution Professional
+and directed him to file report in terms of Section 99 of IBC.
+10 22.03.2024
+Resolution Professional filed his report vide IA No. 1592/2024.
+11 25.04.2024
+Appellant filed his objections to IA No. 1592/2024.
+12 29.05.2024
+
+Pursuant to completion of pleadings, the arguments were concluded
+and the order was reserved on the said date. The parties were also
+given liberty to file their written submissions.
+13 05.06.2024
+SBI filed its written submissions.
+14 06.06.2024
+Appellant filed its written submissions.
+15 13.06.2024
+AA passed the Impugned Order under section 100 IBC.
+16 16.06.2024
+
+Resolution Professional published a public announcement in two
+newspapers on 15.06.2024 and the said fact was communicated to
+the Appellant vide email.
+
+3.
+In his Appeal the Appellant has raised the grounds with respect to the
+limitation period, service of Demand Notice at the wrong address, and also a
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 3 of 31
+
+difference in the amount sought in the Demand Notice r/w Rule 7(1)1 of
+Insolvency and Bankruptcy (Application to Adjudicating Authority for
+Insolvency Resolution Process Guarantors to Corporate Debtors) Rules,
+2019, and the Section 95(1) Application r/w Rule 7(2) of the Financial
+Creditor/Applicant i.e. State Bank of India (SBI). No details of two loans were
+provided except for the account numbers. The Application under Section
+95(1)2 was finally decided by the Adjudicating Authority on 13.06.2024, while
+overruling the objections of the PG, and Personal Insolvency Resolution
+Process (PIRP) was initiated against the Appellant.
+
+1 Rule 7 of Insolvency and Bankruptcy (Application to Adjudicating Authority for Insolvency Resolution
+Process Guarantors to Corporate Debtors) Rules 2019
+
+7. Application by creditor.― (1) A demand notice under clause (b) of sub-section (4) of section 95
+shall be served on the guarantor demanding payment of the amount of default, in Form B.
+
+2 Section 95 of the Insolvency and Bankruptcy Code 2016
+
+Section 95. Application by creditor to initiate insolvency resolution process.
+(1) A creditor may apply either by himself, or jointly with other creditors, or through a resolution
+professional to the Adjudicating Authority for initiating an insolvency resolution process under this
+section by submitting an application.
+(2) A creditor may apply under sub-section (1) in relation to any partnership debt owed to him for
+initiating an insolvency resolution process against—
+(a) any one or more partners of the firm; or
+(b) the firm.
+(3) Where an application has been made against one partner in a firm, any other application against
+another partner in the same firm shall be presented in or transferred to the Adjudicating Authority in
+which the first mentioned application is pending for adjudication and such Adjudicating Authority may
+give such directions for consolidating the proceedings under the applications as it thinks just.
+(4) An application under sub-section (1) shall be accompanied with details and documents relating
+to—
+(a) the debts owed by the debtor to the creditor or creditors submitting the application for
+insolvency resolution process as on the date of application;
+(b) the failure by the debtor to pay the debt within a period of fourteen days of the service
+of the notice of demand; and
+(c) relevant evidence of such default or non-repayment of debt.
+(5) The creditor shall also provide a copy of the application made under sub-section (1) to the debtor.
+(6) The application referred to in sub-section (1) shall be in such form and manner and accompanied
+by such fee as may be prescribed.
+(7) The details and documents required to be submitted under sub-section (4) shall be such as may be
+specified.
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 4 of 31
+
+Submissions of the Appellant – PG
+4.
+The Appellant is an individual who was the PG to the credit facilities
+taken from State Bank of India (SBI) and State Bank of Bikaner and Jaipur
+(SBBJ) (this bank merged into SBI on 31.03.2017) by Naftogaz India Private
+Limited. This company went into liquidation vide order dated 08.12.2010 as
+per the orders of the Hon’ble High Court of Delhi. The loan account of
+Company was classified as NPA on 28.01.2012 by SBBJ and by SBI later on
+13.06.2012. SBI sent a Demand Notice dated 26.12.2013 under Section 13(2)
+of SARFAESI Act, 20023 calling upon the Company and the Appellant to
+repay the amount of about Rs 64.48 crores. Later on, in the year 2014, SBI
+also filed OA No. 133 of 2014 before the Debt Recovery Tribunal (DRT), New
+Delhi, and the same is still pending. No decree has been passed in the same.
+After about 7 years, in 2021, Respondent No.1-SBI sent a Demand Notice
+dated 28.06.2021 under Rule 7(1)1 demanding payment of about Rs 264
+cores. This Demand Notice refers to four loan accounts, two from SBI (i.e.
+CC(SBI)-30451182299 and BG(SBI)-30449964100) and two from SBBJ
+(CC)SBBJ)-61253087296 and BG(SBBJ)-61074975160). No explanation was
+provided as to how the figure of Rs 264.61 crores was arrived at, or against
+
+3 The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002
+[SARFAESI Act 2002]
+
+Section 13. Enforcement of security interest
+
+(1) Notwithstanding anything contained in section 69 or section 69A of the Transfer of Property Act, 1882 (4 of
+1882), any security interest created in favour of any secured creditor may be enforced, without the intervention
+of the court or tribunal, by such creditor in accordance with the provisions of this Act.
+
+(2) Where any borrower, who is under a liability to a secured creditor under a security agreement, makes any
+default in repayment of secured debt or any instalment thereof, and his account in respect of such debt is
+classified by the secured creditor as non-performing asset, then, the secured creditor may require the borrower
+by notice in writing to discharge in full his liabilities to the secured creditor within sixty days from the date of
+notice failing which the secured creditor shall be entitled to exercise all or any of the rights under sub-section (4).
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 5 of 31
+
+which loan account how much amount was sought for. It is also claimed that
+the Application under Section 95(1) of IBC mentions only one loan account
+of SBI out of the four loan accounts. Respondent No. 1 – SBI filed Application
+under Section 95(1) of IBC seeking initiation of PIRP against the Appellant in
+the capacity as PG. In the proceedings before the NCLT, New Delhi, the
+arguments were concluded on 29.05.2024 and the orders were reserved on
+the same date. While hearing the arguments on the aspects of the limitation,
+the Counsel for the Respondent No.1-SBI handed over the copy of the
+recovery certificate as well as the judgment- both dated 17.03.2018, passed
+by DRT, New Delhi, in O.A. No. 213/2014 titled as SBI (formerly known as
+SBBJ) and now incorporated in SBI vs Naftogaz India Private Limited & Ors.
+The account of CD was classified as NPA on 13.06.2012 by SBI and the
+Demand Notice under Rule 7(1)1 was sent to the Appellant on 28.06.2021 i.e.
+after nine years and, therefore, the Application was claimed to be barred by
+limitation.
+
+5.
+To overcome the point of limitation, the Respondent No.1-SBI handed
+over the recovery certificate of O.A. No.213/2014 dated 17.03.2018, which
+pertained to SBBJ to show that part of the debt, as demanded in the Demand
+Notice, crystallised by way of decree on 17.03.2018 and, thus, the part of the
+claim was within limitation. It is to be noted that this recovery certificate is
+for Rs 17.63 crores, along with interest, whereas, the amount demanded in
+the Demand Notice was Rs 264.61 crores and the amount demanded in the
+Application under Section 95(1) of IBC was Rs 315.30 crores. The perusal of
+the judgment dated 17.03.2018 shows that the said O.A. was filed on
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 6 of 31
+
+03.07.2014 for recovery of Rs 17.61 cores along with interest. Further, the
+CD had approached SBBJ on 27.06.2007 for a loan of Rs 4.05 crores, and
+this account had become NPA on 28.01.2012. SARFAESI Notice was sent on
+26.12.2012, demanding Rs 25.97 crores as on 25.12.2013. There is no
+reference to this in the Demand Notice, which has been issued on
+28.06.2021, demanding Rs 264.61 crores. Current Demand Notice and the
+Application under Section 95(1) of IBC are vague, do not pertain to dues of
+SBBJ and, therefore, the recovery certificate dated 17.03.2018 will not help
+Respondent No.1-SBI to bring the alleged debt within the period of limitation
+as the two debts are separate and no demand under Rule 7(1) was made
+pertaining to the debts of SBBJ.
+
+6.
+Respondent No.1-SBI was always aware of the address of the Appellant
+i.e. 64, Poorvi Marg, Second Floor, Vasant Vihar, New Delhi-110057. This
+address was also on the records of the proceedings of the DRT, New Delhi.
+Despite knowing the correct address, email address and mobile number of
+the Appellant, the Respondent No.1 chose not to serve the Demand Notice to
+the Appellant on the correct address and email ID, instead chose to send the
+Demand Notice on the address of E-14/13, Ground Floor, Vasant Vihar, New
+Delhi-110070. This, the letter was the address of the company which has
+gone into liquidation vide order dated 08.10.2012 by Hon’ble High Court of
+Delhi in the matter titled as Royal Marine vs Naftogaz India Private Limited
+being Company Petition No. 128 of 2011. The aforesaid company/residence
+of the Appellant and other assets of the Company including books of
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 7 of 31
+
+accounts were taken over by the Official Liquidator attached to the Hon’ble
+High Court of Delhi.
+
+7.
+It is the contention of the Appellant that where a statute requires a
+particular act to be done in a particular manner, the act has to be done in
+that manner alone and, therefore, the service of Demand Notice under Rule
+7(1) cannot be substituted with the service of notice under Section 13(2) of
+SARFAESI Act, 2002. The service of Demand Notice under Rule 7(1) is a
+mandatory provision and cannot be overridden by any other Demand Notice
+under any other act/statute.
+
+8.
+It is claimed that the amount sought in the Demand Notice and
+Application under Section 95(1) of IBC are totally vague and no documents
+have been placed on record to reach to the figure as has been sought in the
+Demand Notice or the Application under Section 95(1) of IBC.
+
+9.
+The Appellant prays to set aside the Impugned Order dated 13.06.2024
+on this these grounds.
+Submissions of the Respondent No.1 - SBI:
+10.
+The Appellant moved the Hon’ble Supreme Court to challenge the
+'Interim Order' dated 16.07.2024 passed by this Hon’ble Appellate Tribunal
+by filing Civil Appeal No. 8622 of 2024, which was dismissed by the Hon’ble
+Supreme Court by its Order dated 20.08.2024. The relevant extract is as
+follows:
+“1.
+The Appeal arises from an interlocutory order dated 16 July 2024 of
+the National Company Law Appellate Tribunal.
+
+2.
+The proceedings have been posted for hearing before the NCLAT on
+2 September-2024. Hence, we are not exercising jurisdiction at this
+stage.
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 8 of 31
+
+3.
+All the questions of law which have been raised by the appellant, may
+be addressed before and will be considered by NCLAT, when the
+proceedings will be taken up on 2 September 2024.
+
+4.
+The Appeal is accordingly dismissed.
+
+5.
+Pending applications, if any, stand disposed of.”
+
+11.
+It is claimed that the Impugned Order dated 13.06.2024 does not deal
+with the objections as regards the issue of 'limitation'. However, the issue of
+'limitation' was argued during the hearing dated 29.05.2024 in which even
+the Counsel for the Appellant stated no objection to the filing of the Order
+dated 17.03.2018 passed in O.A. No. 213/2013 which actually put the issue
+of 'limitation' to rest and nothing more was needed to be done. The relevant
+extract of the Order as follows:
+“IA-1592/2024
+Pursuant to the order dated 28.05.2024, Mr. Harshit Khare, Ld. Counsel
+has appeared on behalf of State Bank of India and responded to the
+objections raised by the Ld. Counsel for the Personal Guarantor. Mr.
+Harshit Khare, Ld. Counsel handed-over a copy of the order of the Order
+passed by the DRT in OA No. 213/2013 and a copy of the pass-port of Mr.
+Mahdoom Bava, the Personal Guarantor during the course of the
+arguments.
+Ld. Counsel for the Personal Guarantor has no objections for these
+documents, to be taken on record.
+We have heard the submissions made by the parties. The parties are at
+liberty to file written submissions, if any, within one week. AJAY Order
+Reserved.”
+
+12.
+With respect to the issue of Demand Notice under Rule 7 (1) of the IBC
+Rules of 2019, NCLT, in its Impugned Order dated 13.06.2024, and also by
+the Respondent No. 2-RP in its Report, has categorically stated that the
+Demand Notice dated 28.06.2021 under Rule 7 (1) of the 1BC Rules, 2019,
+was served to the Appellant on the address mentioned in his passport and
+bank records. Thus, the Appellant cannot argue that he should not have been
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 9 of 31
+
+served at the address mentioned in his passport since the passport is a valid
+ID and address proof.
+
+13.
+Even otherwise, the copy of the Demand Notice under Rule 7 (1) as also
+the copy of the Section 95 IBC Petition was sent to the Appellant by the
+Respondents. Thus, no prejudice has been caused to the Appellant as the
+dues and factum of guarantee are an admitted position and the Appellant
+failed to provide the details of repayment of debt.
+
+14.
+It is to be noted that the PG has not denied that, pursuant to the
+sanction of credit facilities by the bank in favour of the CD, the PG executed
+various documents that were duly accepted by the CD and PG. The PG has
+not denied the execution of the personal guarantee. The PG has not denied
+the Demand Notice dated 26.12.2013 under Section 13(2) of the SARFAESI
+Act, 2002, calling to repay Rs 64,48,43,390.25/- (rupees sixty-four crores,
+forty-eight lakhs, forty-three thousand, three hundred and ninety and twenty-
+five paise only), and the PG has not raised any objection with regard to non-
+compliance of principles of natural justice by the Respondent No. 2-RP, while
+submitting the Report in terms of Section 99 of the Code. In view of this, the
+NCLT was completely correct and justified in admitting the Section 95 IBC
+Petition of the Respondent No.1-Bank seeking resolution of the Appellant.
+
+15.
+On the issue of limitation, it is claimed that loan accounts of the CD,
+i.e. Naftogaz India Pvt Ltd, were classified as NPA on 13.06.2012, where-after
+a Demand Notice dated 26.12.2013 under Section 13 (2) of the SARFAESI
+Act, 2002, was issued to the CD and the Appellant, calling upon them to make
+repayment of Rs 64,48,43,390.25/- (rupees sixty-four crores, forty-eight
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 10 of 31
+
+lakhs, forty-three thousand, three hundred and ninety and twenty-five paise
+only), within 60 days, followed by filing O.A. No. 133/2014 and O.A. No.
+213/2014 (“erstwhile SBBJ”) before the Debts Recovery Tribunal, New Delhi.
+O.A. No. 213/2014 was allowed by Order dated 17.03.2018 and the recovery
+certificate was issued on 17.03.2018, while the Section 95 IBC Petition was
+filed by the Respondent No. 1-SBI on 03.12.2022. After excluding the covid
+period between 15.03.2020 to 28.02.2022, from calculating the limitation
+period in view of the Order dated 10.01.2022 passed by the Hon’ble Supreme
+Court in Suo Motu Writ Petition (C) No. 3 of 2020 - the Section 95 IBC Petition,
+having been filed on 03.12.2022, is perfectly within the limitation period of
+three years. In calculating from 17.03.2018, the limitation would stop to run
+on 14.03.2020 and again start running from 01.03.2022, thus, would expire
+in March 2023 only, if at all.
+
+16.
+The exclusion of period between 15.03.2020 to 28.02.2022 in
+calculating the limitation period and giving the benefit of remaining period
+from 01.03.2022, finds support in the judgment dated 06.12.2022 rendered
+in CP (IB) No. 29 (CB)/2022: Canara Bank vs Grids Steel and Alloys Ltd.,
+NCLT, Cuttack Bench; and also in judgment dated 20.03.2023 rendered in
+Company Appeal No. 25/252 (ND)/2022: Income Tax Officer-Ward 7 (1) New
+Delhi vs The Registrar of Companies & Ors., NCLT, New Delhi Bench, after
+relying upon the observations of the Hon’ble NCLAT passed in judgment dated
+10.01.2022 in Company Appeal (AT) (Ins.) No. 936/2021: M/S Essjay
+Ericsson Pvt Ltd vs M/S Frontline (NCR) Business Solutions Pvt Ltd.
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 11 of 31
+
+17.
+Thus, once the Section 95 IBC Petition is within the limitation, the
+objection/contention of the Appellant has to be rejected.
+
+18.
+The Appellant is trying to build its case that the Impugned Order dated
+13.06.2024 does not deal with the objections as regards the issue of
+'limitation'. However, the issue of 'limitation' was already argued during the
+hearing dated 29.05.2024 in which even the Counsel for the Appellant stated
+no objection to the filing of the Order dated 17.03.2018 passed in O.A. No.
+213/2013, which actually put the issue of 'limitation' to rest and nothing
+more was needed to be done.
+
+19.
+With respect to this issue of Demand Notice under Rule 7(1) sent to the
+wrong address by the Financial Creditor, it has been recorded in the
+Impugned Order dated 13.06.2024, and also by the Respondent No. 2-RP in
+its Report that the Demand Notice dated 28.06.2021 under Rule 7 (1) of the
+IBC Rules, 2019, was served to the Appellant on the address mentioned in
+his passport and bank records. Thus, the Appellant cannot argue that he
+should not have been served at the address mentioned in his passport, since
+a passport is a valid ID and address proof. It will be a travesty if the Appellant
+states that he continued to hold a passport on the address where he did not
+stay. Even otherwise, the copy of the Demand Notice under Rule 7 (1), as also
+the copy of the Section 95 IBC Petition, was again sent to the Appellant by
+the Respondents, thus, no prejudice has been caused to the Appellant as the
+dues and factum of guarantee are an admitted position and the Appellant
+failed to provide the details of repayment of debt even after receiving the
+Demand Notice under Rule 7 (1) and the copy of the Section 95 IBC Petition
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 12 of 31
+
+twice. It has been recorded in the Impugned Order dated 13.06.2024 that the
+Respondent No.1- SBI served the Demand Notice at the address given in the
+passport of the PG and the KYC documents available with the bank and,
+therefore, it cannot be said that the Demand Notice was served at the wrong
+address. Further, the Respondent No. 1-SBI had shared the copy of the
+Demand Notice sent to the PG along with a copy of the outward dak register
+dated 30.06.2021 to the Respondent No. 2-RP through email dated
+26.02.2024. The said Demand Notice, as sent on 30.06.2021, was never
+received back in the branch.
+
+20.
+In view of the above, the objection of the Appellant that the Demand
+Notice under Rule 7 (1) was not served to the Appellant is out of place and
+ought to be rejected.
+
+21.
+It is claimed that the purpose of the Demand Notice under Rule 7 (1) is
+to call upon the PG to make payment of the amount of debt in default within
+14 days. Even if, assuming without admitting that the PG received the copy
+of the said Demand Notice dated 28.06.2021 after filing of the Section 95 IBC
+Petition - notwithstanding the fact that the Appellant was served with the
+Demand Notice under Section 13 (2) of SARFAESI Act, and was also served
+with the Notice in the O.A.s - the Appellant never made payment of the
+amount of debt in default to the Respondent No. 1-SBI even during the
+pendency of the Section 95 IBC Petition. Thus, the NCLT has rightly rejected
+the objection/contention of the Appellant as regards serving of the Rule 7 (1)
+Notice.
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 13 of 31
+
+22.
+On the issue that the amount sought for in the Demand Notice and the
+Section 95 of IBC Petition are vague, it is contended that the Respondent No.
+1-SBI had duly provided the amount of debt in default as also the copy of
+statement of accounts to the PG. Thus, the objection/contention of the
+Appellant that the amount mentioned is vague is without legs. Moreover, the
+amount of debt in default was stated to be more than Rs 264 crores, which
+the Respondent No. 2-RP would always analyse while collating the claims. In
+any case, the Hon’ble NCLAT in ‘Company Appeal (AT) (Ins) No. 662-663 of
+2022: Suzlon Synthetics Ltd vs Stressed Asset Stabilisation Fund (2022) 145
+taxmann.com 594 (NCLAT-New Delhi)’ has held that the Adjudicating
+Authority does not have to calculate and fix the amount in default but only
+has to see that the amount in default is more than the threshold. In view of
+this, since the amount of debt in default is more than Rs 264 crores, it would
+be more than Rs 1 crores by any calculation. Hence, the Hon’ble NCLT was
+correct in admitting the Section 95 IBC Petition of the Respondent No. 1-SBI.
+
+23.
+The contention/objection of the Appellant that the Demand Notice
+under Rule 7 (1) and the Section 95 IBC Petition have no foundation of loan
+amount of SBBJ Bank - is absolutely wrong, incorrect and frivolous. The
+Demand Notice dated 28.06.2021 under Rule 7 (1) clearly states the loan
+account numbers (both SBI and SBBJ - the SBBJ merged into the SBI w.e.f.
+01.04.2017) and the amount of debt in default i.e. Rs 264,61,85,998/-
+(rupees two hundred and sixty-four crores, sixty-one lakhs, eighty-five
+thousand, nine hundred and ninety-eight only) as on 31.05.2021 was in
+respect of all the four loan accounts. Thus, it is wrong to suggest that the
+Demand Notice under Rule 7 (1) and the Section 95 IBC Petition have no
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 14 of 31
+
+foundation of loan amount of SBBJ Bank. This objection was taken by the
+Appellant only to somehow deny the Respondent No. 1 – SBI the benefit of
+the O.A. Order/recovery certificate dated 17.03.2018 passed in O.A. No.
+213/2014, which even though was filed by the erstwhile SBBJ. However, on
+its merger with the SBI w.e.f. 01.04.2017, the said O.A. No. 213/2014 is also
+prosecuted by the Respondent No. 1-SBI only. The merger was also prior to
+the final Order dated 17.03.2018 in the O.A. No. 213/2014. Thus, the
+Appellant cannot deny the benefit of the said Order/recovery certificate dated
+17.03.2018 to the Respondent No. 1-SBI.
+
+24.
+On the issue that service of notice under Section 13(2) of SARFAESI Act
+cannot be treated as service of Demand Notice under Rule 7(1), submitted
+that the NCLT never said that in view of service of notice under Section 13(2)
+of SARFAES1 Act, service of Demand Notice under Rule 7 (1) is not required.
+This was never the purport of the Impugned Order dated 13.06.2024. After
+duly recording in the Impugned Order dated 13.06.2024 that the PG never·
+denied the execution of loan documents and sanction of credit facilities to the
+CD and also never denied the execution of the personal guarantee and that
+the PG never raised objection as to any violation of principles of natural
+justice and that the Demand Notice under Rule 7 (1) was served on the
+address mentioned in the passport of the Appellant, the Hon’ble NCLT
+returned a finding at para 28 against the PG. (emphasis added)
+
+25.
+In view of the above, it is very clear that the Hon’ble NCLT did not say
+that since 13 (2) Notice is served, the service of Rule 7 (1) Notice is not
+necessary - but came to the above conclusion after dealing in detail with the
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 15 of 31
+
+facts and circumstances of the present case, which did not leave an iota of
+doubt about the liability and default of the Appellant being the PG for credit
+facilities advanced to the CD. Thus, this objection of the Appellant also
+deserves rejection.
+
+26.
+All the challenges, allegations of the Appellant are only technical in
+nature to divert the attention which have no bearing on the Section 95 IBC
+Application. Thus, they cannot be entertained and are denied strongly. The
+Appeal is without merit. Therefore, in view of the above, the Impugned Order
+dated 13.06.2024 as passed by the Hon’ble Adjudicating Authority is perfectly
+legal and justified. Thus, no interference in the said Impugned Order is called
+for in this Appeal.
+Appraisal
+27.
+Heard Counsels from both sides and also perused materials on record
+and noted the directions of the Hon’ble Supreme Court in Civil Appeal No.
+8622 of 2024 in its Order dated 20.08.2024 of which the relevant extract is
+as follows:
+“1.
+The Appeal arises from an interlocutory order dated 16 July 2024 of
+the National Company Law Appellate Tribunal.
+2.
+The proceedings have been posted for hearing before the NCLAT on
+2 September-2024. Hence, we are not exercising jurisdiction at this
+stage.
+3.
+All the questions of law which have been raised by the appellant, may
+be addressed before and will be considered by NCLAT, when the
+proceedings will be taken up on 2 September 2024.
+4.
+The Appeal is accordingly dismissed.
+5.
+Pending applications, if any, stand disposed of.”
+
+The Appellant is aggrieved with the order of the Adjudicating Authority which
+concludes as follows:
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 16 of 31
+
+“25.
+Be that as it may the Personal Guarantor has not denied that
+pursuant to the sanction of the credit facilities by the Applicant Bank in
+favour of the Corporate Debtor, the Personal Guarantor executed the
+various documents which was duly accepted by the Corporate Debtor and
+the Personal Guarantors.
+26.
+The Respondent has also not denied that the demand notice dated
+26.12.2013 under Section 13(2) of SARFAESI Act, 2002 calling upon to
+repay Rs. 64,48,43,390.25/ - (Rupees Sixty Four Crores Forty Eight Lakhs
+Forty Three Thousand Three Hundred Ninety & Paise Twenty Five Only).
+27.
+We have also noticed that the Respondent-Personal Guarantors
+have not raised any objection with regard to non-compliance of Principles
+of Natural Justice by the Resolution Professional while submitting the
+report in terms of Section 99 of the Code, 2016.
+28.
+We are therefore of the considered view that non-service of demand
+notice as alleged by the Respondent-Corporate Debtor (sic. Personal
+guarantor) will not absolve the Respondent Personal Guarantor from
+discharging its liability under the Deed of Guarantee. Particularly, in view
+of the fact that the Personal Guarantor has not denied the execution of the
+Personal Guarantee and service of the notice under 13 (2) of the
+Securitisation and Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002."
+
+28.
+The Appellant is aggrieved that all his objections have not been
+adjudicated.
+
+29.
+Basis the materials placed on record and the oral arguments, the main
+issues before us are as follows:
+i.
+Whether the Section 95 IBC Petition was barred by limitation or
+not
+ii.
+Whether the Demand Notice under Rule 7(1) of the IBC Rules,
+2019, dated 28.06.2021 was sent to the wrong address by the
+Financial Creditor;
+iii. Whether the amount sought in the Demand Notice and the Section
+95 IBC Petition are vague;
+iv.
+Whether the Demand Notice under Rule 7(1) of IBC Rules, 2019,
+and the Section 95 IBC Petition has no foundation of the loan
+amount of SBBJ Bank; and
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 17 of 31
+
+30.
+Since all the issues are intricately related with each other, wherever
+possible they are being dealt in separately.
+
+31.
+Firstly, we look into the issue relating to the non-service of the Rule 7(1)
+Demand Notice in IBC proceedings of Section 95. It is contended by the
+Appellant that the Demand Notice under Rule 7 was sent at E-14/13, Ground
+Floor, Vasant Vihar, New Delhi-110070, which was the address of the
+Company in liquidation (as on 08.10.2012) and where the Appellant was
+residing in 2012 till possession was taken over by OL. It is the contention of
+the Appellant that Respondent-Bank was aware of 64 Poorvi Marg since 2014
+as the summons in O.A. No. 133 of 2014 were sent to Poorvi Marg address of
+the Appellant. Also, in RC No. 416 of 2018 the Income Affidavit dated
+10.11.2020 was filed by the Appellant with advance copy to SBI Counsel,
+wherein correct email ID, address of Poorvi Marg and mobile number were
+duly provided. Further, Section 13(2) Notice dated 26.12.2013 by SBI to the
+Appellant was also addressed at 64, Poorvi Marg. O.A. No. 213/2014 of the
+SBBJ would also show that Poorvi Marg address of Appellant was known to
+SBI on 03.07.2014 also. Argument of the Respondent-Bank that Notice was
+served at the address of the Appellant as mentioned in his passport and at
+the address given in the Deed of Guarantee etc. is also of no consequence as
+the Respondent-Bank was always aware of the Poorvi Marg address of the
+Appellant. Further, it is contended that IRP has served the copy of Demand
+Notice under Rule 7 to Appellant is of no consequence as Notice under Rule 7
+has to be served to PG before filing a Section 95 Petition, not thereafter. If a
+law requires something to be done in a particular manner, then it must be
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 18 of 31
+
+done in that manner, and if it is not done in that manner, then it would have
+no existence in the eye of the law. Service of Demand Notice under Rule 7(1)
+is mandatory before filing of Application under Section 95 and service of same
+after filing of Section 95 Application is not in accordance with law.
+
+32.
+The Respondent-Bank contends that the Rule 7 Notice, along with
+Section 95 IBC Petition, was again served on the PG through official email ID
+(bava@naftogaz.co.in) on 03.12.2022 and Rule 7 Notice, along with Section 95
+Petition, was once again served by the SBI on the PG at his new Chennai
+address on 15.03.2024, as sent on 11.03.2024. The RP could deliver the
+intimation to the PG only on 08.02.2024 because the RP could not reach out
+to the PG on the three available addresses of Delhi NCR. Chennai address was
+not in the knowledge of anyone except PG. Despite repeated service of Rule 7
+Demand Notice and Section 95 IBC Petition, the PG did not make any payment
+towards the liability, thus, no prejudice is caused to the PG to raise the
+allegation that Rule 7 Notice was not received by him earlier. It is also
+contended that the purpose of Rule 7 Demand Notice is to give 14 days’ time
+to the PG to make payment or submit proof of payment. However, in the
+present case the PG got more than 2 years, yet did not submit any proof of
+payment. Hence, the Section 95 Petition was finally admitted on 13.06.2024.
+The Adjudicating Authority, while looking into the claims of the contesting
+parties in the Impugned Order dated 13.06.2024, has reached the following
+conclusion:
+“28. We are therefore of the considered view that non-service of demand
+notice as alleged by the Respondent-Corporate Debtor (sic. Personal
+guarantor) will not absolve the Respondent Personal Guarantor from
+discharging its liability under the Deed of Guarantee. Particularly, in view
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 19 of 31
+
+of the fact that the Personal Guarantor has not denied the execution of the
+Personal Guarantee and service of the notice under 13 (2) of the
+Securitisation and Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002."
+
+33.
+It is vehemently contended by the Appellant that the above observation
+in the Impugned Order that the non-service of Demand Notice to the Appellant
+will not absolve him from discharging his liability as the Appellant has not
+denied the service of Notice under Section 13(2) of SARFAESI Act is totally
+illegal. It is claimed that Rule 7 Notice cannot be substituted with Section
+13(2) SARFAESI Notice. The nature of both the Notices are entirely different
+and one cannot substitute the other. The Appellant has given an example of
+a cheque bouncing notice under Section 138 of NI Act which cannot
+substitute a winding up Notice under Section 433 of the Companies Act.
+Similarly, a winding up notice under Section 433 cannot substitute a Section
+13 (2) SARFAESI Notice. We find merit in the arguments of the Appellant but
+in the facts of the case sufficient time was available to the Appellant to provide
+repayment plan.
+
+34.
+Even though there have been claims and counter claims with respect
+to the service of the Demand Notice and also Section 95 Application, we find
+that it was the duty of the Appellant to have notified the current address to
+appropriate authorities, including banks and passport office when they had
+moved to Chennai. The RP was in touch with him later on even on WhatsApp
+and the Appellant had also filed his objections on the Report of the RP. In the
+circumstances of the case, we therefore don’t find any infirmity on the
+findings of the Adjudicating Authority on this count. Further, the purported
+non-service of Demand Notice under Rule 7(1) will not have any material
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 20 of 31
+
+impact on the main issue, which is being examined in subsequent
+paragraphs.
+
+35.
+We now look into the main issue whether the Section 95 IBC Petition
+was barred by limitation or not. On the question of limitation, we note that
+the Appellant had vehemently opposed it before the Adjudicating Authority. It
+is claimed that Personal Insolvency Resolution Process was initiated without
+considering the preliminary objection qua limitation, which goes into the root
+of the matter.
+
+36.
+As a recap, Naftogaz India Private Limited went into liquidation - vide
+Order dated 08.12.2012 in Company Petition No. 128/2011- which was
+passed by Hon’ble High Court of Delhi on account of non-payment of the credit
+facilities which had been availed by the Company from SBI and SBBJ. SBI
+sent a Demand Notice dated 26.12.2013 under Section 13(2) of SARFAESI Act,
+calling upon the Official Liquidator - OL and the Appellant-PG to repay the
+amount of about Rs 64.48 crores (pg 513 APB), which was outstanding as on
+25.12.2013. This amount related to credit facilities provided by SBI under
+account nos. (CC(SBI)-30451182299 and BG(SBI)-30449964100). Later on, in
+the year 2014, pursuant to the SARFAESI Act proceedings, SBI filed O.A.
+No.133/2014 before DRT, New Delhi, with the title of SBI vs Naftogaz India
+Private Limited to recover this amount. The same is still pending adjudication
+till date. No decree has been passed in the same. After almost 7 years, the
+Respondent No.1-SBI sent a Demand Notice dated 28.06.2021 (pg 541 to 545
+of APB), under Rule 7(1) of Insolvency and Bankruptcy (Application to
+Adjudicating Authority for Insolvency Resolution Process Guarantors to
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 21 of 31
+
+Corporate Debtors) Rules, 2019, for initiating Section 95 proceedings against
+the PG. This Notice claimed a demand of Rs 264.61 crores (approximately),
+with a date of default of 25.01.2014, which includes not only the credit
+facilities provided by SBI, but also by SBBJ (pg 542 of APB) - as by that time
+the two banks - namely SBI and SBBJ had merged into SBI as on 31.03.2017
+and the Notice combined demands of both banks without specifying details of
+individual accounts. Perusal of the Sl. No. 3 and 4 in the particulars of debt
+(at pg 541 of the APB) show that due date was 26.12.2013 and the default had
+occurred on 25.01.2014. The relevant extract is reproduced as follows:
+“FORM B
+[SEE RULE 7(1)]
+FORM OF DEMAND NOTICE
+
+Under Rule 7(1) of Insolvency and Bankruptcy (Application to Adjudicating Authority
+for Insolvency Resolution Process Guarantors to Corporate Debtors) Rules 2019
+
+1. Total outstanding debt (Including
+any Interest or penalties)
+Rs.264,61,85,998.00
+(Rs.
+Two
+hundred sixty four crore sixty one
+lacs
+eighty
+five
+thousand
+nine
+hundred
+ninety
+eight)
+as
+on
+31.05.2021.
+2. Amount of debt in default
+Rs.264,61,85,998.00
+(As
+on
+31.05.2021)
+3. Date when the debt was due
+26.12.2013 (Notice u/s 13(2) of
+SARFAESI Act)
+4. Date when the default occurred
+25.01.2014
+5. Nature of the debt
+
+Sr.
+No.
+Facility
+A/c No.
+1
+CC (SBI)
+
+30451182299
+2
+BG(SBI)
+
+30449964100
+3
+CC(SBBJ)
+
+61253087296
+4
+BG(SBBJ)
+
+61074975160
+
+6. Secured debt including particulars
+of security held, the date of its
+creation, its estimated value as per
+the creditor (as applicable), and
+details of securities.
+
+7. Unsecured debt (as applicable)
+Rs.
+264,61,85,998.00
+(Rs.
+Two
+hundred sixty four crore sixty one
+lacs
+eighty
+five
+thousand
+nine
+hundred
+ninety
+eight)
+as
+on
+31.05.2021.”
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 22 of 31
+
+37.
+To find out the merits of the claims of Respondent Bank, relevant
+particulars of the Section 95 Application are also extracted as follows:
+“FORM C
+[SEE RULE 7(2)
+
+“[APPLICATION BY CREDITOR TO INITIATE
+INSOLVENCY RESOLUTION PROCESS]
+
+“(Under Rule 7(2) of the Insolvency and Bankruptcy (Application to
+Adjudicating Authority for Insolvency Resolution Process for Personal
+Guarantors to Corporate Debtor) Rules, 2019
+
+1. Total
+debt
+(including
+Rs.315,30,80,207.78/- any interest
+penalties)
+(Rupees
+Three
+Hundred
+Fifteen
+Crores
+Thirty
+Lakhs
+Eighty
+Thousand Two Hundred Seven &
+Paise seventy-Eight Only)
+3. Amount in default
+Rs.
+315,30,80,207.78/-
+as
+on
+30.06.2022 payable by the Personal
+Guarantor i.e. Mr. Mahdoom Bava
+Bahrudeen, jointly and severally,
+together
+with
+future
+interest
+applicable including penal interest
+and charges on actual basis from
+13.06.2012
+when
+account
+was
+declared NPΑ.
+4. Date on which default occurred
+13.06.2012
+Account of the Corporate Debtor
+stood classified as NPA.
+17.04.2012
+Letter was written by the Corporate
+Debtor admitting to liabilities to the
+bank.
+26.12.2013
+The Applicant bank issued a demand
+notice dated 26.12.2013 to the
+Corporate
+Debtor
+through
+the
+Official Liquidator.
+26.12.2013
+The Applicant Bank issued a notice
+under SARFAESI Act.
+25.03.2014
+The Applicant Bank filed an Original
+Application bearing no. OA No. 133
+of 2014 before DRT -II.
+28.06.2021
+The Applicant Bank sent demand
+notice
+under Rule 7(1)
+of the
+Insolvency
+and
+Bankruptcy
+(Application
+to
+Adjudicating
+Authority for Insolvency Resolution
+Process of Personal Guarantors to
+Corporate Debtor) Rules, 2019 upon
+Mr.
+Bahrudeen
+Nooral
+Ameen
+Mahdoom
+Bava
+(Personal
+Guarantor).
+5. Nature of the debt
+Unsecured Debt.”
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 23 of 31
+
+38.
+Perusal of Form B and Form C [as extracted above] and SARFAESI Act
+Demand Notice shows that:
+o Accounts of the Company had become NPA on 13.06.2012 (SBI)/
+28.01.2012 (SBBJ); both SBI and SBBJ had not merged at that point
+of time.
+o Section 13(2) Notice dated 26.12.2013 under SARFAESI Act was
+issued by SBI to the Company with a demand of about Rs 64.48
+crores.
+o Rule 7(1) Notice dated 28.06.2021 under IBC proceedings shows
+demand of about Rs 264.61 crores as on 31.05.2021. These were for
+four account numbers -two relating to SBI and two to SBBJ but
+without details of individual account numbers.
+o Section 95 r/w Rule 7(2) Application dated 03.12.2022 under IBC
+shows total debt of about Rs 315 crores at Sl No. 1 in Part III as on
+20.06.2022. Only statement of loan account of SBI was filed with
+Section 95 Application. There are no details of other individual
+account numbers.
+
+39.
+Now when we closely look into the debt and default as claimed by the
+Respondent-Bank under Section 95 of the Code, we find that the Demand
+Notice under Section 13(2) of SARFAESI Act was with respect to default of the
+loan of SBI. Later on, in the Demand Notice under Rule 7(1) and also under
+Rule 7(2) under the IBC, for the first time, the Respondent Bank included the
+outstanding loan with respect to SBBJ also for an amount of Rs 264/Rs 315
+crs but is bereft of details except for account numbers without giving details
+in each account and when it became NPA and what is the date of default for
+each account. The contention of the Appellant that whether the service of
+Notice under Section 13(2) of SARFAESI Act be treated as service of Demand
+Notice under Rule 7(1) of the Insolvency and Bankruptcy (Application to
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 24 of 31
+
+Adjudicating Authority for Insolvency Resolution Process of Personal
+Guarantors to Corporate Debtors) Rule, 2019 or not is concerned, we find that
+it is not on any basis as the notice under Rule 7(1) has been issued separately
+in Form B as extracted above.
+
+40.
+We further find that the Appellant has been able to demonstrate that
+the said amount of Rs 315 crores as in Section 95 application is an
+approximate total of SBI’s A/c No. 30451182299 [pg 535 APB] i.e. Rs 264
+crores and A/c No. 61029643854 [pg 539 APB at the bottom] i.e. Rs 51.23
+crores totalling to Rs 315 crores. And the later account [A/c No.
+61029643854] has nothing to do with SBBJ as the account numbers
+mentioned in the Demand Notice under Rule 7(1) for SBBJ are 61253087296
+and 61074975160 [pg 542/5 APB]. Thus, we find that in both the Rule 7(1)
+Demand Notice and Section 95(1) of IBC Application, the Respondent No.1-
+SBI through RP has given a total claim without giving the details in the
+particulars. And the Appellant has been able to explain that this amount
+pertains to SBI only and rest amount pertains to some unrelated account of
+SBBJ.
+
+41.
+In the above background we now calculate the period of limitation which
+would start running from the date of NPA of 13.06.2012. At best the limitation
+would start from Section 13(2) Notice dated 26.12.2013, when demand was
+made from the Appellant. Since Demand Notice under Rule 7(1) was issued
+on 28.06.2021, and the Application under Section 95 was filed on 03.12.2022,
+we find that the said Application is prima facie beyond three years and is time
+barred. Without giving the details of each account, the Respondent No.1-SBI
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 25 of 31
+
+cannot overcome the limitation. A defence of the covid period has been taken
+by the Respondent-Bank. Even after excluding the covid period from
+15.03.2020 to 28.02.2022, which is as per the Orders dated 10.01.2022 of
+the Hon’ble Supreme Court in Suo Moto Writ Petition (C) No. 3 of 2020, we
+find that the Rule 7(1) Notice has been issued much beyond three years. This
+argument, therefore, doesn’t come to help of the Respondent-Bank. We
+therefore, find that the notices for debt and default under Rule 7(1) and Rule
+7(2) are issued much beyond three years from the date of default and are
+therefore barred to be proceeded under the Limitation Act.
+
+42.
+It is claimed by the Respondent-Bank that during the hearing before the
+Adjudicating Authority on 29.05.2024, the issue of limitation was argued, and
+as the Counsel for the Appellant had no objection to the filing of the Order
+dated 17.03.2018 passed in O.A. No.213/2013, therefore it puts the issue of
+limitation to rest and nothing more was needed to be done. The Orders which
+capture this are extracted as below:
+“IA-1592/2024
+Pursuant to the order dated 28.05.2024, Mr. Harshit Khare, Ld. Counsel has
+appeared on behalf of State Bank of India and responded to the objections raised
+by the Ld. Counsel for the Personal Guarantor. Mr. Harshit Khare, Ld. Counsel
+handed-over a copy of the order of the Order passed by the DRT in OA No.
+213/2013 and a copy of the pass-port of Mr. Mahdoom Bava, the Personal
+Guarantor during the course of the arguments.
+Ld. Counsel for the Personal Guarantor has no objections for these documents,
+to be taken on record.
+We have heard the submissions made by the parties. The parties are at liberty
+to file written submissions, if any, within one week. Order Reserved.”
+
+43.
+Respondent also claims that the Appellant is somehow trying to deny
+the Respondent No.1-SBI to take the benefit of O.A. Order / recovery
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 26 of 31
+
+certificate dated 17.03.2018 passed in O.A. No.213/2013. We find that this
+argument is not based on materials on record as noted below. The Respondent
+contends that even though it was filed by the erstwhile bank namely SBBJ,
+yet on its merger with SBI w.e.f. 01.04.2017, the said O.A. No.213/2013 was
+being prosecuted by the Respondent No.1-SBI only. The merger was also prior
+to the final Order dated 17.03.2018 in the O.A. No. 213/2013. It claims that
+the Appellant cannot deny the benefit of the said Order / recovery certificate
+dated 17.03.2018. It is also vehemently contended by the Respondent-Bank
+that once the debt and default is clearly admitted and no repayment plan is
+available from the PG, the only consequence is the Section 100 order. It claims
+that the Court may not go into the question of the exact amount in such a
+situation because after the claims are called out by the RP, the PG is within
+its rights to provide a repayment plan as per his calculations and ability,
+which the Committee of Creditors (CoC) may agree or reject. Thus, the veracity
+of the exact amounts or accounts may not be disputed at the stage of Section
+100 since, admittedly, the PG has neither made any payment nor provided
+proof of repayment. The Respondent Bank claims that details of amounts as
+per different accounts are not relevant as long as it is more than Rs 1 crore.
+It contends that if mere technical objections are entertained then no resolution
+would ever be successful even when there is a clear debt and default on the
+part of the Appellant and no prejudice has been caused to the Appellant.
+
+44.
+To understand whether O.A. No.213/2013, as noted above, supports
+the case of the Respondent Bank, we note that the SBBJ had filed O.A.
+No.213/2013 before Hon’ble DRT, New Delhi in which the judgment and
+decree for Rs 17.63 crores were passed on 17.03.2018 in this matter. It is to
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 27 of 31
+
+be noted that the O.A. No. 213/2014 was allowed by Order dated 17.03.2018
+and the recovery certificate was issued on 17.03.2018 while the Section 95
+IBC Petition has been filed by the Respondent No. 1-SBI on 03.12.2022, which
+is much later in time. Even then these RC proceedings, if they were of any
+help, do not find mention in the Section 95 proceedings, when they were filed.
+
+45.
+To know the veracity of the claims of the Respondent-Bank, we test the
+Section 95 Application against the provisions of the Code and we find some
+crucial omissions and deficiencies in this application. For appreciating them,
+the relevant Sub-Section 4 of Section 95 is extracted herein:
+“95(4) An application under sub-section (1) shall be accompanied with
+details and documents relating to—
+
+(a) the debts owed by the debtor to the creditor or creditors
+submitting the application for insolvency resolution process as
+on the date of application;
+(b) the failure by the debtor to pay the debt within a period of
+fourteen days of the service of the notice of demand; and
+(c) relevant evidence of such default or non-repayment of debt.”
+
+As per the legal provisions in the Section 95 of Code, the Application has to
+provide “details and documents” relating to the debts owed by the debtor
+to the creditor or creditors. Testing the present case against this provision
+under Section 95(4), we find that the Section 95 Application suffers from
+various deficiencies, which have also been specially agitated by the Appellant.
+From the materials on record, we find that in the Notice under Rule 7, debt
+demanded was pertaining to SBI A/c No. (1) 30451182299 and (2)
+30449964100, SBBJ A/c No. (3) 61253087296 and (4) 61074975160. But the
+Respondent-Bank filed statement of account of only one out of the aforesaid
+four accounts, that is, SBI A/c No. 30451182299 and another statement of
+account i.e. A/c No. 61029643854, which was not even part of the accounts
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 28 of 31
+
+mentioned in the earlier Notice under Rule 7. Interestingly, we find that the
+total of the two statement of accounts is about Rs 315 crores, which is the
+amount mentioned in the Section 95 Application under IBC. We find that the
+Application under Section 95 is incomplete as it doesn’t fully comply with the
+legal provisions of the Code under Section 95 as it failed to provide “details
+and documents” relating to the debts owed by the debtor to the creditor.
+Perusal of Section 95 Application persuades us to agree with the contentions
+of the Appellant that in the Section 95 Application, the entire reference is to
+the correspondence pertaining to SBI and not SBBJ and the Respondent has
+tried to bring in the Order of the DRT to ensure that Application under Section
+95 comes within limitation and for that purpose referred to O.A. 213/2014
+by SBBJ [in which RC dated 17.03.2018 for Rs 17.63 crores was passed],
+which was not done at the time of filing of Section 95 Application which was
+filed on 03.12.2022 which is later than orders of RC on 17.03.2018. The
+argument of the Respondent that the question of limitation was waived by the
+Appellant, since the Appellant consented to take on record Order dated
+17.03.2018 is also not tenable as the Appellant clearly distinguished the
+amount of Rs 315 crores sought in the Section 95 Application from the decree
+passed in favour of SBBJ, which has been further noted by us separately in
+the judgment. As found by us in the earlier parts of our judgement, the
+outstanding demand with respect to the account of unmerged SBI bank was
+time barred. Whether limitation gets extended or not needs to be specifically
+concluded after linking appropriate SBBJ account numbers with both the
+account numbers in OA 213/2024 and also Section 95 application.
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 29 of 31
+
+46.
+In conclusion, we find that the Applications under Rule 7(1) or Rule
+7(2) / Section 95 have been deficient in providing details of individual
+accounts with respect to amounts, date of defaults, statement of accounts
+and dates of Notices and linking each individual account with the total
+amount claimed in the Section 95 Application. By providing a broad figure of
+Rs 315 crores, the demand becomes vague. Further directly linking of
+Application under Rule 7(2) / Section 95 with DRT Orders/decree is also not
+fully established. It is to be noted that DRT proceedings under SBBJ account
+were notified on 17.03.2018 for Rs 17.63 crores and at the time of filing of
+the Section 95 proceedings on 03.12.2022, the Respondent Bank was aware
+of the DRT proceedings. Even then it had not used them as an argument in
+the Section 95 Application at the time of filing this Application and later on
+in the hearing on 29.05.2024 it filed the order which was of an earlier date of
+17.03.2018.
+
+47.
+In this background, we find that the Adjudicating Authority had allowed
+the Counsel for the Respondent No.1-SBI to hand over a copy of the Order of
+DRT during the course of arguments. Only concession which has been
+recorded is that the PG had no objection for these documents to be taken on
+record. Having done so, we find that the Adjudicating Authority has based its
+judgment solely on this decree to overcome the period limitation. The
+Appellant was well within its rights to raise all the issues relating to the Rule
+7(1) and Section 95 Application when the issue of DRT was not raised in
+Section 95(1) Application after conclusion of the arguments. In this
+background, the contention of the Appellant that this is not a case where
+there is a question of threshold value of Rs 1 crore but is a case where debt
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 30 of 31
+
+of Rs 315 crores sought in Section 95 Application is not correlating with
+account numbers and amounts of Notice under Rule 7. Thus, it doesn’t satisfy
+the requirements of providing “details and documents” relating to the debts
+owed by the debtor to the creditor.
+
+48.
+From the facts on record, we find that the Section 95 application doesn’t
+satisfy the requirements of “details and documents relating to debts owed by
+the debtor to the creditor or creditors” as provided under Section 95 (4) of the
+Code. We also find that all objections relating to Section 95 proceedings have
+not been disposed of, particularly relating to sufficient details and documents
+with respect to individual accounts in default. The total amount of default as
+claimed in the Section 95 application has to be individually substantiated
+with the details of separate accounts, particularly in the facts of the case,
+where two separate Banks merged and when earlier separate accounts were
+being maintained in different Banks and separate recovery proceedings were
+being pursued by both SBI & SBBJ separately. Be that as it may, in the
+interests of natural justice we find it appropriate to remand this case back to
+the Adjudicating Authority to examine all the objections relating to the details
+of individual accounts and their dates of default and whether debt is time
+barred - in full or in part amount - due to RC under SARFAESI Act 2002 and
+arrive at a conclusion.
+Order
+49.
+Accordingly, in the facts and the circumstances of the case, the
+personal insolvency proceedings are remanded back to the Adjudicating
+Authority to determine afresh the limited question of whether on the basis of
+the materials on record the debt is barred by limitation or not and whether in
+
+[PAGE 31]
+Company Appeal (AT) (Insolvency) No. 1324 of 2024 31 of 31
+
+full or in part amount and accordingly determine the issue of personal
+insolvency against the Appellant. Both parties are at liberty to raise all
+contentions before the Adjudicating Authority with respect to the issue in
+hand for determining whether the debt is time barred or not and whether for
+full or part amount and whether Section 95 proceedings are maintainable or
+not. The order impugned dated 13.06.2024 is set aside. We make it clear that
+we are not expressing any concluded opinion on the issues raised and it is for
+the Adjudicating Authority to consider the submissions and materials on the
+record and take a decision.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+February 12, 2025.
+
+pawan

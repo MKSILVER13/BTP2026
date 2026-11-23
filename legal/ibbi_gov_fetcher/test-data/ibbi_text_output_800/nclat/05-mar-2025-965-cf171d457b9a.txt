@@ -1,0 +1,974 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 336 of 2025
+[Arising out of Order dated 13.02.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal, Allahabad Bench, Prayagraj), in IA
+No.200/2022 in CP (IB) No.33/ALD/2021]
+IN THE MATTER OF:
+
+Himanshu Singh,
+Suspended Director of
+Kriti Prakashan Private Limited
+Address: -
+Kriti Prakashan Private Limited
+(Under CIRP) R/o B-2019,
+B-Block, Indira Nagar,
+Lucknow-226016
+E-Mail: contact@kritiprakshan.com
+
+...Appellant
+
+Versus
+
+1. HDFC Bank Limited
+Address: - Department of Special Operations,
+First Floor, HDFC Bank Limited,
+Pranay Tower, Drabari Lal Sharma Marg,
+Lucknow-226001.
+
+...Respondent No. 1
+
+2. Mr. Anil Kumar Mittal
+(Interim Resolution Professional)
+Address: - 5/99, Sector- 2,
+Rajender Nagar, Sahibabad, Distt. Ghaziabad,
+Ghaziabad, Uttar Pradesh, 201005
+Email Id: - mittalanil.ubi@gmail.com
+
+...Respondent No. 2
+
+Present:
+
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Harish
+Taneja, Ms. Srishti Agrawal, Ms. Shenaaz and Mr.
+Heena Kochar, Advocates.
+
+For Respondents
+: Ms. Surabhi Sinha, Advocate for R-1.
+
+Mr. Anang Shandalia, IRP.
+WITH
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+2 of 24
+Company Appeal (AT) (Insolvency) No. 337 of 2025
+[Arising out of Order dated 13.02.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal, Allahabad Bench, Prayagraj), in IA
+No.182/2022 in CP (IB) No.33/ALD/2021]
+IN THE MATTER OF:
+
+Himanshu Singh,
+Suspended Director of
+Kriti Prakashan Private Limited
+Address: -
+Kriti Prakashan Private Limited
+(Under CIRP) R/o B-2019,
+B-Block, Indira Nagar,
+Lucknow-226016
+E-Mail: contact@kritiprakshan.com
+
+...Appellant
+
+Versus
+
+1. Mr. Anil Kumar Mittal
+(Interim Resolution Professional)
+Address: - 5/99, Sector- 2,
+Rajender Nagar, Sahibabad, Distt. Ghaziabad,
+Ghaziabad, Uttar Pradesh, 201005
+Email Id: - mittalanil.ubi@gmail.com
+
+...Respondent No. 1
+
+2. HDFC Bank Limited
+Address: - Department of Special Operations,
+First Floor, HDFC Bank Limited,
+Pranay Tower, Drabari Lal Sharma Marg,
+Lucknow-226001.
+Email Id: - Jasveen.kaur1@hdfcbank.com
+
+...Respondent No. 2
+
+Present:
+
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Harish
+Taneja, Ms. Srishti Agrawal, Ms. Shenaaz and Mr.
+Heena Kochar, Advocates.
+
+For Respondents
+: Ms. Surabhi Sinha, Advocate for R-1.
+
+Mr. Anang Shandalia, IRP.
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+3 of 24
+O R D E R
+ASHOK BHUSHAN, J.
+These two appeals have been filed challenging the same order dated
+13.02.2025 passed by the Adjudicating Authority (National Company Law
+Tribunal, Allahabad Bench, Prayagraj) in I.A. No. 200/2022 in CP (IB)
+No.33/ALD/2021 filed by the HDFC Bank and I.A. No. 182/2022 in CP (IB)
+No.33/ALD/2021 filed by the Interim Resolution Professional (IRP) under
+Section 12A of the Insolvency and Bankruptcy Code, 2016, (for short ‘the
+Code’ or ‘the IBC’). Both the applications have been decided by separate
+Orders of the same date dated 13.02.2025 passed by the Adjudicating
+Authority. Aggrieved by the Order dated 13.02.2025 in I.A. No. 200/2022,
+the Appeal No. 336/2025 has been filed and the aggrieved by the Order dated
+13.02.2025 passed in I.A. No. 182/2022, Appeal No. 337/2025 has been filed.
+2.
+Both the appeals arise from the same Corporate Insolvency Resolution
+Process (CIRP) of the corporate debtor, they have been heard together and are
+being decided by this common judgment.
+3.
+Brief background facts necessary to be noticed for deciding the appeals
+are:
+i.
+Small Industrial Development Bank of India (SIDBI) has filed an
+application under Section 7 on 20.03.2020 against the Corporate
+Debtor, Kriti Prakashan Private Limited.
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+4 of 24
+ii.
+NCLT Allahabad Bench vide order dated 13.06.2022 admitted Section
+7 application and initiated CIRP against the corporate debtor. Mr.
+Aditya Agarwal was appointed as IRP.
+iii.
+By order dated 15.06.2022, another IRP Anil Kumar Mittal was
+appointed.
+iv.
+On 19.06.2022, IRP made a publication inviting claim from all the
+creditors by 30.06.2022.
+v.
+On 21.06.2022, SIDBI sent an email to the IRP about corporate debtor’s
+willingness to repay and settle full and final outstanding amount
+payable by the corporate debtor.
+vi.
+On
+22.06.2022,
+corporate
+debtor
+paid
+the
+amount
+i.e.,
+Rs.1,58,70,199/- to the SIDBI, who issued a No-Objection Certificate
+(NoC).
+vii.
+On 23.06.2022, ‘Form-FA’ was given to the IRP by the financial creditor.
+viii.
+On 25.06.2022, IRP on behalf of the financial creditor, SIDBI filed I.A.
+No. 182/2022 under Section 12A of the Code for withdrawal of the
+Company Petition.
+ix.
+The Appellant, Himanshu Singh, Suspended Director of the corporate
+debtor also filed a Comp. App. (AT) (Ins.) No. 708/2022 challenging the
+order initiating CIRP against the corporate debtor, which appeal was
+disposed of on 29.06.2022 accepting the request of the counsel for the
+appellant for withdrawal of the Company Appeal. This Tribunal also
+noticed that Section 12-A application has already been filed by the IRP.
+Appellate Tribunal directed that till the disposal of the I.A. under
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+5 of 24
+Section 12A, the implementation of the impugned order shall remain
+stayed.
+x.
+On 30.06.2022, HDFC Bank, another financial creditor of the corporate
+debtor submitted a claim of Rs.4,30,74,985/- to the IRP. HDFC’s claim
+was not being collated by the IRP, in view of the Order dated 29.06.2022
+passed by this Tribunal, HDFC Bank filed an I.A. 200/2022 before the
+Adjudicating Authority praying for permitting intervention of the
+applicant.
+xi.
+It was further prayed that the application filed by the IRP for withdrawal
+of the CIRP be rejected. Both the applications i.e., I.A. No. 200/2022 &
+I.A. No. 182/2022 were heard by the Adjudicating Authority and by
+separate order dated 13.02.2025, I.A. No. 200/2022 was allowed
+whereas by Order of the same date dated 13.02.2025, I.A. No. 182/2022
+filed under Section 12A by the IRP has been rejected.
+xii.
+The Appellant, Suspended Director of the corporate debtor aggrieved by
+both the aforesaid orders have filed these appeals.
+4.
+We have heard Learned Sr. Counsel Mr. Abhijeet Sinha appearing for
+the Appellant. Learned Counsel Ms. Surabhi Sinha appearing for the
+Respondent No. 1 as well as Learned Counsel Mr. Anang Shandalia appearing
+for the IRP.
+5.
+Learned Sr. Counsel Mr. Abhijeet Sinha appearing for the appellant
+submits that I.A. No. 182/2022 was filed by the IRP in accordance with the
+provisions of Section 12A of the IBC read with Section 30A of the IBBI
+(Insolvency Resolution Process for Corporate Persons) Regulations, 2016, (for
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+6 of 24
+short ‘CIRP Regulations, 2016’) on 25.06.2022, on which date, the Committee
+of Creditors (CoC) was not constituted. SIDBI being a financial creditor whose
+debt was fully paid, Adjudicating Authority ought to have allowed I.A. No.
+182/2024 permitting withdrawal of the CIRP. HDFC Bank who also claims
+to be a financial creditor has no jurisdiction to oppose application filed under
+Section 12A of the IBC which was filed prior to constitution of the CoC. The
+filing of the application for withdrawal under Section 12A of the IBC prior to
+constitution of the CoC and subsequent to the constitution of the CoC are two
+different circumstances and when application under Section 12A of the IBC
+is filed prior to the constitution of the CoC, there is no jurisdiction of the
+Adjudicating Authority to entertain any objection by another creditor and
+disallow the application under Section 12A. Financial creditor prior to
+constitution of the CoC has no right to object settlement of the corporate
+debtor with another financial creditor. HDFC Bank was free to initiate its own
+proceedings against the corporate debtor for its dues, however, had no
+jurisdiction to object the settlement which was entered between the SIDBI,
+which settlement was entered on 23.06.2022 on which date, ‘Form-FA’ was
+also given to the IRP with No-Due Certificate for filing a 12A application.
+Learned Sr. Counsel for the Appellant relies on the judgment of the Hon’ble
+Supreme Court in ‘Abhishek Singh’ Vs. ‘Huhtamaki PPL Ltd. & Anr.’
+reported in 2023 SCC OnLine SC 349 and also on the recent judgment of
+the Hon’ble Supreme Court in ‘GLAS Trust Company LLC’ Vs. ‘BYJU
+Raveendran & Ors.’ decided on 23.10.2024. Mr. Abhijeet Sinha submits
+that Hon’ble Supreme Court in ‘Glass Trust Company Limited’ has referred
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+7 of 24
+to the judgment of the ‘Abhishek Singh’ (Supra) with approval. Although, it
+was held that facts of the ‘Glass Trust Company Limited’ (Supra) are
+different from facts of the ‘Abhishek Singh’ (Supra).
+6.
+Learned counsel appearing for the respondent refuting the submissions
+of the counsel for the appellant contends that the Adjudicating Authority has
+rightly allowed the I.A. No. 200/2022 filed by the HDFC Bank. HDFC Bank
+is also a financial creditor of the corporate debtor who had filed its claim on
+30.06.2022 i.e., within the time allowed by publication by the IRP dated
+19.06.2022. After the CIRP was admitted under Section 7, the proceeding
+becomes “in rem” and HDFC Bank is also a stakeholder and creditor of the
+corporate debtor whose objection/claim was entitled to be considered before
+taking a decision under Section 12A application filed by the IRP on basis of
+settlement with another creditor SIDBI. It is submitted that permitting
+withdrawal of the CIRP after settlement with one creditor is nothing but
+preferential payment to one creditor which is not in accordance with the
+scheme of the IBC. It is submitted that HDFC Bank had locus to file I.A. No.
+200/2022. Learned counsel for the respondent relying on the judgment of
+the Hon’ble Supreme Court in ‘Swiss Ribbons Ltd. & Anr.’ Vs. ‘Union of
+India & Ors.’ reported in (2019) 4 SCC 17, submits that in view of the
+judgment of the Hon’ble Supreme Court while considering the application
+under Section 12A, the Adjudicating Authority has to consider all relevant
+facts and the fact that the claim of other creditors have been filed in the CIRP
+are relevant factors and Adjudicating Authority has rightly allowed the I.A.
+No. 200/2022. Adjudicating Authority has also by considering all relevant
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+8 of 24
+factors have rejected the 12A application. Orders passed by Adjudicating
+Authority need no interference in these appeals.
+7.
+We have considered the submissions of counsel for the parties and
+perused the record.
+8.
+Section 12A has been inserted in IBC by Act 26/2018. Hon’ble
+Supreme Court in ‘Swiss Ribbons Ltd. & Anr.’ (Supra) has occasion to
+consider the challenge to the provisions of Section 12A of the Code. Hon’ble
+Supreme Court in the said judgment has noticed the Report of Insolvency Law
+Committee (ILC), Report of March 2018 which lead to insertion of Section 12A.
+In, Paragraph 80 of the judgment, the Hon’ble Supreme Court noticing the
+ILC Report made following observations:
+“80. The ILC Report of March 2018, which led to the
+insertion of Section 12-A, stated as follows:
+“29.1. Under Rule 8 of the CIRP Rules, NCLT may
+permit withdrawal of the application on a request by
+the applicant before its admission. However, there is
+no provision in the Code or the CIRP Rules in relation
+to permissibility of withdrawal post admission of a
+CIRP application. It was observed by the Committee
+that there have been instances where on account of
+settlement between the applicant creditor and the
+corporate debtor, judicial permission for withdrawal of
+CIRP was granted [Lokhandwala Kataria Construction
+(P) Ltd. v. Nisus Finance and Investment Managers
+LLP [Lokhandwala
+Kataria
+Construction
+(P)
+Ltd. v. Nisus Finance and Investment Managers LLP,
+(2018) 15 SCC 589] ; Mothers Pride Dairy India (P)
+Ltd. v. Portrait
+Advertising
+and
+Marketing
+(P)
+Ltd. [Mothers Pride Dairy India (P) Ltd. v. Portrait
+Advertising and Marketing (P) Ltd., 2017 SCC OnLine
+SC 1789] ; Uttara Foods and Feeds (P) Ltd. v. Mona
+Pharmachem [Uttara Foods and Feeds (P) Ltd. v. Mona
+Pharmachem, (2018) 15 SCC 587] ]. This practice was
+deliberated in light of the objective of the Code as
+encapsulated in the BLRC Report, that the design of
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+9 of 24
+the Code is based on ensuring that “all key
+stakeholders will participate to collectively assess
+viability. The law must ensure that all creditors who
+have the capability and the willingness to restructure
+their liabilities must be part of the negotiation process.
+The liabilities of all creditors who are not part of the
+negotiation process must also be met in any negotiated
+solution.” Thus, it was agreed that once CIRP is
+initiated, it is no longer a proceeding only between the
+applicant creditor and the corporate debtor but is
+envisaged to be a proceeding involving all creditors of
+the debtor. The intent of the Code is to discourage
+individual actions for enforcement and settlement to
+the exclusion of the general benefit of all creditors.
+29.2.
+On
+a
+review
+of
+the
+multiple
+NCLT
+and Nclat judgments in this regard, the consistent
+pattern that emerged was that a settlement may be
+reached amongst all creditors and the debtor, for the
+purpose of a withdrawal to be granted, and not only
+the applicant creditor and the debtor. On this basis
+read with the intent of the Code, the Committee
+unanimously agreed that the relevant rules may be
+amended to provide for withdrawal post admission if
+the CoC approves of such action by a voting share of
+ninety per cent. It was specifically discussed that Rule
+11 of the National Company Law Tribunal Rules, 2016
+may not be adopted for this aspect of CIRP at this stage
+[as observed by the Hon'ble Supreme Court in Uttara
+Foods and Feeds (P) Ltd. v. Mona Pharmachem [Uttara
+Foods and Feeds (P) Ltd. v. Mona Pharmachem, (2018)
+15 SCC 587] ] and even otherwise, as the issue can be
+specifically addressed by amending Rule 8 of the CIRP
+Rules.”
+(emphasis in original)
+Before this section was inserted, this Court, under
+Article 142, was passing orders allowing withdrawal
+of applications after creditors' applications had been
+admitted by NCLT or Nclat.”
+9.
+Hon’ble Supreme Court has also noticed Regulation 30A of the CIRP
+Regulations, 2016 in Paragraph 81 of the judgment and after noticing the
+scheme, observed that at any stage where CoC is not yet constituted, party
+can approach the NCLT directly which may allow or disallow application for
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+10 of 24
+withdrawal or settlement. Hon’ble Supreme Court held that “this will be
+decided after hearing all the parties concerned and considering all
+relevant factors on the fact of each case”. Paragraph 82 of the judgment
+is as follows:
+“82. It is clear that once the Code gets triggered by
+admission of a creditor's petition under Sections 7 to 9,
+the proceeding that is before the adjudicating
+authority, being a collective proceeding, is a proceeding
+in rem. Being a proceeding in rem, it is necessary that
+the body which is to oversee the resolution process
+must be consulted before any individual corporate
+debtor is allowed to settle its claim. A question arises
+as to what is to happen before a Committee of Creditors
+is constituted (as per the timelines that are specified, a
+Committee of Creditors can be appointed at any time
+within 30 days from the date of appointment of the
+interim resolution professional). We make it clear that
+at any stage where the Committee of Creditors is not
+yet constituted, a party can approach NCLT directly,
+which Tribunal may, in exercise of its inherent powers
+under Rule 11 of NCLT Rules, 2016, allow or disallow
+an application for withdrawal or settlement. This will
+be decided after hearing all the parties concerned and
+considering all relevant factors on the facts of each
+case.”
+10.
+From the facts as noticed above, it is clear that IRP issued publication
+on 19.06.2022 and after issuance of the publication, settlement was made
+with the SIDBI and payments of dues of Rs.1,58,70,199/- was made to the
+SIDBI on 23.06.2022 and thereafter an application under Section 12A was
+filed on 25.06.2022 by IRP. HDFC Bank has also filed its claim on 30.06.2022
+i.e., which was the last date for submitting the claim for creditors as per
+publication dated 19.06.2022. The above facts have been noted by the
+Adjudicating Authority in Paragraph 3 of the order dated 13.02.2025 passed
+in I.A. No. 182/2022. Para 3 of the impugned order is as follows:
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+11 of 24
+“3. It is stated that as per Regulation 6 of the
+Insolvency and Bankruptcy Board of India (Insolvency
+Resolution Process for Corporate Persons) Regulations,
+2016, IRP made the public announcement in Form A on
+the following platform:-
+a. Financial Express - English and Jansatta -
+Hindi Newspaper on 19.06.2022 with the last
+date of submission of claims being 30.06.2022.
+b. On the website of the Corporate Debtor as well
+as the designated website of the Insolvency and
+Bankruptcy Board of India.
+A copy of the Public Announcement has been annexed
+as Annexure B with the present Application.”
+11.
+HDFC Bank had filed its claim on 30.06.2022. Claim of the HDFC was
+filed i.e., Rs.4,30,74,985/-. The IRP in its reply filed in I.A. No. 200/2022 has
+noticed the facts and the details of the claim in Paragraph 11(a) & (b), which
+is as follows:
+“11. Respondent No. 3/IRP filed a reply on
+03.05.2023, recorded under Diary No. 1499 dated
+24.05.2023, raising objections against the averments
+made in the present application, which are as follows:
+a. The Respondent No. 3 submits that pursuant to
+the order dated 29.06.2022 issued by the Hon’ble
+NCLAT, which imposed a stay on the CIRP
+proceedings initiated against the Corporate
+Debtor, the IRP released all assets under his
+control and refrained from taking any further
+steps to conduct the CIRP process against the
+Corporate
+Debtor,
+in
+compliance
+with
+the
+provisions of the Code.
+b. It is further submitted that the total claims
+received by the IRP to date amount to Rs.
+4,58,82,649/-, comprising Rs. 4,30,74,985/-
+from the intervening applicant HDFC Bank and
+Rs. 28,07,664/- from four Operational Creditors.
+However, due to the stay imposed on the CIRP
+proceedings against the Corporate Debtor, the IRP
+was unable to examine the claims for their
+admission or rejection, and as a result, the CoC
+could not be constituted.”
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+12 of 24
+12.
+Form the reply filed by the IRP, it is clear that total claim which was
+received by the IRP was Rs.4,58,82,649/- whereas, claim which was settled
+with the SIDBI was Rs.1,58,70,199/-. The present is the case where 12A
+application was filed before the constitution of the CoC and the procedure for
+filing such application is contemplated under Regulation 30A of the CIRP
+Regulations, 2016. Regulation 30A of the CIRP Regulations, 2016, is as
+follows:
+“30-A. Withdrawal
+of
+application.—(1)
+An
+application for withdrawal under Section 12-A shall be
+submitted to the interim resolution professional or the
+resolution professional, as the case may be, in Form
+FA of the Schedule before issue of invitation for
+expression of interest under Regulation 36-A.
+(2) The application in sub-regulation (1) shall be
+accompanied by a bank guarantee towards estimated
+cost incurred for purposes of clauses (c) and (d) of
+Regulation 31 till the date of application.
+(3) The committee shall consider the application made
+under sub-regulation (1) within seven days of its
+constitution or seven days of receipt of the application,
+whichever is later.
+(4) Where the application is approved by the committee
+with ninety per cent voting share, the resolution
+professional shall submit the application under sub-
+regulation (1) to the adjudicating authority on behalf of
+the applicant, within three days of such approval.
+(5) The adjudicating authority may, by order, approve
+the application submitted under sub-regulation (4).”
+13.
+The argument which has been much pressed by the Appellant is that
+no objection could have been permitted to be raised by the HDFC Bank with
+regard to application for withdrawal i.e., I.A. No. 182/2022. It is submitted
+that when CoC is not constituted, other creditors are not stakeholders and
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+13 of 24
+cannot be allowed to scuttle the withdrawal process initiated by the IRP in
+accordance with the Regulation 30A of the CIRP Regulations, 2016.
+14.
+Learned counsel for the appellant has relied on the judgment of the
+Hon’ble Supreme Court ‘Abhishek Singh’ (Supra). In the above case,
+application under Section 12A for withdrawal of the CIRP was rejected by the
+NCLT which order was challenged before the NCLT. In the above case,
+operational creditor filed an application under Section 9 of the IBC against
+the corporate debtor on which the CIRP commenced on 01.03.2021, within
+two days corporate debtor entered into settlement with the operational
+creditor which was arrived even before the CoC could be constituted.
+Operational creditor received the amount and an application under Section
+12A of the IBC read with Section 30 of the CIRP Regulations, 2016, was filed
+on 10.03.2021 before the Adjudicating Authority. An appeal was filed
+challenging the admission order dated 01.03.2021 which appeal was decided
+on 26.03.2021 by this Tribunal permitting appeal to be withdrawn with a
+liberty to the appellant for revival of the appeal in case the settlement failed.
+NCLT stayed the formation of the CoC by the same order. NCLT by
+subsequent order dated 13.04.2021 rejected the settlement proposal and
+fixed the matter for disposal of application after hearing all creditors. CoC
+was constituted on 15.04.2021. Appellant thereafter filed the appeal on
+19.04.2021, where this Tribunal passed an interim order directing party to
+maintain a status quo. In Paragraph 10 of the judgment of the Hon’ble
+Supreme Court, primary objections made by the IRP by way of an intervention
+application was noticed. Other creditors who had raised their claim has also
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+14 of 24
+filed intervention/impleadment. Hon’ble Supreme Court in the above
+background noticed the scheme of the IBC. Hon’ble Supreme Court held that
+Regulation 30A of the CIRP Regulations, 2016, clearly provides that
+withdrawal application being entertained before constitution of the CoC. In
+Paragraphs 36, 42 & 45 of the judgment, following was observed:
+“36. Section 12A of IBC permits
+withdrawal
+of
+applications
+admitted
+under
+sections 7, 9 and 10 of IBC. It permits withdrawal of
+such applications with approval of 90 percent voting
+share of CoC in such manner as may be specified. The
+role of CoC and 90 percent of its voting share approving
+the said withdrawal would come into play only when
+CoC has been constituted. Section 12A did not
+specifically mention withdrawal of such applications
+where CoC had not been constituted but at the same
+time it does not debar entertaining applications for
+withdrawal even before constitution of CoC. Therefore,
+the application under section 12A for withdrawal
+cannot be said to be kept pending for constitution of
+CoC, even where such application was filed before
+constitution of CoC. The IBBI which had the power to
+frame Regulations wherever required and in particular
+section 240 of IBC for the subjects covered therein had
+accordingly substituted Regulation 30A dealing with
+the
+procedure
+for
+disposal
+of
+application
+for
+withdrawal
+filed
+under
+section 12A of IBC.
+The
+substituted Regulation 30A of IBBI Regulations as it
+stands
+today
+clearly
+provided
+for
+withdrawal
+applications being entertained before constitution of
+CoC. It does not in any way conflicts or is in violation
+of section 12A of IBC. There is no inconsistency in the
+two provisions. It only furthers the cause introduced
+vide section 12A of IBC. Thus, NCLT fell in error in
+taking a contrary view.
+42. Regulation 30A of IBBI Regulations provide a
+complete mechanism for dealing with the applications
+filed under such provision. The issue raised by the IRP
+regarding its claim for expenses is well taken care of
+under the said provision. Various safeguards have
+been provided in Regulation 30A of IBBI Regulations to
+be fulfilled by the OC which apparently have been
+fulfilled as there is no complaint in that regard either
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+15 of 24
+by the IRP nor it is apparent from the impugned order
+of the NCLT. Thus, the objection raised by the IRP does
+not merit any consideration in this appeal.
+45. We make it clear that any observations made in
+this judgment will not, in any manner, affect the claim
+of other creditors of whatever category and they would
+be free to raise their own independent claims in
+appropriate proceedings which would be dealt with in
+accordance with law.”
+15.
+When we look into the observations made in Paragraph 42, Hon’ble
+Supreme Court observed that objection raised by the IRP does not merit any
+consideration in this appeal.
+16.
+The next judgment which has been relied by the Appellant is judgment
+of the Hon’ble Supreme Court in ‘GLAS Trust Company LLC’ (Supra), which
+is 3 Member Bench judgment which had occasion to consider the entire
+scheme of the IBC regarding withdrawal as well as the earlier judgments
+including the judgment of the Hon’ble Supreme Court in ‘Abhishek Singh’
+(Supra). In the above case, the CIRP commenced against the corporate
+debtor. Vide order dated 16.07.2024, public announcement was made, on
+17.07.2024. Appellant, GLAS Trust Company LLC has filed its claim in the
+prescribed proforma before the IRP in response to the publication. Section 7
+application which was filed by GLAS Trust Company LLC was disposed of
+noticing the admission of the CIRP under Section 9 on 16.07.2024 itself. The
+admission order under Section 9 was challenged before this Appellate
+Tribunal by the Riju Raveendran, the Suspended Director of the corporate
+debtor and appeal was also filed by the GLAS Trust Company LLC against the
+order rejecting the Section 7 application. Before this Appellate Tribunal, the
+Suspended Director informed that amounts have been paid to the Operational
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+16 of 24
+Creditor, Board of Control for Cricket in India (BCCI) and balance amount of
+Rs.83 crore have to be paid on or before 09.09.2024. Payment was made in
+pursuance of settlement. The second Respondent, Operational Creditor has
+undertaken to withdraw Section 9 proceeding. On 31.07.2024, parties sought
+to place the settlement on record before this Appellate Tribunal. Court was
+informed that CoC has not been constituted. Appellant GLAS Trust Company
+LLC raised objections to the settlement including the source of fund. Affidavit
+was filed on 01.08.2024 by Riju Raveenderan and this Appellate Tribunal
+(Chennai Bench) passed an interim order staying the constitution of the CoC
+and by Order dated 02.08.2024 accepted the settlement and close the CIRP
+exercising its inherent jurisdiction under Rule 11 of the NCLAT Rules, 2016.
+Order of the NCLT admitting Section 9 application was set aside against which
+order, the appeal was filed by GLAS Trust Company LLC, which appeal has
+been allowed by the judgment dated 23.10.2024. Hon’ble Supreme Court in
+the above case had occasion to consider the entire scheme of withdrawal of
+CIRP. Hon’ble Supreme Court in the above judgment has held that admission
+of an application (under Section 9/7 of the IBC) is significant event that alters
+the nature of the proceedings from “in personam” to “in rem” proceeding.
+In Paragraph 42 of the judgment, following was laid down:
+“42. From this scheme of Chapter II of the IBC, it
+appears that the admission of an application is a
+significant event that alters the nature of the
+proceedings, and the stakeholders involved. Initially,
+when the petition is filed by the financial creditor,
+operational creditor or corporate applicant, as the case
+may be, the proceedings are in personam and the only
+relevant stakeholders are the applicant creditor and
+the corporate debtor. However, once the petition is
+admitted and CIRP is initiated, several significant
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+17 of 24
+changes take place, including the transfer of the
+management of the affairs of the corporate debtor to
+the IRP, the declaration of the moratorium, and the
+collation of the claims against the corporate debtor.
+Therefore, the proceedings now change character –
+they become in rem and are no longer the preserve of
+only the applicant creditor and the corporate debtor
+and even creditors who were not the original
+applicants, become necessary stakeholders.”
+17.
+Hon’ble Supreme Court also in Paragraph 44 noticed two significant
+principles in following words:
+“44. In summary, the scheme of the IBC under Chapter
+II gives rise to two significant principles:
+a. Once the petition is admitted, the proceedings are no
+longer the preserve of the applicant creditor and the
+debtor. They now become in rem and all creditors of
+the corporate debtor become stakeholders in the
+process; and
+b. Once the petition is admitted, the management of the
+affairs of the corporate debtor is vested in the IRP and
+eventually, in the RP. Thus, the corporate debtor no
+longer exists in the form that it did, before the
+admission of the petition. Once CIRP is initiated, the
+interests of the erstwhile management of the corporate
+debtor must be distinguished from the interests of the
+corporate debtor.”
+18.
+In Paragraph 49 of the judgment, ILC Report (March, 2018) was noticed
+and Paragraph 29.1 of the Report was captured. In Paragraph 49 following
+was observed:
+“49. Against this backdrop, the Ministry of Corporate
+Affairs of the Government of India set up the Insolvency
+Law Committee,39 to address the early teething
+challenges arising from the implementation of the
+IBC.40 The ILC Report, submitted on 26 March 2018,
+also dealt with the issue of withdrawal of CIRP
+proceedings and discussed the existing practice of this
+Court of granting “judicial permission” for withdrawal
+of CIRP after the admission of the application of the
+creditor. In this context, the report discussed the
+objectives of the IBC, drawing from the report of the
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+18 of 24
+Bankruptcy Law Reforms Committee which preceded
+the enactment of the IBC, and concluded that:
+“29.1 ...it was agreed that once the CIRP is
+initiated, it is no longer a proceeding only between
+the applicant creditor and the corporate debtor but
+is envisaged to be a proceeding involving all
+creditors of the debtor. The intent of the Code
+is to discourage individual actions for
+enforcement and settlement to the exclusion
+of the general benefit of all creditors.”
+(emphasis supplied)
+19.
+Hon’ble Supreme Court relied on the judgment in ‘Swiss Ribbons Ltd.
+& Anr.’ (Supra) and the ratio of ‘Swiss Ribbons Ltd. & Anr.’ (Supra)
+captured in Paragraph 58 in following manner:
+“58. From the above observations of this Court in Swiss
+Ribbons (supra), the following positions of law may be
+deduced:
+a. Once the petition instituted by a creditor is
+admitted, the proceedings before the NCLT
+become a ‘collective proceeding’ or a proceeding in
+rem. Thus, the body which oversees the resolution
+process, i.e. CoC must be consulted before
+allowing the claim to be settled;
+b. This Court recognized that there was a lacuna
+in relation to cases where the CoC had not been
+formed. Accordingly, it was held that, in such
+cases, the party can approach the NCLT directly,
+and the NCLT may exercise its inherent powers
+under Rule 11 to allow or disallow the application
+for settlement/withdrawal. However, given the in
+rem
+nature
+of
+the
+proceedings,
+such
+an
+application must be decided only after hearing all
+the parties concerned and considering the
+relevant factors in the case;
+c. This high threshold of a ninety-percent voting
+share of the CoC is not arbitrary. The idea is that
+the financial creditors have to put their heads
+together to allow such withdrawal; and
+d. Under Section 60 of the IBC, the decision of the
+CoC to reject or accept the settlement claim can be
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+19 of 24
+challenged before the NCLT and then, the
+NCLAT.”
+20.
+In Paragraph 58(b), Hon’ble Supreme Court had made following
+significant observation “however, given the in rem nature of the
+proceedings, such an application must be decided only after hearing
+all the parties concerned and considering the relevant factors in the
+case”. The above observations have been made with regard to situation when
+12A application have been filed before the constitution of the CoC. It is further
+relevant to notice that argument was raised before the Hon’ble Supreme Court
+that at the stage when CoC is not constituted, Adjudicating Authority is not
+required to hear any other parties but only approve the application. In
+Paragraph 65, the above argument has been noticed, which is as follows:
+“65. Mr. Tushar Mehta, Senior Counsel for the second
+respondent,
+has
+sought
+to
+contend
+that
+the
+requirement under Regulation 30A (1) to move an
+application before the NCLT through the IRP, in cases
+where the CoC is not constituted, is a mere technicality
+which can be dispensed with. The logic he advances is
+that the regulation does not require adjudication by the
+NCLT about the factum of the settlement, the mode of
+settlement or adjudication on any other ground. His
+submission is that Regulation 30A (1) only requires
+that the withdrawal application be submitted to the IRP
+in the prescribed Form FA, which is then forwarded to
+the NCLT to mechanically approve the settlement. At
+this stage, according to him, the NCLT is not required
+to hear any other parties, but only approve the
+application and thus, whether the application is
+submitted through the IRP or whether it is before the
+NCLT or the NCLAT, is a mere technicality.”
+21.
+In Paragraph 66 of the judgment, Hon’ble Supreme Court clearly held
+that the above argument cannot be accepted due to two reasons. Paragraph
+66 of the judgment is as follows:
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+20 of 24
+“66. We do not concur with the above understanding
+for two broad reasons.
+a. Firstly, that the application is to be submitted
+by the IRP rather than the parties themselves is
+not a distinction without difference. As noted
+above, once the application is admitted and CIRP
+is initiated, it is the IRP who takes charge of the
+affairs of the corporate debtor. The proceedings
+become collective proceedings and the interests of
+the former management of the corporate debtor,
+become disjunct from the interest of the corporate
+debtor. Therefore, the parties (such as the former
+management of the corporate debtor) must submit
+their application for withdrawal through the IRP
+who is now the person in control of the insolvency
+proceedings. To subvert this requirement would
+run contrary to the scheme of the IBC and the
+underlying principles discussed in this judgment;
+and
+b. Secondly, the NCLT cannot be considered a
+post office that merely puts a stamp on the
+withdrawal application submitted by the parties
+through the IRP. The ILC Report, in response to
+which, the parent provision, i.e. Section 12A was
+introduced in the IBC specifically discussed the
+possibility of the creditors, apart from the
+applicant creditor agreeing to a settlement as the
+underlying reason to permit withdrawal even
+after initiation of the CIRP. It was never fathomed
+by the ILC that withdrawal of claims would
+remain a unilateral process, even though the
+application is admitted and CIRP has been
+initiated. Similarly, this Court in Swiss Ribbons
+(supra), in response to which Regulation 30A was
+amended, specifically observed that in cases
+where withdrawal is sought after initiation of
+CIRP, but before the CoC is constituted, the NCLT
+must decide on the application after “hearing all
+the parties concerned and considering all relevant
+factors on the facts of each case.” Therefore, the
+NCLT does conduct an adjudicatory exercise
+when the application for withdrawal is placed
+before it, and the procedure is not a mere
+technicality.”
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+21 of 24
+22.
+When we look into what has been held in Paragraph 66(b), it is clear
+that before the CoC is constituted, NCLT must decide on the application after
+hearing all the parties concerned and considering all relevant factors on the
+facts of each case. It was held that NCLT does conduct an adjudicatory
+exercise when the application for withdrawal is placed before it, and the
+procedure is not a mere technicality. It was further held that NCLT cannot
+be considered a post office that merely puts a stamp on the withdrawal
+application submitted by the parties through the IRP. Ratio of the judgment
+categorically laid down that the Adjudicating Authority while considering the
+application under 12A filed before the constitution of the CoC has also to hear
+all the parties concerned and considering all relevant factors on the fact
+of each case. Ratio of the judgment clearly empowers the Adjudicating
+Authority to look into all relevant factors by taking a decision under 12A
+application filed by the IRP before the constitution of the CoC.
+23.
+It is further relevant to notice that in the judgment of GLAS Trust
+Company LLP it was held that creditors who were not an original applicant
+being necessary stakeholders when proceedings admitted and it being in rem
+proceedings. Said was laid down in Paragraph 42 as extracted above. The
+above judgment thus clearly makes other stakeholders in the present case,
+the HDFC Bank has filed its claim within the time as stipulated in the
+publication made by the IRP thus in the CIRP process of the corporate debtor
+the claim was filed by the HDFC Bank which claim as pleaded by the IRP was
+for an amount of Rs.4,30,74,985/- and that claim admitted was
+Rs.4,58,82,649/- i.e., the claim which was settled with by the SIDBI was
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+22 of 24
+Rs.1,58,70,199/-. Adjudicating Authority by deciding the I.A. 200/2022 has
+rightly held that HDFC has locus standi to file the application and post the
+settlement and the application under Section 12A filed by the IRP had direct
+bearing on the interest of the HDFC Bank in relation to corporate debtor.
+Adjudicating Authority has rightly relied on the judgment of the Hon’ble
+Supreme Court in ‘Swiss Ribbons Ltd. & Anr.’ (Supra) while deciding the
+settlement and withdrawal all parties have to be heard and relevant factors to
+be taken into consideration. The amount of claim admitted of HDFC and
+entire claim has been captured in Paragraph 26 of the judgment, which is as
+follows:
+“26. As for the present matter, it can be observed that
+the settlement exclusively between Respondent No. 1
+and Respondent No. 2 only resolves the claims of
+Respondent No. 1. However, as per the submissions of
+Respondent No. 3, the total claims received by the IRP
+amount to Rs. 4,58,82,649/-, which includes Rs.
+4,30,74,985/- from the intervening applicant and Rs.
+28,07,664/- from four Operational Creditors. The
+initiation of the CIR Process has established the
+legitimate interests of these creditors, who have duly
+submitted
+their
+claims
+within
+the
+prescribed
+timeframe, thus, disregarding their interests would
+cause unjust. Therefore, a unilateral settlement
+between Respondent No. 1 and Respondent No. 2
+would violate the rights of other creditors, particularly
+when all claims have been filed in compliance with the
+prescribed timelines under the Code. Such an
+approach would contradict the collective resolution
+framework mandated by the Code and undermine the
+interests of other stakeholders in the insolvency
+process.”
+24.
+We are of the view that Adjudicating Authority has rightly allowed the
+I.A. No. 200/2022 filed by the HDFC Bank opposing the 12A application for
+withdrawal. The claim was filed by HDFC within the time given by the IRP is
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+23 of 24
+a relevant factor and any objection raised by the HDFC Bank to the 12A
+application cannot be said to be meritless. The Adjudicating Authority has
+taken into consideration all relevant factors including the quantum of the
+claim admitted and the quantum of the claim settled with the SIDBI.
+Adjudicating Authority is not mere post office who has to allow the withdrawal
+filed under 12A which is filed before the constitution of the CoC which is the
+ratio of the judgment of the Hon’ble Supreme Court in ‘GLAS Trust Company
+LLC’ (Supra).
+25.
+We, however, hasten to add that mere fact that a stakeholder of the
+corporate debtor before constitution of the CoC has filed an objection, itself
+may not be a reason to reject 12A application. Adjudicating Authority has to
+advert to the relevant factors which may include the nature and quantum of
+claim of the stakeholders. In a case where Adjudicating Authority finds that
+substantial and majority of claim has already settled with the corporate debtor
+that may be a factor which may weigh to the Adjudicating Authority in
+allowing 12A application. No straight jacket formula can be laid down for
+adjudication by the Adjudicating Authority of a 12A application and the
+objections filed therein. Facts of each application under 12A and objection
+therein need to be looked into before taking a decision as to whether the
+application under 12A be allowed or rejected.
+26.
+We thus are of the view that the Adjudicating Authority has also rightly
+taken into consideration overall facts and circumstances of the case and
+relevant factors and has rightly rejected I.A. No. 182/2022 filed by the IRP for
+withdrawal of the CIRP.
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) Nos. 336 & 337 of 2025
+24 of 24
+27.
+We do not find any error is committed by the Adjudicating Authority in
+passing order on I.A. No. 200/2022 & I.A. No. 182/2022.
+There is no merit in the appeals. Both the appeals are dismissed.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+NEW DELHI
+05th March, 2025
+himanshu

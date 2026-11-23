@@ -1,0 +1,1814 @@
+[PAGE 1]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+1
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Ins.) No. 1145 of 2025 &
+I.A. No. 5497 of 2025
+(Arising out of Order dated 31.07.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal), Ahmedabad, Division Bench, Court-1 in
+C.P.(IB)/369(AHM)2024)
+IN THE MATTER OF:
+Bhuvan Kumar Gupta
+...Appellant
+
+Versus
+Maverick Developers and Colonisers Pvt. Ltd. & Anr.
+...Respondents
+
+Present:
+For Appellant
+: Ms. Malvika Trivedi Sr. advocate with Mr.
+Sanyam Khetarpal, Mr. Sameer Abhyankar, Mr.
+Nitesh Goyal and Mr. Dhruv Suri, Advocates
+For Respondents
+: Mr. Saumitra Chaturvedi, Advocate.
+Mr. Kamil Lokhandwala, Advocate for IRP.
+
+J U D G M E N T
+ASHOK BHUSHAN, J.
+
+This Appeal by a Suspended Director of the Corporate Debtor (“CD”)
+– M/s OFB Tech Private Limited has been filed challenging the order
+dated 31.07.2025 by which order Section 9 Application filed by
+Respondent No.1 (Operational Creditor) has been admitted.
+2.
+Brief facts of the case giving rise to this Appeal are:
+(i)
+The CD – OFB Tech Pvt. Ltd. is engaged in the business of
+trading and supply of raw materials to small and medium
+enterprises and other corporates. The Operational Creditor
+(“OC”) has been executing the construction work.
+
+[PAGE 2]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+2
+(ii)
+The Operational Creditor approached the CD for purchase of
+round HDPE Pipes of different dimensions of make Giga. The
+CD had entered into Memorandum of Understanding (“MoU”)
+dated 21.09.2020 with M/s Giga Pipe Systems India LLP
+(“M/s Giga Pipe Systems”) by which it sanctioned purchase
+and finance facilities to the M/s Giga Pipe Systems.
+(iii)
+In October 2020, the Operational Creditor issued purchase
+order on the CD for supply of pipes. The CD supplied the
+giga pipes to the OC sourced from M/s Giga Pipe Systems.
+The payments were made by the Operational Creditor to the
+CD towards the supply of the pipes. The last payment was
+made by the Operational Creditor to the CD on 24.08.2021.
+(iv)
+The Operational Creditor sent an email dated 27.10.2023
+seeking confirmation of Statement of Account for Income Tax
+purposes from the CD. In response to the above email, the
+CD replied on the same day and shared ledger of Statement of
+account. The Operational Creditor disputed the two ledger
+entries vide email dated 30.10.2023, i.e. dated 31.03.2021
+and 31.08.2021 with respect to M/s. Giga Pipe Systems. No
+demand or refund of any payment was made by the
+Operational Creditor to the CD.
+(v)
+The dispute between CD, M/s Giga Pipe and KK Spun, the
+sister concern of M/s Giga Pipe arose and notice of dispute
+
+[PAGE 3]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+3
+dated 18.11.2023 was raised by M/s Giga Pipe Systems. The
+CD replied to the notice of dispute dated 20.11.2023.
+(vi)
+The Operational Creditor issued a Demand Notice dated
+11.07.2024 demanding an operational debt of Rs.3,05,95,276
+alleging it to be excess payment made by the Operational
+Creditor to the CD. The Demand Notice was replied by the
+CD vide reply to Demand Notice dated 20.07.2024, denying
+the liability to pay any debt. The CD in reply to the said
+submitted that no debt is due and there is pre-existing
+dispute between the parties. The Operational Creditor issued
+a rejoinder to the reply of the CD dated 06.08.2024.
+(vii)
+The Operational Creditor sent information of debt to the
+National E-Governance Services Ltd. (“NeSL”) on 21.10.2024
+as per IBBI (Information Utilities) Regulations, 2017. The
+NeSL forwarded the information to the CD for authentication.
+The CD disputed the debt. The NeSL in its record of default
+mentioned the status of authentication of default as disputed.
+(viii) Section 9 application was filed by the Operational Creditor on
+12.11.2024, claiming an amount of Rs.3,05,95,276/- as
+principal amount with interest of Rs.78,20,152/-, totaling to
+Rs.3,84,15,428/-. The Operational Creditor in its Section 9
+application pleaded that it has issued purchase order dated
+01.10.2020 for total value of Rs.27,62,12,000/- and another
+purchase order dated 28.08.2021 for Rs.6,57,40,000/-. The
+
+[PAGE 4]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+4
+Operational Creditor’s case was that CD supplied the material
+totaling to Rs.32,38,77,724/- and Operational Creditor has
+made total payment of Rs.35,44,73,000/- and excess
+payment of Rs.3,05,95,276/- was made. The second
+purchase order was cancelled, hence, the CD is liable to pay
+the amount of Rs.3,05,95,276/- with interest.
+(ix)
+A reply was filed by the CD to Section 9 application disputing
+the purchase order claimed by the Operational Creditor and
+relied on purchase order dated 05.10.2020. The CD denied
+the cancellation of purchase order as alleged by the
+Operational Creditor. It is pleaded that after the last
+payment,
+for
+more
+than
+two
+years,
+there
+was
+no
+communication by the Operational Creditor and further for
+the first time by email dated 27.10.2023, confirmation of
+Statement of Account was sought for the Financial Year
+2020-21, which ledger was shared by the CD. Vide email
+dated 30.10.2023, the Operational Creditor disputed two
+entries in the ledger. The Demand Notice issued by the
+Operational Creditor was replied and claim was disputed by
+the CD. In the record of information utilities, the status of
+debt is shown as ‘disputed’.
+(x)
+The Adjudicating Authority by the impugned order admitted
+Section 9 application. The Adjudicating Authority came to
+the conclusion that there was no pre-existing dispute
+
+[PAGE 5]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+5
+between the parties within the meaning of Section 9(5)(ii)(d),
+as the CD’s set-off is unsupported by evidence linking the
+Operational Creditor to Giga Pipe Systems. The debt and
+default are established. In paragraphs 23 and 24, the
+Adjudicating Authority observed following:
+“23. The Tribunal finds no pre-existing dispute under
+Section 9(5)(ii)(d) as the Corporate Debtor's set-off is
+unsupported by evidence linking the Operational Creditor to
+Giga Pipe Systems. The debt and default are established,
+meeting the requirements of Section 9.
+24.
+Hence, in our view, the present Petition is complete in
+terms of Section 9 of the Code. The Operational Creditor is
+entitled to claim its dues, establishing the operational debt
+and default in payment of the Operational Debt beyond
+doubt. The outstanding Operational Debt is of more than
+rupees one crore, which meets the threshold limit as per
+section 4 of the Code and is well within the limitation for
+filing the present Petition. Moreover, the aforesaid said
+default is not covered under the period exempted under
+Section l0A of IBC, 2016. Accordingly, the Petition filed
+under section 9 of the Insolvency and Bankruptcy Code for
+initiation of corporate insolvency resolution process against
+the Corporate Debtor deserves to be admitted.”
+3.
+This Appeal was filed challenging the order dated 31.07.2025 and
+on the very next day on 01.08.2025 an interim order was passed by this
+Tribunal, staying the further steps in the CIRP, which interim order has
+continued.
+4.
+We have heard Ms. Malvika Trivedi, learned Senior Counsel
+appearing for the Appellant; Shri Saumitra Chaturvedi, learned Counsel
+
+[PAGE 6]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+6
+appearing for Respondent; and Shri Kamil Lokhandwala, learned Counsel
+appearing for Interim Resolution Professional (“IRP”).
+5.
+Learned Senior Counsel appearing for the Appellant in support of
+the Appeal submits that there was pre-existing dispute between the
+parties. There was no debt due to the CD. The first and second purchase
+orders as claimed by the Operational Creditor are fabricated purchase
+orders. The invoices, which have been relied by Operational Creditor, do
+not refer to purchase order as claimed by the Appellant. The last
+payment was received by the CD on 24.08.2021 and for more than two
+years, no correspondence was made by the Operational Creditor asking
+for any refund or any amount due on the Appellant and for the first time
+by email dated 27.10.2023, the Operational Creditor sought for
+confirmation of Statement of account, which was immediately replied by
+the CD and on 30.10.2023, the Operational Creditor has disputed two
+entries in the ledger dated 31.03.2021 and 31.08.2021. The Demand
+Notice dated 11.07.2024 was replied by notice of dispute by the CD on
+20.07.2024 raising dispute within the meaning of Section 9 of the IBC
+and there being pre-existing dispute, the Adjudicating Authority ought to
+have rejected Section 9 application. It is further submitted that in the
+record of information utilities, the dispute was entered by NeSL, which
+was sufficient to rejection Section 9 application, as per Section 9, sub-
+section (5)(ii)(d). The Adjudicating Authority committed error in ignoring
+the notice of dispute and record of information utility. The Adjudicating
+Authority was required to reject the application by virtue of Section
+
+[PAGE 7]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+7
+9(5)(ii)(d) and the order of Adjudicating Authority is unsustainable. The
+CD is a profit earning company, who has turnover of more than Rs.25,000
+crores and it employes more than 25,000 employees across India. The
+Operational Creditor has approached the NCLT with unclean hands. The
+Operational Creditor is hand in glove with other two companies, i.e. M/s
+Giga Pipe Systems and KK Spun India Ltd. with whom the CD has
+dispute. The guarantees given by Giga Pipe Systems and KK Spun were
+invoked and notice of dispute was issued on 20.11.2023 by the CD to
+Giga Pipe and KK Spun as well as the Operational Creditor. The
+Operational Creditor did not reply to the notice of dispute and as a
+counterblast issued Demand Notice.
+6.
+Learned Counsel appearing for the Operational Creditor refuting the
+submissions of learned Counsel for the Appellant submits that the ledger,
+which was shared by the CD vide email dated 27.10.2023 clearly admits
+the payment received from Operational Creditor and in the Ledger, the CD
+has shown debit entry of Rs.50 lakhs and Rs.2,55,95,276/- to Giga Pipe
+System. There was no contractual relation between Operational Creditor
+and Giga Pipe System and the CD had no authority to set-off any amount
+with dues payable by Giga Pipe System and the set-off was wholly
+unauthorized. The set-off being wholly unauthorized, the excess payment
+of Rs.3.05,95,276/- is fully substantiated from the ledger of the CD itself.
+The CD is wrongly denying the purchase order dated 01.10.2020 and
+21.08.2021. No purchase order was issued on 05.10.2020 and the same
+is a fabricated document. Total payment received from the Operational
+
+[PAGE 8]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+8
+Creditor to the CD was Rs.35,44,73,000/- and the ledger clearly proves
+the excess payment, which the CD is liable to refund. The MoUs entered
+between CD and Giga Pipe System dated 21.09.2020 and 21.05.2021
+have no concern with the Operational Creditor. The Operational Creditor
+was not party to the said MoU and the CD could not have set-off any
+amount, which was payable by Giga Pipe Systems to the CD. The notice
+of dispute dated 30.11.2023 as claimed by the CD was never served on
+the Operational Creditor. In replying to the Demand Notice the CD
+sought to raise a pre-existing dispute, but did not produce a single
+document proving that there was pre-existing dispute between the
+parties. The documents relied by the CD, do not show any existence of
+dispute. Record of Information Utility does not debar an Operational
+Creditor to rely on other sources and evidence to prove the existence of
+operational debt. The defense raised by the CD is a defense, unsupported
+by any material or evidence and is moonshine defense. Against the CD,
+the CIRP had already commenced on an application filed by another
+entity against the CD vide order dated 10.11.2023, which was not
+disclosed by the CD in the reply.
+7.
+We have considered the submissions of learned Counsel for the
+parties and have perused the record.
+8.
+The challenge to the impugned order admitting Section 9
+application by the Appellant is on the ground of there being a pre-existing
+dispute between the parties, Section 9 application ought not to have been
+admitted. The Appellant has placed reliance on Section 9, sub-section
+
+[PAGE 9]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+9
+(5)(ii) (d) and submits that Adjudicating Authority was obliged to reject the
+application under Section 9. Section 9, sub-section (5) (ii) is as follows:
+“9(5) (ii) reject the application and communicate such decision to
+the operational creditor and the corporate debtor, if –
+(a) the application made under sub-section (2) is incomplete;
+(b) there has been 1 [payment] of the unpaid operational
+debt;
+(c) the creditor has not delivered the invoice or notice for
+payment to the corporate debtor;
+(d) notice of dispute has been received by the operational
+creditor or there is a record of dispute in the information
+utility; or
+(e) any disciplinary proceeding is pending against any
+proposed resolution professional:
+Provided that Adjudicating Authority, shall before rejecting an
+application under subclause (a) of clause (ii) give a notice to the
+applicant to rectify the defect in his application within seven days
+of the date of receipt of such notice from the Adjudicating
+Authority.”
+9.
+In the present case, the reliance is placed on Section 9(5)(ii)(d),
+which refers to two grounds for rejection of Section 9 application, they are
+– (i) notice of dispute has been received by the Operational Creditor; or (ii)
+there is a record of dispute in the information utility. We need to first
+examine the second ground, i.e. record of dispute in the information
+utility. In Section 9 application, the Operational Creditor has brought on
+record, the record of default with the information utility. In paragraph 5
+of the application in Column-4, following has been pleaded by the
+Operational Creditor:
+“4.
+RECORD
+OF
+DEFAULT
+WITH THE INFORMATION
+UTILITY, IF ANY (ATTACH A
+COPY OF SUCH RECORD)
+i.
+Record
+of
+Financial
+Information in Form-C as
+filed
+by
+Operational
+Creditor with National E-
+Governance
+Services
+Limited. A copy of the
+same
+is
+annexed
+
+[PAGE 10]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+10
+herewith as Annexure A-
+15.
+ii. Record of Default (RoD)
+issued by the Information
+Utility in Form-D under
+sub-regulation
+(4)
+of
+regulation 21 Insolvency
+and Bankruptcy Board of
+India
+(Information
+Utilities)
+Regulations,
+2017. A copy of the same
+is annexed herewith as
+Annexure A-16.”
+
+10.
+The record of default was also filed as Annexure A-16 to Section 9
+application, which record of default is on the record of the Appeal at page
+1170. Form-D indicates that default information was submitted by the
+Operational Creditor on 21.10.2024 and authentication was applied on
+22.10.2024, where the CD disputed the claim. Form-D is as follows:
+“NeSL NATIONAL E-GOVERNANCE SERVICES LIMITED
+
+FORM D
+RECORD OF DEFAULT {RoD)
+(Issued By information utility under sub- regulation (4) of
+regulation 21 of the Insolvency and Bankruptcy Board of India
+(information Utilities) Regulations, 2017)
+
+This Record of Default is issued to the Operational Creditor M/s
+MAVERICK DEVELOPERS AND COLONISERS PRIVATE LIMITED
+in respect of the default of debt as per details given below-
+
+(a) Name of the Submitter:
+
+M/s MAVERICK DEVELOPERS
+AND COLONISERS PRIVATE
+LIMITED
+(b) Schedule-2 Ban (Y/N):
+N
+(c) Name
+of
+Corporate
+Debtor:
+M/s OFB TECH PRIVATE
+LIMITED
+(d) Unique
+Debt
+Identified
+Number:
+AABCM25B0M REF
+NOMDC202122AUG43
+(e) Registered Address:
+B-4, Vaishali Nagar, Jaipur
+
+[PAGE 11]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+11
+(f)
+Total Outstanding
+Amount
+38415428.00
+(g) Default amount
+38415428.00
+(h) Date of Default:
+27-10-2023
+(i)
+Status of Authentication
+of Default
+DISPUTED
+(j)
+Date of Last
+Acknowledgement of Debt
+(AoD):
+Not available
+Filing of
+Default
+(submission
+ID No.)
+
+(1)
+Submitted on
+
+21-10-2024
+19:04:01
+Status of
+Authentication
+(Authenticated/
+Disputed/
+Deemed to be
+authenticated)
+
+Colour Code:
+Red
+
+Authentication
+completed on
+
+22-10-2024
+12:51:53
+
+NeSL is authorized to issue this record of default and has
+accordingly affixed its digital signature, as per the provisions of the
+Insolvency and Bankruptcy Code, 2016 read with Insolvency and
+Bankruptcy Board of India (Information Utilities) Regulations,
+2017, Guidelines for Technical Standards for Performance of Core
+Services and Other Services and the Insolvency and Bankruptcy
+(Application to Adjudicating Authority) Rules, 2017.
+For MAVERIC DEV & COL. Pvt. Ltd.
+Sd/-
+Authorised Signatory”
+11.
+Part A, of the NeSL record contains following reasons for dispute:
+“NeSL NATIONAL E-GOVERNANCE SERVICES LIMITED
+
+PART A
+
+*(Information of default filed with IU, covering information of debt,
+submitter and other parties connected with the debt, security
+interest and default details
+*Status of authentication by the party on whom the report is
+generated by the submitter
+*Communication made by IU to intimate the party on the default
+filing)
+
+[PAGE 12]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+12
+
+Record of Default for Party M/s OFB TECH PRIVATE LIMITED
+(Debtor)
+
+Unique Debt Identifier: AABCM2580M_REF NOMDC202122AUG43
+Information as of 21-10-2024
+Received by NeSL on 21-10-2024 19:04:01
+Status of Authentication (DEBTOR): DISPUTED (as on :22-10-2024
+12:51:53)
+Reason For Dispute: No such debt existed, Pre-existing Dispute,
+Remarks - There is a pre existing dispute with Maverick as OFB
+has filed Pre Institution Mediation before the High Court of Delhi
+today. Also A demand notice had been sent by OFB in Nov 2023.
+Maverick is a sub contractor of Giga and has been doing business
+with them. They are in collusion with KK Spun and Giga and are
+arm twisting OFB into paying an amount where no debt exists.
+Maverick has also fabricated Purchase Orders to show a purported
+debt where none exists.
+
+Registered in IU: YES
+Registration Date: 01-06-2019 17:21:24
+Last Login: 29-10-2024 12:41:08”
+
+12.
+Part B of the NeSL records as follows:
+“NeSL NATIONAL E-GOVERNANCE SERVICES LIMITED
+
+PART B
+
+(History of all filing of information received by IU for the same UDI,
+whether regular debt or default, and the status of authentication
+by the party)
+History of submission and Authentication in respect of M/s OFB
+TECH PRIVATE LIMITED (Debtor)
+
+Unique Debt Identifier: AABCM2580M_REF NOMDC202122AUG43
+
+Date of submission
+21-10-2024 19:04:01
+Type of submission
+Default Submission
+Submission ID
+1
+Submitted by (CREDITOR)
+Mis MAVERICK
+DEVELOPERS AND
+COLONISERS PRIVATE
+LIMITED
+Debtor
+Mis OFB TECH PRIVATE
+LIMITED
+
+[PAGE 13]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+13
+Default Amount
+38415428.00
+Status of Authentication by
+Debtor
+
+Reason for Dispute
+No such debt existed , Pre-
+existing Dispute , Remarks -
+There is a pre existing
+dispute with Maverick as
+OFB has filed Pre Institution
+Mediation before the High
+Court of Delhi today. Also A
+demand notice had been sent
+by OFB in Nov 2023.Maverick
+is a sub contractor of Giga
+and has been doing business
+with them. They are in
+collusion with KK Spun and
+Giga and are arm twisting
+OFB into paying an amount
+where no debt exists.
+Maverick has also fabricated
+Purchase Orders to show a I
+ouroorted debt where none
+exists.
+Authentication
+Completed
+on
+22-10-2024 12:51:53”
+
+13.
+The Operational Creditor itself brought on the record, the Record of
+Information Utility. Section 9 proceedings are summary proceedings,
+which an Operational Creditor can initiate on there being existence of
+debt and default having been committed by the CD. Section 9, sub-
+section (5)(ii) requires the Adjudicating Authority to reject the application,
+if any of the circumstances from (a) to (e) are found. When there is record
+of dispute in the Information Utility, the Adjudicating Authority is obliged
+to reject the application. The legislative scheme of Section 9 is not for
+resolving any dispute between the Operational Creditor and the CD and
+when the record of Information Utility contains mention of dispute, the
+Adjudicating Authority is obliged to reject the application. The learned
+Counsel for the Appellant has rightly relied on the judgment of this
+
+[PAGE 14]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+14
+Tribunal in Bhawani Prasad Mishra vs. Armaco Infralinks Pvt. Ltd.
+& Anr. – Company Appeal (AT) (Insolvency) No.557 of 2025. This
+Tribunal in the above case had occasion to consider Section 9(5)(ii)(d). In
+the above case also, Section 9 application was admitted and there was
+record of default in the Information Utility. The status of debt was
+disputed by the CD, which was noticed in paragraph 20 of the judgment,
+which is as follows:
+20.
+The Corporate Debtor on the same day i.e. 04.09.2024
+disputed the information and raised a dispute which is captured by
+the NeSL record itself. NeSL record is filed as Annexure A8 by the
+Appellant which record contains following:-
+“NATIONAL E-GOVERNANCE SERVICES LIMITED
+Record of Financial Information - Form C
+Submission Details
+Unique Debt
+Identifier
+AAUCA0687N_AA
+CCB266 SH
+Submission ID
+1
+Submitted by Armaco lnfrafinks
+Private Umlted
+Submitted Date
+& Time
+04/09/2024
+13:13:45
+Submission
+Type
+Default
+Information
+as
+on
+04/09/2024
+
+Authentication Status
+Party Name
+Relationship UserId
+Status
+Date and Time
+of
+Authentication
+B.S.ISPAT
+LTD.
+Debtor
+2701316
+Disputed
+04/09/2024
+17:04:59
+Reason for Dispute: Pre-existing Dispute. Remarks- No default has
+been committed by B S Ispat Limited. Pre-existing dispute exist prior
+to the issuance of Demand Notice dated 04.09.2024.
+
+[PAGE 15]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+15
+Submitter Information
+Name
+Armaco
+Infralinks
+Private
+Limited
+UIN (PAN)
+AAUCA0687N
+Relationship
+Creditor
+Comm. Address PIN 442401
+DOI / DOB
+18/09/2020
+Mobile No.
+9xxxxxxxx1
+Telephone
+No.
+9xxxxxxxx1
+Billing/
+Comm.
+Address
+OPP
+AKASHWANI
+RAGHATATE
+LAYOUT
+A164,
+Chandrapur.
+CHANDRAPUR,
+Maharashtra
+India 442401
+Email ID
+**************@
+gmail.com
+Email ID- Dispute
+AXlert
+**@gmail.com
+
+Other Part Details
+Debtor
+Name
+BS ISPAT LTD.
+Relationship
+debtor
+Regd./
+Permanent
+Address
+Khasara
+No.
+97, 101, 190,
+Village
+Salon
+Yesna
+Post
+Chinora.
+Tah.
+Warora
+Chandra-our
+Maharashtra
+Regd. Address PlN
+442914
+Billing
+I
+Comm.
+Address
+Khasara
+No.
+97, 101, 190,
+Village
+Salon
+Yesna
+Post
+Chinora.
+Tah.
+Warora
+Chandra-our
+Maharashtra
+Comm. Address PlN 442914
+Legal
+PUBL
+CIN/LLPIN
+U271
+OOMH1999PLC
+
+[PAGE 16]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+16
+Constitution
+122856
+PAN
+AACCB2665H
+MSME Flag
+N
+Email ID
+bsispatlimited
+@gmail.com
+
+Debt Information
+Type of Debt operational
+Debt Reference No.
+AACCB2665H
+Debt
+Start
+Date
+03/04/2021
+Debt Currency
+INR
+Sanction
+Currency
+INR
+Funded Type
+Funded
+Security flag unsecured
+Sanctioned Amount 714467365.00
+Facility
+Name
+Purchase
+of
+Goods Coal
+Total
+Outstanding
+Amount
+355816538.06
+Amount
+Overdue
+355816538.06
+Principal
+Outstanding
+355816538.06
+Account
+Closed Flag
+no
+
+Default Details
+Date
+of
+Default
+15/08/2024
+Default Amount
+355816538.06
+Total
+Outstanding
+Amount
+355816538
+
+14.
+This Tribunal relying on the disputed status of the debt and Section
+9(5)(ii)(d) has held that Adjudicating Authority could not have proceeded
+to ignore the same. In paragraphs 28 and 29 of the judgment following
+have been held by this Tribunal:
+
+[PAGE 17]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+17
+“28.
+When we look into Section 9(5)(ii)(d) there are two
+circumstances under which Section 9 application deserves to be
+rejected i.e. (i) notice of dispute has been received by operational
+creditor or (ii) there is record of dispute in the Information Utility.
+In the present case, both the above clauses are fully met since
+notice of dispute has been received by operational creditor and
+there is record of dispute in the Information Utility. The record of
+dispute in the Information Utility as extracted above was
+information which was submitted by ‘Armaco Infralinks Pvt. Ltd.’
+for authentication and authentication made on the same day by the
+corporate debtor disputing the information which is captured in
+the Information Utility information. The statutory condition as
+contained in Section 9(5)(ii)(d) was fully in existence, hence,
+Adjudicating Authority had to reject the application. Adjudicating
+Authority although in paragraph 31 has noticed the record of
+default in the Information Utility which paragraph 31 is as follows:-
+“31.
+Further, upon perusal of record of default in the
+information utility namely National E-Governance Services
+Ltd. (‘NeSL’) produced by the Respondent vide its reply dated
+18.01.2025, we notice the existence of prior dispute between
+the parties. The relevant screenshot is reproduced hereunder:
+Authentication Status
+Party
+Name
+Relationship User Id
+Status
+Date and Time of
+Authentication
+B.S.ISPAT
+LTD.
+Debtor
+2701316 Disputed
+04/09/2024
+17:04:59
+Reason for Dispute: Pre-existing Dispute. Remarks- No default has
+been committed by B S Ispat Limited. Pre-existing dispute exist
+prior to the issuance of Demand Notice dated 04.09.2024.
+
+29.
+However, even after noticing the said disputed status in the
+NeSL record, Adjudicating Authority has not adverted to Section
+9(5)(ii)(d) and has proceeded to observe that defence of pre-existing
+dispute raised by the Corporate Debtor is merely a moonshine
+defence to cover up its failure to supply the goods against the
+
+[PAGE 18]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+18
+advance which observation has been made in paragraph 37 of the
+order. Paragraph 37 of the impugned order is as follows:-
+“37. It is pertinent to note here that this Tribunal, in a
+company petition no. 872 of 2023 filed by Vinayak Trading
+Company against the same Corporate Debtor on the ground of
+failure on metric tons of coal from its mines within a period of
+2 years, has recorded in its Order dated 16.2.2024 passed
+therein that “The Applicant claims to have not received the
+remaining supply of 1,42,000 metric tonne of coal. It is the
+case of the applicant that the coal was to be supplied from
+Marki Mangli III, Majra and Chinora coal mines, however, the
+nominated authority for ministry of coal terminated the
+agreement for Majra and Chinora coal mines and only Marki
+Mangli III mine is in operation, the production capacity of
+which makes it impossible for the Corporate Debtor to supply
+it by 14.09.2024”. In that case, the Petition was dismissed as
+the obligation of the Corporate Debtor to supply the goods was
+expiring on 14.9.2024, hence the petition was dismissed on
+the ground of it being pre-mature i.e. having been filed prior to
+last date for supply of Coal in that case. However, the fact
+remains that the Corporate Debtor has taken advances from
+more than one buyers against its commitment to supply Coal
+to then, however, its capacity to fulfil these obligations was
+undoubtedly in question. This leads to a conclusion that the
+defence of pre-existing disputed raised by the Corporate
+Debtor is merely a moonshine defence to cover up its failure to
+supply the goods against the advance, and the Operational
+Creditor is entitled to seek refund of such amount.””
+15.
+It is also relevant to notice that Records of the Information Utility
+was produced and annexed by the Operational Creditor itself in its
+Section 9 application and in the reply to Section 9 application, the CD
+referring to the Record of Dispute in Information Utility has clearly
+pleaded that Section 9 application deserves rejection on this ground
+
+[PAGE 19]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+19
+alone. In paragraph 8 of the reply of Section 9 application, the CD has
+pleaded following:
+“8. It is submitted that the present Petition is required to be
+rejected on the ground that there exists a notice of dispute in terms
+of Section 9(5)(ii)(d) The Record of Default (RoD) issued by the
+Information Utility in Form D under Sub-regulation (4) of
+regulation 21 of Insolvency and Bankruptcy Board of India
+(Information Utilities) Regulations, 2017, as annexed by the
+Operational Creditor (Annexure A-16) clearly mentions the status
+of debt as disputed along with the reasons for the same and that
+there is no acknowledgement of debt by the Corporate Debtor.
+Furthermore, the Operational Creditor sent a demand notice dated
+11.07.2024 to the Corporate Debtor which was duly replied to vide
+letter dated 20.07.2024 by the Corporate Debtor. In this reply, the
+Corporate Debtor had disputed the very existence of the debt.
+Further,
+vide
+the
+said
+reply,
+the
+Corporate
+Debtor
+had
+demonstrated the existence of dispute while placing reliance on the
+exchange of emails between the Corporate Debtor and the
+Operational Creditor as far back as October 2023. This reply to the
+demand notice is in itself a notice of dispute and therefore ought to
+entail rejection of the Petition.”
+16.
+The Adjudicating Authority in the impugned order has noticed in
+paragraph 7 (x) record of financial information and Form-D. However, in
+its consideration has not adverted to Record of Dispute as captured in the
+Certificate of Information Utility.
+17.
+In view of the above, we are of the view that there being Record of
+Dispute in the Information Utility, the Adjudicating Authority was obliged
+to reject Section 9 application as required by Section 9, sub-section
+(5)(ii)(d) and the order of admission of Section 9 application, cannot be
+sustained on this ground alone.
+18.
+We also need to examine the submission of the parties with regard
+to pre-existing dispute between the parties as pleaded by the CD and
+denied by the Operational Creditor. As noted above, the CD has supplied
+the giga pipes to Operational Creditor sourced from Giga Pipe Systems.
+
+[PAGE 20]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+20
+Payments were made by the Operational Creditor to the CD and last
+payment was received by the CD on 24.08.2021. There was complete
+silence from Operational Creditor regarding excess payment made to the
+CD and it was for the first time in October 2023, when Statement of
+Account of Financial Year 2020-21 was sent by Operational Creditor to
+the CD, requiring confirmation. The email dated 27.10.2023 sent by
+Operational Creditor to the CD is as follows:
+“Fw: CONFIRMATIONS
+From: Maverick Dev (maverick_dev2002@yahoo.com)
+To: finance@ofbusiness.in
+Cc: ankush.jain@ofbusiness.in
+Date: Friday, October 27, 2023 at 10:44 AM GMT+5:30
+Subject: CONFIRMATIONS
+Dear sir
+PFA the statement of account for fy 2020-21, you are requested to
+confirm the same by making seal and sign. This is reuired for IT
+Assessment purpose.
+Thanks & Regards
+vivek goyal
+for Maverick Developers & Colonisers Pvt ltd
+PH: 9261080048”
+19.
+Along with email dated 27.10.2023, the Statement of Account for
+01.04.2020 to 31.03.2021 was forwarded. The said email was replied by
+the CD, which according to the CD was as per the ledger maintained by it.
+The email dated 27.10.2023 sent by the CD to Operational Creditor is as
+follows:
+From: Yadvender Singh Yadav *hadvender.yadav@ofbusiness.in)
+
+[PAGE 21]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+21
+To.
+Maverick_dev2002@yahoo.com
+Cc:
+finance@ofbusiness.in; ankush.jain@ofbusiness.in
+Cc: ankush.jain@ofbusiness.in
+Date: Friday, October 27, 2023 at 03:41 PM GMT+5:30
+Dear Sir/Mam,
+As per ledger reco gap of below Entries are there:-
+Not recorded in Maverick
+Date
+
+Particulars
+Vch Type
+Vch
+No.
+Debit
+Credit
+
+31-
+Mar-
+21
+To
+Giga Pipe Systems
+India
+LLP_B_AAOFG9685K
+RECEIPT
+OSASYS
+35588
+5000000.00
+
+19-
+Apr-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+30622
+
+10000000.00
+
+24-
+May-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+32334
+
+5000000.00
+
+25-
+May-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+32391
+
+4900000.00
+
+25-
+May-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+32392
+
+12500000.00
+
+25-
+May-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+32393
+
+5000000.00
+
+29-
+May-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+32583
+
+12600000.00
+
+30-
+May-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+32615
+
+4780000.00
+
+07-
+Jun-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+33152
+
+4593000.00
+
+14-
+Jun-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+33551
+
+5000000.00
+
+21-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39369
+
+13500000.00
+
+21-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39370
+
+13500000.00
+
+21-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39371
+
+3000000,00
+
+[PAGE 22]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+22
+23-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39438
+
+12500000.00
+
+23-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39439
+
+12600000.00
+
+23-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39458
+
+4900000.00
+
+23-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39491
+
+17500000.00
+
+23-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39492
+
+17600000.00
+
+24-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39565
+
+5000000.00
+
+24-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39580
+
+14000000.00
+
+24-
+Aug-
+21
+By
+Kotak
+Mahindra
+Bank (India)
+RECEIPT
+OSASYS
+39581
+
+13500000.00
+
+31-
+Aug-
+21
+To
+GIGA
+PIPE
+SYSTEMS
+INDIA
+PRIVATE LIMITED_S
+AAICG4822F
+JVCOASYS
+57080
+25595276.00
+
+Total
+30595276.00
+201973000.00
+•1713777
+24.00
+
+Not recorded in OFB
+Date
+
+Particulars
+Vch Type
+Vch
+No.
+Debit
+Credit
+
+31-
+Mar-
+21
+
+Ires On Purchases
+
+125309.31
+
+Total
+125309.31
+
+125309,31
+
+Thanks & Regards,
+Yadvender Singh Yadav
+Team Finance
++91 9416191653
+yadvender.yadav@ofbusiness.in
+OfBusiness.com
+#6th Floor|Global Business Park|MG Road|Sector 26|
+Gurugram, Haryana-122002”
+
+[PAGE 23]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+23
+20.
+On 30.10.2023, the Operational Creditor wrote to the CD that entry
+pertains to Giga Pipe System of 31st March 21 and 31st August 21 in your
+ledger is not acceptable. The email dated 30.10.2023 sent by Operational
+Creditor to the CD is as follows:
+“Re: Fw: CONFIRMATIONS
+From: Maverick Dev (maverick_dev2002@yahoo.com)
+To:
+yadvender.yadav@ofbusiness.in
+Cc: finance@ofbusiness.in; ankush.jain@ofbusiness.in
+Date: Monday, October 30, 2023 at 05:30 PM GMT+5:30
+Dear sir
+The entry pertains to Giga Pipe system of 31st March 21 and 31
+August 21 in your ledger is not acceptable to us as we didn't have
+any transactions with Giga Pipe. Therefore you are requested to
+rectify entries of Giga Pipe in your ledger and send the confirmation
+on ledger sent by us or if you have any proof regarding this, please
+inform us.
+Thanks & Regards
+Vivek goyal
+For maverick developers and colonizers pvt ltd
+Sent from Yahoo Mail on Android”
+21.
+It was thereafter on 11.07.2024 that a Demand Notice was issued
+by the Operational Creditor, demanding a payment of Rs.3,05,95,276/-.
+The above notice was immediately replied by the CD vide its reply dated
+20.07.2024, refuting the claim. In paragraphs 1 and 2 of the reply to
+Demand Notice, following have been pleaded:
+“1. At the outset, the contents of the Demand Notice are denied in
+entirety. It is clear from the several anomalies in the Demand
+Notice (enumerated hereinafter) that the said Notice is solely
+intended to, in collusion with Giga Pipes Systems India LLP/ Giga
+
+[PAGE 24]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+24
+Pipes Systems India Pvt. Ltd. (collectively referred to for
+convenience as "Giga") and its sister concern KK Spun India Ltd.
+("KKSpun") as a counter blast to the disputes between Our Client
+and the said entities. The Demand Notice is further intended by
+Your Client to resile from the understanding among Your Client,
+Our Client and Giga as to adjustment of the amounts recoverable
+from Giga (which, admittedly, is the manufacturer of the goods
+sourced by Your Client from Our Client). While the Demand Notice
+mentions that there is no relationship between Giga and Your
+Client, it cleverly conceals the fact of past mutual dealings between
+Giga and Your Client which formed the basis of the understanding
+between Your Client and Our Client for adjustment of the dues of
+Giga from receivables from Your Client. That the Demand Notice is
+part of a stratagem devised by Your Client in collusion with Giga, is
+also clear from the issuance of a Demand Notice by Giga on
+18.11.2023 (i.e. shortly after Your Client's email dated 30.10.2023,
+Annexure 5 to the Demand Notice). Moreover, and most crucially,
+the Demand Notice conceals the notice dated 20.11.2023 issued by
+Our Client to Your Client with regard to the very amounts which
+are now falsely claimed as 'operational debt' in the Demand Notice.
+As may well be within Your Client's knowledge, Our Client has
+already
+taken
+steps
+for
+initiation
+of
+appropriate
+criminal
+proceedings in respect of these actions on the part of Your Client in
+collusion with Giga and KK Spun.
+2. Without prejudice to the rest of the contents of this response,
+you will note that Your Client would be well advised to forthwith
+withdraw the Demand Notice under Section 8 of the Insolvency and
+Bankruptcy Code, 2016 ("IBC") for the reason that the existence of
+a dispute since October 2023 (if not before) is self evident from the
+contents of the said Notice itself. Annexures 3, 4 and 5 of your
+Demand Notice, cumulatively seen, establish without a doubt the
+existence of a dispute between Your Client and Our Client as to the
+purpose of payment of the amount of Rs. 3,05,95,276/- by Your
+Client to Our Client. In fact, Your Client's email dated 30.10.2023
+(relied upon as Annexure 5) by itself is demonstrative of the
+
+[PAGE 25]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+25
+existence of the dispute between Your Client and Our Client. Your
+Client having disputed the Ledger shared by Our Client subsequent
+to its request, there does not exist any admitted operational debt
+due from Our Client to Your Client, so as to attract the provisions
+of the IBC. The Demand Notice in paragraphs 11 and 12 by itself
+indicates and reiterates the existence of a dispute between Your
+Client and Our Client as to the reconciliation of accounts between
+them.”
+22.
+The above reply given by the CD was clearly a notice of dispute
+within the meaning of Section 8, sub-section (2)(a) and Section 9(5)(ii)(d).
+In Section 9 application the Operational Creditor itself has pleaded about
+the emails dated 27.10.2023 sent by it to the CD and the reply of CD of
+the same date and the email dated 30.10.2023 objecting to the two entries
+in the ledger of the CD. In Part-IV of Section 9 application at Column 10,
+11, 12 and 13, following have been stated:
+
+“10. On
+27.10.2023,
+the
+Operational
+Creditor
+sent
+an
+email
+to
+the
+Corporate
+Debtor
+containing
+a
+statement of accounts between the
+parties
+for
+FY
+2020-21
+for
+confirmation for the purposes of
+Income Tax assessment.
+11.
+On the same day i.e. 27.10.2023, the
+Corporate Debtor sent a response to
+the Operational Creditor containing a
+ledger
+reconciliation
+statement
+wherein the Operational Creditor was
+shocked to learn that the Corporate
+Debtor was wrongly and illegally
+attempting
+to
+set-off
+the
+above
+mentioned excess payment of Rs.
+
+[PAGE 26]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+26
+3,05,95,276/- against one company
+namely M / s Giga Pipe Systems India
+LLP,.
+vide
+two
+entries
+dated
+31.03.2021 for an amount of Rs.
+50,00,000/- and 31.08.2021 for an
+amount of Rs. 2,55,95,276/-.
+12.
+This set-off was completely wrong and
+untenable
+in
+as
+much
+as
+the
+Operational
+Creditor
+has
+no
+connection
+with
+M/s
+Giga
+Pipe
+Systems India LLP. There is neither
+any common shareholder nor director
+between the Operational Creditor and
+M/s Giga Pipe Systems India LLP, nor
+did the Operational Creditor have any
+transactions with M / s Giga Pipe
+Systems India LLP. As such, there
+arises no question of any set-off of
+any payment due to the Operational
+Creditor as against M/s Giga Pipe
+Systems India LLP.
+13.
+Accordingly,
+on
+30.10.2023,
+the
+Operational Creditor wrote an email to
+the Corporate Debtor i:ntimating the
+Corporate Debtor that there exist no
+transactions between the Operational
+Creditor and M/s Giga Pipe Systems
+India LLP, and therefore, the two
+entries relating to M/s Giga Pipe
+Systems India LLP shown in the
+ledger reconciliation statement of the
+Operational Creditor are -wrong and
+baseless and ought to be rectified.
+However, neither any response was
+
+[PAGE 27]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+27
+received from the Corporate Debtor
+nor did the Corporate Debtor rectify
+the accounts or repay the excess
+payment of Rs. 3,05,95,276/-.”
+
+23.
+The above pleadings of the Operational Creditor itself notice the
+email sent by the CD dated 27.10.2023 and dispute raised by the
+Operational Creditor with regard to two entries in the ledger, clearly
+proves that there was pre-existing dispute between the parties, which is
+reflected from pleading of the Operational Creditor itself in Section 9
+application. Learned Counsel for the Respondent has contended that
+there was no contractual relation between the Operational Creditor and
+Giga Pipe Systems and the MoU dated 21.09.2020 and 21.05.2021 were
+between the CD and Giga Pipe Systems and there was no entitlement of
+any set-off by the CD in respect of payments towards Giga Pipe Systems.
+Hence, the ledger statement as communicated by the CD on 27.10.2023
+was disputed by email dated 30.10.2023. The relevant materials we have
+already extracted above. The email by Operational Creditor dated
+30.10.2023 clearly indicates that a dispute was raised by the Operational
+Creditor, objecting to the two entries in the ledger of the CD as
+maintained by the Operational Creditor. The dispute between the parties
+with regard to set-off in the leger entry as communicated by the CD to the
+Operational Creditor is not a dispute, which can be examined and
+determined in Section 9 proceedings. The fact that after making last
+payment on 21.08.2021 for more than two years, there was no
+communication or any demand from Operational Creditor, itself speaks
+
+[PAGE 28]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+28
+about acceptance of the account and it was on 27.10.2023 for the first
+time ledger confirmation was called for by the Operational Creditor stating
+to be for Income Tax purposes. Even the reconciliation of the ledger
+dispute between the parties is a dispute, which cannot be gone into and
+examined in Section 9 proceedings.
+24.
+Learned Counsel for the Appellant has rightly placed reliance on
+judgment of the Hon’ble Supreme Court in Sabarmati Gas Ltd. vs. Shah
+Alloys Ltd. – (2023) 3 SSC 229 wherein in paragraphs 49, 55, and 56
+after more than two years, a dispute regarding entries in the ledger was
+raised. In the present case also after more than two years of close of the
+Financial Year 2020-21 a dispute regarding two entries was raised, where
+the CD’s case is that it has rightly set-off the amount as was agreed
+between the parties, is an issue, which requires determination in
+competent Court after considering all relevant evidence and could not
+have been brushed aside in proceeding under Section 9. It is although
+true that the Operational Creditor was not party to MoU entered between
+the CD and Giga Pipe Systems, but the fact remains that the CD has
+advanced purchase finance facility amount to Giga Pipe Systems.
+25.
+Learned Counsel for the Appellant has referred to an email dated
+03.03.2021 sent by Giga Pipe Systems to the CD, where Giga Pipe
+Systems has issued guarantee with respect to outstanding from M/s Giga
+Pipe Systems India LLP; M/s E.K. Khan Contractor and M/s Maverick
+Developers & Colonisers Pvt. Ltd. (Operational Creditor herein). At page
+
+[PAGE 29]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+29
+805 and 806 of the Appeal guarantees were given by Giga Pipe Systems is
+noted and at page 806 following statement has been noticed:
+“Obligation under this Guarantee include the outstanding from the
+following parties (Unconditionally)
+1.
+M/s GIGA PIPE SYSTEMS INDIA PRIVATE LIMITED
+(23AAOFG9685K1ZM)
+2.
+M/s E.K. KHAN CONTRACTOR (09ABRPI2880G1ZA)
+3.
+M/s MAVERICK DEVELOPERS & COLONISERS PRIVATE
+LTD (08AABCM2580M127)
+The Transaction for above parties shall from time to time be defined
+as per the purchase order and the Coverall MOU signed with GIGA
+PIPE SYSTEMS INDIA PRIVATE LIMITED.
+SIGNED AND DELIVERED by
+Sd/-
+M/S OFB TECH PRIVATE LIMITED.
+(Through its Authorised Signatory)
+For : M/s Giga Pipe Systems India Private Limited
+For Giga Pipe Systems Inida Pvt. Ltd.
+(Authorised Signatory Stamp)
+Sd/-
+Director”
+
+26.
+Learned Counsel for the Respondent has placed reliance on the
+judgment of this Tribunal in Rahee Jhajharia E to E JV vs. MB Power
+(Madhya Pradesh Ltd.) – Company Appeal (AT) (Ins.) No.2279 of 2024
+and reliance has been placed in paragraphs 33 to 38. In paragraphs 33
+to 38, which have been relied by the Respondent, following was observed:
+“34. Separately, around the same time on 04.12.2018 the Appellant
+issued a fresh Demand Notice to the Respondent-MB Power for the
+same 92 invoices, which was refuted by the Respondent on
+
+[PAGE 30]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+30
+20.12.2018. The relevant paras of the Reply dated 20.12.2018 are
+extracted below:
+“... 2. It is most respectfully submitted that from the perusal
+of the documents submitted by you, it is amply clear that a
+Purchase
+Order
+bearing
+Reference
+No.
+MBCPL/MP/LoA/RS/12-13/10006 (hereinafter referred to
+as the "Purchase Order") was issued to you by a Company
+by the name of Moser Baer Construction Private Limited
+(name changed to Hindustan Thermal- EPC Company.
+Private Limited (hereinafter referred to as the "HT EPCCPL"))
+for supply for equipment/material/accessories for complete
+Composite Railway Siding from Jaithari Railway Station of
+Bilaspur Division to Anuppur Project Site including Road
+Bed,
+Major
+and
+Minor
+Bridges,
+Buildings
+works,
+Tracks/Rails Supply, Signaling, & Telecom and Overhead
+Electrification and associated equipment for the safe
+completion of the Project for 2 x 600 MW Anuppur Thermal
+Power Plant at Anuppur District, Madhya Pradesh.
+3. It is further relevant to mention herein that all the alleged
+invoices which are claimed to be due and payable in the
+notice under reply were also raised by you to HT EPCCPL. It
+is most respectfully submitted that our Client and HT
+EPCCPL are two separate legal entities. The alleged
+liabilities, if any, of HT EPCCPL can't be saddled on Our
+Client in absence of any specific undertaking by Our Client.
+It is stated that in the instant case neither any goods nor
+services being supplied to Our Client nor any invoices raised
+to our Client. Further even the ledger as appended with the
+Notice under reply also reflects payment by HT EPCCPL.
+Thus no case can be made out against Our Client in absence
+of any debtor-creditor relationship between the parties
+herein.
+4. It is most respectfully submitted that there is no privity of
+contract between our Client and your Client. It is submitted
+
+[PAGE 31]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+31
+that our Client has neither issued any purchase order to
+your Client nor has your Client ever raised any invoice upon
+our Client for the alleged payment of its outstanding dues.
+Therefore, issuance of the Demand Notice under reply to our
+Client is nothing but a sham exercise of your Client to
+illegally enrich itself at the hands of our Client. It is
+submitted that not just your Client is trying to abuse the
+process of law but has also not informed you the above facts
+and has got the instant Notice under reply issued by you by
+distorting the original facts which is in grave violation of
+law.”
+......
+7. It is also submitted without prejudice that to the limited
+knowledge of our client there is in fact “existence of dispute”
+between your Client and/HTEPCCPL and it is only because
+there is an existence of dispute between your Client and HT
+EPCCPL that you have manifestly issued the captioned
+notice to our Client just to illegally enrich itself by distorting
+true facts. Hence, issuance of the present notice is nothing
+but an afterthought with a view to illegally enrich your Client
+at the cost of our Client.”
+(emphasis supplied)
+35. Initially a Section 8 Notice was issued to the Hindustan
+Thermal - EPC, which was later on withdrawn and fresh Section 8
+and 9 Notices were issued against the Respondent. We fail to
+understand that, on one hand the Appellant had raised invoices
+against Hindustan Thermal - EPC and then later on for unknown
+reasons
+it
+started
+proceedings
+under
+Section
+8
+against
+Respondent-MB Power for the same set of invoices. We are inclined
+to agree with Respondent that it is an afterthought. It is also seen
+that Hindustan Thermal - EPC vide their letter dated 09.10.2018
+and 23.10.2018 had denied the allegations levelled against
+Hindustan Thermal - EPC and on the contrary claimed that the
+Appellant is liable to pay an amount of Rs. 20.10 crores (approx.) to
+
+[PAGE 32]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+32
+Hindustan Thermal - EPC towards compensation in terms of
+purchase and work orders executed between them.
+36. From the materials on record, we note that there is no privity of
+contract or any sort of Debtor-Creditor relationship between the
+Applicant and CD and also the quality issues and delay in
+completion of work as regards works executed by the Applicant was
+duly notified by Hindustan T-EPC to the Applicant in their letter
+dated 09.10.2018 and 23.10.2018, some of which are noted as
+below:
+o Counter claim of Rs.1,44,78,749/- was made by
+Hindustan TEPC on account of price variation.
+o Debit
+note
+of
+Rs.5.95
+Crores
+vide
+letter
+dated
+03.07.2015.
+o Demand of Rs.20,10,66,736/- was made by Hindustan
+T-EPC from the Applicant on 09.10.2018 itself.
+o Letter dated 12.02.2014 issued by Hindustan T-EPC
+whereby the Applicant was notified that it had failed to
+its commitments in relation to the project.
+o Letter dated 04.02.2016 issued by Hindustan T-EPC
+notifying the Applicant of delay in the project despite
+repeated assurances from the Applicant.
+37. Thus, we find that there was a pre-existing dispute between the
+Appellant and Hindustan Thermal. Even though there is an issue
+of preexisting dispute also, but the AA dismissed the Petition basis
+mainly on the maintainability of the petition. It will be worthwhile
+to note the relevant paras 13 to 15 which are as below:
+“.....
+13. Considering the above, the issue here is whether the
+application filed under section 9 of the Code against the
+respondent is maintainable or not. We find that the invoices
+were raised by the applicant in the name of group concern of
+the respondent i.e. Hindustan Thermal for an amount of Rs.
+105,62,05,167/ out of which Hindustan Thermal made the
+
+[PAGE 33]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+33
+majority payment leaving the outstanding amount to Rs.
+16,08,00,632/-. Here, since the invoices were raised by the
+applicant against Hindustan Thermal, the payment (major)
+were received by the applicant from Hindustan Thermal and
+even the Work Order was received by the applicant from
+Hindustan Thermal, then we fail to understand as to for
+what reason the applicant has filed the present application
+against the respondent instead of filing the same against
+Hindustan Thermal even after sending the demand notice
+under section 8 of the Code. Merely because the respondent
+tried to reconcile or settle between the applicant &
+Hindustan Thermal or merely because the work completion
+was signed by the respondent being the owner of the project
+does not entitle the respondent to be liable for the
+outstanding amount. There is no privity of contract between
+the applicant and the respondent.
+14. Be that as it may, without going into any other details as
+to whether there is pre-existing dispute between the
+applicant and Hindustan Thermal; or, whether or not there
+was any delay in completion of the work by the applicant, we
+are of the considered view that the present application
+against the respondent is not maintainable and is liable to
+be rejected.
+15. In view of the above, we pass the following order:
+ORDER
+The application TP 47 of 2019 [CP(IB) 187 of 2019] filed
+under Section 9 of the Code stand rejected and disposed of.”
+(emphasis supplied)
+38. We find that the Adjudicating has rightly concluded that since
+the invoices were raised by the Appellant against Hindustan
+Thermal - EPC, the majority payment was received by the Appellant
+from Hindustan Thermal - EPC and even the work order was
+received by the Appellant from Hindustan Thermal - EPC and the
+reasons for Appellant to file the Application against the Respondent
+
+[PAGE 34]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+34
+were not understood. AA has also noted that merely because the
+Respondent tried to reconcile or settle between the Hindustan
+Thermal - EPC or merely because the work completion was signed
+by the Respondent, being the owner of the project does not entitle
+the respondent to be liable for the outstanding amount. Therefore,
+it did not find any privity of contract between the Appellant and the
+Respondent. We do not find any infirmity in the findings and the
+conclusions of the Adjudicating Authority.”
+27.
+The above was a case where Section 9 application was dismissed by
+the Adjudicating Authority. This Tribunal upheld the rejection of Section
+9 application holding that there was no Debtor-Creditor relationship
+between the Appellant and the CD. Following was concluded by this
+Tribunal in paragraph 40:
+“40. In the facts and circumstances of the case, we find that the
+Application filed under Section 9 of the Code is not maintainable
+for there being no Debtor-Creditor relationship between the
+Appellant and the CD, the facts and circumstances of the present
+case clearly establish that no invoices were raised by the Applicant
+to the CD, also no payments have been made by the CD to
+Applicant and as such there exists no privity of contract between
+the parties.”
+28.
+The judgement of this Tribunal in the above case has no application
+in the facts of the present case. The issues raised in this Appeal were
+neither gone into, nor were subject matter of consideration in the above
+judgment of this Tribunal. The said judgment does not come to any help
+to the Respondent in the present case. The submission of the Respondent
+that the documents, which were brought by the CD on the record did not
+
+[PAGE 35]
+Company Appeal (AT) (Ins.) No.1145 of 2025
+35
+prove any pre-existing dispute, cannot be accepted, in view of what we
+have noted and observed as above.
+29.
+We, thus, are of the view that Section 9 application also deserved
+rejection under Section 9(5)(ii)(d) on the first ground that is notice of
+dispute having received by the Operational Creditor. The reply to
+Demand Notice on 20.07.2024 was clearly notice of dispute received from
+the CD. In view of above discussions and our conclusion, we are of the
+view that order of the Adjudicating Authority admitting Section 9
+application is unsustainable and deserves to be set aside.
+30.
+In result, the Appeal is allowed. The impugned order dated
+31.07.2025 is set aside. Section 9 application being C.P.(IB)/369(AHM)2024
+is rejected. Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+NEW DELHI
+11th December, 2025
+
+Ashwani

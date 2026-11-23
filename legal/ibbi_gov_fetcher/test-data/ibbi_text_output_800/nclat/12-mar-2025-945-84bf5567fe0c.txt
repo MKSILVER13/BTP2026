@@ -1,0 +1,229 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1317 of 2023
+
+IN THE MATTER OF:
+
+Venus Buildtech India Pvt. Ltd.
+...Appellant
+
+Versus
+
+Senbo Engineering Ltd.
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Arjun, Mr. Rajeev Shrivastava and Mr. Shrey
+Shrivastava, Advocates
+
+For Respondent
+:
+
+O R D E R
+(Hybrid Mode)
+12.03.2025
+Heard Learned Counsel for the Appellant and Learned
+Counsel appearing for the Respondent. This Appeal has been filed against the
+order dated 04.08.2023 by which order Section 9 Application filed by the
+Appellant has been dismissed on the ground that Appellant being a decree
+holder is not an Operational Creditor.
+Brief facts of the case necessary to be noticed for deciding the appeal
+are the Respondent was awarded work by Delhi Metro Rail Corporation for
+completion of the said work, Respondent awarded certain work to the
+Appellant herein. Appellant’s case is that Appellant has completed the work
+and written a letter for release of the amount to the Respondent of Rs.
+77,10,967/- and due to non-receipt of the payment, a suit was filed before
+the Civil Court and which suit was decreed on 12.09.2017 by Additional
+District Judge, Patiala House Court, Delhi. It is further submitted that
+Appellant has also put the decree in the execution, however, the payments
+having not been received by the Appellant. Appellant filed an Application
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 1317 of 2023 2 of 6
+
+under Section 9 on 17.02.2021 by the Impugned Order dated 04.08.2023 the
+Application has been dismissed, holding that the Appellant being a decree
+holder, he is a distinct from the Operational Creditor.
+Learned Counsel for the Appellant challenging the order submit that
+the operational debt which was owned to the Respondent shall not be
+transformed merely because a decree is obtained by the Appellant from Civil
+Court. It is submitted that the Appellant was Operational Creditor and the
+Adjudicating Authority committed error in rejecting Section 9 Application.
+Learned Counsel for the Respondent submits that the Appellant has
+put the decree an execution and has realised certain amount in the execution
+proceeding and even after filing Section 9 Application has received certain
+amount. He has placed reliance on the judgment of Tripura High Court, which
+has relied by Adjudicating Authority in para 15 of the order.
+We have considered submissions of Learned Counsel for the parties and
+perused the record. The Adjudicating Authority by rejecting Section 9
+Application made following observations in paragraph 15 & 16:
+“....
+15. The above issue has been settled by the Hon'ble Tripura
+High Court in Sri Subhankar Bhowmik v. Union of India and
+Anr., where the Hon'ble High Court has held;
+
+"10..... At best, a decree signifies à claim that has been
+judicially determined and in that sense is an 'admitted
+claim against the corporate debtor. Therefore, the IBC
+rightly categorises a decree-holder, as a creditor in terms
+of the definition contained in Section 3(10). Execution of
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 1317 of 2023 3 of 6
+
+such a decree, is however subject to the fetters expressly
+imposed by the IBC (in addition to and over and above
+the requirements and limitations of the execution process
+under the CPC), which cannot be wished away.
+
+11.
+Looked at from another angle, the decree-holder
+gets a statutory status as a creditor under Section 3(10)
+of the IBC, by virtue of the decree. Since the decree
+cannot be executed by operation of the moratorium under
+Section 14, the IBC makes a provision to protect the
+interests of a decree holder by recognizing it as a creditor.
+The interest recognized is that in the decree and not in
+the dispute that leads to the passing of the decree. This
+is apparent from the fact that decree holders as a class
+of creditors are kept separate from "financial creditors"
+and "operational creditors". No divisions or classification
+is made by the statute within this class of decree holders.
+The
+inescapable
+conclusion
+from
+the
+aforesaid
+discussion is, that the IBC treats decree holders as a
+separate class, recognized by virtue of the decree held.
+The IBC does not provide for any malleability or overlap
+of classes of creditors to enable decree holders to be
+classified as financial or operational creditors."
+(Emphasis Supplied)
+16.
+In view of the above, we hold that distinction of decree
+holders as creditors from 'financial creditors' and 'operational
+creditors', as seen aforesaid is intelligible and take forward the
+purpose of the Code. Hence, C.P (IB) No. 60/KB/2021 is
+rejected. However, the Operational Creditor is at liberty to
+resort to other remedies that may be available under any other
+law.”
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 1317 of 2023 4 of 6
+
+Learned Counsel for the Appellant placed reliance on judgment of this
+Tribunal in Mukul Agarwal, Ex-Director Greatech Telecom Technologies
+Pvt. Ltd. Vs. Royale Resinex Pvt. Ltd. and Ors. 2022 SCC OnLine NCLAT
+255 where this Tribunal by considering the similar issue laid down following
+paragraphs 10, 11 and 17 which is as follows:
+“....
+10.
+When we look into the transaction of account on which debt fell due, it is
+clear that transaction was for supply of poly propylene by the Operational
+Creditor to the Corporate Debtor and due to non-payment of the amount towards
+the material supplied by the Operational Creditor, the amount became due. The
+amount due, thus, is an amount under the provisions of goods and is fully
+covered with the definition of Section 5(21) of the Code, which is to the following
+effect:
+“5(21) “operational debt” means a claim in respect of the provision of
+goods or services including employment or a debt in respect of the
+payment of dues arising under any law for the time being in force and
+payable to the Central Government, any State Government or any local
+authority”
+
+11.
+Thus, the claim of the Operational Creditor was in respect of provisions
+of goods, that is, supply of poly propylene. The mere fact that when the
+Corporate Debtor did not pay the amount, suit for recovery was filed in the year
+2016 by the Operational Creditor, which was also Decreed on 08.09.2016, does
+not in any manner effect the transaction out of which the amount fell due. The
+fact that amount was adjudicated and a Decree was passed, in no manner take
+away the nature of ‘operational debt’. We may notice that under Part-V of Form-
+3, in Item No.3 following has been mentioned:
+
+“3. PARTICULARS
+OF
+AN
+ORDER
+OF
+A
+COURT,
+TRIBUNAL
+OR
+ARBITRAL
+Judgment
+and
+Decree
+dated
+08.09.2016 passed by Sh. Prashant
+Kumar, Ld., ADJ, Rohini Court in Civil
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 1317 of 2023 5 of 6
+
+PANEL ADJUDICATING ON
+THE
+DEFAULT,
+IF
+ANY
+(ATTACH A COPY OF THE
+ORDER)
+Suit No.149 of 2015 (New No.575402
+of 2016) titled M/S Royale Resinex
+Private Limited Vs. Greatech Telecom
+Technologies Private Limited.
+
+Copy of Judgment and Decree dated
+08.09.2016 is annexed herewith and
+marked as ANNEXURE A-5.”
+
+17.
+Another judgment relied by learned Counsel for the Appellant in
+Company Appeal (AT) (Ins.) No.452 of 2020 – Sh. Sushil Ansal v. Ashok Tripathi
+and Ors. where the Appellant was a home buyer and an allottee and in whose
+favour there was already a certificate issued by UP RERA. In the above
+circumstances, this Tribunal held that the Decree holder though come within the
+definition of ‘creditor’, does not fall within the definition of ‘financial creditor’
+and cannot file an Application under Section 7 due to the above reason, the said
+Appeal was allowed and Application filed under Section 7 by allottee was held
+to be not maintainable. The above judgment does not help the Appellant in the
+present case. The judgment of this Tribunal in “Digamber Bhonwen v. JM
+Financial Asset Reconstruction Company Limited – Company Appeal (AT) (Ins.)
+No.1379 of 2019” as well as Sushil Ansal (supra) were also to the same effect,
+where the Appeal was allowed by rejecting the submission that in Section 3(10)
+of the Code, the definition of ‘creditor’, the ‘decree holder’ is included. In the
+above cases, the Application came for consideration was an Application under
+Section 7 and the question was as to whether the Applicant was ‘Financial
+Creditor’, where it was held that Applicant was not ‘Financial Creditor’. The
+above judgment is clearly distinguishable.”
+
+He had also referred to the recent judgment of the Hon’ble Supreme
+Court in Vishal Chelani v. Debashis Nanda, (2023) 10 SCC 395 where it
+was held that the mere facts that the Homebuyers have obtained decree from
+the UP RERA they shall not cease to be Financial Creditor.
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 1317 of 2023 6 of 6
+
+We are of the view that the Adjudicating Authority committed error in
+rejecting Section 9 Application only on the ground that Appellant being a
+decree holder is not an Operational Creditor which observations of the
+Adjudicating Authority is unsustainable. We thus, allow the appeal, set aside
+the order dated 04.08.2023 and revive Section 9 Application before the
+Adjudicating Authority to be heard and decided in accordance with law. We
+make it clear that we have not expressed any opinion on the merits of the
+Application and it is for the Adjudicating Authority to consider and decide
+afresh the application.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Arun Baroka]
+Member (Technical)
+pks/nn

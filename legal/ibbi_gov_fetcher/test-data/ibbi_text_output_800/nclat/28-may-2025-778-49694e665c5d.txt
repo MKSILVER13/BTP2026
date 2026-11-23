@@ -1,0 +1,883 @@
+[PAGE 1]
+Page 1 of 31
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Comp. App. (AT) (Ins) No. 524 of 2024 & I.A. No. 1835, 1836, 1837 of 2024
+(Arising out of the Order dated 29.02.2024 passed by the National Company
+Law Tribunal, Mumbai Bench-IV in Interim Application No. 5065(MB) of
+2023 in Company Petition (I.B) No. 543/MB/2022]
+
+IN THE MATTER OF:
+
+Present
+
+For Appellants:
+Mr. Aditya Shukla, Samsher Garud, Sonali Jain,
+Vignesh Iyer, Vinayak Sharda, Adv.
+
+Wakai Hospitality Private Limited
+Through the Authorised representative
+C-3, Koregaon Park,
+Sangam Wadi, Pune,
+Maharashtra, India – 411001.
+
+...Appellant
+
+Versus
+
+1. Ms. Palak Desai
+Liquidator in the matter of Rajmal Lakhichand
+Jewelers Private Limited
+IBBI Registration No. IBBI/IPA-001/IP-
+P01517/2019-20/12515
+Office No. 1, Tower No. 5, World Trade Centre,
+Cuffe Parade, Mumbai-400005.
+
+2. ASREC India Limited
+Having address at:
+Solitair Corporate Park, Bldg No. 201-202A &
+200-202B, Ground Floor, Andheri Ghatkopar
+Link Road, Chakala, Andheri East Mumbai-
+400093.
+Branch Office at : 917-18, Hemkunt Chamber, 89,
+Nehru Place, New Delhi-110019.
+
+...Respondent
+
+[PAGE 2]
+Page 2 of 31
+
+For Respondent:
+
+Ms. Honey Satpal, Aniruth Purusothaman, Pooja
+Singh, Akash Agarwalla, Adv. for R1.
+Mr. Amit Mahaliuan, Adv. for R2
+
+J U D G E M E N T
+(28.05.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e. Wakai Hospitality
+Pvt. Ltd. under Section 61 of the Insolvency and Bankruptcy Code, 2016 (Code),
+challenging the Impugned Order dated 29.02.2024 passed by the National
+Company Law Tribunal, Mumbai, Bench-IV (hereinafter referred to as
+‘Adjudicating Authority’) in the Interim Application No. 5065(MB) of 2023 in
+Company Petition (IB) No. 543/MB/2022.
+2.
+Ms Palak Desai, who is the Liquidator of Rajmal Jewelers Private
+Limited, is the Respondent herein.
+
+ASREC India Limited, who is an ARC and assignee of the debts of the
+Corporate Debtor, is the Respondent No.2 herein.
+3.
+The Appellant submitted that it has been operating a restaurant under the
+trade name ‘Wakai’. Pursuant to a Leave and License Agreement (LLA) dated
+14.07.2022, the Appellant was granted a license by the Corporate Debtor, Rajmal
+Lakhichand Jewelers Private Limited, in respect of commercial premises situated
+at Ground Floor, B Wing, along with the adjacent covered garage in ‘Mangal
+Sandesh Building’, admeasuring approximately 2853.62 sq.ft. (“licensed
+
+[PAGE 3]
+Page 3 of 31
+
+premises”), five years, commencing from 12.07.2022 with a monthly license fee
+of Rs. 7,50,000/- subject to a yearly escalation of 5%, and a security deposit of
+Rs. 30,00,000/- paid by the Appellant. The agreement also stipulated a lock-in
+period of three years for the Appellant and five years for the Corporate Debtor
+from the date of commencement of the license.
+4.
+The Appellant submitted that in compliance with the LLA, he commenced
+renovation works on the licensed premises. However, the Appellant received a
+notice dated 07.09.2022 from the Municipal Corporation of Greater Mumbai
+(MCGM) under Sections 337, 342, and 347 of the Mumbai Municipal
+Corporation Act, 1888, which restrained the Appellant from continuing
+renovation activities and consequently, the Appellant was statutorily barred from
+proceeding with the fit-out works until requisite permissions were secured which
+was the obligation for the Corporate Debtor, as the owner of the premises.
+5.
+The Appellant submitted that, in these circumstances, he sent a letter to
+the Corporate Debtor on 11.10.2022 and subsequently as per mutual discussion,
+the Corporate Debtor agreed to resolve the issues and the costs to be incurred by
+the Appellant regarding the same would be deducted from the license fees.
+Further it was also agreed that the LLA tenure would be correspondingly
+extended from the date of obtaining the OC and excise license. The Appellant
+submitted that, in response to its letter dated 11.10.2022, the Corporate Debtor,
+by its reply dated 01.11.2022, agreed to and requested the Appellant to inform the
+
+[PAGE 4]
+Page 4 of 31
+
+Corporate Debtor of the expenses incurred and specifically requested that such
+expenses be kept below Rs. 1 crore.
+6.
+The Appellant submitted that it pursued the requisite licenses and
+permissions from the concerned government authorities and MCGM granted the
+completion certificate/occupation certificate on 28.03.2023. The Appellant
+submitted that, in order to make the licensed premises suitable for its commercial
+operations, it incurred substantial renovation costs amounting to Rs.
+2,50,00,000/-. The Appellant was granted the requisite license from the Health
+Department of the MGCM on 12.04.2023, and the necessary excise license on
+17.05.2023.
+7.
+The Appellant submitted that, pursuant to the grant of the necessary
+permissions and licenses from the relevant government authorities, it addressed a
+letter dated 23.06.2023 to the Corporate Debtor, duly informing it of the same. In
+the said letter, the Appellant specifically set out the costs and expenses incurred
+towards obtaining these licenses and permissions, and further intimated that such
+amounts would be adjusted against the license fees payable. The Appellant also
+clarified that the license tenure would commence from 01.07.2023.
+8.
+The Appellant submitted that it received a letter dated 12.07.2023
+(communicated via email on 18.07.2023) from the Respondent No.1, informing
+the Appellant for the first time about the commencement of the corporate
+insolvency resolution process (CIRP) against the Corporate Debtor pursuant to
+an order dated 09.02.2023 passed by Adjudicating Authority as well as the public
+
+[PAGE 5]
+Page 5 of 31
+
+announcement dated 13.03.2023. In the said correspondence, the Respondent
+No.1 also sought payment of rentals under the LLA from the Appellant and
+requested further details in relation thereto.
+9.
+The Appellant submitted that, in response, he addressed a letter dated
+19.07.2023 to the Respondent No.1, wherein he clarified that, as per the
+arrangement under the LLA and the correspondence exchanged between the
+parties-read in conjunction with the fit-out clause-the obligation to pay license
+fees would arise only after 01.07.2023. The Appellant reiterated that the expenses
+incurred towards obtaining the necessary licenses and permissions were to be
+deducted from the future license fees, and only the balance, if any, would be
+payable thereafter. The Appellant submitted that on 02.08.2023, he addressed an
+email to the Respondent No.1, wherein it set out its proposal and for amicable
+resolution of the matter however, by email dated 09.08.2023, the Respondent
+No.1 rejected the Appellant’s offer and instead demanded payment of license fees
+at the rate of Rs. 7,50,000/- per month for the period from 13.09.2022 to
+31.07.2023, after accounting for the 60-day fit-out period.
+10.
+The Appellant submitted that subsequently on 02.09.2023, the Advocates
+for the Respondent No.1 issued a legal notice to the Appellant, demanding
+payment of alleged outstanding license fees amounting to Rs. 87,25,000/- for the
+period from 13.09.2022 to 31.08.2023. The notice further invoked Clause 12.1 of
+the LLA, granting the Appellant a period of 30 days to remedy the alleged default,
+failing which the Respondent No.1 threatened to initiate appropriate legal
+
+[PAGE 6]
+Page 6 of 31
+
+proceedings for recovery of the said license fees and for eviction of the Appellant
+from the licensed premises. The Appellant submitted that, in response to the
+aforesaid legal notice, he sent letter to the Respondent on 18.09.2023, wherein it
+reiterated its position as consistently set out in the earlier correspondence,
+particularly in its letter dated 19.07.2023.
+11.
+Subsequently, on 26.10.2023, the Respondent filed an Interim
+Application against the Appellant under Section 18(f) of the Code seeking
+directions for the handover of vacant and peaceful possession of the licensed
+premises by the Appellant within one calendar month, as well as payment of
+alleged outstanding license fees aggregating to Rs. 1,14,84,348/- (inclusive of
+18% interest) for the period from 13.08.2022 to 24.10.2023, purportedly under
+Clause 6.2.1(iv) of the LLA.
+12.
+The Appellant submitted that the Impugned Order failed to consider any
+of the contentions raised by the Appellant including that the Respondent, even if
+it had any cause of action, was required to seek reliefs before an appropriate
+forum like Small Cause Court and that the Adjudicating Authority lacked the
+jurisdiction to adjudicate upon the reliefs sought in the Interim Application. The
+Appellant also stated that the Adjudicating Authority did not take into account the
+nature and effect of the pre-CIRP correspondence exchanged between the
+Appellant and the Corporate Debtor, which remains binding on the Respondent
+No.1. The Adjudicating Authority completely overlooked the fact that the
+Respondent had not adhered to the termination procedure stipulated under the
+
+[PAGE 7]
+Page 7 of 31
+
+LLA. The Appellant submitted that the Impugned Order disregards the settled
+legal position that the Adjudicating Authority lacks jurisdiction to adjudicate
+issues pertaining to the interpretation of agreements or contracts that arose prior
+to the initiation of the CIRP.
+13.
+The Appellant submitted that, by way of the Impugned Order, the
+Adjudicating Authority directed the Appellant to vacate the premises and pay
+arrears of rent amounting to Rs. 1.14 Crores to the erstwhile Resolution
+Professional in respect of the premises owned by the Corporate Debtor. The
+Appellant submitted that upon filing an appeal, this Appellate Tribunal, vide order
+dated 15.03.2024, granted a stay on the operation of the Impugned Order, subject
+to the condition that the Appellant deposit 50% of the amount directed by the
+Adjudicating Authority and continue to pay the license fee on a monthly basis
+with effect from 01.04.2022. The Appellant has duly complied with the said order
+dated 15.03.2024 by depositing 50% of the dues as per the Order of this Appellate
+Tribunal and has continued to pay the license fee.
+14.
+Concluding his arguments, the Appellant requested this Appellate
+Tribunal to set aside the Impugned Order and allow his appeal.
+15.
+Per contra, the Respondent No.1, the main contesting Respondent, denied
+all averments made by the Appellants as misleading and baseless.
+16.
+The Respondent No. 1 submitted that he, as Resolution Professional of
+the Corporate Debtor, validly invoked the termination clause under the LLA, and
+the Appellant never challenged this termination before the Adjudicating Authority
+
+[PAGE 8]
+Page 8 of 31
+
+and by failing to file any application to contest the Respondent No.1’s action at
+the relevant time, the Appellant has effectively accepted the termination.
+Consequently, the Appellant cannot now, by way of appeal, challenge the
+termination that was never disputed before the Adjudicating Authority.
+17.
+The Respondent No. 1 submitted that the Corporate Debtor entered into
+a LLA with the Appellant on 14.07.2022, stipulating a monthly license fee of Rs.
+7.5 lakhs, subject to a 5% annual increment. despite this, the Appellant failed to
+pay any license fees from the commencement of the agreement. The Respondent
+No.1, as Resolution Professional, was informed of the existence of the Agreement
+only in May 2023, and accordingly, by letter dated 12.07.2023, he called upon
+the Appellant to make payment of the outstanding license fees.
+18.
+The Respondent No. 1 submitted that the Appellant, in its reply dated
+19.07.2023, relied upon several documents. However these documents, clearly
+indicate that the nature of the expenses incurred by the Appellant falls within the
+clauses of the LLA and were to be borne by the Appellant.
+19.
+The Respondent No. 1 submitted that, during the 6th meeting of the
+Committee of Creditors (CoC) held on 25.08.2023, it was discussed and resolved
+that all expenses the Appellant seeks to adjust against the outstanding rent are, as
+per the terms of the LLA, to be borne by the Appellant himself. The CoC
+accordingly instructed the Respondent No.1 to issue a demand notice to the
+Appellant in accordance with the LLA, and to take appropriate action to protect
+the interests of the Corporate Debtor in case of non-payment. Pursuant to these
+
+[PAGE 9]
+Page 9 of 31
+
+instructions, and due to non-receipt of rent for the period from 13.09.2022 to
+31.07.2023, the Respondent No.1 issued a legal notice dated 02.09.2023 invoking
+the termination clause of the lease deed, upon the Appellant’s failure to surrender
+vacant and peaceful possession of the premises and pay the outstanding license
+fees, the Respondent No.1 filed I.A. No. 5065/2023 under Section 18(f) of the
+code read with Rule 11 of the NCLT Rules, 2016, seeking appropriate reliefs. The
+Respondent No. 1 submitted that the Adjudicating Authority, passed the
+Impugned Order allowing the Interim Application, and the Adjudicating
+Authority correctly found that the unauthenticated communications between the
+Appellant and Corporate Debtor, lacking the company seal and board
+authorization, are contrary to the terms of the LLA and therefore have no
+detrimental bearing on the LLA.
+20.
+The Respondent No. 1 submitted that, at the outset, this is not a case where
+the Resolution Plan proposes automatic termination of the contract upon its
+approval, nor is it a case where the Resolution Professional has failed to follow
+the due process as prescribed in the LLA. The Respondent No.1 stated that there
+is no express bar under Section 14 of the Code preventing the Resolution
+Professional from terminating contracts during the moratorium period. What is
+specifically prohibited under the Code is the action by third parties to (a) recover
+any property occupied by or in possession of the Corporate Debtor, and (b)
+terminate, interrupt, or suspend the supply of critical goods and services to the
+Corporate Debtor during the CIRP. These restrictions are intended to ensure that
+
+[PAGE 10]
+Page 10 of 31
+
+the Corporate Debtor remains a going concern during the CIRP, thereby
+maximizing the value of its assets and securing better realization for stakeholders.
+21.
+The Respondent No. 1 submitted that, under Section 25(2)(a) and (b) of
+the Code, the Resolution Professional is not only required to take control and
+custody of the assets of the Corporate Debtor, but is also mandated to represent
+and act on behalf of the Corporate Debtor in dealings with third parties. Further,
+Section 17(2)(a) of the code empowers the Resolution Professional to act and
+execute all deeds, receipts, and other documents in the name and on behalf of the
+Corporate Debtor, while Section 23 of the code requires the Resolution
+Professional to manage the operations of the Corporate Debtor. The Resolution
+Professional, therefore, performs all functions and duties that would otherwise be
+carried out by the management, always acting in the best interests of the
+Corporate Debtor. The Respondent No.1 elaborated that in the present case, the
+Licensee/Appellant failed to pay the license fees from the very commencement
+of the LLA and was already in breach at the time of initiation of CIRP.
+Accordingly, the CoC directed the Resolution Professional to take appropriate
+action in the best interests of the Corporate Debtor, including issuing a notice for
+termination of the Agreement. The Resolution Professional, has thus acted on
+behalf of the Corporate Debtor, strictly in accordance with the terms of the LLA.
+22.
+The Respondent No. 1 submitted that the Resolution Professional was
+obligated to uphold the terms of the Agreement and could not have ignored the
+Appellant’s breach. The termination of the Agreement under Clause 12 was valid
+
+[PAGE 11]
+Page 11 of 31
+
+and well within the Resolution Professional’s authority. The letter from Corporate
+Debtor dated 01.11.2022 was issued without proper authorization and, therefore,
+is not binding on the Corporate Debtor. The Respondent No.1 submitted that
+reliance placed by the Appellant, on Rajendra K. Bhutta v. MHADA, (2020) 13
+SCC 208, is misplaced in the present context, as the cited judgment restricted
+MHADA from terminating a contract during the moratorium under Section
+14(1)(d) of the Code. Such protection under Section 14 is intended to benefit the
+Corporate Debtor, ensuring its continued viability, maximizing asset value, and
+enhancing the prospects of successful insolvency resolution, which is not the case
+in present appeal.
+23.
+The Respondent No. 1 submitted that both the Adjudicating Authority
+and this Appellate Tribunal possess the necessary jurisdiction to adjudicate all
+matters impacting the insolvency process, particularly those relating to core value
+maximization and the facilitation of resolution. The Respondent No.1 further
+submitted that the arrangement between the parties is the LLA and not a tenancy
+and this Appellate Tribunal, in the matter of Adinath Jewellery Exports v. Mr.
+Brijendra Kumar Mishra & Anr., Company Appeal (AT) (Insolvency) No. 748 of
+2022, has held that the Adjudicating Authority and this Appellate Tribunal have
+residuary jurisdiction to decide upon the termination of contracts that affect the
+survival of the Corporate Debtor.
+24.
+The Respondent No. 1 submitted that, in a similar case, this Appellate
+Tribunal in Company Appeal (AT) (Insolvency) No. 508 of 2020, by its judgment
+
+[PAGE 12]
+Page 12 of 31
+
+dated 08.04.2021, held that the Adjudicating Authority and this Appellate
+Tribunal have jurisdiction to adjudicate questions relating to disputes and
+recovery of property. This position was subsequently affirmed by the Hon’ble
+Supreme Court in Civil Appeal No. 1743/2021, vide judgment dated 14.03.2023,
+thereby confirming that such matters fall within the scope of the Adjudicating
+Authority’s powers under the Code.
+25.
+The Respondent No. 1 submitted that there should be no distinction in the
+powers of the Adjudicating Authority when it comes to addressing the termination
+of a contract, irrespective of whether such termination is initiated by a third party
+or by the Corporate Debtor itself. Furthermore, it is significant to note that Section
+14(1)(d) of the Code, along with its explanation, restricts only the Central or State
+Government or any authority from terminating licenses during the moratorium.
+Therefore, if any other party terminates a contract, the Adjudicating Authority
+retains the appropriate jurisdiction to adjudicate such matters, as they directly
+pertain to the insolvency proceedings of the Corporate Debtor.
+26.
+The Respondent No. 1 submitted that the Appellant’s right to approach
+any other court is expressly barred under the provisions of the Code. Given that
+the agreement in question is in the nature of a lease, the validity of its termination
+falls squarely within the jurisdiction of the Adjudicating Authority. The
+Respondent No.1 submitted that the Appellant has already presented evidence,
+which was duly examined and considered by the Adjudicating Authority while
+passing the Impugned Order. Furthermore, the Resolution Professional cannot be
+
+[PAGE 13]
+Page 13 of 31
+
+compelled to initiate proceedings before the Small Causes Court and be subjected
+to its uncertain timelines, which are inconsistent with the specific and expedited
+timeframes prescribed under the Code.
+27.
+The Respondent No. 1 submitted that the LLA expressly provided a 60-
+day fit-out period, which was extendable only in the event of Covid-related
+restrictions and the responsibility and cost of obtaining all necessary approvals
+for renovation or repair work, as well as securing the requisite licenses, rested
+solely with the Appellant.
+28.
+Concluding his pleadings, the Respondent No.1 requested this Appellate
+Tribunal to dismiss the appeal.
+29.
+The Respondent No. 2 submitted that it is a company incorporated under
+the Companies Act, 1956, and is registered as an Asset Reconstruction Company
+with the Reserve Bank of India.
+30.
+The Respondent No. 2 submitted that, in the year 2014, the Corporate
+Debtor, M/s Rajmal Lakhichand Jewellers Pvt. Ltd., availed credit facilities from
+Jalgaon People's Co-op Bank Ltd. These credit facilities are secured by the
+several assets including Mortgage of piece and parcel of land or ground, together
+with the building known as "Mangal Sandesh," comprising Wing "A"
+(constructed up to the 10th floor) and Wing "B," situated at Khar Danda, Bombay
+side of the 17th Road. The Respondent No. 2 submitted that he subsequently
+acquired the account of M/s Rajmal Lakhichand Jewellers Pvt. Ltd. from Jalgaon
+
+[PAGE 14]
+Page 14 of 31
+
+People's Co-op Bank Ltd. pursuant to an Assignment Agreement dated
+26.03.2020.
+31.
+The Respondent No. 2 submitted that, thereafter, State Bank of India filed
+an application bearing CP No. 543/MB/2022 under Section 7 of the Code before
+the Adjudicating Authority against the Corporate Debtor for initiation of CIRP,
+which was duly admitted by order dated 09.02.2023. In compliance with the CIRP
+process, Respondent No. 2 filed its claim on 28.02.2023.
+32.
+The Respondent No. 2 submitted that the Appellant has claimed that the
+property known as "Mangal Sandesh," Khar (which is exclusively mortgaged to
+the present applicant, ASREC India Limited) was let out by the Corporate Debtor
+to the Appellant under a LLA dated 14.07.2022.
+33.
+The Respondent No. 2 submitted that, during the pendency of the present
+appeal, the Adjudicating Authority vide its order dated 11.06.2024, directed the
+commencement of liquidation proceedings in respect of the Corporate Debtor and
+appointed Ms. Palak Desai as the Liquidator under the provisions of the Code.
+Subsequently, by letter dated 11.07.2024, Respondent No.2/ASREC India
+Limited issued a notice of non-relinquishment of its security interest under
+Section 52 of the Code, asserting its exclusive charge over the secured assets to
+the Liquidator.
+34.
+The Respondent No. 2 submitted that issues raised by the Appellant are
+untenable under the provisions of the Code and the mortgage over the subject
+property was created on 15.01.2015, whereas the purported LLA was registered
+
+[PAGE 15]
+Page 15 of 31
+
+much later, on 14.07.2022-almost seven years after the creation of the mortgage.
+In view of this chronology and in accordance with Section 48 of the Transfer of
+Property Act, 1882, Respondent No. 2-ASREC India Limited-holds a prior and
+overriding charge on the said property.
+35.
+Concluding his pleadings, the Respondent No.2 requested this Appellate
+Tribunal to dismiss the appeal.
+FINDINGS
+36.
+We note that there is no dispute regarding title of the licensed premises
+and the title vest only with the Corporate Debtor. It is also a fact that the licensed
+premises was indeed given to the Appellant to run his restaurant based on LLA
+utilising the licensed property of the Corporate Debtor.
+37.
+We note that the Corporate Debtor had obtained certain financial facilities
+from Jalgaon People's Co-op Bank Ltd, who later assigned the debts to
+Respondent No. 2/ ASREC India Limited. It is suffice to note that SBI initiated
+Section 7 application against the Corporate Debtor which was admitted and CIRP
+proceeding was initiated vide order dated 09.02.2023 by the Adjudicating
+Authority and now the same has been ordered for liquidation by the Adjudicating
+Authority vide order dated 11.06.2024.
+38.
+It is the case of the Appellant that there was proper contractual agreement
+between the Appellant and the Corporate Debtor and based on terms and
+
+[PAGE 16]
+Page 16 of 31
+
+conditions of LLA, it was responsibility of Corporate Debtor to complete the
+formalities before the fit out period of 60 days came into effect.
+39.
+It is the case of the Appellant that due to non compliance of the Corporate
+Debtor of various regulations, the Appellant had to incur huge cost in order to
+obtain necessary licenses from MCGM, excise department, health department
+etc and thereafter it was agreed between the Appellant and the Corporate Debtor
+that the tenure of LLA would be suitable enhanced and the cost incurred by the
+Appellant would be adjusted against the licensed fee payable, keeping upper limit
+of Rs. 1 Crore. On the other hand, the Respondent No. 1, who is liquidator of the
+Corporate Debtor brought out to our notice that the Appellant never paid any
+license fee since inception. The Respondent No. 1 also brought out that when it
+came to the notice of liquidator that for the said property no, payment has been
+made by the Appellant, he wrote to the Appellant but the Respondent No.1 did
+not receive any suitable response including money. Thereafter, the Respondent
+No. 1 was compelled to file an application before the Adjudicating Authority
+seeking the Adjudicating Authority’s directives to the Appellant for handover of
+the said property along with outstanding amount which was granted by the
+Adjudicating Authority.
+40.
+The Appellant has raised following issues in the present appeal
+Issue No. (I) There was no money payable i.e. License fee by the Appellant
+to the Corporate Debtor since it was agreed between the Appellant and the
+
+[PAGE 17]
+Page 17 of 31
+
+Corporate Debtor that the cost incurred by the Appellant would be settled
+against License fee.
+Issue No. (II) Another issue of the Appellant is that it is not within
+jurisdiction of the Adjudicating Authority to adjudicate inter-se disputes
+between the parties and for any remedy, the Respondent No. 1 was required
+to approach the appropriate suitable judicial forum like the small cause
+court.
+Issue No. (III) As per Section 14 of the Code, the moratorium period
+started and the Respondent No. 1 could not have initiated any proceedings
+against the Appellant or terminated the LLA.
+We shall deal issues raised by the Appellant in subsequent discussion
+41.
+Issue No. (I) There was no money payable i.e. License fee by the
+Appellant to the Corporate Debtor since it was agreed between the Appellant and
+the Corporate Debtor that the cost incurred by the Appellant would be settled
+against License fee.
+(i)
+In this connection we would like to take into consideration relevant
+portion of the LLA which reads as under:-
+
+[PAGE 18]
+Page 18 of 31
+
+(ii)
+From above, it is clear that the license was to commence from
+12.07.2022 (license commencement date) for the period upto five
+years. The LLA provided for a grace period i.e., fit out period to the
+Appellant of 60 days from the date of commencement, within which
+
+[PAGE 19]
+Page 19 of 31
+
+the Appellant was supposed to commence the business and pay the
+license fee as per the LLA.
+(iii) We observe that only in the event on account of pandemic and if the
+authority declare a lockdown or imposed restrictions which result in
+stoppage of carrying fit out works, corresponding extension of fit out
+period was to be extended in sync with such extended lockdown
+period. Hence, it is crystal clear that the extension of fit out period
+was available to the Appellant only on the ground of covid pandemic
+related restrictions and not otherwise. Thus, we are unable to accept
+the contentions of the Appellant that due to alleged non compliance
+by the Corporate Debtor, the appellant could not obtain the requisites
+licenses from MCGM, excise department, health department etc.,
+and therefore he could not commencement the business. The
+Appellant’s pleading is that since he incurred more than Rs.1 Crore
+to obtain such license, therefore he was not supposed to pay to the
+Corporate Debtor as per their mutual understanding. We find that
+this pleading is not legally tenable in view of clause 5 of LLA. We
+observe that the Appellant was duty bound to pay the license fee after
+the fit out period of 60 days was over.
+(iv)
+As regard issue that it was mutually agreed between the Appellant
+and the Corporate Debtor that the expenses incurred by the
+Appellant would be reimbursed to the Appellant subject to limit of
+
+[PAGE 20]
+Page 20 of 31
+
+Rs. 1 Crore and also that the tenure of LLA would be enhanced
+suitable by the correspondence period, we would like to look into
+the correspondence exhanged between the Appellant and the
+Corporate Debtor which was brought to our notice by the Appellant.
+The letters are reproduces as under :-
+Dated 11.10.2022
+
+[PAGE 21]
+and understood that these costs would then be deducted from the rentals
+payable from the date we get the OC and the excise licence from the
+government authoritias,
+
+Accordingly, we met you in October 2022 and discussed objections being
+raised by building residents and so-called activists regarding the functioning of
+@ commercial restaurant on the premises which was delaying the OC and
+consequential Excise Licence, We informed you that there are several inherent
+problems in the premises due to which we will have to deploy an architect and
+incur heavy charges from BMC, Liaisioning, Architect fees, Civil costs and other
+miscellaneous expenses which could be anywhere in the range of 75 lakhs to
+1.25 crores,
+
+You had then mentioned that since there was a defect in the premises as
+OC was not there, we would bear the Costs for the same and the same would be
+adjusted from the licence fees which would be payable from the date the OC
+and the Excise Licence is obtained, Accordingly, the L&L tenure would also be
+correspondingly extended from the date of obtaining the OC and the Excise
+Licence,
+
+Kindly confirm the same so we can continue to pursue the required
+permissions and make expenses for the same, After receiving the OC and Excise
+License for the property, we will begin to adjust these expenses against our L&L
+fees payable. Meanwhile, please also pay the dues and taxations of the BMC.
+
+Yours Faithfully,
+
+WAKAI HOSPITALITY PRIVATE LIMITED
+-
+
+uthorised Signatory)
+
+WAKAI MANAGEMENT BANDRA LLP
+€-3/5 Rakshalekha co-op Society, Lane no.6, Koregaon Park, Pune ~411 002
+
+Page 21 of 31
+
+[PAGE 22]
+LETTER DATED 01.11.2022
+
+dRajmal Lakhichand
+
+nan JEWELLERS PVT. LTD
+
+e018 nna sige 2 01 (8) e257» 22688, oma. coat owe cm, wn gw cose
+
+Date: 1" November 2022
+
+Te.
+
+Wakai Hospitality Pvt Lid,
+“4A Raj Bahadur Mention,
+Mumbai Samachar Mang, For,
+Mumbai .
+
+Dear Shardul,
+
+Re: Vout letter dated 11.10.2002 regarding the LAL Agreement dated 4th July 2022.
+
+We agree and acknowledge the comnutment mace by us and confirm the contents of
+the letter. Kindly inform us of the amount of expenses incvired by you as and when the
+permissions ave, We request YOU to kindly try and keep the expenses below Rs. crore,
+
+Yours Sincerely,
+Rajmal Lakhichand Jewellers Prt. Lad
+Iie
+
+Sle fl
+
+Page 22 of 31
+
+[PAGE 23]
+LETTER DATED 23.06.2023
+
+Date: 23" June 2023
+
+To,
+
+Rajmal Lakhichand Jewellers Pvt. Ltd.
+Johari Bazar,
+
+dJalgaon-425001
+
+Dear Manish Ji,
+
+Re: Leave & Licence Agreement dated 14 July 2022 in respect of premises admeasuring
+about 2853.62 sq ft situated at MANGAL SANDESH BUILDING , ’B'wing , Plot No.490,
+Bearing CTS No. E-72, Village Khar, 17% Road, Khar, Mumbai. And Our Letter dated
+15.10.2022 And Your letters dated 1.11.2022 and 11.09.2022 |
+
+This is to inform you that we have obtained the BMC OC on 28.3.2023, the BMC
+Licence for eating house on 12.4.2023 and the excise licence on 17.5.2023, post which we can
+finalize the bar design in the restaurant and will able to start commercially operations from 1
+July 2023. Accordingly, our licence tenure would start from 1.7.2023,
+
+We have further incurred the following expense which will be adjusted in the rentals
+from 1.7.2023; the expenses are as followed:
+
+BMC-Rs.28,14,486/-
+
+Misc Charges-Rs,200,000/-
+Architect-Rs.10,00,000/-
+Liasoning Fees-Rs.10,00,000/-
+Civil Changes-Rs.50,00,000/-
+Total Costs-1,00,14,486/-
+
+Yours Faithfully,
+WAKAI ay iz) PRIVATE LIMITED
+
+. L .
+phe atory
+
+WAKAI MANAGEMENT BANDRA LLP
+€-3/5 Rakshalekha cc-op Society, Lane 0.6, Koregeon Park, Pune - 411 001
+
+Page 23 of 31
+
+[PAGE 24]
+Page 24 of 31
+
+(v)
+We note that the there was no authorisation from the Corporate
+Debtor to the suspended director of the Corporate Debtor to issue
+such letters to the Appellant regarding issuance of such
+correspondence as per record made available to us and also that the
+letter do not bear the seal/stamp of the Corporate Debtor.
+(vi)
+In this connection, we would also like to look into the relevant
+portion of the Impugned Order which reads as under :-
+“12.2. The Respondent, per its Reply dated 09.01.2024,
+contends that the purported adjustment of expenses is in
+consonance with L&LA dated 14.07.2022. We find that the
+same is devoid of any merits and place reliance hereto upon
+Clause (5) of the said L&LA pertaining to the ‘FitOut Period’.
+The said clause expressly warrants for extension of the FitOut
+Period only in the eventuality/ on account of pandemic.
+Further, the correspondences relied upon by the Respondent
+with a member of the suspended Board of Directors of the
+Corporate Debtor, are contrary to the terms and conditions set
+out in the afore-stated L&LA dated 14.07.2022 and the said
+correspondences would thus have no detrimental bearing upon
+the same.”
+(Emphasis Supplied)
+(vii) The Adjudicating Authority has categorically recorded that the
+correspondence relied upon by the Appellant with the suspended
+board of directors is contrary to the terms and conditions of LLA.
+
+[PAGE 25]
+Page 25 of 31
+
+(viii) In view of this, the contentions of the Appellant on this ground is
+also not accepted.
+42.
+Issue No. (II) Another issue of the Appellant is that it is not within
+jurisdiction of the Adjudicating Authority to adjudicate inter-se disputes between
+the parties and for any remedy, the Respondent No. 1 was required to approach
+appropriate suitable judicial forum like the small cause court.
+(i)
+In this connection, we note that in the judgment delivered by this
+Appellate Tribunal in Encore Asset Reconstruction Company Pvt.
+Ltd. vs. Ms. Charu Sandeep Desai (RP of Calyx Chemicals &
+Pharmaceuticals Ltd.) & Ors., Company Appeal (AT) (Insolvency)
+No. 719 of 2018, it was held that that an asset owned by the corporate
+debtor but is in the possession of a third party or creditor, such party
+is obligated to hand over possession to the Resolution Professional
+under Section 18 of the Code, so long as the title remains with the
+corporate debtor. The aforementioned judgment was challenged
+before the Hon’ble Supreme Court of India and was duly upheld. The
+facts are similar to present case and thus we find the same to be
+applicable.
+(ii)
+The Appellant has also pleaded that the Respondent No. 1 should
+have initiated case under small cause court. We note that the CIRP
+was ordered 09.02.2023 more than two years ago and since then the
+Corporate Debtor has even been ordered for liquidation on
+
+[PAGE 26]
+Page 26 of 31
+
+11.06.2024. We observe that the timelines as stipulated in the code
+have been stipulated with the objection for maximisation of value of
+the Corporate Debtor. Recently in the case of Kalyani Transco v.
+Bhushan Power & Steel Ltd., 2025 SCC OnLine SC 1010, the
+Hon’ble Supreme Court of India has reiterated the importance of
+timeline.
+(iii) The Respondent No. 1 is duty bound to act in accordance with code
+and according to which the liquidator is supposed to take over the
+assets of the Corporate Debtor in terms of section 25 (2) (a) & (b) of
+the Code. We have already noted that the Respondent No. 1 gave
+due notice to the Appellant for termination of LLA after obtaining
+approval of the CoC since the Appellant failed to make payment as
+per notice by the Respondent No.1.
+(iv)
+It is also noted that Respondent No 1 initiated the IA No. 5065 of
+2023 before the Adjudicating Authority who passes the Impugned
+Order asking the Appellant to vacate the said property and to pay the
+necessary dues to the Respondent No.1.
+(v)
+As such we do not find any merit in the argument of the Appellant
+that the Adjudicating Authority erred in passing the Impugned Order
+or it is only small cause court is competent to adjudicate such
+matters. We hold that Impugned Order has been correctly passed by
+the Adjudicating Authority.
+
+[PAGE 27]
+Page 27 of 31
+
+43. Issue No. (III) As per Section 14 of the Code, the moratorium period
+started and the Respondent No. 1 could not have initiated any proceedings
+against the Appellant or terminated the LLA.
+(i)
+We note that the Resolution Professional after taking approval of the
+CoC wrote a letter to the Appellant to make the payments and after
+reasonable time period he invoked the termination notice period of
+30 days as per LLA.
+(ii)
+We have already noted that even after laps of termination notice
+period the Appellant neither vacated premises nor repaid money to
+the Corporate Debtor. Hence, the Resolution Professional i.e., the
+Respondent No. 1 initiated IA before the Adjudicating Authority
+seeking directions of the Appellant which were granted by the
+Adjudicating Authority in the Impugned Order.
+(iii) The objective of section 14 of the code is intended to protect
+Corporate Debtor from legal hassels during resolution period and it
+was never intended to give the protection of moratorium to third
+party like the Appellant herein and therefore the contention of the
+Appellant that during moratorium the Respondent No. 1 could not
+have initiated any action against the Appellant is not convincing. We
+must understand that the protection to the Corporate Debtor under
+Section 14 of the Code is given so that the Resolution Professional
+can try to resolve the Corporate Debtor under guidance of the CoC.
+
+[PAGE 28]
+Page 28 of 31
+
+(iv)
+It is an obligation as well as the right of the Resolution Professional
+to protect the interest of the Corporate Debtor and take necessary
+action including realising recoverable dues from third party like the
+Appellant on behalf of the Corporate Debtor as well as take legal
+action in accordance with law to take possession of property in given
+circumstances. In the present case the Appellant has not paid the
+license fee on certain assumptions which we have already discussed
+in earlier paragraphs.
+(v)
+As such we do not find any merit in the contentions of the Appellant
+that during moratorium period the Respondent No. 1 could not have
+terminated the LLA.
+(vi)
+We note that the Corporate Debtor is the owner of the subject
+property and the Appellant continued to occupy the premises under
+the LLA without payment of the requisite license fees and without
+challenging the termination before the Adjudicating Authority. The
+Appellant acknowledged that this Appellate Tribunal, by order dated
+15.03.2024, granted a stay on the Impugned Order subject to two
+conditions: (a) payment of 50% of the amount directed by the
+Adjudicating Authority, and (b) payment of Rs. 7.5 lakhs per month
+with effect from 01.04.2024 The order dated 15.03.2024 reads as
+under:
+
+[PAGE 29]
+Page 29 of 31
+
+“Learned counsel for the Appellant submits that the
+application filed by the Resolution Professional seeking
+recovery of possession and payment of outstanding license
+fees along with interest, was not maintainable since the
+question of Leave and Licence Agreement could not have
+been brought for consideration before the Adjudicating
+Authority. It is submitted that the Appellant has already
+paid more than Rs.1 Crore to the different authorities with
+respect to building in question and Appellant could start
+commencing his business only from July, 2023. Shri Ravi
+Raghunath, learned counsel appearing for the Respondent
+submits that the application was fully maintainable and the
+Adjudicating Authority has rightly relying on the judgment
+of this Tribunal in M/s. Jhanvi Rajpal Automotive Pvt. Ltd.
+v. R.P. of Rajpal Abhikaran Pvt. Ltd. & Ors. decided the
+application. It is submitted that the amount due is Rs.1.5
+Crores and Leave and Licence Agreement was terminated
+on 03.10.2023 and even thereafter no payments have been
+made. Learned counsel for the Respondent has refuted the
+date of commencement as contented by learned counsel for
+the Appellant. Submissions raised by learned counsel for
+the parties need consideration. Issue notice. Let Reply be
+filed by the Respondent within two weeks. Rejoinder be
+filed within two weeks thereafter.
+List this Appeal on 29.04.2024.
+In the meantime, the effect and operation of the impugned
+order shall remain stayed subject to (i) Appellant
+depositing 50% of the amount directed by the Adjudicating
+Authority within 30 days from today; (ii) shall pay amount
+
+[PAGE 30]
+Page 30 of 31
+
+of Rs.7.5 Lakhs w.e.f. 01.04.2022 as use and occupation
+charges to the Resolution Professional.
+This is without prejudice to the rights and contentions of
+both the parties.”
+(vi)
+It has been brought to our notice by the Respondent No.1 that the
+Appellant even breached of these conditions and has been in default
+for more than two months in payment of license fee. We have also
+taken into consideration the submission made by the Respondent
+No.2 that the Appellant has since then vacated the license property
+and has also filed his claim before the liquidator i.e., the Respondent
+No. 1 herein.
+44. We also note that this Appellate Tribunal, in Company Appeal (AT) (Ins) No.
+63/2024, in the matter of Deepak Sakharam Kulkarni & Anr. vs. Manoj
+Kumar Agarwal, Resolution Professional of DS Kulkarni, has recognized the
+power of the Resolution Professional to terminate agreements, and observe
+that, while it is impermissible to deprive third parties of their rights solely on
+the basis of the initiation of insolvency proceedings, there is no prohibition on
+terminating agreements in accordance with the contractual terms during the
+CIRP or even thereafter.
+45. Thus, we hold that during moratorium the respondent could terminate the
+LLA and also was entitled to take legal action against the Appellant. We reject
+arguments of the Appellant on this ground.
+
+[PAGE 31]
+Page 31 of 31
+
+46. Based on above detailed observations, we do not find any error in the
+Impugned Order. The Appeal devoid of any merit stand rejected. No cost. I.A.,
+if any, are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+Sim

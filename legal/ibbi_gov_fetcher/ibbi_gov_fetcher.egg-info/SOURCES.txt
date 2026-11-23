@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+ibbi_gov_fetcher/__init__.py
+ibbi_gov_fetcher/__main__.py
+ibbi_gov_fetcher/cli.py
+ibbi_gov_fetcher/client.py
+ibbi_gov_fetcher/crawler.py
+ibbi_gov_fetcher/models.py
+ibbi_gov_fetcher/parser.py
+ibbi_gov_fetcher/storage.py
+ibbi_gov_fetcher.egg-info/PKG-INFO
+ibbi_gov_fetcher.egg-info/SOURCES.txt
+ibbi_gov_fetcher.egg-info/dependency_links.txt
+ibbi_gov_fetcher.egg-info/entry_points.txt
+ibbi_gov_fetcher.egg-info/requires.txt
+ibbi_gov_fetcher.egg-info/top_level.txt
+tests/test_parser.py

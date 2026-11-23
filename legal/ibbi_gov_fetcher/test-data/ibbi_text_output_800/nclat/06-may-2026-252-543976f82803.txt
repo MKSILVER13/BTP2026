@@ -1,0 +1,1807 @@
+[PAGE 1]
+1
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+I.A. No. 1589, 2250, 2251, 2760, 2762 of 2026 in
+Company Appeal (AT) (Ins) No. 406 of 2022
+IN THE MATTER OF:
+Ram Kishor Arora Suspended
+Director of Supertech Ltd.
+...Appellant
+
+Versus
+Union Bank of India & Anr
+...Respondents
+
+Present:
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Mudit
+Sharma,
+Ms.
+Nandini
+Sharma,
+Mr.
+Sachin
+Sharma, Mr. Shashank Shekhar Pandey, Mr.
+Ritesh Dhyani, Ms. Heena Kochar, Advocates.
+Mr. Palash Singhai, Mr. Harshal Sareen, Ms.
+Aashima Gautam, Advocates for Applicant in I.A.
+No 5796
+Mr. Sumesh Dhawan, Mr. Nikhil Mehndiratia,
+Ms. Nidhisha Choksi, Advocates for Application
+in I.A. No 3776 of 2023
+Mr. Arvind Nayyar, Sr. Advocate with Mr. Ahish
+Tandon, Ms. Anushree Kulkarni, Mr. Akshay
+Joshi, Ms. Akanksha Mishra, Advocates for IFCI
+Ltd.
+For Respondents
+: Mr. Abhay Dixit, Mr. Harish Plona, Advocates.
+Mr. Adarsh Rai, Advocate, Respondent in I.A. No
+2250 & 2251 of 2026 & Applicant in I.A. No
+2760 & 2762 of 2026
+Mr. Alok Kumar, Respondent
+Mr. Sougat Sinha, Advocate for R3
+Sh. Rajiv Jain, Amicus Curiae, Ms. Eshna
+Kumar, Ms. Astha Agarwal, Mr. Zaid Hashmat,
+Ms. Shruti Sakshi, Advocates, Amicus
+Mr. Sandeep Bajaj, Ms. Aakanksha Mishra, Mr.
+Shubham Jaiswal, Advocates for Applications in
+I.A. 2962 of 2026
+Mr. Arvind Nayyar, Sr. Advocate with Mr. Abhay
+Chitravanshi,
+Advocates
+for
+L&T
+Finance
+
+[PAGE 2]
+2
+Limited.
+Mr. Sunil Fernandes, Sr. Advocate with Ms. Nishi
+Chaudhary, Mr. Yashartha Gupta, Mr. Kailash
+Ram, Mr. Mayuresh Rishabh, Advocates for
+Union Bank of India
+Advocates for Home buyers, I.A. No 2762 of
+2026
+Mr. Sunil Mathew, Mr. M.P. Sahay, Advocates for
+Proj EV3
+Mr. MP Sahay, Mr. Yaman Verma, Ms. Chitra
+Chanda, Mr. Kartik Virmani, Advocates for Proj
+EV2
+Mr. M.P. Sahay, Advocate for other Projects
+Mr. Ravindra Kumar, Sr. Advocate with Mr.
+Rachit Mittal & Mr. Abhishek Sinha for NOIDA
+Authority
+Mr. Ritin Rai, Sr. Advocate with Mr. Gudipati
+Gayatri Kashyap, Mr. Ranvijay Gohain, Ms.
+Anam Ahmad, Advocates for NBCC
+Mr. Pankaj Pandey, Mr. Digvijay P., Mr. U.N.
+Singh, Ms. Sukanya Kushwaha, Advocates for
+GNIDA
+Mr. Amar Gupta, Mr. Pranav Tanwar, Advocates
+for YEIDA
+Mr. Narul Deewan, Mr. Mohit Kishore, Mr.
+Tushar Kumar, Mr. Amritav Anand, Advocates
+for R2 in Comp App (AT) (Ins) No. 406 of 2022
+
+O R D E R
+(Hybrid Mode)
+06.05.2026:
+In pursuance of order dated 20.04.2026 passed by the
+Hon’ble Supreme Court in Miscellaneous Application No.1235 of 2026 in
+Civil Appeal No.2626 of 2025, the matter was placed before this Tribunal
+and was taken up on 24.04.2026, where we have noticed the directions of
+the Hon’ble Supreme Court in Paragraphs 2 to 4, which are as follows:
+
+[PAGE 3]
+3
+“2. In this view of the matter, we request the learned NCLAT to
+consider the issue as to whether or not a Court constituted
+Committee should be appointed for managing the affairs of all the
+projects of Supertech Ltd. and/or whether such arrangement
+should be allowed to continue only in respect of the 16 projects,
+which has been entrusted to NBCC.
+3. Since we have not expressed any opinion on merits in this
+regard, liberty is granted to the parties to raise their respective
+contentions before the learned NCLAT. The landowning Authorities,
+like Greater Noida Industrial Development Authority and Yamuna
+Expressway Industrial Development Authority, may also be
+impleaded and heard by the learned NCLAT.
+4. Since the ongoing 16 projects entrusted to NBCC are also facing
+a stalemate after the suspension of IRP, it goes without saying that
+the matter involves some urgency. We, therefore, request the
+learned NCLAT to hear the matter, subject to other prioritised
+matters, on the date fixed, i.e., 24.04.2026. Learned counsel for the
+parties have also assured to extend full cooperation to the NCLAT
+for the purpose of hearing.”
+2.
+Parties were permitted to give short notes of their submissions on
+the aspect as noted in the above order and matter thereafter was heard by
+us and this order is being passed in compliance of the directions of the
+Hon’ble Supreme Court dated 20.04.2026. Before we come to the
+submissions advanced by learned Counsel for the parties, few
+background facts giving rise to proceedings in this Tribunal as well as
+Hon’ble Supreme Court need to be noticed.
+(i)
+The CIRP of the Corporate Debtor (“CD”) -M/s Supertech Ltd.
+commenced by Adjudicating Authority vide order dated
+25.03.2022. Company Appeal (AT) (Ins.) No.406 of 2022 has
+
+[PAGE 4]
+4
+been filed by the Suspended Director of the CD – Ram Kishor
+Arora challenging the said order. The Appeal was heard by
+this Tribunal and vide order dated 10.06.2022 this Tribunal
+noticed the large number of Projects and large number of
+allottees in different Projects. By the order dated 10.06.2022,
+we issued direction for constituting the Committee of
+Creditors (“CoC”) with regard to Project Eco Village II, only
+and several other directions were issued for other ongoing
+Projects.
+(ii)
+Against the order dated 10.06.2022 passed by this Tribunal,
+Civil Appeal Nos.5941 of 2022 and Civil Appeal No.1925 of
+2023 were filed in the Hon’ble Supreme Court, which came to
+be dismissed on 11.05.2023 upholding the order dated
+10.06.2022.
+(iii)
+Subsequent to the order dated 10.06.2022, this Appeal was
+again taken into consideration and after hearing various
+parties, this Tribunal passed an order on 31.05.2024
+directing for Project wise Resolution of various Projects
+undertaken by the CD. The order dated 31.05.2024 provided
+detailed steps to be taken with respect to Project wise
+Resolution and inviting suggestions from all stakeholders and
+providing for Project wise hearing, including the proposed
+date of hearing with respect to different Project.
+
+[PAGE 5]
+5
+(iv)
+Subsequent to order dated 31.05.2024, an IA No.6557 of
+2024 was filed by the NBCC offering its services to complete
+construction of 16 Projects of the CD. The NBCC application
+was heard along with all stakeholders, including homebuyers,
+Promoters and IRP and by the order dated 12.12.2024, IA
+No.6557 of 2024 was allowed and NBCC was permitted to
+construct 16 Projects of the CD, which Projects were
+permitted to be completed by the NBCC. Two Committees
+were also constituted for completion of Projects. One
+Committee was named as “Apex Court Committee” and
+another Committee was named as Project wise Court
+Committee. Paragraph 78 of the order dated 12.12.2024
+contain details of the constitution of the Committee and
+further directions. Paragraph 78 of the order dated
+12.12.2024 is as follows:
+“78. Learned Counsel for the IRP has submitted that while
+the Apex Court Committee constituted to supervise the
+finances, approvals and other issues of all Projects and
+separate project wise Court Committee constituted to
+monitor the construction of the specific Projects. Learned
+Counsel for the IRP has submitted a process note proposing
+formation of Apex Court Committee and formation of project
+wise Court Committee. In Clause (a) of the Process Note
+following has been recommended:
+“A. GOVERNANCE STRUCTURE AND DECISION-
+MAKING
+MECHANISM:
+FORMATION
+OF
+APEX
+COURT COMMITTEE AS WELL AS PROJECT-WISE
+COURT COMMITTEE
+
+[PAGE 6]
+6
+The table below sets out, in summary, the constituents
+of
+both
+the
+Apex
+Committee
+and
+ProjectWise
+Committee:
+Apex Court Committee (in line
+with the structure proposed by
+NBCC)
+Project-Wise Court
+Committee (in line with
+the recommendations of
+lenders, land authorities
+as well as allottees)
+1) Two nominees on behalf of the
+Financial Institutions (may be the
+two largest comprising Financial
+Institutions);
+
+2) One nominee on behalf of NBCC;
+
+3) One expert from the real estate
+industry / Construction industry
+being an independent committee
+member to be appointed jointly by
+other
+Apex
+Court
+Committee
+members, and
+
+4) the Chairman (being the Interim
+Resolution Professional).
+1) One (1) nominee of
+the
+Institutional
+Financial
+Creditor
+being
+the
+project
+lender/charge holder,
+if any
+
+2) One nominee of the
+Allottees of the project
+whose units are under
+construction
+
+3) One nominee of the
+land authority, if any
+
+4) One expert from the
+real
+estate
+industry
+being an independent
+committee member (as
+appointed
+by
+Apex
+Court committee), and;
+
+5)
+The
+Chairman
+(being
+the
+Interim
+Resolution
+Professional).
+Note: Since the stakeholders such as land authorities
+as well as allottees interests are specifically aligned
+with their respective project, hence their participation
+is recommended only in project wise court committees.
+1) FORMATION OF APEX COURT COMMITTEE:
+i. On and from the date of the approval order passed by
+the Hon’ble Appellate Tribunal (“Approval Order”), an
+Apex Court Committee be formed for all the projects
+given to NBCC, in relation to completion of projects and
+utilization of funds by NBCC, and to protect and
+safeguard the interests of the stakeholders of the
+projects, comprising of persons as per aforesaid table.
+
+[PAGE 7]
+7
+ii. The names of the nominees of the Financial
+Institutions and NBCC shall be notified by the Financial
+Institutions to the Interim Resolution Professional within
+seven (7) days from the date of the Approval Order.
+iii. One expert from the real estate industry/construction
+industry may be appointed within 1 (one) month from the
+date of Approval Order.
+iv. The Apex Court Committee may take all decisions in
+relation to completion of all the projects including, but not
+limited to, the following:
+a. Approval and allocation of overall interim funding
+which may be required for all the projects. Such funding
+shall be treated as interim finance as defined and
+specified under the provisions of the Insolvency and
+Bankruptcy Code, 2016 (“IBC”) and shall be paid in
+priority over others.
+b. Approve the formation of a Special Purpose Vehicle
+(“SPV”), if required, for raising interim finance.
+c. Approval of proposals and reports submitted by NBCC
+at various stages of work, approve estimated cost,
+projected costs, actual costs as applicable and make
+available required funds to NBCC for completion of the
+balance work and any other direction necessary for
+comprehensive completion of all the projects
+d. Approval of costs for appointing any marketing or
+other agencies or other consultants common for all
+projects.
+e. Approval of common expenses towards appointment of
+professionals, auditors, corporate employees and staff,
+legal, administrative and other head office expenses.
+f. Allocation of funds from project to common pool for
+meeting common expenses.
+g. Allocation of funds from surplus project to deficit
+project.
+h. Distribution/allocation of surplus towards any dues of
+lenders, statutory authorities and other creditors as on
+Insolvency commencement date (“ICD”) which remains
+unpaid from the respective project’s cash flows
+
+[PAGE 8]
+8
+i. Allocation of funds for repayment of any common dues
+of
+the
+corporate
+debtor
+as
+on
+the
+insolvency
+commencement date, e.g. statutory dues, which cannot
+be allocated towards any specific project.
+j. Any other action in relation to the Corporate Debtor
+which may be required to ensure the smooth operations
+of the projects
+v. The Apex Court Committee shall supervise the
+implementation of the construction plan and shall be
+required and entitled to do all such acts, deeds, matters
+and things as may be necessary, desirable or expedient
+in order to implement the same.
+vi. The quorum for any meeting of the Apex Court
+Committee shall require the attendance of the following:
+a.
+The
+Chairman
+(being,
+the
+Interim
+Resolution
+Professional); and
+b. At least one (1) nominee on behalf of the Financial
+Institutions.
+c. The meeting may be called by giving 5 days’ notice or
+any shorter notice as may be decided by the Apex court
+committee.
+vii. The Apex Court Committee shall endeavour to take
+all decisions by unanimous consent. However, if
+unanimous consent is not achieved then decision shall
+be taken by a simple majority of members present and
+voting. In case e-voting is preferred, then the minutes
+may be circulated within 48 hours from the conclusion of
+the meeting and voting shall be concluded within 7
+(seven) days of circulation of such minutes.
+viii. The IRP shall conduct the day-to-day operations of
+the Company under the instructions of the Apex Court
+Committee and perform duties inter alia similar to that of
+a Resolution Professional under the CIRP and shall have
+powers similar to that of a Resolution Professional under
+the CIRP as specified under IBC. The IRP shall continue
+to have the same protections and exemptions available
+to a Resolution Professional under IBC.
+ix. No accounts of the Corporate Debtor shall be
+operated without the signature of the IRP or his assigns.
+The construction of all projects shall continue with
+overall supervision of the IRP and shall have the right to
+
+[PAGE 9]
+9
+engage
+accountants,
+legal
+advisors,
+and
+other
+professionals essential for the effective management of
+the Corporate Debtor's affairs.
+x. The members of the Apex Court Committee shall not
+be liable for any action done in good faith in relation to
+supervision and management of the Company and shall
+not in any manner be implicated in, or in any manner
+adversely affected by, or have any liability in relation to
+any
+actions
+and/or
+omissions,
+during
+the
+implementation of the plan. Further, the nature of
+protection prescribed in Section 233 of the IBC will
+extend to the members of the Apex Court Committee for
+any action taken by them in good faith in terms of this
+order.
+xi. The going concern costs of the Corporate Debtor and
+fees and costs of the IRP, along with his respective
+advisors in keeping the Corporate Debtor as a going
+concern, as approved by the Apex Court Committee,
+shall form part of CIRP costs and shall be paid in priority
+from the cash flows of the common funds of the
+corporate Debtor as treated during the CIRP.
+xii. Upon the completion and handover of all the projects
+given to NBCC, any surplus funds remaining shall be
+allocated towards the repayment of unpaid dues of
+various stakeholders in proportion to their outstanding
+balances and the balance surplus, if any, may be
+submitted to the Hon’ble Appellate Tribunal with the
+final report. Upon the resolution of these matters, the
+Apex Court Committee may be dissolved.”
+(v)
+In Paragraph 79 of the order various directions to NBCC were
+also issued. Paragraph 80 contain directions to various
+stakeholders. Paragraph 81 contains directions to Land
+Authorities. Paragraphs 79 to 85, which are relevant are as
+follows:
+“79. We accept the proposal of the IRP to constitute Apex
+Court Committee and for all the Projects given to the NBCC
+in relation to the completion of the Project and utilisation of
+funds by NBCC and to protect the safeguards and interest of
+the stakeholders of the Project and a project wise Court
+
+[PAGE 10]
+10
+Committee for each Project for monitoring the NBCC and
+taking decision on various matters related to the Project. The
+constitution of both the Committees have also been
+suggested by the IRP. We approve the constitution of Apex
+Court Committee and project wise Committees as suggested
+by the IRP in the process note except one modification in
+project wise Court Committee that one representative of the
+NBCC has also to be part of the project wise Court
+Committee, thus, in addition to process as suggested in
+project wise Court Committee, one nominee of the NBCC
+shall be there with regard to each Project. The formation of
+the Apex Court Committee and project wise Court
+Committee with others suggestions given by the IRP as
+extracted above under the heading A are approved subject to
+any direction or modification which may be issued from time
+to time. The IRP under heading B direction to NBCC for
+implementation of construction proposal and mechanism for
+preparation of dues to stakeholders have made suggestions,
+which are as follows:
+“B. DIRECTIONS TO NBCC FOR IMPLEMENTATION
+OF CONSTRUCTION PROPOSAL AND MECHANISM
+FOR REPAYMENT OF DUES TO STAKEHOLDERS:
+1) NBCC may be allowed to take over the role as PMC
+for the projects as per the TOR modified as per the
+Approval Order.
+2) NBCC may obtain binding proposals for interim
+funding within 2 months from the date of Approval
+Order for the approval of Apex Court Committee.
+3) NBCC may complete the survey and due diligence
+exercise mentioned in Para 1.4 (b) of NBCC TOR and
+prepare project wise monthly/ quarterly cash flows
+within 3 months from the date of Approval Order for
+the approval of Project-wise Court Committee.
+4) For the purpose of preparation of cash flows, NBCC
+may propose utilization of 70% of project cash flows for
+the purpose of all expenses that need to be incurred for
+the purpose of completion of the project including NBCC
+fee, selling and marketing costs as well as the
+monitoring costs. In cases where 70% of projected cash
+flows are insufficient to complete the construction of the
+project, such additional percentage of cash flows may
+be allocated in priority which is necessary to ensure
+meeting of all projected expenses of the project subject
+to the approval of the project-wise court committee.
+5) With respect to 30 percent of projected cash flows, or
+such other amount available for allocation after
+
+[PAGE 11]
+11
+covering all project costs, the same may be allocated in
+the following order of priority: -
+i. Meeting any corporate, legal and all other expenses
+which may not be allocated specific to the project in
+order to keep the Corporate Debtor as a going concern.
+ii. Meeting any outstanding CIRP expenses pertaining
+to the project which is already incurred and not yet
+paid.
+iii. Meeting the proportionate payment of principal
+dues of financial creditors, land authorities as well as
+other creditors of the project admitted as on the
+insolvency commencement date. (Such repayments
+may start only after first 6 months of start of
+construction of the project by NBCC and subject to
+feasibility and viability of the same, keeping in mind
+the priority for completion of construction of project).
+iv. Meeting any construction deficit of other projects as
+decided by Apex Court Committee
+v. Any other purpose as decided by the project-wise
+court committee.
+6) In the event, after completion of due diligence and
+detailed cash flow submission to the Project Wise Court
+Committee, NBCC expresses its inability to complete a
+particular project within the stipulated timelines or
+observe significant deviations from the projected
+surplus, then the Apex Court Committee shall have the
+right to take the decision to appoint any alternate
+PMC/Co-developer subject to approval of the Apex
+Court Committee and this Hon’ble Appellate Tribunal.
+7) Once NBCC project wise cash flow is approved by
+the Project Wise Court Committee, NBCC shall be
+responsible for completion of projects within the
+stipulated timelines and as per the projected cash
+flows submitted to the project wise court committee. In
+case due to market factors or any other reasons, there
+are any deviation in the projected receivables or
+expenses, NBCC shall immediately update the Project
+Wise Court Committee by submitting a revised cash
+flow projections for the approval of the Apex Court
+Committee.
+8) NBCC shall be required to submit monthly updates
+on construction and sales activities of the project as
+well as detailed cash flow for the perusal of the court
+committee as well as other stakeholders of the project
+
+[PAGE 12]
+12
+as per para 9(vii) of NBCC TOR dated November 11,
+2024.”
+80.
+As noted above in some Projects, surplus receivables
+are reflected and some Project. Their receivables are in
+minus, we are of the view that Apex Court Committee may
+be empowered to take decision for transferring surplus
+amount from one Project to other Project after obtaining
+necessary
+detail
+from
+concerned
+project
+wise
+Court
+Committee. We have already indicated that a project wise
+account be maintained in which all receivables from the
+concerned Project shall be deposited and the account can be
+debited only with the approval of the project wise Court
+Committee. All project wise accounts which are separately
+maintained shall be operated by with a joint signatory of the
+IRP and one of the representatives of the NBCC. As
+nominated by the NBCC a separate account shall also be
+maintained in the name of NBCC (I) Limited – Supertech
+unfinished Project as suggested by the NBCC, which
+account shall be operated and managed by NBCC through
+its authorised signatories with joint signatories of the IRP.
+All funding and finance received from the finance obtained
+by the NBCC for completion of the Project shall be credited
+in the above designated account, which account shall be
+operated under the decision of the Apex Court Committee by
+authorised signatory of the NBCC and the IRP. NBCC as
+suggested shall obtain necessary finance of Rs. 100 Crores
+and deposited in the said designated account to be spent as
+per decision of the Apex Court Committee for carrying out
+the Project. Suggestion as given under heading B by the IRP
+are approved subject to modification as indicated above.
+The suggestions with regard to under heading C which are
+as follows:
+“C. DIRECTIONS TO VARIOUS STAKEHOLDERS VIZ.
+ALLOTTEES,
+LENDERS,
+LAND
+AUTHORITIES,
+PROMOTERS
+1) Directions for Allottees with respect
+to
+the
+applications mentioned in Schedule A:
+i. The allottees may not be required to make
+incremental payments over and above the terms of the
+Builder Buyer Agreement. However, the allottees may
+be required to make the payments as per the revised
+payment schedule or projected cash flow submitted by
+NBCC and approved by the Apex Court Committee or
+Project-Wise Court Committee as the case may be.
+ii. All and any claims of "assured return," "Subvention
+Scheme," or "Delay Penalty" or any other contracted
+return to any allottee of any Projects, whether accrued
+
+[PAGE 13]
+13
+or payable only as on the insolvency commencement
+date, should be considered only after completion of all
+the liabilities and subject to the availability of Surplus
+and in proportion to such outstanding interest/penalty
+etc. of other stakeholders as determined by Project-
+Wise Court Committee or Apex Court Committee.
+iii. Repayment of dues in relation to cancelled units
+may be decided by the project-wise court committee or
+Apex Court Committee as per para A(1)(h) read with
+para B(5)(iii) after submission of project-wise cash
+flows by NBCC.
+iv. Homebuyers should not be allowed to voluntarily
+cancel their allotments and seek refunds of the monies
+paid by them.
+2) Directions for financial institutions in respect of the
+applications mentioned in schedule A:
+i. Once the Apex Court Committee has approved any
+decision with respect to terms of Interim funding or any
+other matter, the financial institution, who may have
+specific charge or security interest on any specific asset
+or cash flow of the corporate debtor, shall, immediately
+upon request, provide the No Objection Certificate or
+any other approvals or release of charge etc., which
+may be required in order to implement such decision of
+the Apex Court Committee.
+ii. Once the Project-wise Court committee has approved
+any decision with respect to sale of inventory or
+utilization of cash flows or any other agenda as
+enumerated above, any specific lender or land owner
+or land authority or any other stakeholder who may
+have any charge or security interest in the asset or
+cash flows of the project shall, immediately upon
+request, provide the No Objection Certificate or any
+other approvals or release of charge etc., which may be
+required to implement the decision of the Project-
+wise Court Committee.”
+81. IRP has also made suggestion under C 3 as direction for
+land authorities and other statutory bodies in respect to the
+Affidavit, which are as follows:
+“3) Directions for Land Authorities and other Statutory
+bodies
+in
+respect
+of
+the
+applications/affidavits
+mentioned in Schedule A:
+i. The Hon'ble Appellate Tribunal may kindly direct the
+Land Authorities to extend full cooperation to NBCC for
+
+[PAGE 14]
+14
+obtaining requisite approvals necessary for the timely
+completion of the project.
+ii. NBCC may obtain requisite permits / approvals from
+statutory bodies in the name of Supertech Limited, if
+any which are key for commencement of works. In the
+event, due to delays or any other reason, the approvals
+have expired, then the respective authorities must be
+directed to provide the requisite approvals upon
+submission of necessary documents, as per the original
+terms of approvals expeditiously. In the event, the
+respective
+land
+authorities
+do
+not
+provide
+the
+necessary approvals within a period of one month or
+are unable to provide such approvals due to any
+changes in the laws under which these bodies are
+governed, then such layout plans, drawings etc in
+respect of already launched phases of the project may
+be deemed to be approved in the interest of completion
+of projects. The Hon’ble Supreme Court in the matter of
+Bikram Chatterji & Ors Vs Union of India, it was held
+that interest of thousands of allottees is paramount
+and will take precedence over dues to be recovered by
+NOIDA and GNIDA along with financial institutions.
+iii. Grant necessary approvals, including Occupancy
+Certificate
+and/or
+Completion
+Certificate,
+upon
+completion of construction in each tower. Considering
+the varied range of progress in several towers in the
+project,
+tower-wise
+issuance
+of
+an
+Occupancy
+Certificate and Completion Certificate upon tower
+completion is prayed for without linking it to repayment
+of dues towards the lad authorities as directed by the
+Hon’ble
+Supreme
+in
+the
+matter
+of
+Lotus
+300
+Association, wherein land authority being, NOIDA was
+directed to be pro active in documentation and
+complete the registration process expeditiously without
+any requirement of unwarranted documents from the
+allottees.”
+82. Directions for Promoters are captured in C 4, which are
+as follows:
+“4)
+Directions
+for
+Promoters
+in
+respect
+of
+the
+applications mentioned in Schedule A:The Hon'ble
+Appellate Tribunal may direct the Promoters to:
+i. Extend full support for the execution and completion
+of pending project obligations.
+ii. Act as observers and offer technical expertise
+wherever required to facilitate project completion in
+order to effectively implement the NBCC’s ToR.”
+
+[PAGE 15]
+15
+83. Directions 3 as suggested are approved, which shall with
+respect to all 16 Projects. Directions contained in C 3 are
+approved. We have noticed various objections made by the
+Homebuyers other Stakeholders, including Landowners
+regarding different Projects which have been noticed in
+Schedule A of the process note submitted by the IRP
+objection which have been tabulated in the Status Report
+submitted by the IRP dated 20.11.2024. The project wise
+Court Committee having been constituted, it shall be open
+for the concerned Stakeholders to submit its grievance
+before the project wise Court Committee, which Court
+Committee shall consider and take appropriate decision and
+communicate the same to the Stakeholders. Stakeholders
+are at liberty to bring decision of the project wise Court
+Committee for review before the Apex Court Committee. We,
+thus are of the view that consideration of various objections
+raised by the Stakeholders, including Homebuyers with
+respect to respective Projects need no consideration at this
+stage. We also noticed that NBCC in IA 6557/2024 in its
+terms of reference has proposed a fee of 8% as PMC fee. 8%
+on the actual cost of work and 1% for the sale value of the
+Project is marketing fee. We are of the view that 8% on the
+actual cost of work PMC fee shall also include the marketing
+fee and no separate fee as marketing fee shall be chargeable
+by the NBCC.
+84. We also emphasise and remind the NBCC that NBCC,
+although is taking the Project as Project Management
+Consultant, however, looking to the special features of the
+Project and the plight of Homebuyers who are waiting for
+their units for last several years, NBCC shall not treat its
+obligations only as a Project Management Consultant and
+shall go an extra mile to ensure that Project is completed
+and all unnecessary and extra cost be avoided due to limited
+resources of fund for completion of the Project. NBCC has to
+play role not only Project Management Consultant, but an
+entity who is entrusted to monitor completion of the entire
+Project. The term of reference as contained in IA 6557/2024
+as modified by revised proposal dated 11.11.2024 shall
+stand approved subject to directions and modifications as
+contained in this Order.
+85. We allow the IA 6557/2024 to undertake the 16 Projects
+as listed in Annexure A (except Doon Square). All necessary
+steps be undertaken by the NBCC. We dispose of IA
+6557/2024, accordingly with following directions:
+(1) Under TOR, paragraph 1.4 (c) Note; the Condition-I
+is satisfied on passing of this order. Conditions II, II
+V, VI be completed by all concern on or before
+31.03.2025. The NBCC shall start process of award of
+work as per Condition-IV, prior to 31.03.2025 and
+complete the award of contract within one month
+
+[PAGE 16]
+16
+thereafter and construction shall commence w.e.f.
+01.05.2025.
+(2) The statutory Authorities whose sanction is
+required for renewal/ grant of building plan and other
+necessary sanctions, registration/ renewal of Projects
+state, consider and communicate their decisions
+within 30 days of IRP making requisite applications.
+(3) The NBCC (I) Ltd. cannot be allowed exemption
+from
+complying
+statutory
+requirements
+under
+different statutes regulating building regulations and
+RERA Act 2016.
+(4) The Homebuyers/ commercial unit holders, who
+have already been allotted units by the Corporate
+Debtor, which allotments are subsisting, shall not be
+subjected to any escalation of cost, except the dues
+which are required to be paid by them as per Builder
+Buyers Agreements.
+(5) The purpose of NBCC for distribution of surplus as
+contained in Paragraph a(x) of TOR is not approved.
+Repayment of land Authorities, Banks and Financial
+Institutions shall simultaneously begin as per the
+date and manner decided by Apex Court Committee.
+The balance amount in a Project apart from 70%
+amount which is to be used for construction, may be
+used for repayment. The payment for land cost can
+also be debited from 70% amount as per Section
+4(2)(D) of RERA Act and as per the decision of the
+Apex Court Committee. Any proposal for repayment of
+land Authorities, Banks and Financial Institutions
+emanating from the Project Court Committee shall
+require approval of Apex Court Committee for
+implementation.
+(6) We direct for constitution of an Apex Court
+Committee and Project-wise Court Committee for each
+Project as detailed in Paragraph 78 of this order. The
+above Court Committees be constituted in the manner
+as noted in paragraph 78 and shall perform their
+functions as noted in paragraph 78. In the Project-
+wise Court Committee, NBCC (I) Ltd. shall also
+nominate one Member in each Project-wise Court
+Committee, who will be added in that Committee.
+After completion of constitution of Apex Court
+Committee and Project-wise Court Committee, IRP
+shall upload the constitution of Committees on the
+website as early as possible. The suggestions of IRP
+regarding constitution and functioning of above
+Committee is approved, subject to modification as
+noted above.
+
+[PAGE 17]
+17
+(7) The suggestions of IRP under Heading “B.
+Directions
+to
+NBCC
+for
+Implementation
+of
+construction Proposal and Mechanism for repayment
+of dues of stakeholders” as noted above in paragraph
+79 of the order are approved.
+(8) The Apex Court Committee is empowered to take
+decision for transferring surplus amount from one
+Project to other Project after obtaining necessary
+details from concerned Project-wise Court Committee.
+(9) Project-wise account be maintained in which all
+receivables from the concerned Project be deposited
+and account can be debited only with the approval of
+Project-wise Committee/ Apex Court Committee. The
+accounts shall be operated by joint signatories, i.e.
+IRP and one nominee of NBCC (I) Ltd.
+(10) A separate account, in the name of “NBCC (I) Ltd.
+– Supertech Unfinished Project” as suggested by
+NBCC shall be opened and operated by NBCC
+through its authorised signatories with joint signature
+of IRP. All funding and finance received by the NBCC/
+Apex Court Committee for completion of the Project
+shall be credited in the above designated account. The
+above account shall be under direction and control of
+Apex Court Committee.
+(11) NBCC shall obtain necessary finance of Rs.100
+crores as suggested and deposit in the above
+designated account to be spent as per decision of
+Apex Court Committee for carrying out the Project.
+(12) In reference to TOR as suggested by NBCC
+regarding its fee of 8% as PMC Fee, we are of the view
+that marketing fee of 1% as suggested shall be
+included in 8% fee and no separate marketing fee
+shall be chargeable.
+(13) Directions sought for by IRP as suggested under
+Heading “C. Directions to various stakeholders,
+Lenders, Land Authorities, Promoters” are approved
+insofar as “C.1, C.2, C.3, C.4” are concerned (As
+noted in paragraphs 80, 81 and 82 of this order).
+(14) The TOR as contained in IA No.6557 of 2024
+(NBCC (I) Ltd. Application) as modified by revised
+proposal dated 11.11.2024 stand approved, subject to
+directions and modifications as contained in this
+order.”
+
+[PAGE 18]
+18
+(vi)
+The order of this Tribunal dated 12.12.2024 was challenged
+in Civil Appeal No.2626 of 2025 - Apex Heights Pvt. Ltd. vs.
+Ram Kishor Arora and Anr. and several other Appeals, which
+included
+Appeals
+by
+Suspended
+Director,
+Operational
+Creditors and Financial Creditors, which Appeals came to be
+decided by the Hon’ble Supreme Court by judgment dated
+05.02.2026. The Hon’ble Supreme Court noted the
+submissions of the parties and also extracted various
+directions contained in Paragraph 85 of the order. The
+Hon’ble Supreme Court in Paragraph 15 of the judgment has
+observed that the primary consideration before the NCLAT
+and Hon’ble Supreme Court is to protect the interest of home
+buyers and ensure they can secure a modicum of shelter
+comprising the residential unit. It was further observed that
+when central consideration is the interest of the home buyers,
+the claim of other secured creditors, Operational Creditors or
+the land owners including Noida, Greater Noida and Yamuna
+Express will have to be, for the time being considered
+secondary. Paragraphs 15 and 18 of the Hon’ble Supreme
+Court order are as follows:
+“15. The primary consideration before the NCLAT and this
+Court is to protect the interests of home buyers and ensure
+they can secure a modicum of shelter comprising the
+residential unit for which they have been eagerly waiting for
+more than two decades. Their hardearned money has been
+emptied into the coffers of M/s. Supertech Limited, a
+substantial part of which appears to have unfortunately
+been misutilised. If that is the central consideration, it goes
+
+[PAGE 19]
+19
+without saying that the other competing claims of secured
+creditors, operational creditors or the land owners, including
+Noida, Greater Noida, and Yamuna Expressway, will have to
+be, for the time being, considered secondary. Once the
+predominantly completed projects, namely residential units,
+are handed over to each allottee along with all basic
+amenities such as sewage, water supply, electricity, road
+access, parks, and other facilities as committed by the
+developer, the surplus amount can then be distributed
+among the other claimants using the pari passu principle or
+any other mechanism deemed fair and equitable by the
+NCLAT/NCLT, as the case may be. Such a recourse adopted
+by the NCLAT does not warrant any interference by this
+Court, especially when any equitable, fair, and transparent
+judicial order, which rightly deserves protection under the
+umbrella of Article 142 of the Constitution, is in place, given
+the peculiar facts and circumstances of this case.
+18. At this stage, we may hasten to add that the completion
+of residential projects and entrustment of the allotted units
+to the home buyers will not cause any prejudice to the
+claims
+of
+Noida
+Authority,
+Greater
+Noida
+Industrial
+Development Authority, Yamuna Expressway Industrial
+Development Authority or any other housing authority or
+even the creditors, including the operational creditors. Those
+claims will be determined by the Tribunal in due course,
+taking into account the prevailing circumstances, and all
+claims of the home buyers will be settled.
+(vii)
+The Hon’ble Supreme Court by the order dated 05.02.2026,
+upheld the impugned order of the NCLAT dated 12.12.2024,
+except “to the extent it has been modified/ clarified”. The
+Hon’ble Supreme Court in its order dated 05.02.2026 for
+smooth compliance of the directions issued by the NCLAT
+along with those directions issued by the Hon’ble Supreme
+Court, with a view to assist the Tribunal besides monitoring/
+supervisions of the ongoing Projects, the Court appointed
+Shri Rajiv Jain, learned Senior Counsel along with Shri
+Amarendra Kumar, learned Counsel as Amicus Curiae to
+assist
+the
+Tribunal
+and
+submit
+their
+valuable
+
+[PAGE 20]
+20
+recommendations. In Paragraph 20 of the judgment, the
+Hon’ble Supreme Court directed following:
+“20. In order for smooth compliance of the directions issued
+by
+the
+NCLAT
+along
+with
+those
+directions
+issued
+hereinabove and with a view to assist the Tribunal besides
+monitoring/supervision of the ongoing projects, we have
+requested Mr. Rajiv Jain, learned senior counsel along with
+Mr. Amarendra Kumar, learned counsel (Mob.- 8797870797)
+to assist the Tribunal as Amicus Curiae and submit their
+valuable recommendations/opinions to the Apex Committee
+or the Tribunal, as the case may be. In the event any other
+impediment arises in compliance with the directions, the
+learned Amicus Curiae shall be at liberty to seek further
+clarification from this Court.”
+(viii)
+The Interim Resolution Professional (“IRP”), who was
+appointed by the Adjudicating Authority by order dated
+25.03.2022, came to be suspended by the IBBI vide order
+dated 30.03.2026. Registration of IRP was suspended for a
+period of two years, effective after 30 days. Learned Amicus
+Curiae immediately filed IA No.1235 of 2026 before the
+Hon’ble Supreme Court.
+(ix)
+In Paragraph 4 of the application following was stated:
+“4. That a grave and unforeseen legal impediment has now
+arisen threatening the execution of this Hon'ble Court's
+mandate. The Disciplinary Committee of the Insolvency and
+Bankruptcy Board of India (IBBI), vide its order dated
+30.03.2026, has suspended the registration of the Interim
+Resolution Professional (IRP), Mr. Hitesh Goel, for a period of
+two years, effective after 30 days. Because the IRP was the
+ex-officio Chairman of the Apex Court Committee and a joint
+signatory
+for
+all
+project-wise
+escrow
+accounts,
+this
+suspension may create an immediate operational paralysis,
+completely
+halting
+the
+financial
+and
+administrative
+machinery.”
+
+[PAGE 21]
+21
+(x)
+The Amicus Curiae also submitted a Report dated 06.04.2026
+before the Hon’ble Supreme Court. The application filed by
+Ld. Amicus Curiae being IA No.1235 of 2026 came for
+consideration before the Hon’ble Supreme Court. The Hon’ble
+Supreme Court in its order dated 10.04.2026 noted the
+suspension of IRP. The Hon’ble Supreme Court also noticed
+that there are thirty Projects undertaken by the Company
+itself, of which 16 have been entrusted to NBCC for
+completion by way of judgment dated 12.12.2024 and order
+dated 05.02.2026 of the Hon’ble Supreme Court. In
+Paragraph 5 of the order dated 10.04.2026, following has
+been noticed by the Hon’ble Supreme Court
+“5. At this juncture, we hasten to note that there are
+approximately 30 projects undertaken by the company
+in question, out of which 16 have been entrusted to
+NBCC for completion, by way of the judgement dated
+12.12.2024 and order dated 05.02.2026. In our
+considered opinion, the issues relating to the remaining
+projects also ought to be administered within the same
+court
+monitored
+framework.
+Accordingly,
+the
+underlying policy with respect to all the projects,
+whether fully completed, substantially or partially
+completed, or which are lying incomplete and inactive,
+including those which have been handed over to NBCC,
+shall be determined by a common authority that may
+be set up by this Court.”
+(xi)
+The Hon’ble Supreme Court thereafter took the matter on
+13.04.2026 and thereafter passed order dated 20.04.2026 in
+Miscellaneous Application No.1235 of 2026. In Paragraphs 2,
+3 and 4 of the order of the Hon’ble Supreme Court, necessary
+
+[PAGE 22]
+22
+directions have been issued to this Tribunal. Paragraphs 2, 3
+4 provide as follows:
+“2. In this view of the matter, we request the learned NCLAT
+to consider the issue as to whether or not a Court
+constituted Committee should be appointed for managing
+the affairs of all the projects of Supertech Ltd. and/or
+whether such arrangement should be allowed to continue
+only in respect of the 16 projects, which has been entrusted
+to NBCC.
+3. Since we have not expressed any opinion on merits in this
+regard, liberty is granted to the parties to raise their
+respective contentions before the learned NCLAT. The
+landowning Authorities, like Greater Noida Industrial
+Development Authority and Yamuna Expressway Industrial
+Development Authority, may also be impleaded and heard by
+the learned NCLAT.
+4. Since the ongoing 16 projects entrusted to NBCC are also
+facing a stalemate after the suspension of IRP, it goes
+without saying that the matter involves some urgency. We,
+therefore, request the learned NCLAT to hear the matter,
+subject to other prioritised matters, on the date fixed, i.e.,
+24.04.2026. Learned counsel for the parties have also
+assured to extend full cooperation to the NCLAT for the
+purpose of hearing.”
+3.
+As noted above, in view of the aforesaid order dated 20.04.2026, we
+proceeded to hear the parties including Land Authorities – Noida,
+Greater Noida and Yamuna Express Industrial Development Authority
+(“YEIDA”), Consortium of Lenders, Authorized Representatives of the
+home buyers of 16 Projects (which were handed over to the NBCC) as well
+as home buyers of other Projects (which are not handed over to NBCC).
+Now we proceed to notice submissions of learned Amicus Curiae and
+other learned Counsel for the parties.
+4.
+Learned Amicus Curiae contended that in view of the suspension of
+the IRP on 30.03.2026, which has come into force with effect from
+
+[PAGE 23]
+23
+29.04.2026, the entire process has come to a stand still. Learned Amicus
+Curiae has made various suggestions with regard to reconstitution of the
+Apex Court Committee and Project wise Court Committee as was
+constituted by the order dated 12.12.2024 by this Tribunal. Learned
+Amicus Curiae submits that NBCC, who has been entrusted construction
+of 16 Projects need not be made part of the Committee, since it is a
+stakeholder and its bills shall come for consideration before the Apex
+Committee. Learned Amicus Curiae further submitted that lenders of the
+CD of its various Projects need not be included in the Apex Court
+Committee. Submission of Amicus Curiae is that no stakeholder should
+be included in the Apex Court Committee. It is submitted that the Apex
+Court Committee be given full authority to appoint any other individual/
+officials to assist it with legal immunity against all actions of the Apex
+Court Committee. It is submitted that as per the Hon’ble Supreme Court
+order, the Court appointed Committee be constituted. Learned Amicus
+Curiae has referred to consolidated suggestions at Pages 237 to 257
+(Report of Apex Court Committee for 16 Project or for the whole
+Company). Shri Rajiv Jain, learned Amicus Curiae further submitted that
+Apex Court Committee should also be permitted to monitor and take
+control of all other Projects of the CD, apart from 16 Projects, which have
+been handed over to the NBCC. It is submitted that Apex Court
+Committee may be allowed to work as Committee of Creditors/ Board of
+Directors of the Company with regard to registration of units in favour of
+unit holders, where required, the Apex Court Committee may authorize
+
+[PAGE 24]
+24
+any personnel. It is submitted that this Court may nominate a Chairman
+of the Committee. It is submitted that Promoters be kept away from the
+process and should not cause any interference.
+5.
+We have also heard learned Counsel appearing for Noida Authority.
+Learned Counsel for the Noida Authority has referred to three Projects
+namely – Supertech Emeralds Court, 34 Pavilion and Shopprix Mall.
+Learned Counsel submits that with respect to Supertech Emeralds Court,
+no dues are outstanding as on date. It was further submitted that the
+said Project stand fully completed and the same has already been handed
+over to the Apartment Owners Association. With respect to 34 Pavilion, it
+is submitted that the premium amount towards plot has been fully paid.
+Certain dues towards time extension charges remain outstanding, water
+dues are pending, Occupancy Certificate for two towers comprising 134
+units was issued on 28.09.2012. Occupancy Certificate for one remaining
+Tower comprising 94 units is still pending. With respect to Shopprix Mall,
+it is submitted that all installment payable towards the plot have been
+duly paid. Lease rent is due. Water dues are unpaid. Learned Counsel
+submits that Nodia is placing status with regard to Projects which are not
+part of NBCC.
+6.
+Learned Counsel for the YEIDA submits that YEIDA has allotted
+4,00,000 sq. mtrs. land to the CD. Lease with regard to area of 38,270
+sq. mtrs. has been cancelled on 28.02.2023. Learned Counsel submits
+that the said land with respect to lease in favour of CD having been
+
+[PAGE 25]
+25
+cancelled, it should be excluded from any consideration. It is submitted
+that YEIDA itself is ready and willing to complete the Project lying therein.
+It is further submitted that in the Apex Court Committee one
+Representative of the YEIDA should also be included. YEIDA support the
+rehabilitation and timely completion of the Project Upcountry.
+7.
+Learned Counsel appearing for the Greater Noida submits that dues
+of Greater Noida are about more than Rs.27,000 crores. It is concerned
+with five Projects, Sport 2 in Eco Village 1, Eco Village 2, and Eco Village
+3 and Supertech Zar. It is submitted that Greater Noida is secured
+creditor and it should also be included in the Project Court Committee.
+8.
+Shri Sunil Fernandes, learned Senior Counsel appearing for
+Consortium of Bank submits that Joint Lender Forum supports that
+arrangement should be allowed to continue only in respect of the 16
+Projects, which have been entrusted to NBCC, which arrangement have
+been confirmed by the Hon’ble Supreme Court on 05.02.2026. The 16
+NBCC Projects should remain insulated and prioritized within the existing
+framework and any extension to additional Project should be allocated to
+separate committee. It is further submitted that the Joint Lender Forum
+having direct exposure to the CD, they should be allowed to be part of the
+Apex Court Committee and the recommendation of the learned Amicus
+Curiae suggesting minimal participation of lenders in the Apex Committee
+is legally untenable as the Financial Creditor representation is
+indispensable and exclusion is against the spirit of IBC.
+
+[PAGE 26]
+26
+9.
+Shri Arvind Nayyar, learned Senior Counsel appearing for the L&T
+Finance Ltd. and IFCI Ltd. submits that L&T Finance has invested huge
+money and their inclusion is in accordance with the IBC. Declining of
+any representative of Financial Creditor cannot be accepted. The
+composition of Apex Court Committee is not open for reconsideration,
+when the order of this Tribunal dated 12.12.2024 has already been
+upheld by the Hon’ble Supreme Court on 05.02.2026. With respect of
+IFCI Ltd., Shri Arvind Nayyar submits that IFCI Ltd. is a secured
+Financial Creditor of the CD to the tune of Rs.250 crores. IFCI Ltd. has
+exclusively security interest over a completed Project of the CD namely –
+Shopprix Mall and Hyphen Hotel. Both the Projects are completed and
+functioning Projects, which can be segregated from rest of the Projects
+and be dealt with by constituting a separate and independent Committee
+of Creditors. For completed Projects, there may not be any requirement of
+creation of any Committee. This Tribunal may direct any nominated
+Member to discharge functions of IRP.
+10.
+Shri Sumesh Dhawan, learned Counsel appearing for ACRE
+submits that ARCE is a charge holder and should remain in the Project
+wise Court Committee. It is further submitted that it should be clarified
+that who shall be the Authority to decide the claim rejections.
+11.
+Learned Counsel for Authorised Representative of the home buyers
+for 16 NBCC Projects submits that one Apex Court Committee should
+take control of all NBCC Projects. It is submitted that home buyers have
+
+[PAGE 27]
+27
+no visibility as to what is happening. There should be no account
+operation. The home buyers should be Member of the Project wise
+Committee. It is submitted on behalf of other home buyers Association
+that terms and conditions of order dated 12.12.2024 should not be
+changed and the timeline as was directed should be maintained.
+12.
+Shri Ritin Rai, learned Senior Counsel appearing for NBCC submits
+that in the Committee constituted under order dated 12.12.2024, NBCC
+is Member of both, Apex Court Committee and Project wise Management
+Committee and it should remain in both the Committees, otherwise there
+will be coordination issues. The change should only be with respect to
+IRP. There should be no change in the Committee. Learned Counsel for
+the NBCC submits that they have also filed an IA (IA No.2928 of 2026),
+seeking certain directions, which also needs to be heard.
+13.
+Learned Counsel for the Bank of Baroda and Union Bank of India
+has also been heard.
+14.
+Shri Abhijeet Sinha, learned Senior Counsel appearing for the
+Appellant opposing the submissions of learned Amicus Curiae submits
+that order dated 12.12.2024 having been upheld by the Hon’ble Supreme
+Court vide its judgment dated 05.02.2026, only modification is required
+as has been noticed in the order of the Hon’ble Supreme Court. Present
+is not a proceeding for review of the earlier directions dated 12.12.2024,
+only IRP has been suspended, hence, arrangements shall be made to
+appoint the IRP. Learned Counsel for the Appellant submits that the
+
+[PAGE 28]
+28
+Apex Court Committee should be headed by a person of integrity and this
+Tribunal may consider appointing a retired Judge of the Hon’ble Supreme
+Court to be Chairman of the Apex Court Committee. It is submitted that
+Apex Court Committee should be confined to only 16 Projects, which have
+been handed over to the NBCC. It is submitted that apart from 16
+Project, which are dealt by NBCC, there are several completed Projects,
+which need not be again reopened and with respect to several completed
+Projects, the accounts have also been closed. The Apex Court Committee
+cannot be asked to take control of all completed Projects, which Projects
+need not be touched. With the completed Projects, there is no role of the
+Apex Court Committee. Model suggested in the recommendation dated
+12.12.2024 is cost effective for stressed assets. The submissions of the
+learned Counsel for Amicus Curiae can be sufficiently addressed within
+the framework of the order dated 12.12.2024. The Hon’ble Supreme
+Court has appointed the Amicus Curiae to assist and make suggestions
+with regard to implementation of the order passed by this Tribunal and
+the Hon’ble Supreme Court. Any recommendation, which is not in accord
+with the order dated 12.12.2024 and the order dated 05.02.2026 of the
+Hon’ble Supreme Court, need not be accepted. The Promoters are in no
+manner interfering with any process. The Promoters have been only
+required to give inputs and technical assistance to the NBCC.
+15.
+We have head learned Counsel for the parties and perused the
+record.
+
+[PAGE 29]
+29
+16.
+As noted above, the Hon’ble Supreme Court vide its order dated
+20.04.2026 directed this Tribunal to consider:
+(1) Whether or not a Court constituted Committee should be
+appointed for managing the affairs of all the projects of
+Supertech Ltd.; and/or
+(2) Whether such arrangement should be allowed to continue only
+in respect of the 16 projects, which have been entrusted to
+NBCC.
+17.
+The order dated 20.04.2026 remitted the matter to this Tribunal
+with respect to only above two aspects. Further, in Paragraph 4 of the
+order the Hon’ble Supreme Court has noted the stalemate due to
+suspension of IRP.
+18.
+As noted above, the suspension of IRP was brought into by notice of
+the Hon’ble Supreme Court by an application IA No.1235 of 2026 filed on
+06.04.2026 by learned Amicus Curiae and the primary concern is to take
+a decision as to how the completion of 16 Projects, which have been
+handed over to NBCC and other non-16 Projects need to be proceeded
+with. The order dated 12.12.2024 passed by this Tribunal was upheld
+except to the extent, it was modified and clarified in the order of the
+Hon’ble Supreme Court, which is clear from Paragraph 22 of the order of
+the Hon’ble Supreme Court, which is as follows:
+“22. In view of the foregoing discussion, we do not find any merit in
+these appeals, which are accordingly dismissed. The impugned
+
+[PAGE 30]
+30
+order of the NCLAT is upheld, except to the extent it has been
+modified/clarified hereinabove. Ordered accordingly.”
+19.
+The modification of the order dated 12.12.2024 by this Tribunal
+are contained in Paragraph 15 of the order of the Hon’ble Supreme Court,
+where it has been clearly mentioned that claims of secured creditors,
+Operational Creditor or the land owners, including Noida, Greater Noida,
+and Yamuna Expressway, will have to be, for the time being, considered
+secondary. We, thus, have to identify the directions contained in order
+dated 12.12.2024, which need modification as per the order of the Hon’ble
+Supreme Court dated 05.02.2026. We are of the view that the Apex Court
+Committee needs to be made functional by appointing a Chairman of the
+Committee. The IRP having already not in place and as per the direction
+of the Hon’ble Supreme Court he has to distance himself from the Project,
+Accepting the submissions of learned Counsel Amicus Curiae and learned
+Counsel appearing for various parties, we are of the view that a former
+Judge of the Hon’ble Supreme Court be appointed as Chairman of the
+Apex Court Committee, who shall be entitled to appoint personnel/
+officials to assist the Apex Court Committee in discharge of its function.
+We nominate Justice Krishna Murari, former Judge of the Hon’ble
+Supreme Court as Chairman of the Apex Court Committee.
+20.
+The IRP having been suspended and not in place, we are of the view
+that the NCLT be requested to appoint an IRP having sufficient experience
+in resolving real estate Projects, looking to the magnitude of the real
+estate Projects, which are with the Company, including 16 Projects, which
+
+[PAGE 31]
+31
+have been handed over to the NBCC. We permit the parties to place copy
+of this order before the NCLT for making appointment of the IRP. The IRP
+so appointed, shall be the Secretary of the Apex Court Committee and
+shall be the Chairman of other Project Court Committee.
+21.
+Till the IRP is in place, the Apex Court Committee may nominate/
+authorize any of officials/ personnel to discharge day-to-day duties of IRP.
+22.
+The Apex Court Committee may also authorize/ nominate
+personnel to operate bank accounts of Project wise Court Committee and
+the account opened in the name of “NBCC Ltd. – Supertech unfinished
+Projects”.
+23.
+Learned Amicus Curiae has suggested for exclusion of NBCC
+representative from Apex Court Committee. It is also submitted by
+learned Amicus Curiae that representatives of Lenders/ Financial
+Institutions be also excluded from the Apex Court Committee. Learned
+Counsel for the NBCC opposing the submission of learned Amicus Curiea
+contended that NBCC has undertaken to construct 16 Projects as per
+terms of reference noticed in order dated 12.12.2024 of this Tribunal and
+exclusion of NBCC from Apex Court Committee, which has to take various
+decisions regarding 16 NBCC Projects, shall raise issues regarding
+coordination.
+24.
+We have noticed the judgment of the Hon’ble Supreme Court dated
+05.02.2024, which has clearly noticed that primary consideration before
+NCLAT and Supreme Court is to protect the interests of home buyers and
+
+[PAGE 32]
+32
+ensure a modicum of shelter comprising the residential unit for which
+they are eagerly waiting for more than two decades. The 16 Projects of
+the CD to be constructed by NBCC were to be constructed on war footing.
+Primary objective of the Apex Court Committee shall be to ensure
+completion of 16 Projects at the earliest and extend all support system
+towards completion. At this stage excluding the NBCC from the Apex
+Court Committee is neither practical nor necessary. The Amicus Curiae
+has flagged the issue that Apex Court Committee shall be considering the
+bills of NBCC, which have to be cleared. For considering the bills of
+NBCC, the presence of representative may in some cases be beneficial to
+get immediate inputs and in case it is found by Chairman of the Apex
+Court Committee that NBCC representative need not be part of
+deliberations or decisions, the Chairman can always so direct. The
+apprehension of Amicus Curiae as noted above, is thus unfounded. We,
+thus, found substance in the submissions of learned Counsel for the
+NBCC that NBCC cannot be excluded from the Apex Court Committee.
+25.
+Learned Amicus Curiae also submitted that nominee of Financial
+Institutions be also excluded from the Apex Court Committee, which
+submission has been opposed not only by learned Counsel for the
+Lenders/ Financial Institutions but also by Authorized Representatives of
+the home buyers and learned Counsel for the Appellant. Funding and
+finance for completion of all 15 NBCC Projects is one of the core factors,
+which will play major role in achieving the object. The presence of
+representative of Financial Institutions in the Apex Court Committee shall
+
+[PAGE 33]
+33
+not be any impediment in decision making process by Apex Court
+Committee, rather it will be beneficial for the Apex Court Committee
+regarding inputs and support, which can be given by representatives of
+Financial Institutions. We, thus, are of the view that submission of
+learned Amicus Curiae that representatives of Financial Institutions be
+distanced from the Apex Court Committee, cannot be accepted.
+26.
+Learned Amicus Curiae also submitted that there should be experts
+regarding financial matter and technical matters regarding real estate
+Project construction. There can be no two opinions about the above
+submissions, however, when we notice the composition of the Apex Court
+Committee as noted in Paragraph 78 of the order dated 12.12.2024,
+following is the composition:
+“1)
+Two nominees on behalf of the Financial Institutions;
+
+2)
+One nominee on behalf of NBCC;
+
+3)
+One expert from the real estate industry / Construction
+industry being an independent committee member to
+be appointed jointly by other Apex Court Committee
+members, and
+
+4)
+The
+Chairman
+(being
+the
+Interim
+Resolution
+Professional)”
+27.
+We have already appointed Chairman of the Apex Court Committee,
+a former Judge of the Supreme Court of India. The Members to be
+appointed are referred only by category-wise, not by name. It is always
+
+[PAGE 34]
+34
+open for Apex Court Committee to replace a Member with one person or
+other as it may deem fit and proper.
+28.
+We have further observed that Apex Court Committee is free to
+appoint Financial Advisor for the Committee, a Financial Expert. The
+above takes care of all concern raised by learned Amicus Curiae.
+29.
+The order dated 12.12.2024 having been affirmed by the Hon’ble
+Supreme Court by order dated 05.02.2026, we at this stage are not
+entertaining any modification in the composition of Committee and
+directions issued, except those, which are necessary in view of the
+modification made by the order of the Hon’ble Supreme Court dated
+05.02.2026. Liberty is reserved to learned Counsel Amicus Curiae and
+other stakeholders to file separate applications as and when required.
+30.
+As noted above, the Governance Structure and Decision Making
+Mechanism with respect to Apex Court Committee and Project wise Court
+Committee have been noted in Paragraphs 78, 79 and 80, which contain
+various directions as noted above. In Paragraph 78, certain changes are
+necessary to be incorporated. In Paragraph 78 under sub-caption-A, the
+Apex Court Committee Item No.4 is substituted in following manner
+“A.
+GOVERNANCE
+STRUCTURE
+AND
+DECISIONMAKING
+MECHANISM: FORMATION OF APEX COURT COMMITTEE
+AS WELL AS PROJECTWISE COURT COMMITTEE
+
+xxx
+
+xxx
+
+xxx
+
+[PAGE 35]
+35
+4)
+The Chairman of the Apex Court Committee shall be
+Justice Krishna Murari, former Judge of the Supreme
+Court of India
+4) (a) The IRP when its in place, shall act as Secretary to the
+Apex Court Committee.”
+31.
+Under the heading “(1) Formation of Apex Court Committee” sub-
+clause (vi) is substituted in following manner:
+“1) FORMATION OF APEX COURT COMMITTEE:
+xxx
+
+xxx
+
+xxx
+(vi) The quorum of any meeting of the Apex Court Committee
+shall require the attendance of the following:
+a) The Chairman of the Apex Court Committee – Justice
+Krishna Murari, former Judge of the Supreme Court of India.
+b) At least one nominee on behalf of the Financial Institutions;
+c) As it is.”
+32.
+Wherever the expression “IRP” has been used in the directions in
+Paragraphs 78 and other paragraphs, it shall be read as IRP/ any
+authorized person by the Apex Court Committee. Till the IRP is in place,
+accounts operation of Project wise Court Committee as well as the
+principal account, the Apex Court Committee shall authorize any person
+to operate the account with joint signature of such other person as
+
+[PAGE 36]
+36
+authorized. Once IRP is in place, he shall be one of the signatory for
+operation of all accounts.
+33.
+Under Paragraph 79, under the heading “B. Directions to NBCC for
+implementation of construction proposal and mechanism for repayment of
+dues to stakeholders”, direction (5) is deleted and substituted by following
+“B.
+DIRECTIONS
+TO
+NBCC
+FOR
+IMPLEMENTATION
+OF
+CONSTRUCTION PROPOSAL AND MECHANISM FOR REPAYMENT
+OF DUES TO STAKEHOLDERS:
+
+xxx
+
+xxx
+
+xxx
+(5)
+With respect to 30 percent of projected cash flows, or
+such other amount available for allocation, the same may
+be allocated under the directions of the Apex Court
+Committee.”
+34.
+Under Paragraph 85, we have provided for certain timelines for
+various actions to be taken including start of the construction. Paragraph
+85 (1) is deleted and substituted by following:
+“85(1) Under TOR, Paragraph 1.4(c) Note: the Condition-I is
+satisfied on passing of this order. Condition II, III, V and VI is to be
+completed by all concern on or before 31.07.2026. The NBCC shall
+start process of award of work as per Condition-IV, prior to
+31.07.2026 and complete the award of contract within one month
+thereafter and construction shall commence w.e.f. 01.10.2026.”
+
+[PAGE 37]
+37
+35.
+As per order of the Hon’ble Supreme Court, Land Authorities and
+their claims shall be considered secondary and shall be such as per
+decision of the NCLAT/Apex Court Committee. The Promoter of the CD
+shall not interfere in any decision of the Project wise Court Committee
+and the Apex Court Committee and implementation of its decision. The
+Promoter, however, shall extend full cooperation with regard to relevant
+information and assistance in carrying out Project and other activities as
+and when directed by Apex Court Committee or Project wise Court
+Committee. The CD to provide suitable space and infrastructure for
+holding meetings of Apex Court Committee and render assistance for
+functions of the Committees, both Apex Court Committee and Project
+Court Committee.
+36.
+One of the issues which needs to be answered by us is as to
+whether Apex Court Committee is also to undertake other non-16
+Projects, which have not been entrusted to NBCC. On the above aspect,
+learned Amicus Curiae has submitted that the said Apex Court
+Committee be entrusted to take in tis fold other Projects of the CD. It is
+submitted that in other Projects there are large number of receivables,
+which can be utilized for completion of the Projects, for discharging
+several liabilities of the CD. Whereas learned Counsel for the Land
+Authorities and home buyers of non-16 Projects as well as the Appellant
+submit that there are several completed Projects, which do not require
+any monitoring or any consideration. As per order passed by this
+Tribunal on 31.05.2024, as noted above this Tribunal has issued
+
+[PAGE 38]
+38
+direction for Project wise Resolution, which however, could not proceed
+any further, in view of subsequent order dated 12.12.2024 entrusting 16
+Projects to the NBCC. With respect to non-16 Projects, it is necessary to
+find out the status of the Projects. In event the Projects are completed and
+handed over to Flat Owners Association, which do not require any
+completion or any further steps, taking completed Projects in the fold of
+Apex Court Committee shall be unnecessary and cause prejudice to the
+interest of the home buyers, who have taken possession and residing in
+the units. However, in event in the completed Projects there are any
+unsold inventory or other receivable, those can be utilized and put to use
+of the CD, as has been suggested by learned Amicus Curiae.
+37.
+In view of the foregoing discussions, we are of the view that the
+suggestions of learned Amicus Curiae is to be accepted that Apex Court
+Committee should also take in its fold non-16 NBCC Projects. But before
+steps towards resolution of non-16 Projects commence, it is necessary to
+notice status of all the non-16 Project and the requirement, which is to be
+done in the said Projects. There being no relevant details with regard to
+other non-16 NBCC Projects, we are unable to issue any directions in this
+order regarding mode and manner of their Resolution. We, however,
+grant liberty to the registered Welfare Association of the Projects, learned
+Amicus Curiae, authorized representatives of home buyers of the non-16
+NBCC Projects, as well as the Appellant to file a status report by the
+Appellant with regard to non-16 NBCC Projects. We allow two weeks’ time
+to file status report with regard to non-16 NBCC Projects, so as to issue
+
+[PAGE 39]
+39
+necessary directions to the Apex Court Committee with regard to above
+non-16 NBCC Projects. Learned Amicus Curiae may also submit his
+report on status of non-16 Projects. Other stakeholders are also
+permitted to file their objections and suggestions with regard to non-16
+Projects. We, thereafter, considering above shall issue necessary
+directions for mode and manner of resolution of non-16 Projects.
+38.
+With regard to remuneration of Chairman of the Apex Court
+Committee, relying on the order of the Hon’ble Supreme Court dated
+16.12.2025 passed in Civil Appeal No.11052 of 2025 – Ram Kishore Arora
+vs. Bank of Maharashtra, we fix the remuneration of Chairman of the
+Apex Court Committee as Rs.10 lakhs per month.
+39.
+In view of foregoing discussions and our conclusions, the Apex
+Court Committee constituted under order dated 12.12.2024 is modified as
+indicated above, appointing Justice Krishna Murari, former Judge of the
+Supreme Court of India as Chairman of the Committee. The order dated
+12.12.2024 further stands modified as indicated in preceding paragraphs
+of this order regarding certain directions as indicated above.
+40.
+We sum up our conclusions and directions in following manner:
+(I)
+Justice Krishna Murari, former Judge Supreme Court of India
+is appointed as Chairman of the Apex Court Committee.
+(II)
+The Adjudicating Authority to appoint an IRP having
+sufficient experience on resolution of large real estate
+Projects. The IRP so appointed, shall be the Secretary of the
+
+[PAGE 40]
+40
+Apex Court Committee and Chairman of the Project Court
+Committee.
+(III)
+Till the IRP is in place, the Apex Court Committee may
+nominate any personnel to carry out day-to-day functions of
+the CD.
+(IV)
+The Apex Court Committee may appoint a suitable Financial
+Advisor to the Committee, who is an expert in financial
+matters.
+(V)
+In Paragraph 78, certain changes are necessary to be
+incorporated. In Paragraph 78 under sub-caption-A, the
+Apex Court Committee Item No.4 is substituted in following
+manner
+“A. GOVERNANCE STRUCTURE AND DECISIONMAKING
+MECHANISM:
+FORMATION
+OF
+APEX
+COURT
+COMMITTEE AS WELL AS PROJECTWISE COURT
+COMMITTEE
+
+xxx
+
+xxx
+
+xxx
+4)
+The Chairman of the Apex Court Committee shall be
+Justice Krishna Murari, former Judge of the
+Supreme Court of India
+4) (a) The IRP when its in place, shall act as Secretary to
+the Apex Court Committee.”
+(VI)
+Under the heading “(1) Formation of Apex Court Committee”
+sub-clause (vi) is substituted in following manner:
+“1) FORMATION OF APEX COURT COMMITTEE:
+xxx
+
+xxx
+
+xxx
+
+[PAGE 41]
+41
+(vi) The quorum of any meeting of the Apex Court
+Committee shall require the attendance of the
+following:
+d)
+The Chairman of the Apex Court Committee –
+Justice Krishna Murari, former Judge of the
+Supreme Court of India.
+e)
+At least one nominee on behalf of the Financial
+Institutions;
+f)
+As it is.”
+(VII) Wherever the expression “IRP” has been used in the
+directions in Paragraphs 78 and other paragraphs, it shall be
+read as IRP/ any authorized person by the Apex Court
+Committee. Till the IRP is in place, accounts operation of
+Project wise Court Committee as well as the principal
+account, the Apex Court Committee shall authorize any
+person to operate the account with joint signature of such
+other person as authorized. Once IRP is in place, he shall be
+one of the signatory for operation of all accounts.
+(VIII) Under Paragraph 79, under the heading “B. Directions to
+NBCC for implementation of construction proposal and
+mechanism for repayment of dues to stakeholders”, direction
+(5) is deleted and substituted by following
+“B. DIRECTIONS TO NBCC FOR IMPLEMENTATION OF
+CONSTRUCTION
+PROPOSAL
+AND
+MECHANISM
+FOR
+REPAYMENT OF DUES TO STAKEHOLDERS:
+
+xxx
+
+xxx
+
+xxx
+(5)
+With respect to 30 percent of projected cash flows,
+or such other amount available for allocation, the same
+
+[PAGE 42]
+42
+may be allocated under the directions of the Apex Court
+Committee.”
+(IX)
+Under Paragraph 85, we have provided for certain timelines
+for various actions to be taken including start of the
+construction. Paragraph 85 (1) is deleted and substituted by
+following:
+“85(1) Under TOR, Paragraph 1.4(c) Note: the Condition-I is
+satisfied on passing of this order. Condition II, III, V and VI is
+to be completed by all concern on or before 31.07.2026. The
+NBCC shall start process of award of work as per Condition-
+IV, prior to 31.07.2026 and complete the award of contract
+within
+one
+month
+thereafter
+and
+construction
+shall
+commence w.e.f. 01.10.2026.”
+(X)
+As per order of the Hon’ble Supreme Court, Land Authorities
+and their claims shall be considered secondary and shall be
+such as per decision of the NCLAT/Apex Court Committee.
+The Promoter of the CD shall not interfere in any decision of
+the Project wise Court Committee and the Apex Court
+Committee and implementation of its decision. The Promoter,
+however, shall extend full cooperation with regard to relevant
+information and assistance in carrying out Project and other
+activities as and when directed by Apex Court Committee or
+Project wise Court Committee. The CD to provide suitable
+space and infrastructure for holding meeting of Apex Court
+Committee and render assistance for functions of the
+Committee both Apex Court Committee and Project Court
+Committee.
+(XI)
+The suggestions of learned Amicus Curiae is to be accepted
+that Apex Court Committee should also take in its fold non-
+16 NBCC Projects. But before steps towards resolution of
+
+[PAGE 43]
+43
+non-16 Projects commence, it is necessary to notice status of
+all the non-16 Project and the requirement, which is to be
+done in the said Projects. There being no relevant details
+with regard to other non-16 NBCC Projects, we are unable to
+issue any directions in this order regarding mode and manner
+of their Resolution. We, however, grant liberty to the
+registered Welfare Association of the Projects, learned Amicus
+Curiae, Authorized Representative of home buyers of the non-
+16 NBCC Project, as well as the Appellant to file a status
+report by the Appellant with regard to non-16 NBCC Projects.
+We allow two weeks’ time to file status report with regard to
+non-16 NBCC Projects, so as to issue necessary directions to
+the Apex Court Committee with regard to above non-16 NBCC
+Projects. Learned Amicus Curiae may also submit his report
+on status of non-16 Projects. Other stakeholders are also
+permitted to file their objections and suggestions with regard
+to non-16 Projects. We, thereafter, considering above shall
+issue necessary directions for mode and manner of resolution
+of non-16 Projects.
+(XII) With regard to remuneration of Chairman of the Apex Court
+Committee, relying on the order of the Hon’ble Supreme
+Court dated 16.12.2025 passed in Civil Appeal No.11052 of
+2025 – Ram Kishore Arora vs. Bank of Maharashtra, we fix
+the remuneration of Chairman of the Apex Court Committee
+as Rs.10 lakhs per month.
+41.
+Our conclusion in reference to Paragraph 2 of the order of Hon’ble
+Supreme Court dated 20.04.2026 is that “the Court constituted
+Committee, i.e. the Apex Court Committee, is to manage affairs of all the
+Projects of Supertech Ltd. in addition to 16 NBCC Projects”. However, the
+Resolution of non-16 NBCC Projects needs to commence after this
+
+[PAGE 44]
+44
+Tribunal hear all the stakeholders on the status of non-16 NBCC Projects
+and decide the mode and manner of their Resolution.
+42.
+The parties may place this order before the Hon’ble Supreme Court
+in compliance of order dated 20.04.2026.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Ashwani

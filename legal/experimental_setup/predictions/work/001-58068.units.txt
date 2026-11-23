@@ -1,0 +1,66 @@
+# FILE 001-58068.txt  n_chars=39228  units=299  paragraphs=139
+# SCOPE: legal reasoning starts at char 27091 (unit u228) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 38054 (unit u287) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 27091 hidden (facts/procedure; use --show-all to see them) --
+u228 p119  [27091-27104) H | AS TO THE LAW
+u229 p120  [27105-27162) H | ALLEGED VIOLATION OF ARTICLE 7 OF THE CONVENTION (art. 7)
+u230 p121 ¶26 [27167-27275) | The applicant complained of a violation of Article 7 of the Convention (art. 7), which is worded as follows:
+u231 p121  [27276-27279) Q | "1.
+u232 p121  [27280-27480) Q | No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed.
+u233 p121  [27481-27600) Q | Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.
+u234 p122 ¶2 [27604-27840) | This Article (art. 7) shall not prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognised by civilised nations."
+u235 p122  [27841-28010) | He maintained that the definition of medicinal product contained in Article L. 511 of the Public Health Code was very imprecise and left a wide discretion to the courts.
+u236 p122  [28011-28247) | The Court of Cassation’s case-law in this field was marked by arbitrariness and a lack of certainty which were themselves directly responsible for the conflicting classifications given to parapharmaceutical products by the lower courts.
+u237 p122  [28248-28721) | This state of affairs still persisted and concerned all the substances in question, whether hydrogen peroxide, 70% strength alcohol or vitamin C. The case-law of the Court of Justice of the European Communities was not particularly helpful because it left it to the national courts to decide on a case-by-case basis whether a substance should be classified as a medicinal product and referred to notions that themselves lacked precision and were not sufficiently technical.
+u238 p122  [28722-28853) | In short, the definition found in the legislation and the case-law failed to afford the requisite foreseeability and accessibility.
+u239 p122  [28854-29081) | It followed that Mr Cantoni could not reasonably have been expected to appreciate, before putting the products in question up for sale, what constituted the material element of the offence in respect of which he was prosecuted.
+u240 p123 ¶27 [29086-29149) | The Commission in substance subscribed to the applicant’s view.
+u241 p123  [29150-29415) | It observed that, although the criteria developed by the Convention institutions with regard to other provisions could be transposed to the field of application of Article 7 (art. 7), that provision (art. 7) nevertheless required that they be applied more strictly.
+u242 p124 ¶28 [29420-29656) | Referring to the case-law of the Court, the Government argued that a law could be formulated in relatively general terms making it possible for its provisions to be adapted, through the process of interpretation, to changing situations.
+u243 p124  [29657-29794) | Even the most perfectly drafted law required a judge to clarify its limits and Article L. 511 of the Public Health Code was no exception.
+u244 p124  [29795-29993) | The definition given in Article L. 511 was based in particular on extensive case-law concerning the notion of medicinal product and was no more open to criticism than any other statutory definition.
+u245 p124  [29994-30096) | Indeed it was actually far more precise than many of the definitions to be found in the Criminal Code.
+u246 p124  [30097-30275) | Above all, the legislature had no alternative but to have recourse to such a definition because to date no more satisfactory definition of medicinal product had been established.
+u247 p124  [30276-30473) | The only other solution - the drawing up of exhaustive lists - was not practicable because in this field there were thousands of different products and their number varied on an almost daily basis.
+u248 p124  [30474-30529) | A list would therefore never correspond to the reality.
+u249 p124  [30530-30765) | Indeed this explained why in its Directive 65/65 the Council of Ministers of the European Economic Community had adopted the French approach, a solution for which the majority of the States of the European Union had subsequently opted.
+u250 p124  [30766-30890) | A finding that Article L. 511 was defective would therefore amount to making the same finding in respect of Directive 65/65.
+u251 p124  [30891-31138) | In addition, the definition of medicinal product had given rise to hardly any problems in the criminal courts until the end of the 1980s. The disputes that occurred at that time had been created artificially and deliberately by supermarket chains.
+u252 p124  [31139-31296) | They had succeeded in disorientating some of the lower courts, but not the Court of Cassation, which had applied the same principles for more than a century.
+u253 p125 ¶29 [31301-31612) | As the Court has already held, Article 7 (art. 7) embodies, inter alia, the principle that only the law can define a crime and prescribe a penalty (nullum crimen, nulla poena sine lege) and the principle that the criminal law must not be extensively construed to an accused’s detriment, for instance by analogy.
+u254 p125  [31613-31697) | From these principles it follows that an offence must be clearly defined in the law.
+u255 p125  [31698-31940) | This requirement is satisfied where the individual can know from the wording of the relevant provision (art. 7) and, if need be, with the assistance of the courts’ interpretation of it, what acts and omissions will make him criminally liable.
+u256 p125  [31941-32433) | When speaking of "law" Article 7 (art. 7) alludes to the very same concept as that to which the Convention refers elsewhere when using that term, a concept which comprises statutory law as well as case-law and implies qualitative requirements, notably those of accessibility and foreseeability (see, as the most recent authority, the S.W. and C.R. v. the United Kingdom judgments of 22 November 1995, Series A nos. 335-B and 335-C, pp. 41-42, para. 35, and pp. 68-69, para. 33, respectively).
+u257 p125  [32434-32488) | In the present case only that last aspect is in issue.
+u258 p126 ¶30 [32493-32737) | The fact, pointed to by the Government, that Article L. 511 of the Public Health Code is based almost word for word on Community Directive 65/65 (see paragraph 12 above) does not remove it from the ambit of Article 7 of the Convention (art. 7).
+u259 p127 ¶31 [32742-32926) | As the Court has already had occasion to note, it is a logical consequence of the principle that laws must be of general application that the wording of statutes is not always precise.
+u260 p127  [32927-33046) | One of the standard techniques of regulation by rules is to use general categorisations as opposed to exhaustive lists.
+u261 p127  [33047-33230) | The need to avoid excessive rigidity and to keep pace with changing circumstances means that many laws are inevitably couched in terms which, to a greater or lesser extent, are vague.
+u262 p127  [33231-33422) | The interpretation and application of such enactments depend on practice (see, among other authorities, the Kokkinakis v. Greece judgment of 25 May 1993, Series A no. 260-A, p. 19, para. 40).
+u263 p128 ¶32 [33427-33585) | Like many statutory definitions, that of "medicinal product" contained in Article L. 511 of the Public Health Code is rather general (see paragraph 18 above).
+u264 p128  [33586-33708) | When the legislative technique of categorisation is used, there will often be grey areas at the fringes of the definition.
+u265 p128  [33709-33918) | This penumbra of doubt in relation to borderline facts does not in itself make a provision incompatible with Article 7 (art. 7), provided that it proves to be sufficiently clear in the large majority of cases.
+u266 p128  [33919-34084) | The role of adjudication vested in the courts is precisely to dissipate such interpretational doubts as remain, taking into account the changes in everyday practice.
+u267 p128  [34085-34282) | The Court must accordingly ascertain whether in the present case the text of the statutory rule read in the light of the accompanying interpretive case-law satisfied this test at the relevant time.
+u268 p129 ¶33 [34287-34428) | In the applicant’s submission, other solutions were available to the authorities, such as recourse to exhaustive lists of medicinal products.
+u269 p129  [34429-34652) | It is, however, not for the Court to express a view on the appropriateness of methods chosen by the legislature of a Contracting State; its task is confined to determining whether they are in conformity with the Convention.
+u270 p130 ¶34 [34657-34853) | Nor is the Court persuaded by the argument based on the decisions of the lower courts cited by the applicant and concerning the type of "borderline" product for the sale of which he was convicted.
+u271 p130  [34854-34947) | There were indeed divergencies in the decisions of the lower courts (see paragraph 20 above).
+u272 p130  [34948-35170) | According to the Government, these may be explained essentially by the fact that the comparisons of decisions did not take account of prosecutions brought in respect of different concentrations of the products in question.
+u273 p130  [35171-35462) | The Court notes in the first place that the applicant did not indicate whether the decisions cited classified these products as medicinal products by virtue of their function or by virtue of their presentation, and, in the latter case, whether the presentation was the same on each occasion.
+u274 p130  [35463-35597) | Even assuming that the decisions dealt with identical cases, the questions before the lower courts were principally questions of fact.
+u275 p130  [35598-35792) | For the first category of decisions, concerning products regarded as medicinal by virtue of their function, it was essentially a matter of establishing the current state of scientific knowledge.
+u276 p130  [35793-36000) | For the second category, that is decisions relating to products regarded as medicinal by virtue of their presentation, the courts aimed to gauge the impression gained by the averagely well-informed consumer.
+u277 p130  [36001-36069) | Moreover, there is, in the Court’s view, one decisive consideration.
+u278 p130  [36070-36302) | From, at the latest, 1957 onwards the Court of Cassation has always either confirmed the decisions of the courts below classifying a parapharmaceutical-type product as medicinal or quashed decisions which denied that classification.
+u279 p130  [36303-36449) | It has never upheld a decision by a lower court finding that such a product fell outside the notion of medicinal product (see paragraph 21 above).
+u280 p130  [36450-36635) | Thus, well before the events in the present case, the Court of Cassation had adopted a clear position on this matter, which with the passing of time became even more firmly established.
+u281 p131 ¶35 [36640-36983) | The Court recalls that the scope of the notion of foreseeability depends to a considerable degree on the content of the text in issue, the field it is designed to cover and the number and status of those to whom it is addressed (see the Groppera Radio AG and Others v. Switzerland judgment of 28 March 1990, Series A no. 173, p. 26, para. 68).
+u282 p131  [36984-37361) | A law may still satisfy the requirement of foreseeability even if the person concerned has to take appropriate legal advice to assess, to a degree that is reasonable in the circumstances, the consequences which a given action may entail (see, among other authorities, the Tolstoy Miloslavsky v. the United Kingdom judgment of 13 July 1995, Series A no. 316-B, p. 71, para. 37).
+u283 p131  [37362-37543) | This is particularly true in relation to persons carrying on a professional activity, who are used to having to proceed with a high degree of caution when pursuing their occupation.
+u284 p131  [37544-37652) | They can on this account be expected to take special care in assessing the risks that such activity entails.
+u285 p131  [37653-37989) | With the benefit of appropriate legal advice, Mr Cantoni, who was, moreover, the manager of a supermarket, should have appreciated at the material time that, in view of the line of case-law stemming from the Court of Cassation and from some of the lower courts, he ran a real risk of prosecution for unlawful sale of medicinal products.
+u286 p132 ¶36 [37994-38053) | There has accordingly been no breach of Article 7 (art. 7).
+-- tail from char 38054 hidden --

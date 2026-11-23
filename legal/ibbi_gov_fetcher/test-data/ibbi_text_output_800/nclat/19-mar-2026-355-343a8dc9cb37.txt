@@ -1,0 +1,825 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+[Arising out of the Impugned Order dated 23.09.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Kolkata Bench-
+II in C.P. (IB) No. 146/KB/2023]
+In the matter of:
+Subham Capital Private Limited
+5, C.R. Avenue, 2nd Floor, Kolkata-700072,
+West Bengal, India
+Email: shyamsel@ymail.com
+
+.... Appellant
+
+Versus
+
+Vedic Realty Private Limited
+Having its registered office at:
+1/1B, Upper Wood Street,
+Kolkata- 700017;
+Email: info@vedicrealty.com
+
+.... Respondent
+
+Present:
+For Appellant
+: Mr. Gaurav Mitra, Mr. Arjun Asthana and Ms. Prachi
+Sharma, Advocates.
+
+For Respondent
+: Mr. Anirban Ray, Sr. Advocate with Mr. Ratul Das, Mr.
+Kamran Hussain, Mr. Jatin Sapra, Mr. Shivam Pathak, Mr.
+Anand Dwivedi, Mr. Arjun Ray and Ms. Nishika Chugh,
+Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+23.09.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Kolkata Bench-II) in
+C.P. (IB) No. 146/KB/2023. By the impugned order, the Adjudicating Authority
+
+[PAGE 2]
+Page 2 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+has dismissed Section 7 petition filed by the Appellant/Financial Creditor-
+Subham Capital Private Limited for initiation of Corporate Insolvency Resolution
+Process (‘CIRP’ in short) of the Corporate Debtor–Vedic Realty Private Limited.
+Aggrieved by the Impugned Order, the present appeal has been preferred by the
+Appellant-Financial Creditor.
+2.
+Coming to the sequence of events of the present case, it is relevant to
+notice that at the behest of Corporate Debtor, the Appellant, basis an oral
+understanding, extended financial assistance by way of disbursal of loans
+aggregating Rs 22.75 Cr between 2011 and 2016 in several tranches. These loan
+transactions which carried an interest liability were reflected in the books of
+accounts of both parties and relevant bank account statements and the liability
+in this regard had also been acknowledged by the Respondent through
+confirmation letters; loan renewal acknowledgments; demand promissory notes
+confirming receipt of loan amounts besides issue of post-dated cheques towards
+repayment of principal and interest. The Respondent-Corporate Debtor
+defaulted after the last tranche of re-payment made on 07.04.2021, following
+which the Appellant first issued a recall notice dated 01.03.2022 and then filed
+a Section 7 petition vide C.P(IB)No. 215 of 2022. Subsequently, the parties
+executed a Settlement Agreement dated 18.11.2022 wherein the Respondent
+acknowledged the outstanding liability and agreed to repay the same as per an
+agreed schedule which led to withdrawal of CP(IB)No. 215 of 2022 by the
+Appellant. However, as the Respondent failed to comply with the settlement
+terms, the Appellant filed CP(IB) No.146 of 2023 under Section 7 of the IBC
+seeking initiation of CIRP of the Corporate Debtor. Despite being given several
+
+[PAGE 3]
+Page 3 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+opportunities, the Respondent failed to file its reply. Hence, their right to file
+reply was closed on 08.01.2024 by the Adjudicating Authority and the matter
+was set ex-parte and admitted the Section 7 petition vide CP No. 146 of 2023 on
+25.01.2024. The Respondent filed IA No. 286 of 2024 under Section 60(5) of IBC
+seeking recall of the CIRP admission order. The Adjudicating Authority disposed
+of IA No. 286 of 2024 on 09.02.2024 recalling the Section 7 admission order and
+allowing the Respondent to file their reply. The Appellant filed an appeal before
+this Tribunal challenging the recall order of the Adjudicating Authority dated
+25.01.2024 on which this Tribunal without interfering with the recall order
+issued directions on 12.03.2024 to the Adjudicating Authority to consider the
+CP(IB) No. 146 of 2023 in accordance with law. The Section 7 petition vide No.
+146 of 2023 filed by the Appellant was considered and dismissed by the
+Adjudicating Authority on 23.09.2024. Aggrieved by the said order, the present
+appeal has been preferred by the Appellant-Financial Creditor.
+3.
+Making submissions on behalf of the Appellant, Shri Gaurav Mitra, Ld.
+Counsel for the Appellant submitted that the present Section 7 proceeding arose
+out of multiple loan disbursements made between 2011 to 2016 by the Appellant
+which liability constituted “financial debt” in terms of Section 5(8) of the IBC.
+The outstanding liability, which was above the threshold limit, was clearly
+reflected in the bank statements of the Corporate Debtor and finds repeated
+acknowledgement by the Corporate Debtor in the form of Demand Promissory
+Notes, confirmation letters, loan-renewal acknowledgments, issuance of post-
+dated cheques and deduction of TDS made on interest payments. Since existence
+of debt and default clearly stood established, the Appellant had filed Section 7
+
+[PAGE 4]
+Page 4 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+petition vide CP(IB) No. 215 of 2022 which they subsequently withdrew following
+a Settlement Agreement dated 18.11.2022. Submission was pressed that
+withdrawal of the earlier Section 7 petition pursuant to the settlement dated
+18.11.2022 was not a bar on the filing of another fresh Section 7 petition vide
+CP(IB) No. 146 of 2023 since the default continued even after execution of
+settlement agreement. It was pressed that the Section 7 applications filed vide
+CP Nos. 146 of 2023 and 215 of 2022 were not based on identical facts and the
+cause of action for instituting these petitions were clearly distinct. However, the
+Adjudicating Authority dismissed this petition erroneously on the misplaced
+ground that it was not maintainable as the previous Section 7 petition was
+withdrawn by the Appellant himself and the Adjudicating Authority had not
+given any liberty to come up afresh if the settlement failed. It was also contended
+by the Appellant that the breach of settlement clearly gave a new cause of action
+in their favour to file a Section 7 application and the Adjudicating Authority had
+misdirected itself by applying the principles of res judicata in the present case.
+It was also vehemently contended that the impugned order suffered from error
+of law as it wrongly held that an explicit written agreement of loan is a mandatory
+instrument required for any NBFC Financial Creditor to substantiate that the
+nature of transactions between them and borrower was in the nature of financial
+debt and that in the absence of a written financial agreement or contract as in
+this case, no Section 7 petition could have been filed.
+4.
+Refuting the contentions advanced by the Appellant, Shri Anirban Ray,
+the Ld. Sr. Counsel for the Respondent–Corporate Debtor submitted that the
+Appellant, being an Non-Bank Financial Company (“NBFC” in short), it was
+
+[PAGE 5]
+Page 5 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+bound by the RBI Fair Practices Code and Master Circular (“RBI Circular” in
+short) dated 02.07.2012 which circular mandated the need on the part of NBFCs
+as in the case of the present Appellant of written loan agreement and sans such
+document, the alleged transaction could not have been treated as financial debt.
+It was further submitted that the Appellant’s claim is essentially based on breach
+of the Settlement Agreement dated 18.11.2022 which breach did not entitle the
+Appellant to file a fresh petition under Section 7 of the IBC as the remedy against
+the breach of Settlement Agreement cannot be enforced through insolvency
+proceedings as the IBC is not a recovery mechanism. Further, when the
+Appellant had withdrawn the first Section 7 application from the Adjudicating
+Authority without liberty to revive or file a fresh petition, the subsequent Section
+7 petition was clearly not maintainable as the Settlement Agreement did not
+provide for any terms which authorised the Appellant to file fresh proceedings
+under Section 7. It was also contended that a fresh Section 7 petition would not
+be maintainable on an identical cause of action as it is barred by law and the
+principles of res judicata. It was further submitted that the Respondent is a
+solvent company operating as a going concern and in face of lack of proof of
+financial debt and default, the Adjudicating Authority had rightly dismissed the
+Section 7 petition.
+5.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+6.
+When we look at the impugned order, we find that the Adjudicating
+Authority had outlined three issues for its consideration as highlighted at para
+36 of the impugned order which is as extracted below:
+
+[PAGE 6]
+Page 6 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+“IV.
+Issues that cropped up for the determination by this Adjudicating
+Authority are as under:
+A. Whether mere breach of the terms of Settlement constitutes a 'financial
+debt' based on original debt.
+B. Whether a petition is dismissed as withdrawn without the leave of the
+Court qualifies the petitioner to come afresh in respect of the same cause
+of action.
+C. Whether an explicit written agreement of loan is a mandatory instrument
+for the Financial Creditor, being an NBFC, to substantiate the nature of
+transactions between the lender and borrower.”
+
+7.
+After consideration of the above issues, the Adjudicating Authority at para
+66 of the impugned order has summarised the rationale for dismissing the
+Section 7 petition which is as reproduced below:
+“66. In terms of the enumerations supra, we would summarize the legal
+propositions and conclusions as under:
+a.
+Upon withdrawal of a petition or a claim without the leave of
+the Court to institute a fresh one in respect of the subject matter of
+such petition or such claim as in the previous one, the petitioner is
+precluded from instituting any fresh petition in respect of the same
+subject matter as in the previous petition or claim; or to seek same
+legal remedy under the same statutory provision on the same cause
+of action before the same Court under same title.
+b.
+Once a petition is withdrawn, the petitioner abandons his claim
+for which he has instituted the proceedings and the withdrawal
+becomes absolute unless the Court grants liberty to proceed afresh.
+c.
+If, at the time of withdrawal, the Court grants the liberty to the
+petitioner withdrawing his petition to proceed afresh, it is a qualified
+withdrawal, and the petitioner shall have the right to seek same legal
+remedy under the same statutory provision on the same cause of
+action before the same Court under same title.
+d.
+An agreement in explicit between the parties is necessary to
+determine the nature of transactions as well as debt.”
+
+[PAGE 7]
+Page 7 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+8.
+We would like to deal first with the finding returned by the Adjudicating
+Authority that in the present factual matrix, there was no financial debt of the
+Corporate Debtor qua the Appellant in view of the stipulations of the RBI
+Circular.
+9.
+It is the case of the Respondent that the Appellant as Financial Creditor
+could not have entered into an oral agreement with the respect to disbursement
+of loan as it was in violation of RBI Master Circular. It was submitted that the
+requirement of an explicit written agreement of loan between lender and
+borrower in the case of a NBFC has been held by NCLT in Desana Impex
+Limited Vs. Brick and Mortar Realty Pvt. Ltd. in CP(IB) No. 342 of 2022 for
+the transactions to be treated as a loan.
+10.
+Per contra, it is the contention of the Appellant that the Adjudicating
+Authority has wrongly relied on the judgment of the NCLT in Desana Impex
+Ltd. in CP(IB) No. 342 of 2022 since this judgment of the NCLT has already
+been overruled by this Tribunal in Desana Impex Limited Vs. Brick and
+Mortar Realty Private Limited in CA(AT)(Ins) No. 318 of 2024 wherein it has
+been held that IBC does not mandate that there should be a written agreement
+to establish financial debt. It was contended further that this issue of whether a
+financial contract is a sine qua non for establishing a financial debt or not stood
+well settled in a judgement of this Tribunal in Agarwal Polysacks Ltd. vs K.
+K. Agro Foods & Storage in CA(AT)(Ins)No.1126 of 2022 wherein after
+adverting to Regulation 8(2) of Insolvency and Bankruptcy Board of India
+(Insolvency Resolution Process for Corporate Persons) Regulations, 2016 and
+Rule 3(1)(d) and Rule 4(1) of Insolvency and Bankruptcy (Application to
+
+[PAGE 8]
+Page 8 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+Adjudicating Authority) Rules, 2016 which regulates filing of application by the
+Financial Creditors, it has been held that written financial contract is not a pre-
+condition or an exclusive requirement for proving existence of debt. It was
+asserted that this judgement makes it clear that financial debt can be proven
+from other relevant documents and it is not mandatory for a written financial
+contract to be the only basis for establishing a financial debt.
+11.
+To answer this question, we need to first notice that the RBI Master
+Circular clearly precedes the enactment of the IBC and in view of Section 238 of
+the IBC which contains an overriding provision, the IBC clearly holds supremacy
+and therefore overrides the RBI Circular. But more importantly, we need to abide
+by the judicial precedent set by this Tribunal in Desana Impex judgment supra
+which has comprehensively considered the question as to whether a written
+financial contract is necessary to prove a financial debt and the applicability of
+the RBI Master Circular.
+12.
+The relevant excerpts of the Desana Impex judgment supra are as
+extracted below:
+29. It is noted that the Adjudicating Authority has dismissed the
+Section 7 Petition, primarily due to the absence of formal written loan
+agreement as noted below in its order:
+“...... 10. As per the RBI guidelines on Fair Practices Code for
+NBFCs, dated 18 February 2013, the NBFCs should convey in
+writing to the borrower in the vernacular language as
+understood by the borrower by means of sanction letter or
+otherwise, the amount of loan sanctioned along with the terms
+and conditions including annualized rate of interest and
+method of application thereof and keep the acceptance of these
+terms and conditions by the borrower on its record. The RBI’s
+circulars have statutory force, and this is well recognised in
+law. Hence, it is mandatory on the part of Financial Creditor,
+
+[PAGE 9]
+Page 9 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+being a NBFCs to keep the terms and conditions recorded in
+writing.”
+Basis the master circular of RBI dated 01.07.2015 which held that
+RBI guidelines have statutory force and that provides an explicit
+written agreement of loan, which is mandatory for NBFC to
+substantiate the nature of its transactions and due to the absence of
+a written loan agreement, it cannot be determined in this case
+whether the amount advanced was a financial debt nor could the
+interest and tenure of the loan be ascertained to arrive of the date of
+default. Adjudicating Authority has placed great reliance on RBI
+Master circular on Fair Practices Code, which makes written
+agreement mandatory. It is to be noted that this was issued on
+01.07.2015. However, Corporate Debtor had approached the
+Financial Creditor in the year, 2013 and there was an oral agreement
+and furthermore three disbursements of the loan amount were made
+on 24.05.2013 and 28.06.2014 i.e. prior to RBI Circular, therefore
+making it inapplicable in the present case. Further, Insolvency and
+Bankruptcy Code (‘IBC’) does not prescribe/mandate that there
+should be a written agreement to establish financial debt. RBI
+Circular is dated July, 2015 whereas the IBC was enacted in the year
+2016 and therefore, IBC holds supremacy over the RBI Circular. In
+fact, Section 238 of the IBC has an over-riding effect on anything
+contained in any other law in force or any instrument having effect by
+virtue of such law. Notwithstanding non-maintenance of written
+records, it cannot be concluded that the debt and default cannot be
+established under the IBC. In any case, as per Section 238 of the
+Code, provisions of the IBC override other laws.
+30. The Appellant also relies upon the judgment of this Tribunal, in
+‘Narendra Kumar Aggarwal & Anr. Vs Monotrone Leasing Pvt.
+Ltd. (supra)’. Even though the Adjudicating Authority has concluded
+that this would not come to the rescue of the Financial Creditor, yet it
+has been relied by the Appellant. The relevant extracts are as follows:
+“... 11. Thus, the contention of Financial Creditor is fully
+authenticated from the Money Receipt and bank transaction
+statement. The Appellant contends that the transaction may be
+treated as the ‘Inter-Corporate Deposit’, but it cannot be treated
+as the Financial Debt. In case the Inter-Corporate Deposit is
+made for a certain period, which was to be paid back with
+interest then such transaction will also fall in the definition of
+
+[PAGE 10]
+Page 10 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+‘Financial Debt’. The interest is the product of instant
+transaction, which is undoubtedly the time value of money.
+Thus, such transaction of the inter-corporate deposit is fully
+covered by the definition of Financial debt as provided under
+Section 5(8) of the I&B Code. The written contract cannot be
+treated as an essential element to prove the Financial Debt if
+the transaction's nature is proved otherwise.”
+Contrary to the conclusions of the Adjudicating Authority in the
+impugned order basis Narendra Kumar Aggarwal (supra), we find
+that this judgement comes to the support of the Appellant. In fact, this
+Tribunal has upheld that an oral agreement for inter-corporate loans
+could be considered valid for the purposes of the IBC, if the nature of
+the transaction is otherwise evident from the party’s dealings. And in
+the facts of the case we notice that there is sufficient material
+otherwise which helps us to come to a conclusion that the Appellant
+had disbursed ₹1,50,00,000/- (rupees one crore and fifty lakhs only)
+and the interest is also paid by the Respondent and there is also
+acknowledgement.
+31. The Appellant has also relied upon the judgment of this Tribunal
+in ‘Agarwal Polysacks (supra)’. The relevant extracts are:
+“..... 21. When we look into the statutory scheme as reflected in
+the Application to Adjudicating Authority Rules, 2016 and CIRP
+Regulations, 2016, it is clear that financial debt can be proved
+from other relevant documents and it is not mandatory that
+written financial contract can be only basis for proving the
+financial debt. We, thus, answer Issue No. 1 holding that it is
+not necessary that written financial contract be the only
+material to prove the financial debt.
+.....
+31. The Adjudicating Authority, however, took a view that there
+should be financial contract between the parties which
+elucidate the rate of interest and date of repayment. The
+Adjudicating Authority took a view that there is no written
+agreement to establish the nature of transaction between the
+parties, hence, Appellant failed to prove the debt. We have
+already held that requirement of written financial contract is
+not a pre-condition for proving debt. When Adjudicating
+Authority itself given finding in Para 5-6 the disbursement was
+
+[PAGE 11]
+Page 11 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+with interest and repayment was on demand, two essential
+conditions of financial debt were present with regard to time
+value of money. When the financial statement indicate amount
+with interest since the loan of Rs. 75,00,000 increased in the
+FY 2017-18 and amount due was shown as Rs. 79,70,250,
+which clearly was after adding the interest, disbursement has
+to be held for time value of money. We, thus, are satisfied that
+all preconditions for establishing financial debt are proved by
+the Financial Creditor and the order of the Adjudicating
+Authority rejecting Section 7 application is not sustainable.”
+32. The Appellant has also relied upon another judgment of this
+Tribunal in ‘Satish Balan (supra). The relevant extracts are:
+“.... 14. This ‘Appellate Tribunal’ observe that the Code
+nowhere prescribes that there should be a written agreement
+between the parties to prove the loan and its disbursement to
+be treated as financial debts. It is also observed that if there
+are acknowledgments by the ‘Corporate Debtor’ and where the
+statements of accounts of the ‘Corporate Debtor’ are in position
+to proof disbursement of loan and payment of interest, the
+absence of formal written agreement would not bar the
+‘Financial Creditor’ (the Respondent No. 1 herein) from initiating
+the CIRP.”
+Herein this Tribunal had clarified that a written agreement is not a
+condition precedent to proving the existence of a financial debt.
+Acknowledgments
+by
+the
+Corporate
+Debtor
+and
+supporting
+documents like ledger accounts can be sufficient to prove the debt.
+This also supports the case of the Appellant.
+33. It is to be noted that the loan is also recorded in the balance sheet
+of the Appellant even though as “other liabilities” instead of “loan”
+and this does not negate the existence of a financial debt and
+therefore the conclusion of the Adjudicating Authority that this is not
+a financial debt cannot be sustained. Even if we don’t rely on this
+material on record, there is sufficient other material on record to
+establish debt and default.
+34. After going through the submissions and also materials on record,
+we find that the debt and default is established in the matter. In fact,
+the Respondent has not even bothered to appear before this Tribunal
+to defend its case. Under these conditions when the Appellant has
+
+[PAGE 12]
+Page 12 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+been able to establish the debt and default, the finding of the
+Adjudicating Authority dismissing the Section 7 Petition cannot be
+sustained. Accordingly, the order of the Adjudicating Authority dated
+21.11.2023 is set aside. The Corporate Debtor, namely Brick and
+Mortar Realty Private Limited, is ordered to be proceeded under
+Section 7 of the Code. The NCLT, Kolkata Bench, is to issue necessary
+order in this regard within 30 days of its presentation before the
+NCLT, Kolkata Bench.”
+
+13.
+When we look at the above judgment, it is clear that the IBC does not
+stipulate or prescribe the need to have a written agreement between the parties
+to prove any disbursement of loan to be treated as a financial debt. It is also a
+clear derivative of this judgment that the RBI Circular does not prevail over IBC
+proceedings and therefore not mandatory for any NBFC to furnish any written
+financial contract or a written agreement between the parties to substantiate a
+financial debt in terms of the scheme of IBC.
+14.
+It is an admitted fact that in the present facts of the case, there is no
+written contract or agreement between the Appellant and the Corporate Debtor
+governing the terms and conditions by which the sum was advanced by the
+Appellant and disbursed to the account of the Corporate Debtor. Be that as it
+may, when we look at the material which has been placed on record with the
+Section 7 petition, we find that bank statements of the Appellant showing
+disbursement to the Respondent has been shown from FY 2013-14 till July
+2016. For the same period, it is also an uncontroverted fact that the Respondent
+had issued loan receipts besides Demand Promissory Notes as well as
+confirmation letters acknowledging receipt of loan. In addition, the Respondent
+has issued several letters of acknowledgement of loan renewal for the period
+
+[PAGE 13]
+Page 13 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+2013-2017 which also reflects accrual of interest. There are also signed
+confirmation of accounts issued by the Respondent from the FY 2013-14 to FY
+2017-18. Besides unequivocal admission and acknowledgement of financial debt
+by the Respondent, the TDS deduction made on interest components as well as
+issue of post-dated dishonoured cheques are also a clear proof of disbursement
+of loan with interest. Thus, when we apply the ratio of the Desana Impex
+judgment supra to the present factual matrix, the Adjudicating Authority is
+found to have grossly erred in holding that as there was no written agreement
+or financial contract between the Corporate Debtor and the present Appellant-
+NBFC/Financial Creditor, there was no foundational basis for claiming that the
+Corporate Debtor owed a financial debt to the Appellant in terms of Section 5(8)
+of IBC.
+15.
+This now brings us to the other contention raised by the Appellant that
+the Adjudicating Authority had wrongly non-suited the Section 7 petition vide
+CP No. 146 of 2023 on the ground that the Appellant had withdrawn the earlier
+Section 7 petition vide CP No. 215 of 2022. It was contended that it was wrong
+on the part of the Adjudicating Authority to hold the present Section 7 petition
+as not maintainable merely on the ground that the Adjudicating Authority had
+never allowed the Appellant the liberty to come up afresh with a Section 7
+petition on the failure of the Settlement Agreement of 18.11.2022 and that the
+Appellant had not obtained the leave of the Court to file it. Submission was
+pressed that it is well settled by judicial precedents laid down by this Tribunal
+in Shraddha Enterprises Vs Simplex Infrastructures Ltd. in CA(AT)(Ins)No.
+1661 of 2023 and Desh Bhushan Jain, Erstwhile Director of Angel
+
+[PAGE 14]
+Page 14 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+Promoters Pvt. Ltd. Vs. Abhay Kumar in CA(AT)(Ins)No. 124 of 2024 that
+breach of settlement gives rise to a new cause of action which breach in the
+present facts of the case entitled the Appellant to file a new Section 7 petition.
+Once there occurs a breach of settlement terms by the Corporate Debtor, the
+legal right of the Appellant-Financial Creditor in seeking appropriate legal
+remedy under relevant provisions of the IBC cannot be denied on the hyper-
+technical ground that the Adjudicating Authority had never given liberty to revive
+the Section 7 petition. In the present case, it was pressed that when there was
+a clear incidence of breach of settlement, the Appellant was well within its rights
+to institute a fresh Section 7 petition under the IBC. It was also asserted that it
+was misplaced on the part of the Adjudicating Authority to apply the principles
+of res judicata in the present case without appreciating the fact that the earlier
+Section 7 petition had not been finally adjudicated by it on merits. It was strongly
+canvassed that not allowing the Appellant to file a new Section 7 petition on
+grounds of res judicata would lead to a situation where unscrupulous Corporate
+Debtors like the present Respondent would deflect the initiation of a Section 7
+petition and easily cheat gullible creditors by entering into sham Settlement
+Agreements bereft of any bonafide intent to fulfil the terms of Settlement
+Agreement.
+16.
+It is the counter case of the Respondent that the Appellant had not
+exercised their right under Clause 10 of the Settlement Agreement which gave
+them the right to revive the original company petition. To invoke this clause, the
+Appellant should have filed the Settlement Agreement before the Adjudicating
+Authority while seeking withdrawal of the original company petition but the
+
+[PAGE 15]
+Page 15 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+same was not done. When the settlement between them was neither filed nor
+brought on record before the Adjudicating Authority, the right and liberty to
+revive the Section 7 company petition was not established. The Respondent in
+support of their contention has relied on the judgment of the Hon’ble Supreme
+Court in Sarguja Transport Service Vs State Transport Appellate Tribunal,
+M.P, Gwalior 1986 SCC Online SC 233. Reliance was also placed on the
+judgment of the Hon’ble Supreme Court in HPCL Bio-Fuels Ltd. Vs Shahaji
+Bhanudas Bhad 2024 SCC Online SC 3190 and in Satheesh V.K. Vs Federal
+Bank Ltd. 2025 SCC Online SC 2046 which held that unconditional
+withdrawal of the first petition under the same article would not be maintainable
+at the instance of a party who withdraws the petition without leave to challenge
+the original order again. It was also contended that present is not a case of
+restoration of the original petition but amounts to a fresh application. It was
+further pointed out that filing of CP No. 146 of 2023 by the Appellant on account
+of default of the original debt amounted to filing of two applications on the same
+cause of action which cannot be done under law. The Appellant having
+withdrawn the first Section 7 petition could not have filed a second Section 7
+petition for the same cause of action since there was complete res judicata in
+respect of cause of action in the first petition.
+17.
+To come to our analysis and findings, we may first advert our attention to
+the various judgements relied upon by both the parties. The Respondent has
+relied upon the Sarguja Transport Service judgement supra to contend that
+the Appellant cannot file a fresh petition for the same cause once it has
+withdrawn the same petition without the permission of the court to file fresh
+
+[PAGE 16]
+Page 16 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+suit. We do not feel the need of reproducing the excerpts of the Sarguja
+Transport Service judgement supra as the same has been copiously extracted
+in the impugned order. Instead, we choose to extract the judgment of the Hon’ble
+Apex Court of HPCL Bio-Fuels Ltd. supra which has also been relied upon by
+the Respondent as reproduced below:
+“46. Undoubtedly, an application under Section 11(6) of the Act, 1996 is
+not a suit and hence will not be governed stricto-sensu by Order 23 Rule 1
+of the CPC. However, in a number of decisions, this Court has extended the
+principle underlying Order 23 Rule 1 to proceedings other than suits on the
+ground of public policy underlying the said rule. The appellant has
+submitted that in view of the aforesaid decisions, there is no reason why
+the principles of Order 23 Rule 1 should not be extended to an application
+for appointment of arbitrator under Section 11(6) of the Act, 1996.”
+The same principle of extending the application of Order 23 Rule 1 of the Code
+of Civil Procedure has been further reiterated by the Hon’ble Supreme Court in
+the matter of Satheesh V.K. judgement supra. However, it is noteworthy that
+this rule is applicable as a rule in the realm of suits. Moreover, in the above
+judgements, the Hon’ble Supreme Court have taken the view that the principle
+adumbrated in Order 23 Rule 1 should apply to SLPs, Writ petitions and
+Arbitration proceedings not on the ground of res judicata but as a public policy
+to avoid multiplicity of litigation and to discourage the litigants from indulging
+in bench-hunting tactics. The applicability of the ratio of these judgements is
+therefore not contextually relevant in the present factual matrix arising out of
+IBC proceedings.
+18. We next come to a set of judgments of this Tribunal which have been relied
+upon by the Appellant to buttress their standpoint. The first judgement banked
+
+[PAGE 17]
+Page 17 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+upon by the Appellant is that of this Tribunal in Shraddha Enterprises supra
+which is as reproduced below:
+“12. Thus, in our considered opinion, the Ld. Tribunal has committed a
+patent error in dismissing the application of the appellant because if this
+procedure is allowed to be adopted then the unscrupulous Corporate
+Debtor like the respondent may keep on cheating the gullible operational
+creditors who would believe them that they would make their payment
+in installments and thus entered into the settlement. We strongly
+condemn the act and conduct of the respondent in this case because
+such type of cases are increasing day by day specially in the matter of
+operational creditors, where the corporate debtor like the respondent
+first enters into a settlement and then after paying one or two
+installments stop making the payment and when the application is filed
+for revival then the same is dismissed by the Tribunal on the hyper
+technical grounds. The judgment relied upon by the appellant is not
+applicable. Therefore, in the aforesaid discussion we allow this appeal
+and set aside the impugned order and restore the application filed under
+Section 9 by the appellant.”
+We find that the facts in the above case are squarely applicable in the present
+matter at hand as in that case too there was a similar factual position wherein
+after a Settlement Agreement had been entered into between the Corporate
+Debtor and Financial Creditor, the Section 7 petition had been withdrawn by the
+Financial Creditor but when the post-dated cheques which had been issued as
+part of the settlement was dishonoured, the Financial Creditor filed a fresh
+Section 7 petition. The fresh Section 7 petition had been opposed by the
+Corporate Debtor on the ground that at the time of withdrawal of the first Section
+7 petition, no permission had been sought from the Adjudicating Authority to
+revive the petition in case of breach but the Adjudicating Authority rejected the
+contention of the Financial Creditor and admitted the Section 7 petition. This
+decision of the Adjudicating Authority was upheld by this Tribunal by opining
+
+[PAGE 18]
+Page 18 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+that if any such Section 7 petition is held to be non-maintainable, it would lend
+premium to unscrupulous Corporate Debtors to enter into Settlement
+Agreements and secure immunity from fresh Section 7 petitions without abiding
+by the settlement terms.
+19.
+Another judgment which has been relied upon by the Appellant is in the
+case Desh Bhushan Jain supra wherein this Tribunal was not impressed with
+the argument that an application under Section 7 cannot be filed on the basis
+of a settlement. The relevant excerpts of the judgment is as reproduced below:
+“19. ......The debt and default was admitted by the Corporate Debtor and
+hence, approached the Financial Creditors for entering into a settlement to
+make the payment in instalments through post-dated cheques both in
+regard to the principal as well as interest component. The Financial
+Creditors believed the Corporate Debtor and entered into the agreement
+and further on the asking of the CD filed a joint application in the first
+petition not only to bring on record the settlement but also to withdraw the
+first petition being sanguine of the fact that CD would keep its words and
+shall honour all the post-dated cheques in time but they were not aware of
+the intention of the CD as it had not made payment beyond Rs. 1,10,00,000
+and were still in the arrears of more than Rs. 3 Cr. The Financial Creditor
+then filed the second petition of the reduced debt about which the default
+is not in question, therefore, the Adjudicating Authority has rightly
+admitted the application.
+20.
+At this stage, we would like to observe that if this kind of tricks,
+played by the CD with the FC are allowed and the plea raised by the
+Appellant is accepted that the second petition on the ground of settlement
+agreement is not maintainable then it would give a premium to the
+unscrupulous CD to get the petition filed under Section 7 withdrawn on the
+basis of the settlement which was not to be ultimately followed. Definitely,
+this kind of attitude and act on the part of the CD is not appreciated.”
+
+When we look at the above two judgements relied upon by the Appellant, we find
+force in the contention of the Appellant that when the Respondent had caused a
+
+[PAGE 19]
+Page 19 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+breach of the settlement terms of 18.11.2022 and a fresh Section 7 petition had
+been filed, the same could not have been dismissed by the Adjudicating
+Authority on hyper-technical grounds that a Section 7 petition cannot be
+restored or revived on the breach of the settlement terms.
+20.
+It is also clear from the facts placed on record that while withdrawing the
+first company petition, it was clearly pointed out to the Adjudicating Authority
+that the first company petition was being withdrawn in view of a Settlement
+Agreement. It is therefore indisputable that the broad factum of settlement
+between the parties had been brought to the knowledge of Adjudicating
+Authority even though admittedly the exact terms of the Settlement Agreement
+had not been placed before the Adjudicating Authority. Thus, the fact that there
+was a Settlement Agreement was clearly in the knowhow of the Adjudicating
+Authority at the time of filing the Section 7 withdrawal petition even though the
+terms of settlement were not brought on record. Be that as it may, the Corporate
+Debtor had not discharged the obligations cast upon them in accordance with
+the Settlement Agreement following the institution of the first company petition.
+Once there is breach of settlement terms by the Corporate Debtor, the legal right
+of the Appellant in seeking the legal remedy under relevant provisions of the IBC
+cannot be dismissed on the hyper-technical ground that the Adjudicating
+Authority had never given liberty to revive the Section 7 petition. Allowing any
+such interpretation would give undue benefit to the Corporate Debtor inspite of
+having breached the settlement terms. This Tribunal in its earlier judgements
+extracted above have strongly deprecated dismissal of Section 7 petitions on
+such technical grounds by observing that permitting any such procedure would
+
+[PAGE 20]
+Page 20 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+enable unscrupulous Corporate Debtors to exploit Creditors by entering into
+sham settlements.
+21.
+We also notice that while the Adjudicating Authority has rightly held that
+breach of terms of Settlement Agreement would not annihilate the nature and
+character of financial debt on account of breach. However, where the
+Adjudicating Authority has erred is on holding the applicability of res judicata in
+the present case. Once the Adjudicating Authority had permitted the Appellant
+to withdraw the first Section 7 petition, all the proceedings taken therein stood
+wiped out. When there was no adjudication by the Adjudicating Authority in
+CP(IB) No. 215 of 2022 as the same was withdrawn, the reliance on principles of
+res judicata by the Adjudicating Authority in respect of CP(IB) No. 146 of 2023
+lacked legal foundation. The parties were thus left in the same position which
+they had occupied as if no such Section 7 petition had been instituted in the
+first instance. The fresh petition under Section 7 of IBC was not barred as the
+principles of res judicata were inapplicable. The breach of settlement clearly gave
+rise to a new cause of action in favour of the Appellant to file a Section 7
+application and the Adjudicating Authority had misdirected itself by applying
+the principles of res judicata in the present case.
+22.
+We are guided by the well settled legal precepts laid down by the landmark
+judgement of the Hon’ble Supreme Court in Innoventive Industries Ltd. Vs
+ICICI Bank (2018) 1 SCC 407 wherein the incidence of financial debt and
+default has been lucidly explained by observing as below:
+“27. The scheme of the Code is to ensure that when a default takes place,
+in the sense that a debt becomes due and is not paid, the insolvency
+resolution process begins. Default is defined in Section 3(12) in very wide
+
+[PAGE 21]
+Page 21 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+terms as meaning non-payment of a debt once it becomes due and payable,
+which includes non-payment of even part thereof or an instalment amount.
+For the meaning of “debt”, we have to go to Section 3(11), which in turn
+tells us that a debt means a liability of obligation in respect of a “claim”
+and for the meaning of “claim”, we have to go back to Section 3(6) which
+defines “claim” to mean a right to payment even if it is disputed. The Code
+gets triggered the moment default is of rupees one lakh or more (Section 4).
+The corporate insolvency resolution process may be triggered by the
+corporate debtor itself or a financial creditor or operational creditor. A
+distinction is made by the Code between debts owed to financial creditors
+and operational creditors. A financial creditor has been defined under
+Section 5(7) as a person to whom a financial debt is owed and a financial
+debt is defined in Section 5(8) to mean a debt which is disbursed against
+consideration for the time value of money. As opposed to this, an
+operational creditor means a person to whom an operational debt is owed
+and an operational debt under Section 5(21) means a claim in respect of
+provision of goods or services.
+
+28. When it comes to a financial creditor triggering the process, Section 7
+becomes relevant. Under the explanation to Section 7(1), a default is in
+respect of a financial debt owed to any financial creditor of the corporate
+debtor – it need not be a debt owed to the applicant financial creditor.
+Under Section 7(2), an application is to be made under sub-section (1) in
+such form and manner as is prescribed, which takes us to the Insolvency
+and Bankruptcy (Application to Adjudicating Authority) Rules, 2016. Under
+Rule 4, the application is made by a financial creditor in Form 1
+accompanied by documents and records required therein. Form 1 is a
+detailed form in 5 parts, which requires particulars of the applicant in Part
+I, particulars of the corporate debtor in Part II, particulars of the proposed
+interim resolution professional in part III, particulars of the financial debt
+in part IV and documents, records and evidence of default in part V. Under
+Rule 4(3), the applicant is to dispatch a copy of the application filed with
+the adjudicating authority by registered post or speed post to the registered
+office of the corporate debtor. The speed, within which the adjudicating
+authority is to ascertain the existence of a default from the records of the
+information utility or on the basis of evidence furnished by the financial
+creditor, is important. This it must do within 14 days of the receipt of the
+application. It is at the stage of Section 7(5, where the adjudicating
+authority is to be satisfied that a default has occurred, that the corporate
+debtor is entitled to point out that a default has not occurred in the sense
+that the “debt”, which may also include a disputed claim, is not due. A
+
+[PAGE 22]
+Page 22 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+debt may not be due if it is not payable in law or in fact. The moment the
+adjudicating authority is satisfied that a default has occurred, the
+application must be admitted unless it is incomplete, in which case it may
+give notice to the applicant to rectify the defect within 7 days of receipt of
+a notice from the adjudicating authority. Under sub-section (7), the
+adjudicating authority shall then communicate the order passed to the
+financial creditor and corporate debtor within 7 days of admission or
+rejection of such application, as the case may be.
+
+XXXX XXXX XXXX XXXX
+
+30. On the other hand, as we have seen, in the case of a corporate debtor
+who commits a default of a financial debt, the adjudicating authority has
+merely to see the records of the information utility or other evidence
+produced by the financial creditor to satisfy itself that a default has
+occurred. It is of no matter that the debt is disputed so long as the debt is
+“due” i.e. payable unless interdicted by some law or has not yet become
+due in the sense that it is payable at some future date. It is only when this
+is proved to the satisfaction of the adjudicating authority that the
+adjudicating authority may reject an application and not otherwise”.
+
+23.
+When we peruse the above judgment of the Hon’ble Apex Court, it is clear
+that under the ambit of Section 7 of the IBC, the Adjudicating Authority is only
+required to determine whether there was a debt and if a default thereto has
+occurred and whether the debt, which may still be disputed, was due and
+remained unpaid. It is a well settled proposition of law that only two alternative
+courses of action are available to the Adjudicating Authority under Section 7(5)
+of the IBC which is to either admit the application under Section 7(5)(a) or reject
+the petition under Section 7(5)(b). The moment the Adjudicating Authority is
+satisfied that a default has occurred, the Application is to be admitted unless it
+is incomplete.
+24.
+In our considered view, when debt and default was adequately
+demonstrated basis records made available before the Adjudicating Authority by
+
+[PAGE 23]
+Page 23 of 23
+Company Appeal (AT) (Insolvency) No. 2068 of 2024
+
+the Appellant, the Adjudicating Authority failed to appreciate the evidence and
+material produced before it proved that a debt had arisen; that a default has
+occurred and the default is above the prescribed threshold. This is a case where
+all the pre-requisites for filing a Section 7 petition stood fulfilled and the
+Adjudicating Authority committed an error in not admitting the Corporate
+Debtor into CIRP for having defaulted in repaying a financial debt which was
+above the threshold limit.
+25.
+In result, we are of the view that grounds stated by the Adjudicating
+Authority for rejection of the Section 7 application was erroneous. The Appeal is
+hereby allowed. We set aside the impugned order and direct the Adjudicating
+Authority to pass an order of admission of Section 7 application under IBC
+within a period of one month from the date when the copy of this order is
+produced and to take further steps in accordance with the law. No order as to
+costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+
+Place: New Delhi
+Date: 19.03.2026
+Abdul

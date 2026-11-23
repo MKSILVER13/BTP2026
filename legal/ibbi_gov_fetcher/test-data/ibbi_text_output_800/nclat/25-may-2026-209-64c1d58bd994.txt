@@ -1,0 +1,1717 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 251 of 2026
+
+(Arising against the impugned order dated 27.11.2025 passed by the
+National Company Law Tribunal, Ahmedabad Bench in I.A. No. 47(AHM)/
+2024 in Company Petition (IB) No. 38 of 2020].
+
+IN THE MATTER OF:
+
+SUMEET INDUSTRIES LIMITED
+Through its Resolution Professional,
+Mr. Satyendra Prasad Khorania,
+having registered office at 402, OK Plus,
+DP Metro Pillar No. 94,
+New Sanganer Road, Jaipur-302019
+
+...Appellant
+
+Versus
+
+1.
+DAKSHIN GUJARAT VIJ COMPANY LIMITED
+
+Through its Managing Director
+
+Having registered office at:
+
+Urja Sadan, Nana Varachha Road,
+
+Kapodara Char Rasta, Surat-395006
+
+2.
+Eagle Group
+
+Through Authorised Signatory
+
+Mr. Radheshyam B. Jaju
+
+Office Address at:
+
+201, Orleans, Sosyo Circle,
+
+Udhna Mangdalla Road, Surat,
+
+Gujarat- 395002
+
+...Respondent No.1
+
+...Respondent No.2
+
+Present:
+
+For Appellant:
+Mr. Ajit Kumar Sinha, Sr. Advocate with Mr. Srijan
+Sinha, Mr. Himanshu Chaubey, Mr. Siddharth Garg,
+Ms. Lihzu Shiney Konyak, Ms. Nitya Prabhakar and
+Mr. Rishi Chouksey, Advocates.
+
+For Respondent:
+
+Ms. Srishti Khindaria, Advocate for R1.
+
+Adv. Saumitra Chaturvedi, Advocate for R2/SRA.
+
+[PAGE 2]
+Page 2 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+J U D G M E N T
+(25th May, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+The present Appeal has arisen out of the order dated 27.11.2025
+passed by the National Company Law Tribunal, Ahmedabad Bench
+(Adjudicating Authority) in I.A. No. 47/2024 in CP(IB) No. 38/2020,
+whereby the application filed by Appellant-Sumeet Industries Limited
+(Corporate Debtor) through its Resolution Professional Mr. Satyendra
+Prasad Khorania, came to be dismissed. Through the said application, the
+Appellant had sought directions against Dakshin Gujarat Vij Company
+Limited (DGVCL)/ Respondent No.1 herein, for restoration of the
+Security Deposit amounting to Rs.8,30,25,606/, which according to the
+Appellant had been illegally adjusted by the Respondent No.1 after
+commencement of the Corporate Insolvency Resolution Process (“CIRP”),
+and further sought re-credit/refund of an amount of Rs.3,78,78,845.48/-
+, which had allegedly been appropriated by the Respondent No.1 towards
+pre-CIRP electricity dues in violation of the moratorium imposed under
+Section 14 of the Insolvency and Bankruptcy Code, 2016 (hereinafter
+referred to as ‘Code’). The Eagle Group which is the Successful Resolution
+Applicant (SRA) in the aforesaid CIRP has been Arrayed as Respondent
+No.2. Aggrieved by dismissal of its application by the Adjudicating
+Authority, Sumeet Industries Limited/ Corporate Debtor has filed this
+appeal through the Resolution Professional before this Appellate Tribunal.
+
+[PAGE 3]
+Page 3 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+Brief Facts of the Case
+2.
+The facts relevant for deciding this matter are as given below:
+i. Proceedings against the Corporate Debtor were originally initiated
+by IDBI Bank through an application filed under Section 7 of the
+Insolvency and Bankruptcy Code, 2016, which came to be registered
+as CP (IB) No. 38/NCLT/AHM/2020 before the Ld. Adjudicating
+Authority.
+ii. The CD was drawing electricity from the Respondent No.1. For the
+month of November 2022, the Energy Bill dated 02.12.2022 was
+issued
+by
+the
+Respondent
+No.1
+for
+an
+amount
+of
+Rs.10,70,96,739.44/-. This included total monthly bill amount;
+outstanding arrears; and delayed payment penalty.
+iii. The aforesaid electricity dues for November 2022 were not cleared
+within the stipulated period, and accordingly, the Respondent No.1
+on 14.12.2022 issued a statutory disconnection notice under
+Section 56 of the Electricity Act, 2003, directing the Corporate
+Debtor to clear the outstanding dues within fifteen days from the
+date of issuance of the notice and further warning that, in the event
+of non-payment, the electricity supply would be disconnected
+without further notice upon expiry of the said period, i.e., on or after
+29.12.2022.
+
+[PAGE 4]
+Page 4 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+iv. Adjudicating Authority vide its order dated 20.12.2022 admitted
+the Sec 7 petition filed by the IDBI Bank and initiated CIRP against
+Sumeet Industries Limited/Corporate Debtor. Consequent upon
+admission, the Adjudicating Authority by order dated 15.02.2023
+confirmed appointment of Mr. Satyendra P. Khorania as Resolution
+Professional.
+v. Following commencement of CIRP, a public announcement came
+to be issued on 28.12.2022 inviting claims from all creditors of the
+Corporate Debtor in accordance with the provisions of the IBC and
+CIRP Regulations. The Interim Resolution Professional (IRP) through
+a communication dated 29.12.2022, informed the Respondent No.1
+regarding initiation of CIRP against the Corporate Debtor and
+specifically requested the Respondent to submit its claims relating
+to the period prior to the insolvency commencement date. The
+Respondent was further informed that uninterrupted electricity
+supply was necessary for keeping the Corporate Debtor operational
+as a going concern during CIRP and was therefore requested not to
+discontinue the electricity supply.
+vi. The Respondent No.1 on 02.01.2023 issued another Energy Bill
+for the month of December 2022 reflecting a net payable amount of
+Rs.6,56,60,308/-. Significantly, the said bill also reflected that an
+“advance payment/security deposit adjustment” amounting to INR
+8,29,34,548/- had been appropriated by the Respondent No.1.
+
+[PAGE 5]
+Page 5 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+vii. Pursuant to the public announcement inviting claims, the
+Respondent No.1 on 06.01.2023 submitted its proof of claim in
+Form-B before the Resolution Professional together with calculation
+sheets, consumer ledger report, December 2022 Energy Bill and
+Adjustment Details Report. After adjustment of Security Deposit of
+Rs.8,30,25,606/- the Respondent No.1 filed its net claim amount to
+Rs.3,03,78,845/-.
+viii.
+The
+Corporate
+Debtor
+thereafter
+made
+payment
+of
+Rs.6,56,60,308/- on 11.01.2023 towards the December 2022
+electricity bill. However, according to the Appellant, the Respondent
+No.1 illegally appropriated the entire amount towards dues for the
+whole month of December 2022 including dues relating to the period
+prior to 20.12.2022, i.e., the insolvency commencement date. It was
+specifically alleged that an amount of Rs.3,78,78,845.48/- paid after
+initiation of CIRP was unlawfully adjusted against pre-CIRP dues in
+violation of Section 14 of the IBC.
+ix. Along with the May 2023 electricity bill dated 01.06.2023 an
+Adjustment Report was issued by the Respondent No.1. The said
+report reflected credit towards interest on the security deposit at the
+rate of 4.25% for Financial Year 2022-23 amounting to
+Rs.2,37,52,721/- and also reflected deduction and deposit of TDS
+with the Income Tax Department. According to the Appellant, if
+interest was calculated on the security deposit amount of
+Rs.8,30,25,606/- at the rate of 4.25%, it corresponded to
+
+[PAGE 6]
+Page 6 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+approximately
+273
+days,
+thereby
+demonstrating
+that
+the
+Respondent continued treating the security deposit as subsisting till
+29.12.2022.
+x. After noticing the alleged adjustment, the Resolution Professional
+on 03.06.2023 addressed a detailed communication to the
+Respondent No.1 raising objection to the deduction of security
+deposit after commencement of CIRP and sought clarification
+regarding the basis on which the adjustment had been carried out
+despite operation of the statutory moratorium. The Respondent No.1
+on the other hand on 23.11.2023 demanded payment of alleged
+outstanding electricity dues pertaining to the CIRP period and
+threatened disconnection of electricity supply in the event of non-
+payment.
+xi. The Resolution Plan of the Corporate Debtor, Sumeet Industries
+Limited, was approved by the Committee of Creditors (“CoC”) on
+21.10.2023. The Appellant on 05.01.2024 filed I.A. No. 47/2024
+before the Ld. Adjudicating Authority seeking directions against the
+Respondent to restore the security deposit amount and refund/re-
+credit amounts allegedly adjusted against pre-CIRP dues in violation
+of Section 14 of the IBC.
+xii. During pendency of the said application, the Respondent again
+issued a notice dated 15.01.2024 threatening discontinuation of
+electricity supply unless payment of Rs.1,76,76,153/- was made
+
+[PAGE 7]
+Page 7 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+within fifteen days. Aggrieved by the said notice and apprehending
+further disconnection, the Corporate Debtor approached the Hon’ble
+Gujarat High Court by filing Special Civil Application No. 1425 of
+2025 seeking protection against disconnection and continuation of
+electricity supply.
+xiii. The Ld. Adjudicating Authority by order dated 16.07.2024
+approved the Resolution Plan submitted by Eagle Group.
+xiv. After the approval of Resolution Plan, Ld. Adjudicating Authority
+vide the impugned order dated 27.11.2025 dismissed I.A. No.
+47/2024 primarily on the grounds that the Resolution Professional
+had accepted the Respondent’s residual claim of Rs.3,03,78,845/-
+after adjustment of the security deposit, that the filing of
+proceedings before the Gujarat High Court amounted to forum
+shopping, and that the application had been filed after approval of
+the Resolution Plan. Aggrieved by the said findings and dismissal of
+its application, The RP has preferred the present Appeal before this
+Appellate Tribunal.
+Submissions of the Appellant/ RP of Sumeet Industries Ltd.
+3.
+Ld. Counsel for the Appellant submits that the present Appeal has
+been validly instituted by the Corporate Debtor through its Resolution
+Professional, Mr. Satyendra Prasad Khorania. The institution and
+continuation of the present proceedings have been duly authorised by the
+Monitoring Committee in its 3rd Meeting dated 20.12.2025, wherein a
+
+[PAGE 8]
+Page 8 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+conscious decision was taken authorising the Chairman to sign, file and
+pursue the present Appeal, engage legal counsel in consultation with the
+Successful Resolution Applicant and bear litigation expenses through the
+SRA in accordance with the Approved Resolution Plan. It is further
+submitted that I.A. No. 47 of 2024 had originally been filed on 05.01.2024,
+much prior to approval of the Resolution Plan on 16.07.2024, at a stage
+when the Resolution Professional was exercising statutory powers under
+Sections 18 and 25 of the IBC for preservation and recovery of the assets
+of the Corporate Debtor. Even subsequent to approval of the Resolution
+Plan, the Monitoring Committee effectively steps into the shoes of the
+Resolution Professional and is competent to continue proceedings initiated
+for recovery of assets belonging to the Corporate Debtor. Reliance is placed
+upon the judgment of this Hon’ble Tribunal in Mehsana Urban Co-
+operative Bank Ltd. v. Swastik Ceracon Ltd., Comp. App. (AT) (Ins.) No.
+1956 of 2025 decided on 12.03.2026, wherein it has been categorically
+held that jurisdiction under Section 60(5)(c) of the IBC continues even after
+approval of the Resolution Plan and proceedings for recovery of amounts
+wrongfully adjusted during CIRP remain maintainable.
+
+4.
+He submits that the present proceedings do not in any manner seek
+reopening, modification or alteration of the Approved Resolution Plan. The
+limited relief sought by the Appellant is restoration of amounts illegally
+appropriated by the Respondent in contravention of Section 14 of the IBC.
+The amounts in question were fully disclosed in the Information
+Memorandum and were consciously factored into the Resolution Plan
+
+[PAGE 9]
+Page 9 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+submitted by the Successful Resolution Applicant. It is submitted that
+Clauses 9.1.16 and 9.1.17 of the Approved Resolution Plan specifically
+preserve and authorise continuation of legal proceedings against the
+Respondent for recovery of such amounts for the benefit of the Corporate
+Debtor and all stakeholders. The very incorporation of these clauses
+clearly demonstrates that the issue was never treated as settled upon
+approval of the Resolution Plan. Clause 9.1.16 specifically records the
+prayer that DGVCL reverse the pre-CIRP adjustment made against
+payments effected by the IRP for running the Corporate Debtor as a going
+concern, whereas Clause 9.1.17 expressly preserves the right of the
+Resolution Applicant to initiate legal proceedings regarding wrongful
+adjustment of the Security Deposit. The stand taken by the Respondent
+that approval of the Resolution Plan extinguishes the present cause of
+action is therefore wholly untenable and contrary to the express terms of
+the Approved Plan itself.
+
+5.
+It is submitted that the Respondent’s defence that the Security
+Deposit
+amounting
+to
+Rs.8,30,25,606/-
+stood
+appropriated
+on
+14.12.2022, i.e. prior to commencement of CIRP on 20.12.2022, is entirely
+false, unsupported and contrary to the documentary record. The
+Respondent has failed to produce even a single contemporaneous
+accounting record, ledger entry, debit advice, communication, adjustment
+memo or financial statement evidencing any such appropriation on
+14.12.2022. The bald assertion made by the Respondent is merely an ipse
+dixit unsupported by legally admissible evidence. In absence of any
+
+[PAGE 10]
+Page 10 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+contemporaneous record establishing actual appropriation prior to
+commencement of CIRP, the Respondent cannot be permitted to defeat the
+statutory protection available under Section 14 of the IBC.
+
+6.
+Ld. Counsel submits that in an attempt to fill the complete
+evidentiary vacuum surrounding the alleged adjustment, the Respondent
+has sought to rely upon an Office Note dated 14.12.2022. The said reliance
+is wholly misconceived and legally unsustainable. The Office Note merely
+records an internal proposal requiring “further deliberation and decision”
+and does not evidence any concluded or effectuated adjustment. The
+document at best reflects an internal discussion and not an actual
+appropriation of the Security Deposit. It is submitted that the said Office
+Note was never communicated to the Corporate Debtor and no
+contemporaneous action was taken pursuant thereto. More importantly,
+the said document was produced for the first time only through an affidavit
+dated 12.08.2025, i.e. more than two and a half years after the alleged
+adjustment. Such highly belated production itself creates serious doubt
+regarding its authenticity and evidentiary value. Had the appropriation
+genuinely occurred on 14.12.2022, contemporaneous accounting records
+and formal adjustment entries would necessarily have existed and been
+immediately produced before the Learned Adjudicating Authority.
+
+7.
+Ld.
+Counsel
+further
+submits
+that
+the
+Respondent’s
+own
+contemporaneous records completely demolish its stand that adjustment
+of the Security Deposit had occurred prior to commencement of CIRP.
+Firstly, the deduction of TDS amounting to Rs.2,63,919/- and
+
+[PAGE 11]
+Page 11 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+corresponding reflection in Form 26AS clearly establish that the
+Respondent itself treated the Security Deposit as subsisting and operative
+at least till 29.12.2022. The act of calculating, crediting and depositing
+TDS on accrued interest is wholly inconsistent with the Respondent’s plea
+that the Security Deposit had already been adjusted six weeks earlier on
+14.12.2022. Secondly, the Respondent’s own Form-B dated 06.01.2023
+records that adjustment of the Security Deposit was processed only on
+06.01.2023, i.e. seventeen days after commencement of CIRP. This
+statutory document maintained by the Respondent itself conclusively
+proves that the appropriation was post-CIRP in nature. Thirdly, the
+electricity invoice dated 02.01.2023 constitutes the very first document
+reflecting reduction of the Security Deposit to “0” and simultaneously
+records an adjustment entry of Rs.8,29,34,546/-. Had the adjustment
+genuinely taken place on 14.12.2022, the Security Deposit would not have
+continued to appear in subsequent records till January 2023. These facts
+were specifically placed on record by the Appellant in the detailed
+Rejoinder dated 07.06.2024. However, despite existence of overwhelming
+documentary evidence, the Learned Adjudicating Authority erroneously
+recorded in Paragraph 16 of the Impugned Order that no evidence
+regarding such credit had been produced.
+
+8.
+He
+submits
+that
+the
+Security
+Deposit
+amounting
+to
+Rs.8,30,25,606/- constitutes an asset of the Corporate Debtor and
+immediately upon commencement of CIRP on 20.12.2022 came under the
+full protection of the moratorium imposed under Section 14 of the IBC.
+
+[PAGE 12]
+Page 12 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+Section 14(1)(c) expressly prohibits any action to foreclose, recover or
+enforce any security interest created by the Corporate Debtor in respect of
+its property during the moratorium period. Reliance is placed upon the
+judgment of the Hon’ble Supreme Court in Central Transmission Utility
+of India Ltd. v. Sumit Binani (2026 INSC 284 decided on 23.03.2026),
+wherein it has been categorically held that no enforcement or
+appropriation of a security deposit is permissible once the moratorium
+takes effect, even if such security could otherwise have been invoked prior
+to CIRP. The Hon’ble Supreme Court further reiterated the principle laid
+down in Bharti Airtel Ltd. v. Aircel Ltd., (2024) 4 SCC 668, that no
+form of set-off can be exercised during CIRP except where contractual set-
+off had already been completed prior to commencement of CIRP. The
+Respondent’s alleged adjustment clearly falls outside this limited
+exception. The Hon’ble Supreme Court additionally observed that
+permitting such set-offs would defeat the pari passu distribution
+mechanism embedded within the IBC framework. Similar principles were
+also affirmed by this Hon’ble Tribunal in Central Transmission Utility
+of India Ltd. v. Summit Binani and Others, 2024 SCC OnLine NCLAT
+1382 and Corob India Pvt. Ltd. Through its Authorized Signatory v.
+Birendra Kumar Agrawal and Others, 2024 SCC OnLine NCLAT 1267,
+wherein unilateral appropriation of deposits during moratorium was held
+impermissible. The Respondent has failed to distinguish any of these
+binding precedents.
+
+[PAGE 13]
+Page 13 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+9.
+Ld. Counsel submits that the Respondent has further unlawfully
+appropriated an amount of Rs.3,78,78,845.48/- out of payments made by
+the Corporate Debtor during the CIRP period towards alleged pre-CIRP
+dues. The payments made by the Corporate Debtor during CIRP, including
+payment dated 11.01.2023, were specifically intended for discharge of
+current operational liabilities so as to ensure continuity of essential
+electricity supply and maintain the Corporate Debtor as a going concern.
+However, the Respondent illegally appropriated Rs.3,78,78,845.48/- from
+such CIRP-period payments towards liabilities relating to the period prior
+to commencement of CIRP. Such conduct is wholly impermissible in law.
+Firstly, appropriation of CIRP-period payments towards pre-CIRP liabilities
+constitutes indirect recovery during the operation of moratorium and
+therefore directly violates Section 14 of the IBC. Payments made during
+CIRP for current operational requirements cannot be diverted towards
+satisfaction of historical dues. Secondly, the Respondent has effectively
+secured a double recovery. The Respondent had already submitted Form-
+B before the Resolution Professional claiming the same pre-CIRP dues and
+thereafter participated in the resolution process as an Operational
+Creditor, ultimately receiving an amount of Rs.7.24 lakhs under the
+Approved Resolution Plan. Having already participated in the insolvency
+resolution mechanism and received distribution under the Resolution
+Plan, the Respondent cannot additionally appropriate CIRP-period
+payments towards the very same pre-CIRP liabilities.
+
+[PAGE 14]
+Page 14 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+10.
+He submitted that the Corporate Debtor vide letter dated 30.11.2023
+specifically informed the Respondent that the electricity bill for December
+2022 had already been paid and despite such payment, the Respondent
+had illegally adjusted an amount of Rs.3,03,78,845.60/- relating to the
+pre-CIRP period. Through the said communication, the Corporate Debtor
+expressly requested the Respondent to credit the said amount against
+current outstanding dues. Despite receipt of such objection and despite
+being fully aware of the legal embargo created by Section 14 of the IBC,
+the Respondent failed to rectify the wrongful appropriation.
+
+11.
+Regarding the allegation of Forum shopping raised by the
+Respondent Ld. Counsel submits that the same is entirely misconceived.
+The Writ Petition filed before the Hon’ble Gujarat High Court, SCA No.
+1425 of 2024, arose from an altogether distinct cause of action and sought
+entirely different reliefs. The said Writ Petition was necessitated by the
+second notice issued under Section 56 of the Electricity Act dated
+15.01.2024 during CIRP, whereby the Respondent demanded payment of
+Rs.17,67,61,531.14/-
+within
+fifteen
+days
+while
+simultaneously
+threatening disconnection of electricity supply. The reliefs sought in the
+writ proceedings pertained to protection against coercive disconnection
+and invocation of writ jurisdiction on account of violation of statutory and
+constitutional safeguards.
+
+12.
+Ld. Counsel submits that in contrast, the present Appeal concerns
+the first Section 56 Notice dated 14.12.2022 issued prior to
+commencement of CIRP and specifically challenges the illegality of
+
+[PAGE 15]
+Page 15 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+subsequent post-CIRP appropriations of the Security Deposit and CIRP-
+period payments in violation of Section 14 of the IBC. The causes of action,
+statutory framework, reliefs sought and jurisdictions invoked in both
+proceedings are therefore entirely distinct and independent.
+
+13.
+He further submits that the Impugned Order suffers from grave and
+fundamental errors of fact as well as law, each of which independently
+renders the order unsustainable and collectively warrants interference by
+this Appellate Tribunal. The Learned Adjudicating Authority has failed to
+appreciate the documentary evidence placed on record by the Appellant
+and has overlooked binding legal principles governing the operation of
+Section 14 of the IBC.
+
+14.
+It is submitted that the factual findings recorded in Paragraph 16 of
+the Impugned Order are demonstrably erroneous and contrary to the
+material available on record. The Appellant had specifically produced the
+Adjustment Report and Energy Bill dated 01.06.2023 recording payment
+of interest at 4.25% till 29.12.2022, Form 26AS reflecting deduction of TDS
+on the Security Deposit, the first Section 56 Notice demanding the entire
+outstanding amount, the invoice dated 02.01.2023 showing deduction of
+the Security Deposit only after commencement of CIRP, and the detailed
+Rejoinder dated 07.06.2024 explaining all relevant facts and chronology in
+detail. Despite such extensive documentary evidence, the Learned
+Adjudicating Authority erroneously proceeded on the basis that no
+evidence regarding continued existence of the Security Deposit had been
+
+[PAGE 16]
+Page 16 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+produced. The Impugned Order is therefore vitiated by complete non-
+consideration of material evidence placed on record and warrants
+interference by this Tribunal.
+Submissions of the Respondent No.1/DGVCL
+15.
+Ld. Counsel for Respondent No.1, Dakshin Gujarat Vij Company
+Limited (“DGVCL”), submitted that the present Appeal filed by the
+Appellant is wholly misconceived, devoid of merit and is liable to be
+dismissed at the threshold itself. It was submitted that the Resolution Plan
+in respect of the Corporate Debtor, Sumeet Industries Limited, already
+stands approved by the Committee of Creditors (“CoC”) on 21.10.2023 and
+thereafter received approval from the Adjudicating Authority on
+16.07.2024. It was further submitted that pursuant to the approval of the
+Resolution Plan, the Successful Resolution Applicant (“SRA”) has already
+taken over the management and control of the Corporate Debtor and the
+Resolution Plan also appears to have been implemented, as reflected from
+Paragraph 5 of the Reply filed by the SRA. In such circumstances, the
+present Appeal is nothing but an attempt to unsettle a concluded CIRP
+and to deprive DGVCL of its legitimate and settled dues, which is
+impermissible in law.
+
+16.
+The Respondent No. 1 raised a bill of Rs. 10,71,63,833.44/- for the
+month of November, 2022. The Corporate Debtor paid an amount of Rs.
+4,45,00,000/- against such bill, leaving an outstanding amount of Rs.
+6,25,96,739.44/-. Against such outstanding arrears, on 14.12.2022, the
+
+[PAGE 17]
+Page 17 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+Respondent No. 1 decided to adjust the security deposit amount of Rs.
+8,30,25,606/- leaving a balance security deposit of Rs.2,04,28,866.56/.
+
+17.
+Corporate Debtor was admitted into the CIRP on 21.12.2022. The
+Respondent No. 1 bifurcated the billing for the month of December into
+two parts, first being the period prior to the initiation of CIRP (01.12.2022
+to 20.12.2022) and second period post the initiation of CIRP (20.12.2022
+to 31.12.2022). The total bill amount for December 2022 was Rs.
+7,86,57,116.68/- out of which Rs. 5,08,07,712/- was for the period prior
+to the initiation of CIRP (01.12.2022 to 20.12.2022) and Rs.
+2,77,81,462.52/- was for the period post the initiation of CIRP (20.12.2022
+to 31.12.2022).
+
+18.
+The Respondent No. 1 adjusted the balance security deposit of Rs.
+2,04,28,866.56/- against the dues of the period prior to the initiation of
+CIRP (01.12.2022 to 20.12.2022) of Rs. 5,08,07,712/-, further leaving a
+balance of Rs. 3,03,78,845.60/- as unpaid dues for the Pre CIRP period
+and the same remained due and payable to the Respondent No. 1 from the
+Corporate Debtor.
+
+19.
+Ld. Counsel further submitted that the Hon’ble Supreme Court in
+Ebix Singapore v. Committee of Creditors of Educomp Solutions Ltd.
+has categorically held that the Code contains no provision permitting
+modification, withdrawal or reopening of a Resolution Plan after the same
+attains binding force under Section 31(1) of the Code. It was submitted
+that the Hon’ble Supreme Court, particularly in Paragraphs 157 to 159,
+164 to 166 and 221 to 224 of the judgment, has clearly laid down that the
+
+[PAGE 18]
+Page 18 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+jurisdiction of the Adjudicating Authority is confined only to examining
+compliance with Section 30(2) prior to approval of the Resolution Plan and
+once the Plan is approved, even such limited jurisdiction stands
+exhausted. It was emphasized that the Hon’ble Supreme Court has further
+clarified that Section 31(1) cannot be interpreted to mean that a Resolution
+Plan remains indeterminate or open to modification or withdrawal.
+Therefore, once finality has attached to the Resolution Plan, particularly
+after approval by the Adjudicating Authority, the same cannot be reopened
+through the present proceedings.
+
+20.
+Ld. Counsel further submitted that the Hon’ble Supreme Court in
+Paragraph 221 of the aforesaid judgment has specifically observed that
+permitting withdrawal or modification of a Resolution Plan after
+submission before the Adjudicating Authority would create an additional
+tier of negotiations not contemplated or regulated by the statute. It was
+therefore argued that the present attempt of the Appellant and the RP to
+revisit settled claims and adjustments after approval and implementation
+of the Plan is contrary to the scheme and object of the IBC.
+
+21.
+Ld. Counsel submitted that in the present case, the Resolution
+Professional had filed IA No. 47 of 2024 after approval of the Resolution
+Plan by the CoC and that too without any authorization or mandate from
+the CoC. It was further submitted that despite the Adjudicating Authority
+recording findings against the RP on this aspect, the same has not been
+challenged in the present Appeal, nor was any rejoinder filed by the RP
+
+[PAGE 19]
+Page 19 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+when the issue regarding lack of authority was specifically raised by
+DGVCL in its reply.
+
+22.
+Ld. Counsel further submitted that the RP has not challenged
+several crucial findings recorded in the Impugned Order. It was pointed
+out that the Adjudicating Authority has already recorded findings that: (a)
+the RP had accepted the Energy Bill of December 2022 along with
+adjustment details and admitted the claim form of DGVCL; (b) the RP had
+accepted the adjusted amount and continued making monthly payment
+bills thereafter; (c) the claim of DGVCL had already been considered under
+the Resolution Plan and approved by the CoC; (d) both the Information
+Memorandum (“IM”) and the Resolution Plan proceeded on the basis of
+DGVCL’s claim after adjustment of the security deposit; (e) IA No. 47 of
+2024 was filed after approval of the Plan by the CoC; (f) there was no
+mandate from the CoC for reclassification or for seeking refund of the
+security deposit and the subsequent approval of the Monitoring Committee
+could not validate earlier unauthorized actions of the RP, especially when
+no Monitoring Committee existed at the relevant time; (g) the RP had also
+filed parallel proceedings before the Hon’ble High Court after approval of
+the Plan and without approval from the competent authority; (h) the RP
+was simultaneously seeking reversal of the security deposit adjustment
+while also retaining the claim amount already settled under the Plan,
+thereby depriving DGVCL of its legitimate dues; and (i) the RP failed to
+produce any evidence regarding the alleged credit in its account and the
+
+[PAGE 20]
+Page 20 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+bills only reflected adjustment. It was submitted that all these findings
+have attained finality.
+
+23.
+Ld. Counsel submitted that the entire case of the Appellant is based
+upon an erroneous factual assumption that the adjustment of the security
+deposit was made after initiation of the CIRP. It was submitted that this
+assumption itself is fundamentally incorrect. Ld. Counsel clarified that the
+adjustment towards pre-CIRP dues was made by DGVCL on 14.12.2022,
+which was prior to the commencement of CIRP on 21.12.2022. It was
+submitted that this fact is clearly borne out from the office note of DGVCL
+at Page 236 as well as from the affidavit filed before the Adjudicating
+Authority at Page 235. It was further submitted that the Impugned Order
+itself specifically records this factual position in Paragraph 13 at Page 88.
+Thus, the adjustment was admittedly pre-CIRP in nature and cannot be
+assailed on the ground urged by the Appellant.
+
+24.
+Ld. Counsel further submitted that the Corporate Debtor had
+furnished a security deposit of approximately Rs.8.30 crores with DGVCL,
+which remained available with DGVCL during November and December
+2022. It was submitted that the details regarding adjustment of the said
+amount against electricity dues had already been set out by DGVCL in
+Paragraphs 15 to 20 of its reply. After such adjustment, the net pre-CIRP
+dues payable by the Corporate Debtor stood reduced to Rs.3.03 crores.
+Accordingly, DGVCL filed its Claim Form-B on 06.01.2023 only for the net
+amount of Rs.3.03 crores after enclosing complete adjustment details and
+the corresponding bill which reflected the security deposit balance as “Nil”.
+
+[PAGE 21]
+Page 21 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+It was submitted that the IRP accepted the said claim without any
+objection and with complete knowledge of all relevant facts and
+documents.
+
+25.
+Ld. Counsel submitted that thereafter the Resolution Plan was
+approved and DGVCL ultimately received only Rs.7.24 lakhs against its
+admitted claim of Rs.3.03 crores. Therefore, both the adjustment as well
+as the admitted claim have attained finality and cannot now be reopened
+after conclusion of the CIRP process.
+
+26.
+Ld. Counsel further relied upon Paragraph 100 of the judgment in
+Ebix Singapore v. Committee of Creditors of Educomp Solutions Ltd.
+wherein the Hon’ble Supreme Court emphasized that sanctity of the
+insolvency process and procedural certainty are essential to the
+functioning of the Code. It was submitted that the RP, having accepted
+DGVCL’s adjusted claim, permitted the IM and Resolution Plan to proceed
+on that basis and allowed the CoC to approve the Plan accordingly, is now
+estopped from turning around and seeking reversal of the very same
+adjustment. It was argued that such conduct amounts to approbation and
+reprobation and cannot be permitted. It was further submitted that the
+present attempt is effectively aimed at denying DGVCL its legitimate claim
+despite the same having already been accepted throughout the CIRP
+process. It was also submitted that the SRA had proceeded strictly on the
+basis of the IM and has no right to seek any undue enrichment by
+reopening settled issues.
+
+[PAGE 22]
+Page 22 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+27.
+Ld. Counsel further submitted that the Adjudicating Authority has
+expressly recorded at Page 89 of the Impugned Order that IA No. 47 of
+2024 had been filed by the RP without any authorization from the CoC. It
+was emphasized that this finding has not been challenged in the Appeal
+and therefore stands conclusive and binding. It was submitted that after
+approval of the Plan by the CoC, the RP could not have independently
+initiated such proceedings.
+
+28.
+Ld. Counsel further placed reliance upon the judgment of the
+Hon’ble Supreme Court in Greater Noida Industrial Development Authority
+v. P.S. Soni and submitted that the Hon’ble Supreme Court has held that
+the RP is under a statutory obligation to collate all claims and the
+Information Memorandum prepared on that basis forms the foundation on
+which resolution applicants submit their plans. It was submitted that in
+the present case DGVCL had filed Claim Form-B on 06.01.2023 for ₹3.03
+crores after adjusting the security deposit and disclosing the same as “Nil”,
+with the adjustment having already been carried out on 14.12.2022, i.e.,
+seven days before initiation of CIRP. The IRP/RP accepted the said claim
+without objection, prepared the IM on that basis, the SRA submitted its
+Resolution Plan accordingly and the CoC approved the Plan on the same
+footing. Hence, the RP is bound by its own acceptance and cannot now
+seek to reopen the issue.
+
+29.
+Ld. Counsel further submitted that the RP is now attempting to
+selectively reverse the adjustment while simultaneously ignoring the
+consequence that the original claim amount of DGVCL would also have to
+
+[PAGE 23]
+Page 23 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+be restored in entirety. It was submitted that if such reversal is accepted,
+DGVCL’s status as a secured creditor to the extent of Rs.8.30 crores would
+also revive, which position was never presented before the CoC during
+CIRP. Such restoration would necessarily vitiate the Resolution Plan itself
+and compel reopening of the entire CIRP process. It was therefore argued
+that the conduct of the RP lacks bona fides and is legally untenable.
+
+30.
+Ld. Counsel submitted that in light of the aforesaid facts and settled
+legal position, there exists no statutory, inherent or residuary jurisdiction
+to interfere with the Impugned Order dated 27.11.2025 passed by the
+Adjudicating Authority. It was submitted that DGVCL’s legitimate dues
+cannot be defeated by an application which itself was filed without
+authority and after conclusion of the CIRP process. It was further
+submitted that security deposit is statutorily recognized and the issue
+concerning interest had already been dealt with by DGVCL before the
+Adjudicating Authority by way of affidavit at Pages 223 and 228-229,
+particularly Paragraphs 12 and 13 thereof, after consideration whereof the
+contentions of the RP stood rejected.
+
+31.
+Ld. Counsel further submitted that issuance of the Disconnection
+Notice dated 14.12.2022 does not in any manner preclude adjustment of
+the security deposit. It was submitted that the statutory period of fifteen
+days prescribed under the Electricity Act is relevant only for the purpose
+of disconnection of electricity supply and not for adjustment of security
+deposit. It was argued that even after adjustment of the security deposit,
+disconnection proceedings could still continue for any outstanding
+
+[PAGE 24]
+Page 24 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+amount. Further, the Disconnection Notice itself contemplates adjustment
+against part payment and therefore such adjustment does not invalidate
+or nullify the notice.
+
+32.
+Ld. Counsel submitted that the Appellant has relied upon the
+judgment of the Hon’ble Supreme Court in CTUIL v. Sumit Binani. However,
+the said judgment is wholly distinguishable on facts. It was submitted that
+in the said case the adjustment had admittedly been carried out after
+initiation of CIRP and after filing of the original claim form without any
+adjustment. Further, the RP therein had immediately disputed the
+adjustment and the Information Memorandum also contained details
+regarding the disputed amounts. Therefore, the factual matrix of the said
+case is entirely different from the present matter.
+
+33.
+Ld. Counsel further submitted that the SRA has relied upon the
+judgment of this Appellate Tribunal in Mehsana Urban Cooperative Bank
+Ltd. v. Swastik. It was submitted that the said decision is also
+distinguishable as in that matter the adjustment was made after initiation
+of CIRP and after filing of claims for the full amount without disclosing any
+mutual set-off or adjustment. It was further submitted that the claims
+therein had already been admitted and amounts were provided under the
+Resolution Plan. Moreover, the subject matter there related to dividend
+amounts and not electricity dues governed by the Electricity Act, 2003. It
+was argued that the said judgment does not deal with a situation where
+the RP had expressly accepted the adjustment, admitted only the net claim
+
+[PAGE 25]
+Page 25 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+amount and thereafter proceeded with the IM and Resolution Plan on that
+basis.
+
+34.
+Ld. Counsel lastly submitted that unlike the present matter, there
+was no issue in the aforesaid cases regarding reopening of an already
+concluded Resolution Plan. Therefore, the said judgments have no
+applicability to the facts of the present case and do not assist the Appellant
+or the SRA in any manner. He therefore requested for dismissal of the
+appeal.
+Submissions of the Respondent No.2/SRA
+35.
+Ld. Counsel for Respondent No. 2/ Successful Resolution Applicant
+(SRA) submitted that he is supporting the Appellant who is seeking
+reversal of the post-CIRP appropriation of the Security Deposit amounting
+to INR 8,30,25,606/- by Respondent No. 1, Dakshin Gujarat Vij Company
+Limited (“DGVCL”), and also seeking re-credit of INR 3,78,78,845.48/-
+which had been appropriated from CIRP-period payments towards pre-
+CIRP dues. It is submitted that both these amounts formed part of the
+asset pool of the Corporate Debtor and were specifically reflected in the
+Information Memorandum. These amounts had also been factored into the
+Approved Resolution Plan submitted by the SRA. Therefore, the unilateral
+appropriation of the said amounts by DGVCL has caused direct and
+irreversible prejudice to the SRA and the stakeholders of the Corporate
+Debtor.
+
+[PAGE 26]
+Page 26 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+36.
+Ld. counsel submits that DGVCL’s sole defence was that the
+adjustment of the Security Deposit had allegedly been carried out vide an
+Office Note dated 14.12.2022, i.e., seven days prior to commencement of
+CIRP on 21.12.2022. However, according to the Respondent No. 2, this
+plea stands completely demolished by DGVCL’s own records and
+documents.
+
+37.
+It was further submitted that DGVCL’s own Form-B receipt dated
+06.01.2023 records that the adjustment was processed on 06.01.2023,
+i.e., seventeen days after commencement of CIRP. Further, the Section 56
+notice dated 14.12.2022 demanded the entire gross outstanding amount
+without giving any deduction or adjustment towards the Security Deposit,
+thereby clearly establishing that no actual appropriation had taken place
+on that date. The counsel further argued that even the Office Note relied
+upon by DGVCL merely referred to “further deliberation and decision” and
+did not record any final or concluded act of appropriation. The said Office
+Note was never communicated to the Corporate Debtor and was only
+produced belatedly through an affidavit dated 12.08.2025.
+
+38.
+He further submitted that DGVCL had additionally appropriated an
+amount of INR 3,78,78,845.48/- from a post-CIRP payment dated
+11.01.2023 towards the very same pre-CIRP dues which had already been
+claimed through Form-B dated 06.01.2023.
+
+39.
+Ld. counsel submits that the objection raised by DGVCL regarding
+the locus of the Resolution Professional and Monitoring Committee was
+
+[PAGE 27]
+Page 27 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+completely baseless both factually and legally. It was submitted that the
+3rd Monitoring Committee Meeting held on 20.12.2025 specifically
+authorised the Chairman to file and pursue the present Appeal before this
+Hon’ble Tribunal, with all litigation expenses being borne by the SRA.
+Further, I.A. No. 47/2024 had been filed on 05.01.2024, which was prior
+to approval of the Resolution Plan on 16.07.2024. Therefore, at the
+relevant time, the Resolution Professional was fully empowered under
+Sections 18 and 25 of the IBC to take all necessary steps for protection
+and preservation of the assets of the Corporate Debtor. It was further
+argued that even after approval of the Plan, the Monitoring Committee
+continued to possess the necessary locus for implementation of the Plan
+and protection of the Corporate Debtor’s assets. The SRA had also been
+impleaded as a formal party by order of this Tribunal itself and was the
+real party in interest, since its financial entitlements exceeding Rs.12
+crores were directly affected. Thus, any technical objection regarding the
+mode or nomenclature of filing stood cured.
+
+40.
+Ld. counsel relied upon the judgment of this Appellate Tribunal in
+Mehsana Urban Co-operative Bank Ltd. v. Swastik Ceracon Ltd.
+decided on 12.03.2026, wherein it was held that the NCLT retains
+jurisdiction under Section 60(5)(c) of the IBC even after approval of the
+Resolution Plan to adjudicate disputes arising out of insolvency
+proceedings. It was further held therein that an application filed by an SRA
+after Plan approval for recovery of assets adjusted during CIRP in violation
+of the moratorium is maintainable. The counsel submitted that Section
+
+[PAGE 28]
+Page 28 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+61(1) of the IBC confers a right of appeal upon “any person aggrieved”,
+which expression is broad and cannot be interpreted narrowly. Thus, both
+the Corporate Debtor acting through the Monitoring Committee and the
+SRA were clearly entitled to maintain the present proceedings. Reliance is
+also placed upon the judgment of the Hon’ble Supreme Court in Central
+Transmission Utility of India Ltd. v. Sumit Binani decided on
+23.03.2026, which has also been relied upon by Appellant.
+
+41.
+Ld. counsel further submitted that Clauses 9.1.16 and 9.1.17 of the
+Approved Resolution Plan specifically authorised the Resolution
+Professional and Monitoring Committee to continue and prosecute all
+litigations and legal proceedings initiated during CIRP or in furtherance of
+the Resolution Plan for the benefit of the Corporate Debtor and all
+stakeholders. Hence, the present Appeal was fully contemplated and
+protected under the Approved Plan itself.
+
+42.
+Ld. counsel submits that the Security Deposit continued to remain
+an asset of the Corporate Debtor beyond 20.12.2022 and any
+appropriation after that date was expressly prohibited under Section
+14(1)(c) of the IBC, which bars all actions for foreclosure, recovery or
+enforcement of any security interest against the assets of the Corporate
+Debtor after commencement of CIRP.
+
+43.
+Ld. counsel further submits that the Office Note dated 14.12.2022
+relied upon by DGVCL could not constitute a valid order of appropriation.
+Reliance was again placed upon Mehsana Urban Co-operative Bank (supra)
+wherein this Tribunal held that an internal office noting without
+
+[PAGE 29]
+Page 29 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+implementation cannot amount to adjustment of the Corporate Debtor’s
+asset. It was argued that the Electricity Act, 2003 itself prescribes a
+statutory mechanism for passing orders by competent authorities and an
+internal, uncommunicated office note does not satisfy any such legal
+requirement. The counsel further submitted that DGVCL’s own argument
+that the 15-day period under Section 56 of the Electricity Act was only for
+disconnection and not for adjustment actually defeats its own case
+because the Section 56 notice itself demanded the full outstanding amount
+without any deduction towards the Security Deposit, thereby proving that
+no appropriation had occurred on 14.12.2022. It was further argued that
+the said 15-day period expired only on 29.12.2022, i.e., after
+commencement of CIRP, and therefore any subsequent action stood
+prohibited by virtue of Section 14 read with Section 238 of the IBC.
+
+44.
+Ld. counsel submits that the contention of DGVCL that the
+Resolution Professional stood estopped by acceptance of the adjusted
+claim and that approval of the Resolution Plan barred reopening of the
+issue was legally unsustainable. It was argued that there can never be any
+estoppel against a statute and any act which is void ab initio under Section
+14 of the IBC cannot be validated merely because the Resolution
+Professional initially accepted the claim. The counsel pointed out that
+objections had in fact been raised by the Resolution Professional through
+letter dated 03.06.2023 and the Corporate Debtor itself had demanded
+restoration of the amounts through letter dated 30.11.2023. Therefore,
+
+[PAGE 30]
+Page 30 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+there was no acquiescence or waiver on part of the Corporate Debtor or
+the SRA.
+
+45.
+He further submitted that the present proceedings do not amount to
+reopening or modification of the Approved Resolution Plan, rather, the
+present proceedings seek recovery of assets which always belonged to the
+Corporate Debtor and which were required to vest in the SRA under the
+Approved Plan. Thus, the judgment of the Hon’ble Supreme Court in Ebix
+Singapore Pvt. Ltd. v. Committee of Creditors of Educomp Solutions Ltd.
+dealing with finality of Resolution Plans has no application to the facts of
+the present case. He also submitted that DGVCL’s argument that its claim
+was duly reflected in the Information Memorandum and claim process and
+therefore the matter stood concluded upon approval of the Resolution Plan
+is fundamentally flawed. It was argued that consideration of DGVCL’s
+claim during CIRP does not authorise DGVCL to unilaterally appropriate
+amounts in violation of the IBC. It was further submitted that if DGVCL’s
+argument were accepted, there would have been no necessity for inclusion
+of Clauses 9.1.16 and 9.1.17 in the Approved Resolution Plan. The very
+inclusion of these clauses demonstrates that all stakeholders consciously
+intended recovery proceedings and litigation concerning such assets to
+continue even after Plan approval.
+
+46.
+Ld. Counsel finally argues that in the light of the aforesaid
+submissions and the binding principles laid down in Central Transmission
+Utility of India Ltd. v. Sumit Binani and Mehsana Urban Co-operative
+
+[PAGE 31]
+Page 31 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+Bank Ltd. v. Swastik Ceracon Ltd., present Appeal is maintainable and the
+same be allowed.
+
+Analysis and Findings
+47.
+We have heard the counsels and gone through the records of the
+case including written submissions of the parties.
+
+48.
+The sole issue which arises for consideration in the present Appeal
+is: ‘Whether Respondent No.1–Dakshin Gujarat Vij Company Limited
+(“DGVCL”) illegally appropriated the Security Deposit amounting to INR
+8,30,25,606/- and wrongly adjusted CIRP-period payments amounting to
+INR 3,78,78,845.48/- towards pre-CIRP dues in violation of Section 14 of
+the Code”.
+
+49.
+Before dealing with the rival submissions, it is necessary to notice
+the relevant facts emerging from the record. The Corporate Debtor was
+admitted into CIRP on 20.12.2022, and simultaneously the moratorium
+under Section 14 of the Code came into operation. The electricity supply
+to the Corporate Debtor was being provided by DGVCL and substantial
+electricity dues had accumulated against the Corporate Debtor. Electricity
+bills dated 01.11.2022 and 02.12.2022 reflected continuing arrears and
+delayed payment charges. Since the outstanding dues remained unpaid,
+DGVCL issued a disconnection notice dated 14.12.2022 under Section 56
+of the Electricity Act, 2003, calling upon the Corporate Debtor to clear the
+outstanding dues within fifteen days, failing which the electricity supply
+was liable to be disconnected.
+
+[PAGE 32]
+Page 32 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+50.
+The Appellant along with Respondent No. 2/SRA have argued that
+despite commencement of CIRP on 20.12.2022 and moratorium imposed
+thereafter, DGVCL appropriated the Security Deposit of Rs.8,30,25,606/-
+against pre-CIRP dues through the electricity bill dated 02.01.2023 and
+further reflected the same in Form-B filed on 06.01.2023. It has also been
+alleged that CIRP-period payments amounting to Rs.3,78,78,845.48/-
+were illegally adjusted towards pre-CIRP dues. It is their case that the
+Office Note dated 14.12.2022 relied upon by DGVCL does not constitute a
+concluded act of appropriation and merely records internal deliberation. It
+has further been argued that the disconnection notice dated 14.12.2022
+demanded the entire gross outstanding amount without deduction of the
+Security Deposit, thereby demonstrating that no adjustment had actually
+taken place before commencement of CIRP. According to the Appellant,
+such adjustment amounts to indirect recovery during moratorium and is
+therefore prohibited under Section 14 of the IBC. The Appellant has relied
+upon the electricity bill dated 02.01.2023, the Form-B dated 06.01.2023,
+the alleged continuation of interest on the Security Deposit till 29.12.2022,
+and the deduction of TDS upon such interest, to contend that the Security
+Deposit continued to remain alive even after commencement of CIRP.
+Reliance has also been placed upon judgments including Central
+Transmission Utility of India Ltd. v. Sumit Binani and Bharti Airtel Ltd. v.
+Aircel Ltd. to contend that unilateral appropriation or set-off after
+commencement of CIRP is impermissible in law.
+
+[PAGE 33]
+Page 33 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+51.
+Per contra, the Respondent No.1 has contended that the decision to
+appropriate the Security Deposit had already been taken on 14.12.2022
+itself, i.e., prior to commencement of CIRP, through an internal Office Note.
+According to the Respondent, the subsequent reflection of such
+adjustment in the electricity bill dated 02.01.2023 and in Form-B dated
+06.01.2023 was only a consequential accounting exercise and not the
+actual date of appropriation. The Respondent has further contended that
+the Resolution Professional was fully aware of the adjustment during the
+CIRP period itself since the Respondent’s claim along with adjustment
+details formed part of the CIRP record. It has also been argued that the
+Resolution Plan has already been approved on 16.07.2024 and
+implementation has commenced, and therefore reopening the issue at this
+stage would disturb the commercial finality attached to the approved
+Resolution Plan.
+
+52.
+The Appellant has relied upon the electricity bill dated 02.01.2023
+and Form-B dated 06.01.2023 to argue that the appropriation was
+admittedly post-CIRP. However, these documents merely indicate the stage
+at which the adjustment came to be reflected in the billing and claim
+records. They do not conclusively establish that the underlying decision
+regarding appropriation itself was taken for the first time after 20.12.2022.
+
+53.
+The Respondent, on the other hand, has consistently relied upon the
+internal Office Note dated 14.12.2022 to contend that the decision
+regarding adjustment of the Security Deposit had already been taken prior
+to commencement of CIRP. The document forms part of the
+
+[PAGE 34]
+Page 34 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+contemporaneous internal record maintained by DGVCL prior to initiation
+of CIRP. The said Office Note also gains significance because it precedes
+the CIRP commencement date of 20.12.2022 as well as the expiry of the
+period granted under the Section 56 notice. In commercial functioning of
+public utility entities, administrative decisions and their eventual
+accounting implementation do not necessarily occur simultaneously.
+Therefore, merely because the consequential reflection of adjustment
+appeared subsequently in the bill dated 02.01.2023 or Form-B dated
+06.01.2023 cannot, by itself, conclusively establish that the underlying
+decision regarding appropriation was first taken after commencement of
+CIRP.
+
+54.
+The office Note dated 14-12-2022 is extracted below:
+
+“DAKSHIN GUJARAT VIJ COMPANY LIMITED
+CIN U40102GJ2003SGC042909
+Regd. & Corporate Office “Urja Sadan”, Nana Varachha Road,
+Kapodra
+Char Rasta, SURAT- 395 006
+Kadodara Division, 66 KV Substation Compound, Kadodara- 394327
+Telephone (02622) 275911
+
+Office Note:
+
+Dt.: 14 Dec 2022
+
+Sub:
+Non-Payment of energy bills for the month of Nov-2022 by EHT
+
+consumer M/s Sumeet Industries Limited bearing HT Cons No.
+
+11921.
+
+In connection to above, M/s Sumeet Industries Limited is EHT
+consumer of DGVCL, Kadodara Division having contract demand of
+13000 KVA bearing HT Cons No. 11921. This office has issued energy
+bill for the month of Nov-2022 amounting to Rs. 107096739.44 on Dtd
+02.12.2022. M/s Sumeet Industries Limited is consistently failing to
+pay the full amount of its monthly energy bills by the due date, making
+it liable for disconnection as per applicable rules. The details are as
+under:
+
+[PAGE 35]
+Page 35 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+S. No.
+Particulars
+Amount
+1.
+Energy bill for the month of
+Nov-2022 billed in Dec-2022
+67259893.71
+2.
+Outstanding Arrears
+39088298.15
+3.
+Delayed Payment Charge
+748547.58
+4.
+Total Arrears of energy bill
+107096739.44
+
+As per the consumer ledger, a Security Deposit of Rs.8,30,25,606/-
+is available with DGVCL. Referencing Corporate Office Circular No.
+DGVCL/GM(F&A)/HT-SD-Adjustment/2020-21/06635
+dated
+30.04.2021, adjustment of the security deposit is permitted at the time
+of TDC, especially for HT consumers with substantial arrears.
+
+In light of the above, the following option is presented for
+consideration:
+
+Adjustment of the Security Deposit against the outstanding
+arrears of the energy bills.
+
+The matter is put up for deliberation and necessary decision.
+
+(Signed on 14-12-2022)
+S.A (Rev)
+Division Office, Kadodara.
+
+(Signed on 14/12/2022)
+
+Note: Adjust SD as per
+norms
+Ex. Engineer (O&M)
+
+DGVCL, Division Office, Kadodara”
+
+55.
+We can see from the office Note above that it was initiated by S.A.
+(Rev) on 14-12-2022 furnishing the details about outstandings of the
+Corporate Debtor amounting to Rs.10,70,96,739.44/- for the month of
+November, 2022 which is payable in December, 2022. The note proposed
+adjustment of Security Deposit (SD) against the outstanding arrears of the
+energy bills. The officer puts up the note for deliberation and necessary
+decision. The Executive Engineer in his noting on the note sheet, orders
+for adjustment of SD as per norms. The aforesaid office note was submitted
+
+[PAGE 36]
+Page 36 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+through an affidavit submitted by the Exe. Engineer on 12.08.2025 in
+compliance with the directions of the Adjudicating Authority. The relevant
+para 3 of the aforesaid affidavit is extracted below:
+“3. In compliance with the direction contained in the
+aforesaid order, I am filing the present affidavit placing on
+record the file noting indicating that the decision to adjust the
+security deposit of the consumer, as available with the
+electricity distribution company, against the past unpaid
+electricity bills was taken on 14.12.2022. A copy of relevant
+page of the file containing official noting is annexed herewith
+and marked as Annexure -A. The original file shall be
+produced at the time of hearing of the application for perusal
+of the Hon'ble Tribunal.”
+
+56.
+We note the following from the aforesaid documents:
+(i)
+The Executive Engineer has approved the Note submitted by
+the SA and has ordered adjustment of SD as per norms; and
+(ii)
+Executive Engineer has also undertaken to produce the
+original file containing the note sheet to the Adjudicating
+Authority at the time of hearing.
+
+57.
+The Appellant has relied upon the last sentence of the office note
+recorded by SA (Rev) dated 14.12.2022 which reads as follows:
+
+“The matter is put up for deliberation and necessary decision”
+
+The Appellant argues that no decision could be taken on that date as the
+matter required deliberation. We are not in agreement with this argument
+of the Appellant. It is undisputed that the Executive Engineer (EE) is the
+competent Authority to order the adjustment of the Security Deposit. He
+
+[PAGE 37]
+Page 37 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+after due consideration, has ordered the adjustment of SD as per norms.
+This decision of EE cannot be questioned vis-à-vis his authority to take
+such decision as Competent Authority. The deliberation in administrative
+parlance is deliberation by the Authority competent to take such decision,
+accordingly, in this case the Competent Authority (EE) has ordered
+adjustment of SD towards outstanding dues. This document has been
+submitted by the competent authority (EE) through an affidavit before the
+Adjudicating Authority and its veracity has not been under question. The
+EE has also undertaken to produce the original file having the aforesaid
+office note before the Adjudicating Authority as and when required. In the
+functioning of the executive branch once a decision is taken by the
+competent authority, the decision becomes binding and comes into effect.
+In this case the security deposit was already lying with the Respondent
+No.1 and subsequent actions are to be taken by commercial/ accounting
+branch relate to making corresponding entries in the records. As the next
+bill for December, 2022 was due in January, 2023 only, the said
+adjustments of security deposit is duly reflected in the bill dated
+02.01.2023. We therefore find no discrepancy in the submission of
+Respondent No.1 regarding the date of adjustment of security deposit,
+which in our view has been correctly stated as 14.12.2022.
+
+58.
+The Appellant has also relied upon the disconnection notice dated
+14.12.2022 issued under Section 56 of the Electricity Act to contend that
+as per the aforesaid section the disconnection was to be effective 15 days
+from the date of issue of notice i.e. on 29.12.2022, and therefore the
+
+[PAGE 38]
+Page 38 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+deduction could not have effected before that date. As the entire gross
+outstanding amount was demanded in the disconnection notice,
+appropriation could have taken place on the last date i.e. 29.12.2022, if
+the payment was not made by them. It is to be noted herein that
+disconnection notice is a statutory notice, which is issued to the
+consumers in default, giving them time to make payments of outstanding
+dues to prevent disconnection. The disconnection notice issued under
+Section 56 of the Electricity Act forms part of the overall recovery
+mechanism relating to electricity dues. Mention of the gross outstanding
+amount in such notice does not necessarily negate the Respondent’s stand
+that an internal decision regarding adjustment had already been initiated
+or approved. The decision to adjust the Security Deposit, on the other hand
+is a commercial decision based upon the past payment behaviour of the
+consumer and is not linked to the statutory notice for disconnection under
+Section 56 of the ‘Electricity Act’. There is no legal or administrative bar
+on initiation of both these actions independently and concurrently. We
+therefore find no infirmity in the actions of the Respondent No.1.
+
+59.
+We now take a look at the computation of the claim filed by the
+Respondent No.1 in the CIRP Proceedings. The Corporate Debtor was
+admitted into the CIRP on 21.12.2022. The Respondent No. 1 raised a bill
+of Rs. 10,71,63,833.44/- for the month of November, 2022 against which
+the Corporate Debtor paid an amount of Rs. 4,45,00,000/, leaving an
+outstanding amount of Rs. 6,25,96,739.44/-. This amount was adjusted
+on 14.12.2022 from the security deposit of CD lying with Respondent No.1
+
+[PAGE 39]
+Page 39 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+amounting to Rs. 8,30,25,606/- leaving a balance security deposit of Rs.
+2,04,28,866.56/.
+
+60.
+The Respondent No. 1 bifurcated the billing for the month of
+December into two parts, first being the period prior to the initiation of
+CIRP (01.12.2022 to 20.12.2022) and second period post the initiation of
+CIRP (20.12.2022 to 31.12.2022). The total bill amount for December 2022
+was Rs. 7,86,57,116.68/- out of which Rs. 5,08,07,712/- was for the
+period prior to the initiation of CIRP (01.12.2022 to 20.12.2022) and Rs.
+2,77,81,462.52/- was for the period post the initiation of CIRP (20.12.2022
+to 31.12.2022). The Respondent No.1 adjusted the balance security
+deposit of Rs. 2,04,28,866.56/- against the dues of the period prior to the
+initiation of CIRP (01.12.2022 to 20.12.2022) of Rs. 5,08,07,712/-, further
+leaving a balance of Rs. 3,03,78,845.60/- as unpaid dues for the Pre CIRP
+period and the same remained due and payable to the Respondent No. 1
+from the Corporate Debtor. The Respondent No.1 filed its claim before the
+Adjudicating Authority in Form-B on 06.01.2023 for this amount of
+Rs.3,03,78,845.60/- which was admitted by the Resolution Professional.
+After the approval of the Resolution Plan by the Adjudicating Authority,
+the Respondent No.1 received an amount of Rs.7.24 lakhs under the
+approved resolution plan against the aforesaid admitted claim in the CIRP
+proceedings.
+
+61.
+The Appellant has further relied upon the alleged calculation of
+interest on the Security Deposit till 29.12.2022 and the corresponding TDS
+deduction reflected in Form 26AS. According to the Appellant, such
+
+[PAGE 40]
+Page 40 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+accounting treatment conclusively proves that the Security Deposit
+continued to subsist beyond commencement of CIRP. However, we find
+merit in the Respondent’s explanation that interest calculation and TDS
+reconciliation are annual/quaterly accounting exercises and cannot
+conclusively determine the precise date of the underlying appropriation
+decision. The appellant has made its own calculations, which in its view
+suggest that the aforesaid security deposit was adjusted after the initiation
+of CIRP on 20.12.2022. As we have already noted that date of adjustment
+of security deposit is to be considered as the date of approval by the
+competent authority. Further the claim submitted by the Respondent No.1
+which had been duly accepted by the Resolution Professional and
+approved in the resolution plan was based upon the calculations of the
+Respondent No.1, which was never disputed by the Appellant till the plan
+approval by the CoC on 21.10.2023. Its only after the approval of the
+resolution plan by the CoC that the Appellant files the IA No. 47 of 2024
+on 05.01.2024, before the Adjudicating Authority. We are not persuaded
+by the arguments of the Appellant at this stage. He could have included
+the claim of Respondent No.1 in the contingent claim category from the
+beginning and could have advised SRA/Respondent No.2 who is
+supporting the appeal, to provide “NIL” or a token amount in the plan.
+
+62.
+Another important aspect is the conduct of the Resolution
+Professional during the CIRP. The record clearly shows that DGVCL filed
+its Form-B claim on 06.01.2023 along with the December 2022 Energy Bill
+and adjustment details. The Resolution Professional accepted the claim
+
+[PAGE 41]
+Page 41 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+form; admitted the claim; and continued making monthly electricity
+payments thereafter. The material on record further shows that the
+Information Memorandum and Resolution Plan proceeded on the basis of
+DGVCL’s claim after adjustment of the Security Deposit and the dues of
+the Corporate Debtor for the remaining dues of December 2022 post CIRP
+initiation on 20.12.2022. Thereafter, the Information Memorandum was
+prepared, the resolution process continued. The Resolution Plan was
+approved by Committee of Creditors (CoC) on 21.10.2023 and ultimately
+by the Adjudicating Authority on 16.07.2024. The Successful Resolution
+Applicant has already taken over management of the Corporate Debtor and
+implementation of the Resolution Plan has commenced. The application
+I.A. No. 47 of 2024 was filed before the Adjudicating Authority after
+approval of the Resolution Plan by the CoC, despite the fact that the
+Appellant/RP was fully aware of the adjustment of the security deposit by
+the DGVCL and related issues.
+
+63.
+We further note that the RP had filed the aforesaid I.A. after the
+approval of the plan by the CoC, pending its consideration of the
+Adjudicating Authority. The CoC was fully operation in this period but the
+RP did not seek the approval or the mandate from CoC before initiating IA
+No. 47 of 2024 to initiate action qua admitted claims which were already
+settled in the resolution plan. It is the submission of the RP that the
+Monitoring Committee has ratified such decision of the RP. We note that
+the CoC is a creature of the Act, while the Monitoring Committee derives
+its existence from the CIRP Regulations. A decision, which should have
+
+[PAGE 42]
+Page 42 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+been taken with the concurrence or at least the knowledge of CoC, could
+not be ratified by the Monitoring committee, which does not have the
+statutory powers like the CoC.
+
+64.
+The material placed on record further shows that the Resolution
+Applicant and the stakeholders were fully aware of the issue regarding
+DGVCL even during CIRP. In fact, specific clauses were incorporated in
+the Resolution Plan preserving the right to pursue proceedings against
+DGVCL. This itself demonstrates that the dispute was not hidden,
+suppressed, or discovered subsequently after plan approval.
+
+65.
+The Appellant has also argued that the present proceedings merely
+seek restoration of monies and do not amount to reopening of the
+Resolution Plan. However, we are unable to accept the contentions of the
+Appellant and ignore the practical consequences of the relief sought. The
+amounts involved exceeds Rs.12 crores. At a stage where the Resolution
+Plan has already attained finality and implementation has commenced,
+any direction for restoration of such substantial amounts would
+necessarily impact the financial assumptions and settled commercial
+rights arising out of the approved Resolution Plan. This would amount to
+modification of the plan after the approval of the same by the Adjudicating
+Authority.
+
+66.
+The Appellant has also contended that the Resolution Professional
+had locus to file and maintain the present proceedings and that clauses
+9.1.16 and 9.1.17 of the Resolution Plan specifically preserved the right to
+
+[PAGE 43]
+Page 43 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+pursue proceedings against DGVCL. While there may not be absolute merit
+in the Respondent’s technical objections regarding maintainability, we find
+that the ultimate dismissal of the application by the Adjudicating Authority
+was not solely founded upon locus or forum shopping. The core findings
+recorded by the Adjudicating Authority are based upon appreciation of
+facts, timing of the alleged appropriation, conduct of the parties during
+CIRP, and the effect of the approved Resolution Plan. Therefore, even
+assuming that the proceedings were maintainable, the Appellant was still
+required to conclusively establish illegality in the Respondent’s actions,
+which in our considered view has not been done.
+
+67.
+We also find that the allegations relating to wrongful adjustment of
+CIRP-period payments amounting to Rs.3,78,78,845.48/- have not been
+supported by a clear and conclusive financial reconciliation. The
+transactions between the parties formed part of a running commercial
+account involving current charges, arrears, delayed payment charges,
+security deposit adjustments, and operational dues. It was necessary on
+the part of Appellant to provide a clear and detailed reconciliation was
+necessary before any finding of illegal double recovery or unjust
+enrichment could have been returned against the Respondent. On the
+other hand, Respondent No.1/DGVCL has furnished their calculations
+based on two energy bills for November and December, 2022 in a clear and
+succinct manner based on which their claim was admitted by the RP. The
+Adjudicating Authority considered these allegations of Appellant found no
+
+[PAGE 44]
+Page 44 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+sufficient ground to grant the relief sought. We do not find the said
+conclusion to be arbitrary or contrary to the material available on record.
+
+68.
+The Appellant has also argued that the Adjudicating Authority
+wrongly observed that the filing of the writ petition before the Hon’ble
+Gujarat High Court amounted to forum shopping. It is true that the writ
+petition arose from the subsequent Section 56 notice dated 15.01.2024
+and sought protection against threatened disconnection of electricity
+supply during CIRP. However, both proceedings substantially arose out of
+the same continuing dispute between the parties concerning electricity
+dues, adjustment of payments, security deposit, and continuation of
+electricity supply during CIRP. In any event, even if the observations
+regarding forum shopping are kept aside, the same do not affect the
+independent findings recorded by the Adjudicating Authority on merits.
+
+69.
+The Appellant has relied upon various cases in their support. We
+now proceed to examine them in the present factual matrix.
+
+70.
+In Central Transmission Utility of India Ltd. v. Sumit Binani
+(2026 INSC 284), the Hon’ble Supreme Court held that appropriation of a
+security
+deposit
+after
+commencement
+of
+moratorium
+would
+be
+impermissible under Section 14 of the IBC. However, the said judgment
+proceeded on the basis that the post-CIRP appropriation stood clearly
+established from the record. In the present case, the findings are to the
+contrary as the security deposit has been adjusted based on the decision
+taken on 14.12.2022, prior to commencement of CIRP, and the subsequent
+
+[PAGE 45]
+Page 45 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+reflection in the electricity bill dated 02.01.2023 and Form-B dated
+06.01.2023 was merely consequential accounting treatment.
+
+71.
+In Bharti Airtel Ltd. v. Aircel Ltd., reported in (2024) 4 SCC 668,
+the Hon’ble Supreme Court observed that unilateral set-off during CIRP
+would defeat the scheme and pari passu principle under the IBC. However,
+in the said case, the set-off sought to be exercised during the subsistence
+of moratorium was not dependent upon any disputed prior decision or pre-
+CIRP appropriation process. In the present case, the adjustment of
+security deposit has taken place based on the Office Note dated
+14.12.2022 and therefore the dispute is essentially factual in nature.
+Moreover, the present case also involves an approved Resolution Plan
+which has already attained finality, unlike the factual background in
+Bharti Airtel. Therefore, the ratio of the said judgment does not assist the
+Appellant in the peculiar facts of the present matter.
+
+72.
+In Corob India Pvt. Ltd. through its Authorized Signatory v.
+Birendra Kumar Agrawal and Others, reported in 2024 SCC OnLine
+NCLAT 1267, this Tribunal considered the legality of unilateral
+appropriation of deposits during the moratorium period and held such
+action to be impermissible under the IBC framework. However, the said
+judgment was rendered in the context of an admitted adjustment made
+during CIRP and did not involve a disputed factual issue regarding whether
+the appropriation decision itself had been taken prior to commencement
+of CIRP. The ratio of the aforesaid judgment is not directly applicable to
+the present case.
+
+[PAGE 46]
+Page 46 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+73.
+The Respondent has relied upon the judgment of the Hon’ble
+Supreme Court in Ebix Singapore Pvt. Ltd. v. Committee of Creditors
+of Educomp Solutions Ltd., reported in (2022) 2 SCC 401, to contend
+that once a Resolution Plan is approved by the CoC and thereafter attains
+approval under Section 31 of the IBC, the same cannot ordinarily be
+reopened or altered. The relevant paragraphs 166 and 167 of the judgment
+are extracted below:
+
+‘166. The binding nature, as between the CoC and the
+successful resolution applicant, of the resolution plan
+submitted for approval by the adjudicating authority is
+further evidenced from the fact that the CoC issues an Lol
+to a successful resolution applicant stating that it has been
+selected as the successful resolution applicant and its plan
+would be submitted to the adjudicating authority for its
+approval. The successful resolution applicant is typically
+required to accept the Lol unconditionally and submit a
+PBG. Sequentially, the issuance of an Lol is followed by its
+unconditional acceptance by the successful resolution
+applicant. In AMTEK Auto1, this Court thwarted a similar
+attempt by a successful resolution applicant who had
+relied on certain open-ended clauses in its resolution plan
+to seek a direction compelling the CoC to negotiate a
+modification to its resolution plan. The resolution plan had
+been approved by the adjudicating authority and the
+resolution applicant's IA was not entertained. The
+resolution applicant had then sought to challenge the
+approval of the resolution plan under Section 61(3) IBC by
+seeking the same relief. This Court rejected the claim and
+observed that: (SCC p. 475, para 30)
+"30. To assert that there was any scope for negotiations
+and discussions after the approval of the resolution plan
+by the CoC would be plainly contrary to the terms of IBC."
+
+167. Regulation 38(3) mandates that a resolution plan be
+feasible, viable and implementable with specific timelines.
+A resolution plan whose implementation can be withdrawn
+at the behest of the successful resolution applicant, is
+
+[PAGE 47]
+Page 47 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+inherently
+unviable,
+since
+open-ended
+clauses
+on
+modifications/withdrawal would mean that the plan could
+fail at an undefined stage, be uncertain, including after
+approval by the adjudicating authority. It is inconsistent to
+postulate, on the one hand, that no withdrawal or
+modification is permitted after the approval by the
+adjudicating authority under Section 31, irrespective of the
+terms of the resolution plan; and on the other hand, to
+argue that the terms of the resolution plan relating to
+withdrawal or modification must be respected, in spite of
+the CoC's approval, but prior to the approval by the
+adjudicating authority. The former position follows from the
+intent, object and purpose of IBC and from Section 31, and
+the latter is disavowed by IBC's structure and objective.
+IBC does not envisage a dichotomy in the binding character
+of the resolution plan in relation to a resolution applicant
+between the stage of approval by the CoC and the approval
+of the adjudicating authority. The binding nature of a
+resolution plan on a resolution applicant, who is the
+proponent of the plan which has been accepted by the CoC
+cannot remain indeterminate at the discretion of the
+resolution applicant. The negotiations between the
+resolution applicant and the CoC are brought to an end
+after the CoC's approval. The only conditionality that
+remains is the approval of the adjudicating authority,
+which has a limited jurisdiction to confirm or deny the legal
+validity of the resolution plan in terms of Section 30(2) IBC.
+If the requirements of Section 30(2) are satisfied, the
+adjudicating authority shall confirm the plan approved by
+the CoC under Section 31(1) IBC.’
+
+74.
+We note from the above, that the Hon’ble Supreme Court has
+specifically emphasized that once negotiations between the CoC and the
+Successful Resolution Applicant conclude and the Resolution Plan is
+approved by the CoC, the commercial terms underlying the Plan attain
+binding character and cannot remain uncertain or indeterminate
+thereafter. In the present case, the Resolution Professional, CoC, and the
+Successful Resolution Applicant were fully aware during CIRP of DGVCL’s
+adjusted claim, the appropriation of the Security Deposit, and the details
+
+[PAGE 48]
+Page 48 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+of the claim filed by the Respondent. The Resolution Plan approved by the
+CoC on 21.10.2023 was based on full awareness of facts of the case by the
+concerned stakeholders. The same resolution plan was thereafter
+approved by the Adjudicating Authority on 16.07.2024. It is a case where
+the claims have been admitted and treated in the resolution plan with full
+knowledge of concerned stakeholders. The Ebix Singapore (supra) fully
+supports the contention of the Respondent No.1 that any changes to the
+resolution plan at this stage would be contrary to the binding agreement
+between the parties, and the completed resolution process cannot now be
+indirectly reopened through the present proceedings by the Appellant.
+
+75.
+Upon an overall consideration of the factual matrix, we find that the
+Appellant has failed to conclusively establish that the appropriation of the
+Security Deposit was affected after commencement of CIRP in violation of
+Section 14 of the IBC. The material on record indicates that the
+Respondent No.1 had taken a decision regarding adjustment of security
+deposit through the Office Note dated 14.12.2022 prior to commencement
+of CIRP. The effect of such decision was immediate as the security deposit
+was lying with the Respondent No.1. It was subsequently reflected in the
+next billing cycle for which the bill was issued on 02.01.2023 and Form-B
+dated 06.01.2023.
+
+76.
+We further note that the Resolution Professional, CoC, and
+subsequently the Successful Resolution Applicant were fully aware of the
+adjusted claim position during CIRP. The Resolution Plan came to be
+approved and thereafter implemented on that basis. Once the CoC, in
+
+[PAGE 49]
+Page 49 of 49
+Company Appeal (AT) (Ins.) No. 251 of 2026
+
+exercise of its commercial wisdom, approved the Resolution Plan after
+considering the financial provisions and claims placed before it, the same
+cannot ordinarily be unsettled at a later stage except within the limited
+framework permissible under the IBC, particularly in light of the principles
+of finality emphasized in Ebix Singapore (supra). In the facts of the present
+case, any such action would amount to amendment to the approved
+resolution plan which would be in the teeth of Ebix (supra) and the factual
+matrix of the case.
+
+77.
+In view of the findings above, we are of the opinion that the Appellant
+has failed to establish any legal or factual infirmity in the Impugned Order
+passed by the Adjudicating Authority. The findings recorded by the
+Adjudicating Authority are based upon proper appreciation of the factual
+matrix, the conduct of the parties during CIRP, and the legal principles
+governing insolvency proceedings.
+
+78.
+We accordingly hold that the Impugned Order dated 27.11.2025
+passed in I.A. No. 47/2024 in CP(IB) No. 38/2020 does not suffer from any
+infirmity The Appeal is accordingly dismissed. No order as to costs.
+
+[Justice Ashok Bhushan)
+Chairperson
+
+1.
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+Place: New Delhi
+Harleen/
+Pragya (LRA)

@@ -1,0 +1,14 @@
+{
+  "schema": "lam-am/1.1",
+  "file": "case2.txt",
+  "n_chars": 168,
+  "offsets": "lf",
+  "spans": [
+    [1, 17, 62, "LEG", "APPL"],
+    [2, 68, 108, "LEG", "ECHR"],
+    [3, 109, 167, "DEC", "ECHR"]
+  ],
+  "relations": [
+    [2, 3, "S"]
+  ]
+}

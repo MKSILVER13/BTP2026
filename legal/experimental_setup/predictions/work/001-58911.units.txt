@@ -1,0 +1,60 @@
+# FILE 001-58911.txt  n_chars=19140  units=193  paragraphs=110
+# SCOPE: legal reasoning starts at char 7454 (unit u88) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 14014 (unit u141) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 7454 hidden (facts/procedure; use --show-all to see them) --
+u88 p61  [7454-7461) H | THE LAW
+u89 p62  [7462-7464) | I.
+u90 p63  [7465-7517) H | ALLEGED VIOLATION OF ARTICLE 6 § 1 OF THE CONVENTION
+u91 p64 ¶16 [7522-7638) | The applicant submitted that he had been a victim of a violation of Article 6 § 1 of the Convention, which provides:
+u92 p64  [7639-7781) Q | “In the determination of his civil rights and obligations …, everyone is entitled to a … hearing within a reasonable time by [a] … tribunal …”
+u93 p64  [7782-7784) | A.
+u94 p65  [7785-7822) H | Period to be taken into consideration
+u95 p66 ¶17 [7827-7973) | The period to be taken into consideration began on 15 March 1990, when the applicant petitioned the Naples District Court for judicial separation.
+u96 p66  [7974-8046) | It ended on 27 May 1998, the date of the Nola District Court’s judgment.
+u97 p66  [8047-8104) | It therefore lasted just over eight years and two months.
+u98 p66  [8106-8108) | B.
+u99 p66  [8109-8156) | Reasonableness of the length of the proceedings
+u100 p67 ¶18 [8161-8390) | According to the Court’s case-law, the reasonableness of the length of proceedings has to be assessed, in particular, in the light of the complexity of the case and of the conduct of the applicant and of the relevant authorities.
+u101 p67  [8391-8952) | In cases relating to civil status, what is at stake for the applicant is also a relevant consideration and special diligence is required in view of the possible consequences which the excessive length of proceedings may have, notably on enjoyment of the right to respect for family life (see, among other authorities, the Maciariello v. Italy judgment of 27 February 1992, Series A no. 230-A, p. 10, § 18, and, mutatis mutandis, the Paulsen-Medalen and Svensson v. Sweden judgment of 19 February 1998, Reports of Judgments and Decisions 1998-I, p. 142, § 39).
+u102 p68 ¶19 [8957-9250) | The applicant drew particular attention to the delay in the proceedings after 15 December 1994, when the presiding judge of the Naples District Court ordered the case file to be transferred to the Nola District Court (which was by then the court with territorial jurisdiction to try the case).
+u103 p68  [9251-9402) | As no judge had been appointed, the case remained dormant until the hearing on 8 May 1997, which in the end was adjourned because the judge was absent.
+u104 p69 ¶20 [9408-9610) | The Commission found that there had been delays attributable to the domestic courts and therefore considered that the proceedings in question had failed to comply with the “reasonable time” requirement.
+u105 p70 ¶21 [9616-9935) | In their memorial to the Court the Government acknowledged that the length of the proceedings had not satisfied that requirement, regard being had, in particular, to the nature of the case and the special diligence called for – according to the Court’s case-law – in the hearing of this type of case by domestic courts.
+u106 p71  [9937-10080) H | 22. The Court observes at the outset that the respondent State cannot be considered responsible for the delay caused by the attempt to reach an
+u107 p72  [10082-10219) | out-of-court settlement, since Mr Laino had himself requested and been granted three adjournments of the hearing (see paragraph 8 above).
+u108 p72  [10220-10424) | The Court notes further that the case was not particularly complex and that the preparation for trial consisted essentially in hearing evidence from four witnesses at the hearing on 22 April 1993 (ibid.).
+u109 p72  [10425-10912) | As to the conduct of the authorities dealing with the case, the Court considers that, having regard to what was at stake for the applicant (judicial separation and determination of the arrangements for custody of the children and access rights), the domestic courts failed to act with the special diligence required by Article 6 § 1 of the Convention in such cases (see the Maciariello and Paulsen-Medalen and Svensson judgments cited above, pp. 10 and 142, §§ 18 and 39, respectively).
+u110 p72  [10913-11133) | The various periods of inactivity attributable to the State, in particular the ones from 25 November 1993 to 15 December 1994 and from the latter date to 10 July 1997, failed to satisfy the “reasonable time” requirement.
+u111 p72  [11135-11265) | Having regard also to the total duration of the proceedings, the Court concludes that there has been a violation of Article 6 § 1.
+u112 p72  [11267-11270) | II.
+u113 p73  [11271-11319) H | ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION
+u114 p74 ¶23 [11324-11460) | The applicant complained that the length of the proceedings had resulted in an infringement of his right to respect for his family life.
+u115 p74  [11461-11518) | He relied on Article 8 of the Convention, which provides:
+u116 p74  [11519-11522) Q | “1.
+u117 p74  [11523-11622) Q | Everyone has the right to respect for his private and family life, his home and his correspondence.
+u118 p75 ¶2 [11626-12034) | There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”
+u119 p76 ¶24 [12039-12173) | In the Commission’s view, there was “no need to examine whether there ha[d], in the instant case, been a violation” of that provision.
+u120 p76  [12174-12217) | The Government agreed with that conclusion.
+u121 p77 ¶25 [12222-12385) | Having regard to the finding in respect of Article 6 § 1 (see paragraph 22 above), the Court sees no reason to differ from the opinion expressed by the Commission.
+u122 p77  [12386-12390) | III.
+u123 p78  [12391-12434) H | APPLICATION OF ARTICLE 41 OF THE CONVENTION
+u124 p79 ¶26 [12439-12477) L | Article 41 of the Convention provides:
+u125 p79  [12478-12759) QL | “If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”
+u126 p79  [12760-12762) L | A.
+u127 p80  [12763-12783) H | Non-pecuniary damage
+u128 p81 ¶27 [12788-13056) L | Mr Laino claimed 70,000,000 Italian lire (ITL) for the non-pecuniary damage which he had allegedly sustained and he requested the Court to take into account, when assessing that damage, the subject matter of the case and the very substantial delays in the proceedings.
+u129 p82 ¶28 [13061-13125) L | The Government regarded the amount sought as wholly unjustified.
+u130 p83 ¶29 [13131-13218) L | The Delegate of the Commission considered that the sum of ITL 17,000,000 would be fair.
+u131 p84 ¶30 [13223-13301) L | The Court holds that the applicant undoubtedly sustained non-pecuniary damage.
+u132 p84  [13302-13460) L | Having regard to the circumstances of the case and to the conclusions in paragraphs 22 and 25 of the present judgment, it decides to award him ITL 25,000,000.
+u133 p84  [13461-13463) L | B.
+u134 p85  [13464-13482) H | Costs and expenses
+u135 p86 ¶31 [13487-13619) L | The applicant also claimed reimbursement of ITL 16,305,440 in respect of his costs and expenses before the Commission and the Court.
+u136 p87 ¶32 [13625-13712) L | The Government and the Delegate of the Commission did not express a view on the matter.
+u137 p88 ¶33 [13717-13820) L | In accordance with its case-law, the Court awards the applicant the sum claimed for costs and expenses.
+u138 p88  [13821-13823) L | C.
+u139 p89  [13824-13840) H | Default interest
+u140 p90 ¶34 [13845-14013) L | According to the information available to the Court, the statutory rate of interest applicable in Italy at the time of adoption of the present judgment is 5% per annum.
+-- tail from char 14014 hidden --

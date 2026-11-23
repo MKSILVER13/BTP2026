@@ -1,0 +1,755 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 555 of 2024
+
+(Arising out of the Order dated 19.12.2023 passed by the National Company
+Law Tribunal, Mumbai Bench, in Interlocutory Application / 699 (MB) 2021
+in CP (IB) 2295/NCLT/MB/2018.)
+
+IN THE MATTER OF:
+
+Present
+For Appellants:
+Mr. J. Rajesh, Dhrupad Vaghani, Jaitegan
+Khurana, Md. A. Ahmed, Adv.
+
+For Respondents:
+
+Mr. Prakash Shinde & Ruchita Jain, Adv.
+J U D G E M E N T
+( 21.01.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant Avil Menezes who is
+Liquidator of Sunil Hitech and Engineers Limited (‘Corporate Debtor’) against
+the Impugned Order dated 19.12.2023 under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘Code’) passed by the National Company Law Tribunal,
+Avil Menezes
+Liquidator of Sunil Hitech and Engineers Limited
+Having office at:
+106, 1st Floor, Kanakia Atrium 2, Cross Road A,
+Behind Courtyard Marriott, Chakala, Andheri East,
+Mumbai City, Maharashtra - 400093
+
+...Appellant
+Versus
+
+Hinduja Leyland Finance Limited
+Having office at: 1, Sardar Patel Road Guindy,
+Chennai – 600032
+
+...Respondent
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 2 of 25
+Mumbai Bench-I (‘Adjudicating Authority’) in I.A. No. 699 of 2021 in CP (IB)
+2295/NCLT/MB/2018.
+2.
+M/s Hinduja Leyland Finance Limited is the Respondent herein.
+3.
+The Adjudicating Authority vide its order dated 10.09.2018 initiated
+Corporate Insolvency Resolution Process (‘CIRP’) against the Corporate Debtor
+and subsequently based on the Resolution Professional’s application, the
+Adjudicating Authority passed an order for liquidation of the Corporate Debtor
+under Section 33 of the Code vide order dated 25.06.2019.
+4.
+The Appellant issued a public announcement as per Regulation 12 of the
+Insolvency and Bankruptcy Board of India (Liquidation Process) Regulations,
+2016 (“Liquidation Regulations”) in several newspapers and received claim of
+Rs. 30,89,42,646/- from the Respondent on 26.11.2019. It has been brought out
+that Corporate Debtor has availed certain credit facilities from Tata Capital
+Financial Service Limited (“TCFSL”) against the movable assets which were
+exclusively charged in favour of the TCFSL. The Appellant submitted that the
+credit facilities were duly paid by the Corporate Debtor and TCFSL by way of
+closure letter dated 24.03.2017 confirmed that the financial facilities stood repaid
+in the books of TCFSL.
+5.
+The Appellant submitted that the Corporate Debtor has availed financial
+assistance from a consortium led by UCO Bank Consortium comprising of
+various banks and financial institutions amounting to Rs. 1970 Crores and entered
+into an Original Working Capital Consortium Agreement (“Consortium
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 3 of 25
+Agreement”) dated 05.12. 2006. Similarly, the Corporate Debtor in UCO Bank
+consortium had entered into Original Joint Deed of Hypothecation
+(“Hypothecation Agreement”) dated 04.12.2006 (as amended from time to time),
+whereby the Corporate Debtor had created charge on the movable assets in favour
+of the UCO Bank consortium.
+6.
+It is the case of the Appellant that UCO Bank consortium had charge on all
+the movable assets of the Corporate Debtor subsequent to release of charge by
+TCFSL on 24.03.2017,
+7.
+The Appellant submitted refinancing facilities were availed by the
+Corporate Debtor from the Respondent and the charge over the movable assets
+was created by the Corporate Debtor in favour of the Respondent on 30.11.2017
+for which charge was already crystalized in favour of the UCO Bank consortium
+much earlier.
+8.
+The Respondent vide an email dated 31.12.2019 sent to the Appellant about
+his intent to realise the movable assets of the Corporate Debtor and in opinion of
+the Appellant, the assets mentioned by the Respondent were originally financed
+by TCFSL and on satisfaction of loan of TCFSL, the charge on movable assets of
+the Corporate Debtor were crystalised in favour of the UCO Bank consortium
+based financial facilities from UCO Bank Consortium and way of various loan
+and hypothecation deeds.
+9.
+The Appellant submitted that the Respondent and the Corporate Debtor had
+entered into several loan agreements between 01.09.2016 to 30.11.2017 by way
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 4 of 25
+of refinancing against the movable assets of the Corporate Debtor. The Appellant
+clarified that the movable assets which has been claimed by the Respondent as
+charge in favour of the Respondent remained unidentified and as the Respondent
+did not provide any details of such assets at the time of submission of the claims.
+10.
+The Appellant brought out that the Respondent, after four months of the
+liquidation commencement, communicated to the Appellant vide letter dated
+28.11.2019 about his decision to realise his security interest on the movable assets
+in accordance with Section 52 of the Code. The Appellant submitted that he vide
+an e-mail dated 18.12.2019 requested the Respondent to furnish a no objection
+certificate from UCO Bank consortium which Respondent failed to furnish and
+therefore, the Appellant vide an email dated 31.12.2019 rejected the claim of the
+Respondent to realise the movable assets.
+11.
+The Appellant stated that the Respondent, aggrieved by the decision of the
+Appellant in rejecting the respondent’s claim, filed an Interlocutory Application
+bearing IA No. 699 of 2021 under Section 42 r/w 16(5) of the Code before the
+Adjudicating Authority and the Adjudicating Authority vide Impugned Order
+dated 19.12.2023 allowed the IA No. 699 of 2021 of the Respondent and hence
+the present appeal before us has been filed by the Appellant.
+12.
+The Appellant explained that one of the pre conditions for availing the
+financial facilities from the UCO Bank consortium was that the Corporate Debtor
+will create security interest by way of Hypothecation in favour of UCO Bank
+consortium. The Corporate Debtor executed various hypothecation agreement
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 5 of 25
+with the UCO Bank consortium creating the first pari-pasu charge overall the
+assets including the movable assets of the Corporate Debtor. Accordingly, both
+the parties entered into Joint Deed of Hypothecation on 04.12.2006 (as amended
+from time to time), whereby the Corporate Debtor created charge on assets of the
+Corporate Debtor in favour of the UCO Bank consortium. The Appellant
+amplified that UCO Bank consortium charge had all the movable assets of the
+Corporate Debtor present and further which happened subsequent to discharge of
+the charge of the Corporate Debtor under common agreement with TCFSL.
+13.
+The Appellant submitted that the Respondent communicated decision to
+realise its security interest and after going through all the relevant documents
+provided by the Respondent, the Appellant came to the conclusion that assets
+mentioned by the Respondent were originally financed by the TCFSL and on
+satisfaction of loan of TCFSL the charge of movable assets were crystalised in
+favour of the UCO Bank consortium and thus, the Respondent could not have
+valid charge on these movable assets.
+14.
+The Appellant submits that as per Section 48 of the Transfer of Property
+Act, 1882 (“TP Act”) in case for same assets, different charges are created then
+earlier created charge will be binding, in absence of any contra special contract.
+The Appellant conceded that although Section 48 of the TP Act is w.r.t.,
+immovable assets, the wordings of Section 48 of the TP Act makes it apparent
+that the principle of priority expressed in Section 48 of the TP Act is equally
+applicable to immovable assets. The Appellant stated that when two or more
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 6 of 25
+instruments are created over the same immovable property, then the rights created
+by the subsequent instrument shall be subject to the rights created by the prior
+instrument unless such is excluded by a reservation in the prior instrument as a
+result of a special contract.
+15.
+The Appellant stated that the Adjudicating Authority has erred in observing
+that there has been consistent understanding between the Corporate Debtor and
+the UCO Bank Consortium that the assets financed including refinanced by the
+lenders remained outside the Consortium lenders shall be charged in favour of
+such financer and the UCO Bank Consortium shall have only second charge over
+such assets.
+16.
+The Appellant submits that the said clause in relevant agreement and 8th
+Supplemental Deed of Working Capital Consortium Agreement dated 12.06.2016
+does not entitle the re-financers to have 1st charge over the assets which was
+already existing with the Corporate Debtor at the time of further loan availed by
+the Corporate Debtor from the Respondent. The Appellant submitted that the
+second charge of the UCO Bank Consortium will only be limited to the new assets
+purchased by the Corporate Debtor through a fresh credit facility. However, this
+relevant clause does not refer to the existing assets which are re-financed by a
+financer as these existing assets are already part of the estate of the Corporate
+Debtor and these assets are not being introduced to the estate of the Corporate
+Debtor because of such refinancing. The Appellant stated that the Adjudicating
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 7 of 25
+Authority wrongly interpreted the said clause in allowing the claims of the
+Respondent.
+17.
+The Appellant submitted that at the time of creating exclusive charge over
+the Movable Assets, the Respondent was duty bound to obtain no-objection
+certificate from the UCO Bank Consortium, however, the Respondent failed to
+provide no-objection certificate from the UCO Bank Consortium.
+18.
+The Appellant submitted that in absence of a no-objection certificate for
+creating an exclusive charge, the charge of the Respondent became a subservient
+charge holder and in view of the decision of the UCO Bank Consortium to
+relinquish their rights in favour of the liquidation estate, the Movable Assets
+formed part of the liquidation estate of the Corporate Debtor. The Appellant cited
+judgment of this Appellate Tribunal in the matter of J.M. Financial Solution
+Private Limited and Ors., passed in Company Appeal (AT) (Insolvency) No. 593
+of 2019, where it was held that the right to realise security under Section 52 of the
+Code is restricted to a creditor that has an ‘exclusive charge’ or ‘sole first charge’
+like UCO Bank Consortium in present case.
+19.
+The Appellant submitted that in absence of the NOC from the UCO Bank
+Consortium, the Respondent does not have any exclusive or sole first charge over
+the Movable Assets of the Corporate Debtor, therefore, the Respondent is not
+entitled to realize the Movable Assets under Section 52 of the Code.
+20.
+The Appellant further stated that the Adjudicating Authority, while
+directing the Appellant to handover the movable assets to the Respondent, failed
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 8 of 25
+to observe that the Respondent could not even identify the assets charged in
+favour of the Respondent. The Appellant submits that in order to resolve the
+situation and identify the movable assets, the Respondent had visited the office
+premises of the liquidator of the company on 12.12.2019 whereby the Respondent
+requested for the entire list of traceable/available assets of the Corporate Debtor.
+The Appellant accordingly provided the entire list of traceable/available assets of
+the Corporate Debtor and consequently, the Respondent vide an email dated
+17.12.2019 stated he was able to identify 14 assets out of the total 291 purported
+movable assets allegedly charged to the Respondent.
+21.
+The Appellant stated that several assets of the Corporate Debtor have
+model numbers which are synonymous with that of the movable assets provided
+by the Respondent and hence it was absolute necessary for the Respondent to
+provide details pertaining to machine number or chassis number or registration
+number etc as required under Section 52 of the Code. However, the Loan
+Documents provided by the Respondent did not have the complete set of
+information with respect to the movable assets that were charged to it, in fact the
+column for the description of the movable assets was not filled by the Respondent
+and the same was left blank.
+22.
+Concluding his arguments, the Appellant urged this Appellate Tribunal to
+dismiss the Impugned Order and allow his appeal.
+23.
+Per contra, the Respondent denied all the averments made by the Appellant
+in the present appeal.
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 9 of 25
+24.
+The Respondent submitted that between 19.03.2015 to 30.11.2017,
+the Respondent provided financial assistance and refinanced the movable
+assets of the Corporate Debtor aggregating Rs. 38,96,50,000/- against the
+specific movable assets under the said refinance scheme and the assets
+against which the loan was availed were exclusively charged to the
+Applicant.
+25.
+The Respondent further submitted that the UCO Bank Consortium
+never had charge on the said movable assets. The Respondent elaborated
+that the said movable assets of the Corporate Debtor were originally financed
+by TCFSL and refinanced by the Respondent. TCFSL, and now Respondent
+has exclusive charge over the said movable assets of Schedule 'K' of his
+agreement. The Respondent submitted that the said movable assets which
+were financed by TCFSL were mortgaged/Charged by the Corporate Debtor
+exclusively in favour of TCFSL, in favour of the Respondent.
+26.
+Explaining the background of his financial assistance to the Corporate
+Debtor, the Respondent stated that the Corporate Debtor was in need of
+additional funds and to get better terms on existing charge, therefore the
+Corporate Debtor approached the Respondent for financial assistance by way
+of re-finance on the said movable assets which were prior financed by
+TCFSL.
+27.
+The Respondent explained that while refinancing the loan, the
+Respondent had also obtained NOC dated 24.03.2017 from TCFSL and
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 10 of 25
+thereafter created charge over the existing unencumbered specific assets.
+The exclusive charge was created in favour of the Respondent and necessary
+charge has been registered with the Registrar of Companies (‘RoC’).
+28.
+The Respondent emphatically submitted that TCFSL and now
+Respondent has exclusive charge over the said movable assets and the UCO
+Bank Consortium has no charge on the said movable assets as alleged by the
+Appellant, thus, the question of obtaining NOC from UCO Bank Consortium
+does not arise.
+29.
+The Respondent submitted that the Appellant had issued public
+announcement on 01.07.2019 inviting the claims from Creditors and the
+Respondent filed his Claim on 26.07.2019. The Appellant vide email dated
+24.09.2019 requested for computation of claim and KYC of authorised
+officer of the Respondent which were furnished by the Respondent to the
+Appellant. The Respondent vide letter dated 28.11.2019, informed the
+Appellant that the Respondent desires to realise his security interest i.e.
+movable assets.
+30.
+The Respondent submitted that Claims of the Respondent were
+admitted by the Appellant on 29.11.2019 vide email dated December 2019
+and requested the Respondent for Inspection report, NOC obtained at the
+time of refinancing . The Respondent vide email dated 20.12.2019, provided
+the NOC obtained from earlier lender and requested details, however, vide
+email dated 31.12.2019, the Appellant has raised the alleged contention that
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 11 of 25
+charge got crystallized in favour of UCO Bank Consortium i.e. after around
+6 months from the commencement of the CIRP of the Corporate Debtor.
+31.
+The Respondent submitted that the 8th Supplemental Deed of working
+capital consortium agreement dated 13.06.2016, executed between the UCO
+Dank Consortium and Corporate Debtor does not affect the rights of the
+Respondent as first charge holder on movable assets of the Corporate Debtor.
+32.
+The Respondent submitted that the UCO Bank Consortium did not
+possess any charge over the said movable assets, which were financed by
+TCFSL, and refinanced by the Respondent and thus there is no question of
+UCO Bank Consortium's holding pari passu charge over the said movable
+assets getting crystallized, as alleged by Appellant. This Respondent stated
+that the Respondent has exclusive charge over the said movable assets.
+33.
+Concluding his arguments, the Respondent submitted that the Appeal
+is liable to be dismissed with costs.
+Findings
+34.
+We note that from 17.06.2014 to 30.06.2014, the Corporate Debtor availed
+financial facilities from TCFSL and financed certain movable assets (around Rs.
+20 Crores) which were exclusively charged in favour of TCFSL. The Corporate
+Debtor repaid the said loan, after which TCFSL issued a closure letter dated
+24.03.2017 confirming that the facilities were repaid.
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 12 of 25
+35.
+We take into consideration the fact that on 05.12.2006, the corporate debtor
+entered into an Original Working Capital Consortium Agreement with UCO Bank
+as the lead bank along with 13 other banks (the “UCO Bank Consortium”). The
+working capital limit was gradually enhanced to Rs. 1970 Crores. The UCO Bank
+Consortium's security included hypothecation of the corporate debtor’s present
+and future assets, both movable and immovable assets.
+36.
+We note that on 10.09.2018, CIRP was initiated against the Corporate
+Debtor and subsequently on 25.06.2019, the Liquidation Order was passed. The
+Respondent filed their claims for Rs. 30,89,42,626/- on 26.07.2019 and the
+Appellant vide an email dated 13.09.2019 acknowledged the claims and sought
+further details. The Respondent on 28.11.2019 wrote to the Appellant seeking to
+realise the security as per Section 52(1)(b) of the Code. In the email dated
+12.12.2019, the Appellant gave the asset list for reconciliation, however, vide an
+email dated 17.12.2019, the Respondent could identify only 14 assets out of 291
+movable assets and sought more time to identify remaining assets. The Appellant,
+vide email dated 18.12.2019, informed the Respondent that the loan agreements
+provided by the Respondent did not specify the Serial No./Chassis No./Machine
+No, therefore, the Appellant could not map the said assets loan-wise. The
+Appellant also requested the Respondent to furnish Inspection Report at the time
+of loan sanction, NOC at the time of refinancing and Invoices against the sanction
+letter.
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 13 of 25
+37.
+We observe that on 31.12.2019, the Appellant sent an email stating that
+TCFSL initially financed the movable assets and thereafter on 24.03.2017, the
+loan was repaid by the Corporate Debtor and a closure letter was issued to the
+Corporate Debtor by TCFSL, hence, the charge stood crystallised in favour of the
+UCO Bank Consortium based on hypothecation deed of UCO Bank Consortium
+with the Corporate Debtor as amended from time to time. The Appellant asked
+the Respondent to submit the NOC obtained from the UCO Bank Consortium. On
+07.10.2020, the Respondent, instead of providing NOC of UCO Bank Consortium
+and identifying all charged assets, issued a letter stating that there was no
+requirement to obtain NOC from UCO Consortium Bank. The Appellant vide
+letter dated 15.10.2020 informed the Respondent that while the Respondent’s
+claims as a creditor have been admitted, the Respondent’s charge is subservient
+to the First Pari-Passu charge of UCO Bank Consortium, especially in the absence
+of the NOC taken from UCO Bank Consortium while refinancing the movable
+assets. On 22.02.2021, the Respondent filed I.A. 699 of 2021 before the
+Adjudicating Authority to realise the assets purportedly charged in favour of the
+Respondent under Section 52 of the Code.
+38.
+It is the case of the Appellant that the Respondent could not identify the
+assets and also that the Respondent is a subservient charge holder to the UCO
+Bank Consortium and cannot realise its security interest under Section 52 of the
+Code. The Adjudicating Authority while passing the Impugned Order dated
+19.12.2023, despite noting that no NOC was taken from the UCO Bank
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 14 of 25
+Consortium, concluded that the assets re-financed by Respondent were outside
+the UCO Bank Consortium lenders charged assets and the UCO Bank Consortium
+gad only second charge as collateral security.
+39.
+We will like to go into details of the relevant clause of the Agreement of
+UCO Bank Consortium, which reads as under :-
+Clauses 1, 2 3 AND 4 – 3rd Schedule of 8th Supplemental
+Deed of Working Capital Consortium Agreement on
+12.06.2016 :-
+1) First Pari-pasu Charge on entire Fixed assets of the
+Borrower including Plant and Machinary, etc. (Movable and
+Plant And Machinery) machinery spares, tools and
+accessories, non-trade receivables and other movables, both
+present and future, whether in possession or under the
+control of the borrower or not, whether installed or not and
+whether now lying loose or in cases or which are now lying
+or stored in or about or shall hereafter from time to time
+during the continuance of these presents be brought into or
+upon or be stored or be in or about all the Borrower’s
+factories, premises and godowns or wherever else the same
+may be or be held by any party to the order or disposition of
+the borrower or in the course of transit or on high seas or on
+order or deliver, excluding assets financed by availing Term
+Loan outside the consortium and other bankers having
+exclusive charge on fixed assets of the borrower in addition
+to the property which is mentioned in the Mortgage Deed to
+cover entire facilities.
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 15 of 25
+2) First Paripasu charge by way of hypothecation on the
+entire current assets present as well as Future of the
+Borrower such as stocks, all kinds of raw materials, stocks in
+process, finished and unfinished goods, (without prejudice to
+the generality of the foregoing words) and all allied and
+incidental products, machinery packing materials spare
+parts and stores of the Borrower and Loose tools (now stored
+or being stored in or which may hereafter from time to time
+be brought into or stored or be in or on any premises,
+warehouse, godowns, showrooms, offices, sales offices
+and/or any other place of steerage whatsoever at factory
+premises or wherever else the same may tie including any of
+the stocks and goods which may be in the course oil transit,
+otherwise or awaiting transit or otherwise, whether now
+belonging to or that may at any time during the continuance
+of this security belong to the Borrower or may be held by any
+party anywhere to the order or disposition of the Borrower
+and all the present and future book-debt, outstanding,
+moneys, receivables, claims and bills which are now due and
+owing or which may at any time hereafter during the
+continuance of this security becomes due or owing to the
+Borrower in the course \ of its business from any person, firm,
+company, body corporate or by any Government of India or
+any; and all any other charge over the movable and
+immovable properties of the Borrower remained to be
+mentioned here shall be treated as Member Banks are having
+first PariPassu Charge over the same.
+3) First Paripassu charge being Primary Security by way of
+Hypothecation on the entire stocks of the inventory,
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 16 of 25
+receivables, bills, and proceeds arising from / in connection
+with above securities, and all rights, title, interest, benefits,
+claims and demands whatsoever of the Borrower in, to or in
+respect of all the aforesaid assets, including but not limited
+to the Borrower's cash-in-hand, of the Borrower (Both
+present and Future).
+4) First Charge by way of Collateral Security in the entire
+fixed assets excluding assets financed by availing Term Loan
+outside the consortium and other bankers having exclusive
+charge on fixed assets of the Borrower and further Pari-
+passu 2nd charge over the fixed assets created by availing
+Term Loan outside the Consortium and other banks having
+exclusive charge on the fixed assets of the Borrower.”
+(Emphasis Supplied)
+
+40.
+It is significant to note that the UCO Bank Consortium had the first Pari-
+passu charge over the movable assets based on third schedule of 8th Supplemental
+Deed of Working Capital Consortium Agreement after the loan stood repaid to
+TCFSL by the Corporate Debtor. We note that subsequently after 8 months on
+30.11.2017, the Respondent refinanced the movable assets of the Corporate
+Debtor aggregating to Rs 38,96,50,000/-.
+41.
+We have noted that 3rd Schedule of 8th Supplemental Deed of Working
+Capital Consortium Agreement has four (4) clauses, each creating the first charge
+in favour of the UCO Bank Consortium. However, paragraph 4.1 of the Impugned
+Order only reproduces Clauses 1 and 4, i.e., regarding the first pari-passu charge
+on the fixed assets and by collateral security. It is significant to note that Clause
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 17 of 25
+2 directly creates the first pari-passu charge through hypothecation on the
+movable assets “present as well as the future” assets of the Corporate Debtor.
+Clause 2 does not contain any exclusions in respect of assets financed by loans
+from other banks and also encompasses “... all any other charge over the
+movable and immovable properties of the borrower remained to be mentioned
+here shall be treated as Member Banks are having first Pari-passu charge over
+the same.”
+42.
+We further note that Clause 3 of 8th Supplemental Deed of Working Capital
+Consortium Agreement also creates the first pari-passu charge as primary security
+through hypothecation and states that the UCO Bank Consortium would have
+first pari-passu charge by way of primary security over the proceeds arising in
+connection with the other securities. Clause 3 create a first right over the proceeds
+from the sale of movable properties, which are the subject matter of the present
+appeal.
+43.
+Thus, it become clear that Clauses 1 and 4, which contain the exclusion
+clause for assets purchased fixed by financing term loans outside the UCO Bank
+Consortium of the 8th Supplemental Deed of Working Capital Consortium
+Agreement can create the first charge over the fixed assets in exclusion to UCO
+Bank Consortium. In other words the assets need to be new as well as fixed assets
+to fall under Clause 1 or even Clause 4 of the 8th Supplemental Deed of Working
+Capital Consortium Agreement. Therefore, it is quite logical to come to
+conclusion that if existing assets especially, movable assets are re-financed, by
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 18 of 25
+any subsequent financer/ lender as against financed for new additional fixed
+assets for Corporate Debtor, then the re-financer will not have any first charge
+over existing movable assets which are already stood charged (as first charge) in
+favour of the UCO Bank Consortium. Therefore, it appears that the Adjudicating
+Authority ignored Clauses 2 and 3, which creates the first charge by
+hypothecation in respect of present and future assets, without any exclusions.
+Thus, we unable to see adequate reasons in the Impugned Order holding that
+“ We find that it has been consistent understanding with the lenders that the assets
+financed by lenders outside the Consortium lenders shall be charged in favor of
+such financier and the Consortium shall have only second charge as collateral
+security”.
+44.
+We have carefully noted that it is the case of the Respondent’s that the first
+pari-passu charge in terms of Clauses 1 and 4 has a carve-out, i.e., “... excluding
+assets financed by availing Term Loan outside the consortium and other bankers
+having exclusive charge on fixed assets of the Borrower in addition to the
+Property which is mentioned in the Mortgage Deed to cover entire Facilities.” At
+this stage, we recall the pleading that the Respondent could not clarify about the
+Respondent’s purported charge by way of hypothecation and therefore, the
+corresponding clauses in the agreement with UCO Bank Consortium, expressly
+create charge by hypothecation, i.e., Clauses 2 and 3 instead of Clauses 1 and 4.
+45.
+We observe that Clauses 1 and 4 provide that in case a bank outside the
+consortium finances the purchase of new assets to the corporate debtor and creates
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 19 of 25
+an exclusive charge over those assets then the first charge of the UCO Bank
+Consortium would be excluded. We consciously take into consideration that the
+Respondent did not finance the purchase of the assets to the Corporate Debtor at
+initial level/ original purchase. It was TCSFL, which had initially financed the
+purchase of the movable assets on 17.06.2014 and 30.06.2014, which the
+Corporate Debtor repaid to TCSFL on 24.03.2017 and therefore upon repayment,
+i.e., after 24.03.2017 – the exclusion in respect of UCO Bank Consortium no
+longer remained applicable. It implies that the UCO Bank Consortium had the
+first pari-passu charge over the movable assets.
+46.
+On the issue of handing over the movable assets to the Respondent, we note
+that the Respondent had, on 17.12.2019, vide email, requested the Appellant
+herein to take possession of fourteen (14) movable assets. Immediately on the
+next day, 18.12.2019, the Appellant informed the Respondent that the Loan
+Agreements with the corporate debtor did not contain the chassis number/serial
+number/machine number. Therefore, the Appellant couldn’t map the assets for
+which the Respondent purported to have charge. The Respondent could not
+correlate the loan agreements with the assets for the fourteen (14) assets.
+Therefore, the Appellant could not verify the charge concerning the movable
+assets by mapping the assets.
+47.
+As regard, the controversy in relation to NoC to be taken by the
+Respondent i.e., from TCFSL or from UCO Bank Consortium, we have already
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 20 of 25
+noted the fact that the Respondent on 30.11.2017, more than 8 months later, on
+30.11.2017, refinanced the movable assets aggregating to Rs 38,96,50,000/-. It is
+the case of the Appellant that at this stage, a NOC needed to be sought from the
+existing charge holder, i.e., the UCO Bank Consortium, primarily because these
+assets were not being financed for the first time and because UCO Bank
+Consortium had the first charge over such movable assets. The first charge got
+crystallised upon repayment of the loan by the Corporate Debtor to TCSFL. Even
+otherwise, the first charge by hypothecation in terms of Clauses 2 and 3 existed
+without any such exclusion in favour of the UCO Bank Consortium. Neither does
+Clauses 1 to 4 allow for assets over which they already have first charge to be
+charged to other bankers upon refinancing. Therefore, in no circumstances could
+any charge have been created in favour of third parties, such as the Respondent
+herein, without the consent or NOC of the UCO Bank Consortium.
+48.
+We have taken note from the pleadings that while conducting due diligence
+as required under Section 52(3) of the Code and Regulation 21 of the Liquidation
+Regulations, 2016, the Appellant vide an email dated 18.12.2019 and 31.12.2019
+categorically requested the Respondent to prove their charges by furnishing the
+NoC obtained from the UCO Bank Consortium. The impugned order also records
+this fact in paragraph 4.3 by stating that it is an admitted fact that no NOC was
+taken from the UCO Bank Consortium. In the absence of an NOC, the charge
+purported by the Respondent was not proved in terms of Section 52(3) of the Code
+read with Regulation 21 of the Liquidation Regulations, 2016.
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 21 of 25
+49.
+The main bone of contention and which is central point of the present
+appeal is regarding as to who has first/ primary charge over movable assets and
+who has second/secondary charge over the said movable assets. Thus, we will
+also need to look into the issue brought before us i.e., whether the Respondent's
+registration of a charge under Section 77 of the Companies Act, 2013, or UCO
+Bank Consortium's non-registration of the charge with the ROC can become the
+basis for disregarding UCO Bank Consortium first charge based on 8th
+Supplemental Deed of Working Capital Consortium Agreement.
+50.
+We take into consideration Section 48 of TP Act, which reads as under-
+“Where a person purports to create by transfer at different times
+rights in or over the same immoveable property, and such rights
+cannot all exist or be exercised to their full extent together, each
+later created right shall, in the absence of a special contract or
+reservation binding the earlier transferees, be subject to the
+rights previously created.”
+(Emphasis supplied)
+51.
+Section 48 of TP Act stipulate Doctrine of Priority which is based on
+the Principles of Natural Justice, asserting that when rights are granted to two
+individuals at different times, the one who possesses the earlier right will also
+have the legal advantage. This principle is applicable only in situations where the
+competing interests of the parties are otherwise equal. This doctrine is derived
+from the legal maxim qui prior est tempore potior est jure, which translates to "he
+who is first in time is stronger in law." Section 48 of the TP Act establishes a
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 22 of 25
+fundamental principle that no individual can transfer a title greater than what he
+possess. This means that if a transferor conveys the same property to multiple
+transferees, each transferee will hold rights equivalent to those of the previous
+transferee. The doctrine dictates that once a transfer is initiated, the transferor
+cannot disregard prior grants or engage with the property without acknowledging
+existing rights.
+52.
+In the case of ICICI Bank v. SIDCO Leather passed in Civil Appeal No.
+2332 of 2006, the Hon’ble Supreme Court of India held that-
+“While enacting a statute, the Parliament cannot be
+presumed to have taken away a right in property. Right to
+property is a constitutional right. Right to recover the money
+lent by enforcing a mortgage would also be a right to enforce
+an interest in the property. The provisions of the Transfer of
+Property Act provide for different types of charges. In terms
+of Section 48 of the Transfer of Property Act claim of the first
+charge holder shall prevail over the claim of the second
+charge holder and in a given case where the debts due to
+both, the first charge holder and the second charge holder,
+are to be realized from the property belonging to the
+mortgagor, the first charge holder will have to be repaid first.
+There is no dispute as regards the said legal position.”
+(Emphasis supplied)
+
+53.
+Thus, Section 48 of the TP Act, clearly protect the right of first charge
+holder. Although, Section 48 strictly speaking is w.r.t. immovable properties, in
+the present case there is common 8th Supplemental Deed of Working Capital
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 23 of 25
+Consortium Agreement, where charges were created both on movable and
+immovable assets of the Corporate Debtor in favour of the UCO Bank Consortium
+, therefore, interpretation of Section 48 of the TP Act will help the cause of the
+Appellant for ensuring the charges in favour of UCO Bank Consortium as first
+charge holder.
+54.
+We note that in paragraph 4.3 of the impugned order, the Adjudicating
+Authority did not consider the requirement of the NOC from the UCO Bank
+Consortium solely on the ground that the charge of the Respondent was registered
+with ROC. On this issue, the Appellant strongly argued that registration of the
+charge does not improve or play a role when it comes to the question of the
+priorities of the charge. Registration is only a form of proof under Liquidation
+Regulation 21. It cannot take away or improve/substantiate a charge created, such
+as hypothecation or a mortgage, under the TP Act.
+55.
+We note that this Appellate Tribunal in its earlier order in Canara Bank v.
+Mr S Rajendran Liquidator of Cape Engineers passed in Company Appeal (AT)
+(CH) (Ins) No. 277 of 2023, passed on 07.03.2024, held that :-
+“53. In addition, the ‘non-registration of the Mortgage', as
+per Section 77 of the Companies Act, 2013, is not a
+sufficient/enough ground to come to an ‘opinion' that the
+‘Appellant' is not a ‘Secured Creditor'. In reality, the ‘rights’
+of a ‘Mortgagee', under the ‘Transfer of Property Act', 1882
+and the ‘SARFAESI Act’, are not to be diluted, in terms of
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 24 of 25
+Regulation 21 of IBBI (Liquidation Process) Regulations,
+2016.”
+(Emphasis Supplied)
+56.
+This Appellate Tribunal in the matter of Unit Small Finance Bank Ltd. v.
+SripathamVenkatasubramaniam Ramkumar passed in Company Appeal (AT)
+(Ins) No. 601 of 2024, passed on 16.04.2024 held that Section 77 of the
+Companies Act, 2013 cannot be the basis for treating a creditor as unsecured as
+long as the security was created in terms of Section 3(31) of the Code.
+57.
+This Appellate Tribunal in the matter of J.M. Financial Asset
+Reconstruction Company Ltd v Finquest Financial Solutions Pvt. Ltd. passed
+in Company Appeal (AT) (Ins) 593 of 2019 held that after enforcement of right
+under Section 52 of the Code by one of the secured creditors, no other secured
+creditor can enforce his right subsequently. Thus, only one secured creditor can
+enforce his right to realise its debt out of secured assets under Section 52 of the
+Code. The Hon’ble Supreme Court of India has in various judgments including
+in the matter of DBS Bank v. Ruchi Soya [(2024) 3 SCC 752] that Sections 52
+and 53 of the Code must be read together, and also Section 53(2) expressly states
+that contractual arrangement inter-se creditors must be disregarded. Only if the
+asset is charged exclusively to a particular creditor then Section 52 can be given
+effect.
+58.
+Thus, the arguments of the Respondent w.r.t. his holding first charge on
+movable assets of Corporate Debtor due to charge registered with RoC are not
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 555 OF 2024
+
+Page 25 of 25
+attractive. For same reason, we do not find the Impugned Order on this issue
+convincing and therefore we do not support the same.
+59.
+In view of above detailed analysis we find merits in the arguments of the
+Appellant. The appeal succeeds and the Impugned Order is set aside. No costs.
+I.A. if any are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+Sim

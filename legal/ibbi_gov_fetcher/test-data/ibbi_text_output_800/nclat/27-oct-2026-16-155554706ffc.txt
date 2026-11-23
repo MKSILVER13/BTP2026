@@ -1,0 +1,267 @@
+[PAGE 1]
+1
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH
+NEW DELHI
+
+COMPANY APPEAL (AT)(INS) NO.666/2026
+(Arising out of judgement and order dated 06.02.2026 passed by National
+Company Law Tribunal, Mumbai Bench in IA(IBC)/5600/MB/2025 in
+CP(IB)No.37/MB/2025)
+In the matter of:
+Poonam Anoop Wadhera,
+S/o Sh Anoop Kumar Wadhera
+R/o 9/1, Sarvpriya Vihar,
+New Delhi-110016
+
+Appellant
+
+Vs
+Canara Bank,
+Stressed Asset Management Branch
+Head Office at 112, J C Road,
+Banglore 560002
+
+Branch Office:
+Canara Bank Building Conmplex,
+C-14, G Block, Bandra-Kurla Complex,
+Bandra, Mumbai 400051.
+
+Respondent
+
+For Appellant:Mr Abhinav Sharma, Ms Avsi Malik, Advocates.
+
+For Respondent: Mr. Anup Khaitan, Mr. Harsh Gupta, Ms Akshita Rathudi, Mr
+Aayush Khanvitkor, Advocates. For R1.
+Mr. Pramod Kumar Ladda, Ms Honey Tillani, Ms Shahnaj, Ms Aparjita Mishra,
+Mr Mayur Vanjare, Advocates.
+
+ORDER
+
+JUSTICE YOGESH KHANNA, OFFICIATING CHAIRPERSON
+
+The instant Appeal is preferred under Section 61(1) of the Insolvency and
+Bankruptcy Code, 2016 (”IBC”) against an Impugned Order dated 06.02.2026
+
+[PAGE 2]
+2
+
+(“Impugned Order”) passed by the Ld. National Company Law Tribunal, Mumbai
+Bench (“NCLT”) in Interlocutory Application No. (IBC)/5600(MB)/2025 (“IA”) filed
+by the Respondent in C.P. (IB) No. 37/MB/2025, whereby the Respondent Bank
+under Section 95(1) of the Insolvency and Bankruptcy Code, 2016 (“IBC”) sought
+initiation of Insolvency Resolution Process against the Appellant, being a
+Personal Guarantor to the Corporate Debtor i.e. M/s Frost International Limited
+and the application urges the same has been erroneously admitted.
+2.
+The Financial Creditor had sanctioned working capital facilities to the
+Corporate Debtor in the year 2014 under consortium arrangements.
+Supplemental Working Capital Consortium Agreement and the Deed of
+Guarantee(s) were executed on 12.05.2014 and Supplement Joint Deed of
+Hypothecation on 23.05.2015. The alleged renewal of the Deed of Guarantee is
+stated to have taken place on 26.11.2015.
+3.
+It is argued the debt is claimed to have become due on 17.04.2018 and
+the account of the Corporate Debtor was classified as NPA on 17.07.2018.
+However, Application under Section 95 of the Code, came to be filed only on
+08.11.2024, i.e., more than six years after the alleged date of default. The
+limitation prescribed under Article 137 of the Limitation Act, 1963 is three years.
+4.
+It is argued the Appellant had specifically raised the objection of limitation
+before the Ld. Tribunal, contending the application was hopelessly time-barred
+and not maintainable. However, the Ld. Tribunal failed to record any categorical
+finding on limitation and mechanically proceeded to admit the petition under
+
+[PAGE 3]
+3
+
+Section 100 of the IBC, primarily relying upon the Resolution Professional’s
+report without independently determining the jurisdictional issue of limitation.
+5.
+It is argued the limitation goes to the root of maintainability and cannot
+be bypassed in insolvency proceedings and thus the Impugned Order permits
+revival of a time-barred claim, which is impermissible in law and the Impugned
+Order therefore suffers from patent illegality and non-application of mind.
+6.
+Being aggrieved by the Impugned Order dated 06.02.2026, the Appellant
+has preferred the present Appeal seeking setting aside of the said Order and
+dismissal of the Section 95 application as barred by limitation.
+7.
+We have heard the arguments advance by both the counsel. We have also
+perused the impugned order. The finding given in the impugned order are as
+under: -
+29. The Financial Creditor has filed this Petition on the basis of
+default said to have occurred on 17.07.2018, which appears to
+be date of classification of account of principal borrower as
+NPA. The date of default qua corporate debtor is distinct than
+the date of default qua personal guarantor in case of on
+demand guarantee as the default qua personal guarantor
+occurs upon expiry of period stated in the notice calling upon
+the personal guarantor to pay in terms of the personal
+guarantee, which in present case is Invocation Notice dated
+19.01.2019 issued under Section 13(2) of the SARFAESI Act
+requiring the Corporate Debtor and the Personal Guarantor(s),
+including the Personal Guarantor herein, to pay the outstanding
+dues within 60 days of receipt of said notice.
+30. In terms of notice dated 19.01.2019 the limitation period
+starts from the expiry of the 60 days period i.e., 29.03.2019.
+The three years limitation for filing the captioned Petition ends
+on 28.03.2022. The period from 15.03.2020 to 28.02.2022 is to
+be excluded in view of decision in the case of Suo Moto WP
+(Civil) No. 3 of 2020, as further explained in the decision in case
+of M/s Arif Azim Co. Ltd. Vs M/s Aptech Ltd. (2004) 3 S.c.R. 73:
+2004 INSC155, holding at Para 84 that '"the effect of the above-
+referred order of this Court in the fact of the present case is that
+
+[PAGE 4]
+4
+
+the balance limitation left on 15.03.2020 would become
+available w.e.f. 01.03.2022. The balance period of limitation
+remaining on 15.03.2020 can be calculated by computing the
+number of days between 15.03.2020 and 27.03.2021, which is
+the day when the limitation period would have come to an end
+under ordinary circumstances. The balance period thus comes
+to 1 year to 13 days. This period of 1 year 13 days become
+available to the Petitioner from 01.03.2022, thereby meaning
+that the limitation period available to the petitioner for invoking
+arbitration proceedings would have come to an end on
+13.03.2023". In other words, the limitation period would stop to
+run from 15.3.2020 and shall again start running from
+1.3.2022. Accordingly, the balance period of 23 months 13
+days available on 15.3.2020 shall start from 1.3.2022, which
+takes the limitation to 12.03.2024. This Petition has been filed
+on 8.11.2024. 31. Hon’ble NCLAT in Shankar Khandelwal Vs.
+Omkara Asset Reconstruction Pvt. Ltd and Another Company
+Appeal (AT) (Ins) No. 293 of 2025 dated 15.10.2025 has held
+that “In the end, the first impression which the appellant’s
+counsel could make, on a deeper scrutiny turns out to be
+unsustainable. This tribunal holds that that the admission of
+the Claim by the RP in the first CIRP against the CD on
+22.05.2022 constituted a valid acknowledgement and its
+subsequent updating on 21.02.2024 constituted the second
+acknowledgement, and if terminus a quo is reckoned from any
+of these dates, then both the petitions laid by the respondent
+are validly instituted as the debts are not time barred on the
+respective dates when they were so instituted.
+32. In the present case, the CIRP in case of Corporate Debtor
+commenced on 9.2.2023 pursuant to an application filed by
+Bank of India. Further, we note that the claim of the financial
+creditor herein was verified by the Resolution Professional in
+CIRP of Corporate Debtor and was admitted. Accordingly, the
+liability due to the financial creditor has been verified by the RP
+of the Corporate Debtor in its CIRP as within limitation in itself
+constitutes acknowledgement by the Corporate Debtor and
+binds the Guarantor as well thereby further extending the
+period of limitation in view of aforesaid judicial precedent.
+Accordingly, we are of considered view that the present petition
+is within limitation period and is maintainable.
+33. The Financial Creditor issued a Demand notice dated
+01.12.2023 under Rule 7(1) of the Insolvency and Bankruptcy
+(Application to Adjudicating Authority for Insolvency Resolution
+Process of Personal Guarantors to Corporate Debtors) Rules,
+2019 calling upon the Personal Guarantor(s) to pay the unpaid
+debt in default.
+
+[PAGE 5]
+5
+
+34. Upon perusal of the documents on record, it is clearly
+established that the Corporate Debtor has committed default in
+repayment of loan amount granted by the Financial Creditor.
+Personal Guarantor(s) of Frost International Limited has also
+committed default in repayment of the loan demanded by the
+Financial Creditor after invocation of Personal Guarantee. The
+Petition filed by the Financial Creditor satisfies the requirement
+asset out in Section 95 of the Code.
+
+8.
+On perusal of the impugned order we find the Ld. NCLT has held the
+admission of the claim of a creditor by the Resolution Professional would amount
+to an acknowledgment of debt and would increase the limitation for filing the
+petition. The Ld. NCLT has heavily relief upon Shankar Khandelwal Vs Omkara
+Asset Reconstruction Pvt. Ltd. and Another, Company Appeal (AT) (Ins)
+No.293/2025 decided on 15.10.2025 by this Tribunal to come to such
+conclusion.
+9.
+However, the Ld. NCLT has failed to take note of the fact the said
+judgement has been set aside by the Hon’ble Supreme Court in Civil Appeal Nos.
+13158-13159 of 2025 decided on 29.04.2026 wherein the Hon’ble Supreme
+Court has held as under:-
+16. The third issue pertains to legal character of the admission
+of a claim by the IRP/RP and whether such admission can be
+construed as admission of liability so as to extend the period of
+limitation under Section 18 of the 1963 Act. At the outset, it
+must be noted that scope and ambit of Section 18 of the 1963
+Act are well-settled. For a writing to constitute a valid
+acknowledgment, it must be made by the party against whom
+the right is claimed, or by a person duly authorized on its
+behalf; it must be made before the expiration of the prescribed
+period of limitation; and, most importantly, it must evince a
+conscious and unequivocal intention to admit a subsisting jural
+relationship and an existing liability. A mere reference to a past
+transaction or a bald recital of a debt, without an intention to
+admit liability, would not suffice. The said principle has been
+
+[PAGE 6]
+6
+
+authoritatively enunciated by this Court6. The provisions of the
+Code and the Regulations were considered by this Court7 and
+it has been held that RP has no adjudicatory powers and his
+role involves collation of claims. RP performs its administrative
+duties under Section 18 of the Code. The admission of a claim
+by RP is merely an administrative/clerical task performed as
+part of its statutory duties under Section 18 of the Code8 and,
+therefore, admission of claim by RP only means induction/entry
+of a claim. An admission of a claim by RP is akin to mere
+recital/reference of debt, which does not amount to an
+acknowledgment under Section 18 of the 1963 Act9. Therefore,
+IRP’s admission of secured financial creditors debt in first CIRP
+was not an acknowledgement under Section 18 of 1963 Act.
+Accordingly, third issue is answered.
+17.
+It
+is
+a
+well-settled
+legal
+proposition
+that
+an
+acknowledgment under Section 18 of the 1963 Act can only
+extend/renew a limitation period which has not already
+expired. Therefore, a limitation period can be extended only by
+an acknowledgment which is made within the period of
+limitation. In any case, the admission of claim of secured
+creditor by IRP on 02.05.2022 does not enure to the benefit of
+the secured financial creditor as the same was not made
+within the period of limitation.
+10.
+Per the law laid down by the Hon’ble Supreme Court while setting aside
+the judgement in Shankar Khandelwal (supra) and also considering the facts on
+records, we are satisfied the Company Petition was well beyond the period of
+limitation as is also stated in the impugned order itself in its para 30 above,
+where it says the limitation actually expired on 12.03.2024 and the petition was
+filed much beyond that i.e. 08.11.2025. Thus we admit the appeal and set aside
+the impugned order by saying the petition filed was much beyond the period of
+limitation and the admission of a claim by the Resolution Professional shall not
+amount to an acknowledgement of debt per Section 18 of the Limitation Act. The
+Company Petition i.e. C.P. (IB) No. 37/MB/2025 is thus dismissed.
+11.
+With the above observations, the appeal stands disposed of.
+
+[PAGE 7]
+7
+
+12.
+Pending applications are also disposed of.
+
+(Justice Yogesh Khanna)
+Officiating Chairperson
+
+(Mr. Barun Mitra)
+Member (Technical)
+Dated:27.10.2026
+Bm

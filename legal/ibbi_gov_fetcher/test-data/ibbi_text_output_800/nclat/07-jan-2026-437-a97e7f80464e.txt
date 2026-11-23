@@ -1,0 +1,793 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Ins) No. 2001 of 2024
+
+[Arising out of the Order dated 10.09.2024, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal, New
+Bench – III, in CP(IB) No.26/ND/2024 and I.A. No. 2253/2024]
+
+IN THE MATTER OF:
+
+1.
+
+UJWAL GUPTA
+S/o Radha Raman Gupta, R/o H.No. I-61,
+South City, Gurugram, Haryana – 122001
+Email: ujwal.rcbm@gmail.com
+
+...Appellant
+Versus
+
+1.
+UNION BANK OF INDIA
+(through its authorized signatory)
+Having its office at:
+Stressed Asset Management Branch,
+Delhi Unit No. 603 B, Konnectus Tower,
+Bhav Bhuti Marg, Opposite New Delhi
+Railway Station,
+Ajmeri Gate Side, New Delhi – 110001
+Email: hgupta466@gmail.com
+
+...Respondent No.1
+2.
+MR. VIMAL KUMAR
+(Resolution Professional)
+Having its office at:
+V 1104, The Hyde Park, Sector 78, Noida,
+Uttar Pradesh – 201301
+Email: maidvimal@rediff.com
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. Palash S. Singhai, Ms. Sonam Sharma, Mr.
+Harshal Sareen, Advocates
+For Respondent
+:
+Mr. Viren Sharma, Mr. Yash Srivastava, Ms. Naveli
+Garg, Advocates for R-1.
+Mr. Shivam Gautam, Advocate for R-2.
+
+[PAGE 2]
+Company Appeal (AT) (Ins) No. 2001 of 2024 2 of20
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Justice Mohd. Faiz Alam Khan, Member (Judicial)]
+
+Instant appeal has been preferred by the Appellant (Personal
+Guarantor) under Section 61 of the Insolvency and Bankruptcy Code,
+2016 (in short ‘Code’) assailing the order dated 10.09.2024 (impugned
+order) passed by the NCLT, New Delhi, Bench –III (Adjudicating Authority)
+whereby I.A No. 2253 of 2024 filed by the RP/Respondent No. 2 was
+disposed of and CP (IB) No. 26 of 2024 filed by the Union Bank of India
+(Financial Creditor) under Section 95 of the Code was admitted and
+personal insolvency was initiated against the Appellant/Personal
+Guarantor.
+2.
+It is to be recalled that the Financial Creditor, namely, Union Bank of
+India, during the pendency of this appeal, vide assignment agreement dated
+07.10.2024 assigned its debt due from the Corporate Debtor along with the
+guarantors including the Appellant to the Respondent No. 1 i.e M/s CFM
+Asset Reconstruction Pvt. Ltd. and in this regard an application bearing I.A
+No. 259 of 2025 was filed by M/s CFM Asset Reconstruction Pvt. Ltd.
+seeking replacement of it with the financial creditor and vide order dated
+15.01.2025 of this Appellate Tribunal the erstwhile financial creditor,
+namely, Union Bank of India was replaced with M/s CFM Asset
+Reconstruction Pvt. Ltd./R1.
+3.
+The brief factual matrix giving rise to the instant appeal is in terms
+that the CD i.e M/s Green World International Pvt. Ltd. availed credit
+facilities from the erstwhile Financial Creditor - Union Bank of India vide
+
+[PAGE 3]
+Company Appeal (AT) (Ins) No. 2001 of 2024 3 of20
+
+sanction letter dated 19.02.2013 and subsequently the loan facility was
+restructured as per the restructuring sanction letter dated 13.03.2015.
+4.
+It is further reflected that on 01.03.2013 a deed of guarantee was
+executed by the Appellant, namely, Mr. Ujwal Gupta jointly and severally, in
+favour of the Union Bank of India for the aforesaid credit facilities availed by
+the CD. The CD failed to fulfil the terms and conditions of the loan
+restructuring sanction letter dated 13.03.2015 and consequently on
+30.01.2016 the loan account of the CD was classified as Non-Performing
+Asset (NPA).
+5.
+It is also reflected from the record that on 29.02.2016 the loan was
+recalled by the financial creditor by issuing notice under Section 13(2) of
+the Securitization and Reconstruction of Financial Assets and Enforcement
+of Security Interest Act, 2002 (SARFAESI Act) to the CD and all the
+guarantors to the CD and in addition to it a notice under Rule 7(1) of the
+Insolvency and Bankruptcy (Application to Adjudicating Authority for
+Insolvency Resolution Process of Personal Guarantors to the CD) Rules,
+2019 (in short ‘Insolvency Resolution Process of Personal Guarantors to the
+CD Rules, 2019’) was given to the guarantor to the CD on 14.06.2021.
+6.
+It is also reflected that the CD had also proposed onetime settlement
+offer (OTS) to the financial creditor many times for its approval. Ultimately,
+the financial creditor issued a demand notice in Form B dated 14.06.2021 to
+the Appellant – Personal Guarantor under the Insolvency Resolution Process
+of Personal Guarantors to the CD Rules, 2019 for discharge in full the
+outstanding liabilities towards the financial creditor.
+
+[PAGE 4]
+Company Appeal (AT) (Ins) No. 2001 of 2024 4 of20
+
+7.
+On a petition moved by the financial creditor under Section 95 of the
+Code, the Adjudicating Authority appointed the RP/Respondent No. 2 under
+Section 97 of the Code to submit its report under Section 99 of the Code and
+in compliance of the same, the RP submitted its report with an application
+bearing I.A No. 2253 of 2024. The objection to this report was filed by the
+Appellant, however, by passing the impugned order dated 10.09.2024 the
+petition filed by the financial creditor was admitted and the insolvency
+process was initiated against the Appellant and being aggrieved by the same
+the instant appeal has been preferred by the Appellant/Personal Guarantor.
+8.
+Ld. Counsel for the Appellant submits that the Adjudicating Authority
+without appreciating the fact that the Personal Guarantee issued by the
+Appellant was payable on demand and no demand has been made to the
+Appellant, as a guarantor, has passed the impugned order which could not
+be sustained.
+9.
+It is further submitted that the issue of invocation of personal
+guarantee through notice under Section 13(2) of the SARFAESI Act though
+was not pleaded specifically before the Adjudicating Authority, however, the
+same being a legal issue is being raised before this Appellate Tribunal and
+perusal of the notice given under Section 13(2) of the SARFAESI Act to the
+Appellant would clearly reveal that the notice has been addressed to the CD
+and its directors and mortgagers whereby the CD has been called upon to
+make the payment and in the same notice the Appellant has been
+addressed as 'Director' of the CD and not as a 'personal guarantor',
+therefore, there is no invocation of guarantee and consequently the same
+could not be enforced.
+
+[PAGE 5]
+Company Appeal (AT) (Ins) No. 2001 of 2024 5 of20
+
+10.
+It is also submitted that the said demand notice dated 29.02.2016
+does not even mention about the personal guarantee of the Appellant and
+therefore, the same could not be treated to have invoked the personal
+guarantee and in this regard, the relevant clause of the guarantee deed
+executed by the Appellant may be looked into wherein a specific procedure
+has been provided for giving of such notice to the guarantor.
+11.
+It is further submitted that the demand notice under Section 13(2) of
+the SARFAESI Act cannot be construed as invocation notice having regard to
+the law laid down by this Appellate Tribunal in Amanjyot Singh Vs.
+Navneet Kumar Jain & Ors. passed in CA (AT) (Ins) No. 961 of 2022.
+12.
+While referring to the law laid down by this Appellate Tribunal in
+Asha Basantilal Surana Vs. State Bank of India & Ors., CA (AT) (Ins)
+No. 84 of 2025, in paras no. 7 to 12, it is submitted that a notice issued
+under Section 13(2) SARFAESI Act can only be treated as notice invoking
+personal guarantee if it is specifically addressed to the guarantors in their
+capacity as such and a demand has been specifically made from the
+guarantors.
+13.
+Ld. Counsel for the Appellant has also relied on Shantanu Jagdish
+Prakash Vs. State Bank of India & Anr., 2025 SCC OnLine NCLAT 117
+as well as on Mavjibhai Nagarbhai Patel Vs. State Bank of India & Anr.
+(2024) SCC OnLine NCLAT 2014 in order to show that the contents of the
+notice under Section 13(2) of the SARFAESI Act should be explicitly
+addressed to the guarantor for the demand and in absence of the same the
+said cannot be termed as invocation.
+
+[PAGE 6]
+Company Appeal (AT) (Ins) No. 2001 of 2024 6 of20
+
+14.
+It is also submitted that the notice given under Rule 7(1) of the
+Insolvency Resolution Process for Personal Guarantors to the CD Rules,
+2019 could never be treated as a notice for invocation of guarantee. In this
+regard, reliance has been placed on State Bank of India Vs. Mr. Deepak
+Kumar Singhania, CA (AT) (Ins) No. 191 of 2025.
+15.
+Ld. Counsel for the Appellant further submits that the petition filed
+by the Appellant under Section 95 of the Code was itself defective as the
+same was suffering from incurable defects and procedural irregularities and
+the same was filed by the Union Bank of India without any valid
+authorisation and in absence of the same the petition could not be
+entertained and therefore the Tribunal has also committed a illegality in
+this regard and thus for the defects and illegality aforesaid the impugned
+order may not sustain and is liable to be set aside.
+16.
+Ld. Counsel for the Respondent No. 1 i.e. financial creditor submits
+that there is no illegality or to say any irregularity in the impugned order
+passed by the Adjudicating Authority as the Appellant had executed a
+letter of guarantee in favour of the financial creditor on 01.03.2013 wherein
+the Appellant had specifically agreed to discharge jointly and severally any
+liability of the CD and it was specifically mentioned therein that any
+notice by way of request, demand or otherwise may be given by the Bank to
+the guarantor or any of them personally or may be left in the manner as
+shown in the guarantee deed, therefore, the notice given by the financial
+creditor on 29.02.2016 under Section 13(2) of the SARFAESI Act is perfectly
+in terms of the stipulations made in the guarantee deed dated 01.03.2013
+and through the said demand notice the Appellant has been called upon to
+
+[PAGE 7]
+Company Appeal (AT) (Ins) No. 2001 of 2024 7 of20
+
+pay the outstanding liability within 60 days from the receipt of the notice
+and therefore, the same is sufficient invocation of personal guarantee.
+17.
+It is also submitted that the said demand notice was also served
+on the co-guarantors of the CD and Mr. Radha Raman Gupta, father of
+the Appellant/Co-guarantor, had also filed a petition under Section 94 of
+the Code seeking commencement of insolvency resolution process upon
+the personal guarantor on the basis of this demand notice dated
+29.02.2016 claiming it to be an invocation of guarantee by the creditor and
+therefore the same admission is binding on other co-guarantors including
+appellant.
+18.
+It is further highlighted that the Adjudicating Authority vide order
+dated 17.10.2025 passed in CP (IB) No. 631 of 2023 admitted the petition
+and initiated the insolvency resolution process against Mr. Radha Raman
+Gupta on the basis of demand notice dated 29.02.2016 as a valid invocation
+of guarantee.
+19.
+Ld. Counsel for the Respondent No. 1 also highlighted the law laid
+down by this Appellate Tribunal in Asha Basantilal Surana (Supra) and
+Mavjibhai Nagarbhai Patel (Supra) in order to show that giving of a
+demand notice under Section 13(2) of the SARFAESI Act is a valid notice of
+demand/invocation of guarantee. Reference is also given of the law laid
+down by the Hon’ble Apex Court in Kotak Mahindra Bank Vs. A
+Balakrishnan & Anr. 2022 (9) SCC 186.
+20.
+It is further submitted that so far as the defect in giving authority to
+the petitioner in filing the petition before the Tribunal is concerned, a hyper
+technical objection was taken by the Appellant which has been rightly
+
+[PAGE 8]
+Company Appeal (AT) (Ins) No. 2001 of 2024 8 of20
+
+negated by the Adjudicating Authority and it is a law settled that a litigant
+cannot be denied justice on the basis of hyper technical grounds which are
+easily rectifiable. In this regard, the law laid down by the Hon’ble Madras
+High Court in Spicejet Ltd. Vs. Credit Sussie AG, MANU/TN/0539/2022
+and K. Santhanam Vs. S. Kavith, 2010 SCC Online Mad 6009 and law
+laid down by the Hon’ble Kerela High Court in Deepu Vs. Abdul Rasheed,
+2012 SCC OnLine Ker 6554 and Gopinath Vs. K.N. Ravichandran,
+2011 SCC OnLine Ker 4129 has been relied.
+21.
+It is submitted that there is no error in invocation of the guarantee
+and since there is no dispute with respect to debt or default, no illegality has
+been committed by the Adjudicating Authority.
+22.
+We have heard Ld. Counsel for the parties and perused the record.
+The question which has arisen for consideration in this Appeal is as to
+whether notice dated 29.02.2016 issued under Section 13(2) of the
+SARFAESI Act, 2002 which was addressed to the Appellant is sufficient to
+invoke guarantee and gives any cause of action to the financial creditor to
+file application under Section 95 of the Code.
+23.
+At this juncture, it would be fruitful to have a glance on some of the
+cases relied on by Ld. Counsel for the appellant.
+In CA (AT) (Ins) No. 961 of 2022, Amanjyot Singh vs. Navneet Kumar
+Jain, Resolution Professional & Ors. in paragraph no. 11 and 12 this
+appellate tribunal held as under:
+“11. In its reply, the Bank has submitted that although
+after sale of the mortgaged asset, part of the facility was
+realized, but no steps have been taken by the Bank
+against the Appellant for recovery of any dues. The notice,
+which is the basis of the Application, was issued on
+04.10.2013. Nine years have been passed from issuance
+
+[PAGE 9]
+Company Appeal (AT) (Ins) No. 2001 of 2024 9 of20
+
+of the notice and no steps have been taken by the Bank so
+far for recovery of any amount from the Appellant. Default,
+which is claimed by the Appellant, at best can be said to
+be a technical default and when substantially, no steps
+have been taken by the Bank and the Bank’s categorical
+case is that guarantee of the Appellant has not been
+invoked, it is the Bank, who after invoking the guarantee
+shall proceed against the Appellant.
+12. We, thus, are satisfied that foundation which was laid
+down by the Appellant for initiating the CIRP against the
+Appellant, was not sufficient to admit Section 94
+Application and initiate the CIRP against the Appellant. We
+may further notice that Section 10 Application against the
+Corporate Debtor has already been admitted and CIRP
+against the Corporate Debtor had been initiated. The case
+taken up by the Bank being categorical and clear that no
+steps have been taken by the Bank against the Appellant,
+there is no cause for the Appellant to pray for initiation of
+CIRP against the Appellant – the Personal Guarantor. We,
+thus, do not find any good ground to interfere with the
+impugned order in this Appeal. The Appeal is accordingly
+dismissed. No costs”.
+
+In CA (AT) (Ins) Nos. 1702 of 2024, 1711 of 2024, 1712 of 2024,
+Mavjibhai Nagarbhai Patel vs. State Bank of India and Anr.,
+Jayantibhai Nagarbhai Patel vs. State Bank of India and Anr.,
+Narayanbhai N. Patel vs. State Bank of India and Anr. in paragraph
+nos. 16,17,18,20 this appellate tribunal opined are as under:
+
+“16. The liability of the guarantor has to be read from the
+Deed of Guarantee. Further, the terms of the Deed of
+Guarantee are extremely material as the invocation of the
+guarantee was to be purely in accordance with the terms
+of guarantee. Having looked at the relevant clauses of the
+Deed of Guarantee in the preceding paragraph, we are of
+the considered view that the Deed of Guarantee entered
+between the Respondent No.1 Bank and Personal
+Guarantor is an independent, distinct and a special
+contract which has to be construed on its own terms. It is
+clear from the reading of the clauses in the Deed of
+Guarantee that guarantee was given by the Personal
+Guarantor in unequivocal terms and the guarantee amount
+
+[PAGE 10]
+Company Appeal (AT) (Ins) No. 2001 of 2024 10 of20
+
+was to be paid by the guarantor once the guarantee was
+invoked.
+
+17. When we look at the specific Clauses of the Deed of
+Guarantee, it clearly states that the guarantee was in the
+nature of a continuing guarantee. The Guarantor had
+agreed that any admission on acknowledgement in writing
+signed by the Borrower shall also be binding on the
+Guarantor. Further, the Guarantor had agreed that the
+amount due under or in respect of the credit facilities to be
+payable to the creditor bank will be payable by the
+guarantor on a notice requiring payment of the amount.
+
+18. In the present case, after the Corporate Debtor was
+admitted into CIRP on 21.01.2020 and the Personal
+Guarantee was invoked by the Respondent No.1 Bank
+through Demand Notice dated 04.06.2021 under Section
+13(2) of the SARFAESI Act which called upon both the
+Borrowers and the Guarantors to make payment of the
+amount of Rs 32.60 Cr. as on 30.04.2021 within 60 days.
+The Section 13(2) Notice which was sent to the Corporate
+Debtor was also forwarded to the Guarantor with the
+specific demand to make payment of the amount
+mentioned in the notice in terms of the guarantee. This
+Section 13(2) Notice was indisputably also sent to the
+Personal Guarantors separately and independently. When
+we see the Section 13(2) notice under SARFAESI Act as
+placed at pages 549 to 551 of Appeal Paper Book (“APB” in
+short) we find that there is clear indication of the names of
+all the Personal Guarantors therein which includes the
+present Appellant (and also the other two Appellants
+whose appeals are also under consideration before us).
+Para 11 of the Section 13(2) SARFAESI addressed to the
+Corporate Debtor notice which was also forwarded to the
+personal guarantors including the Appellant is relevant to
+be noticed which is as extracted below:
+“11. Further we are also forwarding the copy of this
+notice to personal guarantor who are liable to pay the
+aforesaid outstanding amount. This notice is without
+prejudice to the Bank's right to initiate such other
+actions or legal proceedings as it deems necessary
+under any other applicable provisions of Law. This
+notice is in supersession of our earlier notices sent to
+you vide our letter no. SAMB/GRJ/2018-19/2002 dated
+16.02.2019 which stands withdrawn.
+
+Copy forwarded to:
+You are requested to make the payment of the amount
+mentioned in the notice in terms of the guarantees
+executed by you.”
+
+[PAGE 11]
+Company Appeal (AT) (Ins) No. 2001 of 2024 11 of20
+
+(emphasis supplied)
+
+20. Since the guarantee deed specifically mentioned that
+the guarantee was in the nature of an on-demand
+guarantee, the default was to arise on the part of the
+Guarantor only when the Demand Notice was issued as
+contemplated in the Deed of Guarantee. Thus, the period of
+limitation of the Personal Guarantor was to commence
+once the demand was made on the Guarantor by the
+Respondent
+No.1
+Bank.
+Hence,
+the
+Notice
+dated
+04.06.2021 issued by the Respondent No.1 Bank to the
+Personal Guarantor has to be treated to be Notice on
+Demand as contemplated in the Deed of Guarantee. The
+Rule 7(1) Notice dated 28.06.2021 had therefore rightly
+recorded that the debt was due on 04.06.2021 being the
+date of Demand Notice under Section 13(2) of the
+SARFAESI Act and that the date of default occurred on
+04.08.2021 on the expiry of 60 days from 04.06.2021”.
+
+In CA (AT) (Ins) No. 1609 of 2024, Shantanu Prakash vs. State Bank of
+India and Anr. this appellate tribunal in paragraph nos. 31 and 46 are as
+under:
+“31. The Respondent No.1 submitted that on 22.06.2018,
+Respondent No. 1 issued a demand notice under Section
+13(2) of the SARFAESI Act to the Appellant, invoking the
+Personal Guarantee and requesting repayment of the
+outstanding amount. The Appellant failed to discharge the
+outstanding
+dues
+within
+the
+stipulated
+60
+days,
+constituting a default. Subsequently, on 05.11.2020,
+Respondent No. 1 issued another demand notice under
+Rule 7(1) of the Insolvency and Bankruptcy Rules, 2019,
+demanding payment of Rs. 532,99,88,089.76 as of
+28.02.2021. In response, the Appellant admitted the
+execution of the Personal Guarantee and its failure to pay
+the debt due in its reply to Respondent No. 1's demand
+notice dated 18.11.2020. Despite this admission, neither
+the Corporate Debtor nor the Appellant has cleared the
+outstanding dues or accrued interest. As a result,
+Respondent No. 1 filed the Company Petition on
+01.04.2021.
+46. We shall also deal some other points which have been
+raised by the Appellant. The Appellant contended that the
+notice of demand dated 22.06.2018 under Section 13(2) of
+
+[PAGE 12]
+Company Appeal (AT) (Ins) No. 2001 of 2024 12 of20
+
+the SARFAESI Act is not an invocation of personal
+guarantee and therefore present petition cannot be invoked
+in absence of proper invocation of property. On this point
+we note that the Respondent No. 1 has issued notice to the
+Appellant specifically mentioning the personal guarantee
+dated 03.06.2018 which clearly stipulated that "The said
+financial assistance is also secured by the personal
+guarantee of Sh. Shantanu Prakash & Sh.Jagdish Prakash
+& corporate guarantee of Edu Smart Services Pvt limited
+for consortium advance." It has further brought to our
+notice that while notice was issued under Section 13(2) of
+the SARFAESI Act, which has also specifically called upon
+the Appellant to discharge in full the borrower liability
+stated therein within 60 days of the notice. Thus, the
+notice fulfils all the condition stipulated under personal
+guarantee and can be treated as valid invocation. On this
+issue, the Adjudicating Authority has also held that the
+demand notice issued by the Respondent No. 1 under Rule
+7(1) of the I&B (Application to Adjudicating Authority for
+Insolvency Resolution Process for Personal Guarantors to
+Corporate Debtors) Rules, 2019 as valid. Thus, we do not
+find any error in the Impugned Order on this account”.
+
+In CA (AT) (Ins) No. 191 of 2025, State Bank of India vs. Mr. Deepak
+Kumar Singhania, in paragraph nos. 23, 24, 27 this tribunal held as
+under:
+“23. Learned Counsel for the Respondent has relied on the
+judgment of the Hon’ble Supreme Court in Syndicate
+Bank vs. Channaveerappa Beleri and Ors. – (2006) 11
+SCC 506, where Hon’ble Supreme Court in paragraph 9
+had held that Guarantor’s liability depends upon the terms
+of his contract. In paragraph 9, following has been held:
+
+“9. A guarantor's liability depends upon the terms of
+his contract. A “continuing guarantee” is different from
+an ordinary guarantee. There is also a difference
+between a guarantee which stipulates that the
+guarantor is liable to pay only on a demand by the
+creditor, and a guarantee which does not contain such
+a condition. Further, depending on the terms of
+guarantee, the liability of a guarantor may be limited to
+a particular sum, instead of the liability being to the
+same extent as that of the principal debtor. The liability
+to pay may arise, on the principal debtor and
+guarantor, at the same time or at different points of
+
+[PAGE 13]
+Company Appeal (AT) (Ins) No. 2001 of 2024 13 of20
+
+time. A claim may even be time-barred against the
+principal debtor, but still enforceable against the
+guarantor. The parties may agree that the liability of a
+guarantor shall arise at a later point of time than that
+of the principal debtor. We have referred to these
+aspects only to underline the fact that the extent of
+liability under a guarantee as also the question as to
+when the liability of a guarantor will arise, would
+depend purely on the terms of the contract.”
+
+24. This Tribunal in Archana Deepak Wani vs. Indian Bank
+– Company Appeal (AT) (Ins.) No.301 of 2023 has also held
+that liability of the Guarantor must be determined strictly
+in terms of the Deed of Guarantee. In paragraph 26,
+following has been laid down:
+
+“26. The scheme of I&B Code clearly indicate that both
+the Principal Borrower and the Guarantor become liable
+to pay the amount when the default is committed. When
+default is committed by the Principal Borrower the
+amount becomes due not only against the Principal
+Borrower but also against the Corporate Guarantor,
+which is the scheme of the I&B Code. When we read
+with as is delineated by Section 3(11) of the Code, debt
+becomes due both on Principal Borrower and the
+Guarantor, as noted above. The definition of default
+under Section 3(12) in addition to expression ‘due’
+occurring
+in
+Section
+3(11)
+uses
+two
+additional
+expressions i.e “payable” and “is not paid by the debtor
+or corporate debtor”. The expression ‘is not paid by the
+debtor’ has to be given some meaning. As laid down by
+the Hon’ble Supreme Court in “Syndicate Bank vs.
+Channaveerappa
+Beleri
+&
+Ors.”
+(supra),
+a
+guarantor’s liability depends on terms of his contract.
+There can be default by the Principal Borrower and the
+Guarantor on the same date or date of default for both
+may be different depending on the terms of contract of
+guarantee. It is well settled that the loan agreement
+with the Principal Borrower and the Bank as well as
+Deed of Guarantee between the Bank and the
+Guarantor are two different transactions and the
+Guarantor’s liability has to be read from the Deed of
+Guarantee.”
+
+27. In view of the foregoing discussion, we are not
+persuaded to accept the submission of the Appellant
+that Notice under Rule 7 (1) issued in Form-B to the
+
+[PAGE 14]
+Company Appeal (AT) (Ins) No. 2001 of 2024 14 of20
+
+Guarantor,
+demanding
+repayment
+of
+the
+default
+amount, has to be treated as Notice for invoking
+guarantee. Default before issuance of Notice under Rule
+7(1), must exist on the part of the Guarantor. Hence, we
+reject the submission of the Appellant that Notice under
+Rule 7, sub-rule (1) is a Notice, invoking the guarantee.
+
+The factual matrix of this case however is different than the facts of the
+instant case as in this case notice was issued under Rule 7(1) in Form-B and
+it was being impressed to be taken as the notice of invocation of guarantee,
+which is not a case in the case at hand.
+24.
+We find that the financial creditor is claiming to have invoked the
+personal guarantee given by the Appellant on the basis of a notice given
+under Section 13(2) of the SARFAESI Act on 29.02.2016. A copy of the said
+notice has been made available at Pg. No. 144 of the appeal paper book and
+perusal of the same would reveal that name of the Appellant is emerging
+therein at serial no. 2 as Mr. Ujwal Gupta (Director) Property, South City,
+Phase – I, Gurgaon along with other director and mortgagors /directors.
+25.
+Perusal of this notice would further reveal that in this notice clear
+averments have been made with regard to the credit facilities given by the
+financial creditor to CD and also statement that despite several demands the
+outstanding amount has not been paid and liability has not been
+discharged. It is also stated therein that by giving this notice the addressees
+have been called upon to pay sum of Rs. 9,85,41,628.10 together with
+interest @ BR+5.50% p.a. in case of cash credit account and BR+ 6% in case
+of Term loan account with monthly rest / as per the terms and conditions of
+loan documents and further to discharge the liabilities in full within 60 days
+from the date of receipt of this notice, failing which the sender would be
+
+[PAGE 15]
+Company Appeal (AT) (Ins) No. 2001 of 2024 15 of20
+
+constrained to enforce the securities created by addressees in favour of the
+Bank by exercising any or all of the rights given under this act.
+26.
+The language and phraseology used in this notice would clearly
+demonstrate that it has been clearly communicated by the financial creditor,
+by this notice, that the addressees will have to discharge their liability in
+connection with CD within 60 days of receipt of this notice, pertaining to the
+credit facilities extended to the CD for the amount which has been
+mentioned in the notice.
+27.
+Thus, in our considered opinion, it was a crystal clear communication
+not only to the Appellant but to all the addressees to discharge their liability
+with regard to the credit facilities extended to CD by the financial creditor
+and there appears no ambiguity in this. Since the appellant has extended
+guarantee by executing a deed and the principal borrower/ CD failed to pay
+the amount of credit facilities extended by the Financial Creditor and the
+liability of the principal borrower and guarantor is coextensive, this demand
+notice was sufficient communication to the appellant to discharge his
+liability under the guarantee deed towards the credit facility extended by the
+creditor to the CD and is sufficient invocation of guarantee.
+28.
+Keeping in view the submissions made by Ld. Counsel for the
+Appellant that notice has not been served as per the terms and conditions of
+the guarantee, we perused the guarantee given by the Appellant, a copy of
+which has been placed at pg. 135 of the appeal paper book and the relevant
+extract of the same is reproduced as under: -
+"IN CONSIDERATION OF Union Bank of India (hereafter
+the bank which expression shall include its successors
+and assigns) giving credit or accommodation of granting
+facilities by making or continuing advances or otherwise at
+
+[PAGE 16]
+Company Appeal (AT) (Ins) No. 2001 of 2024 16 of20
+
+my/our request to M/s Green World International Pvt. Ltd.
+(hereinafter called the Principal)? We jointly and guarantee
+to the Bank due payment and discharge two days after
+demand of all present and future advances, liabilities, bills
+and promissory notes whether made, incurred or before or
+after the date for the principal either alone or jointly with
+any other person or persons and also of bills, promissory
+notes of guarantees held by the Bank from time to time in
+any manner together with all relative interest commission
+and other banking charges including legal charges and
+expenses.
+*****
+It is also agreed that any admission or acknowledgement
+in writing by the principal debtor of the amount of
+indebtedness of the principal debtor or otherwise as in
+relation of the subject matter of this guarantee, shall be
+binding on me/us and I/We accept the correctness of any
+statement of account served on the principal debtor which
+is duty certified by any manager or officer of the bank and
+the same shall be binding and conclusive as against me /
+us also, and I /We further agree that in making an
+acknowledgement or
+*******
+Any notice by way of request, demand or otherwise
+hereunder may be given by the Bank to me/us or any of
+us personally or may be left at then or last known place of
+business or residence in India of me / us or any of us
+addressed as aforesaid to me/us or may be sent by post
+to me/us any of us addressed as aforesaid and if sent by
+post it shall be deemed to have been given at the time
+when it would be delivered in due course of post and shall
+be sufficient to prove that the envelope containing the
+notice was posted if by reason of absence from India or
+otherwise, I/ We or any of us cannot be given any such
+notice the same if Inserted once as an advertisement in a
+newspaper circulating in the town mentioned at the
+commencement of this Guarantee, shall be deemed to have
+been effectively given and received on the day which such
+advertisement appears”
+
+29.
+A careful reading of above clauses would demonstrate that it was
+agreed by the Appellant that any notice by way of request, demand or
+
+[PAGE 17]
+Company Appeal (AT) (Ins) No. 2001 of 2024 17 of20
+
+otherwise hereunder may be given by the Bank to him/us or any of us
+personally or may be left at the last known place of business or residence in
+India of guarantor or may also be sent by post.
+30.
+Thus, the requirement of only sending a notice was contemplated in
+the guarantee deed and no specific or particular process or the format of
+notice or formality was stipulated therein. To our understanding if nothing
+special or specific has been given under the terms of the guarantee, the
+sending of notice to the guarantor specifically demanding outstanding
+payment within specific time frame, would be sufficient, in so far as
+invocation of guarantee is concerned, if it sufficiently demonstrate the
+liability of the guarantor and also having a clause for discharge of its liability
+for the credit facilities extended to the CD.
+31.
+This Appellate Tribunal in Asha Basantilal Surana (Supra), which
+is a three member’s decision, after considering Amanjyot Singh (Supra)
+and Mavjibhai Nagarbhai Patel (Supra) clearly holds that in a case where
+notice under Section 13(2) makes a demand as per the guarantee agreement
+between the parties, the notice has to be treated as a notice for invocation of
+bank guarantee. This appellate Tribunal in the above case has also
+distinguished the law laid down by this Appellate Tribunal earlier in
+Amanjyot Singh (Supra), to be a case confined to its own facts, by
+observing in para 12 of the judgment, that the dismissal of the appeal in
+Amanjyot Singh case was on the facts of the said case and has no
+application in the facts of the case under scrutiny and also that the
+invocation of personal guarantee has to be in accordance with the terms of
+
+[PAGE 18]
+Company Appeal (AT) (Ins) No. 2001 of 2024 18 of20
+
+the guarantee agreement. We reproduce the para no. 12 of the aforesaid
+judgment (Asha Basantilal Surana) (Supra) for convenience herein below:-
+“12. Thus, the dismissal of the Appeal in the Amanjyot
+Singh’s case was on the facts of the said case and has no
+application in the facts of the present case. The invocation
+of personal guarantee has to be in accordance with the
+terms of the Guarantee Agreement which is a settled law.
+Clause 7 of the Guarantee Agreement does not require any
+particular mode and manner of the demand notice. When
+demand notice is issued against the personal guarantor
+asking the personal guarantor to discharge its liabilities,
+the guarantee stands invoked. Whether notice under
+Section 13(2) in a particular case invoked the guarantee or
+not depends on the words and intent of the notice. For
+finding out as to whether Notice under Section 13(2)
+invoked the personal guarantee, the letters and words of
+the Notice has to be looked into to come to any conclusion
+that whether personal guarantor has been asked to
+discharge its liabilities or not. In the facts of the present
+case, we are of the considered opinion that the Notice
+under Section 13(2) issued by the State Bank of India is a
+clear demand notice from the Appellant to pay the amount
+of Rs.28,56,64,336.06/-.”
+(Emphasis Supplied)
+
+32.
+Thus, what has been highlighted by the aforesaid judgment is that it
+would be the terms and conditions of the agreement executed between the
+parties with regard to the guarantee which would be relevant to assess as to
+whether the guarantee has been sufficiently invoked or not. Therefore,
+whether a guarantee may be invoked by giving notice under Section 13(2) of
+the SARFAESI Act depends on the terms of the guarantee and the content of
+the notice. If the notice clearly demands payment from the personal
+guarantor in terms of the guarantee, it can be treated as an invocation of the
+guarantee. The facts and the wording of the notice are crucial in this
+determination.
+33.
+We have already observed herein before that notice dated 29.02.2016,
+given by the financial creditor under Section 13(2) of the SARFAESI Act has
+
+[PAGE 19]
+Company Appeal (AT) (Ins) No. 2001 of 2024 19 of20
+
+sufficiently indicated the Appellant to discharge his liability for the amount
+mentioned in the notice of which the credit facilities were extended to
+the CD and simply by the fact that word ‘director’ has been suffixed after
+the name of the Appellant/Personal Guarantor, the same will not be
+sufficient to change the character of the Appellant from the guarantor of the
+CD and therefore, in our considered opinion, the personal guarantee has
+been rightly considered by the Tribunal to have been invoked by issuance
+of this notice given under Section 13(2) of the SARFAESI Act and we do not
+find any illegality therein.
+34.
+So far as the submissions of the Ld. Counsel for the Appellant, with
+regard to some defects arisen in not filing any authorisation letter or the
+affidavit before the Tribunal, is concerned, we are of the firm view that hyper
+technicalities so far as the procedure is concerned, should not come in the
+way of imparting substantial justice between the parties, more so when
+there is no conflict between the financial creditor and his agent, who has
+filed the petition before the Tribunal, the petition could not be rejected/
+dismissed only on this hyper technical ground. Therefore, we also do not
+find any illegality in the approach of the Tribunal in dealing with this
+objection of the Appellant.
+35.
+Keeping in view all the facts and circumstances of the case and for the
+reasons given above, we are of the considered opinion that there is no good
+ground exists on the basis of which any interference may be made in the
+impugned judgment and resultantly, the appeal lacks merit and is
+dismissed as such. No order as to costs.
+
+[PAGE 20]
+Company Appeal (AT) (Ins) No. 2001 of 2024 20 of20
+
+36.
+Pending I.A.s, if any are also closed.
+
+[Justice Mohd. Faiz Alam Khan]
+Member (Judicial)
+
+[Naresh Salecha]
+Member (Technical)
+
+New Delhi.
+07.01.2026
+
+sc/sr

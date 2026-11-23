@@ -1,0 +1,515 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+[Arising out of the Impugned Order dated 28.08.2023 passed by the
+Adjudicating Authority, National Company Law Tribunal, Kolkata Bench,
+Court-II in CP (IB) No. 1058/KB/2019]
+In the matter of:
+Innovators Cleantech Private Limited
+(Formerly known as Innovators Cleantech Private Limited)
+[CIN U74999MH2013PTC241458,],
+having its registered office at:
+204, Bldg No. B-65, Jaydeep Chs Ltd. Sector No. 1
+Shanti Nagar Mira Road - East, Thane- 401107;
+Through its authorised representative
+
+...Appellant
+
+Versus
+
+Pasari Multi Projects Private Limited
+[CIN U51909WB1993PTC058525]
+having its registered office at:
+35, Ballygunj Park, Kolkata – 700019.
+
+.... Respondent
+
+Present:
+
+For Appellant
+: Mr. Anuj Bhandari, Advocate.
+
+For Respondent
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Ashok Kumar
+Jain and Mr. Amit Kasera, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+28.08.2023 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Kolkata Bench, Court-
+II) in CP (IB) No. 1058/KB/2019. By the impugned order, the Adjudicating
+Authority has rejected Section 9 application. Aggrieved by the impugned order,
+the present appeal has been preferred by the Appellant.
+
+[PAGE 2]
+Page 2 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+2.
+The relevant facts which required to be notice for deciding the present
+matter before us are as follows:-
+ The Operational Creditor-Innovators Facade Solutions Private Limited
+was engaged by the Corporate Debtor-Pasari Multi projects Private Limited
+to provide design-built services in building construction for a project-
+Biowonder which was a commercial-cum-Hotel project. A Letter of Intent
+(‘LoI’ in short) was issued on 09.07.2015 for Rs.10.68 crore by the
+Corporate Debtor to the Operational Creditor for this project.
+ The Project was commenced by the Operational Creditor on 09.07.2015
+and the first Running Account Bill (‘RAB’ in short) was raised on
+15.03.2016. Corporate Debtor failed to discharge payment for RAB-19 of
+Rs. 4.68 crores raised by the Operational Creditor despite reminders.
+ Since the Corporate Debtor failed to make payments, the Operational
+Creditor issued a demand notice in Form-3 for an amount of Rs. 4.91 crore
+including interest. This first demand notice was issued on 12.02.2019. The
+Operational Creditor withdrew this first demand notice due to certain
+alleged clerical error made by them in the computation.
+ The Corporate Debtor terminated the contract with the Operational
+Creditor on 14.02.2019 and also filed a Civil Suit No. 371 of 2019 on
+16.04.2019 against the Operational Creditor.
+ After withdrawal of the first demand notice, the Appellant thereafter
+issued another demand notice dated 25.04.2019. This second demand
+notice according to the Corporate Debtor was a revised demand notice for
+an amount of Rs.4.75 crores after adjusting certain payments received by
+
+[PAGE 3]
+Page 3 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+the Operational Creditor. There was thus a reduction in the claimed
+amount from the original demand notice.
+ The Corporate Debtor replied to the second demand notice dated
+25.04.2019 disputing the amount payable to the Operational Creditor. The
+notice of dispute was dated 03.05.2019.
+ The Operational Creditor filed the Section 9 application under IBC on
+20.07.2019.
+ The Adjudicating Authority after considering the matter dismissed the
+Section 9 application on the ground of pre-existing dispute.
+3.
+Making his submissions, Shri Anuj Bhandari, Ld. Counsel for the
+Appellant submitted that the Corporate Debtor had issued a Work Order for Rs.
+10,68,79,250/- to the Appellant. The Appellant raised bills RAB 01 to RAB-18
+against which the Corporate Debtor paid Rs. 5,51,56,183/- to the Appellant. The
+Appellant thereafter raised RAB-19 for Rs. 4,91,72,294/- which was not paid by
+the Respondent. The Appellant therefore issued Demand Notice dated
+12.02.2019 for Rs. 4,91,72,294/- which was purportedly despatched by the
+Appellant on 12.02.2019 by Speed-Post. Realising that one of the payments
+made by the Corporate Debtor had not been factorised while computing the due
+demand, the Appellant issued a revised Demand Notice for Rs. 4,75,70,047/- on
+25.04.2019 after reducing the amount which had not been factorised earlier. As
+the Corporate Debtor did not make the due payment, the Appellant filed the
+Section 9 application which however the Adjudicating Authority erroneously
+dismissed on the ground of pre-existing dispute that the Corporate Debtor had
+filed a civil suit against the Appellant on 16.04.2019. This civil suit could not be
+
+[PAGE 4]
+Page 4 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+treated as pre-existing dispute since it was filed after the first demand notice was
+issued on 12.02.2019 and the second demand notice was a continuation of the
+first demand notice.
+4.
+It was vehemently contended that the Adjudicating Authority had failed to
+appreciate the fact that the Operational Creditor had issued the first demand
+notice on 12.02.2019 which demand notice was issued before the filing of the
+civil suit. The Adjudicating Authority also failed to consider that the Corporate
+Debtor had even replied to the first demand notice. The first demand notice
+therefore clearly pre-dated the filing of the title suit on 16.04.2019. Admittedly
+the first demand notice had to be revised due to a clerical error but it was
+strenuously contended that merely because the first Demand Notice had to be
+revised for bonafide reasons, it cannot be overlooked that the Civil Suit had been
+filed after the receipt of the first demand notice by the Corporate Debtor and
+hence did not qualify to be a pre-existing dispute. It was also emphatically
+asserted that for any dispute to be treated as a pre-existing dispute under
+Section 8(2)(a) of IBC, the dispute has to arise prior to the receipt of demand
+notice by the Corporate Debtor. The Civil Suit in the instant case therefore
+cannot be considered as a pre-existing dispute and hence the impugned order
+was contrary to the ratio of the Hon’ble Supreme Court in Mobilox Innovations
+Pvt. Ltd. vs. Kirusa Software Pvt. Ltd (2018) 1 SCC 353 in that dispute has
+to be raised prior to issue of Section 8 demand notice.
+5.
+It was also stressed that there were no other actual or real disputes
+between the parties. This is evident from the fact that RABs 1 to 18 raised by
+the Operational Creditor were cleared by the Corporate Debtor without raising
+
+[PAGE 5]
+Page 5 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+any dispute or demur. The emails referred to by the Corporate Debtor to buttress
+their argument of pre-existing disputes are frivolous disputes and a spurious
+defence to stave off the Section 9 application. It is also the contention of the
+Appellant that the Corporate Debtor had terminated the contract with the
+Operational Creditor on 14.02.2019 which termination was subsequent to the
+issue of first demand notice on 12.02.2019 and hence not a pre-existing dispute.
+It has been contended that the Corporate Debtor filed the Civil Suit well after
+receipt of first demand notice as an afterthought.
+6.
+While admitting that the demand notice was amended after filing of the
+Civil Suit, it was contended by the Appellant that the amended demand notice
+would relate back to the date of original demand notice. Amendment of the
+demand notice on account of clerical error and subsequent issue of a corrected
+demand notice cannot be viewed as a fresh demand notice. Since the second
+demand notice for all legal purposes was a continuation of the first demand
+notice, the Civil Suit cannot be treated as a pre-existing dispute as it had been
+filed after the receipt of the first demand notice by the Corporate Debtor. The
+Adjudicating Authority had therefore wrongly non-suited the Operational
+Creditor on the ground that the Civil Suit was filed before the second demand
+notice. In support of their contention that an amended demand notice would
+relate back to the date of original demand notice, reliance was placed on the
+judgment of this Tribunal in the matter of Dinesh Gupta vs. Hajura Singh
+Bhim Singh & Anr. in CA (AT) (Ins) No. 99 of 2018 wherein it was held that
+even after withdrawal of first Section 9 application on technical grounds and
+subsequent issue of fresh demand notice, the application under Section 9
+
+[PAGE 6]
+Page 6 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+remains maintainable. It was submitted that the present case was fit to be
+remanded back to the Adjudicating Authority to adjudicate the matter on merits
+since the Corporate Debtor has filed voluminous documents which were not part
+of the record of the Adjudicating Authority.
+7.
+Refuting the contentions raised by the Appellant, it was submitted by Shri
+Abhijeet Sinha, Ld. Senior Counsel for the Respondent-Corporate Debtor that
+the present appeal petition is misconceived. The Adjudicating Authority had
+rightly held that the Section 9 application was not maintainable since there were
+pre-existing disputes between the parties. The Title Suit No. 371 of 2019 which
+had been filed by the Corporate Debtor on 16.04.2019 was prior to the issue of
+the demand notice of 25.04.2019 which clearly demonstrates pre-existing
+disputes. Besides the civil suit, there were several other disputes between the
+two parties which had its origin prior to the second demand notice of 25.04.2019
+basis which the Section 9 application had been filed. Elucidating further it was
+submitted that the LoI dated 09.07.2015 clearly provided that the duration of
+the project was 12 months and had to be completed in 7 months from the date
+of acceptance of the LoI. However, the Operational Creditor had delayed in
+performing their part of the obligations in a timely manner in terms of the LoI.
+On the modalities of payment, it was submitted that both parties had agreed to
+a procedure by which running bills were to be raised by the Operational Creditor
+by way of proforma invoices and that after due certification by the Corporate
+Debtor of the proforma invoices and the works done, payments used to be made
+in respect of said bills. It was pointed out that there were disputes regarding
+these bills as the Operational Creditor raised inflated bills and therefore the
+
+[PAGE 7]
+Page 7 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+amounts would require to be reduced by the Corporate Debtor after performance
+certification. It is also the case of the Corporate Debtor that the Operational
+Creditor had delayed the project and abandoned the work in breach of contract.
+The Corporate Debtor also submitted that there were several disputes between
+parties as is evident from a series of emails exchanged between the two parties
+regarding measurement, quality, quantity and delay in work. It was pointed out
+that inspite of disputes regarding measurement, quality, quantity and delay
+cause by the Operational Creditor, the Corporate Debtor had continued to make
+payments of RA Bills so that the work progress did not get delayed. It is also the
+contention of the Corporate Debtor that the Section 9 application was filed by
+the Operational Creditor with the sole object of recovery of dues on account of
+alleged damages and compensation which in fact are not payable and cannot
+constitute to be the basis of a Section 9 application.
+8.
+We have duly considered the arguments advanced by the Learned Counsel
+for both the parties and perused the records carefully.
+9.
+The short point for consideration is whether there was any genuine pre-
+existing dispute surrounding the debt claimed by the Operational Creditor to be
+due and payable to them by the Corporate Debtor.
+10.
+Before we return our analysis and findings on the tenability of the
+impugned order passed by the Adjudicating Authority, it may be useful to have
+a look at the relevant statutory framework of IBC. Section 8 of the IBC requires
+the Operational Creditor, on occurrence of a default by the Corporate Debtor, to
+deliver a Demand Notice in respect of the outstanding Operational Debt. Section
+8(2) lays down that the Corporate Debtor within a period of 10 days of the receipt
+
+[PAGE 8]
+Page 8 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+of the Demand Notice would have to bring to the notice of the Operational
+Creditor, the existence of dispute, if any. From a plain reading of the above
+provision, it is clear that the existence of dispute and its communication to the
+Operational Creditor is therefore statutorily provided for in Section 8.
+11.
+It is however the case of the Appellant that they had issued two demand
+notices under Section 8 of IBC. The first demand notice was withdrawn as it was
+admittedly erroneous and subsequently a revised demand notice was issued on
+25.04.2019 in continuum of the first demand notice. It is therefore their case
+that since the pre-existing dispute has been predicated on a civil suit dated
+16.04.2019 which was instituted after the issue of the first demand notice, the
+civil suit did not qualify to be treated as pre-existing dispute.
+12.
+Per contra, it is the contention of the Respondent that the first demand
+notice cannot be treated as a demand notice under Section 8 of the IBC since
+this demand notice was abandoned as withdrawn before sending the second
+Demand Notice on 25.04.2019 which was followed by filing of an application
+under Section 9 of IBC on 20.07.2019. Thus, the Section 9 application was filed
+by the Appellant basis the fresh demand notice dated 25.04.2019. Seen from the
+date of issue of the fresh second demand notice, it was contended by the
+Respondent that the institution of civil suit on 16.04.2019 clearly preceded the
+fresh second demand notice of 25.04.2019. It was also contended that the
+Corporate Debtor had already terminated the contract on 14.02.2019 which date
+also predated the fresh second demand notice of 25.04.2019. Hence it was
+asserted the Adjudicating Authority had rightly concluded that the Section 9
+application was not maintainable in view of pre-existing disputes.
+
+[PAGE 9]
+Page 9 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+13.
+Given this backdrop of rival submissions, it will be useful to find out how
+the Adjudicating Authority had considered the facts at hand to infer whether the
+disputes were pre-existing. The basis for holding the disputes raised by the
+Corporate Debtor to be pre-existing by the Adjudicating Authority was that the
+civil suit was filed prior to the second demand notice and that this second
+demand notice was a fresh demand notice which cannot be held to be in
+continuation of the first demand notice. The relevant excerpts of the impugned
+order are as reproduced below:
+“12. It is discernible that a demand notice was sent on 12 February, 2019
+[Annexure – H at page 114 of the Petition], which said as under;
+
+And the date from which
+such debt fell due
+o Debt fell due from 15.2.2017
+o
+Last
+payment
+received
+on
+22.9.2017
+o Last Invoice raised on 10.12.2018
+Amount claimed to be in
+default and the date on
+which the default occurred
+Default
+Amount
+as
+on
+15th
+February, 2017 is Rs 4,91,72,294/-
+(Rupees Four Crore Ninety-one Lakh
+Seventy Two thousand Two hundred
+ninety Four only
+
+13. The fresh demand notice dated 25.04.2019 [Annexure – I at pages 123-
+124 of the Petition] reads;
+
+“IFSPL had issued a demand notice (Form no.3) dated 12.02.2019 to
+PMPPL. However, due to an inadvertent error the amount claimed therein
+was not correctly stated. Hence, after correcting the error, we hereby issue
+the present fresh demand notice.”
+
+(Emphasis supplied)
+And the date from which such
+debt fell due
+o Debt fell due from 05.01.2018
+o Last payment
+received on
+26.12.2017
+o
+Last
+Invoice
+raised
+on
+10.12.2018
+
+[PAGE 10]
+Page 10 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+Amount claimed to be in
+default
+Rs 4,75,70,047/- (Rupees Four
+Crore Seventy Five Lakh Seventy
+Thousand and Forty Seven only)
+
+14. The intention of the Operational Creditor is quite clear that it intended to
+issue a fresh demand notice with modified particulars and the fresh notice
+(dated 25 April, 2019) was not intended to be in continuation of the previous
+one, i.e. 12 February, 2019. Hence, previous erroneous notice dated 12
+February, 2019 should be ignored and the fresh notice u/s 8 dated 25 April,
+2019 should be taken into account, and it is evident that before it could be
+served the civil suit already stood filed on 06 April, 2019.”
+
+14.
+Coming to our analysis and findings, it is an undisputed fact that the
+Operational Creditor had initially sent a Demand Notice on 12.02.2019 to the
+Corporate Debtor. This demand notice was purportedly despatched by the
+Appellant by speed post on the same date. When we look at the material placed
+on record, it is clear that the first Demand Notice was however received by the
+Corporate Debtor only on 16.02.2019 as evident from the Tracking Report placed
+at page 118 of Appeal Paper Book (‘APB’ in short). More significantly, the first
+demand notice was admittedly withdrawn by the Operational Creditor on
+grounds of typographical error in that they had failed to take into account certain
+payments already received by them from the Corporate Debtor.
+15.
+Given this factual backdrop that the demand notice of 12.02.2019 under
+Section 8 of the IBC was withdrawn, we now proceed to analyse whether the
+second demand notice of 25.04.2019 can be held to be in continuation of the
+first demand notice or a fresh notice. We find that that the second demand notice
+itself mentions of being a “fresh notice”. The second demand notice also nowhere
+mentions that it was a continuation of the first demand notice. In such
+circumstances, there is force in the contention of the Corporate Debtor that the
+
+[PAGE 11]
+Page 11 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+first demand notice having been withdrawn stood abandoned. When we look at
+the ground cited by the Appellant behind the revision of the first demand notice,
+it was claimed to have been actuated by clerical/typographical errors. However,
+the ground of clerical error lacks credence as we find that there were substantial
+changes in the second demand notice from the first demand notice with regard
+to amounts of default, date of default, date on which last payments was received
+etc. The Adjudicating Authority in paragraphs 12 and 13 of the impugned order
+has belaboured in outlining the modified particulars which has already been
+extracted at para 13 above. The second demand notice was clearly a novated
+demand notice with particulars of debt and default and date of default being at
+variance from the first demand notice. Hence the Adjudicating Authority did not
+commit any infirmity in adjudicating on the pre-existence of disputes from the
+perspective of the date of the issue of the fresh second demand notice. We would
+also like to add here that the reliance placed by the Appellant on the Dinesh
+Singh judgement supra does not come to the help of the Appellant since in that
+case the first Section 8 notice had been issued by the Advocate and therefore
+replaced by a demand notice issued by the Operational Creditor. Thus in that
+case the second demand notice was issued on purely technical grounds without
+modification of particulars unlike in the present facts of the case.
+16.
+This brings us to the aspect of whether the civil suit qualified as a pre-
+existing dispute. It is also a well settled proposition of law that for a pre-existing
+dispute to be a ground to nullify an application under Section 9, the dispute
+raised must be truly existing at the time of filing a reply to notice of demand as
+contemplated by Section 8(2) of IBC or at the time of filing the Section 9
+
+[PAGE 12]
+Page 12 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+application. In the present case, the pre-existing dispute has been predicated on
+civil suit dated 16.04.2019. This civil suit was also highlighted in the Notice of
+dispute of the Corporate Debtor in response to the second demand notice. We
+have no doubts in our mind therefore that the civil suit had been filed prior to
+the issue of second Section 8 Demand Notice on 25.04.2019 and was a pre-
+existing dispute and therefore there is no infirmity committed by the
+Adjudicating Authority in treating the civil suit to be a pre-existing dispute.
+17.
+Apart from the civil suit as a ground for pre-existing dispute, we notice
+that the Corporate Debtor had also terminated the contract with the Operational
+Creditor on 14.02.2019 which date preceded the second demand notice and for
+that reason even predated receipt of the first demand notice by the Corporate
+Debtor. The Corporate Debtor also adverted attention to a series of emails
+exchanged between the two parties which substantiates the evidence of disputes
+between them. At page 74 of Reply Affidavit, an email has been placed on record
+stating that the Appellant wanted the relocation of the rainwater pipe from its
+original position which was objected to by the Corporate Debtor as it tantamount
+to compromising with the design, quality and specification from the terms of the
+LOI in order besides causing delay of the project. At pages 76–77 of the Reply
+Affidavit, an email dated 12.06.2017 can be seen which highlights several
+disputes raised between the parties including issues related to the measurement
+of the facade work, claim of excess bill quantities beyond the scope of certified
+drawings made by the Appellant and the existence of pending work. At page 79
+of the Reply Affidavit, an email dated 17.07.2017 from the Corporate Debtor
+records the stoppage of work by the Appellant with respect to panel installation
+
+[PAGE 13]
+Page 13 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+and demand for advance payment prior to completion of the work which was
+contrary to the terms of the LoI. At page 80 of the Reply Affidavit, an email dated
+01.08.2017 has been placed on record which alleges the Appellant's failure to
+supply the required materials. At page 81 of the Reply Affidavit, an email dated
+17.08.2017 brings to light the loss caused to the Respondent due to the
+Appellant’s continued non-supply of materials, despite the Respondent having
+made full payment for the same. At page 84 of the Reply Affidavit, an email dated
+13.10.2017 cites multiple issues concerning the Appellant, including delays in
+the performance of the project, the introduction of new commercial conditions
+beyond the agreed terms of the work order, and the overall non-completion of
+the work. At page 89 of the Reply Affidavit, a communication dated 17.02.2018
+records the challenges by the Respondent of the Appellant’s demand for
+escalation charges. Further, between 05.03.2018 and 07.03.2018, as recorded
+at page 90-91 of the Reply Affidavit, there is mention of disputes arising from
+intended demobilization of team and machinery by the Appellant due to
+unresolved commercial issues. At pages 92–102 of the Reply Affidavit, it is
+recorded that between 19.03.2018 and 03.09.2018, there were repeated
+amendments to the payment terms, scope of work, and time schedule for project
+completion, all necessitated due to persistent delays on the part of the Appellant.
+Further, at page 104 of the Reply Affidavit, a communication dated 26.10.2018
+documents the Respondent’s objection to the Appellant’s introduction of new
+financial terms, which were in direct contravention of the original terms outlined
+in the LoI. The tone and tenor of the emails exchanged between the two parties
+clearly manifest existence of dispute which antedates Section 8 demand notice.
+
+[PAGE 14]
+Page 14 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+18.
+It is well settled that a Section 9 application filed by an Operational
+Creditor cannot be sustained in case there is evidence of existence of dispute
+and if such disputes have been communicated to the Operational Creditor before
+the receipt of Section 8 notice as has happened in the present case. In the
+present case, the contract termination notice and civil suit had both preceded
+the date of issue of Section 8 demand notice on 25.04.2019. In addition, we
+notice that disputes relating to the quality of work; delay in execution of work;
+disputes relating to imposition of new commercial condition beyond the scope of
+LoI; introduction of new financial terms; claim of excessive bills; losses on
+account of delay etc. had also been brought to the knowledge of the Appellant-
+Operational Creditor vide a string of emails sent from time to time as already
+summarised above. The notice of dispute of 03.05.2019 had also highlighted
+breach of contract, delay of project and its abandonment by the Appellant, issue
+of inflated bills and that project related disputes had been raised by emails prior
+to the Section 8 demand notice. Cumulatively seen, it clearly signifies that a
+dispute already existed between the parties which constituted sufficient ground
+for rejection of a Section 9 application. In the face of such pre-existing disputes,
+the Adjudicating Authority had not committed any error in rejecting the Section
+9 application. It is misconstrued on the part of the Appellant to contend that
+that the impugned order is contrary to the Mobilox judgement supra.
+19.
+To our minds, the Adjudicating Authority did not commit any error in
+returning this finding of pre-existing disputes keeping in mind that IBC bestows
+only summary jurisdiction upon the Adjudicating Authority. Once plausibility of
+a pre-existing dispute is noticed, it is not required of the Adjudicating Authority
+
+[PAGE 15]
+Page 15 of 15
+Company Appeal (AT) (Insolvency) No. 115 of 2024
+
+to make further detailed investigation. What has to be looked into is whether the
+defence raises a dispute which needs further adjudication by a competent court.
+It is well settled that in a Section 9 proceeding, the Adjudicating Authority is not
+to enter into final adjudication with regard to existence of dispute between the
+parties regarding the operational debt. There was no requirement for the
+Adjudicating Authority in the present case to go under the skin of dispute and
+therefore the Adjudicating Authority rightly held that the Section 9 application
+was not maintainable in the present factual matrix.
+20.
+Considering the overall facts and circumstance of the present case, we are
+satisfied that the Adjudicating Authority did not commit any error in rejecting
+the Section 9 Application filed by the Appellant. We find no good reasons to
+disagree with the findings of the Adjudicating Authority. There is no merit in the
+Appeal. Appeal is dismissed. It will remain open to the Appellant to resort to
+other remedies that may be available to it under any other law. No order as to
+costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 09.07.2025
+
+Harleen/Abdul

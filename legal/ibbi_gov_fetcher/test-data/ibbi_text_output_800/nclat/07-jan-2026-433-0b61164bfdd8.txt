@@ -1,0 +1,656 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1244 of 2025
+
+[Arising out of the Impugned Order dated 12.06.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, New Delhi
+Bench in C.P. (IB) No. 734/(ND)/2021].
+In the matter of:
+Chemical Suppliers India Private Limited
+(CIN: U24299DL1997PTC090695)
+507 Plot No-D-4,5,6 5th Floor
+Krishna Apra Business,
+Square N.S.P Pitampura,
+Delhi-110034
+chemicalpeople@gmail.com
+
+...Appellant
+
+Versus
+
+Kanodia Technoplast Limited
+(CIN: U74899DL1995PLC067544)
+A-54 Wazirpur Industrial Area,
+New Delhi Dl 110052
+cs@kanodiaindia.com
+
+.... Respondent
+
+Present:
+
+For Appellant
+: Mr. Sunil Fernandes, Sr. Advocate with Mr. Nikhil Kumar,
+Mr. Mahak Agarwal and Mr. Kapil Sharma, Advocates.
+
+For Respondent
+: Mr. Abhishek Anand, Mr. Karan Kohli and Ms. Palak
+Kalra, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+12.06.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, New Delhi Bench-IV)
+in C.P. (IB) No. 734/ND/2021. By the impugned order, the Adjudicating
+
+[PAGE 2]
+Page 2 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+Authority has dismissed the Section 9 application filed by the Appellant-
+Chemical Suppliers India Pvt. Ltd. Aggrieved by the impugned order, the present
+appeal has been preferred by the Appellant-Operational Creditor.
+2.
+Coming to the chronology of events of this present matter, we notice that
+the Appellant-Operational Creditor had been engaged by the Respondent-
+Corporate Debtor for supply of chemicals and raw materials. The materials were
+supplied by the Appellant but as the Respondent had purportedly failed to
+discharge their payment obligations of an outstanding amount of Rs
+7,84,94,085/- which included the principal and interest component of Rs
+6,13,26,856/- and Rs 1,71,67,229/- respectively, the Appellant had filed C.P
+No. 734 of 2021 under Section 9 on 22.11.2021 before the Adjudicating
+Authority to initiate CIRP against the Respondent. The Section 9 application was
+dismissed by the Adjudicating Authority on 16.10.2023 on the ground of non-
+maintainability by holding that the default had occurred based on invoices
+pertaining to the suspended period under Section 10-A of IBC. This Section 9
+dismissal order was challenged by the Appellant before this Tribunal. This
+Tribunal observed that what was relevant to be seen was as to whether the
+outside Section 10-A period invoices in the Table of invoices set out by the
+Operational Creditor exceeded Rs 1 Cr. This Tribunal after noticing that there
+were several invoices exceeding Rs 1 Cr. which fell outside the Section 10-A
+period and remained unpaid, this Tribunal on 09.07.2024 restored the Section
+9 application and remanded the matter back to the Adjudicating Authority to
+proceed further in accordance with law. In pursuance of the above order of this
+Tribunal, the Adjudicating Authority on 24.02.2025 directed the matter to be
+
+[PAGE 3]
+Page 3 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+listed for hearing on 20.03.2025. However, this order of the Adjudicating
+Authority was challenged by the present Appellant on the ground that the order
+of this Tribunal dated 09.07.2024 ipso facto meant admission of the Section 9
+application. However, this appeal came to be dismissed by this Tribunal on
+02.04.2025 following which Adjudicating Authority proceeded with the hearing
+of CP No. 743 of 2021. The Adjudicating Authority noticed that the Corporate
+Debtor had tendered a Demand Draft dated 26.03.2025 amounting Rs
+1,65,89,311/- to square off the operational debt in respect of the invoices which
+fell outside the protective ambit of Section 10-A which the Appellant-Operational
+Creditor had claimed in their Section 9 application. The Adjudicating Authority
+further noticed that inspite of this offer of payment by Corporate Debtor to settle
+the enforceable portion of the debt, the same was rejected by the Appellant as
+partial/conditional payment. Holding the rejection by the Appellant of the offer
+made by the Corporate Debtor to settle the debt to be misuse of the insolvency
+process tantamount to using IBC as a recovery mechanism which is inconsistent
+with the objectives of the IBC, the Adjudicating Authority by its order dated
+12.06.2025 directed the Corporate Debtor to deposit an amount of Rs
+1,65,89,311/- in an interest-bearing Fixed Deposit Receipt (FDR) with the NCLT
+Registry, to be retained in safe custody for an initial period of six months and
+rejected the Section 9 application filed by the Appellant. Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant.
+3.
+Making submissions on behalf of the Appellant-Operational Creditor, Shri
+Sunil Fernandes, Ld. Sr. Counsel had submitted that the Adjudicating Authority
+erroneously dismissed the Section 9 petition as it is a settled position in law that
+
+[PAGE 4]
+Page 4 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+the scope of adjudication under Section 9 of the IBC is limited to determining
+whether an operational debt is due and payable and whether any default has
+occurred in relation to such debt and if the amount of default exceeds the
+statutory threshold outlined under Section 4 of the IBC. Once these
+conditionalities are established, the Adjudicating Authority is mandatorily
+required to admit the Section 9 petition as long as the Corporate Debtor fails to
+establish the existence of a pre-existing dispute or show any other legally
+sustainable defence which is well settled in terms of the judgment of the Hon’ble
+Supreme Court in Mobilox Innovations Pvt. Ltd. Vs Kirusa Software Pvt. Ltd.
+(2108) 1 SCC 353.
+4.
+It was further submitted that in the present case, there is a clear
+admission of debt and default above Rs 1 Cr. in terms of the invoices raised by
+the Operational Creditor and there being no grounds of pre-existing dispute
+raised by the Corporate Debtor, the Section 9 applicable should have been
+admitted. It was vehemently contended that the Adjudicating Authority has
+erroneously held that the outstanding liability is only Rs 1.65 Cr. The
+Adjudicating Authority has failed to take into cognisance that in the list of 60
+invoices submitted by them, apart from the 7 invoices amounting Rs 1.65 Cr.
+which clearly fall outside the Section 10-A period, there were two other invoices
+which fell outside the Section 10-A period. By factoring in these 2 invoices, the
+outstanding liability of the Corporate Debtor stood at Rs 2.26 Cr. and not Rs
+1.65 Cr. However, the Corporate Debtor had offered to only pay Rs 1.65 Cr.
+which did not meet the entire debt liability. It is the case of the Operational
+Creditor that when the Corporate Debtor did not clear the full payment of
+
+[PAGE 5]
+Page 5 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+outstanding dues, the Operational Creditor retained its rights to refuse to accept
+the part payment offered by the Corporate Debtor. The Adjudicating Authority
+also does not possess statutory jurisdiction to compel the Operational Creditor
+to accept any such part or conditional settlement. Non-acceptance of part
+payment cannot be held against the Operational Creditor as if they were
+pursuing the Section 9 application for causing harassment to the Corporate
+Debtor to demand more payment. It was contended that the Operational Creditor
+cannot be deprived of exercising his option to accept or reject the partial payment
+offered by the Corporate Debtor and cannot be deprived of their statutory rights
+to follow up on the Section 9 proceedings.
+5.
+Refuting the submissions made by the Appellant, Shri Abhishek Anand,
+Ld. Counsel for the Respondent submitted that the Appellant has issued a
+Demand Notice under Section 8 of the IBC by adverting attention to 60 invoices
+out of which 53 invoices were between 01.07.2020 to 23.03.2021 which clearly
+fell within the Section 10-A period and only 7 invoices between 31.03.2021 till
+03.06.2021 fell outside the Section 10-A period. The Corporate Debtor in their
+reply dated 08.10.2021 to the Section 8 Demand Notice had categorically pointed
+out that the invoices in question were barred under Section 10-A of IBC as they
+were raised after 25.03.2020. However, the Appellant filed C.P. IB No. 734 of
+2021 under Section 9 basis a list of 60 invoices which was segregated into Table-
+A comprising of 53 invoices amounting Rs 4.15 Cr. falling in the Section 10-A
+period and Table-B comprising of 7 invoices amounting Rs 1.65 Cr. falling
+beyond the Section 10-A period. The said Section 9 petition was initially
+dismissed by the Adjudicating Authority on 16.10.2023 which on appeal had
+
+[PAGE 6]
+Page 6 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+been remanded on 09.07.2024 by this Tribunal to the Adjudicating Authority.
+Submission was pressed that even when the matter was remanded back to the
+Adjudicating Authority by this Tribunal, even at that stage the list of invoices
+submitted by the Operational Creditor in their Section 9 application was not
+interfered with. It was added that the Appellant has now raised the issue of
+modification of the invoices in Table-A and Table-B with respect to Section 10-A
+which cannot be agitated at this stage.
+6.
+Submission was pressed by the Corporate Debtor that the Section 9
+application was not filed with the purpose of resolution of the Corporate Debtor
+but for the purpose of recovery. It was asserted that the Adjudicating Authority
+had rightly taken notice that the Corporate Debtor had offered to make payment
+of Rs 1.65 Cr. to the Operational Creditor to clear the outstanding liability in
+terms of the Table-B invoices which had been submitted by the Operational
+Creditor in the Section 9 application as invoices which fell outside the Section
+10-A period. The Corporate Debtor had already demonstrated its bonafide
+intention to discharge its liability as it had tendered the entire non 10-A
+liabilities by way of Demand Draft which also goes to vindicate that the Corporate
+Debtor was financially capable and not financially insolvent. It was the
+Operational Creditor who was trying to pitch for an expanded non 10-A liabilities
+which was a clear deviation from their earlier claim which shows that they were
+trying to misuse the provisions of the IBC as a recovery mechanism rather than
+as a means of resolution. The Corporate Debtor being a financially solvent
+company cannot be pushed into the rigours of CIRP. Since the Appellant had
+adamantly refused to accept Rs 1.65 Cr. and instead insisted upon payment of
+
+[PAGE 7]
+Page 7 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+Rs 2.26 Cr., the Adjudicating Authority had rightly relied on the judgment of this
+Tribunal in M/s SNJ Synthetics Ltd. Vs PepsiCo India Holdings Pvt. Ltd. in
+CA(AT)(Ins) No. 386 of 2025 to hold that rejection by the Appellant of the offer
+made by the Corporate Debtor’s bonafide offer to settle the enforceable portion
+of the debt showed an ulterior motive behind their conduct which amounted to
+misuse of the insolvency process as a recovery mechanism which is inconsistent
+with the objectives of the IBC.
+7.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+8.
+The short question to be answered is whether the Adjudicating Authority
+had erred in rejecting the Section 9 application after noticing that the Corporate
+Debtor had agreed to discharge their outstanding liabilities of Rs 1.65 Cr. arising
+out of 7 invoices which fell outside the Section 10-A period.
+9.
+It is the case of the Operational Creditor that out of the 53 invoices which
+have been held to be covered by Section 10-A, 2 invoices at Sl. No. 52 & 53 were
+beyond the Section 10-A period as the invoices were payable after 90 days. While
+the Invoice no. 52 for an amount of Rs 30.45 lakhs became payable on
+15.06.2021, Invoice no. 53 amounting Rs 30.46 lakhs became payable on
+23.06.2021 making them both fall outside the purview of Section 10-A period. If
+these invoices are added then the outstanding principal amount stood at Rs 2.26
+Cr. and not Rs 1.65 Cr. as has been held in the impugned order. Since the
+Corporate Debtor did not make any offer to clear the outstanding liability arising
+out of these 2 invoices, the Section 9 application could not have been dismissed
+by the Adjudicating Authority. It was also asserted that when the matter had
+
+[PAGE 8]
+Page 8 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+been considered by this Tribunal on 09.07.2024, this Tribunal had not looked
+into the number of invoices which fell beyond the Section 10-A period but had
+only looked into whether the invoices relied upon by the Operational Creditor
+crossed the threshold of Rs 1 Cr. for the purpose of maintaining the Section 9
+application. Since no finding had been returned by this Tribunal as such on
+individual invoices, there is no restriction operating on the Operational Creditor
+to identify the final set of invoices beyond the 10-A period basis which the
+operational debt claim could be quantified. It is also contended by the Appellant
+that the Adjudicating Authority has wrongly relied on the judgment of Pepsico
+India Holdings supra as the facts of that case differ from the facts of the
+present case. In that case, there was no principal amount which was due which
+is why the Operational Creditor was not allowed to agitate the interest
+component, whereas in the present case, the principal operational debt remains
+partly paid by the Corporate Debtor. Hence, the Operational Creditor was well
+within its rights to claim full dues and merely because full payment was sought
+by the Operational Creditor, it cannot be inferred that the Section 9 petition was
+being used as a recovery tool.
+10.
+Coming to our analysis and findings, when we look at the Section 9
+application filed by the Operational Creditor which is placed at page 70 of the
+Appeal Paper Book, we find that it is the Operational Creditor who have
+themselves submitted the invoices in two separate tables and the same tables
+have been followed both by the Adjudicating Authority in its order dated
+16.10.2023 and by this Tribunal in its remand order dated 09.07.2024. Further,
+when we look at the order of this Tribunal dated 09.07.2024 remanding the
+
+[PAGE 9]
+Page 9 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+matter back to the Adjudicating Authority, we find that at para 7 therein, a clear
+reference has been made to the list of invoices which was arrayed by the
+Appellant before the Adjudicating Authority in the CP No. 734 of 2021. This list
+of invoices as extracted out in the order of this Tribunal on 09.07.2024 is as
+reproduced below:
+S.No.
+Date of
+Invoice
+Invoice No.
+Amount
+Balance
+Amount
+1.
+01.07.2020 1303
+16,46,855/-
+16,46,855/-
+2.
+09.07.2020 1326
+1,63,288/-
+1,63,288/-
+3.
+18.07.2020 1384
+3,96,480/-
+3,96,480/-
+4.
+20.07.2020 1390
+2,53,747/-
+2,53,747/-
+5.
+21.07.2020 1393
+16,65,853/-
+16,65,853/-
+6.
+26.07.2020 1408
+7,57,159/-
+7,57,159/-
+7.
+27.07.2020 1414
+14,39,600/-
+14,39,600/-
+8.
+01.08.2020 1435
+2,33,640/-
+2,33,640/-
+9.
+04.08.2020 1438
+5,49,585/-
+5,49,585/-
+10.
+06.08.2020 1452
+14,39,600/-
+14,39,600/-
+11.
+09.08.2020 1463
+3,27,096/-
+3,27,096/-
+12.
+15.08.2020 1499
+14,39,600/-
+14,39,600/-
+13.
+19.08.2020 1513
+3,27,096/-
+3,27,096/-
+14.
+21.08.2020 1549
+1,36,998/-
+1,36,998/-
+15.
+21.08.2020 1550
+1,36,998/-
+1,36,998/-
+16.
+21.08.2020 1551
+5,47,992/-
+5,47,992/-
+17.
+26.08.2020 1586
+6,54,192/-
+6,54,192/-
+18.
+16.09.2020 1703
+3,60,301/-
+3,60,3011-
+
+[PAGE 10]
+Page 10 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+19.
+18.09.2020 1708
+3,84,987/-
+3,84,987/-
+20.
+18.09.2020 1708
+3,84,987/-
+3,84,987/-
+21.
+21.09.2020 1722
+3,84,987/-
+3,84,987/-
+22.
+22.09.2020 1724
+2,37,534/-
+2,37,534/-
+23.
+23.09.2020 1728
+3,88,881/-
+3,88,8811-
+24.
+25.09.2020 1740
+4,43,137/-
+4,43,137/-
+25.
+30.09.2020 1772
+4,47,291/-
+4,47,2911-
+26.
+06.10.2020 1793
+3,75,911/-
+3,75,911/-
+27.
+08.10.2020 1808
+3,56,075/-
+3,56,075/-
+28.
+11.10.2020 1820
+2,31,867/-'
+2,31,867/-
+29.
+15.10.2020 1828
+4,48,146/-
+4,48,146/-
+30.
+22.10.2020 1840
+3,16,448/-
+3,16,448/-
+31.
+07.11.2020 1873
+5,80,942/-
+5,80,942/-
+32.
+12.11.2020 1883
+4,87,735/-
+4,87,735/-
+33.
+18.11.2020 1890
+2,69,419/-
+2,69,419/-
+34.
+20.11.2020 1893
+17,94,001/-
+17,94,001/-
+35.
+22.11.2020 1896
+1,98,743/-
+1,98,743/-
+36.
+01.12.2020 1903
+3,78,237/-
+3,78,237/-
+37.
+04.12.2020 1905
+5,68,940/-
+5,68,940/-
+38.
+07.12.2020 1908
+5,68,950/-
+5,68,950/-
+39.
+10.12.2020 1911
+5,68,950/-
+5,68,950/-
+40.
+14.12.2020 1913
+5,33,683/-
+5,33,683/-
+41.
+17.12.2020 1919
+22,19,119/-
+22,19,119/-
+42.
+19.12.2020 1922
+7,65,107/-
+7,65,107/-
+
+[PAGE 11]
+Page 11 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+43.
+28.12.2020 1940
+5,11,4711-
+5,11,471/-
+44.
+29.12.2020 1944
+24,75,607/-
+24,75,607/-
+45.
+03.01.2021 1949
+4,77,373/-
+4,77,373/-
+46.
+09.01.2021 1957
+4,43,275/-
+4,43,275/-
+47.
+15.01.2021 1963
+5,25,671/-
+5,25,671/-
+48.
+15.01.2021 1962
+5,25,6711-
+5,25,6711
+49.
+19.01.2021 1970
+4,32,558/-
+4,32,558/-
+50.
+23.01.2021 1973
+24,31,501/-
+24,31,501/-
+51.
+13.03.2021 2124
+22,01,329/-
+22,01,329/-
+52.
+15.03.2021 2131
+30,45,160/-
+30,45,160/-
+53.
+23.03.2021 2160
+30,46,683/-
+30,46,683/-
+
+A
+4,15,41,479/-
+4,15,41,479/-
+54.
+31.03.2021 2182
+38,08,354/-
+38,08,354/-
+55.
+26.04.2021 GST/21-22/071
+33,52,189/-
+33,52,189/-
+56.
+15.05.2021 GST/21-22/105
+4,58,888/-
+4,58,888/-
+57.
+16.05.2021 GST/21-22/106
+12,15,434/-
+12,15,434/-
+58.
+16.05.2021 GST/21-22/107
+5,20,900/-
+5,20,900/-
+59.
+17.05.2021 GST/21-22/109
+33,52,189/-
+33,52,189/-
+60.
+03.06.2021 GST/21-22-222
+38,81,357/-
+38,81,357/-
+
+B
+1,65,89,311/-
+1,65,89,311/-
+
+Total (A+B)
+5,81,30, 790/-
+5,81,30, 790/-
+
+11.
+The invoice list of the Operational Creditor as expressly recorded by the
+Adjudicating Authority in its order dated 16.10.2023 finds a replica reflection in
+
+[PAGE 12]
+Page 12 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+the order of this Tribunal dated 09.07.2024. It is clear from the list reproduced
+in the immediately preceding paragraph that the Operational Creditor had relied
+on 60 invoices basis which the operational debt has been claimed in the Section
+9 application. These invoices were categorized into two Tables of which 53
+invoices in Table-A fell in the prohibited period of Section 10-A and 7 invoices in
+Table-B fell outside the Section 10-A period as they were dated between
+31.03.2021 to 03.06.2021. The order of this Tribunal dated 09.07.2024 while
+remanding the CP No. 734 of 2021 to the Adjudicating Authority had not
+interfered in any manner with respect to the list of invoices which formed the
+basis of the claim preferred by the Operational Creditor in their Section 9
+application. When the matter was remanded back to the Adjudicating Authority
+by this Tribunal on 09.07.2024, the Operational Creditor had not challenged the
+categorization of the invoices in Table-A relating to invoices barred by Section
+10-A and Table-B relating to invoices unaffected by Section 10-A. Thus, the
+Operational Creditor having expressly acknowledged at the time of filing Section
+9 application that only 7 invoices amounting Rs 1.65 Cr. fell outside the
+protective shield of Section 10-A, the Operational Creditor cannot be seen to
+claim subsequently that there were other invoices apart from the aforementioned
+7 invoices which also fell outside the ambit of Section 10-A. This stand never
+having been taken by the Operational Creditor earlier either before the
+Adjudicating Authority or before this Tribunal cannot now alter their stand as it
+would be in direct contradiction to the submissions and pleadings made by the
+Operational Creditor before the Adjudicating Authority and this Tribunal earlier.
+The present claim of adding 2 more invoices to the earlier list of 7 invoices as
+
+[PAGE 13]
+Page 13 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+invoices falling outside the Section 10-A period amounts to shifting the goal-post
+which cannot be accepted. This amounts to be an attempt to improving their
+own case to inflate the quantum of default and arm-twist the Corporate Debtor
+into parting with more than what was envisaged in the original Section 9
+application. We are of the firm view that the Operational Creditor cannot now
+canvass for reopening for segregation of invoices afresh from what was originally
+depicted by them while filing the Section 9 application. Once the Operational
+Creditor had on their own volition admitted the operational debt to be Rs 1.65
+Cr. qua 7 invoices not hit by Section 10-A, it cannot alter, modify, expand or
+shrink the list of invoices originally set up by themselves in Table-A and Table-
+B which had been set out by them in their Section 9 application.
+12.
+We also notice that the Corporate Debtor had offered to pay the entire
+amount of Rs 1.65 Cr. by way of Demand Draft to the Corporate Debtor towards
+meeting the claim amount arising out of the 7 invoices which undisputedly fell
+outside the purview of Section 10-A. This clearly affirms the bonafide intention
+of the Corporate Debtor to discharge their liabilities arising out of the 7
+undisputed invoices not covered by Section 10-A. This commitment given to
+clear their liabilities coupled with deposit of FDR of the said amount with the
+NCLT Registry also demonstrates that the Corporate Debtor was not only keen
+to discharge its outstanding liabilities but also financially solvent. The Appellant
+by not accepting the amount of Rs 1.65 Cr. which has already been deposited
+by the Corporate Debtor shows that the Operational Creditor was using the
+Section 9 application as a coercive recovery tool and not as a resolution
+mechanism.
+
+[PAGE 14]
+Page 14 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+13.
+The decision of the Operational Creditor not to accept the payment
+proposal of the Corporate Debtor to liquidate their debt by asking for an amount
+more than what was indicated by them earlier goes to show that their demand
+was not to further the spirit and objective of IBC of reorganisation and resolution
+of the Corporate Debtor but to subject the Corporate Debtor to debt recovery
+procedure thereby making their denial to accept payment from the Corporate
+Debtor arbitrary and unsustainable. In such circumstances, we have no reasons
+to disagree with the Adjudicating Authority that it would not be in consonance
+with the objective of IBC to drag the Corporate Debtor into insolvency. The
+objective of IBC is for the revival, resolution and rejuvenation of a Corporate
+Debtor from financial distress rather than leverage the provisions of IBC as a
+coercive recovery tool to abandon the Corporate Debtor to face the peril of
+corporate death and extinction. We would like to add that the protective shield
+of Section 10-A does not extinguish or wipe out the liability but only renders it
+unenforceable in Section 7 and 9 proceedings. The Operational Creditor can
+always enforce the liability arising out of invoices falling within the Section 10-
+A period by taking recourse to civil remedies and not by way of Section 9
+proceedings.
+
+14.
+In view of the foregoing discussion, we are in agreement with the impugned
+order rejecting the Section 9 application in view of the fact that the amount of
+Rs 1.65 Cr. stands deposited by the Corporate Debtor by FDR with NCLT
+Registry for making the same available to the Appellant towards discharge of
+operational debt in terms of Table-B of the invoices alongwith liberty to the
+Appellant to avail other remedies in accordance with law. We do not find any
+
+[PAGE 15]
+Page 15 of 15
+Company Appeal (AT) (Insolvency) Nos. 1244 of 2025
+
+good ground to interfere with the above order of the Adjudicating Authority.
+There is no merit in the Appeal. The Appeal is dismissed with no order as to
+costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+
+Place: New Delhi
+Date: 07.01.2026
+
+Abdul

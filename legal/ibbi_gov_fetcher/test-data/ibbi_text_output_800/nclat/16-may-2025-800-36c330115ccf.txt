@@ -1,0 +1,843 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 853 of 2023
+
+[Arising out of the Impugned Order dated 20.04.2023 passed by the
+Adjudicating Authority, National Company Law Tribunal, Jaipur Bench in
+IA No.100/JPR/2020 in CP No. (IB)- 44/9/JPR/20194/9/JPR/2019]
+In the matter of:
+M/S RAJPUTANA CONSTRUCTIONS PVT. LTD
+A company incorporated under Companies Act 1956
+Through its Director and Authorised Representative,
+Mr. Ravindra Tambi
+Address: 13, Parivahan Marg,
+Civil, Lines, Jaipur, Rajasthan- 302001
+
+...Appellant
+Versus
+
+1.
+M/S RAJASTHAN LAND HOLDINGS LIMITED
+
+A company incorporated under Companies Act 1956
+
+Through its Director
+
+Address: R/o 1st Floor, LIC Jeevan Nidhi Building,
+
+Ambedkar Circle, Bhawani Singh Marg, Jaipur,
+
+Rajasthan- 302021
+...Respondent No.1
+2.
+ANURADHA GUPTA
+
+Erstwhile Resolution Professional of
+
+M/s Rajasthan Land Holdings Limited
+
+Address: E-194, Ambabari, Vidhyadhar Nagar,
+
+Jaipur, Rajasthan-302039
+
+...Respondent No.2
+3.
+IL&FS TRANSPORTATION NETWORKS LIMITED
+
+A company incorporated under Companies Act 1956
+
+Through its Director
+
+Address: The IL&FS Financial Centre, Plot C-22,
+
+G Block, Bandra Kurla Complex, Bandra East,
+
+Mumbai- 400051
+...Respondent No.3
+4.
+HI-LINE BUILDCON INDIA PRIVATE LIMITED
+
+A company incorporated under Companies Act 1956
+
+Through its Director
+
+Address: 13, Parivahan Marg, Civil, Lines,
+
+Jaipur, Rajasthan- 302001
+...Respondent No.4
+5.
+BHANDARI & CO.
+
+Through its Authorised Representative
+Address: P-7, Tilak Marg, C-Scheme, Jaipur,
+Rajasthan-302001
+
+[PAGE 2]
+Page 2 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+...Respondent No.5
+Present:
+
+For Appellant
+: Mr. Kshitij Mittal, Mr. Abhyuday Singh, Advocates.
+
+For Respondent
+: Mr. Rishabh Parikh, Ms. Niyati Kohli, Advocates for R-1.
+
+Mr. Raunak Dhillon, Ms. Isha Malik, Mr. Nihaad Dewan,
+Mr. Anchit Jasuja, Mr. Vikash Kumar Jha, Advocates for R-
+3 (ITNL).
+
+WITH
+Company Appeal (AT) (Insolvency) No. 785 of 2023
+
+[Arising out of the Impugned Order dated 20.04.2023 passed by the
+Adjudicating Authority, National Company Law Tribunal, Jaipur Bench in
+IA No.100/JPR/2020 & CP No. (IB)- 44/9/JPR/2019]
+In the matter of:
+ANURADHA GUPTA,
+ERSTWHILE RP OF
+M/s. Rajasthan Land Holdings Limited,
+R/0 E-194, Amba Bari, Jaipur-302039,
+Rajasthan
+
+...Appellant
+
+Versus
+
+1.
+M/S. RAJPUTANA CONSTRUCTIONS PVT. LTD.,
+
+R/o 13, Parivahan Marg, Civil Lines,
+
+Jaipur, Rajasthan- 302001.
+
+...Respondent No.1
+
+2.
+M/S. HI LINE BUILDCON (INDIA) PVT. LTD.,
+
+R/o 13, Parivahan Marg, Civil Lines,
+
+Jaipur, Rajasthan- 302001.
+
+...Respondent No.2
+3.
+M/s S. BHANDARI & CO.,
+
+R/o P-7, Tilak Marg, C Scheme,
+
+Jaipur-302005
+...Respondent No.3
+
+4.
+IL&FS TRANSPORTATION NETWORKS LIMITED,
+
+R/o THE IL&FS Financial Centre, Plot C-22,
+
+G Block, Bandra, Kurla Complex, Bandra East,
+
+Mumbai-400051
+...Respondent No.4
+
+Present:
+
+[PAGE 3]
+Page 3 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+For Appellant
+: Mr. Yash Tandon, Advocate.
+
+For Respondent
+: Mr. Rishabh Parikh, Ms. Niyati Kohli, Advocates.
+
+Mr. Raunak Dhillon, Ms. Isha Malik, Mr. Nihaad Dewan,
+Mr. Anchit Jasuja, Mr. Vikash Kumar Jha, Advocates for R-
+4 (ITNL).
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present set of two appeals filed under Section 61 of Insolvency and
+Bankruptcy Code 2016 (‘IBC’ in short) by the Appellants arises out of a common
+Order dated 20.04.2023 (hereinafter referred to as ‘Impugned Order’) passed by
+the Adjudicating Authority (National Company Law Tribunal, Jaipur Bench) in
+IA No. 100/JPR/2020 in CP No. (IB)- 44/9/JPR/2019. By the impugned order,
+the Adjudicating Authority has terminated the Corporate Insolvency Resolution
+Process (“CIRP” in short) of the Corporate Debtor and reduced the fees and
+remuneration payable to the erstwhile Resolution Professional (“RP” in short).
+Aggrieved by the impugned order, Company Appeal No. 853 of 2023 has been
+preferred by the Operational Creditor and Company Appeal No. 785 of 2023 has
+been filed by the RP.
+2.
+Coming to the factual matrix of both the cases at hand, the sequence of
+events and facts which are relevant for deciding the two appeals are as outlined
+below:
+ The Corporate Debtor-M/s Rajasthan Land Holdings Ltd. (“RLHL” in
+short) was a wholly owned subsidiary of M/s Road Infrastructure
+Development Company of Rajasthan (“RIDCOR” in short) which was a JV
+
+[PAGE 4]
+Page 4 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+between IL&FS Transportation Networks Ltd. (“ITNL” in short) and the
+Government of Rajasthan. ITNL had bought the shareholding of the
+Corporate Debtor from RIDCOR in 2016 which was purportedly
+transferred to a subsidiary of IL&FS Company Pario Developers Pvt. Ltd.
+(“Pario” in short) vide Share Purchase Agreement dated 30.06.2017.
+ The Corporate Debtor was admitted into the rigours of Corporate
+Insolvency Resolution Process (“CIRP” in short) on 24.09.2019 basis a
+Section 9 petition filed by the Operational Creditor-M/s Rajputana
+Constructions Pvt. Ltd. (“RCPL” in short).
+ The RP constituted the Committee of Creditors (“CoC” in short) on
+24.10.2019. The CoC comprised only of three Operational Creditors of
+which the RCPL had a vote share of 89.54% with an admitted claim of Rs
+23,97,086/- only. The other two Operational Creditors on the CoC were
+M/s. HI Line Buildcon Pvt. Ltd. and S. Bhandari & Co. with a claim of Rs
+2,20,876/- and Rs 59,000/- respectively. The aggregate admitted claim of
+the three Operational Creditors was Rs 26,76,962/-.
+ The first CoC meeting held on 24.10.2019 had fixed the fee of the RP at Rs
+1,00,000/- per month which was later increased to Rs 2,00,000/- per
+month following a decision taken in the fourth CoC meeting held on
+20.03.2020. Subsequently on 11.11.2021, the Adjudicating Authority put
+a cap on the fees of the RP at Rs 1,00,000/- per month.
+ ITNL had preferred a claim of Rs 181 Cr. on 24.12.2019 which was treated
+as “related-party” financial debt by the RP. The ITNL filed IA No. 100 of
+2020 on 02.03.2020 before the Adjudicating Authority challenging the
+
+[PAGE 5]
+Page 5 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+decision of the RP to classify them as a “related-party” in their quest for a
+seat on CoC.
+ On 05.08.2020, the Adjudicating Authority stayed the continuation of
+CIRP by its interim order on IA No. 100 of 2020 which stay continued until
+16.03.2021.
+ On 16.03.2021, the Adjudicating Authority had directed the CIRP of the
+Corporate Debtor to continue under the guidance of Justice (Retd.) D.K.
+Jain as he was looking after the CIRP process of IL&FS group entity.
+However as Justice (Retd.) D.K. Jain recused from the said proposal on
+24.04.2021, ITNL filed IA No. 374 of 2021 seeking restoration of IA No. 100
+of 2020.
+ On 26.07.2021, RP filed IA No. 197 of 2021 under Section 66 and 67 of
+the IBC with regard to fraudulent transaction by the ITNL.
+ On 11.11.2021, the Adjudicating Authority capped the fees of RP to Rs
+1,00,000/- per month and sought justification for enhanced fees of Rs
+2,00,000/- per month.
+ On 29.08.2022, IA 100 of 2020 of the ITNL was restored by the
+Adjudicating Authority.
+ On 08.12.2022, the Adjudicating Authority directed the parties to explore
+the possibility of amicable settlement and on 16.01.2023 directed the RP
+to convene a meeting of the CoC along with the ITNL for this purpose.
+RCPL did not attend the meeting of the CoC convened for this purpose. In
+compliance of the order of 16.01.2023, the RP had convened a meeting of
+CoC on 23.01.2023 which had to be deferred due to absence of quorum.
+The Adjudicating Authority on 24.01.2023 again directed CoC meeting to
+
+[PAGE 6]
+Page 6 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+be held on 25.01.2023. The meeting on 25.01.2023 also could not be
+convened because Appellant had requested for rescheduling of the meeting
+on the grounds of personal exigency. The seventh CoC meeting was
+eventually convened on 01.02.2023. During the seventh CoC meeting held
+on 01.02.2023, the RCPL objected to the proposal of the ITNL despite the
+offer of the three Operational Creditors in CoC being paid 100% of their
+dues. Since the RCPL with 89.54% vote share had objected, the RP
+concluded that the settlement offer will not be considered by the CoC and
+that the offer of ITNL stood rejected.
+ On 20.04.2023, the Adjudicating Authority passed the impugned order
+terminating the CIRP after noting the malafide conduct of the CoC. The
+impugned order, inter-alia, reduced the fees of the RP to Rs 50,000/- per
+month after noting that RP had continued with CIRP when there was no
+need for conducting the CIRP.
+ Aggrieved with the impugned order, the two appeals have been filed.
+Company Appeal No. 853 of 2023 has been filed by the RCPL assailing the
+impugned order on the grounds that CIRP of the Corporate Debtor had
+been erroneously terminated. Company Appeal No. 785 of 2023 has been
+filed by the erstwhile RP seeking expunction of alleged unwarranted
+remarks contained in the impugned order on the conduct and performance
+of RP as well as for reduction of their fees.
+3.
+Since the facts and issues are closely intertwined, we would like to
+consider dealing with both the appeals together. Further, since the contentions
+of the Corporate Debtor and ITNL largely overlap, we would like to capture their
+
+[PAGE 7]
+Page 7 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+submissions conjointly. Similarly, we would like to club together the
+submissions made on behalf of RCPL, RP and the two other members of CoC.
+4.
+Making their submissions, the Ld. Counsel for RCPL and RP assailing the
+impugned order contended that RCPL had validly initiated Section 9 application
+against the Corporate Debtor for an outstanding operational debt of Rs 23.97
+lakhs which debt was never disputed by the Corporate Debtor. It is contended
+by RCPL that even when a notice had been issued by them on 11.01.2019 prior
+to filing of the Section 9 application seeking payment of the outstanding amount,
+the Corporate Debtor did not come forward offering to make good the
+outstanding payment. Post the filing of Section 9 application also, the Corporate
+Debtor did not make any expression of their intent, willingness or ability to repay
+the operational debt before the Adjudicating Authority. As regards the role of
+ITNL, it has been submitted by RCPL that after the admission of the Section 9
+application, the ITNL which was a group company of IL&FS submitted a claim of
+Rs 181.34 Cr. before the RP on 20.12.2019 towards the loan given by it to the
+Corporate Debtor. The RP acting fairly and transparently had admitted the claim
+of ITNL as Financial Creditor but did not admit them into the CoC by holding
+them to be a “related-party”, which fact was also communicated to ITNL on
+06.02.2020. ITNL however filed IA No. 100 of 2020 disputing their ‘related-party’
+status thus stalling resolution efforts of the Corporate Debtor for over three
+years. It is thus asserted that though the Corporate Debtor was admitted into
+CIRP on 24.09.2019, the CIRP proceedings dragged on for many long years not
+on their insistence but because of ITNL which was trying to position itself on the
+CoC by filing a claim of Rs 181.34 Cr. It was emphatically asserted that at the
+stage when the claim of ITNL was admitted, the cash balance lying with the
+
+[PAGE 8]
+Page 8 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+Corporate Debtor was insufficient to meet the ITNLs claim of Rs 181.61 Cr.
+coupled with the claims of the three Operational Creditors. It was contended by
+RCPL that as a member of CoC it was responsible for overseeing the interest of
+all creditors as well as the interest of the Corporate Debtor. Hence, it could not
+have utilized the funds of the Corporate Debtor for serving its own interests of
+clearing its own dues from the account of Corporate Debtor which was already
+under moratorium. It was therefore misconceived on the part of the Adjudicating
+Authority to hold that the RP and CoC had not taken steps to refund the claims
+admitted by RP in respect of CoC. Assailing the impugned order, it was
+contended that the Adjudicating Authority had not only erroneously terminated
+the CIRP of the Corporate Debtor but also wrongly attributed malafide intent on
+them. It was also asserted by the RP that on having unearthed certain fraudulent
+transactions between ITNL, Corporate Debtor and a third party, namely,
+Kaleidoscope Developers Pvt. Ltd. they filed IA No 197 of 2021 on 26.07.2021
+under Sections 66 and 67 of IBC for fraudulent transaction.
+5.
+The Ld. Counsel for the RP further submitted that that the RP cannot be
+held responsible for prolongation of the CIRP. The delay was caused because
+ITNL kept on litigating for having a seat in the CoC for which purpose it had filed
+IA No. 100 of 2020. It was contended that ITNL was the controlling and related
+party of the Corporate Debtor. It was controlling the Corporate Debtor through
+Pario under a Share Purchase Agreement besides the fact that key managerial
+persons of ITNL were also serving as directors of the Corporate Debtor. Since the
+ITNL was a related party in terms of Section 5(24) of IBC, they were not entitled
+to claim a seat in the CoC in terms of Section 21 of the IBC. Yet the ITNL had
+continued to pursue their IA for securing a seat in the CoC. Countering the
+
+[PAGE 9]
+Page 9 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+contention that the RP did not take adequate steps to repay the admitted claims,
+it was submitted that the bank account had merely 3 Cr. at the time of CIRP
+initiation. Though this amount had later increased to Rs 7 Cr., this sum still fell
+short of the admitted claim of Rs 181 Cr. of the Operational Creditors and ITNL.
+Hence, when the CoC and RP was faced with a claim amount which far exceeded
+the amount available in the account of the Corporate Debtor, it could not have
+paid off only the Operational Creditors. Further, since no proposal for any
+settlement or withdrawal under Section 12-A was received from the suspended
+management of the Corporate Debtor, the RP was bound by moratorium and
+could not have suo moto paid off the Operational Creditors while ignoring the
+financial debt of more than Rs 181 Cr. claimed by ITNL. On the issue of their
+fees and remuneration, it was submitted that remuneration of Rs 1,00,000/- per
+month had been confirmed by the CoC in their first meeting held on 24.10.2020.
+However, as the claim amount of the creditors touched a figure of more than Rs
+181 Cr., the CoC in its fourth meeting held on 20.03.2020 agreed to enhance the
+remuneration of the RP from Rs 1,00,000/- to Rs 2,00,000/- per month. It was
+further contended that Regulation 34-B of the CIRP Regulations prescribed
+minimum fees of Rs 2,00,000/- per month for RP under Schedule-II and hence
+their claim for the same fees was justifiable. Though the RP was performing his
+duties diligently throughout the CIRP process including keeping the Corporate
+Debtor as a going concern even when CIRP was put on hold, the reduction in
+fees to Rs 50,000/- per month by the Adjudicating Authority is reflective of
+punitive action on the RP which has caused prejudice to the reputation of the
+RP. It was vehemently contended that certain unwarranted and unsubstantiated
+
+[PAGE 10]
+Page 10 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+observations have been made against the RP by the Adjudicating Authority which
+deserved to be expunged.
+6.
+Refuting the contentions of the CoC and the RP, it has been submitted by
+Corporate Debtor and ITNL that the CoC and RP had colluded to continue on
+with the CIRP of the Corporate Debtor for a period of four and half years at a
+time when the Corporate Debtor had ample funds right from the point of
+inception of CIRP to repay the meagre outstanding debt of the CoC members
+amounting Rs 26.76 lakhs. It was contended that the Adjudicating Authority had
+correctly noticed that RCPL and two other Operational Creditors had been offered
+repayment of the entire dues in the seventh CoC meeting, however, RCPL instead
+of taking its dues from the RP misused its dominant position in the CoC to insist
+on continuing with the CIRP of the Corporate Debtor. There are no convincing
+grounds offered by RCPL as to why they were unwilling to accept the 100% of
+due payable to it. It therefore becomes clear that RCPL has been harbouring
+some ulterior and oblique motive to carry on the CIRP proceedings. The refusal
+on the part of the Operational Creditors to accept their entire operational debt
+shows that they were not interested in the insolvency resolution of the Corporate
+Debtor but wanted to subject the Corporate Debtor to CIRP proceedings clearly
+with some other hidden agenda. Reliance has also been placed on the judgment
+of the Hon’ble Supreme Court in Swiss Ribbons Pvt. Ltd. Vs UoI (2019) 4 SCC
+17 in support of their contention that if the CoC arbitrarily rejects a just
+settlement, the Adjudicating Authority as well as the Appellate Authority can
+always set aside such decision. As regards the conduct of CIRP by the RP it was
+pointed out that as against the debt of CoC of Rs 26 lakhs, the fees of RP was
+disproportionately high as it far exceeded the total admitted debt of the CoC.
+
+[PAGE 11]
+Page 11 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+CIRP was continued despite CIRP costs touching Rs 73 lakhs which was thrice
+the size of the total admitted debt of CoC which all goes to show that the RP had
+continued the CIRP in collusion with CoC to ensure higher billings. The RP had
+thus continued the CIRP for a period of four and a half years with hefty fees and
+inflated CIRP costs. On the conduct of the RP, it was asserted that instead of
+putting a lid on the ongoing CIRP process by paying off the three Operational
+Creditors who were the only members of the CoC, the RP in collusion with the
+CoC had meaninglessly lingered on with the CIRP proceedings and in the process
+incurred an exorbitant expenditure of Rs 73.31 lakhs towards CIRP cost.
+7.
+We have duly considered the arguments advanced by the Learned Counsel
+for all the parties and perused the records carefully.
+8.
+The short question which is required to be answered is whether the
+decision of the CoC to decline the proposal for acceptance of their admitted dues
+and close the CIRP proceedings is justified and whether the purported role of the
+RP in dragging on with the CIRP proceedings and in the process incurring an
+exorbitant expenditure towards CIRP cost was arbitrary and unsustainable.
+9.
+It is the case of the CoC and RP that on the recusal of Justice (Retd) D.K.
+Jain from conducting the insolvency of the Corporate Debtor, it was the ITNL
+which had once again sought revival of IA 100 of 2020 which led to prolongation
+of the CIRP proceedings. The IA No. 100 of 2020 was revived on 29.08.2022 and
+the matter was heard on several occasions. Thus, the conduct of insolvency
+resolution proceedings of the Corporate Debtor was delayed by almost three to
+four years because of ITNL unabatedly litigating for their inclusion in the CoC.
+Thus, when the delay was neither on account of the RP or the CoC, the finding
+of Adjudicating Authority imputing malafide motives on the RP and the CoC for
+
+[PAGE 12]
+Page 12 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+unnecessarily stretching on with CIRP was contrary to the fact on record and
+therefore unsustainable. Furthermore, once the CoC had refused to accept the
+settlement proposed by ITNL, the Adjudicating Authority could not have reviewed
+the business decision of the CoC and superimposed a settlement on the CoC. It
+has been contended that the Adjudicating Authority had rejected the reasoning
+given by the CoC in rejecting the settlement offer merely by recording a cryptic
+observation that the objections were irrelevant without proper substantiation. It
+was asserted that the Adjudicating Authority could not have substituted their
+own wisdom for the commercial wisdom of the CoC.
+10.
+When we look at the sequence of events, we notice that ITNL had staked a
+claim of Rs 181 Cr. on 24.12.2019 which was treated as “related-party” financial
+debt by the RP. The ITNL thereafter filed IA No. 100 of 2020 on 02.03.2020 before
+the Adjudicating Authority challenging the decision of the RP to classify them as
+a “related-party”. Consequent upon filing IA No. 100 of 2020 by ITNL, the
+Adjudicating Authority on 05.08.2020 had passed interim order directing the RP
+not to proceed with the CIRP of the Corporate Debtor. In its subsequent order
+dated 16.03.2021, the Adjudicating Authority observed that the RP had
+proceeded with the resolution with the Corporate Debtor overlooking some of the
+major developments that were happening with respect to group insolvency
+process of IL&FS and its group companies under Section 241 and 242 of the
+Companies Act. Keeping in view that the present matter also fell under the Group
+Resolution Approach as had been approved by this Appellate Tribunal, the
+Adjudicating Authority directed that the resolution of the present Corporate
+Debtor be carried out under the supervision of Justice (Retd.) D.K. Jain. The
+Adjudicating
+Authority
+had
+also
+directed
+the
+RP
+to
+forward
+all
+
+[PAGE 13]
+Page 13 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+records/documents relating to the conduct of the resolution process of the
+Corporate Debtor to Justice (Retd.) D.K. Jain. Pursuant to the recusal of Justice
+(Retd.) D.K. Jain vide letter dated 24.04.2021 in handling the resolution process
+of the Corporate Debtor, the ITNL once again sought revival of IA No. 100/2020
+which was restored on 29.08.2022.
+11.
+When the matter was being heard by the Adjudicating Authority with
+regard to IA No. 100/2020, the ITNL had submitted a proposal that if the entire
+claims of the Operational Creditors was settled and the Operational Creditors
+filed an application for withdrawal of CIRP, in that eventuality, ITNL would also
+not claim any amount against the Corporate Debtor. While the proceedings in
+respect of IA No. 100 of 2020 had commenced, it was noticed by the Adjudicating
+Authority that a substantial amount of approximately Rs 7 Cr. was lying in the
+account of the Corporate Debtor which was far in excess of the aggregate claim
+of Rs 26.76 lakhs of the three Operational Creditors who constituted the CoC.
+The Adjudicating Authority, therefore, directed the RP twice on 16.01.2023 and
+24.01.2023 to convene a meeting of the CoC in which all members of CoC as well
+as ITNL would remain present wherein if the claim of the three Operational
+Creditors could be settled, an appropriate application for withdrawal of IA No.
+100 of 2024 would be filed by ITNL. The order of the Adjudicating Authority on
+16.01.2023 also recorded the submission made by ITNL that if the claim of the
+Operational Creditors was settled and the application for withdrawal of the
+Section 9 application was filed by the Appellant, ITNL would not claim any
+amount in the CIRP.
+
+[PAGE 14]
+Page 14 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+12.
+In pursuance of the order of the Adjudicating Authority on 16.01.2023 and
+24.01.2023 two meetings of the CoC were scheduled on 23.01.2023 and
+25.01.2023 but could not be held. Eventually the CoC met on 01.02.2023.
+During this seventh CoC meeting, RCPL conveyed that they would like to refrain
+from accepting this offer of ITNL. The objections were primarily on the grounds
+that that the unilateral settlement proposal of ITNL was without the approval
+and permission from Justice (Retd.) D.K. Jain; that ITNL was not an aggrieved
+party and did not have locus to offer a settlement; that by way of this unlawful
+settlement ITNL was seeking closure of the CIRP; the proposal of ITNL was based
+on utilization of the amount lying in the bank account of the Corporate Debtor
+which was violative of Section 14 of the IBC; that the Corporate Debtor had
+indulged in fraudulent and suspicious circular transactions with various related
+entity of IL&FS group which was under investigation; that ITNL did not follow
+the process of Section 12-A of IBC in offering the settlement proposal and that
+IA No. 100 of 2020 had been filed to delay the CIRP of the Corporate Debtor
+thereby burdening the Corporate Debtor with hefty CIRP expenses besides
+diminishing the assets of Corporate Debtor. Since the RCPL which had a voting
+share of 89.54% had specifically refrained from the settlement offer, the RP took
+the view that there was no point to conduct voting on the proposal of ITNL.
+13.
+From the deliberations of the seventh CoC meeting, it becomes clear that
+RCPL has only raised doubts and questions on ITNL’s locus and standing with
+respect to the settlement proposal but cleverly skirted to address the more
+relevant and pertinent question as to why the Operational Creditors were
+unwilling to claim their dues when it was being fully repaid. When sufficient fund
+was already available with the Corporate Debtor to liquidate the debt of the
+
+[PAGE 15]
+Page 15 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+Corporate Debtor, we see no cogent reasons offered by the Operational Creditors
+in declining to accept their entire admitted claim and closing the CIRP. We find
+that the Adjudicating Authority has relied on the judgment of Hon’ble Supreme
+Court in the matter of E.S. Krishnamurthy Vs Bharath Hi-Tech Builders (P)
+Ltd. (2022) 3 SCC 161 wherein it has been clearly held that ultimate purpose
+of IBC is to facilitate insolvency resolution so as to put the Corporate Debtor
+back on its feet so as to ensure revival and continuance of the Corporate Debtor.
+The relevant excerpts of the impugned order are as reproduced hereunder:
+“21. It has been time and again held in various judgments that the
+primary focus of IBC is to ensure revival and continuance of the Corporate
+Debtor. The Code is a beneficial legislation which aims to put the
+Corporate Debtor back on its feet and not a mere recovery legislation. The
+Hon’ble Supreme Court in the matter of E.S. Krishnamurthy v. Bharath
+Hi-Tech Builders (P) Ltd., (2022) 3 SCC 161 has held the following:
+“35. Undoubtedly, settlements have to be encouraged because the
+ultimate purpose of IBC is to facilitate the continuance and
+rehabilitation of a corporate debtor, as distinct from allowing it to
+go into liquidation. As the Statement of Objects and Reasons
+accompanying the introduction of the Bill indicates, the objective of
+IBC is to facilitate insolvency resolution “in a time-bound manner”
+for
+maximisation
+of
+the
+value
+of
+assets,
+promotion
+of
+entrepreneurship, ensuring the availability of credit and balancing
+the interest of all stakeholders. ... ... ...”
+14.
+The Adjudicating Authority after having noticed that the Corporate Debtor
+had sufficient capital/liquidity to meet its debt, went ahead and observed that
+the CoC and RP should not have gone forward with the CIRP of the Corporate
+Debtor. The Corporate Debtor had cash balance of Rs 3,68,22,145.11/- on the
+CIRP admission date which was sufficient to settle the operational debt raised
+by the Operational Creditor. Further significant resolution proceeds had also
+been received by the Corporate Debtor in the CIRP of a sister entity of the
+Corporate Debtor namely Flamingo Landbase Pvt Ltd which was also initiated
+
+[PAGE 16]
+Page 16 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+and controlled by the RCPL. At a time when there was Rs 7 Cr. in the bank
+account of the Corporate Debtor while the total claim of the Operational
+Creditors was merely Rs. 26 lakhs, there was no reason for continuing on with
+the CIRP proceeding. When 100% of the admitted debt of the CoC was being
+satisfied and yet not being accepted by CoC members, we find that the
+Adjudicating Authority had not committed any mistake in inferring that there
+was some other hidden motive on the part of the Operational Creditors to
+continue with the CIRP.
+15.
+The Adjudicating Authority has also rightly adverted attention to inherent
+powers of the Adjudicating Authority as conferred under Rule 11 of NCLT Rules,
+2016 whereby inherent powers can be exercised by the Adjudicating Authority
+to make orders for meeting the ends of justice to prevent abuse of the process of
+the tribunal. At this stage it may be useful to notice that the Adjudicating
+Authority has passed a well-reasoned, comprehensive and detailed impugned
+order which is as reproduced below:
+“25. We find no reason why the Operational Creditors have not claimed
+their dues. It is a clear case of some hidden motives and misuse of IBC and
+apparently gives rise to the suspicion of understanding among certain
+parties to continue the CIRP for some oblique purpose and till the amount
+lying in the account of the CD is exhausted as the CoC is not bearing the
+CIRP expenses.
+26. It is apposite to refer to Rule 11 of NCLT Rules, 2016 in the present
+matter.
+“11. Inherent Powers.- Nothing in these rules shall be deemed to limit
+or otherwise affect the inherent powers of the Tribunal to make such
+orders as may be necessary for meeting the ends of justice or to
+prevent abuse of the process of the Tribunal.”
+28. Section 60(5) gives power to this forum to exercise residuary jurisdiction
+in matters pertaining to the CIRP of the Corporate Debtor. Moreover, the
+Hon’ble Supreme Court in the matter of Vallal RCK v. Siva Industries &
+
+[PAGE 17]
+Page 17 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+Holdings Ltd., (2022) 9 SCC 803 has while relying on the judgment of
+Swiss Ribbons (P) Ltd. Vs. Union of India; (2019) 4 SCC 17 observed the
+following:
+“20. It could thus be seen that this Court has found that if the CoC
+arbitrarily rejects a just settlement and/or withdrawal claim, the
+learned NCLT and thereafter the learned NCLAT can always set aside
+such decision under the provisions of IBC.
+24. When 90% and more of the creditors, in their wisdom after due
+deliberations, find that it will be in the interest of all the stakeholders to
+permit settlement and withdraw CIRP, in our view, the adjudicating
+authority or the appellate authority cannot sit in an appeal over the
+commercial wisdom of CoC. The interference would be warranted only
+when the adjudicating authority or the appellate authority finds the
+decision of the CoC to be wholly capricious, arbitrary, irrational and
+dehors the provisions of the statute or the Rules.”
+
+29. The CoC members and the Operational Creditor namely, M/s
+Rajputana Constructions Pvt Ltd. holding 90% of voting share, present in
+court were asked to clarify the reason for not accepting their dues to be
+paid immediately. No satisfactory reply was received on their behalf and
+procedural issues with regard to the filing of the application for withdrawal
+of CIRP were raised. The reasons given by the Operational Creditor for not
+accepting the claim does not hold any practical logical ground. In the
+circumstances as outlined, the question of fine analysis of any question of
+related parties becomes redundant.
+30. It is pertinent to mention that an Application was filed under Section 9
+of the Code by the same Operational Creditor namely, M/s Rajputana
+Constructions Pvt Ltd. against M/s Flamingo Landbase Pvt Ltd., which is
+a related party to this Corporate Debtor. A credit of Rs 3.29 crore was
+received by the Corporate Debtor herein namely, M/s Rajasthan Land
+Holdings Ltd., from the leftover amount of the Resolution Plan of M/s
+Flamingo Landbase Pvt Ltd., on the same day, in petition numbered as CP
+No.(IB)-45/9/JPR/2019 i.e. the next number of this petition and the
+present Operational Creditor was holding almost 100% of voting right in
+the CoC of M/s Flamingo Landbase Pvt. Ltd. with a claim amount of appx
+Rs 1.07 crore. In that case also the land was available and this OC has got
+its full amount. This fact was only revealed when the clarification during
+hearing was sought regarding the increase of the cash available in the
+CD’s account during CIRP proceedings by around Rs 3.3 Crores. Now this
+OC here is not taking its dues here from the RP perhaps with intention to
+orchestrate and go for resolution, or sell the property, as per its decision
+
+[PAGE 18]
+Page 18 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+since it is holding approx. 90% of voting in CoC. This intent of the OC
+appears to be malicious.”
+16.
+It is well settled that IBC is a beneficial legislation intending to bring back
+the Corporate Debtor on its feet without letting the value of the assets of the
+Corporate Debtor suffer a beating. Hence CIRP proceedings against the
+Corporate Debtor, when pursued coercively or mindlessly, it becomes violative of
+the quintessential spirit of the insolvency resolution framework. In the present
+facts of the case, when the Corporate Debtor had sufficient finances in its kitty
+and was indubitably in a position to wipe off and repay the operational debt qua
+the three Operational Creditors who are the only members of the CoC and full
+liability was proposed to be discharged, there seems to have been no rational
+basis for the Operational Creditors to decline from accepting their outstanding
+dues. What comes to notice is stubborn reluctance on the part of CoC members
+to accept the repayment of the operational debt, making it clear that the three
+Operational Creditors who constituted the CoC were trying to scuttle the
+resolution of the Corporate Debtor and more interested in pushing the Corporate
+Debtor into insolvency rather than salvaging the Corporate Debtor from the
+perils of corporate death. The RCPL with majority stake in the CoC has been
+trying to take undue advantage of the situation and was being actuated by some
+other ulterior and dubious motives which had nothing to do with insolvency
+resolution. This amounts to misuse and abuse of the provisions of IBC. Based
+on the totality of circumstances, we are convinced that the intent behind
+continuing of the CIRP proceedings by the Operational Creditor was clearly for
+reasons other than insolvency resolution.
+
+[PAGE 19]
+Page 19 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+17.
+This now brings us to the second related question whether the RP was
+working in collusion with RCPL and CoC in dragging on with the CIRP
+proceedings and in the process charging hefty fees and ballooning the CIRP
+costs.
+18.
+It is the case of the RP that it had no role to play in the delay with regard
+to the CIRP proceedings of the Corporate Debtor. It was submitted that ITNL had
+been litigating for a seat on the COC for more than three years without ever
+making a proposal to withdraw its claim. Only when ITNL realised that it would
+not be able to manage a place in the CoC that it floated a proposal relating to
+withdrawal of its claim and termination of CIRP by paying off the Operational
+Creditors. In any case the RP could not have proposed for any settlement
+between the parties as that was not the mandate of the RP under IBC. Moreover,
+when a Section 66 application was pending against ITNL wherein serious
+allegations had been raised against ITNL to be a conspirator in the fraudulent
+and circular transactions duly backed by a report from Independent Transaction
+Auditors, the settlement offer of ITNL could not have been accepted. It was
+further emphasised that as RP, she performed all statutory duties, obligations
+and compliance towards the proper management of the Corporate Debtor.
+Summarising the various efforts undertaken by the RP in person and through
+other professionals appointed during the CIRP period, it was pointed out that
+they had secured income tax refund of Rs 91.92 lakhs for AY 2018-19 and Rs
+6.34 lakhs for AY 2015-16 which helped in increasing the bank balance of the
+Corporate Debtor from Rs 3 cr to Rs 7 cr approximately. The RP took several
+other steps including contesting the tax assessment of the Corporate Debtor,
+pursuing the recovery of Rs 48 Cr in fraudulent transactions, work towards
+
+[PAGE 20]
+Page 20 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+reviving struck-off subsidiaries under Section 248 of the Companies Act besides
+protecting the assets of the Corporate Debtor from legal proceedings. All these
+tasks were carried out inspite of non-cooperation from the Corporate Debtor
+which compelled the RP to file IA Nos. 38 of 2020 and 359 of 2020 under Section
+19 of the IBC. The RP has been filing all minutes of meetings and timely progress
+reports of CIRP to the Adjudicating Authority.
+19.
+Per contra, ITNL has contended that the RP had conducted CIRP in a
+malafide manner in collusion with CoC members. It is contended that the
+Adjudicating Authority had correctly arrived at their categorical finding on the
+malicious conduct of the RP and failure on her part to have performed the duties
+in a diligent manner. The RP did not inform the Adjudicating Authority that
+Corporate Debtor has sufficient funds to discharge the admitted claims of the
+CoC. There was no reason for continuation of CIRP of the Corporate Debtor by
+the RP when there was sufficient cash balance. It was contended that during the
+entire three and half years of CIRP proceedings from 24.09.2019 till 20.04.2023,
+only seven CoC meetings were held. Further listing out the non-compliance and
+failure to discharge duties by the RP, it was stated that the RP had failed to file
+annual returns of the Corporate Debtor with RoC for FY 2018-19 to FY 2022-23.
+It had also failed to prepare and approve the financial statements of the
+Corporate Debtor for FY 2018-23 which all amounted to violation of Sections 92,
+134 and 137 of the Companies Act, 2013. The RP had also failed to hold AGM of
+the Corporate Debtor during the CIRP; failed to file income tax returns since
+2018-19 and to undertake routine compliances such as filing Form DPT-3 and
+MSME Forms. The RP had also failed to comply with GST compliances in due
+time.
+
+[PAGE 21]
+Page 21 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+20.
+We do not feel it necessary to delve into the rival submissions made with
+regard to the nitty-gritty of obligations discharged by the RP in the CIRP
+proceedings. What needs to be seen is whether the RP who is supposed to run
+the Corporate Debtor as a prudent business person by preserving the all-round
+interests of all stakeholders lived up to that role appropriately without any
+arbitrary personal gain. It is an undisputed fact that for an admitted debt of Rs
+26 lakhs, the CIRP was allowed to drag on for a four and half years. In contrast
+to a paltry sum of Rs 26 lakhs of admitted debt, the CIRP cost had inflated to Rs
+73 lakhs which was three times the admitted debt of the CoC which on the face
+of it shows that the Corporate Debtor was burdened with unnecessary and
+exorbitant expenditure. The CIRP cost had clearly mounted on account of the
+fees of the RP which was increased from Rs 1,00,000/- to Rs 2,00,000/- per
+month in the fourth CoC meeting held on 20.03.2020. We also find that the RP
+had continued to charge fees even when the CIRP had remained stayed from
+05.08.2020 to 16.03.2021. The Adjudicating Authority had also relied on the
+judgment of this Tribunal in Indus Ind Bank Ltd. Vs Rajendra K Bhuta in
+CA(AT)(Ins.) No. 177 of 2022 wherein it was held that the fee of RP cannot be
+charged for the duration of a stay on CIRP. We are also inclined to agree with the
+Adjudicating Authority that the RP had unlawfully charged fees of Rs 7,09,090/-
+for CIRP stay period from 05.08.2020 to 16.03.2021 which was a period of 7
+months and 11 days. This misconduct of the RP is also validated by the fact that
+the RP had himself filed IA No. 129 of 2021 before the Adjudicating Authority
+seeking exclusion of the stay period of 7 month and 11 days for the purpose of
+computation of the duration of CIRP. That being the case, submission of bill for
+fees by the RP could not have been raised for this period when CIRP stood stayed.
+
+[PAGE 22]
+Page 22 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+It is also been contended by ITNL that Schedule-II which was added to CIRP
+Regulation 34(B) was applicable to fee of RP for CIRP which was initiated after
+01.10.2022 while in the present case the CIRP was initiated on 24.09.2019,
+hence no reliance could have been placed on Schedule-II of the CIRP Regulations.
+Seen together it lends force to the contention that the RP has continued the CIRP
+of the Corporate Debtor just to ensure higher billing inspite of sufficient
+capital/liquidity being available with the Corporate Debtor to meet its debts.
+While reducing the remuneration payable to the RP to Rs 50,000/- per month
+from 24.01.2019 to 19.04.2023, the Adjudicating Authority had done so after
+noting that there was no need for CIRP of the Corporate Debtor to continue since
+the Corporate Debtor had sufficient funds to discharge the admitted claim of the
+CoC. We are of the considered view that the impugned order had not committed
+any infirmity in directing that RP was to receive only remuneration of Rs
+50,000/- per month totalling Rs 21.45 lakhs besides directing the refund of the
+excess amount of remuneration paid to the RP.
+21.
+Besides the fact that CIRP cost have far exceeded the admitted debt of
+CoC, in the present case, the entire CIRP expenses was being met by utilising
+the funds of Corporate Debtor without reimbursement by the CoC which was not
+in conformity with the terms of Regulation 33 and 34 of IBBI (Insolvency
+Resolution Process of Corporate Persons) Regulations, 2016. It is anomalous and
+paradoxical that while the CoC was paying the CIRP cost from the resources of
+the Corporate Debtor, it was reluctant to accept the payment from the Corporate
+Debtor towards the admitted dues. Hence the order of the Adjudicating Authority
+is a well-reasoned order directing the CoC members to pay the CIRP cost
+proportionately. This does lend credence to the contention of the Respondents
+
+[PAGE 23]
+Page 23 of 23
+Company Appeal (AT) (Insolvency) Nos. 853 & 785 of 2023
+
+that there was a calculated strategy on the part of the RCPL as the dominant
+member of the CoC to retain control over the Corporate Debtor. The Adjudicating
+Authority has rightly noted that the CIRP was being misused to benefit private
+interest at the cost of the Corporate Debtor. As the admitted dues of the
+Operational Creditors when squared off against the liability of proportionate
+CIRP costs to be borne by the CoC, a balance amount had become recoverable
+from the CoC and no dues in respect of the admitted claim of the CoC members
+survived, we are also of the view that the Adjudicating Authority has rightly
+terminated the CIRP of the Corporate Debtor.
+22.
+In view of the reasons stated above, we find no good grounds to interfere
+with the impugned order. We find both the Appeals to be devoid of merit. The
+Appeals are dismissed with no costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 16.05.2025
+
+Abdul/ Harleen

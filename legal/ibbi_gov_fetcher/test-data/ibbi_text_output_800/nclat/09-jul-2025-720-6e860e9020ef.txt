@@ -1,0 +1,1062 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 612 of 2025
+
+[Arising out of the Impugned Order dated 24.03.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench-V in I.A. No. 07 of 2024 in CP(IB) No. 106 of 2022]
+In the matter of:
+Univastu India Limited
+Bungalow No. 36/B.C.TS. No. 994 & 945,
+(S. No. 117 & 118), Madhav Baug,
+Shivtirth Nagar, Kothrud, Pune,
+Maharashtra 411038.
+
+...Appellant
+
+Versus
+
+1.
+Setubandhan Infrastructure Limited,
+(formerly known as Prakash Constrowell Limited)
+Office No. A, 3rd Floor,
+The Exchange, Near Ved Mandir,
+Tidke Colony, Trimbak Road,
+Nashik, Maharashtra – 422002.
+
+2.
+Sandeep D. Maheswari,
+
+Resolution Professional,
+Setubandhan Infrastructure Limited
+1503, Bella Vista, Near Oswal Park,
+Pokhran Road No. 2, Majiwada, Thane,
+Maharashtra – 400601.
+
+3.
+State Bank of India
+Stressed Asset Management Branch –II,
+Raheja Chambrs, Ground Floor,
+Wing-B, Free Press Journal Marg,
+Nariman Point, Mumbai,
+Maharashtra – 400021.
+...Respondents
+Present:
+
+For Appellant
+: Ms. Anusha Nagarajan, Ms. Aakanksha Bhola, Mr.
+Prajeet Ghosh and Mr. Vikas Tomar, Advocates.
+
+For Respondent
+:
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 2 of 30
+
+WITH
+Company Appeal (AT) (Insolvency) No. 613 of 2025
+
+[Arising out of the Impugned Order dated 24.03.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench-V in I.A. No. 07 of 2024 in CP(IB) No. 106 of 2022]
+In the matter of:
+Sandeep D. Maheshwari
+(Resolution Professional of
+Setubandh Infrastructure Limited;
+formerly known as
+Prakash Constrowell Limited)
+On behalf of the Committee of Creditors
+
+Having his address at:
+1503, Bella Vista, Near Oswal Park,
+Pokharan Road No.2, Majiwada,
+Thane, Maharashtra – 400 601
+Email id: setu.cirp@gmail.com
+
+...Appellant
+
+Versus
+
+1.
+State Bank of India
+
+Having its office at:
+
+Stressed Asset Management Branch – II,
+
+Raheja Chambers, Ground Floor,
+
+Wing-B, Free Press Journal Marg,
+
+Nariman Point, Mumbai,
+
+Maharashtra – 400 021
+
+Email id: agm1infra2.sarg@sbi.co.in
+
+2.
+IL&FS Financial Services Limited
+
+Having its registered office at:
+
+IL&FS Financial Centre, Plot No. C-22,
+
+G Block, Bandra Kurla Complex,
+
+Bandra (East), Mumbai,
+
+Maharashtra – 400 051
+
+Email id: Jinesh.Sanghavi@ilfsindia.com
+
+3.
+Kotak Mahindra Prime Ltd.
+
+Having its registered office at:
+
+27 BKC, G Block, Bandra (East),
+
+Mumbai, Maharashtra – 400 051
+
+Email id: RajShekhar.Roy@kotak.com
+
+4.
+Union Bank of India
+
+Having its registered office at:
+Asset Recovery Management Branch,
+21, Veena Chambers, Mezzanine Floor,
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 3 of 30
+
+Dalal Street, Fort, Mumbai 400 001
+Email id: samvmumbai@unionbankofindia.bank
+
+5.
+Univastu India Limited,
+Having its registered office at:
+Bungalow No. 36/B, C.T.S. No. 994 & 945,
+(S. No. 117 & 118), Madhav Baug,
+Shivtirth Nagar, Kothrud, Pune,
+Maharashtra 411038
+Email id: cs@univastu.com
+...Respondents
+Present:
+
+For Appellant
+: Mr. Krishnendu Datta, Sr. Advocate with Mr. Pranjit
+Bhattacharya and Ms. Salonee Shukla, Advocates.
+
+For Respondent
+: Mr. Abhijeet Sinha Sr. Advocate with Mr. Lokesh Malik,
+Advocates for SBI & IL&FS.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present two appeals filed under Section 61 of Insolvency and
+Bankruptcy Code 2016 (‘IBC’ in short) by the Appellants arise out of the
+common order dated 24.03.2025 (hereinafter referred to as the ‘Impugned
+Order’) passed by the Adjudicating Authority (National Company Law
+Tribunal, Mumbai Bench-V) in I.A. No. 07 of 2024 in CP(IB) No. 106 of 2022.
+By the impugned order, the Adjudicating Authority has dismissed I.A. No. 07
+of 2024 filed by the Resolution Professional seeking approval of the resolution
+plan filed by Univastu India Limited as the Successful Resolution Applicant in
+the Corporate Insolvency Resolution Proceedings (“CIRP” in short) of the
+Corporate Debtor- Setubandhan Infrastructure Ltd. Aggrieved by the
+impugned order, CA No.612 of 2025 has been preferred by the Resolution
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 4 of 30
+
+Professional and CA No.613 of 2025 has been preferred by the Successful
+Resolution Applicant.
+2.
+The sequence of events and the salient facts which are relevant to be
+noticed for consideration of both the appeals at hand are as depicted below:
+ Setubandhan Infrastructure Ltd.-Corporate Debtor was initiated into
+the rigours of CIRP vide order dated 28.11.2022 passed by the
+Adjudicating Authority.
+ The Respondent No. 2 was appointed by the Adjudicating Authority as
+the Resolution Professional (‘RP’ in short) for insolvency resolution of
+the Corporate Debtor. The RP has filed the present appeal also on behalf
+of the CoC having been so authorised by the CoC with 64.83% vote
+share.
+ The RP constituted the final Committee of Creditors (‘CoC’ in short)
+comprising of Respondent No. 3-State Bank of India as a lead member
+of CoC. The other members of the CoC were IL&FS Financial Services
+Limited, Kotak Mahindra Bank and the Union Bank of India.
+ The 2nd meeting of the CoC on 23.01.2023 resolved to go ahead with
+the issuance of the invitation of Expression of Interest in Form-G under
+Regulation 36A of the CIRP Regulations which was published by the RP
+in newspapers with circulation in Nashik on 28.01.2023.
+ At the 3rd meeting of the CoC on 20.02.2023, the RP presented the
+updated list of creditors before the CoC. The CoC approved the Request
+for Resolution Plan (“RFRP”) including the Evaluation Matrix (“EM”) by
+e-voting.
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 5 of 30
+
+ The RP verified and circulated the final list of the four Proposed
+Resolution Applicants (“PRAs”in short) to the CoC on 26.02.2023. The
+RP then issued the RFRP, EM and Information Memorandum (“IM” in
+short) to the eligible PRAs.
+ On 06.04.2023, at the 5th meeting of the CoC, the Respondent No. 2
+informed the CoC that two PRAs had withdrawn from the process. The
+resolution plans received from the other two PRAs was circulated to the
+CoC members by email on 12.04.2023.
+ On 24.04.2023, at the 6th meeting of the CoC, the RP gave a
+presentation on the details of the plans received. On 23.05.2023, at the
+7th CoC meeting, it was decided that the last date for submission of
+modified resolution plans be kept as 20.06.2023.
+ On 23.06.2023, in the 8th CoC meeting, the RP apprised the members
+of the CoC about discovery of certain properties over which the
+ownership of the Corporate Debtor was disputed and the steps taken
+by RP to safeguard the interests of Respondent No. 1 in the said
+properties.
+ On 20.07.2023, at the 9th CoC meeting, the RP gave a presentation
+regarding the modified resolution plans received from the PRAs.
+ The 10th CoC meeting on 02.08.2023 decided to proceed with voting
+upon the modified resolution plan and the e-voting window was opened
+on 16.08.2023. However, the e-voting window for approval of resolution
+plans was halted and cancelled owing to intimation received from the
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 6 of 30
+
+Respondent No. 3 seeking re-issuance of Form G with wider
+publication.
+ On 21.08.2023, at the 11th CoC meeting, the CoC decided to re-issue
+the Form G to be published in the whole of Maharashtra and Gujarat,
+with the intent of value maximisation of the Respondent No. 1. The
+Form G was reissued on 26.08.2023.
+ On 05.09.2023 and 13.10.2023, the Adjudicating Authority allowed two
+extensions of 90 days for completion of the CIRP, in order to allow value
+maximisation.
+ The RP had received four EOIs from PRAs with whom the IM and the
+RFRP was shared along with EM. The last date for submission of the
+resolution plan of 09.11.2023 was further extended up to 17.11.2023
+at the request of the PRAs.
+ On 05.12.2023, at the 13th CoC meeting, it was resolved by the CoC,
+to go forward with modification of the resolution plans after one time
+negotiations for value maximisation. The CoC members further resolved
+to seek third extension of 60 days for completion of the CIRP. RP
+apprised the CoC regarding the claims received after the issue of RFRP
+dated 10.10.2023. This included a claim from Mohini Buildwell Pvt. Ltd.
+ On the advice of the CoC members, as discussed in the 8th meeting,
+the RP informed the PRAs to exclude the Pinnacle Mall as an asset
+which though appeared in the books of accounts of the Corporate
+Debtor but there was no legal documentation in place; title had not been
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 7 of 30
+
+transferred to the Corporate Debtor and possession of the asset was
+also not with the Respondent No. 1.
+ On 26.12.2023, in the 15th CoC meeting, the RP informed the members
+of the CoC that he had received a claim of Rs. 28 lakhs from the
+Employees’ Provident Fund Organisation (‘EPFO’ in short) and
+thereafter CoC decided to put the modified resolution plans for e-voting.
+ Voting on the modified resolution plans was opened from 04.01.2024
+to 11.01.2024 which was extended twice, on the request of the CoC
+until 16.01.2024. Upon conclusion of the e-voting window, the CoC, in
+its commercial wisdom, approved the Resolution plan along with the
+Addendum received from Univastu India Limited, with a voting share of
+98.57%. Kotak Mahindra with voting share of 1.43% had abstained
+from voting and classified as dissenting Financial Creditor.
+ Subsequent to approval by the CoC, the RP issued the Letter of Intent
+(‘LoI’ in short) dated 16.01.2024 to the Univastu India Limited as the
+Successful Resolution Applicant (hereinafter referred to as the ‘SRA’)
+which thereafter remitted the balance amount of Rs. 2.50 Cr towards
+performance guarantee on 17.01.2024 having already deposited Rs. 25
+Cr towards EMD earlier.
+ In January 2024, the RP filed IA No. 7 of 2024 in CP No. 106 of 2022
+before the Adjudicating Authority, under Sections 30(6) and Section 31
+of the IBC for approval of the Resolution Plan of the SRA.
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 8 of 30
+
+ The Adjudicating Authority on 21.08.2024 reserved IA No. 7 of 2024 for
+Orders. Thereafter, vide Order dated 17.12.2024, IA No. 7 of 2024 was
+listed for clarification on certain issues.
+ On 18.12.2024, the RP provided a clarificatory note giving justification
+on the issues raised by the Adjudicating Authority which the latter
+however found to be insufficient particularly the amount of Rs 48 lakhs
+to be paid to the Dissenting Financial Creditor. Vide Order dated
+19.12.2024, the Adjudicating Authority adjourned the matter to
+06.01.2025 with liberty to the RP to respond to all the issues raised
+earlier on 17.12.2024.
+ On 03.01.2025, the RP conducted the 18th CoC Meeting and apprised
+the CoC of the clarifications sought by the Adjudicating Authority. On
+07.01.2025, the RP requested for time from the Adjudicating Authority
+to place on record the proceedings of the 18th CoC meeting by an
+Additional Affidavit. The Additional Affidavit was filed on 15.01.2025
+which the Adjudicating Authority allegedly refused to consider on the
+ground that the said affidavit was rife with procedural irregularities.
+ On 06.02.2025, the Adjudicating Authority reserved IA No. 07 of 2024
+for Orders. By way of the Impugned Order dated 24.03.2025, the
+Adjudicating Authority rejected the Resolution Plan of the SRA
+purportedly for reasons of statutory violations and procedural
+irregularities and for compromise of the principles of transparency and
+fairness.
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 9 of 30
+
+ Aggrieved by the rejection of their resolution plan, the impugned order
+has been assailed by the SRA in C.A. No.613 of 2025 for rejecting the
+plan by overriding the commercial wisdom of the CoC and by the RP in
+C.A. No.612 of 2025 for the Adjudicating Authority not having
+considered their clarifications to the resolution plan provided by way of
+the Additional Affidavit dated 15.01.2025 and for rejecting the plan on
+grounds which did not constitute part of the clarifications sought vide
+its orders of 17.12.2024.
+3.
+Before we proceed further, it may be useful to notice the prayers of the
+RP and the SRA in their respective appeals which are as reproduced:
+Reliefs sought by the RP in CA- 613 of 2025
+(i) That this Hon’ble Appellate Tribunal may be pleased to allow this
+appeal and set aside the Impugned Order dated 24.03.2025 passed by
+the Ld. NCLT, Mumbai in I.A. No.7 of 2024 in C.P. (IB) No.106 of 2024;
+(ii) That this Hon’ble Appellate Tribunal may be pleased to hold that the
+Resolution Plan of the SRA does not contravene any of the provisions of
+Section 30(2)(e) of the Code;
+(iii) That this Hon’ble Appellate Tribunal may be pleased to direct the Ld.
+NCLT, Mumbai to proceed to pass fresh order in I.A. No.7 of 2024 in C.P.
+(IB) No. 106 of 2022 approving the Resolution Plan of the SRA within a
+short period of time;
+(iv) That this Hon’ble Appellate Tribunal may be pleased to remove the
+observations made against the Resolution Professional;
+(v) That costs in relation to this Appeal be provided for; and
+(vi) Any such other and/or further order/orders be passed as this Hon’ble
+Tribunal may deem fit and proper.
+Reliefs sought by the SRA in CA- 612 of 2025
+(a) That the Hon’ble Tribunal be pleased to allow this Appeal and set
+aside the Impugned Order dated 24.03.2025 passed by the Hon’ble
+NCLT, Mumbai in IA No. 7 of 2024 in CP No. 106 of 2024;
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 10 of 30
+
+(b) Declare that the Resolution Plan submitted by the Appellant, Univastu
+Infrastructure Ltd., ought to approved by the Adjudicating Authority
+under Section 31 of the IBC;
+(c) Pending the hearing and final disposal of the said Appeal, the Hon’ble
+Appellate Tribunal may be pleased to grant a stay of the operation of
+the Impugned Order; and/or
+(d) and grant any such other reliefs and orders as this Hon’ble Tribunal
+may deem fit and proper.
+(e) Grant any other reliefs and pass any other orders as this Hon’ble
+Tribunal may deem fit and proper.
+
+4.
+Shri Krishnendu Datta, Ld. Senior Advocate appeared for the RP;
+Learned Sr. Counsel, Shri Abhijeet Sinha appeared for the CoC while Ms
+Anusha Nagarajan appeared for the SRA in both appeals. The Learned
+Counsels appearing for the RP, CoC as well as the SRA and have collectively
+assailed the findings of the Adjudicating Authority in the impugned order.
+Making their submissions, it has been submitted that the impugned order
+has been passed without due application of mind and without consideration
+of the relevant material placed on record for approval of the resolution plan
+by the Adjudicating Authority. Since their submissions largely overlap, for
+reasons of convenience, their arguments are compositely captured.
+5.
+It has been contended that the reasoning adduced in the impugned
+order for rejection of the resolution plan cannot be sustained as no valid
+grounds of rejection as envisaged under Section 30(2) and Section 31 of the
+IBC have been substantiated. It was vehemently contended that the
+Adjudicating Authority had substituted the commercial wisdom of the CoC
+with its own findings which is not permissible as it is well-settled law that the
+jurisdiction of the Adjudicating Authority under the IBC is limited in that it
+cannot sit in appeal over the justness of the commercial wisdom of the CoC
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 11 of 30
+
+while considering the approval of the resolution plan. It was emphatically
+asserted that the Adjudicating Authority failed to appreciate that the CoC had
+voted in favour of the resolution plan of the SRA after detailed deliberations
+by the members of the CoC with an overwhelming majority of 98.57%.
+Reliance was placed upon the recent decision of the Hon’ble Supreme Court
+in Piramal Capital & Housing Finance Ltd. v. 63 Moons Technologies
+Ltd. in Civil Appeal No.1632-1634 of 2022 wherein it has been held that
+it is no more res integra that the legislature has given paramount importance
+to the commercial wisdom of CoC and that the scope of the judicial review by
+the Adjudicating Authority is limited to the extent provided under Section 31
+and that of the authority of the Appellate Authority is limited to the extent
+provided under Section 61(3) of the IBC.
+6.
+It is the case of the RP and CoC that it is not for the Adjudicating
+Authority to decide on the fitness and justness of the plan as the legislative
+fiat of IBC has not provided for any such ground to challenge the justness of
+the plan which is approved by the CoC in the exercise of its commercial
+wisdom. It was strenuously contended that the Adjudicating Authority has
+exceeded its jurisdiction under Sections 31 and 30(2) of the IBC as it cannot
+examine the justness or commercial prudence or any other aspect of the
+resolution plan which the CoC has already considered. The Adjudicating
+Authority has transgressed its jurisdiction in having entered into the issue of
+admittance/rejection of claims of particular creditors, valuation of the
+Respondent No. 1’s purported assets, alleged arithmetical discrepancies in
+the plan, etc. and in not going by the wisdom of the CoC which has approved
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 12 of 30
+
+the plan under Section 30(4) of the IBC. It is not for the Adjudicating Authority
+to adjudge whether the most viable resolution plan has been tabled before the
+CoC for bringing about an effective resolution of the Corporate Debtor.
+7.
+It was also asserted that the Adjudicating Authority had rejected the
+resolution plan on grounds other than those in respect of which it had sought
+clarifications in its order dated 17.12.2024. The Learned Counsel for the RP
+highlighted that five queries were posed by the Adjudicating Authority for
+clarification while the matter was reserved for orders. It was contended that
+the RP had placed a note on record by way of an affidavit on 18.12.2024 to
+provide clarifications sought by the Adjudicating Authority. Admittedly, the
+clarifications offered by the RP were found insufficient by the Adjudicating
+Authority, and hence the RP furnished an Additional Affidavit dated
+15.01.2025 with requisite clarifications which however the Adjudicating
+Authority did not take proper cognisance of.
+8.
+It was contended that the Adjudicating Authority instead of cursorily
+dismissing the additional affidavit and debunking the clarifications contained
+therein as an afterthought to cover loop-holes in the resolution plan ought to
+have referred the plan back to the CoC for reconsideration in terms of the
+judgement of the Hon’ble Supreme Court in Essar Steel India Ltd.
+Committee of Creditors v. Satish Kumar Gupta (2020) 8 SCC 531. If the
+resolution plan was found deficient on the grounds as pointed out by the
+Adjudicating Authority in its order dated 17.12.2024, it ought to have given
+proper and adequate opportunity to the RP who had filed an application for
+approval of the plan to properly explain and clarify various aspects of the
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 13 of 30
+
+resolution plan. Even the SRA was not given a chance to address any queries
+or give any clarifications on the plan to the Adjudicating Authority at a time
+when they were the best placed to address any such queries. By depriving the
+SRA of such an opportunity and rejecting the resolution plan without seeking
+clarifications from them, the Adjudicating Authority had violated the basic
+principles of natural justice.
+9.
+We have duly considered the arguments advanced by the Learned
+Counsel for the parties and perused the records carefully.
+10.
+The narrow issue for consideration before us is whether the
+Adjudicating Authority was justified in passing the impugned order rejecting
+the plan when the CoC had already approved the plan with majority voting
+and whether the adverse observations made by the Adjudicating Authority
+that the RP had failed in steering the CIRP in a procedurally correct manner
+is tenable or not.
+11.
+Before we go into our analysis and findings, it may be constructive to
+look at the main grounds outlined by the Adjudicating Authority for rejecting
+the plan of the SRA and for questioning the conduct of the RP which are
+encapsulated at para 21(xxvii) and (xxviii) of the impugned order as extracted
+hereunder:
+“xxvii. While this Tribunal accords due deference to the commercial
+wisdom of the Committee of Creditors, it must be emphasized that such
+wisdom cannot override statutory compliance and mandatory legal
+requirements. The numerous violations of the IBBI (Insolvency
+Resolution
+Process
+for
+Corporate
+Persons)
+Regulations,
+2016,
+particularly concerning treatment of dissenting creditors and feasibility
+& viability assessment, non-collating and securing the assets of
+Corporate Debtor, scope for non-adherence to timeline, unequal
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 14 of 30
+
+treatment to the same class of creditors, pending unpaid dues owed to
+employees, and pending claims render the Plan legally untenable.
+xxviii. The conduct of the Resolution Professional in this matter requires
+separate consideration by the IBBI on the following issues-
+ Keeping 3 of the immovable properties of the Corporate
+Debtor out of the collated assets for the valuation of the
+Corporate Debtor for maximization of the assets of the
+Corporate Debtor for the Resolution Plan without any
+legally justifiable grounds which has deprived the CoC
+from appreciating the true value and worth of the assets of
+the Corporate Debtor while evaluating and approving the
+Resolution Plan of the SRA on flimsy ground of some legal
+opinion. Reference deserves to be made to Paragraphs 6-8
+of the present Order.
+ Further, the RP's actions of not making a specific provision
+for pending EPFO Claims on the baseless premise of
+talking to / settling with EPFO Authorities.
+ Not making any specific provision for dissenting /
+abstaining Financial Creditor in the total plan outlay
+against the statutory provisions.
+ convening the 18th CoC meeting on 03.01.2025 while the
+matter was Reserved for Orders, filing an Additional
+Affidavit date 15.01.2025 as a belated attempt to address
+fundamental deficiencies.
+ RP kept claims of Mohini Buildwell Private Limited and
+Assistant Commissioner of State Tax, Mazgaon, Mumbai
+on hold and got the plan approved from the CoC.
+ Made no efforts to recover, protect, and preserve the assets
+of the Corporate Debtor.”
+
+12.
+At this juncture, it is equally pertinent to notice the earlier order of the
+Adjudicating Authority dated 17.12.2024 in which it had sought clarifications
+from the RP which have been extracted at para 2(xi) of the impugned order as
+reproduced here-under:
+“1. The case was listed for clarification on the following issues:
+(i) The upfront cash payment in the Plan, to be paid within 45 days is
+stated to be Rs. 4.97 Crores. The breakup of the amount is as under:
+a) Rs. 75 lacs CIRP cost.
+b) Rs. 2 lacs Operational Creditor.
+c) Rs. 48 lacs Dissenting Financial Creditor.
+d) Rs. 4 Crores to the Secured Financial Creditor.
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 15 of 30
+
+The sum total of the above-stated figures is more than Rs. 4.97 Crores.
+RP may clarify the same.
+2. The Plan also says that RA proposes to pay Rs. 26.50 Crores to
+Financial Creditors which is as under:
+(i) Rs. 4 Crores upfront.
+(ii) Rs. 7 Crores after 360 days from transfer.
+(iii) Rs. 4 Crores by issuance of Secured Convertible Debentures for a
+tenure of one year.
+(iv) Rs. 4 Crores by issuance of Secured Convertible Debentures for a
+period of 5 years.
+The Plan further says that the amount of Secured Convertible
+Debentures shall be paid after 1 year/5 years with a put option, it
+should not exceed 4% of the total shareholding of the Company by the
+end of 5th year. In view of the fact that the shareholding of the
+Company is not given in the Plan/not clarified thus, it leaves enough
+room for manipulation. Otherwise also, the sum total of the payment
+stipulated above does not make it Rs. 26.50 Crores for Financial
+Creditor-RP is directed to clarify the position.
+3. RP is further directed to place on record the Balance-Sheet of the
+Corporate Debtor so as to show the Secured Loan of Kotak Mahindra
+Prime Limited. In the CoC proceedings, it has been stated by the RP
+that there is nothing on record to show that any loan was advanced
+by the Kotak Mahindra Prime Limited and also stated that no vehicle
+is traceable.
+4. The Plan also says that the RA proposes to pay interest at the
+prevailing SBI base rate if there is any delay by RA in implementation
+of Plan due to any reason. Incorporation of such a clause is ‘Implied
+Extension’ on the part of CoC. CoC may clarify the position. Adjourned
+to 18.12.2024.”
+
+13.
+On 18.12.2024, the Respondent No. 2 provided a clarificatory note
+giving justification on all the issues raised by the Adjudicating Authority
+which the Adjudicating Authority found to be insufficient and vide its Order
+dated
+19.12.2024,
+the
+Adjudicating
+Authority
+made
+the
+following
+observations which have been extracted at para 2(xiii) of the impugned order
+as under:
+“The short note provided by the Ld. Counsel for the RP on 18.12.2024
+has once again failed to take into consideration, the amount of Rs. 48
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 16 of 30
+
+lacs to be paid to Dissenting Financial Creditor at the outset. On the
+request of the Ld. Counsel for the RP to respond all the issues raised
+vide order dated 17.12.2024. Adjourned to 06.01.2025.”
+
+14.
+When we look at the contents of paras 10 to 12 above, it broadly
+captures the various grounds which have been inter-alia adverted to by the
+Adjudicating Authority in the impugned order for rejecting the resolution
+plan. The thrust of the impugned order primarily centers around the finding
+that the CoC had not been presented with the correct facts and value of the
+assets by the RP and that the latter had failed to take proper efforts to recover,
+protect and preserve the assets of the Corporate Debtor thus necessitating
+separate consideration by the IBBI on the conduct of RP.
+15.
+Coming to the various grounds held by the Adjudicating Authority for
+not approving the plan, we notice that one of the principal grounds was
+inconsistency and blatant discrepancies in the total plan value of the SRA.
+The Adjudicating Authority has observed that the total plan value in the I.A.
+No 7 of 2024 filed by the RP mentions plan value to be Rs 27.50 cr while
+perusal of the resolution plan reveals that the plan value is only Rs 20 cr. Yet
+again the total plan amount mentioned by the SRA as put to the CoC was Rs
+67.21 cr. Since there were three different plan values which are inconsistent
+with each other, it has been concluded by the Adjudicating Authority that the
+RP had called the 18th CoC meeting when the matter was already reserved for
+orders so as to cover up these inconsistencies and discrepancies in the plan
+values.
+16.
+Per contra, the RP and CoC in their defence contended that the
+Adjudicating Authority had disregarded the fact that that the RP had
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 17 of 30
+
+presented all the 3 figures to the CoC – (a) Rs. 67.21 Cr. as the plan value
+which included Rs. 19.32 crores against which debentures were to be issued
+to the SRA and Rs. 20.40 crores of estimated incentive to Financial Creditors
+based on contingent dues; (b) Rs. 47.90 Cr. as the plan value without payment
+to self of Rs. 19.32 cr; and (c) Rs. 27.50 as the plan value without payment to
+self and incentive. The incentive was conditional upon the recovery and hence
+no definitive value could be assigned. The reasons behind giving all these
+variable numbers was with the purpose of making a full and complete
+disclosure to the CoC so as to enable the CoC to take an informed decision
+while considering the resolution plan. It is also the case of the RP that the
+Adjudicating Authority did not seek any clarification on these alleged
+inconsistencies in the plan value but made it a ground to reject the plan.
+17.
+When we look at the impugned order, we find that the Adjudicating
+Authority has concluded that the total plan value was misrepresented by the
+RP to the CoC and to the Adjudicating Authority in I.A. No. 7 of 2024 by
+showing inconsistent and separate figures of Rs. 67.21 Cr to the CoC, Rs.27.5
+Cr in the IA of RP before the Adjudicating Authority and Rs. 20 Cr. in the
+Resolution Plan. The Adjudicating Authority has also expressed an
+apprehension that the RP had convened the 18th CoC meeting without seeking
+leave of the Court to cover up these inconsistencies in the plan value.
+18.
+The above finding of the Adjudicating Authority however lacks force
+when we look at the material on record. We find that the various plan values
+of the SRA were discussed in various CoC meetings. The breakup of the
+modified plan of the SRA in the table at page 459 of Appeal Paper Book (“APB”
+in short) in the 15th CoC minute quite clearly depicts the basis of arriving at
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 18 of 30
+
+these
+plan
+values.
+The
+three
+different
+amounts
+arising
+due
+to
+incentive/upside and buy-back of shares therefore stood explained at the 15th
+CoC meeting. It was clarified by the RP in the 15th CoC meeting that the plan
+value of Rs. 67.21 Cr. was by the inclusion of maximum recoveries to be made
+from arbitration claim/car/ITNL dues and debentures to be issued to the
+SRA. The RP cannot be faulted for having communicated to CoC the maximum
+amount that may be payable upon recovery to make the CoC aware of the
+maximum amount that can be recovered from contingent events. The RP at
+IA No 7 of 2024 depicted the plan value as Rs 27.50 Cr. as seen at page 616-
+617 of APB. However, Rs. 20 Cr therein was referred to as the amount payable
+through upfront cash and secured convertible debentures. Note 1 therein also
+stated that the SRA proposed to buy back equity shares issued to all Secured
+Financial Creditors at a value of Rs. 7.5 Cr. at the end of five years thus adding
+Rs. 7.5 Cr. over and above the Rs. 20 Cr. to the total plan value. The Plan
+therefore clearly mentioned that in addition to this amount of Rs. 20 Cr.,
+equity shares of Rs.7.50 cr were to be issued. The total of funds infused and
+shares issued was thus Rs. 27.50 cr which was the amount also mentioned
+in IA No 7 of 2024.
+19.
+When resolution plans submitted by PRAs including the present SRA
+have been subjected to extended deliberations and detailed negotiations in
+the CoC and the financial component of the plan of the SRA which includes
+the actual and minimum upfront payments has been approved by the CoC
+with an overwhelming majority vote, such commercial wisdom deserves due
+deference and cannot be called into question either by the Adjudicating
+Authority or this Appellate Authority by supplanting its own wisdom. It is
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 19 of 30
+
+clearly misconstrued on the part of the Adjudicating Authority to reject the
+plan of the SRA on the ground that the plan values projected before the CoC
+and the Adjudicating Authority suffered from inconsistencies.
+20.
+Another ground for turning down the plan by the Adjudicating
+Authority in the impugned order is that the resolution plan created a class
+within a class of operational creditors by the SRA as it provided itself with
+Optionally Convertible Debentures issued at 0% coupon rate for 30 years with
+18% p.a. discount while only providing for upfront payment amounting to 1%
+of the total admitted claim value to other operational creditors. The
+Adjudicating Authority held that such diverse treatment of same class of
+creditors by bifurcating them is against the mandate of Section 53 of the IBC
+thus rendering the plan unsustainable in law. Further the resolution plan by
+not providing for a specific and separate provision for priority payment to
+dissenting/abstaining financial creditors in the total plan outlay was violative
+of Regulation 38(1)(b) of the CIRP Regulations, 2016 and this constituted a
+fatal defect in the plan.
+21.
+The SRA has denied that it had discriminated in favour of its own
+claims as an operational creditor in the plan by proposing a payment of Rs.
+19 Cr. to itself as against only Rs. 2 lakh to be paid upfront to the other
+operational creditors which was 1% of the admitted claim. Attention was
+adverted to the judgement of this Tribunal in Gail India Ltd. v. Ajay Joshi,
+2021 SCC OnLine NCLAT 359 wherein it has been held that the CoC in its
+commercial wisdom has the discretion to classify Operational Creditors into
+further categories for deciding the manner in which payment is made to them.
+It is also the case of the RP that the Adjudicating Authority did not seek any
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 20 of 30
+
+clarification on this issue but erroneously made this a ground for not
+approving the plan.
+22.
+When we peruse the CoC deliberations, we find that the Adjudicating
+Authority has failed to notice that during the 15th CoC meeting, the said
+question of potential differentiation between the operational creditors was
+placed by the SRA before the RP and the CoC alongwith justification in a
+transparent manner. It was contended that the repayment to self by the SRA
+was proposed in form of Optionally Convertible Debentures issued at 0% for
+30 years with an immediate call option discounting the same at 18% p.a. as
+can be seen at page 460 of APB. Payment to self by SRA was thus to be made
+after 30 years without interest while payment to other operational creditors
+was to be upfront and that if both these payments were compared on the same
+time-scale, the quantum of self-payment to the SRA would be lower than other
+operational creditors. When the amounts amount proposed to be paid upfront
+to the operational creditors and SRA is juxtaposed on the same time-lines, it
+was stated that the SRA proposed to clear only 0.69% of its own dues as
+against clearing 1% of the dues of the other operational creditors on an
+immediate cash basis. The SRA had even proposed to grant the same option
+to the other operational creditors but the CoC in its commercial wisdom did
+not approve the same.
+23.
+It is also pertinent to add here that the resolution plan of the SRA also
+clearly provided for payment to Financial Creditors who voted against their
+resolution plan or abstained from voting. The plan provided for payment to
+such dissenting Financial Creditors an amount which shall be equal to the
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 21 of 30
+
+amount to be paid to such creditors in accordance with Section 53(1) of the
+IBC in the event of a liquidation of the Corporate Debtor. The plan also
+provided that such Financial Creditors will be paid in priority to the Financial
+Creditors who voted in favour of the resolution plan as may be seen at page
+540 of APB. Further, the RP had expressly clarified in the additional affidavit
+dated 15.01.2025 that the upfront payment amount of Rs 4.97 Cr. included
+the amount of Rs 48 lakhs which was payable to the dissenting Financial
+Creditor as placed at page 657 of APB.
+24.
+It is well settled that it lies within the domain of the CoC as regards the
+manner in which the debt of the Corporate Debtor is to be dealt with. In the
+present factual matrix, all the resolution plans were circulated to the CoC
+members for evaluation. The 13th, 14th and 15th meetings of the CoC had
+discussed the plans submitted by all the PRAs in the presence of the PRAs for
+clear clarifications. The plan of the SRA having been approved by the 98.57%
+of the CoC and that too after considerable deliberations, we find no good
+reason for substituting the wisdom of the CoC by that of the Adjudicating
+Authority and making it a ground for not approving the resolution plan.
+25.
+Another set of objection to the plan by the Adjudicating Authority was
+on the ground that that RP had violated Sections 18 and 25 of IBC by ignoring
+three assets of the Corporate Debtor viz shops in Raipur; Pinnacle Mall and
+Bhakti Sankul Hotel at Nashik. It has been held by the Adjudicating Authority
+that this conduct of the RP tantamount to material violations of statutory and
+regulatory requirements by the RP who is otherwise ordained to take proper
+safeguards for the maximization of the corporate debtor’s assets.
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 22 of 30
+
+26.
+It was emphatically asserted by the RP and SRA that no clarification
+was sought even on this issue at all by the Adjudicating Authority but was
+surprisingly made a ground for knocking down the plan. It was asserted that
+the Adjudicating Authority had failed to appreciate that these immoveable
+properties could not be made part of the plan as their titles were defective in
+nature. It was canvassed that no immovable property bereft of registered
+ownership transfer, can become part of the resolution plan in terms of the
+judgement of this Tribunal in Gaurav Mahendru v. Sunil Kumar Aggarwal
+in CA(AT)(Ins) No.1590 of 2024.
+27.
+When we look at the material facts placed before us, we find that the
+details of such properties and related shortcomings were brought to the notice
+of the CoC by the RP at 8th CoC meeting and discussed in detail. As regards
+the Pinnacle Mall in Nashik, only an advance payment had been made and
+RP was in possession of only an unstamped and unregistered purchase
+agreement. SBI, as the lead member of CoC, had advised valuers to exclude
+this property as it was in the name of a related company of the Corporate
+Debtor and separately mortgaged with SBI. Hence Pinnacle Mall was excluded
+from the assets of the Corporate Debtor. The shops in Raipur were in the
+possession of third party and no title documents were available to the RP
+except for purchase agreements. As regards Bhakti Sankul in Nashik, the title
+was in the name of the Corporate Debtor but in possession of third party.
+Neither the lenders nor the erstwhile management had given valid title
+documents to the RP. Given this backdrop, we are not persuaded to agree
+with the Adjudicating Authority that the RP had violated either Section 18 or
+25 of the IBC particularly when the Adjudicating Authority has not rendered
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 23 of 30
+
+any conclusive finding on the rights, title and interests of the Corporate
+Debtor qua these immoveable properties.
+28.
+Given this backdrop, the question that arises is whether sufficient steps
+had been taken by the RP to safeguard these immovable properties or whether
+the RP had disregarded the asset maximisation objective of IBC. The shops at
+Raipur and Bhakti Sankul had been added to the assets of Corporate Debtor
+as seen at page 512 of APB and these assets were also valued by the valuer.
+No objection was received from any quarter with regard to the valuation
+undertaken. The RP has given evidence that it had filed police complaint and
+eviction application to protect the assets of the Corporate Debtor. Even
+otherwise all assets were considered in the PUFE and Avoidance Applications
+which were also filed by the RP with respect to each property vide I.A. Nos.
+2967 of 2023 and 1204 of 2024. Moreover, the SRA’s Resolution Plan also
+provided for distribution of proceeds from avoidance applications for the
+benefit of Secured Financial Creditors. The Adjudicating Authority has clearly
+failed to take these aspects into account. We are also inclined to agree with
+the RP that valuation is not a question to be casually raised by the
+Adjudicating Authority after the commercial wisdom of the CoC has approved
+a plan in terms of the judgement of the Hon’ble Apex Court in Ramkrishna
+Forgings Ltd. v. Ravindra Loonkar, 2023 INSC 1013.
+29.
+Another reason for not approving the plan stems from the findings
+returned by the Adjudicating Authority that three claims had not been
+considered by the RP. The claims of operational creditors like Mohini Buildwell
+Pvt. Ltd. and Commissioner of Sales Tax, Mazgaon, Mumbai were not verified
+and the SRA did not make provision for these claims in the resolution plan.
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 24 of 30
+
+No specific provision was made in the plan for the claim of the EPFO which
+has been held to be violative of Section 30(2)(e) and Section 53 of the IBC by
+the Adjudicating Authority.
+30.
+The findings of the Adjudicating Authority have been contended to be
+misplaced by the RP since claims raised by these creditors were brought to
+the notice of the CoC by the RP and the same was discussed by the CoC. The
+CoC had noted that the plan did make provision for these claims in that an
+amount of Rs 3 lakhs was set aside by the SRA towards contingencies to
+squarely provide for these claims if they so materialised. It was also asserted
+that no clarification was sought on these claims by the Adjudicating Authority
+except with respect to the status of the claim filed by Mohini Buildwell Pvt.
+Ltd. as may be seen at page 649 of APB.
+31.
+As regards claims of Mohini Buildwell Pvt. Ltd., clearly the claim was
+received after the last date for filing claims. Hence the claim could not have
+been admitted. This fact was categorically communicated to Mohini Buildwell.
+Admittedly, however, there was a bonafide error on the part of the RP that the
+status of the claim was not changed from the category of “under verification”
+to “not admitted” immediately. When the reasons for non-acceptance of the
+claims had already been duly communicated to Mohini Buildwell and the
+latter had not challenged the rejection of their claim, mere inability on the part
+of the RP in not contemporaneously modifying and updating this position does
+not constitute a cogent statutory ground for rejection of the entire plan. It is
+also noteworthy that this technical omission was endeavoured to be clarified
+by the RP vide Additional Affidavit dated 15.01.2025 but the same was not
+accepted by the Adjudicating Authority for no sound reasons.
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 25 of 30
+
+32.
+As regards claims of the Assistant Commissioner of State Tax, Mazgaon,
+the RP had raised a query regarding these claims as appeals were filed against
+GST orders which are yet to be decided. Upon not receiving any response from
+them, the RP committed no mistake in placing the claim on hold. The Assistant
+Commissioner of State Tax, Mazgaon had in any case not challenged the non-
+inclusion of their claims.
+33.
+As regards EPFO claims, we find that RP informed CoC in the 15th CoC
+meeting that a claim of Rs. 28 lakh had been received from EPFO and that if
+the liability stood confirmed and validated, the claim amount will have to be
+reduced from the Plan amount. Being in the nature of an unverified claim, no
+provision could have been made in the plan especially as it was not a part of
+the Information Memorandum. EPFO had subsequently revised its claim on
+28.12.2023 from Rs. 27.96 lakhs to be only Rs. 4520/- which amount would
+have been squarely covered by the amount set aside for contingencies in the
+Plan. We are therefore inclined to agree with the RP and SRA that in any event,
+the plan cannot be set aside for a trivial claim amount of Rs. 4520/- only.
+34.
+Coming to yet another ground cited by the Adjudicating Authority in
+rejecting the plan which is that the provision to pay interest on delayed
+implementation of the plan was prejudicial to the interests of the creditors
+and violative of Regulation 38 of the CIRP Regulations. The Adjudicating
+Authority had therefore sought clarifications vide its order dated 17.12.2024
+and the RP had responded to this query by issuing a clarification note dated
+18.12.2024 as seen at page 634-635 of APB. However, in the order dated
+19.12.2024, the clarification provided by the RP vide clarification note dated
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 26 of 30
+
+18.12.2024 was not accepted without giving any reasons as is seen at page
+636 of APB.
+35.
+We do not find much force in this finding of the Adjudicating Authority
+to strike down the plan on grounds that interest payment upon delay in
+implementation of the resolution plan was indicative of impending default in
+payment. We find that the CoC had duly considered the Resolution Plan and
+after arriving at its own satisfaction the Resolution Plan has been approved
+by it. Furthermore, this clause did not deprive the CoC of the prerogative to
+initiate appropriate proceedings against the SRA for non-implementation of
+the plan as Clause 11 in the Addendum to the plan had categorically and
+expressly provided for secured financial creditor to proceed against SRA for
+default in payment. We find no good grounds to disagree with the RP and the
+CoC that the issue of interest payment upon delay in implementation of the
+Resolution Plan is a subject which falls squarely within the commercial
+wisdom of the CoC.
+36.
+Yet another ground of objection to the plan expressed by the
+Adjudicating Authority was that the feasibility and viability of the plan was
+not expressly mentioned in the resolution plan thus violating Regulation 38
+of CIRP Regulations. It was asserted by the RP that no clarification was sought
+on this issue by the Adjudicating Authority but surprisingly made a ground
+for rejecting the plan. Feasibility and viability aspects were parameters clearly
+expressed in the RFRP. The feasibility and viability of all PRAs’ plans were
+considered during the explanations sought in several CoC meetings including
+the 15th meeting. Furthermore, the resolution plan of the SRA contained a
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 27 of 30
+
+declaration qua the feasibility and viability of the resolution plan as can be
+seen at page 532 of APB. As per the provision and procedure prescribed with
+regard to approval of Resolution Plan and the powers and functions of the
+CoC as outlined in the IBC, it is the CoC which is required to deliberate on
+the feasibility and viability of Resolution Plan of SRA which deliberations were
+taken up by the CoC.
+37.
+Prima facie, for the aforesaid reasons as discussed, we find the
+observations of the Adjudicating Authority in rejecting the resolution plan
+runs contrary to the material on record; the deliberations and minutes of the
+meetings of the CoC; the provisions of the plan of the SRA and the
+clarifications provided by the RP vide their clarification note dated 19.12.2024
+and the Additional Affidavit dated 15.01.2025. Furthermore, the Adjudicating
+Authority has nowhere recorded that on examination of the resolution plan of
+SRA, it found that any provision of law appears to have been contravened or
+that there is any incidence of non-compliance to Regulations 38 and 39 of
+CIRP Regulations, 2016. We are of the considered view that though the CoC
+has done due diligence and meticulously evaluated the matrix in approving
+the plan of SRA, however, the Adjudicating Authority has ended up
+reconsidering various financial aspects of the plan. The majority CoC has
+already approved the plan in their commercial wisdom as contemplated under
+the law. That being the case, the Adjudicating Authority with the limited
+powers of judicial review available to it, cannot deal with the merits of
+Resolution Plan or substitute its views with the commercial wisdom of the
+CoC in rejecting the resolution plan unless it is found it to be contrary to the
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 28 of 30
+
+express provisions of law and against the public interest. There can be no
+fetters on the commercial wisdom of CoC and the supremacy of commercial
+wisdom of CoC has been reaffirmed time and again by the Hon’ble Supreme
+Court in a catena of judgements including K. Sashidhar v. Indian Overseas
+Bank (2019) 12 SCC 150 ; Committee of Creditors of Essar Steel India
+Limited v. Satish Kumar Gupta (2020) 8 SCC 531; Maharashtra
+Seamless Limited v. Padmanabhan Venkatesh (2020) 11 SCC 467;
+Kalpraj Dharamshi v. Kotak Investment Advisors Limited, (2021) 10
+SCC 401 and Ghanashyam Mishra and Sons Private Limited through
+the Authorized Signatory v. Edelweiss Asset Reconstruction Company
+Limited through the Director (2021) 9 SCC 657. When the CoC has
+approved a Resolution Plan by requisite voting share after considering its
+feasibility and viability, such decision of CoC cannot be interfered in the
+exercise of judicial review either by the Adjudicating Authority or by this
+Tribunal in the exercise of its appellate powers.
+38.
+Having said that we also do not find any good ground to refer the
+conduct of the RP in the present facts of the case to the IBBI. When we look
+at the sequence of events, we find that after the Corporate Debtor was
+admitted into CIRP, the RP on the basis of claims admitted, constituted the
+CoC. The composition of the CoC was never challenged at any stage. Material
+on record show that timely CoC meetings were also held. It is also an
+undisputed fact that the RP had published Form G on two occasions. The RP
+had given sufficient opportunity to PRAs to modify their plans to get the best
+possible plan for the revival of the Corporate Debtor. In any case, the CoC and
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 29 of 30
+
+the RP together ensured value maximisation by republishing Form G twice.
+In both rounds, modified plans were received. The plan value of SRA’s
+Resolution Plan as submitted in I.A. No.7 of 2024 is Rs. 27.50 Cr which is
+much higher than the plan value received in the first round of Form G of Rs
+11.10 Cr and also the liquidation value of Rs. 7.48 Cr. This reinforces that
+there was no compromise on maximisation of the plan value on the part of
+the RP. We also find force in the contention of the RP that it was imperative
+for the RP to apprise the CoC of the clarifications being made before the
+Adjudicating Authority since the resolution plan had already been approved
+by the CoC. On the holding of the 18th CoC meeting, we do not find any
+infirmity or irregularity on the part of the RP. The clarifications sought by the
+Adjudicating Authority on 17.12.2024 being germane to the decision-making
+process of the CoC in the appraisal and evaluation of the resolution plan, the
+RP was duty bound to place these clarifications only after approval of the CoC.
+The submission of the RP that there is no bar under the IBC which prohibits
+the CoC from convening meetings after it has approved the resolution plan
+and the same is pending approval before the Adjudicating Authority is fully
+supported by the judgment of this Tribunal in Venus India Asset-Finance
+(P) Ltd. v. Suresh Kumar Jain 2023 SCC OnLine NCLAT 69. The
+Adjudicating Authority ought to have considered the deliberation of the 18th
+CoC meeting to satisfy the queries raised by itself rather than outrightly ignore
+the same merely on an apprehension that the RP had held this meeting
+unauthorisedly to plug the loopholes in the plan.
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) Nos. 612 & 613 of 2025
+Page 30 of 30
+
+39.
+In view of the above, we find sufficient merit in both the appeals. The
+impugned order is set aside with the direction to the Adjudicating Authority
+to remit the resolution plan of the SRA to the CoC for its consideration in the
+light of the queries raised by the Adjudicating Authority earlier on 17.12.2024
+and 19.12.2024. The CIRP period is extended by 90 days for this purpose. We
+also expunge the observations made by the Adjudicating Authority on the
+conduct of the RP and do not find any reason for referencing the RPs conduct
+to IBBI. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 09.07.2025
+
+Abdul/ Harleen

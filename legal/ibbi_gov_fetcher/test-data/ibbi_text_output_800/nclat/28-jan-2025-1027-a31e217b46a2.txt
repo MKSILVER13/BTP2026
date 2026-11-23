@@ -1,0 +1,762 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 321 of 2024
+[Arising out of Order dated 20.12.2023 passed by the Adjudicating Authority
+(National Company Law Tribunal, Kolkata Bench, (Court-II), Kolkata), in IA
+(IB) No. 1694/(KB)/2022 in C.P. (IB) No. 1284/(KB)/2019]
+IN THE MATTER OF:
+
+State Bank of India
+Stressed Assets Management Branch-I,
+Mumbai 2nd Floor, “The Arcade”,
+World Trade Centre Cuffe Parade,
+Colaba, Mumbai
+Maharashtra-400 005, India.
+
+...Appellant
+
+Versus
+
+1. IDBI Bank Ltd.
+Having its office at NPA Management Group
+7th Floor, IDBI Tower,
+World Trade Center Complex
+Cuffe Parade,
+Colaba, Mumbai
+Maharashtra-400 005, India.
+
+...Respondent No. 1
+
+2. Deepika Bhugra Prasad
+Liquidator of Ess Dee Aluminium Limited
+IP Registration No.
+IBBI/IPA-003/IP-N000110/2017-2018/11186
+Having office at
+E-10A, LGF, Kailash Colony
+New Delhi-110048
+
+...Respondent No. 2
+
+Present:
+
+For Appellant
+: Mr. Krishnan Venugopal Sr. Advocate with Mr.
+Sanjay Kapur, Mr. Devesh Dubey and Mr. Arjun
+Bhatia, Advocates.
+
+For Respondents
+: Mr. Abhijeet Sinha Sr. Advocate with Ms. Prachi
+Johri, Ms. Abhipsa Sahu and Mr. Rishi Jhakur,
+Advocates for R-1/ IDBI Bank.
+
+Mr. Rahul Gupta, Advocate for R-2.
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+2 of 19
+
+Ms. Deepika B. Prasad, Liquidator in person.
+WITH
+Company Appeal (AT) (Insolvency) No. 335 of 2024
+[Arising out of Order dated 20.12.2023 passed by the Adjudicating Authority
+(National Company Law Tribunal, Kolkata Bench, (Court-II), Kolkata), in IA
+(IB) No. 1694/(KB)/2022 in C.P. (IB) No. 1284/(KB)/2019]
+IN THE MATTER OF:
+
+IFCI Limited
+Address: IFCI Tower,
+61 Nehru Place,
+New Delhi-110019
+Email ID: ehteshamuddin@ifciltd.com
+
+...Appellant
+
+Versus
+
+1. IDBI Bank Ltd.
+Address: NPA Management Group
+7th Floor, IDBI Tower,
+World Trade Center Complex,
+Cuffe Parade,
+Colaba, Mumbai
+Maharashtra-400 005, India.
+Email
+ID:
+nipun.paliwal@idbi.co.in,
+shipra.garg@idbi.co.in
+
+...Respondent No. 1
+
+2. Deepika Bhugra Prasad
+(the liquidator of ESS DEE Aluminium Limited)
+Address: E-10A, Kailash Colony,
+Greater Kailash-1,
+New Delhi-110048.
+Email ID:
+deepika.bhugra@aaainsolvency.com,
+essdee@aaainsolvency.com
+
+...Respondent No. 2
+
+Present:
+
+For Appellant
+: Mr. Amish Tandon and Ms. Anushree Kulkarni,
+Advocates.
+
+For Respondents
+: Ms. Prachi Johri, Ms. Abhipsa Sahu and Mr. Rishi
+Jhakur, Advocates for R-1/ IDBI Bank.
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+3 of 19
+Mr. Rahul Gupta, Advocate for R-2.
+
+Ms. Deepika B. Prasad, Liquidator in person.
+J U D G M E N T
+ASHOK BHUSHAN, J.
+These two Appeals have been filed against the same Order dated
+20.12.2023 passed by the Adjudicating Authority (National Company Law
+Tribunal, Kolkata Bench, Court–II, Kolkata) in IA (IB) No.1694/KB/2022 in
+CP (IB) No.1284/KB/2019. Both the Appeals having raised same issues of
+facts and law have been heard together and are being decided by this common
+Judgment. It shall be sufficient to refer to the facts and pleadings in Comp.
+App. (AT) (Ins.) No.321/2024 for deciding both the Appeals.
+2.
+Brief facts of the case giving rise to these Appeals are:
+i.
+On an Application under Section 7 filed by the State Bank of India (SBI),
+the Corporate Debtor, ESS DEE Aluminium Limited was admitted to
+Corporate Insolvency Resolution Process (CIRP) by Order dated
+14.02.2020 passed by the NCLT, Kolkata Bench.
+ii.
+No Resolution Plan having been approved in the CIRP, Adjudicating
+Authority vide Order dated 08.10.2021 directed for Liquidation of the
+Corporate Debtor. The R–2 was appointed as Liquidator. Liquidator
+published ‘Form-B’ inviting claim from stakeholders.
+iii.
+IDBI Bank submitted its claim in ‘Form-D’ for an amount of
+₹1,46,12,18,998/-.
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+4 of 19
+iv.
+Stakeholders Consultation Committee (SCC) was constituted on
+07.12.2021.
+v.
+On 30.08.2022, in 9th SCC Meeting the Liquidator declared
+Shakambhari Ispat & Power Limited as successful H-1 bidder for the
+sale of Corporate Debtor as a going concern.
+vi.
+IDBI sent an email to the Liquidator, requesting to share the
+methodology adopted qua the distribution of assets. Liquidator
+informed the IDBI that in reference to the list of stakeholders as on
+07.12.2021, the share of IDBI is considered as 10%. Liquidator
+proposed to distribution of sale proceeds as per security interest which
+was opposed by the IDBI Bank.
+vii.
+IDBI Bank sent objection that proceeds be distributed in proportion to
+their admitted claim in pro-rata basis.
+viii.
+In 10th SCC Meeting held on 26.09.2022, the methodology adopted for
+distribution was discussed and despite objection by the IDBI Bank,
+Liquidator agreed for distribution of sale proceeds on the basis of charge
+on the security interest of individual Creditors.
+ix.
+An undertaking was given by Secured Creditors, including IDBI that
+they forthwith return any excess money received by them for
+distribution, in case, Tribunal or Hon’ble Supreme Court decides that
+they are not entitled for the same.
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+5 of 19
+x.
+The Respondent accepted the distribution of amount of ₹1,26,10,109/-
+under protest. An I.A. 1694/2022 was filed by IDBI opposing the
+distribution methodology adopted by Liquidator. In IA, IDBI prayed for
+a direction to distribute the assets as per admitted debt of Secured
+Creditors on pro-rata basis.
+xi.
+Liquidator filed a Reply in I.A. 1694/2022 justifying its distribution.
+Arguments were heard by Adjudicating Authority on the Application
+and vide Order dated 20.12.2023, Adjudicating Authority allowed the
+Application.
+xii.
+Adjudicating Authority in the Impugned Order held that distribution of
+Liquidation proceeds as per Section 53(1), the distribution has to be in
+proportion to the admitted claim of the Secured Creditors. Adjudicating
+Authority held that distribution made by Liquidator is not as per the
+stipulation of Section 53. The Adjudicating Authority allowed the
+Application and directed the Liquidator to re-work the distribution of
+the proceeds.
+xiii.
+Aggrieved by the Order dated 20.12.2023 passed by the Adjudicating
+Authority, SBI and IFCI Limited have filed these two Appeals.
+3.
+We have heard Learned Sr. Counsel Mr. Krishnan Venugopal for the
+SBI. Learned Counsel Mr. Amish Tandon and Learned Counsel Ms. Anushree
+Kulkarni has appeared for the IFCI Limited. Learned Sr. Counsel Mr. Abhijeet
+Sinha and Learned Counsel Ms. Prachi Johri has appeared for IDBI Limited.
+We have also heard Liquidator, who appeared in person.
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+6 of 19
+4.
+Similar submissions having been raised in both the Appeals by the
+Appellant which are referred to as submissions of the Appellant.
+5.
+Learned Counsel for the Appellant submits that the distribution made
+by Liquidator was not in accordance with law. It is submitted that Liquidator
+by making distribution has relied on the Judgment of the NCLT Ahmedabad
+in the matter of ‘Technology Development Board of India’ Vs. ‘Anil Goel,
+Liquidator of M/s. Gujarat Oleo Chem Ltd. & Ors.’ in IA No. 514 of 2019
+in CP (IB) No. 4/NCLT/AHM/2017, which Judgment, NCLT has held that inter
+see priority amongst the Secured Creditors will remain valid and prevail in
+the distribution of assets in Liquidation. Though the above Order was set
+aside by NCLAT, however, Judgment of the NCLAT has been stayed by the
+Hon’ble Supreme Court vide its Order dated 29.06.2021, therefore, the
+Liquidator followed the Judgment of the NCLT Ahmedabad, which is
+applicable on the issue in the present Appeal. It is submitted that Judgment
+of the Hon’ble Supreme Court in ‘Amit Metaliks Limited’ relied by R-1 has
+been disagreed and referred by Hon’ble Supreme Court in the matter of ‘DBS
+Bank Limited Singapore’ Vs. ‘Ruchi Soya Industries Limited & Anr.’
+reported in (2024) 3 SCC 752, hence, the Judgment of the ‘Amit Metaliks
+Limited’ (Supra) cannot be relied. It is submitted that this Tribunal while
+passing an Interim Order on 29.02.2024, has protected the interest of the
+parties and said arrangement be allowed to be continued, till the law is settled
+by the Hon’ble Supreme Court. Learned Counsel for the Appellant has also
+placed reliance on the Judgment of the Hon’ble Supreme Court in the matter
+of ‘ICICI Bank Ltd.’ Vs. ‘Sidco Leathers Ltd. & Ors.’ reported in (2006) 10
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+7 of 19
+SCC 452, in which Judgment, Hon’ble Supreme Court while considering
+Section 529 and 529-A of the Companies Act, 1956, has held that although
+the debt due to the workmen and the Secured Creditors were to be treated as
+par or pari passu with each other, however, this does not signify that inter see
+priority amongst the Secured Creditors is excluded. Learned Counsel for the
+Appellant has also relied on Insolvency Law Committee (ILC) Report dated
+26.03.2019, where ILC has opined that priority of charge on the secured
+assets has to be considered while returning the share of concerned Creditors.
+Learned Counsel for the Appellant has also referred to provisions of Section
+30(4) as amended by 2019 amendment.
+6.
+Learned Counsel for the IDBI Bank opposing the submissions made by
+Counsel for the Appellant submits that the law declared by the Hon’ble
+Supreme Court in the matter of ‘India Resurgence Arc Pvt. Ltd.’ Vs. ‘Amit
+Metaliks Ltd. & Anr.’ reported in (2021) 19 SCC 672 is the law which is a
+law declared by Hon’ble Supreme Court which need to be followed. It is
+submitted that till the reference made by the Hon’ble Supreme Court in ‘DBS
+Bank Limited Singapore’ (Supra) are answered overruling the law laid down
+by the Hon’ble Supreme Court in ‘Amit Metaliks Limited’ (Supra), the law
+laid down by the Hon’ble Supreme Court in ‘Amit Metaliks Limited’ (Supra)
+binds all. Learned Counsel for the Respondent has relied on the Judgment of
+this Tribunal in ‘Beacon Trusteeship Limited’ Vs. ‘Jayesh Sanghrajka &
+Ors.’ reported in 2024 SCC OnLine NCLAT 667, where it was held that until
+a different view is expressed by the Hon’ble Supreme Court in reference made
+in ‘DBS Bank Ltd. Singapore’ (Supra), ‘Amit Metaliks Limited’ (Supra)
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+8 of 19
+need to be followed. Respondent has also relied on the Judgment of this
+Tribunal in the matter of ‘Paridhi Finvest Private Ltd.’ Vs. ‘Value Infracon
+Buyers Association & Anr.’ in Comp. App. (AT) (Ins.) No.654/2022, where
+this Tribunal relying on ‘Amit Metaliks Limited’ (Supra), has held that there
+is no scope of distribution of assets based on the security interest, which
+Judgment was also upheld by the Hon’ble Supreme Court. It is submitted
+that Adjudicating Authority in the Impugned Order has correctly applied
+Section 53(1) and held that as per Section 53(1) distribution has to be as per
+admitted claim and cannot be on the basis of security interest of difference
+Secured Creditors. It is submitted that in view of the law laid down by the
+Hon’ble Supreme Court, reliance by the Appellant on the undertaking given
+before the Adjudicating Authority is not relevant. When the law is clear, any
+undertaking cannot justify an illegal distribution. It is submitted that the
+distribution needs to be made as per the Order of the Adjudicating Authority
+and Respondent undertakes to refund any excess amount, in event law is so
+declared by the Hon’ble Supreme Court.
+7.
+We have considered the submissions of the Counsel for the Parties and
+perused the record.
+8.
+Appellants and R-1 are Secured Creditors of the Corporate Debtor and
+the only issue which was raised in the I.A.1694/KB/2022 filed by the IDBI
+Bank before the Adjudicating Authority was challenge to the distribution as
+undertaken by the Liquidator, despite objections raised by the IDBI Bank. In
+I.A. No. 1694/KB/2022, IDBI has prayed for following reliefs:
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+9 of 19
+“a) The methodology adopted by the Respondent for
+distribution of the sale proceeds of the liquidation
+estate be set aside;
+b) To recall the amount from the secured creditors who
+has received more than the amount which they are
+legally entitled to as per the waterfall mechanism
+mentioned under Section 53 of Insolvency and
+Bankruptcy Code, 2016 and make payment to the
+Applicant in the same ratio as any other secured
+financial creditor;
+c) Pass such other or further and relief(s) as this
+Hon'ble Tribunal may deem fit and proper in the facts
+and circumstances of the present case;”
+9.
+The I.A.1694/2022 was objected by the Liquidator by filing a Reply
+where Liquidator supported the distribution as per the security interest of the
+Secured Creditors. Liquidator in the Reply, has noticed the objection by the
+IDBI Bank, Liquidator has further pleaded that the distribution the Liquidator
+is following the Order of the NCLT Ahmedabad in ‘Technology Development
+Board of India’ (Supra) dated 27.02.2020. It is useful to notice pleadings of
+Liquidator in Paragraph 58 of the Reply, which is as follows:
+“58. That in the meantime, the Respondent vide Email
+dated 19.09.2022. informed the stakeholders of the
+Corporate Debtor about the objections raised by the
+Applicant qua the Methodology adopted by the
+Respondent for the distribution of the sale proceeds
+amongst the stakeholders of the Corporate Debtor.
+That in view of the same, vide the aforesaid Email, the
+Respondent
+provided
+a
+clarification
+on
+the
+Methodology adopted by the Respondent for the
+distribution of the sale proceeds amongst the
+stakeholders
+of
+the
+Corporate
+Debtor,
+to
+the
+stakeholders of the Corporate Debtor. Moreover, the
+Respondent
+informed
+the
+stakeholders
+of
+the
+Corporate Debtor that the Distribution of the sale
+proceeds is totally based on the Interpretation of
+Section 53 of the Code read with the Interpretation laid
+down in the Insolvency Law Committee Report dated
+26.03.2018. That further, the Respondent informed the
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+10 of 19
+stakeholders of the Corporate Debtor that the aforesaid
+issue at hand regarding priority of charge has been
+decided by the Hon'ble National Company Law
+Tribunal, Ahmedabad Bench, at Ahmedabad in the
+matter of "Technology Development Board vs. Ant"/
+Goel Liquidator, Gujarat Oleo Chem Limited &Ors.; IA.
+No. 514 of2019 in C.P. (IB) No. 4 of 2017'' vide Order
+dated 27.02.2020 wherein the Hon'ble Tribunal held
+that Section 53 of the Code read with ILC Report ·talks
+about the Priority and the Distribution should be done
+as per the Charge of respective Banks and their
+Security
+Interest.
+That
+the
+Respondent further
+informed · the stakeholders of the Corporate Debtor
+that .the said Order dated 27.02.2020 passed by the
+Hon'ble Tribunal was thereby challenged by the
+Technology Development Board before the Hon'ble
+National Company Law Appellate Tribunal, New Delhi
+wherein the Hon'ble Appellate Tribunal vide Judgment
+dated 05.04.2021 directed the Liquidator of Gujarat
+Oleo Chem Limited to treat the Secured Creditors
+relinquishing the Security Interest as One Class
+ranking equally for distribution of assets under Section
+53 (1) (b) (ii) of the Code. Furthermore, the Respondent
+apprised the stakeholders of the Corporate Debtor that
+the said Judgment dated 05.04.2021 passed by the
+Hon'ble Appellate Tribunal has been stayed by the
+Hon’ble Supreme Court of India vide an Interim Order
+dated 29.06.2021 and thus, as on date, the Order
+dated 27.02.2020 passed by the Hon’ble Tribunal
+prevails. Copy of the Email dated 19.09.2022 sent by
+the Respondent to the stakeholders of the Corporate
+Debtor
+is
+annexed
+herewith
+and
+marked
+as
+ANNEXURE - R-5. Copy of the Order dated 27.02.2020
+passed by the Hon'ble National Company Law
+Tribunal, Ahmedabad Bench, at Ahmedabad in the
+matter of "Technology Development Board vs. Ani/
+Goel Liquidator, Gujarat Oleo Chem Limited & Ors.; IA.
+No. 514 of 2019 in C.P. (IB) No. 4 of 2017'' is annexed
+herewith and marked as ANNEXURE - R-6.”
+10.
+The Order passed by the NCLT Ahmedabad dated 27.02.2020 was set
+aside by NCLAT and against the Order passed by NCLAT, Hon’ble Supreme
+Court has passed an Interim Order on 29.06.2021 in Civil Appeal Diary No.
+11060/2021 in the matter of ‘Kotak Mahindra Bank Ltd.’ Vs. ‘Technology
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+11 of 19
+Development Board & Ors.’, which Order of the Hon’ble Supreme Court is
+as follows:
+“Permission to file Appeal is granted.
+Issue notice.
+In the meantime, there shall be stay of the operation of
+the impugned judgment and Order passed by the
+National Company Law Appellate Tribunal.”
+11.
+There can be no dispute with regard to proceedings which arose out of
+the above Order of the NCLT Ahmedabad, which is pending consideration
+before the Hon’ble Supreme Court. Learned Counsel for the IDBI Bank has
+relied on the Judgment of the Hon’ble Supreme Court in ‘Amit Metaliks
+Limited’ (Supra), which Judgment, the Hon’ble Supreme Court has not
+accepted the submissions that distribution is to be made as per the value of
+security interest. It is useful to extract Paragraphs 17 to 21 which are as
+follows:
+“17. Thus, what amount is to be paid to different
+classes or sub-classes of creditors in accordance with
+provisions of the Code and the related Regulations, is
+essentially the commercial wisdom of the Committee of
+Creditors; and a dissenting secured creditor like the
+appellant cannot suggest a higher amount to be paid
+to it with reference to the value of the security interest.
+18. In Jaypee
+Kensington [Jaypee
+Kensington
+Boulevard Apartments Welfare Assn. v. NBCC (India)
+Ltd., (2022) 1 SCC 401 : (2022) 2 SCC (Civ) 165] , the
+proposal in the resolution plan was to the effect that if
+the dissenting financial creditors would be entitled to
+some amount in the nature of liquidation value in terms
+of Sections 30 and 53 IBC read with Regulation 38 of
+the CIRP Regulations, they would be provided such
+liquidation value in the form of proportionate share in
+the equity of a special purpose vehicle proposed to be
+set up and with transfer of certain land parcels
+belonging to corporate debtor. Such method of meeting
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+12 of 19
+with the liability towards the dissenting financial
+creditors in the resolution plan was disapproved by the
+adjudicating authority; and this part of the order of the
+adjudicating authority was upheld by this Court with
+the finding that the proposal in the resolution plan was
+not in accord with the requirement of “payment” as
+envisaged by clause (b) of Section 30(2) of the Code [
+In Jaypee Kensington, (2022) 1 SCC 401, after
+disapproving the proposition of the resolution plan
+regarding
+dissenting
+financial
+creditor,
+the
+adjudicating authority itself modified the offending
+terms of the plan and provided for monetary payment
+to the dissenting financial creditor. This latter part of
+the order of the adjudicating authority was not
+approved by this Court while holding that after
+disapproval of such term related with financial model
+proposed in the resolution plan, the adjudicating
+authority itself could not have modified the same and
+ought to have sent the matter back to CoC for
+reconsideration. However, that part of the decision
+in Jaypee Kensington, (2022) 1 SCC 401 is not relevant
+for the present purpose.] . In that context, this Court
+held that such action of “payment” could only be by
+handing over the quantum of money or allowing the
+recovery of such money by enforcement of security
+interest, as per the entitlement of a dissenting financial
+creditor.
+19. This
+Court
+in Jaypee
+Kensington [Jaypee
+Kensington
+Boulevard
+Apartments
+Welfare
+Assn. v. NBCC (India) Ltd., (2022) 1 SCC 401 : (2022)
+2 SCC (Civ) 165] further made it clear that in case a
+valid security interest is held by a dissenting financial
+creditor, the entitlement of such dissenting financial
+creditor to receive the amount could be satisfied by
+allowing him to enforce the security interest, to the
+extent of the value receivable by him and in the order
+of priority available to him. This Court clarified that by
+enforcing such a security interest, a dissenting
+financial creditor would receive payment to the extent
+of his entitlement and that would satisfy the
+requirement of Section 30(2)(b) of the Code. This Court,
+inter alia, observed and held as under : (Jaypee
+Kensington
+case [Jaypee
+Kensington
+Boulevard
+Apartments Welfare Assn. v. NBCC (India) Ltd., (2022)
+1 SCC 401 : (2022) 2 SCC (Civ) 165] , SCC p. 606, para
+164)
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+13 of 19
+“164. ... 164.1. Therefore, when, for the purpose
+of discharge of obligation mentioned in the second
+part of clause (b) of Section 30(2) of the Code, the
+dissenting financial creditors are to be “paid” an
+“amount” quantified in terms of the “proceeds” of
+assets receivable under Section 53 of the Code;
+and the “amount payable” is to be “paid” in
+priority over their assenting counterparts, the
+statute is referring only to the sum of money and
+not anything else. In the frame and purport of the
+provision and also the scheme of the Code, the
+expression “payment” is clearly descriptive of the
+action of discharge of obligation and at the same
+time, is also prescriptive of the mode of
+undertaking such an action. And, that action
+could only be of handing over the quantum of
+money, or allowing the recovery of such money by
+enforcement of security interest, as per the
+entitlement of the dissenting financial creditor.
+164.2. We would hasten to observe that in case a
+dissenting financial creditor is a secured creditor
+and a valid security interest is created in his
+favour and is existing, the entitlement of such a
+dissenting financial creditor to receive the
+“amount payable” could also be satisfied by
+allowing him to enforce the security interest, to the
+extent of the value receivable by him and in the
+order of priority available to him. Obviously, by
+enforcing such a security interest, a dissenting
+financial creditor would receive “payment” to the
+extent of his entitlement and that would satisfy
+the requirement of Section 30(2)(b) of the Code [Per
+Dinesh Maheshwari, J.— Though it is obvious, but
+is clarified to avoid any ambiguity, that the
+“security interest” referred herein for the purpose
+of money recovery by dissenting financial creditor
+would only be such security interest which is
+relatable to the “financial debt” and not to any
+other debt or claim.] .”
+(emphasis supplied)
+20. In Jaypee
+Kensington [Jaypee
+Kensington
+Boulevard Apartments Welfare Assn. v. NBCC (India)
+Ltd., (2022) 1 SCC 401 : (2022) 2 SCC (Civ) 165] , this
+Court repeatedly made it clear that a dissenting
+financial creditor would be receiving the payment of the
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+14 of 19
+amount as per his entitlement; and that entitlement
+could also be satisfied by allowing him to enforce the
+security interest, to the extent of the value receivable
+by him. It has never been laid down that if a dissenting
+financial creditor is having a security available with
+him, he would be entitled to enforce the entire of
+security interest or to receive the entire value of the
+security available with him. It is but obvious that his
+dealing with the security interest, if occasion so arise,
+would be conditioned by the extent of value receivable
+by him.
+21. The extent of value receivable by the appellant is
+distinctly given out in the resolution plan i.e. a sum of
+INR 2.026 crores which is in the same proportion and
+percentage as provided to the other secured financial
+creditors with reference to their respective admitted
+claims. Repeated reference on behalf of the appellant
+to the value of security at about INR 12 crores is wholly
+inapt and is rather ill-conceived.”
+12.
+This Tribunal in Comp. App. (AT) (Ins.) No.547/2022 in the matter of
+‘Oriental Bank of Commerce’ Vs. ‘Anil Anchalia & Anr. had occasion to
+consider distribution of sale proceeds in the Liquidation as per Section 53 of
+the Code, in which proceeding, an IA was filed by Oriental Bank of Commerce
+seeking a direction to distribute the entire sale proceeds to the Punjab
+National Bank who has exclusive charge over the property of the Corporate
+Debtor. The Application was rejected by the Adjudicating Authority against
+which the Appeal was filed. The Appeal was heard and by the Judgment of
+this Tribunal dated 26.05.2022, the Appeal was dismissed. This Tribunal
+while dismissing the Appeal relied on the Judgment of the Hon’ble Supreme
+Court in ‘Amit Metaliks Limited’ (Supra). This Tribunal has also noticed
+the Orders passed by the Hon’ble Supreme Court staying the Judgment in
+‘Technology Development Board of India’ (Supra) and this Tribunal opined
+that law laid down by the Hon’ble Supreme Court in ‘Amit Metaliks Limited’
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+15 of 19
+(Supra) need to be followed. Paragraph 6 of the Judgment of this Tribunal in
+‘Oriental Bank of Commerce’ (Supra) lays down following:
+“6. We thus, do not find any merit in the submissions
+of the Learned Counsel for the Appellant. The
+submission that earlier judgment of this Tribunal in
+“Technology Development Board” having been
+stayed by the Hon’ble Supreme Court on 29.06.2021,
+no reliance can be placed on the said judgment looses
+its importance in view of the subsequent judgment of
+the Hon’ble Supreme Court dated 13.05.2021 M/s.
+Amit Metaliks Ltd. (supra). The issue is no more res
+integra and no error is committed by the Adjudicating
+Authority in rejecting the Application filed by the
+Appellant. There is no merit in the Appeal. The Appeal
+is dismissed.”
+13.
+Insofar as submissions of the Counsel for the Appellant that
+correctness of the Judgment of Hon’ble Supreme Court in ‘Amit Metaliks
+Limited’ (Supra) has already been referred to the larger bench by Judgment
+of the Hon’ble Supreme Court in ‘DBS Bank Ltd. Singapore’ (Supra), this
+Tribunal in ‘Beacon Trusteeship Ltd.’, (Supra) had occasion to notice
+Judgment of the Hon’ble Supreme Court in ‘DBS Bank Ltd. Singapore’
+(Supra) where reference was made to the Judgment of the Hon’ble Supreme
+Court in ‘Amit Metaliks Limited’ (Supra). This Tribunal in Paragraph 54
+held that law declared by the Hon’ble Supreme Court in ‘Amit Metaliks
+Limited’ (Supra) can very well relied until a different view is expressed by the
+Hon’ble Supreme Court is the reference made in ‘DBS Bank Ltd. Singapore’
+(Supra). Paragraph 54 of the Judgment of this Tribunal is as follows:
+“54. Judgment of the Hon'ble Supreme Court in
+‘Vistara ITCL (India) Ltd.’ (Supra) does not come to help
+of the Appellant in the present case. It is relevant to
+notice that Hon'ble Supreme Court in ‘DBS Bank Ltd.
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+16 of 19
+Singapore v. Ruchi Soya Industries Ltd.’ 2024 SCC
+OnLine SC 3, made a reference to the earlier Judgment
+of the Hon'ble Supreme Court in ‘India Resurgence ARC
+Pvt. Ltd.’ (Supra), which reference is pending
+consideration before the Hon'ble Supreme Court. Law
+declared by Hon'ble Supreme Court in ‘India
+Resurgence ARC Pvt. Ltd.’ (Supra) can very well be
+relied until a different view is expressed by the Hon'ble
+Supreme Court in the reference pending before it.”
+14.
+The Adjudicating Authority in the Impugned Order has relied on the
+Judgment of this Tribunal in ‘Oriental Bank of Commerce’ (Supra) and after
+noticing the scheme in Section 53(1) has made following observations in
+Paragraph 7 of the Judgment:
+“7. From the emphasized text in 53(1)(b)(ii), we note
+that two word have been stressed on in the statute are
+‘between and among’. Thus while the first word i.e.
+“between” is intended to integrate the two different
+classes i.e. the workmen and the Secured Creditor,
+which shall therefore rank equally, the other word i.e
+“among” signifies the equality within a group which
+herein consists of all such secured creditors who have
+relinquished their security interest in line with
+Section52. Since there is no quarrel on the issue of
+relinquishment, therefore the significance of the word
+“among” relates to the inter-se relationship between all
+such secured creditors and these have to be then given
+an equitable treatment which shall mean in proportion
+to their admitted claim. Section 53 does not
+differentiate between the quantum or magnitude of the
+relinquishment, which is taken care while distributing
+the proceeds on a proportional basis. We are therefore
+inclined to agree with the contention of the applicant
+that the distribution made by the respondent is not as
+per the stipulations of section 53.”
+15.
+The Adjudicating Authority has rightly taken the view that the
+distribution amongst the Secured Creditors has to be on the basis of their
+admitted claim, which is the statutory scheme delineated by Section 53(1) and
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+17 of 19
+the law declared by the Hon’ble Supreme Court existing as on date in ‘Amit
+Metaliks Limited’ (Supra).
+16.
+Learned Counsel for the Appellants have also relied on the ILC Report
+dated 26.03.2018. Learned Counsel for the Respondent is right in his
+submissions that ILC Report cannot be relied in view of the law declared by
+the Hon’ble Supreme Court in ‘Amit Metaliks Limited’ (Supra), which is
+binding on all concern under Article 141 of the Constitution of India.
+17.
+Learned Counsel for the Appellant has also placed reliance on the
+Judgment of the Hon’ble Supreme Court in the matter of ‘ICICI Bank Ltd.’
+(Supra). The Judgment of the Hon’ble Supreme Court on which reliance has
+been placed by the Appellant was Judgment dealing with Section 529 and
+Section 529-A of the Companies Act 1956. The said Judgment was pre-IBC
+Judgment and when Section 53 of the IBC has been dealt with by the Hon’ble
+Supreme Court in ‘Amit Metaliks Limited’ (Supra), we are bound to follow
+the Judgment of the Hon’ble Supreme Court in ‘Amit Metaliks Limited’
+(Supra). We while hearing these Appeals on 29.02.2024 have passed
+following Interim Order:
+“...However, to balance the equities of both the parties,
+we direct that the payments in pursuance of
+communication of reworking of redistribution by the
+Liquidator the said amount be kept in separate interest
+bearing account so in event of the dismissal of the
+Appeals, the said amount should be handed over to the
+beneficiary along with the interest.
+List this Appeal on 22nd April, 2024 at 02:00 pm.”
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+18 of 19
+18.
+Coming to the undertaking which is relied by the Appellant, the
+undertaking submitted before the Adjudicating Authority was to the effect
+that excess money received as per distribution shall be returned, when Order
+is passed by Tribunal or Hon’ble Supreme Court the undertaking given by
+stakeholders was in terms of Regulation 43 of the Insolvency and Bankruptcy
+Board of India, Liquidation Process Regulations 2016, which undertaking has
+to be given while accepting any distribution of the sale proceeds in the
+Liquidation, which undertaking was for the benefit of the Secured Creditors,
+who is ultimately found to have larger share of sale proceeds in the
+Liquidation. Thus, undertaking given by the Parties in no manner can come
+in the way of Adjudicating Authority in issuing direction for re-distribution in
+accordance with law.
+19.
+In view of the forgoing discussions and our conclusions, we are of the
+view that Adjudicating Authority has not committed any error in directing
+distribution of sale proceeds as per the admitted claim of the Financial
+Creditor pro-rata basis and the directions issued by the Adjudicating
+Authority is in accordance with law as declared by the Hon’ble Supreme Court
+in ‘Amit Metaliks Limited’ (Supra).
+20.
+We, thus do not find any good ground to interfere with the Impugned
+Order. Both the Appeals are dismissed. The amount as per re-distribution
+in pursuance of the Impugned Order shall be made over to the Secured
+Creditors, including the IDBI Bank Ltd., along with the interest as directed
+on 29.02.2024. Both the Appeals are dismissed accordingly.
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 321 & 335 of 2024
+19 of 19
+21.
+We make it clear that any distribution as directed by the Order of the
+Adjudicating Authority and affirmed in this Appeal shall always be subject to
+any Order passed by the Hon’ble Supreme Court and as per the law declared
+by the Hon’ble Supreme Court in Civil Appeal Diary No. 11060/2021.
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+NEW DELHI
+28th January, 2025
+himanshu

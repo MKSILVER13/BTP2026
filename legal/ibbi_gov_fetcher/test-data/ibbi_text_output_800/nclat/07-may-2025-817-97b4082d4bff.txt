@@ -1,0 +1,923 @@
+[PAGE 1]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 1 of 23
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 353 of 2020
+
+[Arising out of the Order dated January 29, 2020, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal, New
+Delhi) in C.P(IB) No.1972(ND)2019]
+
+IN THE MATTER OF:
+
+Akhilesh Kulshrestha
+5/101, East End Apartments,
+Mayur Vihar Phase-1 Extension,
+New Delhi – 110096
+
+...Appellant
+
+Versus
+
+M/s SAAB India Technologies Private Limited
+7th Floor, DLF Centre, Sansad Marg,
+New Delhi, Central Delhi,
+New Delhi – 110001
+
+...Respondent
+
+Present:
+
+For Appellant
+:
+Mr. Anshit Aggarwal, Mr. Vishal Ganda, Mr.
+Ayandev Mitra and Ms. Charmi Khurana, Advocates
+
+For Respondent
+:
+Mr. Ritin Rai, Sr. Advocate with Mr. Shankh
+Sengupta, Mr. Sujoy Sur and Mr. Shreyash Sharma,
+Advocates
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+The present Company Appeal (AT) (Ins.) No. 353 of 2020 (“Appeal”) was
+filed under Section 61 of the Insolvency and Bankruptcy Code, 2016 (“Code”),
+challenging the order of the Hon’ble National Company Law Tribunal, New
+Delhi (“Ld. Adjudicating Authority”), dated January 29, 2020, in C.P. (IB) 1972
+of 2019 (“Company Petition”). The Appeal was allowed by this Appellate
+Tribunal on August 25, 2022, and the case was remanded back to AA for
+necessary orders post-admission of the Section 9 Application. The
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 2 of 23
+
+Respondent assailing the order dated August 25, 2022, filed a Civil Appeal
+No. 5923 of 2022 (“Civil Appeal”) before the Hon’ble Supreme Court of India,
+which vide its order dated August 14, 2024 remanded the case to this
+Appellate Tribunal for consideration as to whether after the relinquishment of
+the position of CFO, the Appellant was entitled to the same emoluments and
+perks in his capacity as a Director of the Respondent. The Hon’ble Supreme
+Court directed the parties to reagitate before this Appellate Tribunal with
+supporting documents.
+
+2.
+Accordingly, this matter was taken up by us. Before proceeding further,
+we note the relevant orders of the Adjudicating Authority of 29th January
+2020, which are instructive to be extracted as below:
+“14.
+In the lights of aforesaid provision, when we shall consider
+the case in hand, then we find, in response to the demand notice,
+notice of dispute has been raised by the Corporate Debtor’s and that
+was duly delivered to the Operational Creditor. When we have gone
+through the reply to the demand notice, which is available at Page
+51 Annexure 9 then we find that in the reply to demand notice, it is
+specifically mentioned that upon termination, the Corporate Debtor
+has made full and final payment of Rs. 43,73,704/- on 20% March,
+2019. We further find that the Operational Creditor has also
+challenged the termination before the Hon’ble Delhi High Court in
+writ petition number W P (c) 4407/2019, which was dismissed on
+26.04.2019 and on the basis of these facts we can say that prior to
+the delivery of demand notice, there was a dispute regarding the
+appointment and termination of the petitioner as a director and
+herein the case, the petitioner claimed the amount on the basis of
+that he was working as an Whole Time Director of the Corporate
+Debtor as there was a dispute pending before the Hon’ble Delhi High
+Court in writ jurisdiction, on the basis of that, it can be said that
+the dispute has been raised under section 8(2) of the Code within
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 3 of 23
+
+the period of 10 days of receipt of demand notice. Therefore, in view
+of Section 9 (5)(ii)(d) of the Code, if the notice of dispute has been
+received by the Operational Creditor then in that case the
+application filed by the Operational Creditor is not liable to be
+admitted.
+
+15.
+So, on this ground alone, in our considered view, the present
+application is liable to be rejected under Section (9)(5)(ii)(d) of the
+Code, so, in our opinion, it is needless to discuss the other issues.
+Hence, accordingly, we hereby dismiss the application.”
+[emphasis supplied]
+3.
+The appeal before this Appellate Tribunal was allowed vide order dated
+August 25, 2022, and the case was remanded back to the Adjudicating
+Authority for necessary orders post-admission of the Section 9 Application.
+The relevant orders are extracted as follows:
+“....
+16.
+We, thus, reach the conclusion that the Adjudicating
+Authority has erroneously inferred the existence of a dispute merely
+because a Writ Petition bearing WP (C) 4407/2019 was filed by the
+appellant, even though there is no such reference or mention is
+made in the order dismissing the writ petition and no inference of
+dispute can be drawn from what is stated in the said order. We also
+find that the Appellant was appointed as a WTD of the corporate
+debtor on 29.9.2015 while he was already working as CFO, and
+continued as WTD till 20.5.2019. Since he was paid his total
+emoluments and termination benefits till 31.3.2019 for his work as
+CFO, he is entitled to receive payment for the period 1.4.2019 till
+20.5.2019 for his work as WTD, which is an operational debt in
+default and payable by the corporate debtor.
+
+17.
+On the basis of aforementioned detailed discussion, we are
+of the view that the Adjudicating Authority has erroneously
+dismissed Appellant’s application under section 9. We, therefore,
+set aside the Impugned Order and order admission of the section 9
+application. The case is sent to the Adjudicating Authority for
+passing necessary order after the admission of section 9
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 4 of 23
+
+application. The appeal is accordingly disposed of with these
+directions.”
+
+4.
+The Respondent assailing the order dated August 25, 2022, filed a Civil
+Appeal No. 5923 of 2022 (“Civil Appeal”) before the Hon’ble Supreme Court of
+India. The Hon’ble Supreme Court of India vide its order dated August 14,
+2024 noted as follows:
+“1.
+The instant appeal is directed against the judgment dated
+25.08.2022 passed by the National Company Law Appellate
+Tribunal, New Delhi (in short, the “Appellate Tribunal”), whereby
+claim of the respondent for payment of emoluments for the period
+from 01.03.2019 (wrongly mentioned as 01.04.2019) till 20.05.2019
+as a whole-time Director of the Appellant-Company, has been held
+to be an operational debt and consequently liable to be paid by the
+appellant.
+
+2.
+It is not in dispute that the respondent joined the Appellant-
+Company as Chief Financial Officer (CFO) with effect from
+10.03.2014. He was thereafter designated as Additional Director on
+11.03.2015 followed by his appointment as Director with effect from
+29.09.2015. It is pertinent to mention that the respondent
+continued to hold the assignment of CFO during this period.
+
+3.
+The employment of the respondent as CFO was terminated
+with effect from 01.03.2019. He was, however, relieved from the
+position of Director of the Company only after a shareholder’s
+resolution, with effect from 20.05.2019, It is also not in dispute that
+while relieving the respondent from the position of CFO, all his dues
+were paid.
+
+4.
+The question that falls for consideration is whether the
+respondent is entitled to the same set of emoluments while
+continuing as Director from 01.03.2019 till 20.05.2019, which he
+was drawing in his dual capacity as CFO-cum-Director?
+
+5.
+We find from paragraph 16 of the impugned judgment that
+the Appellate Tribunal has proceeded on the premise that the
+respondent was a whole-time Director or that there was an
+obligation on the Appellant-Company to pay the same emoluments
+to him which were admissible to him in his capacity as CFO. The
+documents placed on record by both the sides do not substantiate
+such claim. There is nothing on record to indicate that the
+respondent was entitled to payment of any salary/emoluments as a
+Director or whether such an assignment was given to him by virtue
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 5 of 23
+
+of his substantive rank of CFO. The impugned judgment does not
+address these issues.
+
+6.
+However, we are not inclined to cause any prejudice to the
+respondent and, therefore, deem it appropriate to accord
+opportunity to both the parties to reagitate the issue before the
+Appellate Tribunal along with supporting documents. The Appellate
+Tribunal shall determine as to whether after the relinquishment of
+the position of CFO, the respondent was entitled to the same
+emoluments and perks in his capacity as a Director of the
+Company.
+
+7.
+Consequently, the appeal is allowed in part. The impugned
+judgment dated 25.08.2022 is set aside, and the matter is remitted
+to the Appellate Tribunal for re-determination of the claim.
+
+8.
+It is clarified that we have not expressed any Opinion on the
+merits of the case. The Appellate Tribunal will decide the issue(s) as
+per their own merits and on consideration of the records, as may be
+relied upon by the parties.”
+[emphasis supplied]
+5.
+As noted above in the orders of Hon’ble Supreme Court, the impugned
+judgment dated 25th August 2022, passed by this appellate tribunal was set
+aside and as per the orders of the Hon’ble Apex Court, we are taking up
+redetermination of the claim of the Appellant. The counsels of both sides were
+heard and we have also perused the additional affidavit on behalf of the
+Appellant, which was filed post the orders of Hon’ble Supreme Court and the
+reply on behalf of the Respondent to the additional affidavit filed by the
+Respondent.
+
+6.
+The issue for our determination emerges from the following
+observations of Hon’ble Supreme Court which are extracted as follows:
+“We find from paragraph 16 of the impugned judgment that the
+respondent was a whole-time Director or that there was an
+obligation on the appellant-Company to pay the same emoluments
+to him which were admissible to him in his capacity as CFO. The
+documents placed on record by both the sides do not substantiate
+such claim. There is nothing on record to indicate that the
+respondent was entitled to payment of any salary/emoluments as a
+Director or whether such an assignment was given to him by virtue
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 6 of 23
+
+of his substantive rank of CFO. The impugned judgment does not
+address these issues.....
+
+Xxx
+
+The Appellate Tribunal shall determine as to whether after the
+relinquishment of the position of CFO, the respondent was
+entitled to the same emoluments and perks in his capacity as
+a Director of the Company.”
+[emphasis supplied]
+7.
+The matter was re-heard by this Appellate Tribunal on various dates on
+06.09.2024,
+23.10.2024,
+05.12,2024,
+23.12.2024,
+31.01.2025
+and
+11.03.2025 and materials placed on record were perused. For better
+appreciation of the issues at hand, briefly we recapitulate the sequence of
+events relating to Appellants’ initial appointment and termination.
+
+8.
+In 2014, the Respondent employed the Appellant as the CFO with effect
+from 1 May 2014. The terms of the Appellant's employment as a CFO were
+governed by the letter of appointment dated 10 March 2014 (employment
+contract). The relevant clauses of the employment contract are set out below
+for ease of reference:
+"We are pleased to offer you employment with Saab India
+Technologies Pvt Ltd ("Company") as the Chief Financial
+Officer with effect from May 1, 2014. Your employment with
+the Company shall be governed by the following terms and
+conditions"
+...
+3. DUTIES AND OBLIGATIONS OF THE EMPLOYEE
+...
+3.6 Additionally, it is the Company's prerogative to decide
+the scope/nature of duties to be performed by the
+Employee. The Company shall be free to make additions
+thereto, and/or make changes, modifications, alterations,
+or
+amendments
+thereto
+("Modifications")
+which
+Modifications, shall not be questioned, disputes or
+challenged by the Employee under any circumstances.
+...
+8. TERMINATION OF EMPLOYMENT
+8.1 The Company or Employee can terminate the
+employment by giving three month notice or salary in lieu
+of notice.
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 7 of 23
+
+...
+
+8.3 Upon termination of employment, the Employee shall
+forthwith:
+(a) deliver to the Company all property including any
+vehicle, computer, mobile phone, subscriptions for phone
+and internet, office stationery, books and documents etc,
+entrusted to his/her for care and charge. The Company
+reserves the right to deduct the money value of such
+property from the money payable to the Employee or take
+such action as may be deemed proper, in the event of the
+Employee fails to account for such property to the
+satisfaction of the Company.
+(b) return to the Company all lists of clients or customers,
+correspondence and all other documents, papers, records,
+software programs, media and any other properties
+including any copies/ duplicates thereof in any form which
+may have been prepared by him/her or may have come into
+his possession during the term of his/her employment and
+shall not retain any copies.
+...
+
+9. GOVERNING LAW AND JURISDICTION
+The provisions of this Appointment Letter shall be governed
+and construed in accordance with laws of India. Any
+controversy or claim arising out of, or relating to, this
+Agreement, or the breach hereof, shall be settled by binding
+arbitration to be held in English language in New Delhi,
+India, in accordance with the Arbitration and Conciliation
+Act, 1996, and conducted by a sole arbitrator mutually
+appointed by the Company and the Employee."
+[emphasis supplied]
+9.
+Further the Appellant was appointed as an Additional Director of the
+Respondent on 11 March 2015 and, thereafter, vide board meeting of the
+Respondent held on 28 September 2015 and Annual General Meeting held on
+29 September 2015, the Appellant was appointed as a whole-time director of
+the Respondent on 29 September 2015. Respondent claims that as per the
+practice with the Respondent Company, the Appellant was not paid any
+remuneration for his services as a Whole-Time Director and he was appointed
+as a whole-time director only by virtue of his employment as the CFO.
+
+10.
+The resolution dated September 29, 2015 appointing him as whole time
+director is extracted as below:
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 8 of 23
+
+“SAAB
+
+CERTIFIED COPY OF THE EXTRACTS FROM THE MINUTES OF
+THE MEETING OF THE BOARD OF DIRECTORS OF SAAB INDIA
+TECHNOLOGIES PVT. LIMITED HELD ON 28 OF SEPTEMBER
+2015 AT 10 AM AT THE REGISTERED OFFICE OF THE COMPANY.
+
+ITEM NO 2
+
+"RESEOLVED that since Mr. Akhilesh Kulshrestha whose proposal
+for appointment as Director is being forwarded to the Annual
+General Meeting, being already in employment of the company
+shall be appointed as a whole-time Director subject to approval by
+the general meeting."
+
+RESOLVED FURTHER that required compliances with Companies
+Act. 2013 be taken up and completed and authority is granted to
+any Director of the Company to file the required documents or take
+any other action which may be required in this connection.
+This is certified is that above is true and correct copy of the
+resolutions passed at the abovementioned meeting of the Board of
+Directors.
+
+For Saab India Technologies Pvt. Limited.”
+[emphasis supplied]
+
+The above resolution clearly notes that Appellant “being already in
+employment of the Company shall be appointed as a Whole Time Director.”
+
+11.
+Thereafter, as per the claims of the Respondent, it underwent a
+restructuring of the organisation. The Appellant's scope of duties and role as
+CFO became redundant for the Respondent. The Respondent informed the
+Appellant about the redundancy of his position and, thereafter, terminated
+the employment, in accordance with Clause 8.1 of the employment contract
+vide termination letter dated 1 March 2019 (termination letter). In the
+termination letter, the Respondent assured the Appellant that he will receive
+all salary and benefits as set out in the employment contract up to the date
+of termination i.e. 1 March 2019 (termination date), [@78 APB], including
+three-months’ salary in lieu of the notice period, which was paid.
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 9 of 23
+
+12.
+But as per the Act’s1 requirements he was removed as a Whole-Time
+Director vide a resolution passed at the extraordinary general meeting on May
+20, 2019. The relevant extracts of the letter by which he was removed as Chief
+Financial Officer is also extracted as below:
+“As you know following our recent discussions, it has been decided
+that your employment with SAAB India Technologies Private
+Limited (the Company) will terminate with effect from 1 March 2019
+(Termination Date) by reason of redundancy of your position. The
+Company is restructuring the organization structure to reflect the
+country unit structure and size of the company.
+
+1.
+In accordance with the terms of the letter of appointment
+dated 10 March 2014 signed and accepted by you on 12
+March 2014 (employment Contract), the Company will pay
+you 3 months’ salary in lieu of notice.
+.....
+7.
+You are reminded that even though your employment will
+end on the Termination Date, you will still be required to
+comply all your obligations which are intended to continue
+even after termination of your employment, including
+obligations with respect to confidential information, trade
+secrets, intellectual property and data, non-complete and
+non-solicitation. Confidential information for the purposes of
+your confidentiality obligations will also include the terms of
+this letter and any release agreement executed between the
+Company and you.
+
+8.
+You must do all things necessary to assist the Company to
+comply with any relevant statutory or other obligations in
+connection with your employment and its termination.”
+
+(emphasis supplied)
+
+13.
+The Appellants’ claims that the Respondent has failed to pay the salary
+and other dues for the period from March 2, 2019 to May 20, 2019, amounting
+to ₹ 30,01,999/-, during which period, he claims that he was working as a
+Director, post termination of his services as CFO. The Appellant contends that
+the documents of the Respondent, which were filed by the Respondent before
+various statutory authorities indicate that the Appellant was receiving the
+salary in dual capacity as the Whole-Time Director and Chief Financial
+
+1 Company Act 2013
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 10 of 23
+
+Officer. He specifically relies on e-form MR-1 which is a return of the
+appointment of key managerial personnel dated 14th October 2015 filed by
+the Respondent. This document is filed under Sections 196 and 197 of the
+Companies Act 2013, which is a document to notify the Registrar of
+Companies about the appointment and remuneration of the Managing
+Director or Whole Time Director (WTD). Per contra the Respondent claims that
+the Appellant was only liable to be paid the salary of ₹9,50,000 per month as
+the Respondent's CFO, in accordance with the Employment Contract, and no
+remuneration was separately payable to the Appellant for the position of a
+Whole-time Director. It is also claimed that as a company policy, Respondent's
+employees are not paid any additional remuneration for sitting on the board.
+Accordingly, the Appellant was not paid any remuneration for his role as the
+Whole-time Director - either for holding the position as a Whole-Time Director
+or a sitting fee for attending a board meeting, as is evident from the minutes
+of the board meeting and AGM appointing the Appellant as Whole-Time
+Director - which mention no remuneration to be paid to the Appellant.
+Minutes of the AGM meeting are at @ Pg. nos. 147-148 of VoL I of the APB.
+
+14.
+It is on record that Schedule I of the termination letter provided the
+below details of the payout to the Appellant.
+S. No
+Head
+Amount (in Rs)
+1.
+Payment of accrued but unpaid
+salary
+31,666/-
+2.
+Payment of wages in lieu of notice
+
+2,850,000/-
+3.
+Payment in lieu of accrued but
+untaken annual leave as on the
+termination date
+
+To be confirmed
+before 15 March
+2019
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 11 of 23
+
+4.
+Payment of gratuity calculated in
+accordance
+with
+Payment
+of
+Gratuity Act, 1972.
+1,370,192.31/-
+
+The above amounts were not disputed by the Appellant at the time of payment
+or even in the Petition. The termination letter was issued in full compliance
+with the employment contract and law. The Appellant has tried to indirectly
+claim that although his employment as CFO was terminated on 1 March 2019,
+yet from 2 March 2019 to 20 May 2019, he continued to be a Whole-Time
+Director of the Respondent, for which he had to be paid salary and other dues.
+We also note that Form No. MR-l is a statutory requirement that the
+Respondent is mandated to file under the Companies Act, 2013 as a company
+upon appointment of a director. We note that the said form nowhere states
+that the Appellant was being paid any compensation separately for his position
+as a 'Whole-time Director'. We are, therefore, inclined to agree with the
+submissions of the Appellant that in Form No. MR-I, the Appellant's
+designation was selected as 'Whole-Time Director' amongst other designations
+including the CFO, for a payment of an annual salary of ₹ 86,49,6001-,
+because Form No. MR-1 only allows a selection of a single choice for
+designation of the Appellant. Further, MR-1 is a disclosure form, which
+discloses all monies paid to the Appellant, who was a director in the company
+and does not prove that the monies were paid to him for being a director.
+We also find that the Appellant has not been able to produce furnish a single
+document showing that the Appellant or any other employee serving as a
+director at the Respondent company is paid remuneration separately, or over
+and above their salaries, for being a director/sitting on the board. Further,
+there is no bank statement or other such document on records demonstrating
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 12 of 23
+
+that the Appellant was paid the same salary twice in the same month for being
+a CFO and a director in the Respondent Company. However, we note that the
+Appellant has failed to specify the salary heads under which these ‘other dues’
+could have been paid to him. We do not find any remaining heads under which
+any dues are payable.
+
+15.
+Appellant relies heavily upon Article 48 of the Articles of Association
+(AoA) which is instructive to be noted as below:
+"Remuneration of Directors
+48. Each Director shall be entitled to receive out of the funds of the
+Company for his services in attending meeting of the Board, such
+amount as Board may decide but not exceeding the maximum limits
+prescribed by the Act. Each Director, as the Board may approve, shall
+be entitled to be paid his reasonable travelling hotel and other
+expenses incurred by him for attending the meetings of the Board of
+Directors or otherwise incurred in the execution of his duties as
+Director, provided that the payment of any fees and expenses to any
+Director who is not a resident of India shall be subject to the approval
+of the concerned authorities in India.”
+
+16.
+We find that as per this article, the payment of remuneration to the
+Appellant as a Whole-time Director had to be approved by way of a resolution
+passed by the Board of Directors. However, no such resolution passed by the
+Board is placed on record, which can help the Appellants’ case. We also do
+not find any other document on record demonstrating that the Board had
+approved payment of remuneration to the Appellant for his position as a
+Director. Appellant's reliance on Article 49 of the AoA, is also misplaced as
+Article 49 does not provide for payment of remuneration to a Whole-time
+Director as a matter of course, but makes it subject to other articles in the
+AoA. It is instructive to note this article as extracted below:
+“...
+49.
+All other remuneration, if any, payable by the Company to a
+Director, whether in respect of his services as a Director in the
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 13 of 23
+
+whole time or part time employment of the Company, shall be
+determined in accordance with and subject to the provisions of the
+Act and these Articles”
+
+Thus, we find that Article 49 clearly states that payment of any remuneration
+to a director has to be approved by the Board and no such board resolution
+appears to be on record which was passed, approving payment of additional
+remuneration to the Appellant for being a Whole Time Director.
+
+17.
+Thus, with respect to reliance of the Appellant on the AoA-Articles of
+Association, the Respondent a Whole-Time Director will be paid for his/her
+services such an amount that has been decided by the board of the
+Respondent. We also note that the board of the Respondent had not approved
+or passed any resolution entitling the Appellant to any remuneration for his
+services as a Whole-Time Director. Further don’t find any no policy, by which
+any director of the Respondent has been made payments separately for acting
+as director of the Company. The Appellant should have been well aware of
+that having been a CFO of the Respondent. The Appellant has also not
+produced any documents in support of this alleged entitlement. Therefore, we
+can conclude that the Respondent is not liable to pay any amount to the
+Appellant, apart from what has already been paid.
+
+18.
+It is also claimed by the Appellant he had continued to perform his
+duties as a director till 20 May 2019, even after the termination of his
+employment as CFO on 2 March 2019. However, it is notable that the
+Appellant was removed as a whole-time director by following due process on
+20 May 2019, i.e., about 2 months and 20 days after termination of his
+Employment Contract. We find that, while the termination of employment was
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 14 of 23
+
+effective immediately by paying 3 months' salary in lieu of notice, Appellant's
+removal as a director was done by way of a Board resolution as per the
+requirements of the Act. We also note that that the Appellant did not perform
+any directorial responsibilities during this tenure and is not entitled to any
+additional compensation. The termination letter also notes that “you
+[Appellant] must do all things necessary to comply with any relevant statutory
+or other obligations in connection with your employment and is terminating.”
+
+19.
+The Appellant has also sought to rely on the financial statements of the
+Respondent for the years 2014-15 to 2020-21 to contend that he was a
+director of the Respondent and was paid remuneration for being a director in
+the Respondent company. However, the said financial statements only provide
+disclosure of any and all remuneration or monies that are paid to a director
+and they do not establish that these monies were paid to a director for their
+directorship in the company.
+
+20.
+The Appellant was last drawing a monthly salary of ₹ 9,50,000 as the
+CFO at the time of termination of his employment. The Appellant was
+appointed as the Whole-time Director of the Respondent by way of board
+resolution dated 28 September 2015 and Annual General Meeting (AGM)
+dated 29 September 2015. The Appellant's employment as the CFO was
+terminated in accordance with Clause 8.1 of the Employment Contract vide
+Termination Letter dated 1 March 20l9. Thereafter, by Payment Letter dated
+20 March 2019, the Respondent informed the Appellant about the details of
+the full and final payment of ₹ 43,72,704 (after making necessary deductions
+of PF, income tax, etc.) that was paid to the Appellant as the final payment in
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 15 of 23
+
+connection with his employment. We find that Respondent while conveying
+the termination benefits on 31st March 2019, pointed out in this letter that
+the respondent has received a notice from Mr Santosh Kumar Giri on behalf
+of the Appellant and it will be responded in detail in due course. [@100 APB].
+Immediately thereafter, on 15th March 2019 the Appellant issued a notice for
+revocation of the termination of the Appellant from the services of the
+Respondent Company. Apart from various other issues the Appellant raised
+the issue of Section 169 of the Companies Act 2013 which allegedly had not
+been followed in the removal of the Appellant as a Director of the Company.
+[@152 APB]. The Respondent replied to this notice on 30th March 2019,
+wherein it was clearly brought on record that the Appellant was an employee
+of the Respondent Company and in terms of contract of employment,
+statutory compensation has been handed over to him by the Respondent.
+Further, it was also brought on record that the Respondent is in the process
+of removing the Appellant from the Board of Directors, which is a separate
+matter altogether and all steps for the removal from the board of directors will
+be undertaken in accordance with applicable law and was also advised by the
+Respondent that the Appellant may resign from the Board of Directors of the
+respondent as he was no longer employed with the Respondent. It was also
+brought on record that termination of the Appellants’ employment is an
+executive decision which was taken by the Chairman and Managing Director
+and this decision was not a matter that required discussion at a board
+meeting.
+
+21.
+Thereafter, the Appellant chose to file a writ petition before Hon’ble
+Delhi High Court, which heard the matter and vide its orders of 26.04.2019
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 16 of 23
+
+dismissed the petition as premature. The relevant extract of the orders are as
+follows:
+“Vide the present petition the petitioner seeks restraining the
+respondent number 2 [registrar of companies] from accepting or
+admitting form DIR 12 or any other forms, that might be filed with
+the respondent number 2 by the respondent No 4 company [the
+respondent] pursuant to the illegal termination of the petitioner who
+has been a whole-time director of the respondent number 4
+company.
+
+Counsel for respondent No 4 who appears on advanced notice
+admitted that the petitioner is a director as on date and there is no
+process started for removing him as a whole time director from
+respondent No 4 company. He further submits that if in future the
+respondent No. 4 decides that the petitioner shall be removed from
+the post of the director the due process under the companies act
+shall be taken. Since the petition is at premature stage the same is
+not maintainable and dismissed accordingly”
+[emphasis supplied]
+22.
+Later on, when Appellant’s demand Notice under Section 8 of the Code
+was sent to the Respondent on July 23, 2019, the Respondent denied liability,
+raising disputes that the Appellant’s claims are baseless. Consequently, the
+Appellant initiated insolvency proceedings. However, the NCLT dismissed the
+Petition, holding that there were pre-existing disputes between the parties.
+Aggrieved by this decision, the Appellant had approached the National
+Company Law Appellate Tribunal (NCLAT) seeking to set aside the Impugned
+Order, which was allowed but was appealed by the Respondent before Hon’ble
+Apex Court and this matter is being heard as per the remand back by Hon’ble
+Apex Court.
+
+23.
+After hearing counsels of both sides and perusing materials placed on
+record, we find that the Appellant was appointed as Chief Financial Officer
+(CFO) w.e.f. 01.05.2014 by an employment contract dated 10.03.2014. Later
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 17 of 23
+
+on the Appellant was appointed as the Whole Time Director (WTD) of the
+Respondent by way of Board Resolution dated 28.09.2015 along with the
+Annual General Meeting (AGM) dated 29.09.2015. It is to be noted that the
+Appellant was appointed as WTD because he was working as the CFO. The
+employment of the Appellant was terminated as per Clause 8.1 of the
+employment contract between the two parties. All the dues, which included
+three months’ notice or salary in lieu of the notice were paid to the Appellant.
+Once he ceases to be CFO, it is inconceivable that he could have continued
+as a WTD. It is worth noticing that the Appellant was not appointed as a WTD
+and there is no material to show any separate remuneration was payable to
+the Appellant for the position as a WTD. Further, from the materials on
+records, it is noted that there are no documents which suggest that the
+Appellant was being paid in the exclusive capacity as a WTD. The Appellant
+relies on the returns filed by Respondent in the e-form No. MR-l in which
+Appellant is being shown as WTD of the Respondent with a salary of
+₹86,10,000/- per annum in the capacity as WTD. Per contra the Respondent
+claims that the MR-1 is a statutory requirement to file under law as a
+company upon appointment as a director. In this form the Appellants’
+designation was selected as a WTD amongst other designations including the
+CFO, because MR-1 only allows a selection of single choice for the designation
+of the Appellant. This form nowhere states the Appellant was being paid any
+compensation separately for his position as a WTD. Further, MR-1 is a
+disclosure form, which discloses all monies paid to the Appellant, who was a
+director in the Company and this does not prove that the money is were paid
+to him for being a Director. We are inclined to agree with the contention of the
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 18 of 23
+
+Respondent for the reasons that he was appointed as a CFO and designated
+as WTD for being along with CFO and we cannot rely on the declarations on
+MR-1 for payment of salary exclusively as a WTD.
+
+24.
+Furthermore, Article 48 of Articles of Association of the Company
+provides that if Appellant had to be paid as a WTD, it had to be approved by
+a resolution passed by the Board of Directors and there was no such
+resolution passed by the board. There is nothing on record to demonstrate
+that the board had approved payment of remuneration to the Appellant for
+his position as a director. Furthermore, Article 49 of the Article of Association
+(AoA) does not provide for payment of remuneration to a WTD as a matter of
+course but makes it subject to other articles in the AoA. We are inclined to
+agree with the contention of the Respondent that since Article 48 provides
+that the remuneration to a Director has to be approved by the board and no
+such board resolution was passed, the Respondent is not liable to pay any
+amount to the Appellant.
+
+25.
+We also agree with the arguments of the Respondent that the Appellant
+has been paid salary till 31 May 2019 for the notice period. We note that the
+Respondent was already paid salary in lieu of three-months' employment to
+the Appellant (i.e. salary for the period 1 March 2019 to 31 May 2019),
+whereas the Appellant was removed from the Board of the Respondent much
+prior to 31 May 2019. Even if any amount from the previous salary payments
+were due to him for being a director of the Respondent, all such amounts up
+to the date of his removal were already paid. And therefore, Appellant cannot
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 19 of 23
+
+claim any additional amounts from the Respondent other than the amount
+that has already been paid and accepted by the Appellant.
+
+26.
+The Appellant has relied on various documents which show him as a
+WTD in the MCA master data, salary increment letter and salary slips for the
+month of February and March 2019. As has been discussed earlier, he was
+designated as a WTD for being CFO. From the material on record, it cannot
+be concluded that he was working exclusively as a WTD, without being a CFO.
+Once his employment has been terminated, he no longer remains the WTD.
+Since he was appointed as a WTD by the board resolution it could be revoked
+only by the Board’s resolution, which was done after few days on 20.05.2019.
+The Appellants’ reliance on the financial statements of the respondent, from
+the years 2014-15 to 2020-21 may not be of any help as these financial
+statements only provides disclosures of remuneration paid to a director just
+for their directorship in the company. From the materials on record, it is noted
+that the Appellant, during his employment, never claimed that any amounts
+were payable to him on account of him being a Whole-Time Director.
+
+27.
+The Appellant relies on Section 169(4) read with Section 202 of the
+Companies Act, 2013 and claims that provisions of 169 were not followed. It
+further claims that since he was not removed as WTD under Section 169 of
+the Act for fraud, breach of fiduciary obligations, breach of trust etc. and
+neither the Appellant was an officer in default under Section 2(60) of the Act,
+therefore, he is entitled to compensation for the loss of office as the WTD of
+the Respondent. Such claims are unfounded as we have noted earlier that his
+Whole Time Directorship was dependent on his being a Chief Financial
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 20 of 23
+
+Officer, which was terminated along with salary for the notice period.
+Therefore, he no longer could have worked as WTD. Necessary procedural
+requirements as per the company law had to be completed, which took some
+time and during this interim period from 02.03.2019 till 20.05.2019, he could
+not have been paid just exclusively as a WTD. Moreover, there is nothing on
+record to suggest that he was performing his directorial responsibilities during
+this tenure and therefore, we cannot agree with the claims of the Appellant
+that he is entitled to additional compensation.
+
+28.
+From the above, we find that the Respondent was not a WTD exclusively
+but was CFO-cum-WTD. There was no obligation on the Respondent to pay
+the same emoluments to him, which were admissible to him in his capacity
+as CFO. The Appellant has not been able to provide any additional documents
+for us to determine as to whether after relinquishment of the position of CFO,
+the Appellant was entitled to the same emoluments and perks in his capacity
+as a Director of the Company. We also do not find any documents on record,
+which substantiate the claim of the Appellant that he was liable to be paid the
+same emoluments as a CFO for the short period, till his appointment as a
+WTD was formally revoked as per the Act.
+
+29.
+From the above analysis, we conclude that the Appellant was initially
+appointed as a CFO. Later on, being a CFO he was designated as WTD. On
+his termination, all terminal benefits were paid to him. The required
+formalities to remove him as a Director of the Company needed some
+approvals of the board as well as AGM which took time. During this interim
+period from 01.03.2019 till 20.05.2019, he was not working as CFO and
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 21 of 23
+
+therefore Appellants’ claim that he was working as a WTD is not based any
+material on record. Therefore, his claim for same emoluments and perks in
+his capacity as a Director of the Company is devoid of any basis. We therefore
+cannot accept the claim of the Respondent that he is liable to be paid as a
+Director of the Company.
+
+30.
+Furthermore, there has been a dispute regarding his termination which
+he had raised immediately after his services were terminated on 01.03.2019.
+The Respondent had sent a notice to the Appellant on 15.03.2019 challenging
+the validity of termination of his employment and demanded that he was a
+key managerial person and he is entitled to severance pay of 18 months in
+addition to a 6 months’ notice period, which effectively meant 24 months’
+salary. This was replied by the Respondent on 30.03.2019. But the Appellant
+had filed a writ petition before the Hon’ble High Court of Delhi challenging his
+termination as an employee and pre-emptively challenging his removal as a
+Director. The High Court of Delhi heard the Appellants’ writ petition and
+dismissed it on 26.04.2019. Thereafter, on 2019 the Appellant was removed
+from the position of WTD of the Company in an extraordinary general meeting
+as prescribed under law. Therefore, we find that the Appellant had raised a
+dispute with respect its demand for payment of salary and this has been noted
+by the Adjudicating Authority to be a pre-existing dispute.
+
+31.
+We note that the Appellant had raised a dispute immediately upon his
+termination of employment. This was even mentioned in the Respondent’s
+letter dated 31st March 2019. Notice from the legal representative of the
+Appellant was duly replied by the Respondent later in March 2019 itself.
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 22 of 23
+
+Further, the Appellant raised the issue before Hon’ble High Court of Delhi in
+a Writ Petition, which was dismissed as premature. In such a situation, we
+find that there was a pre-existing dispute regarding the Appellant’s
+termination as the Respondent’s WTD.
+
+32.
+The Respondent also claims that the relationship between the Appellant
+and the Respondent arises out of the employment contract and the dispute
+raised by the Appellant before the NCLT was one arising out of the
+employment contract and was therefore purely contractual in nature and
+ought to be resolved in terms of the dispute resolution process agreed by the
+parties in the employment contract. The employment contract, under Clause
+9, provides for resolution of disputes through arbitration by a sole arbitrator.
+Accordingly, the NCLT and this Tribunal are not the appropriate for
+adjudication of a contractual dispute. Therefore, the Petition was not
+maintainable in any case. Without going into further details on this issue, we
+only note that there is a pre-existing dispute for deciding the case in hand.
+
+33.
+Basis the facts and the circumstances in the present case, we find that
+there is a pre-existing dispute between the parties and this could not have
+been resolved by the NCLT under the Code. The law is very clear that as per
+Section 9(5)(ii)(d) of the Code, on an existence of pre-existing dispute, the
+Application is not maintainable. Furthermore, the law has been clearly
+enunciated by Hon’ble Supreme Court in Mobilox Innovation Pvt. Ltd. Vs.
+Kirusa Software Private Limited (2018) 1 SCC 353 at para 40 held as
+under:
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 353 of 2020 23 of 23
+
+“40.
+It is clear, therefore, that once the operational creditor has
+filed an application, which is otherwise complete, the adjudicating
+authority must reject the application under Section 9(5)(2)(d) if
+notice of dispute has been received by the operational creditor or
+there is a record of dispute in the information utility. It is clear that
+such notice must bring to the notice of the operational creditor the
+“existence” of a dispute or the fact that a suit or arbitration
+proceeding relating to a dispute is pending between the parties.
+Therefore, all that the adjudicating authority is to see at this stage
+is whether there is a plausible contention which requires further
+investigation and that the “dispute” is not a patently feeble legal
+argument or an assertion of fact unsupported by evidence. It is
+important to separate the grain from the chaff and to reject a
+spurious defence which is mere bluster. However, in doing so, the
+Court does not need to be satisfied that the defence is likely to
+succeed. The Court does not at this stage examine the merits of the
+dispute except to the extent indicated above. So long as a dispute
+truly exists in fact and is not spurious, hypothetical or illusory, the
+adjudicating authority has to reject the application...”
+
+Orders
+34.
+We, therefore, agree with the finding of the Adjudicating Authority in
+rejecting the claim of the Appellant. Accordingly, the Appeal is dismissed as
+the present dispute arises out of the employment contract and is contractual
+in nature and cannot be raised under the Code. Accordingly, the Appeal is
+dismissed. No orders as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+May 07, 2025.
+
+pawan

@@ -1,0 +1,567 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+18.11.2025
+
+Comp. App. (AT) (Ins) No. 530 of 2025
+
+PRESENT: JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+MR. ARUN BAROKA, MEMBER (TECHNICAL)
+
+Astral Agro Ventures
+...Appellant
+Vs
+
+1.Mr. Vakati Balasubramanyam Reddy
+
+2. Committee of Creditors
+Megi Agro Chem Ltd.
+
+3. Arainfra Projects Pvt. Ltd.
+
+...Respondents
+
+(Arising out of Order dated 09.01.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal, Mumbai Bench) in I.A. (I.B.C.)/1851/MB/
+2024 in C.P (IB) 144/MB/2021)
+
+For Appellant:
+
+Mr. Amey Hadwale, Advocate
+
+For Respondents:
+
+Mr. Abhira Raj and Mr. Shivesh Kaushik, Advocates
+for R-3.
+
+JUDGEMENT
+Per Justice N. Seshasayee, Member (Judicial)
+This appeal is preferred by a Prospective Resolution Applicant (PRA)
+challenging an order the Adjudicating Authority (NCLT-V, Mumbai)
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+dismissing its application in I.A. No. 1851 of 2024 in C.P (IB) 144/MB/2021,
+which it had taken out for the rejection of resolution plan submitted by the
+third respondent/SRA, inter alia on the ground that the SRA is ineligible to
+participate in the resolution process as it is a related party within the meaning
+of Section 29A of the IBC.
+FACTS
+2.1 The controversy herein involved arises out a CIRP proceedings which came
+to be initiated against certain Megi Agro Chem Ltd.. The relevant facts are:
+a) On admission of the CD to CIRP, the first respondent herein was
+appointed as the Resolution Professional. The resolution process
+progressed to the stage of invitation of Expression of Interest (EoI, for
+short) through Form G. The RP Had issued Form-G at least thrice, since
+the first two attempts at the insolvency resolution process of the CD
+were not successful.
+b) In the first two occasions, the appellant very enthusiastically submitted
+its EOI, but it did not sustain its early enthusiasm as it failed to submit
+any resolution plans. With the leave of the Adjudicating Authority, the
+RP proceeded to issue a Form G for the 3rd time. Part of the issues which
+the appellant has raised in this appeal has transpired thereafter:
+ On invitation to submit EoI for a third time, the appellant submitted
+its EoI yet another time. Subsequently, the RP released its final list
+of PRAs, in which both the appellant and the 3rd respondent figured.
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+They were invited to submit their resolution plan on or before
+04.09.2023.
+ The 3rd respondent submitted it within the time stipulated therefor.
+But not the appellant. On 04.09.2023, the last date for submitting
+the plan, the appellant, instead of submitted its plan, sent an e-mail
+to the RP (the first respondent herein) and also the CoC (the second
+respondent) and followed it up with another mail on 06.09.2023. In
+both these mails, the appellant sought extension of time for the
+submission of the resolution plan by 15 days.
+ The CoC, in its 9th meeting held on 08.09.2023, however, chose to
+grant time to the appellant only till 13.09.2023. The appellant
+however, did not submit its resolution plan even by 13.09.2023.
+Instead, on 12.09.2023 (the penultimate day for submitting the plan)
+it sent yet another e-mail inter alia to the RP and the CoC conveying
+its willingness to submit a plan, and required that the meeting of
+the CoC be held on 16.09.2023. It still did not submit its plan by
+13.09.2023.
+c) On 13.09.2023, the RP proceeded to convene the 10th meeting of the
+CoC to be held on 14.09.2023, but on that day no serious business had
+taken place. The next meeting (the 11th meeting of the CoC) was held
+on 20.09.2023. The appellant had not submitted any plan even by
+then.
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+d) On 20.09.2023, the CoC opened the only plan before it, the one which
+the 3rd respondent had submitted. The CoC required the 3rd respondent
+to improve its commercial offer.
+e) On the very next day (21.09.2023), CoC met for the 12th time. On this
+date, it approved the resolution plan of the 3rd respondent. The matter
+is now pending before the Adjudicating Authority for its approval.
+3. This is the setting. Now the appellant would come forward with I.A.1851
+of 2024 for rejection of the resolution plan of the 3rd respondent. Its
+contentions are:
+a) That the 3rd respondent did not satisfy the net-worth value as has been
+fixed in Form G. Therefore, shortlisting the 3rd respondent even as a
+PRA is faulty.
+b) A certain Akhil Rishi Agarwal and his mother Kumkum Kamalesh
+Agarwal were the directors of the SRA company. Of them Kumkum was
+the wife of one Rishi Kamalesh Agarwal and their son is Akhil Rishi
+Agarwal. Be that as it may, Kamalesh Agarwal was declared a wilful
+defaulter and inasmuch as the aforesaid two directors of the SRA are
+related to Rishi Agarwal, they fall within Sec.29 (j) read with Sec.29(c).
+Both Akhil Rishi Agarwal and Kamalesh Agarwal, however, resigned
+their directorship of the SRA some 20 days prior to the submission of
+the resolution plan, but it is only a device to outmanoeuvre the spirit of
+Sec.29A, and their design in so doing it cannot validate the participation
+of the 3rd respondent in the resolution process. In addition, the
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+exemption granted to MSME under Sec.240A of the IBC does not
+exempt the operation of Sec.29A (c) either.
+c) In terms of Regulation 36A(8) of the CIRP Regulations, 2016, the RP is
+required to conduct due diligence in ascertaining the eligibility criteria
+including Sec.29A statutorily prescribed. This duty is given a go by.
+d) Regulation 19(2) of the CIRP Regulation stipulates that minimum 24
+hours-notice must be given for convening the meeting of the CoC.
+However, the 12th meeting of the CoC was held on 20.09.2023) and the
+13th meeting was convened on the very next day, on 21.09.2023, in less
+than 24 hours notice. Since the meeting convened itself are contrary
+to the Regulation, no sanctity can be attached to the decision of the
+CoC in approving the resolution plan of the 3rd respondent.
+e) The minutes of the 11th and 12th meetings of the CoC has not recorded
+the quality of deliberations that had taken place, which implies that the
+resolution plan of the 3rd respondent has been approved without the
+CoC applying its mind to it. In other words, the decision of the CoC in
+approving the plan of the 3rd respondent has not passed the scrutiny of
+the commercial wisdom of the CoC.
+4. The contentions of both the RP and the 3rd Respondent-SRA are:
+a) That the appellant has no locus standi to challenge the decision of the
+CoC to approve the only resolution plan before it. While in the earlier
+two rounds of the CIRP proceedings, the appellant had participated only
+up to the point of submitting his EOI, but it backed off thereafter. And,
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+in the third and the final round of the CIRP, as was its practice, it
+tendered its EOI yet another time, but was seen dragging its feet in filing
+its resolution plan. It was on 05.08.2022 that the CIRP was admitted.
+And, when the PRAs were required to file their resolution plans by
+04.09.2023, the appellant would still seek time by 15 days. While the
+CoC had all the authority in it to reject the extension of time, it still
+acted fairly enough to grant 10 days time to the appellant to file its plan
+by 13.09.2023, but the appellant still would not file it. By its default,
+the appellant is out of the race, and it has no role to challenge the
+decision of the CoC in approving the plan of the 3rd respondent.
+b) So far as the net-worth criteria is concerned, Form G only required
+effective net worth, and therefore, the 3rd respondent cannot complain.
+c) Turning to the objection under Sec 29A, before the Adjudicating
+Authority the appellant relied on Sec.29A(c) whereas before this
+appellate tribunal it places reliance on Sec.29A(b). Irrespective of the
+same Rishi Agarwal, was never a director of the 3rd respondent company
+nor Akhil Agarwal who had submitted the resolution plan on behalf of
+the 3rd respondent, has little to do with the business of his father. The
+fact that the debt of the father’s business enterprise has been notified
+as NPA cannot affect his son unless they are related through commerce.
+5. As outlined in the opening paragraph the Adjudicating Authority was least
+impressed with the strategy of the appellant and held that its exercise to
+impugn the resolution plan is tainted in malafide. Indeed, it found that even
+the EoI itself was filed by someone else and not the appellant. So far
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+contention vis-à-vis the bar under Sec.29A(c) of the IBC goes, the same will
+not apply to MSME which the SRA is.
+The Arguments
+6. In her argument the counsel for the appellant merely expanded the
+argument with reference to specific documents. In particular she submitted
+that the eligibility criteria as was required was that the net worth of the
+applicant must be Rs. 10 Crores whereas, the declared net worth of Ahil Rishi
+(the SRA) is only Rs. 32,000/- Secondly it was not disputed that Akil
+Agarwal’s father Rishi Agarwal’s debt was notified as NPA. It is therefore,
+obvious that the RP had not examined the material particulars submitted by
+the 3rd respondent with due diligence. Still Akil was allowed to submit the
+plan. In other words, CoC has accommodated the one who statute bars from
+submitting a plan. Thirdly when the appellant had indicated his willingness
+to submit the resolution plan on 13.09.2023 and sought a meeting on
+16.09.2023, the RP should have waited to convene the meeting of the CoC
+only on or after 16.09.2023. However, without granting the appellant a fair
+opportunity to participate in the resolution process the RP had convened the
+meeting in less than 24 hours time. And even as the CoC had required the 3rd
+respondent to improve its commercial offer, he convened its 12th meeting on
+the very next day and approved the plan of the 3rd respondent. The minutes
+of the meeting however, does not indicate whether the 3rd respondent had
+made any improvement to its commercial offer. The minutes also does not
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+disclose the nature and quality of deliberation among the CoC members before
+approving the resolution plan.
+7. Drawing strength from the ratio of the judgements in Ramesh Kesavan Vs
+CA Jasin Jose & Others [C.A.(AT)(CH)(INS) 422 of 2023], M.K.Rajagopalan
+Vs S. Rajendran [C.A.(AT)(INS) 58 of 2023] and J.M.Financial Asset
+Reconstruction Company Vs M/s Well-Do Holdings and Exports Pvt. Ltd.,
+& Others [C.A.134 of 2019], the respondent pivoted its contention chiefly on
+the locus standi of the appellant to impugn the resolution process. The
+learned counsel for the respondent would further argue that the eligibility
+criteria required was effective net worth of PRA and not mere net worth. If the
+effective net worth is reckoned then the 3rd respondent meets the eligibility
+criterion. So far as the application of Sec.29 A is concerned, irrespective of
+whether reliance is placed on 29 A (j) read with (b) or (c), as per the ratio in
+Swiss Ribbons Pvt. Ltd., & another Vs UOI & others [(2019)4 SCC 17] the
+relationship in the context is not personal relationship but relationship
+through business. That the father’s business enterprise was notified as NPA
+vis-a-vi payment of its debts, does not bring the son within the ambit of Sec.
+29 A of the IBC since, and on facts, the father (Rishi Agarwal) and the son
+(Akil Agarwal) were not mutually involved in the business of the other. And
+that the nature of allegations levelled against the CoC are not of the nature
+that would constitute material irregularity in approving the resolution plan.
+Discussion and Decision
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+8. The principal line of defence of the respondent is a challenge to the locus
+standi of the appellant to take out an application to register its objection to
+the approval of the resolution plan by the Adjudicating Authority as well as to
+institute the present appeal. The appellant, undoubtedly, was one of the
+shortlisted PRAs by the RP. It has been required to submit its resolution plan.
+It, however, did not submit it by 04.09.2023, the last date for submitting it.
+Instead, it sought another 15 days for submitting its plan but the CoC had
+granted 10 days till 13.09.2023. According to the appellant on 12.09.2023,
+the day prior to the closure date of the extended time for submitting its
+resolution plan, it e-mailed the RP conveying its willingness to submit its plan
+by 13.09.2023, yet it did not submit one. And till the plan of the 3rd
+respondent was opened and approved the appellant did not make any attempt
+to submit its plan. It needs to be emphasised here that so far as the
+appellant’s participation in the resolution process of the CD is concerned, the
+pattern it has assumed is not new. Twice during the earlier rounds of the
+resolution process, it had submitted its EOI and was also shortlisted as a
+PRA, but it failed to submit its plan. It is very evident that the appellant is
+almost habituated to abandon its participation in the resolution process of
+the CD midway through the game. Or, is it a mock participation motivated to
+defeat and delay the very resolution process? Irrespective of why the appellant
+got into the practice of dangling the carrot to the RP and running away with
+it, the fact remains that the appellant, by its conduct, has not presented itself
+as a serious player in the resolution process. And, it is this appellant which
+now levels charges against the CoC and the RP that their manner of holding
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+the resolution process is marred by procedural irregularities, and attempts to
+vitiate the approval of the CoC to the resolution plan of the 3rd respondent.
+Has the appellant, a PRA and not even an unsuccessful RA, the locus standi
+to challenge the legality of the CoC’s approval to the resolution plan?
+9. If the resolution process is time bound and delay is contraindicated to the
+IBC’s philosophy of maximising the asset value of the CD, then how far it is
+tenable to allow a disgruntled or disappointed PRA to open a parallel track to
+raise issues of irregularity, when the Adjudicating Authority itself has a duty
+to ascertain any material infraction of Regulations while testing the legal
+sustainability of the plan when it exercises its jurisdiction under Sec.31 IBC?
+Why should there be duplication of effort? What then is the status of a PRA,
+or an unsuccessful resolution applicant to raise a challenge? This bring into
+focus two aspects: (a) right of the PRA to raise an objection; and (b) when such
+objections may be considered?
+Locus Standi of the PRA
+10.1 A PRA enters the scene only from the time it submits its Expression of
+Intent to participate in the resolution process, and it moves to the next stage
+only if its name is shortlisted for submitting a resolution plan. And once it
+submits its resolution plan its role stops, for it does not have a vested right to
+have its plan approved. See: Arcelor Mittal Vs Satish Kumar Gupta
+[(2019)2 SCC 1].
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+10.2. The issue of the right of the PRA or an unsuccessful RA to challenge
+the approval of the resolution plan is not new as it has visited this tribunal
+on few occasions earlier and they are briefly considered:
+a) In M.K Rajagopalan Vs S. Rajendran [(2024) 250 Comp Cas 750;
+2023 SCC OnLine NCLAT 839 (Chennai Bench)], the Chennai bench of
+this tribunal has held that an unsuccessful Resolution Applicant has
+no locus to assail a resolution plan or its implementation as he is not a
+stakeholder as per Section 31(1) of the IBC.
+b) In Prio SA Vs MR. Pravin R. Nandavar Company Appeal (INS) No.
+1650 of 2023 (Principal Bench) [SCC OnLine NCLAT 127 (2025) 253
+Comp Cas 284], the Principal Bench of this tribunal took a contrary
+view. The facts in that case discloses that the appellant, a PRA, had
+participated in the resolution process, submitted its EoI, submitted its
+plan and also its revised bid. This tribunal held that the appellant had
+the locus since it has participated in the process.
+c) In Meir Commodities India Pvt Ltd Vs Mr. Narayanam Nageswara
+Rao & Other [C.A.(AT)(CH)(INS) No .206/2024], the Chennai Bench
+distinguished the judgement in Prio SA case on facts. That was a case
+where an was appeal field by the PRA, who had submitted its response
+to the EOI but not yet submitted a resolution plan, it was held that the
+PRA cannot be termed as an aggrieved person within the meaning of
+Sec.61 of the Code.
+d) In Ganga Construction (Consortium) Vs Anil Kumar Mittal & others
+[C.A.(AT)(Ins) No:185 of 2025, dated 04.11.2025], the Principal bench
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+of this Tribunal has considered a case of a resolution applicant who,
+though had submitted its preliminary plan but not the final plan, was
+held not to have a right to challenge the resolution process.
+Proceeding in rem and Locus Standi
+11. There is possibly another angle to this issue. The Hon’ble Supreme Court
+has held that a CIRP proceeding is a proceeding in rem and hence strict rule
+of locus standi may not be insisted in these proceedings. Whether relaxation
+of rule of locus standi implies that any PRA can be allowed to challenge a
+resolution plan? Given the implication a challenge by the PRA or an
+unsuccessful RA to a resolution plan may have on the timeline prescribed for
+the conclusion of the CIRP, we consider it appropriate to consider the issue
+in greater detail.
+12.1 What is a proceeding in rem? Black Law Dictionary (9th Edition) defines
+an action in rem inter alia as:
+“An action determining the title to property and the right of the
+parties, nor merely among themselves, but also against all persons
+at any time claiming an interest in that property; a real action; Also
+termed (in Roman law) action in rem; action realis; real action.”
+In Deccan Paper Mills Co., Ltd., Vs Regency Mahavir Properties and
+others [2020 SCC OnLine SC 655 : (2021)4 SCC 786], while distinguishing
+the effect of the relief under Sec.31 and 34 of the specific Relief Act in the
+context of the arbitrability of a dispute, the Hon’ble Supreme Court relied on
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+Ramanatha Aiyer’s Advanced Law Lexicon to explain an action in rem or an in
+rem proceeding. It is now extracted:
+“24. P. Ramanatha Aiyar's Advanced Law Lexicon (3rd Edn., Wadhwa
+Nagpur) describes an in rem proceeding as follows:
+“In rem. adj. [Latin “against a thing”] Involving or determining the
+status of a thing, and therefore the rights of persons generally with
+respect to that thing.—Also termed (archaically) impersonal. (Black 7th
+Edn., 1999)
+‘An action in rem is one in which the judgment of the court determines
+the title to property and the rights of the parties, not merely as between
+themselves, but also as against all persons at any time dealing with
+them or with the property upon which the court had adjudicated.’
+R.H. Graveson, Conflict of Laws 98 (7th Edn., 1974).
+Against the king; against the property, not against a person.
+This term is derived from the Roman law, but is not used in English law
+in precisely the same sense as in that law. Indeed, Bracton, limits
+proceedings in rem to actions to obtain possession of res by which he
+understood real actions. (Bigelow on Estoppel 42, 43.)
+A proceeding in rem is a proceeding instituted against a thing, and not
+against a person.
+A proceeding in rem, in a strict sense, is one taken directly against
+property, and has for its object the disposition of the property, without
+reference to the title of individual claimants but in a larger and more
+general sense the term “proceeding in rem” is applied to actions
+between parties where the direct object is to reach and dispose of
+property owned by them, or of some interest therein.
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+An act or proceeding is in rem when it is done or directed with reference
+to no specific person and consequently against or with reference to all
+whom it might concern, or “all the world”.
+.... .....
+Lawsuits brought against property as compared with those against a
+person; the court's jurisdiction does not depend on notice to the property
+owner.”
+In Booz Allen and Hamilton Inc. Vs SBI Home Finance Limited [(2011) 5
+SCC 532] where the Hon’ble Supreme Court, while differentiating an action in
+rem from action in personam, has held: (para 37)
+“..action in rem refers to actions determining the title to the property
+and the right of the parties, not merely among themselves but also
+against all persons at any time claiming an interest in that property.”
+Also see the discussion in Viswanathan Vs Rukn-ul-Mulk Syed Abdul
+Wajid [AIR 1963 SC 1]
+12.2 Given the textual meaning of a ‘proceeding in rem’ any proceeding
+initiating a CIRP is considered as an action or proceeding in rem since it deals
+with the right to the assets of the CD, its vestiture in the SRA (and supported
+by the ‘clean slate theory’ to complete the process), .and making it statutorily
+binding on all vide Sec.31(1) of the Code, Where does a PRA or an
+unsuccessful RA figure in it?
+13. That a CIRP proceedings is a proceeding in rem notwithstanding, the
+participation therein is still regulated by the existence of some jural
+relationship, which is not necessarily born of contractual relationship (as
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+creditor and debtor) but at least must be a procedural relationship established
+through the operation of the IBC and the Regulations (as a PRA or an
+unsuccessful RA). The only difference between the two is that whereas the
+identity, which a jural relationship born of contract lasts till the conclusion of
+the resolution process or even during the liquidation of the CD, those which
+are created by procedure lasts only as long as such relationship is relevant
+for the procedure. This would imply that merely because CIRP proceeding is
+a proceeding in rem, it still does not accommodate those who by their conduct
+or otherwise have been rendered irrelevant in procedure. And any procedural
+interest so created does not extend beyond seeking certain procedural fairness
+vis-à-vis its participation in the resolution process. Therefore, the mere fact
+that a PRA or an unsuccessful RA establishes a relationship with the CIRP
+procedurally, still may not grant them the license to gate crash into a CIRP
+proceeding.
+14. The conclusion that could be drawn is that, while a PRA or an
+unsuccessful RA does not have a vested right of substantive nature to
+challenge a resolution process or an approved resolution plan, it may have a
+procedural right to alert the Adjudicating Authority about the quality of the
+resolution process, provided its relevance in procedure is not lost. They may
+highlight any procedural infraction of the kind (which law understands as
+material irregularity), which holds the potential to impair the integrity and
+purity of the resolution process. (As to what constitutes material irregularity
+and how to ascertain it, see: the judgement in Dorni Vinimoy Pvt. Ltd., Vs
+Rachna Anachalia RP of Imperial Tubes Pvt. Ltd. & Others, C.A.411 of
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+2025 batch of cases, dated 13.10.2025) However, for them to challenge a
+particular material irregularity which they might allege as having occasioned,
+they must have participated in that stage of the resolution process where the
+alleged irregularity has taken place. A mere tag of a PRA or an unsuccessful
+RA by itself may not be adequate.
+Locus Standi of the Appellant
+15.1 Turning to the facts of the present case, it is indisputable that the
+appellant has been busy purchasing time for filing the resolution plan. To go
+slightly backwards in time, as stated earlier, the appellant has submitted its
+EOI at least twice before and was also shortlisted as a PRA. It therefore, had
+access to the Information Memorandum of the CD, perhaps long prior to the
+SRA, and necessarily it had a longer time to prepare and submit its resolution
+plan. At least it knows or ought to have known what is expected of it and what
+it is expected to do. Still, it chose not to submit its resolution plan for a
+straight third time, yet it is still not short of shame or courage to complain
+that it was denied adequate time to submit the resolution plan and that the
+CoC had met on a day not of its choice, and had approved the resolution plan
+of the 3rd respondent with the kind of deliberations not to its satisfaction.
+Where in the scheme of the IBC, a PRA who has not even cared to submit its
+plan, is granted the right or authority to fix its own schedule for doing what
+it is required to do, and dictate terms? What exactly does the appellant want
+and what are its intentions? Is it busy playing a serious hide and seek game
+with IBC when the IBC is busy engaged in the resolution process of the CD?
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+We believe that we are not watching any Tom & Jerry show of hide, seek and
+chase, nor we tolerate appellant’s attempt to reduce the ongoing CIRP to an
+entertainment show.
+15.2 It is evident that the appellant’s participation in the resolution process
+is pretentious as its conduct is loaded with well concealed chicanery which
+aims to derail the resolution process by using legal tools, perhaps to achieve
+certain ulterior objectives. It is reminded that a CIRP is only considered as a
+proceeding in rem, and not to understand as a kind of public interest
+litigation. When on facts locus standi of the appellant is reduced to procedural
+irrelevance due to its failure to submit a resolution plan within the time
+stipulated, it does create considerable uneasiness in accommodating it to
+object to CoC’s approval of the resolution plan. Its voice does not merit
+consideration.
+On the merit of the Challenge
+16.1 Turning to the quality of the challenge per se, the appellant accuses that
+meeting of the CoC was convened within 24 hours and that its deliberations
+were not elaborately detailed in the minutes. When there is only one
+resolution applicant on the fray, how does it matter to the appellant (which,
+to repeat has pushed it to procedural irrelevance) as to when the meeting is
+convened or how the CoC has deliberated? At any rate they are not material
+infraction as to affect the legality of the resolution process. The next aspect is
+about the net worth versus effective net worth criterion prescribed as
+qualification-factor for a resolution applicant. Here Form G only mentions
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+about effective net worth and not net worth and the respondent has
+established the effective net worth as required.
+16.2 And, lastly to whether the respondent is disqualified under Sec.29A(b)
+IBC read with Sec.29A(j), on the ground that the loan obtained by the
+business of the father of Akhil Rishi Agarwal, the director of the SRA, was
+notified as NPA. Inasmuch as this tribunal has found that the appellant has
+no locus standi to even prefer either an application before the NCLT or an
+appeal before this tribunal, and inasmuch as the issue will fall under the
+domain of the Adjudicating Authority vide the ratio in Arcelor Mittal case
+[(2019)2 SCC 1] it can take it up for consideration under Sec.31 IBC when it
+tests the legality of the resolution plan. We, therefore, refrain from passing
+our opinion on the same and consider it appropriate to leave it to the
+Adjudicating Authority to decide on it in the light of the ratio in Swiss
+Ribbons Pvt. Ltd., & another Vs UOI & others [(2019)4 SCC 17]. It is made
+clear that merely because we require the Adjudicating Authority to address
+this issue, appellant will not have a right of hearing before the NCLT as it has
+not even submitted its plan.
+Recommendation
+17.1 This case shows how a PRA with no real locus standi can obstruct the
+conclusion of a CIRP, which it must be underscored is in its third round of
+the resolution process, with the COC ultimately been able to identify a
+resolution plan. Tribunals should therefore, be conscious to, aware of, and
+be alerted by circumstances that would delay and defeat the statutory
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+objectives of the IBC. Having stated thus, it does not imply that irregularity
+in the resolution process should not be brought to the notice of the
+Adjudicating Authority, for, despite its limited role, Adjudicating Authority
+still holds the authority to sanctify the legality and fairness of the resolution
+process. Therefore, a conscientious PRA can still bring it to the notice of the
+Adjudicating Authority of such facts which in its perception constitutes
+material irregularity and to draw the attention of the Adjudicating Authority
+to the same. We therefore, consider the following course to be appropriate:
+a) inasmuch as a PRA or an unsuccessful RA will not be a personal
+beneficiary even if its objections against an approved resolution plan
+are upheld (since the petitioning PRA will not still be declared as a
+successful RA) it may not be necessary that its objections should be in
+the form of an application. Even a memo of objections is sufficient.
+b) Secondly, the Adjudicating Authority may consider all such objections
+of any PRA or unsuccessful RA when it takes up the issue of considering
+the resolution plan for its own approval under Sec.31 and not
+independently. This will save considerable time.
+17.2 Time, perhaps has arrived for the IBBI to contemplate bringing in
+necessary Regulation to black list those PRAs with the attitude such as the
+one which the appellant herein has put on display in this case from
+participating in any resolution process of any CD in future. Every PRA may
+be required to provide details of their earlier participation in any resolution
+plan in its EoI.
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Ins.) No. 530 of 2025
+Conclusion
+18. In effect, we find no merit in this appeal. Consequently,
+a) This appeal is dismissed.
+b) Since the appellant has unnecessarily interfered with the resolution
+process and halted it, a cost of Rs.15.0 lakhs is slapped on it.
+c) The cost which is directed to be paid is further directed to be distributed
+equally to all the operational creditors of the CD (for obvious reasons),
+and in their absence, to be added to the asset of the CD but outside the
+resolution plan to be disbursed as per the waterfall mechanism
+envisaged in Sec.53 of the IBC.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)

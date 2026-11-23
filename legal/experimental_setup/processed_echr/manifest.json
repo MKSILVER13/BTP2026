@@ -1,0 +1,2240 @@
+[
+  {
+    "id": "001-100469",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-100469.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-100469.json"
+  },
+  {
+    "id": "001-100543",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-100543.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-100543.json"
+  },
+  {
+    "id": "001-103155",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-103155.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-103155.json"
+  },
+  {
+    "id": "001-109029",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-109029.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-109029.json"
+  },
+  {
+    "id": "001-109034",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-109034.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-109034.json"
+  },
+  {
+    "id": "001-114076",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-114076.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-114076.json"
+  },
+  {
+    "id": "001-115395",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-115395.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-115395.json"
+  },
+  {
+    "id": "001-147601",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-147601.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-147601.json"
+  },
+  {
+    "id": "001-156271",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-156271.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-156271.json"
+  },
+  {
+    "id": "001-167801",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-167801.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-167801.json"
+  },
+  {
+    "id": "001-174060",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-174060.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-174060.json"
+  },
+  {
+    "id": "001-174968",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-174968.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-174968.json"
+  },
+  {
+    "id": "001-175121",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-175121.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-175121.json"
+  },
+  {
+    "id": "001-175669",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-175669.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-175669.json"
+  },
+  {
+    "id": "001-180838",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-180838.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-180838.json"
+  },
+  {
+    "id": "001-183387",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-183387.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-183387.json"
+  },
+  {
+    "id": "001-187930",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-187930.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-187930.json"
+  },
+  {
+    "id": "001-191749",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-191749.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-191749.json"
+  },
+  {
+    "id": "001-193608",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-193608.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-193608.json"
+  },
+  {
+    "id": "001-198708",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-198708.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-198708.json"
+  },
+  {
+    "id": "001-200437",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-200437.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-200437.json"
+  },
+  {
+    "id": "001-201756",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-201756.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-201756.json"
+  },
+  {
+    "id": "001-202417",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-202417.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-202417.json"
+  },
+  {
+    "id": "001-204826",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-204826.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-204826.json"
+  },
+  {
+    "id": "001-206160",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-206160.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-206160.json"
+  },
+  {
+    "id": "001-57518",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-57518.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-57518.json"
+  },
+  {
+    "id": "001-57827",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-57827.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-57827.json"
+  },
+  {
+    "id": "001-58116",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-58116.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-58116.json"
+  },
+  {
+    "id": "001-77936",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-77936.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-77936.json"
+  },
+  {
+    "id": "001-85152",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-85152.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-85152.json"
+  },
+  {
+    "id": "001-89287",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-89287.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-89287.json"
+  },
+  {
+    "id": "001-89813",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-89813.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-89813.json"
+  },
+  {
+    "id": "001-90755",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-90755.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-90755.json"
+  },
+  {
+    "id": "001-90969",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-90969.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-90969.json"
+  },
+  {
+    "id": "001-90977",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-90977.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-90977.json"
+  },
+  {
+    "id": "001-92418",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-92418.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-92418.json"
+  },
+  {
+    "id": "001-94204",
+    "split": "dev",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\texts\\001-94204.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\dev\\annotations\\001-94204.json"
+  },
+  {
+    "id": "001-101152",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-101152.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-101152.json"
+  },
+  {
+    "id": "001-113460",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-113460.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-113460.json"
+  },
+  {
+    "id": "001-115868",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-115868.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-115868.json"
+  },
+  {
+    "id": "001-116186",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-116186.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-116186.json"
+  },
+  {
+    "id": "001-120959",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-120959.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-120959.json"
+  },
+  {
+    "id": "001-122716",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-122716.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-122716.json"
+  },
+  {
+    "id": "001-138992",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-138992.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-138992.json"
+  },
+  {
+    "id": "001-144661",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-144661.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-144661.json"
+  },
+  {
+    "id": "001-151051",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-151051.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-151051.json"
+  },
+  {
+    "id": "001-169661",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-169661.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-169661.json"
+  },
+  {
+    "id": "001-170362",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-170362.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-170362.json"
+  },
+  {
+    "id": "001-173490",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-173490.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-173490.json"
+  },
+  {
+    "id": "001-175140",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-175140.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-175140.json"
+  },
+  {
+    "id": "001-177082",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-177082.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-177082.json"
+  },
+  {
+    "id": "001-179427",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-179427.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-179427.json"
+  },
+  {
+    "id": "001-185495",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-185495.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-185495.json"
+  },
+  {
+    "id": "001-187926",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-187926.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-187926.json"
+  },
+  {
+    "id": "001-200324",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-200324.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-200324.json"
+  },
+  {
+    "id": "001-206503",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-206503.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-206503.json"
+  },
+  {
+    "id": "001-57504",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-57504.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-57504.json"
+  },
+  {
+    "id": "001-57519",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-57519.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-57519.json"
+  },
+  {
+    "id": "001-58274",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-58274.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-58274.json"
+  },
+  {
+    "id": "001-60492",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-60492.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-60492.json"
+  },
+  {
+    "id": "001-60696",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-60696.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-60696.json"
+  },
+  {
+    "id": "001-60791",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-60791.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-60791.json"
+  },
+  {
+    "id": "001-61002",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-61002.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-61002.json"
+  },
+  {
+    "id": "001-61184",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-61184.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-61184.json"
+  },
+  {
+    "id": "001-61747",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-61747.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-61747.json"
+  },
+  {
+    "id": "001-72205",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-72205.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-72205.json"
+  },
+  {
+    "id": "001-84106",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-84106.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-84106.json"
+  },
+  {
+    "id": "001-86008",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-86008.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-86008.json"
+  },
+  {
+    "id": "001-86233",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-86233.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-86233.json"
+  },
+  {
+    "id": "001-86253",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-86253.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-86253.json"
+  },
+  {
+    "id": "001-87567",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-87567.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-87567.json"
+  },
+  {
+    "id": "001-90975",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-90975.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-90975.json"
+  },
+  {
+    "id": "001-94206",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-94206.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-94206.json"
+  },
+  {
+    "id": "001-96585",
+    "split": "test",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\texts\\001-96585.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\test\\annotations\\001-96585.json"
+  },
+  {
+    "id": "001-100897",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-100897.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-100897.json"
+  },
+  {
+    "id": "001-101647",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-101647.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-101647.json"
+  },
+  {
+    "id": "001-102254",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-102254.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-102254.json"
+  },
+  {
+    "id": "001-102617",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-102617.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-102617.json"
+  },
+  {
+    "id": "001-102711",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-102711.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-102711.json"
+  },
+  {
+    "id": "001-102787",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-102787.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-102787.json"
+  },
+  {
+    "id": "001-102795",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-102795.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-102795.json"
+  },
+  {
+    "id": "001-102799",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-102799.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-102799.json"
+  },
+  {
+    "id": "001-103027",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-103027.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-103027.json"
+  },
+  {
+    "id": "001-103273",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-103273.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-103273.json"
+  },
+  {
+    "id": "001-105217",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-105217.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-105217.json"
+  },
+  {
+    "id": "001-105291",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-105291.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-105291.json"
+  },
+  {
+    "id": "001-105415",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-105415.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-105415.json"
+  },
+  {
+    "id": "001-106257",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-106257.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-106257.json"
+  },
+  {
+    "id": "001-107713",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-107713.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-107713.json"
+  },
+  {
+    "id": "001-108686",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-108686.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-108686.json"
+  },
+  {
+    "id": "001-108957",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-108957.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-108957.json"
+  },
+  {
+    "id": "001-109191",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-109191.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-109191.json"
+  },
+  {
+    "id": "001-109565",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-109565.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-109565.json"
+  },
+  {
+    "id": "001-110144",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-110144.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-110144.json"
+  },
+  {
+    "id": "001-110452",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-110452.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-110452.json"
+  },
+  {
+    "id": "001-110812",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-110812.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-110812.json"
+  },
+  {
+    "id": "001-111688",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-111688.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-111688.json"
+  },
+  {
+    "id": "001-111890",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-111890.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-111890.json"
+  },
+  {
+    "id": "001-112534",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-112534.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-112534.json"
+  },
+  {
+    "id": "001-113390",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-113390.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-113390.json"
+  },
+  {
+    "id": "001-115862",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-115862.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-115862.json"
+  },
+  {
+    "id": "001-116020",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-116020.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-116020.json"
+  },
+  {
+    "id": "001-116076",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-116076.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-116076.json"
+  },
+  {
+    "id": "001-116413",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-116413.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-116413.json"
+  },
+  {
+    "id": "001-120071",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-120071.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-120071.json"
+  },
+  {
+    "id": "001-121906",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-121906.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-121906.json"
+  },
+  {
+    "id": "001-122426",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-122426.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-122426.json"
+  },
+  {
+    "id": "001-122975",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-122975.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-122975.json"
+  },
+  {
+    "id": "001-127229",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-127229.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-127229.json"
+  },
+  {
+    "id": "001-128043",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-128043.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-128043.json"
+  },
+  {
+    "id": "001-128198",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-128198.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-128198.json"
+  },
+  {
+    "id": "001-138580",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-138580.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-138580.json"
+  },
+  {
+    "id": "001-138603",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-138603.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-138603.json"
+  },
+  {
+    "id": "001-140022",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-140022.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-140022.json"
+  },
+  {
+    "id": "001-140927",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-140927.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-140927.json"
+  },
+  {
+    "id": "001-141170",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-141170.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-141170.json"
+  },
+  {
+    "id": "001-142398",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-142398.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-142398.json"
+  },
+  {
+    "id": "001-142673",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-142673.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-142673.json"
+  },
+  {
+    "id": "001-144672",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-144672.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-144672.json"
+  },
+  {
+    "id": "001-144935",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-144935.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-144935.json"
+  },
+  {
+    "id": "001-145564",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-145564.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-145564.json"
+  },
+  {
+    "id": "001-145741",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-145741.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-145741.json"
+  },
+  {
+    "id": "001-146565",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-146565.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-146565.json"
+  },
+  {
+    "id": "001-147117",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-147117.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-147117.json"
+  },
+  {
+    "id": "001-147681",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-147681.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-147681.json"
+  },
+  {
+    "id": "001-148268",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-148268.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-148268.json"
+  },
+  {
+    "id": "001-148629",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-148629.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-148629.json"
+  },
+  {
+    "id": "001-150800",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-150800.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-150800.json"
+  },
+  {
+    "id": "001-152598",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-152598.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-152598.json"
+  },
+  {
+    "id": "001-152647",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-152647.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-152647.json"
+  },
+  {
+    "id": "001-152731",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-152731.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-152731.json"
+  },
+  {
+    "id": "001-156261",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-156261.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-156261.json"
+  },
+  {
+    "id": "001-156273",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-156273.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-156273.json"
+  },
+  {
+    "id": "001-156388",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-156388.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-156388.json"
+  },
+  {
+    "id": "001-156518",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-156518.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-156518.json"
+  },
+  {
+    "id": "001-157531",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-157531.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-157531.json"
+  },
+  {
+    "id": "001-158290",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-158290.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-158290.json"
+  },
+  {
+    "id": "001-158861",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-158861.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-158861.json"
+  },
+  {
+    "id": "001-159782",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-159782.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-159782.json"
+  },
+  {
+    "id": "001-159880",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-159880.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-159880.json"
+  },
+  {
+    "id": "001-160020",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-160020.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-160020.json"
+  },
+  {
+    "id": "001-160313",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-160313.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-160313.json"
+  },
+  {
+    "id": "001-161380",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-161380.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-161380.json"
+  },
+  {
+    "id": "001-161733",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-161733.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-161733.json"
+  },
+  {
+    "id": "001-161760",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-161760.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-161760.json"
+  },
+  {
+    "id": "001-162213",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-162213.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-162213.json"
+  },
+  {
+    "id": "001-162704",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-162704.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-162704.json"
+  },
+  {
+    "id": "001-163661",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-163661.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-163661.json"
+  },
+  {
+    "id": "001-164917",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-164917.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-164917.json"
+  },
+  {
+    "id": "001-166958",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-166958.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-166958.json"
+  },
+  {
+    "id": "001-166963",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-166963.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-166963.json"
+  },
+  {
+    "id": "001-167557",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-167557.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-167557.json"
+  },
+  {
+    "id": "001-167797",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-167797.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-167797.json"
+  },
+  {
+    "id": "001-168377",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-168377.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-168377.json"
+  },
+  {
+    "id": "001-169662",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-169662.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-169662.json"
+  },
+  {
+    "id": "001-170456",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-170456.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-170456.json"
+  },
+  {
+    "id": "001-170462",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-170462.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-170462.json"
+  },
+  {
+    "id": "001-172073",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-172073.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-172073.json"
+  },
+  {
+    "id": "001-172077",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-172077.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-172077.json"
+  },
+  {
+    "id": "001-173091",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-173091.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-173091.json"
+  },
+  {
+    "id": "001-173261",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-173261.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-173261.json"
+  },
+  {
+    "id": "001-173800",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-173800.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-173800.json"
+  },
+  {
+    "id": "001-174419",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-174419.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-174419.json"
+  },
+  {
+    "id": "001-175142",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-175142.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-175142.json"
+  },
+  {
+    "id": "001-175481",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-175481.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-175481.json"
+  },
+  {
+    "id": "001-177079",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-177079.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-177079.json"
+  },
+  {
+    "id": "001-177341",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-177341.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-177341.json"
+  },
+  {
+    "id": "001-177665",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-177665.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-177665.json"
+  },
+  {
+    "id": "001-178175",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-178175.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-178175.json"
+  },
+  {
+    "id": "001-178747",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-178747.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-178747.json"
+  },
+  {
+    "id": "001-178904",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-178904.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-178904.json"
+  },
+  {
+    "id": "001-179228",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-179228.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-179228.json"
+  },
+  {
+    "id": "001-180279",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-180279.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-180279.json"
+  },
+  {
+    "id": "001-180486",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-180486.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-180486.json"
+  },
+  {
+    "id": "001-180505",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-180505.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-180505.json"
+  },
+  {
+    "id": "001-182208",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-182208.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-182208.json"
+  },
+  {
+    "id": "001-182210",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-182210.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-182210.json"
+  },
+  {
+    "id": "001-182215",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-182215.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-182215.json"
+  },
+  {
+    "id": "001-182595",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-182595.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-182595.json"
+  },
+  {
+    "id": "001-182867",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-182867.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-182867.json"
+  },
+  {
+    "id": "001-182868",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-182868.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-182868.json"
+  },
+  {
+    "id": "001-182876",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-182876.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-182876.json"
+  },
+  {
+    "id": "001-183296",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-183296.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-183296.json"
+  },
+  {
+    "id": "001-183543",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-183543.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-183543.json"
+  },
+  {
+    "id": "001-184476",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-184476.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-184476.json"
+  },
+  {
+    "id": "001-184525",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-184525.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-184525.json"
+  },
+  {
+    "id": "001-185231",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-185231.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-185231.json"
+  },
+  {
+    "id": "001-185312",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-185312.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-185312.json"
+  },
+  {
+    "id": "001-186116",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-186116.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-186116.json"
+  },
+  {
+    "id": "001-186135",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-186135.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-186135.json"
+  },
+  {
+    "id": "001-186439",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-186439.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-186439.json"
+  },
+  {
+    "id": "001-186451",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-186451.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-186451.json"
+  },
+  {
+    "id": "001-187419",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-187419.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-187419.json"
+  },
+  {
+    "id": "001-187540",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-187540.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-187540.json"
+  },
+  {
+    "id": "001-187731",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-187731.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-187731.json"
+  },
+  {
+    "id": "001-187739",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-187739.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-187739.json"
+  },
+  {
+    "id": "001-189591",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-189591.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-189591.json"
+  },
+  {
+    "id": "001-191364",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-191364.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-191364.json"
+  },
+  {
+    "id": "001-192205",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-192205.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-192205.json"
+  },
+  {
+    "id": "001-192210",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-192210.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-192210.json"
+  },
+  {
+    "id": "001-193069",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-193069.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-193069.json"
+  },
+  {
+    "id": "001-193078",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-193078.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-193078.json"
+  },
+  {
+    "id": "001-193260",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-193260.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-193260.json"
+  },
+  {
+    "id": "001-194317",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-194317.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-194317.json"
+  },
+  {
+    "id": "001-194444",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-194444.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-194444.json"
+  },
+  {
+    "id": "001-194735",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-194735.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-194735.json"
+  },
+  {
+    "id": "001-195863",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-195863.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-195863.json"
+  },
+  {
+    "id": "001-196377",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-196377.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-196377.json"
+  },
+  {
+    "id": "001-197098",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-197098.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-197098.json"
+  },
+  {
+    "id": "001-198472",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-198472.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-198472.json"
+  },
+  {
+    "id": "001-199075",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-199075.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-199075.json"
+  },
+  {
+    "id": "001-199381",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-199381.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-199381.json"
+  },
+  {
+    "id": "001-199636",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-199636.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-199636.json"
+  },
+  {
+    "id": "001-200333",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-200333.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-200333.json"
+  },
+  {
+    "id": "001-200436",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-200436.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-200436.json"
+  },
+  {
+    "id": "001-200444",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-200444.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-200444.json"
+  },
+  {
+    "id": "001-200719",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-200719.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-200719.json"
+  },
+  {
+    "id": "001-201326",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-201326.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-201326.json"
+  },
+  {
+    "id": "001-201348",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-201348.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-201348.json"
+  },
+  {
+    "id": "001-201647",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-201647.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-201647.json"
+  },
+  {
+    "id": "001-201896",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-201896.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-201896.json"
+  },
+  {
+    "id": "001-202416",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-202416.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-202416.json"
+  },
+  {
+    "id": "001-202433",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-202433.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-202433.json"
+  },
+  {
+    "id": "001-202461",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-202461.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-202461.json"
+  },
+  {
+    "id": "001-202520",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-202520.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-202520.json"
+  },
+  {
+    "id": "001-202693",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-202693.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-202693.json"
+  },
+  {
+    "id": "001-202989",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-202989.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-202989.json"
+  },
+  {
+    "id": "001-203003",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-203003.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-203003.json"
+  },
+  {
+    "id": "001-203631",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-203631.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-203631.json"
+  },
+  {
+    "id": "001-205146",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-205146.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-205146.json"
+  },
+  {
+    "id": "001-205378",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-205378.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-205378.json"
+  },
+  {
+    "id": "001-206155",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-206155.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-206155.json"
+  },
+  {
+    "id": "001-206512",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-206512.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-206512.json"
+  },
+  {
+    "id": "001-207017",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-207017.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-207017.json"
+  },
+  {
+    "id": "001-57438",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57438.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57438.json"
+  },
+  {
+    "id": "001-57491",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57491.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57491.json"
+  },
+  {
+    "id": "001-57496",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57496.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57496.json"
+  },
+  {
+    "id": "001-57533",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57533.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57533.json"
+  },
+  {
+    "id": "001-57575",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57575.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57575.json"
+  },
+  {
+    "id": "001-57586",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57586.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57586.json"
+  },
+  {
+    "id": "001-57626",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57626.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57626.json"
+  },
+  {
+    "id": "001-57627",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57627.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57627.json"
+  },
+  {
+    "id": "001-57640",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57640.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57640.json"
+  },
+  {
+    "id": "001-57767",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57767.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57767.json"
+  },
+  {
+    "id": "001-57887",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57887.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57887.json"
+  },
+  {
+    "id": "001-57895",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57895.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57895.json"
+  },
+  {
+    "id": "001-57911",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57911.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57911.json"
+  },
+  {
+    "id": "001-57927",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57927.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57927.json"
+  },
+  {
+    "id": "001-57929",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57929.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57929.json"
+  },
+  {
+    "id": "001-57934",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57934.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57934.json"
+  },
+  {
+    "id": "001-57955",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57955.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57955.json"
+  },
+  {
+    "id": "001-57960",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57960.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57960.json"
+  },
+  {
+    "id": "001-57965",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57965.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57965.json"
+  },
+  {
+    "id": "001-57984",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-57984.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-57984.json"
+  },
+  {
+    "id": "001-58022",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58022.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58022.json"
+  },
+  {
+    "id": "001-58030",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58030.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58030.json"
+  },
+  {
+    "id": "001-58033",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58033.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58033.json"
+  },
+  {
+    "id": "001-58068",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58068.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58068.json"
+  },
+  {
+    "id": "001-58098",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58098.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58098.json"
+  },
+  {
+    "id": "001-58208",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58208.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58208.json"
+  },
+  {
+    "id": "001-58272",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58272.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58272.json"
+  },
+  {
+    "id": "001-58448",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58448.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58448.json"
+  },
+  {
+    "id": "001-58497",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58497.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58497.json"
+  },
+  {
+    "id": "001-58586",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58586.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58586.json"
+  },
+  {
+    "id": "001-58736",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58736.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58736.json"
+  },
+  {
+    "id": "001-58911",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58911.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58911.json"
+  },
+  {
+    "id": "001-58922",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-58922.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-58922.json"
+  },
+  {
+    "id": "001-59160",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-59160.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-59160.json"
+  },
+  {
+    "id": "001-59194",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-59194.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-59194.json"
+  },
+  {
+    "id": "001-59221",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-59221.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-59221.json"
+  },
+  {
+    "id": "001-59353",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-59353.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-59353.json"
+  },
+  {
+    "id": "001-59621",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-59621.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-59621.json"
+  },
+  {
+    "id": "001-59868",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-59868.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-59868.json"
+  },
+  {
+    "id": "001-59998",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-59998.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-59998.json"
+  },
+  {
+    "id": "001-60163",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60163.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60163.json"
+  },
+  {
+    "id": "001-60324",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60324.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60324.json"
+  },
+  {
+    "id": "001-60431",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60431.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60431.json"
+  },
+  {
+    "id": "001-60612",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60612.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60612.json"
+  },
+  {
+    "id": "001-60733",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60733.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60733.json"
+  },
+  {
+    "id": "001-60824",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60824.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60824.json"
+  },
+  {
+    "id": "001-60891",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60891.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60891.json"
+  },
+  {
+    "id": "001-60898",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60898.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60898.json"
+  },
+  {
+    "id": "001-60915",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60915.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60915.json"
+  },
+  {
+    "id": "001-60917",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60917.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60917.json"
+  },
+  {
+    "id": "001-60958",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-60958.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-60958.json"
+  },
+  {
+    "id": "001-61069",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61069.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61069.json"
+  },
+  {
+    "id": "001-61099",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61099.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61099.json"
+  },
+  {
+    "id": "001-61135",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61135.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61135.json"
+  },
+  {
+    "id": "001-61164",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61164.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61164.json"
+  },
+  {
+    "id": "001-61228",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61228.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61228.json"
+  },
+  {
+    "id": "001-61247",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61247.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61247.json"
+  },
+  {
+    "id": "001-61294",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61294.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61294.json"
+  },
+  {
+    "id": "001-61619",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61619.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61619.json"
+  },
+  {
+    "id": "001-61628",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61628.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61628.json"
+  },
+  {
+    "id": "001-61653",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61653.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61653.json"
+  },
+  {
+    "id": "001-61663",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61663.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61663.json"
+  },
+  {
+    "id": "001-61686",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61686.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61686.json"
+  },
+  {
+    "id": "001-61798",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61798.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61798.json"
+  },
+  {
+    "id": "001-61853",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-61853.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-61853.json"
+  },
+  {
+    "id": "001-67418",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-67418.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-67418.json"
+  },
+  {
+    "id": "001-67478",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-67478.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-67478.json"
+  },
+  {
+    "id": "001-67930",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-67930.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-67930.json"
+  },
+  {
+    "id": "001-68373",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-68373.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-68373.json"
+  },
+  {
+    "id": "001-68920",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-68920.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-68920.json"
+  },
+  {
+    "id": "001-69239",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-69239.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-69239.json"
+  },
+  {
+    "id": "001-69315",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-69315.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-69315.json"
+  },
+  {
+    "id": "001-69469",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-69469.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-69469.json"
+  },
+  {
+    "id": "001-70132",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-70132.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-70132.json"
+  },
+  {
+    "id": "001-70373",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-70373.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-70373.json"
+  },
+  {
+    "id": "001-71210",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-71210.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-71210.json"
+  },
+  {
+    "id": "001-71303",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-71303.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-71303.json"
+  },
+  {
+    "id": "001-71483",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-71483.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-71483.json"
+  },
+  {
+    "id": "001-72207",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-72207.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-72207.json"
+  },
+  {
+    "id": "001-75337",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-75337.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-75337.json"
+  },
+  {
+    "id": "001-75423",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-75423.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-75423.json"
+  },
+  {
+    "id": "001-75858",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-75858.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-75858.json"
+  },
+  {
+    "id": "001-76453",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-76453.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-76453.json"
+  },
+  {
+    "id": "001-77042",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-77042.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-77042.json"
+  },
+  {
+    "id": "001-78053",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-78053.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-78053.json"
+  },
+  {
+    "id": "001-79996",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-79996.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-79996.json"
+  },
+  {
+    "id": "001-80083",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-80083.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-80083.json"
+  },
+  {
+    "id": "001-80619",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-80619.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-80619.json"
+  },
+  {
+    "id": "001-81142",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-81142.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-81142.json"
+  },
+  {
+    "id": "001-81323",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-81323.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-81323.json"
+  },
+  {
+    "id": "001-82560",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-82560.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-82560.json"
+  },
+  {
+    "id": "001-82711",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-82711.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-82711.json"
+  },
+  {
+    "id": "001-83294",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-83294.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-83294.json"
+  },
+  {
+    "id": "001-83747",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-83747.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-83747.json"
+  },
+  {
+    "id": "001-83788",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-83788.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-83788.json"
+  },
+  {
+    "id": "001-84586",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-84586.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-84586.json"
+  },
+  {
+    "id": "001-85019",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-85019.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-85019.json"
+  },
+  {
+    "id": "001-86364",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-86364.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-86364.json"
+  },
+  {
+    "id": "001-86687",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-86687.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-86687.json"
+  },
+  {
+    "id": "001-87156",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-87156.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-87156.json"
+  },
+  {
+    "id": "001-87207",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-87207.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-87207.json"
+  },
+  {
+    "id": "001-87934",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-87934.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-87934.json"
+  },
+  {
+    "id": "001-88719",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-88719.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-88719.json"
+  },
+  {
+    "id": "001-89283",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-89283.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-89283.json"
+  },
+  {
+    "id": "001-89964",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-89964.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-89964.json"
+  },
+  {
+    "id": "001-90051",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-90051.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-90051.json"
+  },
+  {
+    "id": "001-90433",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-90433.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-90433.json"
+  },
+  {
+    "id": "001-90627",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-90627.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-90627.json"
+  },
+  {
+    "id": "001-90967",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-90967.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-90967.json"
+  },
+  {
+    "id": "001-92147",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-92147.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-92147.json"
+  },
+  {
+    "id": "001-92572",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-92572.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-92572.json"
+  },
+  {
+    "id": "001-92767",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-92767.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-92767.json"
+  },
+  {
+    "id": "001-93250",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-93250.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-93250.json"
+  },
+  {
+    "id": "001-93419",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-93419.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-93419.json"
+  },
+  {
+    "id": "001-93690",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-93690.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-93690.json"
+  },
+  {
+    "id": "001-94214",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-94214.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-94214.json"
+  },
+  {
+    "id": "001-94222",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-94222.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-94222.json"
+  },
+  {
+    "id": "001-94229",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-94229.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-94229.json"
+  },
+  {
+    "id": "001-94236",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-94236.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-94236.json"
+  },
+  {
+    "id": "001-94238",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-94238.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-94238.json"
+  },
+  {
+    "id": "001-95300",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-95300.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-95300.json"
+  },
+  {
+    "id": "001-95768",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-95768.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-95768.json"
+  },
+  {
+    "id": "001-96389",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-96389.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-96389.json"
+  },
+  {
+    "id": "001-96457",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-96457.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-96457.json"
+  },
+  {
+    "id": "001-96587",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-96587.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-96587.json"
+  },
+  {
+    "id": "001-97060",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-97060.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-97060.json"
+  },
+  {
+    "id": "001-97087",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-97087.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-97087.json"
+  },
+  {
+    "id": "001-97963",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-97963.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-97963.json"
+  },
+  {
+    "id": "001-97969",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-97969.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-97969.json"
+  },
+  {
+    "id": "001-98064",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-98064.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-98064.json"
+  },
+  {
+    "id": "001-98264",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-98264.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-98264.json"
+  },
+  {
+    "id": "001-98332",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-98332.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-98332.json"
+  },
+  {
+    "id": "001-98669",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-98669.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-98669.json"
+  },
+  {
+    "id": "001-98684",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-98684.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-98684.json"
+  },
+  {
+    "id": "001-98688",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-98688.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-98688.json"
+  },
+  {
+    "id": "001-99817",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-99817.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-99817.json"
+  },
+  {
+    "id": "001-99828",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-99828.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-99828.json"
+  },
+  {
+    "id": "001-99832",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-99832.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-99832.json"
+  },
+  {
+    "id": "001-99883",
+    "split": "train",
+    "input_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\texts\\001-99883.txt",
+    "annotation_file": "E:\\Docs\\intern\\AAintern\\legal\\experimental_setup\\processed_echr\\train\\annotations\\001-99883.json"
+  }
+]

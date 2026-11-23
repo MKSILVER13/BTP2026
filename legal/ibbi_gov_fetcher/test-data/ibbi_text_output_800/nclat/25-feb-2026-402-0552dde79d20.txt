@@ -1,0 +1,1625 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Ins) No. 1013 of 2024
+
+[Arising out of the Order dated 11.03.2024, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Mumbai Bench-IV), IA 3965(MB)2023 IN C.P. (IB)/860(MB)2021]
+
+IN THE MATTER OF:
+
+KOTAK MAHINDRA BANK LTD.
+7th FLOOR, AMBADEEP BUILDING,
+14, K.G. MARG,
+NEW DELHI-110001
+EMAIL: ANUPAMJSINGH@GMAIL.COM
+
+...Appellant
+
+Versus
+
+MR. ANIL TAYAL,
+INTERIM RESOLUTION PROFESSIONAL
+FOR
+M/S
+INFINIA
+SOLUTIONS
+AND
+SERVICES PVT.LTD.
+201, SAGAR PLAZA,
+DISTRICT CENTRE,
+LAXMI NAGAR,
+New Delhi-110092
+EMAIL:cirp.infinia@gmail.com;
+caaniltayal@gmail.com
+
+..Respondent
+
+Present:
+
+For Appellant
+:
+
+Mr. Karan Gandhi, Mr. A. Sharma, Mr. Anupam
+Singh, Advocates.
+For
+Respondent
+:
+
+Mr. Abhishek Anand, Mr. Karan Kohli, Ms. Palak
+Kalra, Ms. Vanshika Agrawal, Advocates.
+
+[PAGE 2]
+Company Appeal (AT) (Ins) No. 1013 of 2024 2 of 35
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Justice Mohd. Faiz Alam Khan, Member (Judicial)]
+
+The instant appeal has been preferred by the appellant- Kotak
+Mahindra Bank Ltd. under Section 61 (1) of the Insolvency and Bankruptcy
+Code, 2016 (Code) assailing order dated 11.03.2024, passed by the Ld.
+National Company Law Tribunal, Mumbai (Adjudicating Authority) in IA No.
+3965 of 2023 by the Interim Resolution Professional (IRP) in CP IB 860 (MB)
+2021 titled ‘Radhika Chatterjee vs. Infinia Solutions and Services Pvt. Ltd.’
+whereby the application moved by the IRP for issuance of appropriate
+directions has been dismissed by Ld. Tribunal with the observation that
+there is no provision in the Code to direct/ permit a claimant to withdraw its
+claim.
+2.
+The necessary facts required for disposal of instant appeal are that
+petition CP IB 860 (MB) 2021 titled ‘Radhika Chatterji vs. Infinia Solutions
+and Services Pvt. Ltd.’ was filed against the aforesaid CD and vide order
+dated 28.04.2023, the Insolvency Process was initiated against the aforesaid
+CD
+and
+consequently
+moratorium
+was
+declared
+and
+the
+public
+announcement was made by the IRP on 06.05.2023, in pursuance of which
+the appellant being the financial creditor filed claim vide email dated
+26.05.2023, for an amount of Rs. 4,35,46,467/- and after receiving the
+claim the IRP verified and admitted the claim to the tune of Rs.
+4,28,73,231/-.
+3.
+It is further reflected from the record that in terms of Section 21 of the
+Code the IRP constituted Committee of Creditors and convened its first
+
+[PAGE 3]
+Company Appeal (AT) (Ins) No. 1013 of 2024 3 of 35
+
+meeting on 29.05.2023 which was also attended by the representatives of
+the appellant.
+4.
+It is further reflected that Appellant on 29.05.2023 sent an email
+seeking withdrawal of its claim. The relevant extract of email dated
+29.05.2023 send by appellant to the IRP is reproduced as under:
+“Ref: Withdrawal of Claim filed on behalf of Kotak
+Mahindra Bank Ltd.
+Dear Mr. Tayal,
+In furtherance to our discussion during the CoC Meeting
+held today i.e. 29.05.2023, on behalf of Kotak Mahindra
+Bank Ltd., we would like to mention that we formally are
+withdrawing from the CIRP process and accordingly, we
+state that, without prejudice to the rights available to us
+under law against the Borrower and other obligors, the
+claim filed by Kotak Mahindra Bank Ltd. may be rejected
+or considered as withdrawn.
+Furthermore,
+Kotak
+Mahindra
+Bank
+Ltd.
+shall
+independently be undertaking the process for recovering
+its dues from the Borrower/ Guarantors/ Mortgagors and
+other obligors as per the rights and remedy available to it
+under law.
+
+Regards,
+
+SS Rathore
+9828148410”
+
+5.
+It is further reflected that during the first meeting of the CoC the
+authorized representative of the appellant informed that the appellant wish
+and desire to withdraw the claim from the CIRP of the CD and also
+requested to defer all the agendas to be considered in the next meeting of
+the CoC and on 31.05.2023, IRP apprise the appellant regarding the setting
+up of e-voting window for the Resolution discussed in the first meeting of the
+CoC, however the appellant vide email dated 31.05.2023 informed that they
+wish to formally withdraw their claim as financial creditor and do not wish
+
+[PAGE 4]
+Company Appeal (AT) (Ins) No. 1013 of 2024 4 of 35
+
+to participate in the CoC process. The relevant extract of the email dated
+31.05.2023 sent by the IRP to the appellant and also by the appellant to the
+IRP on 31.05.2023, are reproduced as under:
+“From:
+INFINIA
+SOLUTIONS
+&
+SERVICES
+PRIVATE
+LIMITED
+<cirp.infinia@gmail.com>
+Sent: Wednesday, May 31, 2023 1:07 AM
+To: Sudhir Kumar (Consumer Bank, KMBL) <Sudhir.Kumar1@kotak.com>;
+Sagar Diwan (Consumer Bank, KMBL) <sagar.diwan@kotak.com>; Sarwan
+Singh (Consumer Bank, KMBL) <sarwan.singh@kotak.com>
+Cc: caaniltayal@gmail.com; INFINIA SOLUTIONS & SERVICES PRIVATE
+LIMITED <cirp.infinia@gmail.com>
+Subject: E-VOTING WINDOW SETUP FOR THE RESOLUTIONS PROPOSED IN
+FIRST MEETING OF COMMITTEE OF CREDITORS OF M/S INFINIA
+SOLUTIONS & SERVICES PRIVATE LIMITED HELD ON MONDAY 29TH MAY,
+2023 AT 03:30 P.M. VIA
+
+""The Sender of this email is from non Kotak
+domain""
+Dear Member of COC,
+
+This is to inform you that the e-voting window has been
+set up by the undersigned for the Resolutions discussed in
+the First meeting of COC held on Monday 29th day of May,
+2023 at 03:30 P.M. via Zoom Platform. It may further be
+noted that the e-voting window shall remain open from
+Wednesday 31.05.2023 at 10:00 A.M. till Thursday
+01.06.2023 at 10:00 A.M.
+Further, the link to cast the votes has been sent at the e-
+mail id i.e. sarwan.singh@kotak.com as provided to the
+undersigned and the same is mentioned below:
+
+E-Voting
+will
+be
+done
+at
+the
+following
+url:
+https://infiniasolutions.evotes.in
+
+This is for your kind information.
+
+Thanks and Regards
+For and on behalf of
+Anil Tayal
+Interim Resolution Professional
+In the matter of M/s. Infinia Solutions & Services Private
+Limited
+IBBI Reg No.:IBBI/IPA-001/IP-P01118/2018-19/11818
+AFA Validity: 10.03.2023- 09.03.2024
+Address: 201, Sagar Plaza, District Centre Laxmi Nagar,
+Delhi-110092
+Email: cirp.infinia@gmail.com, caaniltayal@gmail.com”
+
+[PAGE 5]
+Company Appeal (AT) (Ins) No. 1013 of 2024 5 of 35
+
+“Sarwan.singh@kotak.com sarwan.singh@kotak.com 31 May 2023 at 13.47
+To: caaniltayal@gmail.com, cirp.infinia@gmail.com
+Cc: Sudhir.Kumar1@kotak.com, sagar.diwan@kotak.com
+
+Dear Mr. Tayal,
+
+We have formally informed you during the CoC as well as
+our email dated 29.05.2023 that we have formally
+withdrawn our claim as financial creditor and do not wish
+to participate in the CoC process. Reason for the same is
+that as a financial institution we have analyzed the
+information available and after applying our commercial
+wisdom, we are convinced that nothing fruitful will be
+achieved from the present CIRP process. Even you have
+admitted and are convinced that the company has nothing
+substantial and even the filings/ information available is
+of no benefit for the CIRP process at this stage. We have
+further informed that we shall be independently taking
+measures qua the facilities granted to the Borrower.
+
+Accordingly, we had also requested not to share the
+agendas for voting with us as we are not authorized to
+vote on the same, having no role in the present process.
+We reiterate our request and humbly request you to return
+our claim as withdrawn and proceed with the remaining
+creditors, as permissible under law,
+
+Regards,
+
+Sarwan Singh”
+
+6.
+It is also reflected that in pursuance of the aforesaid development
+Respondent/IRP filed the aforesaid IA being no. 2216 of 2023 under Section
+21 (1) of the Code read with Regulation 16 and 17 (1) of CIRP Regulations,
+2016 for placing on record the constitution of CoC which was certified by
+the Ld. Tribunal vide order dated 01.06.2023.
+7.
+It is further reflected that another application being IA No. 2312 of
+2023 was filed by the IRP to place on record the report certifying the
+
+[PAGE 6]
+Company Appeal (AT) (Ins) No. 1013 of 2024 6 of 35
+
+reconstitution of the CoC and vide order dated 06.06.2023, the same was
+also taken on record by Ld. Adjudicating Authority.
+8.
+It is further reflected that on the agendas put forth by the IRP for the
+voting of the members of the CoC the appellant did not cast its vote which
+was held on 01.06.2023 and on 02.06.2023, the IRP apprise the appellant
+that there is no expressed provision in the Code which allows a creditor to
+withdraw its claim during the CIRP of the CD and in this regard reliance was
+placed on the judgment of this Appellate Tribunal passed in Mr. K.N.
+Rajakumar vs. V Nagarajan and Ors, CA (AT) (Ins) No. 48 of 2021.
+9.
+It is also reflected that vide email dated 05.06.2023, Respondent Bank
+informed the IRP that they have taken a commercial call to stay out of the
+insolvency process and stating that the IRP may proceed with the other
+creditors or may refer the matter to Ld. Adjudicating Authority. The relevant
+excerpt of the email sent by the appellant to the IRP is also reproduced as
+under:
+Dear Sir,
+
+Thank you for your email.
+
+We have examined the contents of your email and would
+like to reiterate that engaging in the CIRP process is not a
+cost-effective exercise for the organization and as such, we
+have already taken a commercial call to stay out of the
+process. Said factum has been duly communicated during
+the 1st meeting itself and as such no prejudice will be
+caused to anyone if we opt out from the process. The law
+and the code permits you to engage with the other
+creditors and proceed further. As such there is no party
+which shall be effected by this decision. The Hon’ble Apex
+Court of India have time and again given weightage to
+commercial wisdom of CoC and it is trite that commercial
+wisdom of a financial creditor will have to be respected.
+
+[PAGE 7]
+Company Appeal (AT) (Ins) No. 1013 of 2024 7 of 35
+
+With utmost respect we would like to point out that there is
+no
+express
+provision
+in
+the
+IBC
+which
+prohibits
+withdrawal from the CoC in the very first meeting of the
+CoC i.e. at its very inception. Importantly, the judgment
+referred by your good self is not applicable in the present
+factual scenario as the factual matrix and the issues
+raised in the matter are absolutely different. The judgment
+specifically states that the CIRP process was more than
+three years old and that ‘Resolution Professional’ has no
+‘Adjudicatory Power’ under the IBC. Owing to the same,
+we would like to mention that as such you have no
+authority to even reject the decision of a financial creditor
+in these facts and circumstances. However, you have gone
+ahead and rejected the decision which in itself is contrary
+to the provisions of the code.
+
+Without prejudice to our rights, we would like to mention
+that we do not wish to engage in pointing out the fallacies
+of the process being followed herein but we fail to
+understand the insistence herein. As such you yourself
+have acknowledged during the 01st CoC meeting that there
+is nothing in this company and even the balance sheet for
+the last 05 years is not available for any further
+evaluation.
+
+We would like to further elaborate that the Code envisages
+the supremacy of the commercial wisdom of the CoC. It
+has been duly informed to you that as a financial
+institution, we have already examined the credentials of
+the corporate debtor and are certain that this CIRP process
+would not be a fruitful exercise but in fact burden as
+further. Any further involvement on our part in the process
+would not only cause further losses to us but also affect
+our resources. As custodian of public money, we have
+taken a commercial decision not to engage in the process
+and waste public money in this process.
+
+Most importantly, the claim filed on behalf of Kotak
+Mahindra Bank Ltd, was itself belated and ought not to
+have been admitted without following due process of law.
+However, showing regard to the process, we felt it would
+be
+appropriate
+to formally
+inform
+you
+about
+our
+withdrawal from the process in the first meeting of the
+CoC.
+
+At the end, we would like to mention and reiterate that you
+may proceed with the other creditors or may refer to the
+matter to the adjudicating authority. As such, as a
+financial institution and custodian of public money, we
+
+[PAGE 8]
+Company Appeal (AT) (Ins) No. 1013 of 2024 8 of 35
+
+cannot be forced and burdened with this process and bear
+its costs.
+
+Regards,
+
+Sarwan Singh”
+
+10.
+It is also reflected that the IRP vide email dated 08.06.2023, replied to
+the appellant and clarified that he is not insisting the Respondent to be a
+part of the CoC, however, in absence of any expressed provision and in
+absence of adjudicatory power he cannot allow Respondent to withdraw the
+claim. The relevant excerpt of the email sent by the IRP to the appellant on
+08.06.2023 is also reproduced herein below:
+“Dear Sir,
+In reference to the trailing mail, undersigned wants to
+clarify that he is not insisting Kotak Mahindra Bank for
+continuing in the Committee of Creditors of the Corporate
+Debtor namely Infinia Solutions & Services Private Limited.
+The undersigned has only brought to your notice that in
+the absence of any express provisions and furthermore, in
+the absence of any adjudicatory power, the RP cannot
+allow Kotak Mahindra Bank to withdraw the claim from
+the CIRP of the Corporate Debtor.
+
+Kindly note that in order to withdraw your claim from the
+CIRP of the Corporate Debtor, you will have to approach
+the Hon'ble Adjudicating Authority i.e. NCLT. It is only with
+the permissions of the Hon'ble Adjudicating Authority i.e.
+NCLT, any creditor can be allowed to withdraw their claim
+in the CIRP of the Corporate Debtor.
+
+Thanks and Regards
+For and on behalf of
+Anil Tayal
+Interim Resolution Professional
+In the matter of M/s. Infinia Solutions & Services Private
+Limited
+IBBI Reg No.:IBBI/IPA-001/IP-P01118/2018-19/11818
+AFA Validity: 10.03.2023- 09.03.2024
+Address: 201, Sagar Plaza, District Centre Laxmi Nagar,
+Delhi-110092
+Email: cirp.infinia@gmail.com, caaniltayal@gmail.com”
+
+[PAGE 9]
+Company Appeal (AT) (Ins) No. 1013 of 2024 9 of 35
+
+11.
+It is further reflected that thereafter despite notice and reminder send
+by the IRP with regard to convening second meeting of the CoC on
+02.06.2023 no one appeared on behalf of the appellant and in view of the
+same the meeting scheduled was adjourned for want of Coram as provided
+under Regulation 22 (2) of the CIRP Regulations, 2016 and an information of
+such adjournment was sent by the IRP to the appellant, however, no one
+appeared for the appellant in the meeting which held on 23.06.2023 after
+adjournment. However, the same was concluded for want of coram the
+information of which was also sent to the appellant by the IRP vide email
+dated 23.06.2023.
+12.
+In view of the above factual background the IRP moved the application
+being IA No. 3965 MB of 2023 requesting for the following reliefs:
+“In the promise, it is most respectfully prayed that this
+Hon'ble Adjudicating Authority may graciously be pleased
+to:
+a) Allow the present Application;
+b) Direct the Respondent to act in conformity with the
+provisions of Code and CIRP Regulations 2016 being a
+member of the Committee of Creditors, or
+c) In the alternative, allow the IRP/Applicant herein to
+reconstitute Committee of Creditors thereby permitting the
+Respondent to withdraw its claim from the CIRP of the
+Corporate Debtor,
+
+[PAGE 10]
+Company Appeal (AT) (Ins) No. 1013 of 2024 10 of 35
+
+d) Pass such other or further order(s) as may be deemed fit
+and proper in the facts and circumstances of the instant
+case”.
+13.
+The aforesaid IA moved by the appellant was dismissed by the Ld.
+Adjudicating Authority by passing the following order:
+“1. Ld. Counsel for the Applicant present, however, not
+marked the attendance sheet.
+2. IA-3965(MB)2023: This is an application filed under
+section 60(5) for issuance of appropriate directions of this
+Hon'ble Tribunal to permit the respondent to withdraw its
+claim as secured creditors from the CIRP of the Corporate
+Debtor and to reconstitute the CoC.
+3. This bench is of the view that there is no provision m the
+code to direct/permit a claimant to withdraw its claim.
+Hence, this application is not maintainable.
+Accordingly, IA-3965(MB)2023 is dismissed”.
+
+14.
+The instant appeal has been preferred by the Appellant-Bank feeling
+aggrieved by the impugned order.
+15.
+Ld. Counsel for the Appellant submits that it is not in dispute that the
+CD had ceased operations in or around 2016 and on 22.05.2023 the IRP
+constituted the CoC with two operational creditors only and it was on
+26.05.2023 the appellant had filed the claim. However, the IRP accepted the
+claim in haste on the very next day of its submission and reconstituted the
+CoC and followed up with the appellant to attend the CoC meeting which
+was rescheduled to 29.05.2023.
+16.
+It is further submitted that the claim of the appellant was settled in
+full through a settlement accorded during the pendency of SARFAESI
+Proceedings executed on 01.08.2023 and the appellant had communicated
+its decision to withdraw from the CIRP at the very first CoC meeting held on
+29.05.2023.
+
+[PAGE 11]
+Company Appeal (AT) (Ins) No. 1013 of 2024 11 of 35
+
+17.
+It is further submitted that satisfaction of the claim of secured
+creditor from 3rd parties (mortgagers, guarantors etc.) is not alien to the
+provisions of the IBC and therefore the Adjudicating Authority has acted
+illegally in not passing an appropriate order.
+18.
+It is further submitted that even after the withdrawal of claim by the
+appellant the CoC would be survived with the remaining creditors and the
+decision of the appellant to exit the CIRP was a conscious exercise of
+commercial wisdom which may not be interfered with by the Adjudicating
+Authority as there is no provision under the Code which can compel a
+creditor to continue with its claim if the same has been fully satisfied.
+19.
+It is further submitted that the Ld. Adjudicating Authority has also
+not considered this aspect of the matter that in absence of any claim of the
+appellant his presence in the CIRP will not be required and a creditor may
+very well withdraw its claim. Reliance in this regard has been laid on M/s
+Sumiran Foods Pvt. Ltd. vs. Pankaj Events and Celebrations Pvt. Ltd.
+as well as on Om logistics Ltd. and Anr. Vs. M/s Rider India Pvt. Ltd.
+
+20.
+Ld. Counsel for the Respondent however submits that under the Code
+the IRP is only a facilitator and administrator of the CIRP and is not
+possessing any adjudicatory or quasi-judicial powers. It is urged that the
+constitution of the CoC is governed strictly by the provisions contained
+under Section 18, 21 and 24 of the Code read with relevant CIRP
+Regulations and the only authority IRP is having to collate the claims and
+constitute the CoC on the basis of such admitted claims and there is no
+power in the Code or in the Regulations, empowering the IRP to reconstitute
+
+[PAGE 12]
+Company Appeal (AT) (Ins) No. 1013 of 2024 12 of 35
+
+or dissolve the CoC on its own violation particularly on the basis of the
+request made by any financial creditor to withdraw from the process.
+Reliance in this regard has been placed on Mr. K.N. Rajakumar (Supra)
+and Byju Raveendran, Suspended Director and Promoter of Think and
+Learn Pvt. Ltd. vs. Aditya Birla Finance Ltd. & Ors., 2025 SCC Online
+NCLAT 1269.
+21.
+It is further submitted that the Regulation 12A of Regulation 2016
+merely enables updation of a claim and does not permit withdrawal of an
+admitted claim and in the instant case the limited applicability of Regulation
+12 A is not relevant as the events relied on by the appellant are subsequent
+in point of time. Elaborating further it is submitted that the CIRP of the CD
+has commenced on 28.04.2023, Form A has been issued on 06.05.2023,
+and thereafter appellant filed its claim and participated as a sole member of
+the CoC. The constitution of the CoC was placed before the Ld. Adjudicating
+Authority by the IRP and thus the Appellants reliance on the alleged
+satisfaction of its claim arises only from events which had taken place much
+after the filing of the application being IA No. 2216 of 2023 informing Ld.
+Adjudicating Authority of the constitution of the CoC and therefore the IRP
+could not act under Regulation 12A of the CIRP Regulations.
+22.
+It is further submitted that the appellants claim may also not be
+termed as “satisfied” within the meaning of Regulation 12A of the CIRP
+Regulations, as making unilateral adjustment during the course of
+moratorium declared under Section 14 of the Code the same could not be
+adjusted from the account of the Corporate Debtor and any act done in
+
+[PAGE 13]
+Company Appeal (AT) (Ins) No. 1013 of 2024 13 of 35
+
+violation of Section 14 of the Code may not be termed as the satisfaction
+contained under Regulation 12A of the CIRP Regulations.
+23.
+It is further submitted that in alternate the Respondent also submits
+that after filing its claim and assuming the position of the sole CoC member
+and by taking so called “commercial decision” to stay out of the process and
+also in failing to attend CoC meetings resulted in adjournments the
+appellant is liable to pay the CIRP cost.
+24.
+We have heard Ld. Counsel for the parties. Before proceeding further,
+it is fruitful to have a glance on the relevant provisions of the IBC and
+relevant Regulations. Section 3. Definitions. — In this Code, unless the
+context otherwise requires,
+(6) “claim” means—
+(a) a right to payment, whether or not such right is reduced
+to judgment, fixed, disputed, undisputed, legal, equitable,
+secured or unsecured;
+(b) right to remedy for breach of contract under any law for
+the time being in force, if such breach gives rise to a right
+to payment, whether or not such right is reduced to
+judgment,
+fixed,
+matured,
+unmatured,
+disputed,
+undisputed, secured or unsecured;
+(11) “debt” means a liability or obligation in respect of a
+claim which is due from any person and includes a
+financial debt and operational debt;
+(12) “default” means non-payment of debt when whole or
+any part or instalment of the amount of debt has become
+due and payable and is not 1 [Paid] by the debtor or the
+corporate debtor, as the case may be;
+
+Section 5. Definitions. — In this Part, unless the context
+otherwise requires, —
+(7) “financial creditor” means any person to whom a
+financial debt is owed and includes a person to whom
+such debt has been legally assigned or transferred to;
+(8) “financial debt” means a debt along with interest, if
+any, which is disbursed against the consideration for the
+time value of money and includes—
+
+[PAGE 14]
+Company Appeal (AT) (Ins) No. 1013 of 2024 14 of 35
+
+Section 13. Declaration of moratorium and public
+announcement. — (1) The Adjudicating Authority, after
+admission of the application under section 7 or section 9 or
+section 10, shall, by an order—
+(a) declare a moratorium for the purposes referred to in
+section 14;
+(b) cause a public announcement of the initiation of
+corporate insolvency resolution process and call for the
+submission of claims under section 15; and
+(c) appoint an interim resolution professional in the manner
+as laid down in section 16.
+(2) The public announcement referred to in clause (b) of
+sub-section (1) shall be made immediately after the
+appointment of the interim resolution professional.
+
+Section 14. Moratorium. — (1) Subject to provisions of
+sub-sections (2) and (3), on the insolvency commencement
+date, the Adjudicating Authority shall by order declare
+moratorium for prohibiting all of the following, namely: —
+(a) the institution of suits or continuation of pending suits
+or proceedings against the corporate debtor including
+execution of any judgment, decree or order in any court of
+law, tribunal, arbitration panel or other authority;
+(b) transferring, encumbering, alienating or disposing of by
+the corporate debtor any of its assets or any legal right or
+beneficial interest therein;
+(c) any action to foreclose, recover or enforce any security
+interest created by the corporate debtor in respect of its
+property including any action under the Securitisation and
+Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002 (54 of 2002);
+(d) the recovery of any property by an owner or lessor
+where such property is occupied by or in the possession of
+the corporate debtor.
+[Explanation.—For the purposes of this sub-section,
+it is hereby clarified that notwithstanding anything
+contained in any other law for the time being in force, a
+license, permit, registration, quota, concession, clearances
+or a similar grant or right given by the Central
+Government, State Government, local authority, sectoral
+regulator or any other authority constituted under any
+other law for the time being in force, shall not be
+suspended or terminated on the grounds of insolvency,
+subject to the condition that there is no default in payment
+of current dues arising for the use or continuation of the
+license, permit, registration, quota, concession, clearances
+or a similar grant or right during the moratorium period;]
+(2) The supply of essential goods or services to the
+corporate debtor as may be specified shall not be
+
+[PAGE 15]
+Company Appeal (AT) (Ins) No. 1013 of 2024 15 of 35
+
+terminated or suspended or interrupted during moratorium
+period.
+[(2A) Where the interim resolution professional or
+resolution professional, as the case may be, considers the
+supply of goods or services critical to protect and preserve
+the value of the corporate debtor and manage the
+operations of such corporate debtor as a going concern,
+then the supply of such goods or services shall not be
+terminated, suspended or interrupted during the period of
+moratorium, except where such corporate debtor has not
+paid dues arising from such supply during the moratorium
+period or in such circumstances as may be specified;]
+[(3) The provisions of sub-section (1) shall not apply to—
+[(a) such transactions, agreements or other arrangements
+as may be notified by the Central Government in
+consultation with any financial sector regulator or any
+other authority;]
+(b) a surety in a contract of guarantee to a corporate
+debtor.].
+(4) The order of moratorium shall have effect from the date
+of such order till the completion of the corporate insolvency
+resolution process:
+Provided that where at any time during the
+corporate insolvency resolution process period, if the
+Adjudicating Authority approves the resolution plan under
+sub-section (1) of section 31 or passes an order for
+liquidation of corporate debtor under section 33, the
+moratorium shall cease to have effect from the date of such
+approval or liquidation order, as the case may be.
+
+Section 15. Public announcement of corporate
+insolvency resolution process. — (1) The public
+announcement of the corporate insolvency resolution
+process under the order referred to in section 13 shall
+contain the following information, namely: —
+(a) name and address of the corporate debtor under
+the corporate insolvency resolution process;
+(b) name of the authority with which the corporate
+debtor is incorporated or registered;
+(c) the last date for submission of 1 [claims, as may
+be specified];
+(d) details of the interim resolution professional who
+shall be vested with the management of the corporate
+debtor and be responsible for receiving claims;
+(e) penalties for false or misleading claims; and
+(f) the date on which the corporate insolvency
+resolution process shall close, which shall be the one
+hundred and eightieth day from the date of the admission
+of the application under sections 7, 9 or section 10, as the
+case may be.
+
+[PAGE 16]
+Company Appeal (AT) (Ins) No. 1013 of 2024 16 of 35
+
+(2) The public announcement under this section shall be
+made in such manner as may be specified.
+
+Section 18. Duties of interim resolution professional.
+— The interim resolution professional shall perform the
+following duties, namely: —
+(a) collect all information relating to the assets, finances
+and operations of the corporate debtor for determining the
+financial position of the corporate debtor, including
+information relating to—
+(i) business operations for the previous two years;
+(ii) financial and operational payments for the
+previous two years;
+(iii) list of assets and liabilities as on the initiation
+date; and
+(iv) such other matters as may be specified;
+(b) receive and collate all the claims submitted by creditors
+to him, pursuant to the public announcement made under
+sections 13 and 15;
+(c) constitute a committee of creditors;
+(d) monitor the assets of the corporate debtor and manage
+its operations until a resolution professional is appointed
+by the committee of creditors;
+(e) file information collected with the information utility, if
+necessary; and
+(f) take control and custody of any asset over which the
+corporate debtor has ownership rights as recorded in the
+balance sheet of the corporate debtor, or with information
+utility or the depository of securities or any other registry
+that records the ownership of assets including—
+(i) assets over which the corporate debtor has
+ownership rights which may be located in a foreign
+country;
+(ii) assets that may or may not be in possession of
+the corporate debtor;
+(iii) tangible assets, whether movable or immovable;
+(iv) intangible assets including intellectual property;
+(v) securities including shares held in any subsidiary
+of the corporate debtor, financial instruments, insurance
+policies;
+(vi) assets subject to the determination of ownership
+by a court or authority;
+(g) to perform such other duties as may be specified by the
+Board.
+Explanation. —For the purposes of this 1 [section], the term
+“assets” shall not include the following, namely: —
+(a) assets owned by a third party in possession of the
+corporate debtor held under trust or under contractual
+arrangements including bailment;
+
+[PAGE 17]
+Company Appeal (AT) (Ins) No. 1013 of 2024 17 of 35
+
+(b) assets of any Indian or foreign subsidiary of the
+corporate debtor; and
+(c) such other assets as may be notified by the Central
+Government in consultation with any financial sector
+regulator.
+(d) monitor the assets of the corporate debtor and
+manage its operations until a resolution professional is
+appointed by the committee of creditors;
+(e) file information collected with the information utility, if
+necessary; and
+(f) take control and custody of any asset over which the
+corporate debtor has ownership rights as recorded in the
+balance sheet of the corporate debtor, or with information
+utility or the depository of securities or any other registry
+that records the ownership of assets including—
+(i) assets over which the corporate debtor has
+ownership rights which may be located in a foreign
+country;
+(ii) assets that may or may not be in possession of
+the corporate debtor;
+(iii) tangible assets, whether movable or immovable;
+(iv) intangible assets including intellectual property;
+(v) securities including shares held in any subsidiary
+of the corporate debtor, financial instruments, insurance
+policies;
+(vi) assets subject to the determination of ownership
+by a court or authority;
+(g) to perform such other duties as may be specified by the
+Board.
+Explanation. —For the purposes of this 1 [section], the term
+“assets” shall not include the following, namely: —
+(a) assets owned by a third party in possession of the
+corporate debtor held under trust or under contractual
+arrangements including bailment;
+(b) assets of any Indian or foreign subsidiary of the
+corporate debtor; and
+(c) such other assets as may be notified by the Central
+Government in consultation with any financial sector
+regulator.
+
+Section 21. Committee of creditors. — (1) The interim
+resolution professional shall after collation of all claims
+received against the corporate debtor and determination of
+the financial position of the corporate debtor, constitute a
+committee of creditors.
+(2) The committee of creditors shall comprise all financial
+creditors of the corporate debtor: Provided that a [financial
+creditor or the authorised representative of the financial
+creditor referred to in sub-section (6) or sub-section (6A) or
+sub-section (5) of section 24, if it is a related party of the
+
+[PAGE 18]
+Company Appeal (AT) (Ins) No. 1013 of 2024 18 of 35
+
+corporate
+debtor,]
+shall
+not
+have
+any
+right
+of
+representation, participation or voting in a meeting of the
+committee of creditors.
+[Provided further that the first proviso shall not
+apply to a financial creditor, regulated by a financial sector
+regulator, if it is a related party of the corporate debtor
+solely on account of conversion or substitution of debt into
+equity shares or instruments convertible into equity shares
+[or completion of such transactions as may be prescribed,]
+prior to the insolvency commencement date.];
+(3) [Subject to sub-sections (6) and (6A), where] the
+corporate debtor owes financial debts to two or more
+financial creditors as part of a consortium or agreement,
+each such financial creditor shall be part of the committee
+of creditors and their voting share shall be determined on
+the basis of the financial debts owed to them.
+(4) Where any person is a financial creditor as well as an
+operational creditor, —
+(a) such person shall be a financial creditor to the extent
+of the financial debt owed by the corporate debtor, and
+shall be included in the committee of creditors, with voting
+share proportionate to the extent of financial debts owed to
+such creditor;
+(b) such person shall be considered to be an operational
+creditor to the extent of the operational debt owed by the
+corporate debtor to such creditor.
+(5) Where an operational creditor has assigned or legally
+transferred any operational debt to a financial creditor, the
+assignee or transferee shall be considered as an
+operational creditor to the extent of such assignment or
+legal transfer.
+(6) Where the terms of the financial debt extended as part
+of a consortium arrangement or syndicated facility ***
+provide for a single trustee or agent to act for all financial
+creditors, each financial creditor may—
+a) authorise the trustee or agent to act on his behalf in the
+committee of creditors to the extent of his voting share;
+(b) represent himself in the committee of creditors to the
+extent of his voting share;
+(c) appoint an insolvency professional (other than the
+resolution professional) at his own cost to represent
+himself in the committee of creditors to the extent of his
+voting share; or
+(d) exercise his right to vote to the extent of his voting
+share with one or more financial creditors jointly or
+severally.
+[(6A) Where a financial debt—
+(a) is in the form of securities or deposits and the terms of
+the financial debt provide for appointment of a trustee or
+agent to act as authorised representative for all the
+
+[PAGE 19]
+Company Appeal (AT) (Ins) No. 1013 of 2024 19 of 35
+
+financial creditors, such trustee or agent shall act on
+behalf of such financial creditors;
+(b) is owed to a class of creditors exceeding the number as
+may be specified, other than the creditors covered under
+clause (a) or sub-section (6), the interim resolution
+professional shall make an application to the Adjudicating
+Authority along with the list of all financial creditors,
+containing the name of an insolvency professional, other
+than the interim resolution professional, to act as their
+authorised representative who shall be appointed by the
+Adjudicating Authority prior to the first meeting of the
+committee of creditors;
+(c) is represented by a guardian, executor or administrator,
+such person shall act as authorised representative on
+behalf of such financial creditors,
+and such authorised representative under clause (a) or
+clause (b) or clause (c) shall attend the meetings of the
+committee of creditors, and vote on behalf of each financial
+creditor to the extent of his voting share.
+(6B)
+The
+remuneration
+payable
+to
+the
+authorised
+representative—
+(i). under clauses (a) and (c) of sub-section (6A), if any,
+shall be as per the terms of the financial debt or the
+relevant documentation; and
+(ii) under clause (b) of sub-section (6A) shall be as specified
+which shall form part of the insolvency resolution process
+costs];
+[(7) The Board may specify the manner of voting and the
+determining of the voting share in respect of financial
+debts covered under sub-sections (6) and (6A).
+(8) Save as otherwise provided in this Code, all decisions
+of the committee of creditors shall be taken by a vote of not
+less than fifty-one per cent. of voting share of the financial
+creditors:
+Provided that where a corporate debtor does not have any
+financial creditors, the committee of creditors shall be
+constituted and shall comprise of such persons to exercise
+such functions in such manner as may be specified.]
+(9) The committee of creditors shall have the right to
+require the resolution professional to furnish any financial
+information in relation to the corporate debtor at any time
+during the corporate insolvency resolution process.
+(10) The resolution professional shall make available any
+financial information so required by the committee of
+creditors under sub-section (9) within a period of seven
+days of such requisition.
+
+Section 25. Duties of resolution professional. — (1) It
+shall be the duty of the resolution professional to preserve
+
+[PAGE 20]
+Company Appeal (AT) (Ins) No. 1013 of 2024 20 of 35
+
+and protect the assets of the corporate debtor, including
+the continued business operations of the corporate debtor.
+(2) For the purposes of sub-section (1), the resolution
+professional shall undertake the following actions, namely:
+—
+(a) take immediate custody and control of all the
+assets of the corporate debtor, including the business
+records of the corporate debtor;
+(b) represent and act on behalf of the corporate
+debtor with third parties, exercise rights for the benefit of
+the corporate debtor in judicial, quasi-judicial or arbitration
+proceedings;
+(c) raise interim finances subject to the approval of
+the committee of creditors under section 28;
+(d) appoint accountants, legal or other professionals
+in the manner as specified by Board;
+(e) maintain an updated list of claims;
+(f) convene and attend all meetings of the committee
+of creditors;
+(g)
+prepare
+the
+information
+memorandum
+in
+accordance with section 29;
+[(h) invite prospective resolution applicants, who
+fulfil such criteria as may be laid down by him with the
+approval of committee of creditors, having regard to the
+complexity and scale of operations of the business of the
+corporate debtor and such other conditions as may be
+specified by the Board, to submit a resolution plan or
+plans.].
+(i) present all resolution plans at the meetings of the
+committee of creditors;
+(j) file application for avoidance of transactions in
+accordance with Chapter III, if any; and
+(k) such other actions as may be specified by the
+Board.
+
+Section 28. Approval of committee of creditors for
+certain
+actions.
+—
+(1)
+Notwithstanding
+anything
+contained in any other law for the time being in force, the
+resolution professional, during the corporate insolvency
+resolution process, shall not take any of the following
+actions without the prior approval of the committee of
+creditors namely: —
+(a) raise any interim finance in excess of the amount as
+may be decided by the committee of creditors in their
+meeting;
+(b) create any security interest over the assets of the
+corporate debtor;
+(c) change the capital structure of the corporate debtor,
+including by way of issuance of additional securities,
+creating a new class of securities or buying back or
+
+[PAGE 21]
+Company Appeal (AT) (Ins) No. 1013 of 2024 21 of 35
+
+redemption of issued securities in case the corporate
+debtor is a company;
+(d) record any change in the ownership interest of the
+corporate debtor;
+(e) give instructions to financial institutions maintaining
+accounts of the corporate debtor for a debit transaction
+from any such accounts in excess of the amount as may be
+decided by the committee of creditors in their meeting;
+(f) undertake any related party transaction;
+(g) amend any constitutional documents of the corporate
+debtor;
+(h) delegate its authority to any other person;
+(i) dispose of or permit the disposal of shares of any
+shareholder of the corporate debtor or their nominees to
+third parties;
+(j) make any change in the management of the corporate
+debtor or its subsidiary;
+(k) transfer rights or financial debts or operational debts
+under material contracts otherwise than in the ordinary
+course of business;
+(l) make changes in the appointment or terms of contract of
+such personnel as specified by the committee of creditors;
+or
+(m) make changes in the appointment or terms of contract
+of statutory auditors or internal auditors of the corporate
+debtor.
+(2) The resolution professional shall convene a meeting of
+the committee of creditors and seek the vote of the
+creditors prior to taking any of the actions under sub-
+section (1).
+(3) No action under sub-section (1) shall be approved by
+the committee of creditors unless approved by a vote of 1
+[sixty-six] per cent. of the voting shares.
+(4) Where any action under sub-section (1) is taken by the
+resolution professional without seeking the approval of the
+committee of creditors in the manner as required in this
+section, such action shall be void.
+(5) The committee of creditors may report the actions of the
+resolution professional under sub-section (4) to the Board
+for taking necessary actions against him under this Code.
+
+Section
+29.
+Preparation
+of
+information
+memorandum. - (1) The resolution professional shall
+prepare an information memorandum in such form and
+manner containing such relevant information as may be
+specified by the Board for formulation a resolution plan.
+(2) The resolution professional shall provide to the
+resolution applicant access to all relevant information in
+physical and electronic form, provided such resolution
+applicant undertakes-
+
+[PAGE 22]
+Company Appeal (AT) (Ins) No. 1013 of 2024 22 of 35
+
+(a)to comply with provisions of law for the time being in
+force relating to confidentiality and insider trading;
+(b) to protect any intellectual property of the corporate
+debtor it may have access to; and
+(c)not to share relevant information with third parties
+unless clauses (a) and (b) of this sub-section are complied
+with.
+Explanation. - For the purposes of this section, “relevant
+information” means the information required by the
+resolution applicant to make the resolution plan for the
+corporate debtor, which shall include the financial position
+of the corporate debtor, all information related to disputes
+by or against the corporate debtor and any other matter
+pertaining to the corporate debtor as may be specified”.
+
+25.
+There are certain Regulations of Insolvency and Bankruptcy Board of
+India (Insolvency Resolution Process for Corporate Persons) Regulations,
+2016, which are relevant for our discussion and these are also reproduced
+as under:
+
+CHAPTER III
+PUBLIC ANNOUNCEMENT
+
+6. Public announcement.
+(1) An insolvency professional shall make a public
+announcement immediately on his appointment as an
+interim resolution professional.
+Explanation: ‘Immediately’ means not later than three
+days from the date of his appointment. (2) The public
+announcement referred to in sub-regulation (1) shall:
+(a) be in Form A of the [Schedule-I];
+(b) be published-
+(i) in one English and one regional language newspaper
+with wide circulation at the location of the registered office
+and principal office, if any, of the corporate debtor and any
+other location where in the opinion of the interim resolution
+professional, the corporate debtor conducts material
+business operations;
+(ii) on the website, if any, of the corporate debtor; and
+(iii) on the website, if any, designated by the Board for
+the purpose
+[(ba) state where claim forms can be downloaded or
+obtained from, as the case may be;
+
+[PAGE 23]
+Company Appeal (AT) (Ins) No. 1013 of 2024 23 of 35
+
+(bb) offer choice of three insolvency professionals identified
+under regulation 4A to act as the authorised representative
+of creditors in each class; and]
+(c) provide the last date for submission of proofs of claim,
+which shall be fourteen days from the date of appointment
+of the interim resolution professional.
+
+(3) The applicant shall bear the expenses of the public
+announcement which may be reimbursed by the committee
+to the extent it ratifies them.
+
+6A. Communication to creditors. The interim resolution
+professional shall send a communication along with a copy
+of public announcement made under regulation 6, to all the
+creditors as per the last available books of accounts of the
+corporate debtor through post or electronic means
+wherever the information for communication is available.
+Provided that where it is not possible to send a
+communication to creditors, the public announcement
+made under regulation 6 shall be deemed to be the
+communicated to such creditors.]
+
+CHAPTER IV
+PROOF OF CLAIMS
+
+7. Claims by operational creditors.
+(1) A person claiming to be an operational creditor, other
+than workman or employee of the corporate debtor, shall
+33[submit claim with proof] to the interim resolution
+professional in person, by post or by electronic means in
+Form B of the34[Schedule-I]:
+Provided that such person may submit supplementary
+documents or clarifications in support of the claim before
+the constitution of the committee.
+(2) The existence of debt due to the operational creditor
+under this Regulation may be proved on the basis of-
+(a) the records available with an information utility, if any;
+or
+(b) other relevant documents, including -
+(i) a contract for the supply of goods and services with
+corporate debtor;
+(ii) an invoice demanding payment for the goods and
+services supplied to the corporate debtor;
+(iii) an order of a court or tribunal that has adjudicated
+upon the non-payment of a debt, if any; or
+
+[PAGE 24]
+Company Appeal (AT) (Ins) No. 1013 of 2024 24 of 35
+
+(iv) financial accounts.
+35[(v) copies of relevant extracts of Form GSTR-1 and Form
+GSTR-3B filed under the provisions of the relevant laws
+relating to Goods and Services Tax and the copy of e-way
+bill wherever applicable:
+Provided that provisions of this sub-clause shall not apply
+to those creditors who do not require registration and to
+those goods and services which are not covered under any
+law relating to Goods and Services Tax.]
+
+8. Claims by financial creditors.
+(1) A person claiming to be a 36[financial creditor, other
+than a financial creditor belonging to a class of creditors,
+shall submit claim with proof] to the interim resolution
+professional in electronic form in Form C of the [Schedule-
+I]:
+Provided that such person may submit supplementary
+documents or clarifications in support of the claim before
+the constitution of the committee.
+(2) The existence of debt due to the financial creditor may
+be proved on the basis of -
+(a) the records available with an information utility, if
+any; or
+(b) other relevant documents, including -
+(i)
+a
+financial
+contract
+supported
+by
+financial
+statements as evidence of the debt;
+(ii) a record evidencing that the amounts committed by
+the financial creditor to the corporate debtor under a
+facility has been drawn by the corporate debtor;
+(iii) financial statements showing that the debt has not
+been 37[paid]; or
+(iv) an order of a court or tribunal that has adjudicated
+upon the non-payment of a debt, if any.
+
+10. Substantiation of claims.
+The interim resolution professional or the resolution
+professional, as the case may be, may call for such other
+evidence or clarification as he deems fit from a creditor for
+substantiating the whole or part of its claim.
+
+11. Cost of proof.
+A creditor shall bear the cost of proving the debt due to
+such creditor.
+
+12. Submission of proof of claims.
+[(1) A creditor shall submit claim with proof on or before the
+last date mentioned in the public announcement.
+
+[PAGE 25]
+Company Appeal (AT) (Ins) No. 1013 of 2024 25 of 35
+
+Provided that a creditor, who fails to submit claim with
+proof
+within
+the
+time
+stipulated
+in
+the
+public
+announcement, may submit his claim with proof to the
+interim
+resolution
+professional
+or
+the
+resolution
+professional, as the case may be, up to the date of issue of
+request for resolution plans under regulation 36B or ninety
+days from the insolvency commencement date, whichever
+is later:
+
+Provided further that the creditor shall provide reasons for
+delay in submitting the claim beyond the period of ninety
+days from the insolvency commencement.]
+
+[(2) ****]
+
+(3) Where the creditor in 50[sub-regulation (1)] is 51[a
+financial creditor under regulation 8], it shall be included
+in the committee from the date of admission of such claim:
+
+Provided that such inclusion shall not affect the validity of
+any decision taken by the committee prior to such
+inclusion.
+
+[12A. Updation of claim.
+A creditor shall update its claim as and when the claim is
+satisfied, partly or fully, from any source in any manner,
+after the insolvency commencement date.]
+
+13. Verification of claims.
+(1) The interim resolution professional or the resolution
+professional, as the case may be, shall verify every claim,
+as on the insolvency commencement date, within seven
+days from the last date of the receipt of the claims, and
+thereupon maintain a list of creditors containing names of
+creditors along with the amount claimed by them, the
+amount of their claims admitted and the security interest,
+if any, in respect of such claims, and update it.
+[(1A) Where the interim resolution professional or the
+resolution professional, as the case may be, does not
+collate the claim after verification, he shall provide reasons
+for the same.
+(1B) In the event that claims are received after the period
+specified under sub-regulation (1) of regulation 12 and up
+to seven days before the date of meeting of creditors for
+voting on the resolution plan or the initiation of liquidation,
+as the case may be, the interim resolution professional or
+resolution professional, as the case may be, shall verify all
+such claims and categorise them as acceptable or non-
+acceptable for collation.
+
+[PAGE 26]
+Company Appeal (AT) (Ins) No. 1013 of 2024 26 of 35
+
+(1C) The interim resolution professional or resolution
+professional, as the case may be, shall: -
+(a)
+intimate
+the
+creditor
+within
+seven
+days
+of
+categorisation thereof under sub-regulation (1B) and
+provide reasons where such claim has been categorised as
+non-acceptable for collation; and
+(b) put up the claims categorised as acceptable under sub-
+regulation (1B) and collated by him to: -
+(i) the committee in its next meeting for its recommendation
+for inclusion in the list of creditors and its treatment in the
+resolution plan, if any; and
+(ii) submit such claims before the Adjudicating Authority
+for condonation of delay and adjudication wherever
+applicable.]
+(2) The list of creditors shall be –
+(a) available for inspection by the persons who submitted
+proofs of claim;
+(b) available for inspection by members, partners, directors
+and guarantors of the corporate debtor 54[or their
+authorised representatives];
+(c) displayed on the website, if any, of the corporate
+debtor;
+
+[(ca) filed on the electronic platform of the Board for
+dissemination on its website:
+
+Provided that this clause shall apply to every corporate
+insolvency resolution process ongoing and commencing on
+or after the date of commencement of the Insolvency and
+Bankruptcy Board of India (Insolvency Resolution Process
+for Corporate Persons) (Fifth Amendment) Regulations,
+2020;]
+
+(d) filed with the Adjudicating Authority; and
+(e) presented at the first meeting of the committee.
+14. Determination of amount of claim.
+(1) Where the amount claimed by a creditor is not
+precise due to any contingency or other reason, the interim
+resolution professional or the resolution professional, as
+the case may be, shall make the best estimate of the
+amount of the claim based on the information available
+with him.
+(2) The interim resolution professional or the resolution
+professional, as the case may be, shall revise the amounts
+of claims admitted, including the estimates of claims made
+under sub-regulation (1), as soon as may be practicable,
+when he comes across additional information warranting
+such revision.
+
+[PAGE 27]
+Company Appeal (AT) (Ins) No. 1013 of 2024 27 of 35
+
+CHAPTER VI
+MEETINGS OF THE COMMITTEE
+
+18. Meetings of the committee.
+(1) A resolution professional shall convene a meeting of the
+committee before lapse of thirty days from the last
+meeting:
+Provided that the committee may decide to extend the
+interval between such meetings subject to the condition
+that there shall be at least one meeting in each quarter.]
+(2) A resolution professional may convene a meeting, if he
+considers it necessary, on a request received from
+members of the committee and shall convene a meeting if
+the same is made by members of the committee
+representing at least thirty-three per cent of the voting
+rights.
+[Explanation: For the purposes of sub- regulation (2) it is
+clarified that meeting (s) may be convened under this sub-
+regulation till the resolution plan is approved under sub-
+section (1) of section 31 or order for liquidation is passed
+under section 33 and decide on matters which do not
+affect
+the
+resolution
+plan
+submitted
+before
+the
+Adjudicating Authority.]
+(3) A resolution professional may place a proposal received
+from members of the committee in a meeting, if he
+considers it necessary and shall place the proposal if the
+same is made by members of the committee representing
+at least thirty-three per cent of the voting rights.]
+[(4) Where the corporate debtor has any real estate project,
+the committee may direct the resolution professional to
+invite the ‘competent authority’ as defined in clause (p) of
+section 2 of the Real Estate (Regulation and Development)
+Act, 2016 (16 of 2016) related to such project to attend
+such meeting(s) of the committee, as the committee may
+decide, without voting rights, for providing inputs on
+matters associated with the development of such project.]
+[(5) The committee may direct the resolution professional to
+invite the providers of interim finance to attend as
+observers without voting rights, such meeting(s) of the
+committee, as the committee may decide.]
+
+26.
+Perusal of the above provisions would reveal that in the Code, so far
+as the scheme pertaining to the authority of the IRP or the RP with regard to
+dealing with the claims submitted by creditors is concerned, is in terms that
+
+[PAGE 28]
+Company Appeal (AT) (Ins) No. 1013 of 2024 28 of 35
+
+after being appointed as the IRP of the CD, in pursuance of the acceptance
+of petition either under Section 7 or 9 or any other provision of the Code, a
+moratorium under Section 14 of the Code is declared and thereafter a public
+announcement of Corporate Insolvency Resolution Process is made and
+thereafter it becomes the duty of the Interim Resolution Professional, under
+Section 18 (1) (b) to receive and collate all the claims submitted by the
+creditors to him and to constitute committee of creditors (CoC) under
+Section 21 of the Code.
+27.
+Section 21 of the Code provides that the Interim Resolution
+Professional shall after collation of all claims received against the Corporate
+Debtor and determination of the financial position of the CD would
+constitute a committee of creditors. Section 25 of the Code deals with the
+duties of the Resolution Professional and provides inter alia that it shall be
+the duty of the Resolution Professional, amongst others to maintain an
+updated list of Creditors.
+28.
+Chapter-IV of the Insolvency and Bankruptcy Board of India
+(Insolvency Resolution Process for Corporate Persons) Regulation, 2016
+herein after called as (CIRP Regulations of 2016) provides for the procedure
+pertaining to the submissions of claims by the creditors. Under Regulation
+7, 8, 8 (A), 9, and 9 (A) of these Regulations, the claims which may be filed
+by various creditors and the forms in which these claims may be filed, has
+been provided.
+29.
+Section 10 of the aforesaid CIRP Regulations, 2016 also provides for
+the substantiation of the claims and cast a duty on the Interim Resolution
+Professional or the Resolution Professional, as the case may be, to call for
+
+[PAGE 29]
+Company Appeal (AT) (Ins) No. 1013 of 2024 29 of 35
+
+such evidence or clarification as he deems fit from a creditor for
+substantiating the whole or part of its claim and under Regulation 12 he
+may also ask for any proof of such claims. Regulation 12 also provides that
+a creditor who fails to submit a claim with proof within the time stipulated
+in the public announcement may submit his claim with proof to the IRP or
+RP as the case may be up to the date of issue of request for Resolution Plan
+under Section 36 (B) or 90 days from the Insolvency commencement date,
+whichever is later and it is further provided in sub-Regulation 3 of
+Regulation 12 that where the creditor in sub-Regulation 2 is a financial
+creditor it shall be included in the committee from the date of admission of
+such claim.
+30.
+Regulation 12 A significantly provides for updation of claim in terms
+that a creditor shall update its claim as and when the claim is satisfied
+partly or fully, from any source in any manner after the insolvency
+commencement date.
+31.
+Regulation 13 provides for verification of claims by the IRP or RP as on
+the Insolvency Commencement date within 7 days from the last date of the
+receipt of claims and cast a duty on the IRP or the RP to maintain a list of
+creditors along with the amount claimed by them and the amount of the
+admitted claims along with the security interest, if any, in respect of such
+claims and update it. Sub-Regulation (1) (B) provides that in the event any
+claim is received after the period specified under sub-Regulation (1) of 12
+and up to 7 days before the date of meeting of creditors for the purpose of
+voting on the Resolution plan or initiation of liquidation as the case may be,
+the IRP or the RP shall verify all such claims and categorise them as
+
+[PAGE 30]
+Company Appeal (AT) (Ins) No. 1013 of 2024 30 of 35
+
+acceptable or non-acceptable for collation and would further put up the
+claims so categorised as acceptable before the committee of creditors.
+32.
+As it could be noticed from the CIRP Regulations, 2016, on
+submission of a claim with proof, the IRP or the RP, as the case may be, has
+to verify the claim and prepare a list of creditors containing names of
+creditors along with the amount claimed by them and security interest, if
+any. On collation of claims received against the CD, the IRP has to
+constitute the CoC. As per Section 21 (2) of the Code, subject to other
+provisions of Section 21, the COC must comprise all financial creditors of a
+CD. Under Section 22 of the IBC, the COC appoints an RP in its first
+meeting. It may, however, resolve to appoint the IRP as the RP, subject to
+confirmation by the Board.
+33.
+After going through the Regulations 10 to 14 of the CIRP Regulations,
+it is also clear that IRP/RP may, under Regulation 10, call clarifications
+from a creditor for substantiating the whole or part of its claim.
+Furthermore, under Regulation 12A, the IRP/RP is entitled to updation of
+the creditor’s claim based on the satisfaction of the claim. Finally,
+Regulation 13 provides to verify every claim as on the insolvency
+commencement date within seven days from the last date of the receipt of
+the claims. Under Regulation 14, IRP/RP is further entitled to determine the
+amount of claim in a case where the amount claimed by the creditor is not
+precise due to any contingency or other reasons. In such circumstances, IRP
+is authorised to make the best assessment of the amount of the claim based
+on the information available with him. However, under regulation 14(2),
+IRP/RP is further obliged to revise the amount of claim admitted, including
+
+[PAGE 31]
+Company Appeal (AT) (Ins) No. 1013 of 2024 31 of 35
+
+the estimates of the claims made under sub-regulation (1) whenever he
+come across additional information warranting such revision.
+34.
+Thus, it is evident that a continuous obligation has been entrusted by
+the Code on the IRP or the RP, as the case may be, to keep on modifying the
+claims as and when the necessity arises and to constitute the CoC in
+accordance with the same. However, as has been held by the Hon’ble
+Supreme Court in Swiss Ribbons Pvt. Ltd. vs. Union of India (2019) 4
+SCC 17 the IRP or the RP may not be having any adjudicatory power to
+change the character of the creditor or of the claim as the resolution
+professional is given administrative as opposed to quasi-judicial powers and
+the resolution professional cannot act in a number of matters without the
+approval of the committee of creditors under Section 28 of the Code. It is
+further held that the resolution professional is only a facilitator of the
+resolution process, whose administrative functions are overseen by the
+committee of creditors and by the Adjudicating Authority. Thus under the
+CIRP Regulations, the resolution professional has only to vet and verify
+claims made, and ultimately, determine the amount of each claim.
+35.
+This Appellate Tribunal in Mr. K.N. Rajkumar vs V. Nagarajan and
+ors., Company Appeal (AT) (INS) No.48 of 2021 Decided on 30.04.2021,
+relied on by Ld counsel for the Respondent wherein the Adjudicating
+Authority among other things had directed the ‘Resolution Professional to
+convene the meeting of the ‘CoC’ of the Members, who constituted the ‘CoC’
+originally i.e. in the year 2017, soon after the order of admission was passed
+by the Tribunal’ initiating the CIRP and place the draft of Application
+prepared under 12A of IBC, if any, along with Form FA or at the least Form
+
+[PAGE 32]
+Company Appeal (AT) (Ins) No. 1013 of 2024 32 of 35
+
+FA as lodged with the IRP/RP, before the ‘CoC’ to be called and convened
+and report about the decision of the Members of the ‘CoC’ as constituted in
+the year 2017, the ‘CoC’ was held to be constituted by the IRP/RP in
+derogation of the Order passed by the Tribunal and directed to be
+suspended with a further direction that it shall not exercise any of the
+Powers as provided under the Provisions of IBC, 2016. This order was
+challenged by filing an appeal before this Appellate Tribunal.
+36.
+This Appellate tribunal upheld the NCLT’s Order on the basis that the
+resolution professional does not have any ‘adjudicatory powers’ under the
+IBC and no change can be made in the CoC when it was already formed and
+relying on the law laid down in Company Appeal (AT)(Ins) No.519 of 2020
+in Rajinish Jain V. Manoj Kumar Singh, the appeal was dismissed.
+
+37.
+In Rajinish Jain V. Manoj Kumar Singh, Company Appeal
+(AT)(Ins)No.519 of 2020, decided on 18th December, 2020, this
+Appellate Tribunal held as under: -
+"59. Based on the above discussion, we clarify and hold
+that during CIRP, the IRP is authorised to collate the
+claims, and based on that he is empowered to constitute
+the Committee of Creditors. We hold that the Resolution
+Professional may add to existing claims of claimants
+already received, or admit or reject further Claims and
+update list of Creditors. But after categorisation of a claim
+by the IRP/Resolution Professional we hold that they
+cannot change the status of a Creditor. For example, if the
+Resolution Professional has accepted a claim as a
+Financial Debt and Creditor as a Financial Creditor, then
+he cannot review or change that position in the name of
+updation of Claim. It is also to be clarified that while
+updating list of Claims the Resolution Professional, can
+accept or reject claims which are further received and
+update list”.
+
+[PAGE 33]
+Company Appeal (AT) (Ins) No. 1013 of 2024 33 of 35
+
+38.
+Evidently this case was decided by this Tribunal on 18.12.2020, while
+Regulation 12A was brought in the CIRP Regulations 2016 by an
+amendment with effect from15.03.2021. Thus there was no occasion for this
+Tribunal to have considered the effect of newly incorporated Regulation 12A
+which specifically provides for updation of claims. Thus this case has no
+precedential value so far as the issue with regard to the withdrawal of claim
+by a creditor is concerned.
+39.
+We are of the considered view that when a creditor, who has not
+submitted the claim within the permissible time provided in the public
+announcement, may submit its claim at any time before the deadline which
+has been provided in Regulation 13 sub Regulation (1) (B) (up to 7 days
+before the date of meeting of creditors for voting on the Resolution Plan or
+the initiation of liquidation) why the same creditors may not update their
+claims up to that time and why the RP or the IRP, as the case may be, in its
+duty could not update the claim on the basis of its withdrawal by the
+creditor. We are also of the view that Regulation 12 A of CIRP Regulations,
+2016 specifically provides for updation of claim and it has been specified
+therein that a creditor shall 'update' its claim as and when the claim is
+satisfied ‘partly’ or ‘fully’, after the Insolvency commencement date. Though
+the word “updation” has been used in Regulation 12 A but it conspicuously
+provides that the claim may be updated by the Creditor if the same has been
+satisfied "partly" or "fully". The literal meaning of the phrase (A creditor shall
+update its claim as and when the claim is satisfied, partly or fully) used in
+Regulation 12A of the Regulations of 2016 would convey that if the claim of
+a creditor has been satisfied in ‘part’ or ‘full’ he will update his claim. In
+
+[PAGE 34]
+Company Appeal (AT) (Ins) No. 1013 of 2024 34 of 35
+
+such a situation where a claim of the Creditor has been 'fully satisfied' then
+he would be left with no claim at all and in our understanding the term
+'update its claim' provided under Regulation 12 A of the CIRP
+Regulations,2016, would also include ‘withdrawal of the claim’ by such
+Creditor.
+40.
+It is also to be recalled that all major decisions with regard to the
+Resolution of the CD are taken by the CoC wherein the financial creditors
+have been empowered with voting rights, however, how a financial creditor
+whose claim has been fully satisfied would be compelled to be the part of the
+CoC when his claim has been fully satisfied and he may not be having any
+voting percentage at all and in that scenario why he should be permitted to
+take decisions with regard to the Resolutions of the CD, when no interest of
+it has been left in the resolution of the CD.
+41.
+In our considered opinion, a creditor who has filed a claim is duty
+bound to update its claim, if the same has been satisfied either fully or
+partly, as provided under Regulation 12A of the CIRP Regulations of 2016
+and this updation would also include 'withdrawal' of the claim by such
+Creditor. However, as no such power of adjudication is available with IRP or
+the RP, as the case may be, a decision in this regard has to be taken by the
+Adjudicating Authority.
+42.
+In view of above we are not in agreement with the conclusions drawn
+by the Ld. Adjudicating Authority in observing that there is no provision in
+the Code for withdrawal of the claim as a creditor may very well update his
+claim even by withdrawing it, as provided under Regulation 12 A of the CIRP
+Regulations of 2016 and in the instant case on the withdrawal intimation
+
+[PAGE 35]
+Company Appeal (AT) (Ins) No. 1013 of 2024 35 of 35
+
+given by the Appellant to the IRP, it was the IRP who has moved an
+application before the Adjudicating Authority whereon the impugned order
+has been passed. The IRP, in our considered opinion was justified in moving
+the application before Ld. Adjudicating Authority, as he was not having any
+adjudicatory power. In view of above, the impugned order passed by the Ld.
+Adjudicating Authority is liable to be set aside and is accordingly set aside
+by us. Resultantly the appeal preferred by the appellant is hereby allowed.
+43.
+The matter is remanded back to the Ld. Adjudicating Authority to
+dispose of the application filed by the appellant afresh after providing an
+opportunity of being heard to the parties and for this purpose the aforesaid
+IA No. 3965 of 2023 is revived on the board of the Ld. Adjudicating
+authority.
+44.
+We clarify at this stage that we have not made any observation with
+regard to the applicability of Section 14 of the Code vis a vis the manner in
+which the claim of the appellant appears to have been satisfied and also the
+issue of payment of CIRP cost and it would be open for the Ld. Adjudicating
+Authority to see the applicability of Section 14 of the Code and payment of
+CIRP cost, in the facts and circumstances of the case.
+45.
+There is no order as to costs. Pending IAs’ if any are also closed.
+
+[Justice Mohd. Faiz Alam Khan]
+Member (Judicial)
+
+[Naresh Salecha]
+Member (Technical)
+New Delhi.
+25.02.2026.
+sr

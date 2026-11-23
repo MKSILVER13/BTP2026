@@ -1,0 +1,703 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+[Arising out of the Impugned Order dated 02.08.2023 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench-IV in C.P. (IB) No. 903/MB-IV/2022]
+In the matter of:
+Korea Trade Insurance Corporation (Ksure)
+A Company Having its office at
+14, Jongno, Jongno-gu, 110-729, Seoul,
+South Korea
+
+.... Appellant
+
+Versus
+
+Amrit Polychem Pvt. Ltd
+Registered Office:
+404, Gurukrupa, 133 Kazi Sayed Street,
+Masjid Mumbai,
+Mumbai-400003, Maharashtra, India
+.... Respondent
+
+Present:
+
+For Appellant
+: Mr. Sarthak Varma, Sr. Advocate with Mr. Manish Dhir
+Mr. Shantanu Parmar, Mr. Balram, Mr. Vivek Tyagi,
+Advocates.
+
+For Respondent
+: Mr. Abhijeet Sinha, Sr. Advocate with Ms. Prachi Johri,
+Mr. Saikat Sarkar, Ms. Heena Kochar, Ms. Mrigangi Parul,
+Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61(1) of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+02.08.2023 (hereinafter referred to as ‘Impugned Order’) passed by the
+
+[PAGE 2]
+Page 2 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-IV) in
+Company Petition (IB) No. 903/MB-IV/2022. By the impugned order, the
+Adjudicating Authority has dismissed Section 9 application filed by the
+Appellant-Korea Trade Insurance Corporation. Aggrieved by the impugned order,
+the present appeal has been preferred by the Appellant.
+2.
+Coming to the brief facts of the case, the Respondent-Amrit Polychem Pvt.
+Ltd. (“APL” in short) had placed three purchase orders on JT Corporation
+(“JTC” in short) for supply of certain goods. In terms of the Purchase Orders
+(“PO” in short) and related Proforma Invoices (“PI” in short), payments were due
+after 90 days from the Bill of Lading date of the goods under shipment.
+Appellant-Korea Trade Insurance Corporation (“KTIC” in short) is an insurance
+company for the supplier of goods-JT Corporation (“JTC” in short). These three
+PIs as placed at page 87-89 of Appeal Paper Book (“APB” in short) is as tabulated
+below for easy reference:
+Proforma
+Invoice (PI)
+PI Date
+Proforma
+Invoice
+No.
+PI
+Amt.
+(USD)
+Manufacturer Goods
+required to
+be Supplied
+First PI
+02.01.2017 JT-17-01 –
+02
+-
+AMRIT
+124,0
+00
+OCI Company
+Limited
+Toluene
+Diisocynate –
+40MT
+Second PI
+19.04.2017 JT - 17 -
+04 – 19 –
+AMRIT
+114,0
+00
+Kumho Mitsui,
+Korea
+Polymeric
+MDI M–200–
+40MT
+Third PI
+21.04.2017 JT - 17 -
+04 – 21 -
+AMRIT
+171,0
+00
+Kumho Mitsui,
+Korea
+Polymeric
+MDI M–200–
+60MT
+As regards the first PI, the goods were not supplied to the Respondent within the
+due date of 31.01.2017 and no payments were made thereto. While goods were
+supplied in terms of the second and third PI, delayed payment was made against
+
+[PAGE 3]
+Page 3 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+the second PI by the Respondent but no payment was made by them against the
+third PI on purported grounds of non-supply of goods against the first PI which
+had caused losses to them and entitled them to claim compensation by
+adjustment against third PI. Due to the non-receipt of payment by JTC, the
+Appellant-KTIC being the insurer company reimbursed JTC as the insured
+entity. Following this reimbursement, the debt due from the Respondent-
+Corporate Debtor was assigned by JTC to the Appellant by a Letter of Assignment
+(“LoA” in short) dated 20.12.2017. A Demand Notice was issued by the
+Appellant to the Corporate Debtor on 03.10.2019. The Corporate Debtor replied
+to the Demand Notice on 01.12.2019 in which they denied the claims raised by
+the Appellant following which the Appellant filed the Section 9 petition before
+the Adjudicating Authority on 21.07.2020. The Adjudicating Authority however
+dismissed the Section 9 application on 02.08.2023 on grounds of pre-existing
+dispute. Aggrieved by the impugned order, the Appellant-KTIC has come up in
+appeal.
+3.
+Making his submissions on behalf of the Appellant, Shri Sarthak Verma,
+Ld. Senior Counsel submitted that the Respondent had categorically and
+unequivocally admitted their liability in their e-mail dated 26.09.2017 addressed
+to the Appellant which established existence of debt and default. It was also
+emphatically asserted that each PO carried a separate and distinct number and
+constituted a separate contract with separate terms and conditions. Hence, the
+Corporate Debtor could not have adjusted the claim arising out of the third PI
+against the first PI. In support of their contention, reliance was placed upon the
+judgment of this Tribunal in Naik Environment Engineers Pvt. Ltd. Vs M/s
+
+[PAGE 4]
+Page 4 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+Indiabulls Constructions Ltd. in CA(AT)(Ins) No. 790 of 2019 that when two
+POs are distinct, separate and unconnected, they do not form part of a running
+account and payments against one PO cannot be stopped on grounds of dispute
+in another PO. Submission was also made that the debt owed to the JTC by the
+Corporate Debtor had been legally assigned by JTC to the Appellant. It was also
+vehemently contended that the Respondent had not disputed the assignment of
+the debt by JTC to the Appellant-KTIC and therefore by virtue of this assignment
+the Appellant had qualified to be treated as Operational Creditor in terms of
+Section 5(20) of IBC. In any case, it was contended that it is settled law in terms
+of the judgment of this Tribunal in Ranjit Kapoor vs Asset Reconstruction Co
+Ltd in CA(AT)(Ins) No. 410 of 2018 that the validity and genuineness of an
+assignment of debt does not lie within the scope and remit of the Adjudicating
+Authority since insolvency proceedings are summary proceedings and can only
+be decided in a civil suit. Furthermore, the validity of the LoA had already been
+established in another proceeding before another bench of the NCLT which
+decision of the NCLT not having been challenged, has already acquired finality.
+In such circumstances, the Corporate Debtor cannot question the validity of the
+LoA or the fact of the stepping into the shoes of JTC by the Appellant-KTIC as
+an Operational Creditor. It was therefore contended that the objection raised by
+the Corporate Debtor that the Appellant cannot claim the status of an
+Operational Creditor is unsustainable in view of the fact that the LoA dated
+20.12.2017 had specified in clear terms that the debt owed by the Corporate
+Debtor had been assigned to the Appellant by JTC. Contention was also made
+that the Corporate Debtor having failed to get their alleged claim arising out of
+
+[PAGE 5]
+Page 5 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+the first PI dated 02.01.2017 duly adjudicated, the claim had become time-
+barred. It was submitted that such a time-barred and out of date uncrystallized
+claim cannot become a ground for pre-existing dispute in a Section 9 petition.
+In such circumstances, there were no cogent grounds for the Adjudicating
+Authority to have dismissed the Section 9 application filed by the Appellant
+particularly when the twin ingredients of undisputed debt and default stood
+fulfilled.
+4.
+Rebutting the arguments and contentions raised by the Appellant, Shri
+Abhijeet Sinha, Ld. Senior Counsel for the Respondent strenuously contended
+that the Section 9 application was not maintainable on the part of the present
+Appellant-KTIC since they did not fall in the category of Operational Creditor as
+defined under Section 5(20) of the IBC since the operational debt claimed by JTC
+was required to be “legally” assigned which requirement was not fulfilled.
+Buttressing their contention, it was submitted that the LoA is neither signed by
+any party nor carried the seal of JTC. The Appellant also failed to produce the
+copy of the Insurance Agreement basis which they had claimed to have
+reimbursed the unpaid amount of the third PI to JTC. Moreover, the LoA lacked
+requisite stamping as stamp duty was not paid. It was asserted that the
+Appellant cannot seek refuge on the grounds that they lacked knowledge of the
+procedural requirements of stamping as mandated under Indian laws since they
+had affixed stamps on the Power of Attorney filed by them which implied that
+they were conversant with the requirements under Indian Law. Since the
+document by which the debt has been assigned is also not registered, no valid
+assignment of the debt can be said to have taken place in terms of Section 17 of
+
+[PAGE 6]
+Page 6 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+the Registration Act, 1908. Besides the fact that the Appellant did not qualify to
+be an Operational Creditor who could file the Section 9 application, it was
+emphatically asserted that the Section 9 application was rightly dismissed by
+the Adjudicating Authority since there was clear evidence of pre-existing dispute.
+Elaborating on the presence of pre-existing dispute, it was submitted that in
+their e-mail dated 26.09.2017 sent to the Appellant, they had clearly apprised
+the Appellant that the issue of loss suffered by them due to non-shipment of
+goods in the first PI with JTC was a live matter and that they had raised with
+JTC the need to set-off their claim of loss against other invoices. It was also
+added that since the LoA was dated 20.12.2017, the Appellant cannot feign
+ignorance about the e-mail the dated 26.09.2017 in which the issue of counter-
+claim and adjustment had been raised which therefore clearly signified ongoing
+dispute between JTC and the Respondent-Corporate Debtor. It was contended
+that the Appellant was bound by the counter-claim when exercising their rights
+as an assignee. Moreover, as the Corporate Debtor had already adjusted the
+payment claimed in the third PI against the loss suffered on account of non-
+supply of goods under the first PI, the Appellant did not gain any interest in the
+alleged outstanding payment and at best was vested only with the right to sue.
+Much emphasis was also laid on the fact that the Corporate Debtor was a solvent
+company with a positive net-worth and had never committed any default in
+repayment of loan and cannot be unnecessarily subjected to the rigours of CIRP.
+It was also contended that the Appellant had instituted the Section 9 application
+against the Corporate Debtor for the purpose of debt recovery which goes against
+
+[PAGE 7]
+Page 7 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+the spirit and ethos of IBC and has been rightly dismissed by the Adjudicating
+Authority.
+5.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+6.
+Before we come to analysing the facts of the present case, it would be
+useful to run through the statutory scheme with regard to admission or rejection
+of Section 9 application. A pre-requisite for filing a Section 9 application is laid
+down under Section 8 of the IBC which mandates the Operational Creditor to
+deliver a Demand Notice on the Corporate Debtor on occurrence of a default for
+payment of unpaid operational claims. Section 8(2) provides that Corporate
+Debtor on the receipt of the Demand Notice is required to bring to the notice of
+the Operational Creditor existence of dispute, if any, within a period of 10 days.
+Thus, the existence of dispute and its communication to the Operational
+Creditor is statutorily warranted in terms of Section 8 of the IBC which is as
+follows:
+“Section 8: Insolvency resolution by operational creditor.- (1) An
+operational creditor may, on the occurrence of a default, deliver a demand
+notice of unpaid operational debt or copy of an invoice demanding
+payment of the amount involved in the default to the corporate debtor in
+such form and manner as may be prescribed.
+(2) The corporate debtor shall, within a period of ten days of the receipt
+of the demand notice or copy of the invoice mentioned in sub-section (1)
+bring to the notice of the operational creditor—
+(a) existence of a dispute, [if any, or] record of the pendency of the suit or
+arbitration proceedings filed before the receipt of such notice or invoice in
+relation to such dispute;
+(b) the [payment]of unpaid operational debt—
+(i) by sending an attested copy of the record of electronic transfer of the
+unpaid amount from the bank account of the corporate debtor; or
+(ii) by sending an attested copy of record that the operational creditor has
+encashed a cheque issued by the corporate debtor.
+
+[PAGE 8]
+Page 8 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+Explanation-For the purposes of this section, a “demand notice” means a
+notice served by an operational creditor to the corporate debtor
+demanding 2[payment] of the operational debt in respect of which the
+default has occurred.”
+
+7.
+Coming to the sequential provision as laid down under Section 9 of the
+IBC, sub-section (1) thereof entitles the Operational Creditor to file an
+application for initiation of CIRP of the Corporate Debtor in the event he does
+not receive the outstanding payment or Notice of dispute as provided for under
+Section 8(2). Section 9(1) reads as follows:
+“Section 9: Application for initiation of corporate insolvency
+resolution process by operational creditor.- (1) After the expiry of the
+period of ten days from the date of delivery of the notice or invoice
+demanding payment under sub-section (1) of section 8, if the
+operational creditor does not receive payment from the corporate
+debtor or notice of the dispute under sub-section (2) of section 8, the
+operational creditor may file an application before the Adjudicating
+Authority for initiating a corporate insolvency resolution process.”
+
+Further, Section 9(5)(ii) contemplates that Adjudicating Authority
+shall reject the application filed under sub-section (1) of Section 9 if
+the Notice of dispute is received by the Operational Creditor or there
+is evidence of record of dispute in the Information Utility. Section
+9(5)(ii) reads as follows:
+“(5) The Adjudicating Authority shall, within fourteen days of the
+receipt of the application under subsection (2), by an order—
+(i).....
+(ii) reject the application and communicate such decision to the
+operational creditor and the corporate debtor, if—
+(a) the application made under sub-section (2) is incomplete;
+(b) there has been [payment] of the unpaid operational debt;
+
+[PAGE 9]
+Page 9 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+(c) the creditor has not delivered the invoice or notice for payment to
+the corporate debtor;
+(d) notice of dispute has been received by the operational creditor or
+there is a record of dispute in the information utility; or
+(e) any disciplinary proceeding is pending against any proposed
+resolution professional:
+Provided that Adjudicating Authority, shall before rejecting an
+application under sub-clause (a) of clause (ii) give a notice to the
+applicant to rectify the defect in his application within seven days(i)
+of the date of receipt of such notice from the adjudicating Authority.”
+
+8.
+In the present facts of the case, the Section 8 Demand Notice was issued
+on 03.10.2019 by the Appellant while the Notice of dispute was raised on
+01.12.2019 by the Corporate Debtor. It is an undisputed fact that the Notice of
+dispute was served upon the Appellant though beyond the stipulated ten days’
+period. Be that as it may, we also notice that the Notice of dispute though beyond
+the ten days’ period, nevertheless it was well before the filing of the Section 9
+application which was on 21.07.2020. It is well settled that as long as disputes
+existing between the parties are shown to have arisen prior to the Section 8
+Demand Notice, it is sufficient basis for the Adjudicating Authority to reject a
+Section 9 application. We also find no infirmity in the decision of the
+Adjudicating Authority to place reliance on the judgement of this Tribunal in M/s
+Brand Realty Services Ltd. Vs M/s Sir John Bakeries India Pvt. Ltd. in
+CA(AT)(Ins) No. 958 of 2020 wherein it has been held that even in absence of
+Notice of dispute, the Adjudicating Authority can reject the Section 9 Application
+as long as it can be shown that there is a record of dispute. We are of the view
+that in this case, once Notice of dispute is raised before the filing of the Section
+9 application, even though it fails to comply to the window of ten days period
+
+[PAGE 10]
+Page 10 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+assigned for this purpose, it does not lose its sanctity or relevance in signifying
+the presence of pre-existing disputes.
+9.
+Having noticed the relevant statutory provisions, we now delineate the
+short point for consideration which is whether there was any discernible
+preexisting dispute surrounding the debt claimed to be due and payable by the
+Appellant-Operational Creditor.
+10.
+The law on this subject has been laid down crystal clear by the Hon’ble
+Supreme Court in Mobilox Innovations Private Limited Vs. Kirusa Software
+Pvt Ltd (2018) 1 SCC 353 where in para 33 of the said judgement, the following
+has been laid down:
+“...What is important is that the existence of the dispute and/or the suit or
+arbitration proceeding must be pre-existing i.e. it must exist before the
+receipt of the demand notice or invoice, as the case may be. In case the
+unpaid operational debt has been repaid, the corporate debtor shall within
+a period of the self-same 10 days send an attested copy of the record of the
+electronic transfer of the unpaid amount from the bank account of the
+corporate debtor or send an attested copy of the record that the operational
+creditor has encashed a cheque or otherwise received payment from the
+corporate debtor [Section 8(2)(b)]. It is only if, after the expiry of the period of
+the said 10 days, the operational creditor does not either receive payment
+from the corporate debtor or notice of dispute, that the operational creditor
+may trigger the insolvency process by filing an application before the
+adjudicating authority under Sections 9(1) and 9(2)....”
+The Hon’ble Supreme Court has further proceeded to hold that the dispute
+should not however be a patently feeble legal argument or an assertion of facts
+unsupported by evidence. In para 51 of the above judgment, following has been
+laid down:
+“...Therefore, all that the adjudicating authority is to see at this stage is
+whether there is a plausible contention which requires further investigation
+and that the “dispute” is not a patently feeble legal argument or an assertion
+
+[PAGE 11]
+Page 11 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+of fats unsupported by evidence. It is important to separate the grain from
+the chaff and to reject a spurious defence which is mere bluster. However,
+in doing so, the Court does not need to be satisfied that the defence is likely
+to succeed. The Court does not at this stage examine the merits of the
+dispute except to the extent indicated above. So long as a dispute truly exists
+in fact and is not spurious, hypothetical or illusory, the adjudicating
+authority has to reject the application.”
+
+11.
+To begin with our analysis in terms of the guiding precepts laid down in
+the ratio of Mobilox judgement supra as to whether there was any pre-existing
+dispute, at this stage, we may turn our attention to the Notice of Dispute raised
+by the Corporate Debtor in reply to the Section 8 Demand Notice. The relevant
+extracts therefrom read as follows:
+Date: 1st December 2019
+To:
+Korea Trade Insurance Corporation,
+
+Re: Letter dated 3rd October, 2019 ("said letter") addressed by you through
+your advocate and chief consultant Mrs. Sushila Ram .....to us in respect
+of the said Third Sale Invoice.
+
+Dear Sir/Madam,
+....
+
+3. We state that your letter doesn't warrant any paragraph wise reply for
+the reasons and facts stated hereafter; and also as much as the same is
+entirely based on the false claims and contentions; and further addressed
+to us with malafide intentions for the reasons best known to you.
+However, we hereby vehemently deny your claims on the following
+grounds which are prejudice to one another;
+a.
+At the outset, we are not liable to make any payments to you
+under the Third Sale Invoice (as defined hereunder) since the Third Sale
+Invoice is issued to us by JT Corporation; and Third Goods Orders
+thereunder are provided to us by JT Corporation under the Third Sale
+Invoice as per the terms agreed upon between JT Corporation and us; and
+not by you.
+b.
+....
+
+[PAGE 12]
+Page 12 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+c.
+You had for the first time vide your email [21/09/2017] asked us
+to provide you with certain information on the Third Sale Transaction.
+Upon your request, we replied to you by notifying you about the existing
+dispute between JT Corporation and us in respect of the Third Sale
+Transaction (as defined hereunder) and we are seeking to resolve the said
+issue/settle the said matter vide our email dated [26/09/2017] ...... We
+state that despite the existing dispute between JT Corporation and us you
+(being an insurance company) made the payment under the Third Invoice
+Goods to JT Corporation.
+d.
+In your Letter, you have relied upon the letter of assignment
+(absence of date of said assignment) made and executed by JT
+Corporation addressed to you which is provided to us only vide your said
+Letter ("said Assignment Letter"). We have not granted any consent or
+confirmation to the Assignment Letter and/or acknowledged or confirm
+the Assignment Letter; and the same is provided to us vide your Letter
+only on [08/10/2019] after almost two years from the date of execution
+(which speaks volumes of your intension to deceit and defrauding us by
+coughing up the Third Sale Amount and interest amounts from us for no
+reason whatsoever). It is pertinent to note that the Assignment Letter is
+executed after our email dated [26/09/2017] which is addressed by us to
+you thereby notifying you of the existing dispute between the JT
+Corporation and us (in furtherance of your email dated [21/09/2017]
+whereby you requested us to provide the information on the Third Sale
+Transaction). We state that the same is executed as an afterthought. The
+said Assignment Letter is just a plain letter signed only by JT Corporation
+(and not you) without bearing any proper stamp duties, etc. in any event
+the said Assignment Letter ought to have been executed with the
+insurance documents and bear proper stamp duties under the applicable
+laws had it been valid document; to have the power to recover the monies
+as an insurance company and/or otherwise from us ill case of any default
+in making the payment.
+
+We were neither the party to the contract executed between JT Corporation
+and the insurance company; and neither consented to such assignment of
+debt as we were alien to the terms and conditions laid down in the said
+assignment.
+....
+f. We state that very conveniently you have chosen to stay silent on the
+First Contract confirmed by you vide OFFER NO. JT-17-01-02-AMRIT
+Dt.02.01.2017 for supply of 40 Mts of TOLUENE DI-ISCOYANATE at USD
+3100/MT totaling to USD 124000.00, which you have failed to honor
+
+[PAGE 13]
+Page 13 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+resulting in material disputes of Third Transaction Payment and have
+annexed the documents which are favoring you solely.
+(Emphasis supplied)
+
+12.
+When we look at the above reply to the Demand Notice, we notice that the
+Corporate Debtor had flatly denied that they were liable to make any payments
+under the third PI and held the claims raised to be as false. It was also clearly
+mentioned in the said letter that they had already notified the Appellant on
+26.09.2017 about the existing dispute between the Corporate Debtor and JTC
+with regard to third PI. There is also a clear mention that dishonoring of first PI
+by JTC has led to the present dispute in the payment of the third PI. The letter
+also mentions that prior to the signing of the LoA between JTC and the Appellant,
+there was no consultation with the Corporate Debtor nor their consent obtained
+thereto. It was also alleged that the LoA was not a valid document as it was
+executed without insurance documents and was deficient of stamp duties under
+applicable law besides having been executed as an afterthought. We are
+therefore convinced that the tone and tenor of the reply to the Demand Notice
+unabashedly manifests existence of dispute. Even though this Notice of Dispute
+was sent beyond the prescribed ten days period from the date of issue of Demand
+Notice, it does not negate the existence of dispute.
+13.
+It is, however, the case of the Appellant that the Corporate Debtor in their
+e-mail dated 26.09.2017 addressed to them had clearly acknowledged the
+outstanding dues. It is also contended that in the said email the Corporate
+Debtor had admitted that they had failed to pay the outstanding amount due to
+JTC, and that they had no intentions to hold back the payment. Another related
+argument raised is that the Adjudicating Authority wrongly came to the
+
+[PAGE 14]
+Page 14 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+conclusion that there was a pre-existing dispute basis a counter-claim raised by
+the Corporate Debtor in respect of the third PI qua the first PI. The Adjudicating
+Authority committed an error in failing to appreciate that the first PI and third
+PI were unconnected contracts. It is contended that the Corporate Debtor could
+not raise a counter-claim in respect of unconnected contracts and use this
+counter-claim, which being unsettled, uncrystallized and time-barred, could not
+have been held to be a valid ground of pre-existing dispute.
+14.
+Per contra, it is the contention of the Respondent that at no stage had they
+acknowledged any outstanding liability towards JTC. It is their case that JTC
+had delayed the supply of goods in respect of the first PI and hence concerns
+were raised by them about the price difference in case the goods had to be
+purchased from the local market. These concerns were expressed through
+several e-mails as placed in their Reply affidavit to the Section 9 application filed
+before the Adjudicating Authority. The Corporate Debtor had notified the
+Appellant about the outstanding disputes in relation to the third PI in their e-
+mail dated 26.09.2017. Inspite of having been notified of the dispute, the
+Appellant had proceeded to make payment to JTC in respect of goods supplied
+under the third PI. The Appellant cannot initiate proceedings under the IBC for
+recovery of amounts from the Corporate Debtor which had been disputed by the
+Corporate Debtor even before the payment was made by the Appellant to JTC.
+15.
+For a better appreciation of the fact whether the email dated 26.09.2017
+was an acknowledgement of debt or not, it may be useful to have a look at the
+contents of the said email which is as reproduced below:
+
+[PAGE 15]
+Page 15 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+2017-09-26 17:43
+From "Hemal Parekh"<hemal@amritpolychem.com>
+
+To
+"Abhishek Aggarwal"<abhishek.aggarwal@ksure.or.kr>
+Cc.
+appl@ymail.com, sales@induschem.com, info@induschem.com
+
+Dear Sir,
+
+With reference to your below, we would like to inform you that we are
+in business relationship with JT Corporation since 2015 and we had
+done volume business with them till date and our all payment made
+to them are on time as per due date. We had booked 40 Mts of
+TOLUENE DIISOCYANATE 80/20 at USD 3100/MT Totaling to USD
+124000.00 vide their Offer No. JT-17-01-02-AMRIT Dt. 02/01/2017
+to be shipped on or before 31/01/2017 as per contract copy of the
+same is attach for your ready reference. After that when we asked
+for shipping schedule to their Agent Induschem on 19/01/2017 they
+informed that OCI has gone shutdown and shipment will take place
+around 10/02/2017. This are all are not true reason for delay in
+shipment by that price of raw material increased lot and they
+purposely not honor their commitment due to which we have incurred
+huge loss as we have to buy from local market at Higher price to fulfil
+our commitment given to our customers. At present market price of
+material is around USD 4800.00 i.e. increased by USD 1700/-PMT
+Totaling for 40 Mts difference will be USD 68000.00, We are in market
+from last 38 years & we never fail in our commitments to our
+customers as well as our suppliers. We had good reputation in
+market. We had write many email to them to settle the issue but they
+are not willing to settle and giving false statement. Even though we
+had order another product Polymeric MDI M-200 100 MTS @USD
+2850.00 PMT Totaling to USD 285000.00 which they shipped Vide
+their Invoice No. JT-17-04-19-AMRIT Dt. 29/04/2017 for USD
+114000.00 & JT-17-04-21-AMRIT Dt. 29/04/2017 for USD
+171000.00 which is due for payment after 90 days from BL Date i.e.
+on 28/07/2017 during this period also we requested them to settle
+the issue but they have not take any action.
+
+Even though we had paid Invoice of USD 114000.00 on 03/08/2017
+which clearly shows our intention that we are not willing to hold their
+payment or not interested in refusal of payment but as businessmen
+they should also have some ethics and have to accept our loss claim
+& settle the same so that we can release their payment but they have
+not willing to do so. We had also paid payment of other business deal
+of USD 98560.00 on due date of 19/09/2017. We are enclosing
+
+[PAGE 16]
+Page 16 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+herewith copy of ledger of JT Corporation from 01/04/2016 till date
+for your reference.
+
+We hope that you will understand our situation & position in this deal.
+
+Best Regards,
+Hemal Parekh
+
+16.
+When we peruse the above e-mail dated 26.09.2017, we have no reasons
+to disagree with the findings returned by the Adjudicating Authority that the
+Corporate Debtor had clearly conveyed the existence of a counter-claim arising
+out of first PI. While agreeing not to hold back payment, it had been stated by
+the Respondent in no unclear terms that JTC must accept the losses suffered by
+the Corporate Debtor due to non-shipment and timely supply of goods and need
+to settle their claims. There is also clear imputation made about the misconduct
+on the part of JTC arising out of false statements made by them about the supply
+of goods against the first PI. Hence, the e-mail dated 26.09.2017 by no stretch
+of imagination can be construed as a letter of acknowledgment/admission of
+undisputed debt as has been claimed by the Appellant.
+17.
+Quite apart from the fact that the above email dated 26.09.2017 cannot
+be viewed as an acknowledgement of outstanding debt, it is equally significant
+to note that LoA given in favour of the Appellant by the JTC is dated 20.12.2017
+while the e-mail in which the issue of counter-claim and related dispute had
+been raised on 26.09.2017 preceded the LoA. It is of no less significance to note
+that the email of 26.09.2017 was not issued at the initiative of the Corporate
+Debtor but was sent in response to the clarifications sought from the Corporate
+Debtor by the Appellant on 21.09.2017 with respect to the status of outstanding
+
+[PAGE 17]
+Page 17 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+payments of first PI. Since their doubts had been clarified by the Corporate
+Debtor in a detailed email reply, the Appellant cannot claim that they were
+unaware of the existence of counter-claim dispute agitated by the Corporate
+Debtor before the LoA. Thus, we have no reasons not to agree with the
+Respondent that the Appellant had been kept abreast by them of their ongoing
+dispute with JTC in respect of the first PI.
+18.
+Since the JTC had purportedly delayed the supply of goods in respect of
+the first PI, concerns had been raised by the Corporate Debtor from time to time
+about the price differential in case the goods had to be sourced from the local
+market. These concerns were expressed through several e-mails which have
+been placed in the Reply affidavit of the Corporate Debtor to the Section 9
+application filed before the Adjudicating Authority which remain uncontroverted.
+These e-mails dated 20.01.2017, 02.02.2017 and 03.08.2017 which appear at
+pages 304-307 of APB cannot be brushed aside. When we see these e-mails
+which when read in conjunction with the email of the Respondent addressed to
+the Appellant on 26.09.2017, it is unmistakably clear that the Corporate Debtor
+had made it known to both JTC as well as the Appellant that payment for the
+goods against the third PI was not released to JTC due to non-settlement of
+claims of losses suffered by them on account of delayed shipment of goods by
+JTC under first PI compelling them to purchase goods at a higher price from
+alternative sources thereby incurring losses. Thus, the alleged loss incurred by
+the Corporate Debtor in the context of the first PI due to non-shipment of goods
+by JTC remained a matter of dispute between the parties.
+
+[PAGE 18]
+Page 18 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+19.
+In such circumstances, we find no good grounds to differ with the findings
+of the Adjudicating Authority that the Appellant was well aware of the fact before
+stepping into the shoes of the JTC that there was a pre-existing dispute between
+the Corporate Debtor and JTC and this was sufficient ground to dismiss the
+Section 9 application.
+20.
+The object and purpose of IBC is to reorganize and revive the Corporate
+Debtor and Section 9 applications are not contemplated to decide disputes
+between the parties regarding their operational dues. The provisions of IBC
+cannot be turned into debt recovery proceedings. Where any operational creditor
+seeks to initiate insolvency process against a Corporate Debtor, it can only be
+done in clear cases where no real dispute exists which necessitates further
+adjudication by a competent court. Once plausibility of a pre-existing dispute is
+noticed and the dispute is not found to be prima facie spurious or hypothetical,
+the Adjudicating Authority is not required to enter into final adjudication but to
+reject the Section 9 application. Present is a case where pre-existing dispute is
+writ large and that being so, Section 9 application deserved to be rejected as has
+been rightly done by the Adjudicating Authority.
+21.
+In view of the fact that we are satisfied with the findings of the Adjudicating
+Authority dismissing the present Section 9 application on grounds of pre-
+existing dispute, we do not find it necessary or relevant to go into the other issues
+raised by the Respondent viz that the Section 9 application was barred by
+limitation or that the Appellant did not qualify to be an Operational Creditor
+since the LoA was an invalid and unregistered document which only provided
+
+[PAGE 19]
+Page 19 of 19
+Company Appeal (AT) (Insolvency) No. 1383 of 2023
+
+right of subrogation and therefore the debt did not become legally assigned to
+the Appellant in terms of Section5(20) of the IBC.
+22.
+For the reasons discussed above, the Appeal is found to be devoid of merit
+and stands dismissed. We find no reasons to modify the impugned order. We
+however allow liberty to the Appellant to seek alternative recourse that may be
+available to them before any appropriate forum in accordance with law. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+
+Place: New Delhi
+Date: 15.10.2025
+
+Abdul/ Harleen

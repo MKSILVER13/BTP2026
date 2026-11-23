@@ -1,0 +1,1153 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 19 of 2022
+
+(Arising out of the Order dated 01.11.2021 passed by the National Company
+Law Tribunal, Principal Bench, New Delhi in IA NO. 2785 OF 2021 in C.P.
+(IB) No. 863/PB/2020.
+
+Present
+
+For Appellants:
+Mr. Krishnendu Datta, Sr. Advocate along with
+Ms. Pallavi Kumar, Ms. Priya Chauhan,
+Ms. Kavya Jha, Ms. Niharika Sharma, Mr.
+Harsh Gurbani, Mr. Harshit Chaudhary,
+Advocates.
+For Respondent:
+
+Mr. Ritin Rai, Sr. Advocate along with
+Mr. Diwakar Maheshwari, Ms. Pratiksha Mishra
+& Mr. Vishnu Shriram, Advocates for R-1.
+Mr. Sandeep Singhi, Ms. Ruby Singh Ahuja,
+Mr. Vishal Gehrana, Ms. Aakriti Vohra, &
+Ms. Varsha Himatsingka, Advocates for R-2.
+
+U.P. Jal Vidyut Nigam Limited
+Pipri, P.O. Turra District: Sonebhadra
+Uttar Pradesh -231221
+
+...Appellant
+
+Versus
+
+Mr. Ashish Chhawchharia
+(IBBI/IPA-001/IP-P00294/2017-18/10538)
+Resolution Professional of Essar Power M.P. Limited
+Grant Thornton 10 C Hungerford Street
+Kolkata - 700017
+
+...Respondent
+
+[PAGE 2]
+Page 2 of 40
+
+J U D G E M E N T
+( 11.12.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e., U.P. Jal Vidyut
+Nigam Limited (‘UPJVNL’) who is an operational creditor of Essar Power M.P.
+Limited under Section 61 of the Insolvency and Bankruptcy Code, 2016 (‘Code’)
+against the Order dated 01.11.2021 ("Impugned Order") passed by the National
+Company Law Tribunal, Principal Bench ("Adjudicating Authority") in I.A.
+No. 2785 of 2021 in C.P. (IB) No. 863/PB/2020.
+Mr. Ashish Chhawchharia, who is the Resolution Professional of Essar Power
+M.P. Limited (‘Corporate Debtor’) is the Respondent No.1 herein.
+Adani Power Limited, is the Respondent No.2 herein.
+2.
+The Appellant submitted that it is a hydro-electric generating company
+established by the Government of Uttar Pradesh exclusively for the development
+of small hydroelectric power in the state. The Appellant contended that on
+October 23, 2009, it entered into a binding Agreement with Corporate Debtor for
+the supply of water from upstream of Rihand Reservoir to Corporate Debtor 's
+thermal power plant in Singrauli District, Madhya Pradesh, at rates specified in
+the Office Memorandum dated February 03, 2001. The Appellant further
+submitted that Corporate Debtor commenced drawing water pursuant to the
+Agreement, triggering payment obligations under Clause 9, which mandates
+billing at the end of each calendar month with payment due within 30 days, and
+
+[PAGE 3]
+Page 3 of 40
+
+a surcharge of seven paise per hundred rupees per day on overdue amounts,
+without prejudice to disconnection rights after 15 days' notice.
+3.
+The Appellant contended that invoices were duly raised from April 2012
+to October 2020 for water drawl, late payment surcharges from August 2013 to
+November 2020, and generation loss charges, supported by reminder letters dated
+April 3, 2013; September 28, 2013; August 6, 2014; October 10, 2014; January
+28, 2015; and June 11, 2020. The Appellant further submitted that the Corporate
+Debtor cleared invoices up to February 2013 but defaulted thereafter, including
+April-November 2012 dues, leaving crystallized operational debt of Rs.
+12,08,64,637 as on September 29, 2020.
+4.
+The Appellant submitted that the Agreement expired on October 22, 2019,
+yet at Corporate Debtor 's request, it permitted continued water drawl, with
+Corporate Debtor seeking renewal vide letters dated September 17, 2019, and
+October 3, 2019, for a further 10-year term from October 23, 2019, thereby
+extending the Agreement by mutual conduct. The Appellant contended that
+monthly invoices continued post-expiry based on meter readings, reflecting
+ongoing usage and liability, with total post-CIRP dues reaching Rs. 5,74,61,202
+up to November 2021. The Appellant further submitted that letters dated June 2,
+2014; August 14, 2014; December 18, 2014; and January 28, 2015, warned
+Corporate Debtor of violations and demanded payment for escalating dues till
+June, November, and December 2014 respectively.
+
+[PAGE 4]
+Page 4 of 40
+
+5.
+The Appellant contended that Corporate Debtor's past payments till
+February 2013 unequivocally acknowledge water drawl from Rihand Reservoir
+under the Agreement, negating any subsequent denial. The Appellant submitted
+that rising meter readings in sequential invoices irrefutably prove consumption,
+as water quantity is measured via meters installed and controlled by the Appellant
+per Clause 7(a) of the Agreement.
+6.
+The Appellant submitted that upon public announcement post Adjudicating
+Authority's CIRP initiation order dated September 29, 2020, it filed Form B on
+December 28, 2020, claiming Rs.12,08,64,637 as operational creditor, annexed
+with invoices and records. The Appellant contended that supplementary claims
+followed via letters dated March 10, 2021 (Rs. 4,10,63,874 till February 2021);
+May 25, 2021 (Rs. 5,07,60,568 till April 2021); and June 14, 2021 (Rs.
+5,17,21,063 till May 2021), with ongoing invoices till November 2021. The
+Appellant further submitted that the RP's letter dated November 5, 2020,
+explicitly recognized water supply as an essential service under Section 14 of the
+Code and Regulation 32 CIRP Regulations, requesting uninterrupted continuity
+to run the Corporate Debtor as a going concern.
+7.
+The Appellant contended that this admission of the RP contradicts
+Corporate Debtor 's Writ Petition (W.P. No. 12331/2020) before Allahabad High
+Court challenging invoices from December 5, 2012, to May 1, 2020, and removal
+notice dated January 16, 2020, with no interim relief granted despite listings from
+August 14, 2020, and pending amendment application dated May 13, 2021.
+
+[PAGE 5]
+Page 5 of 40
+
+8.
+The Appellant submitted that creditor lists dated February 24, 2021, and
+May 11, 2021, wrongly admitted the claim of the Appellant at Rs.1 as contingent,
+citing the Writ Petition under Note 2, despite full documentation and RP's own
+acknowledgment. The Appellant contended that vide objection letter dated April
+6, 2021, it highlighted: (i) unpaid invoices per Clause 9 (ii) past payments (iii)
+increasing meter readings and (iv) RP's admission, demanding full admission and
+revised list, yet RP replied on May 25, 2021, reiterating contingency. The
+Appellant further submitted that RP overstepped by adjudicating, exceeding
+collation/verification powers under the Code & Regulations. The Appellant
+contended that RP lacks quasi-judicial/adjudicatory authority, possessing merely
+administrative powers to verify/collated claims, as held by Supreme Court
+in Swiss Ribbons Pvt. Ltd. v. Union of India [(2019) 4 SCC 17].
+9.
+The Appellant submitted that Section 14(2) of the Code and Regulation 31
+CIRP Regulations mandate RP to make payment for essential services on month-
+to-month basis to sustain going concern, not free supply. The Appellant
+contended that this Appellate Tribunal in the matter of Dakshin Gujarat Vij Co.
+Ltd. v. ABG Shipyard Ltd. (CA(AT)(Ins.) 334/2017) held that current charges
+for essential services like water/electricity form Insolvency Resolution Process
+costs, payable without moratorium bar, waiving surcharges conditionally but
+affirming liability.
+10.
+The Appellant contended that generation loss is legitimate as per Clauses
+7-8, as Rihand Reservoir water constitutes stored energy, with Appellant
+
+[PAGE 6]
+Page 6 of 40
+
+incurring upkeep costs, charged at 189.256198 gallons per rupee (2009-2013,
+escalating 10% every five years) as per Office Memorandum formula from April
+3, 1999, meeting.
+11.
+The Appellant submitted that Adjudicating Authority lacked jurisdiction
+over pre-CIRP contractual dispute, sub-judice in Allahabad High Court, erring in
+directing 12-month water supply/land use continuation or till High Court
+decision, foisting renewal on unwilling Appellant. The Appellant contended this
+contravenes Supreme Court rulings: Jaypee Kensington Boulevard Apartments
+Welfare Assn. v. NBCC (India) Ltd. [(2021 SCC OnLine SC 253)] prohibiting
+resolution plan alterations to statutory contracts sans governmental consent per
+Regulation 37 CIRP Regulations; and Sangyong Engineering & Construction
+Co. Ltd. v. NHAI [(2019) 15 SCC 131] on public policy limits. The Appellant
+further submitted that impugned order overlooked records proving drawl and
+therefore, clear liability of the Corporate Debtor to make payments to the
+Appellant.
+12.
+Concluding his arguments, the Appellant requested this Appellate
+Tribunal to allow the present appeal.
+13.
+Per contra, the Respondent No.1 denied all averments made by the
+Appellant as misleading and baseless.
+14.
+The Respondent No. 1 submitted that the Appellant has alleged
+irregularities in the classification of its claim as "contingent," the Corporate
+Debtor's failure to make payments for water drawn from Rihand Reservoir during
+
+[PAGE 7]
+Page 7 of 40
+
+the CIRP, and the concessions in the Approved Resolution Plan lacking
+continuation of pre-CIRP arrangements for 12 months or until disposal of the
+Writ Petition. However, these averments are bereft of merit, as the claim's
+contingent nature stems from ongoing sub-judice proceedings before the Hon'ble
+High Court of Allahabad, rendering any interference by the Adjudicating
+Authority or even by this Appellate Tribunal an usurpation of judicial
+jurisdiction.
+15.
+The Respondent No. 1 submitted that the Appellant's claim pertaining to
+the pre-CIRP period is admittedly contingent. The Corporate Debtor has
+challenged the legality and validity of invoices raised by the Appellant from
+05.12.12 till 01.05.2020 (Impugned Invoices) before the Hon'ble High Court of
+Allahabad vide Writ Petition (Civil) No. 12331 of 2020 (Writ Petition), first listed
+for hearing on 14.08.2020, prior to the Admission Order dated 23.07.2020. Notice
+in the Writ Petition has been issued to the Appellant, and the matter remains sub-
+judice since issuance of the Admission Order. The Respondent No. 1 had filed an
+application before the Allahabad High Court praying for urgent listing of the Writ
+Petition.
+16.
+The Respondent No. 1 submitted that Regulation 14(1) of the CIRP
+Regulations, provide: "Where the amount claimed by a creditor is not precise due
+to any contingency or other reason, the interim resolution professional or the
+resolution professional, as the case may be, shall make the best estimate of the
+amount of the claim based on the information available with him." Based on
+
+[PAGE 8]
+Page 8 of 40
+
+information/documents available, the legality and validity of the Impugned
+Invoices are sub-judice before the Allahabad High Court. Accordingly, the
+question of the Corporate Debtor's liability to make payments under the
+Impugned Invoices is contingent on the outcome of the Writ Petition. The Hon'ble
+Supreme Court in Essar Steel (supra) has upheld the conduct of a Resolution
+Professional in admitting such claims at a notional value of Rs. 1 and classifying
+balance as "contingent." Thus, in the instant case, the Respondent No. 1's conduct
+in recording the Appellant's claim against the Corporate Debtor as the best
+estimate that could be arrived at.
+17.
+The Respondent No. 1 submitted that even if assuming (and not conceding)
+that the averments in the Appeal in entirety are correct, a plain reading thereof
+does not make out any ground whatsoever for granting the relief prayed for by
+the Appellant i.e., treatment of its claims as crystallised claim, as doing so would
+usurp the jurisdiction of the Hon'ble Allahabad High Court.
+18.
+The Respondent No. 1 submitted that the State of Madhya Pradesh was
+allocated 5.25 MAF water from the Son River under the terms of the Bansagar
+Project Agreement dated 16.11.1973 (Bansagar Project) entered into amongst the
+States of Madhya Pradesh, Bihar, and Uttar Pradesh. Out of this share, the State
+of Madhya Pradesh could utilise 0.78 MAF water from the Rihand Reservoir,
+which was under the control of the State of Uttar Pradesh. Under the terms of the
+Bansagar Project, no allocation was made to the State of Uttar Pradesh from the
+Rihand Reservoir.
+
+[PAGE 9]
+Page 9 of 40
+
+19.
+The Respondent No. 1 submitted that subsequently, the Corporate Debtor
+was allocated 0.058 MAF per annum of water by Madhya Pradesh Water
+Resources Department (MPWRD) from Rihand Reservoir on 27.07.2006 against
+Government of Madhya Pradesh's share of water in Rihand Reservoir, which is
+under the control of the Appellant. Therefore, merely due to the control of the
+Appellant on the Rihand Reservoir, in order to enable the Corporate Debtor to
+draw water from the reservoir by building intake pump house in the submergence
+area in Uttar Pradesh, the Appellant entered into the Agreement dated 23.10.2009
+with the Corporate Debtor to enable the Appellant to be able to construct the
+pump and draw water from the said Rihand Reservoir.
+20.
+The Respondent No. 1 contended that subsequently in April 2012, the
+Corporate Debtor started drawing water out of the share allocated to it by the
+State of Madhya Pradesh from the Rihand Reservoir. Between January 2013 to
+May 2015, the Appellant addressed various correspondences raising invoices on
+the Corporate Debtor for the water drawn by it from the Rihand Reservoir under
+various heads, including charges for drawl of water, loss of power generation,
+late payment surcharge etc. The Corporate Debtor, in response, addressed
+correspondences in the said period calling upon the Appellant to cancel the
+invoices raised by it considering that it was drawing water from the share of the
+State of Madhya Pradesh in the Rihand Reservoir. As such, the claim of Appellant
+under the said invoices remained in dispute from the very first day.
+
+[PAGE 10]
+Page 10 of 40
+
+21.
+The Respondent No. 1 submitted that it is evident that there are some pre-
+existing disputes between the Appellant and the Corporate Debtor relating to the
+locus of the Appellant to levy charges on the water drawn from Rihand Reservoir
+as the water allocation is from the share of the State Government of Madhya
+Pradesh and accordingly, the charge for the same is being levied by the
+Government of Madhya Pradesh under the terms of the Agreement for Supply of
+Water to Industrial/Power Plant dated 16.02.2010 for the water being utilised by
+the Corporate Debtor under the said Agreement, and the charges are being
+regularly paid to the Government of Madhya Pradesh by the Corporate Debtor in
+terms of the said 16 February Agreement.
+22.
+The Respondent No. 1 contended that on 20.06.2013, the Corporate Debtor
+addressed a letter to the Appellant intimating that both the Appellant and the
+MPWRD have been raising invoices on the Corporate Debtor for the same
+quantum of water drawn from the Rihand Reservoir. Accordingly, the Corporate
+Debtor requested the Appellant to cancel the invoices raised by the Corporate
+Debtor in relation to the water drawn from the Rihand Reservoir.
+23.
+The Respondent No. 1 submitted that additionally, on 21.11.2013, the
+Corporate Debtor addressed a letter to the Appellant intimating that the Corporate
+Debtor has raised the issue referred to in the above sub-paragraph with the State
+of Madhya Pradesh. Further, the Corporate Debtor annexed a cheque for an
+amount of Rs. 10,51,227 towards the invoices raised by the Appellant and
+
+[PAGE 11]
+Page 11 of 40
+
+categorically stated that said payments are being made to the Appellant under
+protest.
+24.
+The Respondent No. 1 contended that furthermore, the Respondent No. 1
+states that in relation to the foregoing, the Corporate Debtor had filed Writ
+Petition No. 1724 of 2015 before the Hon'ble Madhya Pradesh High Court on
+02.02.2015 wherein it had challenged the levy of water charges by the Appellant
+since the water is allocated from the share of the State of Madhya Pradesh and
+the charge for the same is levied by the Government of Madhya Pradesh. The
+Respondent No. 1 submitted that the Hon'ble Madhya Pradesh High Court vide
+an order dated 30.03.2015 had granted a stay against any coercive action after
+hearing the Corporate Debtor's argument at length. The Respondent No. 1
+contended that on 27.02.2020, the First Writ Petition was disposed of by the
+Hon'ble High Court of Madhya Pradesh only on the ground of territorial
+jurisdiction with liberty to pursue remedy before the appropriate jurisdiction.
+25.
+The Respondent No. 1 submitted that the interim protection granted by the
+Madhya Pradesh High Court vide order dated 30.03.2015 had been in operation
+till 27.02.2020. As such, the Appellant has been aware that the Corporate Debtor
+had, at all material times, objected to the liability to make payments towards
+Impugned Invoices and that issue concerning legality of the said invoices were
+sub-judice, and continues to be so even thereafter.
+26.
+The Respondent No. 1 contended that consequently, the Corporate Debtor
+has filed the Writ Petition before the Allahabad High Court wherein the Corporate
+
+[PAGE 12]
+Page 12 of 40
+
+Debtor has inter alia challenged the right of the Appellant to levy and recover
+charges for drawl of water and for loss of power generation from the Corporate
+Debtor under the Agreement. The Respondent No. 1 submitted that the said Writ
+Petition was first listed for hearing on 14.08.2020 i.e., before the Admission
+Order of the Adjudicating Authority and has been sub-judice before the
+Allahabad High Court since then. In other words, the Writ Petition was already
+sub-judice as on the date of the Admission Order.
+27.
+The Respondent No. 1 contended that subsequently, pursuant to
+appointment of the Respondent No. 1 as the Resolution Professional of the
+Corporate Debtor, vide a letter dated 05.11.2020 had called upon the Appellant
+to not interrupt the supply of water to the Corporate Debtor during the CIRP as
+being essential for the continued existence of the Corporate Debtor as a going
+concern, and to submit its claim with proof for the pre-CIRP period.
+28.
+The Respondent No. 1 submitted that the Corporate Debtor has always
+maintained a consistent stand and disputed any liability under the Impugned
+Invoices. However, the Appellant continued raising invoices for generation loss
+during the CIRP purportedly in terms of the 23 October, 2019 Agreement, which
+had already expired. As stated above, the Appellant had no right or authority to
+claim generation loss from the Corporate Debtor since the water being drawn by
+the Corporate Debtor belonged to the portion allocated to the State of Madhya
+Pradesh. In any case, the Appellant's right to claim such charges is pending
+
+[PAGE 13]
+Page 13 of 40
+
+adjudication before the Hon'ble High Court of Allahabad and the Appellant could
+not have unilaterally issued invoices on the Respondent No. 1 for generation loss.
+29.
+The Respondent No. 1 contended that on 10.03.2021, the Appellant wrote
+a letter to the Respondent No. 1 claiming that a sum of Rs. 4,84,53,332/-
+pertaining to the charges for drawl of water by the Corporate Debtor between
+October 2020 till February 2021 which is outstanding and is payable.
+30.
+The Respondent No. 1 contended that in view of the fact that the liability
+towards Appellant has always been disputed, and that the payment is being
+consistently made to MPWRD, the question of payment to the Appellant for the
+same quantum of water drawn during CIRP or pre-CIRP admittedly from the
+share of water allocated to Madhya Pradesh would not arise. The Respondent No.
+1 submitted that further, the issue of entitlement of the Appellant to claim any
+amount in relation to the water drawn by the Corporate Debtor is already subject-
+matter of adjudication before the Allahabad High Court.
+31.
+The Respondent No. 1 contended that it is also apparent that the Order
+dated 01.11.2021 pronounced by the Adjudicating Authority has already
+considered all the submissions made herein by the Appellant. It was only after
+examining the offers of resolution plan and the fact that Allahabad High Court is
+seized of the issue concerning validity of the Impugned Invoices, for which the
+charges have already been paid to MPWRD,
+32.
+The Respondent No. 1 submitted that further, on the issue of reliefs and
+concessions that was sought by the SRA, the Adjudicating Authority found that
+
+[PAGE 14]
+Page 14 of 40
+
+use of water and land plays a vital role in resolution and thus, relying upon the
+judgement of the Hon'ble Supreme Court in Swiss Ribbons Pvt. Ltd. & Anr. v.
+Union of India & Ors., Writ Petition (Civil) No. 99/2018, allowed the concession
+for continuation of the arrangement between the Corporate Debtor and the
+Appellant during the moratorium period, for a period of 12 months or until
+disposal of the Writ Petition, whichever is earlier (Concession) as approved by
+the Adjudicating Authority vide its Impugned Order, which is in conformity with
+the provisions of the Code read with the CIRP Regulations.
+33.
+Concluding his pleadings, the Respondent No.1 requested this Appellate
+Tribunal to dismiss the appeal with cost.
+34.
+The Respondent No.2 also denied all averments made by the Appellant as
+frivolous.
+35.
+The Respondent No. 2 submitted that the contingent classification of the
+Appellant's claim, denial of payments for alleged services during the CIRP of
+Essar Power M.P. Limited (Corporate Debtor), and the concession for continued
+water drawl and land use in the Approved Resolution Plan, is devoid of merit and
+liable to dismissal in limine. The Respondent No. 2 contended that the Appellant's
+grievances arise from the sub-judice recoverability of its claim before the Hon'ble
+High Court of Judicature at Allahabad in Writ Petition No. 12331 of 2020,
+instituted prior to CIRP admission on 23.07.2020, precluding any adjudication
+herein as an encroachment on superior judicial jurisdiction.
+
+[PAGE 15]
+Page 15 of 40
+
+36.
+The Respondent No. 2 contended that the principal issues raised by the
+Appellant, that is, mandatory full admission of the claim, entitlement to CIRP-
+period payments, and illegality of the 12-month or till-Writ-disposal concession,
+do not arise from the facts but constitute a contrived narrative of the Appellant.
+The Respondent No. 2 submitted that the Resolution Professional rightly
+classified the claim as contingent under Regulation 14 of the Insolvency and
+Bankruptcy Board of India (Insolvency Resolution Process for Corporate
+Persons) Regulations, 2016, as the Corporate Debtor challenged the Appellant's
+levy of water drawl and generation loss charges through Writ Petition No. 1724
+of 2015 before the Hon'ble High Court of Madhya Pradesh, obtaining interim
+relief on 30.03.2015. The Respondent No. 2 contended that the said petition was
+disposed on 27.02.2020 solely on jurisdictional grounds, directing recourse to the
+Allahabad High Court, where the matter remains pending, rendering
+recoverability contingent on its outcome.
+37.
+The Respondent No. 2 submitted that even if reclassified as operational
+debt, the Appellant's entitlement under the Resolution Plan dated 11.05.2021
+(Approved Resolution Plan) is Nil, with operational creditors subject to uniform
+haircuts. The Respondent No. 2 contended that the Form B filed on 28.12.2020
+claimed Rs. 12,08,64,637/- for April 2012 to September 2020, but the portion
+from April 2012 to November 2017 is barred by limitation under Article 137 of
+the Limitation Act, 1963, and thus inadmissible in CIRP. The Respondent No. 2
+submitted that on 27.07.2006, the Government of Madhya Pradesh allocated
+
+[PAGE 16]
+Page 16 of 40
+
+0.058 MAF water from Rihand Reservoir to the Corporate Debtor from its 5.25
+MAF share under the Bansagar Project Agreement dated 16.09.1973, with
+payments duly remitted to the Madhya Pradesh Water Resources Department,
+negating any duplicate liability to the Appellant notwithstanding its reservoir
+control.
+38.
+The Respondent No. 2 contended that to facilitate drawl via intake
+infrastructure in the Uttar Pradesh submergence area, the Appellant entered the
+Agreement dated 23.10.2009, allowing construction and use subject to prescribed
+charges and restricted under Clause 6(b) to plant operations and colonies;
+however, this Agreement expired unrenewed on 22.10.2019, well before CIRP
+initiation on 29.09.2020. The Respondent No. 2 submitted that disputes over the
+Appellant's levy locus existed ab initio, with the Corporate Debtor protesting dual
+invoicing on 20.06.2013 and paying Rs. 10,51,227 under protest on 21.09.2013,
+while consistently settling dues with Madhya Pradesh. The Respondent No. 2
+contended that the Madhya Pradesh High Court granted stay against coercive
+action from 30.03.2015 until 27.02.2020, apprising the Appellant of the contested
+nature of its claims on Madhya Pradesh-allocated water.
+39.
+The Respondent No. 2 submitted that post-expiry, the Appellant's
+unilateral invoicing for generation loss during CIRP lacks legal foundation, as
+water supply qualified as essential under Section 14(2) Code to preserve the
+Corporate Debtor's going-concern status; the Resolution Professional's letter
+dated 05.11.2020 sought non-interruption and pre-CIRP claim submission, which
+
+[PAGE 17]
+Page 17 of 40
+
+the Appellant ignored without substantiating charges. The Respondent No. 2
+contended that for October 2020 to February 2021, the monthly bills aggregated
+Rs. 46,34,274/-, contra the Appellant's exaggerated demand of Rs. 4,84,53,332/-
+vide letter dated 10.03.2021, revealing inflated arrears; likewise, March to
+November 2021 bills totalled Rs. 90,07,870/- with irregular escalations, limiting
+any viable CIRP claim to Rs. 1,36,42,144/- at best, subject to Allahabad High
+Court resolution and precluded by prior Madhya Pradesh remittances.
+40.
+The Respondent No. 2 submitted that the Impugned Order dated
+01.11.2021 evaluated submissions, confirming the Appellant's operational
+creditor status, recognizing CIRP-period claims and abstaining from jurisdiction
+over sub-judice matters. The Respondent No. 2 contended that no CIRP payment
+default subsists, as charges were directed to the appropriate authority, and the
+Adjudicating Authority correctly deferred to the Allahabad High Court on the
+underlying dispute. The Respondent No. 2 submitted that the concession of the
+Impugned Order, permitting continuation of moratorium-period arrangements for
+12 months or until Writ disposal (whichever earlier), aptly underscores water and
+land's pivotal role in revival, consonant with Swiss Ribbons Pvt. Ltd. v. Union of
+India, (2019) 4 SCC 17, and Section 31(2) IBC.
+41.
+The Respondent No. 2 contended that the Approved Resolution Plan
+entails infusion of Rs. 1,102 Crores, repayment of Rs. 2,500 Crores to secured
+creditors, and remediation of defaults as per Schedule 2, Serial No. 3; leveraging
+its stature as India's largest private thermal power producer with 12,450 MW
+
+[PAGE 18]
+Page 18 of 40
+
+capacity, the Respondent No. 2's implementation expertise necessitates such
+interim safeguards to optimize value and avert operational halts. The Respondent
+No. 2 submitted that the concession advances public interest by forestalling
+disruptions, faithful to the Code's rehabilitative mandate, without impinging on
+the Appellant's Writ entitlements.
+42.
+Concluding arguments, the Respondent No. 2 requested this Appellate
+Tribunal to dismiss the appeal.
+Findings
+43.
+We have noted the submission of both the parties in detail above. To
+understand the context of the pleadings, it is important to note the background of
+the case. We note that the Financial Creditor M/s ICICI Bank filed an application
+bearing C.P. (IB) No. 863/PB/2020 under Section 7 of the Code for initiation of
+CIRP against the Corporate Debtor i.e., Essar Power M.P. Limited (‘Corporate
+Debtor’) which was admitted by the Adjudicating Authority on 29.07.2020.
+Subsequently, the then RP made a public announcement in Form A on 10.10.2020
+in terms of Regulation 6(1) of IBBI (Insolvency Resolution Process for Corporate
+Person), Regulation, 2016.
+44.
+It is important to note the financial background of the case in terms of claim
+filed, admitted claims and the claim provided in the Resolution Plan. We note
+that Secured Financial Creditors filed total claims of Rs. 12,439 Crores (approx..)
+out of which claims of Rs. 12,012 Crores (approx.) were admitted. The
+
+[PAGE 19]
+Page 19 of 40
+
+Resolution Plan provide for Rs. 2,500 Crores which is 20.69% of the amount
+claimed.
+Similarly, we note that Unsecured Financial Creditor filed claims for
+Rs. 497.59 Crores out of which claims of Rs. 545.91 Crores were admitted. The
+Resolution Plan provide for NIL which is 0% of the amount claimed.
+We further note that Operational Creditors filed claim of Rs. 7,272 Crores
+out of which claims of Rs. 6,560 Crores were admitted. The Resolution Plan
+provide for NIL which is 0% of the amount claimed.
+Thus, the grand total of claims made by all creditors was Rs. 20,209 Crores
+admitted claims was Rs. 12,736 Crores (approx.). The Resolution Plan provide
+Rs. 2,500 Crores (approx.) which is 12.37% of the amount claimed.
+45.
+We need to take into consideration that the claims of Unsecured Financial
+Creditor of Rs. 497.59 Crores as well as claims of Operational Creditors of
+Rs. 7,272 Crores have been completely wiped out and nil payment has been
+provided. Here, we would like to note that the total claims of the Appellant was
+Rs. 12.09 Crores (Approximately), which is in percentage terms a very
+minicular zize of 0.0006% of total claim. At this stage, we would like to state
+that all claims are required to be equally important, however, the claims are
+considered w.r.t. Resolution Plan amount approved by CoC and Adjudicating
+Authority and in this context the Resolution Plan provide nil payment to the
+Appellant alongwith all Unsecured Financial Creditor and Operational Creditor.
+
+[PAGE 20]
+Page 20 of 40
+
+46.
+We take note that the total fair value of the Corporate Debtor was disclosed
+as Rs. 2657.2 Crores and the liquidation value of the Corporate Debtor was
+disclosed as Rs. 1733.4 Crores.
+47.
+We also note that several I.A.’s were filed by various objectors opposing
+the Resolution Plan proposed by the CoC during adjudication for approval of
+Resolution Plan by the Adjudicating Authority. The Appellant herein also filed
+an I.A. No. 2785 of 2021 for his claims. In the said I.A. 2785 of 2021, the
+following reliefs were sought by the Appellant :-
+(i) Direct the Resolution Professional of the Corporate
+Debtor to admit the entire amount claimed by the Applicant
+i.e. an amount of INR 12,08,64,637 (Rupees Twelve Crore
+Eight Lac Sixty Four Thousand Six Hundred Thirty Seven
+Only), being the total outstanding amount payable till
+September 29, 2020 i.e, the date of commencement of CIRP;
+(ii)
+Direct the Resolution Professional to revise and
+update the list of creditors uploaded on the website of the
+Corporate Debtor as per Form B submitted to the
+Respondent; and
+(iii)
+Direct the Resolution Professional to admit the
+outstanding claim amount of Rs. 5,17,21,063 (Rupees Five
+Crore Seventeen Lakhs Twenty One Thousand Sixty Three
+Only) for the period of October 2020 to May 2021 and
+immediately release payments for the same.
+(iv)
+Direct the Resolution Professional of the Corporate
+Debtor to pay month to month charges to the Applicant
+towards the drawl of water; and
+
+[PAGE 21]
+Page 21 of 40
+
+(v)
+Pass any other or further order(s) as this Hon'ble
+Tribunal may deem fit and necessary in the facts and
+circumstances of the given case."
+(Emphasis Supplied)
+48.
+We take into consideration the relevant portion of the Impugned Order
+dated 01.11.2021 with reference to the I.A. No. 2785 of 2021 which reads as
+under :-
+“54. That the necessary of going into the Prayer (i) and (ii)
+made by U.P Jal Vidyut Nagar Limited is not required since
+undisputedly the U.P Jal Vidyut Nagar Limited, is falling
+under the category of the Operational Creditor. That
+irrespective of the claim amount the Operational Creditor
+are awarded 'nil' value in the resolution plan.
+55. That with respect to Prayer (iii) and (iv) the U.P Jal
+Vidyut Nagar Limited has raised its claim which as per it is
+arising during the CIRP Period.
+64. That in our view the dispute with regard to the charges
+levied by UPJVNL existed between the Corporate Debtor,
+UPJVNL and State of Madhya Pradesh, much prior to the
+initiation of CIRP. Further the litigation went to the Hon'ble
+High Court of Madhya Pradesh, by filing Writ Petition, which
+got dismissed on the jurisdictional ground. Further the Writ
+Petition was filed before the Hon'ble Allahabad High before
+the commencement of the CIRP.
+65. Here it is not the case where no payment, whatsoever
+made by the Corporate Debtor during the CIR Process for
+using the water, as the payment has been made to the Madhya
+Pradesh Government. Since the right of UPJVNL to levy
+
+[PAGE 22]
+Page 22 of 40
+
+charges for supplying water to the Corporate Debtor is
+already under challenge, prior to the initiation of the CIRP
+before the Hon'ble Allahabad High Court, therefore we are
+of the considered view that this Adjudicating Authority has
+no jurisdiction to adjudicate the dispute or any claim arising
+out of such transaction which is subject matter of Writ
+Petition before the Hon'ble Allahabad High Court.
+66. That Accordingly we are of the view that Prayer (iii) and
+(iv) made in IA 2785 of 2021 requires no consideration.
+Hence IA 2785 of 2021 is dismissed.”
+(Emphasis Supplied)
+
+49.
+At this stage, it is sufficient to note that the prayers of the Appellant herein
+were not considered favourable by the Adjudicating Authority and against which
+the Appellant has filed the present appeal before us.
+50.
+In the present appeal, following relief has been sought:-
+“In view of the facts mentioned in paragraph 7 above, points in
+dispute and questions of law set out in paragraph 8, the Appellant
+most respectfully prays that this Hon'ble Appellate Tribunal be
+pleased to:
+(a) To set aside the Impugned Order dated November 01, 2021,
+passed by the Hon'ble National Company Law Tribunal in I.A.
+No. 2785 of 2021 in Company Petition (IB) No. 863/PB/2020;
+(b) Direct the Resolution Professional to admit the entire amount
+claimed by the Appellant i.e. and amount of INR 12,08,64,637
+(Rupees Twelve Crore Eight Lac Sixty Four Thousand Six
+Hundred Thirty Seven Only), being the total outstanding amount
+
+[PAGE 23]
+Page 23 of 40
+
+payable till September 29, 2020 i.e. the date of commencement of
+CIRP;
+( c) Direct the Resolution Professional to admit the outstanding
+claim amount of Rs. 5,17,21,063 (Rupees Five Crore Seventeen
+Lakhs Twenty One Thousand Sixty Three Only) for the period of
+October 2020 to May 2021 and immediately release payments
+for the same.
+(d) Direct the Resolution Professional to pay month to month
+charges to the Appellant towards the drawl of water;
+( e) Pass an order awarding cost of the present Appeal;
+(f) Pass such other orders as this Hon'ble National Company
+Law Appellate Tribunal may deem fit and proper in the
+circumstances of the case and thus render justice.”
+(Emphasis Supplied)
+
+51.
+Thus, we note that the Appellant is not seeking to set aside the whole
+Impugned Order but has requested this Appellate Tribunal to set aside the
+Impugned Order 01.11.2021 passed in I.A. No. 2785 of 2021. The other prayers
+are related with the same i.e., direction to RP to admit the entire claims of
+Rs. 12,08,64,637/- and also to admit outstanding claims of Rs. 5,17,21,063/- for
+the period from October 2020 to May 2021.
+52.
+The Appellant raised the issue primarily on the account that the then RP
+decided to categorised the claims of the Appellant as contingent and admitted
+only Rs. 1 against Rs. 12,08,64,637/- filed by the Appellant. The Appellant is also
+aggrieved that the Corporate Debtor did not make other payment and payment
+
+[PAGE 24]
+Page 24 of 40
+
+made were “under protest”. It is also the case of the Appellant that Impugned
+Order failed to appreciate the fact of drawl of water which is stated to have been
+admitted by the RP and further pointed out that contention of Corporate Debtor
+i.e., Corporate Debtor is not drawing water from U.P. Jal Vidyut Nigam Limited
+is contrary to the record.
+53.
+The Appellant is also aggrieved by the fact that the Impugned Order failed
+to consider that the Corporate Debtor was liable to make payment for “loss of
+generation” on account of drawl to water and further the Appellant was not bound
+to supply water in view of the failure of the Corporate Debtor to make the
+payment.
+54.
+The Appellant has also challenged that the RP did not have any
+adjudication power and thus, categorisation of his claims as contingent claims
+was not in accordance with law.
+55.
+Since, these issues are inter-connected, inter-related and inter- dependent,
+we shall discuss these issues in conjoint matter in the following discussions.
+56.
+As regard, the contentions of the Appellant that the RP did not have
+adjudicating power in relation to admission of claims, we need to take into
+consideration the provisions as provided in Section 18 of the Code along with
+Regulation 10 and 13 (1) of CIRP Regulation. These reads as under :-
+“ Section 18 of the Code : Duties of interim resolution
+professional.
+
+[PAGE 25]
+Page 25 of 40
+
+*18. The interim resolution professional shall perform the
+following duties, namely:—
+(a) collect all information relating to the assets, finances and
+operations of the corporate debtor for determining the
+financial
+position
+of
+the
+corporate
+debtor,
+including information relating to—
+(i) business operations for the previous two years;
+(ii) financial and operational payments for the previous two
+years;
+(iii) list of assets and liabilities as on the initiation date; and
+(iv) such other matters as may be specified;
+(b) receive and collate all the claimsJ2 submitted by creditors
+to him, pursuant to the public announcement made under
+sections 13 and 15;
+(c) constitute a committee of creditors;
+(d) monitor the assets of the corporate debtor and manage its
+operations until a resolution professional is appointed by the
+committee of creditors;
+(e) file information collected with the information utility, if
+necessary; and
+(f) take control and custody of any asset over which the
+corporate debtor has ownership rights as recorded in the
+balance sheet of the corporate debtor, or with information
+utility or the depository of securities or any other registry that
+records the ownership of assets including—
+(i) assets over which the corporate debtor has ownership
+rights which may be located in a foreign country;
+(ii) assets that may or may not be in possession of the
+corporate debtor;
+
+[PAGE 26]
+Page 26 of 40
+
+(iii) tangible assets, whether movable or immovable;
+(iv) intangible assets including intellectual property;
+(v) securities including shares held in any subsidiary of the
+corporate debtor, financial instruments, insurance policies;
+(vi) assets subject to the determination of ownership by a
+court or authority;
+(g) to perform such other duties as may be specified by the
+Board.
+Explanation.—For the purposes of this 1[section], the term
+“assets” shall not include the following, namely:—
+(a) assets owned by a third party in possession of the
+corporate debtor held under trust or under contractual
+arrangements including bailment;
+(b) assets of any Indian or foreign subsidiary of the corporate
+debtor; and
+(c) such other assets as may be notified by the Central
+Government in consultation with any financial sector
+regulator.
+Regulation 10: Substantiation of claims.
+10. The interim resolution professional or the resolution
+professional, as the case may be, may call for such other
+evidence or clarification as he deems fit from a creditor for
+substantiating the whole or part of its claim.
+Regulation 13: Verification of claims.
+13. (1) The interim resolution professional or the resolution
+professional, as the case may be, shall verify every claim, as
+on the insolvency commencement date, within seven days
+from the last date of the receipt of the claims, and thereupon
+maintain a list of creditors containing names of creditors
+
+[PAGE 27]
+Page 27 of 40
+
+along with the amount claimed by them, the amount of their
+claims admitted and the security interest, if any, in respect of
+such claims, and update it.
+Regulation 14: Determination of amount of claim.
+14. (1) Where the amount claimed by a creditor is not precise
+due to any contingency or other reason, the interim
+resolution professional or the resolution professional, as the
+case may be, shall make the best estimate of the amount of
+the claim based on the information available with him.
+(2) The interim resolution professional or the resolution
+professional, as the case may be, shall revise the amounts of
+claims admitted, including the estimates of claims made
+under sub-regulation (1), as soon as may be practicable,
+when he comes across additional information warranting
+such revision.
+(Emphasis Supplied)
+57.
+Thus, Section 18 of the Code r/w Regulation 10, 13(1) and 14 of CIRP
+Regulations described the role of the RP to collate and verify based on documents
+available. It implies that RP is not to adjudicate on the legality or otherwise of
+the claims filed by any creditors.
+58.
+At this stage, we will like to take into consideration the ratio of Hon’ble
+Supreme Court of India in the matter of Swiss Ribbons Private Limited and Ors
+v. Union of India and Ors [(2019) 4 SCC 17] where it was categorically held
+that while verifying and admitting the claims, a resolution professional has been
+conferred only with administrative powers and not with quasi-judicial powers.
+The power to "adjudicate" has been conferred only on the adjudicating authority.
+
+[PAGE 28]
+Page 28 of 40
+
+Similar observations were also made by the Hon'ble Supreme Court in the matter
+of Committee of Creditors of Essar Steel India Limited v. Satish Kumar Gupta
+and Ors., Civil Appeal No. 8766-67/2019.
+59.
+Having noted above, it will also important to understand the implication of
+Regulation 14 of CIRP Regulation, which we have already noted above and
+according to Regulation 14, where the amount claimed by the creditor is not
+precise due to any contingency or other reason, the RP shall make the best
+estimate of the amount of the claim based on information available to him.
+60.
+In this connection, we note that the Appellants claim pertains to the pre-
+CIRP which was sub-judice before Allahabad High Court contingent. In the
+Appeal, the Appellant admits that the Corporate Debtor has challenged the
+legality and validity of the invoices raised from 5 December 2012 till | May 2020
+by the Appellant before the Allahabad HC vide writ petition being Writ Petition
+(Civil) No. 12331 of 2020. The said Writ Petition was first listed for hearing on
+14 August 2020 i.e., before the Admission Order and the Allahabad High Court
+has already issued notice to the Appellant. Therefore, the matter has been sub-
+judice before the Allahabad HC since then.
+61.
+It has been brought out by the Respondents that based on information and
+documents available with the then RP as taken into consideration that the legality
+and validity of the invoices raised by the Appellant were sub-judice before the
+Allahabad High Court.
+
+[PAGE 29]
+Page 29 of 40
+
+62.
+Thus, it become clear that the issue whether the Corporate Debtor was
+liable to make payments as claimed by the Appellant with relation to impugned
+invoices or not, was contingent on the outcome of the pending writ petition before
+the Allahabad High Court. We reiterate that the total claim of the Appellant is Rs.
+12,08,64,637/- and against which the then RP admitted claim of the Appellant as
+Rs. 1/- as contingent claim.
+63.
+We would like to take into consideration the said treatment which reads as
+under : -
+
+[PAGE 30]
+Page 30 of 40
+
+64.
+Thus, the note No. II clearly stipulate that fact that if amount claimed by
+creditor is not precise due to any contingency or reason, the RP shall make best
+estimate of the amount of claim based on the information available to him and
+shall revive the amount of claim admitted including the estimation of claim as
+soon as may be practicable when he come across additional information
+warranting such division. From section II above, it is seen that the Appellant’s
+claims were mentioned in full, however, the amount of Rs. 1/- was admitted as
+contingent and note No. II was mentioned noted earlier.
+65.
+It is the case of the Appellant that since his claims were crystalised and
+based on invoices the same should have been provided for in full. In this
+connection, we have already noted that the claims of the Appellant were subject
+matter of pending Writ Petition No. 12331 of 2020 before Allahabad High Court.
+
+[PAGE 31]
+Page 31 of 40
+
+Such dispute has been dealt elaborately by the Hon’ble Supreme Court of India
+in the matter of Committee of Creditors of Essar Steel India Limited v. Satish
+Kumar Gupta and Ors., and the relevant para No. 155 reads as under :-
+“155. So far as Dakshin Gujarat Vij Co. (Respondent 11 in
+Civil Appeal Diary No. 24417 of 2019), State Tax Officer
+(Respondent 12 in Civil Appeal Diary No. 24417 of 2019),
+Gujarat Energy Transmission Corporation Ltd. (Respondent
+17 in Civil Appeal Diary No. 24417 of 2019) and Indian Oil
+Corporation Ltd. (Respondent 18 in Civil Appeal Diary No.
+24417 of 2019) are concerned, the resolution professional
+admitted the claim of the abovementioned respondents
+notionally at INR 1 on the ground that there were disputes
+pending before various authorities in respect of the said
+amounts. However, NCLT through its judgment dated 8-3-
+20193 directed the resolution professional to register the
+entire claim of the said respondents. NCLAT in paras 44, 45
+and 201 of the impugned judgment upheld7 the order passed3
+by NCLT as aforesaid and admitted the claim of the
+abovementioned respondents. We therefore hold that this
+part of the impugned judgment deserves to be set aside on the
+ground that the resolution professional was correct in only
+admitting the claim at a notional value of INR 1 due to the
+pendency of disputes with regard to these claims.”
+(Emphasis Supplied)
+66.
+In terms of the above judgement, the RP is required to admit the claims of
+the Appellant notionally @ Rs. 1/- on the ground that disputes are pending before
+
+[PAGE 32]
+Page 32 of 40
+
+various authorities irrespective of the amount claims. In the present case, although
+amount claims by the Appellant is Rs. 12,08,64,637/-, however, the then RP
+admitted claim at nationally at Rs. 1/- as contingent claim and reflected amount
+as contingent liability.
+We need to take into consideration the fact that since vires and legality of
+the claims of the Appellant is admittedly subjudice before the Allahabad High
+Court for the adjudication and outcome therefore, remain uncertain. Thus, we are
+of opinion that the then RP had no choice but to admit the claims of the Appellant
+as contingent claims. In view of these facts and law laid down by the Hon’ble
+Supreme Court of India, we do not find any error in treating the Appellant’s
+claims as discussed above.
+67.
+We carefully consider the submission of Respondent No.1 that even if
+assuming (and not conceding) that the averments made in the Appeal in entirety
+are correct, the plain reading of the averments in the Appeal still does not make
+out any ground whatsoever for granting the relief prayed for by the Appellant i.e.,
+treatment of its claims as a crystallised claim, as doing so would usurp the
+jurisdiction of the Hon'ble Allahabad HC, and therefore, the Appeal deserves to
+be dismissed in limine. We find force in the logic in the argument of the
+Respondent no. 1, thus we are not able to align ourselves with the pleadings of
+the Appellant on this ground.
+68.
+During, hearing it has been brought to our notice that the State of Madhya
+Pradesh was allocated 5.25MAF water from the Sone River under the terms of
+
+[PAGE 33]
+Page 33 of 40
+
+the Bansagar Project Agreement dated 16 September 1973 ("Bansagar Project")
+entered into amongst the States of Madhya Pradesh, Bihar and Uttar Pradesh. Out
+of this share, the State of Madhya Pradesh could utilise 0.78 MAF water from the
+Rihand Reservoir which was under the control of the state of Uttar Pradesh. It is
+relevant to note that under the terms of the Bansagar Project, no allocation was
+made to the state of Uttar Pradesh from the Rihand Reservoir.
+69.
+Subsequently, the Corporate Debtor was allocated 0.058 MAF per annum
+of water by Madhya Pradesh Water Resource Department ("MPWRD") from
+Rihand Reservoir on 27 July 2006 against Government of Madhya Pradesh's
+share of water in Rihand Reservoir which is under the control of Appellant.
+Therefore, merely due to the control of the Appellant on the Rihand Reservoir, in
+order to enable the Corporate Debtor to draw water from the reservoir by building
+intake pump house in the submergence area in Uttar Pradesh, the Appellant
+entered into the Agreement dated 23 October 2009 (23 October Agreement) with
+the Corporate Debtor to enable the Appellant to be able to construct the pump and
+draw water from the said Rihand Reservoir. Subsequently in April 2012, the
+Corporate Debtor started drawing water out of the share allocated to it by the
+State of Madhya Pradesh from the Rihand Reservoir. Between January 2013 to
+May 2015, the Appellant addressed various correspondences raising invoices on
+the Corporate Debtor for the water drawn by it from the Rihand Reservoir under
+various heads, including charges for drawal of water, loss of power generation,
+late payment surcharge etc. The Corporate Debtor in response, addressed
+
+[PAGE 34]
+Page 34 of 40
+
+correspondences in the said period calling upon the Appellant to cancel the
+invoices raised by it considering that it was drawing water from the share of the
+State of Madhya Pradesh in the Rihand Reservoir. As such, the claim of Appellant
+under the said invoices remained in dispute from the very first day.
+70.
+Thus, it is the case of the Respondent No.1 that there were some pre-
+existing disputes between the Appellant and the Corporate Debtor relating to the
+locus of the Appellant to levy charges on the water drawn from Rihand Reservoir
+as the water allocation is from the share of the State Government of Madhya
+Pradesh and accordingly, the charge for the same is being levied by the
+Government of Madhya Pradesh under the terms of the Agreement for Supply of
+Water To Industrial /Power Plant dated 16 February 2010 ("16 February
+Agreement") for the water being utilised by the Corporate Debtor under the said
+Agreement and the charges are being regularly paid to the Government of
+Madhya Pradesh by the Corporate Debtor in terms of the said 16 February
+Agreement.
+71.
+We have noted submission of the Respondent No.1 that in relation to the
+foregoing the Corporate Debtor had filed Writ Petition No. 1724 of 2015 before
+the Madhya Pradesh High Court on 2 February 2015 wherein it had challenged
+the levy of water charges by the Appellant since the water is allocated from the
+share of the State of Madhya Pradesh and the charge for the same is levied by the
+Government of Madhya Pradesh. The Madhya Pradesh High Court vide an order
+dated 30 March 2015 had granted a stay against any coercive action after hearing
+
+[PAGE 35]
+Page 35 of 40
+
+the Corporate Debtor’s argument at length. The Respondent No.1 states that on
+27 February 2020, the Writ Petition was disposed of by the Madhya Pradesh High
+Court only on the ground of territorial jurisdiction with a liberty to pursue remedy
+before the appropriate jurisdiction. It is further case of the Respondent No. 1 &
+2 that the interim protection granted by the Madhya Pradesh High Court vide
+order dated 30 March 2015 had been in operation till 27 February 2020. As such,
+the Appellant has been aware that the Corporate Debtor had, at all relevant times,
+objected to the liability to make payments towards Impugned Invoices and that
+issue concerning legality of the said invoices were sub judice, and continues to
+be so even thereafter. We find force in contentions of the Respondents No. 1 &
+2.
+72.
+Now we will take another issue raised by the Appellant that the Appellant
+could not have been asked to continuous supply of water to Corporate Debtor
+during CIRP without payment. We note that the resolution professional vide his
+letter dated 5 November 2020 called upon the Appellant to not interrupt the
+supply of water to the Corporate Debtor during the CIRP as being essential for
+the continued existence of the Corporate Debtor as a going concern. It has been
+the case of the Respondent No.1 that the Corporate Debtor has always maintained
+a consistent stand and disputed any liability under the Impugned Invoices.
+However, the Appellant continued raising invoices for generation loss during the
+CIRP period purportedly in terms of the 23 October Agreement, which had
+already expired. The Respondent No.1further argued that the Appellant had no
+
+[PAGE 36]
+Page 36 of 40
+
+right or authority to claim generation loss from the Corporate Debtor since the
+water being drawn by the Corporate Debtor belonged to the portion allocated to
+the state of Madhya Pradesh. In any case, the Appellant's right to claim such
+charges is pending adjudication before the Hon'ble High Court of Allahabad.
+73.
+The Respondent No.1 emphasized that in view of the fact that the liability
+towards Appellant has always been disputed, and that the payment is being
+consistently made to MPWRD, the question of payment to the Appellant for the
+same quantum of water drawn during CIRP or pre-CIRP admittedly from the
+share of water allocated to Madhya Pradesh would not arise. The issue of
+entitlement of the Appellant to claim any amount in relation to the water drawn
+by the Corporate Debtor is already subject-matter of adjudication before the
+Allahabad High Court.
+74.
+We find logic in the arguments of the Respondent No. 1 that if the very
+subject itself was sub-judice, the conduct of the Respondent No. 1 was correct in
+given circumstances. The main point of disputes and treatment of such claims
+had already been discussed by us in the preceding paragraphs and shall not repeat
+the same as the logic remains the same.
+75.
+The Adjudicating Authority has rightly pointed out correct position of law
+as stated in para 65 of the Impugned Order while recording that It “has no
+jurisdiction to adjudicate the dispute or any claim arising out of such transaction
+which is subject matter of a writ petition before the Hon'ble Allahabad High
+Court". We tend to agree with the observations of the Adjudicating Authority.
+
+[PAGE 37]
+Page 37 of 40
+
+76.
+The Appellant has also pleaded that the agreement expired between the
+Appellant and the Corporate Debtor on 22.10.2019, however, even after expiry
+of the said agreement, at the request of the Corporate Debtor, the Appellant
+allowed the Corporate Debtor to continue to drawl water and accordingly, the
+Appellant sent invoices for monthly payment and for delayed surcharge. The
+Appellant further pointed out that the Respondent No. 1 issued letter on
+05.10.2020 requesting for continuation of essential services in terms of Section
+14 of the Code and as such, the Corporate Debtor should have made the payments
+to the Appellant of the amount dues.
+77.
+The Appellant also brought out that Appellant issued letter dated
+10.03.2021 to the RP to claim balance outstanding of Rs. 4,10,63,874/- for drawl
+of water by the Corporate Debtor from period between October, 2020 to February
+2021. It is further the case of the Appellant that the Appellant issued another
+letter dated 25.05.2021 and 14.06.2021 to the RP claiming balance outstanding
+dues of Rs. 5,07,60,568/- and Rs. 5,17,21,063/- respectively for drawl and water
+by Corporate Debtor between October 2020 till April 2021 and October 2020 to
+May 2021. The Appellant emphasised that even post the Agreement, the
+Appellant allowed the Corporate Debtor to draw water from the Rihand Reservoir
+pursuant to mutual agreement entered into between the Corporate Debtor and the
+Appellant.
+As regards the Appellant's submission that the Corporate Debtor is obliged
+to make payments towards the invoices raised by the Appellant post the expiry of
+
+[PAGE 38]
+Page 38 of 40
+
+the Agreement for drawing water from the Rihand Reservoir, the Respondent
+No.1strongly pleaded before us that the water drawn by the Corporate Debtor
+from the Rihand Reservoir was from the share of water allocated to the State of
+Madhya Pradesh and not the State of Uttar Pradesh. Furthermore, the Corporate
+Debtor has been making regular payment to MPWRD for the water drawn by it
+from the Rihand Reservoir. In any event, the very issue of whether the Corporate
+Debtor is required to make any payment to the Appellant under the Impugned
+Invoices is currently sub-judice before the Allahabad HC.
+78.
+The Respondent No.1 reiterated that the sole reason why the Corporate
+Debtor addressed correspondences to the Appellant requesting not to disrupt the
+supply of water, being an essential good to the Corporate Debtor was because in
+spite the water drawn by the Corporate Debtor was from the share allocated to
+the State of Madhya Pradesh, the Rihand Reservoir wherein the pump house was
+built by the Corporate Debtor to draw water is under the control of the Appellant.
+79.
+We note that Respondent No.1 has recorded the claim of the Appellant as
+a contingent claim in accordance with the provisions of Code as well as the law
+laid down by the Hon'ble Supreme Court from time to time. The Impugned Order
+has also recorded detailed reasoning while dealing with this subject and justify
+the continuation of essential services to the Corporate Debtor. We do not find any
+error in the Impugned Order on this ground.
+80.
+We put a pointed query to the Appellant, that when all Operational Creditor
+have got nil in the Resolution Plan, how the rights of the Appellant have been
+
+[PAGE 39]
+Page 39 of 40
+
+prejudice when he is also getting nil payment. We further asked the Appellant
+that even if the RP would have admitted his claims in full instead of putting claims
+as contingent at notional value of Rs. 1, how situation would have changed. It is
+the case of the Appellant that if its claim would have been reflected in full of Rs.
+12,08,64,637/-, perhaps CoC might have taken other decision. We do not find
+this logic convincing. We have already noted the financial facts and the context
+of the case earlier. To reiterate, it is pointed out that the total claims filed by
+Unsecured
+Financial
+Creditor
+and
+Operational
+Creditor’s
+are
+of
+Rs. 77,698,782,161/- and their entire claim have been wiped out and provided as
+nil in the Resolution Plan. Keeping this fact and background into consideration,
+it is quite different to consider the plea of the Appellant that had his claim of Rs.
+12,08,64,637/-, would have been provided in full in the list of claims instead as
+contingent claim @ Rs. 1, fate of the appeal would have been different.
+81.
+We do not find any merit in the argument of the Appellant and reject the
+same.
+82.
+We further note that in terms of the extend provisions of the Code and the
+Regulation, creditor is entitled to the extend of maximum as available with
+reference to the liquidation value. In the present case also on this parameter, the
+Appellant would have got NIL.
+83.
+Based on above detailed discussions, we do not find any merit on any issue
+raised by the Appellant. We further hold that the Impugned Order has correctly
+
+[PAGE 40]
+Page 40 of 40
+
+dealt the issue raised by the Appellant in I.A. No. 2785 of 2021 in C.P. (IB) No.
+863/PB/2020 and we do not find any error in the Impugned Order.
+84.
+Thus, the appeal is devoid of any merit and stand rejected. I.A., if any, are
+closed. No Costs.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+Sim

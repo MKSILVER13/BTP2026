@@ -1,0 +1,711 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1198 of 2025
+
+[Arising out of the Impugned Order dated 30.05.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench – IV in CP (IB) No. 4175/MB/2018 (Now RCP(IB) No.
+2/MB/2025)]
+
+IN THE MATTER OF:
+
+RAMA TRADERS
+Through its Proprietor – Mr. Raju Mansukhlal
+Ruparelia, Office No. 10 & 11, 1st Floor Sangam,
+Commercial Complex, Phase – I, Dr. Ambedkar Road,
+Near RTO, Pune – 411001
+Email id:paresh.rasmimarketing@gmail.com. s
+
+...Appellant(s)
+Versus
+
+ROCKET ENGINEERING CORPORATION PVT. LTD.
+Plot No. D-19, MIDC, Shiroli Kolhapur 416 122
+Email Id:info@rocket-comet.com
+
+...Respondent(s)
+Present:
+
+For Appellant
+: Mr. Akshay Petkar, Mr. Vishesh Kalra, Ms. Sonia
+Sharma, Advocates
+For Respondents
+: Mr. Kedar Wagle, Mr. Sagar Wagle, Advocates
+
+J U D G M E N T
+(Hybrid Mode)
+Per: Barun Mitra, Member (Technical)
+The present appeal, filed under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘IBC’ in short) by the Appellant arises out of the
+Order dated 30.05.2025 (hereinafter referred to as the ‘Impugned Order’)
+passed by the Adjudicating Authority (National Company Law Tribunal,
+Mumbai Bench, Court – VI) in CP (IB) No. 4175/MB/2018 now RCP (IB) No.
+2/MB/2025. By the said impugned order, the Adjudicating Authority has
+rejected the Section 9 application filed by the Appellant – Operational
+
+[PAGE 2]
+Page 2 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+Creditor. Aggrieved by the impugned order, the present appeal has been
+preferred by the Appellant.
+2.
+Put briefly, the relevant facts which are required to be noticed for
+consideration of this case is that the Operational Creditor -Rama Traders was
+a proprietorship concern which was engaged in business transaction with the
+Corporate Debtor – Rocket Engineering Corporation Pvt. Ltd. Claiming that
+payments were outstanding from the Corporate Debtor, the Operational
+Creditor issued a legal notice to them on 19.01.2018 seeking payment of Rs.
+3,45,55824/-. On not receiving any reply thereto or any payment from the
+Corporate Debtor, the Appellant-Operational Creditor issued Section 8
+demand notice in Form-3 on 22.06.2018 which was followed up by another
+notice dated 26.06.2018 seeking repayment of outstanding dues. The
+Corporate Debtor sent a consolidated reply on 05.07.2018 denying the debt
+following which the Operational Creditor filed a Section 9 petition. The said
+Section 9 application was dismissed by the Adjudicating Authority on the
+grounds that the demand notice issued under Section 8 of the IBC was
+defective and that it was hit by limitation. Aggrieved by the impugned order,
+the Appellant has come in appeal.
+3.
+Making submissions on behalf of the Appellant, Ld. Counsel for the
+Appellant assailed the impugned order for dismissing the Section 9
+application at a time when the Corporate Debtor had admitted the debt and
+default of Rs. 3.45 Cr. vide their email dated 15.01.2016. The Appellant had
+placed on record the email of 15.01.2016 which document clearly
+demonstrated the existence of operational debt and admission of liability by
+the Corporate Debtor, the requirements of Section 8 stood fully satisfied. It
+
+[PAGE 3]
+Page 3 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+was contended that the Adjudicating Authority wrongfully did not treat this
+email to be an acknowledgement of debt by Corporate Debtor on the
+misconceived ground that the email was addressed to ‘Rasmi Marketing’ and
+not to ‘Rama Traders’. It was pointed out that there were numerous instances
+which show that correspondence was exchanged between the Operational
+Creditor
+and
+the
+Corporate
+Debtor
+on
+both
+the
+email
+ids-
+rasmimarketingpunegmail.com/paresh.rasmimarketing@gmail.com.
+When
+both parties had been corresponding through the same email IDs, it was
+patently wrong on the part of the Adjudicating Authority to hold that the email
+of 15.01.2016 cannot be viewed as an acknowledgment of liability by the
+Corporate Debtor to the Operational Creditor. It was emphatically asserted
+that even if the email was sent by the Corporate Debtor at the email address
+of Rasmi Marketing and not to the Operational Creditor, the very fact that
+said email contained an attachment with respect to account statement by way
+of ledger account in respect of Rama Traders, this clearly indicated that the
+Corporate Debtor acknowledged its liability to the Operational Creditor.
+Moreover, when both Rasmi Marketing and Rama Traders were proprietary
+concerns of Mr. Raju M Ruparelia which were operating through common
+accounts with common PAN and VAT details, the distinction now sought to
+be created by the Corporate Debtor between Rama Traders and Rasmi
+Marketing was a contrived afterthought. Thus, the Corporate Debtor by taking
+the plea that the email was addressed to another entity was only trying to
+evade the acknowledgment of liability tendered by them. It was further added
+that since the Corporate Debtor had clearly acknowledged their liability in the
+email dated 15.01.2016, the period of limitation stood extended by another
+
+[PAGE 4]
+Page 4 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+three years from 15.01.2016. Hence, the Section 9 application which had been
+filed on 26.09.2018 fell within the three years limitation period. However, the
+Adjudicating Authority erroneously held that since the claim of the
+Operational Creditor arose in 2014, it was time-barred. It was pointed out
+that when the acknowledgement of liability basis the email of 15.01.2016
+found mention in both the Section 8 demand notice and in Part IV of the
+Section 9 application, the Adjudicating Authority had erred in holding that in
+the absence of any specific date of default, the Section 9 application was
+barred by limitation. It was also contended by the Appellant that the finding
+returned by the Adjudicating Authority that the Section 8 demand notice was
+defective was erroneous. The Adjudicating Authority wrongly held the Section
+8 demand notice in Form 3 to be invalid on the ground that invoices had not
+been attached alongwith the demand notice. Submission was pressed that in
+terms of the judgment of this Tribunal in Neeraj Jain Vs Cloudwalker
+Streaming Technologies Pvt. Ltd. in CA(AT)(Ins) No. 1354 of 2019, an
+Operational Creditor can issue a demand notice either in Form 3 or Form 4
+and attachment of invoices is not mandatory where the demand notice is
+issued in Form 3. Hence the finding returned by the Adjudicating Authority
+was contrary to the settled legal position. The Adjudicating Authority could
+not have held the Section 8 notice to be invalid as the same was filed in Form
+3 which did not require invoices to be attached.
+4.
+Rebutting the arguments raised by the Appellant, it was contended by
+the Ld. Counsel for the Respondent that the reliance placed by the Appellant
+on the email dated 15.01.2016 to contend that the said email amounted to
+acknowledgement of liability was entirely misplaced. It was pressed that the
+
+[PAGE 5]
+Page 5 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+Adjudicating Authority has correctly held that since the email was addressed
+to Rasmi Marketing and not to Rama Traders, it could not have been
+considered as an acknowledgment of debt qua Rama Traders. In any case, the
+said email did not show any attachment or ledger while the purported
+attachment being ledger was neither signed nor had any seal of the Corporate
+Debtor. It was also canvassed that when the Appellant – Operational Creditor
+in their rejoinder to the reply of the Corporate Debtor in the Section 9
+application had themselves pleaded that the Respondent is unnecessarily
+involving Rasmi Marketing in the present matter, it clearly showed that the
+Appellant was aware that Rasmi Marketing enjoyed a legal entity independent
+and separate from Rama Traders. In such circumstances, the Appellant’s
+insistence that the email sent to Rasmi Marketing be treated as an
+acknowledgement of liability towards Rama Traders tantamount to
+approbation and reprobation by the Appellant which is not acceptable. The
+Adjudicating Authority had therefore rightly discarded the contention of the
+Appellant that the email addressed to Rasmi Marketing can be held as an
+acknowledgement of liability qua Rama Traders. It was also contended that
+the Adjudicating Authority has rightly concluded that the Section 8 demand
+notice of the Appellant was defective as it was not accompanied by invoices.
+It was contended that when the outstanding debt was claimed on the basis of
+unpaid invoices, the Appellant could not have chosen to file the demand notice
+in Form 3 without the invoices. Moreover, the invoices which have been placed
+on record by the Corporate Debtor are vague in that it is bereft of details such
+as terms of delivery, buyers order number etc. Submission was pressed that
+the alleged operational debt was non-existent as there was no contractual
+
+[PAGE 6]
+Page 6 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+relationship between the Operational Creditor and the Corporate Debtor for
+supply of goods for the Appellant- Operational Creditor was to only receive
+commission as a commission agent. It was vehemently asserted that the pre-
+existing disputes surrounding the operational debt had been articulated both
+in their reply to the Section 8 Demand notice which had been rightly noticed
+by the Adjudicating Authority also. It was further added that the Section 9
+application was hit by limitation as it was filed on 26.09.2018, while in the
+Section 8 demand notice, the date of default is shown to have occurred in
+2014 which was clearly beyond the three years limitation period. Even the
+Section 9 application filed on 26.09.2018 was clearly beyond the three years
+limitation since the Operational Creditor had claimed the date of default to be
+06.06.2015 being the last date of payment made by the Corporate Debtor. It
+was therefore asserted that the Adjudicating Authority had rightly held the
+Section 9 application to be time barred.
+5.
+We have heard Ld. Counsel for both the parties and perused the records
+carefully.
+6.
+The first issue before us is the tenability of the finding returned by the
+Adjudicating Authority that the Section 8 demand notice was not in
+consonance with Rule 5 of the Insolvency and Bankruptcy Board of India
+(Application to Adjudicating Authority) Rules, 2016(“Rules” in short). For
+reasons of clarity, it would be useful to notice the finding returned by the
+Adjudicating Authority on this score which is as excerpted hereunder:
+“5.3 ........ Further, the OC issued the Section 8 demand notice in
+Form-3, while its claims are actually based on the invoices issued
+during the period from January, 2015 to March, 2015. However,
+the OC failed to attach any of the invoices in the demand notice,
+
+[PAGE 7]
+Page 7 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+which was given in Form 3. In fact, the veracity of the demand
+notice was challenged by the CD in its reply notice dated
+05.07.2018. It is clear from the decision of the Hon’ble NCLAT, New
+Delhi, in Neeraj Jain (supra) that a party cannot arbitrarily issue
+the demand notice in any form it chooses but has to issue the same
+on the basis of its claim. The appropriate form to issue the demand
+notice against the CD under Section 8 of the IBC has already been
+specified in Form 3 or Form 4 along with attachment of invoices.
+Since the OC failed to attach the invoices with clear details
+regarding the details and actual period of default, Section 8 notice
+does not appear to be in order. When statute requires a particular
+form to be used for a particular purpose, it is only to be adhered to
+by the party to the litigation......”
+7.
+When we look at the above extracts of the impugned order, we notice
+that the Adjudicating Authority has noticed that the default amount claimed
+by the Appellant is based on the purported failure on the part of the Corporate
+Debtor to clear the outstanding invoices which had allegedly been issued by
+the Appellant-Operational Creditor with regard to supply of pump set
+accessories. The Adjudicating Authority has proceeded to observe that though
+the claims of the Operational Creditor were based purportedly on the strength
+of invoices, however, the invoices were not found attached with the Second 8
+Demand Notice which was therefore in dissonance with the ratio laid down
+this Tribunal in Neeraj Jain judgment supra.
+8.
+It is however the case of the Appellant that in terms of the Neeraj Jain
+judgment supra, a Section 8 demand notice can be issued either in Form 3
+or Form 4 and that when Section 8 demand notice is issued in Form 3,
+attachment of invoices is not mandatory. It was further contended that as
+long as other documents substantiating the operational debt and the default
+thereto is placed on record that would fully satisfy the requirement of Section
+8 demand notice. Hence, in the present case though invoices were not
+
+[PAGE 8]
+Page 8 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+attached, furnishing of the email of 05.01.2016 and legal notice of 19.01.2018
+was sufficient for the purpose of issuing Section 8 demand notice in Form 3.
+It was also asserted that only when the Section 8 demand notice is issued in
+Form 4 that the copy of invoices are required to be attached.
+9.
+Per contra, it is the contention of the Respondent that when the
+outstanding debt and default thereof has been claimed on the basis of unpaid
+invoices, it was incumbent upon the Appellant to submit the Section 8
+Demand Notice in Form 4 alongwith details of the invoices. It was contended
+that when the alleged debt was based on invoices, the Appellant could not
+have issued the Section 8 demand notice sans the invoices.
+10.
+To arrive at our findings, at this stage, it may be useful to have a look
+at the manner in which the Appellant had submitted the Section 8 demand
+notice which is found at page 156 of the Appeal Paper Book (‘APB’ in short)
+which is as reproduced below:
+FORM 3
+FORM OF DEMAND NOTICE/INVOICE DEMANDING PAYMENT UNDER THE
+INSOLVENCY AND BANKRUPTCY CODE, 2016 (Under rule 5 of the Insolvency
+and Bankruptcy Rules, 2016)
+
+Date: - 22.06.2018
+1. .......
+2. Please find particulars of the unpaid operational debt below:
+
+Sr. No.
+PARTICULARS
+OF
+OPERATIONAL DEBT
+Amount
+1.
+TOTAL AMOUNT OF DEBT
+DETAILS OF TRANSACTIONS
+ON ACCOUNT OF WHICH
+DEBTFELL DUE, AND THE
+DATE FROM WHICH SUCH
+DEBTFELL DUE
+An amount of Rs. 3,45,55,824/-
+arising out of series of transaction
+with respect to dealing in the Pump
+accessories.
+
+[PAGE 9]
+Page 9 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+2.
+AMOUNT CLAIMED TO BE IN
+DEFAULT AND THE DATE ON
+WHICH
+THE
+DEFAUL
+OCCURRED
+1. Total Amount claimed - Rs.
+3,45,55,824/-
+2. The default first occurred in
+2014
+&
+then
+continued
+thereafter.
+3. The LIABILITY has been
+acknowledged as per the
+email dated 15/1/2016.
+3.
+PARTICLARS OF SECURITY
+HELD, IF ANY, THE DATE OF
+ITS
+CREATION,
+ITS
+ESTIMATED VALUE AS PER
+THE CREDITOR ATTACH A
+COPY OF A CERTIFICATE OF
+REGISTRATION OF CHARGE
+ISSUED BY THE REGISTRAR
+OF COMPANIES
+N.A
+4.
+DETAILS OF RETENTION OF
+TITLE
+ARRANGEMENT
+[IF
+ANY] IN RESPECT OF GOODS
+TO
+WHICH
+THE
+OPPERATIONAL
+DEBT
+REFERS
+N.A
+5.
+RECORD OF DEFAULT WITH
+THE INFORMATION UTILITY
+[IF ANY]
+N.A
+6.
+PROVISION
+OF
+LAW,
+CONTRACT
+OR
+OTHER
+DOCUMENT UNDER WHICH
+DEBT HAS BECOME DUE
+Invoices
+7.
+LIST
+OF
+DOCUMENTS
+ATTACHED
+TO
+THIS
+APPLICATION IN ORDER TO
+PROVE THE
+EXISTENCE
+OF
+OPERATIONAL DEBT AND
+THE AMOUNT IN DEFAULT
+1. Email dated 15/1/2016
+2. Preceding
+Notice
+dated
+19/1/2018
+
+11.
+When we look at the above Section 8 demand notice submitted in Form
+3, it is clear from the entries made at serial no. 6 that the Appellant has
+
+[PAGE 10]
+Page 10 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+claimed that the debt has become due on the basis of “Invoices” but does not
+indicate details of the invoices. The only documents which have been relied
+upon to prove the existence of operational debt which appears at serial no. 7
+of Form 3 is the email dated 15.01.2016 and the preceding legal notice dated
+19.01.2018 with no mention of the relevant invoices. It is further observed by
+the impugned order that even these two documents mentioned at Serial no. 7
+were not attached to the Demand Notice.
+12.
+At this stage, it may be constructive to peruse the relevant paragraphs
+of the Neeraj Jain judgment supra. In this judgement, we find that this
+Tribunal had dealt with two questions, firstly, as to whether it is the discretion
+of the Operational Creditor or the nature of the operational debt that
+determines the issuance of notice in Form 3 or Form 4 under Section 8(1) of
+the IBC. Secondly, it also considered the circumstances in which appending
+copy of the invoices becomes a mandatory requirement for issue of demand
+notice under Section 8(1) of the IBC. This Tribunal answered the above two
+questions in following manner at paragraphs 43 to 46 which is as reproduced
+below:
+
+“43. However, it cannot be the discretion of the Operational Creditor
+to deliver the Demand Notice in Form 3 even if the operational debt
+involves transactions where corresponding invoices are generated
+but are not filed in court on the pretext that the Operational Creditor
+has chosen to send the Notice in Form 3.
+44. The use of the phrase, “deliver a demand notice of unpaid
+operational debt or copy of an invoice demanding payment of the
+amount involved” in Section 8(1) does not provide the Operational
+Creditor, with the discretion to send the demand notice in Form 3
+or Form 4 as per its convenience. Rather, it depends directly on the
+
+[PAGE 11]
+Page 11 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+nature of the operational debt and applicability of Form 3 or Form
+4 as per the nature of the transaction.
+45. It is important to mention that legislative provisions are made
+with a larger perspective to deal with all the eventualities that may
+arise in the implementation of the said provisions. Therefore, the
+use of the word “OR” in Section 8 cannot be interpreted as such,
+that the Insolvency and Bankruptcy Code has provided a choice or
+a discretion to an Operational Creditor, to provide an escape route
+from submission of the invoice, which can be treated as the most
+relevant document to prove the debt and amount in default.
+46. On perusal of the language of Section 8, it is clear that an
+Operational Creditor on the occurrence of default has been provided
+with the option of delivering a demand notice of the unpaid
+operational debt or raising an invoice demanding payment of the
+amount involved. The two options available for initiation of
+Corporate Insolvency Process are provided to deal with all the
+eventualities that may occur. For example, if an operational debt is
+in the nature of salary dues, then in that situation, the question of
+submitting an invoice does not arise. To deal with such a situation,
+Section 8 contains the provision for issuance of demand notice of
+the unpaid operational debt. Form 3 of the Adjudicating Authority
+Rules has only laid down the condition that the applicant has to
+give the details of the amount of debt, details of the transaction on
+account of which such debt fell due and the date from which such
+debt fell due, and as per Column 7 of the said Form 3, applicant
+has to attach the documents to prove the existence of operational
+debt and the amount in default. Likewise, where the operational
+debt involves the generation of the invoice, then in that case, invoice
+raising the demand may be sent to the Corporate Debtor
+demanding the invoice amount. In such a situation, the Operational
+Creditor has to issue the demand notice in Form 4 along with the
+invoice.”
+(Emphasis placed)
+
+13.
+When we apply the ratio of the above judgment, it is amply clear that
+when the operational debt involves generation of invoices, then in that case,
+the invoice raising the demand is required to be furnished to the Corporate
+Debtor with the Section 8 demand notice while demanding the said amount.
+Merely because Section 8 provides for an option to issue the Section 8 demand
+
+[PAGE 12]
+Page 12 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+notice in Form 3 or Form 4 cannot be seen to allow the Operational Creditor
+to take refuge of Form 3 to escape from the requirement of submission of
+invoices to prove the debt and amount in default. We therefore do not find any
+infirmity in the finding returned by the Adjudicating Authority that the
+demand notice served on the Corporate Debtor was not in order as the claim
+of the Appellant was based on generation of invoices. When the relevant Rules
+clearly outline that a particular Form is to be used for a particular purpose,
+compliance to the same cannot be ignored or brushed aside or treated as
+discretionary. Further what compound the situation further is that even the
+two documents mentioned in Form 3 of the Section 8 demand notice including
+the email dated 15.01.2016 were not attached to the said demand notice.
+14.
+This brings us to the email dated 15.01.2016 which has been relied
+upon by the Appellant to assert that the outstanding liability had been
+acknowledged by the Corporate Debtor and on having committed default
+thereto, this was a fit case for admission of Section 9 application. It was
+vehemently contended that the Corporate Debtor has on hindsight denied that
+this email was an acknowledgement from them to the Operational Creditor by
+taking the clever plea that the email was addressed to an entity other than
+the Operational Creditor. To buttress their argument that email address on
+which the email of 15.01.2016 was sent was an address which was in regular
+use by the Corporate Debtor in sending its communications to the Appellant.
+It was pointed out that material on record shows that a clutch of emails was
+sent
+by
+the
+Corporate
+Debtor
+at
+the
+email
+address
+of
+rasmimarketingpune@gmail.com
+and
+paresh.rasmimarketing@gmail.com.
+
+[PAGE 13]
+Page 13 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+Elaborating further on this aspect, attention was adverted to email dated
+16.07.2014 as placed at page 222 of the APB; email dated 16.08.2014 as
+placed at page 47 of the APB; email dated 19.08.2014 as placed at page 51 of
+the APB and email dated 06.01.2017 as placed at page 230 of APB wherein
+both these email addresses had been used interchangeably by the Corporate
+Debtor while addressing communications to the Operational Creditor.
+Further, when these communications were dealing with the subject matter of
+transaction in respect of Rama Traders, it was asserted that use of email
+address of Rasmi Marketing for exchange of the communication cannot be a
+ground to claim that the communication cannot be treated as admission of
+liability of the Corporate Debtor towards Rama Traders.
+15.
+Per
+contra
+it
+was
+contended
+by
+the
+Respondent
+that
+the
+acknowledgment email of 15.01.2016 having been sent to Rasmi Marketing
+could not have been treated as an acknowledgement of debt to the Appellant.
+It is the contention of the Corporate Debtor that Rasmi Marketing was a
+separate entity from that of the Operational Creditor which was Rama Traders
+and hence any email sent to Rasmi Marketing cannot be construed as an
+email sent to Rama Traders. Further when the purported attachment being
+ledger was neither signed nor had any seal of the Corporate Debtor, it has
+been rightly held by the Adjudicating Authority that the said email cannot be
+viewed as an acknowledgement of liability. It was further asserted that they
+had not only denied having acknowledged the liability, they had disputed
+doing business with the Appellant in their reply to the Section 8 Demand
+Notice. It was also submitted that when the Appellant in their rejoinder to the
+reply of the Respondent to the Section 9 application had on their own vouched
+
+[PAGE 14]
+Page 14 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+that Rasmi Marketing being a separate business entity cannot be dragged into
+the transactions between the Appellant and the Corporate Debtor, it is
+surprising that when it came to the email dated 15.01.2026, the Appellant
+have been endeavouring to disregard the independent and separate status of
+these two entities.
+16.
+At this stage, we may have a look at to the reply to the Section 8 demand
+notice as furnished by the Corporate Debtor to the Operational Creditor on
+05.07.2018 which is placed at page 142 of the APB. The Corporate Debtor in
+its reply has categorically disputed the operational debt and asserted that no
+goods had been purchased from Rama Traders since 2012 and hence, there
+was no question of payment of amount of Rs. 3.45 Cr. Even the nature of
+transaction has been disputed by claiming that the Operational Creditor was
+a commission agent and not a supplier of goods. The relevant extracts from
+the notice of dispute are as reproduced below:-
+REPLY NOTICE Dated: 5/7/2018
+
+To
+M/S. Rama Traders,
+Prop: Raju Manasukhlal Rupareliya
+Sangam project, Office No. 3 & 4,
+46, Dr. Ambedkar road,
+Near RTO office, Pune
+
+Sir,
+.......
+1.Your letter dated 22.06.2018; my client received on 26.06.2018
+and whatever allegation, claim, demand and objection made in the
+said Notice are not agreed and accepted by my client. My client
+totally denied all the allegations made in the said Notice. Legal Notice
+sent by your advocate is illegal and erroneous. While sending the
+said illegal notice by you; you have not disclosed actual facts before
+your advocate. Hence, it seems that you are cunning and shrewd
+people. As mentioned in your notice; you are not doing business since
+
+[PAGE 15]
+Page 15 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+the year 2012 and still and hence, there is no question arisen to
+purchase your goods since the year 2012. The contents as
+mentioned in your Notice; we have never purchased the goods from
+you. Therefore, there is no question arisen to pay an amount of RS.
+3,45,55,824/- as mentioned in your Notice in illegal way. Therefore,
+it is not agreed and accepted by my client as per demand made in
+your notice. Accordingly, all the allegations and claims made in your
+notice in paragraph No. 1 to 7 are totally rejected by my client in clear
+cut manner.
+2.In this regard actually fact is as under :-
+1.....
+2.As mentioned hereinabove, you are commission agent. My
+client's company's turn over is more than crores. Apart from this,
+my client's company is very famous and reputed company and
+getting information of my client's company entirely and you have
+shown your willingness to do the work of my client's company.
+As a part of it; you have visited top most officers and directors of
+the company to get agency of my client's company for sale and
+supply of my client's diesel machinery within the State of
+Maharashtra. And you have expressed your willingness to do
+this job on commission basis. Hence, on my client's company
+name, you will have to get orders, to do correspondence, to
+submit the bills and also to collect bill amount on behalf of my
+client's company and also to pay the amounts on commission
+basis.
+After
+taking
+in
+consideration
+of
+your
+request
+sympathetically and my client have give consent to the same
+with an intention for convenience and beneficial sake; my clients
+have appointed you as commission agent and they have consent
+to the same.
+3...... You have not given the details of materials supplied to my
+client's company as mentioned in your notice. Therefore, notice
+sent by you is illegal, null and void. Hence, there is no question
+of 24% interest per annum on the amount mentioned in the notice.
+The contents mentioned in your advocate's notice in paragraphs
+No.1 to 7 are totally false and fabricated and baseless
+allegations made by you. Therefore, my client never agrees and
+accepts the same and my client clearly rejects the said
+allegations and claim made in the illegal notice.
+........
+6.Therefore, my client should not pay you an amount of
+Rs.3,45,55,824/- and on this illegal and fake amount; you have
+sent bogus notice in the form No.3 as per rule 5. In the past, you
+have sent illegal notice on 19.01.2018 in accordance with rule-5
+and my clients have given reply to this notice making clarification
+accordingly. Hence, there is no need to send reply to your notice
+again.”
+(Emphasis supplied)
+
+[PAGE 16]
+Page 16 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+17. We find that the Corporate Debtor in its reply on 05.07.2018 to the
+Section 8 notice has denied the claim raised by the Operational Creditor on
+the grounds that they are not legally due or payable besides disputing the
+debt amount that has been claimed. The above reply by the Corporate Debtor
+to the Section 8 demand notice is clearly a notice of dispute. Section 9(5)(ii) of
+the IBC contemplates rejection of an application when a notice of dispute is
+received by the Operational Creditor. In the present case, it is an undisputed
+fact that the Section 8 demand notice issued by the Operational Creditor had
+been replied to by the Corporate Debtor and this notice of dispute clearly
+attracted Section 9(5)(ii)(d) of the IBC.
+18.
+It is a well settled legal percept in terms of seminal judgment of Hon’ble
+Supreme Court in Mobilox Innovations Pvt. Ltd. Vs Kirusa Software Pvt.
+Ltd. (2018) 1 SCC 353 that as long as a dispute is raised which is not a
+patently feeble argument or unsupported by evidence, the Adjudicating
+Authority has to reject the application. The relevant extracts of the judgment
+is as reproduced as below:
+“51. It is clear, therefore, that once the operational creditor has filed an
+application, which is otherwise complete, the adjudicating authority
+must reject the application under Section 9(5)(i)(d) if notice of dispute
+has been received by the operational creditor or there is a record of
+dispute in the information utility. It is clear that such notice must bring
+to the notice of the operational creditor the “existence” of a dispute or
+the fact that a suit or arbitration proceeding relating to a dispute is
+pending between the parties. Therefore, all that the adjudicating
+authority is to see at this stage is whether there is a plausible
+contention which requires further investigation and that the “dispute”
+is not a patently feeble legal argument or an assertion of fact
+unsupported by evidence. It is important to separate the grain from the
+chaff and to reject a spurious defence which is mere bluster. However,
+in doing so, the Court does not need to be satisfied that the defence is
+
+[PAGE 17]
+Page 17 of 17
+Company Appeal (AT) (Ins) No. 1198 of 2025
+
+likely to succeed. The Court does not at this stage examine the merits
+of the dispute except to the extent indicated above. So long as a dispute
+truly exists in fact and is not spurious, hypothetical or illusory, the
+adjudicating authority has to reject the application.”
+19.
+It is well settled that in a Section 9 proceeding, there is no need to enter
+into final adjudication with regard to existence of dispute between the parties
+regarding operational debt. What has to be looked into is whether the defence
+raises a dispute which needs further adjudication by a competent court. If we
+apply the above cited test laid down in Mobilox judgement to the facts of the
+present case, it becomes clear that the nature of dispute raised is such that
+it requires adjudication by the competent court. The present is not a case
+where there is an undisputed debt for which insolvency can be initiated
+against the Corporate Debtor.
+20.
+With the aforesaid discussion, we are of the considered view that the
+Adjudicating Authority did not commit any error in rejecting the Section 9
+application filed by the Appellant. There being no merit in the appeal, the
+same is dismissed. We however make it clear that it will remain open to the
+Appellant to resort to other remedies in accordance with law. No order as to
+costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+Place: New Delhi
+Date : 04.05.2026
+
+Sheetal

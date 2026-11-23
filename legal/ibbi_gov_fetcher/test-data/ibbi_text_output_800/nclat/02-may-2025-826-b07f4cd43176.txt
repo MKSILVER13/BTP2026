@@ -1,0 +1,752 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins) No. 62 of 2024 & I.A. No. 195, 197 of 2024
+
+(Arising out of the Order dated 28.11.2023 passed by the National Company
+Law Tribunal, Mumbai Bench (Court-III) in C.P(IB)-641 (MB)/C-III/2022)
+
+IN THE MATTER OF:
+
+Shankar Kashid
+(Suspended Director of Shivani Flexipack Limited)
+C-101, Gayatri Darshan, Thakur Complex,
+Kandivali East, Mumbai - 400101
+
+...Appellant
+Versus
+
+1. Intec Capital Limited
+CIN: L74899DL1994PLC057410
+708, Manjusha Building, 57,
+Nehru Place, New Delhi – 110019
+E-mail ID: ibc@inteccapital.com
+
+2. M/s. Shivani Flexipack Limited
+(CIN U74950PN1998PLC013193)
+Through Interim Resolution Professional
+Having its registered office at
+26, Piyu Shantiban Nemi Nath Nagar,
+Sangli, Maharashtra-416416.
+
+3. Madan B Vaishnawa
+Interim Resolution Professional (IBBI/IPA-001/IP-P-
+02011/2020-2021/13052)
+Having his office at
+Indian Mercantile Mansion
+Extn. 4th Floor, Madame Cama Road,
+Opp Regal Cinema, Colaba,
+Mumbai- 400005.
+
+4. M/s. Polygraph Printing Technologies Limited
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+...Respondent No. 3
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 2 of 25
+Present
+For Appellants:
+Mr. Akshay Petkar, Mr. Pranav Shah, Mr. Viraj
+Pawar, Mr. Jaiveer Kant, Advocates.
+
+For Respondents:
+
+Mr. P.B.A. Srinivasan, Mr. Manish Kumar, Ms.
+Aanchal Pundir, Mr. Prashant, Advocates for R-1.
+Mr. Madan B Vaishnawa, Mr. Manoj Mishra for RP.
+J U D G E M E N T
+(02.05.2025)
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e. Shankar Kashid
+suspended director of M/s Shivani Flexipack Limited under Section 61 of the
+Insolvency and Bankruptcy Code, 2016 (‘Code’), challenging the Impugned
+Order dated 28.11.2023 passed by the National Company Law Tribunal, Mumbai
+Bench (Court-III) (‘Adjudicating Authority’) in C.P. (IB)-641(MB)/C-III/2022.
+2.
+Intec Capital Limited who is the Financial Creditor and a Non-Banking
+Financial Company (NBFC) is the Respondent No.1 herein.
+M/s Shivani Flexipack Limited who is the Corporate Debtor through its
+Interim Resolution Professional is the Respondent No.2 herein.
+Mr. Madan B Vaishnawa who is the Interim Resolution Professional is the
+Respondent No.3 herein.
+M/s Polygraph Printing Technologies Limited who is the supplier of machinery
+to the Corporate Debtor is the Respondent No.4 herein.
+A company registered under Companies Act, 1956
+having its office at 88, Mistry Industrial Complex,
+M.I.D.C. Cross Road ‘A’
+Andheri (East), Mumbai 400093.
+
+...Respondent No. 4
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 3 of 25
+3.
+The Appellant challenged the admission of the Corporate Debtor into the
+Corporate Insolvency Resolution Process (‘CIRP’) under the Code arising after
+Respondent No.1’sfiling of a Section 7 application (C.P. (IB) 641(MB)/C-
+III/2022) before the Adjudicating Authority which led to the Impugned
+Order dated 28.11.2023.
+4.
+It has been brought out that the Corporate Debtor, M/s. Shivani Flexipack
+Limited (Respondent No.2), was engaged in manufacturing flexible packaging
+materials. It is also stated that the Respondent No.1 (NBFC), acted as the
+Financial Creditor by extending a loan facility to Corporate Debtor to finance
+machinery purchases from Respondent No.4 (a manufacturer of flexographic and
+rotogravure printing presses).
+5.
+The Appellant submitted that the Respondent No.2 derived 60% of its 2011
+turnover from printed pouches for Gutkha/Pan-Masala/Tobacco products,
+necessitating the procurement of three lamination machines from Respondent
+No.4 to fulfill sustained demand through invoice and Purchase Order.
+6.
+The Appellant submitted that the Respondent No.2 through the Appellant,
+secured a loan facility of Rs.1,66,40,134 from Respondent No.1 to finance the
+lamination machines, formalized via Loan Agreement No. 011/496 dated
+18.01.2012 which
+mandated 60
+monthly
+installments
+of
+Rs.3,87,715
+each at 7.96% p.a. interest (flat). To secure the loan, Respondent No.2
+provided 60 post-dated cheques of Rs.3,87,715 each and deposited collateral of
+Rs.49,92,040 while Respondent No.1 disbursed Rs.45,00,110 directly to
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 4 of 25
+Respondent No.2 and Rs.1,21,40,024 to the machinery vendor (Polygraph
+Printing Technologies Ltd.) i.e. Respondent No.4.
+7.
+The Appellant submitted that it was agreed between the Respondent No.2
+and the Respondent No.1 that, since the Respondent No.2 had already paid an
+advance of Rs.45,00,110 towards the machinery to the Respondent No.4,
+Respondent No.1 would only disburse the remaining Rs.1,21,40,024 directly to
+Respondent No.4, as detailed in Clause 1.1 of the loan agreement. Further, by
+letter dated 18.11.2011, it was reiterated that the loan amount would not be
+disbursed in full at once, but rather in tranches, with the Respondent No.2
+retaining the right to instruct the Respondent No.1 regarding the timing and
+amount of each disbursement to the Respondent No.4. Alternatively, if the
+Respondent No.1 wished to disburse the entire amount at once, Respondent No.2
+requested that the full sum of ₹1,21,40,024 be paid to Respondent No.2 instead
+of Respondent No.4, as Respondent No.2 intended to make payments to the
+machinery supplier only as the manufacturing progressed and not prematurely.
+8.
+The appellant submitted that in addition to the loan agreement, following
+security arrangements were provided as part of the transaction:
+i.Collateral money amounting to Rs. 49,92,040/- was deposited as security.
+ii.A personal guarantee was furnished by the Appellant to further secure the loan.
+iii.A first and exclusive charge, by way of hypothecation, was created over three (3)
+Lamination Machines 1000MM (Lami Plus 2000 series)—for a total value of Rs.
+1,66,40,134.
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 5 of 25
+9.
+The Appellant submitted that the Respondent No. 1, in violation of the
+agreed terms and without any written or oral instructions, prematurely disbursed
+the entire pending loan amount of Rs. 1,21,40,024 to the Respondent No. 4 on
+27.12.2012, despite the loan agreement mandating disbursement only upon
+fulfilment of specific conditions thereby breaching the loan agreement's terms.
+The Appellant submitted that this premature disbursement has caused material
+prejudice to the Appellant's rights under the agreement.
+10.
+The Appellant submitted that following the ban on Gutkha/pan Masala
+products in July 2012, and in light of the fact that the originally ordered
+machineries had not been delivered, Respondent No. 2 requested changes in the
+technical specifications and issued a fresh Purchase Order based on new quotation
+No.
+PPTL/CONT/DOMT/12-13/049/07-2012
+dated
+10.07.2012
+to
+the
+Respondent No. 4 for the supply of one Rotogravure Printing Press - 1000 mm -
+8 Color (Orion 1000 series) (hereinafter "said revised machineries"). The
+Appellant submitted that under the initial purchase order for the supply of
+machinery, a total of Rs. 1,66,40,134 was disbursed to Respondent No. 4,
+comprising Rs. 1,21,40,024 disbursed by Respondent No. 1 and Rs. 45,00,110
+paid directly by Respondent No. 2 as advance. Since no machinery was delivered
+under the first purchase order, the advanced amounts were required to be adjusted
+against the subsequent purchase order for Rs. 1,47,89,385. Given the lower value
+of the subsequent order, Respondent No. 4 was obligated to refund the excess
+amount of Rs. 18,50,749 which remains unjustly retained by them.
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 6 of 25
+11.
+The Appellant submitted that despite Respondent No. 2 not receiving
+delivery of either the original or revised machineries, it continued honouring
+repayment cheques deposited as security with Respondent No. 1, resulting in
+payments totalling Rs. 21,74,517 between December 2011 and November 2012.
+However, due to Respondent No. 4’s persistent failure to fulfil its commitments,
+Respondent No. 2 was compelled to cease honouring the post-dated cheques
+issued to Respondent No. 1 under the loan agreement. This refusal was directly
+necessitated by Respondent No. 4’s breach of contractual obligations, which
+rendered further payments untenable.
+12.
+The Appellant submitted that the Respondent No. 2 had issued 60 post-
+dated cheques to Respondent No. 1 as security and for repayment purposes;
+however, due to the non-delivery of machinery and suspected collusion between
+Respondent No. 1 and Respondent No. 4, Respondent No. 2 stopped payment on
+these cheques, leading Respondent No. 1 to file four separate complaints under
+Section 138 of the Negotiable Instruments Act, 1881, before the Metropolitan
+Magistrate, 33 Court, South East, Saket, New Delhi, around 2016-2017, which
+are currently pending at various stages.
+13.
+The Appellant submitted that Respondent No. 1 invoked the arbitration
+clause contained in clause 32 of the loan agreement and, on 04.012013,
+unilaterally appointed Mr. Bhupesh Narula as the sole arbitrator to adjudicate the
+disputes arising therefrom; pursuant to these proceedings, the arbitrator passed an
+award dated 21.02.2018, holding Respondent No. 2 and the guarantors jointly and
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 7 of 25
+severally liable to pay a sum of Rs. 1,42,95,144 along with interest (“said
+Award”).
+14.
+The Appellant submitted that Respondent No. 2 has challenged the said
+arbitral award before the Hon’ble High Court of Delhi by filing O.M.P. (COMM)
+232/2018 along with IA 7282/2018 under Section 34 of the Arbitration and
+Conciliation Act, 1996; pursuant to this challenge, the Hon’ble High Court has,
+by order dated 24th May 2018, stayed the enforcement of the award, subject to
+the condition that Respondent No. 2 deposits 50% of the awarded amount with
+the registry of the Court. The Appellant submitted that, at the relevant time,
+Respondent No. 2 was suffering severe financial losses and, consequently, was
+unable to comply with the direction of the Hon’ble High Court of Delhi to deposit
+50% of the awarded amount as a precondition for stay of the arbitral award.
+Despite this financial constraint, Respondent No. 2 made a further effort to
+challenge the High Court’s order by filing Special Leave Petition (C) No.
+24085/2018 before the Hon’ble Supreme Court of India. The Supreme Court,
+however by its order dated 17.09.2018, dismissed the petition but granted
+Respondent No. 2 an additional four weeks to make the required deposit.
+However, even within the extended period, Respondent No. 2 was unable to
+deposit the amount due to the persistent lack of funds in the company. The
+Appellant submitted that the Hon’ble High Court of Delhi finally dismissed
+O.M.P. (COMM) 232/2018 and IA 7282/2018 on 1st April 2019,
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 8 of 25
+15.
+The Appellant submitted that Respondent No. 1 has filed a petition under
+Section 7 of the Code being CP No. 641 of 2022, before the Adjudicating
+Authority against Respondent No. 2. This petition was filed by Respondent No.
+1 in furtherance of the arbitration award dated 21st February 2018, which directed
+payment of Rs. 1,42,95,144 along with 12% simple interest, jointly and severally
+against the Appellant, Respondent No. 2 and Mr. Makrand Pandit.
+16.
+The Appellant submitted that, on 28.11.2023, the Adjudicating Authority
+misconstruing the facts of the case, passed an unreasoned and irrational order
+against the Corporate Debtor vide the Impugned Order dated 28.11.2023, and
+admitted the application bearing C.P.(IB)-641(MB)/C-III/2022 filed by
+Respondent No. 1 under Section 7 of the Code. The Appellant submitted that the
+Adjudicating Authority erred in comprehending the complex transactional
+dynamics between the parties and the demonstrable collusion between
+Respondent No. 1 and Respondent No. 4, leading to an Impugned Order that
+admitted the purported financial debt without valid reasoning or clarification as
+to its nature, thereby contravening settled legal principles. The Appellant alleged
+that the Adjudicating Authority disregarded the critical fact that Respondent No.
+1 breached the loan agreement and the terms of the letter dated 18th November
+2011 by unilaterally disbursing the entire loan amount to Respondent No. 4
+without authorization from Respondent No. 2, which vitiates the legitimacy of the
+claimed debt.
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 9 of 25
+17.
+The Appellant submitted that the Adjudicating Authority also failed to
+consider the fact that the revised machinery was not delivered due to the non-
+deposit of margin money by Respondent No. 2, which was a material precondition
+under the agreement. The Appellant further submitted that Respondent No. 2 did
+not owe any amount to Respondent No. 4, as all dues were duly adjusted between
+the parties. Rather, as part of the settlement terms, a sum of Rs. 18,50,749 would
+have been receivable from Respondent No. 4, a fact which the Adjudicating
+Authority erroneously disregarded in its analysis of the dispute.
+18.
+The Appellant submitted that the Adjudicating Authority erroneously
+relied on the findings of the Sole Arbitrator without scrutinizing the merits of the
+arbitral award or addressing critical procedural irregularities, including the
+Arbitrator’s reliance on a Proforma Invoice/Quotation as purported proof of claim
+or asset creation, despite the Appellant’s consistent assertion that the underlying
+transaction had been lawfully terminated and communicated to Respondent No.
+1 prior to the arbitration proceedings. Further, the Appellant submits that
+Respondent No. 1 intentionally excluded Respondent No. 4 from all proceedings,
+despite disbursing the loan amount of Rs. 1,21,40,024/- directly to Respondent
+No. 4 in violation of the loan agreement.
+19.
+The Appellant submitted that the Adjudicating Authority erred in passing
+the Impugned Order and admitting the Corporate Debtor into the CIRP under
+Section 7 of the Code despite the absence of any claim, debt due, or default in
+payment by the Corporate Debtor towards the Respondents, thereby failing to
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 10 of 25
+satisfy the essential requirements for admission of a Section 7 application as
+mandated by law.
+20.
+Concluding his arguments, the Appellant requested this Appellate Tribunal
+to set aside the Impugned Order and allow his appeal.
+21.
+Per contra, the Respondent No.1, the main contesting Respondent denied
+all averments made by the Appellants as misleading and baseless.
+22.
+The Respondent No. 1 submitted that the Corporate Debtor (Respondent
+No. 2) approached the Respondent No.1 to avail a loan facilities for the purchase
+of machineries. In response, Respondent No. 1 duly sanctioned the loan facility
+vide sanction letter dated 18th November 2011, amounting to Rs. 1,66,40,134.
+Pursuant to this sanction, a formal loan agreement dated 18th January 2012 was
+executed between Respondent No. 1 and the Corporate Debtor i.e Respondent
+No.2, thereby establishing a legally binding debtor-creditor relationship in
+accordance with the terms mutually agreed upon by the parties.
+23.
+The Respondent No. 1 submitted that as per the terms and conditions of
+the loan agreement executed between the parties, the loan amount was repayable
+in 60 monthly installments of Rs. 3,87,715/-, with the agreed rate of interest being
+7.96% per annum. Pursuant to the instructions received from the Corporate
+Debtor vide communication dated 18.01.2012, the Respondent No. 1 disbursed
+an amount of Rs. 45,11,110/- to the account of the Corporate Debtor and an
+amount of Rs. 1,21,40,024/- to the account of Respondent No. 4, in accordance
+with the directions provided by the Corporate Debtor.
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 11 of 25
+24.
+The Respondent No. 1 submitted that the Corporate Debtor defaulted in
+payment of the installments that were due and payable under the Loan Agreement.
+Consequently, Respondent No. 1 was constrained to invoke arbitration in
+accordance with clause 32 of the said agreement. Pursuant to the arbitration
+proceedings, an Arbitral Award was passed in favor of Respondent No. 1 by the
+Sole Arbitrator on 21.02.2018. The said award attained finality after the challenge
+under Section 34 of the Arbitration and Conciliation Act, 1996 was dismissed by
+the Hon’ble High Court of Delhi vide order dated 01.04.2019 in O.M.P. (COMM)
+232/2018.
+The
+Respondent
+No.
+1
+submitted
+that
+the
+Corporate
+Debtor/Respondent No. 2 challenged the order dated 24.05.2018 of the Hon’ble
+High Court of Delhi by filing SLP (C) No. 24085 of 2018 before the Hon’ble
+Supreme Court of India. The Hon’ble Supreme Court dismissed the application
+filed by Respondent No. 2 (through its Suspended Board) and directed the said
+Respondent to deposit 50% of the arbitral award amount within four weeks vide
+its order dated 17.09.2018. However, Respondent No. 2 (through its Suspended
+Board/Appellant) failed to comply with the Hon’ble Supreme Court’s directive.
+25.
+The Respondent No. 1 submitted that there have been cross complaints by
+the Appellant and the Respondent No.1 on criminal matters for their transactions,
+which are still pending and but do not vitiate the rights of the Respondent No.1 to
+file the application under section 7 of the Code.
+26.
+The Respondent No.1 submitted that the Adjudicating Authority, vide its
+impugned order dated 28.11.2023, admitted the petition filed under Section 7 of
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 12 of 25
+the Code thereby appointing Respondent No. 3 as the Interim Resolution
+Professional for the Corporate Debtor.
+27.
+The Respondent No. 1 submitted that the Corporate Debtor entered into an
+agreement with Respondent No. 4 for the supply of machinery, and subsequently,
+the Corporate Debtor availed a loan from Respondent No. 1 for the purpose of
+purchasing said machinery. As per the terms outlined in the loan agreement, the
+loan amount was to be disbursed according to the specific instructions provided
+by the Corporate Debtor.
+28.
+The Respondent No. 1 submitted that both the sole Arbitrator and the
+Adjudicating Authority have correctly observed that any contractual dispute
+between the Corporate Debtor and Respondent No. 4 has no bearing whatsoever
+on the debt that is due and payable by the Corporate Debtor to Respondent No. 1.
+Despite these clear and unambiguous findings by the judicial authorities, the
+Appellant is attempting to mislead this Appellate Tribunal by incorrectly asserting
+that there exists a contractual dispute between the Corporate Debtor and
+Respondent No. 1, and further erroneously claiming that such alleged dispute
+constitutes a bar to the admission of the Application filed under Section 7 of the
+Code.
+29.
+The Respondent No.1 submitted that, in light of the judgement of the
+Hon’ble Supreme Court in Dena Bank v. C. Shivkumar Reddy (Civil Appeal No.
+1650 of 2020), Kotak Mahindra Bank Limited v. A. Balakrishnan [(2022) 9
+SCC 186], and E.S. Krishnamurthy v. M/s Bharath Hi Tech Builders Pvt.
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 13 of 25
+Ltd. (Civil Appeal No. 3325 of 2020), it is now well settled that insolvency
+proceedings under Section 7 of the Code, can be validly initiated on the basis of
+an arbitral award, provided the award has attained finality and the dues of the
+financial creditor remain unpaid by the award debtor. The Supreme Court has
+clarified that when an arbitral award crystallizes a liability that qualifies as a
+“financial debt” under Section 5(8) of the Code, the amount payable under such
+an award itself constitutes a financial debt, and any default in payment by the
+debtor gives the award holder the right to initiate a corporate insolvency
+resolution process under Section 7 of the Code.
+30.
+The Respondent No. 1 submitted that, in the present case, following the
+Corporate Debtor’s default in repayment of outstanding dues under the loan
+agreement dated 18.01.2012, the arbitration clause was duly invoked and a Sole
+Arbitrator was appointed to adjudicate the claim. Upon consideration of the
+sanction letter, statement of accounts, loan agreement, and other relevant
+documents, the Sole Arbitrator passed an arbitral award dated 21.02.2018 in favor
+of Respondent No. 1, directing the Corporate Debtor to pay Rs. 1,42,95,144 along
+with interest at 12%. The claim thus stood crystallized by the award, which
+attained finality after the challenge under Section 34 of the Arbitration and
+Conciliation Act, 1996 was dismissed and no further appeal was preferred within
+the prescribed period. Despite the award attaining finality, the Corporate Debtor
+failed to discharge its liability and remained in financial distress, compelling
+Respondent No. 1 to initiate the Corporate Insolvency Resolution Process by
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 14 of 25
+filing an application under Section 7 of the Code as the unpaid award amount
+constitutes a crystallized debt and default under the Code.
+31.
+The Respondent No. 1 submitted that, as held by the Hon’ble Supreme
+Court in Innoventive Industries Limited vs. ICICI Bank and Anr. [(2018) 1 SCC
+407] and M Suresh Kumar Reddy vs. Canara Bank and Ors., as well as by this
+Appellate Tribunal in a series of judgments, the sole criterion for admission of an
+application under Section 7 of the Code, 2016, is the existence of a default in
+respect of a financial debt. The Adjudicating Authority is required only to
+ascertain whether a financial debt exists and whether a default has occurred; if so,
+the application must be admitted unless it is incomplete, or there is a pending
+disciplinary proceeding against the proposed resolution professional. Thus, an
+application under Section 7 can only be rejected on the limited grounds that: (i)
+no default has occurred, (ii) the application is incomplete under Section 7(2), or
+(iii) there is a disciplinary proceeding pending against the proposed resolution
+professional.
+32.
+The Respondent No. 1 submitted that the Appellant's contention regarding
+non-disbursement of the loan amount in accordance with the Loan Agreement is
+factually incorrect and legally untenable. The Appellant has relied on a purported
+letter dated 18.11.2011, which is demonstrably false and fabricated, to falsely
+allege that the Corporate Debtor instructed disbursement to Respondent No. 4 in
+tranches. However, the factual record unequivocally demonstrates that, vide
+communication dated 18.01.2012, Respondent No. 2 explicitly instructed
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 15 of 25
+disbursement of a portion of the loan amount to Respondent No. 4 and the balance
+to the Corporate Debtor. This position was duly considered and adjudicated by
+the sole Arbitrator, who categorically rejected Respondent No. 2's defense as
+false, fabricated, and an afterthought, thereby affirming the validity of the
+disbursement process. The Arbitral Award, which has attained finality,
+conclusively establishes the Answering Respondent's compliance with the Loan
+Agreement and the Corporate Debtor's liability for the defaulted financial debt
+under Section 5(8) of the Code.
+33.
+The Respondent No. 1 submitted that without prejudice to its other
+contentions, that the Appellant is impermissibly re-agitating issues already
+conclusively adjudicated by the sole Arbitrator. The Financial Creditor and
+Corporate Debtor voluntarily submitted their disputes to arbitration, resulting in
+a binding award in favor of the Financial Creditor, which attained finality upon
+dismissal of the challenge under Section 34 of the Arbitration and Conciliation
+Act, 1996. The Respondent No.1 submitted that cannot now seek to reopen these
+settled matters, and this Appellate Tribunal, consistent with the principles of res
+judicata and the statutory framework of the Arbitration Act, ought not to re-
+examine or sit in appeal over the Arbitral Award. Permitting such a course would
+undermine the finality of arbitration and contravene the legislative intent of the
+Arbitration and Conciliation Act, 1996.
+34.
+The Respondent No. 1 submitted that the allegation that the Corporate
+Debtor instructed the Respondent No.1 not to disburse the loan amount in full and
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 16 of 25
+instead to disburse it in tranches is entirely false and baseless. The purported letter
+dated 18.11.2011 relied upon by the Appellant is fabricated, and the Appellant
+could not give any proof thereof. The Respondent No.1 submitted that this
+contention was specifically rejected by the sole Arbitrator, who found no evidence
+to establish that the letter dated 18.11.2011 was ever communicated to the
+Answering Respondent. On the contrary, it is on record that by communication
+dated 18.01.2012, the Corporate Debtor expressly instructed the Respondent No.1
+to disburse an amount of Rs. 1,21,40,024 to the account of Respondent No. 4, M/s
+Polygraph Printing Technologies, and the balance loan amount of Rs. 45,00,110
+to the account of the Corporate Debtor. Therefore, the plea of the Appellant
+alleging breach of the loan agreement in the disbursement process is wholly
+without merit and stands disproved by the documentary evidence and the findings
+of the Arbitrator.
+35.
+The Respondent No. 1 submitted that the report submitted to the
+Metropolitan Magistrate, Borivali relied upon by the Appellant clearly establishes
+that the Corporate Debtor initially placed an order with Respondent No. 4 for
+three “Lamination Machines” and availed the loan from the Respondent No.1 for
+this purpose. Subsequently, due to a government-imposed ban on Guthka/Pan
+Masala, the Corporate Debtor cancelled the original order and entered into a new
+contract with Respondent No. 4 on 23.08.2013 for a different machine, namely,
+the “Rotogravure Printing Press 1000 mm08 Color Machine.” The Respondent
+No.1 stated that this change in circumstances was never communicated to the
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 17 of 25
+Respondent No.1. Despite this, the Corporate Debtor did not discharge its debt to
+the RespondentNo.1 and failed to provide a No Objection Certificate for refund
+of Rs. 1,21,40,385/- to the Respondent No.1, which prevented completion of the
+transaction under the second agreement. The Respondent No.1 denied that the
+amounts advanced by the Respondent No.1 under the first purchase order were to
+be adjusted against the amounts payable under the second purchase order; such a
+plea is false, fabricated, and inconsistent with the stand taken by the Corporate
+Debtor before the Adjudicating Authority. In its reply to the Section 7 petition,
+the Corporate Debtor itself admitted that, following the government ban, it
+requested Respondent No. 4 to adjust the loan amount already disbursed by the
+Respondent No.1, but Respondent No. 4 did not do so and instead raised a fresh
+purchase order. The Respondent No.1 stated that therefore the Appellant’s present
+plea is thus contrary to its own earlier submissions and is devoid of merit.
+36.
+The Respondent No. 1 submitted that as per the loan agreement dated
+18.01.2012, a total sum of Rs. 2,32,62,907 was due and payable by the Corporate
+Debtor in 60 monthly installments, with the last installment falling due on
+01.01.2017. In furtherance of the said agreement, the Corporate Debtor handed
+over 59 post-dated cheques and paid the first installment via RTGS at the time of
+execution. However, the Corporate Debtor subsequently defaulted in payment of
+installments, and the cheques issued began to be dishonoured, compelling the
+Respondent No.1 to issue a loan recall-cum-arbitration notice on 28.11.2012,
+demanding payment of the outstanding amount of Rs. 1,78,32,055. The
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 18 of 25
+Appellant’s allegation that the Respondent No.1 directed Respondent No. 4, by
+email dated 27.01.2013, not to deliver the machinery thereby causing losses to
+the Corporate Debtor and resulting in non-repayment of the loan is false and
+fabricated. The Respondent No.1 stated that the Corporate Debtor began incurring
+losses of approximately Rs. 25 lakhs per month from October 2012 due to the
+government-imposed ban on guthka/pan masala in July 2012, which led to the
+dishonouring of cheques issued to the Respondent No.1. Under the loan
+agreement, the Respondent No.1 held a first and exclusive charge over the
+machinery, and accordingly, instructed Respondent No. 4 not to deliver the
+machinery only after the Corporate Debtor defaulted on its repayment obligations.
+Such action was fully in accordance with the terms of the loan agreement and
+standard lending practices, which allow the lender to protect its security interest
+in the event of default.
+37.
+Concluding his pleadings, the Respondent No.1 requested this Appellate
+Tribunal to dismiss the appeal with cost.
+38.
+The Respondent No. 4 submitted that it, M/s Polygraph Printing
+Technologies Ltd., is a leading manufacturer based in Mumbai, India, specializing
+in the production of Flexographic Printing Machines, Rotogravure Printing
+Machines, and Lamination Machines.
+39.
+The Respondent No. 4 submitted that in the instant matter, Respondent No.
+2 (M/s Shivani Flexipack Ltd.) placed its first purchase order for three lamination
+machines dated 27.06.2011 for an amount of Rs. 1,66,40,134. In furtherance of
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 19 of 25
+the loan agreement between Respondent No. 1 (M/s Intec Capital Ltd.) and
+Respondent No. 2, Respondent No. 4 received a payment of Rs. 1,21,40,024/- on
+31.01.2012 through Respondent No. 1, as per the disbursement instructions
+provided by Respondent No. 2.
+40.
+The Respondent No. 4 submitted that, following the imposition of the gutka
+ban, Respondent No. 2 modified its original purchase order and issued a revised
+order dated 23.08.2012 for one Rotogravure machine for an amount of Rs.
+1,47,89,385. The Respondent No. 4 submitted that the Appellant failed to
+complete payments for the delivery of the Rotogravure machine. The Respondent
+No.4 denied the allegation of the Appellant that the machine was not delivered
+despite timely payments is factually incorrect and unsupported by the record.
+41.
+The Respondent No.4 submitted that the Appellant's claim regarding an
+alleged advance payment of Rs.45,00,110 to Respondent No. 4/Manufacturer is
+wholly unsubstantiated. No such payment was ever made to Respondent No. 4,
+and the Appellant has failed to produce any documentary evidence or proof of
+such payment on record. Furthermore, it is clearly stipulated in the purchase order
+dated 23.08.2012 that the machinery would be delivered only upon payment of
+50% of the total amount as advance, with the remaining 50% payable prior to
+delivery. The terms of the purchase order thus indicate that delivery was
+conditional upon advance payment, which, as stated, was never received by
+Respondent No. 4.
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 20 of 25
+42.
+The Respondent No. 4 submitted that the Appellant has, in paragraph (xii)
+under point 7 of the appeal, expressly admitted that it was communicated in
+March 2013 that the machine was ready for delivery. This admission clearly
+establishes that the manufacturing process had reached completion and that
+Respondent No. 4 was prepared to deliver the machinery at that stage. However,
+the Corporate Debtor could not make necessary payments.
+43.
+The Respondent No. 4 submitted that the Adjudicating Authority in its
+impugned order dated 28.11.2023 has explicitly observed that the disputes raised
+by the Appellant against Respondent No. 4 fall outside the scope of these
+proceedings and must be adjudicated through appropriate legal remedies
+elsewhere. The Respondent No. 4 asserts that the impugned order correctly
+identifies the jurisdictional limitations of the Adjudicating Authority in
+addressing the Appellant’s claims, which pertain to contractual or civil disputes
+unrelated to the insolvency proceedings under the Code. The referred paraph
+reproduced herein bellow:
+“21. The dispute, between the Corporate Debtor and the
+Manufacturer to whom the loan amount was disbursed on the
+instructions of the Corporate Debtor, cannot be a ground to
+scuttle the proceedings under section 7 of the Code as long
+as debt and default is proved. If the Respondent has not
+received the machines for which payment was made to the
+Machine Manufacturer, then the remedy against the
+Manufacturer lies elsewhere and not before the Adjudicating
+Authority under the Insolvency and Bankruptcy Code, 2016.
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 21 of 25
+Under the Code, the Adjudicating Authority has to merely
+examine whether there is ‘debt’ and ‘default’.”
+44.
+The Respondent No.4 reiterated that the machines remain in its possession
+in a dismantled state and asserts that their dispatch could have been made upon
+receipt of the outstanding amount of Rs.45,08,111 from the Corporate Debtor.
+The Respondent No.4 stated that non-delivery of machinery is attributed solely to
+the non-payment of dues, which has hindered the reassembly and logistical
+arrangements necessary for delivery.
+45.
+Concluding his pleadings, the Respondent No.4 also requested this
+Appellate Tribunal to dismiss the present appeal with cost.
+Findings
+46.
+We note that in the present case, the Corporate Debtor has defaulted in
+repayment of the loan and the application under section 7 of the Code was filed
+by the Respondent No.1 duly accompanied by a record of default as recorded with
+the information utility, in compliance with the mandatory requirements under
+Section 7 of the Code. The Corporate Debtor has not disputed the sanction and
+disbursal of the loan, execution of the loan agreement, related transactional
+documents, or the registration of charge with the Registrar of Companies. We also
+take into consideration that the arbitral award dated 21.02.2018 which crystallized
+the outstanding amount payable by the Corporate Debtor of Rs.1,42,95,144 along
+with interest @12% which constitutes a financial debt under Section 5(8) of the
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 22 of 25
+Code, and the non-payment of this award amount amounts to a default. The
+Adjudicating Authority has correctly applied the provisions of Section 7 of the
+Code as well as the settled legal position laid down in Innoventive Industries
+Limited vs ICICI Bank and Anr. (2018) 1 SCC 407 to admit the Corporate
+Debtor into the CIRP.
+47.
+Suffice to note that the Corporate Debtor approached the Financial Creditor
+for loan facility for purchase of packing machineries for which loan of Rs.
+1,66,40,134 was sanctioned vide sanction letter dated 18.11.2021. This was
+repayable in 60 monthly instalments along with interest.
+48.
+We note that the Appellant has raised several issues regarding the conduct
+of Respondent No.1/ Financial Creditor as well as supplier of the machine i.e.,
+Respondent No. 4 herein and several complaints and counter complaints have
+been lodged by the respective parties which are which are still pending. We
+further note that contractual issues have also been raised. However, none of these
+are directly concerned with the debt and default which is a subject matter for the
+present appeal.
+49.
+Thus, the issue before us in the appeal is limited that whether there has been
+debt of more than Rs. 1 Crore to meet the threshold as stipulated under Section 7
+of the Code and whether there has been default by the Corporate Debtor. We will
+also look into whether the Arbitral Tribunal Award dated 21.02.2018 could
+tantamount to financial debt in terms of Code.
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 23 of 25
+50.
+From the facts noted from the pleading, of all parties noted by us in all
+discussions earlier ,we observe that the money indeed was disbursed by the
+Financial Creditor to the Corporate Debtor as well as to supplier of the machinery
+i.e., Respondent No. 4 based on the instruction of the Corporate Debtor. It is also
+fact that the total money disbursed was more than Rs. 1 Crore. We observe that
+the Corporate Debtor vide letter dated 18.01.2012 advised the Financial Creditor
+to disbursed an amount of Rs. 45,11,110/- to the account of the Corporate Debtor
+and Rs. 1,12,40,024/- in favour of Respondent No. 4. The necessary
+documentations have been annexed in the appeal. Thus, the money was paid as a
+loan by the Respondent No.1/Financial Creditor to the Corporate Debtor
+/Respondent No. 2 and therefore it is clearly established that the said amount
+meet the threshold criteria as stipulated under Section 7 of the Code.
+51.
+Now, we have to see whether there has been default or not. In this
+connection, we note that the Respondent No.1/Financial Creditor issued a loan
+recall-cum-arbitration notice dated 28.11.2012 calling upon the Corporate Debtor
+to pay outstanding amount of Rs. 1,78,32,055/-. It has also been brought out that
+the Financial Creditor has invoked arbitration notice in terms of the Clause 32 of
+the Loan Agreement dated 18.01.2012 executed between the Corporate Debtor
+and the Financial Creditor. The Arbitration Award was passed by the sole
+Arbitrator in favour of the Respondent No.1/Financial Creditor by the sole
+arbitrator on 21.02.2018 and it has attained finality vide order dated 01.04.2019
+passed by the Hon’ble Delhi High Court in O.M.P. (COMM) No. 232/2018. It is
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 24 of 25
+significant to note that the issue has travelled up to Hon’ble Supreme Court of
+India as the Corporate Debtor had filed SLP No. (C) No. 24085/2018 against the
+order of the Hon’ble Delhi High Court dated 24.05.2018, however, the Hon’ble
+Supreme Court of India vide order dated 17.09.2018 dismissed the application
+filed by the Corporate Debtor by granting the liberty of four weeks to deposit the
+50% award amount which was not complied by the Corporate Debtor.
+52.
+We have noted that in fact the Appellant on his own changed the
+specifications of the machinery and has given the order to the Respondent No.4
+for different machinery without consent of the Respondent No.1/Financial
+Creditor. It has also been brought out that the Corporate Debtor refused to take
+delivery of the machines from Respondent No.1 on some pretext since the ban on
+the guthka came into force in Maharashtra and did not make payment to
+Respondent No.4. We observe that the issues regarding ban of gutka in
+Maharashtra or not supply of machinery or not acceptance of the machinery by
+the Corporate Debtor from Respondent No. 4, do not really impact the transaction
+between the Financial Creditor and the Corporate Debtor. It need to be
+appreciated that the proper and legally enforceable loan agreement was executed
+between the Financial Creditor and the Corporate Debtor. It is reiterated that the
+money was transferred by the Financial Creditor in the accounts of the Corporate
+Debtor and in the accounts of the machine supplier i.e. Respondent No. 4 at the
+instructions of the Corporate Debtor. Hence, the arguments of the Appellant that
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 62of 2024
+Page 25 of 25
+there has been connivance between the Respondent No. 1 and Respondent No. 4
+and therefore, alleged financial debt cannot be legally enforced, is not tenable.
+53.
+It is also important to note that even the sole arbitrator appointed in terms
+of Clause 32 of the Loan Agreement dated 18.01.2012 has also held clear debt
+and default thereafter, gave the Arbitral Award dated 21.02.2018 tenable.
+54.
+We have made careful perusal of the Impugned Order and we are of the
+considered opinion that the Adjudicating Authority has gone through details of
+the case fully including the Arbitral Award and the judgement of the Hon’ble
+Delhi High Court as well as the Hon’ble Supreme Court of India. The Impugned
+Order also clearly establish the facts regarding debt and default which are basic
+ingredients to admit application under Section 7 of the Code.
+55.
+We do not find any error in the Impugned Order. The Appeal devoid of
+any merit stand rejected. No cost. I.A., if any, are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+Sim

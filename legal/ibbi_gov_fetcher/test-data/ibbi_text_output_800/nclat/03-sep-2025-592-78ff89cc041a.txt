@@ -1,0 +1,766 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+[Arising out of the Impugned Order dated 29.04.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench,
+Court-V in I.A. No. 4194 of 2024 in C.P. (IB) No. 119/MB/2021]
+In the matter of:
+ICICI Bank Ltd.
+ICICI Bank Tower,
+Near Chakli Circle, Old Padra Road,
+Vadodara, Gujarat – 390007
+Registered office at ICICI Bank,
+Towers, Bandra Kurla Complex,
+Mumbai, Maharashtra – 400051.
+
+...Appellant
+
+Versus
+
+1. Seeta Neeraj Shah
+375 A, Vidhut Building, 1st Floor,
+Room No. 1A, Girgaum,
+Chira Bazar, Mumbai – 400 002
+
+...Respondent No.1
+2. Mr. Trupalkumar Patel
+Resolution Professional of
+Ushdev Engitech Limited
+C/505, The First, B/h ITC Narmada,
+Near Kechav Baug Party Plot,
+Vastrapur, Ahmedabad
+...Respondent No.2
+
+Present:
+
+For Appellant
+: Mr. Krishnendu Dutta, Sr. Advocate with Mr. Prakshal
+Jain, Mr. Arnav Doshi, Mr. Siddharth Ranade and Mr.
+Shankh Sengupta, Advocates.
+
+For Respondent
+: Mr. Ramji Srinivasan, Sr. Advocate with Mr. Kumar
+Anurag Singh, Mr. Zain A. Khan, Mr. Vijay Mathur, Mohd.
+Abran Khan, Ms. Shefali Munde and Mr. Arjun Bhatia,
+Advocates for R-1.
+
+Ms. Pooja Mahajan, Mr. Savar Mahajan and Mr. Srivastava
+Beerapalli, Advocates for RP.
+
+Mr. Tirth Nayak and Mr. Palash S. Singhai, Advocates for
+SRA.
+
+[PAGE 2]
+Page 2 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+29.04.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-V)
+in I.A. No.4194 of 2024 in C.P.(IB) No. 119/MB/2021. By the impugned order,
+the Adjudicating Authority has allowed I.A. No.4194 of 2024 to hold the
+liability of Respondent No. 1 to Rs. 25 crore under the Guarantee Deed of
+10.08.2016. Aggrieved by the impugned order, the present appeal has been
+preferred by the Appellant-ICICI Bank.
+
+2.
+The brief facts required to be noticed in deciding the matter are as
+follows:
+
+ICICI Bank extended credit facility to Ushdev International
+Ltd. (“UIL” in short) on 24.12.2014 and a Credit Arrangement
+Letter was executed.
+
+Ushdev Engitech Ltd. (“UEL” in short) issued a Corporate
+Guarantee in favour of Appellant-ICICI Bank for the loan facility
+advanced to UIL. This Corporate Guarantee was entered into on
+10.08.2016.
+
+On
+16.10.2017, ICICI
+Bank
+invoked
+the
+Corporate
+Guarantee due to failure on part of UIL to repay the outstanding
+dues.
+
+[PAGE 3]
+Page 3 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+
+ICICI Bank filed an insolvency application against UEL which
+was admitted on 26.04.2023. The CIRP admission order was
+affirmed by this Tribunal on 02.07.2024 and by the Hon’ble High
+Court on 29.07.2024.
+
+On 10.05.2023, ICICI Bank filed its initial Claim Form with
+the Resolution Professional (“RP” in short). The RP had admitted
+the principal component of Rs 25 Cr. raised in the claim of ICICI
+Bank while keeping the default interest amount charged by the
+ICICI Bank under verification.
+
+After exchange of several communications between the ICICI
+Bank and the RP, a revised Claim Form was submitted by ICICI
+Bank on 24.06.2024.
+
+On 02.07.2024, the RP after due verification admitted ICICI
+Bank’s claim to the extent of Rs 67.98 Cr. with Rs 25 Cr. being
+the principal guarantee amount and interest of Rs 42.98 Cr. being
+default interest amount.
+
+M/s Seeta Neeraj Shah, Ex-Director of UEL- Respondent
+No.1 filed a Writ Petition before the Hon’ble Delhi High Court to
+decide on the revised claim of Rs 67.98 Cr. submitted by ICICI
+Bank. The Delhi High Court on 13.08.2024 directed the
+Adjudicating Authority to decide on the issue of the claim amount
+following which IA No. 4194 was filed by Respondent No.1 seeking
+a declaration that the liability of UEL be capped at Rs 25 Cr. only.
+
+[PAGE 4]
+Page 4 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+
+The Adjudicating Authority after considering the matter
+passed the impugned order capping the liability of UEL to Rs 25
+Cr. Aggrieved by the impugned order, the present appeal has been
+preferred by the ICICI Bank-Appellant.
+
+3.
+Making his submissions on behalf of the Appellant, Shri Krishnendu
+Datta, Ld. Sr. Counsel for the Appellant assailing the impugned order
+submitted that the Adjudicating Authority had wrongly construed the terms
+of the Guarantee deed to allow the application filed by the Respondent No.1
+for capping the limit of the entire liability of the guarantor including default
+interest for delayed discharge of guarantee obligations to Rs 25 Cr. by falling
+back on Clause 33 of the Corporate Guarantee. It was contended that the
+Adjudicating Authority had failed to appreciate that the Corporate Guarantee
+also contained a specific clause viz. Clause 3 which provided for liability on
+the part of the UEL to pay default interest. Thus, while Clause 33 operates in
+respect of liability of UEL for amounts owed by UIL, Clause 3 deals with the
+liability on the part of the UEL to pay interest arising out of their own default
+in discharging their liability towards the guarantee undertaken by them. When
+the two parties provided for a remedy in case of non-payment or delayed
+payment by the guarantor, the same remedy cannot be rendered obsolete or
+otiose by applying the cap in Clause 33 to apply to default interest as provided
+in Clause 3. It was therefore pointed out that there is a need to harmoniously
+read the provisions of Clause 3 and Clause 33 of the Corporate Guarantee
+which are operable in separate domains. Since there was no conflict in the
+operation of these two clauses as they work and operate in two entirely
+
+[PAGE 5]
+Page 5 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+different spheres, the non-obstante clause contained in Clause 33 does not
+come into play in the present factual matrix. It is also submitted that the
+Adjudicating Authority failed to follow the settled principle of law that any
+commercial document or contract needs to be interpreted in a manner that it
+conforms to business common sense. It was vehemently contended that if the
+interpretation given in the impugned order is allowed to hold ground it would
+lead to unreasonable consequences and have wide ramifications of dis-
+incentivising payment of dues in a timely manner and foster an unhealthy
+trend of encouraging non-payment of dues on time and create a climate where
+wrong-doers who default in discharging their payment obligations take undue
+advantage of their default. It was therefore submitted that the Adjudicating
+Authority had wrongly held that charging default interest over and above Rs
+25 Cr. was against the agreed terms of the Corporate Guarantee as
+contemplated in Clause 33.
+
+4.
+The Ld. Counsel for the RP-Respondent No.2, Ms. Pooja Mahajan
+making her submissions contended that the RP had rightly admitted the
+interest claim of ICICI Bank after doing due diligence in terms of the Corporate
+Guarantee. Clause 3(a) of the Guarantee Document clearly provided that the
+guarantor upon demand made to it shall forthwith pay to the bank the
+amounts demanded by the bank as payable under the Facility Agreement.
+Clause 3 on the other hand entitled ICICI Bank to charge interest if the
+guarantor failed to pay the guaranteed amount within the cure period which
+amount stood covered under Section 5(8)(h) of IBC. Contending that the
+Adjudicating Authority incorrectly held that as per Clause 33, the claim of
+
+[PAGE 6]
+Page 6 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+ICICI Bank cannot exceed Rs 25 Cr., she also endorsed and supported the
+contentions made by the Appellant-ICICI Bank that Clause 3 and Clause 33
+of the Corporate Guarantee has to be read in harmonious conjunction in the
+absence of any direct conflict between them and by doing so the RP had
+correctly admitted the revised claim of Rs 67.98 Cr. of ICICI which revised
+claim was in accordance with law.
+
+5.
+Rebutting the arguments made by the ICICI Bank-Appellant and RP,
+Shri Ramji Srinivasan, Ld. Sr. Counsel for Respondent No.-1 submitted that
+it is the cardinal rule of construction of any Guarantee Agreement that a
+guarantor cannot be made liable beyond the terms of his engagement. It was
+submitted that Clause 33 of the Agreement contained a “notwithstanding”
+proviso which proviso had been deliberately and intentionally inserted by the
+parties in the Guarantee Agreement setting a cap on the overall liability of the
+Guarantor. In such circumstances, any liability beyond Rs 25 Cr. could not
+have been permitted by the Adjudicating Authority as it would have otherwise
+rendered nugatory the non-obstante provision. The Adjudicating Authority
+had correctly appreciated that the non-obstante clause prevailed over all other
+clauses of the Guarantee Contract. It is settled law that when a transaction is
+entered into between two parties with open eyes and with a clear
+understanding about the nature of the contract, no party can claim anything
+more than what is covered by the terms of the contract. Thus, the liability of
+the UEL would depend purely on the terms of the Corporate Guarantee. It was
+further pointed out that Section 128 of the Indian Contract Act, 1872 clearly
+lays down that the liability of the surety is co-extensive with that of the
+
+[PAGE 7]
+Page 7 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+principal debtor unless it is otherwise provided. Hence, in terms of Section
+128 of the Contract Act, no interpretation that disregards the clearly defined
+contractual limitation of Rs 25 Cr. as the maximum liability of the Respondent
+No. 1 can be permitted.
+
+6.
+We have duly considered the arguments advanced by the Ld. Counsel
+for the parties and perused the records carefully. We also notice that the Ld.
+Counsels have relied on various judgments of this Tribunal, High Courts and
+the Hon’ble Supreme Court which we shall refer to while considering the
+submissions in details.
+
+7.
+The short point for consideration is whether or not the overall quantum
+of liability of the guarantor in terms of the Contract for Guarantee was only
+Rs 25 Cr. inclusive of both principal guarantee amount as well as the default
+interest payable by the guarantor on the delay in the discharge of the
+guarantee obligations.
+
+8.
+Before we make our analysis and return our findings on the rival
+contentions raised by the parties, we would like to take note of the relevant
+provisions of the Guarantee Agreement which determine the guarantee
+obligations including the terms of payment. The relevant provisions are as
+reproduced below:
+(1b)(A) The expression “Guarantors” means the persons named in
+the Schedule 1 hereof; the expression “Guarantors" shall, unless it
+be repugnant to the subject or as the context may permit or require....
+(1b)(B) The expression “this Guarantee" shall mean and include this
+guarantee, the documents in relation to security if any required to be
+created by the Guarantors, all other related documents; such
+
+[PAGE 8]
+Page 8 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+expression shall also include all amendments made thereto from time
+to time.
+(1b)(C) All applications, facility agreement, and the other Transaction
+Documents are hereinafter referred to as the “Facility Documents";
+such expression shall include all amendments made thereto from time
+to time.
+....
+3.(a) In the event of any default on the part of the Borrower in
+payment/repayment of any of the moneys referred to Clause 2 above,
+or in the event of any default on the part of the Borrower to comply
+with or perform any of the terms, conditions and covenants contained
+in the Facility Documents, the Guarantors shall, upon demand to the
+Guarantors, forthwith pay to the Bank without demur all/part of the
+amounts as demanded by the Bank payable by the Borrower under
+the Facility Documents. Any such demand made by the Bank on the
+Guarantors shall be final, conclusive and binding notwithstanding
+any difference or any dispute between the Bank and the
+Borrower/arbitration or any other legal proceedings, pending before
+any court, tribunal, arbitrator or any other authority. The enforcement
+of this Guarantee in part by the Bank, for any reason whatsoever,
+shall not amount to discharge of the obligations of the Guarantor
+under this Guarantee to the extent of the balance (unenforced)
+amount(s) of the Guarantee.
+3. In the event of failure by the Guarantors to make payment as stated
+above, the Guarantors shall pay default interest at the same rate/s
+as specified in relation to the Facilities for the Borrower till receipt of
+the aforesaid amounts by the Bank to its satisfaction.
+....
+33. Notwithstanding anything herein above stated our liability under
+this guarantee shall not exceed Rs. 250 Million. This Guarantee will
+fall off in the event the outstanding of Borrower is less than or
+aggregate of Rs. 2,180 Million out of Rs. 2,500 Million (due as on date
+with ICICI Bank Limited under various facilities provided to the
+Borrower).
+
+9.
+Having noted the relevant clauses of the Guarantee document, we may
+now notice the findings returned by the Adjudicating Authority before we dwell
+upon the rival contention of both parties.
+
+[PAGE 9]
+Page 9 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+10.
+When we look at the impugned order, we notice that the Adjudicating
+Authority has endeavoured to decide and determine whether the Guarantor
+under the deed of guarantee was liable only to the extent of the cap of Rs. 25
+Cr. inspite of the deed of guarantee stipulating payment of default interest in
+the event of failure by the Guarantor to discharge the guarantee obligations.
+Relying on the judgment of this Tribunal in Shitanshu Bipin Vora Vs Shree
+Hari Yarns Pvt. Ltd. (2025 SCC Online NCLAT 694) the Adjudicating
+Authority has observed that it did not have the power to interpret the terms of
+the Corporate Guarantee and that a plain and simple meaning based on the
+express terms of the Guarantee Contract is required to be applied in the
+present case. The Adjudicating Authority has come to the finding that if the
+simple and plain meaning is to be followed, since both the parties have
+consciously executed the deed of guarantee by inserting Clause 33 which
+starts with a non-obstante provision, the Guarantor would be liable only to
+the extent of Rs. 25 Cr cap laid down in Clause 33. It was held that any other
+interpretation would be interpreting the document against the agreed terms
+of contract between the parties as any other interpretation would “in a way
+insert something which is not expressly agreed upon by the parties to the deed
+of guarantee.”
+11.
+In the first place, it would be appropriate for us to examine as to what
+was the guarantee liability of Respondent No.1 qua the liability of UIL to the
+Appellant bank and whether the claim of the Appellant bank filed before the
+RP in respect of liability of principal borrower was in conformity with the terms
+outlined in the Guarantee Document.
+
+[PAGE 10]
+Page 10 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+12.
+It is contended by the Respondent No.1 that admittedly the loan given
+to the principal borrower by the Appellant bank was far above Rs 25 cr.
+However, the Appellant Bank by its volition had chosen to secure the loan
+facility extended to the principal borrower for a much lower amount of Rs 25
+Cr. Once the Appellant Bank had opted for a security amount lower than the
+facility extended, and this security amount had been agreed to with open eyes
+by both parties, the terms of the contract became binding on both parties and
+they had no option but to give effect to the contract. Reliance has also been
+placed upon judgment of the Hon’ble Supreme Court in Syndicate Bank Vs
+Channaveerappa Beleri and Ors. (2006) 11 SCC 506 wherein it has been
+laid down that the liability of a Guarantor will depend purely on the terms of
+contract of guarantee. Reference has also been made to the judgment of the
+Hon’ble Supreme Court in State of Maharashtra Vs Dr. M.N. Kaul AIR 1967
+SC 1634 which held that the cardinal rule is that the guarantor must not be
+made liable beyond the terms of his engagement.
+
+13.
+It is the case of the Appellant that Section 126 of the Indian Contract
+Act, 1872 envisages a contract to perform the promise, or discharge the
+liability, of a third person in case of his default which is what is applicable in
+the present case. Further, it was admitted that it is undisputable that Clause
+3(a) of the Guarantee Agreement spells out the nexus between the guarantee
+liability given by UEL qua the principal debt of UIL. It is also not contested
+that the terms of a Guarantee Contract can always restrict the liability of the
+guarantor to an amount which is less than what was the liability of the
+principal borrower to pay and that Clause 33 of the Guarantee Agreement
+
+[PAGE 11]
+Page 11 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+provided that notwithstanding anything to the contrary, the liability of UEL
+under this guarantee was not to exceed Rs 25 Cr.. In this backdrop, it was
+therefore contended that the Appellant Bank by claiming Rs. 25 Cr towards
+liability of principal borrower clearly did not breach Clause 3(a) of the
+Guarantee Document as it had restricted the guarantee liability amount to Rs
+25 Cr. which amount fell within the cap limit set by Clause 33.
+
+14.
+When we see the material on record, we find that it has not been
+controverted by either Respondent No.1 or the RP that the Appellant while
+submitting their claim in Form-C had claimed the guarantee liability amount
+to be Rs 25 Cr. as liability of UIL to the Appellant Bank. In other words, the
+Appellant had crystallised the guarantee liability at Rs 25 Cr. on the invocation
+of guarantee in terms of Clause 3(a) of the Deed of Guarantee. We do not find
+any flaw in the quantum of guarantee liability claimed by the Appellant bank
+qua the liability of the principal borrower. This amount was in accordance
+with Clause 3(a) of the Guarantee document which amount the Appellant
+Bank had opted as security amount. Furthermore, this guarantee liability
+amount of Rs. 25 Cr. claimed by the Appellant Bank was pretty much in
+conformity with the cap laid down under Clause 33. Having said that, we
+observe that we do not find any violation of the ratios laid down in the
+judgments of the Hon’ble Supreme Court in Syndicate Bank judgment or
+the M.N. Kaul judgement since the liability amount claimed qua the debt of
+the principal borrower does not exceed Rs. 25 cr. which amount was within
+the terms of the Guarantee Document.
+
+[PAGE 12]
+Page 12 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+15.
+A perusal of Clause 3(a) reveals that it required UEL to discharge this
+liability of UIL within the cure period once the guarantee stood invoked and
+until the expiry of cure period, payment of this guarantee amount was to be
+made without payment of interest on account of delayed payment. This
+therefore brings us to other related issue as to whether the Guarantee Deed
+apart from the Rs. 25 Cr guarantee liability also provided for liability on the
+part of Respondent No.1 for delayed payment of guarantee obligations beyond
+the cure period.
+
+16.
+The Appellant asserted that their claim of Rs 25 Cr. was only in respect
+of the liability guaranteed by UEL in respect of amounts which are due from
+UIL to the Appellant Bank without embracing default interest in its fold.
+However, they were entitled to make further claim for default interest incurred
+by Respondent No.1 for delayed payment of guarantee liability of Rs 25 Cr.
+beyond the cure period. Amplifying their case further, it was contended by the
+Appellant that Clause 3 makes out a separate, distinct and direct obligation
+of UEL to pay interest in case UEL failed to comply with its own obligations to
+pay the guarantee amount. The default interest burden was in respect of
+default committed by the Guarantor on their part for not discharging their
+guarantee liability on time and hence this liability had nothing to do with UIL’s
+default as principal borrower. The Adjudicating Authority had however erred
+as it failed to appreciate that the default interest amount clearly assumed the
+colour of being UEL’s own obligation as different from the liability of UIL and
+hence not covered by the ceiling of Rs 25 Cr. contemplated under Clause 33.
+Per contra, it is the case of the Respondent No.1 that even though the
+
+[PAGE 13]
+Page 13 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+Guarantee document provided for both the guarantee liability of the principal
+borrower and default interest for delayed payment, however, the Appellant
+Bank cannot claim anything more than what is covered by the terms of
+contract which has hemmed these liabilities with an overall cap of Rs. 25 Cr.
+
+17.
+When we look at the construct of the Deed of Guarantee, we find that
+Clause 3 clearly stipulates that if the liability is not discharged by the
+Guarantor within the cure period, the Appellant became entitled to charge
+default interest on the outstanding guarantee liability of UEL. As per scheme
+of the Guarantee Deed, Clause 3(a) is immediately followed by Clause 3 which
+expressly provides that if the guarantor fails to pay the guarantee amount
+demanded by the Appellant Bank under Clause 3(a), then interest on the said
+amount would become payable by UEL to Appellant Bank. Thus, both these
+liabilities were independent liabilities though coming under the rubric of the
+same Deed of Guarantee. One liability that UEL had undertaken to discharge
+was the guarantee liability upon occurrence of default on the part of UIL which
+was stipulated in Clause 3(a) for an amount of Rs 25 Cr. The other liability
+stood triggered under Clause 3 which was not attributable to any default on
+the part of UIL but was an independent liability arising out of failure on the
+part of UEL to discharge the guarantee obligation laid down in Clause 3(a).
+
+18.
+Now that we have noted that there were two clear, distinct and
+independent obligations cast on Respondent No.1 for discharge of their
+obligations arising out of the same Deed of Guarantee, we come to the main
+issue which we have outlined for our consideration as to whether the overall
+
+[PAGE 14]
+Page 14 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+liability in respect of both these obligations was capped to Rs. 25 Cr by Clause
+33 of the terms of the Guarantee agreement or could have been added by the
+Appellant bank to claim Rs. 67.98 Cr.
+
+19.
+It is the case of the Appellant that in the present factual matrix, the
+default interest was a different liability provided for under Clause 3 of the
+present Deed of Guarantee which cannot be rendered meaningless by mere
+reference to a cap on liability imposed under Clause 33. It was pointed out by
+the Ld. Counsel of the Appellant that in Topalsson GmBH Vs Rolls Royce
+Motors Car Ltd. of the Court of Appeal Civil Division of England and Wales,
+it was held that where the agreement contained a clause capping liability as
+well as a separate clause providing for default interest, the Court held that
+capping of a liability cannot restrict a party from charging default interest
+since default interest is an independent and self-standing liability which is
+separately provided for in the Guarantee Agreement. Clause 33 cannot be read
+to put an embargo on the liability of the guarantor for committing a default in
+the discharge of the guarantee obligations on time.
+
+20.
+On the other hand, the Respondent No.1 has emphatically asserted that
+Clause 33 being a non-obstante provision, this Clause must be given its full
+legal effect. The claim of the Appellant Bank cannot exceed Rs 25 Cr. including
+both the liability of the principal borrower and default interest for delayed
+payment. It was contended by the Ld. Counsel for Respondent No.1 that the
+reliance placed on the judgment in Topalsson case is misplaced since the
+facts in that case was distinguishable as it was in the context of a Services
+
+[PAGE 15]
+Page 15 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+Agreement as distinctive from that of a Guarantee Agreement. Moreover, the
+clause restricting liability in Topalsson case had employed the phrase
+“subject to” which is distinct from the term “notwithstanding” used in Clause
+33. It was further pointed that it has also been clarified by the Hon’ble
+Supreme Court in Chandavarkar Sita Ratna Rao Vs Ashalata Guram
+(1986) 4 SCC 447 that the terms “subject to” indicates a provision that yields
+to another, whereas “notwithstanding” signifies the overriding effect of the
+clause it introduces.
+
+21.
+Much emphasis was placed by Respondent No.1 on the words
+“notwithstanding anything hereinabove stated” in Clause 33 to contend that
+as this clause commences with a non-obstante provision, it embraced the
+entire basket of liabilities including the principal, interest, charges and even
+default interest. Thus, even if Clause 3 gives benefit of the operation of interest
+clause, it was well understood by both parties that the operation of the interest
+clause would also be covered by the overall cap of Rs 25 Cr. under Clause 33.
+It was contended that since Clause 33 follows Clause 3, it is implicit that
+Clause 33 was formulated with due awareness on part of both parties of the
+existence of Clause 3. Further, Clause 33 looks at the contract of guarantee
+as a singular, composite, complete and comprehensive standalone document
+dealing with the entire liability of the guarantor inclusive of both the liability
+of the principal borrower and default interest. Moreover, as the non-obstante
+clause is the last provision in the Guarantee Agreement, it must prevail overall
+other clauses of the Guarantee Contract. It is a classic non-obstante provision
+which confers overriding effect of this clause over all other clauses in the
+
+[PAGE 16]
+Page 16 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+Corporate Guarantee thereby putting a lid on any attempt to impose additional
+or extended liability. The purpose of non-obstante clause was for the parties
+to agree upon a fixed and maximum liability and therefore for the Appellant
+bank to now suggest that this cap should be disregarded in respect of default
+interest would tantamount to undermining the fundamental principle of
+upholding of contractual agreements. It was vehemently contended that the
+parties having freely negotiated the liability cap, default interest payment
+claim raised under Clause 3 is required to operate within the confines of the
+liability limitation of Rs 25 Cr. placed by Clause 33.
+
+22.
+Repelling the contention of the Respondent No.1, it is the contention of
+the Appellant bank that any non-obstante clause comes into operation only
+when there is clear and direct conflict between provisions. It is ordinarily
+expected for any court to read the provisions of any agreement holistically and
+harmoniously so that all the provisions contained therein enjoy full legal effect.
+In the present factual matrix, Clause 3 and Clause 33 operate in their own
+respective spheres with no conflict between the two. A harmonious reading of
+the two clauses was therefore imperative in the absence of any conflict
+between them.
+
+23.
+The Appellant has also relied on the judgment of Radha Sundar Datta
+Vs Mohd. Jahadur Rahim AIR 1959 SC 24 in which it has been held that
+where two constructions of a document are admissible, then the one which
+will give effect to all the clauses in the document should be adopted as against
+the construction which renders one or more Clauses to be nugatory. Hence, it
+
+[PAGE 17]
+Page 17 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+was contended that Clause 33 cannot be considered in isolation. It has to be
+read harmoniously with Clause 3 which undisputedly provided for default
+interest. When the parties have consensually provided a remedy for non-
+payment or delayed payment by the guarantor by way of providing for payment
+of default interest, this cannot be rendered obsolete and redundant by reading
+the cap in Clause 33 to apply to default interest also. A non-obstante clause
+can have over-riding effect only in case of conflict between clauses and not
+otherwise. Hence, interpretation of these clauses in any other manner which
+lets one provision of the Deed of Guarantee to dilute or negate the effect of
+another provision is not tenable. It is therefore canvassed by the Appellant
+that Clause 3 of the Guarantee Agreement which deals with default interest
+was not obviated by Clause 33 of the Agreement.
+
+24.
+To appreciate the facts at hand better, we may focus our attention on
+the use of the word ‘liability” in Clause 33. When we look at the phraseology
+of Clause 33, we have no doubt that the expression “liability” has been used
+to specify that the said “liability” was capped at Rs 25 Cr. Be that as it may, it
+is also pertinent to note from the construction of Clause 33 that the latter part
+of Clause 33 states that the guarantee would stand terminated or slip into
+abeyance if the debt of UIL fell below Rs 218 Cr. However nowhere does it
+mention that default interest amount payable in terms of Clause 3 of the
+Guarantee document is to be factorised while computing the threshold limit
+of Rs 218 Cr. This clearly shows that Clause 33 was referring only to the
+guarantee liability of Respondent No.1 as pegged to the liability of principal
+borrower-UIL in respect of the amount payable by them under the Facility
+
+[PAGE 18]
+Page 18 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+Documents. It is also noticed that Clause 3 mentions of a rate of interest.
+Though this rate of interest under Clause 3 is the same rate as the interest
+rate in respect of the facility granted to the principal borrower, the very fact
+that it adverts attention to rate of interest independently sans any nexus with
+the computation of interest on the principal amount indicates the clear intent
+of both parties that repayment of guarantee liability obligation by the
+guarantor had its own interest liability as distinct from default interest arising
+out of delay in discharging guarantee liability obligations entailed a separate
+set of interest liability being an independent obligation of UEL. This makes it
+clear that Clause 3 dealt with default of guarantor in contra-distinction to
+Clause 33 which dealt with cap on default amount of the principal borrower
+under Clause3(a). Both defaults operate in different fields.
+
+25.
+We are inclined to agree with the Appellant that there is a need for a
+harmonious reading of Clause 33 and Clause 3 of the Guarantee Agreement.
+It is a standard rule of interpretation of contracts that the various clauses are
+to be read harmoniously so that no clause is rendered otiose or irrelevant. The
+purpose of a non-obstante clause is to ensure its supremacy in the event of
+any conflict with the other provisions. Unless it is established that there is a
+conflict between the clauses of the Guarantee document, the over-riding effect
+of a non-obstante clause cannot be pressed into action. In the present case,
+when the Respondent No.1 has not been able to establish any conflict between
+Clauses 3 and 33, there is no scope for any argument that Clause 33 by virtue
+of being a non-obstante clause will prevail and supervene to restrict the entire
+liability of the guarantor to a maximum of Rs 25 Cr. towards meeting both the
+
+[PAGE 19]
+Page 19 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+liability of UIL arising out of terms of Clause 3(a) and default interest payable
+by the guarantor for delay in discharging the guarantee obligation arising out
+of Clause 3.
+
+26.
+We are also inclined to agree with the principles enunciated in the
+Topalsson judgment that when a clause is present in the Guarantee Contract
+for levy of interest on late payment, this substantial remedy cannot be
+circumvented by falling back on the liability cap with respect to principal
+amount as this would amount to denial of the benefit of the remedy for late
+payment which is integral part of the present Deed of Guarantee. Even if the
+Topalsson case was in the context of a Services Agreement, the applicability
+of the legal principles laid down in the above judgment cannot be lost sight of.
+These principles would be equally applicable to a Services Agreement and a
+Contract of Guarantee.
+
+27.
+Payment of default interest by Respondent No.1 cannot be mixed up
+with the discharge of liability of the principal borrower. Discharge of the
+liability of principal borrower is a different obligation from the obligation of the
+guarantor to pay interest on failure on their part to discharge the obligations
+of the guarantee on invocation. Since the liability of Rs 25 Cr. had not been
+discharged by UEL within the cure period in terms of Clause 3(a), the
+Appellant Bank became entitled to charge default interest as provided by
+Clause 3. Thus, we do not see any infirmity on the part of the RP to have
+allowed this default interest liability to be added with guarantee liability in the
+claim filed by the Appellant bank. Hence, claim of default interest payment
+
+[PAGE 20]
+Page 20 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+over and above Rs. 25 Cr. has been misconstrued by the Adjudicating
+Authority as a breach of Clause 33.
+
+28.
+Another line of argument taken by the Appellant is that the guarantee
+document is a commercial document and courts must strive to interpret a
+commercial document in a manner which furthers the business efficacy of the
+contract. Reference was made to three judgments in this regard which are as
+follows:
+(a) Nabha Power Ltd. Vs Punjab State Power Corporation Ltd. (2018) 11
+SCC 508
+(b) International Fina Services A.G. Vs Katrina Shipping Ltd. & Tonen,
+Tanker Kabushiki Kaisha. (1995 WL 1083974)
+(c) Antaios Compania Naviera S.A. Vs Salen Rederierna A.B. (1985) A.C.
+191.
+Elaborating further, it was added that the clauses of the Contract Agreement
+have to be interpreted in a manner that it appeals to business common sense.
+In the commercial and financial world, where time value for money is well
+recognised, prudent business sense would warrant the levy of default interest
+in case of non-payment or delayed repayment. Absence of the levy of default
+interest would disincentivise timely non-discharge of guarantee obligations
+fostering a climate of wilful default by any errant guarantor.
+
+29.
+Payment of default interest quintessentially forms the substratum of
+any lending by any financial institution. We therefore tend to agree that in the
+present case, where the dues have not been paid for nearly eight years, the
+clauses of the guarantee document ought to have been viewed from the
+
+[PAGE 21]
+Page 21 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+perspective of business common sense as any other perspective unless clearly
+spelt out in the Guarantee document would imply denial of an obvious right
+which accrues to any party to claim interest upon default in payment.
+
+30.
+By taking the cover that the Adjudicating Authority is not empowered to
+interpret a contractual document, the Adjudicating Authority cannot absolve
+themselves from not endeavouring to undertake a harmonious reading of all
+the clauses in the Guarantee deed or in finding out whether the clauses 3(a),
+3 and 33 have any inter se conflict. This has led to a situation where the
+Adjudicating Authority has ended up viewing the clauses of the Deed of
+Guarantee in a skewed and fragmented manner leading to an absurd situation
+which could never have been contemplated between parties. Mere presence
+of a non-obstante provision cannot be sufficient ground for putting a fetter on
+the operation of another sui generis clause. No clause can be obliterated and
+its intent obfuscated if the clause is not in conflict with the overall construct
+and objective of the Deed of Guarantee as otherwise it would tantamount to
+deviating from the intended meaning of these clauses leading to inconsistent
+outcome and unintended consequences which does not meet with our
+countenance.
+
+31.
+We have no doubts in our mind that Clause 33 of the Guarantee
+Agreement unequivocally and incontrovertibly limits the liability of
+Respondent No.1 to Rs 25 Cr. At the same time, we cannot ignore the fact that
+Clause 3 had been also inserted by both the parties wilfully which signified
+the express intent of both parties to provide for default interest on delayed
+payment in the discharge of the guarantee liability of the principal borrower.
+
+[PAGE 22]
+Page 22 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+Clause 3 having no bearing on liability of Respondent No.1 for the amount
+owed by UIL as a principal borrower, this clause cannot be said to be in conflict
+with Clause 33. Clause 33 cannot be read so as to extinguish or put fetters on
+the guarantor’s default. Hence, the amount triggered by Clause 3 does not get
+covered by the cap laid down in Clause 33.
+32.
+Therefore, in fine, to answer the question we have framed for our
+consideration at para 7 above, we are of the considered opinion that Clause
+33 cannot be read to place an all pervasive limit of Rs. 25 cr. to cover both the
+liability of the principal borrower guaranteed by UEL and the liability of UEL
+towards default interest payment for delay in discharge of guarantee
+obligations on their part. In effect, Appellant Bank’s submission of claim of
+Rs.67,98,65,048/- was not in violation of Clause 33 of the guarantee
+document.
+33.
+The non-obstante clause in Clause 33 has been applied mechanically
+by the Adjudicating Authority without placing it in juxtaposition to Clause 3
+which clearly dealt with the liability of UEL to pay interest on its own default
+which is fallacious. Thus, the Adjudicating Authority has wrongly come to the
+conclusion that charging of default interest over and above the cap of Rs 25
+Cr. goes against the tenor and spirit of the Deed of Guarantee and violates
+Clause 33. Such a narrow construction cannot be commended in the absence
+of the clear wordings to that effect. Hence, we are not able to sustain the
+findings returned by the Adjudicating Authority in upholding the liability
+limitation of Respondent No. 1 to Rs 25 Cr.
+
+[PAGE 23]
+Page 23 of 23
+Company Appeal (AT) (Insolvency) No. 731 of 2025
+
+34.
+For the reasons discussed above, we find merit in the Appeal. The
+Appeal is allowed. The directions of the Adjudicating Authority contained in
+the impugned order that Clause 33 of the Guarantee Agreement dated
+10.08.2016 caps the entire liability of Respondent No. 1 to Rs. 25 crore cannot
+be sustained. The impugned order is accordingly set aside. No order as to
+costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+Place: New Delhi
+Date: 03.09.2025
+
+Abdul/ Harleen

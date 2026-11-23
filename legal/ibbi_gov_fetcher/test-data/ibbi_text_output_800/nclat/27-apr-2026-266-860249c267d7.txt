@@ -1,0 +1,876 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+
+(Arising against the impugned order dated 03.09.2025 passed by the
+National Company Law Tribunal, Mumbai Bench in I.A. No. 1393 of 2022
+in Company Petition No. IB No. 2285(MB)/C-II/2018.
+
+IN THE MATTER OF:
+
+M/s Manjeet Cotton Pvt. Ltd., (SRA)
+Add:- 318, N-3, Cidco, Jalna Road, Near Punjab
+National Bank, Aurangabad,
+Maharashtra – 431009.
+
+...Appellant
+
+Versus
+
+Phoenix ARC Pvt. Ltd.,
+Trustee of Phoenix Trust FY 16-4
+Add:- 5th Floor, Dani Corporate Park 158, CST
+Road, Kalina, Santacruz (East), Mumbai 400098.
+
+...Respondent
+
+Present:
+
+For Appellant: Mr. Gaurav Mitra, Ms. Pranati Bhatnagar, Ms.
+Dhairya B. Verenkar, Advocates.
+For Respondent:
+Mr. Vardhman Kaushik, Mr. Dhruv Joshi, Mr.
+Arundam Sarin, Advocates
+
+J U D G M E N T
+(27th April, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+The present Appeal has been preferred under Section 61 of the
+Insolvency and Bankruptcy Code, 2016 (herein after the ‘Code’) by the
+Appellant, M/s Manjeet Cotton Pvt. Ltd., being the Successful
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+Resolution Applicant of the Deegee Cotsyn Pvt. Ltd. (Corporate Debtor),
+assailing the legality and correctness of the impugned order dated
+03.09.2025 passed by the Ld. National Company Law Tribunal, Mumbai
+Bench (Adjudicating Authority) in I.A. No. 1393 of 2022 in Company
+Petition No. IB No. 2285/MB/2018. By the said impugned order, the
+Adjudicating Authority has allowed the application filed by the Respondent,
+Phoenix ARC Pvt. Ltd., (Financial Creditor), and directed that the
+surplus amount of Rs. 1 crore generated during the Corporate Insolvency
+Resolution Process (CIRP) period from 01.11.2019 to 11.03.2022 be
+distributed among the financial creditors in accordance with the waterfall
+mechanism prescribed under Section 53 of the Code. The Adjudicating
+Authority has further held that the Appellant, M/s Manjeet Cotton Pvt.
+Ltd., in its capacity as Successful Resolution Applicant, is not entitled to
+claim the said surplus amount on the ground that it was generated during
+the CIRP period, prior to the approval and implementation of the Resolution
+Plan.
+2.
+Aggrieved by the said findings, particularly on the ground that the
+impugned order effectively alters and overrides the terms of the duly
+approved Resolution Plan, which had attained finality under Section 31 of
+the Code and was binding on all stakeholders including the Respondent,
+Phoenix ARC Pvt. Ltd.; the Appellant has preferred the present Appeal
+raising substantial questions of law concerning the entitlement over CIRP-
+generated surplus and the sanctity and binding nature of an approved
+Resolution Plan.
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+Brief facts of the case
+3.
+The brief facts of the case are as given below:
+(i) The
+Corporate
+Debtor,
+Deegee
+Cotsyn
+Private
+Limited,
+was
+incorporated with its registered office at Amravati, Maharashtra, and
+had availed various financial facilities from a consortium of banks led
+by UCO Bank, including Term Loan I (Spinning), Term Loan II (Power),
+and Cash Credit facilities, aggregating to substantial amounts, out of
+which an amount of Rs. 28,05,66,577/- remained outstanding as on
+31.03.2018. The account of the Corporate Debtor had already been
+classified as Non-Performing Asset on 31.12.2014 due to persistent
+defaults in repayment.
+(ii) The said debt, along with underlying security interests, was assigned
+by UCO Bank in favour of Phoenix ARC Pvt. Ltd., acting as trustee of
+Phoenix Trust FY 16-4, pursuant to an Assignment Agreement
+executed on 29.06.2015, thereby vesting the Respondent with all
+rights as Financial Creditor under the Code, including the right to
+initiate insolvency proceedings.
+(iii) In exercise of such rights, the Respondent filed an application under
+Section 7 of the Code before the Adjudicating Authority being
+Company Petition No. IB 2285/MB/2018, and upon satisfaction of
+existence of financial debt and default, the Adjudicating Authority
+admitted the petition vide order dated 26.02.2019, thereby initiating
+the Corporate Insolvency Resolution Process against the Corporate
+Debtor and appointing an Interim Resolution Professional.
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+(iv) Following admission of the petition, a public announcement was
+issued under the CIRP Regulations inviting claims from all creditors,
+and pursuant thereto, claims aggregating to Rs.164,27,31,562/- were
+admitted by the Resolution Professional, reflecting the financial
+position and liabilities of the Corporate Debtor.
+(v) The Information Memorandum was prepared in May 2019 detailing the
+assets and liabilities of the Corporate Debtor as on 26.02.2019,
+wherein inter alia, the cash balance of the Corporate Debtor was
+recorded at Rs. 43,87,046/-, and such financial disclosures formed the
+basis for prospective resolution applicants to evaluate the viability of
+submitting a Resolution Plan.
+(vi) Thereafter, Expression of Interest was invited by issuance of Form-G
+on 17.07.2019, pursuant to which seven prospective resolution
+applicants
+expressed
+interest,
+however,
+ultimately
+only
+three
+Resolution Plans were submitted for consideration by the Committee of
+Creditors.
+(vii) The Committee of Creditors, after detailed deliberations, in its 9th
+meeting held on 16.11.2019, approved the Resolution Plan submitted
+by the Appellant, M/s Manjeet Cotton Pvt. Ltd., with a voting share of
+67.54%, wherein notably the Respondent/Financial Creditor holding
+22.23% voting share also voted in favour of the said Resolution Plan,
+thereby accepting the terms and treatment proposed therein.
+(viii) The Resolution Plan, as approved by the CoC, specifically provided
+for payment to financial creditors to the extent of 31.5% of their
+admitted
+claims,
+crystallized
+at
+Rs.3100
+lakhs,
+and
+further
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+incorporated a clear stipulation under Clause 4.1(i) that all claims of
+creditors beyond the treatment provided in the Resolution Plan would
+stand extinguished upon approval, thereby bringing finality to all past
+liabilities.
+(ix) The Resolution Plan was thereafter placed before the Adjudicating
+Authority by way of I.A. No. 3760 of 2019 under Section 30(6) of the
+Code, and the same was approved vide order dated 11.03.2022,
+thereby making the Resolution Plan binding on all stakeholders
+including the Corporate Debtor, its employees, creditors, guarantors,
+and all other concerned parties in terms of Section 31 of the Code.
+(x) During the CIRP period, particularly between 01.11.2019 and
+11.03.2022, the Corporate Debtor was run as a going concern under
+the supervision of the Resolution Professional, and through its
+operations, generated surplus cash flows amounting to approximately
+Rs.1 crore, without affecting its working capital requirements.
+(xi) Upon approval of the Resolution Plan, the Appellant, as Successful
+Resolution Applicant, took over the management and control of the
+Corporate Debtor and proceeded to implement the Resolution Plan,
+including making upfront payments towards settlement of creditor
+claims and additionally infusing a sum of Rs.16 crores as working
+capital to revive and run the business of the Corporate Debtor as a
+going concern.
+(xii) The implementation process was duly overseen by the Monitoring
+Committee, and upon successful transfer of control to the Appellant,
+the Monitoring Committee was dissolved in its 4th meeting held on
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+01.06.2022, thereby marking completion of CIRP and transition to the
+new management.
+(xiii) The Respondent/Financial Creditor, filed I.A. No. 1393 of 2022 on
+17.05.2022 before the Adjudicating Authority seeking directions for
+distribution of the surplus amount of Rs.1 crore generated during
+CIRP amongst financial creditors under Section 53 of the Code,
+contending that the said amount constituted excess funds generated
+prior to implementation of the Resolution Plan.
+(xiv) The Appellant contested the said application and also filed an
+intervention application being I.A. No. 2544 of 2022 asserting that
+upon approval of the Resolution Plan, all assets of the Corporate
+Debtor, including cash flows generated during CIRP, stood vested in
+the Appellant, and no further claims or redistribution could be
+permitted beyond the terms of the approved Resolution Plan.
+(xv) The Adjudicating Authority, vide order dated 03.09.2025, allowed the
+application filed by the Respondent and held that since the surplus
+amount of Rs.1 crore was generated during the CIRP period and prior
+to the approval and implementation of the Resolution Plan, the
+Successful Resolution Applicant could not claim entitlement over the
+same, and accordingly directed that the said amount be distributed
+amongst the financial creditors in accordance with Section 53 of the
+Code.
+(xvi) The Adjudicating Authority observed that the surplus amount
+constituted part of the CIRP estate and not part of the assets vesting in
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+the Successful Resolution Applicant, thereby rejecting the claim of the
+Appellant and allowing redistribution to creditors.
+(xvii) Being aggrieved by the said impugned order, the Appellant has
+preferred the present Appeal raising substantial questions of law
+regarding entitlement to CIRP-generated surplus and limits of judicial
+interference post approval of a Resolution Plan.
+Submissions of the Appellant
+4.
+Shri Gaurav Mitra, Ld. Counsel for the Appellant submitted that the
+present Appeal has been preferred by the Appellant, Manjeet Cotton Pvt.
+Ltd., assailing the Impugned Order dated 03.09.2025 passed by the
+Adjudicating Authority, whereby, it has been directed that the surplus
+amount of Rs.1,42,72,094.93/- generated during the Corporate Insolvency
+Resolution Process (CIRP) period, i.e., from 26.02.2019 to 11.03.2022, be
+distributed in accordance with the waterfall mechanism prescribed under
+Section 53 of the Insolvency and Bankruptcy Code, 2016. The counsel for
+the Appellant submits that the said direction is contrary to the terms of the
+approved Resolution Plan and is legally unsustainable.
+5.
+He submitted that a proper interpretation of Clause 3.9.5 of the
+approved Resolution Plan clearly demonstrates that all assets of the
+Corporate Debtor (CD), including all rights, interests, benefits, and
+accretions thereto, stand vested in favour of the Resolution Applicant
+without any reservation or exception, unless expressly provided otherwise.
+The counsel submits that the clause is unequivocal in its intent and leaves
+no ambiguity regarding the comprehensive transfer of ownership.
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+6.
+Ld. Counsel submits that a bare reading of Clause 3.9.5 makes it
+abundantly clear that the Resolution Plan envisages a transfer of the
+Corporate Debtor as a going concern in its entirety, and not merely a
+limited or asset-specific transfer. It is submitted that the Resolution
+Applicant is intended to acquire the Corporate Debtor along with its entire
+economic value, inclusive of all tangible and intangible benefits attached
+thereto.
+7.
+It is submitted that the surplus amount generated during the CIRP
+period is in the nature of an accretion to the assets of the Corporate
+Debtor, arising from its business operations, while it was being run as a
+going concern. The counsel submits that such accretions cannot be
+segregated or treated independently from the assets of the Corporate
+Debtor and necessarily fall within the scope of Clause 3.9.5 of the
+Resolution Plan.
+8.
+He further submitted that there exists no exclusionary clause within
+the approved Resolution Plan, which provides that such surplus generated
+during CIRP is to be appropriated towards liabilities of the Corporate
+Debtor. On the contrary, Clause 3.9.5 expressly provides that “margin
+money and fixed deposits, if any, shall continue to be part of the company’s
+assets and shall not be adjusted by the lender against any outstanding
+dues”. The counsel submits that since the surplus generated during CIRP
+was admittedly parked in a fixed deposit, the same could not have been
+subjected to distribution under Section 53 of the Code.
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+9.
+It is further submitted that the amount of Rs. 44 lakhs reflected
+under the head “Cash & Cash Equivalents” forms an integral part of the
+assets of the Corporate Debtor and is liable to be transferred to the
+Appellant in terms of the Resolution Plan.
+10.
+Ld. Counsel places reliance upon the judgment of the Hon’ble
+Supreme Court in Ebix Singapore Pvt. Ltd. vs. Committee of Creditors of
+Educomp Solutions Ltd., (2022) 2 SCC 1 (para 204), to submit that a
+resolution plan, once approved, is binding and irrevocable as between the
+Committee of Creditors (CoC) and the Successful Resolution Applicant
+(SRA). It is submitted that the sanctity and binding nature of the approved
+Resolution Plan cannot be diluted by subsequent directions of the
+Adjudicating Authority.
+11.
+It is submitted that the Hon’ble Supreme Court in Committee of
+Creditors of Essar Steel India Pvt. Ltd. vs. Satish Kumar Gupta &Ors.,
+(2019) 16 SCC 479, has categorically held that profits generated during the
+CIRP period are not to be distributed towards payment of debts of creditors
+where the Resolution Plan or RFP provides otherwise. The counsel submits
+that the ratio of the said judgment squarely applies to the facts of the
+present case and supports the Appellant’s contention that such surplus
+cannot be subjected to distribution under Section 53.
+12.
+It is further submitted that Clause 4.1(ii) of the approved Resolution
+Plan governs the implementation of the Resolution Plan and provides for
+transfer of control and management of the Corporate Debtor to the
+Appellant as a going concern, together with all its assets, properties, cash
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+balances, receivables, and business operations. The counsel submits that
+the surplus amount, having arisen from operations of the Corporate Debtor
+during CIRP, is intrinsically linked to its business and cannot be artificially
+detached. By virtue of Clause 4.1(ii), the Appellant steps into the shoes of
+the Corporate Debtor and becomes entitled to all benefits arising from its
+operations, including any cash surplus available at the time of takeover.
+13.
+Ld. Counsel submitted that Clause 4.1(ii) expressly provides for
+extinguishment of all claims beyond what is provided in the Resolution
+Plan. Therefore, any attempt to distribute the surplus to creditors dehors
+the Resolution Plan would amount to reopening settled claims, which is
+impermissible in law.
+14.
+He submits that the commercial wisdom of the Committee of
+Creditors is paramount and non-justiciable, as held by the Hon’ble
+Supreme Court in Ghanshyam Mishra & Sons Pvt. Ltd. vs. Edelweiss Asset
+Reconstruction Co. Ltd., (2021) 9 SCC 657 (para 55). It is submitted that
+the approval of the Resolution Plan by the CoC—including the Respondent,
+who held 22.23% voting share—reflects conscious commercial decision-
+making. The impugned order, by directing distribution contrary to the
+Resolution Plan, undermines such commercial wisdom and is therefore
+liable to be set aside.
+15.
+It is further submitted that this Hon’ble Tribunal, in its order dated
+19.03.2026 passed in SPS Steels Rolling Mills Ltd. vs. Central Bank of
+India, Comp. App. (AT)(INS) No. 352 of 2024, has held that assets of the
+Corporate Debtor not included in the Information Memorandum (IM),
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+including those discovered post-approval of the Resolution Plan, remain
+with the Corporate Debtor under new management and do not revert to
+creditors or the CoC. The counsel submits that the said principle reinforces
+that all assets and accretions, whether disclosed or undisclosed, vest with
+the Resolution Applicant upon approval of the Resolution Plan.
+16.
+In view of the above submissions, Ld. Counsel submitted that the
+impugned order defeats the very object and purpose of the Insolvency and
+Bankruptcy Code, 2016, which is to ensure revival of the Corporate Debtor
+as a going concern and to safeguard it from further financial uncertainty.
+The direction to distribute the surplus amount is contrary to the approved
+Resolution Plan and settled principles of law, and therefore deserves to be
+set aside.
+Submissions of the Respondent- Pheonix ARC
+17.
+Ld. Counsel for the Respondent submits that the present Appeal is
+confined to a narrow and limited controversy, namely, the treatment of
+surplus cash flow generated during the Corporate Insolvency Resolution
+Process (CIRP) period between 01.11.2019 and 11.03.2022. It is an
+admitted and undisputed factual position that the said surplus was
+generated when the Corporate Debtor was being run as a going concern
+under the supervision and control of the Resolution Professional. During
+this entire period, the Appellant neither had control over the operations of
+the Corporate Debtor, nor made any financial or operational contribution
+towards the generation of such surplus. The surplus, therefore, is
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+intrinsically linked to the CIRP operations and not to any effort or
+investment by the Appellant.
+18.
+He submits that the Resolution Plan dated 02.11.2019, which came
+to be approved on 11.03.2022, is completely silent on the issue of
+treatment, ownership, or appropriation of any surplus generated during the
+CIRP period. The Plan strictly deals with assets and liabilities as reflected
+in the Information Memorandum and is premised on fixed financial
+assumptions. The surplus in question was neither anticipated nor factored
+into the financial matrix of the Plan. It was not subjected to valuation, nor
+was it allocated or distributed under any clause of the Plan. Thus, any
+claim by the Appellant over such surplus is dehors the terms of the
+Resolution Plan itself.
+19.
+He further submits that the surplus amount in question constitutes
+an accrual arising during the CIRP period and forms part of the insolvency
+estate. The said surplus was generated entirely under the management and
+supervision of the Resolution Professional. The Appellant had no role in the
+operations of the Corporate Debtor during this period, did not assume
+operational control, and did not infuse any capital. In such circumstances,
+the Appellant cannot lay any claim over the surplus, as the same is not
+attributable to its efforts or investment.
+20.
+It is specifically submitted that the only provision in the Resolution
+Plan, which makes a reference to surplus cash flow is Clause 3.9.8. A plain
+reading of this clause reveals that it merely enables the Resolution
+Professional to utilise surplus cash flow, if any, for the purpose of
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+foreclosure of outstanding amounts, without attracting foreclosure or
+prepayment charges. Importantly, the clause does not provide that such
+surplus would vest in the Resolution Applicant, nor does it create any
+proprietary or beneficial interest in favour of the Appellant. Therefore, the
+reliance placed by the Appellant on this clause to claim entitlement over
+the surplus is wholly misplaced and contrary to the plain language of the
+Plan.
+21.
+He further submitted that in the absence of any contractual
+stipulation in the Resolution Plan governing the treatment of such surplus,
+the statutory framework under Section 53 of the Insolvency and
+Bankruptcy Code, 2016 would necessarily come into operation. The learned
+Adjudicating Authority has rightly directed that the surplus be distributed
+in accordance with the waterfall mechanism prescribed under Section 53,
+which governs the distribution of assets forming part of the insolvency
+estate. Such direction is in complete consonance with the scheme of the
+Code and ensures equitable distribution among stakeholders.
+22.
+Ld. Counsel submits that the contention of the Appellant that the
+surplus amount, by virtue of being placed in a fixed deposit, acquires a
+different legal character or vests in the Resolution Applicant is wholly
+misconceived and untenable. The mere act of parking funds in a fixed
+deposit does not alter the source, nature, or character of the funds. The
+surplus remains a CIRP-period accrual forming part of the insolvency
+estate. The Appellant cannot derive any legal entitlement over such funds
+merely on account of the manner in which they are held or invested.
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+23.
+He further submitted that the reliance placed by the Appellant on the
+judgments in Essar Steel and Ghanshyam Mishra is entirely misplaced.
+These judgments deal with the extinguishment of pre-CIRP claims upon
+approval of a Resolution Plan and do not address the issue of treatment of
+surplus generated during the CIRP period. The ratio of these decisions does
+not support the proposition that such surplus automatically vests in the
+Resolution Applicant. Therefore, the Appellant’s reliance on these
+judgments is legally unsustainable.
+24.
+Ld. Counsel submits that in the decision of Kalyan Janata Sahakari
+Bank Ltd. v. Arun Kapoor, the learned NCLT, Mumbai Bench has
+categorically held that where the Resolution Plan is silent regarding the
+treatment of profits generated during the CIRP period, such profits ought to
+be distributed in accordance with the scheme of the Code and the
+commercial framework of the Plan. It has been held that since financial
+creditors bear substantial haircuts and continue to fund the assets of the
+Corporate Debtor during CIRP without any assured return, it is just,
+equitable, and in consonance with commercial fairness that such CIRP-
+period profits ensue to the benefit of financial creditors and not the
+Resolution Applicant, particularly when the Resolution Applicant acquires
+the assets only after approval of the Plan.
+25.
+He further submitted that the contention of the Appellant that the
+Committee of Creditors has already been fully satisfied under the
+Resolution Plan is erroneous and misconceived. The Resolution Plan settles
+claims only to the extent of assets that were considered and included in the
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+Plan. It does not extinguish statutory rights in respect of assets or accruals
+which were not part of the Plan. Financial creditors have already suffered
+significant haircuts in the resolution process, and permitting the Appellant
+to appropriate CIRP-generated surplus would result in unjust enrichment
+at the cost of such creditors.
+26.
+It is submitted that the attempt of the Appellant to treat CIRP-
+generated surplus as part of the assets of the Corporate Debtor vesting in it
+is legally untenable. During the CIRP period, all assets and accruals form
+part of the insolvency estate and remain under the control and custody of
+the Resolution Professional. Only those assets which are expressly
+transferred under the Resolution Plan vest in the Resolution Applicant. In
+the present case, since the surplus was neither identified nor transferred
+under the Plan, it cannot be claimed by the Appellant.
+27.
+He further submitted that the Appellant’s reliance on alleged infusion
+of funds post-approval of the Resolution Plan is irrelevant for the purpose
+of determining entitlement to CIRP-generated surplus. Such infusion is
+merely in discharge of obligations undertaken under the Resolution Plan
+and has no nexus whatsoever with the surplus generated prior to the
+takeover of the Corporate Debtor by the Appellant.
+28.
+Ld. Counsel submits that the impugned order passed by the learned
+Adjudicating Authority is well within its jurisdiction under Section 60(5) of
+the Code. The order ensures adherence to the statutory framework,
+promotes equitable distribution among stakeholders, and upholds the
+fundamental objective of value maximisation under the Code. There is no
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+illegality or infirmity in the said order warranting interference by this
+Hon’ble Tribunal.
+29.
+In light of the aforesaid facts and submissions, Ld. Counsel for the
+Respondent submits that the present Appeal is devoid of merit. The Appeal
+is founded on a clear misinterpretation of the Resolution Plan, the statutory
+provisions of the Code, and settled legal principles governing CIRP.
+Accordingly, the present Appeal deserves to be dismissed.
+Analysis and findings
+30.
+We have heard both the parties in detail, gone through the records of
+the case and written submissions filed by the parties.
+31.
+The present Appeal raises a limited question, viz. whether the
+surplus cash flow generated during the Corporate Insolvency Resolution
+Process (CIRP), before the approval and implementation of the Resolution
+Plan, belongs to the Successful Resolution Applicant (Appellant), or
+whether it must be distributed amongst the stakeholders in accordance
+with Section 53 of the Insolvency and Bankruptcy Code, 2016, as directed
+by the Adjudicating Authority in its Impugned Order dated 03.09.2025.
+32.
+At the outset, we note that certain foundational facts are not in
+dispute. The Corporate Debtor was admitted into CIRP in February 2019
+and continued to operate as a going concern till the approval of the
+Resolution Plan on 11.03.2022. During this entire period, the affairs of the
+Corporate Debtor were managed by the Resolution Professional, and not by
+the Appellant. It is also an admitted position that during this CIRP period,
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+the
+Corporate
+Debtor
+generated
+surplus
+operational
+cash
+flows,
+approximately to the tune of Rs.1 crore to Rs.1.42 crore. These surplus
+funds were generated prior to the Appellant taking over the management
+and without any financial or operational contribution from the Appellant.
+33.
+The Appellant’s case is primarily based on the terms of the approved
+Resolution Plan. It is contended that Clause 3.9.5 provides for vesting of all
+assets of the Corporate Debtor in favour of the Resolution Applicant,
+including all rights, interests, and accretions. According to the Appellant,
+the surplus generated during CIRP is nothing but an “accretion” to the
+assets of the Corporate Debtor and, therefore, must automatically pass to
+the Appellant. It is further argued that Clause 4.1(ii) provides that upon
+approval of the Resolution Plan, the Appellant takes over the Corporate
+Debtor as a going concern along with all assets, including cash balances
+and business operations. The Appellant has also emphasized that the
+surplus amount was placed in fixed deposits and forms part of the cash
+and cash equivalents of the Corporate Debtor, and therefore retains the
+character of an asset. It is further contended that once a Resolution Plan is
+approved under Section 31 of the Code, it becomes binding on all
+stakeholders, and any direction to distribute surplus amounts would
+amount to modifying the Resolution Plan, which is impermissible in law.
+34.
+On the other hand, the Respondent has argued that the Resolution
+Plan does not contain any provision dealing with the treatment or
+ownership of surplus cash flow generated during CIRP. It is submitted that
+such surplus was generated entirely during the CIRP period under the
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+supervision of the Resolution Professional, and not by the Appellant.
+Therefore, such surplus forms part of the insolvency estate. The
+Respondent has pointed out that Clause 3.9.8 of the Resolution Plan
+merely allows the Resolution Professional to utilize surplus cash flow for
+foreclosure of outstanding dues and does not confer any ownership rights
+on the Appellant. It is further argued that in the absence of any specific
+provision in the Resolution Plan, the statutory mechanism under Section
+53 must apply. The Respondent has also emphasized that financial
+creditors have taken substantial haircuts under the Resolution Plan, and
+allowing the Appellant to appropriate the surplus would result in unjust
+enrichment.
+35.
+A Resolution Plan is essentially a commercial arrangement based on
+the assets, liabilities, and financial position of the Corporate Debtor as
+known and evaluated at the time of its approval. Only those assets and
+values which are identified and accounted for in the Plan can be said to
+vest in the Resolution Applicant. Any value or asset which is not
+contemplated, quantified, or provided for in the Plan cannot be later
+claimed by way of implication.
+36.
+We take note of the relevant clauses of the Resolution Plan which
+have been relied upon by the appellant and respondent in support of their
+contentions. The relevant clauses 3.9.5, 3.9.8 and 4.1 (ii) are extracted
+below:
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+“3.9.5. Release of Charge and Withdrawals
+On approval of the Resolution Plan, the Financial Creditors to
+inform various registries maintaining credit scores of the Corporate
+Debtor
+about
+change
+in
+Management
+through
+CIRP
+and
+accordingly a fresh score be allotted to the Corporate Debtor.
+Margin money and fixed deposit if any shall be continued to be
+part of the company's asset and shall not be adjusted by the
+lender against any outstanding dues.
+
+4.1 Other Covenants in the Resolution Plan
+(ii) Other than the claims and settlements pertaining to the
+Corporate Debtor that have been envisaged and set out under this
+Resolution Plan, no other payment or settlement, of any kind, shall
+be made to any other person or entity in respect of any other
+claims (whether or not admitted or filed or verified with the
+Resolution Professional) and/or any sub-judice claims and all such
+claims against the Corporate Debtor along with any related legal
+proceedings, in relation to any period prior to the Transfer Date or
+arising on account of acquisition of control over the Corporate
+Debtor by the Resolution Applicants pursuant to this Resolution
+Plan, shall stand irrevocably and unconditionally abated, settled
+and extinguished. Such extinguishment of claims shall be deemed
+to form an integral part of the order by the Adjudicating Authority
+approving the Resolution Plan and shall accordingly be binding on
+all the stakeholders including the Corporate Debtor, its employees,
+workmen, financial and operational creditors, guarantors, security
+providers, and other stakeholders. The treatment accorded to the
+persons receiving settlement under this Resolution Plan shall
+constitute an absolute discharge and settlement of the dues to
+which they pertain and shall be the full and final performance,
+discharge and satisfaction of all obligations relating thereto.
+
+3.9.8. Foreclosure of Financial Creditors
+Resolution Professional propose to foreclose the outstanding
+amount at any point of time in case of any surplus cash flow
+generated from the business of the Corporate Debtor without any
+payment of foreclosure fees/prepayment charges.”
+[Emphasis supplied]
+
+37.
+The reference to Margin Money and fixed deposit in Clause 3.9.5
+relate to margin money refers to the amount contributed by CD as its share
+for taking loan from bank for working capital or term loan and fixed
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+deposits are equivalent to cash in balance sheet. This reference cannot and
+does not relate to any surplus cash flow generated during the CIRP period.
+It is also clear from the records that the margin money or existing fixed
+deposits were not utilised for adjustment of any lenders claim and the same
+has not been argued also.
+38.
+Similarly, Clause 4.1 (ii), which governs the transfer of control and
+management of the Corporate Debtor, also has to be read in the context of
+implementation of the Resolution Plan and the assets forming part thereof.
+The reference to takeover of the Corporate Debtor “as a going concern”
+along with its assets, cash balances, and business operations cannot be
+interpreted to include surplus generated during CIRP prior to such
+takeover, particularly when such surplus was not part of the Resolution
+Plan. Further, the submission that Clause 4.1(ii) results in extinguishment
+of all claims beyond the Resolution Plan does not address the present
+issue, as the question here is not of any pre-existing claim, but of
+treatment of a surplus amount which was not contemplated under the Plan
+at all, and therefore cannot be said to have been extinguished or
+transferred by virtue of the said clause.
+39.
+It is clear from the above that the Resolution Plan is completely silent
+on the treatment of surplus cash flow generated during the CIRP period.
+There is no clause which states that such surplus will vest in the
+Resolution Applicant. The surplus generated during CIRP was neither
+contemplated nor allocated under the Plan, and therefore cannot be
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+brought within the scope of “accretions” merely by a broad interpretative
+exercise.
+40.
+Clause 3.9.8, on the other hand, is the only provision in the
+Resolution Plan which makes any reference to surplus cash flow, and it
+merely enables the Resolution Professional to utilize such surplus for
+foreclosure of outstanding dues. The clause does not contain any
+stipulation regarding vesting or appropriation of such surplus in favour of
+the Resolution Applicant, thereby indicating that no proprietary right over
+CIRP-generated surplus was intended to be created.
+41.
+We also do not find any merit the Appellant’s argument that the
+surplus is an “accretion” to the assets of the Corporate Debtor convincing.
+The crucial factor here is that this surplus was generated during the CIRP
+period, when the Corporate Debtor was under the control of the Resolution
+Professional and was being run under the oversight of CoC. The Appellant
+had no role in generating this surplus, nor had it taken any operational or
+financial risk during that period. Therefore, such surplus cannot be treated
+as a benefit arising from the Appellant’s efforts or investment. Instead, it
+remains part of the value generated during CIRP for the benefit of the
+insolvency process.
+42.
+Further, the fact that the surplus amount was kept in fixed deposits
+does not change its nature. The legal character of the funds depends on
+how and when they were generated, not on the form in which they are held.
+Since the surplus was generated during CIRP, it continues to retain its
+character as part of the insolvency estate.
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+43.
+We also find that the Appellant’s argument that the financial
+creditors have already been satisfied under the Resolution Plan is not
+correct. The Resolution Plan only deals with the assets and values
+considered at the time of its approval. Any additional surplus generated
+during CIRP, which was not part of the Plan, cannot be said to have been
+settled or extinguished.
+44.
+Once we reach this conclusion, the next step is straightforward. The
+IBC provides a clear mechanism under Section 53 for distribution of assets
+forming part of the insolvency estate. In the absence of any provision in the
+Resolution Plan governing the distribution of such surplus, the
+Adjudicating Authority was correct in directing that it be distributed in
+accordance with Section 53.
+45.
+The appellant has relied upon several judgments of Hon’ble Supreme
+Court in support of his contention. These have been examined in the
+context of present factual matrix.
+46.
+Insofar as the reliance placed on ‘Ebix Singapore Pvt. Ltd. vs. CoC of
+Educomp Solutions Ltd. [(2022) 2 SCC 1]’ is concerned, the principle laid
+down therein is that a Resolution Plan, once approved, becomes binding
+and irrevocable between the Committee of Creditors and the Successful
+Resolution Applicant. The emphasis of the Hon’ble Supreme Court was on
+ensuring certainty and finality of the resolution process by preventing
+either party from resiling from the agreed terms of the Plan. It is to be
+noted that the present case does not involve any attempt to modify, revisit,
+or withdraw from the approved Resolution Plan. The present issue has
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+arisen because the Resolution Plan is silent on the treatment of surplus
+cash flow generated during the CIRP period. The said surplus was neither
+identified, valued, nor allocated under the Plan. Therefore, determining its
+treatment does not amount to altering the Plan, but rather addressing a
+situation not contemplated within it. If the Appellant’s argument is
+accepted, it would effectively amount to enlarging the scope of the Plan by
+implication, which is contrary to the ratio in Ebix Singapore that mandates
+strict adherence, only to what has been expressly agreed. Hence, the said
+judgment does not assist the Appellant in claiming rights over a value that
+was never part of the Resolution Plan.
+47.
+With regard to the reliance on Committee of Creditors of ‘Essar Steel
+India Pvt. Ltd. vs. Satish Kumar Gupta & Ors.’ [(2019) 16 SCC 479], Hon’ble
+Supreme Court has categorically held in paragraph 68 that:
+"“68. The RFP issued in terms of Section 25 of the Code
+and consented to by ArcelorMittal and the Committee of
+Creditors had provided that distribution of profits made
+during the corporate insolvency process will not go
+towards payments of debts of any creditors — see Clause
+7 of the first addendum to the RFP dated 08.02.2018. On
+this short ground, this part of the Judgment of the NCLAT
+is also incorrect.”
+48.
+It is important to note that the observations therein were made in
+the context of a specific contractual framework governing that resolution
+process. The Hon’ble Supreme Court referred to a clause in the Request for
+Proposal (RFP), which expressly stipulated that profits generated during the
+CIRP would not be used towards payment of creditors. The conclusion
+reached by the Court was thus based on an express contractual stipulation
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+agreed between the parties. In the present case, no such clause exists in
+the Resolution Plan or any related document. The Plan is completely silent
+on the treatment of CIRP-generated surplus. Therefore, the ratio of Essar
+Steel cannot be applied in isolation or in the absence of a similar
+contractual provision. In fact, the absence of such a clause in the present
+case strengthens the position that the surplus was not contemplated as
+part of the Resolution Plan and must, therefore, be dealt with in
+accordance with the statutory framework of the Code.
+49.
+As regards the reliance on Ghanshyam Mishra & Sons Pvt. Ltd. vs.
+Edelweiss Asset Reconstruction Co. Ltd. [(2021) 9 SCC 657], the principle
+laid down therein is that once a Resolution Plan is approved, all claims not
+forming part of the Plan stand extinguished, and the commercial wisdom of
+the Committee of Creditors in approving the Plan is paramount and not
+subject to judicial review. However, the present case does not involve any
+question of extinguishment of claims or interference with the commercial
+wisdom of the CoC. The surplus in question was never part of the
+Resolution Plan and was not placed before the CoC for consideration at the
+time of approval of the Plan. This judgment deals with extinguishment of
+pre-CIRP claims and do not address the treatment of CIRP-generated
+surplus. Thus, the reliance on Ghanshyam Mishra is misplaced in the
+context of the present controversy.
+50.
+Insofar as the reliance on the decision of this Tribunal in SPS Steels
+Rolling Mills Ltd. vs. Central Bank of India (Comp. App. (AT)(INS) No. 352 of
+2024, order dated 19.03.2026) is concerned, the said judgment deals with
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+a different factual situation. In that case, the issue pertained to assets of
+the Corporate Debtor, which were in existence at the time of CIRP, but were
+not included in the Information Memorandum and were discovered
+subsequently. The Tribunal held that such omitted or undisclosed assets
+would remain with the Corporate Debtor under the new management, as
+they were inherently part of the Corporate Debtor’s asset base. In contrast,
+the present case does not involve any pre-existing or undisclosed asset. The
+surplus in question was generated during the CIRP period through the
+operations of the Corporate Debtor under the control of the Resolution
+Professional. It is, therefore, not an asset that existed independently and
+was merely omitted from the Information Memorandum, but a value that
+arose as part of the insolvency process itself. Such CIRP-generated surplus
+stands on a different legal footing and forms part of the insolvency estate,
+and therefore cannot be equated with omitted or subsequently discovered
+assets as contemplated in SPS Steels.
+51.
+In light of the above analysis, we find that the authorities relied upon
+by the Appellant are distinguishable on facts and law and do not support
+the proposition that CIRP-generated surplus, not contemplated in the
+Resolution Plan, automatically vests in the Resolution Applicant. None of
+the aforementioned judgments deal with a situation like the present one,
+where a surplus has been generated during CIRP and the Resolution Plan
+is silent on its treatment. Therefore, these judgments are distinguishable.
+52.
+From the perspective of fairness also, we find that the Respondent’s
+case has merit. The financial creditors have taken significant haircuts
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 1676 of 2025
+under the Resolution Plan, and the CIRP process was sustained by them. If
+the Appellant is allowed to take the entire surplus, despite not contributing
+to its generation and despite it not being part of the Resolution Plan, it
+would result in an unintended and unjust benefit to the Appellant at the
+cost of the creditors. The objective of the Code is also to maximize value
+from the resolution of the CD in the CIRP process and the decision of the
+Adjudicating Authority is intended to achieve the objective of the Code.
+53.
+We also note that the Adjudicating Authority is well within its
+jurisdiction in passing the Impugned Order, as the direction to distribute
+the surplus does not tantamount to modifying the Resolution Plan. The
+impugned order rather addresses a situation, which was not contemplated
+in the Plan, and the same has been addressed by applying the statutory
+provisions of the Code.
+54.
+In view of the above, we are of the view that the surplus cash flow
+generated during the CIRP period does not belong to the Appellant and
+must be treated as part of the insolvency estate. The Adjudicating Authority
+has rightly directed its distribution in accordance with Section 53 of the
+IBC. We find no error or infirmity in the Impugned Order dated 03.09.2025.
+Accordingly, the Appeal is dismissed. Pending IA’s, if any, are closed. No
+order as to costs.
+[Justice Ashok Bhushan)
+Chairperson
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

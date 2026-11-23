@@ -1,0 +1,926 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 900 of 2026
+[Arising out of Order dated 30.04.2026 passed by the Adjudicating Authority
+(National Company Law Tribunal, New Delhi Bench, Court – II), in C.P. (IB)
+No.468/PB/2024]
+IN THE MATTER OF:
+
+Sanjeev Kumar Jain
+(Suspended Director of
+Parsvnath Developers Limited)
+
+...Appellant
+Versus
+
+Asset Reconstruction Company (India) Ltd & Anr.
+...Respondents
+Present:
+
+For Appellant
+: Mr. Krishnendu Datta, Sr. Advocate with Mr.
+Abhishek
+Anand,
+Mr.
+Rajat
+Juneja,
+Mr.
+Manoranjan Sharma, Mr. Arpit Dwivedi, Mr.
+Karan Rajpurohit, Ms. Sakshi Kapoor, Mr. Yash
+Tandon and Mr. Arjun Gaind, Advocates.
+
+For Respondents
+: Mr. Abhijeet Sinha, Sr. Advocate with Ms. Meghna
+Mishra, Mr. Siddharth Joshi, Ms. Ujjnala Gupta
+and Mr. Shubham Madaan, Advocates for R-1.
+
+Mr. Sandeep Bajaj, Mr. Vikas Maini, Mr. Ankit and
+Mr. Mayank Biyani, Advocates for RP.
+
+Mr. Gaurav Mitra, Ms. Aakashi Lodha and Mr.
+Namanjeet Bhatia, Advocates for Intervener.
+WITH
+Company Appeal (AT) (Insolvency) No. 977 of 2026
+[Arising out of Order dated 24.04.2026 passed by the Adjudicating Authority
+(National Company Law Tribunal, New Delhi Bench, Court – II), in C.P. (IB)
+No.465/ND/2024]
+IN THE MATTER OF:
+
+Surya Mani Pandey
+Suspended Director of
+Noida Marketing Pvt. Ltd.
+
+...Appellant
+Versus
+
+Asset Reconstruction Company (India) Ltd. & Anr.
+...Respondents
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+2 of 20
+
+Present:
+
+For Appellant
+: Mr. Abhishek Anand, Mr. Rajat Juneja, Mr.
+Manoranjan Sharma, Mr. Arpit Dwivedi, Mr.
+Karan Rajpurohit and Ms. Tina Aneja, Advocates.
+
+For Respondents
+: Mr. Abhijeet Sinha, Sr. Advocate with Ms. Meghna
+Mishra, Mr. Siddharth Joshi, Ms. Ujjnala Gupta
+and Mr. Shubham Madaan, Advocates for R-1.
+
+Mr. Sandeep Bajaj, Mr. Vikas Maini, Mr. Ankit and
+Mr. Mayank Biyani, Advocates for RP.
+
+Mr. Gaurav Mitra, Ms. Aakashi Lodha and Mr.
+Namanjeet Bhatia, Advocates for Intervener.
+O R D E R
+ASHOK BHUSHAN, J.
+These two appeals have been filed by the suspended director of the
+corporate debtors; Parsvnath Developers Limited and Noida Marketing Private
+Limited, respectively. The Parsvnath Developers Limited is the principal
+borrower with respect to which Noida Marketing Private Limited has given
+corporate guarantee. By order dated 24.04.2026, Corporate Insolvency
+Resolution Process (“CIRP”) against the corporate debtor, Noida Marketing
+Pvt. Ltd. has commenced, against which the Comp. App. (AT) (Ins.)
+No.977/2026 has been filed. By order dated 30.04.2026, CIRP against the
+corporate debtor, Parsvnath Developers Limited has been admitted by
+appointing the Interim Resolution Professional (“IRP”) and declaring the
+moratorium. Challenging the order dated 30.04.2026, in C.P. (IB)
+No.468/PB/2024, Comp. App. (AT) (Ins.) No.900/2026 has been filed.
+2.
+Brief background facts, giving rise to these two appeals need to be
+noticed:
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+3 of 20
+
+Comp. App. (AT) (Ins.) No.900/2026
+i.
+Sammaan Capital Limited, the original lender sanctioned various loan
+facilities to Parsvnath Developers Limited. First loan facility of ₹72 crore
+was sanctioned on 26.03.2018 and thereafter six other loan facilities
+were extended to the Parsvnath Developers Limited.
+ii.
+Sammaan Capital Limited filed a C.P. (IB) 275/ND/2022 against
+Parsvnath Developers Limited, which was withdrawn on 11.04.2022. A
+fresh Section 7 petition C.P. (IB) No. 690/2023 was filed on 10.10.2023.
+iii.
+Sammaan Capital Limited has also initiated proceedings under Section
+9 of Arbitration & Conciliation Act 1996 before the Delhi High Court.
+The Section 7 petition was disposed by the NCLT in view of pendency of
+settlement talks. Sammaan Capital Limited also withdrew proceeding
+under Section 9.
+iv.
+On 13.07.2024, Sammaan Capital Ltd. filed a fresh Section 7
+application C.P. (IB) 468/2024, claiming total amount of default under
+the Loan Agreement of ₹942,26,92,456/-. Date of default was
+mentioned as 05.03.2024.
+v.
+Corporate debtor filed a petition under Section 9 of the Arbitration &
+Conciliation Act 1996 on 16.07.2024 before the Delhi High Court
+seeking reconciliation.
+vi.
+On 30.09.2024, Sammaan Capital Limited has assigned the debt to
+Asset Reconstruction Company India Limited (“ARCIL”).
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+4 of 20
+
+vii.
+On 30.12.2024 an email has been sent on behalf of the Parsavnath
+Developers Limited to the Sammaan Capital Limited, proposing a
+payment schedule for principal amount of ₹310 crore and ₹35.54 crore
+as interest.
+viii.
+Financial creditor on 17.02.2025, after receiving two demand drafts of
+₹75,00,00,000 withdrew Section 7 application. ARCIL and Parsvnath
+Developers Limited exchange Formal Restructuring Agreement.
+Parsvnath Developers Limited has also withdrawn his Section 9 petition
+before the Delhi High Court on 30.04.2025.
+ix.
+On 16.07.2025, by an email, ARCIL informed the Parsvnath Developers
+Limited that it will not proceed with the repayment schedule. Financial
+creditor filed a revival application before the NCLT to revive Section 7
+proceedings. Section 9 petition was filed before the Delhi High Court
+by the Parsvnath Developers Limited to stay the email dated 16.07.2025
+of the Parsvnath Developers Limited.
+x.
+On 20.08.2025, NCLT allowed the revival application of financial
+creditors and revived Section 7 proceeding.
+xi.
+On 10.11.2025, NCLT after hearing the parties, reserved the orders on
+Section 7 application on 10.11.2025.
+xii.
+On 19.02.2026, Section 9 Arbitration Proceeding filed by Parsvnath
+Developers Limited was dismissed by the Delhi High Court. Parsvnath
+Developers Limited filed an application under Section 37, challenging
+the order dated 19.02.2026, on which interim stay was granted on
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+5 of 20
+
+coercive action, subject to Parsvnath Developers Limited deposit ₹75
+crore in High Court Registry.
+xiii.
+On 10.03.2026 Parsvnath Developers Limited deposited only ₹25 crore
+to Delhi High Court.
+xiv.
+On 16.03.2026, corporate debtor submitted a repayment plan before
+the Delhi High Court proposing payment of balance of ₹600 crore
+subject to permission of sale of charge assets.
+xv.
+In April 2026, Settlement Repayment Schedule of ₹750 crore was
+exchanged between the parties. On 06.04.2026, NCLT listed Section 7
+application for pronouncement of the order on request of the Parsvnath
+Developers Limited that Parsvnath Developers Limited is proceeding to
+settle the matter with financial creditor, the pronouncement was
+deferred.
+xvi.
+On 08.04.2026 Parsvnath Developers Limited, shared final schedule of
+payment with ARCIL. On 08.04.2026 pronouncement was again
+deferred to 16.04.2026.
+xvii.
+On 16.04.2026 again request was made to the NCLT to defer the
+judgement. On 16.04.2026, NCLT deferred the pronouncement of
+judgement as a last opportunity to parties to bring final settlement, if
+any. No settlement was entered between the parties and on 30.04.2026
+adjudicating authority pronounced the order admitting Section 7
+application appointing the IRP and initiating CIRP process. Challenging
+the order dated 30.04.2026, Comp. App. (AT) (Ins.) No.900/2026 has
+been filed.
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+6 of 20
+
+Comp. App. (AT) (Ins.) No.977/2026
+i.
+Noida Marketing Private Limited stood as a corporate guarantor to the
+loan facilities extended by Sammaan Capital Ltd. to the Parsvnath
+Developers Limited.
+ii.
+In appeal filed by the suspended director of the Noida Marketing Private
+Limited, the fact as noted in Comp. App. (AT) (Ins.) No. 900/2026 has
+been reiterated.
+iii.
+On 24.05.2024, original lender has issued demand notices against loan
+amount of the borrower as well as Noida Marketing Private Limited, the
+corporate guarantor.
+iv.
+C.P. (IB) No.465/2024 was filed by Sammaan Capital Limited under
+Section 7 against the Noida Marketing Pvt. Ltd., the corporate
+guarantor. In appeal filed by the suspended director of Noida Marketing
+Private Limited, facts and details pertaining to the proceeding before the
+Delhi High Court and NCLT has been reiterating, including the
+correspondence and stage between the principal borrower and the
+financial creditor.
+v.
+Section 7 petition filed against the Noida Marketing Private Limited was
+withdrawn on 17.04.2025, which was subsequently revived by the
+NCLT.
+vi.
+On 06.04.2026, Section 7 application was revived and listed for hearing
+on 24.04.2026.
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+7 of 20
+
+vii.
+On 24.04.2026, the C.P. (IB) No.465/2024 has been admitted against
+the Noida Marketing Private Limited, appointing IRP.
+viii.
+Challenging the order dated 24.04.2026, admitting C.P. (IB)
+No.465/ND/2024, Comp. App. (AT) (Ins.) No.977/2026 has been filed
+by the suspended director of the corporate debtor, Noida Marketing
+Private Limited.
+3.
+We have heard learned Sr. counsel, Mr. Arun Kathpalia & Mr.
+Krishnendu Dutta appearing for the appellants. Learned Sr. counsel, Mr.
+Abhijeet Sinha has appeared for ARCIL. Learned counsel Mr Sanjeev Bajaj
+has appeared for Resolution Professional (“RP”). Learned counsel Mr. Gaurav
+Mitra has appeared for interveners.
+4.
+Learned counsel for the appellant in support of the appeals submits
+that in the present case, the corporate debtor has entered into settlement with
+the financial creditor and was always ready and willing to make the payment
+as per schedule discussed and agreed by both the parties reflected in the
+email dated 30.12.2024 sent by the corporate debtor to the financial creditor.
+No default towards payment has been made by the corporate debtor as per
+settlement agreed. The payment plan as agreed between the parties was noted
+by the adjudicating authority in its order, dated 17.02.2025, by which Section
+7 application was allowed to be withdrawn by the financial creditor. The
+corporate debtor did not default in payment as per payment schedule agreed
+on 30.12.2024, but financial creditor unilaterally backed out by issuing an
+email dated 16.07.2025. The present is not a case where any default is
+committed by the corporate debtor in fulfilling its obligation. It is submitted
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+8 of 20
+
+that during pendency of the proceedings under Section 9 of the Arbitration &
+Conciliation Act 1996, before the Delhi High Court corporate debtor has
+undertaken to pay ₹75 crore. ₹25 crore was deposited before the Registry of
+the Delhi High Court and subsequently an amount of ₹75 crore was paid when
+proceedings were withdrawn on 17.02.2025. The corporate debtor has paid
+an amount of ₹25 crore between 06.04.2026 and 15.04.2026, under bona fide
+belief and impression that there is principal agreement to the revised schedule
+of payment proposed between the parties. It is submitted that corporate
+debtor having paid amount of ₹200 crore the financial creditor has backed
+out from executing Formal Agreement. The present is not a case for initiating
+any insolvency process against the corporate debtor, corporate debtor having
+already paid an amount of ₹200 crore and had always been willing to make
+the payment as per revised schedule proposed by the corporate debtor and it
+is the financial creditor who is using the Section 7 proceeding as recovery
+mechanism. There is no categorical finding regarding debt and default. On
+30.04.2026, when adjudicating authority passed an order for admission,
+WhatsApp message between the parties were being exchanged with respect to
+repayment schedule of ₹750 crore. Even after admission of Section 7
+application, appellant continued with the settlement talks. It is submitted
+that the corporate debtor is a Real Estate Company, which is carrying out
+various projects and initiation of CIRP can cause prejudice to the corporate
+debtor.
+5.
+Learned counsel for the respondent refuting the submissions of the
+counsel for the appellants submits that although case of the appellant is that
+there was settlement entered between the parties on 30.12.2024 as recorded
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+9 of 20
+
+in order dated 17.02.2025, but in Section 9 petition 330/2025 filed by the
+corporate debtor before the High Court of Delhi, corporate debtor has
+admitted that composite restructuring negotiated and agreed between the
+parties could not be executed. Corporate debtor also acknowledged
+outstanding instalment due and payable from April 2025 till June 2025,
+amounting to ₹16.68 crore. Corporate debtor undertook to deposit ₹75 crore
+in the Registry of Delhi High Court. Adjudicating authority has found the
+debt and default prove. Adjudicating authority after considering all material
+facts returned the finding that there is a debt and default in repayment of
+amount, revival of Section 7 proceeding by order dated 20.08.2025 has never
+been challenged by the appellant by filing an appeal. A pre-injunction
+proceeding was filed before the Delhi High Court for staying proceeding before
+the NCLT to revive the Section 7 application, in which proceeding no interim
+relief was granted by the High Court. Even after order dated 20.08.2025,
+reviving the Section 7 application, the order dated 20.08.2025 was challenged
+by the corporate debtor before the Delhi High Court, which also came to be
+dismissed by judgement dated 23.09.2025. Submission of the counsel for the
+appellant that there was no basis for revival of Section 7 application are
+without any merit. Revival of Section 7 has become final and cannot be
+allowed to question. It is submitted that Delhi High Court orders passed in
+proceeding initiated by corporate debtor itself under Section 9 of the
+Arbitration & Conciliation Act 1996, noted that corporate debtor is
+endeavouring to settle the dispute with the financial creditor, which is clear
+proof of default. Before the adjudicating authority also time and again,
+corporate debtor submitted that it is entering into settlement with the
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+10 of 20
+
+financial creditor. Adjudicating Authority on several occasions has postponed
+the pronouncement of the judgement at the request of the corporate debtor,
+that corporate debtor is to enter into settlement with the financial creditor.
+Adjudicating authority noticed that no settlement has been entered between
+the parties and has rightly proceeded to admit Section 7 application. Sanction
+and disbursement of the loan is not even disputed. The submission of the
+appellant that the loan granted by the financial creditor required
+restructuring is not a ground on which admission of Section 7 can be denied.
+Adjudicating authority in proceeding under Section 7 has to look into debt
+and default. Debt and default having been proved, there is no error.
+6.
+Learned counsel for the RP also submitted that in pursuance of the
+publication made by the IRP, claims worth ₹800 crores has been received from
+the homebuyers.
+7.
+We have considered the submissions of the counsel for the parties and
+perused the records.
+8.
+The present is the case where
+Section
+7 application C.P.
+(IB)468/PB/2024 was permitted to be withdrawn by the order of the
+adjudicating authority dated 17.02.2025. The order dated 17.02.2025 which
+has been quoted by adjudicating authority in paragraph 8 of the impugned
+order is as follows:
+“8. During the pendency of the present petition viz. IB-
+465/(PB)/2024, the FC and CD entered into settlement
+and Ms. Pooja Sehgal, Ld. Sr. Counsel for CD handed
+over demand drafts for an amount of Rs. 75 Crore to
+the Ld. Counsel for the FC. In the wake, the FC could
+withdraw the petition with liberty to seek revival of the
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+11 of 20
+
+same. The order dated 17.02.2025 passed by this
+Tribunal reads thus:-
+ORDER
+The total amount of default alleged in the petition is Rs.
+942,26,92,456/-. relevant excerpt in Part-IV of the
+applications reads thus:
+2. AMOUNT
+CLAIMED
+TO
+BE
+IN
+DEFAULT AND
+DATE
+OF
+WHICH
+THE
+DEFAULT
+OCCURRED
+(ATTACH THE
+WORKINGS
+FOR
+THE
+COMPUTATION
+OF
+AMOUNT
+AND DAYS 40
+DEFAULT
+IN
+TABULAR
+FORM)
+A. The Corporate Debtor has
+repaid
+a
+sum
+of
+Rs.
+426,49,77,339/-
+(Rupees
+Four Hundred and Twenty-
+Six Crores, Forty-Nine Lacs,
+seventy-Seven Thousands,
+Three Hundred and Thirty-
+Nine) from 26.03.2018 to
+12.07.2024 under the Loan
+Agreement.
+B. In view thereof, the total
+amount in default due to the
+Applicant by the Corporate
+Debtor
+under
+the
+Loan
+Agreements
+is
+Rs.
+942,26,92,456/-
+(Rupee
+Nine
+Forty-Two
+Crores,
+Twenty-Six Lacs, Ninety-
+Two
+Thousand
+Four
+Hundred
+and
+Fifty-Six)
+along with other Charges
+which include:
+i.
+Principal amount Rs.
+452,34,19,608/
+(Rupees
+Four
+Hundred and Fifty-
+Two Crores, Thirty-
+Four Lacs, Nineteen
+Thousand,
+Six
+Hundred and Eight)
+ii.
+Interest
+Due:
+26,59,51,243/-
+(Rupees Twenty-Six
+Crore,
+Fifty-Nine
+Lacs,
+Fifty-One
+Thousand,
+Two
+Hundred and Forty-
+Three).
+iii.
+Other
+Charges:
+438,32,90,363/-
+(Rupees
+Four
+Hundred and Thirty-
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+12 of 20
+
+Eight Crore, Thirty-
+Two
+Lacs,
+Ninety
+Thousand,
+Three
+Hundred and Sixty-
+Three).
+iv.
+TDS:
+25,00,31,782
+(Rupees Twenty-Five
+Crore,
+Thirty-One
+Thousand,
+Seven
+Hundred and Eighty-
+Two)
+C. Date
+of
+Default:
+On
+05.05.2024,
+Corporate
+Debtor
+defaulted
+in
+payment/repayment
+of
+principal and/or interest
+due
+under
+the
+Loan
+Agreement
+D. Under clause 3.1.1 of the
+Loan
+Agreements,
+the
+Corporate Debtor agreed to
+repay/pay the entire loan
+and interest thereon to the
+Financial Creditor in such
+manner
+as
+agreed/specified
+by
+the
+Financial Creditor from time
+to time and/or as per the
+Payment/Repayment
+Schedule.
+E. Accordingly, owing to the
+Corporate Debtor's default
+in payments under the loan
+facilities, on 08.07.2024,
+Financial Creditor issued
+notices recalling the entire
+loan facilities and called
+upon the Corporate Debtor
+to
+repay
+the
+total
+outstanding loan amount
+including interest, future
+interest, TDS and charges
+payable under the loan
+facilities within three (3)
+days.
+F. In view of the fact that no
+response or payment was
+made by Corporate Debtor
+against
+the
+outstanding
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+13 of 20
+
+dues,
+therefore,
+the
+Financial Creditor is filing
+the instant Petition.
+Today Ms. Pooja Saigal Id. Sr. Counsel appearing for
+Corporate Debtor viz. Parasvnath Developers Ltd.
+handed over demand drafts for the amount of Rs.
+40,00,00,000/-(Demand
+Draft
+No.-200863)
+and
+Rs.35,00,00,000/- (Demand Draft No. 200862) to Mr.
+Sumesh Dhawan Ld. Counsel present for the Creditors
+and assured that the remaining amount on which the
+Creditor and Corporate Debtor have agreed to settle the
+defaulted amount would be paid as per the schedule
+agreed between the Creditor and the Corporate Debtor
+religiously without failing. The Counsels for the parties
+are ad idem that if the amount of debt is not repaid as
+per the schedule, the Petitioner who is seeking to
+withdraw the captioned petition today would be
+entitled to seek revival of the same. In view of the
+aforementioned,
+the petition
+is
+allowed
+to be
+withdrawn and is accordingly disposed of. Let a copy
+of this order be sent to Registrar General for
+maintaining data/record.
+IA-4684/2024: In view of the order passed in IB-
+468/2024 the IA has become infructuous.”
+9.
+Financial creditor filed an application to revive Section 7 application
+claiming default, which revival application was allowed by order dated
+20.08.2025. It is relevant to note that prior to passing of the order dated
+20.08.2025, NCLT reviving Section 7 application, the corporate debtor has
+filed proceeding under Section 9 of the Arbitration & Conciliation Act, 1996
+before the Delhi High Court. The corporate debtor offered to make deposit of
+₹75 crore which is noted in the order dated 26.09.2025 passed by the Delhi
+High Court. It is an admitted fact that out of ₹75 crore as promised, corporate
+debtor deposited only ₹25 crore to the registry and subsequently, it was before
+the adjudicating authority, it was pleaded that the amount of ₹50 crore has
+been paid.
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+14 of 20
+
+10.
+The adjudicating authority in the impugned order has noticed that twice
+the adjudicating authority has listed the Section 7 application for
+pronouncement, but on the request made by the counsel for the corporate
+debtor, pronouncement was deferred. It is useful to notice the order passed
+by the NCLT, by which pronouncement of judgement was deferred.
+Adjudicating authority has noted the order passed on 08.04.2026 deferring
+the pronouncement in paragraph 19 of the judgement which is as follows:
+“19. On account of pendency of the proceedings before
+Hon’ble High Court as above, we could show sufficient
+indulgence and kept the proceedings pending for
+sufficiently long period. Even on 08.04.2026, when we
+were to pronounce the order, having come across the
+plea raised on behalf of the parties with reference to
+order dated 08.04.2026 (ibid), we deferred the
+pronouncement. The order dated 08.04.2026 reads
+thus:-
+“On 06.04.2026 we passed by the following
+order:-
+“(IB)-468(PB)2024
+was
+listed
+for
+the
+pronouncement
+of
+the
+order
+therein.
+Nevertheless, Mr. Manoranjan Sharma, Ld.
+Counsel for the Corporate Debtor submitted
+that the Division Bench of the Hon’ble High
+Court has passed an order that another
+amount of Rs. 25 Crores could be deposited
+by the Debtor with the registry of Hon’ble
+Delhi High Court would be released to the
+Creditor. According to him, another amount
+of Rs. 10 Crores would be paid to the
+Creditor during the course of the day. He
+submitted that, the debtor is keenly pursuing
+the matter to arrive at a settlement with the
+Financial Creditor regarding the amount of
+debt defaulted to be paid. At this stage, the
+Ld. Counsel for the Creditor submitted that
+he has no instruction from his client
+regarding the arguments advanced on behalf
+of the Corporate Debtor. Nevertheless, since
+the Corporate Debtor is striving to enter into
+settlement
+with
+the Financial Creditor
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+15 of 20
+
+regarding the amount of debt, we defer the
+pronouncement of order till 08.04.2026.”
+2. Today again Mr. Abh Today again Mr.
+Abhishek Anand, Ld. Counsel for Corporate
+Debtor present with Mr. Sanjeev Jain, Managing
+Director handed over a proposal to Ld. Counsel for
+the Financial Creditor and submitted that the
+management of the Corporate Debtor is in talk
+with the management of the Financial Creditor
+and there is a possibility that the parties will enter
+into some settlement. The Ld. Counsel for the
+Petitioner submitted that she has no instruction
+from her client, nevertheless, she will send the
+proposal to the Petitioner for its consideration.
+3. Mr. Abhishek Anand also submitted that as
+could be noted in our order dated 06.04.2026 an
+amount of Rs. 25.00 Cr. deposited with the
+registry of Hon’ble Delhi High Court has been
+ordered to be released to the Financial Creditor.
+In his submission, besides the amount of Rs.
+25.00 Cr. another amount of Rs. 21,49,20,750/-
+has also been paid to the Financial Creditor.
+4. The Ld. Counsel for the Petitioner submitted
+that she is aware of the order of the High Court
+but has no information regarding the remaining
+amount of Rs. 21,49,20,750/-.
+5. In view of the stand taken by the Counsels for
+the parties, we defer the pronouncement of the
+order which is ready for pronouncement since
+06.04.2026 till 16.04.2026. It is made clear that
+parties should take their call regarding the
+settlement by that day and on next date we will
+not defer the pronouncement any further at any
+cost except in case of the settlement arrived at
+and Creditor concede before this Tribunal that
+settlement has been arrived at and steps are
+taken regarding the disposal of the matter. List on
+16.04.2026.”
+11.
+The further pronouncement was deferred on 16.04.2026 which order
+has been noticed in paragraph 21 of the impugned order, which is as follows:
+“21. On 16.04.2026, again the counsels for the parties
+made reference to the proceedings pending before the
+Hon’ble High Court and sought adjournment. As it may
+have a due deference to the proceedings pending
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+16 of 20
+
+before Hon’ble High Court, we again deferred the
+pronouncement to 30.04.2026. The order dated
+16.04.2026 reads thus:
+“When the matter is listed for pronouncement, Mr.
+Abhishek Anand Ld. Counsel for the Applicant
+submitted that they are negotiating with the
+Creditor for settlement in respect of the amount
+defaulted to be paid. According to him the
+proposal given by the Debtor could not be taken
+up
+by
+the
+Creditor
+with
+its
+board
+for
+consideration. Ld. Counsel for the Petitioner
+submitted that the board qua the petitioner will
+take two weeks’ time to meet and take a final
+view regarding the proposal for settlement. It is
+really a matter of concern that when the matter is
+listed for pronouncement thrice, the parties are
+taking no steps in between and only when the
+matter is listed for pronouncement of the order,
+only before the Court they talk of settlement. We
+are appalled and dismayed with such approach.
+However, since the objective of IBC is to resolve
+the insolvency of the Corporate Debtor and see
+that the value of Corporate Debtor is maximized,
+once both the Creditors and Debtors are of the
+view that the matter can be settled we defer the
+pronouncement by two weeks, subject to payment
+of cost of Rs. 5,00,000/- to be deposited in Prime
+Minister’s National Relief Fund by the Corporate
+Debtor.
+List on 30.04.2026 at 10:30 am.
+It is directed that the matter should be listed on
+the top of the board only in the category of
+pronouncement order.”
+12.
+Adjudicating authority while deferring the pronouncement have noted
+the submission of the corporate debtor stating that the settlement is taking
+place between the parties and management of the corporate debtor is in talk
+with the management of the financial creditor and there is a possibility that
+parties may enter into some settlement.
+13.
+The orders by deferring the pronouncement clearly thus record the
+statement that there is possibility that parties will enter into some settlement.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+17 of 20
+
+It was further stated by the corporate debtor that amount of ₹25 crore
+deposited in the Registry of High Court has been ordered to release to the
+financial creditor and that further amount of ₹21,49,20,750/- has been paid
+to the financial creditor. The above statements recorded by the NCLT while
+deferring the pronouncement clearly indicates that default by the corporate
+debtor is not even contested rather corporate debtor was praying for deferring
+the pronouncement in the hope of settlement to be entered with the financial
+creditor. Adjudicating authority has further in paragraph of 28 of the
+impugned order has noticed paragraph 5.8 of the reply of the corporate
+debtor, where corporate debtor admitted that group of companies was still
+require to pay an amount of ₹489.32 crore. The corporate debtor has claimed
+its certain counter claim in paragraph 5.8 of the reply. The NCLT has correctly
+relied on the judgement of the Hon’ble Supreme Court in ‘B. Prashanth
+Hegde’ Vs. ‘State Bank of India & Anr.’, in [Civil Appeal No.477/2022]
+decided on 12.02.2026, where it was held that question of set of and counter
+claim are to be considered at the stage of filing of proof. In paragraphs 23 &
+24 of the impugned order a judgement of the Hon’ble Supreme Court has been
+noticed, which paragraphs are as follows:
+“23. As can be seen from the reply filed on behalf of
+the Respondents, their emphasis is on reconciliation of
+loan accounts, consideration of deductions, settlement
+between the parties and pendency of arbitral
+proceedings. So far as the reconciliation of loan
+accounts and adjustment of deductions are concerned,
+at best, the same can be considered as counter claim
+by the CD. As has been held by the Hon’ble Supreme
+Court in B. Prashanth Hegde vs. State Bank of
+India and Anr. (Civil Appeal No. 477 of 2022) decided
+on 12.02.2026, the Hon’ble Supreme Court ruled that
+in so far as set off and counter claim is concerned, the
+same may be considered at the stage of filing of proof
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+18 of 20
+
+of claims during the resolution process by the RP. Para
+37 of the judgment reads thus:
+“37. In Swiss Ribbons (P) Ltd. case (supra),
+Hon’ble Supreme Court has held that in so far as
+set-off and counterclaim is concerned, such set-off
+may be considered at the stage of filing of proof of
+claims during the resolution process by the
+Resolution Professional. In the present appeal,
+only counter claim has been made before DRT but
+no set off amount has been adjudicated upon.
+Moreover, any amount of counterclaim cannot
+retract from the fact of acknowledgement of the
+debts.”
+24. In the said judgment it could also be ruled that an
+application under Section 7 of IBC, 2016 hinges on a
+default on part of a CD of financial debt of an amount
+exceeding the specified threshold. In view of the
+judgment, the purpose of providing the date of default
+is to show that the debt is due and payable. Paras 40-
+42 of the judgment reads thus:-
+“40.
+Learned
+Counsels for
+Appellant
+and
+Respondent No.1 both have referred to the Master
+Circular No. RBI/2013- 14/62 DBOD No. BP. BC.
+1/ 21.04.048/2013-14 dated July 1, 2013 (pp.
+166-167 of written submissions and convenience
+compilation of appellant, Vol. I) with appellant
+interpreting
+its
+provisions
+regarding
+asset
+classification as NPA to be year 2010 from which
+the dates of default should be considered
+whereas Respondent No.1 claims that the year
+should be 2014. We agree with the argument of
+Ld. Senior Counsel of Respondent No.1 that while
+the asset classification of the restructured loan
+account would be governed as per applicable
+prudential norms regarding classification as NPA,
+insofar as acknowledgement of the debts is
+concerned they were implicitly present in working
+capital
+consortium
+agreements
+and
+other
+documents executed by the CD and banks and
+the debts were therefore alive at the time these
+agreements were entered into.
+41. We now consider the contention of the
+Corporate Debtor that the amount of counterclaim
+raised against the banks by the Corporate Debtor
+being Rs.1500 crores which is much more than
+the amount of debt, hence there will be a net
+amount payable to the corporate debtor and not to
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+19 of 20
+
+the banks. Therefore, there is no debt in default
+and liable to be paid to the banks. We note that
+the counterclaim has not been decided and so it
+remains just a proposition yet to be adjudicated
+upon. Moreover, merely raising a counterclaim in
+DRT proceedings does not in any way detract
+from the fact that debts are acknowledged, and
+they are in default, and therefore liable to be paid
+by the Corporate Debtor as the application under
+Section 7 is found to be within limitation.
+42. We are convinced by the argument of
+Respondent No.1 that the date of NPA of the debt
+due to SBI is 31.1.2010 only for the purposes of
+the RBI guidelines. The actual date to default is
+the dates on which NPAs were initially declared
+by respective banks with 28.5.2014 for SBI,
+30.6.2014 for PNB, 10.10.2014 for Corporation
+Bank and 31.12.2014 for UCO Bank, since the
+debts of respective banks were acknowledged by
+the CD till those dates. This is so because during
+the period from 2010 to 2014 when efforts were
+made by the four banks and the Corporate Debtor
+to restructure the debts, there was admission and
+implicit acknowledgment of the debts by the
+Corporate Debtor.””
+14.
+The submission of the counsel for the appellant that appellant was
+ready to make payment as per payment schedule as was finalised on
+30.12.2024 cannot be treated a ground to accept the submission that there
+is no default on the part of the corporate debtor. Default on the part of the
+corporate debtor is well proved from the material brought on the record, even
+on admission and various efforts made by the corporate debtor before the
+Delhi High Court as well as before the NCLT to bring on record settlement
+with the financial creditor in which he failed are ample proof of debt and
+default on the part of the corporate debtor.
+15.
+We thus are of the view that admission of Section 7 application on
+default committed by corporate debtor cannot be faulted. Adjudicating
+authority having found debt and default proved has rightly admitted Section
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 900 & 977 of 2026
+20 of 20
+
+7 application. Coming to the order dated 24.04.2026 passed by the
+adjudicating authority, admitting Section 7 application against the corporate
+guarantor Noida Marketing Private Limited, we having found the debt and
+default on the part of the principal borrower and the recall notice had already
+been issued against the corporate guarantor Noida Marketing Private Limited,
+no exception can be taken for admission of Section 7 application against the
+corporate guarantor Noida Marketing Private Limited. We thus are of the view
+that no grounds have been made out to interfere with the impugned orders
+dated 30.04.2026 and 24.04.2026.
+Both the appeals are dismissed.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+NEW DELHI
+29th May, 2026
+himanshu

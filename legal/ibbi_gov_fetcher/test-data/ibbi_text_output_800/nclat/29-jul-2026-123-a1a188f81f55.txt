@@ -1,0 +1,1217 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 597 of 2025
+
+(Arising out of the Order dated 13.02.2025 passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+New
+Delhi
+Bench)
+in
+IA
+No.
+3206/2023
+in
+IB
+No.2688/ND/2019)
+
+IN THE MATTER OF:
+
+The South Indian Bank Ltd.,
+Through its Chief Manager/authorized
+representative, Mr. Swaroop Kumar Tripathy,
+S/o Shri Suresh Chandra Tripathy,
+Regional Office at: 3rd Floor, Plot No. 21 & 21/1,
+Near Karol Bagh Metro Station, Pusa Road,
+Karol Bagh, New Delhi-110005
+
+...Appellant
+
+Versus
+
+Brijesh Singh Bhadauriya
+Resolution Professional for RCI Industries and
+Technologies Limited
+C-II/ 08, Mangal Apartment,
+Vasundhara Enclave, Near Dharamshila Naryayan
+Superspeciality Hospital, East,
+National Capital Territory of Delhi-110096
+
+...Respondent
+
+Present:
+
+For Appellant
+:
+Ms. Samiksha Godiyal, Mr. Arsh Khan, Mr. Ritwik
+Narayanan and Mr. Tenzing Bhatia, Advocates
+
+For Respondent
+:
+Ms. Swapnil Gupta, Advocate for SRA.
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+
+The present Appeal is preferred by the Appellant, which is a scheduled
+commercial bank, and which had provided various credit facilities to RCI
+Industries and Technologies Limited (the "Corporate Debtor"), against the
+order dated 13.02.2025 passed by the Hon'ble National Company Law
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 2 of 35
+
+Tribunal, New Delhi, Bench III in IA No. 3206/2023 in IB No.2688/ND/2019
+("Impugned Order") under Section 61(1) of the Insolvency and Bankruptcy
+Code. By the Impugned Order, the Ld. Adjudicating Authority has dismissed
+the application for direction filed by the Appellant to be treated as a Financial
+Creditor in relation to a credit facility extended to the Corporate Debtor under
+Trade Receivables Discounting System ("TReDS").
+Brief relevant facts are as follows:
+2.
+The Reserve Bank of India issued guidelines on 02.07.2018 to set up
+the Trade Receivables Discounting System (“TReDS”). TReDS lets MSMEs
+convert trade receivables into cash. It works through an electronic bidding
+platform. Many financiers compete on this platform to discount invoices. The
+Appellant/Bank signed a Master Financier Agreement with Mynd Solutions
+Pvt. Ltd on 07.04.2018. Mynd Solutions hosts the TReDS platform -which is
+called 'M1 Exchange'. The Corporate Debtor registered on this platform as a
+buyer. It signed a Master Buyer's Agreement with Mynd Solutions on
+21.12.2018.
+
+3.
+The mechanism of reverse factoring worked as described herein after.
+The Corporate Debtor's suppliers sold goods in the ordinary course of
+business. They uploaded their invoices on the M1 platform. The Corporate
+Debtor, as buyer, confirmed these invoices. Financiers, including the
+Appellant/Bank, then bid to discount the invoices. Once a bid was accepted,
+the Bank paid the supplier immediately even though a discounted value. At
+the same time, the supplier signed a Deed of Assignment. This was done
+digitally on the M1 platform. Clause 4.3.3 of the Master Buyer's Agreement
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 3 of 35
+
+governs this step. By this deed, the trade receivable was assigned to the Bank.
+The Bank then had the right to recover the full invoice value. It could recover
+this from the Corporate Debtor on the due date. Between August 2019 and
+February 2020, the Bank made such payments. It also took assignments of
+the receivables. Between 2019 and 2020, the Bank began getting bounce
+notifications. These were NACH auto-debit bounces due to non-payment by
+the Corporate Debtor.
+
+4.
+The Corporate Debtor's account became a Non-Performing Asset on
+15.11.2019. Standard Chartered Bank, Singapore, then filed a Section 9
+application. This application was admitted on 25.11.2022. CIRP began
+against the Corporate Debtor. Respondent No. 1 was appointed IRP, and later
+Resolution Professional. The Bank filed its claim in Form C on 13.12.2022
+and claimed as a Financial Creditor. The total claim was ₹38.54 crore. This
+had two parts. ₹20,62,76,197 was towards a cash-credit facility i.e. CCOL
+exposure. ₹17,92,08,473 was towards the TReDS exposure. By a
+communication dated 18.12.2022, the Resolution Professional accepted the
+CCOL part as financial debt. But he held the TReDS part to be operational
+debt and directed the Bank to re-file that claim in Form B. The Bank objected.
+It raised this objection at the first CoC meeting on 29.12.2022 and also wrote
+a letter dated 20.12.2022. However, the Resolution Professional did not
+accept the objection.
+
+5.
+The Bank filed I.A. No. 3206 of 2023 on 05.06.2023 under Section 60(5)
+of the Code and sought two things. First, to set aside the Resolution
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 4 of 35
+
+Professional's communication. Second, a direction to treat the TReDS claim
+as financial debt. Pleadings were completed by 16.08.2024. Meanwhile, the
+CoC approved the SRA's resolution plan on 05.06.2024. An application
+seeking approval of this plan was filed before the Adjudicating Authority on
+07.09.2024. By the Impugned Order dated 13.02.2025, the Adjudicating
+Authority dismissed I.A. No. 3206 of 2023. It held that the issue was covered
+by its own earlier order, dated 10.11.2023, which was passed in I.A. No. 1990
+of 2023, in the matter of Mudraksh Investfin Pvt. Ltd. v. Brijesh Singh
+Bhadauriya. It concerned an identical TReDS claim and related to the very
+same Corporate Debtor. This Appellate Tribunal had affirmed that order on
+05.01.2024 in Company Appeal (AT)(Ins) No. 1671 of 2023.
+
+6.
+While the appeal was pending, the Adjudicating Authority, on
+09.10.2025, approved the SRA's resolution plan. It is not disputed that the
+plan has since been fully implemented. Payments have been made to creditors
+under the plan. The Monitoring Committee has been dissolved.
+
+7.
+It is also on record that the Bank filed a fresh claim in Form B on
+12/13.03.2025 as an Operational Creditor. This happened after I.A. No. 3206
+of 2023 was dismissed. It also happened after the CoC had approved the plan.
+Submissions of the Appellant/South Indian Bank
+8.
+The present appeal is preferred against the order dated 13.02.2025
+passed by the Ld. National Company Law Tribunal, New Delhi, Court-III, by
+which, the Appellant’s application for directions under Section 60(5) of the
+Insolvency and Bankruptcy Code, 2016 (“IBC”) was dismissed. Through the
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 5 of 35
+
+said application, the Appellant sought reclassification of the credit facilities
+extended through the Trade Receivables and Discounting System (“TReDS”)
+as a “financial debt”. The facility was extended on a reverse factoring basis,
+i.e., a buyer-led financing arrangement where a bank/financial institution
+finances the supplier’s invoice at a discount at the buyer’s request. In such
+transactions, the bank/financial institution is the financier and the buyer is
+the borrower. The Appellant’s case is that this lending transaction has been
+wrongly classified as an “operational debt” by the IRP/Resolution
+Professional, a view upheld by the Ld. NCLT.
+
+9.
+The Appellant had extended various credit facilities to RCI Industries
+and Technologies Limited, (“Corporate Debtor”) including-
+i.
+CCOL exposure to the tune of ₹20,62,76,197.
+ii.
+Trade Receivables and Discounting System (“TReDS”) facility on a
+‘reverse factoring basis’, to the tune of ₹17,92,08,473 through
+platform hosted by Mynd Solutions Pvt. Ltd.
+
+10.
+As the Corporate Debtor defaulted on payments to their creditors, their
+account was declared as a Non-Performing Asset (“NPA”) on 15.11.2019. A
+Section 9 application under the IBC, filed by one of its Operational Creditors
+was admitted by the Ld. NCLT on 25.11.2022. Thereafter, the Appellant filed
+its claim for ₹38.54 Crores before the Respondent No. 1 in ‘Form C’ as a
+financial creditor on 13.12.2022. The Respondent by his email dated
+18.12.2022 while accepting the claim of the Appellant of CCOL as being a
+financial debt, concluded that the debt with respect to TReDS facility was an
+operational debt and directed the Appellant to file the claim in that regard
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 6 of 35
+
+under ‘Form B’. The Appellant challenged the same before the Ld. NCLT and
+sought a direction for re-classification of its credit facility extended under
+TReDS as a financial debt. The Ld. NCLT vide the Impugned Order dated
+13.02.2025 rejected the application by the Appellant, on an erroneous basis
+that the same was covered by the decision of this Appellate Tribunal in the
+case of 1M/s. Mudraksh Investfin Private Limited vs. Mr. Brijesh Singh
+Bhadauriya [Company Appeal (AT) (Ins.) No. 1671/ 2023].
+
+11.
+The Ld. NCLT failed to consider any of the grounds raised in the
+Appellant’s application and rejected the application on an incorrect
+presumption that the Appellant’s counsel had conceded to being covered by
+1Mudraksh.
+
+12.
+Aggrieved by the same, the Appellant filed the underlying appeal before
+this Appellate Tribunal on 28.03.2025, which was admitted on 08.05.2025.
+However, while the matter was pending before this Appellate Tribunal, on
+09.10.2025, the Ld. NCLT approved the resolution plan submitted by the
+Respondent No. 2/ SRA without considering the status of credit extended by
+the Appellant under TReDS- either as a financial or operation debt- leaving it
+completely out of consideration.
+
+13.
+The Appellant is a scheduled commercial bank and its activities are
+regulated by sectoral regulators such as the Reserve Bank of India (“RBI”). As
+
+1 M/s. Mudraksh Investfin Private Limited vs. Mr. Brijesh Singh Bhadauriya [Company Appeal
+(AT) (Ins.) No. 1671/ 2023]
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 7 of 35
+
+a scheduled commercial bank, the service provided by the Appellant is limited
+to providing lending facilities to various borrowers. Accordingly, the facility
+extended by the Appellant to the Corporate Debtor was in the nature of a loan
+i.e. a financial debt.
+
+14.
+The Guidelines for Trade Receivables Discounting System (TReDS)
+issued by the RBI dated 02.07.2018, (“RBI Guidelines”) provide clarity on the
+nature of transactions undertaken on the TReDS, salient features of the same
+are summarized below:
+a. Clause 3 of the notification states that the scheme has been set up
+for the benefit of MSMEs.
+
+b. Clause 5 of the notification states that transactions on the TReDS
+platform shall be on a “without recourse” basis to MSMEs (i.e.
+suppliers).
+
+c. Clause 6 (a) of the notification distinguishes factoring transactions
+(i.e. at the behest of the supplier) from reverse factoring transactions
+(i.e. at the behest of the buyer). Crucially, in the present case the
+dispute arises from a reverse factoring transaction.
+
+d. Clause 9 states that the final payment is to be made by the buyer to
+the financier on the due date.
+
+e. Annexure to the RBI Guidelines provides an illustrative outline of
+process flow under TReDS. Clause p) states that the financier will be
+entitled to receive funds from the buyer, while Clause q) states that
+upon non-payment by the buyer on the due date, the financier will
+be enabled to proceed against the buyer. Clause q) makes it clear
+that the non-recourse of the financier is limited to the MSMEs (i.e.
+supplier) and not the buyer.
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 8 of 35
+
+15.
+The Appellant/South Indian bank contends that section 5(8) of the IBC
+squarely applies to the Appellant’s transaction. Transactions undertaken on
+the TReDS platform were governed by the agreements entered between the
+Appellant, the Corporate Debtor and Mynd Platform including the Master
+Financier’s Agreement (“MFA”) and Master Buyer’s Agreement (“MBA”). The
+nature of transaction under the MFA and MBA which clearly showcase that
+the nature of the transaction is a financial debt/ loan:
+Clause
+Provision
+
+1.35 of the
+MFA
+The Definition of Transaction includes all actions
+between the Supplier, Buyer and the Financiers
+
+5.1.2 of the
+MFA
+The Appellant has right to demand payment on the
+trade receivables.
+
+5.1.3 of the
+MFA
+The Appellant has right to charge penal interest.
+5.1.5.1 of the
+MFA
+Discounting of factoring units only without recourse
+to the supplier.
+
+4.1.1 of the
+MBA
+The Factoring Unit is created by the Buyer in case of
+reverse factoring
+
+4.3.2 of the
+MBA
+Buyer shall be unconditionally liable to pay on the due
+date any underlying amounts to the Financier.
+
+4.3.7.2 of the
+MBA
+Discounting of factoring units only without recourse
+to the supplier.
+
+7.3 of the
+MBA
+The Corporate Debtor is obligated to pay the due
+amounts on the stipulated day with expenses and
+interest.
+
+7.5 of the
+MBA
+The Corporate Debtor has to pay interest amount
+computed by the Appellant on any delay or dishonour
+of payment under a Factoring Unit in accordance with
+the Penal Interest Rate
+
+7.11 of the
+MBA
+The Corporate Debtor has also authorized the
+financier to provide notification to the Central Registry
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 9 of 35
+
+of Securitization Asset Reconstruction and Security
+Interest in respect of any Transaction which has been
+discounted by the Appellant.
+
+16.
+The above clauses governing the relationship between the Appellant
+and the Corporate Debtor, demonstrate the following:
+a. Time value of money is built in: The MBA obligates the Corporate
+Debtor to pay due amounts with expenses and interest, and
+separately provides interest/penal interest on delay/dishonour.
+
+b. The transaction is structurally buyer-led finance: Reverse factoring
+is initiated by/anchored to the buyer, and repayment is from the
+buyer’s account on the due date.
+
+c. Commercially, the Financier disburses on behalf of the Corporate
+Debtor to discharge its supplier obligations, hence the disbursal is
+for the benefit of the Corporate Debtor.
+
+d. It is “non-recourse” only with respect to the supplier (MSME) and
+not the buyer (Corporate Debtor)
+
+17.
+In view of the above, it is clear that the nature of the transaction
+between the Appellant and the Corporate Debtor squarely falls within the
+definition of ‘financial debt’ as provided under Section 5(8)(e) of the IBC.
+
+18.
+In any case, the transaction would be covered under Section 5(8)(f)
+which covers any transaction having the commercial effect of borrowing.
+
+19.
+Appellant places its reliance on the judgment of the Hon’ble Supreme
+Court in 2Global Credit Capital Limited vs Sach Marketing [2024 SCC
+
+2 Global Credit Capital Limited vs Sach Marketing [2024 SCC Online SC 649)]
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 10 of 35
+
+Online SC 649)] wherein it was held that when determining the nature of
+debt, it is necessary to ascertain what is the real nature of the transaction
+reflected in the writing which we have discussed in the later sections
+hereinafter.
+
+20.
+The Appellant claims that the decision in the case of 1Mudraksh doesn’t
+apply to the present case. The decision of this Ld. Tribunal in 1Mudraksh is
+contained within its own facts and delivered on the following primary grounds:
+a. There was no disbursement in 1Mudraksh.
+b. The ‘transaction’ in question arose from sale and purchase of goods.
+
+21.
+The relevant paragraph has been extracted below for ease of reference:
+
+“21...The transaction emanates from sale and purchase of goods in the
+present case. No disbursement made to the Corporate Debtor, hence,
+the transactions cannot be held to be a financial debt...”
+
+22.
+With respect to the first ground that no disbursement was provided to
+the Corporate Debtor, this Appellate Tribunal failed to consider the following
+judgements which stipulate that ‘disbursal’ under S.5(8) is not limited to
+disbursals made to the Corporate Debtor but would include disbursals being
+made on its behalf or at its instruction:
+a. 3Rajeev Kumar Jain v. Uno Minda Limited [2024 SCC OnLine
+NCLAT 28] holds that any disbursal made on behalf of the Corporate
+Debtor or at its instructions would be tantamount to a disbursal made
+to the Corporate Debtor as the Corporate Debtor is the ultimate
+beneficiary of such disbursal. [36].
+
+3 Rajeev Kumar Jain v. Uno Minda Limited [2024 SCC OnLine NCLAT 28]
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 11 of 35
+
+b. 4Somesh A. Naik vs Isinox Limited [2023 SCC Online NCLT 91]
+also holds that payments made to suppliers on behalf of a Corporate
+Debtor would be deemed to be a financial debt as it is covered under
+S.5(8)(e) of the IBC which specifically deals with “Receivables Sold or
+Discounted”. [4.6.2, 4.6.4].
+
+23.
+Further, the flaw in the reasoning in 1Mudraksh is that the sale and
+purchase transaction between the Corporate Debtor and the supplier was
+considered, and this Appellate Tribunal based its findings on the purchase
+transaction being the primary transaction between the parties. This Appellate
+Tribunal did not consider the nature of the independent financing/lending
+transaction between the Corporate Debtor and the financier. The financier,
+like the Appellant in the present case, has an independent right under the
+TReDS agreements to demand payment from the buyer and an independent
+obligation to pay the supplier on behalf of the buyer. This transaction is purely
+financial between the Appellant and the Corporate Debtor wherein funds have
+been disbursed by the Appellant at the behest of the Corporate Debtor to
+enable it to pay its suppliers. It has no connection with the business
+operations of the Corporate Debtor or the underlying sale and purchase
+agreement.
+
+24.
+The nature of the transaction between the Corporate Debtor and the
+Appellant continues to remain a lending transaction and does not change
+merely because the funds disbursed by the Appellant are utilized to pay
+suppliers for purchase of goods. The judgment in 1Mudraksh fails to consider
+
+4 Somesh A. Naik vs Isinox Limited [2023 SCC Online NCLT 91]
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 12 of 35
+
+this aspect and the nature of the transaction that exists between the
+Corporate Debtor and a Financier.
+
+25.
+In any case, the judgement in 1Mudraksh did not deal with S.5(8)(e) of
+the IBC (the judgement in 1Mudraksh is restricted to S.5(8)(f)) which clearly
+includes trade receivables within the definition of ‘financial debt’ as long as
+the such trade receivables are with recourse. Since recourse under the MFA
+and MBA exists against the Corporate Debtor (buyer), the lending facilities
+extended by the Appellant are squarely covered within the definition of
+‘financial debt’ under S.5(8)(e) of the IBC.
+
+26.
+The Ld. NCLT did not consider the fact that the decision in 1Mudraksh
+was given in relation to non-banking financial institution, while the Appellant
+is a scheduled commercial bank and is governed by the rules and directions
+issued by RBI. These two entities cannot be equated since they have very
+different working and different applicable sectoral regulators.
+
+27.
+As per the RBI guidelines, non-payment to the banker would be
+tantamount to a default and be reported as such as per regulatory procedures
+and will enable the banker to proceed against the defaulter. Therefore, there
+are specific guidelines which are applicable to the banks/ financial
+institutions in such circumstances. The Appellant also had to book exposure
+on the same. Therefore, the discounting and factoring services were provided
+by the Appellant only as a financial-services with interest and penal charges
+applicable and there can be no direct application of 1Mudraksh herein.
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 13 of 35
+
+28.
+In any event, the decision in
+1Mudraksh might also require
+reconsideration given that there appears to be a difference in opinion between
+different benches in 1Mudraksh and 3Rajeev Kumar Jain of this Appellate
+Tribunal in relation to how a transaction where credit is extended to cover the
+dues to the suppliers is to be treated.
+
+29.
+While the proceedings have been pending before this Appellate
+Tribunal, the Committee of Creditors had approved the resolution plan
+submitted by Respondent No. 2 and the same was also later confirmed by the
+Ld. NCLT vide its order dated 09.10.2025. Therefore, the resolution plan
+doesn’t consider the claim by the Appellant made under the TReDS under
+either of the heads- financial or operational. This is contrary to the law laid
+down in 5Greater Noida Industrial Development Authority vs Prabhjit
+Singh Soni [2024 SCC OnLine SC 122] wherein it has been held that where
+a claim is submitted by a creditor, which is otherwise verifiable, even if in the
+wrong class, the same must be accorded due consideration [¶30]. The same
+hasn’t been done herein.
+
+30.
+Aside from the above, the decision by the Respondent and confirmed by
+the Ld. NCLT has heavily prejudiced the interests of all financial institutions
+acting upon the guidelines issued by RBI for setting up and operating TReDS
+for facilitating the financing of trade receivables of MSMEs from corporates
+through multiple financiers. The same would move them lower in the
+
+5 Greater Noida Industrial Development Authority vs Prabhjit Singh Soni [2024 SCC OnLine SC 122]
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 14 of 35
+
+liquidation waterfall and negatively impact not just the financiers but also
+MSMEs for whose benefit the scheme was introduced.
+
+31.
+Therefore, requested to allow the underlying appeal and set aside the
+Impugned Order passed by the Ld. NCLT.
+Submissions of Successful Resolution Applicant (SRA) - R2
+32.
+SRA claims that it is a Settled law that discounting of invoices is not
+financial debt. The transaction in the present case is a transaction of assignment
+of trade receivables and case of similar facts has already been decided in the case
+of 1Mudraksh by this Hon'ble Tribunal. The Appellant and Mynd Solutions Pvt.
+Ltd. executed a "Master Financiers Agreement dated 09.01.2018", wherein,
+'Transaction' and 'Bidding Process' at Clause 1.35 and Clause 5.1.2 of respectively
+are defined. The clauses are reproduced hereinbelow for ready understanding of
+this Hon'ble Tribunal: -
+"Clause 1.35 - Transaction" shall mean all actions carried out between the
+Supplier. the Buyer, the Buyer's Bank and the Financiers on the M1 Website
+in respect of a Factoring Unit, including but not limited to bidding for the
+Factoring Unit, discounting of the Factoring Unit. transfer of the Bid
+amount, assignment of the Trade Receivables of the Factoring Unit and
+payment of the amount underlying the Factoring Unit on the Due Date and
+shall include all the processes for the rediscounting of an already
+discounted Factoring Unit;
+
+Clause 5.1.2 – Bidding Process – A bid may be placed by the Company
+directly acting on behalf of the Financier (general authorization) in the
+event the Financier has adopted/accepted the Auto-Bid feature described
+more particularly in the Procedural Guidelines. A bid placed through the
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 15 of 35
+
+Auto Bid feature is deemed to be a valid Bid placed by the Financier and
+will be open for acceptance by the Suppliers/Buyer (as the case may be).”
+
+33.
+Even in facts of the case in the judgment of 1Mudraksh, the definition of
+“Transaction” is the same.
+“9.
+‘Transaction’ is defined in Clause 1.35, which is as follows:
+1.35. “Transaction” shall mean all actions carried out between the
+Supplier, the Buyer, the Buyer’s Bank and the Financers on the M1 Website
+in respect of a Factoring Unit, including but not limited to bidding for the
+factoring Unit, discounting of the Factoring Unit, transfer of the Bid
+amount, assignment of the Trade Receivables of the Factoring Unit and
+payment of the amount underlying the Factoring Unit on the Due Date and
+shall also include all the processes for the rediscounting of an already
+discounted Factoring Unit;”
+
+34.
+On perusal of the above stated definitions, it can be clearly seen that the
+definition of the “Transaction” in the present case and in the 1Mudraksh
+judgment is exactly the same. This Hon’ble Tribunal gave the following finding
+in the case of 1Mudraksh, which is reproduced hereinbelow for ready
+understanding: -
+“21. It was held that Section 5 (8) does not expressly exclude an interest free
+loan. The above judgment of the Hon’ble Supreme Court was on entirely
+different facts, where Lender had advanced a loan without any interest. The
+present is not a case of financing any loan, rather present is a case of
+transaction of M1 Platform, on which Platform, both Seller, Buyer and
+Financers are registered and transaction takes place for sale and purchase of
+goods and discounting of invoices, payments and recoveries of payment by
+Financers. The transaction emanates from sale and purchase of goods in the
+present case. No disbursement was made to the Corporate Debtor, hence,
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 16 of 35
+
+the transactions cannot be held to be a financial debt. We do not find any
+error in the order of the Adjudicating Authority agreeing with the view of the
+RP that claim of the Appellant is only an ‘operational debt’.”
+
+35.
+The Successful Resolution Applicant places its reliance on the judgment
+of this Appellate Tribunal in the matter of 6Minions Ventures Pvt. Ltd. Vs.
+TDT Copper Limited, CA (AT) (INS.) No. 572 of 2022, which has been dealt
+with by us herein after in the analysis and evaluation section and contends that
+the Financiers/Appellants entered into shoes of the Seller and had become
+Operational Creditors in terms of Section 5(20) as well as 21(5) and Section 5(7)
+and 5(8)(e) of the Code is not at all applicable.
+
+36.
+SRA also brings to our notice that the Resolution Plan approved by the
+Ld. Adjudicating Authority vide order dated 09.10.2025 is implemented and
+monitoring committee stands dissolved. As such, the Respondent No. 2 herein
+has made the complete payment to the Creditors. It is further submitted that
+the Respondent No. 1 has also filed an application seeking closure of Corporate
+Insolvency Resolution Process of M/s RCI Industries Limited which ceases to
+exist.
+
+37.
+Therefore, it contends to dismiss the captioned appeal.
+Submissions of Resolution Professional/R-1
+38.
+RP claims that the debt is operational in nature and does not qualify as
+a financial debt under the code. The claim of the Appellant arises from
+discounting of trade receivables which were originally payable by the
+
+6 Minions Ventures Pvt. Ltd. Vs. TDT Copper Limited, CA (AT) (INS.) No. 572 of 2022
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 17 of 35
+
+Corporate Debtor to its suppliers for goods supplied in the ordinary course of
+business. Under the TREDS platform operated under the brand name "M1,"
+the suppliers uploaded their invoices for goods supplied to the Corporate
+Debtor. Upon confirmation of these invoices by the Corporate Debtor, the
+Appellant, acting as a factor, bid for such invoices and, once accepted, made
+immediate payment to the suppliers. In this process, the Appellant merely
+stepped into the shoes of the suppliers for the limited purpose of collecting
+the amounts due from the Corporate Debtor. The Corporate Debtor's liability
+remained the same discharge of its trade payables for goods purchased and
+the Appellant's role was confined to financing the suppliers by paying them
+upfront. Importantly, no disbursement was ever made to the Corporate Debtor
+itself, and the Appellant's claim is only in respect of dues originally owed by
+the Corporate Debtor to its suppliers. Thus, debt is operational in nature and
+does not qualify as a financial debt under the code.
+
+39.
+The debts claimed arise entirely from supply of goods and are therefore
+operational in nature as defined under Section 5(21) of the Code. Section 5(20)
+further clarifies that an assignee of such debt also qualifies only as an
+"Operational Creditor." The mere assignment of these dues to the Appellant
+does not alter their character from operational to financial. On the other hand,
+a “Financial Debt” under Section 5(8) of the Code necessarily requires
+disbursement to the Corporate Debtor against consideration for the time value
+of money, which is absent in this case. The Appellant only financed the
+suppliers and not the Corporate Debtor. Accordingly, the Ld. Adjudicating
+Authority has rightly held that the Appellant cannot be treated as a Financial
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 18 of 35
+
+Creditor and that the debt in question is operational in nature, consistent
+with the statutory scheme of the Code.
+
+40.
+Furthermore, the resolution professional claims that the assignment of
+operational debt does not alter its nature. The Appellant's claim arises from
+trade receivables payable by the Corporate Debtor to its suppliers for goods
+supplied in the ordinary course of business. These liabilities are clearly
+operational in nature under Section 5(21) of the Code. The Master Buyer
+Agreement dated 21.12.2018 merely facilitated this mechanism by recording
+that once the receivables were discounted, the Corporate Debtor was to repay
+the financer i.e., the Appellant on the due date. Clause 7.3 of the Agreement
+expressly provides that the Buyer shall pay the monies underlying a
+discounted Factoring Unit to the relevant Financer along with any incidental
+charges, thereby acknowledging the Corporate Debtor's obligation to
+discharge the same. At no point was any amount disbursed to the Corporate
+Debtor, nor was there any element of consideration for the time value of
+money, which is a core requirement under Section 5(8) to constitute financial
+debt.
+
+41.
+It is further pertinent to mention that Clause 4.3.3 of the Master Buyer
+Agreement clearly stipulates the manner in which assignment takes place
+upon acceptance of a bid. The clause provides that once a bid is accepted in
+accordance with the Procedural Guidelines, the Supplier shall execute a Deed
+of Assignment generated on the M1 Website by affixing its digital signature.
+Upon such execution, all underlying Trade Receivables stand absolutely
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 19 of 35
+
+assigned, transferred, and sold to the Financier, who becomes the full legal
+and beneficial owner thereof, with exclusive rights to recover and institute
+proceedings in its own name. The clause further clarifies that such rights are
+conferred on the Financier in its own capacity as assignee and purchaser.
+
+42.
+The character of the liability under the Code is determined by the
+substance of the underlying transaction and not by the identity of the party
+enforcing the claim. Here, the transaction remains squarely within the realm
+of an operational liability despite its assignment. The assignment only
+transferred the receivables from the suppliers to the Appellant, who thereby
+acquired the right to recover the same as an Operational Creditor. It is a
+settled position in law that the assignment of debt does not alter its nature.
+Consequently, the Adjudicating Authority has rightly held that the Appellant
+cannot claim the status of a Financial Creditor, as assignment of operational
+debt cannot metamorphose it into financial debt.
+
+43.
+The controversy raised herein stands conclusively settled by the
+judgment of this Hon'ble Appellate Tribunal in 1Mudraksh. In that case, an
+NBFC engaged in factoring through the TREDS platform had raised an
+identical plea that amounts due under discounted invoices constituted
+"Financial Debt" by virtue of the assignment of receivables. This Hon'ble
+Appellate Tribunal, after examining the substance of the transaction,
+categorically held that no disbursement was ever made to the Corporate
+Debtor and that the underlying liability emanated from supply of goods. It
+was accordingly held that such claims constitute "Operational Debt” only and
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 20 of 35
+
+assignment does not alter their character. The facts of the present case are
+on all fours with the 1Mudraksh matter: (i) the claim arises from invoice
+discounting on the TREDS platform, (ii) no loan or disbursement was made
+to the Corporate Debtor, (iii) the liability is traceable to trade payables owed
+to suppliers, and (iv) the claim was filed under Form C asserting Financial
+Creditor status, which was rightly rejected. The Ld. Adjudicating Authority
+has therefore correctly applied the ratio of 1Mudraksh and rejected the
+Appellant's claim as financial debt. The Impugned Order is thus in complete
+conformity with binding precedent and warrants no interference.
+
+44.
+The regulatory status of the Appellant as Scheduled Commercial Bank
+is irrelevant for determining the nature of the debt, under the Code the
+character of debt depends on the substance of the underlying transaction, not
+the identity of the claimant. It is again reiterated that Corporate Debtor's
+Liability arose from the trade payables in the ordinary course of business, and
+the Appellant merely acquired these receivables through TREDS; such
+assignment does not change the debt's operational nature. Consequently, the
+Appellant cannot claim financial creditor merely due to RBI regulation, and
+the Impugned Order correctly rejected the attempt to reclassify an operational
+Debt as a financial debt.
+
+45.
+No disbursement was ever made to the corporate debtor which is core
+requirement of financial debt not satisfied. A financial debt under Section 5(8)
+of the Code requires disbursement of funds to the Corporate Debtor for
+consideration of time value of money; without such disbursement, no lender
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 21 of 35
+
+borrower relationship can arise. In the present case, the Appellant made no
+disbursement to the Corporate Debtor, as payments were made directly to
+suppliers under the TREDS mechanism to settle trade dues. By acquiring
+receivables through assignment, the Appellant merely stepped into the shoes
+of the suppliers, and such assignment does not alter the operational nature
+of the debt under Sections 5 (20) and 5 (21) of the Code. Since, the essential
+requirement of disbursement to the Corporate Debtor is absent, the claim
+cannot be classified as financial debt, and the Impugned Order correctly
+rejected the Appellant's claim, rendering the Appeal without merit.
+
+46.
+Resolution Professional does not have jurisdiction to reconsider or
+reverse his earlier decision suo motu when the matter was sub judice. The
+Appellant later filed its claim in Form B on 13.03.2025, dated 12.03.2025, as
+an Operational Creditor, after the Resolution Plan had already been approved
+by the members of the CoC on 05.06.2024 and filed before the Hon'ble NCLT
+for its approval 07.09.2024. At that stage, the Resolution Professional had no
+authority or jurisdiction to revisit, entertain, or re-classify the said claim,
+particularly when the issue was already pending adjudication before the Ld.
+Adjudicating Authority. Once the matter is sub judice, no authority can alter
+its position on the same issue, as doing so would violate judicial discipline
+and the doctrine of sub judice. The Resolution Professional's role under the
+Code is administrative and non-adjudicatory, and he cannot override or
+interfere with matters pending before the Adjudicating Authority under
+Section 60(5).
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 22 of 35
+
+47.
+In view of the above submissions, it is prayed to dismiss the captioned
+Appeal being devoid of any merit.
+Analysis and evaluation
+48.
+We have heard the counsels of both sides and also perused the material
+placed on record. The principal issue that falls for determination in this appeal
+is whether the credit facility extended by the Appellant/South Indian Bank to
+the Corporate Debtor/RCI Industries on the TReDS platform, on a reverse-
+factoring basis — under which the Appellant discounted and paid the
+Corporate Debtor's suppliers' invoices and took assignment of the underlying
+trade receivables — constitutes ‘financial debt' within the meaning of Section
+5(8) of the Code, or is ‘operational debt' within the meaning of Section 5(21)
+of the Code.
+
+49.
+Ancillary to the above issue, the following points also arise:
+ Whether 1Mudraksh(supra), rendered by this Tribunal in relation to
+the very same Corporate Debtor and the very same TReDS
+mechanism, is squarely applicable, and whether the distinctions
+sought to be drawn by the Appellant — the applicability of Section
+5(8)(e) as opposed to only Section 5(8)(f), the “disbursal on behalf of”
+argument, and the Appellant's status as a scheduled commercial
+bank — are sufficient to distinguish it;
+
+ Whether the Adjudicating Authority erred in dismissing I.A. No.
+3206 of 2023 on the footing that the Appellant had conceded to being
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 23 of 35
+
+covered by 1Mudraksh, and, if so, whether that vitiates the
+Impugned Order;
+
+ Whether the principle in 5Greater Noida v. Prabhjit Singh Soni —
+that a verifiable claim, even if in the wrong class, must be considered
+— avails the Appellant in the facts of this case; and
+
+ Whether, the resolution plan having since been approved and fully
+implemented, any relief can now be granted to the Appellant, or
+whether the appeal has been rendered infructuous.
+Statutory scheme per IBC - how it applies to TReDS
+50.
+Section 5(8) of the Code extracted as below.
+
+XXX
+Section 5. Definitions.
+In this Part, unless the context otherwise requires, --
+...
+(8) “financial debt” means a debt along with interest, if any, which is
+disbursed against the consideration for the time value of money
+and includes--
+
+(a)
+money borrowed against the payment of interest;
+
+(b)
+any amount raised by acceptance under any acceptance
+credit facility or its de-materialised equivalent;
+
+(c)
+any amount raised pursuant to any note purchase facility
+or the issue of bonds, notes, debentures, loan stock or any
+similar instrument;
+
+(d)
+the amount of any liability in respect of any lease or hire
+purchase contract which is deemed as a finance or capital
+lease under the Indian Accounting Standards or such
+other accounting standards as may be prescribed;
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 24 of 35
+
+(e)
+receivables sold or discounted other than any receivables
+sold on non-recourse basis;
+
+(f)
+any amount raised under any other transaction, including
+any forward sale or purchase agreement, having the
+commercial effect of a borrowing;
+
+[Explanation:
+For the purposes of this sub-clause, --
+(i)
+any amount raised from an allottee under a real
+estate project shall be deemed to be an amount
+having the commercial effect of a borrowing; and
+
+(ii)
+the expressions, allottee and real estate project shall
+have the meanings respectively assigned to them in
+clauses (d) and (zn) of section 2 of the Real Estate
+(Regulation and Development) Act, 2016 (16 of
+2016);]
+
+(g)
+any derivative transaction entered into in connection with
+protection against or benefit from fluctuation in any rate
+or price and for calculating the value of any derivative
+transaction, only the market value of such transaction
+shall be taken into account;
+
+(h)
+any counter-indemnity obligation in respect of a
+guarantee, indemnity, bond, documentary letter of credit
+or any other instrument issued by a bank or financial
+institution;
+
+(i)
+the amount of any liability in respect of any of the
+guarantee or indemnity for any of the items referred to in
+sub-clauses (a) to (h) of this clause;
+XXX
+
+51.
+We observe that Section 5(8) of the Code defines “financial debt” as a
+debt disbursed against the consideration for the time value of money, and
+includes, by way of illustration, specific categories such as money borrowed
+against interest (clause (a)), amounts raised under any transaction having the
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 25 of 35
+
+commercial effect of a borrowing (clause (f) ), and the amount of any liability
+in respect of any of the guarantees or indemnities for the foregoing and others
+as noted above.
+
+52.
+Furthermore, Section 5(21) of the Code defines “operational debt” as a
+claim in respect of the provision of goods or services, including employment.
+Related is the assignment of operational debt, which is defined in Section
+5(20) that provides that a person to whom an operational debt is legally
+assigned or transferred is an “Operational Creditor.”
+
+53.
+We note that the common thread that runs through every limb of
+Section 5(8), including its illustrative sub-clauses, is disbursal against the
+consideration for the time value of money; where that touchstone is absent, a
+transaction does not become financial debt merely because it can be dressed
+in the language of one of the illustrative sub-clauses.
+
+54.
+On the facts, which are not seriously in dispute, the mechanics of the
+transaction are noted herein in this paragraph. Corporate Debtor's suppliers,
+having supplied goods in the ordinary course of business, uploaded their
+invoices onto the M1 platform. Upon confirmation by the Corporate Debtor as
+a buyer, the Appellant bid for and discounted the invoices, paying the
+suppliers immediately. The suppliers, in turn, executed Deeds of Assignment
+transferring the trade receivables to the Appellant. At no stage did any sum
+pass from the Appellant to the Corporate Debtor. What the Appellant
+acquired, by assignment, was the very same right the suppliers already
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 26 of 35
+
+possessed — the right to be paid the price of goods sold and delivered. The
+obligation of the Corporate Debtor to pay the Appellant on the due date is not
+a fresh or independent obligation created by a loan; it is the very same trade
+payable that always existed, now owed to an assignee instead of to the original
+supplier.
+
+55.
+In the background of the above noted mechanics of the working of the
+TReDS system, we are unable to accept the Appellant's submission that this
+arrangement is, in substance, buyer-led lending independent of the
+underlying sale of goods for the reasons noted herein after. The Bank points
+to the “time value of money” element due to the discount, and to interest for
+delay. But we find this is ordinary compensation, a compensation a financier
+earns for paying a trade receivable early. It is not a consideration for a loan.
+It is not money given to let the Corporate Debtor raise funds it did not
+otherwise have. This is the very distinction Sections 5(20) and 5(21) draw. An
+assignee of an operational debt remains an Operational Creditor. The fact that
+the assignee agreed to pay early, at a discount, does not change this. If the
+law were otherwise, every factoring arrangement would convert operational
+debt into financial debt. That cannot be right. Section 5(20) prevents such
+situations.
+
+56.
+An important judgment on factoring services is 1Mudraksh, which has
+been relied upon by the adjudicating authority and is also relied upon by the
+respondents. In 1Mudraksh this appellate tribunal held as follows:
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 27 of 35
+
+“21. It was held that Section 5 (8) does not expressly exclude an interest
+free loan. The above judgment of the Hon’ble Supreme Court was on
+entirely different facts, where Lender had advanced a loan without any
+interest. The present is not a case of financing any loan, rather present is a
+case of transaction of M1 Platform, on which Platform, both Seller, Buyer
+and Financers are registered and transaction takes place for sale and
+purchase of goods and discounting of invoices, payments and recoveries of
+payment by Financers. The transaction emanates from sale and purchase
+of goods in the present case. No disbursement was made to the Corporate
+Debtor, hence, the transactions cannot be held to be a financial debt. We
+do not find any error in the order of the Adjudicating Authority agreeing
+with the view of the RP that claim of the Appellant is only an ‘operational
+debt’.”
+
+57.
+In the above noted case, we observe that an NBFC engaged in factoring
+through the TREDS platform had raised an identical plea that amounts due
+under discounted invoices constituted "Financial Debt" by virtue of the
+assignment of receivables. After examining the substance of the transaction,
+it was held no disbursement was ever made to the Corporate Debtor and that
+the underlying liability emanated from supply of goods. It was accordingly
+held that such claims constitute "Operational Debt” only and assignment does
+not alter their character. The facts of the present case are similar as here also
+(i) the claim arises from invoice discounting on the TREDS platform, (ii) no
+loan or disbursement was made to the Corporate Debtor, (iii) the liability is
+traceable to trade payables owed to suppliers, and (iv) the claim was filed
+under Form C asserting Financial Creditor status, which was rightly rejected.
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 28 of 35
+
+58.
+We thus find that the Adjudicating Authority has correctly applied the
+ratio of 1Mudraksh and rejected the Appellant's claim as financial debt. The
+Impugned Order is thus in complete conformity with binding precedent and
+warrants no interference on this argument.
+
+59.
+Further, we observe that this Appellate Tribunal in the matter of
+6"Minions Ventures(supra), dealt with similar set of facts. The issue before
+this Tribunal in "Minions" case was "whether the Appellants in the second
+appeal (Financiers) are the Financial Creditors as against the Corporate Debtor
+or have stepped in to shoes of the Seller as an Operational Creditors and as
+such application filed by the Appellants in the second appeal under Section 7
+of the Code has rightly been held to be not maintainable and were rightly
+relegated to avail their remedy of filing the application under Section 9 of the
+Code.?" This Appellate Tribunal answered in favour of Resolution Professional
+therein and held as follows: -
+"13.......In this transaction, the money was never disbursed much less for
+the time value as a financial debt to the Corporate Debtor and by virtue of
+discounting the invoice of the Seller of an amount of Rs.3,42,03,903/- for
+amount of Rs.1,75,23,133/- the Financiers/Appellants entered into shoes
+of the Seller and had become Operational Creditors in terms of Section
+5(20) as well as 21(5) and Section 5(7) and 5(8)(e) of the Code is not at all
+applicable.”
+
+60.
+Thus, we find that the finding in 6Minions — that TReDS-type
+financiers’ step into the shoes of sellers and become Operational Creditors,
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 29 of 35
+
+such that recourse under Section 7 is unavailable to them — independently
+reinforces the same conclusion.
+
+61.
+We do not find the distinctions sought to be drawn by the Appellant to
+be substantial. First, the submission that 1Mudraksh proceeded only under
+Section 5(8)(f) and not Section 5(8)(e) does not assist the Appellant: whichever
+illustrative sub-clause is invoked, the overriding requirement of Section 5(8)
+— disbursal against consideration for the time value of money, to the
+Corporate Debtor — remains unmet on these facts for the reasons noted
+above. Second, the submission that disbursal to the supplier “on behalf of” or
+“at the instance of” the Corporate Debtor should be treated as disbursal to
+the Corporate Debtor conflates the mode of payment with the character of the
+underlying liability: the money was paid to discharge a trade debt that the
+Corporate Debtor already owed for goods received: it was not paid to place
+funds at the Corporate Debtor's disposal for its own use.
+
+62.
+3Rajeev Kumar Jain (supra), relied on by the Appellant, does not arise
+from a structured, tripartite invoice-discounting platform of the present kind
+and does not purport to override the independent, non-negotiable
+requirement of consideration for the time value of money running to the
+corporate debtor; it is accordingly distinguishable and cannot be read as
+creating a conflict with 1Mudraksh.
+
+63.
+Furthermore 4Somesh A. Naik v. Isinox Ltd. (supra) being an order of
+the NCLT cannot be relied upon to depart from 1Mudraksh.
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 30 of 35
+
+64.
+Furthermore, the fact that the Appellant is a scheduled commercial
+bank governed by RBI's sectoral prudential framework, as opposed to a non-
+banking financial company, has no bearing on the classification exercise
+under Section 5(8), which turns on the substance of the transaction between
+the specific parties and not on the general regulatory character of the
+claimant; an identical transaction does not change its character under the
+Code depending on whether the financier happens to be a bank or an NBFC.
+
+65.
+We have considered 2Global Credit Capital Ltd. v. Sach Marketing
+Pvt. Ltd. (supra), on which the Appellant places considerable emphasis. The
+principle it enunciates — that the Adjudicating Authority must look to the
+real nature of a transaction as reflected in the parties' documents, and not
+merely to the label attached to it — is unexceptionable. In fact the same
+principle has been applied by us as noted above. We observe that the
+substance of the present transaction discloses a mechanism for early,
+discounted realisation of pre-existing trade payables through a regulated
+invoice-exchange platform, and not a lending relationship independent of the
+underlying sale of goods. Properly applied, therefore, 2Global Credit Capital
+does not assist the Appellant; if anything, an honest application of its own
+methodology to the documents on this record confirms the operational
+character of the debt.
+
+66.
+We accordingly hold that the transaction between the Appellant and the
+Corporate Debtor under the TReDS mechanism does not constitute ‘financial
+debt' within the meaning of Section 5(8) of the Code, that the Appellant, upon
+
+[PAGE 31]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 31 of 35
+
+assignment of its suppliers' receivables, correctly falls to be treated as an
+Operational Creditor under Sections 5(20) and 5(21), and that the Resolution
+Professional's communication dated 18.12.2022 and the Impugned Order
+upholding that classification are correct in law.
+
+67.
+The Appellant/Bank says the Impugned Order proceeded on a wrong
+basis that its counsel had conceded to being covered by 1Mudraksh (supra)
+and thus vitiates the Impugned Order. Appellant/Bank contends that the
+Adjudicating Authority wrongly recorded a concession by its counsel. We need
+not decide if this is true. Even if we assume it is true, it makes no difference
+as we have examined the merits ourselves, independently and have reached
+the very same result the Adjudicating Authority reached. And we find that the
+claim is operational, not financial. An order that reaches the right result
+cannot be set aside for a small error in its reasoning. This is so where that
+error, even if real, changed nothing. It did not affect the outcome. Thus, it
+does not call for interference in appeal.
+
+68.
+We have also considered the Appellant's reliance on 5Greater Noida
+Industrial Development Authority v. Prabhjit Singh Soni (supra) for the
+proposition that a claim, even if lodged under the wrong head, must
+nonetheless be given due consideration and cannot simply be left out of the
+resolution plan altogether. We accept the principle, but it does not help the
+Bank/Appellant on the facts before us. Firstly, this judgment was pronounced
+during the year 2024 and the correspondence in the facts of the present case
+relate to the year 2022. Even then we find that the Resolution Professional
+
+[PAGE 32]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 32 of 35
+
+did not ignore the Appellant's claim; he classified it, by a reasoned
+communication dated 18.12.2022, as operational debt, and expressly directed
+the Appellant to file it in Form B so that it could be considered, and provided
+for, in that category. It was the Appellant's own choice, pursued over more
+than two years, to decline to file in Form B and to insist instead only on
+financial-creditor status, electing to litigate the classification question in I.A.
+No. 3206 of 2023 rather than protect its position in both categories. The
+Appellant filed its claim in Form B only on 12/13.03.2025 — after the
+Impugned Order dismissing I.A. 3206/2023 (13.02.2025), and well after the
+CoC had already approved the resolution plan (05.06.2024) and the approval
+application had been filed before the Adjudicating Authority (07.09.2024). On
+these facts, the omission of the Appellant's claim from the plan is attributable
+not to any illegality in the classification exercise or in the CIRP, but to the
+Appellant's own delay in complying with a classification. It was, at all times,
+at liberty to comply with under protest while pursuing its legal challenge.
+
+69.
+We observe that 5Greater Noida cannot be read to require a resolution
+plan to provide for a claim that a creditor has, by its own choice, declined to
+timely lodge in the correct category. We also record, in agreement with the
+submission of Respondent No. 1, that once the plan stood approved by the
+CoC and an application for its approval was pending before the Adjudicating
+Authority, it was not open to the Resolution Professional to suo motu revisit
+a classification that was, at that very time, sub judice before the Adjudicating
+
+[PAGE 33]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 33 of 35
+
+Authority in I.A. 3206/2023; judicial discipline required that the question
+abide the outcome of that proceeding, which is precisely what occurred.
+
+70.
+Independently of our findings on the merits of the classification issue,
+we note that the resolution plan of the SRA was approved by the Adjudicating
+Authority on 09.10.2025, during the pendency of this appeal, and admittedly
+stands fully implemented. We are informed payments have been made to
+creditors in terms of the plan and the Monitoring Committee has been
+dissolved. It is well settled that a resolution plan, once approved and
+implemented, attains a binding and largely irreversible character. It cannot
+ordinarily be reopened or unsettled at the instance of a claimant except within
+the narrow limits of Section 61(3) of the Code. The Appellant/Bank has not
+brought its case within those limits, for the reasons noted here in earlier. To
+now direct reclassification would upset a completed insolvency resolution
+process. It would also prejudice creditors who acted in good faith and would
+also prejudice the SRA too. We will not take this course, especially so where
+the underlying claim itself fails on merits. This constitutes an independent
+and additional ground on which no relief can be granted to the Appellant in
+this appeal.
+Conclusions
+71.
+For the reasons recorded above, we hold:
+ that the credit facility extended by the Appellant to the Corporate
+Debtor under the TReDS reverse-factoring mechanism is operational
+debt within the meaning of Section 5(21) of the Code, and not financial
+debt within the meaning of Section 5(8);
+
+[PAGE 34]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 34 of 35
+
+ that this conclusion is reinforced by, and consistent with, this
+Tribunal's decisions in Mudraksh Investfin Pvt. Ltd. v. Brijesh Singh
+Bhadauriya and Minions Ventures Pvt. Ltd. v. TDT Copper Ltd.
+(both supra), and is not displaced by Global Credit Capital Ltd. v.
+Sach Marketing Pvt. Ltd., Rajeev Kumar Jain v. Uno Minda Ltd., or
+Somesh A. Naik v. Isinox Ltd. (all supra), each of which is either
+distinguishable on facts or does not, on a proper application of its own
+ratio, assist the Appellant;
+
+ that Greater Noida Industrial Development Authority v. Prabhjit
+Singh Soni (supra), pronounced in later point of time, does not assist
+the Appellant, whose claim was never omitted from consideration but
+was, on the Appellant's own election, never timely lodged in the correct
+category; and
+
+ that the manner of disposal of I.A. 3206/2023, even if one of its stated
+reasons is disputed, does not vitiate a conclusion independently and
+correctly arrived at on the merits;
+
+ that, in any event, the resolution plan having since been approved and
+fully implemented, with the Monitoring Committee dissolved, no relief
+that would unsettle that completed process can now be granted. The
+Impugned Order dated 13.02.2025 does not warrant any interference,
+and the appeal, being devoid of merit, is liable to be dismissed.
+
+[PAGE 35]
+Company Appeal (AT) (Insolvency) No. 597 of 2025 35 of 35
+
+Orders
+72.
+Based on the above analysis the appeal is dismissed. The Impugned
+Order dated 13.02.2025 passed by the Adjudicating Authority in I.A. No. 3206
+of 2023 in CP(IB) No. 2688(ND)/2019 is affirmed.
+
+73.
+It is clarified that this judgment does not preclude the Appellant from
+pursuing, in accordance with law, its claim in such manner and to such
+extent as may be permissible before the appropriate forum, and nothing
+herein shall be read as an expression of opinion on the merits or
+maintainability of that claim. All related IAs are also disposed of as per this
+order. No order as to costs.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+New Delhi.
+July 29, 2026.
+
+pawan

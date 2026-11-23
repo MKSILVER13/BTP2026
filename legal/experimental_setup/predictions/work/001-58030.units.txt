@@ -1,0 +1,113 @@
+# FILE 001-58030.txt  n_chars=84731  units=573  paragraphs=184
+# SCOPE: legal reasoning starts at char 42151 (unit u350) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 59184 (unit u456) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 42151 hidden (facts/procedure; use --show-all to see them) --
+u350 p121  [42151-42164) H | AS TO THE LAW
+u351 p122  [42165-42258) H | I. ALLEGED VIOLATION OF ARTICLE 6 PARAS. 1 AND 3 (d) OF THE CONVENTION (art. 6-1, art. 6-3-d)
+u352 p123 ¶46 [42263-42475) | The applicants complained that their conviction had been based essentially on the evidence of police officers whose identity was not disclosed to them and who were not heard either in public or in their presence.
+u353 p123  [42476-42576) | They alleged a violation of Article 6 paras. 1 and 3 (d) (art. 6-1, art. 6-3-d), according to which:
+u354 p123  [42577-42580) Q | "1.
+u355 p123  [42581-42695) Q | In the determination of ... any criminal charge against him, everyone is entitled to a fair and public hearing ...
+u356 p123  [42696-43135) Q | Judgment shall be pronounced publicly but the press and public may be excluded from all or part of the trial in the interest of morals, public order or national security in a democratic society, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
+u357 p123  [43136-43139) | ...
+u358 p124 ¶3 [43143-43217) | Everyone charged with a criminal offence has the following minimum rights:
+u359 p124  [43218-43221) | ...
+u360 p124  [43222-43399) | (d) to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;
+u361 p124  [43400-43404) | ..."
+u362 p124  [43405-43464) | Neither the Government nor the Commission shared this view.
+u363 p125  [43465-43494) H | A. Arguments before the Court
+u364 p126 ¶47 [43499-43590) | The applicants questioned the need to maintain the anonymity of the police officers at all.
+u365 p126  [43591-43668) | There had in their contention not been any danger for them or their families.
+u366 p126  [43669-43942) | This was borne out by the fact that Mr Engelen, the one named witness who in the earlier stages of the proceedings had made statements incriminating one of the applicants, had not been granted anonymity and it had not been suggested that he had at any time been threatened.
+u367 p126  [43943-44067) | Moreover, the interrogation of the witnesses should in their contention not have taken place before the investigating judge.
+u368 p126  [44068-44192) | It would in their view have been feasible to have the police officers questioned in open court, wearing disguise if need be.
+u369 p126  [44193-44323) | In addition, the applicants considered that they had not had sufficient opportunity to challenge and question the police officers.
+u370 p126  [44324-44435) | They drew attention to the conditions under which the interrogation of the anonymous witnesses had taken place.
+u371 p126  [44436-44726) | The anonymous police officers had been confined in a room with the investigating judge, separated from the applicants and their lawyers; it had not been possible for the applicants or their lawyers to discover whether there had been any other person in that room or what was going on there.
+u372 p126  [44727-44788) | Not all the questions asked by the defence had been answered.
+u373 p126  [44789-45072) | Questions not answered had included, for instance, where the police officer being interrogated had been at the time he made his observation, whether he wore spectacles, and whether the observation of the caravan sites had involved the use of optical aids or a directional microphone.
+u374 p126  [45073-45210) | Finally, the applicants claimed that their conviction had been based "to a decisive extent" on the evidence given by anonymous witnesses.
+u375 p126  [45211-45349) | The only evidence relied on by the Court of Appeal positively identifying the applicants had been that given by anonymous police officers.
+u376 p127 ¶48 [45354-45492) | The Government and the Commission both considered that there had been no violation of Article 6 paras. 1 and 3 (d) (art. 6-1, art. 6-3-d).
+u377 p127  [45493-45723) | They both considered that the safety of the police officers themselves and their families, and the need not to impair their usefulness in other similar operations, provided sufficient justification for maintaining their anonymity.
+u378 p127  [45724-45978) | The procedure followed had been that established by the Netherlands Supreme Court in its judgment of 2 July 1990 (see paragraph 40 above) in the wake of the European Court’s judgment in the Kostovski case (judgment of 20 November 1989, Series A no. 166).
+u379 p127  [45979-46154) | This procedure, so they argued, had been accepted by the Court in its Doorson judgment (Doorson v. the Netherlands, 26 March 1996, Reports of Judgments and Decisions 1996-II).
+u380 p127  [46155-46643) | In accordance with this procedure, the statements of the anonymous police officers had been taken down (a) by a judge, who (b) had himself ascertained the identity of the police officers concerned, (c) had given a written opinion of their reliability and credibility in his official report, (d) had given a reasoned opinion of their reasons to remain anonymous and found them sufficient, and (e) had given the defence sufficient opportunity to question them or have questions put to them.
+u381 p127  [46644-46731) | The official report of the investigating judge, which was very detailed, bore this out.
+u382 p127  [46732-46982) | There had in addition been evidence from non-anonymous sources, namely a recorded telephone conversation, statements of named police officers and certain technical evidence, which tended to corroborate the statements of the anonymous police officers.
+u383 p127  [46983-47071) | The conviction of the applicants did therefore not rest solely on the latter statements.
+u384 p128  [47072-47097) H | B. The Court’s assessment
+u385 p129  [47098-47122) H | 1. Applicable principles
+u386 p130 ¶49 [47127-47490) | As the requirements of Article 6 para. 3 (art. 6-3) are to be seen as particular aspects of the right to a fair trial guaranteed by Article 6 para. 1 (art. 6-1), the Court will examine the complaints under Article 6 paras. 1 and 3 (d) taken together (art. 6-1+6-3-d) (see, among many other authorities, the above-mentioned Doorson judgment, pp. 469-70, para. 66).
+u387 p131 ¶50 [47495-47691) | The Court reiterates that the admissibility of evidence is primarily a matter for regulation by national law and as a general rule it is for the national courts to assess the evidence before them.
+u388 p131  [47692-48032) | The Court’s task under the Convention is not to give a ruling as to whether statements of witnesses were properly admitted as evidence, but rather to ascertain whether the proceedings as a whole, including the way in which evidence was taken, were fair (see, among other authorities, the above-mentioned Doorson judgment, p. 470, para. 67).
+u389 p132 ¶51 [48037-48182) | In addition, all the evidence must normally be produced at a public hearing, in the presence of the accused, with a view to adversarial argument.
+u390 p132  [48183-48621) | There are exceptions to this principle, but they must not infringe the rights of the defence; as a general rule, paragraphs 1 and 3 (d) of Article 6 (art. 6-1, art. 6-3-d) require that the defendant be given an adequate and proper opportunity to challenge and question a witness against him, either when he makes his statements or at a later stage (see the Lüdi v. Switzerland judgment of 15 June 1992, Series A no. 238, p. 21, para. 49).
+u391 p133 ¶52 [48626-48848) | As the Court had occasion to state in its Doorson judgment (ibid., p. 470, para. 69), the use of statements made by anonymous witnesses to found a conviction is not under all circumstances incompatible with the Convention.
+u392 p134 ¶53 [48853-48905) | In that same judgment the Court noted the following:
+u393 p134  [48906-49099) Q | "It is true that Article 6 (art. 6) does not explicitly require the interests of witnesses in general, and those of victims called upon to testify in particular, to be taken into consideration.
+u394 p134  [49100-49259) Q | However, their life, liberty or security of person may be at stake, as may interests coming generally within the ambit of Article 8 of the Convention (art. 8).
+u395 p134  [49260-49526) Q | Such interests of witnesses and victims are in principle protected by other, substantive provisions of the Convention, which imply that Contracting States should organise their criminal proceedings in such a way that those interests are not unjustifiably imperilled.
+u396 p134  [49527-49720) Q | Against this background, principles of fair trial also require that in appropriate cases the interests of the defence are balanced against those of witnesses or victims called upon to testify."
+u397 p134  [49721-49781) | (see the above-mentioned Doorson judgment, p. 470, para. 70)
+u398 p135 ¶54 [49786-49951) | However, if the anonymity of prosecution witnesses is maintained, the defence will be faced with difficulties which criminal proceedings should not normally involve.
+u399 p135  [49952-50277) | Accordingly, the Court has recognised that in such cases Article 6 para. 1 taken together with Article 6 para. 3 (d) of the Convention (art. 6-1+6-3-d) requires that the handicaps under which the defence labours be sufficiently counterbalanced by the procedures followed by the judicial authorities (ibid., p. 471, para. 72).
+u400 p136 ¶55 [50282-50439) | Finally, it should be recalled that a conviction should not be based either solely or to a decisive extent on anonymous statements (ibid., p. 472, para. 76).
+u401 p137  [50440-50478) H | 2. Application of the above principles
+u402 p138 ¶56 [50483-50721) | In the Court’s opinion, the balancing of the interests of the defence against arguments in favour of maintaining the anonymity of witnesses raises special problems if the witnesses in question are members of the police force of the State.
+u403 p138  [50722-50951) | Although their interests - and indeed those of their families - also deserve protection under the Convention, it must be recognised that their position is to some extent different from that of a disinterested witness or a victim.
+u404 p138  [50952-51184) | They owe a general duty of obedience to the State’s executive authorities and usually have links with the prosecution; for these reasons alone their use as anonymous witnesses should be resorted to only in exceptional circumstances.
+u405 p138  [51185-51337) | In addition, it is in the nature of things that their duties, particularly in the case of arresting officers, may involve giving evidence in open court.
+u406 p139 ¶57 [51342-51746) | On the other hand, the Court has recognised in principle that, provided that the rights of the defence are respected, it may be legitimate for the police authorities to wish to preserve the anonymity of an agent deployed in undercover activities, for his own or his family’s protection and so as not to impair his usefulness for future operations (see the above-mentioned Lüdi judgment, p. 21, para. 49).
+u407 p140 ¶58 [51751-51940) | Having regard to the place that the right to a fair administration of justice holds in a democratic society, any measures restricting the rights of the defence should be strictly necessary.
+u408 p140  [51941-52019) | If a less restrictive measure can suffice then that measure should be applied.
+u409 p141 ¶59 [52024-52191) | In the present case, the police officers in question were in a separate room with the investigating judge, from which the accused and even their counsel were excluded.
+u410 p141  [52192-52231) | All communication was via a sound link.
+u411 p141  [52232-52501) | The defence was thus not only unaware of the identity of the police witnesses but were also prevented from observing their demeanour under direct questioning, and thus from testing their reliability (see the above-mentioned Kostovski judgment, p. 20, para. 42 in fine).
+u412 p142 ¶60 [52506-52760) | It has not been explained to the Court’s satisfaction why it was necessary to resort to such extreme limitations on the right of the accused to have the evidence against them given in their presence, or why less far-reaching measures were not considered.
+u413 p142  [52761-52900) | In the absence of any further information, the Court cannot find that the operational needs of the police provide sufficient justification.
+u414 p142  [52901-53140) | It should be noted that the explanatory memorandum of the bill which became the Act of 11 November 1993 (see paragraph 42 above) refers in this connection to the possibilities of using make-up or disguise and the prevention of eye contact.
+u415 p143 ¶61 [53145-53300) | Nor is the Court persuaded that the Court of Appeal made sufficient effort to assess the threat of reprisals against the police officers or their families.
+u416 p143  [53301-53514) | It does not appear from that court’s judgment that it sought to address the question whether the applicants would have been in a position to carry out any such threats or to incite others to do so on their behalf.
+u417 p143  [53515-53618) | Its decision was based exclusively on the seriousness of the crimes committed (see paragraph 26 above).
+u418 p143  [53619-53923) | In this connection, it is to be noted that Mr Engelen, a civilian witness who in the early stages of the proceedings had made statements identifying one of the applicants as one of the perpetrators, did not enjoy the protection of anonymity and it has not been claimed that he was at any time threatened.
+u419 p144 ¶62 [53928-54307) | It is true - as noted by the Government and the Commission (see paragraph 48 above) - that the anonymous police officers were interrogated before an investigating judge, who had himself ascertained their identity and had, in a very detailed official report of his findings, stated his opinion on their reliability and credibility as well as their reasons for remaining anonymous.
+u420 p144  [54308-54517) | However these measures cannot be considered a proper substitute for the possibility of the defence to question the witnesses in their presence and make their own judgment as to their demeanour and reliability.
+u421 p144  [54518-54638) | It thus cannot be said that the handicaps under which the defence laboured were counterbalanced by the above procedures.
+u422 p145 ¶63 [54643-54848) | Moreover, the only evidence relied on by the Court of Appeal which provided positive identification of the applicants as the perpetrators of the crimes were the statements of the anonymous police officers.
+u423 p145  [54849-54959) | That being so the conviction of the applicants was based "to a decisive extent" on these anonymous statements.
+u424 p146 ¶64 [54964-55479) | In the Court’s view, the present case falls to be distinguished from that of Doorson: in the latter case it was decided on the basis of information contained in the case file itself that the witnesses Y.15 and Y.16 - who were both civilians, and who knew the accused personally - had sufficient reason to believe that he might resort to violence, and they were heard in the presence of counsel (see the above-mentioned Doorson judgment, pp. 454-55, para. 25, pp. 455-56, para. 28, and pp. 470-71, paras. 71 and 73).
+u425 p146  [55480-55733) | In addition, in the latter case other evidence providing positive identification of the accused as the perpetrator of the crimes charged was available from sources unrelated to the anonymous witnesses (ibid., pp. 458-59, para. 34, and p. 472, para. 76).
+u426 p147 ¶65 [55738-55832) | Against this background the Court cannot find that the proceedings taken as a whole were fair.
+u427 p148  [55833-55846) H | C. Conclusion
+u428 p149 ¶66 [55851-55958) | There has been a violation of Article 6 para. 1 taken together with Article 6 para. 3 (d) (art. 6-1+6-3-d).
+u429 p150  [55959-56016) H | II. APPLICATION OF ARTICLE 50 OF THE CONVENTION (art. 50)
+u430 p151 ¶67 [56021-56080) L | Article 50 of the Convention (art. 50) provides as follows:
+u431 p151  [56081-56288) QL | "If the Court finds that a decision or a measure taken by a legal authority or any other authority of a High Contracting Party is completely or partially in conflict with the obligations arising from the ...
+u432 p151  [56289-56529) QL | Convention, and if the internal law of the said Party allows only partial reparation to be made for the consequences of this decision or measure, the decision of the Court shall, if necessary, afford just satisfaction to the injured party."
+u433 p152  [56530-56539) H | A. Damage
+u434 p153 ¶68 [56544-56756) L | The applicants argued that if the ‘s-Hertogenbosch Court of Appeal had not relied on the statements of the anonymous police officers, there would have been no case against them and they would have been acquitted.
+u435 p153  [56757-56869) L | They each claimed non-pecuniary damage to an amount of 250 Netherlands guilders (NLG) for each day of detention.
+u436 p153  [56870-56956) L | The Government considered the applicants’ claims for damage "disproportionately high".
+u437 p153  [56957-57004) L | The Delegate of the Commission did not comment.
+u438 p154 ¶69 [57009-57268) L | The Court considers that in the circumstances this aspect of the case is not yet ready for decision. t is accordingly necessary to reserve it, due regard being had to the possibility of agreements being reached between the respondent State and the applicants.
+u439 p155  [57269-57290) H | B. Costs and expenses
+u440 p156 ¶70 [57295-57404) L | The applicants made no claims in respect of costs and expenses incurred in the domestic criminal proceedings.
+u441 p156  [57405-57564) L | As regards the costs and expenses incurred in the proceedings before the European Commission and Court of Human Rights, the applicants’ claims were as follows:
+u442 p156  [57565-57674) L | Mr van Mechelen and Mr Willem Venerius (represented by Ms Spronken): NLG 16,598.07 including value-added tax;
+u443 p156  [57675-57763) L | Mr Johan Venerius (represented by Mr Sjöcrona): NLG 30,446.43 including value-added tax;
+u444 p156  [57764-57843) L | Mr Pruijmboom (represented by Mr Knoops): NLG 11,905 including value-added tax.
+u445 p156  [57844-57926) L | The Government and the Delegate of the Commission did not comment on these claims.
+u446 p157 ¶71 [57931-58064) L | The Court notes that Mr van Mechelen, Mr Johan Venerius and Mr Willem Venerius were granted legal aid by the Convention institutions.
+u447 p158 ¶72 [58069-58245) L | The Court is satisfied that the costs and expenses claimed were actually and necessarily incurred by the applicants in their attempts to obtain redress for the violation found.
+u448 p158  [58246-58365) L | It also finds the sums claimed by the applicants Van Mechelen, Willem Venerius and Pruijmboom reasonable as to quantum.
+u449 p158  [58366-58490) L | On the other hand, the claim of Mr Johan Venerius is disproportionate when compared with the claims of the other applicants.
+u450 p158  [58491-58542) L | No explanation has been given for this discrepancy.
+u451 p159 ¶73 [58547-58594) L | The Court awards Mr Pruijmboom the sum claimed.
+u452 p159  [58595-58782) L | To Mr van Mechelen and Mr Willem Venerius jointly it awards the sums claimed, less the amount paid to them by the Council of Europe by way of legal aid, namely 11,412 French francs (FRF).
+u453 p159  [58783-58980) L | Deciding on an equitable basis, the Court awards Mr Johan Venerius NLG 20,000 including value-added tax, less the amount paid to him by the Council of Europe by way of legal aid, namely FRF 11,436.
+u454 p160  [58981-59000) H | C. Default interest
+u455 p161 ¶74 [59005-59183) L | According to the information available to the Court, the statutory rate of interest applicable in the Netherlands at the date of adoption of the present judgment is 5% per annum.
+-- tail from char 59184 hidden --

@@ -1,0 +1,1350 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+[Arising out of Order dated 19.10.2023 passed by the Adjudicating Authority
+(National Company Law Tribunal), Division Bench, Court No.II, Kolkata in
+I.A. (IB) No. 1648/KB/2022]
+
+IN THE MATTER OF:
+
+HDFC Bank Ltd.
+...Appellant
+
+Versus
+Pratim Bayal,
+Resolution Professional of Birla Tyres Ltd. & Ors.
+...Respondent
+
+Present:
+For Appellant:
+Mr. Ramesh Singh, Sr. Advocate with Mr. Bheem
+Sain Jain and Mr. D. Ray, Advocates.
+For Respondent:
+Ms. Shweta Dubey and Ms. Kanishka Prasad,
+Advocates for R-4, R-5, R-7 to R-9, R-12 & R-13.
+Ms. Astha Sharma, Ms. Anju Thomas, Mr. Piyush
+Agarwal, Ms. Srivali Kajaria and Ms. Panistha
+Bhatt, Advocates for R-2 & R-3.
+Mr. Abhijeet Sinha, Sr. Advocate with Mr.
+Shuanak Mitra, Mr. Avishek Guha, Ms. Soumya
+Dutta, Mr. Saikat Sarkar and Mr. Siddhant
+Upmanyu, Advocates for R-1.
+
+J U D G M E N T
+(30th January, 2025)
+
+Ashok Bhushan, J.
+
+This Appeal by a Dissenting Financial Creditor has been filed
+challenging the order dated 19.10.2023 passed by the Adjudicating
+Authority (National Company Law Tribunal), Kolkata Bench, Kolkata in IA
+No.1648 of 2023. By the impugned order, IA No.1648 of 2023 filed by the
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+Appellant has been rejected. Aggrieved by the said order, this Appeal has
+been filed.
+
+2.
+Brief facts of the case necessary to be noticed for deciding the Appeal
+are:-
+2.1. Corporate Insolvency Resolution Process (CIRP) against the Corporate
+Debtor- ‘Birla Tyres Limited’ commenced vide an order dated 05.05.2022
+passed by the Adjudicating Authority. In pursuance of publication made by
+the
+IRP,
+the
+Appellant
+as
+Financial
+Creditor
+filed
+its
+claim
+of
+Rs.21,55,00,138/-. Appellant was made part of the CoC with a voting share
+of 1.90%. In pursuance of the Form G issued by the Resolution Professional,
+two Resolution Applicants have submitted their plans. Revised financial
+offer received from PRA were discussed in the 13th and 14th CoC meetings.
+The Resolution Professional placed calculation with regard to distribution to
+be made to the Financial Creditors. Distribution mechanism by the
+Resolution Professional was as per security interest of respective Financial
+Creditors and as per voting percentage of respective Financial Creditors were
+shared with members of the CoC. In the 16th meeting of the CoC held on
+31.07.2023, the CoC approved the distribution mechanism as per security
+interest of the respective Financial Creditors. The Resolution was passed
+with 75.67% vote shares, the Resolution Plan submitted by the Resolution
+Applicants was also approved by the CoC with requisite vote share. On
+02.08.2023, Appellant sent an e-mail to the Resolution Professional
+objecting to the distribution methodology proposed by the Axis Bank on the
+basis of security interest. Resolution Professional replied to the e-mail and
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+asked the Financial Creditor to vote on distribution mechanism. Aggrieved
+by the distribution mechanism approved by the CoC, Appellant filed IA
+No.1648 of 2023 where following reliefs was prayed for:-
+“a) to pass an order directing the Resolution
+Professional to take into account the voting shares of
+the
+financial
+creditors
+while
+determining
+the
+calculation methodology of the Creditors' proportional
+share in the liquidation value of the Corporate Debtor
+for the purposes of distribution under the Section 53
+(1) of the Code.
+
+b) to pass an order directing the Resolution
+Professional to withdraw the voting results of the
+distribution mechanism of the Resolution Plan amount
+and to take into account the voting shares while
+determining the calculation methodology of the
+Creditors' proportional share in the Resolution Plan
+amount, or in the alternative, pass an order directing
+the Committee of Creditors to deliberate upon a fair
+and equitable distribution pattern for the resolution
+plan amount.
+
+c) to pass an order declaring the Resolution Plan
+submitted by the Respondent No. 2 along with their
+strategic partner Respondent No 3 illegal, inequitable,
+null and void.
+
+d) to pass an order quashing setting aside the
+Resolution Plan submitted by the Respondent No 2
+along with their strategic partner Respondent No. 3
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+e) to stay of all further proceedings in the instant
+corporate insolvency resolution process, pending
+disposal of the instant application.
+
+f)
+Ad-interim
+orders
+in
+terms
+of
+prayer
+(e)
+hereinabove.
+
+g) Any further order or orders and or direction or
+directions as may deem fit and proper.”
+
+2.2. The Application filed by the Appellant was opposed by the Resolution
+Professional. The Adjudicating Authority by the impugned order upheld the
+distribution mechanism. It was held that the CoC in its commercial wisdom
+approved the distribution of plan value based on the value of the security
+held by the CoC members, which is in line with Section 30(4) of the IBC. By
+the impugned order dated 19.10.2023, the Adjudicating Authority rejected
+the IA No. 1648 of 2023. By an order of the same date passed in IA No.1527
+of 2023, Resolution Plan submitted by the Successful Resolution Applicant
+was also approved by the Adjudicating Authority. Aggrieved by the order
+rejecting IA No.1648 of 2023 filed by the Appellant, this Appeal has been
+filed.
+
+3.
+We have heard Shri Ramesh Singh, Learned Senior Counsel for the
+Appellant and Shri Abhijeet Sinha, Learned Senior Counsel for the
+Respondent. We have also heard Counsel appearing for other Financial
+Creditors opposing the Appeal.
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+4.
+Counsel for the Appellant challenging the impugned order submits
+that as per the vote shares, the Appellant was entitled for amount of Rs.6.19
+Crores and as per value of security interest, an amount of Rs.1.05 Crores
+have been paid. It is submitted that under Section 53(1)(b)(ii), the
+distribution among lenders has to be as per vote share and which provision
+does not contemplate distribution as per security interest. Section 53(1)(b)(ii)
+uses expression ‘debt’ which debt has to be paid in equal proportion to all
+Financial Creditors including Dissenting Financial Creditor. It is submitted
+that the distribution on the basis of value of debt has already been settled
+by the Hon’ble Supreme Court and this Tribunal. Reliance has been placed
+on the judgment of the Hon’ble Supreme Court in “India Resurgence ARC
+(P) Ltd. vs. Amit Metaliks Ltd.- (2021) 19 SCC 672”, judgment of this
+Tribunal in “Jet Aircrafts Maintenance Engineers Welfare Association
+vs. Ashish Chhawchharia Resolution Professional and Ors.- 2022 SCC
+OnLine NCLAT 418” and the judgment of this Tribunal in “Small
+Industries Development Bank of India (SIDBI) vs. Vivek Raheja,
+Resolution Professional, M/s. Gupta Exim (India) Pvt. Ltd. & Ors.- 2022
+SCC OnLine NCLAT 3979” and judgment of this Tribunal in “ICICI Bank
+Ltd. vs. BKM Industries Limited and Anr- Company Appeal (AT) (Ins.)
+No. 405 of 2023”.
+
+5.
+Counsel for the Respondent refuting the submissions of the Counsel
+for the Appellant submits that the CoC was fully entitled as per Section
+30(4) to approve the Resolution Plan and the distribution as per security
+interest. The decision taken by the CoC on distribution as per security
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+interest and accordingly approval of the Resolution Plan is in the
+commercial wisdom of the CoC which need no interference in exercise of
+jurisdiction by the NCLT or NCLAT. It is submitted that a Dissenting
+Financial Creditor is at best entitled for liquidation value as per Section
+53(1)(b)(ii) read with Section 30(2)(b) and the liquidation value payable to the
+Appellant is only Rs. .97 Crores. It is submitted that there is no error in the
+decision of the CoC approving the Resolution Plan and Dissenting Financial
+Creditor is bound by the approval of the Resolution Plan. Approval of the
+Resolution Plan is in accordance with Section 30(2). It is further submitted
+that the Appellant has not challenged the order approving the Resolution
+Plan. The above submission has been addressed both by the Resolution
+Professional as well as other Financial Creditors who is respondents in this
+Appeal.
+
+6.
+We have considered the submissions of the Counsel for the parties
+and perused the record.
+
+7.
+The only issue which need to be considered in this Appeal is as to
+whether CoC was justified in approving the Resolution Plan on the basis of
+security interest of the Financial Creditor and not approving the distribution
+mechanism on the basis of vote share of the financial creditors. Section
+30(4) has been amended by Act 26 of 2019 w.e.f. 16.08.2019. Amended
+Section 30(4) is as follows:-
+
+“30. Submission of resolution plan. -[(4) The
+committee of creditors may approve a resolution plan by
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+a vote of not less than [sixty-six] per cent. of voting
+share of the financial creditors, after considering its
+feasibility and viability, 3 [the manner of distribution
+proposed, which may take into account the order of
+priority amongst creditors as laid down in sub-section
+(1) of section 53, including the priority and value of the
+security interest of a secured creditor] and such other
+requirements as may be specified by the Board:
+Provided that the committee of creditors shall not
+approve a resolution plan, submitted before the
+commencement of the Insolvency and Bankruptcy Code
+(Amendment) Ordinance, 2017 (Ord. 7 of 2017), where
+the resolution applicant is ineligible under section 29A
+and may require the resolution professional to invite a
+fresh resolution plan where no other resolution plan is
+available with it:
+Provided further that where the resolution applicant
+referred to in the first proviso is ineligible under clause
+(c) of section 29A, the resolution applicant shall be
+allowed by the committee of creditors such period, not
+exceeding thirty days, to make payment of overdue
+amounts in accordance with the proviso to clause (c) of
+section 29A:
+Provided also that nothing in the second proviso shall be
+construed as extension of period for the purposes of the
+proviso to sub-section (3) of section 12, and the
+corporate
+insolvency
+resolution
+process
+shall
+be
+completed
+within
+the
+period
+specified
+in
+that
+subsection]:
+[Provided also that the eligibility criteria in section 29A
+as amended by the Insolvency and Bankruptcy Code
+(Amendment) Ordinance, 2018 shall apply to the
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+resolution applicant who has not submitted resolution
+plan as on the date of commencement of the Insolvency
+and Bankruptcy Code (Amendment) Ordinance, 2018.]”
+
+8.
+The amended provisions clearly empower the CoC to vote after
+considering its feasibility and viability. The manner of distribution proposed
+which may take into account the order of priority amongst creditors as laid
+down in sub-section (1) of Section 53, including the priority and value of the
+security interest of a secured creditor. After the amendment of sub-section
+(4) of Section 30, the priority and value of the security interest of a secured
+creditor has also become one of the factor which may be considered by the
+CoC for approval of a plan. We may also notice Section 30(2) which also
+amended by the amendment Act 26 of 2019 w.e.f. 16.08.2019 which
+provides as follows:-
+
+“30.
+Submission
+of
+resolution
+plan...-(2)
+The
+resolution professional shall examine each resolution
+plan received by him to confirm that each resolution plan
+–
+(a) provides for the payment of insolvency resolution
+process costs in a manner specified by the Board in
+priority to the [payment] of other debts of the corporate
+debtor;
+[(b) provides for the payment of debts of operational
+creditors in such manner as may be specified by the
+Board which shall not be less than-
+(i) the amount to be paid to such creditors in the event
+of a liquidation of the corporate debtor under section
+53; or
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+(ii) the amount that would have been paid to such
+creditors, if the amount to be distributed under the
+resolution plan had been distributed in accordance
+with the order of priority in sub-section (1) of section
+53, whichever is higher, and provides for the payment
+of debts of financial creditors, who do not vote in
+favour of the resolution plan, in such manner as may
+be specified by the Board, which shall not be less
+than the amount to be paid to such creditors in
+accordance with sub-section (1) of section 53 in the
+event of a liquidation of the corporate debtor.
+Explanation 1. — For removal of doubts, it is hereby
+clarified that a distribution in accordance with the
+provisions of this clause shall be fair and equitable to
+such creditors.
+Explanation 2. — For the purpose of this clause, it is
+hereby declared that on and from the
+date of
+commencement of the Insolvency and Bankruptcy Code
+(Amendment) Act, 2019, the provisions of this clause
+shall also apply to the corporate insolvency resolution
+process of a corporate debtor-
+(i)
+where a resolution plan has not been approved
+or rejected by the Adjudicating Authority;
+(ii)
+where an appeal has been preferred under
+section 61 or section 62 or such an appeal is not
+time barred under any provision of law for the
+time being in force; or
+(iii)
+where a legal proceeding has been initiated in
+any
+court
+against
+the
+decision
+of
+the
+Adjudicating Authority in respect of a resolution
+plan;]
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+(c) provides for the management of the affairs of the
+Corporate debtor after approval of the resolution plan;
+(d) The implementation and supervision of the resolution
+plan;
+(e) does not contravene any of the provisions of the law
+for the time being in force
+(f) confirms to such other requirements as may be
+specified by the Board.
+[Explanation. — For the purposes of clause (e), if any
+approval
+of
+shareholders
+is
+required
+under
+the
+Companies Act, 2013(18 of 2013) or any other law for the
+time being in force for the implementation of actions
+under the resolution plan, such approval shall be deemed
+to have been given and it shall not be a contravention of
+that Act or law.]”
+
+9.
+Section 30(2)(b) also provided that the Financial Creditor who do not
+vote in favour of the Resolution Plan shall be paid an amount not less than
+the amount to be paid to such creditors in accordance with sub-section (1)
+of Section 53 in the event of a liquidation of the corporate debtor takes
+place. In the present case, the Resolution Plan was submitted by the SRA
+which contains provision for pertaining to mechanism for payment amongst
+the Financial Creditors and payment to the dissenting financial creditor. We
+may refer to clause 5.10 of the Resolution Plan which is as follows:-
+
+“5.10. Notwithstanding anything to the contrary
+contained in this Plan the distribution of the AFC
+Payout, Available Cash and other payments among
+the Financial Creditors may be decided by the COC in
+its commercial wisdom, without in any manner
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+affecting the total obligation of the Resolution
+Applicant which shall be limited to the Total
+Resolution Amount and/or the achievement of the
+timelines for Closing Date stipulated in this Plan.”
+
+10.
+Clauses 5.5 and 5.6 dealing with ‘settlement of dissenting financial
+creditors’ are as follows:-
+
+“5.5. In the event that there are Dissenting Financial
+Creditors entitled to an amount in the nature of
+liquidation value in terms of Sections 30 and Section 53
+of the Code read with Regulation 38 of the CIRP
+Regulations
+("DFC
+Payout"),
+then
+the
+Dissenting
+Financial Creditors would be provided the DFC Payout
+from the RA Contribution on the Payment Date in
+priority to the Assenting Financial Creditors.
+
+5.6. Notwithstanding anything to the contrary contained
+in this Resolution Plan, the Dissenting Financial
+Creditors shall neither be entitled to, nor shall they
+receive any amounts other than the amounts due to
+them in the nature of liquidation value as stipulated
+hereinabove i.e., the DFC Payout. The Resolution
+Applicant submits that such treatment of Dissenting
+Financial Creditors is fair and equitable, and in
+compliance with Section 30(2), 53 of the Code and
+Regulation 38(1) of the CIRP Regulations.”
+
+11.
+The Appellant has brought on the record the report of the result of e-
+voting on the resolution put to vote in the 16th meeting of the CoC held on
+31.07.2023. The copy of Annexure 19 to the Appeal is the voting result. The
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+distribution mechanism as per security interest as well as voting percentage
+has been both separately noticed in Scenario 1 and Scenario 2 in the result
+and Scenario 1 which provided distribution as per security interest has been
+approved with 75.67% vote share and Scenario 2 which provided for
+payment as per voting percentage has not been approved with 75.65% vote
+share. It is useful to extract both the resolutions and result as brought on
+record:-
+
+“RESOLUTION AS DISCUSSED IN SIXTEENTH MEETING
+OF THE COC OF THE COMPANY ALONG WITH RESULT
+THEREOF
+
+Scenario No. 1
+
+To
+approve
+the
+distribution
+mechanism
+of
+the
+resolution plan - As per security interest of the
+respective financial creditors.
+
+Resolution:
+
+"RESOLVED THAT the consent of the Committee of Creditors
+be and is hereby accorded to the distribution mechanism of
+the resolution plan amount to the financial creditors of Birla
+Tyres Limited based on the security interest of the respective
+financial creditors which is mentioned below:
+
+S.
+No.
+Name of CoC Members
+Nature
+Amount of
+each
+lender as
+per
+security
+interest
+(in INR Cr.)
+1
+Axis Bank Limited
+Secured
+196.51
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+2
+Asset
+Reconstruction
+Company (India) Limited
+Secured
+62.25
+3
+State Bank of India
+Secured
+5.86
+4
+DBS
+Bank
+India
+Ltd.
+(Erstwhile:
+The
+Lakshmi
+Vilas Bank Ltd.)
+Secured
+15.75
+5
+West Bengal Infrastructure
+Development
+Finance
+Corporation
+Limited
+(WBIDFC Ltd.)
+Secured
+21.49
+6
+The Karur Vysya Bank Ltd. Secured
+14.46
+7
+Punjab National Bank
+Secured
+1.24
+8
+HDFC Bank
+Secured
+1.05
+9
+ICICI Bank
+Secured
+0.52
+10
+J.C.
+Flowers
+Asset
+Reconstruction Pvt. Ltd.
+Secured
+0.18
+11
+IndusInd Bank Limited
+Secured
+-
+12
+Euston Industries Limited
+Unsecured
+0.05
+TOTAL
+
+NOTE:
+
+ The upfront payment defined as per the plan is INR
+154.34 Crores
+ Out of the Upfront payment to Financial Creditors, a
+sum equivalent to Gratuity Liability (INR 37.03 crores)
+would be held back and such funds would be
+deposited in a special escrow account as specified in
+the Resolution Plan
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+ The above amounts are subject to adjustment of
+Unpaid CIRP Cost and any other adjustment as
+specified in the plan till approval of Plan by NCLT.
+ The Resolution Applicant has sole discretion to pre-pay
+the Deferred Payment anytime between NCLT Order
+Date and 3 years from NCLT Order Date. The Deferred
+Payment shall be discounted by following the tiered
+discounting rates specified in Evaluation Matrix of
+Corporate
+Debtor
+(i.e.,
+10%
+discounting
+rate).
+Accordingly, if Deferred Payment is paid alongside
+with Upfront payment (i.e., within 90 days of NCLT
+Order Date) to Assenting Financial Creditors, then
+instead of INR 165 Crore, Resolution Applicant shall be
+liable to pay only INR 123.97 Crore towards full and
+final settlement of the Deferred Payment obligation. In
+case of pre-pay deferred payments, the above-
+mentioned amounts will be re-distributed among
+financial creditors
+
+Particulars Voting (in
+No.)
+Voting
+Shares
+(in Crs.)
+Result
+declared for
+the
+above
+Resolution/
+Scenerio
+No.1
+Votes cast
+in Favour
+4
+75.67%
+Resolution/
+Scenerio
+approved
+(75.67%
+as
+per
+requirement)
+Votes cast
+Against
+5
+16.09%
+Votes cast
+Abstained
+1
+5.41%
+TOTAL
+10
+97.17%
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+Resolution/Scenario No. 2
+
+To
+approve
+the
+distribution
+mechanism
+of
+the
+resolution plan - As per voting percentage of the
+respective financial creditors.
+
+Resolution:
+
+"RESOLVED THAT the consent of the Committee of Creditors
+be and is hereby accorded to the distribution mechanism of
+the resolution plan amount to the financial creditors of Birla
+Tyres Limited based on the voting percentage of the
+respective financial creditors which is mentioned below:
+
+S.
+No.
+Name of CoC Members
+Nature
+Amount of
+each
+lender as
+per
+COC
+voting
+share
+(in
+INR Cr.)
+1
+Axis Bank Limited
+Secured
+162.84
+2
+Asset
+Reconstruction
+Company (India) Limited
+Secured
+57.01
+3
+State Bank of India
+Secured
+34.71
+4
+DBS
+Bank
+India
+Ltd.
+(Erstwhile:
+The
+Lakshmi
+Vilas Bank Ltd.)
+Secured
+17.74
+5
+West Bengal Infrastructure
+Development
+Finance
+Corporation
+Limited
+(WBIDFC Ltd.)
+Secured
+17.55
+6
+The Karur Vysya Bank Ltd. Secured
+11.80
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+7
+Punjab National Bank
+Secured
+7.34
+8
+HDFC Bank
+Secured
+6.19
+9
+ICICI Bank
+Secured
+3.06
+10
+J.C.
+Flowers
+Asset
+Reconstruction Pvt. Ltd.
+Secured
+1.06
+11
+IndusInd Bank Limited
+Secured
+-
+12
+Euston Industries Limited
+Unsecured
+0.05
+TOTAL
+
+NOTE:
+
+ The upfront payment defined as per the plan is INR
+154.34 Crores
+ Out of the Upfront payment to Financial Creditors, a
+sum equivalent to Gratuity Liability (INR 37.03 crores)
+would be held back and such funds would be
+deposited in a special escrow account as specified in
+the Resolution Plan
+ The above amounts are subject to adjustment of
+Unpaid CIRP Cost and any other adjustment as
+specified in the plan till approval of Plan by NCLT.
+ The Resolution Applicant has sole discretion to pre-pay
+the Deferred Payment anytime between NCLT Order
+Date and 3 years from NCLT Order Date. The Deferred
+Payment shall be discounted by following the tiered
+discounting rates specified in Evaluation Matrix of
+Corporate
+Debtor
+(i.e.,
+10%
+discounting
+rate).
+Accordingly, if Deferred Payment is paid alongside
+with Upfront payment (Le., within 90 days of NCLT
+Order Date) to Assenting Financial Creditors, then
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+instead of INR 165 Crore, Resolution Applicant shall be
+liable to pay only INR 123.97 Crore towards full and
+final settlement of the Deferred Payment obligation. In
+case of pre-pay deferred payments, the above-
+mentioned amounts will be re-distributed among
+financial creditors.
+
+12.
+The question thus to be considered is as to whether the CoC was
+bound to accept the distribution mechanism as per voting share of the
+financial creditors or it had jurisdiction to approve the distribution
+mechanism as per security interest. The Hon’ble Supreme Court in “Essar
+Steel India Ltd. Committee of Creditors vs. Satish Kumar Gupta-
+(2020) 8 SCC 531” had occasion to consider Act 19 of 2019 by which
+Section 30(2) was amended. Paragraphs 128 and 131 of the judgment are
+relevant for the present case which is as follows:-
+
+Particulars Voting (in
+No.)
+Voting
+Shares
+(in Crs.)
+Result
+declared for
+the
+above
+Resolution/
+Scenerio
+No.2
+Votes cast
+in Favour
+6
+21.5%
+Resolution/
+Scenerio not
+passed
+as
+per
+requirement
+Votes cast
+Against
+4
+75.67%
+Votes cast
+Abstained
+0
+0
+TOTAL
+10
+97.17%
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+“128. When it comes to the validity of the substitution
+of Section 30(2)(b) by Section 6 of the Amending Act of
+2019, it is clear that the substituted Section 30(2)(b)
+gives operational creditors something more than was
+given earlier as it is the higher of the figures
+mentioned in sub-clauses (i) and (ii) of sub-clause (b)
+that is now to be paid as a minimum amount to
+operational creditors. The same goes for the latter
+part of sub-clause (b) which refers to dissentient
+financial creditors. Ms Madhavi Divan is correct in her
+argument that Section 30(2)(b) is in fact a beneficial
+provision in favour of operational creditors and
+dissentient financial creditors as they are now to be
+paid a certain minimum amount, the minimum in the
+case of operational creditors being the higher of the
+two figures calculated under sub-clauses (i) and (ii) of
+clause (b), and the minimum in the case of dissentient
+financial creditor being a minimum amount that was
+not earlier payable. As a matter of fact, pre-
+amendment,
+secured
+financial
+creditors
+may
+cramdown unsecured financial creditors who are
+dissentient, the majority vote of 66% voting to give
+them nothing or next to nothing for their dues. In the
+earlier regime it may have been possible to have done
+this but after the amendment such financial creditors
+are now to be paid the minimum amount mentioned in
+sub-section (2). Ms Madhavi Divan is also correct in
+stating that the order of priority of payment of
+creditors mentioned in Section 53 is not engrafted in
+sub-section (2)(b) as amended. Section 53 is only
+referred to in order that a certain minimum figure be
+paid to different classes of operational and financial
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+creditors. It is only for this purpose that Section 53(1)
+is to be looked at as it is clear that it is the
+commercial wisdom of the Committee of Creditors that
+is free to determine what amounts be paid to different
+classes and sub-classes of creditors in accordance
+with the provisions of the Code and the Regulations
+made thereunder.
+131. The challenge to sub-clause (b) of Section 6
+of the Amending Act of 2019, again goes to the
+flexibility that the Code gives to the Committee of
+Creditors to approve or not to approve a resolution
+plan and which may take into account different
+classes of creditors as is mentioned in Section 53,
+and different priorities and values of security
+interests of a secured creditor. This flexibility is
+referred to in the BLRC Report, 2015 (see para 56 of
+this judgment). Also, the discretion given to the
+Committee of Creditors by the word “may” again
+makes it clear that this is only a guideline which is
+set out by this sub-section which may be applied by
+the Committee of Creditors in arriving at a business
+decision as to acceptance or rejection of a resolution
+plan. For all these reasons, therefore, it is difficult to
+hold that any of these provisions is constitutionally
+infirm.”
+13.
+When we look into the observations made in paragraph 131, it is clear
+that the amending act gives the flexibility to the CoC to approve or not to
+approve the Resolution Plan and which may take into account different
+classes of creditors, different priorities and values of security interest of a
+secured creditor.
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+14.
+Judgment of the Hon’ble Supreme Court in “India Resurgence ARC
+(P) Ltd.” (supra) which has been relied by both the parties clearly has laid
+down the law on the subject. In case before the Hon’ble Supreme Court, the
+CoC has approved the Resolution Plan approving the distribution as per the
+vote share of the financial creditor. The Appellant who was a financial
+creditor with vote share of 3.94% expressed reservations on the distribution
+mechanism. The CoC, however, approved the Resolution Plan with 95.35%
+vote shares which decision was challenged by the Appellant. The
+Adjudicating Authority approved the Resolution Plan and rejected the
+objection and Appeal filed by Appellant was also dismissed by this Tribunal
+against which the matter was taken by the Appellant before the Hon’ble
+Supreme Court. It was contended by the Appellant- “India Resurgence
+ARC (P) Ltd.” (supra) that Appellant was entitled to receive the distribution
+as per security interest which argument was noticed and rejected by the
+Hon’ble Supreme Court. The Hon’ble Supreme Court has noticed the
+amendments made in Section 30(2) as well as Section 30(4) and has held
+that the approval of the Resolution Plan is in the commercial wisdom of the
+CoC and scope of judicial review remains limited. In paragraphs 13 and 14
+of the judgment, following was laid down:-
+
+“13. As regards the process of consideration and
+approval of resolution plan, it is now beyond a
+shadow of doubt that the matter is essentially that of
+the commercial wisdom of Committee of Creditors and
+the scope of judicial review remains limited within the
+four corners of Section 30(2) of the Code for the
+
+[PAGE 21]
+21
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+adjudicating authority; and Section 30(2) read with
+Section 61(3) for the appellate authority. In Jaypee,
+this Court, after taking note of the previous decisions
+in Essar
+Steel as
+also
+in K.
+Sashidhar v. Indian
+Overseas
+Bank and Maharashtra
+Seamless
+Ltd. v. Padmanabhan Venkatesh, summarised the
+principles as follows : (Jaypee Kensington case, SCC
+pp. 562-63, para 107)
+“107. In the scheme of IBC, where approval of
+resolution plan is exclusively in the domain of the
+commercial wisdom of CoC, the scope of judicial
+review is correspondingly circumscribed by the
+provisions contained in Section 31 as regards
+approval of the adjudicating authority and in Section
+32 read with Section 61 as regards the scope of
+appeal against the order of approval.
+107.1. Such limitations on judicial review have
+been duly underscored by this Court in the decisions
+abovereferred, where it has been laid down in explicit
+terms that the powers of the adjudicating authority
+dealing with the resolution plan do not extend to
+examine
+the
+correctness
+or
+otherwise
+of
+the
+commercial wisdom exercised by the CoC. The limited
+judicial review available to adjudicating authority lies
+within the four corners of Section 30(2) of the Code,
+which would essentially be to examine that the
+resolution plan does not contravene any of the
+provisions of law for the time being in force, it
+conforms to such other requirements as may be
+specified by the Board, and it provides for : (a)
+payment of insolvency resolution process costs in
+priority; (b) payment of debts of the operational
+
+[PAGE 22]
+22
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+creditors; (c) payment of debts of dissenting financial
+creditors; (d) for management of affairs of corporate
+debtor after approval of the resolution plan; and (e)
+implementation and supervision of the resolution
+plan.
+107.2. The limitations on the scope of judicial
+review are reinforced by the limited ground provided
+for an appeal against an order approving a resolution
+plan, namely, if the plan is in contravention of the
+provisions of any law for the time being in force; or
+there has been material irregularity in exercise of the
+powers by the resolution professional during the
+corporate insolvency resolution period; or the debts
+owed to the operational creditors have not been
+provided for; or the insolvency resolution process
+costs have not been provided for repayment in
+priority; or the resolution plan does not comply with
+any other criteria specified by the Board.
+107.3. The material propositions laid down
+in Essar Steel on the extent of judicial review are that
+the adjudicating authority would see if CoC has taken
+into account the fact that the corporate debtor needs
+to keep going as a going concern during the
+insolvency resolution process; that it needs to
+maximise the value of its assets; and that the
+interests of all stakeholders including the operational
+creditors have been taken care of. And, if the
+adjudicating authority would find on a given set of
+facts that the requisite parameters have not been kept
+in view, it may send the resolution plan back to the
+Committee of Creditors for re-submission after
+satisfying
+the
+parameters.
+Then,
+as
+observed
+
+[PAGE 23]
+23
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+in Maharashtra Seamless Ltd., there is no scope for
+the adjudicating authority or the appellate authority
+to proceed on any equitable perception or to assess
+the resolution plan on the basis of quantitative
+analysis. Thus, the treatment of any debt or asset is
+essentially required to be left to the collective
+commercial wisdom of the financial creditors.”
+14. It needs hardly any elaboration that financial
+proposal in the resolution plan forms the core of the
+business decision of Committee of Creditors. Once it is
+found that all the mandatory requirements have been
+duly complied with and taken care of, the process of
+judicial review cannot be stretched to carry out
+quantitative analysis qua a particular creditor or any
+stakeholder, who may carry his own dissatisfaction.
+In other words, in the scheme of IBC, every
+dissatisfaction does not partake the character of a
+legal grievance and cannot be taken up as a ground
+of appeal. [ For the purpose of illustration, reference
+may be made to the decision in Jaypee Kensington,
+(2022) 1 SCC 401 wherein, as regards the grounds
+sought to be urged by minority shareholders against
+the resolution plan, this Court held that their
+grievances
+could
+not
+be
+recognised
+as
+legal
+grievances (vide para 154). Similarly, when this Court
+noticed that the homebuyers as a class assented to
+the plan, it was held that any individual homebuyer
+or association was not entitled to maintain a
+challenge to the resolution plan and could not be
+treated as carrying any legal grievance (vide para
+170).]
+
+[PAGE 24]
+24
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+15.
+The Hon’ble Supreme Court also in paragraph 15 after noticing
+amendment in Section 30(4) amplifies the consideration of the CoC. The
+submission of the Appellant that distribution should be as per security
+interest was not accepted and in paragraphs 16 and 17, following was laid
+down rejecting the submission of the Appellant:-
+“16. The repeated submissions on behalf of the
+appellant with reference to the value of its security
+interest
+neither
+carry
+any
+meaning
+nor
+any
+substance. What the dissenting financial creditor is
+entitled to is specified in the later part of sub-section
+(2)(b) of Section 30 of the Code and the same has
+been explained by this Court in Essar Steel [Essar
+Steel (India) Ltd. (CoC) v. Satish Kumar Gupta, (2020)
+8 SCC 531 : (2021) 2 SCC (Civ) 443] as under : (SCC
+pp. 628-29, para 128)
+“128. When it comes to the validity of the
+substitution of Section 30(2)(b) by Section 6 of the
+amending Act of 2019, it is clear that the substituted
+Section 30(2)(b) gives the operational creditors
+something more than was given earlier as it is the
+higher of the figures mentioned in sub-clauses (i) and
+(ii) of sub-clause (b) that is now to be paid as a
+minimum amount to the operational creditors. The
+same goes for the latter part of sub-clause (b) which
+refers to dissentient financial creditors. Ms Madhavi
+Divan is correct in her argument that Section 30(2)(b)
+is in fact a beneficial provision in favour of the
+operational
+creditors
+and
+dissentient
+financial
+creditors as they are now to be paid a certain
+minimum amount, the minimum in the case of the
+
+[PAGE 25]
+25
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+operational creditors being the higher of the two
+figures calculated under sub-clauses (i) and (ii) of
+clause (b), and the minimum in the case of dissentient
+financial creditor being a minimum amount that was
+not earlier payable. As a matter of fact, pre-
+amendment,
+secured
+financial
+creditors
+may
+cramdown unsecured financial creditors who are
+dissentient, the majority vote of 66% voting to give
+them nothing or next to nothing for their dues. In the
+earlier regime it may have been possible to have done
+this but after the amendment such financial creditors
+are now to be paid the minimum amount mentioned in
+sub-section (2). Ms Madhavi Divan is also correct in
+stating that the order of priority of payment of
+creditors mentioned in Section 53 is not engrafted in
+sub-section (2)(b) as amended. Section 53 is only
+referred to in order that a certain minimum figure be
+paid to different classes of operational and financial
+creditors. It is only for this purpose that Section 53(1)
+is to be looked at as it is clear that it is the
+commercial wisdom of the Committee of Creditors that
+is free to determine what amounts be paid to different
+classes and sub-classes of creditors in accordance
+with the provisions of the Code and the Regulations
+made thereunder.”
+(emphasis supplied)
+17. Thus, what amount is to be paid to different
+classes or sub-classes of creditors in accordance with
+provisions of the Code and the related Regulations, is
+essentially the commercial wisdom of the Committee
+of Creditors; and a dissenting secured creditor like
+
+[PAGE 26]
+26
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+the appellant cannot suggest a higher amount to be
+paid to it with reference to the value of the security
+interest.”
+16.
+The above judgments clearly laid down that the decision taken by the
+CoC in commercial wisdom has to be respected and the scope of judicial
+review is too limited.
+
+17.
+However, the dissenting financial creditor as per Section 30(2)(b)(ii) is
+entitled for an amount which is not less than the amount to be paid to such
+creditors in accordance with Section 53(1). Present is not a case where
+amount offered to the Appellant is less than the liquidation value which has
+also been noticed by the Adjudicating Authority in paragraph 13.1.
+Paragraph 13.1 of the impugned order is as follows:-
+
+“13.1. We find that it is not the case of the applicant
+that the amount of distribution has not been arrived
+based on liquidation value as provided in Section
+30(2)(b) read with Section 53 of the IBC. The
+Applicant's grievance before us is that the distribution
+method adopted by the CoC should be based on the
+voting share and not based on value of security held
+by respective financial creditors.”
+
+18.
+As per liquidation value of the Appellant, he was to receive Rs. .97
+Crores and as per the plan approved by the CoC he has been offered Rs.1.05
+Crores, thus, provision of Section 30(2)(b) are fully satisfied.
+
+19.
+The judgment of this Tribunal in “Small Industries Development
+Bank of India (SIDBI)” (supra) was a case where dissenting financial
+
+[PAGE 27]
+27
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+creditors prayed that the dissenting financial creditors’ distribution should
+be made as per the security interest whereas the CoC have approved the
+distribution of proceed as per the voting share. This Tribunal relying on the
+judgment of the Hon’ble Supreme Court in “India Resurgence ARC (P)
+Ltd.” (supra) took the view that the entitlement of dissenting financial
+creditor is to receive the amount not less than the liquidation value of their
+debt. The decision of the CoC to distribute the proceed as per the voting
+share was upheld. In paragraphs 20, 24 and 25 following was held:-
+
+“20. When we look into above statement of objects
+and reasons, it is made clear that financial creditors
+who do not vote in favour of the resolution plan shall
+receive an amount that is not less than the
+liquidation value of their debt. The above statement
+of objects and reasons also makes it clear that the
+entitlement of dissenting financial creditor is to
+receive liquidation value of their debt and not the
+distribution as per their security value as is sought
+to be contended by the Learned Counsel for the
+Appellant before us. The statement of objects and
+reasons by which amendments in Section 30(2)(b)
+has been made, makes it clear that entitlement of
+dissenting financial creditor is the liquidation value
+of their debt which also clearly negate the
+submissions raised by the Learned Counsel for the
+Appellant before us.
+
+24. The Judgment of this Tribunal in Company
+Appeal (AT) Ins. No. 547 of 2022 in “Oriental Bank of
+Commerce v. Anil Anchalia” decided on 26th May,
+
+[PAGE 28]
+28
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+2022 also does not support the submission of
+Learned Counsel for the Appellant. It was held that
+dissenting
+financial
+creditor
+is
+entitled
+for
+distribution as per Section 53(1). The claim of the
+dissenting Financial Creditor that he is entitled to
+receive the entire amount received from property
+which was secured with the Financial Creditor was
+rejected relying on the Judgment of the Hon'ble
+Supreme Court in “India Resurgence” (supra).
+25. In view of the foregoing discussion, we do not
+find any error in the Order dated 17.03.2022 of the
+Adjudicating Authority rejecting I.A. No. 581 of 2021
+filed by the Appellant. The decision of the Committee
+of Creditors and the Adjudicating Authority deciding
+to distribute the proceeds of the plan value as per
+voting share of the secured creditor in no manner
+contravenes the provisions of Section 30(2)(b) of the
+Code. None of the submissions raised by the
+Learned Counsel
+for the Appellant has
+any
+substance. In result, the Appeal is dismissed.”
+
+20.
+The judgment of this Tribunal in “Jet Aircrafts Maintenance
+Engineers Welfare Association” (supra) relied by the Appellant was also a
+case where Hon’ble Supreme Court has held that the distribution under
+Section 53(1) is contemplated as per debt of the financial creditor. It is
+useful to extract the conclusion recorded in paragraph 107 where
+submission that financial creditor has to be paid as per their value of
+security interest was rejected. Paragraph 107 of the judgment is as follows:-
+
+[PAGE 29]
+29
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+“107. We, thus, do not find any substance in the
+submission of the learned Counsel that payment to the
+Secured Financial Creditors under Section 53(1)(b) has to
+be made as per their value of the security interest and the
+Resolution Plan did not take into consideration their debt,
+which is the debt of the Financial Creditors while
+allocating the amount.”
+
+21.
+From the above, it is clear that after amendments made in Section
+30(4), the CoC have been given jurisdiction to take a decision as to
+distribute the amount as per vote share of the financial creditor or as per
+the security interest which is in their commercial wisdom and decision
+taken by requisite vote share by the CoC is final and binding on all
+including the dissenting financial creditors and dissenting financial
+creditors at best is entitled for minimum of liquidation value. The use of
+expression “may” in Section 30(4) clearly indicate the discretion vested in
+the CoC to take into account of the matter of security interest of the secured
+creditors in approving the Resolution Plan. We, thus, are of the view that no
+error has been committed by the Adjudicating Authority rejecting the
+application filed by the Appellant seeking direction to distribute the amount
+as per security interest. The decision of the CoC approving the Resolution
+Plan as per security interest was in accordance with Section 30(4) and has
+rightly been not interfered with by the Adjudicating Authority in the
+impugned order.
+
+[PAGE 30]
+30
+
+Company Appeal (AT) (Insolvency) No. 1472 of 2023
+
+22.
+We do not find any error in the impugned order warranting
+interference by this Tribunal. There is no merit in the Appeal. The Appeal is
+dismissed.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+New Delhi
+Anjali

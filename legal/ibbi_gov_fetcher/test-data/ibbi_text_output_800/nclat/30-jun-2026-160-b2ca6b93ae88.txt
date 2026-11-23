@@ -1,0 +1,1063 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 691 of 2024
+[Arising out of the Common Order dated 05.03.2024, passed
+by the ‘Adjudicating Authority’ (National Company Law
+Tribunal, New Delhi-III Bench in IA No. 6075 of 2023 in CP
+(IB) No. 440(ND)/2021]
+
+IN THE MATTER OF:
+
+New Okhla Industrial Development Authority
+Main Administrative Building Sector 6,
+Noida, Uttar Pradesh – 201 301
+
+...Appellant
+
+Versus
+
+1. Manohar Lal Vij
+Resolution Professional of Logix City
+Developers Pvt. Ltd.
+3rd Floor, 8/28 Abdul Aziz Road,
+Karol Bagh, New Delhi-110005
+
+...Respondent No.1
+
+2. Gedpec Infratech Limited
+7A Floor, Tower B, Plot No. 8,
+Noida One, Block B, Sector 62,
+Noida – 201 307
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. Rachit Mittal, Mr. Kanishk Raj, Mr. Abhishek
+Sinha and Ms. Srishti Agarwaal, Advocates
+
+For Respondent
+:
+Mr. Vishal Hirawat and Mr. Abhishek Devgan,
+Advocates
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+
+The present appeal is filed under Section 61(1) of Insolvency and
+Bankruptcy Code, 2016 (“Code”) by the Appellant namely, New Okhla
+Industrial Development Authority against the order dated 05.03.2024 of the
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 2 of 30
+
+Hon'ble National Company Law Tribunal, New Delhi, Bench-III in
+Interlocutory Application No. 6075 of 2023 in CP(IB) No. 440 (ND)/2021.
+
+2.
+The Appellant seeks to set aside the order in the above-mentioned IA
+No. 6075/2023 and also to direct Respondent No.1 i.e. RP to admit the claim
+of the Appellant to the tune of Rs.6,07,74,76,966/-.
+
+Submissions of the Appellant – NOIDA
+3.
+Appeal has been filed on behalf of the New Okhla Industrial
+Development Authority (hereinafter referred to as 'Appellant') against the
+order dated 05.03.2024 (hereinafter referred to as 'Impugned Order') of the
+Hon'ble National Company Law Tribunal, New Delhi, Bench III in
+Interlocutory Application bearing IA No. 6075 of 2023 in CP (IB) No. 440
+(ND)/2021 (hereinafter referred to as 'Application'). The Appellant was the
+Applicant in the aforesaid Application.
+
+4.
+Appellant contends that the NCLT passed the impugned order on the
+assumption
+that
+the
+aforesaid
+application
+was
+filed
+by
+the
+Appellant/Applicant for non-compliance of the order dated 18.10.2023.
+However, it is contended that the Respondent No.1 admitted only a portion of
+appellant's claim, particularly excluding additional farmer compensation and
+time extension charges. Thus, the aforesaid application was vis à vis the
+admissibility and quantum of Appellant's claims as the secured operational
+creditor in the CIRP of the Corporate Debtor.
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 3 of 30
+
+5.
+Appellant contends that on 08.06.2011, a Lease Deed was executed in
+the favour of the Corporate Debtor by the Appellant for Plot No. GH-02, Sector
+143, Noida admeasuring a total area of 1,00,080.98 sq. mtrs.
+
+6.
+Further, on 21.10.2011, the Hon'ble High Court of Judicature at
+Allahabad, in the case of Gajraj & Ors. v. State of U.P. & Ors., rendered a
+judgment through a full bench, granting an additional 64.7% compensation
+to the farmers, with the liberty given to the Appellant herein to recover the
+same from the allottees. This judgment was subsequently upheld by the
+Hon'ble Supreme Court in Savitri Devi v. State of U.P., reported in (2015)
+7 SCC 21. Thereafter, in terms of the aforementioned judgment of the Hon'ble
+Allahabad High Court, certain office orders dated 20.12.2013, 04.04.2014,
+14.07.2014 and 04.08.2014 were issued by the Appellant to the Corporate
+Debtor. Office order dated 14.07.2014 categorically mentions that the
+enhanced compensation would be recovered from the allottees of the
+concerned land.
+
+7.
+The Appellant vide letter dated 22.05.2017 informed the Corporate
+Debtor about the 64.7% additional compensation paid to farmers and also
+informed the Corporate Debtor to deposit an amount of Rs. 2,93,97,586.90
+within 30 days of the issuance of the issuance of letter. [Note: This was for
+full one lakh sq. mtr. of leased land]
+
+8.
+Furthermore, on 30.10.2018, out of the entire leased area of
+1,00,080.98 sq. mtrs. allocated to the Corporate Debtor, the Appellant
+executed a sub-lease deed for 13,961 sq. mtrs. in favor of M/s Docile
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 4 of 30
+
+Buildtech Private Limited, leaving 86,119.98 sq. mtrs. with the Corporate
+Debtor. While permission for sub-division was granted to the Corporate
+Debtor's subsidiaries, M/s. Docile Buildtech Pvt. Ltd. and M/s. Arable
+Builders Pvt. Ltd., the sub-lease deed was executed only in favor of M/s.
+Docile Buildtech Pvt. Ltd. The permission to sub-divide the land for M/s.
+Arable Builders Pvt. Ltd. was revoked due to the Corporate Debtor's failure to
+meet certain conditions. Consequently, the area intended for sublease to M/s.
+Arable Builders Pvt. Ltd. was never sub-leased and remains leased to the
+Corporate Debtor.
+
+9.
+The Corporate Insolvency Resolution Process ("CIRP") qua the
+Corporate Debtor commenced vide an order dated 17.08.2022. The Appellant
+filed its claim on 01.09.2022 under Form ‘B’ as an Operational Creditor for
+an amount of Rs. 6,07,74,76,966/-, supported by all necessary documents,
+including detailed calculations. However, the Respondent No.1 – RP vide email
+dated 03.09.2022 provisionally admitted the claim of the Appellant only to the
+tune of Rs. 5,13,97,26,617/-. In the claim calculation sheet, no reasons were
+attributed with respect to farmer's compensation or time extension charges.
+
+10.
+Appellant further claims that despite receiving all the relevant
+documents, including calculation sheets, through various emails dated
+23.03.2023, 01.04.2023, 12.04.2023, and 21.04.2023, Respondent No.1 – RP
+failed to admit the entire claimed amount, admitting only 600,92,77,327 out
+of the total claim submitted, initially reasoning that the farmer's
+compensation clause was not part of the lease deed. However, after the
+Hon'ble NCLT, by order dated 18.10.2023 in IA No. 2972 of 2023, directed
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 5 of 30
+
+Respondent No. 1 to admit the claim based on judicial pronouncements.
+Respondent No. 1 then shifted its position and began demanding documents
+that fall beyond the scope of the current CIRP. This refusal to admit the
+aforesaid claims is in direct contravention of Section 25(2)(e) of the IBC, which
+mandates the RP to collect and verify all claims against the Corporate Debtor.
+The subsequent demand for additional documents, despite the NCLT's clear
+direction vide order dated 18.10.2023, is unjustified and exceeds the RP's
+authority under the IBC.
+
+11.
+Appellant further contends that the Respondent No. 1 had already been
+provided with a copy of the order in the Gajraj judgment (supra) and the
+required calculations as requested in the initial emails. Nevertheless,
+Respondent No. 1, despite receiving all necessary documents and
+calculations, has failed to admit certain amounts under the heads of time
+extension charges and additional farmers' compensation, which constitutes a
+dereliction of the duties entrusted to the RP.
+
+12.
+Subsequently, the Appellant filed an application bearing the IA No.
+6075 of 2023 before NCLT, seeking admission of entire claim for a tune of Rs.
+6,07,74,76,966/-. However, the Hon'ble NCLT vide Impugned Order dated
+05.03.2024 observed that the Respondent No.1 has complied with the order
+dated 18.10.2023 and disposed of the aforementioned Application. Aggrieved
+by this decision, the instant appeal has been preferred by the Appellant before
+this Hon'ble Court.
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 6 of 30
+
+13.
+Appellant contends that the Resolution Professional's duty extends to
+admitting and verifying claims but does not encompass adjudicating them. In
+the instant case, the exclusion of substantial portions of the Appellant's claim,
+specifically
+Rs.
+6,81,99,639/-
+out
+of
+the
+total
+claim
+amount
+of
+Rs.6,07,74,76,966/-, undermines the Appellant's rights as a secured creditor.
+Furthermore, NCLT's impugned order reflects a misinterpretation of the facts
+and law, particularly the binding nature of the judicial orders regarding the
+land acquisition and related compensation passed by Hon'ble Supreme Court
+and Hon'ble Allahabad High Court. The aforesaid impugned order fails to
+recognize the statutory and contractual obligations of the Corporate Debtor
+towards the Appellant. Additionally, the legal obligations under the lease deed
+and subsequent orders are clear and unequivocal, warranting the full
+admission of the Appellant's claims. It is also pertinent to note that the
+Hon'ble NCLT, vide its order dated 18.10.2023 in IA No. 2792 of 2023,
+acknowledged the correctness of the Appellant's time extension calculations.
+Further, the documents provided for farmer's compensation was also deemed
+sufficient, thereafter, Hon'ble NCLT directed Respondent No. 1 for full
+admission of the Appellant's claims.
+
+14.
+The NCLT has failed to enforce its own order dated 18.10.2023, which
+directed the RP to admit the entire claim sought by the Appellant. Despite this
+order, the RP continued to demand unnecessary documentation from the
+Appellant. Furthermore, the RP's refusal to admit the Appellant's claim
+violates the terms of the lease deed and disregards binding judicial
+precedents. The Respondent No.1 does not have the authority to override
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 7 of 30
+
+these terms or to adjudicate claims, as its role is strictly limited to verification
+under the IBC. Thus, this brazen abuse of law and conduct by the Respondent
+No.1 is in direct violation of the order dated 18.10.2023 passed by the Hon'ble
+NCLT which undermines the integrity of the judicial process.
+
+15.
+The Respondent No.1's refusal to properly verify the Appellant's claim,
+despite being provided with all relevant documents, demonstrates a failure to
+apply judicial mind as required under Regulation 13 of the IBBI (Insolvency
+Resolution Process for Corporate Persons) Regulations, 2016. This failure has
+resulted in significant prejudice to the Appellant's position as a secured
+creditor.
+
+16.
+Furthermore, NCLT has failed to consider the binding judgment in
+Gajraj (supra). Respondent No. 1's refusal to admit approximately Rs. 7 crores
+of the Appellant's claim blatantly disregard the Appellant's rights under these
+binding judicial precedents, thereby undermining the Appellant's position as
+a secured creditor. Notably, the Hon'ble NCLT's omission to consider the
+material facts and evidence presented by the Appellant has led to an
+erroneous decision, unsupported by evidence or records, and fails to
+adequately recognize the Appellant's legal and factual standing.
+
+17.
+The Appellant contends that the Corporate Debtor was informed the
+corporate debtor about the 64.7% additional compensation paid to the
+farmers and also raised the demand to the tune of Rs.2,93,97,586.90 as share
+of additional compensation vide letter dated 22.05.2017 and the same has not
+been disputed by the Corporate Debtor up to the date of commencement of
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 8 of 30
+
+CIRP. Now the Resolution Professional, on one pretext or the other is trying
+to reject and has rejected the claim qua the farmer's compensation.
+
+18.
+Appellant further claims that the second claim qua the time extension
+has already been clarified vide letter dated 01.11.2023 mentioning that the
+time extension charges up to 17.08.2022 comes to Rs.47,34,10,209.88, which
+initially was Rs.47,73,81,468/- (calculated up to 07.09.2022). Whereas, the
+Resolution Professional has admitted an amount of Rs.46,82,53,478/-
+instead of Rs.47,34,10,209.88, leaving unadmitted amount qua time
+extension of Rs.51,56,731.88. Therefore, the total unadmitted amount which
+includes unadmitted claim amount and unadmitted time extension amount
+is Rs.6,42,28,380.88 [Rs.5,90,71,649 + 51,56,731.88].
+
+19.
+In light of the foregoing submissions, the Appellant prays that the
+appeal of the appellant may be allowed and Resolution Professional may be
+directed to admit the unadmitted claim amount of Rs.6,42,28,380.88.
+Submissions of the Respondent No. 1 – RP
+20.
+The Appellant, NOIDA, had filed claim for Rs. 6,07,74,76,966/- in the
+CIRP of the Corporate Debtor. Respondent No.1 – RP, verified the aforesaid
+claim submitted by Appellant and provisionally admitted the claim to the tune
+of Rs. 5,13,97,26,671/- and informed the Appellant vide email dated
+03.09.2022.
+
+21.
+Subsequently, Appellant filed an Application before Ld. NCLT seeking
+directions for admission of part of the claim filed by Appellant, which was
+rejected
+by
+the
+Respondent
+for
+non-submission
+of
+sufficient
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 9 of 30
+
+documents/clarifications. Some additional documents were annexed with the
+application to substantiate its claim. Ld. NCLT vide Order dated 18.10.2023
+directed the Answering Respondent to examine all the issues and take
+appropriate decision in accordance with law.
+
+22.
+Consequent to the Order dated 18.10.2023 passed by the Ld. NCLT,
+Respondent No. 1 – RP vide email dated 31.10.2023 apprised Appellant
+regarding the Order passed by Ld. NCLT and sought certain clarifications/
+details for admitting the remaining portion of the claim. Subsequently,
+Respondent No. 1 – RP admitted the claim of Appellant to the extent of
+Rs.600,92,77,327/- and apprised the Appellant vide email dated 06.11.2023.
+
+23.
+Thereafter, Appellant filed another IA No. 6075/2023 before the Ld.
+NCLT seeking directions for admission of remaining claim amount, i.e.
+Rs.6,81,99,639/-. The Ld. NCLT vide Order dated 05.03.2024 disposed of the
+IA filed by Appellant and noted that there is no non-compliance of the Order
+dated 18.10.2023.
+
+24.
+Present Appeal has been preferred by the Appellant, seeking admission
+of entire claim of Appellant to the tune of Rs. 6,07,74,76,966/-. It is apposite
+to note that Appellant in its revised calculation has itself reduced the claim
+towards time extension charges by Rs.39,71,258.12, thus reducing the
+claimed amount to Rs. 6,07,35,05,708/-, yet in the present Appeal, Appellant
+has sought for admission of claim of Rs. 607,74,76,966/-.
+
+25.
+As a background it is to be noted that Appellant, by way of registered
+lease deed dated 08.06.2011 leased out Plot No. GH-02, Sector 43, Noida,
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 10 of 30
+
+admeasuring 1,00,080.98 sq. mtr. in favour of Corporate Debtor, for a period
+of 90 years commencing from 08.06.2011, against the consideration agreed
+between the parties, for development of group housing project on the leased
+land. Thereafter, a tripartite sub-lease deed dated 30.10.2018 was executed
+between Corporate Debtor, Appellant and Docile Buildtech Private Limited,
+and the Land admeasuring 13,961 sq. mtr. was sub-leased in favour of Docile
+Buildtech Private Limited. Further, the net liability towards Appellant, as on
+the date of sub-lease deed, was divided between the Corporate Debtor and
+Docile Buildtech Private Limited in proportion to the land area leased/sub-
+leased to the respective parties. Accordingly, liability of Corporate Debtor is
+only limited to 86,119.98 sq. mtr. of land.
+
+26.
+The Appellant's claim comprises of six distinct components. Of these,
+four components have been fully admitted, whereas the claims relating to
+farmers' compensation and time extension charges remain contested.
+
+27.
+Initially, the Appellant in its claim had computed farmers'
+compensation for 100080.98 Sq. Mtr., despite the fact that the claim of
+Corporate Debtor was limited to only 86,119.98 Sq. Mtr. of land. The claimed
+amount towards farmers' compensation was for Rs. 5,90,71,649/-.
+Subsequently, Appellant provided another calculation sheet for farmers'
+compensation, wherein land area has been simply changed from 100080.90
+Sq. Mtr. to 86,119.98 Sq. Mtr. without any claim to the amount of claim. In
+both the calculation sheets submitted by the Appellant regarding farmer’s
+compensation, the initial amount due is shown as Rs. 2,93,97,587/- as on
+22.06.2017. Accordingly, for substantiation of claim the Respondent vide
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 11 of 30
+
+email dated 31.11.2023 sought following details to authenticate amount of
+Rs. 29397587 and accrued interest thereon:
+a. Total additional compensation paid
+b. Total area for which compensation paid
+c. Total percentage of land belonging to Corporate Debtor out
+of total land
+d. % Share of Corporate Debtor in the compensation
+e. Date of payment of compensation (to check interest
+calculation).
+
+28.
+Till date the Appellant has not provided any of the aforementioned
+details and hence, the claim towards farmers' compensation remains
+unsubstantiated and hence, has not been admitted.
+
+29.
+The time extension charges are to be computed at the specified rate on
+the allotment rate. Allotment of land admeasuring 100,080.98 sq. mtr. was
+made at Rs. 235,69,07,079/-. Subsequently, land admeasuring 13,961 sq.
+mtr. was sub-leased and only 86,119.98 sq. mtr. of land remains to be leased
+to the Corporate Debtor. Thus, the proportionate allotment rate for 86,119.98
+sq. mtr. is computed to be Rs. 202,81,25,529 [235,69,07,079 x
+86,119.98/100,080.981].
+
+30.
+The Appellant initially claimed an amount of Rs. 47,73,81,468/-
+towards time extension charges, out of which Rs. 46,82,53,478/- was
+admitted. Subsequently, the Appellant itself reduced the claim to
+Rs.47,34,10,209.88, reflecting a reduction of Rs. 39,71,258.12 due to an
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 12 of 30
+
+incorrect calculation. However, in the present Appeal, the Appellant has
+arbitrarily reverted to the original claim of Rs. 47,73,81,468/-contradicting
+its own prior admissions of wrong calculation. It is noteworthy that the
+reduced admission of claim by the Answering Respondent is solely
+attributable to the Appellant's erroneous mathematical calculation.
+
+31.
+Initially, Appellant computed the time extension charges of Rs.
+47,73,81,468/- till 07.09.2022 whereas the CIRP commencement date was
+17.08.2022. The same was also observed by the Ld. NCLT in its Order dated
+18.10.2023.
+
+32.
+Consequently, Appellant submitted revised calculation sheet for claim
+of Rs. 47,34,10,209.88 computed till CIRP Commencement date i.e.
+17.08.2022. Appellant while computing the time extension charges for 5th
+year has made some mathematical error and derived amount of
+Rs.3,65,91,251.58, whereas the correct amount would be Rs. 3,11,16,446/-
+[Rs. 202,81,25,529*70*8/100*365]. Hence, the difference is admitted and
+claimed amount.
+Analysis and Evaluation
+
+33.
+We have heard both sides and also perused the material placed on
+record.
+
+34.
+We note that the Appellant-NOIDA, by way of registered lease deed
+dated 08.06.2011, leased out Plot No.GH-02, Sector 43, Noida, admeasuring
+1,00,080.98 sq. mtr. in favour of Corporate Debtor-Logic City for a period of
+90 years commencing from 08.06.2011, against the between the parties, for
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 13 of 30
+
+development of a group housing project on the leased land. Subsequently, in
+the year 2013, the Corporate Debtor by way of joint development agreement
+transferred development rights for 13,961 sq. mtr. of land to Saha lnfratech
+Private Limited and for 12,486.08 Sq. mtr. of land to Dream Procon Private
+Limited. Hence, only 73,633.90 Sq. mtr. of land was being developed by the
+Corporate Debtor and remaining portion of land was being developed by Saha
+Infratech and Procon respectively. Details regarding development of land as
+per records is as extracted below:
+
+35.
+Thereafter, in the year 2018, Corporate Debtor had approached
+Appellant and requested to sub-divide the Land. Later, request of Corporate
+Debtor was accepted and Appellant vide letter dated 07.06.2018 approved the
+sub-division of Land in the following manner:
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 14 of 30
+
+36.
+It was also brought to our notice by the RP that all of the three developer
+companies are presently under CIRP. Further RP brings to our that a tripartite
+sub-lease deed dated 30.10.2018 was executed between Corporate Debtor,
+Appellant and Docile Buildtech Private Limited for transferring Land
+admeasuring 13,961 sq. mtr. in favour of Docile Builtech Private Limited.
+Further, as per terms of sub lease deed, net liability of the corporate debtor
+towards said portion of land, payable to Appellant, as on the date of sub-lease
+deed, was also transferred to Docile Buildtech Private Limited. Pertinently, the
+land sub-divided in favour of Arable Builders Private Limited was not sub-
+leased and hence, that portion of land, i.e. 12,486.08 sq. mtr. of land, even
+though being developed by some other company is still in the name of
+Corporate Debtor. Hence, as on date the land is divided as under:
+
+37.
+In view of the above, we agree with the arguments of the RP, accepted
+by the AA, that the liability of Corporate Debtor is only limited to 86,119.98
+sq. mtr. of land subject to the assumption that NOIDA has not filed/shall not
+claim any amount from Dream Procon Private Limited (under CIRP) for the
+land admeasuring 12,486.08 sq. mtr. which is being developed by Dream
+Procon Private Limited.
+
+38.
+We find that initially the Appellant had filed claim of about Rs. 607.75
+crores (approx.) in the CIRP in the Corporate Debtor. The RP provisionally
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 15 of 30
+
+admitted the claim to the tune of about Rs. 514/- Crores and informed the
+Appellant vide email dated 03.09.2022. The claim submitted by the Appellant
+comprised of the following components:
+
+a. Instalments along with interest
+b. Re-scheduled instalments along with interest
+c. Lease rent dues along with interest
+d. 64.7% Farmers Compensation along with interest
+e. Time Extension Charges
+f. Water & Sewer Charges
+
+39.
+Subsequently, RP verified the aforesaid claim submitted by Appellant
+and provisionally admitted the claim to the tune of Rs. 5,13,97,26,671/- and
+informed the Appellant vide email dated 03.09.2022. Answering Respondent
+had also shared excel sheet to show how the claim of the Appellant was
+calculated and admitted. The following components of the claim were not
+admitted or reduced amount was admitted:
+o 64.7% Farmers Compensation along with interest
+o Time Extension Charges
+o Water & Sewage Charges
+o Installment & Reschedulement charges
+
+40.
+We note that the claim of Appellant was admitted on 03.09.2022 and
+the Appellant neither raised any objection nor challenged the decision of
+Answering Respondent until 23.03.2023. Thereafter, multiple emails were
+exchanged relating to non-substantiation of unadmitted portion of claim as
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 16 of 30
+
+Appellant failed to provide requisite clarification/documents, necessary for
+verification and admission of balance claim amount.
+
+41.
+Subsequently, on 16.05.2023, 9 months after the commencement of
+CIRP, Appellant filed IA No. 2792/2023 before the Ld. NCLT seeking directions
+against the Answering Respondent herein to admit the claim of Appellant to
+the tune of Rs. 6,07,74,76,966. The Adjudicating Authority vide its order
+dated 18.10.2023 directed the RP to examine all the issues and take
+appropriate decision in accordance with law. Consequently, the Respondent
+No.1 – RP sought certain clarifications / details for admitting the remaining
+portion of the claim. Basis the reply, the RP admitted the claim of the
+Appellant to the extent of Rs.601 Crores (approx.) and apprised the Appellant
+vide email dated 06.11.2023. The heads under which the claim amount was
+admitted / not admitted have been reproduced hereunder for convenience of
+this Hon'ble Tribunal:
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 17 of 30
+
+42.
+RP brings to our notice that the claim towards farmers' compensation
+was not admitted as Appellant had failed to submit necessary clarifications/
+documents to substantiate its claim amount. Further the time extension
+charges were reduced as the Appellant had claimed extension charges upto
+07.09.2022, whereas the CIRP Commencement date is 17.08.2022 and
+accordingly, proportionate claim was admitted.
+
+43.
+Thereafter, the Appellant filed another IA No. 6075/2023 before NCLT
+seeking directions for admission of the remaining claim amount of
+Rs.6,81,99,639/-. However, NCLT vide order dated 05.03.2024 disposed of
+the IA filed by the Appellant and noted that there is no non-compliance of the
+order dated 18.10.2023.
+
+44.
+In the present appeal, we note that the Appellant is seeking admission
+of the entire claim amount of Rs.6,07,74,76,966/-. To find out the merits of
+this claim, we now look into the two major issues -one relating to non-
+admission of claim towards farmers' compensation and the other relating to
+extension of time, which are the main issues raised by the Appellant in this
+appeal.
+
+45.
+With respect to the reasons for non-admission of claim towards farmer's
+compensation we find that the Appellant had claimed Rs. 5,90,71,649/-
+towards farmers' compensation. As per the initial calculation sheet submitted
+by Appellant, the said amount had been calculated for entire 100080.98 Sq.
+mtr. of land, whereas, the Corporate Debtor's liability was limited for
+86,119.98 sq. mtr. of land only. Subsequently, the Appellant submitted
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 18 of 30
+
+another calculation sheet for farmers' compensation. wherein the land area
+has been simply changed from 100080.98 Sq. mtr. to 86,119.98 sq. mtr.
+without any change in the amount of.
+
+46.
+We also find that both the calculation sheet for the farmer's
+compensation, indicate an outstanding amount of Rs. 2,93,97,587/- as of
+June 22, 2017. Subsequently, interest at a rate of 14% has been computed
+on this sum. However, we find that the Appellant has not provided any
+document to explain the basis for arriving at the figure of Rs. 2,93,97,587/-.
+We find that the resolution professional had requested the appellant vide
+emails dated October 31, 2023, November 21, 2023, and a reminder email on
+November 25, 2023, yet the Appellant has failed to substantiate the farmer's
+compensation claim.
+
+47.
+The Appellant claims that the resolution professional cannot adjudicate
+over the claims. It relies upon various judicial pronouncements that the
+adjudicatory power does not lie with the resolution professional. In the
+present matter, the RP has gone beyond the powers so envisaged for him and
+has, despite being provided with requisite documents and explanations, failed
+to verify the total amount of the claim of the Appellant as was filed by it. We
+find that a Resolution Professional is empowered to seek evidence or
+clarifications as he deems fit from a creditor for substantiating the whole or
+part of its claim as per Regulation 10 of the CIRP regulations governing the
+insolvency of corporate persons. Therefore, the Appellant cannot question the
+information being sought by the Resolution Professional and cannot claim
+that the Resolution Professional has not done its duty. The argument
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 19 of 30
+
+canvassed by the NOIDA that the resolution professional's duty is only
+extended to the admission and verification of the claims but does not
+encompass adjudication of the claims. In the facts and circumstances of the
+case, we do not find that the resolution professional was adjudicating the
+claims. It was only seeking additional information to verify the claims, and
+such an argument of the applicant is therefore unsustainable and rejected.
+
+48.
+The Appellant has placed its reliance on the following judicial
+pronouncements in support of the aforementioned contention of the
+Appellant:
+XXX
+o Swiss Ribbons Pvt. Ltd. vs. Union of India
+(2019) 4 SCC 17 (Para No. 88 to 91)
+Resolution professional has no adjudicatory powers
+88. It is clear from a reading of the Code as well as the Regulations that
+the resolution professional has no adjudicatory powers. Section 18 of
+the Code lays down the duties of an interim resolution professional as
+follows:
+“18. Duties of interim resolution professional.—(1) The interim
+resolution professional shall perform the following duties, namely—
+(a) collect all information relating to the assets, finances and
+operations of the corporate debtor for determining the financial
+position of the corporate debtor, including information relating to—
+(i) business operations for the previous two years;
+(ii) financial and operational payments for the previous two years;
+(iii) list of assets and liabilities as on the initiation date; and
+(iv) such other matters as may be specified;
+(b) receive and collate all the claims submitted by creditors to him,
+pursuant to the public announcement made under Sections 13 and
+15;
+(c) constitute a Committee of Creditors;
+(d) monitor the assets of the corporate debtor and manage its
+operations until a resolution professional is appointed by the
+Committee of Creditors;
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 20 of 30
+
+(e) file information collected with the information utility, if
+necessary; and
+(f) take control and custody of any asset over which the corporate
+debtor has ownership rights as recorded in the balance sheet of the
+corporate debtor, or with information utility or the depository of
+securities or any other registry that records the ownership of assets
+including—
+(i) assets over which the corporate debtor has ownership rights
+which may be located in a foreign country;
+(ii) assets that may or may not be in possession of the corporate
+debtor;
+(iii) tangible assets, whether movable or immovable;
+(iv) intangible assets including intellectual property;
+(v) securities including shares held in any subsidiary of the corporate
+debtor, financial instruments, insurance policies;
+(vi) assets subject to the determination of ownership by a court or
+authority;
+(g) to perform such other duties as may be specified by the Board.
+Explanation.—For the purposes of this section, the term “assets”
+shall not include the following, namely—
+(a) assets owned by a third party in possession of the corporate
+debtor held under trust or under contractual arrangements
+including bailment;
+(b) assets of any Indian or foreign subsidiary of the corporate debtor;
+and
+(c) such other assets as may be notified by the Central Government
+in consultation with any financial sector regulator.”
+89. Under the CIRP Regulations, the resolution professional has to vet
+and verify claims made, and ultimately, determine the amount of each
+claim as follows:
+“10. Substantiation of claims.—The interim resolution professional
+or the resolution professional, as the case may be, may call for such
+other evidence or clarification as he deems fit from a creditor for
+substantiating the whole or part of its claim.
+* * *
+12. Submission of proof of claims.—(1) Subject to sub-regulation (2),
+a creditor shall submit claim with proof on or before the last date
+mentioned in the public announcement.
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 21 of 30
+
+(2) A creditor, who fails to submit claim with proof within the time
+stipulated in the public announcement, may submit the claim with
+proof to the interim resolution professional or the resolution
+professional, as the case may be, on or before the ninetieth day of
+the insolvency commencement date.
+(3) Where the creditor in sub-regulation (2) is a financial creditor
+under Regulation 8, it shall be included in the committee from the
+date of admission of such claim:
+Provided that such inclusion shall not affect the validity of any
+decision taken by the committee prior to such inclusion.
+13. Verification of claims.—(1) The interim resolution professional
+or the resolution professional, as the case may be, shall verify every
+claim, as on the insolvency commencement date, within seven days
+from the last date of the receipt of the claims, and thereupon
+maintain a list of creditors containing names of creditors along with
+the amount claimed by them, the amount of their claims admitted
+and the security interest, if any, in respect of such claims, and update
+it.
+(2) The list of creditors shall be—
+(a) available for inspection by the persons who submitted proofs of
+claim;
+(b) available for inspection by members, partners, Directors and
+guarantors of the corporate debtor;
+(c) displayed on the website, if any, of the corporate debtor;
+(d) filed with the adjudicating authority; and
+(e) presented at the first meeting of the committee.
+14. Determination of amount of claim.—(1) Where the amount
+claimed by a creditor is not precise due to any contingency or other
+reason, the interim resolution professional or the resolution
+professional, as the case may be, shall make the best estimate of the
+amount of the claim based on the information available with him.
+(2) The interim resolution professional or the resolution
+professional, as the case may be, shall revise the amounts of claims
+admitted, including the estimates of claims made under sub-
+regulation (1), as soon as may be practicable, when he comes across
+additional information warranting such revision.”
+It is clear from a reading of these Regulations that the resolution
+professional is given administrative as opposed to quasi-judicial
+powers. In fact, even when the resolution professional is to make a
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 22 of 30
+
+“determination” under Regulation 35-A, he is only to apply to the
+adjudicating authority for appropriate relief based on the
+determination made as follows:
+“35-A. Preferential and other transactions.—(1) On or before the
+seventy-fifth day of the insolvency commencement date, the
+resolution professional shall form an opinion whether the
+corporate debtor has been subjected to any transaction covered
+under Sections 43, 45, 50 or 66.
+(2) Where the resolution professional is of the opinion that the
+corporate debtor has been subjected to any transactions covered
+under Sections 43, 45, 50 or 66, he shall make a determination on
+or before the one hundred and fifteenth day of the insolvency
+commencement date, under intimation to the Board.
+(3) Where the resolution professional makes a determination under
+sub-regulation (2), he shall apply to the adjudicating authority for
+appropriate relief on or before the one hundred and thirty-fifth day
+of the insolvency commencement date.”
+90. As opposed to this, the liquidator, in liquidation proceedings under
+the Code, has to consolidate and verify the claims, and either admit or
+reject such claims under Sections 38 to 40 of the Code. Sections 41 and
+42, by way of contrast between the powers of the liquidator and that
+of the resolution professional, are set out hereinbelow:
+“41. Determination of valuation of claims.—The liquidator shall
+determine the value of claims admitted under Section 40 in such
+manner as may be specified by the Board.
+42. Appeal against the decision of liquidator.—A creditor may
+appeal to the adjudicating authority against the decision of the
+liquidator accepting or rejecting the claims within fourteen days of
+the receipt of such decision.”
+It is clear from these sections that when the liquidator “determines”
+the value of claims admitted under Section 40, such determination is a
+“decision”, which is quasi-judicial in nature, and which can be appealed
+against to the adjudicating authority under Section 42 of the Code.
+91. Unlike the liquidator, the resolution professional cannot act in a
+number of matters without the approval of the Committee of Creditors
+under Section 28 of the Code, which can, by a two-thirds majority,
+replace one resolution professional with another, in case they are
+unhappy with his performance. Thus, the resolution professional is
+really a facilitator of the resolution process, whose administrative
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 23 of 30
+
+functions are overseen by the Committee of Creditors and by the
+adjudicating authority.
+o Anuj Jain, IRP of Jaypee Infratech Ltd. vs. Axis Bank Ltd.
+(2020) 8 SCC 401 (Para No. 53.2)
+
+53.2. In the relevant part, the Court found that NCLAT had fallen in grave error in
+reading para 77 in Swiss Ribbons dehors the earlier paragraphs. In that context this
+Court said: (Essar Steel case, SCC pp. 605-06, paras 88-89)
+“88. By reading para 77 dehors the earlier paragraphs, the Appellate Tribunal has
+fallen into grave error. Para 76 clearly refers to the UNCITRAL Legislative Guide
+which makes it clear beyond any doubt that equitable treatment is only of similarly
+situated creditors. This being so, the observation in para 77 cannot be read to mean
+that financial and operational creditors must be paid the same amounts in any
+resolution plan before it can pass muster. On the contrary, para 77 itself makes it
+clear that there is a difference in payment of the debts of financial and operational
+creditors, operational creditors having to receive a minimum payment, being not
+less than liquidation value, which does not apply to financial creditors. The
+amended Regulation 38 set out in para 77 again does not lead to the conclusion
+that financial and operational creditors, or secured and unsecured creditors, must
+be paid the same amounts, percentage wise, under the resolution plan before it
+can pass muster. Fair and equitable dealing of operational creditors’ rights under
+the said regulation involves the resolution plan stating as to how it has dealt with
+the interests of operational creditors, which is not the same thing as saying that
+they must be paid the same amount of their debt proportionately. Also, the fact
+that the operational creditors are given priority in payment over all financial
+creditors does not lead to the conclusion that such payment must necessarily be
+the same recovery percentage as financial creditors. So long as the provisions of
+the Code and the Regulations have been met, it is the commercial wisdom of the
+requisite majority of the Committee of Creditors which is to negotiate and accept
+a resolution plan, which may involve differential payment to different classes of
+creditors, together with negotiating with a prospective resolution applicant for
+better or different terms which may also involve differences in distribution of
+amounts between different classes of creditors.
+89. Indeed, by vesting the Committee of Creditors with the discretion of accepting
+resolution plans only with financial creditors, operational creditors having no vote,
+the Code itself differentiates between the two types of creditors for the reasons
+given above. Further, as has been reflected in Swiss Ribbons, most financial
+creditors are secured creditors, whose security interests must be protected in
+order that they do not go ahead and realise their security in legal proceedings, but
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 24 of 30
+
+instead are incentivised to act within the framework of the Code as persons who
+will resolve stressed assets and bring a corporate debtor back to its feet. Shri Sibal’s
+argument that the expression “secured creditor” does not find mention in Chapter
+II of the Code, which deals with the resolution process, and is only found in Chapter
+III, which deals with liquidation, is for the reason that secured creditors as a class
+are subsumed in the class of financial creditors, as has been held in Swiss Ribbons.
+Indeed, Regulation 13(1) of the 2016 Regulations mandates that when the
+resolution professional verifies claims, the security interest of secured creditors is
+also looked at and gets taken care of.”
+o GNOIDA Vs. Prabhjit Singh Soni
+(Civil Appeal No. 7590-7591 of 2023) (Para No. 21 to 22)
+
+Greater Noida Industrial Development Authority v. Prabhjit Singh Soni,
+2024 INSC 102 (Civil Appeal Nos. 7590-7591 of 2023; pp. 14–15 of the
+judgment)
+21. Once a claim is submitted with proof under any of the Regulations
+(i.e., Regulations 7, 8, 8-A, 9 and 9-A), the IRP or the RP, as the case may
+be, as per Regulation 13, has to verify the claim, as on the insolvency
+commencement date, and thereupon maintain a list of creditors
+containing names of creditors along with the amount claimed by them,
+the amount of their claims admitted and the security interest, if any, in
+respect of such claims, and update it in terms of Regulation 12 A.
+22. As it could be noticed from the CIRP Regulations, 2016, on
+submission of a claim with proof, the IRP or the RP, as the case may be,
+has to verify the claim and prepare a list of creditors containing names
+of creditors along with the amount claimed by them and security
+interest, if any, the logical conclusion derivable from the provisions
+analysed above would be that the Form in which a claim is to be
+submitted under the CIRP Regulations 2016 is directory and not
+mandatory. What is important is, the claim must be supported by proof.
+XXX
+
+49.
+In the facts and circumstances of the case, we do not find that these
+judgments are of any assistance to the Appellant, as the resolution
+professional was well within its rights to seek additional evidence in support
+of the claim and was not doing an adjudication of the claims.
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 25 of 30
+
+50.
+Now we look into the reasons for accepting the claim amounting to
+Rs.46,82,53,478/- against the asserted sum of Rs 47,73,81,468/- for time
+extension charges. The Appellant computed time extension charges up to
+September 7, 2022, despite the commencement date of the CIRP being August
+17, 2022. This this has been noted by the adjudicating authority in its order
+dated 18.10.2023 and notes that "There is no dispute that the Applicant has
+calculated the time extension charges up to 07.09.2022 even though the CIRP
+commenced on 17.08.2022." Therefore, the resolution professionals'
+justification in accepting the reduced amount of at a value of Rs.
+46,82,53,478/- as of August 17, 2022, on a proportional basis instead of the
+claimed amount of Rs. 47,73,81,468/- as of September 7, 2022 is fully
+justified, and the appellants' calculation cannot be accepted.
+
+51.
+We find that the Respondent No.1 – RP had sought additional
+information from the Appellant to justify latter’s claims for the farmer’s
+compensation for the full land of about 1,00,080.98 sq. mtrs. Despite the fact
+that the land with the Corporate Debtor was limited to only 86,119.98 sq.
+mtrs., the claimed amount by the Appellant towards farmer’s compensation
+was Rs.5,90,71,649/- for full land. Later on, Appellant provided another
+calculation sheet for farmer’s compensation wherein the land area was
+reduced from 1,00,080.90 sq. mtrs to 86,119.98 sq. mtrs. but without any
+change in the total amount of claim. The appellant claims that no charge
+pertaining to land dedicated to M/s Docile was ever charged by the appellant
+from the Corporate Debtor.
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 26 of 30
+
+52.
+However, we note that the farmer’s compensation Rs.2,93,97,587/-
+remained same in the initial calculation sheet as well as in the revised
+calculation sheet. We note that the Appellant has not provided sufficient
+evidence to explain the basis for arriving at the figure of Rs. 2,93,97,587,
+which was an outstanding amount as of June 22, 2017 with respect to the
+farmers' compensation. We note that for substantiation of the claim, the
+Resolution Professional sought the following details to authenticate the
+amount of Rs. 2,93,97,587 and accrued interest thereon:
+o Total additional compensation paid
+o Total area for which compensation was paid
+o Total percentage of land belonging to the corporate debtor
+out of the total land
+o Percentage share of the Corporate Debtor in the
+compensation
+o The date of payment of compensation to check the interest
+calculation period
+
+However, till date, the Appellant has not provided any of the
+aforementioned details. Rightly, the claim towards former's compensation
+remains unsubstantiated, and the Resolution Professional was right in not
+admitting it.
+
+53.
+We have gone through the calculations provided by the Appellant as
+well as the Respondent No.1 – RP, gone into the justification provided by the
+both sides and I have also looked into the material placed on record.
+
+54.
+We find that the Respondent No.1 – RP was justified in asking some
+additional information which was sought by it and which is noted as below:
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 27 of 30
+
+“a. Total additional compensation paid
+b. Total area for which compensation paid
+c. Total percentage of land belonging to Corporate Debtor out of total land
+d. % Share of Corporate Debtor in the compensation
+e. Date of payment of compensation (to check interest calculation).”
+
+55.
+Therefore, we find that the farmers compensation remained
+unsubstantiated and Respondent No.1 – RP cannot be faulted in not admitting
+the claim as presented by the Appellant.
+
+56.
+With respect to time extension charges, we note that the total allotment
+charges for the land was Rs.235,69,07,079/- for the land of 100,080.98 sq.
+mtrs. Once land of about 13,961 sq. mtrs. was taken away from the Corporate
+Debtor only 86,119.98 sq. mtrs. of land remained available on lease with the
+Corporate Debtor. Therefore, the proportionate allotment rate for 86,119.98
+sq. mtrs. was correctly computed by Respondent No.1 – RP to the extent of
+Rs. 202,81,25,539/- (235,69,07,079*86,119.98/1,00,080.98).
+
+57.
+We further note that the Appellant had initially claimed an amount of
+Rs.47,73,81,468/-
+towards
+time
+extension
+charges,
+out
+of
+which
+46,82,53,478/- was admitted. Subsequently, the Appellant reduced the claim
+to Rs.47,34,10,209.88 reflecting a reduction of Rs.39,71,258.12 due to an
+incorrect calculation. But we note that the present appeal still claims the
+original amount of Rs.47,73,81,468/-.
+
+58.
+The Appellant computed the time extension charges of Rs.
+Rs.47,73,81,468/- till 07.09.2022, but it did not account for the insolvency
+commencement date of 17.08.2022. Accordingly, the RP had recalculated this
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 28 of 30
+
+amount and the amount works out to be Rs.47,34,10,209.88, which was
+computed till the insolvency commencement date i.e. 17.08.2022.
+
+59.
+Furthermore, we also notice that Respondent No.1 – RP had also
+brought to the notice of the Appellant about incorrect calculation with respect
+to the 5th year, which has been brought on record, which is calculated as
+follows:
+“Instead of 365,91,251.58 the correct amount should be Rs.31116446
+(202,81,25,529*70*8/100*365).”
+
+60.
+Appellants’ claims that Respondent No.1 – RP had contravened Section
+25(2)(e) of the Code, which mandates the RP to collect and verify all claims
+against the Corporate Debtor and it should not have sought additional
+documents. We have gone through the provisions of the Code and the
+Regulations and it clearly provides that the RP has to maintain and update
+list of claims and while doing so can seek additional documents and
+clarifications, is a part of its duty. This cannot be considered as an
+adjudicatory function.
+
+61.
+The Adjudicating Authority while dismissing the appeal noted as
+follows:
+XXX
+6.
+The Applicant filed its claim for Rs. 6,07,74,76,966/-. and the
+respondent, verified and admitted the claim to the tune of Rs.
+600,92,77,327/- and informed the Applicant. Accordingly, being aggrieved
+the Applicant has filed the instant application for admission of remaining
+portion of the claim, i.e., Rs. 6,81,99,639/- and for non-compliance of the
+Order dated 18.10.2023.
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 29 of 30
+
+7.
+Pursuant to the Order passed in IA No. 2972 of 2023 dated
+18.10.2023, the Resolution Professional has re-considered the claim of the
+Applicant as directed by this Adjudicating Authority arrived at the amount
+of Rs. 6,00,92,77,327/- based on the documents made available by the
+Applicant.
+
+8.
+We do not consider that there is any non-compliance of the Order
+dated 18.10.2023 passed in IA No. 2972/2023. The Application (IA-
+6075/2023) is disposed of accordingly.
+XXX
+62.
+We also note that the resolution applicant in its resolution plan for the
+Corporate Debtor has provided as under:
+“Similarly, if admitted claim amount of Noida is revised upward
+by resolution professional after submission of this plan, Noida
+shall be paid proposed amount of rupees 20 crores as proposed
+in this plan and there shall be no additional burden on
+resolution applicant”
+
+63.
+Moreover, we note from the material placed on record that Noida was
+aware about the submissions made by the resolution applicant in the
+resolution plan regarding the claims of Noida and this was noted by Noida in
+its rejoinder filed in IA 4907/2023 wherein it has averted as under:
+“It may be noted that total value of the resolution plan is only
+Rs 363.24 crores, out of which the applicant (NOIDA) is being
+paid only rupees 20 crores, out of the total verified amount of
+rupees 513,97,26,613 as full and final settlement and will not
+revise even if this honorable tribunal considers and directs the
+resolution professional to verify total claimed amount of rupees
+607,74,76,966”
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 691 of 2024 30 of 30
+
+64.
+In the above facts and circumstances and after going through the
+material placed on record, we do not find any infirmity in the actions of the
+Resolution Professional, who was well within its rights to seek additional
+information and Appellant provided limited information, which did not help
+the Resolution Professional to accept their claims to the fullest extent as
+claimed by the Appellant.
+Order
+65.
+Basis the facts placed before it, the Adjudicating Authority has rightly
+dismissed the Appeal. We also do not find infirmity in the orders of the
+Adjudicating Authority. Accordingly, the Appeal is dismissed and all related
+IAs are also disposed of. No orders as to costs.
+
+[Justice N Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+June 30, 2026.
+
+pawan

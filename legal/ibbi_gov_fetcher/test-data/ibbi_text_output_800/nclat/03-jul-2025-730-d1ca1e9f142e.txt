@@ -1,0 +1,1136 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+
+(Arising against the impugned order dated 21.05.2018 passed by the Hon’ble
+National Company Law Tribunal, Mumbai Bench in Misc. Application No. 129
+of 2018 in Company Petition No. 1138/I&BC/NCLT/MB/MAH/2017)
+
+IN THE MATTER OF:
+
+Mr. Anil Kohli
+Resolution Professional for Dunar Foods Ltd.
+
+Registered office: Geetanjali Apartment,
+1st floor, 8B Middleton Street, Kolkata,
+West Bengal.
+Email id: investor.india@akzonobel.com
+
+...Appellant
+
+Versus
+
+Directorate of Enforcement
+Through Deputy Director
+
+Add:- 4th Floor, Kaiser-1,
+Hind Currimbhoy Road,
+Ballard Estate,
+Mumbai – 400001.
+
+...Respondent No. 1
+
+Shri Amit Gupta,
+Successful Resolution Applicant
+of Dunar Foods Ltd.
+
+...Respondent No. 2
+
+Present:
+For Appellant: Mr. Abhishek Anand, Mr. Karan Kohli & Ms. Ridhima
+Mehrotra, Advocates.
+For Respondents:
+Mr. Zoheb Hossain, Advocate for R-1/ED.
+Mr.
+Himanshu
+Dubey,
+Ms.
+Shruti
+Manchanda,
+Advocates for R-2.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+
+J U D G M E N T
+(3rd July, 2025)
+
+INDEVAR PANDEY, MEMBER (T)
+This appeal arises from the impugned order dated 21.05.2018, passed
+by the National Company Law Tribunal (NCLT), Mumbai Bench (‘Adjudicating
+Authority’) in Miscellaneous Application No. 129 of 2018 in Company
+Petition No. 1138/I&BC/NCLT/MB/MAH/2017. The appeal has been filed
+under Section 61(1) of the Insolvency and Bankruptcy Code, 2016 (in short
+‘Code’) by Mr. Anil Kohli, the Resolution Professional (RP) for Dunar Foods
+Limited (Corporate Debtor) challenging the refusal of the Adjudicating
+Authority to direct the Directorate of Enforcement (ED) to release the
+provisionally attached assets of the Corporate Debtor.
+2.
+The Appellant/RP asserts that the continued attachment of properties
+under the Prevention of Money Laundering Act, 2002 (PMLA) violates the
+moratorium under Section 14 of the IBC and frustrates the CIRP objectives.
+This appeal raises substantial questions about the conflict between two
+central economic legislations viz. Insolvency & Bankruptcy Code 2016 and
+the Prevention of Money Laundering Act, 2002.
+Brief facts of the case
+3.
+The brief facts of the case are as follows:
+(i)
+Dunar Foods Ltd. is a company engaged in the business of
+manufacturing, processing, and exporting basmati rice. It had availed
+substantial credit facilities from a consortium of banks led by the State
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+Bank of India (SBI), along with Canara Bank, Bank of India, and other
+lenders. At the time of filing the Sec 7 petition under the Code in on
+27.06.2017, the total dues owed by the Corporate Debtor to the Banks
+was Rs. 758,73,62,546/-.
+(ii) Following continuing defaults in repayment obligations, Dunar Foods
+Ltd.'s accounts were classified as Non-Performing Assets (NPAs) by SBI
+and other lenders on 26.08.2014 and the Financial Creditor/Applicant
+Bank issued the recall notice on 08.12.2014 to the Corporate Debtor to
+pay its dues.
+(iii) The Financial Creditor/ Applicant Bank also issued the notice under
+Section 13(2) of SARFAESI Act, 2002 dated 25.02.2016 on behalf of all
+the banks as lead bank of the consortium to the corporate debtor to
+repay the entire dues of Rs. 795,60,25,675.16 as on 31.01.2016
+including further interest, penal interest, incidental expenses and all
+costs, charges and expenses.
+(iv) In view of the defaults, the State Bank of India filed an application
+under Section 7 of the Insolvency and Bankruptcy Code, 2016 before
+the National Company Law Tribunal (NCLT), Mumbai Bench. The case
+was registered as CP No. 1138/I&BC/NCLT/MB/MAH/2017. On
+22.12.2017, the NCLT, Mumbai Bench, admitted the insolvency
+application. It initiated the Corporate Insolvency Resolution Process
+(CIRP) against Dunar Foods Ltd. under Section 7 of the IBC. In the same
+order, Mr. Anil Kohli was appointed as the Interim Resolution
+Professional (IRP), a moratorium under Section 14 of the IBC was
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+imposed with effect from that date, and the IRP was directed to issue
+public announcements under Section 15 IBC and Regulation 6 of the
+IBBI (CIRP) Regulations.
+(v)
+In compliance with the statutory mandate, the IRP published public
+announcements on 06.01.2018 in The Financial Express (English) and
+on 07.01.2018 in Jansatta (Hindi). These announcements formally
+declared the commencement of CIRP and called upon all creditors of
+Dunar Foods Ltd. to submit their claims within the prescribed time.
+(vi) Meanwhile, the Directorate of Enforcement (ED), under the Ministry of
+Finance, Government of India, had initiated investigation under the
+Prevention of Money Laundering Act, 2002 (PMLA) against M/s PD
+Agroprocessors Pvt. Ltd., which is associate company of Dunar Foods
+Ltd. And traced the flow of alleged tainted funds to the Corporate
+Debtor. The ED registered ECIR No. ECIR/14/MZO/2013/PD
+AGRO/1733 based on scheduled offences under the Indian Penal Code
+and Foreign Exchange Management Act (FEMA), alleging that large
+export advances received by Dunar Foods Ltd. from PD Agroprocessors
+Pvt. Ltd. were proceeds of crime.
+(vii) Consequently, on 26.12.2017, the Deputy Director of the Directorate of
+Enforcement, Mumbai Zone, issued Provisional Attachment Order
+(PAO) No. 12/2017 under Section 5(1) of the PMLA, attaching various
+immovable and movable assets of Dunar Foods Ltd. The total value of
+attached assets amounted to Rs. 177,33,94,800/-.
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+(viii) On 14.02.2018, the RP addressed written communications to the
+Directorate of Enforcement requesting immediate de-attachment of the
+provisionally attached properties. He explained that the moratorium
+under Section 14 of the IBC barred all proceedings including
+enforcement actions like attachment against the corporate debtor. He
+further referred to Section 238 of the IBC, which provides the Code with
+overriding effect over any other inconsistent law. However, the ED did
+not provide any relief or respond favorably.
+(ix) On 16.02.2018, in view of the deadlock, the RP filed Miscellaneous
+Application No. 129 of 2018 before the NCLT, Mumbai Bench, under
+Section 60(5) of the IBC. The application sought, inter alia, (a) quash
+the provisional attachment order dated 26.12.2017 being PAO No.
+122017 in F.No. ECIR/14/MZO/2013/PD Agro/1733, and (b) a
+direction to the Directorate of Enforcement to recall the provisional
+attachment order against the assets of the Corporate Debtor during the
+CIRP or till the time moratorium is in effect.
+(x)
+After hearing both parties, the NCLT, Mumbai Bench passed the
+impugned order dated 21.05.2018, whereby it dismissed the RP’s
+application. The NCLT held that the Provisional Attachment Order
+issued by the ED under Section 5(1) of the PMLA did not fall within the
+scope of the moratorium under Section 14 of the IBC. It further opined
+that PMLA is a special penal statute and has a distinct adjudicatory
+mechanism under Sections 5 to 8 of PMLA. Therefore, unless and until
+the attachment was set aside by the PMLA Adjudicating Authority, the
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+NCLT had no jurisdiction to direct its release. It concluded that the IBC
+could not override PMLA proceedings in the absence of express
+legislative exclusion.
+(xi) The Competent Adjudicating Authority of the Prevention of Money
+laundering Act 2002 by its order dated 11.06.2018 under section 8
+confirmed the provisional attachment order.
+(xii) Aggrieved by aforesaid decision of the NCLT, the RP preferred the
+present appeal under Section 61(1) of the Code. The RP has submitted
+that the NCLT has failed to appreciate the legislative scheme of the IBC,
+particularly the overriding effect granted to it under Section 238, and
+the mandatory nature of the moratorium under Section 14. It was
+contended that the continuation of attachment not only violated
+statutory protection but also rendered the CIRP futile, causing
+irreparable harm to creditors and defeating the purpose of resolution.
+(xiii) Subsequent to filing of this appeal, NCLT Mumbai vide its order dated
+26.11.2019 in M.A. No. 2166 of 2019 approved the Resolution Plan
+submitted by the Respondent No. 2/ Successful Resolution Applicant
+(SRA), which was further amended vide order dated 27.01.2020 and
+appointed Mr. Anil Kohli (erstwhile Resolution Professional of the
+Corporate Debtor) as a Monitoring Professional to Monitor the
+implementation of the Resolution Plan.
+(xiv) The Resolution Professional/ Appellant herein, has sought the following
+reliefs:
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+a) setting aside of the impugned order dated 21.05.2018 passed by the
+NCLT;
+b) a direction to the Directorate of Enforcement to release all
+provisionally attached properties valued at Rs. 177,33,94,800/-;
+c) a declaration that the IBC has overriding effect over the PMLA under
+Section 238, and that the attachment violates the moratorium under
+Section 14; and
+d) permission to use the attached properties for keeping the corporate
+debtor operational and ensuring a successful resolution under the
+IBC framework.
+Submissions of the Appellant
+4.
+The Counsel for the Appellant submitted that the present appeal has
+been preferred under Section 61 of the Insolvency and Bankruptcy Code,
+2016 (‘IBC’ or the ‘Code’) against the order dated 19.05.2018 passed by the
+Hon’ble National Company Law Tribunal, Mumbai Bench (“Adjudicating
+Authority”), in MA No. 129 of 2018. The Appellant, who is the duly appointed
+Resolution Professional (“RP”) for the Corporate Debtor, Dunar Foods Ltd.,
+had approached the Adjudicating Authority seeking quashing or recall of the
+Provisional Attachment Order (PAO) dated 26.12.2017 passed by the
+Directorate of Enforcement (“Respondent”) under Section 5(1) of the
+Prevention of Money Laundering Act, 2002 (“PMLA”).
+5.
+Ld. Counsel stated that the said PAO was passed just four days after
+the CIRP had commenced on 22.12.2017, and while the moratorium under
+Section 14 of the IBC was in full force. The Hon’ble Adjudicating Authority,
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+while disposing of the Appellant’s application, declined to lift the attachment
+and erroneously held that the attachment was not inconsistent with the CIRP
+as long as it did not obstruct the resolution process. The present appeal
+challenges the legality and propriety of that finding.
+6.
+Ld. Counsel for the Appellant further submitted that Section 14(1)(a) of
+the IBC mandates a moratorium on the institution or continuation of suits or
+proceedings, including execution and enforcement actions, against the
+Corporate Debtor upon initiation of CIRP. This statutory moratorium applies
+to all forums—civil, criminal, quasi-judicial, or administrative—and is aimed
+at preserving the assets of the Corporate Debtor during the resolution
+process.
+7.
+Ld. Counsel asserted that the PAO dated 26.12.2017 was passed in
+breach of the moratorium imposed by the Adjudicating Authority vide order
+dated 22.12.2017. The attachment directly affects the Corporate Debtor’s
+assets and impairs their availability for resolution under the IBC. Such an
+action is contrary to both the letter and the spirit of the moratorium provision.
+8.
+Ld. Counsel relied on various Hon’ble Supreme Court Judgments
+including ‘Alchemist Asset Reconstruction Company Ltd. v. Hotel Gaudavan
+Pvt. Ltd., [Civil Appeal No. 16929 of 2017]’, wherein Hon’ble Supreme Court
+held unequivocally that the moratorium bars all proceedings, including
+coercive measures against the Corporate Debtor. Similarly, in ‘Rajendra K.
+Bhutta v. Maharashtra Housing and Area Development Authority, [Civil Appeal
+No. 12248 of 2018]’, the Apex Court reiterated that asset preservation during
+CIRP is fundamental and actions disrupting asset control are impermissible.
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+9.
+The Counsel for the Appellant further submitted that Section 238 of the
+IBC is a comprehensive non-obstante clause, which gives overriding effect to
+its provisions notwithstanding anything inconsistent contained in any other
+law. The said provision ensures that the objectives of the Code are not
+frustrated by contrary provisions in other enactments, including the PMLA.
+10.
+Ld. Counsel stated that in ‘Innoventive Industries Ltd. v. ICICI Bank,
+[(2017) SCC OnLine SC 1025]’, the Hon’ble Supreme Court held that Section
+238 must be given full effect to ensure that the Code achieves its legislative
+purpose. This principle has been consistently reaffirmed, including by this
+Hon’ble Tribunal in ‘Directorate of Enforcement v. Manoj Kumar Agarwal &
+Ors., Company Appeal (AT) (Insolvency) No. 575 of 2019’, where it was held
+that when there is a conflict between the IBC and the PMLA, the IBC will
+prevail.
+11.
+The Counsel further submitted that in ‘Solidaire India Ltd. v. Fairgrowth
+Financial Services Ltd., [AIR 2001 SC 958]’, the Hon’ble Supreme Court held
+that where two enactments contain non-obstante clauses, the later in point
+of time will override the earlier. Since, the IBC was enacted subsequent to the
+PMLA, its non-obstante clause has superior legislative intent. Thus, counsel
+for appellant contended that any inconsistency between the IBC and PMLA
+must be resolved in favour of the IBC, especially in the context of moratorium
+and resolution.
+12.
+The Counsel for the Appellant also submits that the objective of the IBC,
+as stated in its Preamble and consistently reiterated by the Hon’ble Supreme
+Court, is to maximize the value of the Corporate Debtor’s assets and to ensure
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+a time-bound insolvency resolution. The act of attaching the Corporate
+Debtor’s properties during CIRP frustrates this objective.
+13.
+It was the submission of Ld. Counsel that the continuation of
+attachment, renders the Corporate Debtor’s assets unusable and unsellable,
+thereby reducing the commercial viability of the resolution plan and
+disincentivizing resolution applicants. The assets, which ought to be
+monetized for the benefit of creditors, remain locked under the control of the
+ED, despite the statutory requirement of asset availability for resolution.
+14.
+Ld. Counsel submitted that once a resolution plan has been approved,
+the assets of the Corporate Debtor must be allowed to flow into the new
+management without encumbrances. Maintaining the attachment post-
+approval defeats the commercial expectations of the Successful Resolution
+Applicant and could render the entire CIRP futile.
+15.
+The Counsel for the Appellant stated that the introduction of Section
+32A to the IBC has significantly altered the legal landscape by providing
+statutory immunity to the Corporate Debtor and its assets from prosecution
+and attachment for prior offences, provided the resolution plan has been
+approved and management has changed hands.
+16.
+He further submitted that this provision was upheld by the Hon’ble
+Supreme Court in ‘Manish Kumar v. Union of India, [W.P. (C) No. 26 of 2020]’,
+where it was held that Section 32A serves a vital purpose of ensuring that
+bona fide resolution applicants are not deterred from investing in insolvent
+companies due to past wrongdoings.
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+17.
+It was submitted that in ‘JSW Steel Ltd. v. Mahender Kumar Khandelwal
+& Ors., Company Appeal (AT) (Insolvency) No. 957 of 2019’, this Hon’ble
+Tribunal held that ED and other enforcement agencies cannot attach the
+assets of the Corporate Debtor, once the resolution plan is approved and
+control has shifted. Similarly, the Delhi High Court in ‘Rajiv Chakraborty, RP
+of EIEL v. Directorate of Enforcement, W.P. (C) No. 9531/2020’, clarified that
+the immunity under Section 32A applies after approval and prevents
+enforcement actions under PMLA.
+18.
+Ld. Counsel thus submitted that the Respondent has no authority to
+continue with or seek enforcement of attachment once the statutory
+conditions under Section 32A are satisfied.
+19.
+Ld. Counsel for the Appellant clarified that the instant appeal is limited
+to the challenge of the validity of the Provisional Attachment Order in the
+context of IBC provisions, in particular Section 14 (moratorium) and Section
+238 (overriding effect). It is distinct from any proceedings pending before the
+Appellate Tribunal under PMLA, which concern the substantive legality and
+confirmation of the PAO under the PMLA framework.
+20.
+He further submitted that there is no duplication of relief or forum
+shopping, as the reliefs sought in the present appeal pertain only to the
+jurisdictional inconsistency and statutory conflict between IBC and PMLA.
+Both forums are approached under different legal bases and arise from
+separate causes of action.
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+
+21.
+Ld. Counsel further asserted that it is incorrect to contend that the
+Appellant is attempting to undermine the PMLA adjudicatory process by
+invoking the IBC framework.
+22.
+Ld. Counsel further submitted that during the pendency of this appeal
+the Resolution Plan of the Corporate Debtor was approved by the Adjudicating
+Authority based on the application No. M.A. No. 2166 of 2019 on 26.11.2019.
+However, some inadvertent errors had crept in the order dated 26.11.2019,
+these were subsequently rectified by the adjudicating Authority vide order
+dated 27.01.2021.
+23.
+In view of the changes subsequent to filing of the appeal Ld. Counsel
+sought the following reliefs:
+(i)
+Declare that the provisions of the IBC, particularly Section 14 and
+Section 238, override the PMLA to the extent of any inconsistency;
+(ii) Direct that the Corporate Debtor and its assets shall not be subject
+to any prosecution or attachment post-approval of the Resolution
+Plan under Section 32A of the Code; and
+(iii) Pass such other order(s) as this Hon’ble Appellate Tribunal may deem
+fit and proper in the facts and circumstances of the present case.
+
+Submissions of the Respondent No.1 (Directorate of Enforcement)
+24.
+The Ld. Counsel for the Directorate of Enforcement/Respondent
+submitted that the Hon’ble National Company Law Tribunal (NCLT) and this
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+Hon’ble Appellate Tribunal (NCLAT) do not possess jurisdiction to adjudicate
+upon or interfere with provisional or confirmed attachment orders issued
+under the Prevention of Money Laundering Act, 2002 (“PMLA”). The exclusive
+jurisdiction to entertain any grievance or challenge to such attachment orders
+lies with the authorities and appellate forums constituted under the PMLA,
+namely the Adjudicating Authority under Section 8 and the Appellate Tribunal
+under Section 26.
+25.
+Ld. Counsel stated that in the present matter, the provisional
+attachment order dated 26.12.2017 was passed under Section 5(1) of the
+PMLA by the competent authority, which was subsequently confirmed by the
+Adjudicating Authority under Section 8(3) of the PMLA on 11.06.2018.
+Therefore, the only statutory remedy available to the Appellant was to prefer
+an appeal before the Appellate Tribunal under the PMLA in accordance with
+Section 26 thereof.
+26.
+Ld. Counsel cited the decision of Hon’ble Supreme Court in ‘Embassy
+Property Developments Pvt. Ltd. v. State of Karnataka & Ors., [2019 SCC
+OnLine SC 1542]’, wherein the SC has categorically held that the jurisdiction
+of the NCLT does not extend to matters involving public law, criminal law, or
+administrative actions taken under other statutes that fall outside the IBC's
+domain. The Court observed that a resolution professional cannot bypass the
+special statutory forums provided under other enactments and must pursue
+remedies under the designated mechanisms. The observations in paras 41 to
+43 of the Embassy judgment make it abundantly clear that even if CIRP is
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+pending, NCLT cannot usurp the jurisdiction conferred on other statutory
+forums.
+27.
+The Counsel for the Respondent further submitted that once the
+Provisional Attachment Order (PAO) dated 26.12.2017 was confirmed by the
+Adjudicating Authority under PMLA on 11.06.2018, it acquired a degree of
+finality under the scheme of the PMLA. The confirmation order is a quasi-
+judicial determination of the legitimacy of the attachment and its nexus to
+alleged money laundering activity. The Resolution Professional’s attempt to
+challenge this attachment before the NCLT, without appealing the
+confirmation order under Section 26 of PMLA, amounts to circumvention of
+due process.
+28.
+Ld. Counsel submitted that the Resolution Professional cannot be
+permitted to re-litigate issues which have already been decided by the
+competent Adjudicating Authority under the PMLA, especially when such
+confirmation order has not been assailed before the proper appellate forum.
+The principle of statutory finality, judicial discipline, and the hierarchy of
+forums demand that the challenge be directed to the PMLA Appellate Tribunal
+and not before this Hon’ble Tribunal.
+29.
+The Counsel for the Respondent submitted that the Prevention of
+Money Laundering Act, 2002 is a special legislation enacted to address the
+serious menace of money laundering and to provide for confiscation of
+property derived from or involved in money laundering. The PMLA is a self-
+contained code with an independent mechanism for investigation,
+attachment, adjudication, and confiscation of tainted assets. It contains its
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+own set of procedural and substantive safeguards and is designed to protect
+the integrity of the financial system and fulfill India’s international obligations
+under FATF (Financial Action Task Force).
+30.
+Ld. Counsel stated that the provisions of the PMLA operate in a separate
+and distinct field from the IBC. While the IBC is aimed at restructuring and
+reviving insolvent companies, the PMLA is focused on tracing and confiscating
+criminal proceeds. These two statutes operate in parallel, and neither negates
+the other. Importantly, where assets are identified as "proceeds of crime," they
+do not form part of the asset pool available for insolvency resolution under
+the IBC, as such assets are liable to be confiscated by the State.
+31.
+Ld. Counsel further stated that the Hon’ble Delhi High Court in ‘Deputy
+Director, Directorate of Enforcement v. Axis Bank & Ors., [2019 SCC OnLine Del
+7854]’, clearly held that IBC cannot override PMLA in cases involving proceeds
+of crime. The Court ruled that while the IBC and PMLA serve different
+objectives, in cases involving tainted assets, the provisions of PMLA must
+prevail, as they serve an equally compelling and constitutionally valid public
+interest.
+32.
+Ld. Counsel further cited the Judgement of the Hon’ble Supreme Court
+in ‘Gautam Kundu v. Directorate of Enforcement, [(2015) 16 SCC 1]’, wherein
+Hon’ble SC has held that the PMLA is an important tool to prevent economic
+offences and that courts must give it due deference when construing
+overlapping legislative schemes.
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+33.
+The Counsel for the Respondent further stated that Section 32A of the
+IBC, introduced in 2020, provides immunity to the Corporate Debtor from
+prosecution and property attachment in certain conditions. However, this
+immunity is conditional and prospective. The section comes into effect only
+after the resolution plan has been approved and control of the Corporate
+Debtor has shifted to a new management unconnected with prior offences.
+34.
+In the present case, the attachment of the Corporate Debtor’s properties
+by the ED occurred on 26.12.2017 and was confirmed on 11.06.2018, well
+before the approval of the resolution plan in November 2019. Therefore,
+Section 32A cannot be invoked retrospectively to invalidate actions lawfully
+taken by the ED in the performance of its statutory duty under PMLA. The
+assets were already in the custody of law under the PMLA framework before
+the CIRP reached the resolution stage.
+35.
+Ld. Counsel claimed that this legal position is supported by
+‘P. Chidambaram v. Directorate of Enforcement, (2019) 9 SCC 24’, wherein the
+Hon’ble Supreme Court upheld the preventive and punitive objectives of PMLA
+and declined to dilute its strict application in the face of overlapping legal
+provisions. Furthermore, in ‘Varrsana Ispat Ltd. v. Deputy Director, Directorate
+of Enforcement, Company Appeal (AT) (Insolvency) No. 493 of 2018’, this
+Hon’ble Appellate Tribunal, while dealing with similar facts, held that if the
+attachment under PMLA is pre-CIRP and confirmed, then such action is
+outside the purview of IBC interference.
+36.
+The Counsel for the Respondent submitted that the invocation of
+Section 14 by the Appellant to shield assets that are alleged proceeds of crime
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+is legally untenable. The moratorium under IBC is designed to preserve the
+economic value of the Corporate Debtor’s bona fide assets for resolution—not
+to protect properties acquired through criminal activity or subject to
+attachment under a special statute like the PMLA.
+37.
+He stated that to allow a blanket application of moratorium even in
+cases where tainted assets are involved would frustrate the objectives of the
+PMLA and encourage corporate fraudsters to launder money and then seek
+shelter under the insolvency framework. Such an interpretation would
+undermine public trust in both statutes. It has been held by the Hon’ble
+Supreme Court in ‘Y.S. Jagan Mohan Reddy v. Central Bureau of Investigation,
+[(2013) 7 SCC 439]’, the courts must prevent the misuse of legal and judicial
+mechanisms by economic offenders seeking to escape accountability under
+the guise of procedural or jurisdictional protections.
+38.
+The Counsel for the Respondent further submitted that preventing
+money laundering and confiscating proceeds of crime are of paramount
+national and international importance. India, as a signatory to the United
+Nations Convention Against Transnational Organized Crime (UNTOC) and a
+member of the FATF, is bound to enforce stringent anti-money laundering
+laws. The IBC cannot be used as a safe haven to subvert such international
+obligations or the domestic public interest underlying the PMLA. Allowing
+Corporate Debtors to claim immunity from attachment under the PMLA by
+merely undergoing CIRP would severely impair the credibility and
+effectiveness of anti-money laundering enforcement in India. It would create
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+an unintended loophole in the legal framework and embolden future financial
+offenders.
+39.
+In the end he sought dismissal of the appeal for lack of jurisdiction and
+merit.
+Submission of Respondent No.2 – (Successful Resolution Applicant)
+40.
+Ld. Counsel for the Respondent No.2/Successful Resolution Applicant
+stated that during the pendency of the appeal, the resolution plan submitted
+by Respondent No.2 was approved and Mr Anil Kohli erstwhile RP of the
+Corporate debtor was appointed as a monitoring professional to monitor the
+implementation of the resolution plan. This Tribunal vide its order dated
+20.10.2022 allowed the prayer of appellant to implead the SRA in this appeal.
+41.
+Ld. Counsel submitted that the NCLT, Mumbai while approving the
+resolution plan vide Order date 26.11.2019 was pleased to hold that the
+Respondent No.2/SRA shall not be held responsible for any statutory
+outstanding dues and other claims prior to the period of commencement of
+CIRP. Paragraph No.2-23 of the said Order dated 26.11.2019 are reproduced
+herein below:
+“21. As far as question of waiver of outstanding dues and other
+claims as on date of approval of the Resolution Plan is concerned,
+the Resolution Applicant, who will step into the shoes of
+corporate debtor subsequent to approval of Resolution Plan by
+the Bench shall not be held responsible for any outstanding
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+statutory dues and other claims for the period before the
+Commencement of CIRP.
+22. The Resolution Plan is binding on the Corporate Debtor and
+other stakeholders involved so that revival of the Debtor
+Company shall come into force with immediate effect and the
+“Moratorium” imposed under section 14 shall cease to have any
+effect henceforth. The Resolution Professional shall submit the
+records collected during the commencement of the Proceedings to
+the Insolvency & Bankruptcy Board of India for their record and
+also return to the Resolution Applicant or New Promoters.
+Certified Copy of this Order be issued on demand to the
+concerned parties, upon due compliance. That liberty is hereby
+granted for moving any Miscellaneous Application if required in
+connection with implementation of this Resolution Plan. That in
+respect of stepping by the New Promoters/Resolution Applicant
+into the shoes of the erstwhile Company and taking over the
+business, the provisions of Companies Act, 2013 shall be
+applicable and because of this reason a copy of this Order is to
+be submitted in the Office of the Registrar of Companies,
+Mumbai.
+23. The RP is further directed to handover all records,
+premises/factories/documents
+to
+Resolution
+Applicant
+to
+finalize the further line of action required for starting of the
+operation. The Resolution Applicant shall have access to all the
+records/premises/factories/documents
+through
+Resolution
+Professional to finalize the further line of action required for
+starting of the operation.”
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+42.
+Ld. Counsel submits that the attachments and the encumbrances have
+not been removed till date, which has caused serious prejudiced to them as
+they have paid the entire amount and the Resolution Plan. He prays for
+release of assets/properties of the corporate debtor to be transferred to the
+Respondent No.2 without any fetters.
+43.
+Ld. Counsel further submitted that they have made complete payment
+under the Resolution Plan and have also deposited interest @ of RBI base rate
+plus 2% from the period 27.01.2020 to 15.01.2021 due to delayed payment.
+44.
+Ld. Counsel submitted that this Appellate Tribunal vide its order dated
+10.06.2022 in CA (AT) (Ins.) No. 445 of 2021 has clarified that the SRA is to
+get a clean slate and all dues of the Corporate Debtor prior to the
+commencement of the CIRP stand extinguished. This Hon’ble Appellate
+Tribunal also examined the terms of the resolution plan at Para 29 of the said
+order dated 10.06.2022 stating the SRA is entitled to get all the assets of the
+Corporate Debtor free from any encumbrances and would be available for use
+by the SRA without any fetters or brevity and clarity.
+45.
+Ld. Counsel submits that in spite of clear order there is still attachment
+on assets/properties of the Corporate Debtor by the Respondent No.1. Despite
+fulfilment of all the requirements/conditions as envisaged under Section 32A
+of the Code, the assets/properties of the Corporate Debtor have not been
+transferred to SRA without any attachment, encumbrances, Lien etc. till date.
+In support of his submission, the Respondent has cited the following
+judgments of Hon’ble Supreme Court and Hon’ble High Courts:
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+Judgments:
+(i)
+Essar Steel India Ltd. Committee of Creditors v. Satish Kumar
+Gupta, (2020) 8 SCC 531: Para 66-67.
+(ii)
+Manish Kumar vs. Union of India (UOI) and Ors. (19.01.2021 SC):
+2021 5 SSC 1, Para 246-247, 253-259
+(iii)
+Arya Constructions through Mr. Amit Singh Yadav versus Punjab
+National Bank Ltd; W.P (C) No. 10768/2024, Hon’ble High Court
+of Delhi, Para 19,20,23
+(iv)
+Jaypee Kensington Boulevard Apartments Welfare Association &
+Ors. v. NBCC (India) Ltd. & Ors, (2022) SCC 401, Para 122
+(v)
+V Hotels Limited Vs. Directorate of Enforcement and Ors, Order
+Dated 28.11.2024 passed by the Hon’ble High Court of Bombay,
+Writ Petition (L) No. 32216 of 2024, Para 18-20.
+(vi)
+Ghanshyam Mishra and Sons Private Limited versus Edelweiss
+Assets Reconstruction Company 2021 SCC online SC 313, Para
+95(I)
+(vii) Shiv Charan and Ors. versus Adjudicating Authority under the
+prevention of Money Laundering Act, 2002, Department of
+Revenue And Ors, Writ Petition (L) No. 9943, Hon’ble High Court
+of Judicature at Bombay, Para- 11, 14, 52.
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+46.
+Summing up his arguments Ld. Counsel state that in view of aforesaid
+facts and settled position of law as seen from cited judgments this Appellate
+Tribunal may allow the appeal and direct unencumbered/attachment
+free/Lien free transfer of properties of the Corporate Debtor to the Respondent
+No.2/SRA.
+Analysis and findings
+47.
+We have heard the detailed submissions advanced by the Learned
+Counsels for both the Appellant and the Respondents. We have gone through
+voluminous records and written statements of the parties. Based on the same
+we frame the following 3 issues for determination:
+I.
+Whether the provisional attachment of assets by the Directorate of
+Enforcement (ED) under the PMLA violates the moratorium imposed
+under Section 14 of the IBC;
+II.
+Whether the IBC, by virtue of Section 238, overrides the PMLA in case
+of inconsistency, particularly in the context of resolution processes
+involving tainted assets; and
+III. Whether the NCLT/NCLAT possess jurisdiction to issue directions
+affecting attachment orders passed under the PMLA and confirmed by
+the PMLA Adjudicating Authority.
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+ISSUE I: Whether the provisional attachment of assets by the Directorate
+of Enforcement (ED) under the PMLA violates the moratorium imposed
+under Section 14 of the IBC.
+48.
+Section 14(1)(a) of the Insolvency and Bankruptcy Code, 2016 provides
+that upon the commencement of CIRP, there shall be a moratorium
+prohibiting, inter alia, the institution or continuation of suits or proceedings
+against the corporate debtor, including execution of any judgment or order.
+The object of the moratorium is to maintain the status quo of the debtor’s
+assets, protect the value of the debtor's estate, and ensure that Corporate
+Insolvency Resolution Process can take place without disruption by individual
+enforcement actions.
+49.
+The Appellant’s submission is that the ED's issuance of a Provisional
+Attachment Order (PAO) on 26.12.2017, just four days after the CIRP
+commenced on 22.12.2017, constitutes a proceeding in breach of this
+moratorium. It is contended that the moratorium under Section 14 applies to
+“all proceedings” irrespective of their nature-civil, criminal, quasi-judicial or
+otherwise—and hence includes attachment actions under PMLA. It is further
+argued that such attachments impair the CIRP’s viability, as the locked assets
+cannot be accessed or monetized.
+50.
+Per contra, the Respondent argues that proceedings under the PMLA
+relate to criminal law enforcement and are not in the nature of recovery or
+enforcement proceedings contemplated under Section 14 of the IBC. It is
+further contended that the assets attached are not merely commercial assets,
+but are alleged “proceeds of crime”, which under the scheme of the PMLA, are
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+liable to be preserved, adjudicated and potentially confiscated in the interest
+of justice and public interest.
+51.
+Based on the records, we find the following timeline of relevant events:
+ 22.12.2017 CIRP commences against Dunar Foods Ltd. By the order of
+the NCLT.
+ 26.12.2017, a Provisional Attachment Order was issued by the ED
+under Section 5(1) of the PMLA, linked to alleged tainted funds received
+by Dunar Foods Ltd. from PD Agroprocessors Pvt. Ltd.
+ 11.06.2018 The attachment order confirmed by the PMLA Adjudicating
+Authority.
+This timeline clearly shows that the ED’s action occurred after the
+moratorium had commenced. However, the mere temporal sequence is not
+determinative; the key issue is whether the ED’s attachment under PMLA
+qualifies as a “proceeding” hit by the moratorium.
+52.
+In ‘Alchemist ARC v. Hotel Gaudavan Pvt. Ltd. [2017 SCC OnLine SC
+1362]’, Hon’ble Supreme Court unequivocally held that moratorium under
+Section 14 covers all legal proceedings. However, the issue therein related to
+civil proceedings and recovery suits.
+53.
+In ‘Embassy Property Developments v. State of Karnataka, [(2019) SCC
+OnLine SC 1542]’, Hon’ble Supreme Court held that NCLT does not have
+jurisdiction over matters that arise from statutory or administrative actions
+under public law, thereby drawing a distinction between the economic domain
+of IBC and the criminal/public domain of other laws.
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+54.
+Further, in ‘Varrsana Ispat Ltd. v. ED (Company Appeal (AT) (Ins.) No.
+493 of 2018), this Appellate Tribunal held that if attachment under PMLA is
+based on prior ECIRs and is duly confirmed under PMLA provisions, then
+such action cannot be interfered with by the IBC forum merely because CIRP
+is ongoing.
+In the present case, while the PAO was passed a few days after CIRP
+admission, the ECIR investigation commenced as far back as 2013. The ED’s
+proceedings were therefore rooted in pre-existing criminal investigation
+processes, and the assets involved were allegedly acquired as proceeds of
+money laundering taking them outside the regular asset pool as contemplated
+under IBC.
+55.
+Based on the discussion above we observe the following:
+ Section 14 aims to preserve lawful, unencumbered assets for the
+purpose of resolution.
+ However, if the property is alleged to be “proceeds of crime” and is
+already under adjudication by competent authority under a penal
+statute, such property cannot be deemed to be part of the freely
+available resolution estate.
+ The PMLA provides its own adjudicatory process and remedy for
+challenging attachments, which is separate from the IBC.
+Therefore, the issuance of the PAO dated 26.12.2017 by ED under the PMLA
+does not violate the moratorium under Section 14 of the IBC. Accordingly, the
+Issue (I) is answered in the negative.
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+ISSUE II: Whether the IBC, by virtue of Section 238, overrides the PMLA
+in case of inconsistency, particularly in the context of resolution
+processes involving tainted assets
+56.
+Crux of this issue lies in a potential conflict between two central
+legislations viz. the Insolvency and Bankruptcy Code, 2016 (IBC) and the
+Prevention of Money Laundering Act, 2002 (PMLA). The IBC is a commercial
+legislation aimed at facilitating time-bound insolvency resolution of financially
+distressed companies. On the other hand, the PMLA is a penal statute that
+seeks to identify, attach, and confiscate properties derived from criminal
+activities such as money laundering.
+Section 238 of the IBC states:
+“This is what is known in legal parlance as a non-obstante
+clause; a provision meant to give the statute overriding effect over
+any other law that contains inconsistent provisions.”
+57.
+The Appellant argues in view of the non-obstante clause and the fact
+that IBC is a later legislation, if the provisions of the PMLA in particular, the
+attachment of corporate debtor’s assets, stand in the way of carrying out a
+successful insolvency resolution, such attachment must give way to the IBC.
+58.
+The Respondent/ED, however, contends that there is no inconsistency.
+The PMLA and IBC, according to the ED, operate in different domains; one
+deals with criminal proceeds; the other, with commercial insolvency. Where
+the asset is tainted as a “proceed of crime,” it ceases to be a legitimate
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+corporate asset and cannot be deployed for commercial resolution. In such
+cases, the PMLA must prevail in its domain.
+59.
+Section 238 of the IBC is intended to ensure that the objects of the Code
+are not frustrated by competing statutory provisions. In ‘Innoventive
+Industries Ltd. v. ICICI Bank, [(2017) 1 SCC 407]’, the Hon’ble Supreme Court
+held that: Section 238 overrides all other laws, including company law
+provisions, to the extent of inconsistency. This ensures that once IBC applies,
+other statutes cannot interfere.
+60.
+However, the laws do not operate in a vacuum. For the non-obstante
+clause to apply, two conditions must be satisfied:
+(i) There must be a clear inconsistency between the two statutes;
+(ii) Both statutes must operate in the same field or deal with the same
+subject matter.
+Therefore, the key question is: Do the IBC and PMLA operate in the same
+legislative field, and do they deal with the same subject matter? If the answer
+is yes, then Section 238 of the IBC will override the PMLA. If not, the two must
+be harmonized to allow coexistence. We will now analyze both the statutes.
+61.
+The PMLA is a criminal law designed to trace, attach, and confiscate
+proceeds of crime. Essentially it provides for:
+ Investigation under ECIRs (equivalent to FIRs);
+ Attachment under Section 5;
+ Adjudication and confirmation by a specialized authority;
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+ Appeal to an Appellate Tribunal;
+ Confiscation to the Central Government if offences are proved.
+62.
+The IBC, by contrast, is a commercial and economic legislation that
+essentially provides for:
+ Admission of insolvency applications;
+ Constitution of the Committee of Creditors;
+ Resolution plan approval;
+ Liquidation, if no resolution is achieved.
+
+63.
+The objectives of both statutes, though occasionally intersecting, are
+not inherently inconsistent. While the IBC aims at reviving commercial
+entities, the PMLA seeks to punish crime and prevent unjust enrichment
+through illicit means.
+64.
+Hon’ble Delhi High Court in ‘Deputy Director, ED v. Axis Bank [2019
+SCC OnLine Del 7854]’ explicitly held that IBC and PMLA operate in different
+fields and must be harmoniously construed. Tainted assets cannot be
+considered part of the resolution estate under IBC.
+65.
+A conflict may arise, when the ED attaches an asset during CIRP,
+rendering it unavailable for resolution. The Appellant contends that such
+action frustrates the Code’s purpose of value maximization. While it is true
+that the IBC thrives on a free, unencumbered asset base to attract resolution
+applicants. If prime assets are rendered unusable due to attachment, the
+likelihood of resolution reduces. That, however, is not a sufficient ground to
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+invalidate another statute’s valid operation, especially when it relates to
+proceeds of crime.
+66.
+Courts have consistently held that tainted assets are not protected
+under commercial laws. In ‘Gautam Kundu v. ED, [(2015) 16 SCC 1]’, the
+Hon’ble Supreme Court emphasized the importance of preserving penal
+provisions in the face of competing laws. Hon’ble court observed that Where
+money laundering is involved, courts must be cautious not to allow
+commercial or procedural mechanisms to defeat the legislative intent of penal
+enforcement.
+67.
+The Appellant has also placed reliance on Section 32A of the IBC
+(introduced in 2020), which grants immunity to the Corporate Debtor and its
+property post-resolution. Section 32 A has been extracted below:
+“Section 32A (1) states that once a resolution plan is
+approved and control passes to a new, unrelated
+management, the Corporate Debtor shall not be liable for
+offences committed prior to the commencement of CIRP.
+Section 32A (2) further provides that such property shall
+not be attached or confiscated.”
+However, in the present case, the PAO was issued on 26.12.2017 and
+confirmed on 11.06.2018. The resolution plan was approved only in 2019. This
+makes Section 32A inapplicable in the present case, as the property was
+already under valid legal attachment before the statutory conditions under
+Section 32A were met.
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+68.
+This view finds support in ‘Manish Kumar v. Union of India [(2021) 5
+SCC 1]’, where the Hon’ble Supreme Court upheld the prospective nature and
+conditional immunity under Section 32A.
+69.
+The doctrine of harmonious construction mandates that both statutes
+must be read in a manner where they complement each other, not destroy
+each other. Secondly, if two special laws operate in different fields, neither
+shall override the other, unless they are irreconcilably inconsistent.
+70.
+In the present factual matrix, the IBC cannot be said to override the
+PMLA merely because the ED’s attachment interferes with the CIRP. The ED
+does not act as a creditor, but as a public enforcement agency. The attached
+assets are not to satisfy creditors, but to uphold penal objectives and
+international obligations under FATF and UN Conventions.
+71.
+In view of the above analysis, we hold the following:
+(i) that the PMLA and IBC operate in distinct spheres;
+(ii) there no irreconcilable inconsistency exists between the two;
+(iii) Section 238 of the IBC cannot override the PMLA in respect of
+proceedings involving proceeds of crime;
+(iv) That attachment under the PMLA, if validly made and confirmed,
+cannot be undone merely because CIRP is ongoing.
+Accordingly, Issue II is answered in the negative.
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+ISSUE III: Whether the NCLT/NCLAT have jurisdiction to interfere with
+confirmed attachments under the PMLA
+72.
+The Appellant argues that his application under Section 60(5) of the
+IBC was limited to seeking release of assets to ensure CIRP continuity and
+that there is no forum shopping. The Respondent on the other hand relies on
+the judgements of Hon’ble SC in ‘Embassy Property (Supra)’ and this Appellate
+Tribunal in ‘Varrsana Ispat Ltd.(supra)’ to argue that attachment orders
+confirmed under the PMLA fall exclusively within the PMLA statutory
+framework and not within the NCLT/NCLAT’s jurisdiction.
+73.
+Hon’ble Supreme Court in Embassy Property (supra) has categorically
+held that NCLT cannot interfere in decisions of statutory or quasi-judicial
+authorities functioning under special statutes like the Mines and Minerals
+Act. By extension this would automatically include a special statute like the
+PMLA.
+In the present case, the PAO was confirmed under Section 8(3) of the
+PMLA by its Adjudicating Authority. The proper remedy for the Appellant/ RP
+was to file an appeal under Section 26 of the PMLA before the Appellate
+Tribunal constituted thereunder.
+74.
+We also note that subsequent to conclusion of hearing in this case,
+Hon’ble Supreme Court delivered a landmark judgment exactly on this issue.
+Hon’ble SC in its judgment dated 02.05.2025 in ‘Kalyani Transco Vs. M/s.
+Bhusan Power and Steel Ltd and Others (Civil Appeal No. 1808 of 2020)’
+discussed the powers of NCLAT vis a vis provisions under PMLA 2002 and
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+laid down the law in this regard. The relevant paras 24 -25 and 27-31 of the
+judgment are extracted below:
+“(V) POWERS OF NCLAT TO REVIEW THE DECISION OF
+STATUTORY AUTHORITY UNDER THE PMLA: -
+24. This takes us to the issue as to whether the NCLAT had any
+powers of Judicial Review over the decision taken by the
+Statutory Authority under the PMLA?
+As per the chronology of events stated earlier, after the NCLT vide
+the Order dated 05.09.2019 approved the Resolution Plan of JSW,
+subject to the conditions mentioned in para 128 thereof, the
+Directorate of Enforcement of Central Government on 10.10.2019
+had provisionally attached the assets of CD-BPSL under Section
+5 of PMLA. The SRA-JSW challenged the powers of ED to pass
+Provisional Attachment Order by raising an issue in the Appeal
+being Company Appeal No. 957 of 2019 pending before the
+NCLAT. The NCLAT vide the Order dated 14.10.2019 stayed the
+said PAO dated 10.10.2019, in the said Company Appeal No.957
+of 2019.
+25. It appears that couple of months thereafter, Section 32A came
+to be inserted in the IBC by Act 1 of 2020 w.e.f. 28.12.2019,
+which pertained to the liability of a Corporate Debtor for an
+offence committed prior to the commencement of CIRP. The NCLAT
+therefore, while deciding the Company Appeal No. 957 of 2019
+filed by the JSW along with other Company Appeals filed by the
+other parties against the Order passed by the NCLT dated
+05.09.2019, held in the impugned Judgment and Order dated
+
+[PAGE 33]
+-33-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+17.02.2020 that in view of Section 32A(1)(2), the Directorate of
+Enforcement/Investigating Agencies did not have the powers to
+attach assets of Corporate Debtor, once the Resolution Plan had
+stood approved, and that the criminal investigations against the
+Corporate Debtor also would stand abated. The NCLAT also
+declared in para 71 of the impugned Judgment that the
+attachment of assets of Corporate Debtor by the ED pursuant to
+the order dated 10.10.2019 was illegal or without jurisdiction.
+27. In this regard, it is pertinent to note that the NCLT and NCLAT
+are constituted under Section 408 and 410 of the Companies Act,
+2013 and not under the IBC. The jurisdiction and powers of the
+NCLT and NCLAT are well circumscribed under Section 31 and
+Section 60 so far as NCLT is concerned, and under Section 61 of
+IBC so far as the NCLAT is concerned. Neither the NCLT nor the
+NCLAT is vested with the powers of judicial review over the
+decision taken by the Government or Statutory Authority in
+relation to a matter which is in the realm of Public Law. As held
+by a Three-judge Bench in case of Embassy Property
+Developments Private Limited vs. State of Karnataka &
+Ors., the Section 60(5) speaks about any question of law or fact,
+arising out of or in relation to insolvency resolution, but a decision
+taken by the Government or a statutory authority in relation to a
+matter which is in the realm of Public Law, cannot be brought
+within the fold of the phrase “arising out of or in relation to the
+insolvency resolution” appearing in Section 60(5)(C) IBC. It has
+been further held therein that in the light of the statutory scheme
+as culled out from the various provisions of the IBC, it is clear that
+
+[PAGE 34]
+-34-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+wherever the Corporate Debtor has to exercise a right that falls
+outside the purview of the IBC, especially in the realm of the
+public law, they cannot take a bypass and go before NCLT for the
+enforcement of such a right.
+28. In view of the settled proposition of law, when the NCLT could
+not exercise the powers of judicial review falling outside the
+purview of the IBC, or falling within the purview of public law, the
+NCLAT also, being an Appellate Authority under Section 61 over
+the orders passed by the NCLT, could not exercise any power or
+jurisdiction beyond Section 61 of IBC.
+29. As held by us earlier, a person aggrieved by an order of the
+Adjudicating Authority can prefer an Appeal to the NCLAT under
+Section 61(1), and that an Appeal against the order approving a
+Resolution Plan under Section 31 could be filed only on the
+grounds mentioned in clauses (i) to (v) of sub-section (3) of Section
+61. Hence, for filing an Appeal under Section 61, there has to be
+an order passed by the NCLT so far as sub-section (1) is
+concerned, and if the Appeal is filed against the order of NCLT
+approving the Resolution Plan under Section 31, it could be filed
+only on the grounds mentioned in sub-section (3) of Section 61.
+30. In the instant case, after the approval of Resolution Plan of
+JSW by the NCLT on 05.09.2019, subject to the conditions
+mentioned therein, the PAO came to be passed by the ED on
+10.10.2019 under Section 5 of the PMLA. The said PAO was
+challenged by SRA-JSW directly in the Company Appeal being No.
+957 of 2019 filed by it before the NCLAT, and the NCLAT vide the
+
+[PAGE 35]
+-35-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+ex parte order dated 14.10.2019 had stayed the PAO. It is
+pertinent to note that the said PAO dated 10.10.2019 was also
+the subject matter of challenge before this Court in the SLPs filed
+by the CoC and the same was stayed by this Court vide the Order
+dated 18.12.2019 in the said SLPs. Despite such position, the
+NCLAT while passing the impugned Judgment and Order dated
+17.02.2020 recorded its findings on Section 32A of IBC to the
+effect that the assets of the Corporate Debtor of which JSW was
+a Successful Resolution Applicant,
+were immuned from
+attachment by Directorate of Enforcement. Such an Order of
+NCLAT is clearly in teeth of the law laid down by this Court in
+Embassy Property Developments (supra). The PMLA being a
+Public Law, the NCLAT did not have any power or jurisdiction to
+review the decision of the Statutory Authority under the PMLA. In
+our opinion, apart from the fact that the said issue was pending
+before this Court in respect of the same PAO dated 10.10.2019
+and therefore the NCLAT should not have decided the said issue,
+it was beyond the jurisdiction of the NCLAT to decide the said
+issue in the Company Appeal filed by JSW under Section 61 of
+IBC.
+31. In that view of the matter, it is held that the observations made
+and the findings recorded by the NCLAT in the impugned
+judgment with regard to the PAO dated 10.10.2019 passed by the
+Directorate of Enforcement under the PMLA, being without any
+authority of law and without jurisdiction, were coram non judice.
+(emphasis supplied)
+
+[PAGE 36]
+-36-
+
+Company Appeal (AT) (Ins.) No. 389 of 2018
+75.
+It is absolutely clear from the above Judgement of the Hon’ble SC that
+NCLAT lacks jurisdiction to interfere with the PAO, which has been
+subsequently confirmed by the Adjudicating Authority under the PMLA. The
+Judgement of Hon’ble SC in Kalyani Transco (Supra) has settled the law in
+this regard.
+Accordingly, Issue III is also answered in the negative. All the 3 issues
+have been decided in the negative against the contentions of the Appellant.
+76.
+In view of the findings above, the appeal is dismissed. Pending I. As, if
+any are closed. There would be no order as to costs.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

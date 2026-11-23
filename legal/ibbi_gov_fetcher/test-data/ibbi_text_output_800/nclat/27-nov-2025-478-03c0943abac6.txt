@@ -1,0 +1,1053 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+
+(Arising against the Impugned order dated 21.08.2024, passed by the Hon’ble
+National Company Law Tribunal, New Delhi Bench-II in IA-2827/ND/2022
+and CP(IB)-363/ND/2022)
+
+IN THE MATTER OF:
+
+Upkar Kaur
+Personal Guarantor to M/s Jagtar Singh & Sons
+Hydraulics Pvt. Ltd.
+Add: C1/B, Mansarovar Garden, New Delhi-110042
+Email: hardeep.singh@jssi.com
+
+...Appellant
+
+Versus
+
+Mr. Gagan Gulati, Resolution Professional
+Having its office at: A-179, First Floor,
+Sudarshan Park, New Delhi-110015.
+Email:- advocategulati@gmail.com
+
+...Respondent No.1
+M/s Intec Capital Limited Financial Creditor
+Add: 708, Manjusha Building, 57,
+Nehru Place, New Delhi- 110019
+Email: ibc@inteccapital.com
+Phone: 9582555722
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. Rakesh K. Bajaj, Mr. Hitesh Chopra, Advocates.
+For Respondents :
+Mr. Manish Kumar, Advocate for R-2.
+Mr. Jasmeet Singh & Mr. Nitin Kumar, Advocates
+for R-1.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+J U D G M E N T
+(27th November, 2025)
+
+INDEVAR PANDEY, MEMBER (T)
+The present appeal arises from the order dated 21.08.2024 passed by
+the National Company Law Tribunal, New Delhi Bench-II (Adjudicating
+Authority) in IA-2827/ND/2022 and CP(IB)-363/ND/2022, wherein the
+Adjudicating Authority initiated the Personal Insolvency Resolution Process
+(PIRP) against Ms. Upkar Kaur, Personal Guarantor to M/s Jagtar Singh &
+Sons Hydraulics Pvt. Ltd. (Corporate Debtor) for the default of a total amount
+of Rs. 4,00,76,605/- (Rupees Four Crore Seventy-Six Thousand Six Hundred
+Five only) as on 01.12.2021, under Section 95 of the Insolvency and
+Bankruptcy Code, 2016,( hereinafter referred to as ‘Code’). Shri Gagan Gulati
+was appointed as Resolution Professional (RP) by the Adjudicating
+Authority. Resolution Professional is arrayed as Respondent No.1 in this
+appeal.
+2.
+The appeal has been filed by Ms. Upkar Kaur (Appellant) impugning
+the order of Adjudicating Authority (AA) on the grounds that the AA has
+passed the order, solely on the basis of the Resolution Professional’s report
+without examining or adjudicating upon the detailed objections she had
+raised regarding limitation; incorrect computation of claim; discharge of
+guarantee due to the 2019 settlement; the legal effect of her resignation; and
+revocation of guarantee. Feeling aggrieved by the non-speaking and
+mechanically passed order, and asserting that the initiation of PIRP is
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+contrary to the mandate of law, barred by limitation, and based on an
+incorrect appreciation of facts, she has approached this Appellate Tribunal
+seeking the setting aside of the impugned order.
+Brief facts of the case
+3.
+The brief facts of the case are as given below:
+i.
+M/s Jagtar Singh & Sons Hydraulics Pvt. Ltd., (Corporate Debtor),
+approached M/s Intec Capital Limited/ Financial Creditor and
+Respondent No.2 in this appeal, for availing the credit facility for a
+sum of Rs. 3,18,00,000/- which was sanctioned by Financial Creditor
+vide sanction letter dated 22.03.2013. Pursuant to the sanction, a loan
+agreement bearing No. 012/920 dated 28.03.2013/ Loan Account No.
+LNPIT00712-130002234 was executed between the Corporate Debtor
+and the Financial Creditor along with Personal Guarantor, Ms. Upkar
+Kaur. The Appellant, who was neither a director nor a shareholder of
+the Corporate Debtor, signed the Deed of Guarantee being a family
+member of the promoters.
+ii.
+The Corporate Debtor again approached the Financial Creditor for
+another credit facility for a sum of Rs. 41,32,383/- which was
+sanctioned vide letter dated 31.05.2016 and a second loan agreement
+with reference to Loan Account No. LNIPT03516-170006753 was
+executed between the parties. The second loan facility carried an
+interest rate of 13%, and it was repayable in 36 monthly instalments of
+Rs. 1.57 lakhs each. The Corporate Debtor serviced approximately 36
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+instalments of this loan before financial circumstances hindered further
+payments.
+iii.
+Instalments under the 2013 loan were paid regularly until the SBI
+account of the Corporate Debtor was frozen in July 2016 due to
+classification of CD’s account as NPA, leading to disruption in EMI
+payments.
+iv.
+The Corporate Debtor communicated with Financial Creditor/
+Respondent-2 through emails during mid-2016 requesting alteration of
+EMI cheque particulars due to the freezing of its SBI account. However,
+before such changes could be affected, cheques were dishonoured,
+prompting the Respondent 2 to initiate proceedings under Section 138
+NI Act.
+v.
+A loan recall notice cum Arbitration Notice was issued for the first time
+by the Respondent 2 to the Corporate Debtor for the Loan Account No.
+LNPIT00712-130002234 on 18.07.2017 and the same was duly served
+upon the Appellant on 26.07.2017. Arbitration Award was passed in
+the favour of the Respondent 2 on 28.08.2018.
+vi.
+The Financial Creditor also initiated CIRP proceedings against the
+Corporate Debtor by filing a petition under Section 7 of the Code which
+was listed as CP(IB)-619/ND/2018, and admitted by Ld. Adjudicating
+Authority on 03.09.2019.
+vii.
+An appeal was filed before this Appellate Tribunal by the Corporate
+Debtor bearing No. Company Appeal (AT) (Ins) No. 968 of 2019, wherein
+a settlement was reached between the parties and Justice (retd.) A.K.
+Sikri of Hon’ble SC of India was appointed as Mediator. His mediation
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+led to signing of a comprehensive Settlement Agreement on 02.12.2019
+between the Financial Creditor and the Corporate Debtor.
+viii.
+Under the settlement, the first Loan Account No. LNPIT00712-
+130002234 stood restructured into a full and final settlement amount
+of Rs. 1.20 crore, payable in six instalments of Rs. 20 lakhs each
+between March 2020 and August 2020. The second Loan Account No.
+LNIPT03516-170006753 stood fully settled for a lump sum of Rs. 5
+lakhs, and post-dated cheques were accordingly issued.
+ix.
+Several instalments were honoured by the Corporate Debtor, including
+the entire settlement of Rs. 5 lakhs towards the second loan, but the
+national lockdown imposed during March 2020 due to COVID-19
+caused absolute disruption of business operations, impacting the
+repayment capability.
+x.
+The last repayment made by the Corporate Debtor to the FC in the loan
+Account
+No.
+LNIPT03516-170006753
+was
+Rs.
+1,00,000/-on
+11.09.2020. The last of such repayment in the Loan Account no.
+LNPIT00712-130002234 of Rs 1,00,000/- was made on 29.04.2021.
+The Corporate Debtor and the Personal Guarantor failed to make the
+full payment under the terms of settlement agreement dated
+02.12.2019.
+xi.
+In terms of the order dated 06.12.2019 passed by this Tribunal, a
+revival application was filed by the Financial Creditor before the NCLT
+for the initiation of the CIRP process, which was allowed on 23.11.2021.
+The initiation of CIRP proceedings eventually led to liquidation of the
+Corporate Debtor.
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+xii.
+A Demand Notice (Form-B) dated 25.01.2022 was issued to the
+Appellant as Personal Guarantor, which she received on 28.01.2022,
+wherein the Financial Creditor demanded payment of dues.
+xiii.
+An application under Section 95 IBC was thereafter filed by the
+Financial Creditor before NCLT, which was registered as CP(IB)-
+363/ND/2022, and Mr. Gagan Gulati was appointed as Resolution
+Professional and was directed to submit a report under Section 99 of
+the Code.
+xiv.
+The Resolution Professional submitted his report vide I.A No. 2827 of
+2022 under Section 99 of the Code, recommending initiation of the
+Personal
+Insolvency
+Resolution
+Process
+against
+the
+Personal
+Guarantor/ Appellant. The Adjudicating Authority on 21.08.2024
+accepted the Resolution Professional’s recommendation and initiated
+the Personal Insolvency Resolution Process against the Appellant.
+Aggrieved by the aforesaid order of the Adjudicating Authority the
+Appellant/ Personal Guarantor has filed this appeal.
+Submissions of the Appellant
+4.
+Ld. Counsel for the Appellant submits that the dispute arises from a
+series of financial transactions undertaken between the Financial Creditor,
+M/s. Intec Capital Limited and the Corporate Debtor, M/s Jagtar Singh &
+Sons Hydraulics Pvt. Ltd., in which the Appellant was not a director or
+shareholder at any point of time. The Appellant, being only a family member
+of the Directors of the Corporate Debtor, had signed certain documents solely
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+as a Personal Guarantor for one of the loan accounts, and even that guarantee
+was subsequently substituted by a later settlement agreement.
+5.
+Ld. Counsel submits that a Deed of Guarantee dated 28.03.2013 was
+executed in respect of Loan Account No. LNPIT00712-1300002234, under
+which the Appellant acted as guarantor. The Financial Creditor thereafter, in
+March 2016, disbursed a loan amount of Rs. 3,18,00,000/- to the Corporate
+Debtor.
+6.
+Ld. Counsel further submits that in May 2016, the Financial Creditor
+disbursed another loan for Rs. 41,32,383/- under Loan Account No.
+LNPIT03516-170006753, for which no deed of guarantee was executed by the
+Appellant. The Appellant had no privity of contract in respect of this second
+loan. Despite this, the Financial Creditor later sought to invoke liability of the
+Appellant for both loans indistinguishably.
+7.
+It is submitted by Ld. Counsel that due to business stress and lack of
+working capital, the Corporate Debtor eventually defaulted in timely
+repayment as per agreed terms. As a consequence, the Financial Creditor
+issued a Notice of Termination and Reference to Arbitration dated 18.07.2017.
+8.
+It is further submitted by the Ld. counsel for the appellant that the
+Applicant/Creditor had 3 years' period of Limitation, available in terms of
+Section 238A of IB Code read with Article 137 of the Limitation Act, 1963. The
+period of Limitation for filing the present application has already expired on
+17.07.2020. The Applicant/Financial Creditor issued Demand Notice dated
+25.01.2022, which was received by the Respondent on 28.01.2022, i.e. 17
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+months after the period of 3 years from the date of default. Therefore,
+application of the Applicant/ Creditor is barred by time.
+9.
+Thereafter, the Financial Creditor initiated CIRP against the Corporate
+Debtor by filing CP (IB) No. 619 (ND)/2018, which was admitted on
+03.09.2019. The said order of admission was challenged before this Appellate
+Tribunal, wherein the Corporate Debtor sought settlement of the creditor’s
+claims. This Tribunal vide order dated 06.12.2019, permitted settlement
+subject to revival of CIRP in case of default. In consequence, the parties
+executed a Mediation Settlement Agreement dated 02.12.2019, under the
+aegis of Hon’ble Mr. Justice A.K. Sikri (Retd.), where the loan dues of both
+loan accounts were finally quantified and settled.
+10.
+Ld. Counsel submits that as per the Settlement Agreement:
+a) The first Loan Account No. LNPIT00712-1300002234 was settled for
+Rs.1,20,00,000/-.
+b) The second Loan Account No. LNPIT03516-170006753 was settled for
+Rs. 5,00,000/-.
+11.
+It is the submission of Ld. Counsel that partial payments were indeed
+made under the settlement, and the second loan was fully adjusted.
+Thereafter, unprecedented circumstances due to the Covid-19 pandemic
+prevented further payments. Further, one of the directors, Mr. Sukhwant
+Singh, passed away due to Covid, and the other director, Mr. Jagtar Singh,
+aged about 86 years, was not in a position to attend to business affairs.
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+Consequently, the Financial Creditor sought revival of CIRP, which was
+allowed on 23.11.2021 resulting in liquidation proceedings.
+12.
+Ld. Counsel further submits that it was the obligation of the Corporate
+Debtor, and not the Appellant to honour these settlements through post-dated
+cheques issued by the directors.
+13.
+He submits that subsequently, the Financial Creditor filed an
+application under Section 95 of the IBC, 2016 before NCLT against the
+Appellant as Personal Guarantor. The IRP submitted a report under Section
+99, which the Appellant opposed. However, the NCLT, Delhi Bench-III passed
+a non-speaking order, mechanically initiating the Personal Insolvency
+Resolution Process against the Appellant, without considering the objections
+raised. Aggrieved by the impugned order the Appellant has preferred the
+present appeal.
+14.
+The first contention of the Appellant is that she is not guarantor in the
+second loan given to corporate debtor and in the settlement deed entered
+between financial creditor and corporate debtor. Ld. Counsel submits that the
+Appellant had executed a deed of guarantee, only for Loan Account
+LNPIT00712-1300002234 under the Deed of Guarantee dated 28.03.2013.
+The Appellant never signed any guarantee for Loan Account LNPIT03516-
+170006753, and therefore cannot be made liable for the second loan under
+any circumstances.
+15.
+Ld. Counsel further submits that Clause 8 of the Deed of Guarantee,
+relied on by the Financial Creditor, merely speaks of continuity of guarantee
+in respect of a series of transactions under the same agreement. As per
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+Section 129 of the Indian Contract Act, a continuing guarantee applies only
+to transactions under the same contract, and does not extend to new or
+independent contracts, such as the second loan agreement dated 31.05.2016.
+Therefore, the second loan is outside the guarantee framework.
+16.
+Further, Ld. Counsel submits that the Mediation Settlement
+Agreement, particularly Clause (j), explicitly records that Mr. Jagtar Singh
+and Mr. Sukhwant Singh agreed to provide their personal guarantees for
+fulfilment of obligations under the settlement. Thus, the parties expressly
+substituted the earlier contractual arrangement by introducing new
+guarantors. As per Section 62 of the Indian Contract Act, a substituted
+agreement dispenses with the original contract, including any earlier
+guarantee. Therefore, the Appellant's original guarantee stands revoked and
+cannot be pressed into service.
+17.
+Ld. Counsel further submits that the Financial Creditor’s actions are
+vitiated by several procedural defects. Firstly, the Notice of Termination and
+Reference to Arbitration was wrongly addressed to the Appellant in the
+capacity of “Director”, even though the Appellant was not a director of the
+Corporate Debtor at that point of time. Misaddressed notices violate principles
+of natural justice and statutory compliance. Reliance is placed on ‘Mathew
+Varghese v. M. Amritha Kumar, [(2014) 5 SCC 610]’ where the Hon’ble
+Supreme Court emphasised correct service on the correct legal capacity.
+18.
+Secondly, Ld. Counsel submits that the termination notice was issued
+only for the first loan of 28.03.2013, and no termination notice was ever
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+served for the second loan dated 31.05.2016, thereby rendering any action
+under the second loan ex facie illegal.
+19.
+Thirdly, Section 95(5) of the IBC mandates that a creditor must serve a
+copy of the Section 95 application not only on the debtor, but also on the
+Corporate Debtor, where applicable. In the present case, the Financial
+Creditor failed to supply a copy of the Section 95 application to the Corporate
+Debtor, rendering the filing non-compliant.
+20.
+Fourthly, Section 99(6) imposes a duty on the Resolution Professional
+to ensure that the Section 95 application satisfies statutory requirements
+before recommending admission. However, in this case, the RP failed to
+discharge this statutory obligation and mechanically submitted the report
+ignoring multiple legal defects. Therefore, the order based on such report is
+unsustainable.
+21.
+In his next submission Ld. Counsel for Appellant states that the
+Financial Creditor has deliberately misrepresented the outstanding dues. The
+demand raised is artificially inflated by ignoring the Settlement Agreement
+dated 02.12.2019, wherein the entire loan liabilities were crystallized and
+reduced to a mutually agreed settlement figure. As per the settlement
+agreement:
+
+Rs. 1.20 crore was agreed as full and final settlement of Loan Account
+LNPIT00712-1300002234.
+
+Rs. 5 lakhs was agreed as full and final settlement of Loan Account
+LNPIT03516-170006753.
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+22.
+It is the submission of Ld. Counsel that the Corporate Debtor paid the
+full amount of the second loan under settlement terms. Further, before
+repayment of the first loan could commence in accordance with the schedule,
+the Covid-19 pandemic struck, paralyzing business operations and causing
+the death of one director (Mr. Sukhwant Singh) while the surviving elderly
+director (Mr. Jagtar Singh, aged 86) was incapable of managing affairs.
+23.
+Ld. Counsel further submits that Clause (k) of the Settlement
+Agreement only provides that the unpaid amount under the settlement shall
+be treated as admitted debt for limited purposes of filing a Section 7 petition.
+It does not revive the original loan amounts, nor does it impose liability on the
+Appellant as guarantor under the earlier guarantee deed, which already stood
+superseded.
+24.
+Therefore, the only amount legally due is Rs. 1,20,00,000/-, i.e., the
+unpaid portion of the first loan settlement, and even that is the liability of the
+Corporate Debtor and not of the Appellant, whose guarantee stood
+substituted.
+25.
+In light of the above submissions, facts, and legal principles, counsel
+for the Appellant most respectfully prays that this Hon’ble Tribunal may be
+pleased to allow the Appeal, and Set aside the impugned order admitting the
+Section 95 application, and pass such other or further orders as may be
+deemed fit in the interest of justice.
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+Submission of Respondent No.2/ M/s INTEC CAPITAL LIMITED
+26.
+The learned counsel for Respondent No.2/ M/s. Intec Capital Limited/
+Financial Creditor, respectfully submitted that Respondent No.2, being the
+Financial Creditor, has throughout acted in accordance with law and the
+various directions of the Adjudicating Authority as well as this Hon’ble
+Tribunal. It is his submission, that the impugned order dated 21.08.2024,
+initiating PIRP of the Personal Guarantor/Appellant under Section 100 of the
+IBC, is absolutely correct, justified, and liable to be upheld.
+27.
+The learned counsel submits that the present appeal has been filed by
+the Appellant/Personal Guarantor challenging the correctness of the
+impugned order dated 21.08.2024, whereby the Adjudicating Authority has
+rightly admitted the application filed under Section 95 of the Insolvency and
+Bankruptcy Code, 2016. It is submitted that the Appellant has attempted to
+raise grounds that are neither supported by facts nor sustainable in law. The
+Respondent submits that the present proceedings pertain to the liabilities
+arising out of the personal guarantee executed by the Appellant towards the
+credit facilities extended to the Corporate Debtor and the default thereof. The
+impugned order is based on a correct appreciation of material facts,
+chronology of default, and the continuous non-compliance by the Appellant
+and the promoters of the Corporate Debtor. Thus, no interference is warranted
+by this Hon’ble Tribunal.
+28.
+The Learned Counsel submits that the Appellant has challenged the
+impugned order primarily on two grounds, both of which are wholly
+misconceived and contrary to the record.
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+29.
+The learned counsel submits that the entire plea of limitation raised by
+the Appellant is baseless and contrary to the clear factual record. Respondent
+No.2 places a detailed chronology of recurring and continuing defaults, each
+of which independently constitutes a fresh cause of action.
+30.
+It is submitted that the first default occurred on 18.07.2017, when
+Respondent No.2 issued a Loan Recall Notice (LRN)-cum-Arbitration Notice to
+the Corporate Debtor in relation to Loan Account No. LNPIT00712-
+130002234, which was duly served upon the appellant on 26.07.2017. The
+Corporate Debtor failed to regularize the account despite service, thereby
+constituting a clear default in terms of the loan agreement. This notice marks
+the first crystallized date of default.
+31.
+The Respondent submits that an Arbitration Award was passed on
+28.12.2018 in favour of the Financial Creditor (Respondent No.2), confirming
+the outstanding dues. The Award conclusively acknowledges the debt and
+default, thereby extending the limitation period under settled jurisprudence.
+32.
+Ld. Counsel submits that on 03.09.2019, the Hon’ble NCLT admitted
+the Section 7 Petition filed by Respondent No.2 against the Corporate Debtor
+in CP (IB) 619(ND)/2018, Intec Capital Ltd. v. Jagtar Singh & Sons Hydraulics
+Pvt. Ltd. The admission of the petition, based on continued default, once again
+constitutes a fresh acknowledgment of liability and extends limitation under
+Section 18 of the Limitation Act.
+33.
+It is the submission of Respondent no. 2 that the Corporate Debtor
+came to the Hon’ble NCLAT with a settlement proposal, which led to an order
+dated 06.12.2019, wherein a settlement was recorded. However, the
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+Corporate Debtor subsequently failed to honour the settlement terms,
+rendering the arrangement infructuous. The settlement and its breach
+reaffirm the continuing default.
+34.
+Ld. Counsel submitted that the Corporate Debtor made a payment of
+INR 1,00,000/- on 11.09.2020 via Instrument No. SBIN220255518010
+towards second Loan Account LNPIT03516-170006753. This payment
+constitutes a clear acknowledgment of debt under Section 18 of the Limitation
+Act, providing a fresh period of limitation.
+35.
+He submits that another payment of Rs. 1,00,000/- was received on
+29.04.2021 by NEFT (Instrument No. 108917554718) in first Loan Account
+LNPIT00712-130002234, which again extends the limitation period.
+36.
+Ld. Counsel for Respondent 2 submits that on 25.01.2022, a Form-B
+Demand Notice was issued to the Personal Guarantor (Appellant), demanding
+discharge of liabilities arising under the Deed of Guarantee. The Appellant did
+not respond or repay any amount, thereby admitting default.
+37. It is submission of Ld. Counsel that the Section 95 Application filed on
+03.05.2022 is well within limitation, taking into account the series of
+acknowledgements and last payments made as late as 29.04.2021. Hence,
+the Appellant’s plea is untenable. He submits that the application is squarely
+within limitation and is legally maintainable.
+38. The Learned Counsel for Respondent No.2 submits that the second
+contention of the Appellant that the settlement is a bar to PIRP proceedings
+is misplaced, unfounded, and contrary to the actual facts and binding orders
+of this Hon’ble Tribunal.
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+39.
+Respondent No.2 submits that proceedings under Section 7 of the IBC
+were duly initiated against the Corporate Debtor in ‘Intec Capital Ltd. v. Jagtar
+Singh & Sons Hydraulics Pvt. Ltd., CP (IB) 619(ND)/2018’. Upon admission of
+the petition on 03.09.2019, the promoters of the Corporate Debtor
+approached this Appellate Tribunal seeking a settlement. Respondent No.2
+further submits that an appeal was filed by the promoters titled ‘Parvinder
+Singh v. Intec Capital Ltd., Comp. App. (AT)(Ins.) No. 968 of 2019’, wherein this
+Hon’ble Tribunal, at the request of the promoters, appointed Hon’ble
+Mr. Justice (Retd.) A.K. Sikri, Former Judge of the Supreme Court of India,
+as Mediator.
+40.
+The learned counsel submits that the mediation resulted in a detailed
+Settlement Agreement dated 02.12.2019, under which:
+
+Loan Account No. LNPIT00712-130002234 was settled for INR
+1,20,00,000.
+
+Loan Account No. LNPIT03516-170006753 was settled for INR
+5,00,000.
+As part of the settlement, the Corporate Debtor issued post-dated cheques.
+However, the Corporate Debtor failed to comply with the settlement terms,
+several cheques were dishonoured, and only partial payments were made.
+This non-compliance resulted in the settlement becoming unworkable.
+41.
+Ld. Counsel for Respondent No.2 submits that Para K of the settlement
+categorically stipulates that the default in the first instalment or any two
+consecutive instalments would constitute default and entitle the Financial
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+Creditor to file a fresh Section 7 petition, which the NCLT shall admit
+forthwith. The Corporate Debtor failed repeatedly, thereby triggering the
+consequences of Para K. The Para K of the agreement is extracted below:
+“k. It is agreed between the parties that on the recording of
+this settlement by the Hon'ble NCLAT. IBC Petitions filed by the
+Financial Creditors before the NCLT shall be disposed of on the
+aforesaid terms. It is also agreed between the parties that in
+case of default of first instalment or any two consecutive
+instalments thereafter in respect of the main loan, it will be
+treated as default on the part of the Corporate Debtor and the
+unpaid amount shall also be treated as admitted debt, entitling
+to the Financial Creditor to file fresh petition under Section 7 of
+the IBC, which shall be admitted by the NCLT forthwith.”
+42.
+Ld. Counsel for Respondent No.2 submits that the promoters Mr. Jagtar
+Singh and Mr. Sukhwant Singh gave an undertaking before this Appellate
+Tribunal which are reflected in Clause (i) and (j) of the Settlement Agreement.
+These clauses are extracted below:
+“(i) Insofar as Mediation proceedings are concerned, Mr.
+Hardeep Singh attended the proceedings, representing Mr.
+Jagtar Singh and Mr. Sukhwant Singh, the erstwhile Directors,
+who have given Letter of Authority in his favour. In order to
+bind the company, the Hon'ble NCLAT may pass appropriate
+Orders.
+(j) Both Mr. Jagtar Singh and Mr. Sukhwant Singh are ready to
+give undertaking and assurance to the NCLAT in the form of
+Affidavits to the effect that they would honour the terms of this
+settlement and ensure that all cheques (PDCs) are encashed on
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+presentation. They have also agreed to give undertaking to the
+Hon'ble NCLAT in this behalf with the stipulation that in case
+of breach of the Agreement, they would personally liable for the
+consequences, including contempt of Court. They have also
+agreed to give their personal guarantee for fulfilment of the
+obligations under the Agreement.”
+43.
+It is clear from the above that the undertaking given by Mr. Jagtar Singh
+and Mr. Sukhwant Singh before the Mediator and this Appellate Tribunal
+entailed the following:
+
+They would honour the settlement terms.
+
+They would ensure all PDCs are honoured.
+
+They would be personally liable, even to the extent of contempt, in
+case of breach.
+
+They would furnish personal guarantees for fulfilment of obligations.
+However, subsequently, they could not honour these undertakings.
+44.
+The Learned Counsel points out that by order dated 06.12.2019, this
+Hon’ble Tribunal made the settlement terms part of its binding directions.
+However, the promoters, including the Personal Guarantor (Appellant herein),
+failed to comply. In case of failure of the agreement, this Appellate Tribunal
+directed that the order setting aside the impugned order dated 3rd September,
+2019 shall stand recalled and the Corporate Insolvency Resolution Process
+will continue. Thus, the breach is not merely of a private settlement but of the
+binding orders of this Hon’ble Tribunal.
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+45.
+The Respondent No. 2 submits that this Hon’ble Tribunal vide order
+dated 15.03.2021 again modified the terms and allowed the promoters to clear
+50% dues by March 2021 and the remaining by June 2021. Even these revised
+conditions were breached due to due to failure of the Appellant and other
+promoters.
+46.
+Respondent No.2 submits that the settlement dated 02.12.2019, being
+executed under express directions of this Hon’ble Tribunal, cannot be treated
+as a fresh, novated contract under Section 62 of the Contract Act. Non-
+compliance of the settlement revived the original liability under the loan
+agreement, making both the Corporate Debtor and the Personal Guarantor
+jointly and severally liable.
+47.
+In view of the above submissions, the Ld. Counsel for Respondent No.2
+prays that this Hon’ble Tribunal may be pleased to dismiss the present appeal
+with costs, as the Appellant has failed to make out any ground for interference
+with the impugned order dated 21.08.2024; and Pass any further orders
+deemed fit in the interest of justice.
+Analysis and findings
+48.
+We have heard the learned counsel for the parties and examined the
+material placed on record. The counsels for appellant and respondent No.2
+have also submitted their written submissions.
+49.
+Based on the record and submissions, the following two issues arise for
+consideration:
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+ISSUE I: Whether the application filed under Section 95 of the Insolvency and
+Bankruptcy Code, 2016, against the Appellant–Personal Guarantor, was within
+limitation?
+ISSUE II: Whether the guarantee executed by the Appellant continued to bind
+her, or whether it stood extinguished or substituted because of the later
+settlement and undertakings given by the Corporate Debtor’s promoters?
+50.
+We first take the issue of limitation argued by the appellant. Ld. Counsel
+for the Appellant argues that the creditor’s Section 95 application is barred
+by limitation. Ld. Counsel submits that the first and only relevant default took
+place on 18.07.2017 when the loan recall notice was issued. He submits that
+since Section 95 was notified on 01.12.2019, the creditor had three years from
+the date of default to file the application, which period expired in July 2020.
+He therefore says that the filing of the application in May 2022 is hopelessly
+delayed and that the Adjudicating Authority wrongly ignored this primary
+defence.
+51.
+The Respondent’s case is that the debt did not stop or end in 2017.
+According to him, the Corporate Debtor continued to deal with the creditor
+even after 2017, including entering into a settlement in December 2019 before
+this Appellate Tribunal, making part-payments in 2020 and 2021, and
+defaulting again when cheques issued under the settlement were
+dishonoured. The Respondent submits that these later payments amount to
+acknowledgements under Section 19 of the Limitation Act and therefore
+extend the limitation period. It also maintains that the guarantee is a
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+continuing one and that the default continued until the demand notice was
+issued to the guarantor on 25.01.2022.
+52.
+We have carefully examined the material placed before us. The question
+of limitation in this case cannot be decided by treating the loan recall notice
+of 18.07.2017 as the only event that matters. The relationship between the
+creditor and the Corporate Debtor continued far beyond this date. The
+Corporate Debtor participated in arbitration proceedings, faced admission of
+CIRP in 2019, and then approached this Appellate Tribunal with an offer of
+settlement. At that stage, on the request of the parties, mediation was
+conducted under the leadership of a former Judge of the Supreme Court, and
+the settlement dated 02.12.2019 came into existence. This settlement was not
+merely a private compromise between the debtor and creditor; it was placed
+before us in the appellate proceedings; agreed to by the parties; and expressly
+recorded in an order of this Tribunal dated 06.12.2019. Therefore, the
+obligations arising from the settlement were backed by judicial authority and
+carried legal sanctity.
+53.
+The relevant portion of the order of this Tribunal dated 06.12.2019 as
+recorded in paragraph 11 is extracted below:
+“06.12.2019:
+11. Terms of Settlement as recorded by the Hon’ble Mediator
+should be treated to be order and direction of this Appellate
+Tribunal to be complied by all the parties including the Promoters
+of ‘M/s Jagtar Singh and Sons Hydraulics Private Limited’
+(Corporate Debtor); Parvinder Singh, Authorized Representative;
+Intec Capital Ltd. And Interim Resolution Professional. In the
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+present, whole process practically stands suspended for
+compliance of the Terms of Settlement. The Corporate Insolvency
+Resolution Process can be revived by the Petitioner in case of
+breach of Terms of Settlement or default of any post-dated
+cheque. On completion of compliance of terms and conditions, the
+application under Section 7 will be deemed to have been
+withdrawn by Intec Capital Ltd.’, otherwise the order setting
+aside the impugned order dated 3rd September, 2019 shall stand
+recalled and the Corporate Insolvency Resolution Process will
+continue. The Interim Resolution Professional may allow the
+Promoters/ Board of Directors to run the Corporate Debtor through
+Board of Directors. However, the Appellant, the Corporate Debtor,
+its Directors, Officers, Employees will not sell, alienate, transfer
+or create third party encumbrance on any of the movable or
+immovable property of the Corporate Debtor during the period
+Terms of Settlement are complied.”
+(Emphasis supplied)
+54.
+The order recorded the binding nature of the settlement and
+consequences of the failure of the settlement. The settlement fixed a schedule
+of instalments and required the Corporate Debtor to honour post-dated
+cheques. Importantly, the parties agreed that if the Corporate Debtor
+defaulted even in the first instalment or two consecutive instalments
+thereafter, the entire unpaid amount would become the admitted debt of the
+Corporate Debtor. This clause is extremely significant because it shows that
+the original debt did not vanish. Instead, the settlement placed the original
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+debt in a suspended state, with a clear provision that the entire liability would
+spring back into effect if the debtor failed to perform the settlement terms.
+When the Corporate Debtor later failed to honour the cheques issued under
+the settlement, it is clear that this clause was triggered. In such a situation,
+the debt stood revived and re-acknowledged.
+55.
+The directions of this Appellate Tribunal given in para 11 of the order
+dated 06.12.2019 was reiterated by this Tribunal in para 4 of the order dated
+15.03.2021. Same has been extracted below :
+“15.03.2021:
+4. After hearing learned counsel for the parties and going
+through the records, we are of the view that it would be
+conducive to interest of justice to allow the Appellant to pay
+50% of the balance amount by the end of March, 2021 and
+remaining amount by the end of June, 2021, failing which
+Respondent No.1 shall be entitled to approach the
+Adjudicating Authority to seek revival of CIRP proceedings
+against the Corporate Debtor for breach of Terms of Settlement
+recorded by this Appellate Tribunal in terms of para 11 of the
+order dated 6th December, 2019 treating it to be an order and
+direction of this Appellate Tribunal to be complied by the
+parties. In the event of nonadherence to this revised schedule,
+in whole or in part, order passed in appeal dated 6th
+December, 2019 shall stand recalled in terms of para 11 and
+CIRP revived. CIRP costs including the fees of the Interim
+Resolution Professional, in such eventuality shall be
+addressed by the Adjudicating Authority.
+I.A. Nos.1071 & 2218 of 2020 stands disposed off.
+
+(Emphasis supplied)
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+
+56.
+We also find that the Corporate Debtor made payments on 11.09.2020
+and again on 29.04.2021. These payments are admitted and have not been
+disputed by the Appellant. Under Section 19 of the Limitation Act, even a
+small part-payment renews the limitation period. It is well settled that an
+acknowledgment or part-payment by the principal debtor extends limitation
+against the guarantor also, unless the guarantee has been expressly revoked
+or the creditor has agreed to treat the guarantor differently. No such
+revocation or release is shown here. As long as the principal debtor continues
+to acknowledge the debt, the guarantor remains equally bound. Therefore, the
+payments of September 2020 and April 2021 extend the limitation period at
+least till April 2024. Another important aspect is that the creditor issued a
+fresh demand notice to the guarantor on 25.01.2022. A demand on the
+guarantor is legally meaningful because the guarantor’s liability is co-
+extensive with that of the principal debtor unless the agreement specifically
+says otherwise. Once the guarantor received the demand notice in January
+2022, the default clearly stood crystallised as against her. The Section 95
+application filed on 03.05.2022 was therefore well within the extended
+limitation period.
+57.
+In assessing limitation, we also cannot ignore the fact that the corporate
+insolvency process itself was revived by the Adjudicating Authority on
+23.11.2021, after finding that the Corporate Debtor had breached the
+settlement as endorsed by this Appellate Tribunal vide the aforesaid orders
+dated 06.03.2019 and 15.03.2021, which provided for re-initiation of CIRP
+proceedings. A revived CIRP on the basis of the same debt necessarily signifies
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+that the debt was still subsisting and that the breach of settlement had
+reopened the underlying liability. This is an objective judicial fact that directly
+contradicts the argument that the debt had become time-barred long ago.
+58.
+When we consider all these circumstances together - the judicially
+recorded settlement, the part-payments of 2020 and 2021, the dishonour of
+settlement cheques, the revival of CIRP, the fresh demand notice to the
+guarantor, and the continuing guarantee, we are satisfied that the creditor’s
+Section 95 application was well within limitation. The Appellant’s argument
+relies on treating only the 2017 recall notice as relevant, but the subsequent
+events show that the debt was repeatedly acknowledged and revived.
+Limitation law does not permit us to ignore such acknowledgements merely
+because the guarantor herself did not sign them, especially when her
+guarantee continued to operate for the entire duration.
+59.
+For these reasons, we hold that the Adjudicating Authority was correct
+in rejecting the limitation objection and in admitting the Section 95
+application. The challenge on the ground of limitation therefore fails.
+
+ISSUE II: Whether the guarantee executed by the Appellant continued to bind
+her, or whether it stood extinguished or substituted because of the later
+settlement and undertakings given by the Corporate Debtor’s promoters?
+60.
+We now take up the issue related to validity of guarantee extended by
+the appellant. Ld. Counsel for the Appellant argues that her personal
+guarantee related only to the first loan of March 2013 and not to the second
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+loan granted in May 2016. She claims that when the Corporate Debtor and
+the creditor entered into a settlement in December 2019, a new contract came
+into existence between them. She says that under this settlement only the two
+promoters, Jagtar Singh and Sukhwant Singh, gave personal undertakings,
+and therefore only they became liable. She submits that since she was not a
+party to the settlement and since the terms of the debt changed in that
+settlement, her earlier guarantee stood discharged under Sections 62 and 133
+of the Contract Act.
+61.
+The Respondent, on the other hand, asserts that the guarantee signed
+by the Appellant is a continuing guarantee and covers the dues under the
+main loan agreement, until they are fully cleared. According to the
+Respondent, the settlement did not replace or cancel the original contract; it
+only gave the Corporate Debtor an opportunity to pay in instalments. It is
+further said that when the debtor defaulted on those instalments, the full debt
+revived automatically because the settlement itself provided for such revival.
+The Respondent argues that since the creditor never agreed to release the
+Appellant from her guarantee, she continues to remain liable.
+62.
+It is stated that the Corporate Debtor had availed two loan facilities—
+Loan Account LNPIT00712-130002234 and Loan Account LNPIT03516-
+170006753- and that the second loan sanctioned on 31.05.2016 was granted
+specifically to regularise the existing account and therefore formed part of the
+same continuing financial relationship. This can be seen from the submission
+of the appellant in para 8 page 26 of facts of the case in memo of appeal. An
+identical clause is reflected in the Settlement Agreement finalized under the
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+aegis of Justice (Retd.) A.K. Sikri in para 6 of the agreement. The same has
+been extracted below:
+“6. AND WHEREAS, in order to regularise the aforesaid account, the
+Financial Creditor agreed advance another sum of Rs.41,32,383
+(hereinafter referred to as the second loan) to Corporate Debtor
+which carried interest @ 13% on 31.05.2016 and this loan was to be
+repaid in 36 instalments of Rs. 1.57 lakhs each.”
+63.
+Clause 15 of the Guarantee Agreement expressly states that the
+guarantee remains valid even for an enhanced loan limit with or without
+informing the guarantor, to show that the Appellant’s guarantee automatically
+applied to the second loan as well, which in effect was a continuation of first
+loan, as admitted by the appellant. The clause 15 is extracted below:
+“15. In event of enhancement of the LOAN provided by INTEC
+CAPITAL LTD with or without informing the Guarantor, this
+guarantee shall remain valid for such enhanced limit also.”
+
+We also note that the Corporate Debtor continued making payments in both
+loan accounts even in 2020 and 2021, which clearly demonstrates that both
+loans were treated as part of one composite financial obligation and would be
+covered by the same guarantee in terms of Clause 15 above.
+64.
+We now have a look at the relevant clauses 8, 10, 14 and 19 of the
+Guarantee Agreement, which are extracted below:
+“8. The Guarantee shall be a continuing till such time INTEC
+CAPITAL LTD may have any claim against the Borrower under
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+the Agreement and all dues are discharged completely to the
+satisfaction of INTEC CAPITAL LTD.
+10. Any novation/variation of the Agreement and for
+concessions acquiescence made by INTEC CAPITAL LTD to the
+Borrower with/without informing/notifying the Guarantor shall
+not discharge the Guarantee The Guarantor further agrees that
+any concession or indulgence granted to the Borrower in respect
+of the terms and conditions either in releasing or returning the
+security (ies), after taking possession of it or in any other
+manner, shall not prejudice INTEC CAPITAL LTD's right against
+him or relieve him from his/her guarantees. It shall not be
+necessary for INTEC CAPITAL LTD to give any notice to the
+Guarantor in the event any such novation, variation etc.”
+14. The Guarantor confirms and accepts that any default by
+the Borrower under the Agreement. On such termination the
+entire sum of money due and outstanding under the agreement
+shall become payable forthwith.
+19. This Guarantee is unconditional and irrevocable and shall
+remain so till such time INTEC CAPITAL LTD discharges this
+Guarantee by issuing a letter in this behalf.”
+
+65.
+When we examine the clauses of the Guarantee Agreement, each one
+shows that the Appellant’s liability was meant to continue without
+interruption. Clause 8 states that the guarantee will remain in force until all
+dues are fully paid, meaning her liability continues until the entire debt is
+cleared. Clause 10 explains that even if the creditor changes the loan terms
+or gives concessions to the borrower, without informing the guarantor, the
+guarantee still remains valid; this means she cannot claim discharge because
+of any variation or settlement. Clause 14 provides that if the borrower
+defaults, the entire outstanding amount becomes immediately payable,
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+showing that the guarantor’s liability becomes absolute, the moment a default
+occurs. Finally, Clause 19 declares the guarantee to be unconditional and
+irrevocable, which means it stays in force unless the creditor formally releases
+her. Together, these clauses show that the guarantee was designed to survive
+all changes, defaults, and concessions, and therefore the Appellant’s liability
+never came to an end. The Appellant has not been able to point out any such
+document showing release from the guarantee.
+66.
+The next question is whether the 2019 settlement constituted a new
+contract which replaced the old one under Section 62 of the Contract Act. For
+a novation to occur, the original contract must be expressly substituted or
+extinguished by the new one. That is not the case here. The settlement did
+not cancel the original loan or the rights of the creditor. Instead, it only set
+out a payment schedule and stated that if the Corporate Debtor honoured
+those instalments, the original dues would stand satisfied. The settlement was
+meant to give the debtor a concession, not to erase or supersede the creditor’s
+original rights. More importantly, the settlement also contained a very clear
+clause that if the Corporate Debtor defaulted even in the first instalment or in
+two consecutive instalments, the entire unpaid amount would automatically
+become the admitted debt. This clause, by itself, shows that the original rights
+of the creditor were never surrendered. A contract cannot be said to be
+substituted when the old obligations spring back into force the moment the
+new arrangement is breached.
+67.
+It is also important to keep in mind that the settlement was not a private
+arrangement between the Corporate Debtor and the creditor. It formed part
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+of judicial orders of this Appellate Tribunal dated 06.12.2019 and 15.03.2021.
+When a settlement is recorded by a court or tribunal, it does not become a
+new and independent contract replacing the earlier one unless such intention
+is clearly recorded. In this case, the orders recorded the agreement of the
+parties and gave them an opportunity to settle the dues. At the same time, it
+was recorded that in case of failure to abide by the agreement, it would result
+in failure of the mediation agreement and thereby leading to re-initiation of
+CIRP. It is therefore clear that after the failure of terms of settlement under
+the mediation agreement, the original loan agreement and the guarantee
+remained in place.
+68.
+Coming to the Appellant’s argument that she was not a party to the
+settlement; this fact alone does not help her. A guarantor is not discharged
+merely because the principal debtor enters into a settlement or compromise
+with the creditor. The law is clear that the guarantor is discharged only if the
+creditor grants the debtor some benefit or makes some change in the contract
+that prejudices the guarantor. Further in this case, the settlement did not put
+any new burden on the guarantor. If anything, it reduced the liability by
+allowing the debtor to pay a smaller amount than originally owed. A
+concession given to the debtor cannot be described as a variation that harms
+the guarantor. Therefore, the guarantor cannot claim discharge under Section
+133.
+69.
+The Appellant also contends that since the promoters gave personal
+undertakings, her guarantee automatically stood cancelled. This reasoning
+cannot stand. When two individuals give a personal undertaking, it does not
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+mean the earlier guarantor has been released. A creditor is free to have more
+than one guarantor. The creditor may take personal undertakings from
+several persons without releasing the earlier surety. A release or waiver must
+be explicit and agreed to by the creditor. Clause 19 of the Guarantee
+agreement clearly shows that the guarantee is unconditional and irrevocable
+by the guarantor. He or She can only be released from the guarantee only by
+the Financial Creditor. No such release was ever granted to the Appellant.
+70.
+We are also conscious of the fact that the Corporate Debtor later
+defaulted on the settlement terms, the post-dated cheques were dishonoured.
+Consequent to the failure of the settlement in accordance with orders of this
+Appellate Tribunal in Comp. App. (AT) (Ins.) No. 968 of 2019 dated 06.12.2019
+and 15.03.2021, the creditor revived the CIRP against the Corporate Debtor,
+which was allowed by Adjudicating Authority on 23.11.2021. The revival of
+CIRP makes it clear that the debtor remained liable for the debt. If the
+principal debtor continued to remain liable, the guarantor necessarily
+remained liable as well, because the guarantor’s liability is co-extensive with
+that of the debtor. Nothing has been placed before us to show that the creditor
+ever agreed to treat the Appellant differently.
+71.
+In view of these considerations, we are satisfied that the guarantee
+executed by the Appellant was never extinguished, substituted, or discharged.
+The settlement of 2019 did not cancel the old contract, nor did it release the
+guarantor. Instead, the breach of the settlement caused the full liability to
+revive. Therefore, the Adjudicating Authority was right in holding that the
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Ins.) No. 2238 of 2024
+Appellant continued to be liable as personal guarantor and that the creditor
+was entitled to proceed under Section 95.
+72.
+We also take a look at the case the Appellant has referred to ‘Mathew
+Varghese v. M. Amritha Kumar, [(2014) 5 SCC 610]’, to argue that a notice
+addressed in the wrong capacity affects the rights of the person receiving it.
+That judgment by Hon’ble Supreme Court, dealt with the strict procedural
+requirements under the SARFAESI Act for enforcing security over immovable
+property, where it was held that the statutory notice must comply with Section
+13(2) before a secured asset can be sold. The present case is entirely different:
+it concerns a contractual guarantee under the IBC, where liability flows from
+an unconditional and continuing guarantee, and where the statute prescribes
+service of notice in a particular form before filing a Section 95 petition. The
+appellant had duly received the notice under section 95 and replied to the
+same. Therefore, the principle in Mathew Varghese does not assist the
+Appellant.
+73.
+In view of the above findings, we do not find any infirmity in the
+impugned order. The Appeal is accordingly dismissed. Pending IAs, if any, are
+closed. No order as to costs.
+[Justice N Seshasayee]
+Member (Judicial)
+
+[Mr. Arun Baroka]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+SA/Pragya (LRA)

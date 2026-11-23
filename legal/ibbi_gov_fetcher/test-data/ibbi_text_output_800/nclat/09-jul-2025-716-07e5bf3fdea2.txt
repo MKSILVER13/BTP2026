@@ -1,0 +1,478 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+[Arising out of the Impugned Order dated 17.03.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench,
+Court-I in I.A. No.- 797 of 2025 in C.P. No. 1166/MB/2023]
+In the matter of:
+Transcon Skycity Private Limited
+Having address at:
+622B/1, Goshala Compound L.B.S. Marg
+Mulund (West), Mumbai City,
+Mumbai, Maharashtra, India 400080
+
+...Appellant
+
+Versus
+
+Anchor Point Developers Private Limited
+Having address at:
+50 IB, Elegant Business Park,
+Andheri Kurla Road, J.B. Nagar,
+Andheri (East),
+Mumbai 400059, Maharashtra,
+India
+
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Ravi Prakash, Sr. Advocate with Mr. Aditya Dewan,
+Ms. Himangi Kapoor, Advocates.
+
+For Respondent
+: Mr. Ramji Srinivasan, Sr. Advocate with Mr. Atul S.
+Mathur, Mr. Prabal Mehrotra, Ms. Shefali Munde, Mr.
+Umang Katariya, Mr. Arjun Bhatia, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61(1) of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+17.03.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-I) in
+I.A. No.- 797 of 2025 in C.P. No. 1166/MB/2023. By the impugned order, the
+
+[PAGE 2]
+Page 2 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+Adjudicating Authority has permitted revival of the original Section 7 Company
+Petition of the Financial Creditor-Anchor Point Developers Pvt. Ltd. for initiation
+of CIRP of the Corporate Debtor- Transcon Skycity Pvt. Ltd. Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant.
+2.
+Coming to the brief factual matrix of the case, the Corporate Debtor-
+Transcon Skycity Pvt. Ltd. had launched a real estate project named Transcon
+Fortune Five Hundred Tower-I Project (hereinafter referred to as the “Project”).
+The Financial Creditor-Anchor Point Developers Pvt. Ltd. had invested in the
+Project of the Corporate Debtor following which the Corporate Debtor had issued
+an Allotment Letter on 18.10.2022. Since the development of the Project did not
+see any significant progress, the Respondent-Financial Creditor filed a Section 7
+application against the Corporate Debtor (hereinafter referred to as “First CP”).
+Subsequently a Settlement Agreement was executed between the Corporate
+Debtor and the Financial Creditor on 03.02.2024 following which the Financial
+Creditor filed an IA for withdrawal of the First CP on 14.02.2024 (hereinafter
+referred to as “Withdrawal IA”). The Withdrawal IA was allowed by the
+Adjudicating Authority vide its order on 08.04.2024 (hereinafter referred to as
+“Withdrawal order”). According to the Financial Creditor, the Corporate Debtor
+purportedly failed to adhere to the various commitments made under the
+Settlement Agreement, hence, aggrieved by this, the Financial Creditor filed a
+fresh Section 7 petition vide Company Petition No. 1034 of 2024 (hereinafter
+referred to as the “Second CP”) on 16.11.2024. The Second CP was premised
+on the debt which had been the cause of action in the First CP. On 23.01.2025,
+IA No. 797 of 2025 was filed by present Respondent-Financial Creditor before
+
+[PAGE 3]
+Page 3 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+the Adjudicating Authority seeking restoration/revival of the First CP
+(hereinafter referred to as “Restoration IA”). The Respondent-Financial Creditor
+vide IA No. 797 of 2025 also placed the Settlement Agreement before
+Adjudicating Authority. Subsequent to filing of the Restoration IA, the Financial
+Creditor withdrew the Second CP on 19.02.2025. When the Restoration IA came
+up for hearing on 06.03.2025, the Corporate Debtor was given opportunity to file
+their reply to the Restoration IA. The Corporate Debtor did not file any reply to
+the Restoration IA. The Adjudicating Authority thereafter on 17.03.2025 ordered
+the restoration of the First CP while granting liberty to the Corporate Debtor to
+raise all their objections in respect of revival of the First CP. Aggrieved by the
+above impugned order dated 17.03.2025 restoring the First CP, the Corporate
+Debtor-Appellant has come up in appeal.
+3.
+Making his submissions, the Ld. Counsel for the Appellant-Corporate
+Debtor submitted that the impugned order restoring the First CP was erroneous
+since the Financial Creditor had withdrawn the First CP unconditionally
+following an out of court settlement executed between the Corporate Debtor and
+Financial Creditor. It was asserted that the terms of the Settlement Agreement
+which preceded the withdrawal of First CP did not provide for revival of the First
+CP. Moreover, the withdrawal of the First CP was not contingent upon
+compliance of any obligations by the Appellant. In any case, the Corporate
+Debtor had already substantially fulfilled the commitments given by them under
+the Settlement Agreement and were willing to fulfil the remaining obligations.
+Therefore, the Financial Creditor by proceeding to file the Second CP has acted
+in a manner which is not in sync with the understanding arrived at amicably in
+
+[PAGE 4]
+Page 4 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+the out of court Settlement Agreement. Much emphasis was laid on the fact that
+the Settlement Agreement was neither incorporated in the Withdrawal IA by the
+Financial Creditor nor was the Settlement Agreement incorporated in the
+Withdrawal Order dated 08.04.2024. It was vehemently contended that the
+Financial Creditor therefore did not have the right to revive/restore the First CP
+or file the new Company Petition in respect of the cause of action of the First CP.
+The impugned order therefore suffered from grave infirmity since the
+Adjudicating Authority did not have the authority to revive the First CP which
+had already been dismissed as withdrawn and the Withdrawal Order did not
+extend any liberty to the Financial Creditor to revive the proceedings of the First
+CP.
+4.
+It was also pointed out that once the Settlement Agreement had been
+entered into, the original debt no longer subsisted and hence there was no valid
+ground for filing the revival application. The Appellant also adverted attention to
+the lack of transparency and bonafide on the part of the Financial Creditor in
+that in their Restoration IA, they suppressed the fact that Second CP had also
+been filed. Neither was the existence of the Settlement Agreement disclosed while
+filing the Restoration IA. The Restoration IA on 24.01.2025 without having
+withdrawn the Second CP.
+
+5.
+Refuting the contentions of the Appellant, it was submitted by the Ld. Sr.
+Counsel for the Respondent that the stand taken by the Appellant that the
+Settlement Agreement was unconditional is misconceived and incorrect. It was
+submitted that clauses of the Settlement Agreement clearly contemplated that
+the parties had agreed to forbear from initiating any legal proceedings subject to
+
+[PAGE 5]
+Page 5 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+compliance of obligations stipulated in the Settlement Agreement. That
+admission has been made by the Corporate Debtor that the obligations remain
+unfulfilled as they had only made partial payments and having agreed to fulfil
+the remaining obligations under the Settlement Agreement, this tantamount to
+admission on the part of the Corporate Debtor that it had breached the
+Settlement Agreement. It was also vehemently contended that it is misplaced on
+the part of the Appellant to contend that the Settlement Agreement was out of
+the court settlement. The Financial Creditor had categorically brought the
+settlement to the notice of the Adjudicating Authority and that the First CP was
+being withdrawn in view of a Settlement Agreement entered into between both
+the parties. When the Adjudicating Authority was already cognisant of the
+Settlement Agreement while passing the withdrawal order, it did not commit any
+error in subsequently allowing the revival of the First CP on grounds of alleged
+breach of the Settlement Agreement by the Corporate Debtor.
+6.
+It has been further contended by the Respondent that simply because they
+had withdrawn the First CP, this in no way can be construed as surrender of
+their rights to initiate CIRP proceedings qua the Corporate Debtor particularly
+so when there is clear evidence of debt and default. It was submitted that the
+right of Financial Creditor to initiate Section 7 proceedings against the Corporate
+Debtor does not evaporate or stand extinguished merely because they had
+entered into a Settlement Agreement with the Corporate Debtor. As long as there
+is debt which is due and payable, in law and in fact, and the Corporate Debtor
+has defaulted, the Financial Creditor enjoys unfettered right of reviving First CP.
+In the present case, when the Settlement Agreement has suffered a breach, the
+
+[PAGE 6]
+Page 6 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+debt liability does not get wiped out. Since debt and default is established, the
+Adjudicating Authority did not commit any error in admitting the Section 7
+application.
+7.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+8.
+It is the case of the Appellant that the terms of Settlement Agreement dated
+03.02.2024 did not provide in specific terms for revival of the First CP upon
+failure to perform the settlement. Hence, the Financial Creditor was not entitled
+to seek revival of the First CP on grounds of non-performance of obligations in
+the Settlement Agreement. The impugned order has also been assailed on the
+ground that the Adjudicating Authority did not have the authority to revive the
+First CP since First CP had already been dismissed as withdrawn and the
+Withdrawal Order did not extend any liberty to the Financial Creditor to revive
+the proceedings of the First CP.
+9.
+To buttress their arguments, the Appellant pointed out that there is a clear
+distinction between a simpliciter and unconditional withdrawal of Company
+Petition as against a conditional withdrawal wherein the Settlement
+Agreement/or consent terms are placed on record which contain an express
+liberty for revival of the original petition. In support of their contention, reliance
+has been placed on the judgments of this Tribunal in IDBI Trusteeship Services
+Ltd. Vs Nirmal Lifestyle Ltd. in CA(AT)(Ins.) No. 117 of 2023 and in SRLK
+Enterprises LLP Vs JALAN Transolutions (India) Ltd. in CA(AT)(Ins.) No. 294
+of 2021 which judgments clearly outline the distinction between a simpliciter
+unconditional withdrawal and a conditional withdrawal having a provision for
+
+[PAGE 7]
+Page 7 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+revival of the petition withdrawn earlier on non-compliance of pre-
+conditionalities. It was submitted that present is a case of unconditional
+withdrawal as there was no settlement term on record which provided for revival
+of the original proceedings. Hence, revival of the original petition could not have
+been allowed by the Adjudicating Authority.
+10.
+In addition, distinction was also drawn between an out of court settlement
+where settlement terms are not on the record of the court and a Settlement
+Agreement whose terms form part of court records. To lend support to this
+argument, reliance has been placed by the Appellant on the judgment of this
+Tribunal in Pooja Finlease Ltd. Vs Auto Needs (India) Pvt. Ltd. & Anr. in
+CA(AT)(Ins.) No. 103 of 2022 and Krishna Garg & Anr. Vs Pioneer
+Fabricators Pvt. Ltd. in CA(AT)(Ins.) No. 92 of 2021. It was pointed out that
+while in Pooja Finlease judgment supra, the Adjudicating Authority had
+allowed revival of the Section 7 application since in that case the consent terms
+which enabled the revival of the Section 7 application had been filed before the
+Court and had also been taken on record, in Krishna Garg judgment supra
+the revival of the original petition had not been allowed since the settlement term
+was neither filed with the revival application nor was the settlement terms on
+record before the Adjudicating Authority. It was contended that in the present
+case, as the settlement term was neither filed with the restoration application
+nor placed on record before the Court, the Adjudicating Authority should not
+have allowed the revival of the original petition.
+11.
+Per contra, it is the contention of the Respondent that it is mis-conceived
+on the part of the Appellant to contend that the Financial Creditor had made an
+
+[PAGE 8]
+Page 8 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+unconditional withdrawal. It was submitted that Clause 6 of the Settlement
+Agreement clearly contemplated that the parties agreed to abstain from initiating
+or continuing with legal proceedings only if obligations stipulated under Clause
+3 of the Settlement Agreement were fully met by the Appellant. However, it was
+contended that the Appellant-Corporate Debtor had failed to fulfil the obligations
+envisaged under Clause 3 since they had only made partial payment to the
+Financial Creditor. As certain amounts still remained outstanding for payment
+by the Corporate Debtor, this constituted sufficient ground for reviving the
+original petition.
+12.
+On the contention raised by the Appellant that the Settlement Agreement
+was entirely an ‘outside the court’ settlement, it was controverted by the
+Financial Creditor that this was not an accurate depiction. It was pointed out
+that the Settlement Agreement between both the parties had been brought to the
+notice of the Adjudicating Authority at the time of filing of withdrawal I.A. Thus,
+Adjudicating Authority was pretty much aware and conscious of the Settlement
+Agreement between the two parties. The Adjudicating Authority while taking note
+of the Settlement Agreement however did not insist on the Settlement Agreement
+to be formally placed on record. It was added that the Financial Creditor was
+able to place on record the Settlement Agreement on its release from the custody
+of the Escrow Agent on 09.01.2025. The Settlement Agreement was placed on
+record in the Restoration IA on 23.01.2025. Thus, when the Settlement
+Agreement had been brought to the clear knowledge of the Adjudicating
+Authority, it is skewed on the part of the Appellant to create the misleading
+impression that the Settlement Agreement was a purely out of court settlement
+
+[PAGE 9]
+Page 9 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+which was not placed on record before the Adjudicating Authority. It was also
+contended that the Adjudicating Authority did not commit any error in allowing
+the revival of the First CP being fully cognisant of the Settlement Agreement
+terms, which terms were purportedly not honoured by the Corporate Debtor. The
+Adjudicating Authority had not committed any error in reviving the original
+petition in light of the terms envisaged in the Settlement Agreement.
+13.
+It was stoutly canvassed that the Financial Creditor was fully entitled to
+revive the First CP in terms of the Settlement Agreement. In support of their
+contention, the Financial Creditor has relied on the judgment of this Tribunal in
+Bahadur Ram Mallah Vs Assets Reconstruction Company (India) Ltd. in
+CA(AT)(Ins.) No. 66 of 2025 wherein it has been held that if a Settlement
+Agreement is entered into between the parties which Settlement Agreement
+suffers breach, the nature of the debt does not change. Neither does it destroy
+the character of the original lender as a Creditor. Hence, the Adjudicating
+Authority had rightly allowed the revival of the original petition since the
+obligations of the Corporate Debtor under the Settlement Agreement remained
+unmet.
+14.
+Before we analyse the weight of the rival contentions made by both parties,
+for a proper appreciation of the issue at hand, it may be helpful if we first look
+at the Withdrawal order of 08.04.2024 passed by the Adjudicating Authority
+alongwith the terms of the Settlement Agreement of 03.02.2024 which predated
+the Withdrawal order.
+15.
+Coming to the relevant extracts of the Withdrawal order of 08.04.2024 as
+reproduced hereunder:
+
+[PAGE 10]
+Page 10 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+“2) Counsel for the Financial Creditor orally prays for withdrawal of the
+Company Petition contending that he has instruction to withdraw the same
+as the matter has been settled amicably out of the Court between the
+Parties.
+3) As the issue involved in the present Company Petition has been settled
+out of the Court between the Parties; hence, nothing remains to be
+adjudicated in the present Company Petition and thus, this Bench is not
+insisting for the Formal Interlocutory Application to have it on record for
+withdrawal of the present Company Petition.
+4) In that view of the matter, the Company Petition bearing CP (IB) No. 1166
+of 2023, is thus, disposed of as dismissed as allowed to be withdrawn.”
+(Emphasis supplied)
+16.
+When we read the above order, it is clear that while allowing the
+withdrawal of the Company Petition No. 1166 of 2023, the Adjudicating
+Authority had expressly waived the need to formally file the settlement terms
+even after the factum of settlement was brought to the knowledge of the
+Adjudicating Authority. This, therefore, does not discount the fact that the
+Settlement Agreement had been brought to the knowledge of the Adjudicating
+Authority.
+17.
+Now we come to the relevant terms of the Settlement Agreement of
+03.02.2024 which is reproduced hereunder:
+“3(b)(iv) Waiver of other outstanding amounts and liabilities:
+Simultaneously with the transfer of entire partnership interest and profit
+share in Yukti in favour of the Anchor Point Group and/or its nominees as
+contemplated under Clause 3(a)ii, above, the Anchor Point Group confirms
+that no amount (including amount of Rs.10.25 crore and Rs.36.75 crore or
+any part thereof) shall be due and/or payable by Nirmohaaya and/or
+Transcon Skycity to the Anchor Point Group and/or its nominee.
+Simultaneously with the transfer of entire partnership interest and profit
+share in Yukti in favour of the Anchor Point Group and/or its nominees as
+contemplated under Clause 3(a)ii above, the Anchor Point Group confirms
+that/amount of Rs. 10.25 cr standing as liability in Nirmohaaya shall not
+
+[PAGE 11]
+Page 11 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+payable by Nirmohaaya and/or the Transcon Group and the amount of Rs.
+36.75 crore paid by the Anchor Point Group to Transcon Skycity is not
+payable by Transcon Skycity and/or Transcon Group. Further, the Anchor
+Point Group hereby confirms that other than the obligations and liabilities
+of the Transcon Developers as per Clause 3(a)i of this Agreement, all other
+outstanding amounts and/or liabilities of any Transcon Group is not
+payable by any of Transcon Group to the Anchor Point Group, and the
+Anchor Point Group shall not make any claim in respect of such outstanding
+amounts and/or liabilities of any of Transcon Group or any part thereof,
+,and in any event all other outstanding amount and/or liabilities of any of
+Transcon Group shall stand waived and released by the Anchor Point
+Group.
+6. Subject to compliance with Clause 3 of this Agreement and in
+consideration of the mutual representations, warranties and covenants as
+set out hereinabove, the Anchor Point Group and the Transcon Group agree
+to forbear from initiating any legal proceedings and/or taking or continuing
+any legal actions with respect to the investment of the Investment Amount
+and/or the allotment of all rights, title and interest in the Total Allotted Area
+(and in furtherance of the aforesaid, adjournments will be taken in the
+relevant hearing(s) which are/may be scheduled (before withdrawal as
+mentioned in Clause 3(b)i. of this Agreement above) and the Parties shall
+intimate the relevant forum/tribunal/court regarding the settlement
+process being ongoing between the Parties).”
+(Emphasis supplied)
+18.
+When we look at the Settlement Agreement, we notice that Clause 6 clearly
+provided that the parties had agreed to forbear either initiating or continuing a
+legal action contingent upon compliance to the terms laid down under Clause 3
+of the Settlement Agreement. We now proceed to find out if the terms of the
+Settlement Agreement stood complied to or was breached by the Corporate
+Debtor. It is the case of the Financial Creditor that pursuant to the Settlement
+Agreement, the Corporate Debtor had only paid Rs 23.75 Cr. and an amount of
+Rs 34.27 Cr. (Principal: Rs 13,01,57,725/- and interest: Rs 21,25,78,904/-) was
+still due and payable by the Corporate Debtor. When we look at the material
+placed on record, we find that the Financial Creditor had purportedly sent a
+
+[PAGE 12]
+Page 12 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+letter dated 26.07.2024 to the Corporate Debtor mentioning all the breaches
+committed by it alongwith details of breaches as placed at page 126-130 of
+Appeal Paper Book (“APB” in short). The Corporate Debtor had also been asked
+by the Financial Creditor to remedy the failure. We also note that the terms
+contemplated in the Settlement Agreement not having been fully complied to by
+the Corporate Debtor has not been controverted by the Corporate Debtor. In fact
+when we peruse the pleadings of the Corporate Debtor at para 7.18 in their
+Appeal petition, we notice that there is categorical admission to the effect that
+they were still ready to fulfil their remaining obligation. In other words, the
+Corporate Debtor by implication admitted that the terms of Settlement
+Agreement had not been performed by them. The relevant pleadings are at page
+34 of APB which is as extracted below:
+“a. transferred its share in Yukti Infra projects LLP in favour of the Anchor
+Point Group, thus handing over an extremely valuable real estate project to
+the Anchor Point Group;
+b. made payment of substantial sums to the Anchor Point Group out of the
+total fixed amount that the Anchor Point Group is due, and having fully
+secured the balance due and payable;
+c. and being ready and willing to fulfil all its remaining obligations and
+commitments under the Settlement Agreement, the Anchor Point Group
+egregiously breached the same. The Appellant craves leave to refer to and
+rely upon the correspondence exchanged between the parties in this regard
+as and when required.”
+(Emphasis supplied)
+
+19.
+We have also perused the judgments of this Tribunal on which reliance
+has been placed by the Appellant on the judgment viz. IDBI Trusteeship
+Services Ltd. and SRLK Enterprises LLP judgments supra. We have no
+
+[PAGE 13]
+Page 13 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+quarrels with the findings returned by this Tribunal in the above two matters.
+Be that as it may, these judgments were passed in the facts and circumstances
+of those cases without propounding any universally applicable legal precept for
+all cases. Hence, these two judgments do not come to the aid of the Appellant.
+20.
+In the facts of the present case, indubitably there was an out of court
+settlement between the two parties. It is also an undisputable fact that the
+settlement was brought to the knowledge of the Adjudicating Authority. However,
+the Adjudicating Authority vide its order dated 08.04.2024 had suo moto
+dispensed with the requirement for filing a formal application to place on record
+the Settlement Agreement. From the facts available on record there is also an
+admission on the part of the Appellant that there was an element of non-
+compliance on their obligations qua the Settlement Agreement in that the entire
+payment obligations by them to the Respondent had not yet been discharged.
+Given this backdrop we are satisfied that there was Settlement Agreement which
+was in the knowledge of the Adjudicating Authority at the time of filing the
+Withdrawal I.A. and that the Settlement Agreement obligations were admittedly
+not discharged by the Corporate Debtor.
+21.
+What now remains to be seen is whether the Adjudicating Authority
+committed any error in allowing the Restoration IA of the Financial Creditor to
+revive the First CP for the original debt.
+22.
+When there is incidence of breach of settlement terms by the Corporate
+Debtor, the legal right of the Respondent in seeking their legal remedy by revival
+of original petition cannot be denied as any such denial, on the one hand, would
+amount to causing serious prejudice to the rights and interest of the Respondent
+
+[PAGE 14]
+Page 14 of 14
+Company Appeal (AT) (Insolvency) No. 631 of 2025
+
+and on the other hand, would amount to giving unjust leeway and undue benefit
+to the Corporate Debtor inspite of having breached the settlement terms. We also
+notice that the Adjudicating Authority while allowing the Restoration IA has
+given opportunity to the Appellant-Corporate Debtor to file their reply in the
+context of the Restoration IA including raising of objections. To meet the ends of
+justice, the Adjudicating Authority has therefore been very fair and reasonable
+in giving liberty to the Appellant to contest the revival of the First CP thereby
+protecting the interest of the Corporate Debtor. We are therefore of considered
+view that the Adjudicating Authority did not commit any error in allowing revival
+of the original petition.
+23.
+In view of the foregoing discussion, we find that the appeal is devoid of
+merit. The appeal is dismissed. The impugned order does not warrant any
+interference. We however make it clear that we have not expressed any opinion
+with regard to any other issue in the main Company Petition No. 1166 of 2023.
+No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 09.07.2025
+
+Abdul/Harleen

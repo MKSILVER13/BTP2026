@@ -1,0 +1,1057 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 974 of 2023
+
+[Arising out of the Order dated June 12, 2023 passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+New Delhi) in CP (IB) No. 662 (ND)/2022]
+
+IN THE MATTER OF:
+
+M/s Santoshi Finlease Private Limited
+Through its Director Mr. Yug Mittal
+CIN: U65100DL2005TC139248
+Having its registered office at:
+A-11, Ground Floor, Nirman Vihar,
+New Delhi – 110092
+
+...Appellant
+
+Versus
+
+1. State Bank of India
+Stressed Asset Management Branch-I,
+Jawahar Vyapar Bhawan,
+1 Tolstoy Marg, Janpath, New Delhi
+
+...Respondent No.1
+
+2. M/s Mothers Pride Diary India Pvt. Ltd.
+Having its registered office at:
+G-41, Ground Floor, West Patel Nagar
+New Delhi – 110008
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. Saurabh Balwani, Mr. Anand Prakash and Mr.
+Chirag Rathor, Advocates.
+
+For Respondent
+:
+Mr. Harshit Khare and Mr. Prafful Saini, Advocates
+for SBI.
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+
+The present Appeal is being preferred by the Appellant challenging the
+order dated 12.06.2023 (“Impugned Order”) passed by the National Company
+Law Tribunal, Principal Bench, New Delhi (Ld. Adjudicating Authority) in
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 2 of 34
+
+Company Application No.1695/D/2023 in CP. No. IB-662/2022 (the
+“Application”) in which the CP was dismissed and the IA No. 1695/2023 of
+the Respondent No. 1- Bank under Section 65 of IBC was allowed with penal
+cost of Rs.10,00,000/- against the Appellant.
+Brief facts of the case
+2.
+The Appellant, M/s Santoshi Finlease Pvt Ltd, filed a Section 7
+Application under the Insolvency and Bankruptcy Code (IBC), 2016, against
+the Corporate Debtor - M/s Mothers Pride Dairy India Pvt Ltd for non-
+payment of a loan amount of INR 4,89,28,694/- (rupees four crores, eighty-
+nine lakhs, twenty-eight thousand, six hundred and ninety-four only)
+disbursed from 08.07.2019 to 15.11.2019. The loan was sanctioned under a
+term “loan agreement” signed on 17.08.2019, with interest set at 18% per
+annum, payable quarterly, and various terms for loan disbursement and
+processing fees. The total outstanding amount due from the Corporate Debtor
+is INR 9,32,52,937/- (rupees nine crores, thirty-two lakhs, fifty-two
+thousand, nine hundred and thirty-seven only) including both principal (INR
+4,89,28,694/- rupees four crores, eighty-nine lakhs, twenty-eight thousand,
+six hundred and ninety-four only) and interest (INR 4,43,24,243/- rupees
+four crores, forty-three lakhs, twenty-four thousand, two hundred and forty-
+three only). The State Bank of India (SBI), as Respondent No. 1, filed IA No.
+1695/2023 alleging that the Appellant's application for Corporate Insolvency
+Resolution Process (CIRP) was fraudulent and malicious, seeking its dismissal
+under Section 65 of IBC. Against the same Corporate Debtor, earlier also CIR
+proceedings had been admitted on 13.11.2019 by the NCLT Delhi, but was
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 3 of 34
+
+later set aside by the NCLAT on 05.08.2022. Per contra the Appellant
+contends that the dismissal of the section 7 Petition was improper, as facts
+were overlooked and there was absence of any fraud or malice in the
+Application. The NCLT’s dismissal was accompanied by a penalty of Rs
+10,00,000/- (rupees ten lakhs only) to be paid to the Prime Minister’s Relief
+Fund. Therefore, the Appellant has appealed to the Appellate Tribunal,
+seeking the initiation of the CIRP and justice for the non-payment of dues.
+Case History:
+3.
+Recapitulating the sequence of events, we note that the CD was
+incorporated on 30.09.2014. The original main promoters of the CD viz. Anant
+Kumar Chaudhary and Shalini Chaudhary had taken a term loan of Rs.26.67
+crs from SBI as per sanction dated 20.12.2015. The original promoters of the
+Corporate Debtor, holding 90% of the shares resigned from the Board and
+transferred their entire shareholding to Navneet Jain, Sushil Kumar Singh
+and Vikash Yadav. Later on, in and around 2019, the then directors of the
+Corporate Debtor entered into some investment arrangement with a group
+(family members) of people namely: Ms Seema Mittal, Mr Kaushal Mittal, Mr
+Yug Mittal and Mr Rishik Mittal ("Mittal Family Members") and all of them
+were directors of the Corporate Debtor from 01.07.2019 till 23/24.09.2019.
+During this period the Mittal Family Members constituted majority on the
+Board of the Corporate Debtor. During the said period, the alleged “board
+resolution” of the Corporate Debtor dated 30.07.2019 was passed and alleged
+“loan agreement” dated 17.08.2019 was executed between the Appellant and
+the Corporate Debtor. One Mr Kaushal Mittal passed the alleged board
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 4 of 34
+
+resolution dated 30.07.2019 on behalf of the Corporate Debtor who has been
+the Director of the Respondent since 02.8.2005 till today.
+
+4.
+While Mr Yug Mittal, the then director of the Corporate Debtor and an
+existing director of the Appellant i.e. Santoshi Finlease executed the alleged
+loan agreement on behalf of the Corporate Debtor, one Ms. Kriti Mittal
+executed the alleged loan agreement on behalf of the Appellant.
+
+5.
+Based on an application filed by one of the directors Smt. Shalini
+Chaudhury, Corporate Debtor was admitted into CIRP by way of the order
+passed by Hon'ble NCLT dated 13.11.2019 and the CIRP process was
+commenced in terms of the provisions of the IBC, 2016. In the CIRP of the
+Corporate Debtor, claims were invited and the collated by the Resolution
+Professional and accordingly the constitution of the CoC was carried over the
+period of the CIRP. During the CIRP the claims of the present Appellant
+(Santoshi Finlease Private Limited) as well as its sister concern (Santoshi
+Hyvolt Electricals Private Limited) were filed as financial debt. Accordingly,
+they were part of the list of financial creditors, without having a right to vote,
+being a related party to the Corporate Debtor. During the first few meetings
+of the CoC, the Mittal Family Members were attending the meetings, as part
+of "Suspended Management/Suspended Directors". During the CIRP, the
+then resolution professional, following the process laid down under the Code,
+invited prospective resolution applicants to submit the resolution plan and
+accordingly certain resolution plans were submitted in the CIRP of the
+Corporate Debtor and were discussed by the CoC over the period of various
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 5 of 34
+
+CoC meetings. During the 14a CoC meetings held on 06.01.2021, the then
+resolution professional of the Corporate Debtor, proposed before the CoC
+members having voting rights (State Bank of India and Shalini Chaudhary)
+certain resolution plans, which were submitted by proposed resolution
+applicants namely; Maharaja Agro Foods Private Limited, Sushil Kumar Singh
+in Consortium with M/S Fair Deal Food Ventures Private Limited, Mr.
+Navneet in consortium with M/s Capital Trade Link Limited and Santoshi
+Hyvolt Electricals Private Limited (an associate concern of the Respondent
+herein). However, none of the resolution plans were approved by the CoC,
+since none of the resolution plans were acceptable to the CoC. Meanwhile, on
+an appeal filed by one of the directors of the Corporate Debtor Shri. Sushil
+Kumar Singh this Tribunal vide its order dated 05.08.2022 dismissed the
+impugned order passed by Hon'ble NCLT dated 13.11.2019 and accordingly,
+the Corporate Debtor was out of the CIRP.
+
+6.
+It is to be noted that almost during the same period, the Corporate
+Debtor was stamped as NPA on 31.03.2019 by Respondent No.1 - SBI. After
+the Corporate Debtor was out of CIRP, Respondent No.1 - SBI, as the sole
+secured financial creditor re-initiated SARFAESI action and arranged for fresh
+valuation of the properties, and for redirection of CMM/DM orders, which
+were issued three years back. Reserve Price for e-auction under SARFAESI
+Act was approved at Rs.28.68 crore on 08.02.2023. SBI as the sole secured
+financial creditor took physical possession of the plant on 22.02.2023, after
+the orders of CMM/DM. Respondent No.1 - SBI also revived the Original
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 6 of 34
+
+Application No. 1039 of 2019 originally filed by the Applicant before the
+Hon’ble DRT, Delhi. But this CIRP was set aside by the order of this Tribunal
+on 05.08.2022. SBI started its recovery proceedings under SARFAESI Act,
+2002 and revived the O.A. No. 1039/2019, before DRT, Delhi. E-auction of
+secured assets has already been concluded and on 03.05.2024 sale deed has
+been executed in favour of the successful auction purchaser.
+Submissions of the Appellant:
+7.
+The Appellant – Santoshi claims a total outstanding of about Rs.9.32
+crores which includes the principal of about 4.89 crores and the Rs. 4.43 crs
+as interest. It claims that during the period from 08.07.2019 to 15.11.2019
+the payments were made either directly to the CD or to the vendors of the CD,
+on the instruction of the CD. All payments were made through account
+transfer. It claims that Rs. 92 lakhs were paid directly to the CD and
+remaining was paid to the vendors of the Respondent No.2 – CD. It is claimed
+that the Appellant transferred a sum of Rs 4,89,28,694/- (rupees four crores,
+eighty-nine lakhs, twenty-eight thousand, six hundred and ninety-four only)
+to Respondent No. 2 or its vendors between 08.07.2019 and 15.11.2019,
+which is reflected in the ledger maintained by Respondent No. 2. The
+Appellant argues that the debt and default were adequately proven to initiate
+CIRP against Respondent No. 2. It claims that there is a “loan agreement”
+which was signed between the companies, there is a provision of interest @
+18% as per the loan agreement. Since there was a default in the payment of
+the loan and the default was more than the minimum threshold stipulated in
+Section 4(1) of the IBC, the Adjudicating Authority had no further discretion
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 7 of 34
+
+except to admit the Section 7 Application and consequently initiate the CIRP
+against the Respondent No.2. Adjudicating Authority has not accepted the
+petition and rather has entertained the IA of Respondent No.1 – SBI under
+Section 65 of the IBC. The Adjudicating Authority has passed the impugned
+order holding that the Appellant and Respondent No.2 – CD – M/s Mothers
+Pride Dairy India Pvt Ltd had colluded in filing Section 7 petition against the
+Respondent No.2. Before coming to the finding of collusion the Adjudicating
+Authority has not given sufficient opportunity to the Appellant to make any
+submissions on such issues. Thus, the impugned order is in violation of
+natural justice.
+
+8.
+The Appellant claims that the AA failed to recognise that it has no
+discretion to reject an Application under Section 7(5) of the IBC if a default
+has occurred and the Application is complete, as established by the Hon’ble
+Supreme Court in the case of Innoventive Industries Ltd vs ICICI Bank.
+
+9.
+The Appellant contends that the AA has failed to recognise that all the
+essential elements of ‘default’ under Section 3(12) of the IBC were met
+concerning the loan agreement between the Appellant and Respondent No. 2.
+The Authority should have followed the legal principles set forth by the
+Supreme Court in ‘M. Suresh Kumar Reddy vs Canara Bank’ (Civil Appeal
+No. 7121 of 2022, dated 11/05/2023).
+
+10.
+The Appellant contends that the AA failed to consider key material facts
+when passing the Impugned Order. These facts, which were uncontested by
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 8 of 34
+
+Respondent No. 1 in its Section 65 Application, were essential for the Section
+7 IBC Petition. First, it is undisputed that a valid loan agreement was
+executed on 17.08.2019 between the Appellant and Respondent No. 2.
+Payments were made to third parties as instructed by Respondent No. 2, in
+accordance with the agreement. Following the disbursement of certain loan
+amounts, disputes arose between the parties, and relevant notices and
+affidavits, including an affidavit dated 03.03.2023, were filed by the
+Appellant. Additionally, the Appellant had filed FIR No. 536 of 2019 on
+22.11.2019 and 10.12.2019 against Respondent No. 1 and the Directors
+under Section 406 of the IPC, concerning the plant and machinery of
+Respondent No. 2. Furthermore, in its Reply to the legal notice dated
+05.11.2019, Respondent No. 1 explicitly refused to recognise Mr Yug Mittal
+and Mr Kaushal Mittal as Directors or bank signatories of Respondent No. 2,
+and denied the changes in its management. The Appellant argues that these
+material facts were ignored by the AA, which led to the passing of the
+Impugned Order without due consideration of the full scope of evidence and
+circumstances.
+
+11.
+The AA also failed to recognise that Respondent No. 1 had a mala fide
+intention when filing its Application to dismiss the Section 7 Petition filed by
+the Appellant. At the time of filing the Petition, Respondent No. 1 had already
+initiated SARFAESI proceedings against Respondent No. 2 before the DRT.
+The goal of this Application was to achieve a favourable outcome that would
+allow Respondent No. 1 to recover money from Respondent No. 2 while
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 9 of 34
+
+harming the interests of other stakeholders, who were seeking to revive
+Respondent No. 2 through CIRP. Additionally, the collusion between
+Respondent Nos. 1 and 2 is evident because Respondent No. 2 has not
+opposed the ongoing SARFAESI proceedings and, during the previous CIRP
+initiated on 13.11.2019, Respondent No. 1 sold properties of the Guarantor
+(Respondent No. 2) in violation of the moratorium. The Interim Resolution
+Professional (IRP) had filed several Applications (IA Nos. 3340/2020 and
+4296/2020) against Respondent No. 1 in relation to this violation. To avoid
+further scrutiny of these violations, Respondent No. 1 is attempting to prevent
+Respondent No. 2 from entering CIRP. These crucial facts, indicating a clear
+abuse of process, should have been considered before the AA dismissed the
+Section 7 Petition.
+
+12.
+The reasoning of AA that one of the directors could have made the
+payment or terminated the loan agreement but instead chose to resign, was
+flawed. A director and the company are distinct legal entities as per settled
+law. The actions or inactions of a director cannot be directly attributed to the
+company, and thus, the AA’s opinion contravened the Supreme Court’s
+rulings in similar cases.
+
+13.
+The Adjudicating Authority took a hyper-technical approach in its
+interpretation of the definition of ‘default’ under Section 3(12) of the IBC.
+Specifically, the AA wrongly concluded that the debt owed by Respondent No.
+2 to the Appellant was not due and payable because the moratorium in the
+previous CIRP of Respondent No. 2 was still in place. However, this CIRP had
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 10 of 34
+
+already been dismissed by the NCLAT. The AA’s reasoning was incorrect, and
+it exceeded its jurisdiction by addressing issues that were not raised or
+pleaded by any of the parties involved in the dispute.
+
+14.
+The Appellant contends that the AA failed to properly assess the
+documents, including the Reply filed by Respondent No. 1 (SBI) in the Section
+7 Petition. Allegations of collusion between the Appellant and Respondent No.
+2 (M/s Mothers Pride Dairy India Pvt. Ltd.) were speculative and lacked
+substantive evidence. Consequently, the Impugned Order lacked legal
+justification under Section 65 of the IBC. Additionally, the AA disregarded the
+Appellant’s affidavit dated 03.03.2023, which refuted collusion claims.
+Instead, the AA relied on Respondent No. 1’s allegations without considering
+the Appellant’s prior clarification. The Appellant maintains that Respondent
+No. 1 acted with malicious intent, abusing judicial processes to delay CIRP.
+The AA also ignored Respondent No. 1’s Reply to a legal notice on 05.11.2019,
+where it denied recognizing Mr. Yug Mittal and Mr. Kaushal Mittal as directors
+or signatories of Respondent No. 2. This contradicts Respondent No. 1’s
+subsequent claims, indicating that its Application was filed in bad faith to
+obstruct the Section 7 Petition. The Appellant emphasizes that at the time of
+default (15.11.2019), the Mittal family had no control over either the
+Appellant or Respondent No. 2. Thus, the AA’s finding of collusion was
+unfounded, resulting in the wrongful acceptance of Respondent No. 1’s
+Section 65 Application.
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 11 of 34
+
+15.
+The AA erred in recognizing the loan agreement and default, but still
+dismissed the Section 7 Petition based on Respondent No. 1’s assertions. The
+Appellant contends that this decision is legally flawed and should be set aside.
+During a prior CIRP (CP(IB) 2122/2019) for Respondent No. 2, Respondent
+No. 1 was found colluding with Respondent No. 2 in financial irregularities.
+Despite the moratorium, Respondent No. 1 regularized directors and
+shareholdings, violating court orders—an issue raised before the Tribunal.
+
+16.
+Respondent No. 1, holding a 92% share in the CoC, incurred CIRP costs
+exceeding ₹3 crores, funded through payments from the Appellant under the
+17.08.2019 loan agreement. After NCLAT set aside the CIRP, Respondent No.
+1 should have pursued recovery from Ms. Shalini Choudhary, the Financial
+Creditor in CP(IB)/2122/2019, under Section 65 of the IBC.
+
+17.
+The AA failed to properly establish or explain the necessary prima facie
+opinion under Section 65 of the IBC. Specifically, it did not provide any
+justification for why the Appellant's initiation of CIRP through the Section 7
+IBC Petition was for any purpose other than the legitimate resolution of the
+insolvency or liquidation of Respondent No. 2.
+
+18.
+Under Section 7 of the IBC, it is mandatory for a Financial Creditor to
+disclose all relevant details regarding any security held, including its nature
+and estimated valuation, in Part V of Form 1. The Appellant did provide these
+disclosures, but if the nature or status of the security was incorrectly stated,
+the Application should be considered defective. The AA, however, did not
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 12 of 34
+
+properly assess whether these disclosures were accurate, ignoring the legal
+intent to ensure that the financial status and security details are truthful and
+transparent for the adjudication process. Moreover, the AA failed to take into
+account that Respondent No. 1 did not disclose the ongoing SARFAESI
+proceedings against Respondent No. 2, which was crucial information.
+According to the law, the onus of accurately reporting the status of any
+security rests with Respondent No. 2. Since this disclosure was not made,
+Respondent No. 2 should have been asked to explain the discrepancy.
+
+19.
+The AA made a grave error by forming a prima facie opinion that the
+directors of the Appellant and Respondent No. 2 acted with malicious or
+fraudulent intent when initiating the insolvency proceedings. The records,
+including pleadings and documents, clearly demonstrate that the directors
+acted in their official capacity as representatives of the respective companies,
+not as individuals. The involvement of the same directors in both companies
+is not an unusual or inherently suspicious circumstance. Furthermore, the
+loan agreement, which is central to the claim, was thoroughly scrutinised by
+the CoC, undermining any suggestion of fraudulent or malicious intent. The
+Authority neglected to form a prima facie opinion on whether there was any
+agreement involving fraud, or whether the defence presented was merely a
+baseless and frivolous attempt to dismiss the Petition.
+
+20.
+The Tribunal, in passing the Impugned Order, has erred by failing to
+recognise that neither Respondent No. 1 nor the directors of Respondent No.
+2 raised any objection to the loan agreement dated 17.08.2019 or the claim
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 13 of 34
+
+amount submitted by the Financial Creditor during the previous CIRP.
+Furthermore, Respondent No. 1, through its counsel, explicitly confirmed in
+open court during the final hearing that there was no dispute regarding the
+loan amount.
+
+21.
+Despite the resignation of the Mittal group members from their Director
+positions at Respondent No. 2 on 24.09.2019, the Financial Creditor
+continued to make payments as per the loan agreement dated 17.08.2019,
+based on specific requests from Respondent No. 2's CEO, Mr Navneet Jain,
+and director Ms Swati Bhatnagar. These payments, amounting to
+₹1,30,04,561/- (rupees one crore, thirty lakhs, four thousand, five hundred
+and sixty-one only) were directed to vendors of Respondent No. 2. The
+Tribunal failed to recognise that these transactions were fully documented
+and executed through account transfers, as outlined in the loan agreement.
+The Financial Creditor filed necessary records (eg, documents dated
+20.08.2019, 07.09.2019, and 12.09.2019) demonstrating the ongoing
+fulfilment of the loan terms even after the resignation of the Mittal group. The
+payments were made to support Respondent No. 2 and protect it from the
+negative consequences of multiple CIRPs.
+
+22.
+The Appellant has relied upon the following judgements to support his
+case:
+o ‘Innoventive Industries Ltd vs ICICI Bank,’ 2018 (1) SCC 407:
+an Application under Section 7(5) of the IBC cannot be rejected if a
+default has occurred and the Application is complete.
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 14 of 34
+
+o ‘M Suresh Kumar Reddy vs Canara Bank’ (Civil Appeal No.
+7121 of 2022, dated 11/05/2023),’: once the NCLT is satisfied
+that a default has occurred, there is little discretion left for the NCLT
+to refuse admission of the Application under Section 7 of the IBC.
+The only exception is when the debt is not due and payable, in which
+case the Application can be rejected.
+
+o ‘Indowind Energy Ltd vs Wescare (I) Ltd and Anr’ (Civil Appeal
+No. 3874 of 2010),’: companies are separate and distinct legal
+entities, even if they share common directors or the same person is
+the authorised signatory for both companies when entering into
+agreements.
+
+o ‘Jagmohan Bajaj vs Shivam Fragrances Pvt Ltd’ (Company
+Appeal (AT) (Insolvency) No. 428 of 2018, dated 14th August
+2018),’ clarified that internal disputes among directors, or the
+pendency of proceedings under Sections 241 and 242 of the
+Companies Act do not form a valid defence to the initiation of the
+CIRP under the IBC. The AA gravely overlooked the legal principles
+established by the Appellate Tribunal, and
+
+o ‘Rahul Aneja vs Sushant Aneja and Anr’ (Company Appeal (AT)
+(Insolvency) No. 407 of 2018, dated 7th September 2018),’
+upheld the right of shareholders who have provided loans to a
+company to initiate the CIRP.
+
+23.
+The Appellant contends that it fulfils the criteria of a Financial Creditor
+due to the loan provided to Respondent No. 2. Neither Respondent No. 1 nor
+Respondent No. 2 disputed this fact. The default met the requirements under
+Section 7(1), and the Application satisfied Section 7(3), supported by relevant
+records proving the default. AA unjustifiably concluded that the filing was
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 15 of 34
+
+collusive, relying on extraneous documents without granting the Appellant an
+opportunity to respond, thereby exceeding its jurisdiction. The Appellant
+claims that based on this clear evidence, the Impugned Order should be set
+aside.
+Submissions of the Respondent No.1 /SBI
+
+24.
+On 20.12.2015, Respondent No. 1 sanctioned a term loan of INR 28.5
+crores to Respondent No. 2. By the time of the submission, Respondent No. 1
+had disbursed a total of INR 26.67 crores to Respondent No. 2. The original
+promoters of Respondent No. 2, Sh Anant Kumar Chaudhary and Smt Shalini
+Chaudhary, who collectively held 90% of the company's shares, resigned from
+the Board and transferred their entire shareholding to Sh Naveen Jain.
+Respondent No. 2 changed its management without obtaining prior
+permission from Respondent No. 1. To revive the company, Sh Naveen Jain
+approached various companies and, on 14.03.2018, entered into a
+Memorandum of Understanding with Mothers Dairy Fruit and Vegetables Pvt
+Ltd. The agreement outlined that Mothers Dairy would start poly pack milk
+operations under its brand, based on a sales and purchase agreement model,
+on a principal-to-principal basis. In 2019, the then directors of Respondent
+No. 2 entered into an investment arrangement with a group of individuals
+known as the Mittal family members—Ms Seema Mittal, Mr Kaushal Mittal,
+Mr Yug Mittal, and Mr Rishik Mittal. All four became directors of Respondent
+No. 2 from 01.07.2019 to 24.09.2019, as reflected in the master data of
+Respondent No. 2 available on the MCA website. From 01.07.2019 to
+23/24.09.2024, the Mittal family members held the majority on the Board of
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 16 of 34
+
+Respondent No. 2. During this period, an alleged board resolution was passed
+on 30.07.2019, and an alleged loan agreement was executed between the
+Appellant and Respondent No. 2 on 17.08.2019. Notably, Mr Kaushal Mittal,
+who passed the alleged board resolution on behalf of Respondent No. 2, has
+also been a director of the Appellant since 02.08.2005 to present. Mr Yug
+Mittal, the signatory to this Appeal on behalf of the Appellant, was a director
+of Respondent No. 2 when the alleged board resolution was passed on
+30.07.2019 and the alleged loan agreement was executed on 17.08.2019. He
+executed the loan agreement on behalf of Respondent No. 2. Ms Kriti Mittal,
+a member of the Mittal family, executed the same loan agreement on behalf of
+the Appellant. Respondent No. 2 made a delayed repayment of INR 6.79 crores
+towards its loan account with Respondent No. 1, with a delay of 89 days.
+However, due to the non-payment of this amount, the account was declared
+a non-performing asset (NPA) on 31.03.2019.
+
+25.
+Per contra, Respondent No.1 – SBI claims that Rs. 92 lakhs, which was
+transferred by the Appellant to the Corporate Debtor was not a financial debt
+and was instead infused by the Appellant as an investment in the equity to
+acquire control and directorship of the CD. Directorship in a company is
+obtained by way of acquiring stake in a company by subscribing to equity or
+preference share. Smt. Seema Mittal, Kaushal Mittal, Yog Mittal and Rishik
+Mittal were appointed as Directors on 01.07.2019 and remained director of
+the CD till 23/24.09.2019. It has also attached the investment term sheet
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 17 of 34
+
+dated 19.06.2019 under which the Santoshi Group/ Mittal family acquired
+80% shareholding in the CD (@ 13 Rejoinder filed by the Appellant).
+
+26.
+Smt Shalini Chaudhary, one of the directors of Respondent No. 2, filed
+section 7 petition and that was admitted as per order dated 13.11.2019,
+passed by the AA. During the CIRP, claims from the Appellant and its sister
+concern, Santoshi Hyvolt Electricals Pvt Ltd, were filed as financial debt and
+included in the list of Financial Creditors. However, they did not have voting
+rights, being related parties to Respondent No. 2. Additionally, during the
+initial meetings of the CoC, the Mittal family members attended as part of the
+Suspended Management/Suspended Directors. During the CIRP, the
+Resolution Professional invited prospective Resolution Applicants to submit
+Resolution Plans. Several Plans were submitted and discussed during various
+CoC meetings. In the 14th CoC meeting, the Resolution Professional proposed
+that the following Resolution Applicants, who had submitted their plans, be
+presented to the CoC members with voting rights, namely State Bank of India
+(Respondent No. 1) and Smt Shalini Chaudhary:
+“Maharaja Agro Foods Pvt Ltd, Sushil Kumar Singh in Consortium
+with M/S Fair Deal Food Ventures Pvt Ltd, Mr Navneet in
+consortium with M/S Capital Trade Link Ltd and Santoshi Hyvolt
+Electricals Pvt Ltd (as associate concern of the Appellant herein)”
+
+None of the Resolution Plans were approved by the CoC, as none of the plans
+were deemed acceptable to the CoC.
+
+27.
+One of the directors of Respondent No. 2 filed an Appeal before the
+Tribunal, which, by Order dated 05.08.2022, dismissed the Impugned Order
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 18 of 34
+
+dated 13.11.2019, passed by the AA. As a result, Respondent No. 2 was
+removed from the CIRP. After Respondent No. 2 was removed from the CIRP,
+Respondent No. 1, as the sole Secured Financial Creditor, re-initiated the
+SARFAESI proceedings. They arranged for a fresh valuation of the properties
+and sought redirection of CMM/DM Orders issued three years prior. The
+reserve price for the e-auction under SARFAESI was set at INR 28.68 crores
+as of 08.02.2023. Subsequently, Respondent No. 1 took physical possession
+of the plant on 22.02.2023, after obtaining the CMM/DM Orders. Additionally,
+Respondent No. 1 revived the Original Application (1039 of 2019) filed before
+the DRT, Delhi.
+
+28.
+The Appellant filed Petition CP (IB) No. 662 of 2022 before the AA with
+the sole intention of stalling the recovery proceedings initiated by Respondent
+No. 1 through SARFAESI actions, delaying the recovery of Respondent No. 1’s
+dues. It is also important to note that Respondent No. 1 had already lost three
+years during the previous CIRP process of Respondent No. 2, which began in
+November 2019. The Petition CP (IB) No. 662 of 2022 before the AA is filed in
+bad faith and with malafide intentions, aiming to push Respondent No. 2 into
+CIRP. This would allow the Appellant an opportunity to take over Respondent
+No. 2. A similar attempt was made by the Appellant in the earlier CIRP, but it
+was dismissed by the Tribunal's Order dated 05.08.2022. The Appellant is
+reportedly controlled by members of the Mittal family and filed the Petition CP
+(IB) No. 662 of 2022 under Section 7 of the IBC, with Mr Yug Mittal
+representing the Appellant. The Appellant's pleadings before the AA,
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 19 of 34
+
+particularly the additional affidavit filed on 03.03.2023, revealed that there
+were multiple groups of shareholders/directors of Respondent No. 2 at
+different times. These included the original promoters, Ms Shalini Chaudhary
+and Mr Anant Chaudhary (Chaudhary Group), the Mittal family members (Ms
+Seema Mittal, Mr Kaushal Mittal, Mr Yug Mittal, and Mr Rishik Mittal), and
+another group consisting of Mr Sushil Singh, Mr Navneet Jain, and Mr Vikas
+Yadav (Others Group). A term sheet was signed between the Mittal family
+members and the Others Group on 28.06.2019, for investment in Respondent
+No. 2, after which the Mittal family took control of the management. Four
+members of the Mittal family were appointed as directors on Respondent No.
+2’s board from 01.07.2019 to 23/24.09.2019, as shown in the master data of
+the Corporate Debtor available on the MCA website. Disputes arose between
+the Mittal family members and the Other Group due to alleged concealment
+of material facts. In its additional affidavit dated 03.03.2023, filed before the
+AA, the Appellant stated that, because of a dispute over misrepresentation,
+Mr Yogesh Mittal of the Mittal family was compelled to file a police complaint
+in August 2019 against Mr Anant Chaudhary, Mrs Shalini Chaudhary, Mr
+Vikas Yadav, and Mr Navneet Jain. Additionally, Respondent No. 2 claimed
+that the disputes stemmed from the Mittal family's failure to invest the agreed
+amount. The Appellant's case before the AA was that Respondent No. 2
+borrowed INR 5 crores from the Appellant under a loan agreement dated
+17.08.2019, which Respondent No. 2 failed to repay. The loan agreement was
+executed between the Appellant and Respondent No. 2 during the period when
+the Mittal family members were in control of Respondent No. 2, specifically
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 20 of 34
+
+from 01.07.2019 to 23/24.09.2019. The Mittal family members, who
+controlled both the Appellant Company and Respondent No. 2, decided to
+borrow the money from the Appellant. Mr Yug Mittal, who filed CP (IB) No. 662
+of 2022 on behalf of the Appellant, signed the loan agreement on behalf of
+Respondent No. 2. Additionally, his sister, Ms Kriti Mittal, who was admitted
+by the Appellant's Counsel to be his sister, signed the loan agreement on
+behalf of the Appellant Company.
+
+29.
+A CIRP was initiated against Respondent No. 2 by an earlier Order dated
+13.11.2019 in CP No. IB 2122(ND)/2019. During the process, the Appellant
+attempted to take over Respondent No. 2 through its sister concern, Santoshi
+Hyvolt Electricals Pvt Ltd, which submitted a Resolution Plan. However,
+Respondent No. 1 did not accept any of the Resolution Plans. The Section 7
+Petition is a result of the ongoing dispute between the Mittal family and the
+shareholders of Respondent No. 2. The loan agreement in question is disputed
+by Respondent No. 2, as it was executed during the period in 2019 when the
+Mittal family members controlled both companies. Given the circumstances
+and the ongoing disputes between the two groups, it can be concluded that
+the CP (IB) No. 662 of 2022 was not filed by the Appellant to resolve the
+insolvency of Respondent No. 2. Instead, it was filed with malafide intentions
+to wrongfully push Respondent No. 2 into CIRP and take over the company.
+Repeated CIRPs have been initiated against Respondent No. 2, disrupting
+Respondent No. 1's right to pursue legal remedies for recovering its dues.
+Respondent No. 2 had initiated steps under SARFAESI, but this was stayed
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 21 of 34
+
+following the commencement of the CIRP on 13.11.2019 at the instance of
+director Smt Shalini Chaudhary. Later, the CIRP was found to be based on an
+illegal document and was set aside by this Tribunal on 05.08.2022. After
+Respondent No. 2 was removed from the CIRP, Respondent No. 1 re-initiated
+SARFAESI actions and other recovery measures, taking physical possession
+of the plant on 22.02.2023, upon obtaining CMM/DM Orders. Respondent
+No. 1 also revived the Original Application No. 1039 of 2019 before the DRT,
+Delhi. It is further noted that the Appellant, in its written submission dated
+25.05.2023, acknowledged that CIRP had been previously initiated against
+Respondent No. 2. These repeated CIRPs have therefore stalled Respondent
+No. 1's legal rights to recover its dues. There have been multiple attempts to
+initiate the CIRP against Respondent No. 2. These attempts include: (a) a
+Petition filed by OC Portrait Advertising and Marketing Pvt Ltd, which was
+admitted by the AA on 27.06.2017, but subsequently set aside by the
+Supreme Court on 28.07.2007; (b) a Petition filed by director Smt Shalini
+Chaudhary, which was admitted on 13.11.2019 and later dismissed by this
+Tribunal on 05.08.2022; (c) a Petition filed by Splendid Buildwell Pvt Ltd
+seeking CIRP initiation; and (d) several other Petitions filed against
+Respondent No. 2, as outlined in the chart presented by the Appellant. These
+repeated attempts to initiate CIRP underscore the ongoing legal battles and
+challenges faced by Respondent No. 2.
+
+30.
+The AA correctly allowed the Application of Respondent No. 1 and
+dismissed the CP (IB) No. 662 of 2022 filed by the Appellant on 12.06.2023.
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 22 of 34
+
+The Authority held that the Petition was filed by the Appellant with malicious
+and fraudulent intent, specifically to push Respondent No. 2 into CIRP and
+wrongfully take control of the company. Therefore, the AA did not err in
+dismissing the Petition, as the Appellant’s only intent was to initiate the CIRP
+for improper purposes.
+
+31.
+The Respondent argues that the AA rightly allowed IA 1695 of 2023 and
+imposed the fine on the Appellant for filing a Petition with malicious and
+fraudulent intent.
+Appraisal
+
+32.
+We have heard Counsels of both sides and perused materials on record.
+
+33.
+The main issues before us are whether there is a debt and default for
+Section 7 Petition to be admitted and whether the Section 7 Petition was filed
+with malicious intent or not and also whether the penalty of Rs 10,00,000/-
+imposed on the Appellant is justified or not.
+
+34.
+First of all, we go into the issue whether the Section 7 Petition was filed
+with malicious intent or not. Basis the materials on record Adjudicating
+Authority has noted in detail about common Directors at paragraph 11 and
+12 in the Impugned Order and it has come to a conclusion that Section 7
+Petition was filed with malicious intent. The details of common Directors in
+Appellant (Santoshi) and the Corporate Debtor (CD-Mothers Pride) with their
+tenures is captured in the following table:
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 23 of 34
+
+35.
+We find that the purported Loan Agreement, dated 17.08.2019, on
+which the Appellant relies, was executed between the Appellant and
+Respondent No. 2 during the period from 01.07.2019 to 23/24.09.2019, when
+the Mittal family members were in control of Respondent No. 2. Notably,
+during this time, the Mittal family members, while managing Respondent No.
+2, decided to borrow funds from the Appellant Company, which was also
+under their control. Mr Yug Mittal, who filed Company Petition CP (IB) No.
+662 of 2022 before the Adjudicating Authority (AA) on behalf of the Appellant,
+signed the Loan Agreement on behalf of Respondent No. 2. Furthermore, his
+sister, Ms Kriti Mittal, signed the same agreement on behalf of the Appellant
+Company. This demonstrates that the Agreement was essentially a Mittal-to-
+Mittal transaction. Additionally, the original loan tenure was short, spanning
+from 08.07.2019 to 31.10.2019, with an option for an extension only until
+31.10.2019. Mr Yug Mittal and Mr Kaushal Mittal, who were common
+Directors in both the Appellant and the CD, did not make any genuine efforts
+to recover the loan. Instead, they resigned from their directorship of the CD
+on 23.09.2019, which was within one month of the filing of the Section 7
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 24 of 34
+
+Petition on 30.08.2019 in the matter of M/S Shalini Choudhary vs Mother
+Pride India Pvt Ltd. This Petition was ultimately admitted by the Adjudicating
+Authority (AA) on 13.11.2019 but was later set aside by the Appellate
+Authority. The AA has rightly concluded that there could not have been a
+default on 15.11.2019, the date mentioned in Part IV of the Company Petition,
+because by that time, a moratorium had come into effect due to the first round
+of insolvency. Given that the Loan Agreement was valid from 08.07.2019 to
+31.10.2019, and during this period, both Kaushal Mittal and Yug Mittal were
+Directors in both the CD and the Appellant, they were directly responsible for
+any default by the CD. The filing of the Section 7 Petition by these individuals,
+while being Directors of the Financial Creditor, was not intended to seek a
+genuine resolution for the CD but rather to harm its interests, thereby
+demonstrating malicious intent. The Appellant is a related party to the CD,
+with common Directors during the relevant period when the alleged debt and
+default occurred. We find merit in the argument that the Mittal family
+members, who controlled both entities at the time, orchestrated the Loan
+Arrangement, making the claim self-serving and legally untenable. The
+Appellant and its related entities were actively involved in the management of
+the CD during the transactions in question, reinforcing the case for malice.
+
+36.
+Thus, we find strength in the arguments of Respondent No. 1–SBI that
+the Appellant’s Section 7 Petition was filed with ulterior motives.
+Consequently, we see no infirmity in the findings of the AA, as they are based
+on the material on record.
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 25 of 34
+
+37.
+This Tribunal, in its judgment dated 05.01.2023, in the case of Wave
+Megacity Centre Private Limited vs Rakesh Taneja & Ors. (Company
+Appeal (AT) (Insolvency) No. 918 of 2022), held the following:
+“15.
+When the Adjudicating Authority has recorded a finding that a
+Section 10 Application has been initiated fraudulently and maliciously,
+the Authority is not obligated to admit the Application, even if debt and
+default exist. Section 10 and Section 65, being part of the same statutory
+framework, must be read together to give full effect to the legislative
+intent of the Code. If a corporate applicant initiates CIRP fraudulently or
+with malicious intent for any purpose other than insolvency resolution,
+holding that the Adjudicating Authority is bound to admit the Section
+10 Application would contradict the statutory scheme under Section 65.
+If the conditions under Section 65 are met, the Section 10 Application
+may be rejected, even if debt and default are proven. Thus, Section 65
+serves as an enabling provision, allowing the rejection of an application
+despite the establishment of debt and default, and the admission of a
+Section 10 Application is not mandatory...”
+
+Applying this principle, the AA extended these observations to the Section 7
+Petition, dismissing IB-662/2022 filed by the Appellant and allowing the
+Section 65 Application under the IBC, 2016, filed by SBI. Given the facts and
+circumstances of the present case, we find no infirmity in the AA’s decision to
+impose a penalty of Rs 10 lakhs on the Appellant—M/S Santoshi Finlease Pvt
+Ltd.
+
+38.
+As noted above by us that rejection of attempted CIRP due to reasons
+of its fraudulent and malicious initiation, we need not go into the issue of the
+existence of financial debt and default, yet for sake of completeness we are
+delving into it to find out the real nature of the transactions in this case. On
+the issue of the existence of debt, we find that the Appellant transferred a
+sum of Rs 92,00,000/- (Page 147 of the Appeal) to the CD, as per the account
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 26 of 34
+
+statement of the Appellant. The true nature of the purported ‘Loan Agreement’
+has been noted by us previous in paragraphs. Contemporaneously, we find
+that Seema Mittal, Kaushal Mittal, Yug Mittal and Rishik Mittal were
+appointed as Directors in the CD on 01.07.2019 and remained Directors of
+the CD till 23/24.09.2019 [Page 14 and 15 of Reply]. Contemporary
+Investment Term Sheet dated 19.06.2019 was also signed, under which the
+Santoshi Group/Mittal Family acquired 80% shareholding in CD [@ Page 13
+of the Rejoinder filed by the Appellant]. Even though it is claimed by the
+Appellant that the Term Sheet dated 19.06.2019 was entered amongst Mr
+Navneet Jain, Santoshi Group, Vikas Yadav and Mr Anant Choudhary for
+reviving the company, yet we don’t find any other consideration except for
+payment of Rs 92 lakhs from the Santoshi Finance to the CD for acquiring
+stake in the company by subscribing to equity or preference share and
+obtaining Directorship in the CD and cannot be considered as loan. Therefore,
+in the facts and the circumstances of the case we find that all the amounts
+shown as amount paid by the Appellant, were paid to acquire stake in CD
+and appoint the Directors. We cannot but conclude that the amount of Rs
+92,00,000/- in question was not a loan but instead infused by the Appellant
+as an investment in equity to acquire control and Directorship in the CD, and
+not as a loan or financial debt. And the said investment was not in the nature
+of a disbursement against time value of money, which is a fundamental
+criterion for a financial debt.
+
+39.
+As previously noted, the rejection of the CIRP Application was due to
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 27 of 34
+
+its fraudulent and malicious initiation. While it is unnecessary to examine
+the existence of financial debt and default, we do so for the sake of
+completeness to ascertain the true nature of the transactions in this case.
+Regarding the existence of debt, the Appellant transferred a sum of INR
+92,00,000/- (Page 147 of the Appeal) to the CD, as reflected in the Appellant’s
+account statement. The actual nature of this purported ‘Loan Agreement’ has
+already been discussed in earlier paragraphs. Simultaneously, we observe
+that Seema Mittal, Kaushal Mittal, Yug Mittal, and Rishik Mittal were
+appointed as Directors of the CD on 01.07.2019 and remained in their
+positions until 23/24.09.2019 (Page 14 and 15 of Reply). Additionally, an
+Investment Term Sheet dated 19.06.2019 was signed, under which the
+Santoshi Group/Mittal Family acquired 80% shareholding in the CD (Page 13
+of the Rejoinder filed by the Appellant). Although the Appellant claims that
+the Term Sheet dated 19.06.2019 was executed among Mr Navneet Jain,
+Santoshi Group, Vikas Yadav, and Mr Anant Choudhary to revive the
+company, we find no evidence of any consideration other than the payment
+of Rs 92 lakhs by Santoshi Finance to the CD for acquiring a stake in the
+company—either by subscribing to equity or preference shares—and
+obtaining Directorship in the CD. This transaction cannot be considered a
+loan.
+
+40.
+Given the facts and circumstances of this case, we conclude that the
+amounts purportedly paid by the Appellant were, in fact, investments
+intended to acquire a stake in the CD and secure directorship. Accordingly,
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 28 of 34
+
+the sum of Rs 92,00,000/- was not a loan but an equity infusion aimed at
+obtaining control over the CD. Moreover, this investment does not satisfy the
+essential criteria of a financial debt, as it was not a disbursement made
+against the time value of money.
+
+41.
+The Appellant has claimed that it made several payments on behalf of
+the CD to its vendors and employees. These payments were made by the
+Appellant in its capacity as an implied holding company, given that the Mittal
+family controlled both the Appellant and the CD during the relevant period.
+However, as these payments were not directly disbursed to the CD, they do
+not qualify as a financial debt under Section 5(8) of the Insolvency and
+Bankruptcy Code, 2016 ("Code"). Consequently, no debt, as defined under the
+Code, has arisen from these transactions, rendering the present claim
+untenable and failing to meet the necessary threshold for initiating
+proceedings under Section 7 of the Code.
+
+42.
+For initiating proceedings under Section 7 of the Code, the existence of
+a "financial debt" and a corresponding "default" is a sine qua non. In the
+present case, we examine when the loan was recalled by the Appellant and
+whether a consequent default occurred. Assuming the alleged debt was
+disbursed under the purported Loan Agreement dated 17.08.2019, we note
+that the Agreement does not clearly specify a repayment date. The debt has
+been disbursed from 08.07.2019 to 15.11.2019 according to Part IV of the
+Company Petition under Section 7 of the Code, and the Appellant has
+designated 15.11.2019 as the date of default [Page 83 of the Appeal]. However,
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 29 of 34
+
+as of 13.11.2019, the CD had already been admitted into CIRP under another
+Company Petition. Furthermore, under Clause 7(d) of the alleged Loan
+Agreement [Page 97-98 of the Appeal], admission of the CD into insolvency
+constitutes an Event of Default. As a consequence of such an event, Clause
+8(a) [Page 97 of the Appeal] requires the Appellant to issue a Recall Notice for
+the loan amount to become due and payable. However, no such Recall Notice
+was ever issued. Additionally, no document substantiating the Date of Default
+has been placed on record. In the absence of both disbursements directly to
+the CD and default, the attempt to invoke proceedings under Section 7 of the
+Code is unsustainable. Since no debt, as envisaged under the Code, has
+arisen from the said transaction, the present claim is untenable and does not
+satisfy the threshold for initiating proceedings under Section 7 of the Code.
+
+43.
+The Appellant has sought to rely on the judgment of the Hon’ble
+Supreme Court in Innoventive Industries Ltd vs ICICI Bank, 2018 (1) SCC
+407, which established that an application under Section 7(5) of the IBC
+cannot be rejected if a default has occurred and the application is complete.
+The Appellant has also referred to M. Suresh Kumar Reddy vs Canara Bank
+(Civil Appeal No. 7121 of 2022, dated 11/05/2023), wherein it was held
+that once the NCLT is satisfied that a default has occurred, it has limited
+discretion to refuse admission of an application under Section 7 of the IBC.
+The only exception is when the debt is not due and payable, in which case
+the application may be rejected. However, the facts of the present case are
+distinguishable, as neither debt nor default has been established and as
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 30 of 34
+
+noted by us separately in the facts of this case malice has been established.
+Consequently, these judgments do not support the Appellant’s case.
+
+44.
+The Appellant has sought to rely on the judgment of the Hon’ble
+Supreme Court in Indowind Energy Ltd vs Wescare (I) Ltd and Anr (Civil
+Appeal No. 3874 of 2010, which affirmed that companies are separate and
+distinct legal entities, even if they share common directors or have the same
+authorized signatory when entering into agreements. However, considering
+the facts and circumstances of the present case, it is evident that the Section
+7 petition was filed fraudulently and maliciously, and for its determination if
+necessary corporate veil can be pierced. Notably, in the first round of CIRP,
+the available material indicates that Santoshi Hyvolt Electricals Private
+Limited—an associate concern of the Appellant—had submitted a resolution
+plan to acquire the CD [@ Page 37 of Reply]. Moreover, the Appellant and its
+related entities were actively involved in the management of the CD at the
+time of the alleged transactions, demonstrating a clear element of malice. We
+find merit in the argument that the Mittal Family Members, who controlled
+both the CD and the Appellant during the relevant period, orchestrated the
+alleged loan arrangement, rendering the claim self-serving and legally
+untenable. It is evident that the present petition was filed with the sole
+intention of obstructing recovery proceedings. Although the first round of
+CIRP, initiated in 2019, was ultimately dismissed by this Hon’ble Appellate
+Tribunal on 05.08.2022, the current events indicate that, through this second
+unsuccessful attempt at CIRP—now the subject of this appeal—the Appellant
+
+[PAGE 31]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 31 of 34
+
+is merely seeking to delay the legitimate recovery proceedings initiated by
+Respondent No. 1 under the SARFAESI Act.
+
+45.
+The Appellant has sought to rely on the judgment of this Appellate
+Tribunal in Rahul Aneja vs Sushant Aneja and Anr (Company Appeal (AT)
+(Insolvency) No. 407 of 2018, dated 7th September 2018, which upheld the
+right of shareholders who have provided loans to a company to initiate CIRP.
+This principle affirms that Financial Creditors—whether shareholders or
+otherwise—are entitled to initiate insolvency proceedings for the recovery of
+loans. However, this judgment does not support the Appellant’s case, as the
+present matter concerns a Section 7 petition under the Code, where both debt
+and default must be established—requirements that have not been met in
+this instance.
+
+46.
+The Appellant has sought to rely on the judgment of this Appellate
+Tribunal in Jagmohan Bajaj vs Shivam Fragrances Pvt. Ltd. (Company
+Appeal (AT) (Insolvency) No. 428 of 2018, dated 14th August 2018, which
+clarified that internal disputes among directors or the pendency of
+proceedings under Sections 241 and 242 of the Companies Act do not
+constitute a valid defense against the initiation of CIRP under the IBC. The
+Appellant contends that the AA overlooked the legal principles established by
+the Appellate Tribunal, specifically that internal disputes among directors or
+ongoing proceedings under Sections 241 and 242 of the Companies Act, 2013,
+do not serve as a valid defense to CIRP initiation under the IBC. It is further
+argued that the IBC, as a special law with overriding authority under Section
+
+[PAGE 32]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 32 of 34
+
+238, cannot be subordinated to disputes or actions governed by general
+corporate law. Consequently, the Appellant asserts that the AA’s failure to
+recognize the precedence of the IBC, particularly the Financial Creditor’s right
+to initiate CIRP, constitutes a significant error. However, this judgment does
+not support the Appellant’s case, as the AA has explicitly established that the
+petition was filed with malicious intent. Furthermore, as previously noted,
+neither the existence of debt nor default—both prerequisites for the admission
+of a Section 7 petition—have been proven.
+
+47.
+The Appellant argues that before concluding collusion, the Adjudicating
+Authority did not provide sufficient opportunity for submissions on the
+matter. Consequently, the impugned order under Section 65 of the Code is
+alleged to be in violation of natural justice. The IA filed by Respondent No. 1—
+SBI—was an application under Section 65 of the Code read with Rule 11 of
+the NCLT Rules, 2016, to which the Appellant had submitted a reply. Section
+65(1) is reproduced below to clarify the authority vested regarding the
+fraudulent or malicious initiation of proceedings:
+“65. Fraudulent or malicious initiation of proceedings: 1) If, any
+person initiates the insolvency resolution process or liquidation
+proceedings fraudulently or with malicious intent for any purpose other
+than for the resolution of insolvency, or liquidation, as the case may
+be, the Adjudicating Authority may impose upon such person a penalty
+which shall not be less than one lakh rupees, but may extend to one
+crore rupees.”
+
+The IA filed by SBI specifically addressed this issue, and the Appellant had
+already submitted a written reply, including arguments, which are
+recorded on page 68 of the APB. Therefore, the claim that the principles of
+
+[PAGE 33]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 33 of 34
+
+natural justice were not followed by the AA is unfounded. Furthermore,
+there is no requirement for the AA to form a prima facie view under Section
+65, as the provision does not necessitate such a determination.
+
+48.
+The Appellant has also contended that Respondent No. 1—SBI—
+acted with mala fide intent when filing its application to dismiss the Section
+7 Petition submitted by the Appellant. Respondent No. 1 had already
+initiated SARFAESI proceedings against Respondent No. 2 before the DRT.
+The purpose of this application, according to the Appellant, was to secure
+a favorable outcome that would enable Respondent No. 1 to recover funds
+from Respondent No. 2 while undermining the interests of other
+stakeholders seeking to revive Respondent No. 2 through CIRP. However,
+this claim is not supported by the facts. Respondent No. 2 had undergone
+multiple CIRPs, and Respondent No. 1—SBI—had been pursuing CIRP
+proceedings for approximately three years. As a creditor, it has the legal
+right to recover its dues. Given the facts and circumstances of the case, we
+find merit in the arguments of Respondent No. 1—SBI—that the Petition
+CP (IB) No. 662 of 2022 before the AA was filed in bad faith and with mala
+fide intent, aiming to push Respondent No. 2 into CIRP. This would have
+provided the Appellant an opportunity to take control of Respondent No. 2.
+
+49.
+Based on the facts and circumstances, we conclude that the alleged
+loan from the Financial Creditor (FC)—Appellant Santoshi—was not a
+genuine loan but rather an arrangement designed to obstruct SBI’s
+recovery efforts under the SARFAESI Act. Furthermore, in light of the
+
+[PAGE 34]
+Company Appeal (AT) (Insolvency) No. 974 of 2023 34 of 34
+
+investment term sheet, the transfer of ₹62 lakhs cannot be considered a
+debt. Therefore, we find that no debt, as defined under the Code, has arisen
+from this transaction, rendering the present claim untenable and failing to
+meet the threshold for initiating proceedings under Section 7 of the
+Insolvency and Bankruptcy Code, 2016. Additionally, we find that the
+Section 7 petition was filed fraudulently and with malicious intent. Given
+the facts and circumstances, the imposition of a ₹10,00,000 penalty is
+justified.
+Orders:
+50.
+Based on the facts and circumstances, we conclude that the
+Section 7 petition was filed with malicious intent. We find no error in the
+AA’s decision to dismiss the CP and grant SBI’s I.A. Accordingly we dismiss
+this appeal filed by the Financial Creditor (Santoshi) in CP (IB) No.
+662/2022, which sought to initiate CIRP against Respondent No. 1
+(Mother’s Pride). Additionally, the orders concerning Application No. I.A.
+1695/2023, filed by SBI under Section 65, are upheld along with the
+imposition of a ₹10,00,000 penalty. Each party shall bear its own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+March 05, 2025.
+
+pawan

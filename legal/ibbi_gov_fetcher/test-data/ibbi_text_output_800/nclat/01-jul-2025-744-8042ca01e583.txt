@@ -1,0 +1,1429 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 2261 of 2024
+
+[Arising out of the Order dated 06.11.2024 passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Ahmedabad Bench) in C.P (IB) No. 104 (AHM)/2024]
+
+IN THE MATTER OF:
+
+Edelweiss Asset Reconstruction Company Limited
+Acting in its capacity as a Trustee of:
+EARC Trust SC 444,
+Registered Office address at:
+Edelweiss House, Off C.S.T Road,
+Kalina Mumbai, Maharashtra 400098
+Email: dolly.bharti@edelweissarc.in
+
+...Appellant
+
+Versus
+
+Takshashila Heights India Pvt. Ltd.
+Registered Office address at:
+560, Silver Arc 'B', Open Plot,
+Near Ashima House, Town Hall,
+Madalpur, Ellisbridge Ahmedabad - 380 006
+
+Also at:
+Takshashila AIR, Sales Office,
+First Floor, Tower B,
+Opposite Hotel, Neelkantha Panshikura,
+Near Madalpur Underpass,
+Behind Town Hall, Ellisbridge,
+Ahmedabad - 380 006, Gujarat
+Email: info@takshashilaair.com.
+
+...Respondent
+
+Present:
+
+For Appellant
+:
+Mr. Abhijeet Sinha, Sr. Advocate with Mr. Aditya
+Vashishth and Mr. Anmol Bansal, Advocates
+(EARCL).
+
+For Respondent
+:
+Mr. Saurabh Kalia and Mr. Avik Sarkar, Advocates
+Mr. Arjun Sheth and Mr. Rajiv Chawla, Advocates
+for Intervenor.
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 2 of 41
+
+O R D E R
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+This Appeal has been filed by Edelweiss Asset Reconstruction Company
+Ltd (EARCL/Appellant), as Trustee of EARC Trust SC 444, assailing the Order
+dated 06.11.2024 passed by the National Company Law Tribunal,
+Ahmedabad Bench (“Adjudicating Authority/NCLT”) in CP (IB) No. 104
+(AHM)/2024, whereby the Appellant’s Petition under Section 7 of the
+Insolvency and Bankruptcy Code, 2016 ("IBC”) seeking initiation of Corporate
+Insolvency Resolution Process (CIRP) against Takshashila Heights Pvt Ltd
+(Corporate Debtor) was dismissed. The Petition was filed on account of
+financial defaults by the Corporate Debtor in respect of two loan facilities
+sanctioned in 2018, amounting to Rs 70 crores (Rs 40 crores and Rs 30 crores
+respectively), originally extended by ECL Finance Ltd and subsequently
+assigned to the Appellant on 09.05.2022. The account was classified as a non-
+performing asset (NPA) on 30.12.2021. Despite initial restructuring of the
+outstanding dues in May 2023 and payment of the first instalment, the
+Corporate Debtor defaulted on the subsequent instalments, leading to
+revocation of the restructuring arrangement and continuation of enforcement
+actions, including proceedings under the SARFAESI Act and a pending DRT
+Application. The Section 7 Petition, filed on 31.01.2024 claiming an
+outstanding sum of Rs 93.54 crores, was supported by evidence of debt and
+default. However, the Adjudicating Authority dismissed the Petition holding
+that the proceedings were aimed at recovery rather than resolution, thus
+constituting a misuse of IBC provisions, and that initiating CIRP would
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 3 of 41
+
+prejudice the interests of stakeholders, given the Corporate Debtor's status
+as a going concern. Relying on the Supreme Court’s decision in Vidarbha
+Industries Power Ltd vs Axis Bank Ltd [2022 SCC OnLine SC 841], the
+NCLT exercised discretion to reject the Petition despite debt and default being
+established.
+
+2.
+Brief chronology of the events is as follows:
+Date
+Events
+19.07.2018 Pursuant to the request made by the Corporate Debtor, the
+Original Lender ECL Finance Ltd sanctioned to the Corporate
+Debtor, term loan of Rs 40,00,00,000/- (TL Facility I).
+19.07.2018 Further, pursuant to another request made by the Corporate
+Debtor, the Original Lender sanctioned to the Corporate
+Debtor, term loan of Rs 230,00,00,000/- (TL Facility-II).
+25.07.2018 Corporate Debtor and Mr Kamleshbhai Gondalia executed an
+unattested deed of hypothecation in favour of the Original
+Lender.
+25.07.2018 With a view to secure the TL Facility, Mr Kamlesh Gondalia,
+Mrs Deeptiben Gondalia and Mr Parthil Gondalia furnished
+personal guarantee by executing a Guarantee Agreement.
+25.07.2018 With respect to the TL Facility, the Corporate Debtor
+executed a promissory note in favour of the Original Lender.
+25.07.2018 With respect to the TL Facility, the directors of the Corporate
+Debtor company executed an undertaking from directors.
+25.07.2018 With respect to the TL Facility-I, the Corporate Debtor
+executed an undertaking-cum-indemnity to pay differential
+stamp duty.
+26.09.2018 With respect to the TL Facility-II, the Corporate Debtor
+executed a Loan Agreement in favour of the Original Lender,
+on the terms and conditions contained therein (Loan
+Agreement-II).
+26.09.2018 With a view to secure the TL Facility-II, Mr Kamlesh Gondalia,
+Mrs Deeptiben Gondalia and Mr Parthil Gondalia furnished
+personal guarantee by executing a Guarantee Agreement in
+favour of the Original Lender.
+26.09.2018 With respect to the TL Facility-Il, the Corporate Debtor
+executed a promissory note in favour of the Original Lender.
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 4 of 41
+
+26.09.2018 With respect to the TL Facility-II, the promotors of the
+Corporate
+Debtor
+company
+executed
+a
+promoters'
+undertaking for non-disposal and cost overrun-cum-
+indemnity.
+26.09.2018 With respect to the TL Facility-II, the Corporate Debtor
+executed an undertaking-cum-indemnity to pay differential
+stamp duty.
+02.11.2018 In consideration of the Original Lender having lent and
+advanced and/or agreed to lend and advance the loan to the
+Corporate Debtor, the Corporate Debtor and Mr Kamleshbhai
+Gondalia executed an unattested deed of hypothecation.
+04.09.2020 With respect to the TL-I Facility and TL-II Facility, the
+Corporate Debtor, Takshashila Developers Pvt Ltd, and the
+erstwhile Neelkamal Realtors and Complex Pvt Ltd executed
+an indenture of mortgage in favour of the Original Lender.
+07.09.2020 An escrow agreement came to be executed amongst the
+Corporate Debtor, the erstwhile Neelkamal Realtors and
+Complex Pvt Ltd, Axis Bank Ltd and the Original Lender.
+30.09.2021 The Corporate Debtor made last payment in the TL-I Facility
+and TL-II Facility account.
+30.12.2021 In view of the persistent defaults committed by the Corporate
+Debtor in repayment of principal debt and interest thereon,
+the Financial Creditor classified the account of the Corporate
+Debtor as non-performing asset (NPA).
+09.05.2022 An assignment agreement came to be executed between the
+Original Lender and the Financial Creditor.
+31.05.2022 The Financial Creditor issued recall and invocation of
+guarantee notice upon the Corporate Debtor and Personal
+Guarantors thereby demanding the payment of the entire
+outstanding dues, being an amount of Rs 53,03,18,487/- as
+on 31.05.2022.
+21.07.2023 The Appellant issued a statutory demand notice under
+Section 13 (2) of the SARFAESI Act, 2002, therein demanding
+a sum of Rs 57,24,96,064/- as on 30.06.2022.
+23.05.2023
+
+The Appellant and Corporate Debtor entered into a
+restructuring exercise I OTS for the debt owed by the
+Corporate Debtor and Raghav Conpro LLP as per terms of
+letter dated 23.05.2023.
+29.12.2023 The Corporate Debtor defaulted on the restructuring
+instalments and in view of the same, the Financial Creditor
+issued a revocation notice, revoking the restructuring.
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 5 of 41
+
+20.02.2024 Appellant filed the subject Petition under Section 7 of the IBC
+bearing CP (IB) No. 104 (AHM)/2024 on 20.02.2024 before
+the Adjudicating Authority, Ahmedabad Bench.
+10.04.2024 During the pendency of the Section 7 Petition, Appellant in
+its capacity of a Secured Creditor, issued a notice of sale
+under Rule 8 (6) read with Rule 9 (1) of the Security Interest
+(Enforcement) Rules, 2002, to the Corporate Debtor.
+06.11.2024 Impugned Order passed by the Adjudicating Authority,
+dismissing the Section 7 Petition.
+
+Submissions of the Appellant/Financial Creditor
+3.
+The Financial Creditor has filed the captioned Company Petition under
+Section 7 of the Insolvency and Bankruptcy Code, 2016 (“Code”) for initiation
+of Corporate Insolvency Resolution Process against the Corporate Debtor. The
+Financial Creditor claims that ECL Finance Ltd (Original Lender) had, vide (i)
+the Sanction Letter dated July 19, 2018 sanctioned Term Loan of Rs
+40,00,00,000/- and (ii) the Sanction Letter July 29, 2018 sanctioned Term
+Loan of Rs 30,00,00,000/-, to the Corporate Debtor on the terms and
+conditions mentioned therein. The Corporate Debtor has executed various
+loan facilities and security documents on different dates, as stated in the
+captioned Company Petition. The Corporate Debtor has created security
+interest over its movable properties by the means of hypothecation and over
+its immovable properties by the means of mortgage and hence the Applicant
+Financial Creditor is a secured Creditor. Subsequently, the Original Lender
+assigned all its rights, title and interest in the Financing Documents and all
+collateral and underlying security interests and/or pledges and/or
+guarantees, in favour of the Applicant Financial Creditor vide an Assignment
+Agreement dated May 09, 2022.
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 6 of 41
+
+4.
+The Corporate Debtor had started committing defaults in repayment of
+the loan accounts and made last payment towards its loan obligations on
+September 30, 2021. In view of the persistent defaults committed by the
+Corporate Debtor in repayment of principal debt and interest thereon, the
+Financial Creditor classified the account of the Corporate Debtor as non-
+performing asset (NPA) on December 30, 2021. Thereupon, the Financial
+Creditor issued recall notice dated May 31, 2022, upon the Corporate Debtor
+demanding the outstanding dues stated therein. The Corporate Debtor failed
+and neglected to comply with the requisitions made in the aforesaid notice.
+
+5.
+The Financial Creditor had, vide its letter dated May 23, 2023
+(Annexure L to the captioned Petition), agreed to restructure the dues of the
+Corporate Debtor. However, the Corporate Debtor failed to make repayments
+to the Financial Creditor in terms of the amortisation schedule provided in
+the aforementioned Restructuring Letter. As stated in the captioned Petition,
+the Corporate Debtor has only made part payment of Rs 0.86 crores towards
+the second instalment of Rs 3 crores due on September 30, 2023, and has
+also defaulted upon the third instalment of Rs 3 crores due in December 2023.
+Therefore, the Corporate Debtor defaulted on the terms and conditions of the
+restructuring agreement and the Financial Creditor issued a Revocation
+Notice dated December 29, 2023, upon the Corporate Debtor.
+
+6.
+As on January 31, 2024, the sum of Rs 93,54,87,965/- stood due and
+outstanding to the Financial Creditor and payable by the Corporate Debtor.
+The Financial Creditor has submitted the Record of Default of the Corporate
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 7 of 41
+
+Debtor to and National E-Governance Services, which has marked the debt of
+the Corporate Debtor to be 'Deemed to be Authenticated'.
+
+7.
+The Corporate Debtor has, in its Reply, not raised any substantial
+averment in its defence against the initiation of CIRP of the Corporate Debtor.
+In fact, the Corporate Debtor has admitted to availing the aforementioned
+credit facilities from the Original Lender; the restructuring of outstanding
+dues done by the Applicant Financial Creditor as well as the defaults
+committed by the Corporate Debtor in terms of the repayment of the credit
+facilities as per the amortisation schedule provided in the aforementioned
+Restructuring Letter. The Corporate Debtor has, in its Reply, also admitted to
+being in debt and default to other Financial Creditors apart from the
+Applicant.
+
+8.
+Despite the claims of the Respondent Corporate Debtor of being a viable
+unit with great commercial prospects, as alleged, the Corporate Debtor has
+made no attempts to make payments towards their outstanding dues and the
+averments made with respect to the Corporate Debtor being a going concern
+or a viable entity do not absolve the Corporate Debtor from its liabilities to
+repay the outstanding dues of the Applicant Financial Creditor. The Financial
+Creditor has facilitated the survival of the Corporate Debtor and also
+supported the attempts of revival of the Corporate Debtor. The same is evident
+from the fact that the Financial Creditor had acceded to the request of
+settlement and restructuring of the outstanding dues of the Corporate Debtor.
+Despite indulgence being shown by the Financial Creditor to extend their
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 8 of 41
+
+support to the Corporate Debtor, the Corporate Debtor has even avoided
+complying with the amortisation schedule agreed upon by and between the
+Financial Creditor and the Corporate Debtor and has deliberately and
+consciously chosen not to regularise their account. The Corporate Debtor has
+failed to comply with the terms of the sanction and has made no legitimate
+attempts to repay the outstanding dues of the Financial Creditor.
+
+9.
+Further, the Corporate Debtor has made bald objections to the
+admission of the captioned Company Petition in view of the proceedings
+initiated by the Financial Creditor against the Corporate Debtor under the
+SARFAESI Act, 2002. It is a well settled position of law that there is no bar
+against the Financial Creditor to proceed under the Code as well as the
+SARFAESI Act against a Corporate Debtor and the objections of the Corporate
+Debtor hold no water.
+
+10.
+In the correspondences produced by the Corporate Debtor along with
+its Reply, the Corporate Debtor has clearly acknowledged (i) the persistent
+defaults committed on the terms of the Sanction Letters as well the
+Restructuring Letter, (ii) difficulties in procuring funds from other Financial
+Creditors, (iii) difficulties in the sale of the assets of the Corporate Debtor due
+to issues with the projects of the Corporate Debtor itself, (iv) the terms of
+Restructuring as well as the terms of penal interest applicable in terms of
+default thereof (v) failure to comply with the rules and regulations of the civil
+authorities and its failure to receive mandatory compliance certificates and
+(vi) the failure to sell its units at the market rates despite various efforts with
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 9 of 41
+
+different entities, which in turn substantiate the Applicant's request for the
+initiation of CIRP of the Corporate Debtor.
+
+11.
+Since the Corporate Debtor has committed defaults in repayment of the
+outstanding dues despite repeated requests and reminders of the Financial
+Creditor and despite the recall notice of the Financial Creditor and in view of
+the Corporate Debtor's inability to repay its debts, which include the
+outstanding dues due to the Financial Creditor, the initiation of CIRP in
+respect of the Corporate Debtor will be in the public interest and will benefit
+all creditors of the Corporate Debtor.
+
+12.
+In view of what is stated hereinabove, the Corporate Debtor is in default
+of the dues owed to the Applicant and despite all attempts, failed to regularise
+its account, the captioned Petition is complete in all aspects and is well within
+the limitation period. Therefore, the Tribunal may be pleased to grant the relief
+prayed for in the captioned Petition.
+
+13.
+Conclusion of the AA in the Impugned Order that simply because there
+is debt and default, CIRP cannot be initiated is completely misconceived,
+erroneous and contrary to the well-established and settled principle of law
+and directly against the scheme of IBC which provides that when a 'default'
+in payment of debt takes place and the NCLT is satisfied of the occurrence of
+such default, such an application for initiation of insolvency must be
+admitted.
+
+14.
+Adjudicating Authority failed to consider that reliance upon the decision
+in the case of Vidarbha Industries Power Ltd (supra) on the issue of
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 10 of 41
+
+admission of insolvency process in the facts of the present case is completely
+erroneous as the Supreme Court has itself held that the decision in Vidarbha
+was passed in the peculiar facts of that case and is an exception, not the rule.
+In fact, subsequently, a division bench of the Supreme Court in the case of M
+Suresh Kumar Reddy vs Canara Bank and Others (2023) SCC Online SC
+608 (decided on 11.05.2023) has held that once the NCLT is satisfied that
+the default as occurred, there is hardly any discretion left with the NCLT to
+refuse admission of the Application under Section 7 IBC. The Apex Court
+referred to their decision in Innoventive Industries Limited vs ICICI Bank
+(Innoventive) wherein the entire scope of Section 7 was explained and it was
+held that if the NCLT is satisfied there is a debt and default, it is bound to
+admit a Petition under Section 7 of the IBC, which was reiterated in the
+judgment of Hon’ble Supreme Court in E S Krishnamurthy & Ors. Vs. M/s
+Bharath Hi Tech Builders Pvt. Ltd. Civil Appeal No. 3325 of 2020
+decided on 14.12.2021, while holding that the NCLT cannot direct parties
+to enter into settlement terms. The aforesaid judgment of M Suresh Kumar
+Reddy (Supra), the Supreme Court has clearly held that the decision passed
+in the Vidarbha case was in the setting of the facts of that case only.
+
+15.
+The Adjudicating Authority ignored the landmark precedents of the
+Hon’ble Supreme Court in the case Innoventive Industries Limited
+(supra) and Swiss Ribbons Pvt Ltd vs Union of India (2019) 4 SCC 17
+(Swiss Ribbons). In the Innoventive case, the Supreme Court held that the
+scheme of the IBC is to ensure that when a default takes place, the insolvency
+resolution process begins. The Supreme Court held that the moment the
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 11 of 41
+
+NCLT is satisfied that a default has occurred, the Application must be
+admitted. Further, in Swiss Ribbons the Supreme Court expanded on the
+decision laid down in Innoventive and held that the trigger under the IBC, is
+non-payment of dues owed to Creditors. It further held that the legislative
+policy in India has shifted from the concept of "inability to pay debts" to
+"determination of default". This shift enables the Financial Creditor to initiate
+the insolvency resolution process, the moment there is evidence of a default.
+This shift is highlighted in the BLRC Report of November 2015, as the
+committee was against introducing a test of solvency under Section 7 of the
+IBC. The reasoning behind this approach was that there exists no
+standardised, indisputable way to establish insolvency. Rather, the IBC
+presumes that creditors only file an application for insolvency after failing to
+resolve conflicts through negotiation. In this context, the BLRC specified that
+the trigger for the insolvency resolution process is the evidence of default.
+
+16.
+The Adjudicating Authority passed the Impugned Order in ignorance of
+the decision passed by this Appellate Tribunal in a similar case of Bank of
+Maharashtra vs Newtech Promoters and Developers Pvt Ltd [Company
+Appeal (AT)(Ins) No. 1487 of 2022] (decided on 19.10.2023), which will be
+discussed in detail hereinafter in appraisal of the case.
+
+17.
+Additionally, it is relevant to highlight that in complete contrast to the
+Vidarbha judgment, a different bench of the NCLT, New Delhi, in Indusind
+Bank Ltd vs Hacienda Projects Pvt Ltd MANU/NC/5231/2022 (NCLT, New
+Delhi, decided on November 11, 2022), rejected the arguments of the
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 12 of 41
+
+Corporate Debtor (who was also a real estate developer) that (i) the project
+undertaken by it was almost complete; (ii) it was a financially viable company;
+and (iii) initiation of CIRP would not be fruitful.
+
+18.
+The Adjudicating Authority has held that since the Appellant had
+initiated various actions for recovery of its dues prior to and continued the
+same even post filing of the Section 7 Petition, the present Petition under
+Section 7 for initiation of CIRP cannot be maintained as the facts purportedly
+showed a malafide intent to misuse the provisions of the IBC. By this
+observation, the Adjudicating Authority incorrectly concluded that the
+intention of the Appellant was only to recover its dues though the process of
+insolvency, which is against the object of IBC and has baselessly assumed
+that the Appellant has filed the Section 7 Petition with a malafide intent, on
+account of the pendency of DRT and SARFAESI proceedings. There were no
+material facts on record that conclusively established or proved any
+"malicious" or "fraudulent" intent on the part of the Appellant to initiate CIRP
+against the Corporate Debtor within a malicious intent, which would stop the
+admission of the Petition in view of Section 65 IBC. The Appellant only took
+steps as prescribed in law and as available to the Appellant as a lender, to
+attempt to recover its dues through various legal processes such as DRT,
+SARFAESI etc.
+
+19.
+Appellate Tribunal (Chennai Bench) in the case of Mr Amar Vora vs
+City Union Bank Ltd [Company Appeal (AT) (CH) (Ins) No. 130 of 2022
+(decided on 11.05.2022) has held that the Financial Creditor/Operational
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 13 of 41
+
+Creditor/Corporate Persons can file an Application under Sections 7, 9 and
+10 of the Code before the respective Adjudicating Authorities even though in
+respect of same any proceeding may be pending before any other forums, on
+the ground that the provisions of Code have an overriding effect of other laws.
+
+20.
+The Adjudicating Authority wrongly held that the Appellant failed to
+issue ‘no-objection certificate’ to the Corporate Debtor as per its request so
+that they would be able to collect funds to repay the debt. The issuance of
+provisional NOC by the Appellant was only on the fulfilment of the terms and
+conditions of the restructuring letter which were never adhered to by the
+Corporate Debtor whose offered rate was much lower than the pre-determined
+rate for grant of NOC. Further, the Corporate Debtor had failed to honour the
+payment schedule as agreed upon and therefore, the Appellant was within its
+rights under the terms to revoke and cancel the restructuring.
+
+21.
+SBICAP Ventures, the intervenor in the revised contention through its
+Affidavit dated 12.09.2024, stated that it made several inquiries with the
+Corporate Debtor regarding (a) status of the pending occupation Certificate
+and (b) critical information relating to the Project, however, despite repeated
+follow-ups, the Corporate Debtor did not respond and stopped co-operating
+and providing information and as such, it was stated that the Corporate
+Debtor stopped taking any steps towards the completion of the Project in a
+timely manner, therefore, SBICAP was not opposed to the admission of CIRP
+against the Corporate Debtor. It is submitted that the Adjudicating Authority
+ought to have given due weightage and significance to such revised statement
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 14 of 41
+
+of the intervenor, who was originally opposing the admission of the Section 7
+Petition.
+
+22.
+Section 7 Petition was complete in all respects and supported by clear
+and substantial evidence of debt and default. It failed to appreciate that the
+Corporate Debtor had committed consecutive and continuous defaults in
+repayment of the outstanding debt despite being provided ample time and
+opportunities by the Appellant Financial Creditor.
+
+Submissions of the Respondent
+23.
+Present Corporate Debtor is engaged in construction and development
+of a residential cum commercial project in the name and style of "Takshashila
+Elegna" in the city of Ahmedabad consisting of 259 residential units/flats and
+20 commercial units/shops totalling 279 units of the project of the Corporate
+Debtor and the Corporate Debtor has booked/sold 185 (out of 259) residential
+units/flats and 1 (out of 20) commercial unit/shops totalling to 186 units out
+of 279 units of the project of the Corporate Debtor consisting of the
+homebuyers.
+
+24.
+The Corporate Debtor had obtained the financial assistance/facilities
+from the original lender, namely, ECL Finance Limited in the year 2018 and
+two other financial creditors namely Axis Rera Opportunity Fund in 2020 and
+Swamih Investment Fund-I-SBI, Cap Venture for timely completing the
+project but due to delay in statutory approvals and or account of impact of
+COVID-19, project was delayed and it resulted into interest pile up and cost
+overrun.
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 15 of 41
+
+25.
+Just before the recalling of the dues from the Respondent CD on
+31.05.2022, original lender-ECL Finance Limited had assigned the debts in
+respect of Respondent – Corporate Debtor along with the underlying securities
+and all the rights, title and interest therein to Applicant-Edelweiss Asset
+Reconstruction Company Limited on 09.05.2022.
+
+26.
+Immediately, thereafter on 21.07.2022, Applicant had issued notice
+called upon to discharge in full the total outstanding under Section 13 (2) of
+the SARFAESI Act, 2002. Appellant issued notice recalling the dues and
+invocation of guarantees on 31.05.2022 and further filed Original Application
+(OA) on 19.07.2022, which was numbered as OA/367/2022 before the
+Hon’ble Debt Recovery Tribunal, Ahmedabad, which is pending for
+adjudication and, again on 21.07 2022. The Appellant had issued
+restructuring letter containing one-time settlement of the overdue loan
+accounts of the Respondent – Corporate Debtor and one, M/s Raghav Conpro
+LLP, for total amount of Rs 55,00,00,000/- and provided the schedule of
+payments and first instalment commenced from 30.06.2023 and was to end
+on 31.03.2025. Respondent – Corporate Debtor paid the first instalment due
+on 30.06.2023; but could only pay Rs 86,00,000/- out of the second
+instalment of Rs 3,00,00,000/- due on 30.09.2023.
+
+27.
+On failure Appellant issued revocation letter dated 29.12.2023
+withdrawing the restructuring letter dated 23.05.2023 and, thereafter, on
+23.02.2024, initiated the actions under Section 7 of the Code. Applicant has
+simultaneously issued notice of sale dated 10.04.2024 under Rule 8 (6), read
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 16 of 41
+
+with Rule 9 (1) of the Security Interest (Enforcement) Rules, 2002, for the sale
+of the assets of the Corporate Debtor after filing the present Application.
+Applicant has further issued paper publication of the sale notice dated
+18.05.2024 to create pressure on the Respondent – Corporate Debtor in order
+to extract advantage through unfair means and abuse the process of the Code
+to extort money from the Respondent – Corporate Debtor and not having
+intention to keep the Corporate Debtor as a going concern. Applicant has also
+issued notice dated 19.05.2022 in terms of Negotiable Instruments Act, 1881,
+and filed legal proceedings against the Respondent – Corporate Debtor for the
+purpose of recovery of amounts for the same transactions for which the
+present Application is filed before this Hon’ble Adjudicating Authority and not
+for the resolution of the Respondent – Corporate Debtor. The sequence of
+actions by the Applicant clearly indicate its mala fide intent and ulterior
+motive to recover its outstanding debts through pressure tactics and not
+resolution being the primary intent and object of Section 13 of the Code.
+Moreover, the said conduct is nothing but forum shopping through misuse of
+the provisions of the laws, i.e, IBC, SARFAESI Act and Negotiable Instruments
+Act under the guise of exercise of rights/remedies available under the said
+laws.
+
+28.
+As per Clause 6 of the restructuring letter dated 23.05.2023, as well as
+Clauses 4.12 of Schedule-2 of the Loan Agreements dated 25.07.2018 and
+26.09.2018, Applicant was under the obligation to issue provisional NOC at
+the request of the Respondent – Corporate Debtor /borrowers for monetising
+the secured assets at a minimum pre-determined rate as mentioned therein
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 17 of 41
+
+which was not issued by the Applicant despite several communications with
+the Applicant and requests thereto which resulted into failure of the
+Respondent – Corporate Debtor to proceed with sale of the units to prospective
+buyers and generate revenue and make payments therefrom to the Applicant.
+Considering the abovementioned factual position, the Corporate Debtor
+should not be penalised/punished/brought into the rigors of CIRP on account
+of the wrong doings of the Applicant.
+
+29.
+With the series of events as referred in above paras and actions of forum
+shopping by the Applicant and action of sale notice as well as publication for
+sale of the charged assets clearly shows malicious intent of recovery of its
+dues with pressure tactics and not for resolution of insolvency of the
+Respondent – Corporate Debtor which attracts the provisions of the Section
+65 of the IBC. Also, the Applicant has not approached this Adjudicating
+Authority with clean hands and has preferred the present Application as a
+tool to recover of the monies and that the same is reflecting the fraudulent
+and mala fide intention to misuse and abuse the provisions of the IBC and
+that the said approach of the Applicant is against the intent and object of the
+IBC.
+
+30.
+The project "Takshashila Elegna" developed by the Respondent –
+Corporate Debtor has construction of total 279 units and out of which total
+185 residential units/flats are booked/sold to the homebuyers. Project was
+also financed by other two Secured Financial Creditors and other Unsecured
+Financial Creditors in addition to the Applicant. Only 19 commercial units
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 18 of 41
+
+out of total 279 units are secured with the Applicant and rest of the units are
+secured with other two Financial Creditors. In such circumstances, the
+Respondent – Corporate Debtor should not be unnecessarily dragged into the
+rigors of the CIRP and that the homebuyers also should not be
+penalised/punished on, account of the conduct/wrong doings of the
+Applicant. Respondent – Corporate Debtor has recently obtained the building
+usage certificate/permission on 10.04,2024 which entitles the Respondent
+CD to enter into the market with full force. Respondent – Corporate Debtor is
+a going concern having material size real estate project on hand and has
+employed/engaged total 20 employees on roll and other contract
+labourers/workers on site and is having involvement of huge number of
+homebuyers as the stakeholders of the Corporate Debtor. Forceful initiation
+of the CIRP of the Respondent – Corporate Debtor at the behest of the
+Applicant will prejudice all the stakeholders with great irreparable loss.
+Applicant should not be encouraged considering the larger interest of the
+homebuyers of the scheme/project of the Respondent – Corporate Debtor and
+its other stakeholders, in order to deprecate the practice of forum shopping
+under the guise of exercise of rights/remedies available under the different
+laws.
+
+31.
+In view of the above factual aspects and circumstances relating to the
+ulterior motive of the Applicant only to recover its dues by adopting and
+resorting to forum shopping and having no intention to resolve the insolvency
+of the Respondent – Corporate Debtor, the present Application deserves to be
+dismissed in the interest of the Respondent – Corporate Debtor, its
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 19 of 41
+
+stakeholders including the public at large in the form of homebuyers and to
+avoid multiplicity of proceedings.
+Appraisal
+32.
+Heard counsels of both sides and also one intervener and also perused
+the material placed on record.
+
+33.
+We note that this Appeal is filed by Edelweiss Asset Reconstruction
+Company
+Limited
+(EARCL/Appellant),
+challenging
+the
+Order
+dated
+06.11.2024 passed by the Adjudicating Authority/NCLT thereby dismissing
+the petition under Section 7 IBC bearing C.P (IB) No. 104 (AHM)/2024, which
+was filed by the Appellant seeking initiation of Corporate Insolvency
+Resolution Process (CIRP) against ‘Takshashila Heights Private Limited’
+(“Corporate Debtor”). The Petition sought initiation of the CIRP against the
+Corporate Debtor due to admitted defaults of its financial obligations.
+
+34.
+It is undisputed that two loan facilities amounting to Rs 40 crores and
+Rs 30 crores were sanctioned in 2018 by ECL Finance Ltd. (Original Lender)
+to the Corporate Debtor. These loan facilities were secured through various
+instruments, including hypothecation deeds, personal guarantees, and
+registered mortgage. The Corporate Debtor/Borrower committed default in
+repayment of the loan facilities and maintaining financial discipline, ceasing
+payments after making its last payment on 30.09.2021 and, consequently,
+leading to the classification of the account of the Corporate Debtor as a non-
+performing asset (NPA) on 30.12.2021. Subsequently, the Appellant/EARCL
+acquired the non-performing debt of the Corporate Debtor from the original
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 20 of 41
+
+lender through an assignment agreement executed on 09.05.2022. After the
+assignment of debt, in July 2022, Appellant initiated measures for recovery
+of the outstanding amount, filing an Original Application bearing OA No.
+367/2022 before the DRT, Ahmedabad, and initiating SARFEASI measures of
+enforcement of security interest. Thereafter, the Appellant accepted a
+restructuring proposal of the Corporate Debtor in May, 2023, requiring
+repayment of Rs 55 crores (restructuring/settlement amount) to be paid in
+eight instalments as per schedule as extracted below:
+“Annexure – I: Terms of the Restructuring
+1. The restructuring amount payable is Rs. 55,00,00,000/-
+(Rupees Fifty-Five Crores Only) which is to be paid as per the
+schedule given below:
+Sl. No.
+Quarter
+Amount in Cr.
+
+1.
+30.06.2023
+5.5
+2.
+30.09.2023
+3
+3.
+31.12.2023
+3
+4.
+31.03.2024
+5
+5.
+30.06.2024
+5
+6.
+30.09.2024
+10
+7.
+31.12.2024
+10
+8.
+31.03.2025
+13.5
+Total
+55
+
+Note: Out of the total amount of restructuring Rs. 39,00,00,000/-
+(Rupees Thirty Nine Crores Only) will be adjusted against the
+restructuring of dues of Takshashila Heights India Private Limited
+and Rs. 16,00,00,000/- (Rupees Sixteen Crores Only) will be
+adjusted against the restructuring of dues of Raghav Conpro LLP.
+However, No Dues Letter will be issued only upon the receipt of the
+entire restructured amount of Rs. 55,00,00,000/- (Rupees Fifty-
+Five Crores Only) as mentioned hereinabove.”
+
+35.
+However, except for making the payment of 1st instalment, the
+Corporate Debtor defaulted in making payment of remaining instalments in
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 21 of 41
+
+terms of the agreed payment schedule. EARCL revoked the restructuring and
+demanded full repayment of entire outstanding liability and thereafter
+continued the legal actions which were already initiated. Subsequent requests
+made by the Corporate Debtor to revive the restructuring payments, were
+rejected by the Appellant. Thereafter, on 31.01.2024, the Appellant filed the
+Section 7 IBC Petition before the Adjudicating Authority, seeking admission
+of CIRP against the Corporate Debtor claiming an outstanding sum of Rs
+93.54 crores including principal, interest, and penalties, as on the said date.
+The said Petition included evidence of debt, default and also disclosed efforts
+being made towards recovery of outstanding debt, including SARFEASI
+measures undertaken by the Appellant. During the pendency of the said
+Petition, the Appellant had also issued a notice of sale under Rule 8 (6) read
+with Rule 9 (1) of the Security Interest (Enforcement) Rules, 2002, in
+furtherance of the SARFAESI proceedings.
+
+36.
+Per contra the Respondent – Corporate Debtor claims that the
+Appellant-Financial Creditor had issued a restructuring letter, as per which
+the amount was to be repaid in 8 instalments. As per the terms of the OTS,
+in case of any shortfall in repayment of the instalments the Corporate Debtor
+had the liberty to monetize the secured assets once a provisional NOC was
+issued by the appellant. The Corporate Debtor paid the first instalment before
+30.06.2023. However, the Corporate Debtor could only pay a sum of Rs
+86,00,000 as against Rs 3 crores of the 2nd instalment. Based on these belated
+payments, the Appellant revoked the OTS on 29.12.2023. Post revocation of
+the OTS the Respondent claims it found a prospective buyer and subsequently
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 22 of 41
+
+requested for issuance of provisional NOC from the Appellant. The Appellant
+turned down the request of the Corporate Debtor. It is claimed by the
+Respondent that had the Appellant issued the NOC, the amount accrued out
+of the sale of such secured units would have regularized the account of the
+Corporate Debtor. The terms and conditions of the Letter of Restructuring
+stipulate that to facilitate the sale of the secured assets by the Corporate
+Debtor, it shall issue provisional No Objection Certificates (NOCs) to the
+Corporate Debtor upon deposit of the entire sale consideration into the
+account of the Applicant. Respondent claims that as per the terms of Clause
+6 of the restructuring letter dated 23.05.2023, as well as Clauses 4.12 of
+Schedule-2 of the Loan Agreements dated 25.07.2018 and 26.09.2018,
+Applicant was under the obligation to issue provisional NOC at the request of
+the Respondent – Corporate Debtor/borrowers for monetising the secured
+assets at a minimum pre-determined rate as mentioned therein which was
+not issued by the Applicant despite several communications with the
+Applicant and requests thereto which resulted into failure of the Respondent
+– Corporate Debtor to proceed with sale of the units to prospective buyers and
+generate revenue and make payments therefrom to the Applicant. We don’t
+find merits in the arguments of the Respondent. While the Respondent made
+payment of the first instalment, it failed to pay the second instalment in
+entirety, thereby committing a material breach and triggering an Event of
+Default under Clauses 8(ii) and 9(i) of the said Restructuring Letter.
+Furthermore, Clause 8(iii) of the Restructuring Letter explicitly entitled the
+Appellant to revoke the restructuring upon such default. Although a cure
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 23 of 41
+
+period of 15-days was provided under Clause 9(ii), the Respondent failed to
+rectify its default within the said cure period, despite multiple reminders.
+Therefore, despite sufficient opportunities to adhere to the repayment terms,
+the Respondent failed to make necessary payments under the restructuring
+scheme and as such, the Appellant was well within its contractual rights to
+revoke the said restructuring and recall the entire outstanding liability vide
+its Restructuring Letter dated 29.12.2023. We cannot find fault in the course
+of action adopted by the Appellant. It is also inconceivable to agree with the
+arguments of the Respondent that the Appellant acted with mala fide intent
+and ulterior motive to recover its outstanding debts through pressure tactics
+and not resolution as against Section 13 of the Code. From the materials on
+record we find that the Appellant had revoked the restructuring scheme due
+to the Respondent’s failure to make the full payment of the 2nd instalment of
+Rs. 3 crores. This is evidenced by the email communication annexed by the
+Respondent in its reply, which further clarifies that despite Appellant granting
+various opportunities to the Respondent to regularize its overdue amount, the
+Respondent admittedly failed to deposit the remaining Rs 2.25 crores
+(approx.) against the instalment amount of Rs. 3 crores which was due on
+30.09.2023. Further, the Respondent made subsequent requests to the
+Appellant to re-open the restructuring. However, the Appellant re-iterated the
+fact that the restructuring had already been revoked and therefore, the
+Appellant was entitled to exercise its legal remedies available under the Code
+and accordingly filed the subject Section 7 petition. The Appellant was under
+no legal obligation to re-open the restructuring.
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 24 of 41
+
+37.
+Appellant denies that it had not allowed the Corporate Debtor to adhere
+to the terms of the Restructuring Letter or that the failure of the Corporate
+Debtor in adhering to the terms of Restructuring has taken place owing to the
+conduct of the Applicant. The terms and conditions of the Letter of
+Restructuring stipulate that to facilitate the sale of the secured assets by the
+Corporate Debtor, it shall issue provisional No Objection Certificates (NOCs)
+to the Corporate Debtor upon deposit of the entire sale consideration into the
+account of the Applicant. But we find from the perusal of the emails
+exchanged between the Applicant and the Corporate Debtor that without the
+deposit of the entire sale proceeds towards the sale of a particular asset, the
+Corporate Debtor was repeatedly requesting for the issuance of the NOC,
+contrary to the terms of Restructuring. In view of the revocation of the terms
+of Restructuring, there was no obligation on the part of the Applicant to issue
+NOC to the Corporate Debtor. This fact was brought to the attention of the
+Corporate Debtor by the Applicant vide its email dated September 26, 2023.
+The Corporate Debtor had once again acknowledged its default and sought an
+extension vide its email dated February 26, 2024. Vide email dated March 01,
+2024, exchanged between the Applicant and the Corporate Debtor states that
+since the Restructuring had already been revoked, no requests of the
+Corporate Debtor could be further entertained. We also note (i) the email dated
+March 15, 2024 addressed by the Corporate Debtor to the Applicant (ii) the
+response of the Applicant to the aforementioned email vide its email dated
+March 15, 2024, (iii) email dated March 28, 2024 addressed by the Corporate
+Debtor to the Applicant, (iv) email dated March 29, 2024 addressed by the
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 25 of 41
+
+Corporate Debtor to the Applicant in which the Corporate Debtor has clearly
+acknowledged the persistent defaults committed on the terms of the
+Restructuring Letter, difficulties in procuring funds from other Financial
+Creditors, the difficulties in the sale of the secured assets and procuring
+buyers of its assets due to issues with the projects of the Corporate Debtor
+itself, the terms of Restructuring as well as the terms of penal interest
+applicable in terms of default thereof failure to comply with the rules and
+regulations of the Civil Authorities and its failure to receive mandatory
+compliance certificates and the failure to sell its units at the market rates
+despite various efforts with different entities, which in turn substantiates the
+case for the initiation of CIRP of the Corporate Debtor.
+
+38.
+Further the Respondent argues that the said conduct is nothing but
+forum shopping through misuse of the provisions of the laws, i.e, IBC,
+SARFAESI Act and Negotiable Instruments Act under the guise of exercise of
+rights/remedies available under the said laws. With such arguments being
+entertained against the Financial Creditor, no lender will be able to proceed
+in any forum and it is, therefore, difficult to agree with the arguments of the
+Respondents and on the contrary we find that arguments of the Appellant to
+be convincing that the Code is a separate and distinct enactment from the
+SARFAESI Act, and the measures initiated by the Appellant under either of
+the enactments do not have a bearing upon each other. The Corporate Debtor
+has, just days before the auction of its secured assets by the Corporate Debtor
+under the SARFAESI Act, filed Securitisation Application No. 150 of 2024
+before the Hon'ble Debts Recovery Tribunal-I, Ahmedabad, inter alia,
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 26 of 41
+
+challenging the measures initiated by the Appellant under the SARFAESI Act
+against the secured assets of the Corporate Debtor on false and frivolous
+grounds, which is pending adjudication at present. This establishes that the
+Corporate Debtor is merely attempting to thwart all the attempts of the
+repayment of its outstanding dues while also objecting to the commencement
+of CIRP by this Tribunal. The Adjudicating Authority has dismissed the
+Petition, citing misuse of insolvency proceedings for recovery purposes and
+the debtor’s status as a "going concern."
+
+39.
+Adjudicating Authority has concluded as follows in the impugned order:
+“As mentioned above, it appears that the applicant has not
+cooperated respondent for issuing NoC. There are some lacuna
+on the part of the applicant, therefore, simply because there is
+debt and default, CIRP cannot be initiated. Corporate Debtor is
+a going concern. Acts of applicant shows intent of only recovery
+of money through this process which is not at all object of the
+IBC, 2016. It appears
+that application is
+premature.
+Observations in Vidarbha Industries Power Limited V. Axis Bank
+Limited also supports non-initiation of CIRP in case of going
+concern Corporate Debtor. Thus, we have not satisfied that on
+the facts of the present case mentioned above, CIRP should be
+initiated against the Corporate Debtor.”
+[Emphasis Supplied]
+
+40.
+The relevant extract of Vidarbha Industries Power Ltd (supra) relied
+upon by the Adjudicating Authority is as follows:
+“The Appellate Authority (NCLAT) erred in holding that the
+Adjudicating Authority (NCLT) was only required to see whether
+there had been a debt and the Corporate Debtor had defaulted
+in making repayment of the debt, and that these two aspects, if
+satisfied, would trigger the CIRP. The existence of a financial
+debt and default in payment thereof only gave the financial
+creditor the right to apply for initiation of CIRP. The Adjudicating
+Authority (NCLT) was required to apply its mind to relevant
+factors including the feasibility of initiation of CIRP, against an
+electricity generating company operated under statutory control,
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 27 of 41
+
+the impact of MERC's appeal, pending in this Court, order of
+APTEL referred to above and the over all financial health and
+viability of the Corporate Debtor under its existing management.
+[61]
+
+The title "Insolvency and Bankruptcy Code" makes it amply clear
+that the statute deals with and/or tackles insolvency and
+bankruptcy. It is certainly not the object of the IBC to penalize
+solvent companies, temporarily defaulting in repayment of its
+financial debts, by initiation of CIRP. Section 7(5)(a) of the IBC,
+therefore, confers discretionary power on the Adjudicating
+Authority (NCLT) to admit an application of a Financial Creditor
+Under Section 7 of the IBC for initiation of CIRP. [81]
+The Adjudicating Authority (NCLT) failed to appreciate that the
+question of time bound initiation and completion of CIRP could
+only arise if the companies were bankrupt or insolvent and not
+otherwise. Moreover, the timeline starts ticking only from the
+date of admission of the application for initiation of CIRP and
+not from the date of filing the same. [82]
+
+Legislature has, in its wisdom made a distinction between the
+date of filing an application Under Section 7 of the IBC and, the
+date of admission of such application for the purpose of
+computation of timelines. CIRP commences on the date of
+admission of the application for initiation of CIRP and not the
+date of filing thereof. There is no fixed time limit within which
+an application Under Section 7 of the IBC has to be admitted.
+[85]
+
+Even though Section 7(5)(a) of the IBC may confer discretionary
+power on the Adjudicating Authority, such discretionary power
+cannot be exercised arbitrarily or capriciously. If the facts and
+circumstances warrant exercise of discretion in a particular
+manner, discretion would have to be exercised in that manner.
+[86]
+
+Ordinarily, the Adjudicating Authority (NCLT) would have to
+exercise its discretion to admit an application Under Section 7
+of the IBC of the IBC and initiate CIRP on satisfaction of the
+existence of a financial debt and default on the part of the
+Corporate Debtor in payment of the debt, unless there are good
+reasons not to admit the petition. [87]
+
+The Adjudicating Authority (NCLT) has to consider the grounds
+made out by the Corporate Debtor against admission, on its own
+merits. For example when admission is opposed on the ground
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 28 of 41
+
+of existence of an award or a decree in favour of the Corporate
+Debtor, and the Awarded/decretal amount exceeds the amount
+of the debt, the Adjudicating Authority would have to exercise
+its discretion Under Section 7(5)(a) of the IBC to keep the
+admission of the application of the Financial Creditor in
+abeyance, unless there is good reason not to do so. The
+Adjudicating Authority may, for example, admit the application
+of the Financial Creditor, notwithstanding any award or decree,
+if the Award/Decretal amount is incapable of realisation. The
+example is only illustrative. [88]”
+
+[emphasis supplied]
+
+41.
+Conversely, in the case of ES Krishnamurthy (supra) Hon’ble
+Supreme Court has held that Adjudicating Authority under Section 7(5) of
+the Insolvency and Bankruptcy Code 2016 is empowered only to verify
+whether a default has occurred or not occurred. Relevant extracts are as
+follows:
+“The Adjudicating Authority has clearly acted outside the terms
+of its jurisdiction Under Section 7(5) of the IBC. The Adjudicating
+Authority is empowered only to verify whether a default has
+occurred or if a default has not occurred. Based upon its
+decision, the Adjudicating Authority must then either admit or
+reject an application respectively. These are the only two courses
+of action which are open to the Adjudicating Authority in
+accordance with Section 7(5). The Adjudicating Authority cannot
+compel a party to the proceedings before it to settle a dispute.[27]
+
+The IBC is a complete code in itself. The Adjudicating Authority
+and the Appellate Authority are creatures of the statute. Their
+jurisdiction is statutorily conferred. The statute which confers
+jurisdiction also structures, channelises and circumscribes the
+ambit of such jurisdiction. Thus, while the Adjudicating
+Authority and Appellate Authority can encourage settlements,
+they cannot direct them by acting as courts of equity.[29]
+
+Order of the Adjudicating Authority, and the directions which
+eventually came to be issued, suffered from an abdication of
+jurisdiction. The observation that the appeal was not
+maintainable is erroneous. Plainly, the Adjudicating Authority
+failed to exercise the jurisdiction which was entrusted to it. A
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 29 of 41
+
+clear case for the exercise of jurisdiction in appeal was thus made
+out, which the Appellate Authority then failed to exercise.[32]
+
+Appeal allowed accordingly. The petition under Section 7 of the
+IBC restored to the NCLT for disposal afresh.[34]”
+
+[Emphasis supplied]
+
+42.
+This issue has also been settled in a subsequent judgment of the of the
+division bench of Hon’ble Supreme Court in the case of M Suresh Kumar
+Reddy (supra) wherein it has been held that once the NCLT is satisfied that
+the default has occurred, there is hardly any discretion left with the NCLT to
+refuse admission of the Application under Section 7 IBC. The Apex Court
+referred to their decision in Innoventive Industries (Supra) wherein the
+entire scope of Section 7 was explained and it was held that if the NCLT is
+satisfied there is a debt and default, it is bound to admit a Petition under
+Section 7 of the IBC, which was reiterated in ES Krishnamurthy (supra),
+while holding that the NCLT cannot direct parties to enter into settlement
+terms. In the aforesaid judgment of M Suresh Kumar Reddy (Supra), the
+Supreme Court has clearly held that the decision passed in the Vidarbha
+Industries (supra) was in the setting of the facts of that case only. Relevant
+portion is reproduced as under:
+“10. Thus, once NCLT is satisfied that the default has occurred,
+there is hardly a discretion left with NCLT to refuse admission of the
+application under Section 7. Default is defined under sub-section
+12 of Section 3 of the IB Code which reads thus:
+
+“3. Definitions:- In this Code, unless the context otherwise
+requires-
+(12) “default” means non-payment of debt when whole or any
+part or instalment of the amount of debt has become due and
+payable and is not [paid] by the debtor or the corporate debtor)
+as the case may be.”
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 30 of 41
+
+11. Thus, even the non-payment of a part of debt when it becomes
+due and payable will amount to default on the part of a Corporate
+Debtor. In such a case, an order of admission under Section 7 of
+the IB Code must follow. If the NCLT finds that there is a debt, but
+it has not become due and payable, the application under Section 7
+can be rejected. Otherwise, there is no ground available to reject the
+application.
+xxx
+13. A Review Petition was filed by the Axis Bank Limited seeking a
+review of the decision of Vidarbha Industries on the ground that the
+attention of the Court was not invited to the case of ES
+Krishnamurthy. While disposing of Review Petition by Order dated
+22nd September 2022, this Court held thus:
+
+“The elucidation in paragraph 90 and other paragraphs were
+made in the context of the case at hand. It is well settled that
+judgments and observations in judgments are not to be read
+as
+provisions
+of
+statute.
+Judicial
+utterances
+and/or
+pronouncements are in the setting of the facts of a particular
+case. To interpret words and provisions of a statute) it may
+become necessary for the Judges to embark upon lengthy
+discussions. The words of Judges interpreting statutes are not
+to be interpreted as statutes.”
+
+The Adjudicating Authority failed to appreciate that the Supreme
+Court in Vidarbha applied the literal interpretation test and held
+that the use of the word "may" confers upon the NCLT the discretion
+to admit the application after it is satisfied of the existence of debt.
+Further, it held that Section 9(5) of the IBC by using the word "shall"
+in the context of an application made by an operational creditor,
+highlights a deliberate legislative intent to differentiate between
+applications made by financial creditors and operational creditors.
+However, in the review petition, reliance was placed on the Supreme
+Court's judgment in E S Krishnamurthy (Supra) in which the
+Supreme Court held in the context of Section 7(5) of the IBC that "
+... The Adjudicating Authority is empowered only to verify whether
+a default has occurred or if a default has not occurred. Based upon
+its decision, the Adjudicating Authority must then either admit or
+reject an application respectively. These are the only two courses of
+action which are open to the Adjudicating Authority in accordance
+with Section 7(5) ... ".
+[emphasis supplied]
+43.
+Now we briefly look into the issue of allegations of collusion between the
+Appellant and SBICAP Ventures Ltd. (“SBI Venture”). We note that SBI
+
+[PAGE 31]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 31 of 41
+
+Venture had initially opposed the admission of CIRP against the Respondent
+and subsequently, in terms of its Affidavit dated 12.09.2023, resiled from this
+position and supported the admission of CIRP. Apart from this fact, there is
+no material on record for establishing collusion between the Appellant and
+SBI venture. We also note that the statement made by SBI Venture either
+supporting or opposing the admission of CIRP does not have any bearing on
+the decision by the Adjudicating Authority, which is required to be made after
+verifying the existence of debt and default basis the documents submitted.
+Even otherwise we note from the affidavit that the Respondent’s non-
+cooperative, arbitrary, and malafide conduct, including its failure to furnish
+information as sought by SBI Venture and its inaction in progressing the
+underlying project— factors prompted SBI Venture to resile from its initial
+opposition of admission of Section 7 petition.
+
+44.
+In its written submissions before us, the Respondent claims that in the
+project namely Takshashila Elegna there is a total of 279 units consisting of
+259 residential units (flats) and 20 commercial units (shops) and out of which
+the Corporate Debtor has already booked/sold 185 residential units and one
+commercial unit. The financial assistance provided by the Appellant is only a
+certain part of the project i.e. only 19 commercial units and one residential flat
+of the group company has been provided as collateral security. Therefore,
+pushing the Corporate Debtor through the rigors of IBC would unfairly
+prejudice the homebuyers and other stakeholders. Corporate Debtor has
+obtained building usage certificate permission on 10th April 2024 for certain
+parts of the project, thereby making the Corporate Debtor eligible to sell all the
+
+[PAGE 32]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 32 of 41
+
+commercial units and some of the residential units. It claims that the intent of
+the Appellant is only to recover the defaulted amount which goes against the
+very spirit of IBC. On the other hand, we notice that the Corporate Debtor has
+committed defaults in repayment of the outstanding dues despite repeated
+requests and reminders of the Financial Creditor and despite the recall notice
+of the Financial Creditor and in view of the Corporate Debtor's inability to repay
+its debts, which include the outstanding dues due to the Financial Creditor,
+the initiation of CIRP in respect of the Corporate Debtor cannot be
+rejected. From the materials placed on record we notice that the Corporate
+Debtor has clearly acknowledged that:
+o Persistent defaults committed on the terms of the Sanction Letters as
+well the Restructuring Letter,
+
+o CD has been facing difficulties in procuring funds from other Financial
+Creditors,
+
+o CD has been facing difficulties in the sale of the assets of the Corporate
+Debtor due to issues with the projects of the Corporate Debtor itself,
+
+o the terms of Restructuring as well as the terms of penal interest
+applicable in terms of default thereof
+
+o failure to comply with the rules and regulations of the civic authorities
+and its failure to receive mandatory compliance certificates and
+
+o the failure to sell its units at the market rates despite various efforts with
+different entities.
+
+All above factors substantiate the Applicant's request for the initiation of CIRP
+of the Corporate Debtor.
+
+45.
+One intervener also appeared before us whose case is being discussed
+hereinafter. The Intervention Application was filed by The Elegna Co-op.
+
+[PAGE 33]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 33 of 41
+
+Housing and Commercial Society Ltd. (“Intervener”) and we now delve into its
+locus standi and merits. The intervener claims to be a society which enrolls
+the unit holders of the projects of the Corporate Debtor having named
+Takshashila Elegna. It is claimed that every person who buys a unit in the
+said building is required to mandatorily seek membership of this society,
+which is a maintenance society for the said building. The intervener supports
+the Respondent and contents that it is not a fit case to admit insolvency
+proceedings against the Corporate Debtor since the Corporate Debtor is in the
+business of real estate and that there are various ongoing projects for
+residential and commercial purposes by the Corporate Debtor. It claims that
+there are 279 units out of which 250 units are residential in nature and 20
+units are commercial shops in nature. If the present Corporate Debtor is
+admitted in insolvency, the future of all the allottees shall become uncertain
+in spite of large amount having been paid by them, and they are likely to lose
+their right for allotment as it will be left in the hands of the creditors.
+Furthermore, when the home buyers are treated as financial creditors of the
+Corporate Debtor, it is not known as to what percentage voting rights would
+be given to them in the COC and hence the future of the allotments becomes
+uncertain. From the materials placed on record we note that he said
+intervenor is not a party to the underlying financial transaction forming the
+subject matter of the Section 7 Petition and does not qualify as a financial or
+Operational Creditor under the Code. Its attempt to oppose the CIRP initiation
+is found to be entirely without locus. We note that once the requirements of
+financial debt and default are satisfied, there is no scope under the Code for
+
+[PAGE 34]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 34 of 41
+
+unrelated third parties to intervene, particularly at the admission stage.
+Invocation of Rule 11 in this context is wholly impermissible and contrary to
+the principles laid down in the case of Innoventive Industries (Supra), which
+mandates admission upon establishment of debt and default. The Intervenor
+is a registered society of a completed tower and cannot be treated as a
+representative of pending allottees. We find that this is an attempt by the
+intervener to stall CIRP and is therefore meritless and cannot be considered
+as it is without any merit and is rejected.
+
+46.
+Despite the claims of the Respondent Corporate Debtor of being a viable
+unit, the Corporate Debtor has made no payments towards their outstanding
+dues and the averments made with respect to the Corporate Debtor being a
+going concern or a viable entity do not absolve the Corporate Debtor from its
+liabilities to repay the outstanding dues of the Applicant Financial Creditor.
+The Financial Creditor had acceded to the request of settlement and
+restructuring of the outstanding dues of the Corporate Debtor and facilitated
+the survival of the Corporate Debtor and also supported the attempts of
+revival of the Corporate Debtor. We find that the Corporate Debtor has even
+avoided complying with the amortisation schedule and has not regularised
+their account. We don’t find any bar against the Financial Creditor to proceed
+under the Code as well as the SARFAESI Act against a Corporate Debtor and
+the objections of the Corporate Debtor holds no water.
+
+47.
+The Corporate Debtor has committed defaults in repayment of the
+outstanding dues despite repeated requests and reminders of the Financial
+
+[PAGE 35]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 35 of 41
+
+Creditor and despite the recall notice of the Financial Creditor. We find that
+the Corporate Debtor is in default of the dues owed to the Appellant and
+despite all attempts, failed to regularise its account. Further, the captioned
+Petition is complete in all aspects and is well within the limitation period. In
+view of the Corporate Debtor's inability to repay its debts, which include the
+outstanding dues due to the Financial Creditor, the initiation of CIRP in
+respect of the Corporate Debtor is the inevitable outcome.
+
+48.
+We also note that this Appellate Tribunal in the cases of Mr Amar Vora
+(supra) and Securities & Exchange Board of India vs. Rajesh
+Sureshchandra Sheth & Anr., Company Appeal (AT) (Ins.) No. 1194 of
+2022, decided on 4th July, has reaffirmed the position that there is no legal
+embargo or bar upon a creditor to initiate CIRP subsequent to the initiation
+of recovery actions by the creditor before the DRT or under SARFAESI or
+before any other forum, as pendency of any such legal proceedings of recovery
+is no bar for initiating CIRP. In the judgment of this Appellate Tribunal
+(Chennai Bench) on Mr Amar Vora (supra) where it was held that the
+Financial Creditor/Operational Creditor/Corporate Persons can file an
+Application under Sections 7, 9 and 10 of the Code before the respective
+Adjudicating Authorities even though in respect of same any proceeding may
+be pending before any other forums, on the ground that the provisions of Code
+have an overriding effect of other laws. Therefore, in instant case, the stand
+taken that proceedings are pending before DRT and under Prohibition of
+Benami Property Transactions Act, 1988, cannot be sustained and the Section
+7 cannot be stopped. Therefore, in the present case, we agree with the
+
+[PAGE 36]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 36 of 41
+
+arguments of the Appellant that the decision of the Adjudicating Authority
+which is fundamentally premised on the fact that the Appellant had initiated
+various recovery actions before DRT, under the Negotiable Instruments Act,
+issued Notice of Sale after filing of the Section 7, which all purportedly gave
+rise to a 'malafide intent' that the Appellant is only interested in recovery
+instead of resolution of the Corporate Debtor, is misconceived and
+fundamentally flawed observation and even otherwise, cannot be a
+sustainable ground to reject the Section 7 Petition filed by the Appellant.
+
+49.
+We also note that in complete contrast to the Vidarbha judgment, a
+different bench of the NCLT, New Delhi, in Induslnd Bank Ltd vs Hacienda
+Projects Pvt Ltd MANU/NC/5231/2022 (NCLT, New Delhi, decided on
+November 11, 2022), rejected the arguments of the Corporate Debtor (who
+was also a real estate developer) that (i) the project undertaken by it was
+almost complete; (ii) it was a financially viable company; and (iii) initiation of
+CIRP would not be fruitful. NCLT, New Delhi, in its reasoning, held that had
+the Corporate Debtor been financially healthy, it would not have defaulted in
+repayment. Moreover, completion of one project cannot be the sole criteria to
+decide the financial viability of a company.
+
+50.
+We also note the judgement of this Appellate Tribunal in a similar case
+of Bank of Maharashtra (supra). Similar to the facts of the present case, in
+the said case, the Financial Creditor, Bank of Maharashtra's Application was
+also dismissed by the NCLT, New Delhi. Despite establishing 'debt' and
+'default', the NCLT relying on the Vidarbha judgment, held that as the
+
+[PAGE 37]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 37 of 41
+
+Corporate Debtor was working on an ongoing housing project, initiating CIRP
+would impair the interests of homebuyers. It was observed that despite the
+Financial Creditor fulfilling all the elements of Section 7 of the Code, the
+NCLT, considering the rights of third parties, ie, homebuyers (who are in no
+manner involved in the proceedings), that will be impacted, proceeded to reject
+the Application. In Appeal before this Appellate Tribunal, this Appellate
+Tribunal held as under:
+“10. The facts are not much in dispute as a finding has been
+recorded by this Tribunal itself that the debt is in existence. For the
+purpose of Section 7, the Court has only to find out the existence of
+debt and default and in this case both the elements are present but
+the application has been dismissed on two accounts, firstly,
+applying the decision in the case of Vidharbha Industries (Supra)
+and that the proceedings under the RERA Act in respect of the
+Corporate Debtor initiated by it are pending which would ultimately
+affect its rights if the CIRP is initiated.
+
+11. This court has also followed the said decision (M. Suresh Kumar
+Reddy in Mohan Nathuram Sakpal), therefore, the finding recorded
+in para 10 of the Impugned Order does not apply as the decision in
+the case of Vidharbha Industries (Supra) cannot be applied to all
+other cases except the case in which the decision has been
+rendered.
+xxx
+14. In view of the aforesaid facts and circumstances, once it has
+been found that there is an existence of debt and default, the
+application under Section 7 deserves to be admitted. Consequently,
+the Appeal is allowed. Application filed under Section 7 of the Code
+filed by the Appellant is admitted. The matter is sent back to the
+Tribunal for the purpose of initiation of further proceedings.”
+
+[Emphasis Supplied]
+Conclusion
+51.
+We find that at the request of the Corporate Debtor, ECL Finance
+Limited (“Original Lender”) sanctioned two Term Loan Facilities totalling Rs
+70 crores (Rupees 40 crores and Rupees 30 crores) vide sanction letters dated
+
+[PAGE 38]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 38 of 41
+
+19.07.2018. These facilities were disbursed on 26.07.2018 and 26.09.2018,
+respectively. The Corporate Debtor executed various contractual and security
+documents in favour of the Original Lender to secure its repayment
+obligations. However, the Corporate Debtor failed to comply with the
+repayment schedule and made its last payment on 30.09.2021. As a result,
+the loan account was classified as a Non-Performing Asset (NPA) on
+30.12.2021. Subsequently, the Appellant acquired all rights, title, and
+interest in the said loan facilities and underlying securities from the Original
+Lender through an Assignment Agreement dated 09.05.2022. A Recall and
+Invocation of Guarantee Notice was then issued on 31.05.2022, demanding
+payment of the entire outstanding dues. The Appellant thereafter initiated
+recovery proceedings under the Recovery of Debts and Bankruptcy Act, 1993,
+and the SARFAESI Act, 2002. In response, the Corporate Debtor requested a
+restructuring of its outstanding dues, including those of its group entity,
+Raghav Conpro LLP. The Appellant accepted the request and issued a
+Restructuring Letter dated 23.05.2023. Despite this relief, the Corporate
+Debtor again defaulted on the restructured obligations. It paid only Rs 86
+lakhs against the second instalment of Rs 3 crores, due on 30.09.2024.
+Repeated reminders and ample opportunities to cure the default were ignored.
+The failure to meet the restructured repayment obligations constituted an
+event of default under Clause 9 of the Terms of Restructuring. Accordingly,
+the Appellant, vide its letter dated 29.12.2023, revoked the restructuring and
+recalled the entire outstanding liability of the Corporate Debtor.
+
+[PAGE 39]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 39 of 41
+
+52.
+The Appellant thereafter filed a Petition under Section 7 of the
+Insolvency and Bankruptcy Code, 2016, bearing CP (IB) No. 104/AHM/2024
+on 20.02.2024. Despite a clear and undisputed existence of debt and default,
+the Adjudicating Authority dismissed the petition through its Order dated
+06.11.2024, relying on the Supreme Court’s judgment in Vidarbha
+Industries (supra).
+
+53.
+We find that The Appellant revoked the Restructuring Scheme due to
+the Corporate Debtor’s failure to comply with the terms and conditions
+stipulated in the Restructuring Letter dated 23.05.2023. Upon valid
+revocation, the Appellant was under no legal or contractual obligation to re-
+initiate or reconsider the Restructuring Scheme. We also find that the
+allegation of collusion between the Appellant and SBICAP Ventures Ltd. is
+entirely baseless, speculative, and devoid of any evidentiary support. We also
+conclude that the Intervention Application filed by The Elegna Co-operative
+Housing and Commercial Society Ltd. (“Intervener”) is misconceived, lacks
+legal merit, and has no locus standi. The Intervener’s reliance on extraneous
+factors lies outside the scope of adjudication under Section 7 of the Code.
+
+54.
+We also find that the adjudicating authority erred in relying upon the
+judgment of Vidarbha Industries (supra). It is not applicable in this case
+basis subsequent judgements of Hon’ble Supreme Court. The Hon’ble
+Supreme Court in the case of Mr. Suresh Kumar Reddy vs Canara Bank
+and Ors., 2023 SCC OnLine SC 608, itself has held that the decision in
+Vidarbha Industries (Supra) was passed in the peculiar facts of that case
+
+[PAGE 40]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 40 of 41
+
+and is an exception, not the rule. The said judgment cannot be read as
+overriding or diluting the binding precedents laid down in Innoventive
+Industries Limited (supra) and E. S. Krishnamurthy vs. Bharat Hi-Tech
+Builders Private Limited, (2022) 3 SCC 161, which continue to govern the
+legal position under Section 7 of the Code. The Hon’ble Supreme Court in the
+case of Innoventive Industries (Supra) has held that there is no scope for
+any further discretion or evaluation beyond the satisfaction of debt and
+default. Therefore, the conclusion by the Adjudicating Authority that CIRP
+cannot be initiated merely on account of the existence of debt and default is
+contrary to the binding precedent. In the present case, the Corporate Debtor
+itself has acknowledged both the debt and default, and this admission is
+explicitly recorded in para 17 of the Impugned Order. It leaves no room for
+further adjudication on the issue of debt and default. The Adjudicating
+Authority itself, has recorded in para 23 of the Impugned Order that there
+exists a debt and default. In addition to the above, the Appellant had annexed
+the NeSL report with the subject Section 7 petition, which clearly evidences
+the default committed by the Corporate Debtor. Adjudicating Authority
+erroneously concluded that the Appellant was more interested in recovery
+than in resolving the Corporate Debtor's insolvency.
+Orders
+55.
+We find that rejection of the Application for admission under Section 7
+of the Code when the debt and default is clearly established in the facts and
+circumstances of the case, is an infirmity in the Impugned Order, which
+cannot be ignored. Consequently, we are constrained to set aside the order of
+the Adjudicating Authority and direct admission of insolvency under Section
+
+[PAGE 41]
+Company Appeal (AT) (Insolvency) No. 2261 of 2024 41 of 41
+
+7. Necessary orders be issued by the NCLT within 30 days of the presentation
+of these orders.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+July 01, 2025.
+
+pawan

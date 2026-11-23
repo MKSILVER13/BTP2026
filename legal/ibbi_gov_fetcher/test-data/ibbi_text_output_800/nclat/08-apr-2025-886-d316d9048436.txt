@@ -1,0 +1,590 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+[Arising out of the Impugned Order dated 14.06.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench-
+III in C.P.(IB) No. 4898 of 2023]
+In the matter of:
+REGIONAL PROVIDENT FUND COMMISSIONER,
+EMPLOYEES PROVIDENT FUND ORGANISATION,
+RO, THANE (SOUTH)
+THROUGH REGIONAL RF COMMSSIONER
+Vardan Commercial Complex
+MIDC Road No.16,
+WagIe Estate, Thalia-400604
+
+...Appellant
+
+Versus
+
+MR. JAYESH SANGHAJKA
+Resolution Professional
+FOR NIRMAL LIFESTYLE REALTY PRIVATE LIMITED
+405-407, Hind Rajasthan Building,
+D.S Phalke Road, Dadar East,
+Mumbai 400014
+Email:cirp.nlrpl@gmail.com
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Kanhaiya Singhal, Mr. Prasanna, Mr. Ajay Kumar, Ms.
+Ankita Makan, Ms. Aaditya Saraaf, Mr. Pulkit Jolly and Mr.
+Parul Sharma, Advocates.
+
+For Respondent
+: Mr. Arvind Nayar, Sr. Advocate with Ms. Tishampati Sen,
+Ms. Riddhi Sancheti, Mr. Anurag Anand, Mr. Mukul
+Kulhari and Ms. Tarni Aggarwal, Advocates for SRA.
+
+Mr. Kunal Tandon, Sr. Advocate with Mr. Gaurav
+Suryavanshi, Ms. Natashs Singh, Advocates RP.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+
+[PAGE 2]
+Page 2 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+14.06.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-III) in
+I.A. No. 4898 of 2023 in CP (IB) No. 315 (MB) of 2019. By the impugned order,
+the Adjudicating Authority has dismissed the IA No. 4898 of 2023 filed by the
+Appellant seeking admission of additional claim in the Corporate Insolvency
+Resolution Process (“CIRP” in short) of the Corporate Debtor. Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant-
+Employee Provident Fund Organization (“EPFO” in short) for not having taken
+into cognizance of the additional claims filed by them in respect of the Provident
+Fund and allied dues.
+2.
+The chronological sequence of events of the present case which are
+necessary to be noticed for consideration of the matter by us is as hereunder:
+ On 04.08.2005, a Development Agreement was entered into between M/s
+Ralliwolf Ltd. and M/s Nirmal Lifestyle Realty Pvt. Ltd. by which M/s
+Nirmal Lifestyle Realty Pvt. Ltd. assumed all liabilities and financial
+obligations of M/s Ralliwolf Ltd.
+ On 06.12.2021, the Corporate Debtor-M/s Nirmal Lifestyle Realty Pvt. Ltd.
+was admitted to the Corporate Insolvency Resolution Process (“CIRP” in
+short).
+ On 21.12.2021, the Resolution Professional (“RP” in short) issued a public
+announcement inviting claims from creditors of the Corporate Debtor.
+ On 21.06.2022, the Appellant-EPFO filed a claim of Rs 7,49,48,021 in
+respect of Provident Fund (“PF” in short) contributions due from M/s
+Ralliwolf Ltd. The claim of the Appellant was admitted by the RP on
+28.06.2022 and Appellant was categorised as Operational Creditor.
+
+[PAGE 3]
+Page 3 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+ The Committee of Creditors (“CoC” in short) of the Corporate Debtor
+approved the Resolution Plan submitted by Oberoi Construction Ltd.-
+Successful Resolution Applicant (“SRA” in short) on 01.09.2022. This
+plan of the SRA reflected the amount of Rs 7.49 Cr. claimed by the
+Appellant which was proposed to be paid in full by the SRA.
+ The resolution plan as approved by the CoC was filed before the
+Adjudicating Authority by the RP vide IA No. 2455 of 2022 on 03.09.2022.
+ On 11.11.2022, the wage claim of the workmen amounting to Rs
+62,44,43,284 was purportedly approved following which additional claim
+of Rs 34.31 Cr. was worked out by the Appellant as additional PF liability.
+ On 08.06.2023, the Appellant filed an additional claim of Rs 34,31,98,854
+for the period 2002 to 2023. This additional claim was rejected by the RP
+by email on 05.07.2023.
+ Subsequently, on 13.07.2023, the Appellant requested RP to reconsider
+and admit the additional claim and also filed I.A. No. 4898 of 2023 before
+Adjudicating Authority challenging the rejection of additional claim by the
+RP.
+ On 14.06.2024, the Adjudicating Authority passed the impugned order
+dismissing I.A. No. 4898 of 2023 filed by the Appellant. Aggrieved by the
+order, the present appeal has been filed.
+3.
+Submission was pressed by Shri Kanhaiya Singhal, Ld. Counsel for the
+Appellant that rejection of their additional claim in respect of PF contribution is
+contrary to established legal principles as statutory obligations like payment of
+PF dues cannot be compromised under insolvency proceedings. It was contended
+that PF contributions cannot be set aside by an approved Resolution Plan under
+
+[PAGE 4]
+Page 4 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+IBC in view of overriding provisions of the Employees' Provident Fund and
+Miscellaneous Provisions Act, 1952 (EPF & MP Act). No approved Resolution Plan
+can lawfully exclude PF dues, which are legally protected and remain outside
+the purview of insolvency proceedings. The Appellant has placed reliance on the
+judgement of the Supreme Court in Maharashtra State Co-operative Bank
+Ltd. v. APFC (AIR 2010 SC 868) which confirm that statutory obligations must
+be fulfilled in insolvency proceedings. The Appellant has relied on Supreme
+Court rulings in Sunil Kumar Jain v. Sundaresh Bhatt in Civil Appeal 5910
+of 2022 which reaffirm that PF contributions must be protected and cannot be
+compromised during insolvency resolutions.
+4.
+Explaining the genesis of the additional claims, submission was pressed
+that the wage claims of the workmen amounting to Rs 62.44 Cr. was approved
+on 11.11.2022 and hence the additional claims of corresponding PF liability
+arose thereafter. Delay in raising the additional claim subsequent to the approval
+of the resolution plan by the CoC on 01.09.2022 was therefore neither deliberate
+nor attributable to any negligence on the part of the Appellant. The additional
+claim was submitted on 08.06.2023 which date was admittedly after the CoC
+had approved the plan but before the final approval of the Resolution Plan by
+the Adjudicating Authority on 09.08.2024. Since CoC’s approval of a Resolution
+Plan does not constitute final acceptance, the RP should have admitted the
+additional claim of the Appellant being legitimate claims.
+5.
+Furthermore, Sections 36(4)(a)(iii) and 155(2)(d) of the IBC explicitly
+exclude PF dues from the liquidation estate giving it the status of third-party
+assets and hence PF dues cannot be altered or diminished through corporate
+
+[PAGE 5]
+Page 5 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+debt restructuring. Therefore, it was asserted that EPFO is not even obligated to
+file claims since it is the statutory responsibility of the RP to ensure the proper
+disbursal of PF dues. The SRA is required to settle unpaid PF and gratuity dues
+on admitted wages. It was pointed out that in the matter of Regional Provident
+Fund Commissioner v. Mamta Binani & Anr. in CAT(AT)(Ins.) No. 245 of
+2022, this Tribunal confirmed that EPFO claims remain enforceable even after
+a Resolution Plan has been approved.
+6.
+Refuting the contentions of the Appellant, Shri Kunal Tandon, Ld. Sr.
+Counsel for the Respondent No.1-RP submitted that the rejection of the
+Appellant’s additional claim was justified as it was filed after the approval of the
+Resolution Plan by the CoC. The IBC provides for a structured framework for
+conduct of the CIRP proceedings which does not provide scope for entertaining
+claims lodged after approval of plan by CoC. It is a well-established principle
+that once the Resolution Plan has been approved by the CoC, no new claims
+including statutory dues can be allowed. Once the plan is approved by CoC, it is
+binding on all stakeholders, including government bodies and statutory
+authorities, in accordance with Section 31 of the IBC. Any attempt to modify the
+approved Resolution Plan at this stage runs contrary to the fundamental
+objective of corporate insolvency resolution, which aims at timely resolution and
+avoidance of prolonged litigation. Allowing such belated claims would have
+undermined the integrity and finality of the resolution process. Hence, rejection
+of the additional claim by the RP was a measure well within the legal framework
+of the IBC.
+
+[PAGE 6]
+Page 6 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+7.
+It was vehemently contended that the RP had acted fairly in that the RP
+had already admitted the Appellant’s initial claim of Rs 7,49,48,021 of the
+Appellant as an operational creditor. This claim was duly considered by the CoC
+and the approved Resolution Plan accounted for its full payment. However, nine
+months after the CoC’s approval of the Resolution Plan, the Appellant attempted
+to muster up an additional claim of Rs 34,31,98,854 which was justifiably
+rejected by the RP by way of a detailed communication citing grounds for
+rejection. The Adjudicating Authority also rightly dismissed the Appellant’s I.A.
+seeking admission of these additional claims at such a delayed stage. It has been
+further contended by the Respondent that the Appellant was seeking to
+introduce this additional claim without any proper determination or
+authoritative computation of the liability under the EPF & MA Act. The additional
+claim is unsubstantiated by any proof or evidence in the form of supporting
+documents. The claim is based on mere arithmetical calculations basis an order
+from the Industrial Court dated 19.11.2013 relating to compensation for
+violation of Section 25F of Industrial Dispute Act without proper inquiry. Such
+claims cannot be entertained when they lack a legal foundation and are filed at
+an advanced stage of the CIRP.
+8.
+In support of their contention, the Respondent No.1 adverted attention to
+the impugned order wherein the Adjudicating Authority has placed reliance on
+the judgements of the Hon’ble Supreme Court in Committee of Creditors of
+Essar Steel vs. Satish Kumar Gupta & Ors. (2020) 8 SCC 531 and in RP
+Infrastructure Limited vs. Mukul Kumar & Anr. (2023) 10 SCC 718 wherein
+the Hon’ble Supreme Court held that belated claims should not be entertained,
+as they could lead to indefinite delays in the CIRP process, thereby affecting the
+
+[PAGE 7]
+Page 7 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+certainty and effectiveness of resolution. Hence, in light of the well-established
+legal principles and the factual matrix of the present case, it was emphatically
+asserted that allowing the additional claim after the CoC had approved the plan
+would have seriously compromised the integrity of the CIRP process and the
+finality of approved Resolution Plan. Hence, the RP had correctly rejected the
+claim and the Adjudicating Authority had also correctly affirmed the rejection of
+the claim by the RP.
+9.
+Similar arguments were canvassed by Shri Arvind Nayar, Ld. Sr. Counsel
+appearing on behalf of SRA-Respondent No. 2 that introducing additional claims
+after the approval of the Resolution Plan by CoC is untenable and contrary to
+the established principles of insolvency law. It was reiterated that the Resolution
+Plan of SRA was formulated based on the claims that were duly submitted and
+admitted within the timelines prescribed under the CIRP regulations. EPFO had
+already submitted a claim amounting to Rs. 7,49,48,021, which was duly
+considered and admitted by the RP. It was pointed out that it is an undisputed
+fact that the resolution plan submitted by the SRA had been approved by the
+CoC with 100% voting and had been subsequently approved by the Adjudicating
+Authority on 09.08.2024. However, the additional claim of Rs 34,31,98,854 was
+submitted on 08.06.2023 at a stage when the plan had already been finalized by
+the CoC. The Adjudicating Authority had therefore rightly rejected these claims
+as allowing any such significant liability at this belated stage would have
+jeopardized the commercial and financial viability of the plan. Additionally, the
+statutory duty of the RP is limited to the admission of claims within the
+prescribed CIRP timeline and any argument that the RP was obligated to suo
+moto include the additional PF dues lacked legal merit. It was added that the
+
+[PAGE 8]
+Page 8 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+plan has already been implemented and the SRA has already paid the admitted
+claim of Rs 7.49 Cr. to the Appellant. Hence, the resolution plan cannot be re-
+opened now on the basis of belated additional claims filed by the Appellant.
+10.
+We have duly considered the arguments advanced by the Learned
+Counsels for all the parties and perused the records carefully.
+
+11.
+The short issue before us for consideration is whether sufficient
+reasons/grounds existed to admit the belated additional claim filed by the
+Appellant on 08.06.2023 after the approval of the resolution plan by the CoC on
+01.09.2022.
+12.
+Coming to the scheme of IBC, the statutes of IBC provide that once a CIRP
+application is admitted under Sections 7, 9 or10 of IBC, the RP issues a public
+announcement inviting claims from all the stakeholders of the Corporate Debtor.
+Section 18(1)(b) of IBC provides that the IRP shall receive and collate all the
+claims submitted by creditors to him, pursuant to the public announcement
+made by him in compliance with Sections 13 and 15 of the IBC read with
+Regulation 6 of CIRP Regulations. Thereafter the RP is to collate the claims and
+update the same in the Information Memorandum, basis which potential
+resolution applicants are expected to submit their resolution plan for
+consideration of the CoC. The plans are deliberated and eventually approved by
+the CoC in exercise of their commercial wisdom. After the CoC approves the Plan,
+the Adjudicating Authority is required to arrive at a subjective satisfaction that
+the plan conforms to the requirements as provided under Section 30(2) of IBC
+and thereafter the Adjudicating Authority grants its approval to the Resolution
+Plan.
+
+[PAGE 9]
+Page 9 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+13.
+Commencing our analysis and findings, we would like to first examine
+whether the RP had acted in consonance with the provisions of IBC and CIRP
+Regulations in receiving, collating and verifying the claims submitted to him by
+the Appellant. In the present case, we notice that after the Corporate Debtor was
+admitted into the rigours of CIRP on 06.12.2021 and the RP made a Public
+Announcement inviting claims on 21.12.2021. Thus, prima-facie, there is no
+trace of any irregularity in the process followed by the RP in inviting claims.
+
+14.
+We next proceed to examine what steps were taken by the Appellant to file
+their claims and whether the prescribed time lines for this purpose as laid down
+in IBC and CIRP Regulations had been adhered to.
+
+15.
+From the facts of the present case, it is clear that the Appellant had filed
+proof of their claim in Form-B dated 20.06.2022 which was forwarded to the RP
+on 21.06.2022. This claim had been filed by the Appellant in their capacity of an
+Operational Creditor. It is also an undisputed fact that this claim of the Appellant
+for an amount of Rs 7.49 Cr. had been admitted by the RP on 28.06.2022 and
+duly communicated to the Appellant. The resolution plan of the SRA which was
+approved on 01.09.2022 by the CoC provided for full payment of the admitted
+claim of Rs 7.49 Cr. The resolution plan of the SRA as approved by the CoC was
+filed before the Adjudicating Authority by the RP vide IA No. 2455 of 2022 on
+03.09.2022. Given these facts and circumstances, the conduct of the RP with
+regard to admission of the original claim amounting Rs 7.49 Cr cannot be found
+to be flawed in any manner whatsoever.
+16.
+This brings us to the issue of additional claims filed by the Appellant and
+the timing thereof. It is an uncontested fact that till the stage of approval of the
+plan by the CoC, the Appellant had not filed their additional claim. The additional
+
+[PAGE 10]
+Page 10 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+claim was filed on 08.06.2023. The Corporate Debtor had been admitted into
+CIRP on 06.12.2021 and the 90 days period for filing of claim from the insolvency
+commencement date stood expired on 06.03.2022. Viewed from this angle, the
+filing of additional claims entailed a delay of nearly one year and three months.
+Viewed from the perspective of last date for submission of claims as per public
+announcement which was 03.01.2022, there was a clear delay of 521 days from
+the last date of submission of the claim. When counted from the date of approval
+of the plan by the CoC, nearly 09 months had elapsed since then. That there was
+delay on the part of the Appellant in the submission of the additional claims is
+therefore well established.
+17. The explanation which has been offered by the Appellant for belated filing of
+the additional claim was that the Appellant became aware of the order passed
+by the Industrial Court only after it was served with an application filed by
+Association of Engineering Workers. We are not satisfied with this explanation
+since the Industrial Court’s order was passed on 21.11.2019 whereas the CIRP
+had commenced on 06.12.2021. It does not appeal to reason that it could have
+taken two years from the date of passing of the order by the Industrial Court to
+compute the additional claims. The Adjudicating Authority in its impugned order
+has therefore rightly observed that there was sufficient time for Appellant-EPFO
+to pass an order under EPF Act when the Industrial Court order had passed its
+orders in 2019 while CIRP was initiated in 2021. The Appellant cannot take
+advantage of their own laxity in not filing their claims on time to derail the
+insolvency resolution process.
+18.
+Having come to the unambiguous conclusion that there was delay in the
+submission of additional claims, we would like to address the question as to
+
+[PAGE 11]
+Page 11 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+whether the RP had mechanically rejected the claims or had taken an informed
+decision before rejecting the claim. From a plain reading of the CIRP Regulations,
+RP can accept claims as per extended period as provided in Regulation 12(1) of
+CIRP Regulations. After the lapse of extended period of 90 days of the insolvency
+commencement date, the RP is neither obliged to accept any claim nor does he
+have the discretion to admit claim after the extended period. Further, when we
+look at the material placed on record, we find that the RP while rejecting the
+additional claim of the Appellant on 05.07.2023 had maintained due
+transparency and kept the Appellant apprised of its decision. The rejection e-
+mail of 05.07.2023 is placed at page 437-438 of the Appeal Paper Book (“APB”
+in short). The RP while rejecting the additional claim gave detailed reasoning for
+doing so. It was clearly pointed out that the additional claim had been filed much
+beyond the time-period prescribed under the IBC and the Regulations framed
+thereunder. It was also clarified therein that since the Appellant had failed to
+submit the additional claim within the stipulated time, the RP did not have the
+powers to condone such delay in the filing of claims thus rendering the claim
+time-barred. The RP had also mentioned that no supporting documents had been
+submitted for the additional claim and that the additional claim had been
+calculated for a period when the establishment of the Corporate Debtor was
+permanently closed.
+19.
+It is however the case of the Appellant that Section 11 of the EPF Act
+accords statutory priority to the amount payable to the employees for PF dues
+including interest payable under Sections 7Q and 14B of EPF Act which serve
+as financial security for employees. Moreover, it being a settled position of law,
+that PF, Pension fund and Gratuity fund do not come within the purview of
+
+[PAGE 12]
+Page 12 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+liquidation estate for the purpose of distribution of assets under Section 53 of
+the IBC, the RP was bound to accept the additional claims. No approved
+Resolution Plan can lawfully exclude PF dues, which are legally protected and
+remain outside the purview of insolvency proceedings. Hence the additional
+claims deserved to be admitted. Per contra, it is the case of both the Respondents
+that keeping in view the fact that the objective and intent of the IBC is time-
+bound resolution of the Corporate Debtor to maximize value, if new and
+additional claims are allowed to crop up and are entertained much after the CoC
+has already approved the resolution plan, the CIRP would be put to jeopardy and
+the intent of IBC would stand frustrated. Hence the RP cannot be faulted for
+rejecting the belated claims.
+20.
+At this juncture, it may be useful to notice how the Adjudicating Authority
+has viewed this delay in the filing of belated additional claims. After adverting
+reference to the judgements of the Hon’ble Supreme Court in Essar Steel and
+in RP Infrastructure Limited judgements supra, the Adjudicating Authority
+has returned the following findings as reproduced hereunder:
+‘23. Therefore, the settled law on this issue is that no claims can be submitted
+at a belated stage especially after approval of the Resolution Plan by the CoC.
+
+24. In the present case, the resolution plan was approved by the CoC on
+01.09.2022 and the additional claim was filed by the Applicant on
+08.06.2023, after more than 9 months of resolution plan being approved by
+the CoC and after the resolution plan was filed for approval before this
+Tribunal.
+
+25. The aforesaid dictums make it clear that the admission of claims at a
+belated stage could potentially perpetuate the Corporate Insolvency
+Resolution Process (CIRP) of a Corporate Debtor endlessly, leading to adverse
+consequences for the insolvency regime. Thus, the belated additional claim of
+the Applicant cannot be directed to be admitted in view of the Resolution Plan
+being already approved by the CoC.’
+
+[PAGE 13]
+Page 13 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+21.
+It is well known that the Hon’ble Apex Court has laid down the clean slate
+theory through several of its judgements which have amplified that no surprise
+claims should be flung on the SRA beyond the scope of the approved resolution
+plan. The essence of the fresh slate principle has been adumbrated by the
+Hon’ble Supreme Court in their judgement in Ghanashyam Mishra and Sons
+Private Limited v. Edelweiss Asset Reconstruction Company Limited (2021)
+9 SCC 657 which is as hereunder:
+“86. As discussed hereinabove, one of the principal objects of I&B Code is,
+providing for revival of the Corporate Debtor and to make it a going concern.
+I&B Code is a complete Code in itself. Upon admission of petition under
+Section 7, there are various important duties and functions entrusted to RP
+and CoC. RP is required to issue a publication inviting claims from all the
+stakeholders. He is required to collate the said information and submit
+necessary details in the information memorandum. The resolution applicants
+submit their plans on the basis of the details provided in the information
+memorandum. The resolution plans undergo deep scrutiny by RP as well as
+CoC. In the negotiations that may be held between CoC and the resolution
+applicant, various modifications may be made so as to ensure, that while
+paying part of the dues of financial creditors as well as operational creditors
+and other stakeholders, the Corporate Debtor is revived and is made an
+ongoing concern. After CoC approves the plan, the Adjudicating Authority is
+required to arrive at a subjective satisfaction, that the plan conforms to the
+requirements as are provided in subsection (2) of Section 30 of the I&B Code.
+Only thereafter, the Adjudicating Authority can grant its approval to the plan.
+It is at this stage, that the plan becomes binding on Corporate Debtor, its
+employees, members, creditors, guarantors and other stakeholders involved
+in the resolution Plan. The legislative intent behind this is, to freeze all the
+claims so that the resolution applicant starts on a clean slate and is not flung
+with any surprise claims. If that is permitted, the very calculations on the
+basis of which the resolution applicant submits its plans, would go haywire
+and the plan would be unworkable.”
+
+22.
+In the facts of the present case, there is no dispute with the facts that the
+additional claims made by the Appellant were placed before the RP by the
+Appellant after approval of the resolution plan by the CoC. In terms of the
+
+[PAGE 14]
+Page 14 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+Ghanashyam Mishra judgment, the additional claim not being part of the
+resolution plan stood extinguished and therefore no proceedings could be
+continued in respect of such claims as allowing such belated additional claims
+would come in the way of the SRA in reviving the operations of the Corporate
+Debtor on a clean slate.
+23. It has also been clearly held by the Hon’ble Supreme Court of India in M/s
+RP Infrastructure Ltd. vs Mukul Kumar & Anr. in Civil Appeal No. 5590 of
+2021 that after the resolution plan is approved by the CoC but pending before
+the Adjudicating Authority, no new claims can be thrust upon the resolution
+applicant. The relevant excerpts of the judgement read as under:
+“19.The second question is whether the delay in the filing of the claim by the
+Appellant ought to have been condoned by the Respondent No. 1. The IBC is
+time bound process. There are, of course, certain circumstances in which the
+time can be increased. The question is whether the present case would fall
+within those parameters. The delay on the part of the Appellant is of 287
+days. The Appellant is a commercial entity. That they were litigating against
+the corporate debtor is an undoubted fact. We believe that the Appellant ought
+to have been vigilant enough in the aforesaid circumstances to find out
+whether the corporate debtor was undergoing CIRP. The Appellant has been
+deficient on this aspect. The result, of course, is that the Appellant to an extent
+has been left high and dry.
+21. The mere fact that the Adjudicating Authority has yet not approved the
+plan does not imply that the plan can go back and forth, thereby making the
+CIRP an endless process. This would result in there opening of the whole
+issue, particularly as there may be other similar person who may jump onto
+the bandwagon. As described above, in Essar Steel, the Court cautioned
+against allowing claims after the resolution plan has been accepted by the
+COC.
+22. We have thus come to the conclusion that the NCLAT’s impugned
+judgment cannot be faulted to reopen the chapter at the behest of the
+appellant. We find it difficult to unleash the hydra-headed monster of
+undecided claims on the resolution applicant.
+
+[PAGE 15]
+Page 15 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+23. The mere fact that the adjudicating authority has yet not approved the
+plan does not imply that the plan can go back and forth, thereby making the
+CIRP an endless process. This would result in the reopening of the whole
+issue, particularly as there may be other similar persons who may jump on
+to the bandwagon. As described above, in Essar Steel, the Court cautioned
+against allowing claims after the resolution plan has been accepted by the
+CoC.”
+24.
+In yet another judgement, the Hon’ble Supreme Court in Committee of
+Creditors of Essar Steel India Limited Vs. Satish Kumar Gupta and Ors
+2019 SCC Online SC 1478 has articulated the fresh slate theory and held:
+“105. Section 31(1) of the Code makes it clear that once a resolution plan
+is approved by the Committee of Creditors, it shall be binding on all
+stakeholders including guarantors. This is for the reason that this provision
+ensures at the successful resolution applicant starts running the business
+of the corporate debtor on a fresh slate as it were.
+107. For the same reason, the impugned NCLAT judgment in holding that
+claims that may exist apart from those decided on merits by the resolution
+professional and by the Adjudicating Authority/Appellate Tribunal can
+now be decided by an appropriate forum in terms of Section 60(6) of the
+Code, also militates against the rationale of Section 31 of the Code. A
+successful resolution Applicant cannot suddenly be faced
+with
+“undecided” claims after the resolution plan submitted by him has been
+accepted as this would amount to a hydra head popping up which would
+throw into uncertainty amounts payable by a prospective resolution
+Applicant who would successfully take over the business of the corporate
+debtor. All claims must be submitted to and decided by the resolution
+professional so that a prospective resolution Applicant knows exactly what
+has to be paid in order that it may then take over and run the business of
+the corporate debtor. This the successful resolution Applicant does on a
+fresh slate, as has been pointed out by us hereinabove. For these reasons,
+the NCLAT judgment must also be set aside on this count”.
+
+25.
+From a reading of the above three judgements of the Hon’ble Supreme
+Court, we have no doubt in our minds that once the CoC has approved a
+Resolution Plan, the same becomes binding on all stakeholders and no
+additional claims can be entertained. The approved plan, as sanctioned by the
+
+[PAGE 16]
+Page 16 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+CoC is binding and must be implemented as per its terms. Any deviation at this
+stage would compromise the very purpose of insolvency resolution. If belated
+claims of creditors are casually and mechanically accepted by the RP even after
+approval of the plan by the CoC, it would imperil the successful resolution of the
+Corporate Debtor and frustrate the objectives of IBC.
+26.
+This brings us to the judgements relied upon by the Appellant in support
+of their contention that the additional claims being statutory, the same should
+have been entertained. We have no quarrel with the proposition of law contained
+in the judgement of the Hon’ble Supreme Court in Maharashtra State Co-
+operative Bank Ltd. v. APFC (AIR 2010 SC 868) which held that statutory
+obligations are required to be fulfilled in insolvency proceedings. However, in
+taking care of these statutory obligations, the Hon’ble Supreme Court did not
+dispense with the filing of such claims on time. We must add here that the
+reliance placed by the Appellant on the judgment of this Tribunal in the matter
+of Regional Provident Fund Commissioner Vs Mamta Binani in CA(AT)(Ins.)
+No. 245 of 2022 is also misplaced since in that case, the Appellant had filed
+their claim before the approval of the plan by the CoC thereby making the facts
+clearly distinguishable from the present case wherein the claims were filed after
+the approval of the plan by the CoC.
+27.
+Having noticed the statutory framework and the purpose and objective of
+the IBC as well as clean slate theory propounded by the Hon’ble Apex Court
+which has been reaffirmed time and again, we are of the considered view that on
+approval of the resolution plan by the CoC, there is a closure to all claims. Had
+the RP taken cognisance of the belated additional claim of the Appellant, it would
+
+[PAGE 17]
+Page 17 of 17
+Company Appeal (AT) (Insolvency) No. 2100 of 2024
+
+have resulted in re-opening of the resolution plan which would militate against
+the statutory scheme of IBC and tantamount to infringement of the clean slate
+theory of the Hon’ble Apex Court. Further when the claims have been filed
+belatedly, the RP’s action to reject the claim by way of a reasoned reply to the
+Appellant cannot therefore be put to fault. The Adjudicating Authority did not
+commit any error, in the given facts and circumstances, in upholding the
+decision of the RP to reject the belated additional claims of the Appellant.
+28.
+In result, we are of the view that no error was committed by the
+Adjudicating Authority in rejecting the additional claims of the Appellant. We do
+not find any cogent grounds which warrants any interference in the impugned
+order. The Appeal fails and is dismissed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 08.04.2025
+
+Abdul

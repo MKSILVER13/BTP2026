@@ -1,0 +1,676 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1047 of 2024
+
+[Arising out of the Common Order dated 21.02.2024, passed
+by the ‘Adjudicating Authority’ (National Company Law
+Tribunal, Court-1, Mumbai Bench in IA No. 41 of 2024 in
+CP(IB) No. 3962/MB-I/2018]
+
+IN THE MATTER OF:
+
+Gokul Aggarwal
+Having his address at:
+601, Khatau Condominium, JM Mehta Road,
+Off-Napean Sea Road, Malabar Hill,
+Mumbai-400006
+
+...Appellant
+
+Versus
+
+1. Bank of India
+A member of the Committee of Creditors of
+the Corporate Debtor Having Office at
+Star House, C-5, G Block,
+Bandra Kurla Complex.
+Mumbai - 400 051
+
+...Respondent No.1
+
+2. Bank of Baroda
+A member of the Committee of Creditors
+of the Corporate Debtor
+Having registered address at:
+Baroda Bhavan, RC Dutt Road,
+Alkapuri, Baroda - 350 007
+
+...Respondent No.2
+
+3. India Resurgence ARC Pvt Ltd
+A member of the Committee of Creditors
+of the Corporate Debtor
+having its office at:
+304, 3rd Floor, Piramal Tower,
+Peninsula Corporate Park,
+Ganpatrao Kadam Marg,
+Lower Parel, Mumbai,
+Maharashtra-400013
+
+...Respondent No.3
+
+4. Mr. Rajender Kumar Girdhar
+Resolution Professional of the
+Corporate Debtor
+Having address at: Sumedha Management
+Solutions Private Limited,
+C-703, Marathon Innova, off. G.K. Marg,
+Lower Parel West, Mumbai-400013.
+
+...Respondent No.4
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 2 of 18
+
+5. Mr. Debashis Nanda
+Liquidator of the Corporate Debtor
+Having address at Flat No CS-14.
+C-Floor, Ansal Plaza, Vaishali,
+Ghaziabad, Uttar Pradesh, 201010
+
+...Respondent No.5
+
+Present:
+
+For Appellant
+:
+Mr. Gaurav Mitra, Mr. J. Rajesh, Adv.
+
+For Respondent
+:
+Mr. Sumant Batra, Mr. Sarthak Bhandari and Ms.
+Riya Kaur Arora, Advocates for Liquidator
+
+Mr. Nikhil Thakur, Mr. Akhil Rana, Mr. Ashish V.,
+Advocates for R-2
+
+Mr. Brijesh Kumar Tamber, Mr. Prateek Kushwaha
+Advocates for R-1
+
+Mr. Krishnendu Datta, Sr. Adv., Mr. Akshay Puri
+and Mr. Harsh Gurbani, Advocates for R-3
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+
+The captioned Appeal is filed by the Appellant under Section 61 of the
+Insolvency and Bankruptcy Code, 2016 impugning the order dated
+21.02.2024 passed by the Hon'ble National Company Law Tribunal, Mumbai
+("Hon'ble Adjudicating Authority") allowing IA No.2471 of 2021 filed by
+Respondent No.4- the Resolution Professional of the Corporate Debtor and IA
+No. 924 of 2021 preferred by Respondent No.1- Bank of India, and further
+dismissing an IA bearing No.41/2024 preferred by the Appellant seeking that
+the aforesaid Applications preferred by the Respondent Nos. I and 4 be stayed.
+Brief facts of the case
+2.
+Company Petition (IB) No. 3962/2018 was filed by Bank of Baroda-
+Respondent No. 2 against the Corporate Debtor-Chamber Constructions
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 3 of 18
+
+Private Limited under Section 7 of the Code. The CIRP order against the
+Corporate Debtor was admitted on 16.07.2019.
+
+3.
+It is brought to our notice that RNA Corp is the holding Company-
+principal borrower and is also the corporate guarantor of the Corporate
+Debtor-Chamber Constructions Private Limited.
+
+4.
+The claim of R1-Bank of India filed [Rs. 81,58,50,645.75/-] in the CIRP
+of the Corporate Debtor for corporate guarantee furnished by the Corporate
+Debtor for the loan advanced to one RNA Corp Pvt. Ltd. (RNA Corp) was
+admitted by R-4-RP. The R-4-RP preferred an application being IA No. 2471
+of 2020 on 19.09.2020 before the Hon'ble NCLT seeking initiation of
+Liquidation of the Corporate Debtor. Bank of India – Respondent No.1 filed a
+Company Petition (IB) No. 909/2019 under Section 7 of the Code against the
+principal borrower namely RNA Corp for the same claim as was against the
+Corporate Debtor. The principal borrower – RNA Corp, the corporate
+guarantor was also admitted into CIRP vide dated 26.11.2019 under Section
+7 of the Code.
+
+5.
+Also to be noted that Respondent Nos. 2 and 3 are the other financial
+creditors of the Corporate Debtor such that Respondent Nos. 1, 2, and 3
+constitute 68.79%, 25.02%, and 6.19% of the committee of creditors.
+
+6.
+The Applicant Mr. Gokul Aggarwal is one of the promoters and member
+of the Suspended Board of Director of principal borrower – RNA Corp and filed
+an appeal before this Hon’ble Tribunal vide CA (AT)(Ins.) No. 1504/2019
+against the order of admission against the principal borrower – RNA Corp.
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 4 of 18
+
+This Tribunal had dismissed the appeal on 07.02.2020. The applicant
+preferred a Review Application No. 15/2020 before this Tribunal, and that
+was also dismissed on 07.12.2020.
+
+7.
+The Appellant had also filed a Civil Appeal No. 827-828/2021 before
+the Hon’ble Supreme Court challenging the two orders dated 07.02.2020 and
+07.12.2020 passed by this Tribunal on the grounds that Respondent No.1
+had already filed the claim for the same debt in the CIRP of the Corporate
+Debtor and therefore the CIRP of RNA Corp for that very same debt was not
+maintainable. The Hon’ble Supreme Court had taken cognizance of the said
+contention and accordingly passed the order dated 12.04.2021 declaring the
+status quo thereby staying the CIRP of RNA Corp. The relevant extracts of the
+order of Hon’ble Supreme Court is as follows:
+“Issue notice.
+Counter affidavit, if any, be filed in the meanwhile.
+In the meanwhile, status quo, as it exists today, shall be
+maintained by the parties.
+Tag along with C.A. No.878/2019.
+List on 01.07.2021.”
+
+Thus, the Appellant filed an application being IA No. 41/2024 seeking that IA
+Nos. 2471/2020 and 924/2021 preferred by Respondent No. 4 – RP and
+Respondent No. 1 – Bank of India be kept in abeyance during the pendency
+of the applications before the Hon’ble Supreme Court. These applications were
+listed before NCLT on 04.01.2024. Appellant claims that on account of
+personal difficulty, the counsel for the appellant could not remain present.
+However, the NCLT reserved all the applications for orders and passed the
+impugned orders on these applications on 21.02.2024. The orders in various
+applications are as noted below in a summary form:
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 5 of 18
+
+8.
+We observe that the Appellant has filed an Appeal against the order in
+IA No. 2471/2020 filed by Respondent No. 4 – RP of the Corporate Debtor and
+also filed an appeal against I.A. No. 924/2021 preferred by Respondent No.1
+– Bank of India and also dismissal against IA No.41/2024.
+
+9.
+The matter was heard by this Tribunal on various dates. Some of the
+important proceedings are noted herein as under:
+“28.05.2024: Learned Counsel for the Appellant submits that two
+Financial Creditors have already expressed their opinion to accept the
+Settlement given by the Appellant and in fact, mail was sent by the Bank of
+Baroda that steps be taken for CoC's consideration under 12A. It is
+submitted that the Appellant has offered the entire principal amount which
+was claimed by the Bank and now the impugned order has been passed
+directing liquidation of the corporate debtor.
+
+2. Let 'Notice' be issued to the Respondents through 'Speed Post'. Let the
+requisites together with process fee be filed within three days from today.
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 6 of 18
+
+The Appellant is required to provide the e-mail address of the Respondents
+and in that mode also, the service can be effected. The Appellant is also
+required to furnish the Mobile No. of the Respondents to the 'Office of the
+Registry'.
+
+3. Let reply be filed within three weeks. Rejoinder, if any, be filed within
+two weeks thereafter.
+
+4. List the appeal on 09.07.2024.
+
+In the meantime, in pursuance of the impugned order, liquidator shall not
+issue any auction notice.”
+
+10.
+Thereafter, the matter was heard on 09.07.2024, 22.08.2024,
+15.10.2024, 09.12.2024, 20.12.2024, 28.01.2025, 21.01.2025, 11.03.2025,
+20.03.2025, 04.04.2025, 19.05.2025, 27.05.2025, 28.07.2025 and on
+28.08.2025
+
+11.
+On 04.09.2025, the submissions of all the parties were heard in detail
+and detailed order was passed which is noted as below:
+“04.09.2025: - On 21.2.2024, the Order of liquidation was passed by the
+Adjudicating Authority vis-à-vis the affairs of M/s. Chamber Construction
+Pvt. Ltd., the Corporate Debtor. This Order of liquidation was challenged by
+the Promoter Directors of the CD in CA 1047 of 2024.
+
+2. Be that as it may, the Financial Creditor namely, M/s. Omkara Assets
+Reconstruction Pvt. Ltd., moved the Adjudicating Authority seeking a
+direction to the erstwhile Directors of the CD to handover possession of
+the secured assets to it through the liquidator. This was ordered but with a
+clarification. The learned Adjudicating Authority had directed the erstwhile
+CD to handover the possession to the liquidator, etc. but injuncted the
+financial creditor from selling the same. This has now given rise to two
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 7 of 18
+
+Appeals. The financial creditor has preferred CA 2118 of 2024 challenging
+that part of the Order of the Adjudicating Authority restraining him from
+alienating the secured assets, whereas the promoter directors have filed
+CA 1861 of 2024 challenging the Order directing delivery of the secured
+assets to the liquidator.
+
+3. The learned Counsel for the appellant in CA 2118 of 2024 submitted on
+instructions that the financial creditor would work out its remedies in CA
+1047 of 2024 and CA 1861 of 2024. The learned Counsel is permitted to
+withdraw CA 2118 of 2024.
+
+4. So far as CA 1047 of 2024 is concerned, the Counsel for the appellant
+(the promoters of the CD) submitted that the CD is a subsidiary of certain
+RNA Corp. which is a 100% holding company. The holding company indeed
+was the principal borrower and the CD, as its subsidiary, only offered
+corporate guarantee to the principal borrower.
+
+5. Be that as it may, the financial creditor initiated CIRP proceedings both
+against the principal borrower as well as the corporate guarantor
+simultaneously. So far as the CIRP vis-à-vis the principal borrower is
+concerned, it has been admitted by the Adjudicating Authority, and that
+the challenge to it is now pending before the Hon'ble Supreme Court. The
+learned Counsel added that the issue before the Hon'ble Supreme Court is,
+whether the same financial creditor can initiate two parallel proceedings
+against
+the
+principal
+borrower
+and
+the
+corporate
+guarantor
+simultaneously. He added that the Hon'ble Supreme Court has passed an
+Order of status quo vis-à-vis the principal borrower and the matter is now
+in part-heard stage.
+
+6. The learned Counsel for the liquidator took this Tribunal to the Order
+passed on 28.5.2024 wherein this Tribunal has passed the following Order:
+"Company Appeal (AT) (Insolvency) No. 1047 of 2024 :-
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 8 of 18
+
+Learned Counsel for the Appellant submits that two Financial
+Creditors have already expressed their opinion to accept the
+Settlement given by the Appellant and in fact, mail was sent by the
+Bank of Baroda that steps be taken for CoC's consideration under
+12A. It is submitted that the Appellant has offered the entire
+principal amount which was claimed by the Bank and now the
+impugned order has been passed directing liquidation of the
+corporate debtor.
+
+2.
+Let 'Notice' be issued to the Respondents through 'Speed
+Post'. Let the requisites together with process fee be filed within
+three days from today. The Appellant is required to provide the e-
+mail address of the Respondents and in that mode also, the service
+can be effected. The Appellant is also required to furnish the Mobile
+No. of the Respondents to the 'Office of the Registry'."
+This Order came to be passed not only on the ground of pursuing
+parallel CIRPs but on the basis of a statement made on behalf of the
+promoters of the CD that they are attempting to resolve the matter
+through Section 12A route, and only acting on this statement, this
+Tribunal had ordered Notice. However, subsequent to this Order, on
+29.08.2024, this Tribunal had passed an Order in Asha Chopra and
+Ors. vs Hind Motors India Ltd. and others [Company Appeal (AT)
+(Ins) No.1425 to 1428 of 2024] held as below:
+"14. Section 12A was inserted in IBC with effect from
+06.06.2018, ie., much subsequent to the above Judgment.
+15. Statutory Scheme as delineated by 12A, Section 33 and
+Regulation 2B of the Liquidation Regulation, during Liquidation
+period, an Application under Section 12A is not permissible."
+
+When the law has been subsequently settled by this Tribunal that
+Section 12A benefit is not available in liquidation proceedings,
+necessarily the foundation for issuing the very notice in this Appeal
+goes. However, he concurred with the Counsel for the appellant vis-
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 9 of 18
+
+à-vis the issue involved, the matter is now pending before the
+Hon'ble Supreme Court and that it is in part-heard stage.
+
+7. Turning to CA 1861 of 2024, the Counsel for the first
+respondent/financial creditor submitted that the erstwhile
+Directors of the CD have only challenged the Order directing the
+delivery of property by them to the liquidator to be ultimately
+handed over to the financial creditor. So far as this portion of the
+Order is concerned, what the financial creditor seeks is not delivery
+of all the properties of the CD to the liquidator but only secured
+assets of the CD. So far as the security assets is concerned, it is
+protected and the financial creditor is at liberty to even resort to
+SARFAESI route for realising at least part of its debt dues. And this
+option indeed has been exercised by the financial creditor under
+Section 52 of the IBC when it moved the Adjudicating Authority with
+an application in which the Order under challenge was passed.
+Explaining the same, the learned Counsel for the first respondent
+submitted that in the eventuality of the Hon'ble Supreme Court
+accepting the contentions of the appellant herein, then only the
+liquidation process may come to end but that will not relieve the
+security interest which this respondent has over the assets in
+question. And, if the order of liquidation is eventually sustained,
+then the first respondent has already exercised its right under
+Section 52 of IBC. Either way, the security interest of the creditor will
+remain untouched and protected, irrespective of the outcome of the
+Civil Appeal pending adjudication by the Hon'ble Supreme Court.
+
+8. In CA 1861 of 2024, the learned Counsel for the respondent
+submitted the reason why CA 2118 of 2024 was filed was owing to
+the following direction given in the impugned Order of the
+Adjudicating Authority:
+"However, we note that the Hon'ble NCLAT vide order dated
+28.05.2024 has restrained the Liquidator from proceeding with
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 10 of 18
+
+the auction of the property of the Corporate Debtor so as to
+provide an opportunity to Erstwhile Management to negotiate
+a settlement with other secured Financial Creditors and file an
+application under Section 12A for withdrawal of the CIRP. In
+view of this we consider it appropriate to restrain the Applicant
+herein as well as to proceed with auction of the property till
+such time the restraint order passed in Company Appeal (AT)
+(Insolvency) no.1047 of 2024 remains in force. During this
+period, the Erstwhile Management shall be at liberty to engage
+Applicant in revival of OTS so as to forward their intent for
+withdrawal of CIRP under Section 12A of the Code as permitted
+by Hon'ble NCLAT."
+
+9. The Order of the NCLAT dated 28th May, 2024 is the Order passed
+in
+CA
+1047
+of
+2024.
+In
+CA
+1861
+of
+2024,
+second
+respondent/liquidator has already indicated that he would not be
+filing its Reply whereas Counsel for the first respondent/financial
+creditor has already filed its Reply. The appellant is required to file
+its Rejoinder, if any, to the Reply of Respondent No.1 on or before
+16th September, 2025.
+List on 19th September, 2025.
+Interim Order to continue.”
+
+12.
+Thereafter on 19.09.2025, it was ordered that CA (AT)Ins) No.
+2118/2024 is dismissed as withdrawn, which could not be recorded in the
+order dated 04.09.2025. And it was ordered that the arguments will be
+continued as the present proceedings are not likely to be affected by the
+decision of the Hon’ble Supreme Court on the issue indicated by the
+Appellant.
+
+13.
+On 19.11.2025, the following order were passed:
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 11 of 18
+
+“19.11.2025: Pleadings are complete. Appellants have also been heard.
+However, further hearing was halted essentially because of a certain issue
+which according to the appellant has some bearing on the outcome of this
+appeal which is now pending adjudication before the Hon'ble Supreme
+Court. These fact has already been captured in the earlier order of this
+Tribunal.
+
+The learned counsel for the respondent again underscore the fact that the
+issue was whether the CIRP against the CD and the Corporate Guarantor
+can simultaneously be pursuant and he reiterated that the CIRP
+proceedings against both the Corporate Debtor as well as the Corporate
+Guarantor was initiated by two different Financial Creditors and not by the
+sole Financial Guarantor. He also submitted that because of the Interim
+Order passed it could not be made in this appeal.
+
+This Tribunal finds that the arguments can still be heard and concluded till
+such time given as this Tribunal awaits the order of the Hon'ble Supreme
+Court in the matter which the appellant has referred to.
+
+Learned counsel for the appellant however submitted that the cause of the
+order of the status quo passed by the Hon'ble Supreme Court it may not
+be appropriate that the Tribunal to proceed further. This Tribunal therefore
+considers his appropriate to understand the scope of the order of status
+quo and however it be tenable that this Tribunal to go ahead with the
+hearing of the matter after all the conclusion of the hearing and
+pronouncing the judgment pursuant to the same are two different cases.
+
+Learned counsel for the liquidator seeks permission to submit hard copy of
+the notes. List the matter under the caption (hearing with interim orders)'.
+List on 10.12.2025.”
+
+14.
+And on 10.12.2025, the following order were passed:
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 12 of 18
+
+“10.12.2025: This matter is repeatedly posted before this Tribunal
+and it is being adjourned because an issue whether CIRP
+proceeding can be simultaneously commenced both against the
+Corporate Debtor and the Corporate Guarantor is pending
+adjudication by the Hon'ble Supreme Court.
+
+2. However, in the order dated 19.11.2025, it was clarified by the
+respondents that CIRP against the CD. Corporate Debtor initiated
+not by the same financial creditor by two different financial
+creditors, whereas the issue before the Hon'ble Supreme Court
+relates to initiation of these two proceedings by the same financial
+creditor. Learned counsel for the appellant however has a
+difference of views about the same.
+
+3. This Tribunal now proposes to continue the hearing of this matter
+since hearing these appeals can still be done even as this Tribunal
+waits for the order of Supreme Court of India. Therefore, the
+argument in this case will be resumed by the next posting.
+
+4. Learned Counsel for Omkara Assets Reconstruction Pvt. Ltd.
+submits that by virtue of the interim order passed by this Tribunal
+the entire liquidation process has come to a halt. Indeed, this order
+has come to be passed when the appellant cited the pendency of
+proposal for settlement it is captured in the order dated
+28.05.2024:
+"Learned Counsel for the Appellant submits that two
+Financial Creditors have already expressed their opinion to
+accept the Settlement given by the Appellant and in fact,
+mail was sent by the Bank of Baroda that steps be taken for
+CoC's consideration under 12A. It is submitted that the
+Appellant has offered the entire principal amount which
+was claimed by the Bank and now the impugned order has
+been passed directing liquidation of the corporate debtor.
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 13 of 18
+
+2. Let 'Notice' be issued to the Respondents through 'Speed
+Post'. Let the requisites together with process fee be filed
+within three days from today. The Appellant is required to
+provide the e-mail address of the Respondents and in that
+mode also, the service can be effected. The Appellant is also
+required to furnish the Mobile No. of the Respondents to
+the 'Office of the Registry'."
+5. Subsequently on 01.10.2024, Tribunal has also directed
+restrained dispossession of the appellant of the possession of a
+certain secured asset of the CD which the adjudicating authority
+had directed to be handed over to the liquidator to be rooted to
+the financial creditor. The learned counsel submitted that this is a
+secured asset and this respondent has not surrendered its secured
+interest in the liquidation process, and want to proceed against it
+outside the purview of IBC. The order staying the handing over the
+possession has now impacted the right of the secured CD to
+proceed against it outside the purview of the IBC.
+
+6. In the meantime, on 24.08.2024 this Tribunal has held in CA No.
+1425-1428 of 2024/2025 that section 12 A IBC will not be applicable
+to the liquidation process.
+
+7. This Tribunal realises the underlying urgency in proceeding with
+the matter. Even therefore, we unscored that even as we wait for
+the judgment of the Hon'ble Supreme Court of India, we have to
+proceed with the hearing. So far as tweaking with the interim
+orders as required by M/s Omkara is concerned this will be
+considered if so required in the neat posting.
+List the matter on 13th January, 2026 at 2:00P.M.”
+
+15.
+We observe that the Appellant here is not even the actual applicant in
+IA No. 41 of 2024, but a mere party in the main CP (IB) No 3962 of 2018. The
+adjudicating authority, while considering IA No 41 of 2024 concluded that the
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 14 of 18
+
+application did not disclose grounds which would justify the directions
+sought, and consequently dismissed the application. The relevant order is
+extracted as below:
+“21.
+Now coming to IA 41/2024 as stated in preceding para, Para 29 of
+said application does not refer to any application. In so far as order passed
+by Hon'ble Supreme Court in the matter pertaining to Principal Borrower
+is concerned, we find that the said Order does not bar proceeding further
+in the present matter. Nonetheless, even if this Tribunal proceeds further
+to decide the Liquidation application, such decision would not result into
+any recovery at this juncture. The issue before the Hon'ble Supreme Court
+in the case filed by Principal Borrower is whether a financial creditor can
+claim amounts simultaneously from Principal Borrower and the Guarantor.
+Having held that the proceeding further in this matter are not barred by
+the Hon'ble Supreme Court's order in the case of RNA Corp, we do not find
+any reason not to allow the Insolvency Resolution process to move forward
+in case of guarantor. Accordingly, we dismiss IA 41/2024 also.”
+
+16.
+We also note that the applicant was himself not present while the IA No
+41 of 2024 was being adjudicated. From a plain reading of Rule 48 of NCLT
+Rules1, we notice that in case of non-appearance of the applicant, the
+
+1 48. Consequence of non-appearance of applicant. -
+(I) Where on the date fixed for hearing of the petition or application or on any other date
+to which such hearing may be adjourned, the applicant does not appear when the petition
+or the application is called for hearing, the Tribunal may, in its discretion, either dismiss
+the application for default or hear and decide it on merit.
+(2) Where the petition or application has been dismissed for default and the applicant
+files an application within thirty days from the date of dismissal and satisfies the Tribunal
+that there was sufficient cause for his nonappearance when the petition or the
+application was called for hearing, the Tribunal shall make an order restoring the same:
+Provided that where the case was disposed of on merits the decision shall not be re-
+opened.
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 15 of 18
+
+Tribunal may, in its discretion, either dismiss the application for default or
+hear and decide it on merit. We do not find that the adjudicating authority
+has violated any law or any other provisions of law; and by this Appeal the
+appellant is rather delaying the process of CIRP. We thereafter don’t find any
+infirmity in rejection of IA No. 41 of 2024.
+
+17.
+Our attention was also brought on the fact that though the appellant
+has emphasized on the Supreme Court Appeal No. 827-828 of 2021, wherein
+the aggrieved party has been granted a status quo order, yet the said order is
+different and does not pertain to this particular matter, which is in front of
+this Appellate Tribunal. We are concerned with the matter of the Principal
+Borrower to whom the Term loan was advanced namely M/s. RNA Corp Pvt.
+Ltd. It is also brought to our notice that even if it is considered, the interim
+relief has been lifted and final order as passed by the Hon'ble Supreme Court
+states "Civil Appeal Nos. 827-828 of 2021, 4018 of 2023 and 7231 of2024,
+however, stand dismissed" on 26.02.2026.
+
+18.
+The matter was taken up by us for hearing on 09.03.2026 at 2:00 PM,
+basis a mutual consent date. During the hearing, it was brought to our notice
+that Hon’ble Supreme Court has delivered its judgement in ICICI Bank Ltd.
+v. Era Infrastructure (India) Ltd.; 2026 SCC Online SC 314 on
+26.02.2026, and has not barred holding simultaneous CIRP proceedings
+against both principal debtor and corporate guarantor and such proceedings
+are maintainable under the existing provisions of the law. Thus, proceedings
+against both the principal borrower and also the Corporate Guarantor in this
+case can be proceeded against simultaneously. And therefore, the substratum
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 16 of 18
+
+on which appeal was being adjourned, no longer exists. The Appellant
+vehemently argues that Bank of India, which is Respondent No.1 is in the
+process of assigning it to some one, and for that reason this matter may be
+taken up after some time. The counsel on behalf of Bank of India strongly
+opposed the suggestion.
+
+19.
+Now we find that since the main issue has been settled by Hon’ble
+Supreme Court, we may go ahead to decide the present Appeal. We find that
+on 28.05.2024 based on the statement made on behalf of the Appellant, that
+a settlement was being explored between the Appellants and the two Financial
+Creditors and the steps are being explored for consideration of Section 12A of
+the Code, this Tribunal had directed that no auction be conducted by the
+Liquidator.
+
+20.
+However, we find that Section 12A of the Code applies only during the
+CIR proceedings and not in liquidation proceedings. This matter has been
+settled in NCLAT Asha Chopra and Ors. vs Hind Motors India Ltd. & Ors.
+Company Appeal (AT) (Insolvency) No. 1425-1428 of 2024 & I.A. No.
+5180-5183 of 2024 wherein it was held that withdrawal under Section 12A
+is legally impermissible during liquidation, and that the only available
+mechanism for settlement post-liquidation is a scheme under Section 230 of
+the Companies Act, 2013, as contemplated by Regulation 2B of the
+Liquidation Regulations. In the above judgement it was very clearly noted that
+"in view of the clear statutory scheme as delineated by 12A, section 33 of the
+Code and Regulation 2B of the Liquidation Regulation, we are of the view that
+during the liquidation period an application under section 12A is not
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 17 of 18
+
+permissible." Hence, the order of liquidation calls for no interference, and if
+the promoters propose to settle, they may only do so through the statutory
+Section 230 route of the Company’s Act, 2013.
+
+21.
+We also observe that in the 7th meeting of the Committee of Creditors
+("CoC") held on 31.08.2020, the CoC had unanimously resolved to liquidate
+the Corporate Debtor. This decision was taken as (i) no resolution plans had
+been received, (ii) none of the prospective resolution applicants sought
+extension of the timeline for submission of plans. The Appellants were present
+in the meeting and at no point did they indicate any settlement proposal.
+Pursuant to the unanimous decision of the CoC, the RP filed IA No.
+2471/2020 seeking commencement of liquidation in terms of Section 33(2) of
+the IBC.
+
+22.
+The Ld. Adjudicating Authority granted the Appellants repeated
+opportunities to settle the matter with the creditors. However, on 12.02.2024,
+the RP categorically informed the Ld. Adjudicating Authority that "no
+settlement has taken place out of Court, thus they have instructions to proceed
+further in the matter." This submission has never been challenged by the
+Appellants. As no settlement materialized despite nearly four years of
+opportunity, and in light of the CoC's unanimous commercial decision, the
+Ld. Adjudicating Authority correctly ordered liquidation under Section 33(2)
+vide order dated 21.02.2025.
+Order
+23.
+In the facts and circumstances of the case, we are satisfied that the
+Adjudicating Authority was right in dismissing the IAs and allowing the
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 1047 of 2024 18 of 18
+
+liquidation proceeding to go on. Thus, we do not find any infirmity in the
+orders of the Adjudicating Authority. Accordingly, the Corporate Debtor –
+Chamber Constructions Private Limited shall continue to be liquidated.
+Accordingly, all the related IAs are dismissed and the liquidator is allowed to
+proceed further to take action in the liquidation proceedings. No orders as to
+costs.
+
+[Justice N Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+New Delhi.
+May 11, 2026.
+
+pawan

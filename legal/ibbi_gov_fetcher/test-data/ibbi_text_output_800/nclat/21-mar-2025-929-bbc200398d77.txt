@@ -1,0 +1,760 @@
+[PAGE 1]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+1
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No.1103 of 2024 &
+I.A. No.3974 of 2024
+(Arising out of Order dated 08.04.2024 passed by the Adjudicating Authority
+(National Company Law Tribunal), Ahmedabad, Court-2 in IA/461(AHM)2022 in
+CP(IB) 157 of 2018)
+IN THE MATTER OF:
+Divyesh Desai
+RP of GPT Steel Industries Ltd.
+
+...Appellant
+Versus
+Gujarat Industrial Development
+Corporation Bhuj
+
+...Respondent
+
+Present:
+For Appellants
+: Mr. Abhijeet Sinha Sr. Advocate with Mr.
+Tishampati Sen, Ms. Riddhi Sancheti, Mr. Ashish
+Parwani, Mr. Rajeev Nair, Mr. Anurag Anand, Ms.
+Gitika
+Makhija
+and
+Mr.
+Mukul
+Kulhari,
+Advocates.
+For Respondent
+: Dr. Charu Mathur, Advocate for GIDC.
+
+With
+Company Appeal (AT) (Insolvency) No.1084 of 2024
+(Arising out of Order dated 08.04.2024 passed by the Adjudicating Authority
+(National Company Law Tribunal), Ahmedabad, Court-2 in IA 159/NCLT/AHM/
+2020 in CP(IB) 157 of 2018)
+IN THE MATTER OF:
+Asset Reconstruction Company (India) Limited,
+The Authorised Representative of the
+Committee of Creditors of
+GPT Steel Industries Ltd.
+
+...Appellant
+Versus
+Divyesh Desai,
+RP of GPT Steel Industries Ltd. & Anr.
+
+...Respondent
+
+Present:
+For Appellant
+: Mr. Deep Roy, Mr. Dhaval Savla & Mr. Piyush
+Swami. Advocates.
+For Respondents
+: Mr. Tishampati Sen, Ms. Riddhi Sancheti, Mr.
+Ashish Parwani, Mr. Rajeev Nair, Mr. Anurag
+
+[PAGE 2]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+2
+
+Anand, Ms. Gitika Makhija and Mr. Mukul
+Kulhari, Advocates for R-1.
+Dr. Charu Mathur, Advocate for GIDC.
+
+J U D G M E N T
+ASHOK BHUSHAN, J.
+
+These two Appeal(s) arises out of Corporate Insolvency Resolution
+Process (“CIRP”) of the Corporate Debtor (“CD”) GPT Steel Industries
+Limited. In Company Appeal (AT) (Ins.) No.1103 of 2024 order passed by
+National Company Law Tribunal, Ahmedabad, Court-2 dated 08.04.2024
+in IA No.461 (AHM)/2022 has been challenged. Whereas in Company
+Appeal (AT) (Ins.) No.1084 of 2024 order passed by National Company Law
+Tribunal,
+Ahmedabad,
+Court-2
+dated
+08.04.2024
+in
+IA
+No.159/NCLT/AHM/2020 has been challenged.
+2.
+Brief background facts giving rise to this Appeal(s) need to be noted:
+(i)
+The CIRP against the CD commenced on an application filed
+under Section 7 of the Insolvency and Bankruptcy Code, 2016
+(hereinafter referred to as the “IBC”) by an order dated
+02.05.2019.
+(ii)
+The Resolution Professional (“RP”) issued publication inviting
+the
+claim
+from
+creditors.
+
+In
+pursuance
+of
+public
+announcement, claim in Form-C dated 30.07.2019 submitted
+by Gujarat Industrial Development Corporation (“GIDC”), Bhuj
+for an amount of Rs.3,96,92,490, which was partially admitted
+
+[PAGE 3]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+3
+
+to the extent of Rs.1,54,35,313. The RP intimated the same to
+the GIDC vide letter dated 27.08.2019.
+(iii)
+In the CIRP of the CD, Resolution Plans were invited and
+Resolution Plan submitted by GP Global Energy Pvt. Ltd. (now
+known as Nivaya Resources Pvt. Ltd.) was approved by the
+Committee of Creditors (“CoC”) with 82.41% voting on
+18.02.2020. The RP filed an IA No.159 of 2020 before the
+Adjudicating Authority for approval of the Resolution Plan.
+(iv)
+The GIDC had granted 99 years lease to the CD vide License
+Agreement
+dated
+22.04.2004
+and
+Lease
+Deed
+dated
+06.10.2004 with respect to Plot No.301, on which CD was
+functioning. The CD entered into another Agreement vide
+allotment letter dated 20.12.2005 with respect to adjacent Plot
+No.338 to 341.
+(v)
+On 07.04.2022, a Show Cause Notice was issued by GIDC
+under Gujarat Public Premises (Eviction of Unauthorized
+Occupants) Act, 1972 with respect to Plot No.301 and Plot
+No.338 to 341 for non-payment of rent/instalment/ revenue
+charged totaling to Rs.1,22,86,283/-. The RP was asked to
+appear and show cause on 28.04.2022. By another letter of
+the same date, dated 07.04.2022, GIDC issued a termination
+order and terminated the lease.
+(vi)
+The RP after issuance of Show Cause Notice dated 07.04.2022
+and termination of lease by order of the same date, filed an IA
+No.461 of 2022, praying for setting aside the Show Cause
+
+[PAGE 4]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+4
+
+Notice/ termination order dated 07.04.2022. Notices were
+issued in the Applications and GIDC filed its reply.
+(vii)
+The Adjudicating Authority heard the parties and by order
+dated 08.04.2024 disposed of the IA No.461 of 2022, directing
+the RP to approach the Appellate Authority of GIDC for
+quashing the Notices. The Adjudicating Authority, however, in
+the meantime restrained the GIDC from taking any coercive
+action during moratorium period and status qua granted on
+31.05.2022 was extended till the Appeal is filed before this
+Tribunal.
+(viii) By another order of the same date, i.e. 08.04.2024 in IA
+No.159/AHM/2020, the application was considered and
+Adjudicating Authority by order dated 08.04.2024 remitted the
+Resolution Plan back to the CoC for reconsideration. In the
+order dated 08.04.2024, remitting the Resolution Plan, the
+Adjudicating Authority noticed its directions issued in the
+order of the same date in IA No.461 of 2022. The Adjudicating
+Authority also observed in the order that RP/ Financial
+Creditors have to pay the dues of the GIDC.
+(ix)
+Aggrieved by the aforesaid orders dated 08.04.2024, these two
+Appeal(s) have been filed. Company Appeal (AT) (Ins.) No.1103
+of 2024 has been filed by RP, whereas Company Appeal (AT)
+(Ins.) No.1084 of 2024 has been filed by the Asset
+Reconstruction Company (India) Ltd., largest Financial
+Creditor having largest shareholding in the CoC of the CD.
+
+[PAGE 5]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+5
+
+Company Appeal (AT) (Ins.) No.1103 of 2024
+3.
+Learned Counsel for the Appellant challenging order dated
+08.04.2024 passed by the Adjudicating Authority contended that
+Adjudicating Authority committed error in disposing of the applicating
+directing the RP to approach the Appellate Authority of GIDC, whereas the
+order dated 07.04.2022 terminating the lease granted by GIDC in favour of
+the CD as well as the Show Cause Notice dated 07.04.2022, were issued
+during moratorium, which was imposed on admission of Section 7
+Application filed against the CD. The action taken by the GIDC in issuing
+the Show Cause Notice and order terminating the lease, is hit by Section
+14 of the IBC and the Adjudicating Authority committed error in not setting
+aside the aforesaid orders. It is submitted that in view of the moratorium
+imposed under Section 14, GIDC could not have taken any action
+terminating the Lease Deed. It is further submitted that GIDC has already
+submitted its claim of Rs.3,96,92,490/-, out of which claim an amount of
+Rs.1,54,35,313/- has already been admitted and in the Resolution Plan,
+the operational creditor are proposed a payment of Rs.67 lakhs with regard
+to its pre-CIRP dues. Hence, the termination of lease was not permissible
+in law. Lease hold rights are the assets of the CD, which were in possession
+of the CD, hence, the order passed by GIDC was in violation of Section 14
+of the IBC and deserve to be set aside.
+4.
+Learned Counsel appearing for GIDC refuting the submissions of
+learned Counsel for the Appellant submits that Section 14 of the IBC is not
+applicable, since it is the GIDC, who is the owner of the land. It is
+
+[PAGE 6]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+6
+
+submitted that CD having only lease hold rights, cannot claim any rights
+in the land, hence, GIDC was fully entitled to cancel the Lease Deed. It is
+submitted that Section 14, does not override inherent consideration and
+statutory right of the lessor. Lease termination remains valid and
+independent of payment under the Resolution Plan. The Adjudicating
+Authority had no jurisdiction to entertain the application filed by the RP.
+The order dated 08.04.2024 passed by Adjudicating Authority needs no
+interference.
+Company Appeal (AT) (Ins.) No.1084 of 2024
+5.
+Learned Counsel for the Appellant submits that the Resolution Plan
+has been approved by the CoC with regard to which application was filed
+by the RP for approval of the Resolution Plan. The lease hold rights are the
+assets of the CD, dealt in the Resolution Plan. In the Resolution Plan,
+payments to GIDC were already contemplated. There is no violation of
+Section 30, sub-section (2) and the Adjudicating Authority could not have
+directed the Resolution Plan to be returned back to the CoC for
+reconsideration. No findings have been returned by the Adjudicating
+Authority with regard to any violation of Section 30, sub-section (2). It is
+submitted that the RP and Successful Resolution Applicant (“SRA”) has
+also taken steps for settling the dues of GIDC, after passing of the order of
+Adjudicating Authority dated 08.04.2024. Returning back the Resolution
+Plan to the CoC deserve to be set-aside.
+6.
+Learned Counsel for the RP supported the submission of the
+Appellant and submits that Resolution Plan was compliant of Section 30
+
+[PAGE 7]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+7
+
+sub-section (2) and the lease hold rights were assets of the CD and the SRA
+was to get only those rights, which the CD has in the land, i.e., lease hold
+rights. There was no ground made out to send back the Resolution Plan to
+the CoC.
+7.
+We have considered the submissions of learned Counsel for the
+parties and have perused the records.
+8.
+From the facts noticed above, there is no dispute between the parties
+that Resolution Plan came to be approved by the CoC with requisite
+majority in 17th CoC Meeting held on 10.02.2020 and Letter of Intent was
+issued to SRA, who has also submitted Performance Bank Guarantee. An
+IA was filed by the RP for approval of Resolution Plan being IA No.159 of
+2020 immediately after approval of the Resolution Plan, which remained
+pending.
+9.
+The Resolution Plan could not be considered at an earlier point of
+time on account of certain litigations with respect to eligibility of SRA. The
+Adjudicating Authority has also extended the time for completion of CIRP.
+In IA No.461 of 2022 filed by the RP challenging the order dated 07.04.2022
+issued by GIDC, by which lease was terminated and further Show Cause
+Notice was issued for eviction of the CD. Both these orders were challenged
+in IA No. 461 of 2022. There is no dispute between the parties that
+moratorium which commenced on admission of Section 7 Application in
+the year 2019, continued to operate. The Resolution Plan, which was
+approved, for which IA No.159 of 2020 was filed, remained pending before
+
+[PAGE 8]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+8
+
+the Adjudicating Authority. Thus, order dated 07.04.2022 was passed
+during continuance of the moratorium.
+10.
+The submission, which has been pressed by learned Counsel for the
+RP is that in view of the moratorium imposed, the GIDC has no jurisdiction
+to pass any order, cancelling the Lease Deed or proceeding to vacate the
+CD. Reliance has been placed on the judgment of the Hon’ble Supreme
+Court in (2020) 13 SCC 208 – Rajendra K. Bhutta vs. Maharashtra
+Housing and Area Development Authority and Anr. In the above case
+also the Maharashtra Housing and Area Development Authority has passed
+an order for recovery of the possession after moratorium was imposed. The
+Hon’ble Supreme Court in the above context had occasion to consider the
+scope and ambit of Section 14 of the IBC. Relevant facts have been noticed
+by Hon’ble Supreme Court in paragraphs 1.7, 1.9 and 1.11. The NCLT
+dismissed the Application filed by the RP seeking a direction to restrain
+MHADA from taking over possession. The Appeal to NCLAT also was
+dismissed, against which order, the RP filed the Appeal before the Hon’ble
+Supreme Court. The Hon’ble Supreme Court after considering the
+submissions, in paragraph 25, laid down following:
+“25. There is no doubt whatsoever that important functions relating
+to repairs and reconstruction of dilapidated buildings are given
+to MHADA. Equally, there is no doubt that in a given set of
+circumstances, the Board may, on such terms and conditions as
+may be agreed upon, and with the previous approval of the
+Authority, hand over execution of any housing scheme under its own
+supervision.
+However,
+when
+it
+comes
+to
+any
+clash
+between MHADA Act and the Insolvency Code, on the plain terms of
+Section 238 of the Insolvency Code, the Code must prevail. This is
+
+[PAGE 9]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+9
+
+for the very good reason that when a moratorium is spoken of by
+Section 14 of the Code, the idea is that, to alleviate corporate
+sickness, a statutory status quo is pronounced under Section 14 the
+moment a petition is admitted under Section 7 of the Code, so that
+the insolvency resolution process may proceed unhindered by any of
+the obstacles that would otherwise be caused and that are dealt with
+by Section 14. The statutory freeze that has thus been made is,
+unlike its predecessor in the SICA, 1985 only a limited one, which is
+expressly limited by Section 31(3) of the Code, to the date of
+admission of an insolvency petition up to the date that the
+adjudicating authority either allows a resolution plan to come into
+effect or states that the corporate debtor must go into the liquidation.
+For this temporary period, at least, all the things referred to under
+Section 14 must be strictly observed so that the corporate debtor
+may finally be put back on its feet albeit with a new management.”
+11.
+The Hon’ble Supreme Court allowed the Appeal and set-aside the
+order passed by NCLAT and directed the NCLT to dispose of the RP’s
+application. In paragraph 29, following was directed:
+“29. Regard being had to the above, we allow the appeal and set
+aside the impugned order of Nclat. Considering that this matter has
+been pending for some time, we direct NCLT to dispose of the
+resolution professional's application (IA No. 21433 of 2018) within a
+period of six weeks from today.”
+12.
+The above judgment fully supports the submission of the Appellant.
+13.
+Learned Counsel for the GIDC has placed much reliance on the
+judgment of the Hon’ble Supreme Court in (2020) 13 SCC 308 – Embassy
+Property Developments Pvt. Ltd. vs. State of Karnataka and Ors. The
+facts of the above case has been noticed by the Hon’ble Supreme Court in
+paragraph-3. In the above case, the CD had a mining lease, which expired
+
+[PAGE 10]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+10
+
+on 25.05.2018. The RP has addressed a letter to the Chairman of the
+Monitoring Committee as well as the Director of Mines & Geology seeking
+the benefit of deemed extension of the lease beyond 25.05.2018 in terms of
+Section 8-A(6) of the Mines and Minerals (Development and Regulation) Act,
+1957. A Writ Petition was also filed by the IRP before the High Court of
+Karnataka seeking a declaration. During the pendency of the litigation the
+Government of Karnataka passed an order rejecting the proposal for
+deemed extension. Initially against the said order, the IRP filed Writ
+Petition, which he withdrew with liberty to file a fresh petition. However,
+instead of filing fresh petition, the RP filed an application before the NCLT
+praying for setting aside the order of Government of Karnataka. The NCLT
+on 11.12.2018 allowed the IA and directed the Government of Karnataka
+to execute supplement lease deeds in favour of the CD. Aggrieved by the
+order, Government of Karnataka filed a Writ Petition before the High Court.
+The High Court set-aside the order of NCLT and directed the parties to
+appear before NCLT for fresh consideration. The NCLT thereafter passed
+an order allowing the application, against which Government of Karnataka
+filed a Writ Petition before the High Court, in which interim order was
+passed on 12.09.2019. Against the said interim order an Appeal was filed
+and in reference to the said, the Hon’ble Supreme Court had occasion to
+consider the jurisdiction of the NCLT. It is useful to notice facts as noted
+in paragraphs 3.9 to 3.15, which are as follows:
+“3.9. By an order dated 11-12-2018, NCLT, Chennai allowed the
+miscellaneous application setting aside the order of the Government
+of Karnataka on the ground that the same was in violation of the
+
+[PAGE 11]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+11
+
+moratorium declared on 12-3-2018 in terms of Section 14(1) of the
+IBC, 2016. Consequently the Tribunal directed the Government of
+Karnataka to execute supplement lease deeds in favour of the
+corporate debtor for the period up to 31-3-2020.
+3.10. Aggrieved by the order of the NCLT, Chennai, the Government
+of Karnataka moved a writ petition in WP No. 5002 of 2019, before
+the High Court of Karnataka. When the writ petition came up for
+hearing, it was conceded by the resolution professional before the
+High Court of Karnataka that the order of the NCLT could be set
+aside and the matter relegated to the Tribunal, for a decision on
+merits, after giving an opportunity to the State to respond to the
+reliefs sought in the miscellaneous application. It is relevant to note
+here that the order of the NCLT dated 11-12-2018, was passed ex
+parte, on the ground that the State did not choose to appear despite
+service of notice.
+3.11. Therefore, by an order dated 22-3-2019 , the High Court of
+Karnataka set aside the order of the NCLT and remanded the matter
+back to NCLT for a fresh consideration of Miscellaneous Application
+No. 632 of 2018.
+3.12. Thereafter, the State of Karnataka filed a statement of
+objections before the NCLT, primarily raising two objections, one
+relating to the jurisdiction of the NCLT to adjudicate upon disputes
+arising out of the grant of mining leases under the MMDR Act, 1957,
+between the State lessor and the lessee and another relating to the
+fraudulent and collusive manner in which the entire resolution
+process was initiated by the related parties of the corporate debtor
+themselves, solely with a view to corner the benefits of the mining
+lease.
+3.13. Overruling the objections of the State, the NCLT, Chennai
+passed an order dated 3-5-2019 [Vasudevan v. State of Karnataka,
+2019 SCC OnLine NCLT 681] allowing the miscellaneous
+application, setting aside the order of rejection and directing the
+Government of Karnataka to execute supplemental lease deeds.
+
+[PAGE 12]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+12
+
+3.14. Challenging the order [Vasudevan v. State of Karnataka, 2019
+SCC OnLine NCLT 681] of the NCLT, Chennai, the Government of
+Karnataka moved a writ petition in WP No. 41029 of 2019 before the
+High Court of Karnataka. When the writ petition came up for orders
+as to admission, the corporate debtor represented by the resolution
+professional appeared through counsel and took notice and sought
+time to get instructions. Therefore, the High Court, by an order dated
+12-9-2019 [State of Karnataka v. Tiffins Barytes Asbestos & Paints
+Ltd., 2019 SCC OnLine Kar 2463] adjourned the matter to 23-9-
+2019 and granted a stay of operation of the direction contained in
+the impugned order [Vasudevan v. State of Karnataka, 2019 SCC
+OnLine NCLT 681] of the Tribunal. Interim stay was necessitated in
+view of a contempt application moved by the resolution professional
+before the NCLT against the Government of Karnataka for their
+failure to execute supplement lease deeds.
+3.15. It
+is
+against
+the
+said
+ad
+interim
+order
+[State
+of
+Karnataka v. Tiffins Barytes Asbestos & Paints Ltd., 2019 SCC
+OnLine Kar 2463] granted by the High Court that the resolution
+applicant, the resolution professional and the Committee of
+Creditors have come up with the present appeals.”
+14.
+The Hon’ble Supreme Court in the above reference examined the
+jurisdiction and power of the NCLT. The Hon’ble Supreme Court after
+noticing the provision of Sections 18 and 15 of the IBC, made following
+observation in paragraphs 41 to 44:
+“41. Therefore in the light of the statutory scheme as culled out from
+various provisions of the IBC, 2016 it is clear that wherever the
+corporate debtor has to exercise a right that falls outside the purview
+of the IBC, 2016 especially in the realm of the public law, they
+cannot, through the resolution professional, take a bypass and go
+before NCLT for the enforcement of such a right.
+42. In fact the resolution professional in this case appears to have
+understood this legal position correctly, in the initial stages. This is
+
+[PAGE 13]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+13
+
+why when the Government of Karnataka did not grant the benefit of
+deemed extension, even after the expiry of the lease on 25-5-2018,
+the resolution professional moved the High Court by way of a writ
+petition in WP No. 23075 of 2018. The prayer made in WP No. 23075
+of 2018 was for a declaration that the mining lease should be deemed
+to be valid up to 31-3-2020. If NCLT was omnipotent, the resolution
+professional would have moved the NCLT itself for such a
+declaration. But he did not, as he understood the legal position
+correctly.
+43. After the filing of the first writ petition (WP No. 23075 of 2018),
+the Government of Karnataka passed an order dated 26-9-2018
+rejecting
+the
+claim.
+Therefore
+the
+resolution
+professional,
+representing the corporate debtor filed a memo before the High Court
+seeking withdrawal of the writ petition “with liberty to file a fresh writ
+petition”. However the High Court, while dismissing the writ petition
+by order dated 28-9-2018 [Tiffins Barytes Asbestos & Paints
+Ltd. v. State of Karnataka, 2018 SCC OnLine Kar 3786] was little
+considerate and it disposed of the writ petition as withdrawn with
+liberty to take recourse to appropriate remedies in accordance with
+law. Perhaps taking advantage of this liberty, the resolution
+applicant moved the NCLT against the order of rejection passed by
+the Government of Karnataka. If NCLT was not considered by the
+resolution professional, in the first instance, to be empowered to
+issue a declaration of deemed extension of lease, we fail to
+understand how NCLT could be considered to have the power of
+judicial review over the order of rejection.
+44. The fact that the Government of Karnataka agreed in the second
+writ petition, WP No. 5002 of 2019 to go back to the NCLT and
+contest the miscellaneous application filed by the resolution
+professional, would not tantamount to conceding the jurisdiction of
+NCLT. In any case a tribunal which is the creature of a statute
+cannot be clothed with a jurisdiction, by any concession made by a
+party.
+
+[PAGE 14]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+14
+
+15.
+Section 14(1)(d) was also pressed before the Hon’ble Supreme Court,
+which argument was rejected. The following was observed by the Hon’ble
+Supreme Court in paragraph 45:
+“45. A lot of stress was made on the effect of Section 14 of the IBC,
+2016 on the deemed extension of lease. But we do not think that the
+moratorium provided for in Section 14 could have any impact upon
+the right of the Government to refuse the extension of lease. The
+purpose of moratorium is only to preserve the status quo and not to
+create a new right. Therefore nothing turns on Section 14 of the IBC,
+2016. Even Section 14(1)(d) of the IBC, 2016, which prohibits, during
+the period of moratorium, the recovery of any property by an owner
+or lessor where such property is occupied by or in the possession of
+the corporate debtor, will not go to the rescue of the corporate debtor,
+since what is prohibited therein, is only the right not to be
+dispossessed, but not the right to have renewal of the lease of such
+property. In fact the right not to be dispossessed, found in Section
+14(1)(d), will have nothing to do with the rights conferred by a mining
+lease especially on a government land. What is granted under the
+deed of mining lease in ML 2293 dated 4-1-2001, by the Government
+of Karnataka, to the corporate debtor, was the right to mine,
+excavate and recover iron ore and red oxide for a specified period of
+time. The deed of lease contains a schedule divided into several
+parts. Part I of the Schedule describes the location and area of the
+lease. Part II indicates the liberties and privileges of the lessee. The
+restrictions and conditions subject to which the grant can be enjoyed
+are found in Part III of the Schedule. The liberties, powers and
+privileges reserved to the Government, despite the grant, are
+indicated in Part IV. This Part IV entitles the Government to work on
+other minerals (other than iron ore and red oxide) on the same land,
+even during the subsistence of the lease. Therefore, what was
+granted to the corporate debtor was not an exclusive possession of
+the area in question, so as to enable the resolution professional to
+invoke Section 14(1)(d). Section 14(1)(d) may have no application to
+situations of this nature.”
+
+[PAGE 15]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+15
+
+16.
+The Hon’ble Supreme Court in paragraph 46 recorded its conclusion
+that NCLT did not have jurisdiction to entertain an application against the
+Government of Karnataka for a direction to execute supplemental lease
+deeds for the extension of the mining lease. Paragraph 46 of the judgment
+is as follows:
+“46. Therefore, in fine, our answer to the first question would be that
+NCLT did not have jurisdiction to entertain an application against
+the Government of Karnataka for a direction to execute
+supplemental lease deeds for the extension of the mining lease. Since
+NCLT chose to exercise a jurisdiction not vested in it in law, the High
+Court of Karnataka was justified in entertaining the writ petition, on
+the basis that NCLT was coram non judice.
+17.
+It was held by the Hon’ble Supreme Court in paragraph 46 as noticed
+above that NCLT had no jurisdiction to issue direction to Government of
+Karnataka to execute supplemental lease deed for the extension of the
+mining lease. In the above case, the issue was with regard to deemed
+extension, which was denied by Government of Karnataka and the
+application was filed by the RP seeking declaration of deemed extension
+and execution of supplemental lease. In the above background, this Court
+held that NCLT had no jurisdiction. Argument on Section 14(1) was also
+noticed and distinguish in the facts and terms and conditions of the lease
+as noticed in paragraph 45 by the Hon’ble Supreme Court. Thus, the above
+judgement in the present case, does not come to any aid to the GIDC to
+give it jurisdiction to cancel the lease and issue notice for eviction of the
+CD during the moratorium as noted above. The GIDC has already filed its
+claim, which was partially admitted to the extent of Rs.1.54 crores, whcih
+
+[PAGE 16]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+16
+
+has also been dealt in the Resolution Plan, as noticed above. The
+application for approval of Resolution Plan was pending consideration
+during which period GIDC had issued an order, terminating the lease and
+issuing Show Cause Notice for eviction of the CD. We are of the view that
+action of the GIDC by issuing Show Cause Notice of terminating the lease
+dated 07.04.2022 was clearly hit by Section 14 of the IBC and the
+Adjudicating Authority committed error in not allowing the IA, which was
+filed by the RP being IA No.461 of 2022. Although, interim order was
+passed by Adjudicating Authority for maintaining the status quo, but
+Adjudicating Authority directed the RP to approach the Appellate Authority
+of GIDC. When order passed by GIDC is clearly hit by Section 14(1), it was
+well within the jurisdiction of NCLT within the meaning of Section 60, sub-
+section (5) (c) of the IBC to entertain the application. We are not persuaded
+to accept the submission of GIDC that Adjudicating Authority had no
+jurisdiction to entertain the application filed by RP, since the leasehold
+rights of the CD were dealt in the Resolution Plan and the Application – IA
+No.461 of 2022 relates to insolvency process of CD, in which process GIDC
+has passed an order terminating the lease to take away the leasehold rights
+of CD out of insolvency process.
+18.
+In result, we are of the view that application IA No.461(AHM)/2022
+filed by the RP deserve to be allowed.
+Company Appeal (AT) (Ins.) No.1084 of 2024
+
+[PAGE 17]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+17
+
+19.
+The order under challenge is order of the Adjudicating Authority
+remanding the Resolution Plan to the CoC. The entire consideration of the
+application is contained in paragraphs 15, 16 and 17 of the judgment of
+the NCLT, which are as follows:
+“15. It is observed that the RP has not 'amended the Information
+Memorandum, but rightly included the nature of the asset leased
+which exhibits certain risks. We are not aware of the fact that the
+unadmitted claim was brought to the Resolution Applicant. In view
+of the leased ownership, if the claim is admissible for which
+necessary documents were not provided, it has to be paid either from
+the liquid funds of the Corporate Debtor by the RP who has to appear
+before the GIDC in person and appeal against the order and the
+Secured Creditors who have charge on the land leased by the GIDC
+are directed to pay the dues payable in case there are no sufficient
+funds to meet the liability and the penalty if any levied and retrieve
+the lease agreement before the Resolution Plan is reconsidered for
+submission to this Tribunal. The Resolution Applicant thus would
+get the possession only after the same is complied with even if the
+approval of the plan has been accorded by COC which is pending
+adjudication before this Tribunal.
+16. In the judgement of the Hon'ble NCLAT in M/s. Sel
+Manufacturing Company Limited Vs. Punjab Small Industries &
+Export in CA (AT) No. 881 of 2022 passed on 20 March, 2024 wherein
+the Hon.’ble NCLAT held that "What rights and liability Corporate
+Debtor had to the land, in question, the same at best can be
+transferred to the Resolution Applicant in event any Resolution Plan
+is approved ." and in the judgement of the Hon'ble Supreme Court
+in Greater Noida Industrial Development Authority vs. Prabhjit
+Singh Soni and Anr. in Civil Appeal Nos. 7590-7591 of 2023 wherein
+it was held that the "Adjudicating Authority can always take notice
+of any shortcoming in the resolution plan in terms of the parameters
+specified in sub-section (2) of Section 30 of the IBC coupled with
+Regulations 37 and 38 of the CIRP Regulations 2016. If any such
+
+[PAGE 18]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+18
+
+shortcoming appears in the resolution plan, it may send the
+resolution plan back to the COC for re-submission after satisfying
+the parameters so laid down.
+17. Further, in the judgment of the Hon'ble Supreme Court in K.
+Sashidhar Vs. Indian Overseas Bank and Ors. (2019) ibclaw.in SC,
+wherein the Hon'ble Supreme Court held that the law is well settled
+that the Adjudicating Authority has ample power to remit the
+Resolution Plan for reconsideration by the CoC when there is a
+violation of Section 30(2) of the IB Code, 2016.”
+20.
+When we look into observation of Adjudicating Authority in
+paragraph 15, it is clear that Adjudicating Authority has relied on its earlier
+order dated 08.04.2024 passed in IA No.461(AHM)/2022, where RP has
+been directed to appear before the GIDC. Due to the above reason, the
+Adjudicating Authority has remitted the Resolution Plan back to the CoC
+for reconsideration. Learned Counsel for the Financial Creditor is correct
+in its submission that Adjudicating Authority has not returned any finding
+that Resolution Plan submitted by SRA was not in compliance of sub-
+section (2) of Section 30. No such shortcomings in the Resolution Plan has
+been pointed out, due to which the Resolution Plan suffers from any
+infirmity as required by Section 30, sub-section (2). The law is well settled,
+the Adjudicating Authority in paragraph-17 has already noticed the
+judgment of the Hon’ble Supreme Court K. Sashidhar vs. Indian
+Overseas Bank and Ors., where it was observed that Adjudicating
+Authority has ample power to remit the Resolution Plan for reconsideration
+by the CoC when there is violation of Section 30, sub-section (2) of the IBC.
+There can be no quarrel to the above proposition that Resolution Plan can
+be sent back for reconsideration of the CoC, if there is violation of Section
+
+[PAGE 19]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+19
+
+30, sub-section (2). Any violation of Section 30, sub-section (2) gives ample
+jurisdiction to NCLT to interfere with the decision of CoC approving the
+Resolution Plan or remit the Plan for making it compliant with Section 30,
+sub-section (2). But in the present case, there is no finding by the
+Adjudicating Authority with regard to non-complaint of Resolution Plan as
+per Section 30, sub-section (2). Without recording a finding of non-
+compliant of Section 30, sub-section (2), the Resolution Plan could not have
+been returned back to the CoC for reconsideration. Hence, we are of the
+view that order passed by Adjudicating Authority on 08.04.2024 in IA 159
+of 2020 is also influenced by its earlier order passed by the Adjudicating
+Authority on 08.04.2024 in IA No.461 of 2022. We have already taken the
+view that order passed by Adjudicating Authority in IA No.461(AHM)/2022
+is unsustainable. We, thus, are of the view that order passed by NCLT in
+IA No. 159/NCLT/AHM/2020 is also unsustainable.
+21.
+In result, both the Appeal(s) are allowed in following manner:
+(1)
+Company Appeal (AT) (Ins.) No.1103 of 2024 is allowed.
+• Order dated 08.04.2024 in IA No.461(AHM)2022 is modified
+by allowing IA No.461(AHM)2022 and quashing the
+termination order issued by GIDC as well as Show Cause
+Notice dated 07.04.2022.
+(2)
+Company Appeal (AT) (Ins.) No.1084 of 2024 is allowed.
+• Order dated 08.04.2024 passed by the Adjudicating
+Authority in IA No.159/NCLT/AHM/2020 is set-aside.
+
+[PAGE 20]
+Company Appeal (AT) (Ins.) Nos.1103 & 1084 of 2024
+20
+
+• IA
+No.159/NCLT/AHM/2020
+is
+revived
+before
+the
+Adjudicating
+Authority
+for
+fresh
+consideration
+in
+accordance with law. The application being pending for
+more than four years, the Adjudicating Authority shall
+endeavour
+to
+dispose
+of
+the
+application
+–
+IA
+No.159/NCLT/AHM/2020 at an early date.
+
+Pending IAs, if any, are also disposed of. Parties shall bear their own
+costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+NEW DELHI
+21st March, 2025
+
+Ashwani

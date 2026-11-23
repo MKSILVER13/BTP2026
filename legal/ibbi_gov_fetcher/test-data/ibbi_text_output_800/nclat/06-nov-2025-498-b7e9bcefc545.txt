@@ -1,0 +1,1167 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+(Arising against the Impugned order dated 03.07.2024 passed by the Learned
+Adjudicating Authority, Chandigarh Bench, in Company Petition (IB)
+No.180/CHD/PB/2022).
+IN THE MATTER OF:
+Kewal Krishan Sharma,
+Suspended Director of M/s Majestic Hotels
+Limited
+
+....Appellant
+1. Navneet Gupta,
+Resolution Professional of M/s Majestic
+Hotels Limited
+
+2. U.V. Asset Reconstruction Company Ltd.,
+through its Authorized Officer / Assistant
+Legal Manager
+
+.....Respondents
+
+Present:
+
+For Appellant: Mr. Gaurav Mitra, Mr. Aalok Jagga, Mr. Nipun Gautam,
+APS Madaan, Mr. Sahil Lohan and Lavanya Pathak,
+Advocates.
+For Respondents:
+Mr. Krishnendu Datta, Sr. Advocate with Mr. Dhruv
+Dewan, Ms. Sanjukta Roy and Ms. Alina Merin Mathew,
+Advocates for R-2.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+J U D G M E N T
+(6th November, 2025)
+
+INDEVAR PANDEY, MEMBER (T)
+
+The present appeal has arisen from the impugned order dated
+03.07.2024 passed by the National Company Law Tribunal, Chandigarh
+Bench
+(Adjudicating
+Authority),
+in
+Company
+Petition
+(IB)
+No.180/CHD/PB/2022. The Adjudicating Authority admitted the petition
+filed by U.V. Asset Reconstruction Company Limited/ Financial Creditor (FC)
+under Section 7 of the Insolvency and Bankruptcy Code, 2016, (hereinafter
+referred to as ‘Code’) and initiated Corporate Insolvency Resolution Process
+(CIRP) against the Majestic Hotels Limited (Corporate Debtor) and appointed
+Mr. Navneet Gupta, as Interim Resolution Professional, who is Respondent
+No. 1 here.
+2.
+Mr. Kewal Krishan Sharma, the Suspended Director of M/s Majestic
+Hotels Limited, and the Appellant here, has preferred this appeal challenging
+the said order primarily on the grounds, that there was no subsisting financial
+default; that the alleged default fell within the protection period of Section 10A
+of the Code introduced during the COVID-19 pandemic; and that the
+Adjudicating Authority failed to appreciate the continuous payments;
+restructuring arrangements; and contractual cure period agreed between the
+parties prior to the initiation of proceedings.
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+Facts of the Case
+3.
+The brief facts of the case are as given below:
+(i) The Corporate Debtor, M/s Majestic Hotels Limited, which is engaged in
+the hospitality business, had over the years availed multiple term loans
+from financial institutions for the purpose of constructing and running
+its hotel “Majestic Park Plaza” at Ludhiana. The first such facility was
+availed on 06.11.1991, when the Corporate Debtor entered into a loan
+agreement with Tourism Finance Corporation of India (TFCI) for Rs. 370
+lakhs and with Industrial Finance Corporation of India (IFCI) for Rs. 300
+lakhs to finance the hotel project.
+(ii) Subsequently, on 20.08.1993, the Corporate Debtor obtained additional
+loans under a second agreement, Rs. 50 lakhs from TFCI and Rs. 45
+lakhs from IFCI. Thereafter, under a third agreement dated 13.05.1994,
+the Debtor availed Rs. 150 lakhs each from TFCI and IFCI, and under a
+fourth agreement dated 26.08.1996, a further Rs. 320 lakhs each was
+borrowed from the said institutions to meet expansion and
+modernization costs.
+(iii) Over time, the Corporate Debtor experienced financial strain and
+defaults in repayment. Consequently, IFCI classified the loan account as
+Non-Performing Asset (NPA) on 30.06.2012, followed by TFCI on
+30.09.2012. IFCI issued a notice under Section 13(2) of the SARFAESI
+Act, 2002 on 17.08.2012, demanding recovery of Rs. 105,64,84,435/-,
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+which was later followed by a possession notice under Section 13(4) on
+02.11.2012.
+(iv) Around the same period, Punjab National Bank (PNB), which had also
+extended financial assistance to the Corporate Debtor, challenged the
+actions of IFCI and TFCI before the DRT by filing S.A. No. 363 of 2014;
+it also issued a Section 13(2) notice dated 05.06.2014 for Rs.
+3,91,48,110/-.
+(v) On 30.08.2016, IFCI initiated recovery proceedings against the CD by
+filing O.A. No. 3267 of 2016 for Rs. 230.34 crores. This was followed by
+TFCI filing O.A. No. 715 of 2017 claiming Rs. 242.17 crores before the
+Debt Recovery Tribunal, Delhi.
+(vi) Thereafter, on 12.12.2017, U.V. Asset Reconstruction Company Limited
+(UVARC), Respondent No. 2 herein, entered into two separate
+assignment deeds through which, it acquired the loans and underlying
+securities of both IFCI and TFCI. The purchase consideration paid by
+UVARC was Rs. 10.23 crores for TFCI’s loan and Rs. 6.01 crores for
+IFCI’s loan. It thus became the assignee and new financial creditor of
+the Corporate Debtor.
+(vii) Following the assignment, on 14.12.2017, the Corporate Debtor
+submitted a settlement offer to UVARC proposing to settle the entire
+outstanding dues for Rs. 19,09,37,500/-. This offer was accepted, and
+a sanction letter dated 27.12.2017 was issued by UVARC approving a
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+settlement-cum-restructuring plan, along with the sanction of a fresh
+Working Capital Term Loan (WCTL) of Rs. 4.75 crores to assist the
+revival of the hotel operations.
+(viii) The sanction terms provided that the settlement amount of Rs. 16.25
+crores and an interest-free additional amount of Rs. 2.84 crores would
+be repaid in 54 monthly instalments, commencing from 31.01.2019,
+with an express provision of a 45-day cure period from the due date,
+before any event of default could be declared. The arrangement was duly
+formalized through a Memorandum dated 29.12.2017, setting forth all
+terms of repayment and continuation of facilities.
+(ix) In pursuance of this restructuring, a loan agreement dated 15.01.2018
+for the WCTL of Rs. 4.75 crores was executed, followed by a second
+sanction letter dated 06.08.2018 granting an additional WCTL of Rs. 4
+crores, and a third sanction letter dated 09.12.2019 sanctioning Rs.
+3.50 crores, executed through a corresponding loan agreement dated
+12.12.2019. These were extended to support operational liquidity of the
+Corporate Debtor.
+(x) A consent decree dated 26.10.2018 was passed by the DRT, Delhi, in
+O.A. No. 715 of 2017 (TFCI v. Majestic Hotels Ltd.), recording the above
+settlement and validating the terms, mutually agreed between UVARC
+and the Corporate Debtor.
+(xi) As per the admitted records of the lender, the disbursal of loan tranches
+occurred in the following manner: Rs. 1 crore on 16.12.2019, Rs. 40
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+lakhs on 26.12.2019, Rs. 60 lakhs on 27.12.2019, Rs. 80 lakhs on
+31.12.2019, and Rs. 70 lakhs on 19.03.2020, which reflected the
+continued confidence of the lender in the running arrangement even
+after the alleged default month.
+(xii) The Corporate Debtor failed to pay Rs. 95,91,034/- (comprising Rs.
+63,39,021/- towards principal and Rs. 32,52,013/- towards interest)
+due on 31.01.2020. According to the Corporate Debtor payments were
+made between 01.01.2020 and 09.04.2020 amounting to Rs.
+2,06,92,356/-, which, according to it, fully covered the January 2020
+dues within the contractual cure period of 45 days. However, there is no
+record of payments since then.
+(xiii) UVARC issued a letter dated 08.12.2020, unilaterally cancelling the
+settlement agreement and recalling the entire loan on the ground of
+continuous defaults since January 2020.
+(xiv) Thereafter, a fresh demand notice under Section 13(2) of the SARFAESI
+Act was issued on 11.06.2021 claiming Rs. 12,42,05,80,201/-, followed
+by a possession notice under Section 13(4) on 10.09.2021.
+(xv) On 24.03.2022, UVARC filed an application under Section 7 of the
+Insolvency and Bankruptcy Code, 2016, before the NCLT, Chandigarh,
+registered as CP (IB) No.180/CHD/PB/2022, seeking initiation of CIRP
+against the Corporate Debtor.
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+(xvi) The Corporate Debtor in its reply enclosed proof of payments made,
+financial data, and correspondence, asserting that no event of default
+had occurred prior to 25.03.2020, that the alleged delay was within the
+permissible cure period, and that any default thereafter was barred by
+the prohibitory shield of Section 10-A of the IBC.
+(xvii) The Adjudicating Authority, admitted the petition on 03.07.2024,
+holding that default existed from January 2020 and that the moratorium
+protection under Section 10-A did not apply, consequently directing
+commencement of CIRP against the Corporate Debtor.
+(xviii) Aggrieved by the order of Adjudicating Authority, Mr. Kewal Krishan
+Sharma, the Suspended Director of the Corporate Debtor has filed this
+appeal under Section 61(1) of the Insolvency and Bankruptcy Code,
+2016.
+Submissions of the Appellant
+4.
+Ld. Counsel for the Appellant submits that the loan initially assigned
+to the Financial Creditor (hereinafter “FC”) from Tourism Finance Corporation
+of India (TFCI) and IFCI was settled and restructured on 27.12.2017 for an
+aggregate sum of Rs.16.25 Crore, along with an additional loan of Rs.
+2,84,37,500. The Clause 1 of the repayment schedule provides for a “cure
+period.” Subsequently, three Working Capital Term Loans (WCTL) were
+sanctioned viz. WCTL-I on 15.01.2018 for Rs. 4.75 Crore, WCTL-II on
+06.08.2018 for Rs. 4 Crore, and WCTL-III on 09.12.2019 for Rs. 3.50 Crore.
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+All these loans were subject to uniform terms and conditions stipulated in the
+loan documentation.
+5.
+Ld. Counsel submitted that the Section 7 petition filed by the FC was
+not maintainable as it was barred under Section 10A of the Insolvency and
+Bankruptcy Code, 2016. As per the FC’s own record, the date of default was
+January 2020. The same date appears in the checklist annexed with the
+Section 7 application and in the impugned order, which record the default as
+January 2020 or 01.02.2020. The Hon’ble Supreme Court in ‘Ramesh Kymal
+v. Siemens Gamesa Renewable Power Pvt. Ltd., [(2021) AIR SC 833]’, has
+categorically held that the date of default mentioned in the petition alone
+determines the applicability of Section 10A. Hence, the petition was
+statutorily barred.
+6.
+Ld. Counsel submits that there was no default in January 2020. As per
+Part IV of the Company Petition, the FC claimed Rs. 95,91,034 as due for
+January 2020. However, payments made from 01.01.2020 to 09.04.2020
+clearly show that Rs. 32,58,711 was paid in January 2020 itself. Clause 1 of
+the loan agreement grants a 45-day cure period from the due date; thus, the
+January 2020 instalment, due on 01.02.2020, could have been cleared by
+16.03.2020. Between 01.02.2020 and 16.03.2020, the Appellant deposited
+Rs. 33,91,126 making cumulative payments of Rs. 66,49,837 between
+01.01.2020 and 16.03.2020, leaving a small balance of Rs. 29,41,197.
+7.
+Ld. Counsel submits that even this amount was not treated as a default
+by the FC, as on 19.03.2020, the FC disbursed the remaining sanctioned loan
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+of Rs.70 Lakh under WCTL-III. Under Clause 4 of the WCTL-I Agreement, such
+disbursement could not be made, if any event of default existed. On
+20.03.2020, the Appellant further repaid Rs. 84,52,381 which was more than
+the alleged outstanding, thus fully clearing the January dues with interest.
+8.
+It was submitted by Ld. Counsel that the NCLT’s observation that there
+was no clause preventing disbursement after a default is factually incorrect.
+Clause 10 of the WCTL-I Agreement expressly provides that upon default; a
+written notice must be issued declaring all dues payable. No such notice was
+issued. Clause 10(B) further states that on default, the lender may suspend
+disbursements, which again was not exercised. Therefore, it is evident that
+the FC never treated 16.03.2020 as an event of default.
+9.
+The Counsel places reliance on ‘Indiabulls Housing Finance Ltd. v.
+Revital Realty Pvt. Ltd., CA (AT)(Ins) No. 994 of 2022’, wherein it was held that
+the object of the Code is to ensure that corporate entities remain solvent and
+operational, rather than trigger insolvency at the first instance of default.
+10.
+The Counsel further submits that the FC neither filed a rejoinder nor
+produced any statement of account before the NCLT. The mere assertion that
+payments made by the Appellant did not cure the default is unsupported by
+any documentary evidence. The FC has failed to explain whether, after
+accounting for payments made between 01.01.2020 and 20.03.2020, any
+amount for January 2020 remained unpaid.
+11.
+Ld. Counsel submitted that even assuming, without admitting, that
+there were dues for February or March 2020, those instalments were covered
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+by the statutory protection under Section 10A of the IBC. The February 2020
+instalment, due on 29.02.2020, carried a 45-day cure period up to
+15.04.2020, which squarely falls within the 10A moratorium period notified
+due to the onset of COVID-19. Likewise, any instalment for March 2020 would
+also be within the prohibited period. Therefore, even on a hypothetical basis,
+such defaults could not give rise to a maintainable cause under Section 7.
+The FC, moreover, concealed material documents and failed to disclose the
+effect of the cure period, while filing the petition, rendering its initiation
+premature and contrary to Section 10A’s legislative intent.
+12.
+Ld. Counsel submits that the recall notice dated 08.12.2020 issued by
+the FC also refers to default “from January 2020 onwards.” Since the notice
+was issued within the Section 10A suspension period, it could not form the
+basis for initiating insolvency. Moreover, as shown earlier, there was no
+subsisting default in January 2020; hence, the very foundation of the recall
+notice is erroneous.
+13.
+Ld. Counsel further submitted that FC has heavily relied upon the
+Corporate Debtor’s balance sheet to allege an admission of default. The
+specific line relied upon states that “repayment of this loan is pending to the
+extent of Rs.1,10,60,451 since January 2020 due to COVID-19.” However, the
+subsequent line clarifies that the overdue amount pertains to the “last
+quarter,” i.e., the quarter commencing January 2020. Therefore, the amount
+represents the cumulative overdue for the quarter, not a specific default for
+January. Furthermore, according to the FC’s own statement, the monthly
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+instalment was Rs. 95 Lakh. Hence, an overdue of Rs. 1.10 Crore cannot
+represent a three-month default and clearly disproves the FC’s contention.
+The reliance placed by NCLT on this entry to infer an “admitted default” is
+therefore entirely misplaced.
+14.
+Ld. Counsel further submitted that the FC’s argument that it had
+discretion to appropriate the payments received in February and March 2020
+without applying them towards the January 2020 dues, is wholly
+unsustainable and directly contrary to Clause 4 of the sanction letter. Clause
+4 unequivocally provides that if payment is not made on the due date, a cure
+period of 45 days shall be available to the borrower to clear the dues, and all
+payments received during this period must be appropriated towards those
+dues. The clause operates as a mandatory contractual safeguard, not a
+discretionary indulgence. The FC’s unilateral appropriation of payments, in
+disregard of this binding provision, renders its claim of continuous default
+legally untenable. Accepting the FC’s stand would make Clause 4 otiose and
+contrary to the settled principle that contracts must be interpreted to give
+meaning to every clause.
+15.
+The Counsel submitted that the shareholders of the Corporate Debtor
+filed I.A. No. 52 of 2025 before the Adjudicating Authority, offering to pay the
+entire balance amount with interest in terms of the Settlement Letter dated
+27.12.2017 and the WCTL-I, II, and III agreements. The said application was
+disposed of on 28.03.2025 with liberty to apply under Section 12A of the Code.
+This demonstrates the bonafide intention of the Corporate Debtor to clear its
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+dues and maintain solvency, contrary to the FC’s attempt to push the
+company into insolvency proceedings without just cause.
+16.
+It is submitted by Ld. Counsel that the impugned order is erroneous
+both on facts and law. The NCLT wrongly held that the Corporate Debtor had
+confused the concept of “default” under Section 10A with an “event of default”
+under the loan documents. The definition of default under Section 3(12) of the
+IBC clearly refers to non-payment “when whole or any part becomes due,”
+which has to be ascertained from the loan agreement itself.
+17.
+He submitted that in Para 28, of the impugned order, the NCLT
+incorrectly recorded that the Corporate Debtor had admitted a default on
+16.03.2020, which was never the Appellant’s position. The Tribunal failed to
+appreciate that on 19.03.2020, the FC had disbursed Rs. 70 Lakh despite the
+alleged default, which conclusively disproves the existence of any event of
+default.
+18.
+Ld. Counsel stated that in Para 37, the NCLT erred in observing that
+even if additional time was granted to repay, the earlier default would not
+stand waived. The very purpose of the contractual “cure period” is to permit
+rectification of delay, not to permanently stigmatize it as a default.
+19.
+Finally, Ld. Counsel argued that the reliance placed on the balance
+sheet in Para 41 to infer admission of default is wholly misplaced and contrary
+to the actual entries explained above. The reasoning adopted by NCLT thus
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+stands vitiated for non-consideration of material facts and misinterpretation
+of contractual terms.
+20.
+The Appellant relies upon several decisions reinforcing the legal
+position that petitions based on defaults within the Section 10A period are
+not maintainable. The citations are given below:
+i.
+IDBI Bank Ltd. v. The Entertainment Enterprises Ltd., [CA (IB)(Ins) No.
+939 of 2023], where the default dated 05.03.2021 was held to be
+barred by Section 10A, rejecting the plea of continuous default.
+ii.
+JC Flowers Asset Reconstruction Pvt. Ltd. v. Leisure Ltd., [CA (IB)(Ins)
+No. 2103 of 2024], where this Tribunal reiterated that once the initial
+default date falls within the 10A period, the petition is barred,
+irrespective of continuation thereafter.
+iii.
+Carissa Investments LLC v. Indu Techzone Pvt. Ltd., [CA (IB)(CH)(Ins)
+No. 124 of 2022], wherein the NCLT order admitting a Section 7
+petition was set aside since the default date mentioned in the
+petition fell within the 10A period, relying upon Ramesh Kymal
+(supra).
+21.
+Ld. Counsel submitted that the reliance placed by the FC on ‘Pratik
+Jiyani v. Primal Capital, CA (AT)(Ins) No. 1198 of 2023’, is wholly misplaced.
+In Para 12 of that judgment, the dates of default were undisputed by the
+Corporate Debtor, whereas in the present case, the Appellant specifically
+disputes the alleged January 2020 default. Moreover, in Para 14 of that case,
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+there was admitted default for two consecutive months prior to the 10A
+period, unlike here. Further, the loan terms and conditions in Pratik Jiyani
+materially differed from the present WCTL agreements, rendering the
+precedent inapplicable to the present factual matrix.
+Submissions of Respondent No. 2
+22.
+The Ld. counsel for the Respondent No. 2/Financial Creditor
+respectfully submits at the outset that the foundation of default mentioned in
+the Section 7 Petition was the result of a complete reconciliation of accounts,
+after duly factoring in all payments received from the Corporate Debtor up to
+the date of filing of the petition. It is submitted that the Appellant’s attempt
+to suggest that payments made between 01.01.2020 and 09.04.2020 were not
+accounted for is misleading and factually incorrect. Even after taking into
+account all such payments, the January 2020 instalment remained partly
+unpaid, thereby constituting a valid and continuing default within the
+meaning of Section 3(12) of the Code.
+23.
+Ld. Counsel further submitted that the Corporate Debtor did not pay
+the entire instalment amount by 31.01.2020. The Adjudicating Authority, in
+para 20 of the Impugned Order, rightly concluded that default under Section
+3(12) of the Code arose on 01.02.2020. The said finding is based on admitted
+facts and requires no interference.
+24.
+The counsel stated that even the Appellant has admitted that the full
+amount of the January 2020 instalment was not paid by 16.03.2020, the
+expiry of the 45-day grace period stipulated in Clause 6 of the MoU. Hence,
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+an “event of default” occurred automatically upon such non-payment, as per
+the contractual terms agreed between the parties.
+25.
+He further submitted that Clause 6 of the MoU expressly provides that
+upon such an event of default, “the settlement shall come to an end and all
+the reliefs and concessions granted shall automatically lapse,” entitling
+UVARCL to recover the entire outstanding due as per the original financing
+documents and recovery proceedings before the DRT. The Adjudicating
+Authority, in para 30 of the Impugned Order, has rightly held that such event
+of default occurs automatically and does not require issuance of any separate
+notice by the creditor.
+26.
+The Ld. counsel further submitted that upon the Corporate Debtor’s
+failure to make payment by 16.03.2020, the entire outstanding amount of
+Rs. 565.61 crores, as acknowledged in the MoU and the dues under WCTL-I
+and WCTL-II became immediately due and payable. This result was also a
+necessary consequence of the DRT’s Order dated 26.10.2018, which similarly
+provided that any failure to adhere to settlement terms would revive the
+creditor’s right to recover the full original debt.
+27.
+Ld. Counsel categorically submitted that the Appellant has nowhere
+pleaded that the entire said amount was ever paid, before the filing of the
+Company Petition in March 2022. Consequently, the assertion that the
+default stood cured is factually unsustainable and contrary to record.
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+28.
+Ld. counsel argued that the submission of Appellant that alleged “extra”
+payments made on or after 20.03.2020 ought to have been appropriated
+towards the January 2020 shortfall is legally misconceived. In terms of
+Section 60 of the Indian Contract Act, 1872, where the debtor does not specify
+the appropriation, the creditor is entitled to appropriate such payments
+towards any outstanding debt in its discretion. By 20.03.2020, even
+subsequent instalments had become due; therefore, UVARCL was entitled to
+apply such payments as it deemed fit. The Adjudicating Authority in the
+Impugned Order has correctly upheld this principle.
+29.
+The counsel further submitted that the Corporate Debtor’s own
+financial statements fortify the Respondent’s case. In its audited balance
+sheets for FY 2019–20, 2020–21, 2021–22, and 2022–23, the Corporate
+Debtor has consistently admitted that repayment of the loan to UVARCL has
+been “pending since January 2020.” Such unambiguous admissions in
+successive years amount to acknowledgment of continuing default under
+Section 18 of the Limitation Act as well.
+30.
+It is submitted by Ld. Counsel that the Appellant’s attempt to misread
+the phrase “last quarter” in the FY 2019–20 balance sheet to mean that the
+dues were only for the quarter January–March 2020 is wholly erroneous. The
+same balance sheet itself records that the repayment obligation under the
+MoU was in 42 equal monthly instalments from January 2020 to June 2022.
+Therefore, the reference to “pending since January 2020” clearly indicates
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+that the very first instalment was not paid and not that the dues were
+quarterly.
+31.
+He further submitted that the entire argument regarding the alleged
+“cure” of the January 2020 default is misleading. The significance of the
+January 2020 date lies in, only determining the applicability of Section 10A
+of the Code. Once it is shown that the default occurred prior to 25.03.2020,
+Section 10A stands excluded. Thereafter, it was incumbent upon the
+Appellant to show that all instalments up to March 2022 were paid, which is
+admittedly not the case. The last payment was made on 09.04.2020, after
+which no further payments were ever made. Hence, the default clearly
+“continued to subsist,” as correctly recorded in the Section 7 Petition.
+32.
+The counsel further submitted that the argument regarding the
+disbursal of Rs. 70 Lakhs on 19.03.2020 under WCTL-III creating estoppel
+against UVARCL is devoid of merit. The said disbursal was made under an
+independent facility (WCTL-III) and not under the MoU. As the Adjudicating
+Authority has held in paras 57–58 of the Impugned Order, the mere fact that
+a separate tranche was disbursed subsequently, does not condone a prior
+default under the MoU.
+33.
+He further submitted that Clause 4.2 of WCTL-III clearly provides that
+the lender “may not,” in its sole discretion, disburse any further amount under
+the loan if an event of default has occurred. The use of permissive language
+such as “may not” and “sole discretion”, demonstrates that the clause is
+discretionary, not mandatory. Therefore, even if an event of default had
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+occurred, UVARCL had the contractual right to make further disbursements
+at its discretion. Such voluntary disbursement cannot amount to waiver or
+estoppel.
+34.
+Ld. Counsel submitted that the Appellant’s attempt to portray such
+disbursement as evidence of waiver is unjustified. The said payment of Rs. 70
+lakh was extended purely as a gesture of commercial goodwill during the onset
+of COVID-19, in order to assist the Corporate Debtor in sustaining operations.
+The same cannot, by any stretch of interpretation, amount to a condonation
+of default or a relinquishment of rights.
+35.
+He further submitted that the Appellant’s reliance on Clause 10(B)(4) of
+WCTL to allege that UVARCL ought to have set off the Rs. 70 lakh against
+outstanding dues is misconceived. The right of set-off belongs solely to the
+creditor and cannot be compelled by the debtor. Moreover, the concept of set-
+off cannot apply between an amount owed by the debtor and a fresh
+disbursement made by the creditor. The two transactions operate in different
+legal spheres.
+36.
+Ld. Counsel submitted that the Appellant’s argument that the loan was
+recalled only on 08.12.2020 and hence the date of default should be reckoned
+from the recall notice is legally untenable. This Hon’ble Tribunal, in ‘Pratik
+Jiyani v. Piramal Capital & Housing Finance Ltd. & Anr., Company Appeal (AT)
+(Insolvency) No. 1198 of 2023’, has categorically held that the date of default
+is to be determined from the relevant contractual agreements and not from
+the date of recall notice. The issuance of such notice is merely procedural and
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+cannot alter the date of default once the event has occurred in terms of the
+agreement.
+37.
+He further submitted that even the recall notice dated 08.12.2020 itself
+records that the Corporate Debtor had “defaulted in making the payments
+from January 2020 onwards,” and as of 30.11.2020, eleven monthly
+instalments aggregating Rs. 7,72,70,033/- (principal) and Rs. 3,00,72,808/-
+(interest), together with penal interest, were overdue. The Corporate Debtor
+never disputed or replied to this notice, and thus the contents thereof stand
+admitted.
+38.
+Ld. Counsel submitted that the Corporate Debtor made its last payment
+on 09.04.2020, after which not a single rupee was paid till the admission of
+the petition on 03.07.2025. This continuous non-payment for over two years
+is conclusive proof of sustained default and justifies the admission of the
+petition under Section 7 of the Code.
+39.
+Summing up his arguments Ld. Counsel submitted that the Appellant’s
+claim that the Corporate Debtor is a profitable and bona fide concern is
+completely unfounded. The Corporate Debtor’s history reveals persistent and
+chronic default. Its accounts were classified as Non-Performing Assets by its
+original lenders, TFCI and IFCI, as far back as 30.06.2012 and 30.09.2012
+respectively. The present proceedings thus arise not from any temporary
+hardship, but from a consistent pattern of non-payment spanning more than
+a decade. The Appellant’s attempt to disguise long-standing financial
+delinquency under technical pretexts must, therefore, be rejected in toto.
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+Analysis and findings
+40.
+We have carefully examined the submissions by both the parties, the
+contractual documents, and the record of proceedings before the Adjudicating
+Authority. The key question is whether the Section 7 petition was
+maintainable, in view of claim that the alleged default was shielded by Section
+10A.
+41.
+The Appellant, the suspended director of the Corporate Debtor M/s
+Majestic Hotels Limited, has primarily challenged the maintainability of the
+Section 7 petition on the ground that the alleged default falls within the period
+covered by the statutory bar under Section 10A of the Code. The Appellant
+has argued that as per the Financial Creditor’s own pleadings in Part IV of the
+application, the date of default was stated as “January 2020.” Relying upon
+Clause 6 of the Memorandum of Understanding (MoU) executed on
+29.12.2017 between the parties, it was submitted that a 45-day “cure period”
+was contractually available for making good any delayed instalment payment.
+42.
+It was contended that since the January 2020 instalment became due
+on 31.01.2020, the expiry of the cure period would fall after 45 days i.e. on
+16.03.2020. Consequently, any “event of default” could arise, only after that
+date, which lies within the period protected by Section 10A of the IBC which
+came into force from 25.03.2020. Hence, according to the Appellant, the very
+foundation of the Financial Creditor’s claim, that default occurred in January
+2020, is unsustainable, as by the terms of the contract itself, no default had
+occurred prior to 25.03.2020.
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+43.
+The Appellant further submitted that the NCLT failed to appreciate that
+by 20.03.2020, the Corporate Debtor had cleared the entire shortfall in the
+January 2020 instalment along with interest, thereby curing any delay. It was
+urged that the Financial Creditor’s subsequent conduct, namely, its own
+disbursement of Rs.70 lakh under the third Working Capital Term Loan
+(WCTL-III) on 19.03.2020, demonstrated that the lender did not treat the
+16.03.2020 date as an “event of default.” The Appellant relied on Clause 10 of
+the WCTL-I Loan Agreement, which provides that in case of any event of
+default, the lender is to issue written notice and suspend further
+disbursements. Since neither a notice was issued nor any disbursement was
+suspended, rather, an additional tranche was released, the Appellant argues
+that even by the lender’s own conduct, no default had been triggered.
+44.
+It was further contended that the NCLT erred in overlooking that the
+Financial Creditor had failed to produce certified statements of account as
+required under the Bankers Books Evidence Act, 1891. The petition was
+therefore incomplete and should have been rejected at the threshold. The
+Appellant also stressed that the Corporate Debtor was a solvent and revenue-
+generating five-star property, and that a minor delay of a few days could not
+justify dragging it into insolvency proceedings. Reliance was placed on
+‘Indiabulls Housing Finance Ltd. v. Revital Reality Pvt. Ltd., CA (AT)(Ins) No.
+994 of 2022’, wherein this Appellate Tribunal emphasized that the intent of
+the IBC is to keep viable entities solvent and not to admit CIRP petitions “on
+the drop of a hat.”
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+45.
+On the other hand, learned counsel for the Respondent (Financial
+Creditor – U.V. Asset Reconstruction Company Ltd.) argued that the plea of
+Section 10A is wholly misconceived. It was submitted that the default in the
+instant case occurred much before 25.03.2020, and that the Corporate Debtor
+had persistently failed to service the monthly instalment due in January 2020
+despite repeated indulgence.
+46.
+The Respondent emphasized that under the MoU dated 29.12.2017, the
+Corporate Debtor had agreed to repay the settled amount of Rs.16.25 crores
+in 42 monthly instalments. The January 2020 instalment of Rs.95,91,034
+became due by 31.01.2020. Admittedly, only Rs.32,52,013 was paid by that
+date, leaving a deficit of Rs.63,39,021. Even after the 45-day grace period
+under Clause 6 of the MoU, the Corporate Debtor failed to clear the shortfall
+by 16.03.2020. Hence, the default was complete and subsisting from
+01.02.2020 onwards, long before the commencement of the Section 10A
+moratorium period.
+47.
+The Respondent further submitted that once the Corporate Debtor
+failed to pay the full amount by the end of the cure period, an “event of default”
+automatically occurred under Clause 6 of the MoU as well as the DRT consent
+decree dated 26.10.2018. Both documents provided that upon default, the
+settlement would “automatically lapse” and the entire dues of approximately
+Rs.565.61 crores would become payable in full. Therefore, the contention that
+the Financial Creditor was required to issue any notice or show indulgence
+was contrary to the contractual and judicially sanctioned terms of settlement.
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+48.
+As regards the payment of Rs.70 lakh on 19.03.2020, the Respondent
+clarified that this disbursement was part of an earlier sanctioned facility
+under WCTL-III and did not amount to waiver or condonation of default. By
+that date, even the February 2020 instalment had fallen due, and the
+Respondent was legally entitled under Section 60 of the Indian Contract Act,
+1872 to appropriate any incoming payments or disbursements towards other
+heads of outstanding dues.
+49.
+The Respondent also highlighted that the Corporate Debtor’s own
+balance sheets for FY 2019-20, FY 2020-21, and FY 2021-22 record that
+“repayment of loan to UVARCL is pending since January 2020.” Such
+acknowledgments, made in audited financial statements, constitute valid
+admissions under Section 18 of the Limitation Act. Therefore, the plea that
+default stood cured or that no default occurred before March 2020 was not
+only contrary to record, but also contradicted by the Corporate Debtor’s own
+statements.
+50.
+The Respondent argued that under the settled law laid down by the
+Hon’ble Supreme Court in ‘Innoventive Industries Ltd. v. ICICI Bank, [(2018) 1
+SCC 407]’, and ‘E.S. Krishnamurthy v. Bharath Hi-Tech Builders Pvt. Ltd.,
+[(2022) 3 SCC 161]’, once the Adjudicating Authority is satisfied that a
+financial debt exists and default has occurred, it has no discretion but to
+admit the petition. The NCLT’s decision, therefore, was entirely justified and
+requires no interference.
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+51.
+Respondent argues that Section 10A of the Code, provides that “no
+application for initiation of corporate insolvency resolution process shall ever
+be filed for any default arising on or after 25 March 2020.” The legislative
+intent, as explained by the Hon’ble Supreme Court in ‘Ramesh Kymal v.
+Siemens Gamesa Renewable Power Pvt. Ltd., [(2021) 3 SCC 224]’, is to protect
+corporate debtors whose defaults arose on or after 25.03.2020, during the
+extraordinary disruption caused by the COVID-19 pandemic. However, the
+provision does not extend to defaults that had already occurred before that
+date.
+52.
+In the present case, the material facts are undisputed. The January
+2020 instalment of Rs. 95,91,034 became due on 31.01.2020, of which only
+Rs. 32,52,013 was paid. The remaining amount of Rs. 63,39,021 was not
+discharged within the 45-day cure period ending on 16.03.2020. Hence, by
+01.02.2020, there was a clear non-payment of a due amount. The contractual
+grace period did not postpone the “occurrence” of default, it merely gave the
+debtor additional time to rectify it before triggering the contractual
+consequences.
+53.
+The table of payments placed by the Appellant demonstrates that the
+January 2020 shortfall was never fully cleared within the stipulated period.
+Same has been reproduced below:
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+
+54.
+We have examined the MoU dated 29.12.2017, the DRT consent decree
+dated 26.10.2018, and the correspondence and payment records placed on
+record. The question that arises is whether certain payments made after
+16.03.2020, had the legal effect of curing or nullifying the “event of default”
+that had already occurred.
+55.
+We now examine the Clause 6 of the MoU dated 29.12.2017, which is
+extracted below:
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+“MEMORANDUM OF UNDERTAKING dated 29.12.2017
+CLAUSE 6
+In case any repayment- as mentioned above is not paid by
+MHL on the respective due date, a cure period of 45 days from
+the due date shall be provided to clear the due amount for
+which additional interest @ 2% per month be charged for the
+delayed period. In case, MHL still fails to repay the amount
+(inclusive of interest) within the cure period, then the same
+shall be considered as the event of default & the settlement
+shall come to an end and all the relief and concessions granted
+will automatically lapse and UVARCL will be entitled to
+recover the entire due amount as per the original financing
+documents / original application (recovery suit) filed before the
+DRT after adjusting the amount already received by UVARCL.”
+
+56.
+Clause 6 of the MoU clearly stipulates that in case the borrower fails to
+pay any instalment on the due date, and such failure continues for more than
+45 days, the event of default shall occur automatically. The clause further
+provides that upon such event, the entire compromise or settlement shall
+stand revoked, and the Financial Creditor shall be entitled to recover the total
+outstanding dues as per the decree, without any further notice.
+57.
+The language of the clause is unambiguous. It makes the “occurrence”
+of default automatic and self-executing upon non-payment within 45 days. It
+does not vest any discretion in the creditor to condone delay or extend time.
+Once the 45-day period expired on 16.03.2020 without full payment of Rs.
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+95,91,034/- (the January 2020 instalment), the event of default stood
+conclusively triggered. The MoU ceased to survive thereafter.
+58.
+The order of DRT in OA 715 of 2017 passed in IA No. 1602/2018, on
+26.10.2018 took on record the settlement between FC and CD vide the
+aforesaid MoU dated 29.12.2017 is extracted below:
+“IA No. 1602/2018
+7. This is a joint application filed on behalf of applicant as well
+as defendants for recording the terms of settlement in terms of the
+Sanction Letters dated 27.12.2017 and 6.8.2018; the Memorandum of
+Understanding (MoU) dated 29.12.2017 and the 'Working Capital Tern
+Loan Agreement (WCTL-) & H) dated 15.1.2018 & 8.8.2018 and pass
+consent / compromise decree thereby issuing Certificate of Recovery in
+favour of UVARCL and against al the defendants no. 1 to 8 jointly and
+/ or severally, pass order that Certificate of Recovery shall stand
+satisfied subject the compliance of terms & conditions, arrived at
+between the parties and further to pass order that in case the
+defendants
+fail
+to
+make
+repayment,
+as
+per
+their
+agreement the settlement shall come to an end and all the relief and
+concessions granted, will automatically lapse and UVARCL will be
+entitled to recover the entire amount as per the original financing
+documents / present OA filed before DRT after adjusting the amount
+already received by UVARCL”
+[Emphasis supplied]
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+59.
+The aforesaid order of DRT also makes it explicit that failure to make
+payment in accordance with the MoU dated 28.12.2017 would lead to
+automatic termination of settlement and all reliefs and concession granted as
+per the aforesaid MoU would automatically lapse and the UVARCL would be
+entitled to recover the amount as per the original decree of DRT.
+60.
+Therefore, even if the Corporate Debtor made certain payments after
+16.03.2020, those payments could not retrospectively revive an arrangement
+that had already stood terminated on 16.03.2020 as per Clause 6 of MoU and
+DRT order. A contract that has automatically lapsed, cannot be revived except
+by fresh consent of parties, and the subsequent orders of Tribunal, which is
+not the case here.
+61.
+The consequences of the default have also been mentioned in Clause
+10-B of Working Capital Term Loan Agreement- I dated 15.01.2018, which is
+extracted below:
+“10- B) Consequences of default:
+1) In the event of any default as above, the Lender shall have the
+right:-
+(a) to recover the entire dues of the Loan;
+(b) to suspend any withdrawal to be effected in the Loan
+Account,
+(c) take possession of the security so created whether by itself
+or through any of the Recovery Agents or Attorneys as may be
+appointed by the Lender;
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+(d) take any other action as it may deem fit for recovery of its
+dues and enforcement of the securities.
+*
+*
+*
+4) The Borrower shall pay any deficiency, forthwith to the Lender.
+Lender shall also be entitled to adjust and a right of set off on all
+monies belonging to the Borrower standing to his credit in any
+account whatsoever with the Lender, towards payment of such
+deficiency. Nothing contained in this clause shall oblige the Lender to
+sell, hire or deal with the properties and the Lender shall be entitled
+to proceed against the Borrower independent of such other security.
+The Borrower agrees to accept the Lender's accounts in respect of
+such sale, hire, dealing or otherwise as conclusive proof of the
+correctness of any sum claimed to be due from the Borrower. In case
+of any deficit, the deficit amount shall be recovered by the Lender
+from the Borrower.”
+
+62.
+Similar clauses have been provided in all three WCTL’s. This clause
+basically gives the lender unequivocal rights to enforce the recovery of entire
+dues, control of the loan account and enforcement of securities.
+63.
+Under Section 63 of the Indian Contract Act, waiver of contractual
+rights must be intentional, clear, and unequivocal. The mere act of accepting
+partial or delayed payments does not, by itself, amount to waiver of an
+accrued right to treat the contract as terminated. Similarly, revival of a lapsed
+contract requires fresh mutual consent. In this case, neither is pleaded nor
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+proved. The Financial Creditor’s acceptance of post-default payments, without
+prejudice to its rights, was in conformity with Section 60 of the Contract Act,
+which allows a creditor to appropriate such payments towards any
+outstanding dues. There is nothing on record to suggest that the Respondent
+ever represented that the MoU had been revived or that the default was
+condoned.
+64.
+This interpretation is supported by commercial logic as well. The MoU
+was a concessionary settlement arising out of an already adjudicated debt
+under a DRT decree. Such settlements are by nature conditional and time-
+bound. The lender’s willingness to accept a reduced sum in instalments is
+premised on strict adherence to timelines. The moment the borrower fails to
+honour those timelines, the entire arrangement collapses, and the creditor
+reverts to its original rights under the decree. This is precisely what occurred
+here.
+65.
+The Appellant’s argument that subsequent payments cured the default
+is inconsistent with both law and record. Under Section 3(12) of the IBC,
+"default” means non-payment of a debt when it has become due and payable.
+Once default has occurred, it cannot be retrospectively “cured”, unless the
+creditor expressly withdraws the claim or settles it before admission.
+Payments made after the date of default are relevant only for computation of
+outstanding amount, not for erasing the historical fact of default.
+66.
+The appellant has argued that the disbursement of Rs. 70 lakhs on
+19.03.2020 has to be treated as acknowledgment of regularity. In this regard,
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+he has invited out attention to the Clause 4.2 of the Working Capital Term
+Loan Agreement- III dated 12.12.2019. Same has been extracted below:
+“Working Capital Term Loan Agreement- III dated
+12.12.2019
+Clause 4.2 The Lender may not, having disbursed any
+amount, disburse any further amount under the Loan unless
+following conditions are complied with in the sole discretion
+of the Lender before such further disbursement(s):
+(i)
+No event of default shall have occurred;”
+
+67.
+We note that the language of the Clause 4.2 provides discretion to
+lenders with regard to further disbursement even after event of default. The
+use of the word ‘may’ clearly indicate such discretion. It is to be further noted
+that default is of the ‘Term Loan” facility under MoU, whereas the
+disbursement of Rs. 70 lakhs is under Working Capital Term Loan
+Agreement–III. The disbursement of Rs. 70 lakh on 19.03.2020 under WCTL-
+III does not negate or “cure” the default under the ‘Term Loan’ which is
+governed by MoU dated 29.12.2017. The release of a pre-sanctioned tranche
+cannot be interpreted as waiver of contractual rights, particularly when the
+MoU itself provides that upon default, all concessions lapse automatically. In
+commercial practice, lenders often honour disbursements already in pipeline
+without intending waiver. The Appellant’s theory of estoppel is therefore
+devoid of merit.
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+68.
+Even otherwise, the Corporate Debtor’s subsequent admission belies its
+contention. Its audited balance sheets for three consecutive years i.e. FYs
+2019-20, 2020-21, 2021-22 and 2022-23, expressly state that “repayment of
+loan to UVARCL is pending since January 2020.” This admission establishes
+that the default was continuous and never cured. The Appellant’s plea of
+“waiver by acceptance” is thus contrary to its own record. Relevant portions
+of the Auditor’s Comments on balance sheets for 2019-20 and 2022-23 have
+been extracted for illustration purposes:
+“Balance sheet of 2019-20
+“Textual Information (44)
+Nature of security
+DURING THE FINANCIAL YEAR 2017-18, THE COMPANY HAD
+AVAILED A TERM LOAN FROM M/S UV ASSET RECONSTRUCTIONS
+PVT LTD. AMOUNTING TO RS. 1625 LAKHS WHICH IS DEEMED AS
+ASSIGNED
+TERM
+LOAN
+@20%
+P.A
+INTEREST PAYABLE MONTHLY AND REPAYMENT OF PRINCIPLE
+AMOUNT
+IN
+42
+EQUAL
+MONTHLY
+INSTALLMENTS
+OF
+RS.3,869,048/- COMMENCING FROM JAN'2020 TO JUN'2022 AND
+ALSO PAYABLE RS. 284.37 LAKHS IN ADDITION TO INTEREST FREE
+AMOUNT BY 8 INSTALLMENT OF RS. 25 LAKH AND LAST FULL AND
+FINAL INSTALLMENT OF RS.8,437,500, COMMENCING FROM
+JUNE'2019 TO JUN'2022. ALL TERMS & CONDITIONS OF LOANS
+EXECUTED WITH IFCI & TFCI AS WELL AS THE SECURITIES,
+PERSONAL GUARANTIES, PLEDGE OF SHARES SHALL REMAIN THE
+SAME AND EVENTUALLY UVARCL HAS STEPPED INTO THE SHOES
+OF THE FINANCIAL INSTITUTIONS THAT IS IFCI & TFCI WHICH WAS
+TAKEN OVER BY IT DURING THE FINANCIAL YEAR 2017-18. DURING
+THE FY 2020-21, TOTAL SEVENTEEN. INSTALLMENTS OF WHICH
+FIFTEEN AMOUNTING TO RS. 3,869,048 AND TWO AMOUNTING TO
+
+[PAGE 33]
+-33-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+RS. 25 LAKHS EACH ARE DUE. THE REPAYMENT OF THIS LOAN IS
+PENDING TO THE EXTENT OF RS. 11060451/- SINCE JAN'2020 DUE
+TO IMPACT OF COVID-19 SPREAD IN THE WORLD SINCE DEC'2019.
+THE OVERDUE AMOUNT DUE TO NON-PAYMENT FOR THE LAST
+QUARTER IS RS. 11,060,451/-.”
+[Emphasis supplied]
+
+Balance sheet of 2022-23
+“Textual Information (34)
+Nature of security
+
+.........TERM LOAN FROM M/S UV ASSET RECONSTRUCTIONS VT
+LTD. AMOUNTING TO RS. 1625 LAKHS WHICH IS DEEMED AS
+ASSIGNED TERM LOAN @20% P.A. INTEREST PAYABLE MONTHLY
+AND REPAYMENT OF PRINCIPLE AMOUNT IN 42 EQUAL MONTHLY
+INSTALLMENTS OF RS.3,869,048/- COMMENCING FROM JAN 2020
+TO
+JUN
+2022
+AND
+ALSO
+PAYABLE
+RS.
+284.37 LAKHS IN ADDITION TO INTEREST FREE AMOUNT BY 8
+INSTALLMENT OF RS. 25 LAKH AND LAST FULL AND FINAL
+INSTALLMENT OF RS.8,437,500, COMMENCING FROM JUNE 2020
+TO JUN'2022. ALL TERMS & CONDITIONS OF LOANS EXECUTED
+WITH IFCI & TFCI AS WELL AS THE SECURITIES, PERSONAL
+GUARANTIES, PLEDGE OF SHARES SHALL REMAIN THE SAME AND
+EVENTUALLY UVARCL HAS STEPPED INTO THE SHOES OF THE
+FINANCIAL INSTITUTIONS THAT IS IFCI & TFCI WHICH WAS TAKEN
+OVER BY IT DURING THE FINANCIAL YEAR 2017-18. DURING THE
+FY 2020-21, TOTAL SEVENTEEN INSTALLMENTS OF WHICH
+FIFTEEN AMOUNTING TO RS. 3,869,048 AND TWO AMOUNTING TO
+RS. 25 LAKHS EACH ARE DUE. THE REPAYMENT.OF THIS LOAN IS
+PENDING TO THE EXTENT OF RS. 11060451/- SINCE JAN'2020 DUE
+TO IMPACT OF COVID-19 SPREAD IN THE WORLD SINCE DEC'2020.
+
+[PAGE 34]
+-34-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+THE OVERDUE AMOUNT DUE TO NON-PAYMENT FOR THE LAST
+QUARTER IS RS. 11,060,451/.....”
+[Emphasis supplied]
+
+69.
+Hence, both on facts and on settled principles of contract law, the
+default of January 2020 stood as a valid and of prior to Section 10A period,
+the default has been continuing since then as established by the notes of the
+auditors in the balance sheet of FY 2022-23. Non-payment within the cure
+period of 45 days, also made the MoU inoperative from 16.03.2020.
+70.
+The contention that the petition was incomplete for want of certified
+statements of account is equally untenable. While such certification is
+ordinarily desirable, the existence of financial debt and default can be
+established by other reliable evidence as well, including contractual
+documents, payment schedules, recovery decrees, and admissions by the
+debtor. The Adjudicating Authority was thus justified in relying upon the
+MoU, DRT order, and balance sheets, all of which independently proved the
+default.
+71.
+We now examine the judgments relied upon by the Appellant in the
+context of the present factual matrix of this case:
+i.
+Ramesh Kymal v. Siemens Gamesa Renewable Power Pvt. Ltd., [2021
+AIR SC 833]: In this case, the Hon’ble Supreme Court interpreted
+Section 10A of the IBC and clarified that the embargo under the
+provision extends only to defaults arising on or after 25 March 2020,
+
+[PAGE 35]
+-35-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+while defaults committed prior to that date remain actionable. The
+object of Section 10A, as observed by the Court, was to protect
+businesses affected by the COVID-19 pandemic, not to grant
+retrospective immunity to pre-existing defaults. In the present case,
+the default arose, when the January 2020 instalment remained unpaid
+on 31.01.2020 and continued beyond the 45-day cure period expiring
+on 16.03.2020. Thus, the event of default had already crystallised prior
+to the commencement of the Section 10A suspension period.
+Accordingly, the decision in Ramesh Kymal (supra) is clearly
+distinguishable and does not support the Appellant’s contention.
+ii.
+Indiabulls Housing Finance Ltd. v. Revital Reality Pvt. Ltd., [Company
+Appeal (AT) (Insolvency) No. 994 of 2022]: In this case, this Tribunal
+declined to admit a Section 7 application where the parties were
+engaged in bona fide settlement discussions and substantial amounts
+had already been repaid prior to admission. The decision was premised
+on the finding that insolvency proceedings should not be used
+oppressively when repayment was imminent under an existing
+settlement. In the present case, however, there was no continuing
+settlement at the time of filing the Section 7 petition. The MoU of 2017
+had already lapsed automatically upon default on 16.03.2020, and no
+further understanding or payment arrangement was entered into
+thereafter. The default was continuous and undisputed, and no bona
+fide settlement negotiations were pending. Hence, the principle laid
+
+[PAGE 36]
+-36-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+down in Indiabulls Housing Finance is inapplicable to the present
+factual matrix.
+iii.
+IDBI Bank Ltd. v. The Entertainment Enterprises Ltd., [Company Appeal
+(AT) (Insolvency) No. 939 of 2023]: In this case, this Tribunal held that
+the Adjudicating Authority must ensure that the date of default is
+clearly established and supported by documentary proof before
+admitting a petition. That decision was based on the absence of specific
+evidence of default and lack of clarity in computation of the claim. The
+present case stands on an entirely different footing, the Respondent
+produced the MoU dated 29.12.2017; the DRT consent decree of
+26.10.2018 based on the aforesaid MoU; detailed payment schedules;
+and the Corporate Debtor’s audited financial statements admitting
+default since January 2020. The existence of debt and default is
+therefore unambiguously proved on record. Accordingly, the ratio in
+IDBI Bank Ltd. is distinguishable and affords no relief to the Appellant.
+iv.
+JC Flowers Asset Reconstruction Pvt. Ltd. v. Leisure Ltd., [Company
+Appeal (AT) (Insolvency) No. 2103 of 2024]: The decision of this Tribunal
+in this case was based on the failure of the financial creditor to produce
+primary loan documentation and certified account statements, leading
+to the conclusion that default was unsubstantiated. The Tribunal
+observed that mere assertions, without documentary support cannot
+justify admission under Section 7. In the present case, however, the
+Respondent produced all essential documents, proving the financial
+relationship and the continuing default. The record before the
+
+[PAGE 37]
+-37-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+Adjudicating Authority was complete and comprehensive, leaving no
+factual ambiguity. Therefore, the ratio of JC Flowers does not apply to
+the present matter.
+v.
+Carissa Investments LLC v. Indu Techzone Pvt. Ltd., [Company Appeal
+(AT) (CH) (Insolvency) No. 124 of 2022]: In this case, the principal issue
+was whether certain convertible debentures constituted “financial
+debt” under Section 5(8) of the IBC. The Tribunal held that where the
+financial character of an instrument itself is in dispute, admission
+under Section 7 is impermissible. The character of debt is not a matter
+of dispute in the present matter. Accordingly, the decision in Carissa
+Investments LLC bears no relevance to the facts of this case.
+
+72.
+It is evident from records in this case, that (i) a financial debt exists, (ii)
+the corporate debtor has defaulted, and (iii) the application is complete. In
+such a case, the Adjudicating Authority has to admit the petition under
+Section 7. Hon’ble Supreme Court in Innoventive Industries Ltd. v. ICICI Bank,
+(2018) 1 SCC 407, and E.S. Krishnamurthy (supra), has consistently held that
+equitable considerations, including solvency or profitability of the corporate
+debtor, are irrelevant at the admission stage. The IBC is a process-driven
+statute that mandates admission upon establishment of default above the
+statutory threshold.
+
+[PAGE 38]
+-38-
+
+Company Appeal (AT) (Ins.) No. 1302 of 2024
+73.
+Based on the discussion in above paragraphs, we note the following:
+(i)
+The default of the Corporate Debtor occurred on 16.03.2020, which
+is prior to 25.03.2020, i.e., the date on which the operation of
+Section 10A came into effect. The petition under Section 7 is
+therefore, not barred by Section 10A.
+(ii)
+The Financial Creditor successfully demonstrated existence of a
+valid financial debt and a continuing default in repayment thereof.
+
+74.
+In view of the above findings, we do not find any infirmity in the
+impugned order. The appeal is dismissed. Pending IAs, if any, are closed. No
+order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

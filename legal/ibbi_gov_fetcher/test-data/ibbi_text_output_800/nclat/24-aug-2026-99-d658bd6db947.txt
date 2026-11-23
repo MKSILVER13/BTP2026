@@ -1,0 +1,851 @@
+[PAGE 1]
+1
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+CHENNAI BENCH
+24.08.2026
+Present: JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+JATINDRANATH SWAIN, MEMBER (TECHNICAL)
+
+Company Appeal (AT) (CH) (Ins) No.358/2022
+(IA Nos. 821, 818 & 1094/2022, 868 & 869/2023)
+
+In the matter of:
+Mr. Babu Manoharan Jaikumar Christhurajan
+No.34, Ranganathan Avenue,
+East Coast Road,
+Uthandi, Chennai - 600 119. ...Appellant
+
+Vs
+
+Mr. Umesh Garg, Liquidator of Jeppiaar Cements
+Pvt. Ltd.
+1413-16, 14th Floor, Devika Tower,
+Nehru Place,
+New Delhi – 110 019.
+
+...Respondent No. 1
+
+M/s. Jeppiaar Cements Private Limited
+Represented by the Liquidator Mr.Umesh Garg
+Old No. 11, New No. 19
+Venkatraman Street,
+Srinivasa Avenue, Bishop Garden Extension,
+R.A.Puram, Chennai – 600 028.
+...Respondent No. 2
+
+Indian Bank
+Represented by its Deputy General Manager,
+Thousand Lights Branch,
+Kannammai Building,
+No.611, Anna Salai,
+Chennai – 600 006. ...Respondent No. 3
+
+[PAGE 2]
+2
+
+(Arising out of Order dated 26.08.2022 passed by the Adjudicating
+Authority (National Company Law Tribunal, Special Bench – II,
+Chennai) in I.A.800/2022 in IBA/685/2019)
+Present :
+For Appellant : Mr T.K. Bhaskar, Advocate
+For Mr. Ravi Rajagopalan, Advocate
+
+For Respondents : Mr. Abhishek Anand, Mr. Karan Kohli &
+Ms. Aanya Gupta, Advocates for R1 & R2
+Mr. Jayesh B Dolia, Senior Advocate
+For Ms. N. Varsha, Advocate for R3
+
+JUDGMENT
+(Hybrid Mode)
+
+[Per: Justice N Seshasayee, Member (Judicial)]
+This appeal is preferred, challenging the order of the Adjudicating
+Authority dated 26.08.2022, passed in IA No. 800/2022 in
+CP(IB)/685/2019, by which the Adjudicating Authority has
+directed the liquidation of M/s. Jeppiaar Cements Ltd, the
+Corporate Debtor (CD).
+2. The background to this appeal is provided as below:
+a) On 27.06.2013, M/s. Jeppiaar Power Corporation Ltd.
+availed a term loan of ₹92.50 crores from M/s Indian Bank,
+the 3rd Respondent herein, for which the corporate debtor
+stood as a corporate guarantor. On 05.08.2016, the principal
+borrower availed another loan of ₹48.50 crores from Indian
+
+[PAGE 3]
+3
+
+Bank, and the corporate debtor (CD) offered a corporate
+guarantee for this loan as well.
+b) As the principal borrower defaulted on the loan repayment,
+Indian Bank filed application under Sec.7 of IBC against the
+corporate guarantor, the corporate debtor in this case, and
+this petition came to be allowed and the corporate guarantor
+was drawn into CIRP vide the Order of the Adjudicating
+Authority,
+dated
+10.10.2019.
+An
+Interim
+Resolution
+Professional (IRP) was appointed, who constituted the
+Committee of Creditors (CoC) comprising of two financial
+creditors, M/s. Indian Bank as the major financial creditor
+with 96.65 % voting share and M/s. HDFC Bank with
+remaining 3.35% voting share. On constitution of the CoC,
+it resolved to retain the IRP to act as the Resolution
+Professional (RP).
+c) In terms of Sec.12(1), the 180 days stipulated therein for the
+completion of the insolvency resolution process was to end
+on 07.04.2020, and the resolution professional had moved
+I.A.321 of 2020 for extending the CIRP period by 90 days.
+However, after 25.03.2020, the onset of Covid intervened to
+extend the resolution process period by another 737 days.
+On 18.04.2022, the resolution professional, as required by
+
+[PAGE 4]
+4
+
+the CoC in its 8th meeting, had moved I.A.656 of 2022 for
+exclusion of 737 days. This shifted the last day for concluding
+the insolvency resolution process to 14.04.2022. However,
+both I.A.321 of 2020 and I.A.656 of 2022 eventually came to
+be listed before the Adjudicating Authority only on
+15.07.2022.
+d) The 90 days extension as sought would extend the CIRP
+period till 13.07.2022. To this a further period of 60 days (as
+was made permissible under 2019 amendment to the Code),
+is added the CIRP period could be stretched for another 60
+days (in all 330 days from 16.08.2019) and accordingly it
+would conclude on 11.09.2022.
+e) However, before the arrival of any of these dates, on
+30.03.2022, M/s. Indian Bank had sanctioned a One-Time
+Settlement (OTS) to the directors of the principal borrower,
+and granted time till 30.06.2022 to repay the debt. The
+appellants herein could only make partial payment of ₹66.75
+crores, and the balance remained to be paid.
+f) Even as the appellant plus other personal guarantors of the
+corporate debtor were complying with the OTS obligations, on
+13.06.2022, the 11th meeting of the CoC was held wherein
+the liquidation of the corporate debtor came to be discussed
+
+[PAGE 5]
+5
+
+and few resolutions, including one for liquidation of the
+corporate debtor were put to vote. The voting lines were kept
+open from 16.06.2022 to 24.06.2022 and the closing date
+was extended couple of times and finally till 04.07.2022. But
+neither of the two CoC members voted in favour of
+liquidation.
+g) Given the facts which the resolution professional had faced,
+on 06.07.2022, he took out an application under Sec.60(5) of
+the Code seeking appropriate directions of the Adjudicating
+Authority for dealing with the situation and communicated
+the same to the CoC vide his e-mail dated 12.07.2022.
+However, two days later, on 14.07.2022, he e-mailed financial
+creditors again, and this e-mail is critical. In this e-mail, the
+resolution professional referred to the filing of the application
+under Sec.60(5), and informed the financial creditors that the
+“Registrar office has raised objection on the said application
+and asked me to file the application under proper section
+which is 33(1) in this case”. On the same day, Indian Bank,
+the majority voting shareholder in the CoC responded with
+its e-mail which reads: “Please proceed in accordance with the
+provisions of the IBC”. But two weeks later, on 28.07.2022,
+the same Indian Bank chose to extend the deadline to the
+
+[PAGE 6]
+6
+
+personal guarantors for complying with the OTS till
+30.09.2022. But by then, the resolution professional had
+filed I.A.800 of 2022 under Sec.33(1) of the Code for initiating
+liquidation proceedings. In his application, the resolution
+professional had fairly disclosed the OTS offered to the
+personal guarantors as well as the part payment of the
+amounts required to be paid in terms thereof. On 26.08.2026,
+the Adjudicating Authority allowed this application and
+ordered liquidation. The order directing liquidation of the
+corporate debtor is now under challenge by the suspended
+directors of the corporate debtor, the appellants herein.
+h) Now, after the passing of the order of liquidation, on
+15.09.2022, (four days after the expiry of 330 days period)
+Indian Bank, allowed the personal guarantors of the
+corporate debtor to fulfil their entire OTS commitment, and
+the bank acknowledged it when it issued the NOC.
+i) To complete the narration of facts, Indian Bank, perhaps
+finding itself in a spot of embarrassment, itself took out I.A.
+512 of 2023 under Sec.12A for withdrawal of the CIRP, for
+there was no resolution professional owing to the passing of
+the order of liquidation. As to be expected, this application
+was dismissed on 20.04.2023 in view of the same.
+
+[PAGE 7]
+7
+
+Arguments
+3. The Learned counsel for the appellant submitted that on
+13.06.2022, in the 11th meeting of the CoC, the resolution
+professional has moved a resolution for the liquidation of the
+corporate debtor, and kept the voting window open till
+04.07.2022. But, neither of the two members in the CoC opted
+to vote. In terms of Sec.33 (2) of the IBC, the resolution
+professional can move an application seeking an order for
+liquidation of the CD, only when the resolution for the same is
+voted by at least by 66% of votes of those who have formed the
+CoC. Very apparently it was not done. Not only have the
+directors of the principal borrower/ the personal guarantors
+paid M/s. Indian Bank its dues as per the OTS terms, but have
+also paid the other financial creditor, the HDFC bank, on
+22.06.2023. Indeed, the Indian Bank moved IA No. 512 of
+2023 under Sec.12A of the IBC, but that came to be dismissed
+vide order of the Adjudicating Authority dated 20.04.2023, in
+view of the order of liquidation passed in I.A No. 800 of 2022.
+The learned counsel submitted that in view of this settlement
+and given the fact that the order of liquidation was passed
+without notice to the CoC and in violation of Section 33(2) of
+
+[PAGE 8]
+8
+
+the IBC, the order passed in IA No. 800 of 2022 cannot be
+sustained.
+4. The learned counsel for Liquidator would submit that:
+a) IA No. 800 of 2022 was filed, not under Section 33 (2) of the
+IBC, but under Section 33 (1). After all, if statutory timeline
+as prescribed is not reached, then CIRP should necessarily
+end and the Adjudicating Authority is at liberty to decide on
+the liquidation of the CD.
+b) Apart from the two financial creditors, there are other
+operational creditors as well, and it is not known whether
+they had been settled. So far as dismissal of application
+under Section 12A is concerned, it is in order since it cannot
+be maintained once the Adjudicating Authority has decided
+to order liquidation of the CD.
+c) Turning to Indian Bank, the respondent no. 3, it supported
+the appellant but it must be taken note of, that it is its
+vacillation in taking a position in the 11th meeting of the CoC
+that has brought about the situation.
+5. In response, the learned counsel for the appellant would submit
+that, the timeline prescribed is only directory and not
+mandatory, and had the factum of OTS been brought to the
+
+[PAGE 9]
+9
+
+notice of the Adjudicating Authority, it might have weighed its
+decision after factoring in the OTS.
+Discussion & Decision
+6. If the facts are sequentialized chronologically, they strongly
+suggest that here has arisen a situation which neither side
+welcomes now, except perhaps the liquidator, but he is not a
+stakeholder but a mere statutory facilitator, who is, and who can
+be, concerned only with the legality of the issue involved. The
+action starts from 30.03.2022 and ends on 15.09.2022. Between
+these dates, Indian Bank had offered OTS, even as the CIRP
+timeline of 180 days was heading fast towards its expiry on
+14.04.2022. The bank has fixed the closure date for OTS
+compliance to 30.06.2022. And, an application earlier preferred
+by the resolution professional in I.A.321 of 2020 under Sec.12(3)
+for extension of time for concluding CIRP by another 90 days was
+also pending. In the meantime, the 11th CoC meeting had taken
+place, where the decision for passing a resolution for liquidation
+was put to vote, but neither of the two CoC members evinced any
+interest to vote for it. After all, the banks were realising their
+dues through OTS or otherwise. In these circumstances, the
+resolution
+professional
+had
+justly
+and
+perhaps
+most
+
+[PAGE 10]
+10
+
+appropriately intended to file only an application under the
+residuary provision in Sec.60(5) of the Code as could be gathered
+from his e-mail dated 12.07.2022 to the CoC, but he apparently
+was made to drop this idea owing to the alleged unsolicited
+advice or insistence of the Registry of the tribunal. He
+communicates this to the CoC vide his e-mail dated 14.07.2022,
+and strangely Indian Bank, which hardly a few days ago had
+opted not to vote for liquidation of the corporate debtor,
+instructed the resolution professional to act as per the IBC
+within a wink of the eye. The resolution professional acted and
+filed his application under Sec.33(1) of the Code, and invited the
+consequence which has now become the point of debate in this
+appeal. Very curiously, within about a week after the Indian
+Bank had instructed the resolution professional to act as per the
+IBC, it chose to extend the closure date for OTS compliance till
+30.09.2022, when it had all the opportunity to close it even on
+30.06.2022 in view of its instruction to the resolution
+professional to act as per the Code. And, despite the order of
+liquidation, the personal guarantors paid off the OTS amount,
+and were issued with a NOC by the bank.
+7. Now, where are the financial debts for discharging which, the
+corporate debtor should be now liquidated? And, with only the
+
+[PAGE 11]
+11
+
+operational debts remaining to be paid, have not the suspended
+directors created for themselves a greater opportunity to save the
+company that they have promoted from jaws of liquidation
+through Sec.12A route? If the facts, undisputed and
+indisputable, are analysed, they ideally set the circumstance
+where an application for the withdrawal of the CIRP could
+legitimately be made. However, a solitary move by the resolution
+professional in filing an application under Sec.33(1), which
+according to him was insisted by the Registry of the tribunal, has
+led to a situation which pose challenges on the reversibility of
+the order of liquidation for accommodating an application under
+Sec.12A, but who is to be blamed for it?
+a) Is it the Indian Bank? Its approach was unclear and it was
+most evidently caught in a plane of uncertainty. Or, is it
+plainly clueless without a strategy? It did not vote on
+liquidation, extended time for OTS compliance, and in the
+same breath advised the resolution professional to act by the
+Code, when it knows, or ought to know that the only option
+available was to apply for liquidation.
+b) Was the Registry of the tribunal to be blamed? According to
+the resolution professional it was, otherwise, how to
+
+[PAGE 12]
+12
+
+appreciate his e-mails dated 12.07.2022 and 14.07.2022? If
+this allegation is true, then it is very unfortunate that the
+Registries of judicial fora should display a tendency to behave
+as a super court to insist upon the litigants the nature of
+relief that they should seek. Any advocate with some degree
+of practice at the Bar would vouchsafe for this tendency. And
+this attitude, perhaps is seen reflected in the tribunal. In the
+context of civil suits, the role of the Registry of the Court is
+explained in Selvaraj Vs Koodankulam Nuclear Power
+Plant India Ltd1., and the Registry of the tribunals are
+encouraged to at least read it. The Registry should
+consciously stay away from those functions where only the
+tribunal has the exclusive jurisdiction to decide.
+c) Was the resolution professional to be blamed? He started
+most appropriately when he thought it fit to obtain
+appropriate instruction with an application under Sec.60(5),
+but shelved it because of what he claims to be based on the
+Registry’s advice. It is apparently an error in perception that
+Registry’s instruction on the relief to be sought or the nature
+of application to be filed is sacrosanct. To borrow the
+
+1 2021 SCC OnLine Mad 2514
+
+[PAGE 13]
+13
+
+metaphor of the pre-eminent Chagla J, a resolution
+professional is not required to trim his sails the way the
+Registry instructs. Where he is convinced on the right course
+action but finds resistance from the Registry, then he should
+require the Registry to place the matter before the tribunal.
+8. The point which we are required to resolve is about the
+reversibility of the order purported to have been passed under
+Sec.33(1) of the Code for accommodating the withdrawal of the
+CIRP under Sec.12A. In other words, can CIRP be revived once
+the insolvency resolution process has reached liquidation,
+merely because Sec.12A facility is not available in liquidation?
+Both sides made their submissions and placed reliance on
+predictable authorities2 to sustain their rival contentions, yet
+we are required to travel alone. Placing reliance on the ratio in
+Asha Chopra and others Vs M/s Hind Motors India limited
+[CA(AT) Ins.no.1425- 1428 of 2024] the learned counsel for the
+liquidator contended that the Code bars a reversal from
+
+2 Appellants authorities: Mehulkumar Arvindbhai Patel and Anr Vs. Vinod Tarachand Agarwal [CA(AT)INS No.
+1598 of 2023], Sunil Surendrakumar kakkad Vs. Sujyot Infrastructure Pvt Ltd and Another [ CA(AT)INS 1423 of
+2024], Ngaitlang Dhar Vs. Panna Pragati Infrastructure Pvt Ltd & Anr [ Civil Appeal No. 3665 & 3666 of 2020], C
+Sivasami Vs Ramasubramania Raja, Liquidator of Topknit processing Mills Pvt Ltd and Another [ CA (Ins) No. 246/
+2024], Kalisp Realty Pvt Ltd Vs.Frontline Printers Pvt Ltd & Anr. [ CA(AT)INS No. 308 of 2022], V Karthikeyan Vs.
+M S Viswanathan and others [ CA(AT)INS No. 245/ 2022]
+
+Liquidator’s authorities: Asha Chopra and others Vs. M/S.Hind Motors India limited [ CA(AT) Ins.no.1425- 1428
+of 2024], Kridhan Infrastructure P Ltd vs Venkatesan Sankaranarayan and another [ Civil Appeal NO.3299 of
+2020], Dinesh Gupta Vs. Vikram Bajaj [ Civil Appeal No. 2471 of 2021], Vallal RCK Vs. Siva Industries and Holdings
+Ltd & Others [ 2022 (9) SCC 803 ], V.S Varun Vs. South Indian Bank [ 2022 SCC Online NCLT 218]
+
+[PAGE 14]
+14
+
+liquidation to CIRP. If this proposition were to be accepted as
+a universal truth, then we will have a corporate debtor in this
+case with no financial debt to be discharged through the order
+of liquidation yet its suspended board faces an imminent
+possibility of losing an opportunity to run the corporate debtor
+that they had promoted as a going concern thorough Sec.12A3.
+It is indisputable that the Income tax Department has its claim
+which is in the nature of an operational debt and is yet to be
+settled, but that issue can be addressed only if the CoC is
+granted an opportunity to go through the process of Sec.12A.
+In this setting, will it be appropriate to use the IBC, which aims
+to bring in financial discipline in corporate governance and to
+protect a company as a going concern in the insolvency
+resolution process, to destroy a solvent company through
+liquidation to pay the operational creditor? A serious point to
+ponder.
+9. The issue, in our mind, can be approached in two ways, one
+based on what has been done, and the other what could have
+been done but omitted to be done.
+
+3 For a similar view see paragraph 10(b) of the judgement in Achal Kumar Jindal Vs Sanjay Kumar Bhuwalka
+[C.A.(AT) (Ins)2341 of 2024, dated 30.06.2026
+
+[PAGE 15]
+15
+
+10. On the first aspect, on what has been done, the issue is whether
+the impugned Order sustainable? We are not convinced that it
+is, and our reasons are:
+a) The Code has constituted the office of resolution professional,
+granted him the authority to act on the instructions of his
+own conscience but consistent with the instructions of the
+CoC or the directions of Adjudicating Authority and not the
+Registry of the tribunal. This is the basic premise.
+b) Going by the stated position of the resolution professional, he
+had acted as per the instructions of the Registry of the
+tribunal backed by the instruction of the Indian Bank, a
+member of the CoC, but outside the CoC, to move an
+application under Sec.33(1). While a resolution professional,
+based on his independent and objective judgement can move
+the Adjudicating Authority under Sec.33(1), the fact that he
+allowed himself to be influenced by what he claims as
+Registry’s advice or instructions, his decision can neither be
+stated to be independent nor objective.
+c) Lastly, even if he considered it fit to act by Registry’s advice,
+then inasmuch as it ceases to be his independent decision
+based on his objective assessment of the situation, then he
+
+[PAGE 16]
+16
+
+ought to have convened the meeting of the CoC to deliberate
+on it, and should not have engaged in a private consultation
+with a member of the CoC but outside the CoC. This plainly
+offends the statutory intent and design as has been
+structured by the legislature.
+Therefore, it is not about the authority of the Adjudicating
+Authority to order liquidation under Sec.33(1) that matters but
+the circumstances in which it was caused to be exercised which
+were oblivious to the Adjudicating Authority that has rendered
+it incompatible to legal sustainability of the impugned order. A
+resolution professional is central to the resolution process, but
+suddenly he appeared to have reacted in panic when he should
+have asserted his role and persisted with his move to approach
+the Adjudicating Authority for a general direction that he
+initially proposed to obtain. A good start ended abruptly
+inappropriately.
+11. Now to the second aspect – what could have been done, but
+omitted to be done: Given the fact that the appellant had been
+settling the dues to the banks behind and beyond the activities
+under the Code, does it not make it more probable that the CIRP
+might have ended under Sec.12A without any need for the
+
+[PAGE 17]
+17
+
+resolution professional to move for liquidation under Sec.33(1)?
+This may appear sensible, but still it could be possible only if the
+CIRP period was extended beyond 180 days (for which the
+resolution professional himself had taken out I.A.321 of 2020).
+However, at the first instance it could be extended only by 90
+days, and this period could stretch the CIRP period only up to
+13.07.2022. And, it is an admitted fact that even by this date the
+OTS terms were still not fully complied with. But there exists
+another 60 days which are implicitly made available under the
+second proviso to Sec.12(3) where the Code stipulates that the
+outer time limit for concluding the insolvency resolution process
+should not go beyond 330 days. Having indicated it, the Code
+also throws a statutory conundrum when it also stipulates vide
+the first proviso, that there can be only one application for the
+extension of time, which makes the total CIRP period extendable
+only up to 270 days. Has then the Code created an un-utilisable
+60 days on a combined reading of the first and the second
+provisos? There thus exists an apparent irreconcilability but it
+is not difficult to iron it out through an interpretative process by
+leaving the utilisability of this differential 60 days to the
+discretion of the Adjudicating Authority to be exercised under its
+inherent powers depending on the facts of a particular case
+
+[PAGE 18]
+18
+
+before it. Now, in the context of the present case, if the total
+period for the conclusion of the resolution process is taken as
+330 days, then the same ends only on 11.09.2022, it then
+becomes unavoidable to avert a question: would it not have been
+more reasonable for the resolution professional to have waited
+till after 11.09.2022 for invoking Sec.33(1), especially when he
+also knows that the OTS obligations are being complied with by
+the personal guarantors of the corporate debtor as has been
+recorded in the minutes of the 11th CoC meeting? Set in this
+plane, even if the impugned order is presumed to be legally
+sustainable, yet there is a larger question that disturbs our
+conscience: Is it fair to do what has been done under the
+circumstances? Whether fairness in working is anathema to the
+insolvency-jurisprudence as conceived and conceptualised by
+the Code? And, cannot the extension of time under Sec.12(3) be
+sought for invoking Sec.12A?
+12. To set the commencing point for discussion, let the basic
+precepts as evolved by the Supreme Court be re-stated:
+a) Liquidation is not a ready-reckoner remedy but is the option
+of the last resort4; It implies that liquidation under Chapter
+
+4 Swiss Ribbons Pvt., Ltd., & another Vs UOI and others [(2019) 4 SCC 17]
+
+[PAGE 19]
+19
+
+III of the Code can be ordered only after ascertaining that
+there is no possibility of a successful resolution process
+under Chapter II.
+b) While time is of essence for concluding the insolvency
+resolution process, it is only directory and not mandatory.
+c) there are only three known modes for resolving an insolvency
+resolution process5, (i) through the plan route under Sec.31;
+(ii) through the scheme route under Regulation 2B of the IBBI
+(Liquidation Process) Regulation (which is part of liquidation)
+and (iii) actual liquidation through the sale of the assets of
+the corporate debtor.
+13. Contextually, how to position Sec.12A, a provision that is
+grouped alongside Sec.31 in Chapter II of the Code? Will it be
+legislatively incompatible to read Sec.12A conjointly and
+purposively with Sec. 31 and Sec.33? In other words, does
+Sec.12A provides another option for insolvency resolution?
+Here we also sense that our consideration of these aspects
+necessarily opens up a need for an adjunct examination of the
+role of the resolution professional who is at the triggering end
+of the decision towards liquidation, especially when he is faced
+
+5 Arun Kumar Jagatramika Vs Jindal Steel and Power Ltd., & another [(2021)7 SCC 474]. Now in the 2026
+amendment,
+
+[PAGE 20]
+20
+
+with more options to choose from. The issues are layered, and
+it requires an understanding of the object of the Code and its
+scheme beyond what has already been told or is known, before
+deciding on the revivability of CIRP post the order of
+liquidation.
+14. We open with a preludial statement. No legislature has ever
+known to have made a statute for all conditions and
+circumstances, and the Code is no exception. Otherwise, how
+to explain the Code, launched a decade ago as a complete Code
+and a solution-provider for all issues associated with
+insolvency of corporate debtors, undergoing as many as seven
+amendments6 till date? Legislative engagements involving a
+strategy for dealing with insolvency of the corporate debtors
+are not its experimentation with lives of citizens, but are its
+purposeful engagement to evolve the law on corporate
+insolvency to negotiate the shortcomings highlighted by life’s
+experience. However, legislative responses invariably are slow
+as they are gauged and guarded, but life still has to be lived in
+this country. With its experiences varying, life spins
+unpredictable challenges which may not comfort legislature’s
+
+6 Two amendments each in 2018 and 2020, and one amendment in 2019, 2021 and 2026.
+
+[PAGE 21]
+21
+
+preference for certainty in working a statute or infuse it with
+the kind of predictability which the legislature may have
+believed that it has achieved through the legislation. It
+therefore, becomes the responsibility of the judiciary, (read it
+as including the tribunal), to bridge the time-lag between the
+remedial challenges it encounters and the legislative
+responses to the very challenges. When judiciary faces a
+current
+challenge
+to
+be
+addressed,
+it
+cannot
+plead
+helplessness to respond when a commonsensical and
+pragmatic solution is within its sight which the legislature may
+have overlooked. Relevance of any statute and its working
+within the Constitutional frame work is enabled chiefly by
+judicial responsiveness in creative interpretation – what
+Cardozo would term as ‘interstitial legislation’ in his
+immortalized work ‘Nature of Judicial Process’, in filling the
+gap which demands legislative attention till the legislature
+observes and responds. It is not always an act of legislating by
+the judiciary, but merely, what Lord Denning had termed as
+‘ironing the creases’, to make the working of the statute
+meaningful and sensible. It is hence, timeline prescribed for
+completing a CIRP is held to be directory if the solution is not
+at a distance. Another instance in the context is reverse
+
+[PAGE 22]
+22
+
+insolvency resolution process, a concept not within the
+conceptualisation of the Code, but has been observed,
+engineered and fashioned by the creative judicial mind in Flat
+Buyers Association Winter Hills Vs Umang Realtech Pvt.,
+Ltd.7, before it was partly incorporated in the Code in the 2026
+amendment.
+15. The votaries of strict adherence to rules may have to be
+informed that there exists a difference between reading the
+rules and handling the rule-book, and judiciary has rarely
+hesitated to go beyond the text of the rule if its application goes
+tangential to the object required to be achieved through the
+rule book and tend to lose pragmatism in exchange for
+absurdity. The Code is not designed in the mould of pure
+sciences that its working should match scientific precision. It
+should not be forgotten that insolvency is an aspect of life and
+that there is a life behind every insolvency – both of the
+creditors and the debtors. And both CIRP and liquidation aim
+only at generating cashflow out of the assets of the corporate
+debtors for the benefit of the body of its creditors belonging to
+
+7 2020 SCC Online NCLAT 1199 and it was approved by the Supreme Court in Narendra Singh Vs. M/S Umang
+Realtech Pvt. Ltd [Civil Appeal No.2942 of 2020] and was subsequently recognised in Anand Murti Vs Soni
+Infratech Pvt. Ltd., [(2023)3 SCC 743], Indiabulls Asset Reconstruction Comany Ltd., Vs Ram Kishore Arora
+[2023 SCC OnLine SC 612] Mansi brar Fernandes Vs Shubha Sharma [2025 SCC OnLine SC 1972].
+
+[PAGE 23]
+23
+
+different categories and classification. It must be realised that
+life is not lived and cannot be lived in a conveyer belt-mode,
+moving in one direction and that anything associated
+therewith should necessarily move the way a conveyer belt
+moves. The need is therefore, compelling on us to be conscious
+of the realities of life and the Constitutional values associated
+therewith. An ideal approach to any enactment that regulates
+and impacts human life is not to forget life, its kaleidoscopic
+uncertainties,
+and
+its
+quest
+for
+existence
+in
+trying
+circumstances, and the Constitutional sensitivity which
+epitomizes them.
+16. Having set the plane and outlined our approach to the issues,
+we now propose to address them. We begin with a reiterative
+understanding of the rudimentary aspects of insolvency
+resolution and its process. The Code neither defines
+insolvency nor an ‘insolvency resolution’ nor an ‘insolvency
+resolution process’. Therefore, these terms that reverberate
+while working the Code and echoes across the tribunals
+constituted thereunder needs to be understood. A corporate
+insolvency is a situation where the corporate debtor is unable
+to repay its debts due to the body of its creditors with its
+available cash flow, exposing the corporate assets to the peril
+
+[PAGE 24]
+24
+
+of being exposed to an involuntary sale, either as a going
+concern or auction-sale in liquidation for the repayment of the
+debts in a statutorily pre-defined order. As per the scheme of
+the Code, an insolvency situation sets in a creditor’s petition
+under Sec.7 or Sec.9 when the corporate debtor defaults in
+paying the debt due to a single creditor. This marks the onset
+of insolvency resolution process. However, a distinction may
+have to be made between insolvency resolution and the
+insolvency resolution process. An insolvency resolution may
+be termed as the endpoint of an insolvency situation when it
+actually comes to an end, whereas the resolution process is
+the manner or procedure for moving from the commencing
+point of insolvency-condition to its endpoint. The insolvency
+resolution - the endpoint of the resolution process, in terms of
+the statutory structure is achievable either through a
+successful approval of a resolution plan under Sec.31 or
+through liquidation. A resolution in that sense is finding a way
+out of an insolvency-condition. In a classical resolution
+process the object of a resolution process is to realise the
+maximum value for the asset of the corporate debtor either
+through the resolution-plan option under Sec.31 or the
+liquidation option under Sec.33, for payment to the creditors.
+
+[PAGE 25]
+25
+
+17. Moving further on the fundamental understanding, a default
+in paying the debt need not necessarily lead to an insolvency
+situation unless it is coupled with a trust deficit of a single
+creditor on the ability of the debtor to repay its debt, or where
+the debtor is not confident of repaying its debts with the assets
+it has. Now, turning to Sec.12A, it is a provision which enables
+withdrawal of a resolution process on settlement, where the
+suspended board or the promotors of the corporate debtor can
+require the creditors to withdraw the CIRP either through
+actual repayment of debts to the satisfaction of the creditors,
+or through the suspended board of the debtor re-building the
+lost confidence of the creditors on debtor’s ability to repay the
+debt. Either way, the settlement and withdrawal option under
+Sec.12A drops the curtains on the resolution process through
+the exit route, and brings an end to the insolvency-condition
+as much as Sec.31 or 33 routes.
+18. What is significant in the context is that Sec.12A route gives
+an opportunity to the suspended management of the corporate
+debtor to re-run the company they may have painstakingly
+promoted by avoiding the possibility of losing it through the
+plan route or in liquidation for paying off the creditors. To re-
+emphasis, the insolvency resolution process sets in when the
+
+[PAGE 26]
+26
+
+corporate debtor does not have the cashflow to repay the debts
+even if it is otherwise solvent in terms of its assets. The
+vagaries of business cycle or misfired commercial decisions
+may create a cash crunch even in the best-run companies. It
+is hence Sec.12A opportunity deserves to be appreciated as the
+legislative recognition of the uncertainties in the commercial
+world and as a legislative effort to balance the inbuilt
+presumption in the Code that a default in paying a solitary
+debt is necessarily due to financial mismanagement of the
+corporate debtor8.
+19. If the insolvency resolution process within the parameters of
+the Code can end an insolvency-condition, then inasmuch as
+Sec.12A also brings in the same consequence, will it not then
+be appropriate to term Sec.12A also as an aspect of insolvency
+resolution, and the mechanism prescribed therefor also as an
+insolvency resolution process? We find no reasons why it
+should not be considered to be so. Necessarily, the effect of
+Sec.12A and the impact it can make cannot be isolated from
+the operation of Sec.31 or its relevance for invoking Sec.33,
+but as integral to the understanding of the insolvency
+
+8 See the observations in Suyog Suryakant Talekar Vs Trivenimudrai Project Ltd., and another [C.A.(AT)(Ins)
+247 of 2026, dated 06.04.2026
+
+[PAGE 27]
+27
+
+resolution process. Beneath the superficiality of its isolated
+existence, Sec.12A reflects this underlying philosophy which
+subtly provides the requisite degree of stability to the
+insolvency resolution process between conflicting and
+competing interests. It may hide like the hidden side of the
+moon, yet it unquestionably exists. Unfortunately, the
+excessive spotlight on Sec.31 has blurred the functional utility
+of Sec.12A as a tool of insolvency resolution. When the exit
+route through Sec12A has the efficacy to conclude an
+insolvency condition, it will be uncharitable to underestimate
+this non-violent provision as a legislative charity when it ought
+to be respected as a statutory opportunity to resolve an
+insolvency-condition. It should not be forgotten that, besides
+the promotors of the corporate debtor, the operational
+creditors will have greater value for their debt under the
+withdrawal through settlement mechanism as envisaged in
+Sec.12A (not to be confused with the processual mechanism
+therefor) than they would have under Sec.31. Is not then
+Sec.12A fairer than Sec.31? In Arun Kumar Jagatramika
+case, the Hon’ble Supreme Court, however, did not have an
+occasion to consider this angle.
+
+[PAGE 28]
+28
+
+20. In the present case, the resolution professional appeared to
+have either given prominence to the rule, or perhaps had even
+messed up with his understanding of the rule and his own
+role, but the rule book carries a greater message: a successful
+insolvency resolution process, which to repeat for an
+emphasis, includes not only an approval of the Adjudicating
+Authority to a resolution plan but also helping the corporate
+debtor to exit from the process. This implies that it requires as
+much application of mind for seeking extension of time for
+completing the resolution process through the exit route under
+Sec.12A as it is through the plan route under Sec.31.
+21. Set in this backdrop, Sec.12(3), which provides for the
+extension of time for concluding the CIRP, needs to be
+understood not only in the context of concluding the CIRP
+through the plan route under Sec.31, but also through the exit
+route under Sec.12A when either of them is in sight.
+22. A resolution professional is an appointee under the Code and
+has been vested with the statutory responsibility to discharge,
+not only for the benefit of the creditors or the corporate debtor
+but for every the benefit of every stakeholder in the resolution
+process, and this will include the promotors, personal
+
+[PAGE 29]
+29
+
+guarantors of the corporate debtor, even though they have only
+a small window under Sec.12A. Set in the context of the facts
+of this case, the decision of the resolution professional not to
+seek extension of time till at least 11.09.2022 (with or without
+the advice of the Registry of the tribunal) suffers from
+subjectivity and arbitrariness but both readily offends our
+Constitutional ethos. As indicated earlier, it is imperative that
+every resolution professional shall take an objective view even
+in seeking extension of time by factoring in all the facts that
+provide the most probable indication for concluding a
+resolution process successfully – the plan route under Sec.31
+or the exit route under Sec.12A. If this duty is ignored it can
+taint his decision to invoke Sec.33(1) with arbitrariness. In the
+present case, the resolution professional had his opportunity
+to balance the situation before him but he obviously had
+spilled it.
+23. If a statute has to be worked, not just purposively but also
+sensibly, then it is not just sufficient to look to the legality of
+a decision made, but it is fair to make the said decision when
+there is also available a better option for a purposive and
+humane way of approaching the same issue. Otherwise, it
+may confer an undeserving premium to arbitrary decisions as
+
+[PAGE 30]
+30
+
+in the present case. The broad statement therefore be made:
+Where there are more options than one to end an insolvency
+condition of the corporate debtor, then fairness involved in
+choosing an option should be allowed to prevail. This would
+imply that the insolvency resolution process cannot enjoy
+greater prominence than the end result it aims to achieve.
+24. To sum up, rules are important, but adhering to the rule-book,
+in respect for its spirit and objectives with a sense of fairness
+is a better choice, which no adjudicatory fora governed by our
+Constitution and guided by its values can afford to ignore.
+Necessarily, we have to step in, and the Order of the
+Adjudicating Authority dated 26.08.2022 ordering liquidation
+must necessarily give way. After all no judicial fora cannot
+plead helplessness to deal with situations merely because the
+situation is out of the ordinary. Now, turning to the ratio in
+Asha Chopra and others Vs. M/S.Hind Motors India
+limited [CA(AT) Ins.no.1425- 1428 of 2024] on which the
+liquidator placed considerable reliance, it is distinguishable on
+facts. That was a case where reversal to the liquidation
+process was sought after the corporate debtor was well into
+the third year of liquidation, whereas in the present case
+repayment based on OTS was parallelly happening. A
+
+[PAGE 31]
+31
+
+judgement, after all, is a precedent only for what it decides and
+not a formula for universal application.
+25. In conclusion, from whichever angle the order of the
+Adjudicatory Authority directing the liquidation of the
+corporate debtor requires to be set aside. We, therefore, allow
+this appeal, set aside the Order of the Adjudicating Authority
+dated 26.08.2022, in I.A.800/2022 in IBA/685/2019, restore
+CIRP and require the resolution professional to explore
+Sec.12A route. All pending interlocutory applications would
+stand closed. No costs.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Jatindranath Swain]
+Member (Technical)
+
+VG/MS/AK

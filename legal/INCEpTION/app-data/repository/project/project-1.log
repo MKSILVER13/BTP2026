@@ -1,0 +1,215 @@
+2026-08-27 13:17:50 INFO [admin] ProjectServiceImpl - Created project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] ProjectServiceImpl - Granted permission [CURATOR] for user admin on project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] ProjectServiceImpl - Granted permission [MANAGER] for user admin on project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] ProjectServiceImpl - Granted permission [ANNOTATOR] for user admin on project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] AnnotationSchemaServiceImpl - Created layer [de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token](1) in project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] AnnotationSchemaServiceImpl - Created tagset [Sentence labels](1) in project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] AnnotationSchemaServiceImpl - Created 3 tags and updated 0 tags in tagset [Sentence labels](1) in project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] AnnotationSchemaServiceImpl - Created layer [custom.SentenceLabel](2) in project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] AnnotationSchemaServiceImpl - Created feature [label](1) in project [admin - New project](1)
+2026-08-27 13:17:50 INFO [admin] ReindexTask - Re-indexing project [admin - New project](1). This may take a while...
+2026-08-27 13:17:52 INFO [admin] ReindexTask - Re-indexing project [admin - New project](1) complete!
+2026-08-27 13:18:46 INFO [admin] VisualPdfReader - Scanning [file:/export/repository/project/1/document/1/source/]
+2026-08-27 13:18:46 INFO [admin] VisualPdfReader - Found [1] resources to be read
+2026-08-27 13:18:46 INFO [admin] VisualPdfReader - 0 of 1: file:/export/repository/project/1/document/1/source/03-aug-2026-4-3ac8271a06dc.pdf
+2026-08-27 13:18:47 INFO [admin] DocumentServiceImpl - Removed source document [03-aug-2026-4-3ac8271a06dc.pdf](1) from project [admin - New project](1)
+2026-08-27 13:19:02 INFO [admin] VisualPdfReader - Scanning [file:/export/repository/project/1/document/2/source/]
+2026-08-27 13:19:03 INFO [admin] VisualPdfReader - Found [1] resources to be read
+2026-08-27 13:19:03 INFO [admin] VisualPdfReader - 0 of 1: file:/export/repository/project/1/document/2/source/03-aug-2026-4-3ac8271a06dc.pdf
+2026-08-27 13:19:03 INFO [admin] DocumentServiceImpl - Removed source document [03-aug-2026-4-3ac8271a06dc.pdf](2) from project [admin - New project](1)
+2026-08-27 13:19:23 INFO [admin] VisualPdfReader - Scanning [file:/export/repository/project/1/document/3/source/]
+2026-08-27 13:19:23 INFO [admin] VisualPdfReader - Found [1] resources to be read
+2026-08-27 13:19:23 INFO [admin] VisualPdfReader - 0 of 1: file:/export/repository/project/1/document/3/source/04-aug-2026-3-f60a7f60925f.pdf
+2026-08-27 13:19:24 INFO [admin] DocumentImportExportServiceImpl - Imported CAS with [380] tokens and [28] sentences from file [/export/repository/project/1/document/3/source/04-aug-2026-3-f60a7f60925f.pdf] (size: 245434 bytes)
+2026-08-27 13:19:24 INFO [admin] DocumentServiceImpl - Imported source document [04-aug-2026-3-f60a7f60925f.pdf](3) to project [admin - New project](1)
+2026-08-27 13:19:43 INFO [admin] AnnotationSchemaServiceImpl - Created tagset [Span labels](2) in project [admin - New project](1)
+2026-08-27 13:19:43 INFO [admin] AnnotationSchemaServiceImpl - Created layer [custom.Span](3) in project [admin - New project](1)
+2026-08-27 13:19:43 INFO [admin] AnnotationSchemaServiceImpl - Created feature [label](2) in project [admin - New project](1)
+2026-08-27 13:19:43 INFO [admin] ReindexTask - Re-indexing project [admin - New project](1). This may take a while...
+2026-08-27 13:19:43 INFO [admin] ReindexTask - Re-indexing project [admin - New project](1) complete!
+2026-08-27 13:20:12 INFO [admin] AnnotationSchemaServiceImpl - Created tagset [Coreference mentions](3) in project [admin - New project](1)
+2026-08-27 13:20:12 INFO [admin] AnnotationSchemaServiceImpl - Created 1 tags and updated 0 tags in tagset [Coreference mentions](3) in project [admin - New project](1)
+2026-08-27 13:20:12 INFO [admin] AnnotationSchemaServiceImpl - Created tagset [Coreference relations](4) in project [admin - New project](1)
+2026-08-27 13:20:12 INFO [admin] AnnotationSchemaServiceImpl - Created 1 tags and updated 0 tags in tagset [Coreference relations](4) in project [admin - New project](1)
+2026-08-27 13:20:12 INFO [admin] AnnotationSchemaServiceImpl - Created layer [de.tudarmstadt.ukp.dkpro.core.api.coref.type.Coreference](4) in project [admin - New project](1)
+2026-08-27 13:20:12 INFO [admin] AnnotationSchemaServiceImpl - Created feature [referenceType](3) in project [admin - New project](1)
+2026-08-27 13:20:12 INFO [admin] AnnotationSchemaServiceImpl - Created feature [referenceRelation](4) in project [admin - New project](1)
+2026-08-27 13:20:12 INFO [admin] ReindexTask - Re-indexing project [admin - New project](1). This may take a while...
+2026-08-27 13:20:12 INFO [admin] ReindexTask - Re-indexing project [admin - New project](1) complete!
+2026-08-27 13:21:25 INFO [admin] DocumentServiceImpl - Created annotation document [admin@04-aug-2026-3-f60a7f60925f.pdf](1) in project [admin - New project](1)
+2026-08-27 13:22:04 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1)
+2026-08-27 13:22:04 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [DocumentOpenedEvent]
+2026-08-27 13:22:04 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-08-27 13:22:06 INFO [admin] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [0] (min. 2), test set size [0] (min. 2) of total [0] (min. 4)
+2026-08-27 13:22:06 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-08-27 13:22:06 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-08-27 13:22:06 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-08-27 13:22:20 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-08-27 13:22:40 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-08-27 13:22:47 ERROR [admin] TrainingTask - [28][admin][Sentence label recommender]: Training failed
+de.tudarmstadt.ukp.inception.recommendation.api.recommender.RecommendationException: Exception during training the OpenNLP Document Categorizer model
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:318)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:129)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.trainRecommender(TrainingTask.java:218)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.executeTraining(TrainingTask.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.execute(TrainingTask.java:87)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.runSync(Task.java:231)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.run(Task.java:211)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: opennlp.tools.util.InsufficientTrainingDataException: Insufficient training data to create model.
+	at opennlp.tools.ml.model.AbstractDataIndexer.sortAndMerge(AbstractDataIndexer.java:174)
+	at opennlp.tools.ml.model.TwoPassDataIndexer.index(TwoPassDataIndexer.java:110)
+	at opennlp.tools.ml.AbstractEventTrainer.getDataIndexer(AbstractEventTrainer.java:65)
+	at opennlp.tools.ml.AbstractEventTrainer.train(AbstractEventTrainer.java:89)
+	at opennlp.tools.doccat.DocumentCategorizerME.train(DocumentCategorizerME.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:315)
+	... 9 more
+2026-08-27 13:22:47 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-08-27 13:23:30 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-08-27 13:23:30 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-08-27 13:23:31 INFO [admin] OpenNlpDoccatRecommender - Evaluating on 4 items (training set size 2, test set size 2)
+2026-08-27 13:23:31 ERROR [admin] SelectionTask - [admin][Sentence label recommender]: Evaluation failed
+de.tudarmstadt.ukp.inception.recommendation.api.recommender.RecommendationException: Exception during training the OpenNLP Document Categorizer model
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:318)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.evaluate(OpenNlpDoccatRecommender.java:257)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.SelectionTask.evaluate(SelectionTask.java:309)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.SelectionTask.execute(SelectionTask.java:160)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.runSync(Task.java:231)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.run(Task.java:211)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: opennlp.tools.util.InsufficientTrainingDataException: Insufficient training data to create model.
+	at opennlp.tools.ml.model.AbstractDataIndexer.sortAndMerge(AbstractDataIndexer.java:174)
+	at opennlp.tools.ml.model.TwoPassDataIndexer.index(TwoPassDataIndexer.java:110)
+	at opennlp.tools.ml.AbstractEventTrainer.getDataIndexer(AbstractEventTrainer.java:65)
+	at opennlp.tools.ml.AbstractEventTrainer.train(AbstractEventTrainer.java:89)
+	at opennlp.tools.doccat.DocumentCategorizerME.train(DocumentCategorizerME.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:315)
+	... 8 more
+2026-08-27 13:23:31 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-08-27 13:23:34 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-08-27 13:23:34 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-08-27 13:23:35 INFO [admin] OpenNlpDoccatRecommender - Evaluating on 5 items (training set size 3, test set size 2)
+2026-08-27 13:23:35 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-08-27 13:23:35 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-08-27 13:23:48 ERROR [admin] TrainingTask - [46][admin][Sentence label recommender]: Training failed
+de.tudarmstadt.ukp.inception.recommendation.api.recommender.RecommendationException: Exception during training the OpenNLP Document Categorizer model
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:318)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:129)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.trainRecommender(TrainingTask.java:218)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.executeTraining(TrainingTask.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.execute(TrainingTask.java:87)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.runSync(Task.java:231)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.run(Task.java:211)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: opennlp.tools.util.InsufficientTrainingDataException: Insufficient training data to create model.
+	at opennlp.tools.ml.model.AbstractDataIndexer.sortAndMerge(AbstractDataIndexer.java:174)
+	at opennlp.tools.ml.model.TwoPassDataIndexer.index(TwoPassDataIndexer.java:110)
+	at opennlp.tools.ml.AbstractEventTrainer.getDataIndexer(AbstractEventTrainer.java:65)
+	at opennlp.tools.ml.AbstractEventTrainer.train(AbstractEventTrainer.java:89)
+	at opennlp.tools.doccat.DocumentCategorizerME.train(DocumentCategorizerME.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:315)
+	... 9 more
+2026-08-27 13:23:50 ERROR [admin] TrainingTask - [49][admin][Sentence label recommender]: Training failed
+de.tudarmstadt.ukp.inception.recommendation.api.recommender.RecommendationException: Exception during training the OpenNLP Document Categorizer model
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:318)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:129)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.trainRecommender(TrainingTask.java:218)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.executeTraining(TrainingTask.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.execute(TrainingTask.java:87)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.runSync(Task.java:231)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.run(Task.java:211)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: opennlp.tools.util.InsufficientTrainingDataException: Insufficient training data to create model.
+	at opennlp.tools.ml.model.AbstractDataIndexer.sortAndMerge(AbstractDataIndexer.java:174)
+	at opennlp.tools.ml.model.TwoPassDataIndexer.index(TwoPassDataIndexer.java:110)
+	at opennlp.tools.ml.AbstractEventTrainer.getDataIndexer(AbstractEventTrainer.java:65)
+	at opennlp.tools.ml.AbstractEventTrainer.train(AbstractEventTrainer.java:89)
+	at opennlp.tools.doccat.DocumentCategorizerME.train(DocumentCategorizerME.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:315)
+	... 9 more
+2026-08-27 13:23:52 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-08-27 13:23:52 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-08-27 13:23:52 INFO [admin] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [1] (min. 2), test set size [1] (min. 2) of total [2] (min. 4)
+2026-08-27 13:23:52 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-08-27 13:23:52 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-08-27 13:23:52 ERROR [admin] TrainingTask - [53][admin][Sentence label recommender]: Training failed
+de.tudarmstadt.ukp.inception.recommendation.api.recommender.RecommendationException: Exception during training the OpenNLP Document Categorizer model
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:318)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:129)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.trainRecommender(TrainingTask.java:218)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.executeTraining(TrainingTask.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.execute(TrainingTask.java:87)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.runSync(Task.java:231)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.run(Task.java:211)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: opennlp.tools.util.InsufficientTrainingDataException: Insufficient training data to create model.
+	at opennlp.tools.ml.model.AbstractDataIndexer.sortAndMerge(AbstractDataIndexer.java:174)
+	at opennlp.tools.ml.model.TwoPassDataIndexer.index(TwoPassDataIndexer.java:110)
+	at opennlp.tools.ml.AbstractEventTrainer.getDataIndexer(AbstractEventTrainer.java:65)
+	at opennlp.tools.ml.AbstractEventTrainer.train(AbstractEventTrainer.java:89)
+	at opennlp.tools.doccat.DocumentCategorizerME.train(DocumentCategorizerME.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:315)
+	... 9 more
+2026-08-27 13:23:54 ERROR [admin] TrainingTask - [56][admin][Sentence label recommender]: Training failed
+de.tudarmstadt.ukp.inception.recommendation.api.recommender.RecommendationException: Exception during training the OpenNLP Document Categorizer model
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:318)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:129)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.trainRecommender(TrainingTask.java:218)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.executeTraining(TrainingTask.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.tasks.TrainingTask.execute(TrainingTask.java:87)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.runSync(Task.java:231)
+	at de.tudarmstadt.ukp.inception.scheduling.Task.run(Task.java:211)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Caused by: opennlp.tools.util.InsufficientTrainingDataException: Insufficient training data to create model.
+	at opennlp.tools.ml.model.AbstractDataIndexer.sortAndMerge(AbstractDataIndexer.java:174)
+	at opennlp.tools.ml.model.TwoPassDataIndexer.index(TwoPassDataIndexer.java:110)
+	at opennlp.tools.ml.AbstractEventTrainer.getDataIndexer(AbstractEventTrainer.java:65)
+	at opennlp.tools.ml.AbstractEventTrainer.train(AbstractEventTrainer.java:89)
+	at opennlp.tools.doccat.DocumentCategorizerME.train(DocumentCategorizerME.java:150)
+	at de.tudarmstadt.ukp.inception.recommendation.imls.opennlp.doccat.OpenNlpDoccatRecommender.train(OpenNlpDoccatRecommender.java:315)
+	... 9 more
+2026-08-27 13:24:01 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-08-27 13:24:01 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-08-27 13:24:01 INFO [admin] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [1] (min. 2), test set size [0] (min. 2) of total [1] (min. 4)
+2026-08-27 13:24:01 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-08-27 13:24:01 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-09-08 11:36:02 INFO [admin] AnnotationSchemaServiceImpl - Upgraded CAS of user [admin] for document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1)
+2026-09-08 11:36:03 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [DocumentOpenedEvent]
+2026-09-08 11:36:03 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-09-08 11:36:05 INFO [admin] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [1] (min. 2), test set size [0] (min. 2) of total [1] (min. 4)
+2026-09-08 11:36:05 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-09-08 11:36:05 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-09-08 11:36:05 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:31 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:38 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:42 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:48 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:36:53 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-09-08 11:36:53 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-09-08 11:36:53 INFO [admin] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [0] (min. 2), test set size [0] (min. 2) of total [0] (min. 4)
+2026-09-08 11:36:53 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-09-08 11:36:53 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-09-08 11:36:53 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:37:01 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:37:07 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:52:01 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:52:04 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender
+2026-09-08 11:52:15 INFO [admin] AnnotationSchemaServiceImpl - Created tag [text](6) in tagset [Span labels](2) in project [admin - New project](1)
+2026-09-08 11:52:15 INFO [admin] SelectionTask - [admin]: Starting selection triggered by [Committed dirty CAS at end of request]
+2026-09-08 11:52:15 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Evaluating...
+2026-09-08 11:52:16 INFO [admin] OpenNlpDoccatRecommender - Not enough evaluation data: training set size [0] (min. 2), test set size [0] (min. 2) of total [0] (min. 4)
+2026-09-08 11:52:16 INFO [admin] SelectionTask - [admin][Sentence label recommender]: Activated (0.0 >= threshold 0.0)
+2026-09-08 11:52:16 INFO [admin] SelectionTask - [admin]: Evaluation complete
+2026-09-08 11:52:16 INFO [admin] PredictionTask - No context available for recommender [Sentence label recommender](1) for user [admin] on document [04-aug-2026-3-f60a7f60925f.pdf](3) in project [admin - New project](1) - skipping recommender

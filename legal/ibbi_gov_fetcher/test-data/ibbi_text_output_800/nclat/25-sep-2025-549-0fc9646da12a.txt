@@ -1,0 +1,1087 @@
+[PAGE 1]
+Company Appeal (AT) (Ins.) No.69 of 2024
+1
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No.69 of 2024
+(Arising out of Order dated 02.01.2024 passed by the Adjudicating Authority
+(National Company Law Tribunal), Mumbai Bench-I in I.A. 1943 of 2020 in
+C.P.(IB) No.3025/MB/2019)
+IN THE MATTER OF:
+Industrial and Commercial Bank of China Limited
+...Appellant
+
+Versus
+Anish Niranjan Nanavaty & Ors.
+...Respondents
+
+Present:
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Adv. With Ms. Jinal Shah,
+Ms. Palak Nenwani, Mr. Rohit Chopra, Advocates
+For Respondents
+: Mr. Krishnendu Datta, Sr. Adv. With Ms.
+Anannya Ghosh, Ms. Mrinalini Mishra, Advocates
+
+J U D G M E N T
+ASHOK BHUSHAN, J.
+
+This Appeal has been filed challenging the order dated 02.01.2024
+passed by National Company Law Tribunal, Mumbai Bench-I allowing IA
+No.1943 of 2020 filed by Resolution Professional (“RP”) – Anish Niranjan
+Nanavaty (Respondent No.1 herein), directing the Appellant to lift/
+release/ remove the lien marked on the Fixed Deposit (“FD”) on amount of
+Rs.27.60 crores, which was opened by the CD with the Appellant Bank.
+2.
+Brief facts of the case necessary to be noticed for deciding the
+Appeal are:
+(i)
+The Corporate Debtor (“CD”) – Reliance Communication
+Infrastructure Limited opened an FDR in the Appellant Bank
+on 27.03.2017. On the same date a letter dated 27.03.2017
+
+[PAGE 2]
+Company Appeal (AT) (Ins.) No.69 of 2024
+2
+was written to the Bank by Reliance Communication
+Infrastructure Limited asking the Bank to mark a lien against
+the FD, which may be due from us to you, whether singly or
+jointly with another or others in connection with credit facility
+provided to them by the Bank.
+(ii)
+The Corporate Insolvency Resolution Process (“CIRP”) against
+the CD commenced on 25.09.2019 on an application under
+Section 7 of the Insolvency and Bankruptcy Code, 2016
+(hereinafter referred to as the “IBC”) filed by the State Bank of
+India (“SBI”).
+(iii)
+The Interim Resolution Professional (“IRP”) vide letter dated
+03.10.2019 informed the Appellant that CD is undergoing a
+CIRP and Bank need not debit, freeze, block, transfer or
+appropriate any funds from the accounts of the CD. The IRP
+wrote an email dated 10.07.2020 to the Appellant that CD -
+Reliance Communication Infrastructure Limited had not
+obtained any credit facilities from the Appellant, hence, the
+amount lying in the FD be released within five days. On
+30.08.2020, the RP requested to release the funds lying in the
+FD.
+(iv)
+A letter dated 07.08.2020 was sent by the Appellant refusing
+to release the funds on the ground that Appellant had
+extended certain foreign currency facilities to Reliance
+Infrastructure Limited (“RITL”). The Appellant informed that
+
+[PAGE 3]
+Company Appeal (AT) (Ins.) No.69 of 2024
+3
+it is exercising its lien on the FD for credit facilities extended
+to RITL. After that there had been certain correspondence
+between the RP and the Bank.
+(v)
+The RP filed an IA No.1943 of 2020 before the Adjudicating
+Authority seeking a direction to the Bank to lift/ release the
+fund along with interest in the account of SBI belonging to
+the CD. The Appellant filed the reply to the said IA.
+(vi)
+After hearing both the parties, the Adjudicating Authority vide
+order dated 02.01.2024 allowed the application and directed
+the Appellant to release the lien marked on the FD of the CD
+and release the fund along with interest. Aggrieved by the
+said order, this Appeal has been filed.
+3.
+We have heard Shri Abhijeet Sinha, learned Senior Counsel
+appearing for the Appellant and Shri Krishnendu Datta, learned Senior
+Counsel appearing for Respondent/ RP.
+4.
+Learned Senior Counsel for the Appellant in support of the Appeal
+submits that lien letter of the CD dated 27.03.2017 was to secure
+obligations of its related parties towards the Appellant. Learned Counsel
+for the Appellant has referred to paragraph-1 and various clauses of the
+letter dated 27.03.2017 to support his submission. It is submitted that
+the lien letter was given not only to the specific advance made to the CD,
+but also any other money due from the CD, whether singly or jointly with
+another or others in connection with credit facilities provided by the
+Bank. It is submitted that NCLT by the impugned order has ignored the
+
+[PAGE 4]
+Company Appeal (AT) (Ins.) No.69 of 2024
+4
+commercial purpose and the intent of the lien letter, which was to allow
+financial institutions to manage risk across group companies. The
+security created pursuant to lien letter, continues to secure the debt owed
+by RITL. Learned Counsel for the Appellant relying on Section 171 of the
+Indian Contract Act, 1872 submits that Bank has statutory right to hold a
+lien. Section 171 empowers Bankers to have a general lien of any balance
+due, whether owed directly or indirectly. He further submits that right of
+the secured creditor will not be extinguished under the CIRP. The
+secured creditor can enforce security outside CIRP. It is not compulsory
+that a claim should be filed in the CIRP. In the present case, the
+Appellant did not file any claim in the CIRP of the CD. The Appellant was
+not required to file any claim in the CIRP of the CD, since it held a valid
+lien of the CD. The nature of the security is relevant and nomenclature of
+security is irrelevant. The lien letter being a security provided by the CD
+on behalf of its related parties also extends to the default of RITL and
+R.Com., which companies were also admitted in the CIRP during the
+same period. It is submitted that the Adjudicating Authority exceeded its
+jurisdiction to enter into lien letter, which was not subject matter of
+dispute. Learned Counsel for the Appellant in support of his submission
+relied on various judgments of Hon’ble Supreme Court, this Tribunal and
+different High Courts, which we shall refer to while considering the
+submissions in detail.
+5.
+Shri Krishnendu Datta, learned Senior Counsel appearing for
+Respondent No.1 refuting the submissions of the Appellant submits that
+
+[PAGE 5]
+Company Appeal (AT) (Ins.) No.69 of 2024
+5
+the letter dated 27.03.2017 does not entitle the Bank to retain FDR for
+dues of third party, i.e., other Reliance Group entities. It is submitted
+that RP is duty bound under Section 18 to take control and custody of
+any asset over which the CD has ownership rights. The FDR was
+supposed to be retained under lien to secure credit facilities availed by the
+CD only and admittedly no credit facilities were ever disbursed to the CD
+by the Appellant. Hence, the FDR could not have been retained by the
+Appellant. The RP proceeded to take charge of the assets of the CD
+including the FDR and sent various letters seeking release, which was
+denied by the Appellant. The lien letter dated 27.03.2017 does not make
+any reference to the credit facilities by other Reliance entities. If the
+intent was to include credit facilities pertaining to other Reliance entities,
+the lien letter would have expressly indicated so. The sole signatory of
+lien letter is the CD. Neither any other Reliance entity is marked, nor any
+other Reliance facility have been referred to in the letter. Thus, the lien
+letter cannot be interpreted to extend it to facilities provided by the
+Appellant to other Group Companies of the CD. The CD and other
+Reliance entities are separate legal entities and lien marked by one entity
+cannot automatically apply in connection with liabilities of other Group
+Companies, unless the contract expressly provides. Section 171 of the
+Contract Act allows Banks to exercise general lien towards general
+balance of account for any sum due to them, hence, general lien can be
+exercised in respect of an amount outstanding from the CD and not from
+other Group Companies. Section 171 allows lien to be exercised only over
+
+[PAGE 6]
+Company Appeal (AT) (Ins.) No.69 of 2024
+6
+the goods or property of a customer who owes a debt or is liable to pay.
+The said general lien cannot be extended to secure debts owed to
+creditors by third parties or for any liabilities unrelated to the particular
+customer account. Claim of general lien under Section 171 in no manner
+supports the claim of the Bank. Reliance placed by the Appellant on
+different judgments of the High Courts are all distinguishable and do not
+support the submissions of the Appellant. It is submitted that the
+Appellant has filed its claim in the CIRP – RITL and R.Com, where no
+reliance was placed on lien letter. The CIRP of the CD has already
+culminated into approval of Resolution Plan by order dated 19.12.2023.
+In terms of the Resolution Plan, the funds lying in the FDR are required to
+be utilized for payment to the assenting Financial Creditors, including the
+Appellant. The Resolution Plan was also assented by the Appellant. The
+Plan approval order has not been challenged by the Appellant, which
+deals with the treatment of the FDR. The Resolution Plan is clearly
+binding on the Appellant also. The resolution process of RITL has also
+culminated into approval of the Resolution Plan. The Appellant could not
+enforce any security interest by virtue of moratorium under Section 14.
+The Appellant has not filed any claim in the CIRP of the CD and NCLT has
+jurisdiction to adjudicate the issue. The FD was the asset of the CD,
+which was required to be taken control under Section 17(1)(d) and the
+Financial Institutions including the Appellant were required to act on the
+instructions of the IRP, whereas instructions given by IRP was
+disregarded by the Appellant, violating Section 17(1)(d) of the IBC.
+
+[PAGE 7]
+Company Appeal (AT) (Ins.) No.69 of 2024
+7
+6.
+We have considered the submissions of learned Counsel for the
+parties and have perused the records.
+7.
+From the materials on record and the submission made by the
+parties, following are the undisputed facts and events in the present case:
+(i)
+FD of Rs.27.60 crores was opened by the CD Reliance
+Communication Infrastructure Limited on 27.03.2017 with
+the Appellant.
+(ii)
+A letter dated 27.03.2017 was written by the CD Reliance
+Communication Infrastructure Limited to the Appellant for
+making a lien on FDR.
+(iii)
+The Appellant did not extend any facility to the CD, nor any
+amount is due from the CD to the Bank.
+(iv)
+The Appellant has extended certain foreign currency facilities
+to RITL and certain facilities to Reliance Communication.
+(v)
+After CIRP of the CD commenced on 25.09.2019, IRP wrote a
+letter to the Appellant to release the amount in the FDR along
+with interest in the account of the CD, which was denied by
+the Appellant, which led to filing of IA No.1943 of 2020 by the
+RP before the Adjudicating Authority, seeking direction to
+release the amount in the account of the CD.
+8.
+The submission of both the parties steer around the letter dated
+27.03.2017 written by the CD to the Appellant Bank. The Appellant’s
+case on the one hand relying on different clauses of the letter is that by
+
+[PAGE 8]
+Company Appeal (AT) (Ins.) No.69 of 2024
+8
+virtue of the said letter of lien, the Appellant can withhold the FD for
+foreign currency facility advanced by it RITL and Group Companies of the
+CD and further by virtue of Section 171 of the Contract Act, the Appellant
+has right of general lien, which has been exercised by the Bank. Learned
+Counsel for the Appellant further submitted that lien letter clearly
+contemplated lien for the facilities not only availed by the CD, but Group
+Companies, whether singly or jointly. On the other hand, the learned
+Counsel for the Respondent submits that the lien letter had authorised
+the Appellant Bank to mark a lien only with respect to dues against the
+CD, whether singly or jointly and admittedly there was no dues against
+the CD. The said FD cannot be withheld by the Bank for facilities of RITL,
+a third party, which is not contemplated by the letter dated 27.03.2017.
+We, thus, need to first notice the contents of the letter dated 27.03.2017,
+which is a letter of lien written by Reliance Communications
+Infrastructure Limited (CD) to the Appellant. The copy of the letter dated
+27.03.2017 was brought on the record by the RP along with his IA
+No.1943 of 2020. Copy of the letter is at page-92 of the paper book. The
+letter is addressed to the Appellant and subject of the letter is as follows:
+“Subject: Lien and set off Against Fixed Deposit Receipts ("FDR") in
+the name of Reliance Communications Infrastructure Limited with
+your Reference: Follo No.00001 and Maturity Date 01/07/2017.”
+9.
+The letter addressed to the Bank reads as follows:
+“Dear Sirs,
+In consideration of Industrial and Commercial Bank of China
+Limited, Mumbai Branch having its branch office at 801, 8th Floor,
+
+[PAGE 9]
+Company Appeal (AT) (Ins.) No.69 of 2024
+9
+A-Wing, ONE BKC, C-66,G Block, Bandra Kurla Complex,
+Bandra(E), Mumbai-400051 (hereinafter called "ICBC") having
+granted / agreeing to grant an extension of the availability period of
+the facility under the facility agreement dated 14 October 2016 (as
+amended by the deed of amendment and confirmation, dated 16
+December 2016) entered into between Industrial and Commercial
+Bank
+of
+China
+Limited,
+Mumbai
+Branch
+and
+Reliance
+Communications Infrastructure Limited, a company incorporated
+under the laws of India bearing corporate identification number
+U64203MH1997PLC166329 with its registered office at H Block 1st
+Floor, Dhirubhai Ambani Knowledge City, Navi Mumbai, 400710,
+against the security Interalia of FDR worth Rs. 27,60,00,000/-
+(Rupees Twenty Seven Crores Sixty lakhs only Only) (number of
+units) bearing Reference No.00001 (hereinafter together referred to
+as "Units"), created with ICBC of which we are the holder/s and on
+the understanding that you are being given necessary authority to
+mark a lien in your favor against the said Units and every renewal
+thereof in your books. We hereby authorize you i.e., ICBC to mark
+a lien against the Units mentioned herein and every renewal of
+such FD thereof upon maturity, in your favour till the same is
+vacated by yourself. We are authorized to Issue this letter
+authorizing you to mark lien, pursuant to the Board Resolution
+passed at the meeting held on 30th day of May, 2016 by the
+Directors.”
+10.
+The letter further states that the CD agree, undertake and
+authorise in favour of the Bank following, which are captured in Clauses
+(1) to (10) of the letter. Clause (1) of the letter, which has been relied,
+both by the Appellant and Respondent are as follows:
+“1. That you may hold all securities belonging to us (which may
+now be in your possession or which may at any time hereafter
+come into your possession) and the proceeds thereof respectively
+not only for the specific advance made thereon but also as security
+for any other moneys now due or which may at any time be due
+
+[PAGE 10]
+Company Appeal (AT) (Ins.) No.69 of 2024
+10
+from us to you, whether singly or jointly with another or others in
+connection with credit facilities, provided to us by you.”
+11.
+The relevant expression in the above clause is “not only for the
+specific advance made thereon but also as security for any other moneys
+now due or which may at any time be due from us to you, whether singly or
+jointly with another or others in connection with credit facilities, provided to
+us by you”. The above expression captures two conditions - (i) it pre-
+supposes any other moneys now due or which may at any time be due
+from us to you (ii) whether singly or jointly with another or other in
+connection with credit facilities, provided to us by you. The
+interpretations of above two expressions will answer the rival contentions
+raised by the parties. The first expression clearly indicate that CD
+authorised the Bank to hold the security for any other moneys now due or
+which may at any time be due from us to you. Much emphasis has been
+made on the words ‘us’. The Adjudicating Authority has rightly taken the
+view that word ‘us’ used in Clause (1) refers to the CD only. The CD being
+a corporate entity it described itself by use of express ‘us’. The said use of
+expression ‘us’ cannot be expanded to mean that under the said
+expression all Group Companies were referred to and any amount due
+from any Group Companies is also included in the expression ‘us’. The
+letter has to be looked into and interpreted in its plain and normal
+meaning. When a letter is written by a corporate entity, use of expression
+‘us’ for the entity is both, natural and correct. The second interpretation
+of Clause (1) i.e. whether singly or jointly with another or others in
+connection with credit facilities provided to us by you, is also clear. The
+
+[PAGE 11]
+Company Appeal (AT) (Ins.) No.69 of 2024
+11
+said Clause captures the situation where any facility or any amount is
+due singly by the CD or jointly with CD with another or others in
+connections with credit facilities provided to it by Bank. Thus, the credit
+facilities, which are contemplated, could be -- (a) singly to CD; (b) jointly
+with CD with another entity; or (c) jointly with CD and others. Thus, the
+key word in the above Clause is facility should be due on CD, either
+singly, jointly with another or jointly with others. Thus, the facility
+should be due on CD and CD has to be part of the facility whether singly
+or jointly with another or jointly with others. In a case where no facility is
+due on the CD, Clause (1) cannot be read to authorise the Bank to hold
+securities. Thus, any due on the CD, whether singly, jointly with another
+or jointly with others, is a pre-condition for authorisation to the Bank to
+hold the security. In the present case, it is admitted between the parties
+that no facilities were taken by the CD from the Bank. It is also not the
+case of the Appellant or any material on record that CD was party to any
+facility taken by it jointly with another or others. Hence, reliance on
+Clause (1) does not support the contention of the Appellant that CD
+authorised the Bank to hold the securities. When nothing is due on the
+CD or CD jointly with another or others, Clause (1), cannot be relied by
+the Appellant.
+12.
+Another Clause, which needs to be noticed is Clause 10 of the
+letter, which is as follows:
+“10. That in addition to any general lien or similar right to which
+you as bankers may be entitled by law, you may at any time and
+without notice to us combine or consolidate all or any of our
+accounts with the liabilities to you and set off or transfer any sum
+
+[PAGE 12]
+Company Appeal (AT) (Ins.) No.69 of 2024
+12
+or sums standing to the credit of any one or more of such accounts
+in or towards satisfaction of any of our liabilities including without
+limitations to all liabilities that are in relation to the credit facilities
+provided to us by you on any other account or in any other respect,
+whether such liabilities be actual or contingent, primary or
+collateral and several or joint.”
+13.
+The above Clause is in addition to any general lien or similar right
+to which Banker may be entitled in law and the above Clause authorise
+the Bank to combine or consolidate all of any of the CD’s accounts with
+the liabilities to Bank. ‘Our Account’ clearly mean accounts of the CD
+and ‘liabilities to you’ is liability to the Bank in any account of the CD. If
+any liabilities are there to the Bank, the Bank was authorised to combine
+or consolidate all or any of the accounts of the CD, for the purpose of set
+off or transfer any sum or sums standing to the credit of any one or more
+of such accounts in or towards satisfaction of any of our liabilities. Thus,
+applicability of Clause (10) for set off or transfer was with respect to the
+account of the CD and any liability to the Bank owed by the CD. It is not
+a case of the Appellant that there are any liabilities on the CD or any
+account of the CD or there are any liabilities in any account of the CD.
+Thus, Clause (10) has no application in the facts of the present case. The
+letter dated 27.03.2017, which is a letter authorizing the Bank to mark
+lien and set off, has to be read as per the plain and natural meaning of
+the letter and the said letter cannot be read to mean that the CD has
+authorised the Appellant to withhold securities for any liabilities against
+its Group Companies.
+14.
+Learned Counsel for both the parties have referred to and relied on
+judgment of the Hon’ble Supreme Court in (1992) 2 SCC 330 –
+
+[PAGE 13]
+Company Appeal (AT) (Ins.) No.69 of 2024
+13
+Syndicate Bank vs. Vijay Kumar and Ors., where the Hon’ble Supreme
+Court had occasion to consider the concept of Banker’s lien and has also
+dealt with the concept of general lien, which is exercised by the Bank.
+The above was a case where a Firm namely – M/s Jullundur Body
+Builders have been enjoying the various credit facilities from the
+Syndicate Bank, including overdraft facility. Vijay Kumar obtained a
+Decree against the Firm of Rs.1,04,441.35 with future interest @ 9%. The
+Judgment-Debtor agreed to pay the decretal amount in the instalments of
+Rs.5,000/- per month. The Judgment-Debtor was required to furnish a
+Bank Guarantee of Rs.90,000/- in favour of the High Court of Delhi. The
+Judgment-Debtor deposited the amount of Rs.90,000/- by two FDRs.
+The Bank thereafter issued a guarantee in favour of the Registrar of the
+High Court. The High Court discharged the Bank Guarantee and the
+original Bank Guarantee was returned to the Bank by the High Court.
+The Decree-Holder made an application in the pending execution petition
+for adjustment of Rs.35,000/- out of Rs.90,000/- deposited as security by
+the Bank. Learned Single Judge passed an order of attachment. The
+Appellant Bank appeared before the High Court and objected to the
+attachment, which objection was rejected. The High Court directed the
+Bank to deposit Rs.35,000/- in the Court, which order was challenged by
+filing the Appeal in the Hon’ble Supreme Court. In the above context, the
+Hon’ble Supreme Court has dealt with the expression Banker’s lien. In
+paragraph-6 of the judgment, the definition of lien and Banker’s lien is
+noticed in following words:
+
+[PAGE 14]
+Company Appeal (AT) (Ins.) No.69 of 2024
+14
+“6. In Halsbury's Laws of England, 2nd Edn., Vol. 20, p. 552, para
+695, lien is defined as follows: [Ed.: In 4th Edn. see Vol. 28, para
+502]
+“Lien in its primary sense is a right in one man to retain that
+which is in his possession belonging to another until certain
+demands of the person in possession are satisfied. In this
+primary sense it is given by law and not by contract.”
+In Chalmers on Bills of Exchange, 13th Edn., p. 91 the
+meaning of “Banker's lien” is given as follows:
+“A banker's lien on negotiable securities has been judicially
+defined as ‘an implied pledge’. A banker has, in the absence
+of agreement to the contrary, a lien on all bills received from
+a customer in the ordinary course of banking business in
+respect of any balance that may be due from such
+customer.”
+In Chitty on Contract, 26th Edn., p. 389, para 3032 the
+Banker's lien is explained as under:
+“Extent of lien.— By mercantile custom the banker has a
+general lien over all forms of commercial paper deposited by
+or on behalf of a customer in the ordinary course of banking
+business. The custom does not extent to valuables lodged for
+the purpose of safe custody and may in any event be
+displaced by either an express contract or circumstances
+which show an implied agreement inconsistent with the lien
+....
+... The lien is applicable to negotiable instruments which are
+... remitted to the banker from the customer for the purpose
+of collection. When collection has been made the proceeds
+may be used by the banker in reduction of the customer's
+debit balance unless otherwise earmarked.”
+(emphasis supplied)
+In Paget's Law of Banking, 8th Edn., p. 498 a passage reads as
+under:
+
+[PAGE 15]
+Company Appeal (AT) (Ins.) No.69 of 2024
+15
+“The Banker's Lien
+Apart from any specific security, the banker can look to his
+general lien as a protection against loss on loan or overdraft
+or other credit facility. The general lien of bankers is part of
+law merchant and judicially recognised as such.”
+In Brandao v. Barnett [(1843-60) All ER 719 : (1846) 12 Cl & Fin
+787 : 8 ER 1622] , it was stated as under: (All ER p. 722-H)
+“Bankers, most undoubtedly, have a general lien on all
+securities deposited with them, as bankers, by a customer,
+unless there be an express contract, or circumstances that
+show an implied contract, inconsistent with lien.”
+The above passages go to show that by mercantile system the Bank
+has a general lien over all forms of securities or negotiable
+instruments deposited by or on behalf of the customer in the
+ordinary course of banking business and that the general lien is a
+valuable right of the banker judicially recognised and in the
+absence of an agreement to the contrary, a Banker has a general
+lien over such securities or bills received from a customer in the
+ordinary course of banking business and has a right to use the
+proceeds in respect of any balance that may be due from the
+customer by way of reduction of customer's debit balance. Such a
+lien is also applicable to negotiable instruments including FDRs
+which are remitted to the Bank by the customer for the purpose of
+collection. There is no gainsaying that such a lien extends to FDRs
+also which are deposited by the customer.”
+15.
+The Hon’ble Supreme Court held that applying the principles, the
+Appellant Bank has lien over the two FDRs. In paragraph-7, following
+was held:
+“7. Applying these principles to the case before us we are of the
+view that undoubtedly the appellant Bank has a lien over the two
+FDRs. In any event the two letters executed by the Judgment-
+debtor on September 17, 1980 created a general lien in favour of
+
+[PAGE 16]
+Company Appeal (AT) (Ins.) No.69 of 2024
+16
+the appellant Bank over the two FDRs. Even otherwise having
+regard to the mercantile custom as judicially recognised the Banker
+has such a general lien over all forms of deposits or securities
+made by or on behalf of the customer in the ordinary course of
+banking business. The recital in the two letters clearly creates a
+general lien without giving any room whatsoever for any
+controversy.”
+16.
+The Hon’ble Supreme Court in the above case has held that the
+Bank has liberty to adjust from the proceeds of the two FDRs towards
+dues to the Bank. In the above case, admittedly there was a Decree and
+there was due of the Bank against the Firm, due to various credit facilities
+extended to the Firm. In paragraph-5, following was observed by the
+Hon’ble Supreme Court:
+“5. The two FDRs were duly discharged by signing on the reverse of
+each of them by the Judgment-debtor and were handed over along
+with two covering letters on the Bank's usual printed forms on
+September 17, 1980 at the time of obtaining the guarantee. The
+relevant clause of the letter reads as under:
+“The Bank is at liberty to adjust from the proceeds covered
+by the aforesaid Deposit Receipt/Certificate or from proceeds
+of other receipts/certificates issued in renewal thereof at any
+time without any reference to us, to the said loan/OD
+account.
+We agree that the above deposit and renewals shall remain
+with the Bank so long as any amount on any account is due
+to the Bank from us or the said M/s Jullundur Body
+Builders singly or jointly with others.”
+To the same effect is the other letter. The above recital in the letter
+clearly goes to show that a general lien is created in favour of the
+appellant Bank in respect of those two FDRs. The Bank is given the
+authority to retain the FDRs so long as any amount on any account
+
+[PAGE 17]
+Company Appeal (AT) (Ins.) No.69 of 2024
+17
+is due from the Judgment-debtor. Thus the appellant Bank had a
+right to set-off in respect of these FDRs if there was a liability of the
+Judgment-debtor due to the Bank. In this context it is useful to
+refer to some passages in the text-books on the scope and meaning
+of the expression “Banker's lien”.
+17.
+The above judgment is clear authority for proposition that Bank
+exercises general lien on a FDR and the authority to retain the FDRs if
+any amount is due to the Bank. The above judgment, thus, does not
+come to the aid of the Appellant to authorize it to withhold the FDRs
+opened by the CD. The present is not a case where any amount is due
+from the CD, either singly or jointly with another or others.
+18.
+Learned Counsel for the Appellant has relied on various judgments
+of different High Court on Section 171 of the Contract Act. Section 171 of
+the Contract Act provides as follows:
+“171. General lien of bankers, factors, wharfingers, attorneys and
+policy-brokers.—Bankers, factors, wharfingers, attorneys of a High
+Court and policy-brokers may, in the absence of a contract to the
+contrary, retain as a security for a general balance of account, any
+goods bailed to them; but no other persons have a right to retain,
+as a security for such balance, goods bailed to them, unless there
+is an express contract to that effect.”
+19.
+Section 171 deals with general lien of Bankers, where Bank is
+empowered to retain as a security for general balance of account, any
+goods bailed to them. Section 171 itself contemplates balance of account
+holder for purposes of exercising general lien. General lien, thus is to be
+exercised when there is balance in the account of the customer.
+
+[PAGE 18]
+Company Appeal (AT) (Ins.) No.69 of 2024
+18
+20.
+Learned Counsel for the Appellant has relied on few judgments on
+Section 171. He has relied on judgment of the Madras High Court in
+(1896) ILR 19 Madras 234 – Kunhan Mayan & Ors. vs. The Bank of
+Madras. The above was a case where a suit was filed for return of certain
+jewels pledged by First Plaintiff to the Bank. The Plaintiff after tendering
+the amount due on the loans, demanded return of the jewels pledged.
+The Bank refused to return the jewels until the First Plaintiff discharge
+his other liabilities to the Bank. A suit was filed by the Plaintiff where the
+High Court dealt with the Bank’s general lien. Madras High Court –
+Justice Shephard while dismissing the suit observed as follows:
+“All we know is that besides these three loans there were other
+loans by the bank to the plaintiff, a list of which with interest was
+made up to the 31st May 1893. On the 28th June, a deed of
+hypothecation was given as security. The bank books were not
+produced, but perhaps it may be inferred that the loans on jewels
+and the other loans were not entered in one account. This
+circumstancee, however, is not inconsistent with the bank's claim
+to a general lien. The evidence of the cash-keeper, which is
+extremely brief, shows that he at least thought there was nothing
+special about the plaintiff's loans and that therefore the jewels
+might be retained until all debts were paid off. It being incumbent
+on the plaintiff to show that the bank had agreed to give up the
+general lien to which by law a bank is prima facie entitled, I must
+say that in my opinion the plaintiff has failed in his proof. There
+was, it may be observed, no proper issue on the question, and no
+attempt-made to prove a special contract except by the evidence of
+the witnesses which was discredited by the Judge. Holding that the
+bank was entitled to retain the jewels until the other debts owed by
+the plaintiff wero paid off, I think the suit ought to have been dis-
+missed. I would accordingly reverse the decree and dismiss the suit
+with all costs.”
+
+[PAGE 19]
+Company Appeal (AT) (Ins.) No.69 of 2024
+19
+21.
+Another judgment relied by the Appellant is (1995) SCC OnLine All
+361 – State Bank of India, Kanpur vs. Deepak Malviya and Ors. The
+said proceedings also arose out of a suit filed against the SBI for a Decree
+for redemption. The Trial Court dismissed the suit. One of the issues
+framed by the Trial Court was, whether there are outstanding dues of the
+defendant against the Bhola Nath Malviya, whose heirs filed the suit. The
+First Appellate Court reversed the Decree, against which an Appeal was
+filed before the High Court. In the above context, the High Court noticed
+Section 171 of the Indian Contract Act and the Banker’s lien. In
+paragraph 20, following was held:
+“Section 171 of the Act refers to the lien of bankers, etc., the right
+of security for the general balance on account of any goods bailed
+to them. In other words if a certain sum is due to the bank in one
+account it may retain as security money or other movable that
+comes into its hands in another account. The aforesaid analysis
+makes it clear that the lower appellate court was in error in taking
+a view that the bank could not have claimed lien over the pledged
+ornaments of the predecessor-in-interest of the respondent. Section
+171 of the Act and the general principles covering the bankers lien
+specifically authorise the bank to retain the pledged ornaments
+claiming lien over them till the bank's money is cleared by the
+respondents for the loan in connection with the other account for
+which a decree has already been passed in favour of the bank.”
+22.
+The above judgment also in no manner support the Appellant, since
+clearly in the facts of the said case, there was outstanding dues against
+Shri Bhola Nath Malviya, whose legal heirs has filed the suit against the
+Bank. Hence, Benker’s lien was exercised.
+
+[PAGE 20]
+Company Appeal (AT) (Ins.) No.69 of 2024
+20
+23.
+Learned Counsel for the Appellant has relied on judgment of
+Hon’ble Supreme Court in (2023) 7 SCC 324 – Vistra ITCL (India) Ltd.
+Ors. vs. Dinkar Venkatasubramanian and Ors. The above was a case
+where the Appellant had filed a claim as a secured creditor in the CIRP of
+the CD, which was rejected by the RP, which was not challenged by the
+Appellant. In the CIRP, a Resolution Plan was approved, however, the
+Resolution Applicant did not fulfill the commitment. The Appellant
+thereafter filed an application claiming its right on the basis of pledged
+shares, which application was dismissed, against which an Appeal was
+filed, which too was dismissed. The matter was taken to the Hon’ble
+Supreme Court, where it was contended that pledge of shares will be
+construed as financial debt. The Hon’ble Supreme Court in the said facts
+noticed the difficult situation, which was presented in the case. In the
+above context, the Hon’ble Supreme Court in paragraphs-41 to 44 held
+following:
+“41. Thus, we are presented with a difficult situation, wherein,
+Appellant 1-Vistra, a secured creditor, is being denied the rights
+under Section 52 as well as Section 53 of the Code in respect of the
+pledged shares, whereas, the intent of the amended Section 30(2)
+read with Section 31 of the Code is to the contrary, as it recognises
+and protects the interests of other creditors who are outside the
+purview of the CoC. To our mind, the answer to this tricky problem
+is two-fold.
+41.1. First is to treat the secured creditor as a financial creditor of
+the corporate debtor to the extent of the estimated value of the
+pledged share on the date of commencement of the CIRP. This
+would make it a member of the CoC and give it voting rights,
+equivalent to the estimated value of the pledged shares. However,
+
+[PAGE 21]
+Company Appeal (AT) (Ins.) No.69 of 2024
+21
+this may require reconsideration of the dictum and ratio of Anuj
+Jain [Jaypee Infratech Ltd. (Interim Resolution Professional) v. Axis
+Bank, (2020) 8 SCC 401 : (2021) 2 SCC (Civ) 334] and Phoenix
+ARC [Phoenix ARC (P) Ltd. v. Ketulbhai Ramubhai Patel, (2021) 2
+SCC 799 : (2021) 2 SCC (Civ) 540] , which would entail reference to
+a larger Bench. In the context of the present case, the said solution
+may not be viable as the resolution plan has already been approved
+by the CoC without Appellant 1-Vistra being a member of the CoC.
+Therefore, we would opt for the second option.
+41.2. The second option is to treat Appellant 1-Vistra as a secured
+creditor in terms of Section 52 read with Section 53 of the Code. In
+other words, we give the option to the successful resolution
+applicant — DVI (Deccan Value Investors) to treat Appellant 1-
+Vistra as a secured creditor, who will be entitled to retain the
+security interest in the pledged shares, and in terms thereof, would
+be entitled to retain the security proceeds on the sale of the said
+pledged shares under Section 52 of the Code read with Rule 21-A of
+the Liquidation Process Regulations. The second recourse available,
+would be almost equivalent in monetary terms for Appellant 1-
+Vistra, who is treated as a secured creditor and is held entitled to
+all rights and obligations as applicable to a secured creditor under
+Sections 52 and 53 of the Code. This to our mind would be a fair
+and just solution to the legal conundrum and issue highlighted
+before us.
+42. We wish to clarify that the directions given by us would not be
+a ground for the successful resolution applicant — DVI to withdraw
+the resolution plan which has already been approved by Nclat and
+by us. The reason is simple. Any resolution plan must meet with
+the requirements/provisions of the Code and any provisions of law
+for the time being in force. What we have directed and the option
+given by us ensures that the resolution plan meets the mandate of
+the Code and does not violate the rights given to the secured
+creditor, who cannot be treated as worse off/inferior in its claim
+and rights viz an operational creditor or a dissenting financial
+creditor.
+
+[PAGE 22]
+Company Appeal (AT) (Ins.) No.69 of 2024
+22
+43. In the end, we must meet the argument raised by Respondent
+1 — Dinkar Venkatasubramanian, resolution professional for the
+corporate debtor-Amtek and Respondent 2 — the CoC of the
+corporate debtor-Amtek, that the present plea of Appellant 1-Vistra
+to be treated as a financial creditor of the corporate debtor-Amtek
+should be dismissed on the grounds of delay, laches and
+acquiescence. The submission is that Appellant 1-Vistra had not
+objected to the resolution plan submitted by the erstwhile
+resolution applicant — LHG and, as a sequitur, its non-
+classification as a financial creditor in the CoC of the corporate
+debtor-Amtek. Though this argument had appealed and had
+weighed with Nclat, in our opinion is untenable since the resolution
+plan submitted by erstwhile resolution applicant — LHG did not in
+any way affect the rights or interests of Appellant 1-Vistra as a
+secured creditor in respect of the pledged shares. Appellant 1-
+Vistra has elaborately explained that LHG, etc. were in negotiations
+with them so as to redeem the pledge and acquire the shares.
+44. In view of our aforesaid findings, the impugned judgment
+[Vistara ITCL (India) Ltd. v. Dinkar Venkatasubramanian, 2020 SCC
+OnLine
+NCLAT
+654]
+of
+Nclat
+affirming
+the
+view
+[Corpn.
+Bank v. Amtek Auto Ltd., 2018 SCC OnLine NCLT 24111] taken by
+the NCLT is partly modified in terms of our directions holding that
+Appellant 1-M/s Vistra ITCL (India) Ltd. would be treated as a
+secured creditor, who would be entitled to all rights and obligations
+as applicable to a secured creditor in terms of Sections 52 and 53
+of the Code, and in accordance with the pledge agreement dated 5-
+7-2016.”
+24.
+The above judgment in no manner can help the Appellant in the
+facts of the present case. According to own case, the Appellant has never
+filed any claim in the CIRP of the CD. In the above case, Hon’ble Supreme
+Court treated the Appellant as a secured creditor and gave option to the
+SRA to treat the Appellant as a secured creditor, who would be entitled to
+
+[PAGE 23]
+Company Appeal (AT) (Ins.) No.69 of 2024
+23
+retain its security. This Tribunal had occasion with regard to the above
+case in another judgment passed in Company Appeal (AT) (Ins.) No.517-
+518 of 2023 – Edelweiss Asset Reconstruction Company Ltd. vs. Mr. Anuj
+Jain, Resolution Professional of Ballarpur Industries Ltd. and Ors.
+decided on 4th July, 2023, which judgment has also been relied by the
+Appellant. Noticing the judgment of Vistra ITCL (India) Ltd. (supra), in
+paragraph 33 to 38, following was observed:
+“33. The Appellant has next relied Hon’ble Supreme Court
+judgment in “Vistra ITCL (India) Ltd.” (supra). In the above case
+also Amtek Auto Limited (Corporate Debtor) has pledged its shares
+for loan facility availed by two group companies i.e. Brassco
+Engineers Ltd. and WLD Investments Pvt. Ltd. In the insolvency
+proceeding of the Corporate Debtor, claim was filed by M/s Vistra
+ITCL (India) Ltd., the Security Trustee in Form ‘C’, which claim was
+rejected. Resolution Plan was approved. Thereafter, an application
+was filed claiming right on the basis of pledged shares. I.A. No. 62
+of 2020 as well as Appeal having been dismissed, Appeal was filed
+before the Hon’ble Supreme Court. Hon’ble Supreme Court in the
+above case, noticed the judgment of “Anuj Jain vs. Axis Bank
+Ltd.” (supra). Hon’ble Supreme Court in Para 9 noticed the issues
+raised and observed that two-fold answers can be given to the
+problem. First was to treat the Secured Creditor as a Financial
+Creditor, which according to the judgment of the Hon’ble Supreme
+Court may require reference to a larger bench. Hence, the Hon’ble
+Supreme Court proceeded to the Second option under which the
+Hon’ble Supreme Court held that Appellant was entitled to retain
+the security interest in the pledged shares, which means was
+entitled to retain the security proceeds on the sale of the said
+pledged shares. In Para 9 following was held:
+“9. Thus, we are presented with a difficult situation, wherein,
+Appellant No.1 – Vistra, a secured creditor, is being denied
+
+[PAGE 24]
+Company Appeal (AT) (Ins.) No.69 of 2024
+24
+the rights under Section 52 as well as Section 53 of the Code
+in respect of the pledged shares, whereas, the intent of the
+amended Section 30(2) read with Section 31 of the Code is too
+contrary, as it recognises and protects the interests of other
+creditors who are outside the purview of the CoC. To our
+mind, the answer to this tricky problem is twofold. First is to
+treat the secured creditor as a financial creditor of the
+Corporate Debtor to the extent of the estimated value of the
+pledged share on the date of commencement of the CIRP. This
+would make it a member of the CoC and give it voting rights,
+equivalent to the estimated value of the pledged shares.
+However, this may require re consideration of the dictum and
+ratio of Anuj Jain (supra) and Phoenix ARC (supra), which
+would entail reference to a larger bench. In the context of the
+present case, the said solution may not be viable as the
+resolution plan has already been approved by the CoC
+without Appellant No. 1 Vistra being a member of the CoC.
+Therefore, we would opt for the second option. The second
+option is to treat the Appellant No. 1 – Vistra as a secured
+creditor in terms of Section 52 read with Section 53 of the
+Code. In other words, we give the option to the successful
+resolution applicant – DVI (Deccan Value Investors) to treat the
+Appellant No.1 – Vistra as a secured creditor, who will be
+entitled to retain the security interest in the pledged shares,
+and in terms thereof, would be entitled to retain the security
+proceeds on the sale of the said pledged shares under Section
+52 of the Code read with Rule 21A of the Liquidation Process
+Regulations. The second recourse available, would be almost
+equivalent in monetary terms for the Appellant No. 1 Vistra,
+who is treated it as a secured creditor and is held entitled to
+all rights and obligations as applicable to a secured creditor
+under Section 52 and 53 of the Code. This to our mind would
+be a fair and just solution to the legal conundrum and issue
+highlighted before us.”
+
+[PAGE 25]
+Company Appeal (AT) (Ins.) No.69 of 2024
+25
+34. In the aforesaid judgment the Hon’ble Supreme Court has
+noticed provisions of Section 52, Section 53 and Section 30 of the
+Code. The submission which has been pressed by learned counsel
+for the Respondent is that the judgment of the Hon’ble Supreme
+Court in “Vistra ITCL (India) Ltd.” is judgment of the Supreme
+Court where Hon’ble Supreme Court has exercised its jurisdiction
+under Article 142 of the Constitution. Observation of the Hon’ble
+Supreme Court in Para 9 that “This to our mind would be a fair
+and just solution to the legal conundrum and issue highlighted
+before us.”, indicate that the solution which was followed by
+Supreme Court was in the facts of the said case and observation of
+the Hon’ble Supreme Court in Para 9 cannot be read as laying law
+within meaning of Article 141.
+35. A third-party security interest holder is entitled to retain the
+security proceeds on the land of security interest under Section 52
+of the Code. As noted above, Section 52 and 53 becomes applicable
+only in Liquidation Proceeding and reference of Section 53 under
+Section 30(2) is for the purpose of computing the payment to
+Operational Creditors and dissenting Financial Creditors to which
+they may be entitled under Section 53.
+36. We, thus, accept the submission of learned counsel for the
+Respondent that judgment of Hon’ble Supreme Court in “Vistra
+ITCL (India) Ltd.” and direction issued in Para 9 have been in
+exercise of Article 142. Learned counsel for the Respondent has
+placed reliance on judgment of Hon’ble Supreme Court in “State of
+Punjab & Ors. vs. Rafiq Masih, (2014) 8 SCC 883”, where
+Hon’ble Supreme Court dealing with Article 141 and 142 of the
+Constitution of India enumerated the principles in Paras 8 and 11,
+which are to the following effect:
+“8. In our view, the law laid down in Chandi Prasad Uniyal's
+case, no way conflicts with the observations made by this
+Court in the other two cases. In those decisions, directions
+were issued in exercise of the powers of this Court under
+Article 142 of the Constitution, but in the subsequent decision
+
+[PAGE 26]
+Company Appeal (AT) (Ins.) No.69 of 2024
+26
+this Court under Article 136 of the Constitution, in laying
+down the law had dismissed the petition of the employee.
+This Court in a number of cases had battled with tracing the
+contours of the provision in Article 136 and 142 of the
+Constitution of India. Distinctively, although the words
+employed under the two aforesaid provision speak of the
+powers of this Court, the former vest a plenary jurisdiction in
+supreme court in the matter of entertaining and hearing of
+appeals by granting special leave against any judgment or
+order made by a Court or Tribunal in any cause or matter. The
+powers are plenary to the extent that they are paramount to
+the limitations under the specific provisions for appeal
+contained in the Constitution or other laws. Article 142 of the
+Constitution of India, on the other hand is a step ahead of the
+powers envisaged under Article 136 of the Constitution of
+India. It is the exercise of jurisdiction to pass such enforceable
+decree or order as is necessary for doing ‘complete justice’ in
+any cause or matter.
+11. Article 136 of the Constitution of India was legislatively
+intended to be exercised by the Highest Court of the Land,
+with scrupulous adherence to the settled judicial principle
+well established by precedents in our jurisprudence. Article
+136 of the Constitution is a corrective jurisdiction that vest a
+discretion in the Supreme Court to settle the law clear and as
+forthrightly forwarded in the case of Union of India v. Karnail
+Singh, it makes the law operational to make it a binding
+precedent for the future instead of keeping it vague. In short,
+it declares the law, as under Article 141 of the Constitution.”
+37. It has categorically held by the Hon’ble Supreme Court in the
+above
+judgment
+that
+Article
+142
+of
+the
+Constitution
+is
+supplementary in nature and cannot supplant the substantive
+provisions, though they are not limited by the substantive
+provisions in the statute. It is a power that gives preference to
+equity over law. Differentiation in Article 141 and 142 has been
+noticed. Following has been observed in Para 12:
+
+[PAGE 27]
+Company Appeal (AT) (Ins.) No.69 of 2024
+27
+“12. ....This Court on the qui vive has expanded the horizons
+of Article 142 of the Constitution by keeping it outside the
+purview of Article 141 of the Constitution and by declaring it a
+direction of the Court that changes its complexion with the
+peculiarity in the facts and circumstances of the case.”
+38. We, thus, are of the view that judgment of Hon’ble Supreme
+Court in “Vistra ITCL (India) Ltd.” is in facts of the said case. The
+Appellant in the present case cannot rely on the said judgment as a
+declaration of law within the meaning of Article 141 of the
+Constitution of India.”
+25.
+We, thus, are of the view that judgment of the Hon’ble Supreme
+Court in Vistra ITCL (India) Ltd. as well as judgment of this Tribunal in
+Edelweiss Asset Reconstruction Company Ltd. in no manner support
+the submission of the Appellant.
+26.
+The present is a case where question which arose for consideration
+before the Adjudicating Authority in IA No.1943 of 2020 was as to
+whether the Appellant was entitled to refuse release of the FD, which was
+opened by the CD on the ground that there are dues against another
+Group Company RITL. The Adjudicating Authority in the above context
+has noticed the case of both the parties and after noticing the letter dated
+27.03.2017 came to the conclusion that the Appellant Bank was not
+entitled to withhold the FD on ground of alleged facilities due to RITL.
+27.
+The core question to be answered in this case is as to whether the
+Appellant was justified in refusing to release the FD, which was opened by
+the CD on the ground of general lien.
+
+[PAGE 28]
+Company Appeal (AT) (Ins.) No.69 of 2024
+28
+28.
+Shri Krishnendu Datta, learned Senior Counsel appearing for the
+Respondent has also relied on judgment of different High Courts to
+support his submission that Banker’s lien only extend to debt owed by
+the same customer. Reliance has been placed on judgment of High Court
+of Karnataka reported in ILR 2004 KHC 993 - Vijaya Bank and Ors. vs.
+Naveen Mechanised Construction (Private) Limited and Ors. The facts
+of the said case has been noticed in paragraph-2 of the judgment. The
+Hon’ble High Court has held that Section 171 would enable the Bank to
+retain the security for repayment of debt borrowed by the same person.
+Following was held in paragraph-13:
+“13. The decision relied upon by the learned Counsel appearing for
+the appellant-Bank in SYNDICATE BANK vs. VIJAY KUMAR (AIR
+1992 SC 1066) would not be helpful to him in the present case as
+in the said case the letters were executed in favour of the Bank
+specifically to enable the Bank to retain the securities with the
+Bank so long as any amount on any account is due to the Bank
+from the borrower. In the present case, it is not the case of the
+appellant-Bank that the petitioners have subsequently borrowed
+any amount and that the security is withheld for any amount due
+from the petitioners and wherefore in the absence of any specific
+authorisation or lien conferred upon the appellant- Bank to retain
+the security towards the discharge of any debt in respect of other
+Companies, the Bank is not at all justified in retaining the security
+as Section 171 of the Contract Act would only enable the Bank to
+retain the security for repayment of debt borrowed by the same
+person. In the present case as no amount is due to be paid by the
+petitioners, the contention that the Director of the first petitioner-
+Company as also the guarantor for the transaction is also a
+Director in MFEL against which recovery proceeding has been
+initiated in the Debt Recovery Tribunal. That would not be a
+justifiable ground to withhold securities in the absence of any
+
+[PAGE 29]
+Company Appeal (AT) (Ins.) No.69 of 2024
+29
+express clause in the Contract entered into by the petitioners and
+the Bank.”
+29.
+To the same effect is judgment of Kerala High Court relied by the
+learned Counsel for the Respondent in (2023) SCC OnLine Ker 2178 –
+PNB Vesper Life Science Pvt. Ltd. and Ors. vs. The Registrar of Co-
+operative Societies and Ors. Shri Datta has relied on judgment of
+Orisa High Court in (2004) SCC OnLine Ori 25 – Alekha Sahoo vs. Puri
+Urban Co-operative Bank Ltd. and Ors., where following was laid down
+by the Orissa High Court in paragraphs 11 and 12:
+“11. In Syndicate Bank v. Vijay Kumar (supra) cited by Mr.
+Kanungo, the judgment debtor who owned two Fixed Deposits
+executed two letters on 17-9-1980 creating a lien in favour of the
+Bank over the two Fixed Deposit Receipts and on these facts the
+Supreme Court held that the two letters executed by the judgment
+debtor on 17-9-1980 created a lien in favour of the bank over the
+two Fixed Deposit Receipts. This is thus a case where the owner of
+the Fixed Deposit Receipts had expressly agreed that the Bank
+would have lien over the fixed Deposit Receipts. In this case, the
+Supreme Court has not laid down any law that the Bank can
+exercise its general lien under Section 171 of the Contract Act over
+the properties of the surety for the liabilities of the principal debtor
+to the Bank. In S. Vasupalaiah v. The Vysya Bank, Kudagenahalli
+Branch
+(supra)
+and
+in
+City
+Union
+Bank
+Ltd.
+v.
+C.
+Thangarajan (supra) cited by Mr. Kanungo, the learned single
+Judges of the Karnataka High Court and the Madras High Court
+respectively have referred to the aforesaid decision of the Supreme
+Court in Syndicate Bank v. Vijay Kumar (supra) and have held that
+the Bank can exercise lien over the properties of a guarantor or a
+co-promisor for recovery of the outstanding dues of the principal
+debtor or the promisor to the Bank. But as we have discussed
+above, courts in England and in India have held that the Bank can
+
+[PAGE 30]
+Company Appeal (AT) (Ins.) No.69 of 2024
+30
+exercise general lien over the properties of a customer for the
+general balance in such customer's account and not for the general
+balance of some other customer's account. Unless therefore a
+customer has expressly agreed that his properties can be retained
+as security for the outstanding balance in the account of some
+other customer, a Bank cannot exercise lien over the properties of
+such customer under Section 171 of the Contract Act. In the
+guarantee agreement executed by the petitioner for the cash credit
+account of Bimala Bhandar, a copy of which has been annexed to
+the counter-affidavit as Annexure - R/2, there is no such provision
+that the Bank can retain the properties of the petitioner as security
+for the outstanding balance in the loan account of Bimala
+Bhandar. In fact, the Bank has also not relied on any such
+provision in the guarantee agreement and instead has relied on the
+bye-laws of the Bank and the general lien of the Bank as provided
+in Section 171 of the Contract Act. As we have seen, the Bank has
+no such right under the bye-laws or Section 171 of the Contract
+Act to retain the gold ornaments of the petitioner as security for the
+outstanding balance in the loan account of Bimala Bhandar.
+12. Since we have found that the Bank has no right whatsoever
+either under its bye-laws or under Section 171 of the Contract Act
+to retain the gold ornaments of the petitioner after the petitioner
+had cleared the outstanding balance in the two gold loan accounts
+for which the gold ornaments were pledged as security, the
+retention of the gold ornaments of the petitioner by the Bank was
+without any authority of law and is arbitrary and the impugned
+notice dated 30-7-2003 is liable to be quashed.”
+30.
+In view of our foregoing discussions and conclusions we are of the
+view that action of the Bank in not releasing the FD opened by the CD on
+27.03.2017 on the pretext that there are dues on Appellant of another
+Group Company of the CD, i.e. RITL is unjustified. The letter of lien dated
+27.03.2017 as noticed above authorised the Bank to retain securities for
+
+[PAGE 31]
+Company Appeal (AT) (Ins.) No.69 of 2024
+31
+any amount due on the CD, either singly or jointly with another or others.
+Unless the CD was not part of any facility against which any amount is
+due, the Bank had no jurisdiction to retain the security. We, thus, are
+satisfied that Adjudicating Authority has not committed any error in
+issuing necessary directions to the Appellant to lift/ release/ remove the
+lien marked on the FD of Rs.27.60 crores and direction to release the
+fund along with interest, cannot be faulted.
+31.
+In result of the above discussion, we are of the view that no grounds
+have been made by the Appellant to interfere with the impugned order.
+The Appeal is dismissed. There shall be no order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Arun Baroka Member
+(Technical)
+
+NEW DELHI
+25th September, 2025
+
+Ashwani

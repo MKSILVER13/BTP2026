@@ -1,0 +1,1424 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+
+(Arising out of judgement and order dated 17.01.2023 passed by the
+National Company Law Tribunal, Kolkata Bench at Kolkata in I.A. No.800
+of 2022 in C.P. (IB) No.1284/2019)
+In the matter of:
+Deepika Bhugra Prasad
+Liquidator
+M/s Ess Dee Aluminium Ltd
+E-10A, LGF, Kailash Colony,
+Greater Kailash –I
+New Delhi-110048
+
+.....Appellant
+
+Vs.
+
+Lucky Holdings Pvt. Ltd.
+24A Shakespeare Sarani,
+Parijaat Building,
+2nd Floor,
+Room No.22, 5A Street,
+Kolkata 700017
+
+....Respondent
+
+Present:
+
+For Appellant: Mr. Krishnendu Datta, Sr. Advocate, Mr. Rahul Gupta,
+Mr. Rahul Dadhich, Mr. Yash Tandon, Advocates.
+For Respondents:
+Mr. Abhijeet Sinha, Sr. Advocate, Mr. Prashant Mehta,
+Mr. Raghav Marwaha, Mr. Ninad Bohidar, Advocates.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+J U D G M E N T
+(1st December, 2025)
+
+INDEVAR PANDEY, MEMBER (T)
+
+The present appeal has arisen from the liquidation proceedings of
+M/s Ess Dee Aluminium Limited (Corporate Debtor) and the adjudication
+of disputes pertaining to the e-auction conducted for the sale of the
+Corporate Debtor as a Going Concern. Ms. Deepika Bhugra Prasad, the
+Appellant, and the Liquidator of the Corporate Debtor, is aggrieved by the
+order dated 17.01.2023 passed by the Ld. National Company Law
+Tribunal, Kolkata Bench (Adjudicating Authority), in I.A. No. 800 of
+2022, in C.P.(IB) No.1284/2019 whereby the Adjudicating Authority allowed
+the application filed by M/s Lucky Holdings Pvt. Ltd., the Respondent,
+seeking refund of Earnest Money Deposit (EMD) in the e-auction. The
+Appellant asserts that the Respondent failed to comply with mandatory
+payment timelines under the E-Auction Process Document, leading to
+forfeiture of EMD, and the impugned order adversely affects the liquidation
+process and stakeholders’ interests.
+Brief facts of the case
+2.
+The brief facts of the case are as given below:
+i.
+The Corporate Insolvency Resolution Process (CIRP) of Ess Dee
+Aluminium Ltd./ Corporate Debtor commenced when the Adjudicating
+Authority vide its order dated 14.02.2020, admitted a petition under
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+Section 7 of the Insolvency and Bankruptcy Code, 2016 (hereinafter
+the ‘Code’) and appointed the Appellant as the Interim Resolution
+Professional. The Appellant issued a public announcement on
+19.02.2020 inviting claims from creditors. After the constitution of the
+Committee of Creditors (CoC), its first meeting was held on
+18.03.2020, wherein the CoC, resolved to confirm the Appellant as the
+Resolution Professional. In the following months, the Appellant
+proceeded with statutory requirements, including verification of
+claims,
+preparation
+of
+the
+information
+memorandum,
+and
+appointment of valuers etc.
+ii.
+The Appellant published Form-G on 03.07.2020, inviting Expressions
+of Interest (EOI). In the fourth CoC meeting held on 07.08.2020, it was
+noted that only one EOI had been received, prompting the CoC to
+republish Form-G and extend the time for receipt of EOIs until
+31.08.2020. The CoC continued monitoring progress in its subsequent
+meetings on 09.09.2020 (fifth meeting) and 31.10.2020 (sixth
+meeting), where developments relating to EOIs and collection of
+resolution plans were discussed. By 25.12.2020, the Appellant
+circulated a provisional list of prospective resolution applicants,
+informing the CoC on 28.12.2020 that two EOIs had been received.
+iii.
+In the ninth CoC meeting held on 19.01.2021, the Appellant reported
+that an additional EOI had been received from Shree Nath Rotopack.
+Considering this, the CoC resolved to republish Form-G again to widen
+market participation. The RP sought more time to complete the CIRP
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+process which was allowed by Adjudicating Authority by order dated
+02.02.2021. Thereafter, in the tenth CoC meeting on 20.02.2021, the
+CoC again decided to republish Form-G, resulting in publication of a
+fresh Form-G on 02.03.2021, fixing 07.03.2021 as the last date for
+EOIs and 12.04.2021 for filing resolution plans. In the same meeting,
+the CoC resolved to seek yet another 60-day extension beyond the
+original 270-day outer limit ending on 18.03.2021.
+iv.
+Despite the extensions, only one resolution plan was received by the
+Appellant from M/s Molisati Vinimay Pvt. Ltd., which was placed
+before the CoC during the eleventh meeting held on 20.04.2021. Upon
+detailed discussion, the CoC found the plan financially inadequate and
+not viable unless substantially improved. Ultimately, the CoC, with a
+voting share of 84.78%, resolved that liquidation of the Corporate
+Debtor was the most suitable course given the failure of the resolution
+process.
+v.
+Based on the CoC’s decision, the Appellant filed I.A. No. 699 of 2021
+for initiation of liquidation. The Adjudicating Authority, through its
+order dated 08.10.2021, accepted the CoC’s recommendations,
+ordered liquidation of the Corporate Debtor, and appointed the
+Appellant as the Liquidator, transferring all responsibilities under
+Chapter III of the Liquidation Regulations to her.
+vi.
+The Appellant issued a public announcement in Form-B on
+11.10.2021 calling upon stakeholders to submit their claims in
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+compliance with Regulation 12 of the Liquidation Regulations.
+Furthermore, in accordance with Regulation 31, the Stakeholders
+Consultation Committee (SCC) was formally constituted on
+07.12.2021, providing the Liquidator with a consultative body for
+decisions relating to selling strategies, timelines, and evaluation of
+offers enabling the Liquidator to proceed with liquidating the assets of
+the Corporate Debtor in consultation with the SCC.
+vii.
+In February 2022, the Liquidator received an email dated 25.02.2022
+from a prospective buyer expressing interest in purchasing the
+Corporate Debtor as a Going Concern under Regulation 32A. In order
+to ensure the buyer’s seriousness, the Liquidator responded by asking
+for a security deposit of Rs. 2 crore as a condition to consider such
+proposal.
+viii.
+Since the buyer did not deposit the security amount, by the date, when
+the sale notice needed to be publicised, the Liquidator published a Sale
+Notice dated 13.03.2022 for a piecemeal sale of assets. However, on
+17.03.2022, the buyer deposited the entire security amount of Rs. 2
+crores. The Liquidator acknowledged the deposit on the same day and
+informed the buyer that the matter would be placed before the SCC.
+ix.
+The fourth SCC meeting held on 22.03.2022 considered the proposal
+to sell the Corporate Debtor as a Going Concern and, after deliberation,
+decided that the reserve price for such sale should be fixed at Rs. 90
+crores. This decision effectively shifted the liquidation strategy from
+piecemeal sale to Going Concern sale.
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+x.
+Pursuant to discussions within the SCC, the Liquidator issued a
+cancellation notice dated 02.04.2022 withdrawing the earlier Sale
+Notice of 13.03.2022 and published a revised Sale Notice dated
+05.04.2022 (published on 07.04.2022) for sale of the Corporate Debtor
+as a Going Concern under Regulation 32A.
+xi.
+In response to the fresh sale notice, several prospective bidders,
+including the Respondent, deposited their Earnest Money Deposits
+(EMD), thereby becoming eligible to participate in the scheduled e-
+auction as per the terms of the E-Auction Process Document.
+xii.
+During the e-auction preparations, emails dated 16.04.2022 were sent
+by the Appellant informing bidders of a technical error committed by
+another bidder, M/s GB Hospitality, who had inadvertently entered a
+bid of Rs. 1242 crores instead of Rs. 124.2 crores. This error compelled
+the Liquidator to reschedule the auction to ensure fairness and
+transparency.
+xiii.
+One of the bidders, M/s Trailblazer, objected through an email dated
+17.04.2022, asserting that it’s bid of Rs. 124.40 crores should be
+treated as valid and that a fresh auction would be unwarranted. This
+triggered administrative and procedural review by the Liquidator
+before proceeding further.
+xiv.
+After reviewing the situation and auction records, the Liquidator
+issued detailed communications on 18.04.2022, clarifying that the
+highest valid bid of Rs. 124.40 crores had not been rejected; however,
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+due to the technical error by another bidder, the auction process
+needed to be re-started to maintain fairness and give every eligible
+bidder an equal opportunity.
+xv.
+The re-started e-auction at 3 PM on 18.04.2022 saw both M/s
+Trailblazer and the Respondent entering identical bids of Rs. 124.40
+crores, rendering the process inconclusive, because no bidder
+exceeded the tie value. This necessitated a further round of competitive
+bidding.
+xvi.
+To break the tie, the Liquidator instructed all bidders to reconvene at
+6 PM on 18.04.2022, and in that round, the Respondent quoted the
+highest amount of Rs. 124.60 crores. This amount exceeded all
+previous bids and was recorded in the auction report as the highest
+bid for the Going Concern sale.
+xvii.
+The SCC met for its fifth meeting on 20.04.2022 to evaluate the bidding
+outcome and declared the Respondent as the H1 bidder. During this
+meeting, the representative of the Respondent was invited for
+interaction with the SCC members to discuss the viability and next
+steps of the sale.
+xviii.
+Acting upon the auction results, the Liquidator issued an email dated
+26.04.2022 formally requesting the Respondent to deposit 25% of the
+bid amount i.e. Rs.29.15 crores (after adjusting the EMD) within 15
+days i.e. on or before 11.05.2022 as required under the E-Auction
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+Process Document, so that the Letter of Intent could be issued to the
+Respondent.
+xix.
+The Unsuccessful bidder M/s Trailblazer filed I.A. No. 397/2022 before
+the Adjudicating Authority and, on 09.05.2022, obtained an interim
+restraint order based on its undertaking. This development was
+immediately communicated by the Liquidator to the Respondent
+through an email dated 10.05.2022.
+xx.
+The Respondent in his reply dated 11.05.2022 to the Liquidator, stated
+that since the Hon’ble Tribunal had stayed further steps arising out of
+the auction, it could not proceed to deposit the first instalment, until
+the stay was vacated. The Respondent indicated that it would take
+necessary steps only after final orders were passed in the application
+filed by M/s Trailblazer.
+xxi.
+During the hearing of I.A. No. 397/2022 before the Adjudicating
+Authority on 15.06.2022, the applicant (Trailblazer) chose to withdraw
+his application. As a result, the interim restraint order automatically
+stood vacated on the same day.
+xxii.
+Immediately after the withdrawal of the application filed vide I.A. No.
+396 of 2022, the Liquidator wrote to the Respondent on 16.06.2022,
+informing that the stay had been vacated and requesting the
+Respondent to deposit the first instalment of Rs.29.15 crores (being
+25% of the bid amount after adjusting the EMD). The Liquidator also
+highlighted that the Respondent had only 15 days from 26.04.2022
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+under the E-Auction Process Document to make this payment, and
+therefore urged immediate compliance.
+xxiii.
+The Liquidator, thereafter issued repeated reminders, including emails
+on 17.06.2022, 23.06.2022, 28.06.2022, and 29.06.2022 making it
+clear that the Respondent was contractually bound to deposit the first
+instalment promptly once the interim restraint had ceased, and that
+delay would amount to breach of auction terms entitling forfeiture of
+EMD.
+xxiv.
+In response, the Respondent sent an email on 18.06.2022 stating that
+although the application had been withdrawn on 15.06.2022, it was
+awaiting the formal publication of the written order of the Adjudicating
+Authority before making any deposit. The Liquidator clarified that
+withdrawal of the application itself vacated the stay and restored full
+authority to proceed, but despite this clarification, the Respondent did
+not make the required payment.
+xxv.
+The certified copy of order of Adjudicating Authority dated 15th June
+2022 was received by the Appellant on 23.06.2022 and the same was
+sent to the respondent vide an attachment to email of the same date.
+The liquidator once again requested the respondent to make payment
+of the balance amount.
+xxvi.
+As the Respondent failed to comply with payment terms even after
+repeated reminders and since the statutory timelines under the
+E-Auction Process Document had long expired, the Liquidator, by
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+letter dated 01.07.2022 and a follow-up email dated 04.07.2022,
+cancelled the sale in favour of the Respondent and forfeited its EMD.
+The Liquidator also informed the Respondent that due to its non-
+payment, the Going Concern sale could not be completed and therefore
+a fresh auction process would be undertaken.
+xxvii.
+On 12.07.2022, the Liquidator formally notified the Respondent that
+the earlier auction in which it was declared H1 now stood cancelled
+owing to its non-compliance, and that a fresh sale process would be
+initiated. Despite this explicit communication, the Respondent did not
+challenge the cancellation at that stage nor offer to deposit the first
+instalment.
+xxviii.
+Subsequently, the Respondent filed I.A. No. 800/2022 in August 2022,
+seeking refund of its forfeited EMD on the grounds that it was
+prevented from paying the first instalment due to the interim restraint
+order. The Liquidator opposed the application, submitting that the
+Respondent was obligated under the auction terms to make payment
+immediately once the stay was vacated and its failure constituted a
+clear breach warranting forfeiture.
+xxix.
+Meanwhile, the Liquidator continued the liquidation process, and in
+the seventh SCC meeting held on 01.08.2022, it was resolved that the
+Corporate Debtor’s “Block A” assets would be sold as a Going Concern
+whereas “Block B to H” would be sold piecemeal, reflecting a re-
+structuring of the sale strategy in the interest of maximising value for
+stakeholders.
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+xxx.
+Acting on this revised SCC decision, the Liquidator issued a fresh Sale
+Notice on 04.08.2022, inviting bids for the restructured sale process.
+The deadline for deposit of EMDs was fixed as 24.08.2022, and
+Shakambhari Ispat & Power Ltd. deposited the EMD on the last date,
+successfully qualifying for the e-auction. The e- auction was held on
+26.08.2022, and pursuant to the bidding process, Shakambhari Ispat
+& Power Ltd. was declared as the highest bidder with an offer of
+Rs.103.40 crores. This was confirmed in the SCC meeting held on
+30.08.2022, which approved Shakambhari as the H1 bidder. Pursuant
+to this the Liquidator issued a Letter of Intent (LoI) on 07.09.2022 to
+Shakambhari Ispat & Power Ltd., requiring payment of the balance
+consideration. The entire sale consideration was successfully received
+by the Liquidator by 15.09.2022, after which symbolic possession of
+the assets was handed over to the auction purchaser. The Liquidator
+executed and issued the Sale Certificate on 28.09.2022 under
+Regulation 33 of the Liquidation Regulations, thereby completing the
+Going Concern sale of Block A and finalising distribution and
+liquidation steps for that asset block.
+xxxi.
+I.A. No. 800/2022 filed by the Respondent seeking refund of forfeited
+EMD came up for final adjudication, and upon hearing the parties, the
+Adjudicating Authority passed the impugned order dated 17.01.2023,
+directing the Liquidator to refund the EMD amount to the Respondent.
+xxxii.
+Aggrieved by the impugned order, the appellant has preferred the
+present appeal under Section 61 of the Code, 2016.
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+
+Submissions of the Appellant
+3.
+Mr. Krishnendu Datta, Ld. Sr. Counsel for the Appellant submits that
+the present appeal has been preferred by Ms. Deepika Bhugra Prasad, in
+her capacity as the Liquidator of Ess Dee Aluminium, assailing the
+impugned order dated 17 January 2023 passed by the Learned Adjudicating
+Authority (NCLT, Kolkata Bench), whereby IA No.800 of 2022 in C.P. (IB)
+No.1284/2019 filed by the Respondent, Lucky Holdings Private Limited was
+allowed.
+4.
+The Ld. Sr. Counsel submits that the said Interlocutory Application
+had challenged the Liquidator’s letter dated 01 July 2022, through which
+the Appellant, in exercise of her powers under the auction terms, cancelled
+the Respondent’s bid and forfeited the EMD of INR 2 Crores due to the
+Respondent’s failure to comply with the payment timelines. It is the
+Appellant’s case that the terms of the auction expressly authorized such
+forfeiture, and the Adjudicating Authority erred in law and fact in setting
+aside the same.
+5.
+Ld. Senior Counsel gave a brief chronology of events of the auction
+conducted by the Appellant. The Liquidator published a sale notice on 05
+April 2022 inviting bids to sell the Corporate Debtor as a going concern in
+terms of Regulation 32A of the IBBI Liquidation Regulations, 2016. Clause
+2 of the Sale Notice states that the auction shall be conducted as per the e-
+auction process document. Clause 4 states that all bidders must deposit Rs.
+2Cr as an Earnest Money Deposit (“EMD”). Clause 9 states that “Default in
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+deposit of the balance amount by the successful bidder within the time limit
+as mentioned in the Email would entail forfeiture of the entire amount
+deposited (EMD + Any Other Amount) by the Successful Bidder”.
+6.
+The Liquidator published the e-auction process document on 07 April
+2022, which contained detailed terms governing the auction. Clause
+13.5(vii) specifically states that a bidder’s EMD may be forfeited, “if the
+Successful Bidder fails to make the payments of the 1st Instalment Payment
+within 15 days from the declaration as Successful Bidder in accordance with
+the terms of the e-Auction Process Document”.
+7.
+Ld. Counsel states that the Respondent executed and submitted to
+the Appellant a declaration in the form of an affidavit on 13 April 2022.
+Clause 6 of the declaration submitted by the Respondents specifically
+affirms that the Respondent agrees their EMD is liable to be forfeited in the
+event they fail to adhere to the prescribed timelines.
+8.
+The Respondent submitted a bid for Rs.124.60 Cr. on 18th April 2022.
+The said bid emerged the highest, and vide letter/Email dated 26 April 2022,
+the Appellant declared the Respondent H-1 bidder. In line with the timelines
+prescribed in the e-auction process document, the Appellant also called
+upon the Respondent to pay the first instalment aggregating to Rs.29.15Cr
+within 15 days, i.e., on or before 11 May 2022.
+9.
+The Appellant was served with an application on 02 May 2022, which
+was eventually numbered IA 397 of 2022, filed by one unsuccessful bidder,
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+Trailblazer Edusol Private Limited. The Appellant sent a copy of the
+application to the Respondent by way of email dated 02 May 2022.
+10.
+Ld. Counsel submits that on 09 May 2022 i.e., two days before the 11
+May deadline, the I.A 397 was listed before the Ld. Adjudicating Authority
+and interim orders were passed on the same day. The order dated 09 May
+2022 records as follows, “Ld. Counsel appearing for the Liquidator
+undertakes not to go ahead with the sale and seeks time to file reply
+affidavit...”. By an email dated 10 May 2022, the Appellant informed the
+Respondent regarding the order dated 09 May 2022.
+11.
+The Respondent sent a letter to the Liquidator dated 11.05.2022. By
+way of the said letter, the Respondent requested the Appellant to postpone
+the date demand of the 1st instalment till the final resolution of the dispute.
+Pertinently, the Respondent never stated that they would not be interested
+in making the first payment after the disposal of IA 397. In line with the
+Respondent’s request, the Appellant never made any demand for the 1st
+instalment during the stay period.
+12.
+Ld. Sr Counsel states that on 15 June 2022 the Applicant in IA 397
+unconditionally withdrew the said application. Accordingly, the statement
+made by the Appellant recorded in the order dated 09 May 2022 stood
+withdrawn.
+13.
+The Appellant on 16 June 2022 wrote to the Respondent informing
+them regarding the order dated 15 June 2022 and calling upon them to
+make the payment within two days. This was because the auction was
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+interdicted when the Respondent had two days left to make the first
+payment. The Respondent did not reply, forcing the Appellant to send a
+reminder on 17 June 2022. The Respondent replied on 18 June 2022 stating
+that they are evaluating the legal implications of the order dated 15 June
+2022. Pertinently, the Respondent never said they would not go through
+with the sale at this stage.
+14.
+01 July 2022: After the Respondent’s reply on 18 June 2022, the
+Appellant called upon the Respondent to make the payment on 26 June, 28
+June and 29 June. Since the Respondent failed to make any payment, the
+Appellant was constrained to cancel the sale and forfeit the EMD submitted
+by the Respondent vide Letter dated 01 July 2022.
+15.
+Thereafter, the Respondent filed the Subject IA No. 800 on 2 August
+2022 challenging the Intimation Letter dt 01 July 2022. Ld. Sr. Counsel
+stated that vide the Impugned Order dated 17 January 2023, the AA allowed
+the IA No. 800 and directed the Appellant to refund the EMD. The Impugned
+Order incorrectly applied Section 74 of the Indian Contract Act, 1872 and
+held that no specific loss had been proved by the Appellant.
+16.
+In the meantime, the Corporate Debtor was once again put to auction
+on 26 August 2022 and Shakambhari Ispat & Power Limited emerged as H-
+1 with a bid of INR 103.40 Cr (as opposed to the Respondents’ bid of 124.60
+Cr).
+17.
+The Ld. Counsel submits that the Sale Notice, E-Auction Process
+Document, and Declaration executed by the Respondent form an integrated
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+and binding contractual framework. Each of these documents expressly
+provides that the EMD is liable to forfeiture in the event of default in
+payment of the sale consideration within the prescribed time.
+18.
+Ld. Counsel emphasized that the Respondent never disputed the
+validity or applicability of these terms. Having participated voluntarily, the
+Respondent is estopped from denying their operation. The 15-day payment
+period, suspended by the interim restraint from 09 May 2022 to 15 June
+2022, expired on 18 June 2022 upon exclusion of that period. The
+Liquidator even granted an extended period up to 30 June 2022, which the
+Respondent failed to utilize. Thus, the forfeiture was fully in accordance
+with the agreed auction conditions.
+19.
+The Ld. counsel submits that the Respondent’s default is undisputed.
+Neither in its letter dated 11 May 2022 nor in its reply dated 18 June 2022
+did the Respondent deny its obligation or express inability to pay. Instead,
+the Respondent continued to make conditional statements, suggesting its
+intent to “evaluate” matters, which is clearly a delaying tactics.
+20.
+The counsel submits that the Respondent’s subsequent claim of a fall
+in aluminium prices is untenable, as market volatility is an inherent
+commercial risk which cannot excuse contractual non-performance. Having
+bid competitively, the Respondent cannot avoid its obligations by citing
+post-auction price changes.
+21.
+The Ld. Counsel submits that the Adjudicating Authority’s reliance
+on Section 74 of the Indian Contract Act, 1872, is wholly misplaced. The
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+forfeiture in the present case arises not from a private contractual penalty,
+but from a statutory auction mechanism governed by the Liquidation
+Process Regulations. The relationship between the Liquidator and the bidder
+is not governed by a traditional contract, but by statutorily prescribed
+conditions, duly accepted by the bidder.
+22.
+Ld. Counsel further stated that even otherwise, the actual loss is
+evident, as the re-auction fetched Rs. 21.20 Crores less than the
+Respondent’s bid. Thus, even under Section 74, the forfeiture amount of Rs.
+2 Crores is justified as reasonable compensation.
+23.
+The Ld. Counsel submits that the Adjudicating Authority failed to
+appreciate the statutory scheme governing liquidation auctions. The
+impugned order incorrectly treats the forfeiture as penal measure,
+disregarding the explicit terms agreed by the Respondent and the settled
+jurisprudence on the issue. The finding that the Liquidator failed to prove
+loss is erroneous, since the monetary impact of the re-auction itself
+demonstrates substantial detriment to the liquidation estate.
+24.
+The Ld. counsel further submits that the Liquidator’s authority to
+forfeit the EMD is statutory under the IBBI (Liquidation Process)
+Regulations, 2016, and judicially upheld in multiple precedents. The
+counsel relies upon the following judgments:
+(i) In ‘Westcoast Infraprojects Pvt. Ltd. v. Ram Chandra Dallaram
+Chaudhary, Liquidator of Anil Ltd.’, [Company Appeal (AT)(Ins.) No.
+1258 of 2022], 2023 SCC OnLine NCLAT 223] which was decided on
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+28.04.2023, this Hon’ble Tribunal held that once the successful
+bidder defaults in making payment within the stipulated time, the
+Liquidator is fully empowered to cancel the sale and forfeit the EMD
+and any other amounts deposited, as per Schedule I of the Liquidation
+Regulations.
+He further stated that the Hon’ble Supreme Court, in Civil Appeal No.
+4087 of 2023, decided on 05 July 2023, dismissed the appeal,
+affirming the NCLAT’s finding and thereby settling the law that
+Section 74 of the Indian Contract Act has no application to forfeiture
+under liquidation auctions.
+(ii) In ‘BRS Refineries v. Supriyo Kumar Chaudhary, Liquidator of JVL Agro
+Industries Ltd.’, [Company Appeal (AT)(Ins.) No. 1477 of 2023,
+MANU/NL/0511/2024] decided by this Appellate Tribunal on
+16.07.2024, reaffirmed that the Liquidator’s power to forfeit EMD
+flows from the auction process and not from a penal clause, and hence
+cannot be interfered with under Section 74.
+(iii) In ‘Potens Transmission & Power Pvt. Ltd. v. Apex Buildsys Ltd.,
+[Company Appeal (AT)(Ins.) No. 1543 of 2023]’ -this Appellate Tribunal
+held that the maximum payment period under Schedule I of the e-
+auctioned process document provided is 90 days and that non-
+payment within such period mandates cancellation and forfeiture. It
+also held that when forfeiture take place under the terms and
+conditions of a public auction under Liquidation Process Regulations,
+Section 74 of the Indian Contract Act has no application.
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+(iv) In ‘Vikram Bajaj, Liquidator of Best Foods Ltd. v. ASJ Finsolutions Pvt.
+Ltd.’, [Company Appeal (AT)(Ins.) No. 1612 of 2024]’ decided on
+21.01.2025, it was reiterated by this Appellate Tribunal that forfeiture
+is a legitimate consequence of default under statutory auction
+conditions.
+
+25.
+The counsel emphasizes that these judgments collectively affirm the
+Liquidator’s power to forfeit deposits and reject the application of Section 74
+of the Contract Act in liquidation sales.
+26.
+The Ld. Sr. Counsel for the Appellant submitted that the Respondent
+committed a clear default under the auction terms, and the Liquidator’s
+decision to cancel the sale and forfeit the EMD was fully justified,
+proportionate, and in compliance with statutory provisions.
+The
+Adjudicating Authority erred in applying Section 74 of the Contract Act to a
+statutory auction and in ignoring binding precedents of this Hon’ble
+Tribunal and the Hon’ble Supreme Court.
+27.
+Accordingly, the counsel submits that the impugned order deserves
+to be set aside, and the Liquidator’s action dated 01 July 2022 should be
+upheld.
+Submission of Respondent
+28.
+Sh. Abhijeet Sinha, Ld. Sr. Counsel for the Respondent submits that
+the said Application, being IA No. 800 of 2022, was filed by the Respondent
+before the Hon’ble NCLT seeking refund of the Earnest Money Deposit that
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+had been wrongfully forfeited by the Appellant. The EMD had been deposited
+by the Respondent pursuant to the Sale Notice dated 05.04.2022 issued for
+sale of the Corporate Debtor as a going concern under Regulation 32A of the
+IBBI (Liquidation Process) Regulations, 2016. The forfeiture of such deposit
+was wholly arbitrary and unjustified.
+29.
+Ld. Sr. Counsel submits that the e-auction of the Corporate Debtor
+was initially conducted on 16.04.2022, which was subsequently extended
+till 18.04.2022 due to a bidding error committed by another participant, GB
+Hospitality (India) Pvt. Ltd.. It is submitted that GB Hospitality inadvertently
+placed a bid of Rs. 1242 crores instead of Rs. 124.20 crores, an error
+exceeding Rs. 1100 crores. This was clarified by GB Hospitality through its
+email dated 16.04.2022, addressed to the Appellant–Liquidator.
+30.
+Ld. Sr. Counsel further submits that, upon receiving this clarification,
+the Appellant issued an email dated 16.04.2022, acknowledging the error
+and declaring that the auction would recommence on 18.04.2022 at 11:00
+A.M., starting from the last valid bid of Rs. 124 crores. The said email clearly
+demonstrates that the auction process had been restarted by the Appellant
+herself.
+31.
+Ld. Sr. Counsel for the Respondent submits that the auction resumed
+on 18.04.2022, and upon conclusion of the extended round, both the
+Respondent and Trailblazer submitted the highest bids of Rs. 124.40 crores
+each. Thereafter, a fresh bidding round was commenced at 6:00 P.M. the
+same day, from which the Respondent emerged as the final H1 bidder with
+a bid of Rs. 124.60 crores.
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+32.
+Ld. Sr. Counsel further submits that after the Respondent was
+declared as the H1 bidder, Trailblazer filed an application, being IA No. 397
+of 2022, before the Hon’ble NCLT seeking to be declared as the H1 bidder
+based on its participation in the auction held on 16.04.2022. During the
+hearing of the said application, the Appellant–Liquidator, of her own
+volition, gave a unilateral undertaking before the Hon’ble NCLT that she
+would not proceed with the sale. Reliance in this regard is placed on the
+Order dated 09.05.2022, which records the said undertaking.
+33.
+Ld. Sr. Counsel for the Respondent submits that this unilateral
+undertaking was made by the Appellant without any prior intimation or
+consent of the Respondent. In fact, the Respondent was not even impleaded
+as a party in the said proceedings at that stage. This fact is clear from
+paragraph 2 of the Order dated 09.05.2022, wherein the Hon’ble NCLT
+directed Trailblazer to implead the Respondent as a party. Therefore, the
+Appellant acted entirely on her own accord, thereby delaying and
+obstructing the sale process.
+34.
+Ld. Sr. Counsel further submits that despite furnishing such
+undertaking before the Hon’ble NCLT, the Appellant, by email dated
+10.05.2022, did not disclose the fact of the undertaking to the Respondent.
+Instead, the said email merely informed the Respondent that it had been
+impleaded as a party in IA No. 397 of 2022, thereby deliberately concealing
+a material fact and misleading the Respondent.
+35.
+Ld. Sr. Counsel submits that in view of the pending proceedings
+initiated by Trailblazer, the Respondent addressed a letter dated 11.05.2022
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+to the Appellant requesting postponement of the first instalment payment
+of 25% of the sale consideration. It is significant to note that even on this
+date, the Respondent remained unaware of the undertaking unilaterally
+furnished by the Appellant before the Hon’ble NCLT.
+36.
+Ld. Sr. Counsel for the Respondent submits that thereafter,
+Trailblazer’s IA No. 397 of 2022 was withdrawn vide Order dated
+15.06.2022, and consequently, the Appellant’s unilateral undertaking stood
+vacated. However, instead of informing the Respondent of this development,
+the Appellant issued an email dated 16.06.2022 demanding immediate
+payment of the first instalment without providing a copy of the said order.
+The Respondent, therefore, by email dated 18.06.2022, sought a copy of the
+order and requested time until 30.06.2022 to respond.
+37.
+Ld. Sr. Counsel further submits that the Appellant herself did not
+possess a copy of the Order dated 15.06.2022 until 23.06.2022, when the
+same was finally shared with the Respondent. Notwithstanding this, the
+Appellant proceeded to issue another email on 26.06.2022 threatening
+forfeiture of the EMD, even before the Respondent had expressed its
+intention regarding continuation of the sale. Subsequently, by email dated
+01.07.2022, the Appellant illegally forfeited the Respondent’s EMD of Rs. 2
+crores, compelling the Respondent to approach the Hon’ble NCLT through
+IA No. 800 of 2022, resulting in the Impugned Order.
+38.
+Ld. Sr. Counsel for the Respondent submits that the timelines
+mentioned in the Sale Notice and E-auction Process Document cannot be
+enforced against the Respondent since the delay in completion of the sale
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+process was entirely attributable to the Appellant. When the Respondent
+was declared as the successful H1 bidder on 26.04.2022, the first
+instalment was to be paid by 09.05.2022. However, the Appellant’s
+unilateral undertaking before the Hon’ble NCLT and her failure to
+communicate the same to the Respondent caused a complete standstill in
+the process.
+39.
+It is submitted by Ld. Sr. Counsel that the Appellant cannot now take
+advantage of her own wrong by alleging that the Respondent failed to meet
+the stipulated timelines. It was the Appellant’s own act of suspending the
+process and concealing material facts that resulted in the breach of the
+timeline.
+40.
+Ld. Sr. Counsel places reliance on the judgment of this Appellate
+Tribunal in Nitin Jain, Liquidator of PSL Limited v. Lucky Holdings Pvt. Ltd.,
+Company Appeal (AT) (Ins.) No. 1390 of 2022, wherein it was categorically
+held that when the delay is not attributable to the successful bidder, the
+Liquidator cannot forfeit the EMD. The ratio of the said judgment squarely
+applies to the present case, as the delay arose solely due to the conduct of
+the Appellant.
+41.
+Ld. Sr. Counsel argues that the reliance placed by the Appellant on
+the following judgments is entirely misplaced:
+ West Coast Infraprojects Pvt. Ltd. v. Ram Chandra Dallaram
+Choudhary, Liquidator of Anil Ltd.
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+ BRS Refineries v. Supriyo Kumar Chaudhari, Liquidator, JVL Agro
+Industries Ltd.
+ Potens Transmission & Power Pvt. Ltd. v. APEX Buildsys Ltd.
+ Vikram Bajaj, Liquidator of Best Foods Ltd. v. ASJ Finsolutions Pvt.
+Ltd.
+42.
+Ld. Sr. Counsel submits that in all these cases, the forfeiture of EMD
+was upheld only because the successful bidder failed to deposit the sale
+consideration despite repeated notices. In contrast, in the present case, the
+Respondent never defaulted; rather, it was prevented from performing due
+to the Appellant’s own actions.
+43.
+He further submitted that because of the Appellant’s undertaking and
+delay, the market value of aluminium drastically dropped, rendering the
+transaction commercially unviable. The Corporate Debtor was later sold for
+Rs. 103.40 crores, nearly Rs. 21.20 crores less than the Respondent’s offer
+of Rs. 124.60 crores. Hence, any loss, if at all, is entirely the consequence
+of the Appellant’s conduct.
+44.
+Ld. Sr. Counsel submits that the Appellant’s contention regarding the
+inapplicability of Sections 73 and 74 of the Indian Contract Act, 1872 is
+misconceived. These provisions would apply to determine compensation or
+forfeiture in case of breach. Here, since the breach was on the part of the
+Appellant, forfeiture of EMD would amount to unjust enrichment, which the
+law does not permit.
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+45.
+Ld. Sr. Counsel for the Respondent submits that the contention of
+alleged loss of Rs. 21.20 crores, raised for the first time in this Appeal, was
+never pleaded before the Hon’ble NCLT. The Impugned Order itself records
+that no such plea was raised by the Appellant–Liquidator. Therefore, the
+Appellant cannot be permitted to raise a new ground at the appellate stage.
+46.
+He further submitted that even assuming some loss occurred, the
+same was entirely due to the Appellant’s unilateral act of suspending the
+sale and concealing her undertaking from the successful bidder. The
+subsequent fall in aluminium prices was the result of her own conduct and
+cannot now be used to justify forfeiture of the Respondent’s deposit.
+47.
+Learned Counsel for the Respondent submits that Clause 13.5 of the
+E-auction Information Document enumerates specific circumstances under
+which the Liquidator may forfeit the EMD. None of these provisions
+authorize forfeiture in situations where the failure to conclude the sale is
+due to the Liquidator’s own acts or omissions. In the present case, since the
+Appellant’s unilateral undertaking was the sole cause of failure, the
+forfeiture was wholly illegal and without jurisdiction.
+48.
+Learned Counsel for the Respondent therefore respectfully submits
+that, in light of the above facts, chronology, and settled judicial precedents,
+the impugned order dated 17.01.2023 was rightly passed by the Hon’ble
+NCLT and calls for no interference by this Hon’ble Appellate Tribunal. The
+Appellant–Liquidator’s forfeiture of the EMD was arbitrary, inequitable, and
+contrary to the process document and law. The Respondent thus prays that
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+the present Appeal be dismissed with costs and that the direction for refund
+of Rs. 2,00,00,000/- (Rupees Two Crores Only) be upheld.
+
+Analysis and findings
+49.
+We have heard both the parties in detail, gone through the
+voluminous records of the case and also seen the written submissions of
+both the parties. Based on the same, we frame the following issue for
+determination:
+“Whether the Liquidator acted in accordance with law in
+cancelling the sale and forfeiting the Earnest Money Deposit;
+and whether the Impugned Order dated 17.01.2023,
+directing refund of the EMD, can be sustained in law.”
+50.
+The Appellant/Liquidator submits that the Respondent voluntarily
+accepted all auction terms, including the requirement to deposit 25% of the
+bid amount within 15 days of being declared the highest bidder, and the
+express clauses permitting forfeiture of EMD in case of any failure to meet
+the timelines. The Respondent was declared H1 on 26.04.2022, making the
+first instalment payable by 11.05.2022, and had consumed 13 of the 15
+days before the hearing on 09.05.2022 in IA No. 397/2022, when the
+Liquidator gave a limited undertaking not to proceed with the sale pending
+reply. It is argued that this undertaking merely paused the countdown; it
+did not restart or alter the payment structure. Once the said IA was
+unconditionally withdrawn on 15.06.2022, the Respondent was required to
+pay within the balance time. The Appellant states that reminders dated
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+16.06.2022, 17.06.2022, 23.06.2022, 26.06.2022, 28.06.2022, and
+29.06.2022 elicited no firm assurance or payment, and that the
+Respondent’s evasive responses reflected hesitation rather than readiness.
+It is further stated that liquidation sales cannot tolerate such uncertainty
+and that the subsequent auction in August 2022 fetching only Rs.103.40
+crore, compared to the Respondent’s Rs.124.60 crore, demonstrates the
+financial prejudice caused by delay. The Appellant contends that the
+Impugned Order erred in treating the forfeiture as a penal measure under
+Section 74 of the Contract Act, ignoring binding precedents such as
+‘Westcoast Infraprojects Private Limited v. Ram Chandra Dallaram
+Choudhary, Liquidator of Anil Limited’, [2023 SCC OnLine NCLAT 223],
+which was affirmed by the Hon’ble Supreme Court in ‘Westcoast
+Infraprojects Private Limited v. Ram Chandra Dallaram Choudhary’, [Civil
+Appeal No. 4087 of 2023 (order dated 25.07.2023). The Appellant asserts
+that the Impugned Order is unsustainable as it overlooks the contractual
+and statutory nature of liquidation auctions.
+51.
+The Respondent, on the other hand, contends that the Liquidator’s
+undertaking before the Adjudicating Authority on 09.05.2022 prevented it
+from making the payment by the original due date of 11.05.2022 and
+created uncertainty regarding the status of the sale. According to the
+Respondent, the obligation to pay revived only when the order dated
+15.06.2022 was received on 23.06.2022, leaving inadequate time to arrange
+funds. It claims that the Liquidator acted with unwarranted haste in
+insisting on immediate payment and threatening forfeiture. It also contends
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+that no Letter of Intent was issued, and no loss was demonstrated, both of
+which, according to the Respondent, indicate that forfeiture was unjustified.
+The Respondent thus supports the Impugned Order and claims that it was
+unfairly penalised.
+52.
+We begin by noting that auctions in liquidation proceedings under the
+Code operate in a framework which is distinct from ordinary commercial
+contracts. Unlike bilateral transactions, where parties negotiate terms; a
+liquidation sale takes place under a statutory umbrella of the Code and
+Liquidation Regulations with predefined conditions; strict timelines; and
+automatic consequences for default. A bidder who participates in such an
+auction voluntarily subjects itself to those conditions, and the Liquidator is
+obligated to implement them strictly in accordance with Code in order to
+protect value of assets; ensure certainty; and maintain the timeline
+mandated under the Liquidation Process Regulations. It is in this context
+that the present dispute must be examined. The question before us is
+whether the Respondent complied with the obligations it had accepted, and
+whether the Liquidator acted within her statutory and contractual authority
+when she cancelled the sale and forfeited the EMD. The issue also requires
+us to evaluate whether the Impugned Order correctly appreciated these
+foundational aspects or proceeded on an erroneous application of principles
+borrowed from commercial contexts outside the purview of the Code.
+53.
+At this point, it may be recorded that the relevant clauses of the Sale
+Notice; E-Auction Process Document: and the Declaration executed by the
+Respondent (including clauses mandating 25% payment within 15 days,
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+prohibiting withdrawal, and providing for forfeiture of EMD) need to be
+looked into for correct appreciation of facts.
+54.
+The clause 9 of the terms and conditions of the e-auction deals with
+the matters relating to Earnest Money Deposits. The clause 9 is extracted
+below:
+“9. The EMD of the Successful Bidder shall be retained
+towards
+part
+sale
+consideration
+and
+the
+EMD
+of
+unsuccessful bidders shall be refunded. The EMD shall not
+bear any interest. The Liquidator will issue a Letter of Intent
+(LOI) to the Successful Bidder after receiving 25% of the total
+bid value including EMDE amount within (25% successful
+bid amount-EMD Amount) within 15 days on issuance of H1
+bidder and accordingly a LOI will be issued by the
+Liquidator. Default in deposit of the balance amount by the
+successful bidder within the time limit as mentioned in the
+E-mail would entail forfeiture of the entire amount deposited
+(EMD +Any Other Amount) by the Successful bidder.”
+
+55.
+The appellant thereafter in invitation for bids of e-auction of the assets
+of the corporate debtor in liquidation, issued e-Auction Process Information
+Document and the following clauses of the said document are relevant:-
+“12.1 The liquidator proposes to conduct the sale of company
+on a going concern basis as contemplated under Regulation
+32(e) of the Liquidation Process Regulations, 2016 through
+E-Auction Process Document.
+xxxx
+It is clarified that from the date of submission of the Bid, the
+Qualified Bidders shall not be entitled to withdraw, cancel or
+renegotiate the Bid under any circumstances or for any reason
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+(including for any delay in getting the Final Approval Order)
+and by participating in this E-auction process, the Qualified
+Bidders specifically waive any such right to withdraw, cancel
+or renegotiate the Bid under all applicable law. In the event the
+Qualified Bidder makes any attempt to withdraw/cancel the
+Bid, renegotiate or4 does not complete payment of the sale
+consideration as per the timelines set out herein, the EMD, 1st
+installment and any other amounts paid by the Bidder shall be
+forfeited and the Bidder shall not be entitled to a refund of the
+same.
+12.2.4 The Successful Bidder shall be required to submit the
+1st Installment of 25% of successful bid amount less-EMD
+already submitted, within 15 days from declaration as
+Successful Bidder by the Liquidator.
+13.5.1 It is to be noted that the EMD furnished can be forfeited
+at any time, upon the occurrence of any of the following events:
+i) xx
+ii) xx
+iii) xxx
+iv) xxx
+v) xx
+vi) xx
+vii) if the Successful Bidder fails to make the payment of the
+1st installment Payment within 15 days from the declaration
+as Successful Bidder in accordance with the terms of the E-
+auction Process Document; or
+(Emphasis Supplied)
+56.
+Thereafter a declaration was taken from the bidders in the form of an
+affidavit. This was furnished by the Respondent on 13.04.2022. The relevant
+para 6 of the declaration are as under:-
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+“6. I/We also agree that after my/our offer given in my/our
+bid for purchase of property(ies) is accepted by the Seller and
+if, I/We fail to accept or act upon the terms and conditions of
+the sale or am/are not able to complete the transaction
+within the time limit specified for any reasons whatsoever
+and/or fail to fulfill any/all the terms and conditions of the
+auction and offer letter, the EMD and other monies paid by
+me/us along with the online form and thereafter, are liable
+to be forfeited. The timeline for payment of final sale
+consideration may be extended by sole discretion of
+liquidator, to the extent permissible under the applicable
+laws and regulations. In case final sale consideration is not
+paid within timeline, the liquidator shall forfeit EMD and/or
+Performance BG.
+
+(Emphasis Supplied)
+
+57.
+We note from the Clause 9 of sale notice, clauses 12.1, 12.2.4 and
+13.5.1 (vii) of e-auction process document and clause 6 of the affidavit
+submitted by the respondent that non-payment of balance amount within
+15 days from the date of declaration as H1 bidder would lead to forfeiture of
+EMD. The respondent has given an unequivocal undertaking regarding the
+same in his affidavit dated 13.04.2022.
+58.
+We therefore note that these three aforementioned documents
+together form a binding code of conduct governing the sale, and the
+Respondent agreed unconditionally to be bound by them.
+59.
+Turning to the factual record, we find it necessary to assess the
+Respondent’s conduct in a manner consistent with the structure of
+liquidation auctions. The Respondent was declared H1 on 26.04.2022.
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+Under the auction terms, the first instalment became due on 11.05.2022.
+The record shows that the Respondent did not raise any concern regarding
+the timeline at any point prior to 09.05.2022, nor did it indicate any inability
+or difficulty in arranging funds. On 09.05.2022, when IA No. 397/2022 was
+taken up, the Liquidator’s undertaking was limited and procedural, it was
+not a statement that the sale itself was under challenge or would not
+proceed. The Respondent, in fact, wrote on 11.05.2022 requesting
+postponement of the deposit until the “issue is resolved,” indicating clearly
+that it intended to go ahead with the purchase, but sought a short deferment
+while the application was pending. This correspondence confirms that the
+Respondent was not prevented from preparing to comply and that it
+expected to make the payment after the dispute was resolved.
+60.
+When IA No. 397/2022 was unconditionally withdrawn on
+15.06.2022, the temporary impediment stood completely removed. The
+Liquidator immediately resumed the timeline and called upon the
+Respondent to pay within the remaining period. Between 26th April 2022 to
+9th may 2022, a total of 13 days had already elapsed from the date of
+declaration of H1 bidder and as on 10th may 2022, when the information
+about orders of AA dated 9th may 2022 was communicated to the
+respondent, only two days were left for making the balance payment. The
+Respondent did not, at this stage or thereafter, dispute that only two days
+remained.
+61.
+On 15.06.2022, the applicant objecting to auction sale withdrew his
+application opposing the same, accordingly, AA allowed the withdrawal and
+
+[PAGE 33]
+-33-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+specifically noted that interim orders, if any, stand vacated. The order is
+extracted below:
+“ORDER SHEET ON 15th June 2022
+ORDER
+1. Ld. Counsel for the parties present.
+2. IA(IBC)/397(KB)2022 - Ld. Counsel appearing for the
+application seeks permission to withdraw the application.
+Permission is granted. IA stands disposed of. Interim order, if
+any -stands vacated.
+3. List rest of the IAs on 19/07/2022.”
+
+62.
+Immediately thereafter, the appellant liquidator wrote to the
+respondent on 16.06.2022 informing him about the decision of the Ld. AA
+and requested him to comply with the terms and conditions of the E-Auction
+document and comply with the mail which was sent by the liquidator on
+26.04. 2022, in particular, clause 12.2 of the e-auction process document.
+The relevant mail of the liquidator is extracted below:
+“On Thu, Jun 16, 2022 at 11:59 AM Ess Dee
+Aluminum/AAA Insolvency cessdee@aaainsolvency.com>
+wrote:
+Respected Sir/Mam,
+This mail is with-reference to the Liquidation Process of ESS
+DEE Aluminium Limited In Liquidation.
+It is pertinent to mention that as per trail mail and as per our
+previous communications wherein we imparted your good
+office that an application was filed by one of the bidders before
+Hon'ble NCLT Kolkata bench bearing IA No. 397/KB/2022. As
+per trail mail, the said (A was listed on 09.05.2022 wherein
+the counsel of the Liquidator undertakes that no further action
+will be taken by the liquidator with reference to the sale.
+
+[PAGE 34]
+-34-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+However, we would like to bring to your notice that the said A
+was listed yesterday i.e. on 15-06-2022 at Item no. 202
+wherein the counsel from the side of Liquidator appeared
+before the court. During the course of the hearing, the counsel
+from the side of Trailblazer (Applicant) specifically mentioned
+that they want to withdraw their application, and based upon
+their submission the court dismissed the application.
+In lieu of the same, the undertaking given by the liquidator
+stands vacated and the process of sale continues as per the
+terms and conditions of Sale and E-Auction Documents. Hence
+we request you to comply with the terms and conditions of the
+E-Auction document and comply with the mail which was sent
+by the liquidator on 26.04. 2022.
+Hence, you are requested to comply with the provision of the
+E-Auction Document by submitting the Ist Instalment as
+mentioned in the terms and conditions so that appropriate
+further cause of action can be taken. The relevant para of the
+auction document is as follows:
+"12.2 Auction Process
+12.2.4., The Successful Bidder shall be required to submit the
+1st Instalment of 25% of successful bid amount Less-EMD
+already submitted, within 15 days from the declaration as
+Successful Bidder by the Liquidator
+12.2.5. Based upon submission of Ist Installment, the
+Successful bidder will be required to depute their own security
+guard of the site along with the security guard of the liquidator
+for securing the assets of the Corporate Debtor until and
+unless a final order approving/rejecting the Going Concern is
+decided by appropriate adjudicating authority"
+According the 1st installment is calculated as follows:-
+Description
+Amount
+Highest Bid amount bid by Lucky
+Holding Pvt. Ltd.
+1,24,60,00,000
+
+25% of the bid amount as per E-Auction
+Document
+31,15,00,000
+
+Total amount of EMD Already Received
+2,00,00,000
+Remaining amount to be paid as 1st
+Instalment
+29,15,00,000
+
+Hence, it is requested from your office to kindly deposit the
+amount to the tune of Rs. 29,15,00,000/-within 2 days as per
+the terms and conditions of the E-Auction Process Document
+
+[PAGE 35]
+-35-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+(Excluding time already granted for making payment). Hence
+the said amount must be paid on or before 18/06/2022.”
+
+63.
+In response to the aforesaid email of liquidator, the Respondent vide
+his email dated 18.06.2022 wrote back saying that the are awaiting the final
+orders of the Hon’ble NCLT and sought time examine the same. They further
+sought time till 30th June 2022 for their further response. The email is
+extracted below:
+“On Sat, Jun 18, 2022, 4:36 PM Lucky Holdings Pvt
+Limited <luckyholdings01@gmail.com> wrote:
+Dear Madam,
+We are in receipt of your mail dated 16.06.2022 in the matter
+Ess Dee Aluminium Ltd, for payment of 01 Installment within
+18.06.2022. We are awaiting the NCLT order pertaining to the
+application IA No. 397/KB/2022, which was listed for hearing
+at NCLT Kolkata on 15.06.2022. Once we receive the Order,
+we shall evaluate the implications of the same with our legal
+team.
+Accordingly, we would request you to kindly hold the demand
+notice and allow us time till 30th June 2022, to get back to
+you.
+Regards.
+Devendra.”
+
+64.
+The certified copy of order dated 15th June 2022 was sent to the
+respondent on 23.06.2022 vide an attachment to email of the same date.
+The liquidator once again requested the respondent to make payment of the
+balance amount as per the trail mail which gave the details that in view of
+vacation of all ad-interim stays. The said email is extracted below:
+
+[PAGE 36]
+-36-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+“On Thu, Jun 23, 2022, 7:42 PM Ess Dee Aluminum /AAA
+Insolvency sessdee@aaainsolvency.com> wrote:
+Respected Sir/Mam,
+Kindly find the attached order dated 15.06.2022
+Based upon said order all interim stay stands vacated. Hence
+we request you make the payment as per trail mail.”
+
+65.
+The Liquidator, thereafter issued reminders, including emails on
+28.06.2022, and 29.06.2022 making it clear that the Respondent was
+contractually bound to deposit the first instalment promptly once the interim
+restraint had ceased, and that delay would amount to breach of auction
+terms entitling forfeiture of EMD. Despite repeated reminders through mails,
+no response was forthcoming from the respondent. Faced with no other
+option, the Liquidator, by letter dated 01.07.2022 and a follow-up email
+dated 04.07.2022, cancelled the sale in favour of the Respondent and
+forfeited its EMD.
+66.
+We note that even if we take 23.06.2022 as the date on which the
+orders of AA were communicated to the respondent, still he could have made
+payment within next two days as 13 days period was already over till
+09.05.2022. It is important to note that the Respondent still did not make
+any payment, partial or otherwise, nor did it give any firm date. Between
+23.06.2022 and 01.07.2022, the Respondent did nothing except ask for
+more time to “evaluate”. At no stage did the respondent show any inclination
+towards making payment nor did it seek further time from the liquidator.
+This clearly reflects that due to extraneous considerations like fall in the
+price of aluminum in international market, the respondent did not want to
+
+[PAGE 37]
+-37-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+go ahead with the purchase. Such an action of respondent was in clear
+violation of the terms and conditions of the auction process which was
+conducted by the liquidator in accordance with the liquidation regulations.
+67.
+We now turn to the reasoning adopted by the Adjudicating Authority.
+The Impugned Order proceeds on the assumption that the Respondent was
+handicapped and deprived of an opportunity to comply. The order
+emphasises the non-communication of the 15.06.2022 withdrawal order
+until 23.06.2022, the absence of an LOI, and the lack of pleading regarding
+loss.
+68.
+We now analyse these issues one by one. Firstly, the Respondent still
+had eight clear days after receiving the order and still he did not make any
+payment, nor did he give any concrete commitment for payment. Not going
+even that far, it did not seek time extension for payment, which was provided
+for by the clause 6 of the undertaking which the bidders had submitted.
+Nothing prevented it from depositing a portion of the amount, indicating his
+willingness to make full payment. So, this finding of the AA is contrary to
+the facts of the case.
+69.
+Secondly, regarding non-issuance of LOI by the liquidator to the
+respondent, we need to have a look at the relevant provisions of the E-
+Auction process document. The relevant clauses 14 and 15 of the e-auction
+process document deal with this matter. The same are extracted below:
+“14. LETTER OF INTENT
+The Successful Bidder shall be required to execute a LOI
+provided by the Liquidator within a period of 7 (seven) days
+
+[PAGE 38]
+-38-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+from the E-Auction date and after submission of 1st
+Installment as described under this auction document, and
+record unconditional acceptance of the LOI by providing the
+Liquidator with one copy of LOI with an endorsement stating
+that LOI is accepted unconditionally under the signature of the
+representative of the Successful Bidder, which shall be
+binding on the Successful Bidder. The LOI may be cancelled
+only by the Liquidator in her discretion as per the terms of this
+E-Auction Process Document.
+15. PAYMENT OF 1ST INSTALLMENT
+15.1 The successful bidder shall be required to submit the first
+installment towards the sale consideration for an amount of
+25% of successful bid amount including EMD (plus applicable
+Taxes if any), as "1st Installment" of Payment, within 15 days
+from declaration as Successful Bidder by the Liquidator.
+15.2 Mode of Payment of 1st Installment
+15.2.1 The 1st Installment, which would not be bearing any
+interest, has to be paid by the Bidder within 15 days from
+declaration as successful bidder by the Liquidator.”
+
+(Emphasis supplied)
+
+70.
+As we can see from the above, that under para 14 of the document,
+the successful bidder was required to execute the LOI only after submission
+of first instalment as described in the auction document. The amount and
+process of payment of first instalment is detailed in para 15 of the document
+as seen above. The first instalment which amounts to 25% of the successful
+bid amount including EMD had to be paid by the respondent within 15 days
+from declaration as successful bidder by the liquidator. Only after the
+payment of first instalment, the LOI could be executed. The submission of
+respondent is factually incorrect and Ld. AA, without going into the relevant
+document, has accepted this contention of respondent.
+
+[PAGE 39]
+-39-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+71.
+The third issue based on which Ld. AA allowed the appeal related to
+applicability of Section 74 of the Contract Act to the aforesaid auction
+proceeding. In this regard, it is to be noted that IBC, 2016 is a complete law
+in itself for corporate insolvency resolution process. Detailed procedure and
+process of liquidation has been laid down in the law; and rules and
+regulations framed thereunder. Any contractual obligation under the Code
+has to be dealt with in accordance with procedure laid down. We note that
+in this case, the liquidator has strictly followed the procedure laid down by
+the Code. The forfeiture of EMD in such auctions arises out of statutory
+terms, and not negotiated penalty clauses. Accordingly, in accordance with
+clauses of the E-Auction notice, E-auction process document and affidavit
+filed by the respondent, the liquidator has correctly forfeited the EMD.
+72.
+This legal position has been conclusively settled by the judgment of
+this Appellate Tribunal in Westcoast Infraprojects Private Limited (supra),
+which was affirmed by the Hon’ble Supreme Court in Civil Appeal No. 4087
+of 2023 (order dated 25.07.2023) in the same matter. In these decisions,
+it has been held that forfeiture of EMD in liquidation auctions is a legitimate,
+contractual and statutory remedy for default, and Section 74 is wholly
+inapplicable. Relevant paragraphs para 4 and 20 of the judgment of this
+Appellate Tribunal have been extracted below:
+“(4) Learned Counsel for the Appellant challenging the
+Impugned Order submits that forfeiture by the Liquidator of
+the amount paid by the Appellant is a penalty and
+impermissible in law. Learned Counsel for the Appellant
+relying on Section 74 of the Indian Contract Act, 1872 submits
+that for forfeiting the amount, Liquidator ought to have filed a
+suit for recovery of the penalty by way of compensation and
+
+[PAGE 40]
+-40-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+the Liquidator had no jurisdiction to forfeit the EMD and
+amount of Rs. 1,75,00,000/-deposited by the Appellant.
+Learned Counsel for the Appellant has however not raised any
+submission questioning the cancellation of the sale. The
+clauses of the Tender Document providing for forfeiture of the
+part consideration paid by the Appellant are stipulations in the
+nature of a penalty under Section 74 of the Indian Contract
+Act, 1872. Forfeiture of the part consideration by the
+Liquidator is impermissible and unlawful and at the highest
+the Liquidator is entitled to sue for damages/compensation
+before the Competent Court. Until such adjudication by the
+Competent Court, Liquidator has no right to receive any sum
+of the money from the Appellant. It is further submitted that
+there is no provision in the Insolvency and Bankruptcy Code,
+2016 or in the Liquidation Process Regulations, 2016 under
+which monies paid towards the purchase of assets put to sale
+by the Liquidator may be forfeited upon cancellation of the sale
+due to purchaser’s default. Forfeiture by the Respondent has
+no basis in law. Learned Counsel for the Appellant further
+submitted that the Liquidator is guilty of suppressing crucial
+information from the Appellant and other bidders. It is
+submitted that property tax in respect of land was outstanding
+which ought to have been disclosed and due to outstanding
+dues title of the land was defective. It is submitted that land
+was subject to attachment due to non-payment of property tax
+dues and any transfer of the land would have been void under
+law. The liquidator was bound to disclose the defect in title
+and lack of the title of the land. The sale of assets “as is where
+is” or “as is what is” basis is only used to caveat the physical
+nature or quality of what is sold. It does not apply to situations
+where the title of the subject matter sought to be sold is
+defective or worse absent in the seller. The Liquidator cannot
+wriggle out of its duty to disclose encumbrances, and
+particularly known encumbrances, on the basis of the “as is
+where is”/ “as is what is” Clause in the Tender Document.
+(20) For purpose of this case, law as laid down in Paragraph
+43.7 is relevant where Hon’ble Supreme Court has clearly
+held that when forfeiture takes place under the terms and
+conditions of a public auction before agreement is reached,
+Section 74 would have no application. The statement of law in
+paragraph 43.7 is fully applicable in the case of the present
+case. The present is a case where Appellant participated in
+the eAuction conducted by the Liquidator under the
+Liquidation Process Regulations, 2016. Section 74 of the
+Indian Contract Act has no application in the case of Auction
+conducted by the Liquidator under the Liquidation Process
+
+[PAGE 41]
+-41-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+Regulations, 2016. The terms and conditions of the sale as
+finalized by the Liquidator under which the e-Auction was
+held is binding on all including the bidders. Bidders give an
+unqualified undertaking for participation in the e-Auction after
+knowing fully well of clauses of the e-Auction Process
+Document and undertook to abide by the clauses. The
+submission of the Appellant can not be accepted that
+Appellant’s EMD can not be forfeited even though he has
+committed default in making the payment of balance amount
+and the Liquidator should file a suit for forfeiting amount
+deposited by the Appellant. Such preposterous argument can
+not be accepted in view of the fact that Liquidation Process is
+conducted
+under
+the
+statutory
+Liquidation
+Process
+Regulations, 2016. The terms and conditions of the Process
+Document has been framed as per statutory empowerment
+given to the Liquidator by Schedule I of the Liquidation Process
+Regulations, 2016 as noticed above. When the clauses of the
+Process Document as noted above, clearly empowers the
+Liquidator to forfeit the EMD and any payment made in event
+default is committed by the Highest Bidder, no exception can
+be taken to the action of the Liquidator in cancelling the sale
+and forfeiting the amount deposited by the Appellant.”
+
+73.
+Further support for the Liquidator’s position is found in judgment of
+this Appellate Tribunal in ‘BRS Refineries Private Limited v. Supriyo Kumar
+Chaudhuri’ (supra), where a bidder’s failure to demonstrate readiness and
+repeated requests for time were held incompatible with the time-bound
+nature of liquidation, and forfeiture was upheld. The same reasoning was
+followed in judgment of this Appellate Tribunal in ‘Potens Transmission &
+Power Private Limited’ (supra), which reaffirmed that even minor deviations
+from timelines permit forfeiture when the terms are strict. Most recently,
+this Appellate Tribunal in ‘Vikram Bajaj, Liquidator of Best Foods Limited’
+(supra) held that conditional expressions of willingness do not save a bidder
+from default; only clear, unconditional readiness suffices.
+
+[PAGE 42]
+-42-
+
+Company Appeal (AT) (Ins.) No. 186 of 2023
+74.
+In light of the foregoing, we are of the view that the Respondent did
+commit default under the binding auction terms, that the Liquidator’s
+action of cancelling the sale and forfeiting the EMD was fully justified and
+in accordance with the provisions of the Code. We have already seen that
+the impugned order suffers from incorrect appreciation of facts and law like
+application of Indian Contract Act whereas the issue should have been
+examined through the lens of this Code only.
+75.
+In view of the findings above, the appeal is allowed. Pending IAs, if
+any, are closed. There would be no order as to costs.
+
+[Justice Yogesh Khanna]
+Member (Judicial)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

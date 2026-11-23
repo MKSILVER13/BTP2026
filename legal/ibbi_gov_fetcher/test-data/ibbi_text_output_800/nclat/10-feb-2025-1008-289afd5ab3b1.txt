@@ -1,0 +1,730 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+[Arising out of Order dated 08.01.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal), Principal Bench, New Delhi in C.P. (IB) No.
+751(PB)/2023]
+
+IN THE MATTER OF:
+
+Sandeep Jain
+...Appellant
+
+Versus
+IDBI Trusteeship Services Ltd. & Anr.
+...Respondents
+
+Present:
+For Appellant:
+Mr. Arun Kathpalia and Ms. Pooja Mehra Saigal Sr.
+Advocates with Mr. Rajat Joneja and Ms. Sakshi
+Kapoor, Advocates.
+For Respondents:
+Mr. Krishnendu Datta and Mr. Abhijeet Sinha, Sr.
+Advocates with Mr. Pranjit Bhattacharya, Ms.
+Salonee Shukla, Mr. Akhil Nene and Mr. Auritro
+Mukherjee, Advocates for R-1.
+Mr. Abhirup Dasgupta, Advocate for RP/R-2.
+
+J U D G M E N T
+(10th February, 2025)
+
+Ashok Bhushan, J.
+
+This Appeal by a Suspended Director of the Corporate Debtor- M/s.
+Shree Vardhman Infraheights Private Limited has been filed challenging the
+order dated 08.01.2025 passed by the Adjudicating Authority (National
+Company Law Tribunal), Principal Bench, New Delhi admitting Section 7
+application filed by IDBI Trusteeship Services Limited, the Financial Creditor.
+The Appellant aggrieved by the impugned order has come up in this Appeal.
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+2.
+Brief background facts necessary to be noticed for deciding the Appeal
+are:-
+2.1. A Debenture Trust Deed dated 19.04.2016 was executed between the
+Company- Shree Vardhman Infraheights Private Limited and Santur
+Infrastructures Private Limited (a wholly owned subsidiary of the company)
+and Promoters Sandeep Jain, Sachin Jain, Rishi Gupta, Vivek Aggarwal,
+Gautam Chaudhary, Tushar Goel and IDBI Trusteeship Services Limited for
+raising funds by issuing upto 140 number of to be listed, rated, senior, fully
+secured,
+redeemable,
+transferable,
+interest-bearing
+non-convertible
+debentures of face value of Rs.1,00,00,000/- includes Series A and Series B.
+The first Amended Debenture Trust Deed was on 20.07.2017 and Restated
+and Amended Debenture Trust Deed dated 27.09.2018. Default having been
+committed on 30.06.2019, IDBI issued a repayment notice requiring the
+corporate debtor to repay the outstanding amount. Upon failure of the same,
+the financial creditor filed a Commercial Suit before the Delhi High Court.
+During pendency of the suit proceeding before the Delhi High Court, parties
+entered into the Settlement Agreement on 04.11.2019. On 04.11.2019, a
+revised repayment schedule was arrived at by the parties which culminated
+in the parties entering into Restated and Amended Debentures Trust Deed
+dated 04.11.2019.
+2.2. The
+Restated
+and
+Amended
+Trust
+Deed
+dated
+04.11.2019
+acknowledged that as on 30.09.2019 outstanding principal amount of existing
+debenture was Rs.125 Crores. Unpaid interest outstanding on the existing
+debenture was Rs.24,53,04,939/- and Rs.59,70,827/- towards unpaid tax
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+deducted by the issuer. Parties agreed to re-schedule and restructure the
+existing debentures and revised the terms of the existing debentures.
+Company proposed to raise funds by way of issuance of up to amount
+aggregated to Rs.30 Crores at ‘Series D Debentures’. New repayment schedule
+was also agreed between the parties on the basis of settlement between the
+parties. The commercial suit pending in the Delhi High Court was decided on
+21.11.2019 in terms of the Settlement Agreement dated 04.11.2019. Under
+the restated settlement dated 04.11.2019, parties agreed for constitution of
+Project Monitoring Committee (PMC) with respect to development of
+residential project (Shree Vardhman-Victoria). In the Project Management
+Committee, three members were to be nominated by financial creditor and
+two members by the corporate debtor. The Project Management Committee
+was contemplated to monitor the project. The Corporate Debtor again failed
+to fulfil its payment obligation. The responsibility of construction,
+development, marketing and sale of project continued with the corporate
+debtor including payment obligation. On the request of the Corporate Debtor
+repayment schedule was again revised on 23.11.2020. Parties again entered
+into an Amendment to Restated and Amended Debenture Trust Deed on
+23.11.2021. As per amendment to restated and amended trust deed dated
+23.11.2021, repayment schedule was once again revised.
+2.3. The corporate debtor failed to repay the amount on 31.12.2021 even in
+terms of the revised repayment schedule. On 27.09.2023, default notice was
+issued by the financial creditor to the corporate debtor. On 30.09.2023,
+amount of Rs.263,00,46,668/- was due and payable to the corporate debtor.
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+On 06.12.2023, Section 7 application was filed by the financial creditor
+seeking initiation of CIRP against the corporate debtor. The corporate debtor
+filed a reply to the section 7 application on 22.01.2024. IA No.1527 of 2024
+was filed by the financial creditor seeking replacement of the proposed IRP.
+IA No.3961 of 2024 was filed by the financial creditor seeking certain
+directions. The Adjudicating Authority heard the parties and by impugned
+order after returning the findings of debt and default has admitted Section 7
+application. IA No. 1527 of 2024 was also allowed and disposed of aggrieved
+by which order this Appeal has been filed.
+
+3.
+We have heard Shri Arun Kathpalia, Learned Senior Counsel appearing
+for the Appellant, Shri Krishnendu Datta and Shri Abhijeet Sinha, Learned
+Senior Counsel for the Financial Creditors and Shri Abhirup Dasgupta,
+Learned Counsel for the IRP.
+
+4.
+Shri Arun Kathpalia, Learned Senior Counsel for the Appellant
+challenging the impugned order submits that the Adjudicating Authority
+failed to appreciate the evidence and circumstances that unequivocally
+establish that the financial creditor exercised control over the project actively
+and it was the financial creditor who orchestrated the alleged default. It is
+submitted that the financial creditor by virtue of its majority position in the
+Project Monitoring Committee constituted under a Settlement Agreement
+dated 04.11.2019, exercised dominant control over the entire project. PMC
+which was composed of three members nominated by financial creditor and
+two by the company, had decision making authority over critical aspects of
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+the project, including but not limited to sales, marketing, finances and
+vendor/customers negotiations. Financial Creditor having full authority over
+the funds, leaving the company with no independent control over the project’s
+cash flow, the alleged default was not attributable to the corporate debtor.
+The Financial Creditor did not act as a financial creditor but as a co-promoter,
+dictating key decisions and interfering with the project’s day-to-day
+operations. It is submitted that the eight towers in the project were almost
+complete, however, the Financial Creditor persisted with the decision to carry
+on construction with three other towers namely J, G1 and G2 which was to
+be constructed under the additional FAR due to which action the existing
+eight towers could not be completed and handed over. Completion of eight
+towers and handing over possession and receiving final instalment from the
+allottees could have assisted in paying the dues of financial creditors. The
+financial creditors insisted on simultaneous by starting construction of
+additional FAR without obtaining RERA approval. Section 7 application was
+filed by the financial creditor due to disagreement with the company. The
+debenture holders failed to cure the defects as pointed by Haryana RERA
+Authority which led to ultimately cancellation of registration of project
+concerning eight towers. On account of active steps taken by the company,
+the RERA order dated 20.03.2023 has been set aside by the order dated
+29.05.2024 and remitted the authority for fresh decision. Company has
+already obtained Occupancy Certificate for the eight towers and is only
+required minor finishing works to be able to handover the units to the buyers.
+Shri Kathpalia, however, in his submissions did not dispute the debt and
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+default but contended that debt and default in manner it had occurred could
+not be a ground of admitting Section 7 application. Financial Creditors itself
+having become co-promoter in view of the Settlement Agreement dated
+04.11.2019 was equally responsible for completion of project and repayment.
+
+5.
+Shri Krishnendu Dutta, Learned Senior Counsel for the Financial
+Creditor refuting the submissions of the Counsel for the Appellant submits
+that the only question to be determined in Section 7 application is debt and
+default. Adjudicating Authority has to consider whether there is a financial
+debt and whether there is a default committed in repayment of financial debt.
+It is submitted that debt and default committed by the corporate debtor is not
+even disputed. The question of debt and default being admitted fact, no error
+has been committed by the Adjudicating Authority admitting Section 7
+application. Default report from Information Utility is on record which
+demonstrate that default occurred on 30.06.2023. It is submitted that the
+debt and default has been acknowledged by the corporate debtor from time to
+time. Letter dated 23.11.2020, Amendment to the Restated and Amended
+Debenture Trust Deed dated 23.11.2021 and Financial Statements of the
+corporate debtor for F.Y. 2021-2022 contained express acknowledgment of
+the corporate debtor of default. The litigation between the parties which is
+pending in the Delhi High Court including the proceeding for initiation of
+arbitration filed by the corporate debtor as well as proceeding filed by the
+financial creditor for execution of settlement agreement in no manner effect
+the maintainability or decision on the Section 7 application. Section 7
+application is special remedy provided by the Code which has been rightly
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+invoked by the financial creditor. The Settlement Agreement dated 04.11.2019
+cannot be read to mean that it is financial creditor who is controlling the
+project. The PMC was constituted to monitor the project, to ensure
+construction and to oversee by financial creditors construction and
+development. It is however, submitted that Clause 2.6 of the Settlement
+Agreement itself clarifies that the corporate debtor and promoters were
+responsible for construction, development, marketing and sale of the project
+and further repayment of amounts due to the financial creditor. The
+Settlement Agreement in no manner affected the liability of the corporate
+debtor to make the repayment of outstanding amount and the mere fact that
+in the PMC, three members were nominated by financial creditor has no effect
+and consequence on the clauses of the Settlement Agreement which oblige
+the corporate debtor and promoters to make the repayment. It is submitted
+that in fact the PMC was not allowed to function by promoters. With regard
+to existing FAR which pertaining to eight projects, the financial creditor has
+made request to the corporate debtor to cure the deficiency identified by
+Haryana RERA and the defects having not been cured by the corporate debtor,
+RERA Authority had to pass an order on 20.03.2023 cancelling the project
+which was subsequently set aside on 29.05.2024. Corporate debtor claiming
+it to be promoter has made an application before the RERA seeking release of
+monies from the 70% RERA account. The cash balance in various accounts
+were insufficient to fulfil the repayment obligation of the corporate debtor.
+There is no infirmity in the order of the Adjudicating Authority admitting
+Section 7 application.
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+6.
+Shri Abhijeet Sinha, Learned Senior Counsel has supported the
+submissions advanced by Shri Krishnendu Datta.
+
+7.
+We have considered the submissions of the Counsel for the parties and
+perused the record.
+
+8.
+Section 7 application was filed by the financial creditor on 06.12.2023
+claiming default of an amount of Rs.263,00,46,668/- as on 30.09.2023. The
+issuance of Debenture Trust Deed dated 19.04.2016 and subsequent
+amendments to Debenture Trust Deed including the amendment dated
+23.11.2021 are matter of record. Copy of Section 7 application filed by the
+financial creditor to initiate CIRP against the corporate debtor has been
+brought on the record in Volume 10 of the Appeal. Part IV of Section 7
+application and amount claimed to be in default mentioned an amount of
+Rs.263,00,46,668/- as on 30.09.2023 and date of default as 31.12.2021 i.e.
+failure in repayment as per revised terms of the amendment to third
+Debenture Trust Deed.
+
+9.
+Part IV of the application contains necessary pleadings pertaining to
+debt and default. As per Amendment to the Restated and Amended Debenture
+Trust Deed dated 23.11.2021, revised terms of repayment on 31.12.2021 was
+mentioned as revised date of repayment in which the corporate debtor failed.
+Counsel for the Respondent has referred to Financial Statements of the
+corporate debtor for F.Y 2021-22 which also clearly mentioned the default.
+Acknowledgment letter issued by the corporate debtor acknowledging the debt
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+has been noticed by the Adjudicating Authority dated 23.11.2020 which letter
+also contained the statement on behalf of the corporate debtor that grant of
+additional rights to the PMC does not constitute any derogation or waiver of
+the rights of the debenture holders arising from the Settlement Agreement.
+
+10.
+As noted above, the debt and default is not even being contested on
+behalf of the Appellant during the course of submissions. The submission
+which has been pressed by the Appellant is that after Settlement Agreement
+dated 04.11.2019, the PMC was constituted which consisted three members
+of the financial creditors and two members of the company. The Financial
+Creditor by majority controlled the PMC and default subsequent to
+constitution of PMC is orchestrated by financial creditor and the said default
+cannot be basis of any initiation of the CIRP process. Financial creditor cannot
+be given benefit of its own inaction.
+
+11.
+The PMC having been constituted as per the Settlement Agreement
+dated 04.11.2019, we need to notice clauses of the Settlement Agreement
+dated 04.11.2019. Settlement Agreement dated 04.11.2019 which is brought
+on the record as Annexure A-7 in the Appeal is between the parties who had
+executed the Debenture Trust Deed. The promoters were collectively referred
+to as ‘obligors’. It is useful to notice following statement in the Settlement
+Agreement:-
+
+“Promoter 1, Promoter 2, Promoter 3, Promoter 4,
+Promoter 5 and Promoter 6 are hereinafter collectively
+referred to as the "Promoters". The Company, the
+Promoters and Santur are hereinafter individually
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+referred as "Obligor" and jointly as the "Obligors". The
+Company, the Promoters, Santur and the Debenture
+Trustee are hereinafter individually referred to as a
+"Party" and jointly as the "Parties".”
+
+12.
+Clause B of the Settlement Agreement notices the payment default as
+on 30.06.2019. Clause B of the Settlement Agreement is as follows:-
+
+“B. As per the Initial Subscriber, on 30.06.2019, there
+was a payment default on the Debentures of Rs.
+26,65,67,499/-(Rupees Twenty-Six Crores Sixty-Five
+Lakhs Sixty-Seven Thousand Four Hundred and Ninety-
+Nine only) comprising of Interest (including due TDS) of
+Rs 19,15,67,499/- (Rupees Nineteen Crores Fifteen
+Lakhs Sixty-Seven Thousand Four Hundred and Ninety-
+Nine Only) and principal of Rs. 7,50,00,000/- (Rupees
+Seven Crores and Fifty Lakhs Only). Further, as per the
+Initial Subscriber as on 30.09.2019 the Principal due on
+the Debentures is Rs 15,00,00,000/- (Rupees Fifteen
+Crores Only) and Interest due on the Debentures
+(including due TDS) is Rs 25,12,75,766/- (Rupees
+Twenty-Five
+Crores
+Twelve
+Lakhs
+Seventy-Five
+Thousand
+Seven
+hundred
+and
+Sixty-Six
+Only)
+aggregating to Rs 40,12,75,766/- (Rupees Forty Crores
+Twelve Lakhs Seventy-Five Thousand Seven Hundred
+and Sixty-Six Only). In respect of the above, certain
+disputes under the Restated and Amended DTD arose
+between the Parties pursuant to which the Debenture
+Trustee initiated the Enforcement Actions (as defined
+hereinafter) against the Obligors;”
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+13.
+Settlement Agreement contemplated ‘Constitution of Project Monitoring
+Committee’. Clause 2.1 provides for setting of Project Monitoring Committee
+which is as follows:-
+
+“2.1 The Parties agree that, as part of this settlement, the
+Company will set up and appoint a Project Monitoring
+Committee ("PMC") with respect to the residential project
+being developed by the Company at Sector 70,
+Gurugram, Haryana under the name of 'Shree Vardhman
+Victoria', with the Existing FAR ("Project"). The PMC shall
+comprise of 5 (five) members, 3 (three) of which shall be
+nominated by the Debenture Trustee (acting on Approved
+Instructions) and the remaining 2 (two) members shall be
+nominated by the Promoters. The PMC shall act on the
+basis of majority decision. The minutes of each meeting
+of the PMC shall be duly recorded circulated to each of
+the members within seven (7) days of the date of such
+meeting. The Debenture Trustee (acting on Approved
+Instructions) and the Company shall at all time have the
+authority to replace and remove their respective
+nominees from the PMC and any such nomination will be
+effective immediately on written instructions from the
+nominating Party. The constitution and authority of the
+PMC will not be modified, rescinded or restricted in any
+manner whatsoever without prior written consent of the
+Debenture Trustee.”
+
+14. The purpose of the Project Monitoring Committee has been captured in
+Clause 2.2 which is to the following effect:-
+
+“2.2. The main purpose of the PMC shall be to monitor the
+Project, to improve the sales and collections from the
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+Project and completing the construction of the Project. The
+rights (not obligation) of the PMC shall include the right
+to: apply for and obtain any required Project approvals,
+sell apartment units subject to the terms of this
+Agreement and develop and construct the Project.
+Further, the PMC will also have the right (not the
+obligation) to execute and register builder buyer
+agreement/ sale deed, as the case may be for Sale of
+apartments falling in the PMC Inventory, however, PMC
+shall exercise such right in the event the Company fails
+to execute or register such required documents within five
+(5) Business days of written request from the PMC for the
+same. The PMC would also be entitled to sell any retail
+units in the Existing FAR of the Project in accordance with
+the price matrix as may be mutually agreed to between
+the Company and PMC, at the time of sale of such retail
+units. It is further clarified that any commercial or
+institutional area on the Project forming part of the
+Existing FAR, that may be monetized is within the scope
+of the PMC and the PMC will sell the units in the said
+area in accordance with the price matrix as may be
+mutually agreed to between the Company and PMC, at
+the time of sale of such units. The PMC shall be
+authorised to undertake any steps and actions, as may
+be required to give effect to and achieve its aforesaid
+authority and purpose. Further, PMC shall, subject to the
+Applicable Laws, be entitled to take necessary actions
+and give written directions as are required in respect of
+the Project to employees, agents, consultants and any
+other representative and to third parties, including but
+not limited to sales and marketing agents, real estate
+brokers,
+vendors,
+contractors,
+service
+providers,
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+government authorities, as is required for effective
+exercise of the PMC's rights, purpose and authority as set
+out herein. The PMC will have full authority, for and on
+behalf of the Company and its Board, to exercise and
+undertake and further authorise any persons it deems fit
+to take any actions as it has been authorised to
+undertake in terms of the resolutions constituting the
+PMC.”
+
+15.
+Clause 2.6 of the Settlement Agreement dated 04.11.2019 contained a
+clarification that repayment of the amounts due is the obligation of the
+obligors. Clause 2.6 is as follows:-
+
+“2.6. It is clarified that (i) the responsibility for
+construction, development, marketing and sale of the
+Project in accordance with Applicable Laws and (ii) for
+repayment of the Amounts Due including but not limited
+to the outstanding and on-going interest and Redemption
+Amounts of NCDs in accordance with the Revised
+Repayment Schedules as set forth in this Agreement, is
+independent of the working of the PMC and is the
+obligation of the Obligors.”
+
+16.
+We also need to notice Clause 2.22 which again stated that payment of
+interest and principal in respect of the debentures and New NCDs pursuant
+to the applicable Revised Repayment Schedule is the obligation of the obligors.
+Clause 2.22 is as follows:-
+
+“2.22. The payment of interest and principal in respect of
+the Debentures and New NCDs pursuant to the
+applicable Revised Repayment Schedule is the obligation
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+of the Obligors in accordance with the Restated and
+Amended DTD. The Obligors agree that in the event the
+Company fails to pay the Interest or principal on or before
+the scheduled payment date pursuant to Schedule D then
+it shall be a Payment Default and without any cure
+period with immediate effect on written notice of the
+same by the Debenture Trustee to the Company and the
+terms of the Restated and Amended DTD in case of such
+default shall apply with immediate effect from date of
+such notice. The cure periods for any non-payment
+default shall be as provided in the Restated and
+Amended DTD.”
+
+17.
+The PMC was constituted for the purpose and object to monitor the
+project, to improve the sales and collections from the project and completing
+the construction of the project. PMC was constituted to improve the
+functioning of company qua the construction of the project. PMC in no
+manner has undertaken the obligation of the obligors towards repayment
+which is clearly reflected in Clauses 2.6 and 2.22 as extracted above. We,
+thus, do not find any substance in the submission of Shri Arun Kathpalia
+that after constitution of PMC in which there are three members of the
+financial creditors i.e. majority, blame for non-payment of due amount can be
+put on the financial creditor itself. The PMC was constituted to assist and
+improve the operations and construction of the project which in no manner
+diminish the obligation of the corporate debtor to fulfil its payment obligation.
+The default in repayment of the obligation by obligors cannot in any manner
+be put on the financial creditor nor constitution of PMC in any manner affect
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+the obligation or absolve the corporate debtor from its default for repayment
+of the debt.
+
+18.
+Counsel for the Respondent is right in his submission that in Section 7
+application the Adjudicating Authority was obliged to determine whether
+default has occurred or whether debt was due as remained unpaid. The
+Hon’ble Supreme Court in “E.S. Krishnamurthy and Others vs. Bharath
+Hi-Tech Builders Private Limited- (2022) 3 SCC 161” referring to the earlier
+judgment of the Hon’ble Supreme Court in “Innoventive Industries Ltd. vs.
+ICICI Bank- (2018) 1 SCC 407” held following in paragraph 32:-
+
+“32. In Innoventive Industries [Innoventive Industries
+Ltd. v. ICICI Bank, (2018) 1 SCC 407, paras 28 and 30
+: (2018) 1 SCC (Civ) 356] , a two-Judge Bench of this
+Court has explained the ambit of Section 7 IBC, and
+held that the adjudicating authority only has to
+determine whether a “default” has occurred i.e.
+whether the “debt” (which may still be disputed) was
+due and remained unpaid. If the adjudicating
+authority is of the opinion that a “default” has
+occurred, it has to admit the application unless it is
+incomplete. Speaking through Rohinton F. Nariman, J.,
+the Court has observed : (SCC pp. 438-39, paras 28 &
+30)
+“28. When it comes to a financial creditor
+triggering the process, Section 7 becomes relevant.
+Under the Explanation to Section 7(1), a default is
+in respect of a financial debt owed to [Ed. : The
+word between two asterisks has been emphasised
+in original.] any [Ed. : The word between two
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+asterisks has been emphasised in original.]
+financial creditor of the corporate debtor — it need
+not be a debt owed to the applicant financial
+creditor. Under Section 7(2), an application is to be
+made under sub-section (1) in such form and
+manner as is prescribed, which takes us to the
+Insolvency
+and
+Bankruptcy
+(Application
+to
+Adjudicating Authority) Rules, 2016. Under Rule 4,
+the application is made by a financial creditor in
+Form 1 accompanied by documents and records
+required therein. Form 1 is a detailed form in 5
+parts, which requires particulars of the applicant
+in Part I, particulars of the corporate debtor in Part
+II, particulars of the proposed interim resolution
+professional in Part III, particulars of the financial
+debt in Part IV and documents, records and
+evidence of default in Part V. Under Rule 4(3), the
+applicant is to dispatch a copy of the application
+filed with the adjudicating authority by registered
+post or speed post to the registered office of the
+corporate debtor. The speed, within which the
+adjudicating authority is to ascertain the existence
+of a default from the records of the information
+utility or on the basis of evidence furnished by the
+financial creditor, is important. This it must do
+within 14 days of the receipt of the application. It
+is at the stage of Section 7(5), where the
+adjudicating authority is to be satisfied that a
+default has occurred, that the corporate debtor is
+entitled to point out that a default has not occurred
+in the sense that the “debt”, which may also
+include a disputed claim, is not due. A debt may
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+not be due if it is not payable in law or in fact. The
+moment the adjudicating authority is satisfied that
+a default has occurred, the application must be
+admitted unless it is incomplete, in which case it
+may give notice to the applicant to rectify the defect
+within 7 days of receipt of a notice from the
+adjudicating authority. Under sub-section (7), the
+adjudicating authority shall then communicate the
+order passed to the financial creditor and
+corporate debtor within 7 days of admission or
+rejection of such application, as the case may be.
+*
+
+*
+
+*
+30. On the other hand, as we have seen, in the
+case of a corporate debtor who commits a default
+of a financial debt, the adjudicating authority has
+merely to see the records of the information utility
+or other evidence produced by the financial
+creditor to satisfy itself that a default has occurred.
+It is of no matter that the debt is disputed so long
+as the debt is “due” i.e. payable unless interdicted
+by some law or has not yet become due in the
+sense that it is payable at some future date. It is
+only when this is proved to the satisfaction of the
+adjudicating authority that the adjudicating
+authority may reject an application and not
+otherwise.”
+(emphasis supplied)
+
+19.
+Subsequent judgment of the Hon’ble Supreme Court in “M. Suresh
+Kumar Reddy vs. Canara Bank and Ors.-(2023) 8 SCC 387” also decode
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+the same proposition. It is useful to extract paragraph 11 of the judgment
+which is as follows:-
+
+“11. Thus, once NCLT is satisfied that the default has
+occurred, there is hardly a discretion left with NCLT to
+refuse admission of the application under Section 7.
+“Default” is defined under sub-section (12) of Section
+3 IBC which reads thus:
+“3. Definitions.—In this Code, unless the context
+otherwise requires—
+*
+
+*
+
+*
+(12) “default” means non-payment of debt when
+whole or any part or instalment of the amount of debt
+has become due and payable and is not [paid] by the
+debtor or the corporate debtor, as the case may be;”
+Thus, even the non-payment of a part of debt when it
+becomes due and payable will amount to default on
+the part of a corporate debtor. In such a case, an order
+of admission under Section 7 IBC must follow. If NCLT
+finds that there is a debt, but it has not become due
+and payable, the application under Section 7 can be
+rejected. Otherwise, there is no ground available to
+reject the application.”
+
+20.
+Counsel for the Appellant has also referred to the proceedings initiated
+by the financial creditor at Delhi High Court for execution of the Settlement
+Agreement as well as proceedings initiated for arbitration by the corporate
+debtor in the Delhi High Court. It is well settled proposition that any dispute
+even pending in the arbitration does not in any manner prohibit the financial
+creditor to take remedy under Section 7. Counsel for the Appellant has much
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+emphasised on the fact that the financial creditor has proceeded and utilised
+the amount for construction with respect to additional FAR towers. The
+Financial Creditors role was construction and monitoring of the project was
+only as per PMC constituted. As per the Settlement Agreement dated
+04.11.2019, any action taken by the PMC through its members consisting of
+nominees of the financial creditor can have no consequence or effect on the
+obligation and liabilities of the obligor to fulfil their obligation of repayment.
+Adjudicating Authority in the impugned order after considering the
+submissions of the parties has returned the findings that debt and default
+has been proved. In paragraph 5(x), following was held:-
+
+“x. Therefore, on the basis of arguments advanced
+and documents on record, the DSA and DTD as
+amended on 04.11.2019 and 23.11.2021 shall stand
+as valid and enforceable. That is the underlying factor
+for the debt and default that remains unpaid. All other
+interim arrangements basis court proceedings in
+multiple forums does not vanquish the debt. It lends
+credence to the continuing default and attempt to
+extricate but in vain. There are other additional
+documents like emails.”
+
+21.
+We do not find any infirmity in the findings returned by the Adjudicating
+Authority that the financial creditor succeeded in proving the debt and default
+and the ingredients under Section 7 are fulfilled. In view of the facts brought
+on the record, it is clearly proved that there is a debt and default which has
+been acknowledged from time to time by the corporate debtor. Corporate
+debtor has failed to honour its repayment obligations as per financial
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Insolvency) No. 146 of 2025
+
+document. Adjudicating Authority after considering all submissions of the
+parties have rightly returned the finding of debt and default.
+
+22.
+In view of the foregoing conclusions and discussions, we are of the view
+that no ground has been made out to interfere with the impugned order dated
+08.01.2025 passed by the Adjudicating Authority admitting Section 7
+application. There is no merit in the appeal. The Appeal is dismissed.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+New Delhi
+Anjali

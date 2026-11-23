@@ -1,0 +1,302 @@
+[PAGE 1]
+1
+
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 1822 of 2026
+
+IN THE MATTER OF:
+
+Mufin Green Finance Ltd.
+...Appellant(s)
+Versus
+
+Keshav Khaneja Resolution Professional of Gensol
+Engineering Ltd.
+...Respondent(s)
+Present:
+
+For Appellant(s)
+: Mr. Gaurav Mitra, Sr. Adv. with Mr. Dhruv Dewan, Mr.
+Prashant Jain, Mr. Varun Garg, Ms. Komal Bihani, Mr.
+Swapnil Jain & Ms. Aishwarya Modi Seth, Advocates
+For
+Respondent(s)
+: Mr.
+Sumesh
+Dhawan
+Sr.
+Adv.
+Ms.
+Srideepa
+Bhattacharyya, Ms. Neha Shivhare, Ms. Khyati
+Khemka, Ms. Krishna Saklani & Ms. Udisha Mishra,
+Advocates
+
+O R D E R
+(Hybrid Mode)
+[Per: Justice Mohd. Faiz Alam Khan, Member (Judicial)]
+Instant appeal has been filed by the Appellant against the impugned
+order dated 14/09/2026 passed by the National Company Law Tribunal,
+Ahmedabad Bench 1, in IA No. 1349 of 2026, moved in CP (IB) No. 195 of
+2025, by which an independent forensic auditor has been appointed by the
+Ld. Adjudicating Authority to examine the relevant books of accounts, ledger
+entries, vouchers, and accounting records (including underlying electronic
+computerized data and email trail) with regard to the security deposit of Rs.
+1,34,148,00/- pertaining to the Appellant.
+2.
+Ld. Counsel for the Appellant submits that the Appellant is a listed,
+RBI-regulated NBFC, and its shares are traded on the stock exchange. The
+CD and the Appellant had entered into an operating lease agreement dated
+
+[PAGE 2]
+2
+
+24/3/2023 for the supply of 100 electric vehicles to the CD and had also
+executed a connected purchase agreement whereby the cars would be
+purchased by the CD post expiry of the term of the lease under Clause 5(d) of
+the agreement. The CD had paid Rs. 13,414,800/- as non-refundable
+payment security, adjustable by the Appellant against the due amount.
+3.
+It is further submitted that from March 2025, the CD defaulted on the
+payments, and a notice dated 13/4/2025 was issued by the Appellant.
+Thereafter, the security deposit of Rs. 13,414,800/- was forfeited and
+recorded in the ledger, and the agreement was terminated via communication
+dated 21/4/2025 and termination letter dated 22/4/2025 and 92 vehicles
+out of 100 vehicles were repossessed by the appellant.
+4.
+It is further submitted that the CIRP of the corporate debtor was
+commenced on 13/06/2025, and the respondent was appointed RP. The
+Appellant filed its claim on 10/07/2025, but in the claim verification
+correspondence with the RP, the Appellant had inadvertently written
+21/07/2025 instead of 16/04/2025 as the date of adjustment of the security
+deposit. Thereafter, the Appellant filed the revised claim on 20.03.2026.
+5.
+It is further submitted that thereafter the respondent RP has filed an
+application being IA No. 1349 of 2026 under Section 60(5) of the Code, seeking
+refund of Rs. 1,341,4800 and consequential modification of the Appellant's
+Form C and also sought appointment of an independent forensic auditor,
+relying on a prior order of the learned adjudicating authority in the
+proceedings carried out in the group entity of the CD (i.e., I.A. No. 574 of
+2026). By passing the impugned order, the adjudicating authority observed
+that the actual date of adjustment required factual verification and appointed
+
+[PAGE 3]
+3
+
+an independent forensic auditor to inspect the Appellant's books, ledgers,
+vouchers, and other records.
+6.
+It is vehemently submitted that the direction for a forensic audit travels
+beyond the jurisdiction conferred under Section 60 (5) of the Code. This is
+because the jurisdiction available with the adjudicating authority is over
+claims and questions arising out of or in relation to the insolvency resolution
+of the CD only, however, it has no jurisdiction to subject an independent third
+party to a forensic examination of its books and electronic records.
+7.
+It is further submitted that previously a wrong order has been passed
+by the learned adjudicating authority, may not be an excuse to justify the
+passing of instant illegal order. Moreover, the factual situation in the earlier
+case was distinguishable from the facts of the instant case.
+8.
+It is further submitted that no prayer for any forensic audit was sought
+in the application filed by the RP and it is only by filing the rejoinder that the
+RP for the very first time, introduced new relief of forensic audit, which is not
+maintainable. Otherwise also, the facts and circumstances of this case do not
+justify the appointment of a forensic auditor only to assess a transaction held
+between the parties.
+9.
+It is further submitted that the interim order has serious and
+disproportionate consequences for the Appellant and would also be
+detrimental to the business secrecy and other confidential material (which is
+usually kept by the companies). Therefore, the interim order is not
+sustainable and is required to be set aside.
+10.
+Learned Counsel for the Respondent RP, on the other hand, submits
+that it was stated in the reply filed by the Appellant before the Learned
+
+[PAGE 4]
+4
+
+Adjudicating Authority that the security deposit was adjusted by them on
+April 16, 2025, which was prior to the initiation of the corporate insolvency
+resolution process of the CD (which was initiated on June 13, 2025) and thus
+the Appellant has made a prayer for the forensic audit in its rejoinder.
+11.
+It is further submitted that Appellant has earlier informed via email
+dated 06.12.2025 that the security deposit, as deposited by the CD, was
+adjusted on July 21, 2025, after the commencement of the CIRP. However,
+contrary to this position, in the email dated 23 December 2025, Appellant
+informed that such appropriation of the security deposit was made before
+initiation of the CIRP on 16.04.2025 and in this background, the Appellant
+was compelled to make the prayer for the forensic audit.
+12.
+It is further submitted that in the meantime, in Indian Renewable
+Energy Development Agency Limited vs Gensol EV Lease Limited, IA No. 574
+of 126 moved in CP (IB) No. 199 of 2026, the adjudicating authority passed a
+similar order against the Appellant, directing the appointment of a forensic
+auditor, which was never challenged by the Appellant and the Appellant also
+accepts the jurisdiction and power of the adjudicating authority in passing
+such directions, including the appointment of a forensic auditor.
+13.
+It is further submitted that the Ld. Adjudicating Authority has
+jurisdiction to pass such directions for an independent forensic audit in case
+of dispute with regard to the date on which the security has been appropriated
+by the Appellant and the only fact that, in the original application, no such
+prayer was made is inconsequential. Moreover, the forensic audit is necessary
+in the facts and circumstances of this case to assess as to on what day the
+security has been appropriated by the Appellant.
+
+[PAGE 5]
+5
+
+14.
+It is further submitted that the claim of the Appellant that the security
+deposit was adjusted prior to the initiation of the CIRP is not correct, as the
+security deposit had not even matured on April 16, 2025, since it was
+contingent and dependent upon the valid termination of the operating lease
+agreement. The Appellant itself sought to terminate the operating lease
+agreement via its communication dated 21/04/2025. Significantly the email
+dated 21/04/2025 was not addressed to the Corporate Debtor nor to its
+authorized representative and the same was addressed to a representative of
+Blue Smart Charger Private Limited, and a copy of the same was sent to Mr.
+Anmol Jaggi and other individuals who are not parties to the operating lease
+agreement.
+15.
+Thus, without a valid termination of the operating lease agreement, the
+Appellant's discretionary right of adjustment of the security deposit was not
+matured under the operating lease agreement even on 16 April 2025.
+16.
+It is further submitted that, in view of the above facts and
+circumstances, there is no illegality in the order passed by the lender
+adjudicating authority. The appeal filed by the Appellant is devoid of force and
+is liable to be dismissed as such.
+17.
+Having heard learned counsel for the parties and having perused the
+record, it is evident that interlocutory application bearing number 1349 of
+2026 was filed by the RP before the learned adjudicating authority with the
+following prayers:
+“a. Allow the present Application
+b. Direct the Respondent, Mufin Green Finance Limited, to
+forthwith refund the Security Deposit of INR 1,34, 14,800/-
+(Rupees One Crore Thirty-Four Lakhs Fourteen Thousand
+and Eight Hundred only) to the Corporate Debtor, Gensol
+
+[PAGE 6]
+6
+
+Engineering Limited, along with interest thereon at the
+prevailing rate from the date of adjustment, i.e., July 21,
+2025, till the date of actual refund; and
+
+c. Direct the Respondent to file a revised I amended Fom 1
+C before the Resolution Professional, duly reflecting the
+correct outstanding amount after giving full credit for the
+Security Deposit amount of INR 1,34,14,800/- already
+received and retained by the Respondent;
+
+d. Pass such other and further order(s) as this Hon'ble
+Tribunal may deem fit and proper in the facts and
+circumstances of the present Application and in the interests
+of justice”.
+
+18.
+It appears to be an admitted fact that the CIRP against the CD Gensol
+Engineering Limited was initiated by an order passed by the Learned
+Adjudicating Authority on 13.06.2025, on a petition filed under Section 7 of
+the Code.
+19.
+It is further reflected and is also admitted by the parties that on
+24/03/2023, the corporate debtor and the Appellant executed the Electric
+Vehicles Services Agreement and Purchase Agreement for 100 electric vehicles
+and services. The CD paid Rs. 1,34,14,800/- as security deposit and the lease
+agreement was to expire on 07/04/2028. According to the Resolution
+Professional, the Appellant appropriated Rs. 1,34,14,800/- on 21/07/2025
+during the moratorium. In this background, the resolution professional
+sought claim details on 06/11/2025, and Muffin filed the claim of Rs.
+19,522,187/-. The resolution professional on 25/11/2025 sought details of
+the deposit, and on 6.12.2025, the muffin disclosed about the adjustment of
+the security deposit on 21/07/2025 and has relied on the lease agreement.
+Subsequently, the Appellant has taken the stand that the security deposit
+had already been adjusted before 13 June 2025. In this regard, the
+
+[PAGE 7]
+7
+
+communication dated 21/4/2025 and 22/04/2025 with regard to
+termination of the lease agreement has been relied.
+20.
+We notice that the RP, in its rejoinder, has disputed the claim of the
+Appellant with regard to adjustment of the security before 13 June 2025. By
+filing a rejoinder, it is submitted that the actual date and manner of
+adjustment could only be verified from the books of accounts, vouchers, and
+other electronic audit trail of the Appellant.
+21.
+It is thus evident that, in view of the contradictory stand taken by the
+Appellant, Ld. Adjudicating Authority thought that it would be convenient to
+examine the relevant books of account, ledger entries, voucher, and electronic
+computerized data, etc., of the Appellant (in order to determine as to on which
+date the security deposit deposited by the CD of Rs. 1,34,14,800/-, was
+confiscated/appropriated by the Appellant). The necessity, in our considered
+opinion, for appointment of a forensic auditor has emerged only on account
+of the fact that contradictory stand has been taken by the Appellant with
+regard to the date of appropriation of the security.
+22.
+We also notice, and it has also been highlighted by the Respondent RP,
+that on an earlier occasion also, with regard to the similar dispute in the same
+CIRP, by passing an order dated 27/08/2026 in CPIB No. 199 of 2025 a
+forensic auditor was directed to be appointed, and at that point of time, the
+Appellant has neither challenged the jurisdiction of the Adjudicating
+Authority in passing the said order nor has challenged the same by filing any
+appeal. Therefore, it is contended by Learned Counsel for the RP that the
+Appellant is estopped from challenging the similar order. The said order has
+also been placed on record by the Counsel for the RP and has also been filed
+
+[PAGE 8]
+8
+
+with the written submissions. The same has been passed with regard to the
+return of the refundable security deposit of Rs. 10,005,971/- and a similar
+stand of contradictory nature was taken by the Appellant therein. It is in the
+backdrop of the facts and circumstances of that case that the Ld. Adjudicating
+Authority has appointed a forensic auditor. It has been submitted by Learned
+Counsel for the RP that, before any forensic audit, the amount of security
+deposit in that case was paid by the Appellant.
+23.
+Be that as it may, it appears to be an admitted situation that the
+Appellant has given two dates to the RP with regard to appropriation of the
+security deposit, deposited by the CD. Though it has been argued with
+considerable force on behalf of the Appellant that in the earlier
+communication dated 6.12.2025, the Appellant had inadvertently written the
+date of appropriation of the security deposit as 21.07.2025 instead of
+16.04.2025 and in fact, the security deposit was appropriated on 16.04.2025,
+and thereafter the agreement was terminated vide communication dated
+21.04.2025 by email and vide letter dated 22.04.2025. But the fact remains
+that the appellant had given two dates of appropriation of security, i.e., 16
+April 2025 and 21 July 2025, while the date of initiation of the CIRP is 13
+June 2025. Thus, in our considered opinion, due to the contradictory stand
+taken by the appellant, the Ld. Adjudicating Authority has not committed any
+illegality in directing the audit (only for the limited purpose of ascertaining the
+actual date on which the security deposited by the CD has been appropriated
+by the appellant).
+24.
+In view of the facts and circumstances of the case and the reasons given
+hereinbefore, we do not find any illegality in the order passed by the Ld.
+
+[PAGE 9]
+9
+
+Adjudicating Authority. In result, the appeal filed by the Appellant appears to
+be without merits and is dismissed as such.
+25.
+There is no order as to costs. The pending I.A.’s, if any, are also disposed
+of.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+30.10.2026
+sr/kam

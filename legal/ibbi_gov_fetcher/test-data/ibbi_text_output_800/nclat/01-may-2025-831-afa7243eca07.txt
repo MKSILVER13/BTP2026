@@ -1,0 +1,666 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) No. 263 of 2024
+
+[Arising out of the Impugned Order dated 13.05.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench-
+I in C.A No. 19/2024 in C.P. No. 3638/MB/2018]
+In the matter of:
+DSP Asset Managers Pvt. Ltd.
+10th Floor, Mafatlal Centre,
+Nariman Point, Mumbai - 400 021.
+
+...Appellant
+Versus
+
+(1) Grant Thornton India (Bharat) LLP
+
+IL&FS Financial Centre
+
+Plot No. C-22, G Block Bandra Kurla
+
+Complex, Bandra East,
+
+Mumbai – 400051, Maharashtra
+
+(2) Infrastructure Leasing and Financial
+
+Services Limited
+
+IL&FS Financial Centre,
+
+Plot No.C-22, G Block, Bandra Kurla
+
+Complex, Bandra East,
+
+Mumbai – 400051, Maharashtra
+
+(3) IDBI Trusteeship Limited
+
+Asian Building, Ground Floor, 17,
+R. Kamani Marg, Ballard Estate
+Mumbai 400 001 and
+J -1, Virjanand Marg, Vikaspuri,
+New Delhi- 110018.
+
+...Respondents
+
+Present:
+
+For Appellant
+: Mr. Krishnendu Dutta, Sr. Advocate with Ms. Subhabrata
+Chakraborti, Ms. Madhurima Sarangi and Ms. Alina Merin
+Mathew, Advocates.
+
+For Respondent
+: Mr. Animesh Bisht, Mr. Vihit Shah and Ms. Udisha
+Mishra, Advocates for R-2/ILFS.
+
+Mr. Mohit Kumar Bafna, Advocates for R-3.
+
+[PAGE 2]
+Page 2 of 20
+Company Appeal (AT) No. 263 of 2024
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal initially filed under Section 61 of Insolvency and
+Bankruptcy Code 2016 (‘IBC’ in short) by the Appellant which was subsequently
+amended by I.A. No. 6887 of 2024 and filed under Section 421(1) of the
+Companies Act, 2013 arises out of the Order dated 13.05.2024 (hereinafter
+referred to as ‘Impugned Order’) passed by the Adjudicating Authority (National
+Company Law Tribunal, Mumbai Bench-I) in C.A No. 19/2024 in C.P. No.
+3638/MB/2018. By the impugned order, the Adjudicating Authority has
+dismissed CA No. 19 of 2024 seeking admission of the claim filed by the
+Appellant in the insolvency process of IL&FS-Respondent No.2. Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant.
+2.
+Coming to the factual matrix of the present case at hand, the salient events
+are as outlined below:
+ On 22.03.2016, IL&FS Transportation Networks Ltd. (“ITNL” in short), a
+group subsidiary of Infrastructure Leasing and Financial Services
+Ltd.(“ILFS” in short) had issued and allotted 7800 Non-Convertible
+Debenture (NCD) pursuant to a Debenture Trustee Deed (DTD).
+ The NCDs were issued and allotted to the Appellant-Asset Manager of DSP
+Mutual Fund which had been subscribed to by retail investors and
+salaried persons.
+ Basis the DTD, IDBI Trusteeship Ltd.-Respondent No.3 was appointed as
+the Debenture Trustee (DT) on 22.03.2016.
+
+[PAGE 3]
+Page 3 of 20
+Company Appeal (AT) No. 263 of 2024
+
+ A Parent Agreement was signed between the Respondent No.2-ILFS and
+Respondent No.3-DT by which Respondent No.2 had undertaken to fulfil
+the payment obligations in the event of ITNL’s failure and default in
+complying with its payments obligations towards Debenture Holders in
+relation to NCDs.
+ On 14.09.2018, ITNL had made a default in payment obligations and
+Respondent No.3 had reported the same to ITNL vide default notice on
+21.09.2018.
+ On 15.09.2018, an event of default under the DTD occurred in terms of
+Clause 8.4(b) of the DTD as the indebtedness of Respondent No.2 had
+triggered an event of default under the DTD.
+ On 01.10.2018, the Board of Respondent No.2 was superseded under
+Sections 241 and 242 of the Companies Act and a new Board constituted.
+The insolvency process of Respondent No.2 commenced from October
+2018.
+ The new Board had conceived an Initial Resolution Framework in
+December 2018 for the resolution of the ILFS group which was followed by
+Addendums thereto.
+ On 11.01.2019, this Tribunal had directed that a process similar to
+Corporate Insolvency Resolution Process shall be followed for resolution of
+Respondent No.2 and its group companies.
+ On 22.05.2019, Grant Thornton India LLP-Respondent No.1 was
+appointed as the Claims Management Advisor (“CMA” in short) which
+issued public announcement inviting claims from creditors of Respondent
+
+[PAGE 4]
+Page 4 of 20
+Company Appeal (AT) No. 263 of 2024
+
+No.2 and their group entities including ITNL. The deadline for filing claims
+was however extended six times upto 18.08.2022.
+ Respondent No.3 sent an email on 23.05.2019 and 24.05.2019 to the
+Appellant requesting them to file their claims with them on or before
+28.05.2019. The Appellant had filed their claim qua ITNL and IEDCL on
+28.05.2019 but not in respect of Respondent No.2-ILFS.
+ On 23.05.2023, the Respondent No.1-CMA confirmed that the Respondent
+No.3-DT did not file the claim of the Appellant in the insolvency resolution
+process of ILFS-Respondent No.2.
+ The Respondent No.3 filed the claim of the Appellant in Form-C with the
+CMA in respect of Respondent No.2-ILFS on 05.06.2023.
+ On 15.06.2023, the CMA informed Respondent No.3-DT by an email
+notifying that the Appellant’s claim cannot be admitted in the insolvency
+process of Respondent No.2 unless instructed by the newly constituted
+Board of Respondent No.2.
+ On 28.12.2023, the Appellant filed Company Application No. 19/2024 in
+CP No. 3838/2018 under Section 241/242 of the Companies Act, 2013
+seeking condonation of delay in filing of their claims and for issue of
+directions to CMA to verify and include their claims qua Respondent No.2
+for pay out under the resolution plan. It was also prayed that no resolution
+plan be finalised in respect of Respondent No.2-ILFS pending disposal of
+the application.
+ The CA No. 19/2024 was dismissed and aggrieved with the impugned
+order, the present appeal has been preferred.
+
+[PAGE 5]
+Page 5 of 20
+Company Appeal (AT) No. 263 of 2024
+
+3.
+Making his submissions the Ld. Sr. Counsel for the Appellant, Shri
+Krishnendu Dutta submitted that it is an undisputed fact that NCDs were issued
+under the DTD and had also been duly disbursed and subscribed by Debenture
+Holders. Further, in terms of clause 4.1 of the DTD, ITNL had undertaken to pay
+all amounts as due in respect of the NCDs to be redeemed on the redemption
+date to the Debenture Holders. The DTD terms also provided that non-payment
+of outstanding debt by due date in respect of NCDs by ITNL constituted an event
+of default as per Clause 8 of the DTD. Further in terms of Recital of the DTD and
+pursuant to the Parent Agreement, Respondent No.2-ILFS had also guaranteed
+discharge of debt arising in respect of these NCDs to the Debenture Holders. It
+was submitted that the guarantee obligations of Respondent No.2 was co-
+extensive and co-terminus with ITNL. An event of default occurred on
+14.09.2018 and non-payment of NCD by Respondent No.2 constituted a Parent
+Cross Default in terms of clause 8.4(b) of the DTD. It was also pointed out that
+there is no dispute that the claim of the Appellant arises out of guarantee
+obligation of Respondent No.2 and that the claim had crystalized prior to the
+cut-off date and did not suffer any discrepancies. The liability of ITNL and
+Respondent No.2-ILFS towards the Appellant upon occurrence of event of default
+under DTD and Parent Agreement having arisen, the Respondent No.3 being the
+Debenture Trustee was therefore bound to act promptly without any reference
+to Debenture Holders in filing of claims.
+4.
+It was asserted that the public announcement of 22.05.2019 made by
+Respondent No.1-CMA inviting claims clearly stipulated that in case of those
+Debenture Holders having an appointed trustee, the claims were to be filed only
+
+[PAGE 6]
+Page 6 of 20
+Company Appeal (AT) No. 263 of 2024
+
+through such a trustee and hence it was incumbent and obligatory upon
+Respondent No.3 to file the claims with CMA without need of instructions from
+the Appellant. Further, pursuant to Clause 9.2 of DTD and Clauses 6.1 and 6.2
+of the Parent Agreement, the Respondent No.3 had access to books of accounts
+and financial records both of ITNL as well as Respondent No.2-ILFS including
+their liabilities towards creditors. However, there was negligence on the part of
+Respondent No.3 in filing the claims in a timely manner even though they had
+full and complete knowledge of all particulars and claim-related details of the
+Appellant right from the beginning.
+5.
+Submission was also pressed that when the claim of the Appellant was
+clearly reflected in the books of account of Respondent No.2 and Respondent
+No.3 and CMA had complete access to such financial records including books of
+account, the claim deserves to be admitted. In support of their contention, the
+Appellant has placed reliance on the judgment of this Tribunal in Puneet Kaur
+Vs KV Developers Pvt. Ltd. and Ors. in CA(AT)(Ins.) No. 391-394 of 2022
+wherein it was held that non-consideration of the claim of home-buyers who
+could not file their claims, inspite of the claims standing reflected in the record
+of the Corporate Debtor amounts to inequitable and unfair resolution. It was
+therefore contended that delay in filing the claim of the Appellant was not
+attributable to the Appellant but was occasioned by negligence and breach of
+DTD terms by Respondent No.3 and hence the Appellant cannot be subjected to
+prejudice on this count. It was vehemently contended that the Appellant cannot
+be made to suffer because of failure on the part of Respondent No.3 to perform
+their duty of lodging claims in a timely manner.
+
+[PAGE 7]
+Page 7 of 20
+Company Appeal (AT) No. 263 of 2024
+
+6.
+It was also asserted that no prejudice would be caused if the claims of the
+Appellant was admitted in the insolvency process keeping in mind particularly
+the fact that the claims primarily belong to retail investors and salaried persons
+whose life savings are involved. Denial of the admission of claim of the Appellant
+who are retail investors and salaried personnel would subject them to
+unwarranted harm. The Appellant cannot be faulted for not filing their claim on
+time as they could not have individually filed their claim since only Respondent
+No.3- Debenture Trustee could have filed the claim on their behalf in terms of
+DTD. Moreover, the Appellant was all along under a bonafide assumption that
+Respondent No.3 would file claim on their behalf on time. Furthermore,
+Regulation 12 of the CIRP Regulations allowed filing of claims of creditors till the
+stage of issue of request for resolution plan. In the present case, since neither
+request for resolution plan has been issued nor any resolution plan has been
+finalized or approved by the Committee of Creditors (“CoC” in short) of
+Respondent No.2, there is sufficient scope for admission of the claims of the
+Appellant even at this stage. It was also pointed out that the CMA-Respondent
+No.1 has fairly accepted that the claim of the Creditors can be admitted till the
+stage of approval of resolution plan.
+7.
+The time-line set for submission of claim by Creditors of Respondent No.2
+and its group entities had been extended in any case on multiple occasions.
+Since the Board of Respondent No.2 was obliged to act in a fiduciary capacity to
+protect the interest of all creditors, it can always extend the time-line further. In
+support of their contention that time-lines for filing claims are directory and not
+mandatory in nature reliance was placed on the judgment of the Hon’ble
+
+[PAGE 8]
+Page 8 of 20
+Company Appeal (AT) No. 263 of 2024
+
+Supreme Court of India in State Tax Officer VS Rainbow Papers Ltd. in CA
+No. 1661 of 2020 in which it has been held that the time-lines stipulated in the
+IBC for completion of CIRP proceedings are directory and not mandatory.
+8.
+The allegations and contentions raised by the Appellant were rebutted by
+Ld. Counsel, Shri Animesh Bisht appearing on behalf of Respondent No.2 and
+Ld. Counsel, Shri Mohit Kumar Bafna on behalf of Respondent No.3. Since their
+contentions largely overlap, we would like to capture them conjointly.
+9.
+Submission was pressed by the Respondents that keeping in view the fact
+that public announcement inviting claims had been made on 22.05.2019 and
+the Appellant had also been informed by Respondent No.3-Debenture Trustee of
+the claim process on 23.05.2019, the Appellant cannot justifiably claim that they
+were unaware of the timelines of the Claim Management Process. This is
+reinforced by fact that the Appellant’s claim against ITNL was not only filed
+within the timelines set out in the claim process but the claim was also admitted
+by Respondent No.1-CMA. Similarly, the Appellant had also filed their Claim
+Form with Respondent No.3 with respect to another group entity of ILFS,
+namely, IEDCL. This abundantly testifies that the Appellant was fully aware of
+the claim management process from 2019 onwards. It was stressed that while
+on the one hand, the Appellant through Respondent No.3 had filed their claim
+against ITNL for the NCDs on 29.07.2019, for the same set of NCDs, claims were
+filed as late as on 05.06.2023 against Respondent No.2 under the Parent
+Agreement. The Appellant had clearly filed their claim belatedly in respect of
+insolvency resolution process of Respondent No. 2 on 05.06.2023 which was
+more than ten months beyond the final deadline set for filing of claims. In such
+
+[PAGE 9]
+Page 9 of 20
+Company Appeal (AT) No. 263 of 2024
+
+circumstances, when the deadline of filing claims was extended six times from
+May 2019 to August 2022 and the Appellant remained dormant in filing their
+claims, they were clearly responsible in having failed to exercise due vigilance
+and due diligence in filing the claims within the stipulated time-frame. The
+Adjudicating Authority therefore committed no mistake in not allowing any relief
+for admitting such belated claims.
+10.
+It is the case of the Respondent No.3-DT that in terms of Clause 11(b) and
+Schedule 2 of DTD, the DT could act only on written instructions of Debenture
+Holder. Since DT could not have acted unilaterally without the explicit and
+unambiguous instructions of Debenture Holders, the DT cannot be held
+responsible for any omission, neglect or delay in filing of claims. It is also their
+contention that DT was not privy to financial records of the Appellant and hence,
+the DT had by email on 23.05.2019 and 24.05.2019 intimated the Appellant to
+submit their claim with supporting proof. However, while the Appellant had filed
+the claims qua ITNL and IEDCL within the time frame, the Appellant filed their
+claim qua ILFS on 05.06.2023 through Respondent No.3 after an inordinately
+long delay. Thus, it was contended that the Appellant was clearly barred by
+laches in lodging their claims.
+11.
+Reliance has been placed by the Respondents in the judgement of Hon’ble
+Supreme Court in State of Uttar Pradesh and Others Vs Arvind Kumar
+Srivastava and Others 2015 1 SCC 347 wherein it has been held that it is
+unjust to allow remedy to a person who by his own conduct has put the other
+party in a position in which it would not be reasonable to place him if the remedy
+was to be asserted afterwards. When by their own conduct or inaction, the
+
+[PAGE 10]
+Page 10 of 20
+Company Appeal (AT) No. 263 of 2024
+
+Appellant had not filed their claim, they cannot be allowed to assert their remedy
+afterwards on grounds of equity. If claims management process of ILFS is
+reopened on the request of the Appellant it would be detrimental to larger public
+interest. It was pointed out that it was a misplaced contention made by the
+Appellant that as the resolution plan was not yet on the anvil, the belated claims
+filed by the Appellant could still be considered by the CMA. Highlighting the
+peculiar facts and circumstances in which ILFS and its subsidiaries had been
+admitted into the CIRP, it was submitted that the resolution of ILFS which was
+the parent holding company for the entire ILFS group was envisaged to be
+resolved through the resolution of its subsidiary companies. As the group
+entities were resolved, the funds received in the resolution process were pushed
+upwards to the parent holding company-ILFS. The funds so collected were
+already being distributed to the creditors of ILFS in the larger public interest and
+the first round of interim distribution of assets of ILFS had also been carried out
+after the mechanism for this purpose had been approved by this Tribunal vide
+its order dated 31.05.2022 which allowed interim distribution to take place.
+Hence the resolution of ILFS was already underway and has been partially
+achieved. It was also submitted that any such steps of admitting belated claims
+would disturb the ongoing process of distribution of assets which has taken
+place so far thereby delaying resolution process as it would entail the remapping
+of the creditors. Moreover, this would lead to a situation where others who have
+not yet filed their claim may also stake their claims by relying on this precedent.
+If belated claims are allowed it will result in the resolution process becoming an
+endless and unceasing process which violates the objectives of timely resolution
+
+[PAGE 11]
+Page 11 of 20
+Company Appeal (AT) No. 263 of 2024
+
+and in support of their contention relied on the judgements of the Hon’ble
+Supreme Court in Committee of Essar Steel India Ltd vs Satish Kumar
+Gupta & Ors (2020) 8 SCC 531 and RPS Infrastructure Ltd vs Mukul Kumar
+&or in Civil Appeal no 5590 of 2021. The Adjudicating Authority therefore
+rightly dismissed the application for filing claims in a belated manner as the
+delay had no justifiable basis and lacked bonafide.
+12.
+Coming to the submissions made by Respondent No.1-CMA, it was
+outrightly denied that claims can be admitted till approval of resolution plan
+takes place. It was pointed out that the CMA was bound by the Resolution
+Framework and was required to act within the prescriptions of the Resolution
+Framework. It was also pointed out that claims consideration process cannot be
+continued endlessly by the CMA. Being a claims-based process, in the absence
+of claim having been filed qua Respondent No.2 within the permissible time
+period, the CMA could not have suo moto admitted the claim. As regards claims
+of the Debenture Holders qua Respondent No.2 was concerned, as against the
+last date for receiving claims of 18.08.2022, the Appellant’s claim was filed in
+Form-F on 05.06.2023 which was clearly beyond the time-line set for this
+purpose. Moreover, unless the time-lines for submission of claims was extended
+by ILFS Board, the CMA did not have the power to verify and admit the claims.
+The CMA therefore stood precluded from looking into these claims.
+13.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+14.
+The short issue which arises for our consideration is whether the
+Appellant had shown due diligence in submitting their claim qua Respondent
+
+[PAGE 12]
+Page 12 of 20
+Company Appeal (AT) No. 263 of 2024
+
+No.2 and, if not, whether sufficient reasons/grounds exist to admit the belated
+claim at this stage.
+15.
+Before we return our findings, it may be useful to notice the grounds on
+which the impugned order dismissed the CA No. 19/2024. The first ground taken
+by the Adjudicating Authority is that the Appellant inspite of being well aware of
+the
+ongoing
+insolvency
+resolution
+process
+of
+Respondent
+No.2
+and
+announcement already made for inviting claims in May 2019, they did not send
+any communication to Respondent No.3-DT to file any claim qua the obligations
+to be discharged by Respondent No.2. Secondly, the Adjudicating Authority took
+notice that the Respondent No.3 had no instructions from the Appellant to file
+any claim qua Respondent No.2 prior to 25.05.2023 and in the absence of
+requisite instructions, Respondent No.3 could not have filed the claim on behalf
+of the Appellant prior to that date. Considering that the resolution was conceived
+to be claim based process and only claims of creditors which have been received,
+verified and admitted are to be considered for the purpose of settlement of their
+dues, the Adjudicating Authority in the impugned order has observed that it was
+not inclined to issue any direction for admission of belated claim. Thirdly, we
+find that the Adjudicating Authority has noted that since the claim of the
+Appellant had already been admitted in the insolvency process of ITNL, no
+prejudice would be caused to the Appellant for not having filed their claims in
+the insolvency resolution process of Respondent No.2. The Adjudicating
+Authority therefore refused to pass any direction on the consideration of the
+belated claim filed by the Appellant qua Respondent No.2.
+
+[PAGE 13]
+Page 13 of 20
+Company Appeal (AT) No. 263 of 2024
+
+16.
+It is the case of the Appellant that there were standing instructions since
+21.09.2018 for Respondent No.3 as Debenture Trustee to take all steps to secure
+and protect the interest of the Appellant with regard to filing of claims in respect
+of obligations to be discharged by Respondent No.2-ILFS. Since the Debenture
+Trustee-Respondent No.3 was duty bound to file the claims on the behalf of
+Appellant, the latter cannot be faulted for not filing their claim on time since it
+was the Respondent No.3-Debenture Trustee who only could have filed the claim
+on their behalf in terms of DTD. It is further their case that the Respondent No.3
+as an after-thought to cover up their inefficiency and negligence came up with
+the excuse that they needed the prior instructions of the Appellant for filing their
+claim in the insolvency of Respondent No.2. In any case, if any instructions were
+required to be obtained by the Respondent No.3 from the Appellant, the onus
+lied on Respondent No.3 to obtain the same and not await the instructions from
+the Appellant. It has also been contended that the details of the claims of the
+Appellant were available in the records and books of account of Respondent No.2.
+In such circumstances, when the books evidenced the details of the claims of the
+Appellant, there was no good reason for the CMA in not taking cognisance of
+their claims. It was also submitted that when CMA had admitted claims of
+certain other creditors of Respondent No.2 on the basis of information available
+in the books of accounts of Respondent No.2 by dispensing the need to lodge a
+formal claim by such creditors, it was inexplicable as to why similar treatment
+and benefit was denied to the Appellant.
+17.
+Per contra, it is the contention of the Respondent No.3-DT that in terms of
+Clause 11(b) of the DTD, prior instruction of the Appellant was required by
+
+[PAGE 14]
+Page 14 of 20
+Company Appeal (AT) No. 263 of 2024
+
+Respondent No.3 to file claims on behalf of the Appellant. Since DT could not
+have acted unilaterally without the instructions of Debenture Holders, the DT
+had therefore kept the Appellant apprised in writing on 24.05.2019 about the
+timelines of the Claim Management Process and the need to file the claims.
+Hence, the Appellant cannot justifiably claim that they were unaware of the
+Claim Management Process and associated time-lines for filing of claims qua
+ILFS. This is further reinforced by fact that the Appellant’s claim against ITNL
+was filed within the timelines set out in the claim process which claim was also
+admitted by Respondent No.1-CMA. Similarly, the Appellant had also filed their
+Claim Form with Respondent No.3 with respect to another group entity of ILFS,
+namely, IEDCL within the stipulated time-frame which was also admitted by the
+CMA. As regards claims qua ILFS, the Appellant approached DT much later on
+25-26.05.2023 vide emails to submit their claims. The DT had acted promptly
+and filed the same on 05.06.2023. In such circumstances, the DT cannot be held
+responsible for any omission, neglect or delay in filing of claims in respect of the
+Appellant with regard to their claims qua Respondent No.2.
+18.
+Coming to our analysis and findings in the present case, we notice that
+the CMA had made a Public Announcement on 22.05.2019 setting 06.06.2019
+as the first deadline for claim submissions which was subsequently extended
+until 18.08.2022 after allowing six extensions. These extensions were allowed
+not for any specific party but was open for all stake-holders to stake their claims
+and therefore does not suffer from any arbitrariness. The public announcement
+of 22.05.2019 made by Respondent No.1-CMA inviting claims clearly stipulated
+that in case of those Debenture Holders having an appointed trustee, the claims
+
+[PAGE 15]
+Page 15 of 20
+Company Appeal (AT) No. 263 of 2024
+
+were to be filed only through such a trustee. It is also an undisputed fact that
+the Appellant did not file their claim qua Respondent No.2 within the extended
+time so allowed either directly by themselves or through the Respondent No.3-
+DT. Their claim was eventually filed on 05.06.2023 by the DT which was much
+beyond the sixth extension of time-line allowed until 18.08.2022. It is therefore
+abundantly clear that substantial time had elapsed since the date of issue of
+public announcement inviting claim and the actual date of filing of claim on
+behalf of the Appellant by the DT qua the obligations of Respondent No.2-ILFS.
+19.
+From available material on record, it is noticed that Respondent No.3 had
+intimated the Appellant as well as the Debenture Holders of the ongoing claim
+process in their email dated 24.05.2019 and requested them to file their claims
+in timely manner. The said email is as reproduced below:
+From: Rmita <mailto:rmitra@idbitrustee.com>
+Sent: Friday, May 24, 2019 3:57 PM
+To:'ParidhiDoshi;Sunit.Garg@kotak.com;
+Ketan.Ugrankar@invesco.com;Ganesh.Gadhave@invesco.com;Bhurji,
+Manprit (India); Roy, Soumyo (India); DSP, RQA (India)
+Cc:‘S.Gunware;meet@idbitrustee.com;jimit@idbitrustee.com;
+amarsurve@idbitrustee.com; Lubna.Usman@ilfsindia.com
+
+Subject: RE: IL & FS Transportation Networks India Limited - Submission of
+claim - Public Announcement by IL&FS
+
+Dear Debenture Holders,
+
+As per discussion with the Company and Grant Thornton India LLP (Claim
+Management Advisor) we had today, we have been informed that the claims
+due up to and including 15.10.2018 needs to be provided in a revised form
+(attached).
+Request you all to fill in the attached Format (Form CA) and submit the same
+duly signed (scan followed by hard copy to the address mentioned in the
+signature) alongwith the proof of claim (including latest D-mat statement).
+Request all to provide the same on or before 28.05.2019 positively.
+
+[PAGE 16]
+Page 16 of 20
+Company Appeal (AT) No. 263 of 2024
+
+Chief Manager (Operations)
+IDBI Trusteeship Services Limited
+
+20.
+Subsequent to issue of this email, we find that claim forms were issued in
+respect of ITNL and IEDCL. This is clearly evident from the e-mail dated
+28.05.2017 which is as reproduced below:
+From: Jain, Rimmi (India) Rimmi.jain@dspim.com
+Sent: 28 May 2019 17:43
+To: rmitra@idbitrustee.com; paridhi@idbitrustee.com; meet@idbitrustee.com;
+jimit@idbitrustee.com; amarsurve@idbitrustee.com
+Cc: Majmudar, Pritesh (India); Rajagopal, Ramamoorthy (India); +DSP Credit
+Team (India); Vora, Pranjal (India); +DSPIM FA Valuation (India}; DSP, RQA
+(India)
+Subject: FW: IL & FS Transportation Networks India Limited - Submission
+of claim - Public Announcement by IL&FS
+
+Dear Sir/Madam,
+
+Please find attached the claim forms in respect of IEDCL and ITNL by DSP
+Investment Managers Pvt. Ltd.
+The hard copy has been sent to you by courier today.
+
+Regards,
+DSP Investment Manager
+
+21.
+While claim had been filed in respect of group entities of ILFS, no claim
+forms were submitted in so far as ILFS-Respondent No.2 was concerned. It has
+been admitted by the Appellant that there were several exchanges of
+communication as late as from March 2023 onwards between the Appellant and
+Respondent No.3 regarding filing of claims of the Appellant in relation to
+insolvency resolution process of Respondent No.2-ILFS following which on
+05.06.2023 the Respondent No.3 filed Form-C with the CMA with request to
+admit the claim of the Appellant. It therefore becomes clear that no claim had
+
+[PAGE 17]
+Page 17 of 20
+Company Appeal (AT) No. 263 of 2024
+
+been filed in respect of the Appellant qua the Respondent No.3 though the time-
+line had lapsed. We also notice that even the CMA-Respondent No.1 had
+informed the Appellant on 23.05.2023 that Respondent No.3 had not filed the
+claim of the Appellant for the guarantee given by Respondent No.2-ILFS. The
+Appellant had clearly filed their claim belatedly in respect of insolvency
+resolution process of Respondent No. 2 on 05.06.2023 which was more than ten
+months beyond the final deadline set for filing of claims. In such circumstances,
+when the deadline of filing claims was extended six times from May 2019 to
+August 2022 and yet the Appellant slept over in filing their claims, they had
+clearly failed to exercise requisite diligence in filing the claims within the
+stipulated time-frame. The Appellant should have been more vigilant in taking
+timely steps to file their claim. The Appellant has been clearly found wanting in
+this regard as due diligence was not shown towards satisfying the prescriptive
+requirement of filing their claims even within the extended time period. It is not
+required of the Adjudicating Authority to determine as to whether the Appellant
+or the DT was responsible for the delay in filing the claims but has to be merely
+satisfied whether any inordinate and unjustified delay occurred in the filing of
+claims. The Adjudicating Authority has therefore not committed any mistake in
+concluding that claims qua the obligations to be discharged by Respondent No.2
+not having been filed within the extended time period allowed for filing of claims
+for any genuine reason, the conduct of the Appellant was clearly remiss.
+22.
+Prima-facie, the CMA did not enjoy any discretion in admitting the belated
+claim of the Appellant after the extended period. The CMA cannot be faulted on
+this count since the CMA was duty bound to follow the Resolution Framework
+
+[PAGE 18]
+Page 18 of 20
+Company Appeal (AT) No. 263 of 2024
+
+which framework though largely guided by the broad principles of IBC also
+entailed a distinctive and different process in view of its own unique complexity.
+Even at this belated stage, the CMA did not reject the claim but stated that it
+needed the approval of new Board of ILFS to admit the claim. While we agree
+with the Appellant that merely because the claim of the Appellant was admitted
+in the insolvency process of ITNL by the CMA, it could not be a fetter on the right
+of the Appellant to seek admission of their claims in the insolvency resolution
+process of ILFS since their guarantee obligation to pay the Appellant was co-
+extensive and co-terminus with ITNL, however, we cannot countenance the
+lethargic and lackadaisical approach of the Appellant in pursuing their claims
+qua ILFS. To our minds, the Appellant had clearly failed to discharge their
+obligation to lodge claims within prescribed time period. In these circumstances,
+we are inclined to agree with the Respondents that allowing belated claim of the
+Appellant will open flood gates of the multiple such claims. If belated claims are
+allowed for any specific party, there is all likelihood from other similarly placed
+claimants to seek reopening of the claim window leading to the need of
+remapping of the creditors and pro-rata revision revision/adjustment of the of
+the proceeds already distributed or proposed to be distributed thereby rendering
+the resolution process endless.
+23.
+It is however the case of the Appellant that their belated claim can be
+admitted since the resolution of Respondent No.2 had not occurred and the
+resolution plan was yet to be received. However, when we look at the Resolution
+Framework as approved by this Tribunal, we find that said framework envisaged
+Asset Level Resolution through various methodologies including capital
+
+[PAGE 19]
+Page 19 of 20
+Company Appeal (AT) No. 263 of 2024
+
+infusion/asset monetisation/resolution or winding-up based on the feasibility
+and viability on the parent holding and groups entities. The first round of interim
+distribution of funds to creditors had already been carried out in the interest of
+successful implementation of the Resolution Framework and revival of the ILFS
+and its group entities following approval of the interim distribution mechanism
+by this Tribunal on 31.05.2022 as is placed at page 189 of reply of Respondent
+No.2. Coming to the reliance placed by the Appellant on the judgement of this
+Tribunal in Puneet Kaur judgement, we notice that the facts of the present case
+are distinguishable. While in Puneet Kaur matter, the resolution plan had not
+yet been approved by the Adjudicating Authority, in the present case, at the time
+of filing belated claims by the Appellant, distribution of proceeds in terms of
+interim resolution framework had already commenced. We find force in the
+contention of the Respondents that since the resolution of ILFS occurs by virtue
+of resolution of its group entities, claims cannot be allowed beyond the time
+where the resolution of the group entities have been approved and distribution
+of proceeds already made.
+24.
+This brings us to the contention of the Appellant that since timelines are
+directory and not mandatory as laid down in the Rainbow Papers judgement
+supra the belated admittance of claims was permissible. We have no quarrel
+with the proposition of law as laid down in the Rainbow Papers judgement but
+we have to be also mindful that it is also settled law that any party seeking
+condonation of delay is required to furnish cogent grounds as a condition
+precedent to allow condonation of such delay. The Appellant has also not
+provided any cogent reason for delay in filing the claim despite multiple
+
+[PAGE 20]
+Page 20 of 20
+Company Appeal (AT) No. 263 of 2024
+
+extension of the claims window having been allowed. In the instant case, the
+Appellant has failed to provide any plausible justification for delay in filing their
+claims. The Appellant for no justifiable reasons had clearly dropped the guard of
+being vigilant in pursuing their claims within the time-lines and now seeks to
+stall the resolution process disregarding the larger interest of other stakeholders.
+The Appellant because of their inaction cannot prejudice the creditors who had
+filed their claims in a timely manner to their detriment. In the absence of credible
+and genuine grounds extending the delay, it does not commend us to overturn
+the findings of Adjudicating Authority for any indulgence shown by way of
+belated admittance of claim at this stage is also likely to jeopardise the ongoing
+resolution process of ILFS and its group entities. The Adjudicating Authority has
+not committed any error in the given facts and circumstances in not acceding to
+the request of the Appellant for admission of their belated claims.
+25.
+In view of the foregoing discussion, we are of the considered view that the
+Appeal is devoid of merit. The impugned order does not warrant any interference.
+The Appeal is dismissed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 01.05.2025
+
+Abdul/Harleen

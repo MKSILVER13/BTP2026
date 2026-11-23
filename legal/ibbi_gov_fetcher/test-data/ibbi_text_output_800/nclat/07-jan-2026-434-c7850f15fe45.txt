@@ -1,0 +1,544 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+[Arising out of the Impugned Order dated 11.09.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Indore Bench in
+C.P. (IB) No. 45 (MP)/2024]
+In the matter of:
+Pravir Krishak,
+Suspended Director Of
+C-Net Infotech Private Limited
+(Corporate Debtor)
+Address: HX-4, E-7, Arera Colony,
+Bhopal, Madhya Pradesh – 462016
+Email: pravir@cnet-india.com
+
+.... Appellant
+Versus
+
+1.
+Bank of Baroda
+
+Registered Office:
+
+Bank of Baroda, Baroda House,
+
+Near Mandvi, P.B No. 506, Vadodara,
+
+Gujarat – 390005
+
+Concerned Branch:
+
+R.O.S.A.R.B Branch,
+
+Basement Plot No. 11 & 12,
+
+Banjari, Kolar Road Bhopal,
+
+Madhya Pradesh – 462042
+
+E-mail: sarbhp@bankofbaroda.co.in
+
+2.
+Ms. Teena Saraswat Pandey
+IBBI/IPA-001/IP-P00652/2017-
+
+18/11126
+Interim Resolution Professional (“IRP”)
+Address: 387 F, 114 Scheme Part 1,
+Behind Diksha Boys Hostel,
+Sant Nagar, Indore, Madhya Pradesh – 452010
+
+.... Respondents
+
+Present:
+
+For Appellant
+: Mr. Krishnendu Dutta, Sr. Advocate with Ms. Abiha Zaidi,
+Mr. Pritam Raman Giriya, Ms. S. Chowdhary, Ms. Pragya
+Samal, Ms. Arushi and Mr. Yash Tandon and Mr. Harshit
+Chaudhary, Advocates.
+
+[PAGE 2]
+Page 2 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+For Respondent
+: Mr. Abhishek Naik, Ms. Gulafsha Kureshi and Mr. Bhavesh
+Bothra, Advocates for R-1.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+11.09.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Indore Bench) in C.P.
+(IB) No. 45 (MP)/2024. By the impugned order, the Adjudicating Authority has
+admitted the Section 7 application filed by the Respondent-Bank of Baroda and
+admitted C-Net Infotech Pvt. Ltd.-Corporate Guarantor of the Corporate Debtor-
+C-Net Digital Pvt. Ltd. into the rigours of CIRP. Aggrieved by the impugned order,
+the present appeal has been preferred by the suspended director of the Corporate
+Guarantor-Appellant.
+2.
+Recapitulating the sequence of events, it is relevant to notice that following
+the admission of the Section 7 application filed by the Respondent-Bank of Baroda
+by the Adjudicating Authority vide the impugned order dated 11.09.2025, the
+present appeal was filed by the Appellant assailing the impugned order. However,
+since the Appellant soon entered into a settlement with Bank of Baroda and the
+latter had consented to file appropriate application under Section 12A of IBC for
+withdrawal of the CIRP, this appeal had been disposed of by this Tribunal on
+06.10.2025 with liberty to the Bank of Baroda to file Section 12A application in
+
+[PAGE 3]
+Page 3 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+accordance with law. The Appellant also made part payment to the Bank of
+Baroda in terms of the settlement. However, the Bank of Baroda did not file the
+Section 12A application on the ground that CoC had already been constituted on
+06.10.2025. The Appellant thereafter filed Restoration Application (AT) No. 26 of
+2025 for revival of the appeal. On 13.11.2025, this Tribunal recalled its order
+dated 06.10.2025 and revived the appeal on its original number. In the
+interregnum, permission of this Tribunal had been obtained by the Appellant on
+26.09.2025 to file additional grounds in the Appeal. Pursuant to the order dated
+26.09.2025, the Appellant filed IA No. 7680 of 2025 raising certain additional
+grounds pertaining to the maintainability of the Section 7 application in that the
+Section 7 application was not maintainable as the alleged default was below the
+statutory threshold of Rs 1 Cr. as prescribed under Section 4 of the IBC. The IA
+No. 7680 of 2025 was allowed and amended application taken on record.
+3.
+Making submissions on behalf of the Appellant, Shri Krishnendu Dutta, Ld.
+Senior Advocate submitted that the Adjudicating Authority had admitted the
+Section 7 application without adjudicating on the issue of maintainability of the
+Section 7 application from the viewpoint of threshold under Section 4 of the IBC.
+It was asserted that the impugned order suffered from jurisdictional defect as it
+had admitted the Section 7 application even though it was below the statutory
+threshold of Rs 1 Cr. as prescribed under Section 4 of the IBC. It was submitted
+that though two separate corporate guarantees were executed by the Appellant
+for an amount of Rs 75 lakhs and Rs 95 lakhs, the Section 7 application was filed
+by the Respondent-Bank of Baroda only in respect of the corporate guarantee of
+Rs 75 lakhs. It was stressed that no invocation in respect of the other corporate
+
+[PAGE 4]
+Page 4 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+guarantee was made by the Respondent. It was vehemently contended that the
+terms of this Guarantee Deed governing this guarantee had clearly capped the
+liability of the Corporate Guarantor to Rs 75 lakhs inclusive of interest and other
+charges. Hence the claim against the Appellant-Corporate Guarantor did not cross
+the threshold level of Rs 1 Cr. and hence the Section 7 application was not
+maintainable. It was therefore contended that the impugned order dated
+11.09.2025 admitting the Section 7 application without adjudicating on the
+jurisdictional defect by the Adjudicating Authority rendered the impugned order
+vitiated in law. Without denying that this ground of jurisdictional defect had not
+been raised by the Appellant before the Adjudicating Authority, it was canvassed
+that this being a question of law which went into the root of jurisdiction, this issue
+of maintainability of the Section 7 application could as well be raised at the
+appellate stage. In support of their contention, it has been submitted that the
+Hon’ble Supreme Court in Jagmittar Sain Bhagat Vs Director, Health
+Services, Haryana (2013) 10 SCC 136 has categorically held that a pure
+question of law going to the root of jurisdiction, particularly one concerning
+maintainability, can be raised at any stage of the proceedings.
+4.
+Refuting the contentions raised by the Appellant, it has been submitted by
+the Shri Abhishek Naik, Ld. Counsel for the Respondent that the present appeal
+tantamount to gross abuse of the process of law as the issues raised in the Section
+7 application are no more res integra. Repelling the argument canvassed by the
+Appellant that the Section 7 application did not meet the requisite threshold, it
+was asserted that this ground not having been taken by the Appellant before the
+Adjudicating Authority, it was estopped from raising this new plea. It was also
+
+[PAGE 5]
+Page 5 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+added that this plea is raised only as an after-thought since this Appellant was
+aware that the twin conditions of debt and default having been met and the
+guarantee having been invoked on time, there was no escape from CIRP. The one-
+sided interpretation of the clauses of the Guarantee Deed by the Appellant to
+contend that the guarantee amount was capped to a total of Rs 75 lakh was a
+deliberate misrepresentation created to suit their interests in thwarting their
+admission into CIRP. This distorted interpretation of the clauses on which there
+is no consensus ad idem between the two parties cannot be accepted as it goes
+against the intent and spirit of the guarantee document. It was also submitted
+that if the interpretation of the clauses as suggested by the Appellant is to be
+followed, this would amount to causing grave prejudice to a public sector bank.
+Moreover, this would mean that a defaulting guarantor would get unintended
+benefit from the Guarantee Deed and would amount to conferring undue
+advantage on the Appellant inspite of their default.
+5.
+We have duly considered the arguments advanced by the Learned Counsels
+for both parties and perused the records carefully.
+6.
+The short question before us for our consideration is whether the Section 7
+application as admitted by the Adjudicating Authority qua the Corporate
+Guarantor in terms of the Guarantee Deed which has been invoked by the
+Respondent is hit by maintainability in the context of the threshold limit of Rs 1
+Cr set out by Section 4 of IBC.
+7.
+Before we dwell on the maintainability issue, what needs to be ascertained
+is whether the Section 7 application was admitted in respect of invocation of the
+Corporate Guarantee of Rs 75 lakhs or also covered the other Guarantee Deed of
+
+[PAGE 6]
+Page 6 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+Rs 95 lakhs also. When we look at Part-IV of the Section 7 application filed by the
+Respondent-Bank of Baroda, we find that the default raised is in respect of the
+guarantee of Rs 75 lakhs only. The relevant extract of Part-IV is as reproduced
+below which clearly indicates that the Section 7 application was filed only in
+respect of the Guarantee Deed of Rs 75 lakhs and not in respect of the other
+guarantee of Rs 95 lakhs. We also notice that the principal amount outstanding
+has been shown as Rs 93,16,846.09/- which alongwith interest of Rs
+43,39,523.29/- amounted to a total of Rs 1,37,71,961.38/- only. The Part-IV
+reads to the effect:
+Part- IV
+PARTICULARS OF FINANCIAL DEBT
+1.
+TOTAL AMOUNT OF
+DEBT
+GRANTED DATE(S)
+OF
+DISBURSEMENT
+
+A/C 29210500002803
+A/c 29210600006160
+A/c 29210600006742
+A/c 29210600006157
+
+Total
+75,00,000
+19,45,000
+8,41,000
+7,50,000
+
+1,10,36,000
+As per Sanction dated
+27.07.2017 for CC & Term
+Loan, Two BECLS-TL
+02.05.2020 and FITL-TL
+26.11.2020
+1,10,36,000
+TOTAL AMOUNT OF
+DEBT GRANTED (AS PER
+ANNEXURE -C)
+
+1,10,36,000
+2.
+AMOUNT CLAIMED
+TO BE
+IN DEFAULT AND
+THE
+DATE ON WHICH
+THE
+DEFAULT
+OCCURED
+(ATTACH
+THE
+WORKING
+FOR COMPUTATION
+OF
+PRINCIPAL
+OUTSTANDING
+INTEREST OUTSTANDING
+(unapplied + un-serviced)
+
+Other Charges
+
+TOTAL OUTSTANDING as
+on 19.02.2024
+
+93,16,846.09/-
+
+43,39,523.29 /-
+
+1,15,592.00/-
+1,37,71,961.38/-
+
+The loan was
+given to C-Net
+
+[PAGE 7]
+Page 7 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+AMOUNT AND DAYS
+OF
+DEFAULT
+IN
+TABULAR
+FORM)
+DATE ON WHICH
+DEFAULT OCCURRED
+(THE WORKING FOR
+COMPUTATION OF
+AMOUNT AND DATES OF
+DEFAULT
+IN
+TABULAR
+FORM SHOWN IN
+ANNEXURE-D)
+Digital Private
+limited and C- Net-
+Digital Private limited
+Account has slipped
+into
+NPA
+on
+29.11.2020 as per
+RBI Norms
+
+C-Net Infotech Private
+Limited
+has
+given
+corporate
+Guarantee for
+the loan of C- Net
+Digital
+Private
+limited.
+
+8.
+It is the case of the Appellant that the Section 7 application based on the
+Guarantee deed of Rs 75 lakhs could not have met the threshold limit of Rs 1 Cr.
+since the Guarantee Deed had capped the outer limit of the liability to Rs 75 lakhs
+only. The instant Section 7 application which has been filed by the Respondent
+by invoking the Guarantee Deed of Rs 75 lakh has wrongly reflected the claim
+amount to be Rs 1,37,71,961.38/- at a time when Clauses 1 and 2 of the
+Guarantee Deed expressly limited the claim to a maximum of Rs 75 lakhs only. It
+was asserted that when the language of the Guarantee Deed clauses clearly
+capped the liability to Rs 75 lakhs including both principal and interest, the
+Section 7 application logically failed to meet the Section 4 threshold bar and hence
+was not maintainable but this aspect has escaped the attention of the
+Adjudicating Authority.
+9.
+Per contra, it is the contention of the Respondent that in terms of the
+wordings employed under the Deed of Guarantee, on the invocation of the
+guarantee, the Corporate Debtor was required to not only repay the principal
+
+[PAGE 8]
+Page 8 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+amount of Rs 75 lakhs but additionally also the interest and other charges upon
+the loan advanced to the principal borrower. Hence the claim made in Part-IV for
+an amount of Rs 1,37,71,961.38/- was pretty much in tandem with the terms of
+the Guarantee Deed and having crossed the threshold limit of Rs 1 Cr was not hit
+by the threshold bar set by Section 4 of IBC.
+10.
+For us to return our findings on the short question framed by us at para 6
+above, we would like to first take note of the two relevant clauses of the Guarantee
+Deed viz Clauses 1 and 2 which determines the guarantee obligations including
+the payment of guarantee amount, interest and charges thereon. The two relevant
+clauses are as reproduced below:
+Clause 1
+"I/We the undersigned C-net Infotech Pvt Ltd, solely/jointly and
+severally guarantee the payment upto but not exceeding in the aggregate
+the sum of Rupees Seventy Five Lacs only and also of all moneys, which
+term shall include all the interest due or to become due in respect of the
+moneys already advanced and paid to such Principal or in respect of
+any liability incurred by you, for such principal or in respect of any
+monies you may at any time advance, or pay to or any liability you may
+incur for the use or accommodation, or on the credit of the principal,
+whether on Current, Overdraft, Cash Credit or any other accounts in
+connection therewith for which the principal shall be liable to you
+solely/jointly with others"
+Clause 2
+"I/We expressly declare that this guarantee shall be for the periods
+aforementioned and a continuing guarantee to you for any amount from
+time to time not exceeding as aforesaid the said sum of (Rupees only) on
+the wholesome due on the said account/s together with interest and
+charges thereon and whether or not from time to time there be nothing
+owing on any or all the said accounts or the same be brought to credit
+from time to time."
+
+[PAGE 9]
+Page 9 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+11.
+It was submitted by the Appellant that Clause 1 opens with the line reading
+as “solely/jointly and severally guarantee the payment upto but not exceeding in
+the aggregate the sum of Rupees Seventy Five Lacs only and also of all moneys,
+which term shall include all the interest due or to become due in respect of the
+moneys already advanced and paid to such Principal or in respect of any liability
+incurred by you,”. It was pointed out that the use of the word “aggregate” meant
+the complete whole of the amount. To substantiate their contention, attention was
+adverted to the dictionary meaning of the word “aggregate”. It was submitted that
+according to the Cambridge Dictionary, the word “aggregate” means “something
+formed by adding together several amounts or things”. It was also submitted that
+the usage of the word “aggregate” coupled with the other set of inclusive words
+“and also of all moneys” in Clause 1 clearly pointed out that the “aggregate”
+amount included principal plus interest plus charges. It was also emphasised that
+the presence of the words “shall include” was yet another all- embracing word
+with a wide amplitude. Hence the combination of wordings employed in Clause
+1 made it resoundingly clear that on the invocation of this Guarantee Deed, the
+amount claimed was confined to the overall aggregated liability of Rs 75 lakhs
+with no room for exceeding this hard ceiling.
+12.
+Much emphasis was also laid by the Ld. Counsel of the Appellant on the
+fact that Clause 2 of the Guarantee Deed further reaffirmed the intent and scope
+of the guarantee as outlined in Clause 1. It was pointed out that the Clause 2 of
+the Guarantee Deed expressly stated “not exceeding as aforesaid the said sum”.
+The phraseology “as aforesaid the said sum” here clearly is a throwback to the
+cap of Rs 75 lakhs as spelt out in Clause 1.
+
+[PAGE 10]
+Page 10 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+13.
+Refuting the above interpretation adopted by the Appellant, the Ld Counsel
+for the Respondent contended that the interpretation of the two Clauses 1 and 2
+of the Guarantee Deed by the Appellant is skewed and misconceived. There is a
+clear usage of the conjunctive words “and also”. Relying on the Oxford English
+Dictionary, it was submitted that the words “and” read with “also” meant “in
+addition” or “as well”. Further, it was asserted that the term “of all moneys” has
+been positioned right after the words “and also” is also significant and hence
+whatever amount qualified to fall in the category of “all moneys” was to be over
+and above the Rs 75 lakh sum. It was asserted that the term “all moneys” in
+Clause1 had been elaborated to mean that it “shall include all the interest due or
+to become due in respect of the moneys already advanced and paid to such
+principal or in respect of any liability incurred by you”. Hence a combined reading
+of the two Clauses makes it amply clear that the Corporate Guarantor was liable
+not only to repay the principal amount of Rs 75 lakhs but additionally also the
+interest and other charges upon the loan advanced to the principal borrower.
+14.
+Coming to our analysis and findings, we begin with our observation that it
+is well settled that the liability of the Guarantor has to depend on the terms of the
+Guarantee Deed and in interpreting the terms of a Guarantee Deed, a plain and
+simple meaning as derived from the express provisions of the Guarantee Deed
+requires to be read into the same. A Guarantee Deed being a contractual
+document, its interpretation needs to be based strictly on its written terms. We
+also hasten to add here that there is no role for equity jurisdiction in looking at a
+Guarantee Deed for applying the principles of equity would lead to the
+
+[PAGE 11]
+Page 11 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+vulnerability of rewriting or modifying or varying the express agreement of the
+parties which is beyond the jurisdiction of this Tribunal.
+15.
+We would like to first deal with the term “aggregate” appearing at Clause1
+of the Guarantee deed. For this purpose, we have looked at some other dictionary
+meanings of the word “aggregate” apart from what was pointed out by the
+Appellant. According to the Black’s Law Dictionary, the word “aggregate” has been
+defined as “entire number, sum, mass, or quantity of something; amount;
+complete whole”. The word “aggregate” is defined in the Merriam-Webster
+Dictionary to mean “a whole sum or total”. In Corpus Juris Secundum, the word
+“aggregate” has been defined to mean “a collection or assemblage of items
+considered as a single entity”. Thus, the word “aggregate” implies a sum or entity
+formed by accumulating and assembling of distinct units to create one composite
+unit. In other words, this definition implies that the word “aggregate” means to
+collect or gather into a mass or whole. As the word “aggregate” refers to a sum or
+total, formed by combining multiple elements or items, extending the same
+meaning to the word “aggregate” in the context of quantifying any liability would
+cover the liability in its entirety. Applying this derivative to the facts of the present
+case, the “aggregate” sum would mean a complete whole including both the
+principal and interest amount. If the liability arising out of this Guarantee Deed
+was to be restricted only to the principal amount of Rs 75 lakhs which was already
+a known and determinate amount, the usage of the word “aggregate” would not
+have been required to be inserted in the Guarantee Deed. Thus, we are inclined
+to agree with the Appellant that the word “aggregate” also included other elements
+
+[PAGE 12]
+Page 12 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+i.e. interest and other charges apart from the principal amount within the amount
+of Rs 75 lakhs.
+16.
+We further find that in Clause 1, two phrases have been used viz. “not
+exceeding in the aggregate the sum of Rs 75 lakhs only” and “and also of all
+moneys”. Both these phrases are interspersed with the conjunctive word “and”
+and therefore has to be read conjointly. Furthermore, the term “all moneys” has
+been clarified in Clause 1 that it “shall include all interest due or to become due
+in respect of the moneys already advanced and paid to such principal” and has
+been prefaced with the word “aggregate”. Thus, the aggregate ceiling limit of Rs
+75 lakhs was equally applicable to the term “all moneys”. Hence, the use of the
+term “all moneys” cannot be read to mean monies independent of the capped
+liability. When we read the expression “and also of all moneys” alongwith the
+phrase “upto but not exceeding in the aggregate” it clearly signifies that the ceiling
+of Rs 75 lakhs was the upper limit for which the guarantee could be invoked and
+that this ceiling was sacrosanct and impenetrable.
+17.
+At this stage, we would like to notice the use of the words “on the wholesome
+due on the said account/s together with interest and charges thereon” appearing
+in Clause 2 of the Guarantee Deed. The crucial word used here is “together” and
+therefore the import of the word “together” cannot be ignored or overlooked. This
+affirms that the amount of Rs 75 lakhs was treated as the “wholesome due”
+coupled with interest component as well as any other charges arising thereon.
+Moreover, the usage of the phrase “as aforesaid the said sum” in Clause 2 is a
+clear reference to the cap of Rs 75 lakhs as spelt out in Clause 1. The term “as
+aforesaid” makes it clear that the same outer ceiling limit governed both the
+
+[PAGE 13]
+Page 13 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+clauses. The express language of both Clause 1 and Clause 2 complement and
+affirm each other and are mutually explanatory and this aspect cannot be
+overlooked.
+18.
+In the present case, when Clause 1 and Clause 2 are read together, it is
+clear that the intent of the Guarantee Deed clearly espoused that the ceiling of Rs
+75 lakhs was on the wholesome due together with interest and charges thereon.
+We have therefore no hesitation in concluding that the aggregation of the
+wholesome due in terms of the Guarantee Deed amounted to merging of the
+various components of principal, interest and charges into one unified entity
+which cumulatively fell within the overarching ceiling of Rs 75 lakhs. Thus, the
+entire liability fell within the capped sum of Rs 75 lakhs and the Guarantee Deed
+precluded any scope for addition, expansion or enlargement of the said sum.
+
+19.
+On the applicability of the ratio contained in the judgment of this Tribunal
+in ICICI Bank Ltd. Vs Seeta Neeraj Shah and Ors. in CA(AT)(Ins) No. 731 of
+2025 wherein it had been held that a Guarantee Deed cannot be constructed
+narrowly to mean that interest amount cannot be charged over and above the cap
+laid down in the Guarantee Deed, it was distinguished by the Appellant that in
+that case there was a separate clause for default interest burden imposed on the
+guarantor themselves in the event they did not clear the guarantee liability on
+time. We agree that the default interest in that case was an independent and
+stand-alone liability which was specifically and separately provided for in the
+Guarantee Agreement while in the present case, there is no such stand-alone
+default liability payable by the corporate guarantor. Hence, we are of the view that
+the cap limit of Rs 75 lakh provided in Clause 1 embraced the entire basket of
+
+[PAGE 14]
+Page 14 of 14
+Company Appeal (AT) (Insolvency) No. 1459 of 2025
+
+liabilities including principal, interest, charges and even default interest. Since
+fulfilment of the condition of threshold of Rs 1 Cr is a condition precedent for
+initiation of Section 7 proceedings and in the present case the default amount
+does not exceed Rs 75 lakhs in terms of the Guarantee Deed, the Section 7
+application clearly suffers from jurisdictional effect and cannot be entertained
+against the Corporate Guarantor.
+20.
+In view of the aforesaid discussion, we find merit in IA No. 7680 of 2025
+and are of the considered view that the Section 7 application is not maintainable
+as it fails to meet the threshold level of default amount of Rs 1 Cr. Accordingly the
+Appeal is allowed. The impugned order admitting the Section 7 application is set
+aside. The Corporate Guarantor is freed from the rigours of CIRP. All IAs stand
+closed. No order as to cost.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+Place: New Delhi
+Date: 07.01.2026
+
+Abdul

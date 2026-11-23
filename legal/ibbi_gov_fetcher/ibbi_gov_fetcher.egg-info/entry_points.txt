@@ -1,0 +1,2 @@
+[console_scripts]
+ibbi-fetcher = ibbi_gov_fetcher.cli:main

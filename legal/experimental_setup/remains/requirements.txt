@@ -1,0 +1,22 @@
+# Core model and notebook dependencies
+torch>=2.2
+transformers>=4.40
+accelerate>=0.30
+safetensors>=0.4
+sentencepiece>=0.2
+
+# Jupyter kernel support
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.29
+
+# Optional utilities used by the experiment notebooks
+tqdm>=4.66
+
+# Optional 4-bit quantization support.
+# Install only if your platform/GPU supports it:
+# bitsandbytes>=0.43
+
+# Optional vLLM backend for SaulLM-54B.
+# vLLM has platform-specific installation requirements; install separately:
+# vllm>=0.5

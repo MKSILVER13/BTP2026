@@ -1,0 +1,993 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+[Arising out of Order dated 22.01.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal), Principal Bench, New Delhi in IA No.52 of
+2024 & IA No.5176 of 2024 in Company Petition No. (IB)- 653(PB)/2023]
+
+IN THE MATTER OF:
+
+Alchemist Asset Reconstruction Company Ltd.
+...Appellant
+
+Versus
+ASC Insolvency Services LLP & Ors.
+...Respondents
+
+Present:
+
+For Appellant:
+Mr. Krishnendu Datta, Sr. Advocate with Mr.
+Milan Singh Negi, Mr. Nikhil Kumar Jha, Ms.
+Aakriti Gupta and Ms. Alina Merin Mathew,
+Advocates
+For Respondents:
+Mr. Ramji Srinivasan, Sr. Advocate with Mr. Arijit
+Mazumdar,
+Ms.
+Akansha
+Kaushik
+and
+Mr.
+Shambo Nandy, Advocates for R-2.
+Mr. Abhishek Sinha, Mr. Dhruv Malik, Ms. Aditi
+Sinha and Ms. Rajnandini Singh, Advocates for R-
+3/NARCL.
+
+J U D G M E N T
+(15th May, 2025)
+
+Ashok Bhushan, J.
+
+This Appeal by a Dissenting Financial Creditor has been filed
+challenging the order dated 22.01.2025 passed by the Adjudicating
+Authority (National Company Law Tribunal), Principal Bench, New Delhi
+allowing IA No.52 of 2024 approving the Resolution Plan submitted by
+Respondent No.2- ‘OCL Iron and Steel Limited’ (Successful Resolution
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+Applicant) as well as rejecting IA No.5176 of 2024 filed by the Respondent
+No.5- ‘Gateway Investment Management Services Limited’ (Unsuccessful
+Resolution Applicant).
+
+2.
+Brief facts of the case necessary to be noticed for deciding the Appeal
+are:-
+
+2.1. The Corporate Debtor- ‘Helios Photo Voltaic Ltd.’ was subjected to
+Corporate
+Insolvency
+Resolution
+Process
+(CIRP)
+by
+order
+dated
+11.01.202024 on an application filed by Respondent No.3- ‘National Asset
+Reconstruction Company Ltd.’. Appellant being Secured Financial Creditor
+of the Corporate Debtor filed its claim in response to the public
+announcement, Appellant was included as member of the Committee of
+Creditors (CoC) with voting share of 18.69%. The other two CoC members
+were National Asset Reconstruction Company Limited (Respondent No.3)
+had 73.36% vote shares and third member, International Finance
+Corporation (Respondent No.4) having vote share of 7.95%. CoC finalised
+the Request for Resolution Plan (RFRP) in the CoC meeting. RFRP was
+issued by the Resolution Professional with the approval of the CoC under
+which last date for submission of the Resolution Plan was 06.06.2024.
+Resolution Plans were submitted by the Respondent Nos.2 and 5 and other
+Resolution Applicants. On 29.07.2024, CoC in 11th meeting decided to hold
+a Challenge Process. Challenge Process was conducted on 29.07.2024 where
+Respondent Nos.2 and 5 and other Resolution Applicants participated. The
+Respondent No.5 offered net present value of Rs.101,05,01,742/- whereas
+Respondent No.2 - ‘OCL Iron and Steel Limited’ offered net present value of
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+Rs.99,05,00,000/-. All the Resolution Applicants were permitted to submit
+their final Resolution Plan in accordance with the final offer in the bidding
+process by 05.08.2024. Resolution Plans were submitted by the Resolution
+Applicants including Respondent Nos.2 and 5. 30.08.2024 was fixed as a
+last date for submission of addendums /clarification. Voting commenced on
+the Resolution Plan on 31.08.2024 and was to be completed by 07.09.2024.
+On 05.09.2024, Respondent No.5 issued e-mail to the CoC and the
+Resolution Professional that it is offering payment of second instalment
+(75% of NPV) within 90 days instead of 364 days which was proposed in the
+Resolution Plan. Voting result on the Resolution Plan was placed before the
+CoC and CoC in meeting dated 12.09.2024 approved the Resolution Plan of
+Respondent No.2 with 73.38% vote share. Respondent No.5 filed a Writ
+Petition No.13278 of 2024 in the Delhi High Court seeking a direction to
+consider its revised offer given vide e-mail dated 05.09.2024. Writ Petition
+was dismissed by the Delhi High Court on 23.09.2024. A review application
+was also filed by the Respondent No.5 before the Delhi High Court which too
+was disposed of on 04.10.2024. On 07.10.2024, Respondent No.5 gave
+revised financial offer of Rs.120 Crores payable within 30 days. The CoC in
+the meeting held on 14.10.2024 considered the revised financial proposal
+submitted by Respondent No.5 and resolved to adhere to the provisions of
+the IBC and RFRP and not to consider any revised offer after approval of the
+Resolution Plan. Respondent No.5 filed an IA No.5176 of 2024 seeking
+consideration of its revised offer submitted on 07.10.2024 and also praying
+for rejection of the Resolution Plan submitted by Respondent No.2. The
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+aforesaid applications was dismissed on 22.01.2025 by the Adjudicating
+Authority aggrieved by which order this Appeal has been filed.
+
+2.2. The Appeal was filed on 24.01.2025. When it came for consideration
+on 31.01.2025, Counsel for the Appellant prays leave to file Additional
+Affidavit. Time was allowed to file Additional Affidavit. All the parties have
+appeared on 31.01.2025 when the Appeal was heard. On 07.02.2025, time
+was allowed to file reply to Additional Affidavit before the next date. Reply to
+the Additional Affidavit has been filed. Appeal was again taken on
+19.03.2025 when Learned Counsel for the Respondent No.1 submitted that
+the composite reply to the Additional Affidavit has already been filed.
+Respondent Nos.2 and 3 submitted that they have also filed reply to the
+Additional Affidavit of the Appellant and they relied on the composite reply
+filed by Respondent No.1. Appeal was heard on 26.03.2025 and 28.03.2025
+when orders were reserved.
+
+3.
+Shri Krishnendu Datta, Learned Senior Counsel appearing for the
+Appellant in support of the Appeal contends that the Appellant being
+Secured Financial Creditor is an aggrieved person who is interested in the
+value maximisation of the Corporate Debtor. Counsel for the Appellant
+referring to the grounds raised in the Additional Affidavit submits that the
+proposed acquisition of the Corporate Debtor through Composite Scheme of
+Merger and Demerger in the Resolution Plan is a combination in terms of
+Section 5 of the Competition Act, 2002 and obtaining approval of the
+Competition Commission of India (CCI) for combination is a mandatory
+condition and no approval having been obtained from CCI, the approval of
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+the Resolution Plan is contrary to the provisions of Section 5 of the
+Competition Act, 2002 and deserves to be set aside on this ground. Counsel
+for the Appellant has relied on judgment of the Hon’ble Supreme Court in
+“Independent Sugar Corporation Ltd. vs. Girish Sriram Juneja and
+Ors.- Civil Appeal No.6071 of 2023” decided on 29.01.2025. It is further
+submitted that the proposed assignment of debt from an ARC to the SRA
+who is non-ARC is impermissible in terms of the SARFAESI Act, 2002 and
+RBI’s Master Directions. It is submitted that an ARC being a financial entity
+registered under Section 3 of the SARFAESI Act with RBI, is strictly
+regulated in terms of SARFAESI Act, 2002 as well as RBI’s Master Directions
+which permit the ARC to carry out only such activities which are specifically
+permitted under the law. ARC is not permitted to assign its debt to non-
+ARC, hence, assignment of debt under the Resolution Plan to SRA is
+contrary to law and Resolution Plan deserves to be rejected. It is further
+submitted that the proposed assignment of debt from International Finance
+Corporation (Respondent No.4 herein) is impermissible. Assignment of debt
+from Respondent No.4 being an ECB lender to a non-ECB lender is clearly
+in contravention of law. Counsel for the Appellant further submitted that the
+proposed treatment of Noida Project Land (sub-leased to Corporate Debtor)
+post termination of the sub-lease deed by the lessor and creation of rights in
+favour of third party could not have been included in the Resolution Plan.
+Resolution Plan thus, included third party assets which is impermissible.
+SRA has provided for unilateral and illegal withdrawal of the termination
+letter by making some payment to the Liquidator of MBIL, despite the fact
+that such lease rights have been assigned to a third party. The proposal in
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+the Resolution Plan qua the Noida land is in contravention of the law. It is
+submitted that in addition of the above said grounds, the Resolution Plan
+fails to maximise the value of the Corporate Debtor. It is submitted that the
+Respondent No.5 who has given the highest NPV has enhanced its offer vide
+email dated 07.10.2024 to Rs.120,00,00,000/- which was not accepted by
+the CoC in its meeting held on 14.10.2024. Respondent No.3 being the
+largest member of the CoC with 73.36% vote did not agree to accept the
+revised offer of Rs.120,00,00,000/- although commercial wisdom of the CoC
+is non-justiciable but in the facts of the present case, it cannot be said that
+CoC has exercised its commercial wisdom. CoC failed to maximise the value
+of the Corporate Debtor. It is submitted that in view of the aforesaid grounds
+the Resolution Plan deserves to be rejected and the Adjudicating Authority
+committed error in approving the Resolution Plan.
+
+4.
+Counsel for the Resolution Professional refuting the submissions of
+the Counsel for the Appellant submits that the entire CIRP process was
+conducted in accordance with the IBC and CIRP Regulations. Resolution
+Plans which were filed on 06.06.2024 were required to undergo a Challenge
+Process which was conducted on 29.07.2024. After the Challenge Process,
+all the Resolution Applicants were required to submit their final Resolution
+Plan by 05.08.2024. All Resolution Applicants included Respondent Nos.2
+and 5 submitted their final Resolution Plans in accordance with the bidding
+in Challenge Process by 05.08.2024. All Resolution Applicants were also
+permitted to submit addendum/clarification which addendum/clarification
+were submitted by Resolution Applicant by 30.08.2024. Marks of Resolution
+Applicants were computed as per the evaluation matrix both on quantitive
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+and qualitative basis and Respondent No.2 secured 51 marks whereas
+Respondent No.5 secured 48 marks. Voting on the plan commenced on
+31.08.2024 and was to be completed on 07.09.2024. On 05.09.2024,
+Respondent No.5 sent a revised offer copy of which e-mail was sent to the
+CoC members as well as the Resolution Professional. As per the Challenge
+Process Document, financial offers received in the Challenge Process could
+not be modified by any Resolution Applicants, hence, revised financial offer
+given on 05.09.2024 was not liable to be considered. In the CoC meeting
+held on 12.09.2024, Resolution Plan of Respondent No.2 was approved with
+73.38% vote share. Letter of Intent (LoI) was issued and Performance
+Guarantee has already been submitted by Respondent No.2. Respondent
+No.5 has given a revised offer of Rs.120 Crores on 07.10.2024. The CoC in
+its meeting held on 14.10.2024 considered the revised offer dated
+07.10.2024 submitted by Respondent No.5 and was of the view that in view
+of the RFRP and the Challenge Process Document, no revised offer can be
+considered, Resolution Plan having already been approved on 12.09.2024. It
+is further submitted that there is no embargo on Asset Reconstruction
+Company to assign their debt to non-ARC. It is further submitted that the
+provisions of Section 5 of the Competition Act, 2002 are not attracted. The
+value of the Corporate Debtor is only Rs.70.76 Crores and turnover of
+Rs.10.72 Crores, no prior approval from CCI was required to be obtained. It
+is submitted that the Appellant is Dissenting Financial Creditor who has
+never raised any objection, which is now sought to be raised in the
+Additional Affidavit, in the meetings of the CoC although Appellant was part
+of
+the
+CoC,
+objections
+are
+raised
+as
+an
+afterthought
+to
+delay
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+implementation. Appellant having never raised any such objection, it is
+precluded from raising any objection in the present Appeal. Counsel has
+referred to Notification dated 07.03.2025 and 09.09.2024.
+
+5.
+Counsel for the Respondent No.3 refuting the submissions of the
+Counsel for the Appellant submits that the Adjudicating Authority has
+rightly approved the decision of the CoC approving the Resolution Plan with
+requisite majority. CoC in its commercial wisdom decided to approve the
+Resolution Plan submitted by Respondent No.2 which has secured highest
+marks on the evaluation matrix. The Respondent No.5 who had given
+Rs.101 Crore had proposed to give 25% of the amount within 45 days and
+rest 75% within 364 days. The revised offer given by e-mail dated
+05.09.2024 could not have been considered since the voting had already
+commenced on the Resolution Plan and as per Process Document, no
+Applicant was entitled to modify its offer. It is further submitted that the
+provisions of the SARFAESI Act, 2002 or the RBI (Asset Reconstruction
+Companies) Directions 2024 does not prohibit ARCs from assigning its debt
+to a non-ARC entity. It is submitted that the judgment of the Hon’ble
+Supreme Court in Independent Sugar Corporation Ltd. (supra) is not
+applicable in the present case. In the present case, no prior approval of the
+CCI was required under Section 5. It is submitted that by virtue of
+Notification issued by Central Government on 07.03.2024 any merger or
+amalgamation referred to in Section 5(c) of the Competition Act where the
+value of assets being acquired, taken control of, merged or amalgamated is
+not more than Rs.450 Crores in India or turnover or not more than Rs.1250
+Crores in India are exempt from the provisions of Section 5 of the
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+Competition Act for a period of two years. It is submitted that as per the
+above Notification dated 07.03.2024, the Corporate Debtor’s value being less
+than Rs.450 Crores, acquisition of Corporate Debtor by merger was
+exempted and there is no applicability of Section 5. With regard to Noida
+Project Land, it is submitted that the Resolution Plan of SRA mentioned that
+it will continue the litigation as regard the Noida Project Land after approval
+of the Resolution Plan, hence, there is no violation of any provision.
+
+6.
+Counsel for the Successful Resolution Applicant (SRA) refuting the
+submissions of the Counsel for the Appellant submits that the submission
+of the Appellant that Composite Scheme of Merger and Demerger required
+prior approval of the CCI is not correct. The value of Corporate Debtor being
+less than the amount as provided in Notification dated 07.03.2024 obtaining
+prior approval from the CCI for combination under Section 5 of the CCI is
+thus, clearly exempted and there is no applicability of Section 5 nor there
+was any requirement of obtaining prior approval of the CCI. Financial
+Statement of the Corporate Debtor as on 31.03.2023 mentions that its value
+is Rs.79,78,84,000/- which is much less than Rs.450 Crores. It is submitted
+that the assignment of debt from ARC to non-ARC entity is not prohibited
+and there is no prohibition under the SARFAESI Act, 2002 or Master
+Direction- Reserve Bank of India (Asset Reconstruction Companies)
+Directions, 2024. Any approval from the RBI with respect to external
+commercial borrowing can be obtained under Section 31(4) within one year
+after approval of the Resolution Plan. The Corporate Debtor had acquired
+leasehold right over a Noida Project Land along with building structures in
+2008. The lease was terminated prior to initiation of CIRP of the Corporate
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+Debtor. Litigation with regard to Project Land is pending before the
+Adjudicating Authority. SRA has acknowledged the pending litigation. SRA
+has offered to pay the lessor Rs.7,20,00,000/- as a solution to ending the
+dispute regarding the project. The money offered to the lessor is in addition
+to the payments to be made to the financial creditors under the Resolution
+Plan of SRA. The above mechanism does not violate any provision of the
+Code. It is submitted that the Appellant who is Dissenting Financial Creditor
+is taking steps to obstruct the implementation of the Resolution Plan.
+
+7.
+We have considered the submissions of the Counsel for the parties
+and perused the record.
+
+8.
+The Appellant was part of the CoC having 18.69% vote shares,
+Appellant participated in the process of the CoC. The RFRP and the
+Evaluation Matrix was approved by the CoC with 81.31% vote share.
+Resolution Plan was approved on 12.09.2024. After receiving the final
+Resolution Plans by the Resolution Applicants by 05.08.2024, marks were
+computed as per Evaluation Matrix. CoC decided to put the plans on vote,
+as a result of the voting, CoC approved the Resolution Plan with 73.38%
+vote share. Appellant did not vote for approval of the Resolution Plan and
+has now filed this Appeal challenging the approval of the Resolution Plan. As
+per Section 30(4), the CoC is to approve the Resolution Plan by vote not less
+than 66% voting share of the Financial Creditors after considering its
+feasibility and viability and the manner of distribution proposed. The
+Resolution Plan in the present case has been approved with 73.38% vote
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+share. Resolution Plan approved by the Adjudicating Authority is binding on
+all including the Dissenting Financial Creditor.
+
+9.
+Counsel for the Respondent has referred to judgment of this Tribunal
+in “Yogesh Kelkar & Ors. vs. Resolution Professional of Anudan
+Properties Private Limited & Ors.- Company Appeal (AT) (Insolvency)
+No. 751 of 2023” where this Tribunal laid down following:-
+
+“24.................Regardless of the composition of CoC,
+the IBC places the CoC in control of the insolvency
+resolution process. For this purpose it has provided
+for different threshold levels of voting percentages
+for CoC to take decisions. As regards approval of
+resolution plan is concerned, the IBC provides for
+66% vote share and once this threshold is met, the
+decision of the CoC, irrespective of whether it is a
+single-member or multi-member, the decision of the
+CoC becomes sacrosanct and binding on all
+stakeholders. The decision of the CoC on the validity
+of a resolution plan is essentially a business
+decision and hence should be left to the CoC so long
+as it musters more than 66% vote share. There can
+be no fetters on the commercial wisdom of the CoC.”
+
+10.
+As noted above, Additional Affidavit was filed by the Appellant raising
+certain additional grounds to challenge the Resolution Plan under which
+ground as per the Appellant, Resolution Plan could not have been approved.
+We need to examine each of the grounds raised by the Appellant challenging
+the approval of the Resolution Plan in seriatim.
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+11.
+The 1st ground on which order approving the Resolution Plan by the
+Appellant is challenged on the strength of Section 5 of the Competition Act,
+2002. Counsel for the Appellant relied on judgment of the Hon’ble Supreme
+Court in Independent Sugar Corporation Ltd. (supra) decided on
+29.01.2025. The Hon’ble Supreme Court in the said judgment has laid down
+that approval of the CCI as contemplated under Section 31(4) proviso of the
+IBC has to be mandatorily obtained before approval of the plan by the CoC.
+Section 31(4) of the IBC provides as follows:-
+
+“31. Approval of resolution plan. - ...........(4) The
+resolution applicant shall, pursuant to the resolution
+plan approved under sub-section (1), obtain the
+necessary approval required under any law for the
+time being in force within a period of one year from the
+date of approval of the resolution plan by the
+Adjudicating Authority under sub-section (1) or within
+such period as provided for in such law, whichever is
+later:
+Provided that where the resolution plan
+contains a provision for combination, as referred to
+in section 5 of the Competition Act, 2002, the
+resolution applicant shall obtain the approval of the
+Competition Commission of India under that Act
+prior to the approval of such resolution plan by the
+committee of creditors.”
+
+12.
+Majority judgments of the Hon’ble Supreme Court in the above case in
+paragraph 150 laid down following:-
+
+“150. In the present case, for reasons discussed
+above, the statutory provision and legislative intent
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+unequivocally affirm the mandatory nature of the
+proviso to Section 31(4) of the IBC. For a Resolution
+Plan containing a combination, the CCI’s approval to
+the Resolution Plan, in our opinion, must be obtained
+before and consequently, the CoC’s examination and
+approval should be only after the CCI’s decision. This
+interpretation respects the original legislative intent,
+and deviation from the same would not only
+undermine the statute but would also erode the faith
+posed by the stakeholders in the integrity of our legal
+and regulatory framework.”
+
+13.
+Section 5 of the Competition Act, 2002 deals with ‘combination’. Sub-
+clause (c) of Section 5 provides as follows:-
+
+“Combination
+(c) any merger or amalgamation in which— (i) the
+enterprise remaining after merger or the enterprise
+created as a result of the amalgamation, as the case
+may be, have,—
+(A) either in India, the assets of the value of more than
+rupees one thou sand crores or turnover more than
+rupees three thousand crores; or
+(B) [in India or outside India, in aggregate, the assets of
+the value of more than five hundred million US dollars,
+including at least rupees five hundred crores in India, or
+turnover more than fifteen hundred million US dollars,
+including at least rupees fifteen hundred crores in India;
+or]
+(ii) the group, to which the enterprise remaining after the
+merger or the enter prise created as a result of the
+amalgamation, would belong after the merger or the
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+amalgamation, as the case may be, have or would
+have,—
+A) either in India, the assets of the value of more than
+rupees four-thou sand crores or turnover more than
+rupees twelve thousand crores; or
+(B) [in India or outside India, in aggregate, the assets of
+the value of more than two billion US dollars, including
+at least rupees five hundred crores in India, or turnover
+more than six billion US dollars, including at least
+rupees Fifteen Hundred Crores in India
+Explanation.— For the purposes of this section,—
+(a)
+“control”
+includes
+controlling
+the
+affairs
+or
+management by—
+(i) one or more enterprises, either jointly or singly,
+over another enterprise or group;
+(ii) one or more groups, either jointly or singly, over
+another group or enterprise;
+(b) “group” means two or more enterprises which,
+directly or indirectly, are in a position to —
+(i) exercise twenty-six per cent or more of the voting
+rights in the other enterprise; or
+(ii) appoint more than fifty per cent of the members of
+the board of directors in the other enterprise; or
+(iii) control the management or affairs of the other
+enterprise;
+(c) the value of assets shall be determined by taking the
+book value of the assets as shown, in the audited books
+of account of the enterprise, in the financial year
+immediately preceding the financial year in which the
+date of proposed merger falls, as reduced by any
+depreciation, and the value of assets shall include the
+brand value, value of goodwill, or value of copyright,
+patent, permitted use, collective mark, registered
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+proprietor, registered trade mark, registered user,
+homonymous
+geographical
+indication,
+geographical
+indications, design or layout- design or similar other
+commercial rights, if any, referred to in sub-section (5) of
+section 3.”
+
+14.
+Section 6 of the Competition Act, 2002 deals with ‘regulation of
+combinations’ which contemplated approval by the CCI for such merger and
+amalgamation amounting to combination. Counsel for the Appellant
+contended that the assets of the SRA as well as the Corporate Debtor after
+merger are more than prescribed threshold which are more than Rs.2500
+Crore assets in India, hence, meets the threshold of combination under
+Section 5 of the Competition Act. Thus, mandatory approval from the CCI
+was required prior approval of the plan by the CoC. Counsel appearing for
+the Respondent refuting the submission submits that the above Section 5 of
+the Competition Act is not attracted in the facts of the present case and it is
+covered by exemption issued by MCA by Notification dated 07.03.2024. The
+Notification dated 07.03.2024 provided that Section 5 of the Competition Act
+is not applicable for two years where the value of the assets being acquired,
+taken control of , merged or amalgamated is not more than Rs.450 Crore in
+India or turnover of not more than Rs.1250 Crores in India. It is useful to
+extract the Notification dated 07.03.2024 which is as follows:-
+
+“MINISTRY OF CORPORATE AFFAIRS
+NOTIFICATION
+New Delhi, the 7th March, 2024.
+S.O. 1131(E).— In exercise of the powers conferred
+by clause (a) of section 54 of the Competition Act,
+2002 (12 of 2003), the Central Government, in public
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+interest, hereby exempts the enterprises being parties
+to ––
+(a) any acquisition referred to in clause (a) of
+section 5 of the Competition Act;
+(b) acquiring of control by a person over an
+enterprise when such person has already direct
+or indirect control over another enterprise
+engaged in production, distribution or trading of
+a similar or identical or substitutable goods or
+provision of a similar or identical or substitutable
+service, referred to in clause (b) of section 5 of
+the Competition Act; and
+(c) any merger or amalgamation, referred to in
+clause (c) of section 5 of the Competition Act,
+where the value of assets being acquired, taken
+control of, merged or amalgamated is not more than
+rupees Four hundred and fifty crore in India or
+turnover of not more than rupees One thousand two
+hundred and fifty crore in India, from the provisions
+of section 5 of the said Act for a period of two years
+from the date of publication of this notification in the
+Official Gazette.
+2. Where a portion of an enterprise or division or
+business is being acquired, taken control of, merged
+or amalgamated with another enterprise, the value of
+assets of the said portion or division or business and
+or attributable to it, shall be the relevant assets and
+turnover to be taken into account for the purpose of
+calculating the thresholds under section 5 of the Act.
+The value of the said portion or division or business
+shall be determined by taking the book value of the
+assets as shown, in the audited books of accounts of
+the enterprise or as per statutory auditor’s report
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+where the financial statement have not yet become
+due to be filed, in the financial year immediately
+preceding the financial year in which the date of the
+proposed combination falls, as reduced by any
+depreciation, and the value of assets shall include the
+brand value, value of goodwill, or value of copyright,
+patent, permitted use, collective mark, registered
+proprietor, registered trade mark, registered user,
+homonymous geographical indications, geographical
+indications, design or layout- design or similar other
+commercial rights, if any, referred to in sub-section (5)
+of section 3. The turnover of the said portion or
+division or business shall be as certified by the
+statutory auditor on the basis of the last available
+audited accounts of the company.
+[F. No. 05/7/2013-CS]
+MANOJ PANDEY, Addl. Secy.”
+
+15.
+In the Consolidated Reply filed by the Resolution Professional, balance
+sheets of the Corporate Debtor as on 31.03.2023 and 31.03.2024 have been
+referred to and brought on record. As per the balance sheets of the
+Corporate Debtor who is being acquired under the Resolution Plan, the
+value of the Corporate Debtor is Rs.70.76 Crore and the turnover is
+Rs.13.72 Crores. The value of the Corporate Debtor as above is clearly
+covered by exemption provided in Notification dated 07.03.2024 as extracted
+above. We thus, are of the view that Section 5 of the Competition Act, 2002
+is not applicable in the facts of the present case and there was no
+requirement of any prior approval from CCI. Hence, the submission
+advanced by the Appellant cannot be accepted.
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+16.
+Now we come to the second submission advanced by the Appellant i.e.
+assignment of debt by ARC is not permissible to non-ARC. It is submitted
+that the SARFAESI Act, 2002 under which ARC is registered is regulated by
+Sections 9 and 10 and further, RBI has issued RBI (Asset Reconstruction
+Companies) Directions 2024 which master direction permits ARC to assign
+its debt only to ARC. Subject to certain conditions under Sections 9 and 10
+as well as above Master Directions, no assignment of debt is permissible to
+non-ARC. ARC is registered under the SARFAESI Act. Section 9 of the
+SARFAESI Act, 2002 deals with ‘measures for assets reconstruction’. Section
+9 of the SARFAESI Act, 2002 is as follows:-
+
+“9.
+Measures
+for
+assets
+reconstruction.—
+(1)Without prejudice to the provisions contained in
+any other law for the time being in force, an asset
+reconstruction company may, for the purposes of
+asset reconstruction, provide for any one or more of
+the following measures, namely:—
+(a) the proper management of the business of the
+borrower, by change in, or take over of, the
+management of the business of the borrower;
+(b) the sale or lease of a part or whole of the
+business of the borrower;
+(c) rescheduling of payment of debts payable by
+the borrower;
+(d) enforcement of security interest in accordance
+with the provisions of this Act;
+(e) settlement of dues payable by the borrower;
+(f) taking possession of secured assets in
+accordance with the provisions of this Act;
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+(g) conversion of any portion of debt into shares of
+a borrower company:
+Provided that conversion of any part of debt into
+shares of a borrower company shall be deemed
+always to have been valid, as if the provisions of this
+clause were in force at all material times.
+(2) The Reserve Bank shall, for the purposes of sub-
+section (1), determine the policy and issue necessary
+directions including the direction for regulation of
+management of the business of the borrower and fees
+to be charged.
+(3) The asset reconstruction company shall take
+measures under sub-section (1) in accordance with
+policies
+and
+directions
+of
+the
+Reserve
+Bank
+determined under sub-section (2).”
+
+17.
+Sub-section (2) of Section 9 empowers the RBI, for the purposes of
+sub-section (1), determine the policy and issue necessary directions. RBI
+has issued Master Directions 2024 which is relied by the Appellant. Copy of
+the said Master Directions 2024 has been brought on the record by the
+Appellant by means of Additional-Affidavit. Counsel for the Appellant has
+referred to Master Directions 2024 issued on 24.04.2024 which has brought
+on record as Annexure 2 of the Additional Affidavit. Clause 8 of the Master
+Directions 2024 deals with ‘activities of ARCs’ which is as follows:-
+
+“8. Activities of ARCs
+8.1
+An
+ARC
+shall
+commence/
+undertake
+only
+securitisation and asset reconstruction activities and
+functions provided under Section 10 of the Act.
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+8.2 In terms of the provision of Section 10(2) of the Act,
+ARCs have been permitted to undertake those activities
+as
+Resolution
+Applicants
+under
+Insolvency
+and
+Bankruptcy Code, 2016 (IBC) which are not specifically
+allowed under the Act. This permission shall be subject
+to the following conditions:
+i.
+The ARC has a minimum NOF of ₹1,000 crore.
+ii.
+The ARC shall have a Board-approved policy
+regarding taking up the role of Resolution
+Applicant which may, inter alia, include the
+scope of activities, internal limit for sectoral
+exposures, etc.
+iii.
+A committee comprising of a majority of
+independent directors shall be constituted to
+take decisions on the proposals of submission
+of resolution plan under IBC.
+iv.
+The ARC shall explore the possibility of
+preparing
+a
+panel
+of
+sector-specific
+management
+firms/
+individuals
+having
+expertise in running firms/ companies which
+may be considered for managing the firms/
+companies, if needed.
+v.
+In respect of a specific corporate insolvency
+resolution process (CIRP), the ARCs shall not
+retain any significant influence or control over
+the corporate debtor after five years from the
+date of approval of the resolution plan by the
+Adjudicating Authority under IBC. In case of
+non-compliance with this condition, the ARCs
+shall not be allowed to submit any fresh
+resolution plans under
+IBC either
+as
+a
+Resolution Applicant or a Resolution Co-
+Applicant.”
+
+[PAGE 21]
+21
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+18.
+We need to notice Clause 10 of the Master Directions 2024 which
+deals with ‘plan for realisation of financial assets’. Clause 10.1, 10.2, 10.3
+and 10.4 which are relevant are as follows:-
+“10. Plan for realisation of financial assets
+10.1 Every ARC may, within the planning period,
+formulate a plan for realisation of assets which may
+provide for one or more of the following measures:
+i.
+Change in or takeover of the management of the
+business of the borrower
+ii.
+Sale or lease of the whole or part of business of
+borrower
+iii.
+Rescheduling of debts payable by the borrower
+iv.
+Enforcement of security interest in accordance with
+the provisions of the Act
+v.
+Settlement of dues payable by the borrower
+vi.
+Conversion of any portion of debt into equity of a
+borrower company
+10.2 The ARC shall formulate the policy for realisation of
+financial assets under which the period for realisation
+shall not exceed five years from the date of acquisition
+of the financial asset concerned.
+10.3 The Board of the ARC may increase the period for
+realisation of financial assets so that the total period for
+realisation shall not exceed eight years from the date of
+acquisition of the financial asset concerned.
+10.4 In case, the ARC is one of the lenders in an
+account, where a resolution plan has been finalised and
+the same extends beyond the maximum resolution
+
+[PAGE 22]
+22
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+period allowed for ARCs as per paragraph 10.3 above,
+the ARC may accept a resolution period co-terminus
+with other secured lenders.”
+19.
+When we look into the above, clause 10.1 empowers every ARC to
+formulate a plan for realisation of assets which may provide for one or other
+measures referred to in Clause 10.1. Sub-clause (v) of Clause 10.1 deals
+with settlement of dues payable by the borrower. Settlement of dues is a
+wide phrase which encompasses in itself any manner of settlement of dues.
+Settlement of dues can include part payment of upfront or by any other
+mode or manner. Clause 10.2 provides that ARC shall formulate the policy
+for realisation of financial assets under which the period for realisation shall
+not exceed five years from the date of acquisition of the financial asset
+concerned whereas under Clause 10.3 the Board of the ARC may increase
+the period for realisation of financial assets so that the total period for
+realisation shall not exceed eight years. However, Clause 10.4 contains
+further exemption that where resolutions plan has been finalised and which
+extends beyond the maximum resolution period allowed for ARCs. Under
+clause 10.4, the ARC may accept a resolution period co-terminus with other
+secured lenders. Thus, Clause 10.4 contemplates extension of period of
+realisation which may exceed to eight years as provided in Clause 10.3.
+Thus, Resolution Plan has been contemplates as one contingency where
+relaxation can be granted.
+
+20.
+When we look into Section 9(1)(e) of the SARFAESI Act, 2002,
+settlement of dues payable by the borrower is also one of the measures
+contemplated for purposes of asset reconstruction. We are of the view that
+
+[PAGE 23]
+23
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+the settlement of dues is a phrase of wide import which can take measure
+for settlement of dues payable by the borrower. In the present case,
+Resolution Plan submitted by the Respondent No.2 which is approved by
+requisite vote share of the CoC provides for the payment of dues of the
+Financial Creditor. The debt has been categorised in sustainable and
+unsustainable debt and sustainable debt discharge is the payment proposed
+by the Resolution Applicant to the secured Financial Creditors whereas
+unsustainable debt is the balance amount claim of secured creditors which
+is noticed in paragraph 7.2 of the impugned order. The plan proposes the
+secured financial creditors Rs.99.05 Crores within 30 days of the approval of
+the Resolution Plan. Appellant in paragraph 5 of the Additional Affidavit has
+extracted Clause E(iv) of Section IV of the plan which provides for
+unsustainable debt shall be assigned to the Resolution Applicant which
+assignment to the Resolution Applicant is sought to be questioned by the
+Appellant. Section 9 of the SARFAESI Act, 2002 which specifically empowers
+the ARC to take measures of settlement of dues payable by the borrower, all
+modes and manner for settlement of dues are permissible and the debt
+having
+been
+classified
+into
+sustainable
+and
+unsustainable
+debt.
+Sustainable debt is being discharged by payment to the financial creditors
+and unsustainable debt being assigned to the Resolution Applicants, it is
+the commercial wisdom of the CoC to approve or not approve the mode and
+manner of settlement of dues and in the present case, when settlement of
+dues have been approved by the CoC by 73.38% vote share, we are not
+persuaded to accept the submission that the assignment of the
+unsustainable debt to the Resolution Applicants violates any provision of the
+
+[PAGE 24]
+24
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+IBC or CIRP Regulations or any provisions of the SARFAESI Act, 2002. We,
+thus, do not find any substance in the submission of the Appellant.
+
+21.
+The next submission which has been pressed by the Appellant is that
+the debt owed to Respondent No.4- ‘International Finance Corporation’
+cannot be assigned to an entity in India without specific approval by the
+RBI. The CoC as well as the SRA had submitted that approval of the RBI, if
+required for assignment of debt of Respondent No.4 is to be obtained within
+one year from approval of the Resolution Plan. As per provision of Section
+31(4) of the IBC, the SRA can obtain approval from RBI after approval of the
+Resolution Plan once the assignment has been approved. We, thus, do not
+find any error in the above part of the Resolution Plan which proposes
+assignment of debt of Respondent No.4 to the Resolution Applicant.
+Approval, if any, can be obtained within one year from the RBI as per
+Section 31(4), hence, on the said ground approval of Resolution Plan cannot
+be faulted.
+
+22.
+The next ground urged by the Appellant is that under the Resolution
+Plan, SRA has dealt with Noida Project Land which is not the asset of the
+Corporate Debtor. The Noida Project Land along with building structure was
+obtained by sub-lease deed dated 18.01.2008 and lease deed dated
+23.06.2008 from Moser Baer India Ltd. (MBIL). MBIL went into liquidation
+under the Code and liquidator of MBIL vide letter of termination dated
+30.03.2019 addressed to the Corporate Debtor has cancelled the said sub-
+lease and the Noida Project Land along with the pending litigation has been
+assigned to Palika Towns LLP by the Liquidator of MBIL. The submission of
+
+[PAGE 25]
+25
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+SRA in the above regard is that lease was terminated prior to initiation of
+CIRP. With regard to which the litigation is pending before the NCLT, SRA
+has acknowledged the pending litigation and offered to pay the lessor
+Rs.7,20,00,000/- as a solution to ending the dispute regarding the project.
+The money offered to the lessor is in addition to the payments to be made to
+the financial creditors under the Resolution Plan of the SRA. The above
+mechanism which was adopted by SRA in Resolution Plan does not violate
+any provisions of the Code and the Resolution Plan submitted by the SRA is
+strictly in compliance with the provisions of the IBC. Counsel for the NARCL
+submits that Appellant has no locus to intervene in the issue pertaining to
+Noida Project Land which is a subject matter of dispute between the
+Liquidator of MBIL, Pallika Towns LLP and the SRA. Clause 5.3 of the
+Resolution Plan mentions that it will continue the litigation as regards the
+Noida Project Land after approval of the Resolution Plan which provision in
+no manner violates any process.
+
+23.
+We, thus, are of the view that on the above ground Appellant cannot
+raise any grievance nor above clause in the Resolution Plan dealing with the
+manner proposing a solution for Noida Project Land and continue the
+litigation by SRA with regard to Noida Project Land does not violate any
+provisions of the IBC or CIRP Regulations. The Resolution Plan cannot be
+said to have violated any provisions of the law in the above regard. We, thus,
+do not find any substance in the above submission.
+
+24.
+Now as far as the submission of the Appellant that Respondent No.5-
+‘Gateway Investment Management Services Limited’ has given a revised offer
+
+[PAGE 26]
+26
+
+Company Appeal (AT) (Insolvency) No. 179 of 2025
+
+of Rs.120 Crore which ought to have been accepted by the CoC to fulfil the
+object of maximisation the value of the assets. Respondent No.5 itself has
+filed an IA before the Adjudicating Authority being IA No.5176 of 2024
+seeking a direction to consider its revised offer of Rs.120 Crore and to reject
+the Resolution Plan of Respondent No.2 which IA has been rejected by order
+dated 22.01.2025. Respondent No.5 has filed its separate Appeal being
+Company Appeal (AT) (Insolvency) No. 148 of 2025 challenging the order
+dated 22.01.2025. We by our separate order of the date has dismissed the
+Company Appeal (AT) (Insolvency) No. 148 of 2025, hence, the Respondent
+No.5 who was the Resolution Applicant offering the revised offer has already
+raised grounds which did not find favour. It is not open for the Appellant to
+raise any ground on behalf of the Respondent No.5 whose Appeal has
+already been dismissed.
+
+25.
+In view of the foregoing discussions, we do not find any substance in
+any of the submissions of the Counsel for the Appellant. There is no merit in
+the Appeal. The Appeal is dismissed.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+New Delhi
+Anjali

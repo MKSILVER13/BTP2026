@@ -1,0 +1,722 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins) No. 1723 of 2024
+& I.A. No. 6248, 6295, 6296 of 2024
+
+(Arising out of the Order dated 03.07.2024 passed by the National Company
+Law Tribunal, New Delhi Bench (Court-II) in C.P(IB)No.590/ND/2023)
+
+IN THE MATTER OF:
+
+Satish Kumar
+(Suspendend Director Of
+M/S Lion Buildcon Pvt. Ltd.)
+S/o Prem Singh,
+R/o H.No. B-132, Street No. 5, Near LIC Office,
+Hardev Puri, Shahadara, Mandoli, Saboli,
+New Delhi – 110093.
+Email: sonam@kdatta.in
+
+...Appellant
+Versus
+
+1. M/s Lion Buildcon Pvt. Ltd.
+(Through its Resolution Professional,
+Mr. Gaurav Kapoor)
+Company having registered office at:
+B-132, S/F, Kh No. 776/704/508 Gali No. 7,
+Hardevpuri,
+Shahdara, East Delhi - 110093
+Email: lionbuild422@gmail.com
+Resolution Professional having its office at:
+301, Chaudhary Complex, 9 Veer Savarkar Block,
+Madhuban Road, Shakarpur, East Delhi - 110092.
+IBBI Registration No .: IBBI/IPA-001/IP-
+P01283/2018-2019/12002
+Email: gaurav.kapoor@icai.org
+
+2. M/s Kaliber Associates Private Limited
+(through its liquidator, Mr.Mohan Lal Jain)
+Having its office at:
+B-1/12, 2nd Floor, Safdarjung Enclave,
+
+...Respondent No.1
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 2 of 25
+
+Present
+For Appellants:
+Mr. Palash S. Singhai, Mr. Harshal Sareen,
+Ms. Riddhi Jain, Mr. Sonam Sharma, Advocates.
+
+For Respondents:
+
+Mr. Anirban Bhattacharya, Ms. Priyanka Bhatt,
+Mr. Rajeev Chowdhary, Advocates for R-2.
+J U D G E M E N T
+( 02.05.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e. Satish Kumar
+(Suspended Director of M/s Lion Buildcon Pvt. Ltd.) (the Corporate Debtor)
+under Section 61 of the Insolvency and Bankruptcy Code, 2016 (‘Code’),
+challenging the Impugned Order dated 03.07.2024 passed by the National
+Company Law Tribunal, New Delhi Bench (Court-II) (Adjudicating Authority),
+in C.P.(IB) No. 590/ND/2023.
+2.
+M/s Lion Buildcon Pvt. Ltd. (the Corporate Debtor) through its Resolution
+Professional, Mr. Gaurav Kapoor is the Respondent No. 1 herein.
+M/s Kaliber Associates Private Limited through its liquidator, Mr. Mohan Lal
+Jain is the Respondent No.2 herein.
+3.
+The Appellant has challenged the Impugned Order dated 03.07.2024 on
+grounds of jurisdictional overreach and legal inconsistency, contending that the
+Adjudicating Authority erroneously admitted Corporate Insolvency Resolution
+Process (CIRP) against the corporate debtor solely as a recovery tool for Kaliber
+New Delhi-110029
+Email: ml_jain@sumedhamanagement.com
+
+...Respondent No.2
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 3 of 25
+Associates Pvt. Ltd. (KAPL) in liquidation, contrary to the objective of the Code
+for resolution/revival of the Corporate Debtor. The Appellant argues that the
+Liquidator of KAPL exceeded their statutory mandate under IBBI Liquidation
+Process Regulations, 2016 (Regulations 37A, 38, 39, 44), which restrict
+liquidators to realization and distribution for the company under liquidation and
+not initiating CIRP against third parties like the Corporate Debtor. The Appellant
+also pleaded that the Impugned Order disregards the waterfall mechanism under
+section 53 of the Code by prioritizing KAPL’s recovery over Corporate Debtor’s
+creditors and fails to establish LBPL’s default under Section 7(5)(a) of the Code,
+rendering the CIRP admission legally untenable.
+4.
+The Appellant submits that the Adjudicating Authority committed an error
+by equating the recovery of debt with the resolution/revival of a corporate entity,
+thereby failing to appreciate the distinct objectives of liquidation and insolvency
+as encapsulated in the Code. The Appellant emphasizes that liquidation is aimed
+at the realization and distribution of proceeds among stakeholders in a time-
+bound manner, whereas insolvency seeks the resolution of a distressed corporate
+debtor to ensure its revival as a going concern. The Appellant assailed that the
+Impugned Order which erroneously admitted the CIRP against Respondent No. 1
+at the behest of Respondent No. 2 (KAPL) through its liquidator to institute legal
+proceedings for recovery of dues from KAPL's debtors.
+5.
+The Appellant submitted that the Respondent No. 2 was subjected to CIRP
+by the Adjudicating Authority through its order dated 18.01.2019 in Relan
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 4 of 25
+Buildwell Pvt. Ltd. v. Kaliber Associates Pvt. Ltd. (CP(IB) No. 228/2019),
+wherein Mr. Vinay Talwar was initially appointed as IRP. Subsequently, during
+the Second CoC meeting on 15.04.2019, the CoC replaced Mr. Talwar with Ms.
+Ritu Rastogi as Resolution Professional, and later, in the 8th CoC meeting,
+appointed Mr. Mohan Lal Jain as RP, whose appointment was formally ratified
+by the Adjudicating Authority vide order dated 09.07.2019. This sequence
+underscores the procedural trajectory of KAPL’s CIRP, which culminated in the
+liquidation process and the subsequent initiation of proceedings against
+Respondent No. 1 (LBPL), thereby forming the basis of the Appellant’s challenge
+to the Impugned Order’s validity.
+6.
+The Appellant submitted that pursuant to CA No. 1524/2019 in C.P.(IB)
+No. 228/2018, the Adjudicating Authority ordered the liquidation of the
+Respondent No. 2 on 02.01.2020 under Sections 33(1)(a) and 33(2) of the Code,
+as no viable resolution plan or expressions of interest were received, and
+confirmed Mr. Mohan Lal Jain as Liquidator, thereby finalizing the transition of
+KAPL into liquidation due to the absence of revival prospects.
+7.
+The Appellant submits that the Respondent No. 2 through its Liquidator,
+sought and obtained leave from the Adjudicating Authority vide I.A. No.
+5846/2021 in C.P. (IB) No. 228/2019 to institute recovery proceedings
+under Section 35(1) of the Code, which was erroneously granted by the
+Adjudicating Authority vide order dated 21.02.2022, thereby sanctioning the
+Liquidator's overreach beyond the statutory mandate of asset realization for
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 5 of 25
+KAPL and improperly enabling collateral actions against unrelated entities
+like Respondent No. 1 in contravention of the Code’s liquidation framework.
+8.
+The Appellant submitted that the Respondent No.2, through its Liquidator,
+filed a Section 7 Application on 19.09.2023 to initiate CIRP against the
+Respondent No.1 alleging a default of ₹2.5 crores. However, the authorization
+for filing this application was issued by the Liquidator, Mr. Mohan Lal Jain,
+himself without any approval. The Appellant further contended that the Section
+7 Application is frivolous and procedurally defective, as it fails to establish the
+locus standi of the Liquidator to initiate CIRP proceedings in this manner
+including the lack of approval and the improper use of CIRP as a recovery
+mechanism, which undermines the fundamental objectives of the Code and
+renders the application legally untenable.
+9.
+The appellant submitted that apart from Respondent No. 2, there is not a
+single creditor of Respondent No. 1, whether financial or operational. This fact
+is established by the record showing that until 20.07.2024, the Resolution
+Professional of Respondent No. 1 had received only the claim of Respondent No.
+2 under the category of 'unsecured financial creditors belonging to any class of
+creditors' amounting to Rs. 2.5 crores. Consequently, Respondent No. 2 stands
+as the sole member of the CoC for Respondent No. 1.
+10.
+The appellant submitted that the Adjudicating Authority failed to
+appreciate that Respondent No. 2, which is already undergoing a liquidation
+process, could not have filed a Section 7 application against Respondent No. 1
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 6 of 25
+for initiating CIRP. The Appellant contended that, as per settled jurisprudence,
+the liquidation process mandates the liquidator to focus on selling the assets of
+the company to recover dues and distribute the proceeds in accordance with the
+prescribed waterfall mechanism within a time-bound framework. To ensure
+timely completion of liquidation, the Liquidation Regulations, 2016 empower
+liquidators to sell non-readily realizable assets, including book debts, through
+auctions based on valuation reports provided by valuers. Thus, filing a Section 7
+application runs contrary to the objectives and processes of liquidation. The
+appellant further submitted that initiating CIRP at the instance of a company
+already under liquidation, merely to recover dues, is fundamentally flawed and
+contrary to established legal principles, as the Code should not be used as a
+recovery mechanism. Furthermore, without prejudice, the appellant submits that
+initiating or admitting CIRP at the behest of Respondent No. 2 would hinder and
+ultimately defeat the timely completion of the ongoing liquidation process.
+11.
+The appellant submitted that the leave granted by the Adjudicating
+Authority to the Liquidator of Respondent No. 2, vide its order dated 21.02.2022
+in I.A. No. 5846 of 2021 in C.P. (IB) No. 228 of 2019, was solely for the purpose
+of taking steps in accordance with the law, including initiating proceedings for
+recovery of dues from defaulting debtors. The appellant contends that this leave
+was improperly used to file a Section 7 application under the Code as a recovery
+tool, under the guise of seeking resolution for Respondent No. 1, especially
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 7 of 25
+considering that Respondent No. 2 is admittedly the sole financial creditor of
+Respondent No. 1.
+12.
+The appellant submitted that Sections 33(5) and 35(1)(k) of the Code
+permits the Liquidator to institute or defend suits, prosecutions, or other legal
+proceedings in the name of or against the company under liquidation, including
+actions for the recovery of its dues. However, this does not extend to initiate
+CIRP proceedings for the resolution or revival of debtor companies who have
+defaulted on their debts.
+13.
+The appellant submitted that Respondent No. 2 is undergoing liquidation,
+and the Liquidator of Respondent No. 2 has arbitrarily alleged that Rs. 2.5 Crores
+was disbursed as loans and advances to the Corporate Debtor in two tranches in
+2013. However, the Liquidator has failed to produce any written contract or
+document demonstrating that the alleged loan and advance had a commercial
+effect of borrowing and was disbursed against consideration for the time value
+of money, which is a prerequisite for qualifying a debt as a Financial Debt under
+Section 5(8) of the Code. The appellant submitted that the Adjudicating
+Authority erred in holding that the nature of the debt is financial debt, relying
+solely on an entry in the Balance Sheet of the Corporate Debtor, in the absence
+of any written agreement. The appellant contends that the entry in the Balance
+Sheet merely reflects a debt liability of the Corporate Debtor and does not, in
+itself, establish a Financial Debt as defined under Section 5(8) of the Code,
+especially without a written arrangement.
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 8 of 25
+14.
+The appellant further asserts that in determining whether a debt is a
+financial debt or an operational debt arising from a written agreement or
+arrangement, it is essential to ascertain the real nature of the transaction reflected
+in writing. Therefore, in the absence of any written arrangement, the nature of
+the transaction, the issue of time value, and the commercial effect of borrowing
+cannot be properly determined.
+15.
+The appellant submitted that in the case of Sanjay Kewalramani v. Sunil
+Paramanand Kewalramani & Ors., Company Appeal. (AT)(Ins.) 57/2018, this
+Appellate Tribunal held that there must be evidence suggesting that the
+Respondents provided a loan to the ‘Corporate Debtor’ which can be termed as
+a disbursement of an amount for consideration for the time value of money, as
+required under Section 5(8) of the Code. The appellant asserts that merely
+granting and admitting a loan does not automatically qualify the respondents as
+‘financial creditors’ unless they demonstrate compliance with the substantive
+definition or any clause of Section 5(8) of the Code.
+16.
+The appellant submitted that the alleged loan was disbursed without any
+written documentation or repayment schedule. Consequently, the loan became
+payable on demand. The appellant asserts that a specific demand for repayment
+of the alleged loan, along with 12% interest, was first made in the legal notice
+dated 20.07.2020 issued by Respondent No. 2, requiring payment within 7 days.
+Therefore, the alleged debt became due and payable during the 7 days following
+20.07.2020, and the default occurred on 27.07.2020, upon the Corporate Debtor's
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 9 of 25
+failure to repay the amount within the stipulated time. The appellant contended
+that Respondent No. 2 misled the Adjudicating Authority by claiming the date
+of default as 31.01.2019, which corresponds to a demand letter issued by the
+Interim Resolution Professional (IRP). The appellant clarifies that the letter dated
+31.01.2019 from the IRP was merely a request for confirmation of the alleged
+loan amount and did not establish a timeline for repayment and therefore, in
+absence of a specific repayment timeline, the date of default cannot be construed
+as 31.01.2019. The appellant asserts that a loan recall notice without a specific
+payment date is simply a formal communication requesting repayment, not a
+determination of a default date.
+17.
+The appellant submitted that the demand/legal notice dated 20.07.2020,
+issued by Respondent No. 2 after his appointment, should be the basis for
+ascertaining the date of default, as it is the only notice specifying a repayment
+date. The appellant argues that failure to repay within the stipulated time period
+in that notice would give rise to the default, making 27.07.2020 the relevant date.
+As this date falls within the restricted/prohibited period under Section 10A of the
+Code, the appellant argued that the impugned judgment is liable to be set aside
+on this ground.
+18.
+The appellant submitted that, under the statutory scheme, while the record
+of an information utility is relevant, it does not constitute conclusive proof of
+default. The appellant maintains that a Corporate Debtor is entitled to challenge
+the statements contained in the information utility record. In support of this
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 10 of 25
+contention, the appellant refers to the Hon’ble Supreme Court's judgment
+in Swiss Ribbons Pvt. Ltd. & Anr. v Union of India [W.P. (C) No. 99 of 2018],
+paragraph 57, which establishes that an information utility certificate is only
+prima facie evidence of default and is rebuttable by the Corporate Debtor. This
+legal proposition was further followed by this Appellate Tribunal in Dheeraj
+Wadhawan v Yes Bank & Anr. [Company Appeal (AT) (Ins) No.953 of 2021],
+paragraph 31.
+19.
+The appellant submitted that the Liquidation Regulations, 2016, empower
+Respondent No. 1 (Liquidator) only to take necessary actions to recover monies
+for maximizing the value of assets or recovering the dues of the Corporate Debtor
+under Regulations 37A and 38. The appellant argues that, in this case, the
+Liquidator has exceeded the powers conferred upon him and acted in
+contravention of the object and scheme of the Code by ignoring the remedies
+envisaged under the Liquidation Regulations, 2016, and initiating CIRPs against
+different Corporate Debtors with an oblique motive to prolong the liquidation
+process of Kaliber Associates Pvt. Ltd. and to avail monetary benefits. The
+appellant further asserts that the IBBI introduced the assignment of Not Readily
+Realizable Assets (‘NRRA’) to prevent such misuse of powers by the Liquidator,
+enabling them to assign such assets to a third party for realization, ensuring that
+the liquidation is completed in a timely manner.
+20.
+Concluding his arguments, the Appellant requested this Appellate Tribunal
+to set aside the Impugned Order and allow their appeal.
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 11 of 25
+21.
+Per contra, the Respondent No.2, who is the contesting Respondent herein,
+denied all averments made by the Appellants as misleading and baseless.
+22.
+The Respondent No. 2 submitted that the Application under Section 7 of
+the Code was filed by the Liquidator of the Financial Creditor/Respondent No. 2
+("Financial Creditor") for maximization of the value of M/s Kaliber Associates
+Pvt. Ltd. (in Liquidation) pursuant to the approval granted by the Adjudicating
+Authority on 21.02.2022, seeking initiation of CIRP against the on account of the
+default committed by the Corporate Debtor in repayment of a 'financial debt' of
+Rs. 2.5 cr.
+23.
+The Respondent No. 2 submitted that the Financial Creditor disbursed Rs.
+2.5 Crores to the Corporate Debtor in two tranches, with Rs. 2,00,00,000 paid on
+18.10.2013 and a further Rs. 50,00,000 paid on 09.11.2013, as indicated in the
+Financial Creditor's Bank Statements. The Respondent No. 2 further submitted
+that in the Audited Financial Statement of the Corporate Debtor as on 31.03.2020,
+an amount of Rs. 2.5 Crores is reflected against the name of the Financial Creditor
+as "Unsecured Loans" under the head "Other Long-Term Liabilities".
+24.
+The Respondent No. 2 submitted that the Audited Financial Statement of
+the Corporate Debtor as of 31.03.2022 also reflects that the Corporate Debtor has
+borrowed money from M/s Kaliber Associates Pvt. Ltd., i.e., the Financial
+Creditor, amounting to Rs. 2.5 Crores which is due and payable. Further, the
+Audited Financial Statement of the Corporate Debtor as of 31.03.2022 reflects an
+amount of Rs. 2.5 Crores against the name of the Applicant/Financial Creditor as
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 12 of 25
+"Unsecured Loan from Body Corporate" under the heading "Short term
+borrowings." Thus, the Corporate Debtor has clearly acknowledged its liability to
+repay Rs. 2.5 Crores to the Financial Creditor.
+25.
+The Respondent No. 2 submitted that despite several reminders, the
+Corporate Debtor has neither disputed the demand for repayment made by the
+Financial Creditor nor repaid the said amount. This clearly demonstrates that
+despite acknowledging the financial debt of Rs. 2.5 Crores in its Audited
+Financial Statements as of 31.03.2020 and 31.03.2022, the Corporate Debtor has
+willfully defaulted in repaying the said financial debt. Furthermore, the audited
+Balance Sheets dated as of 31.03.2020 and 31.03.2022 of the Corporate Debtor
+show that the Corporate Debtor is liable to pay an amount of Rs. 2.5 Crores.
+26.
+The Respondent No. 2 submitted that on 20.08.2023, the National E-
+Governance Services Ltd. (NESL), the Information Utility, issued its Report to
+M/s Kaliber Associates Pvt. Ltd., authenticating the default filed by M/s Kaliber
+Associates Pvt. Ltd. with respect to M/s Lion Buildcon Private Limited, with the
+status of Authentication reflected as "Deemed to be Authenticated". Respondent
+No. 2 asserts that the record of the NESL/Information Utility, reflecting the status
+as "Deemed to be Authenticated," is adequate for ascertaining the existence of
+default and for deciding an application under Section 7 of the Code. Furthermore,
+this Appellate Tribunal in Vipul Himmatlal Shah and Another v. Teco
+Industries, [(2022) SCC OnLine NCLAT 209] has categorically held that "in case
+the record of Information Utility shows that there is a debt which is in default, the
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 13 of 25
+Adjudicating Authority or the Appellate Authority are not required to further
+examine the record maintained by the Information Utility, more so when the
+record of the Information Utility is deemed authenticated and no dispute or
+refutation of said record has been done by the corporate debtor earlier."
+27.
+The Respondent No. 2 submitted that the Corporate Debtor acknowledged
+its liability before the Adjudicating Authority when counsel for the Corporate
+Debtor informed the Authority that it was exploring a settlement. The Order dated
+31.01.2024, passed by the Learned Adjudicating Authority, states that
+"Ld. Counsel for the CD submitted that the parties are
+exploring the settlement qua the defaulted amount. Let an
+affidavit to the effect be filed by tomorrow. List the petition
+on 07.02.2024.". Further, the Order dated 07.02.2024 states
+that "4. Nevertheless, the Ld. Counsel appearing for the CD
+is endeavoring to enter into settlement qua the defaulted
+amount with the Applicant/ Petitioner and has already given
+a proposal to Petitioner to the effect ... ".
+28.
+The Respondent No. 2 submitted that the Appellant's sole contention in the
+present matter is that the application being C.P. (I.B.) No. 590/ND/2023, filed
+under Section 7 of the Code, was based on the Order dated 21.02.2022 passed
+under Section 33(5) read with Section 35(1)(k) of the Code through application
+I.A. No. 5846/2021, solely for the purpose of recovering dues and not for the
+resolution/revival of Respondent No. 1. The Respondent No. 2 submitted that,
+being a company in liquidation pursuant to the order dated 02.01.2020 passed
+under Section 33 of the Code by the Adjudicating Authority in C.A. No. 1524/C-
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 14 of 25
+II/ND/2019 in C.P. (IB) No. 228/2018, it approached the Adjudicating Authority
+under Section 33(5) read with Section 35(1)(k) of the Code by way of application
+I.A. No. 5846/2021, wherein the following prayers were sought:
+“i. Grant prior approval to the Applicant to institute suits or
+other legal proceedings on behalf of the Corporate Debtor
+including filing application under section 7 of the Code for
+initiation of CIRP against the Companies/Borrowers of the
+Corporate Debtor having outstanding dues of above
+Rs.1,00,000/- (Rupees One Lakh Only) to Rs. 3,00,00,000/-
+(Three Crore Only) with respect to the recovery of dues for
+default committed by such companies/borrowers in payment
+of their debt.
+ii. Grant any other relief as this Hon'ble Adjudicating
+Authority deems fit."
+(Emphasis Supplied)
+29.
+The Respondent No. 2 submitted that vide order dated 21.02.2022, the
+Adjudicating Authority allowed the prayers in the application, thus permitting
+Respondent No. 2 to institute any suit or legal proceeding, including filing an
+application under Section 7 of the Code, against defaulting borrowers, including
+the Corporate Debtor, before any appropriate forum.
+30.
+The Respondent No. 2 submitted that this Appellate Tribunal, vide its
+judgment dated 23.09.2024 passed in Subhash Chander Chauhan vs. M/s
+Kaliber Associates Pvt. Ltd, Company Appeal (AT) (Insolvency) No. 666 of 2024,
+upheld the filing of an application under Section 7 of the Code by the Liquidator
+of Respondent No. 2. It was held that:
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 15 of 25
+"14. When we look into the Order, it is clear that prayers
+made in the Application has beer. allowed by the
+Adjudicating Authority, the prayers made in the Application
+has been noticed in the Order itself, were "for granting prior
+approval to institute suits/legal proceedings on behalf of the
+Corporate Debtor, including filing of the Section 7
+Application of the Code for initiation of the CIRP against the
+Debtor, having outstanding dues ... ". The approval granted
+by the Adjudicating Authority, thus was clearly permitted
+filing of Section 7 Application also. Thus, we accept the
+submission of the Counsel for the Liquidator that Order dated
+21.02.2022 clearly permitted the Liquidator to file an
+Application under Section 7 against the borrowers. Thus,
+submission of the Appellant on this ground cannot be
+accepted.”
+(Emphasis Supplied)
+31.
+The Respondent No. 2 submitted that by virtue of Explanation II to Section
+11 of the Code, it is entitled to against another corporate debtor, which, even as
+per the decision of the Hon'ble Supreme Court of India in Manish Kumar v.
+Union of India, [(2021) 5 SCC 1], is aimed at enabling the corporate debtor to
+recover its dues from its debtors.
+32.
+Concluding his pleadings, the Respondent No.2 requested this Appellate
+Tribunal to dismiss the appeal with cost.
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 16 of 25
+Findings
+33.
+We have already noted the facts and shall not repeat the same. Following
+issues have been raised by the Appellant which need to be adjudicated upon.
+34.
+Issue No. (I)
+The Appellant has raised the issue regarding amount
+claimed by the Respondent is not financial debt. The Appellant conceded that
+Rs. 2.5 Crores might has been disbursed but not as loans and advances, since there
+is no contract or written document/ agreement for the same.
+Issue No. (II)
+The Appellant has also raised the issue regarding alleged
+default falls within restricted period under Section 10A of the Code.
+Issue No. (III)
+Another issue raised by the Appellant is regarding record of
+default of in the records of the information utility and is not a conclusive proof of
+the debt and default.
+Issue No. (IV)
+The Appellant has taken the ground that the liquidator of the
+alleged financial creditor has filed a petition for recovery of the amount and not
+for resolution of the Corporate Debtor against the regulations of the Code.
+35.
+We shall deal all the aforesaid issues raised by the Appellant in the
+following discussions.
+36.
+Issue No. (I)
+The Appellant has raised the issue regarding amount
+claimed by the Respondent is not financial debt. The Appellant conceded that
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 17 of 25
+Rs. 2.5 Crores might has been disbursed but not as loans and advances, since there
+is no contract or written document/ agreement for the same.
+
+We note that the said amount was paid to the Corporate Debtor in
+two tranches i.e., Rs. 2 Crores on 18.10.2013 and Rs. 50 Lakhs on
+09.11.2013 and the same has been reflected in the bank statements which
+has been produced before us. We also take into consideration audited
+annual financial statements of the Corporate Debtor as on 31.03.2020
+where an amount of Rs. 2.5 Crores has been reflected in NOTE 2.4 of the
+balance sheet against the name of the Financial Creditor as “Unsecured
+Loans” under the head “Other Long Term Liabilities”. Similarly, we also
+note that in audited financial statements of the Corporate Debtor as on
+31.03.2022 against the same amount of Rs. 2.5 Crores has been reflected
+against the name of the Financial Creditor as “Unsecured Loan from Body
+Corporate” under the heading “Short Term Borrowing”.
+
+We also take into consideration that the Appellant has not denied
+regarding this amount disbursed to the Corporate Debtor of Rs. 2.5 Crores
+but has raised issue regarding the nature of transaction which the Appellant
+has claimed not as financial debt on the basis is that there is no written
+contract and agreement showing the same is financial debt.
+
+We do not accept the pleadings of the Appellant since the loans and
+advances have been clearly reflected in the audited financial statement of
+the Corporate Debtor which is adequate to establish that the money
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 18 of 25
+disbursed was indeed given as a loan. There is no law or provisions in the
+Code which requires that there has to be written contract or documentation
+to establish the loan. The reflection of the same in audited financial
+statements as well reflection in information utility i.e., National E-
+Governance Services Ltd., is good enough proof of financial debt.
+
+Hence, on this account, we reject the arguments of the Appellant.
+We hold that the money disbursed of Rs. 2.5 Crores to the Respondent No.1
+by Respondent No.2 indeed was a financial debt.
+37.
+Issue No. (II) The Appellant has also raised the issue regarding alleged
+default falls within restricted period under Section 10A of the Code.
+
+As regard, the alleged default falling in 10A exempted period of the
+Code, since one of the legal notice was issued by the Counsel of the
+Respondent No. 2 to the Corporate Debtor on 20.07.2020 and as such, as
+per the Appellant the same falls within the exempted period of 25.03.2020
+to 25.03.2021 in terms of Section 10A of the Code.
+
+In this regard, we note that in Part IV of Form I, filed along with
+application under Section 7 of the Code, under which default of Rs. 2.5
+Crores was reflected as on 31.01.2019. It is a fact that other demand letter/
+legal notice was issued on 20.07.2020, however, the original debt of
+default as reflected in Part IV is 31.01.2019 which is not covered under
+the exempted period in terms of Section 10A of the Code.
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 19 of 25
+
+We take into consideration Part IV filed under Section 7 application
+before the Adjudicating Authority which reads as under :-
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 20 of 25
+
+Thus, the contention of the Appellant on this account is not legally
+sanctionable.
+38.
+Issue No. (II) Another issue raised by the Appellant is regarding record
+of default of non-utility is not a conclusive proof of the debt and default.
+One more issue raised by the Appellant is regarding non conclusive evidence of
+establishment of financial debt based on the transaction recorded by the
+information utility (NESL). It is the case of the Appellant that under statutory
+scheme, the record of information utility is relevant but not conclusive proof for
+any default and the Corporate Debtor is at liberty to disapprove the statement as
+contained in information utility records. The Appellant has alleged that the
+Adjudicating Authority failed to appreciate that record of default procured from
+the information utility by the Respondent No. 2 is only a prima-facie evidence
+and not a conclusive evidence of debt and default which is required for the
+purpose of admission of application under Section 7 of the Code.
+We have noted that the Rs. 2.5 Crores has been categorically reflected in
+the audited financial statements of the Corporate Debtor in the balance sheet as
+on 31.03.2020 as well as on 31.03.2022. This is good enough evidence of
+establishing the fact of debt payable to the Financial Creditor. The mere fact that
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 21 of 25
+the same was also been reflected in the record of the information utility (NESL)
+will not dilute the debt granted by the Financial Creditor to the Corporate Debtor
+and this recorded transaction of loan with the information utility is only as
+additional evidence of debt and default. In fact, the additional information as
+evident by the record of the information utility establishes the claims of the
+Financial Creditor. Thus, the contention of the Appellant in this regard stands
+rejected.
+39.
+Issue No. (IV)
+The Appellant has taken the ground that the liquidator
+of the alleged financial creditor has filed a petition for recovery of the amount and
+not for resolution of the Corporate Debtor against the regulations of the Code.
+The last ground of the appeal taken by the Appellant is that the Respondent
+No. 2 i.e., liquidator of the Financial Creditor should not have filed section 7
+under the Code. The Appellant pleaded that the role of the liquidator is limited
+in settling the assets available with entity under liquidator and should have taken
+action for the timely conclusion of liquidation process including selling non
+readily realizable assets including book debts through auctions based on valuation
+reports. It is the case of the Appellant that the alleged claims of Rs. 2.5 Crores
+payable by the Corporate Debtor should have been auctioned by the Respondent
+No. 2 rather than initiating CIRP proceeding against Corporate Debtor/
+Respondent No. 1. In this connection, we note that the Respondent No. 2 /
+Liquidator had specifically taken approval of the Adjudicating Authority for
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 22 of 25
+instituting legal proceedings on behalf of the Respondent No. 2 including filing
+an application under Section 7 of the Code.
+(i)
+The relevant excerpts of the order dated 21.02.2022 are produced
+hereinbelow -
+"IA-5846/2021- By filing this IA, the applicant has prayed for
+granting prior approval to the Applicant to institute
+suits/legal proceedings on behalf of CD including filing of
+Section 7 Application of the Code for recovery of dues/default
+committed by such companies/borrowers in payment of their
+debt.
+....The Liquidator is directed to take all steps in
+accordance with the provision of law."
+(Emphasis Supplied)
+40.
+We also take into consideration the relevant regulation of IBBI
+(Liquidation Process) Regulations, 2016, which reads as under :-
+“Regulation 37A: Assignment of not readily realisable
+assets.
+37A. (1) A liquidator may assign or transfer a not readily
+realisable asset through a transparent process, in
+consultation with the stakeholders’ consultation committee in
+accordance with regulation 31A, for a consideration to any
+person, who is eligible to submit a resolution plan for
+insolvency resolution of the corporate debtor.
+Explanation.—For the purposes of this sub-regulation, “not
+readily realisable asset” means any asset included in the
+liquidation estate which could not be sold through available
+options and includes contingent or disputed assets and assets
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 23 of 25
+underlying proceedings for preferential, undervalued,
+extortionate credit and fraudulent transactions referred to in
+sections 43 to 51 and section 66 of the Code.]
+
+Regulation 38: Distribution of unsold assets.
+38. (1) The liquidator may, with the permission of the
+Adjudicating Authority, distribute amongst the stakeholders,
+an asset that 1[could not be sold, assigned or transferred] due
+to its peculiar nature or other special circumstances.
+(2) The application seeking permission of the Adjudicating
+Authority under sub-regulation (1) shall-
+(a) identify the asset;
+(b) provide a value of the asset;
+(c) detail the efforts made to sell the asset, if any; and
+(d) provide reasons for such distribution.
+
+Regulation 39: Recovery of monies due.
+39. The liquidator shall endeavor to recover and realize all
+assets of and dues to the corporate debtor in a time-bound
+manner for maximization of value for the stakeholders.
+
+Regulation 44: Completion of liquidation.
+44. 1[(1) The liquidator shall liquidate the corporate debtor
+within a period of one year from the liquidation
+commencement date, notwithstanding pendency of any
+application for avoidance of transactions under 2[***] Part
+II of the Code, before the Adjudicating Authority or any
+action thereof:
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 24 of 25
+3[***]]
+(2) If the liquidator fails to liquidate the corporate debtor
+within 4[one year], he shall make an application to the
+Adjudicating Authority to continue such liquidation, along
+with a report explaining why the liquidation has not been
+completed and specifying the additional time that shall be
+required for liquidation.
+5[Explanation- In relation to the liquidation processes
+commenced prior to the commencement of the Insolvency and
+Bankruptcy
+Board
+of
+India
+(Liquidation
+Process)
+(Amendment) Regulations, 2019, the requirements of this
+regulation as existing before such commencement, shall
+apply.]”
+(Emphasis Supplied)
+41.
+From above regulations, especially Regulation 39, we note that the
+Respondent No. 2 is well within his rights to take any legal action including filing
+Section 7 application for recovering the recoverable dues from any entity like the
+Respondent No. 1 herein. It cannot be the case of the Appellant that the
+Respondent/ Liquidator should not have taken legal recourse for clear default by
+the Respondent No. 1. We hold that the Respondent No. 2 / Liquidator was within
+his right and was rather obligated under the Code and relevant regulations to do
+so.
+42.
+In view of above detailed observation, we find that all the issues raised by
+the Appellant sans merit and need to be rejected. We do not find any error in the
+Impugned Order.
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 1723 of 2024
+Page 25 of 25
+43.
+The Appeal devoid of any merit stand rejected. No cost. I.A., if any, are
+closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+Sim

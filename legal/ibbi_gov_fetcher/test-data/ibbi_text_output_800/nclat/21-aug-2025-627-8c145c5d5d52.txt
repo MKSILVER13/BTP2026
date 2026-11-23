@@ -1,0 +1,627 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins.) No. 605 of 2024
+
+(Arising out of the Order dated 07.02.2023 passed by the National Company
+Law Tribunal, Mumbai Bench -IV in I.A. No. 1579 of 2023 in C.P.(IB) No.
+923/MB/2020)
+
+IN THE MATTER OF:
+
+Present
+For Appellant:
+Mr Aditya Ajgaonkar, Mr. Gaurangi Patil,
+Mr. Gaurav Changrani, Advocates. & Mr. Nikhil
+Mhatre, Advocates.
+For Respondents:
+
+Mr. Aayush Mitruka, Mr. Mohit Rohtagi &
+Mr. Ashwini Kumar Tak, Liquidator.
+J U D G E M E N T
+( 21.08.2025)
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e. Growfitter Private
+Limited under Section 61 of the Insolvency and Bankruptcy Code, 2016 (‘Code’)
+Growfitter Private Limited
+Having its registered office at:
+B/104, 1st Floor, Shree Sainath Society,
+CHS Anand Nagar, Vakola Police Lane,
+Santacruz East, Mumbai- 400055.
+
+...Appellant
+
+Versus
+
+Gajesh Labhchand Jain,
+The Liquidator of Talwalkars Healthclubs Limited.
+Having office at:-
+C-602, Remi Biz Court,
+Off Veera Desai Road, Azad Nagar,
+Andheri West, Mumbai- 400053.
+
+...Respondent
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 2 of 23
+
+against the Impugned Order dated 07.02.2023 passed by the National Company
+Law Tribunal, Mumbai Bench-IV (‘Adjudicating Authority’), in I.A. No. 1579
+of 2023 in C.P.(IB) No. 923(MB)/2020.
+2.
+Gajesh Labhchand Jain, who is the liquidator of Talwalkars Healthclubs
+Limited, is the Respondent herein.
+3.
+The Appellant submitted that it is a service provider engaged in the
+business of offering financial technology services, specifically by operating as a
+payment gateway and entered into an arrangement with Talwalkars Better Value
+Fitness Limited ("TBVFL") for the provision of such services in relation to
+TBVFL's diverse health and wellness offerings. The Appellant submitted that
+TBVFL’s business activities, prior to the demerger, were not confined merely to
+gym operations but encompassed a broader spectrum of wellness-related services.
+The Appellant’s role was however limited to facilitating payments for their entire
+services and the Appellant did not form part of the core gym business of TBVFL.
+4.
+The Appellant submitted that, the Adjudicating Authority vide order dated
+21.12.2017, approved a scheme of demerger whereby only the gym business of
+TBVFL was transferred to the resulting company i.e. Talwalkars Lifestyles
+Limited (TLL) (subsequently renamed Talwalkars Healthclubs Limited (THL),
+the Respondent/Corporate Debtor). The Appellant submitted that, pursuant to the
+said scheme, the health and fitness activities including aerobics, Zumba, yoga,
+spa, massage, and other such businesses were expressly retained by TBVFL, as
+set out in the demerger scheme.
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 3 of 23
+
+5.
+The Appellant submitted that on 27.12.2017, the Appellant, through its
+Promoters, entered into a Share Subscription and Shareholders Agreement
+("SHA") with TBVFL, which was executed prior to the demerger. Following the
+demerger, TBVFL continued to exist as a sister concern of the Corporate Debtor,
+which has since been placed under liquidation pursuant to the order dated
+28.04.2022, passed by the Adjudicating Authority.
+6.
+The Appellant stated that it was in need of additional funds to support its
+expansion plans and TBVFL expressed its intent to invest in the Appellant
+company. Pursuant thereto, TBVFL agreed to subscribe to 9,598 freshly issued
+equity shares of the Appellant for a total consideration of ₹5 crores. The Appellant
+further submitted that the SHA also contains Clause 1.1.1, which defines the term
+‘non-fulfilment’ with reference to the conditions set out in Clause 2.2 of the SHA.
+As per the said clause, in the event of non-fulfilment of the obligations under
+Clause 2.2 for any reason whatsoever, the Appellant company was entitled to buy
+back the equity shares that were issued to the Investor.
+7.
+The Appellant further submitted that the demerger was never fully
+implemented by the ex-management of the Respondent Corporate Debtor,
+resulting in ambiguity with respect to the segregation of assets between the
+Corporate Debtor and TBVFL. The Appellant contended that, as per the
+Respondent’s own stand, while the order dated 21.12.2017 allegedly
+contemplated that investments of TBVFL were to be transferred in the name of
+the Corporate Debtor, it is a matter of record and admitted by the Respondent/
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 4 of 23
+
+Corporate Debtor that such transfer was neither reflected in the books of the
+Corporate Debtor post commencement of CIRP nor was any intimation in this
+regard found in the Corporate Debtor’s records.
+8.
+The Appellant submitted that, following TBVFL’s failure to fulfil the
+requirements set forth in Clause 2.2 of the SHA dated 27.12.2016, the Appellant
+convened a meeting of its Board of Directors (BOD) on 05.03.2020 and the BOD
+approved the exercise of the Appellant’s rights under the SHA to repurchase the
+shares from TBVFL at par value or, where applicable, at the lower of fair market
+value. The Appellant further submitted that, in view of TBVFL’s failure to fulfil
+the requirements under Clause 2.2 of the SHA, the Appellant called upon TBVFL,
+vide email dated 09.05.2020, to surrender its shares to the Appellant.
+Accordingly, on 09.06.2020, the shares held by TBVFL were duly transferred to
+the Appellant, and this transaction is properly reflected in the Appellant’s
+accounts. The Appellant submitted that, by virtue of this transaction, all rights of
+TBVFL and any alleged rights of the Corporate Debtor arising from a mistaken
+interpretation of the demerger stood extinguished in respect of these shares.
+9.
+The Appellant submitted that the Corporate Insolvency Resolution
+Process (CIRP) against the Corporate Debtor was initiated vide order dated
+09.03.2021, and submitted that the extinguishment of TBVFL’s interest in the
+shares took place well prior to the commencement of CIRP. The Appellant
+elaborated that the transaction audit report dated 24.12.2021, as relied upon by
+the Respondent, has erroneously recorded that the Corporate Debtor holds
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 5 of 23
+
+approximately 19% equity share capital of the Appellant of face value Rs. 10
+each. The Appellant contended that the shares have already been transferred back
+to the Appellant and that Form No. SH-4, as mandated under the Companies Act,
+2013, was duly executed and signed by the director of TBVFL. The Appellant
+clarified that, owing to restrictions imposed by the Covid-19 pandemic, the
+Appellant was unable to deliver the hard copy of Form No. SH-4 to the Registrar
+of Companies.
+10.
+The Appellant submitted that the Respondent initially filed Form MGT-
+7A for the financial year 2020-21 on the Ministry of Corporate Affairs’ portal,
+which incorrectly reflected TBVFL as a shareholder of the Respondent as on
+19.01.2022. However, the Respondent subsequently revised this Form MGT-7A
+and re-submitted the audited reports for the same financial year on 28.02.2022,
+rectifying the earlier error. Furthermore, the Respondent, by its email dated
+22.10.2022, acknowledged that neither TBVFL nor Corporate Debtor held any
+shares in the Appellant Company owing to non-fulfilment of the conditions
+stipulated under investor Clause 2.2 of the SHA. Subsequently, through its email
+dated 02.11.2022, the Respondent shared a revised shareholders’ list confirming
+the transfer of shares from TBVFL to the Appellant, thereby extinguishing
+TBVFL’s rights in respect of such shares as of June 2020.
+11.
+The Appellant submitted that the Adjudicating Authority in its order dated
+07.02.2024, erred in holding that there was no provision in the SHA for
+extinguishing the shareholder rights in the shares held by the Respondent and that
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 6 of 23
+
+the physical share certificates were in the custody of the Applicant Liquidator,
+while in reality, only digital share certificates were with him and the physical
+share certificates have remained with the Appellant. The Appellant stated that the
+Adjudicating Authority further erroneously concluded that the equity shares
+issued by the Appellant form part of the asset pool of the Corporate Debtor and
+are consequently included in its liquidation estate, and that the extinguishment of
+shareholder rights was in contravention of Section 68 of the Companies Act,
+2013.
+12.
+The Appellant reiterated that the shares in question were issued to TBVFL
+and not to the Corporate Debtor, pursuant to the SHA dated 27.12.2016. It is the
+case of the Appellant that TBVFL, a sister concern of the Corporate Debtor,
+subscribed to these shares, and the entire consideration for the issuance was paid
+to TBVFL. The physical share certificates were in the possession of TBVFL and
+were later taken by the Liquidator of the Corporate Debtor in his capacity as the
+Liquidator of TBVFL, not the Corporate Debtor. Consequently, the Appellant
+contended that these shares do not form part of the liquidation estate of the
+Corporate Debtor under Section 36 of the Code.
+13.
+The Appellant submitted that the demerger scheme defined the gym
+business under Clause 2.1.5, which included only assets exclusively related to the
+gym business. The investment in the Appellant was not exclusively related to the
+gym business, as TBVFL’s operations encompassed fitness centers and lifestyle
+services. The Appellant contended that the Respondent’s business, as per the
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 7 of 23
+
+Marketing Agreement, has no direct correlation with TBVFL’s gym business, and
+thus, the shares cannot be deemed to have been transferred to the Corporate
+Debtor.
+14.
+The Appellant submitted that the Transaction Audit Report explicitly
+highlights manipulation in the Respondent’s books of accounts, with the erstwhile
+management inflating the value of the investment in the Appellant through
+adjustments to present a healthier balance sheet. The Appellant relied on the
+Doctrine of Indoor Management, as established in MRF Ltd. v. Manohar
+Parrikar [(2010) 11 SCC 374], to assert that the internal affairs of TBVFL,
+including the share transfer, were conducted validly. The Appellant submits that
+the transfer of shares to TBVFL on 09.06. 2020, was lawful and does not involve
+the Appellant or its promoters in any subsequent transfers, rendering such
+considerations irrelevant to this appeal.
+15.
+Concluding his arguments, the Appellant requested this Appellate
+Tribunal to set aside the Impugned Order and to allow his appeal.
+16.
+Per contra, the Respondent denied all averments made by the Appellant as
+misleading and baseless.
+17.
+The Respondent submitted that the Corporate Debtor, a listed public
+company, was incorporated on 23.04.2016, under the Companies Act, 2013, as
+part of the Talwalkars group. The Respondent further submitted that the
+Appellant, GrowFitter Private Limited, was incorporated on 19.05.2016, with its
+registered office in Mumbai, Maharashtra.
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 8 of 23
+
+18.
+The Respondent submitted that on 27.12.2016, the Appellant entered into
+a SHA with TBVFL, a Talwalkars group entity. The Respondent contended that,
+under the SHA, TBVFL invested Rs. 5 cr. in the Appellant in exchange for 9,598
+equity shares (“Subject Shares”), representing approximately 19% of the
+Appellant’s shareholding. The Respondent asserted that key clauses of the SHA,
+including Recital D, Recital E, Clause 2.1, and Clause 3.6, confirm TBVFL’s
+subscription to the Subject Shares, with payment remitted on 31.03.2017, and
+physical share certificates issued on 01.04.2017.
+19.
+The Respondent submitted that on 21.12.2017, the Adjudicating Authority
+approved a scheme of arrangement vide order in CSP No. 450/2017 (“Scheme
+Approval Order”), transferring TBVFL’s “Gym Business,” including its
+investments, to the Corporate Debtor. The Respondent submitted that Clause 5.1
+of the Scheme stipulates that the transfer occurred automatically without further
+act or deed, vesting all rights, title, and interest in the Corporate Debtor. The
+Respondent asserted that the Subject Shares, being part of TBVFL’s gym
+business investments (per Clause 2.2(c) of the SHA), were transferred to the
+Corporate Debtor.
+20.
+The Respondent submitted that TBVFL was admitted into CIRP on
+11.01.2021, vide order in CP (IB) No. 1566/2020, and later liquidation
+proceedings commenced on 28.04.2022.
+21.
+The Respondent submitted that, while discharging its duties as Liquidator,
+he noted that the physical share certificates for the Subject Shares remained in
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 9 of 23
+
+TBVFL’s name, despite their transfer to the Corporate Debtor under the Scheme
+Approval Order. The Respondent contended that the Appellant’s annual return
+(e-form MGT-7) for FY 2020-21 listed TBVFL as the holder of the Subject
+Shares, while the Corporate Debtor’s financial statements for FY 2018-19 and
+the Transaction Audit Report dated 24.12.2021, confirmed the Corporate
+Debtor’s ownership.
+22.
+The Respondent submitted that on 27.09.2022, be issued a letter to the
+Appellant, requesting an update of its books to reflect the Corporate Debtor’s
+ownership of the Subject Shares in light of the Scheme Approval Order. The
+Respondent contended that the Appellant, vide email dated 22.10.2022, denied
+the Corporate Debtor’s rights, claiming they were “extinguished” due to
+TBVFL’s alleged non-fulfilment of Clause 2.2 of the SHA.
+23.
+The Respondent submitted that on 02.11.2022, be issued a legal notice to
+the Appellant, demanding recognition of the Corporate Debtor’s ownership of the
+Subject Shares. The Respondent contended that the Appellant, in its email dated
+02.11.2022, reiterated its position, citing non-fulfilment of SHA conditions and
+sharing a revised e-form MGT-7, which the Respondent asserts was an
+afterthought to manufacture a defence.
+24.
+The Respondent submitted that, due to the Appellant’s refusal, he filed IA
+No. 1579/MB/2023 on 05.01.2023, under Sections 35(1) and 60(5) of the code
+r/w Rule 11 of the NCLT Rules, 2016, before the Adjudicating Authority, seeking
+adjudication of the ownership over the Subject Shares. The Respondent submitted
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 10 of 23
+
+that the Appellant, in its reply dated 18.07.2023, claimed the Subject Shares were
+“bought back” in June 2020. The Respondent contended that, in an unauthorized
+Additional Affidavit dated 18.08.2023, the Appellant further claimed the shares
+were transferred to Mr. Sanmati Pandey on 09.06.2020, producing an email dated
+09.05.2020, a share transfer form (SH-4), and a board resolution dated
+01.06.2020, purportedly signed by Mr. Harsha Bhatkal. The Respondent asserted
+that it responded to these claims in a Supplementary Affidavit dated 02.09.2023.
+25.
+The Respondent submitted that on 07.02.2024, the Adjudicating Authority
+passed the Impugned Order, directing the Appellant to issue fresh share
+certificates for the Subject Shares in favour of the Corporate Debtor within seven
+days (by 14.02.2024). The Respondent contended that the order was well-
+reasoned, considering the Scheme Approval Order, the SHA, and the unreliable
+nature of the Appellant’s documents. The Respondent submitted that, due to the
+Appellant’s failure to comply with the Impugned Order by 14.02.2024, he filed a
+Contempt Application (Cont. A/15/2024). The Respondent contended that the
+Adjudicating Authority, vide order dated 14.05.2024, issued a show-cause notice
+to the Appellant.
+26.
+The Respondent submitted that this Appellate Tribunal, vide order dated
+09.07.2024, directed the Appellant to comply with the Impugned Order dated
+14.02.2024 of the Adjudicating Authority within 30 days to avoid further
+contempt proceedings. The Respondent contended that the Appellant, vide email
+dated 10.07.2024 to the Respondent No.1, and affidavit dated 12.07.2024 filed
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 11 of 23
+
+before the Adjudicating Authority, expressed its willingness to comply the order
+of the Adjudicating Authority, leading to the disposal of the Contempt
+Application on 15.07.2024. The Respondent submitted that, despite its emails
+dated 23.07.2024, and 14.08.2024, outlining compliance modalities, the
+Appellant has failed to issue the share certificates, remaining in non-compliance
+with this Appellate Tribunal’s order.
+27.
+The Respondent submitted that the Appellant’s persistent failure to
+comply with the Impugned Order and the Appellate Tribunal’s directive of
+09.07.2024, constitutes contempt and justifies dismissal of the Appeal. The
+Respondent contended that the Appellant’s inaction, despite assurances, reflects
+bad faith.
+28.
+The Respondent submitted that the Appellant’s shifting positions—
+extinguishment (22.10.2022), buy-back (18.07.2023), and transfer to Mr.
+Sanmati Pandey (18.08.2023)—undermine its credibility. The Respondent
+contended that such inconsistencies, as held in S.P. Chengalvaraya Naidu v.
+Jagannath [(1994) 1 SCC 1], disentitle the Appellant from relief due to
+suppression of facts and fabrication of evidence.
+29.
+The Respondent submitted that the Appellant’s documents supporting the
+alleged 09.06.2020, transfer are dubious:
+• The e-form MGT-7 for FY 2020-21 lists TBVFL as the shareholder
+as of 31.03.2021, contradicting the transfer claim.
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 12 of 23
+
+• The share certificate produced by the Appellant differs from
+TBVFL’s original, as filed in the Respondent’s Supplementary
+Affidavit.
+• The board resolution dated 01.06.2020, is absent from TBVFL’s
+records and is tainted by allegations of forgery by the Gawande
+Group, including Mr. Harsha Bhatkal, as stated in IA No. 419/2022
+and IA No. 401/2022.
+• The share transfer form (SH-4) is insufficiently stamped and lacks
+proof of payment.
+30.
+The Respondent submitted that TBVFL lacked title to transfer the Subject
+Shares on 09.06.2020, as they were vested in the Corporate Debtor under the
+Scheme Approval Order of 2017. The Respondent contended that any purported
+transfer is void ab initio.
+31.
+The Respondent submitted that the Appellant’s reliance on Clause 2.2 of
+the SHA is misplaced. The Respondent submitted that Clause 2.2 imposes best-
+efforts obligations (e.g., “endeavour to” provide revenue), with no provision for
+share transfer upon non-fulfilment. The Respondent asserted that the “Non-
+Fulfilment” clause, allowing buy-back of unvested shares within 60 days, is
+inapplicable, as the alleged transfer to Mr. Sanmati Pandey was not a buy-back,
+and by June 2020, all shares were vested per the “Investment Period” definition.
+The Respondent submitted that Clause 11.2 of the SHA requires TBVFL’s
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 13 of 23
+
+consent for changes in capital structure, which the Appellant failed to obtain,
+rendering the transfer impermissible.
+32.
+The Respondent submitted that the Scheme Approval Order, passed under
+Sections 391–394 of the Companies Act, 1956, is binding, as held in Hindustan
+Lever Ltd. v. State of Maharashtra (2004) 9 SCC 438. The Respondent contended
+that Clause 5.1 of the Scheme transferred the Subject Shares to the Corporate
+Debtor, corroborated by the Corporate Debtor’s financial statements and the
+Audit Report.
+33.
+The Respondent submitted that, under Section 35(1)(d) of the Code, he has
+the authority and obligation to protect the Corporate Debtor’s assets, including
+the Subject Shares, justifying the filing of IA No. 1579/MB/2023.
+34.
+Concluding his arguments, the Respondent requested this Appellate
+Tribunal to dismiss the appeal with cost.
+Findings
+35.
+Streamlined for clarity, the appeal is confined to limited issue regarding
+the ownership of 9598 shares of the Appellant Company held by the Corporate
+Debtor and return of the same by the Appellant to the Respondent i.e., liquidator
+of Corporate Debtor. We have already noted that the Appellant, who, in need of
+money, issued the said shares to TBVFL for a consideration of Rs. 5 Crores,
+which the Appellant had received from TBVFL on 31.03.2017 and the Appellant
+issued share certificates in the name of TBVFL on 01.04.2017.
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 14 of 23
+
+36.
+It is noted that TBVFL was restructured after NCLT approved the scheme
+vide “Scheme Approval Order” dated 21.12.2017 passed in CSP No. 405 of 2017
+in CSA No. 242 of 2012, under which the gym business of TBVFL was
+transferred to the Corporate Debtor and, investment pertaining to the concerned
+business was also transferred to the Corporate Debtor.
+37.
+We have gone through and examined the relevant portion of “scheme
+approval order” dated 21.12.2017 and SHA dated 27.12.2016.
+38.
+From the relevant clauses of the Scheme Approval Order dated 21.12.2017,
+we note that the gym business has been defined as “gym business” of demerged
+companies, comprising inter-alia the assets and liabilities including movable
+assets owned by demerged company i.e., TBVFL. The movable assets of the
+Corporate Debtor include the shares held in the Appellant’s company. Further,
+we note that, in terms of Clause 1.3, Talwalkars Lifestyles Limited which was
+later re-named as Talwalkars Healthclubs Limited (“gym business”) was
+categorised as “resulting company” or TLL engaging business of owing,
+managing and franchising gym fitness centres and health clubs.
+39.
+We refer to clause 5.1 of the Scheme Transfer Order, pursuant to which,
+upon the scheme becoming effective, the entire gym business shall, without any
+further act, instrument or deed, stand transferred to and vest in, or be deemed to
+have been transferred to and vested in, the Resulting Company as a going
+concern, together, with all rights, title, and interest of the Demerged Company
+therein, subject to existing charges and pledges, if any.
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 15 of 23
+
+40.
+According to the scheme approval order, the Resulting Company, which
+is the Corporate Debtor under liquidation i.e., the Respondent herein, got right
+over the gym business and on movable assets which included the shares held in
+the Appellant’s Company.
+41.
+We have noted the contentions of the Appellant that the scheme approval
+order was never fully implemented and further stated that in terms of SHA, since,
+the Corporate Debtor could not perform its part and could not meet the laid down
+criteria as stipulated in the SHA, the shares got extinguished.
+42.
+The Appellant further clarified to us that to safeguard its interest, the board
+resolution dated 01.06.2020 was passed by TBVFL duly signed, sealed and
+stamped by the Chairman of TBVFL Mr. Madhukar Talwalkar and authorized
+Mr. Harsha Bhatkal to execute form SH-4 and complete the transfer of the said
+shares back to the Appellant. The Appellant further pleaded that in terms of clause
+2.2 of SHA r/w definition of non-fulfilment given in SHA, entitled the Appellant
+to buy-back shares which it did by making suitable payment back to the
+Respondent.
+43.
+The Appellant also rebutted the Transaction Auditors Report which
+suggested that the investment in the Appellant was property of the Corporate
+Debtor and pleaded that the Appellant was not party in such Transaction Audit.
+44.
+The Appellant also argued that the aspect of extinguishing of shares or buy-
+back by the Appellant or by the promoters purchasing his shares is irrelevant as
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 16 of 23
+
+for the purpose of Appellant has transferred all shares qua TBVFL and not the
+Corporate Debtor.
+45.
+We note that Appellant has consistently been changing its stand regarding
+ownership and repossession of shares. The stand of the Appellant on 22.10.2022
+was that shares got extinguished. The stand of the Appellant on 18.07.2023 was
+that it exercised buy-back of shares. The Appellant again shifted its position on
+18.08.2023 that these shares have been transferred to Mr. Sanmati Pandey. This
+shifting position by the Appellant does not inspire confidence about its ownership
+and legal repossession of the said shares.
+46.
+We find many contradictions in the pleadings of the Appellant made
+before the Adjudicating Authority as well as this Appellate Tribunal in the present
+appeal. Such shifting stands taken by the Appellant reflects that the Appellant has
+not been forthcoming with correct facts. We are not in position to accept the
+pleading of the Appellant made before us that the aspects of extinguishment of
+share v/s buy-back of shares v/s transfer of shares to one of its ex-promoters Mr.
+Sumanti Pandey are irrelevant for the purpose of this appeal. We do not find any
+logic in the contention of the Appellant and reject the same. On this aspect, we
+find logic in the pleadings of the Respondent. We note that in Para 24 of
+Impugned Order of the Adjudicating Authority dated 07.02.2023, which
+categorically ordered the Appellant to return back the said shares to the Corporate
+Debtor.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 17 of 23
+
+47.
+At this stage, we reproduce the para 24 of the Impugned Order which reads
+as under: -
+“24. I.A. No. 1579/MB/2023: the I.A. is Allowed and the
+Respondent herein viz. Growfitter Private Limited is directed
+to issue fresh share certificates as against the corresponding
+9598 equity shares in favour of Talwalkars Healthclubs
+Limited forthwith within a period of 07 (seven) days from the
+ate of pronouncement of this Order.”
+(Emphasis Supplied)
+48.
+We further observe that since the said transfer was not carried out by the
+Appellant, a contempt proceeding was initiated by the Corporate Debtor before
+the Adjudicating Authority. During hearing before us, this aspect was also dealt,
+and detailed order was passed by us on 09.07.2024 which is reproduced as under:-
+“Issue notice. By the impugned order the Adjudicating
+Authority has allowed the application filed by the Liquidator
+and issued direction in Para 24 to the following effect:
+“24. I.A. No. 1579/MB/2023: The I.A. is Allowed
+and the Respondent herein viz. Growfitter Private
+Limited is directed to issue fresh share certificates
+as against the corresponding 9598 equity shares in
+favour
+of
+Talwalkars
+Healthclubs
+Limited
+forthwith within a period of 07 (seven) days from
+the date of pronouncement of this Order.”
+Learned counsel for the Appellant submits that a Contempt
+Proceeding has been initiated against the Appellant. Subject
+to Appellant complying the said direction within 30 days from
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 18 of 23
+
+today, contempt may not proceed any 2 Company Appeal
+(AT) (Insolvency) No.605 of 2024 further. However, any
+action taken in pursuance of the impugned order shall abide
+by the result of the appeal.
+Issue notice. Let Reply be filed by the Respondent within three
+weeks. Two weeks’ time is allowed to file Rejoinder.
+List this Appeal on 22.08.2024.”
+(Emphasis Supplied)
+49.
+It is pertinent to note that the Appellant has fairly conceded that he is wiling
+to comply with para 24 of the Impugned Order and has sent an e-mail to the
+Respondent vide e-mail dated 10.07.2024 which is reproduced as under :-
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 19 of 23
+
+50.
+We further take into consideration the affidavit filed by the Appellant
+before the Adjudicating Authority in Contempt Petition (IBC) No. 15 of 2024 in
+Interlocutory Application No. 1579 of 2023 in Company Petition (IB) No. 923 of
+2020 which reproduced as under: -
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 20 of 23
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 21 of 23
+
+51.
+However, the Respondent has brought to our notice in their Written
+Submission that the Appellant, despite the Appellant’s confirmation before this
+Appellate Tribunal as well as before the Adjudicating Authority in the affidavit,
+the Appellant has not issued shares to the Corporate Debtor.
+52.
+If this is the case, law will take its own course and the Respondent will be
+well within his right to take immediate legal action in accordance with the law, if
+he so chooses.
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 22 of 23
+
+53.
+We further note that, as per list of equity shareholders of the Appellant filed
+along with e-form MGT-7 for financial year 2020-2021, the RoC clearly stated
+that TBVFL to be the holder of the subject shares as on 31.03.2021, whereas in
+the appeal, the Appellant has contended that the subject shares were transferred
+on 09.06.2020. We also take into consideration the pleadings of the Respondent
+that the purported share certificate placed by the Appellant is not same/ identical
+as the original share certificate filed before the NCLT which was found by the
+Liquidator in the records of TBVFL. The Respondent had brought out all these
+documents in its supplementary affidavit dated 02.09.2023 filed before the
+Adjudicating Authority and these documents had been taken into consideration,
+while passing the Impugned Order. We also take into consideration the fact that
+the purported board resolution dated 01.06.2020 as pleaded by the Appellant
+before us, has not yet been found in the record of TBVFL by the liquidator.
+Incidentally, the Respondent is the liquidator of TBVFL as well as the Corporate
+Debtor. We also take into consideration that forensic audit for the Corporate
+Debtor was done and according to which, the subject shares were held to be the
+assets of the Corporate Debtor.
+54.
+The Appellant has taken the plea that subsequent to board resolution dated
+01.06.2020, it has purchased back the shares and made the payment of Rs. 5
+Crores to the Respondent. In fact, he had filed an affidavit in rejoinder before us,
+wherein he has attached exhibit ‘A’ as the copy of the bank statement of Appellant
+claiming the payment made by him towards said transfer. However, the
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 605 of 2024
+Page 23 of 23
+
+Appellant has not pointed out specific dates and entries which he has referred
+regarding payment back to the Respondent. We also tried to identify such
+payment entries from the bank statement filed by the Appellant before us in the
+affidavit in the rejoinder but could not find any specific entries of Rs. 5 Crores
+that the Appellant claimed to have paid to the Respondent. We have also taken
+into consideration the statement of the Respondent that he did not find any such
+entries in the records of the Corporate Debtor and as such we are unable to accept
+the arguments by the Appellant that he has paid back Rs. 5 crores while
+repossession of shares.
+55.
+Based on above detailed observations, we do not find any error in the
+Impugned Order. The Appeal is devoid of any merit and stand rejected. No cost.
+I.A., if any, are closed.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+Sim

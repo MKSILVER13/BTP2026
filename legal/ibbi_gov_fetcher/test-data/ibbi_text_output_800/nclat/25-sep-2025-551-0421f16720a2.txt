@@ -1,0 +1,1082 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+[Arising out of the Impugned Order dated 07.01.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench,
+in C.P. (IB) No. 691/MB/2023]
+In the matter of:
+Siddharth Satish Katariya
+(Ex-Director)
+Superfine Extrusions Private Limited
+Having its Office at:
+1267, Pratibha Dalmandai,
+Ahmednagar - 414001
+
+...Appellant
+
+Versus
+
+1. Central Bank of India
+Central Office at:
+
+'Chandermukhi ', Nariman Point
+
+Mumbai-400021
+
+Through its Authorized Representative
+
+Mr. Amit Kumar
+
+(Employee No.73695)
+
+Chief Manager
+
+House No.16, Main Mathura Road,
+
+Badarpur Gaon,
+
+New Delhi-110044.
+
+2. Mr. Jitendra Palande,
+
+Interim Resolution Professional
+
+38, 5-3/D, New Ajanta Avenue,
+
+Paud Road, Kothrud,
+
+Pune-411038.
+
+.... Respondents
+
+Present:
+
+For Appellant
+: Mr. Ashish Mohan, Sr. Advocate with Ms. Sunanda
+Tulsyan, Advocate.
+
+For Respondent
+: Mr. Kunal Tandon, Sr. Advocate with Mr. Tushar Singh,
+Ms. Aastha Kaushik, Ms. Natasha, Advocates for R1.
+
+[PAGE 2]
+Page 2 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+07.01.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-III) in
+C.P. (IB) No. 691/MB/2023. By the impugned order, the Adjudicating Authority
+has admitted the Section 7 application filed by the Central Bank of India
+admitting the Corporate Debtor/Corporate Guarantor into the rigours of
+Corporate Insolvency Resolution Process (“CIRP” in short). Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant-
+suspended Director of the Corporate Debtor.
+2.
+The relevant facts which are required to be noticed for deciding the present
+matter before us are as follows:
+ The Central Bank of India and other banks as a consortium had
+extended credit facilities to M/s Superfine Metal Pvt. Ltd. (“SMPL” in
+short) as the Principal Borrower. The said loan was inter alia secured
+by M/s Superfine Extrusions Pvt. Ltd. (“SEPL” in short) as one of the
+Corporate Debtor/Corporate Guarantor.
+ A sanction letter dated 27.11.2013 was issued by Central Bank of
+India wherein certain credit facilities were sanctioned to the Principal
+Borrower.
+
+[PAGE 3]
+Page 3 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+ On 22.08.2015, a Corporate Guarantee deed was executed by the
+Corporate Debtor-SEPL guaranteeing payment to the Central Bank of
+India Consortium for a principal sum not exceeding Rs.73.61 Cr.
+ Another Corporate Guarantee Deed was executed on 18.11.2016 by
+the Corporate Debtor-SEPL in favour of Central Bank of India
+consortium for the secured advances by way of Term Loan and Cash
+Credit not exceeding Rs 92.47 Cr. sanctioned to Principal Borrower-
+SPML. This Consortium of Bank included Central Bank of India,
+Indian Bank and Oriental Bank of Commerce (now Punjab National
+Bank).
+ On 26.12.2019, letter of sanction was issued by the Central Bank of
+India to SPML-Principal Borrower for Ad hoc Limit of Rs 3.70 Crores.
+Another sanction letter dated 09.09.2020 was issued for FITL Scheme
+to SPML for a sum of Rs.3,16,90,762/-. In the sanction letters dated
+26.12.2019 and 09.09.2020, Bank of Maharashtra got added to the
+Consortium of Banks.
+ On 06.11.2020, a new Corporate Guarantee was executed for the
+Central Bank of India, Indian Bank, Oriental Bank of Commerce (now
+PNB) and Bank of Maharashtra.
+ On 06.11.2020, a Working Capital Consortium Agreement was also
+executed between the Corporate Debtor and the Consortium of Bank.
+ On 29.11.2020, the accounts of SMPL-Principal Borrower was
+classified as NPA.
+
+[PAGE 4]
+Page 4 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+ On 29.06.2022, a Section 13(2) Demand Notice under SARFAESI Act
+was issued against the SMPL for a default of Rs 86.23 Cr.
+ On 02.01.2023, the Consortium of Banks issued a Recall Notice to
+SMPL, SEPL and other guarantors to the Consortium Agreement to
+repay the defaulted amount within eight days of the notice.
+ Since the defaulted amount was not paid, a Demand Notice was
+issued by the Central Bank of India-Respondent No.1 to SEPL on
+06.03.2023 which was followed by the filing of a Section 7 petition for
+an amount of Rs 94.71 Cr.
+ On 07.01.2025, the Adjudicating Authority admitted the Section 7
+application filed by the Central Bank of India-Respondent No.1
+holding that the guarantee was invoked on 06.03.2023. SEPL was
+thus admitted into rigours of CIRP.
+ Aggrieved with the said order, the present appeal has been preferred
+by the Suspended Management of the Corporate Debtor/Corporate
+Guarantor-SEPL.
+3.
+Shri Ashish Mohan, Ld. Senior Counsel representing the Appellant
+submitted that the Section 7 petition was not maintainable against the
+Appellant-Corporate Debtor/Corporate Guarantor. The Deeds of Guarantee of
+22.08.2015 and 18.11.2016 which have been purportedly invoked by the
+Respondent No.1 Bank could not have been relied upon by the Adjudicating
+Authority since these Guarantee Deeds were insufficiently stamped documents.
+Being insufficiently stamped, it was contended that these documents were
+
+[PAGE 5]
+Page 5 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+inadmissible in evidence and should have been impounded in terms of Sections
+33 and 34 of the Maharashtra Stamp Act. As the Guarantee Deeds were not
+stamped appropriately, the said deeds did not constitute a contract and therefore
+not enforceable in law under the Indian Contract Act. In support of their
+contention, reliance has been placed on the judgment passed by the Hon’ble
+Supreme Court of India in M/s N.N. Global Mercantile Pvt. Ltd. Vs M/s Indo
+Unique Flame Ltd. & Ors. in Civil Appeal Nos. 3802-2803 of 2020; Avinash
+Kumar Chauhan Vs Vijay Krishna Mishra MANU/SC/8502/2008 and
+Hindustan Steel Ltd. Vs Dilip Construction Company MANU/SC/0474/1969
+in which judgments the Hon’ble Supreme Court held that unstamped documents
+cannot be acted upon unless the defects are cured. It was asserted that these
+defects were not rectified prior to invocation of these aforementioned guarantee
+deeds and hence the guarantee was unenforceable.
+4.
+Submission was pressed that subsequent to the execution of Guarantee
+Deeds on 22.08.2015 and 18.11.2016, certain further facilities were advanced
+on 26.12.2019 and 09.09.2020 which was followed by a Working Capital
+Consortium Agreement dated 06.11.2020 accompanied by a Corporate
+Guarantee on the same date. Contention was raised that with the execution of a
+fresh set of loan document and execution of another Deed of Guarantee on
+06.11.2020, the earlier guarantees executed by the Appellant stood extinguished
+as there was a novation of the contract. It was contended that no Section 7
+proceeding could have been initiated without invocation of the fresh guarantee
+dated 06.11.2020. It was also submitted that with the novation of the contract
+between the Appellant and Respondent, the original contract flowing out of the
+
+[PAGE 6]
+Page 6 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+guarantees executed on 22.08.2015 and 18.11.2016 were not required to be
+performed any further.
+5.
+Refuting the contentions raised by the Appellant, Shri Kunal Tandon, Ld.
+Senior Advocate representing the Respondent No.1 submitted that the alleged
+insufficiency of stamp duty on the Guarantee Deeds of 22.08.2015 and
+18.11.2016, in the facts of the present case, cannot come in the way of the
+admission of Section 7 petition. In support of their contention, reliance was
+placed on the judgment of this Tribunal in Hiren Meghji Bharani Vs
+Shankheshwar Properties Pvt. Ltd. in CA(AT)(Ins) No. 446 of 2023 wherein
+it has been clearly held that technical objections like insufficient stamping does
+not render CIRP proceedings non-maintainable. It was pointed out that the
+Principal Borrower as well as the Appellant-Corporate Guarantor had already
+obtained a Stamp Duty Exemption Certificate for the secured property. It was
+also added that insufficiently stamped Deed of Guarantee was a curable defect
+and the onus to cure was on the Principal Borrower or by the Corporate
+Guarantor as it was their obligation to pay the stamp duty. Furthermore, the
+Principal Borrower had undertaken to pay the deficit stamp duty payable in case
+any such demand was raised. The deficit was admittedly not paid by the Principal
+Borrower as no such demand was raised.
+6.
+Submission was further pressed that there was no substance in the
+argument canvassed by the Appellant that there was a novation of the contract
+and hence the guarantee amount could not have been claimed without
+invocation of the new Deed of Guarantee dated 06.11.2020. Repelling the above
+
+[PAGE 7]
+Page 7 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+contention of the Appellant, it was asserted that non-invocation of the guarantee
+dated 06.11.2020 was not material since the Corporate Debtor still remained
+bound by the guarantees which were executed on 22.08.2015 and 18.11.2016.
+Hence, the Section 7 petition was pretty much maintainable basis the invocation
+of guarantee of 22.08.2015 and 30.11.2016 and no error was committed by the
+Adjudicating Authority in admitting the Section 7 application filed by the
+Respondent Bank.
+7.
+It was emphatically asserted that all that the Adjudicating Authority is
+required to look into in a Section 7 application is the issue of debt and default.
+Since the Appellant has not disputed the liability arising out of the discharge of
+the guarantee obligations in respect of the debt of the Principal Borrower qua the
+Respondent Bank nor denied the incidence of default, the admission of the
+Section 7 application by the Adjudicating Authority was in consonance with the
+statutory provisions of the IBC and in conformity with the judicial precedents of
+the Hon’ble Supreme Court.
+8.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully including Stamp Duty
+Exemption Certificates of the Principal Borrower and Corporate Guarantor
+brought on the record by the Respondent by way of an Additional Affidavit.
+9.
+Coming to one of the principal limbs of argument of the Appellant, it is
+their case that with the coming into existence of the Working Capital Consortium
+Agreement dated 06.11.2020 and the Corporate Guarantee Deed dated
+06.11.2020, the two earlier guarantee deeds of 22.08.2015 and 18.11.2016 had
+
+[PAGE 8]
+Page 8 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+ceased to exist. The Adjudicating Authority erred in not taking into consideration
+that the demand made by the Respondent Bank under the guarantee deeds of
+2015 and 2016 was illegal and non-est in the eyes of law. Alongwith the
+execution of entirely new loan documents, there was also a reconstitution of the
+consortium of lenders with Bank of Maharashtra getting added. As there was a
+novation of the guarantees, for any Section 7 application to be filed, it was
+required to invoke the novated Guarantee Deed of 06.11.2020. Since this
+invocation was not done, the Section 7 application was not maintainable.
+10.
+Per contra, it is the contention of the Respondent Bank that the argument
+canvassed by the Appellant that following issue of sanction letters of 26.11.2019
+and 09.09.2020, there was a novation of contract which necessitated invocation
+of the subsequent guarantee of 06.11.2020 is misconceived. It was stated that
+the sanction letters of 26.11.2019 and 09.09.2020 were fully covered by the
+existing securities which were included in the guarantees dated 22.08.2015 and
+18.11.2016. The Working Capital Consortium Agreement executed on
+06.11.2020 also clearly mentioned that it was not to affect existing securities.
+The guarantees issued by the corporate guarantor on 22.08.2015 and
+18.11.2016 therefore continued to bind the Corporate Debtor to discharge the
+debt. When the Corporate Debtor was bound by earlier bank guarantees dated
+22.08.2015 and 18.11.2016, there is no force or substance in the plea of the
+Appellant that there was a need to invoke the guarantee dated 06.11.2020.
+11.
+Before we analyse the rival contentions made by both the parties, it would
+be useful to notice the guarantees which were executed by the SEPL-Corporate
+
+[PAGE 9]
+Page 9 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+Guarantor dated 22.08.2015 and 18.11.2016 that have been brought on record
+by the Appellant. Clause 1 of the Guarantee Deed is as follows:
+
+“This Deed of Guarantee made on this 22nd day of August 2015 by
+SUPERFINE EXTRUSION PVT LTD, a company incorporated under the
+Companies Act 1956 and having its registered office at 'Pratibha',
+1267 Dalmandai, Ahmednagar hereinafter referred to as the
+Guarantors which expression shall unless repugnant to context or
+meaning thereof be deemed to include its successor and assigns in
+favour of Central Bank of India Consortium represented by Central
+Bank of India as Lead Bank as defined in the working capital
+consortium agreement dated 22nd August 2015 (hereinafter referred
+to as Lead Bank which expression shall unless repugnant to the
+context or meaning thereof be deemed to include the Central Bank of
+India and other consortium member banks constituting the Central
+Bank of India Consortium from time to time or each of them or any
+one or more of them and their respective successor and assigns)
+whereas in terms of the working capital consortium Agreement dated
+22nd August 2015 and Joint Deed of Hypothecation dated 22nd
+August 2015 executed by SUPERFINE METALS PVT LTD, a company
+within the meaning of the Companies Atc 1956 and having its
+registered office at 'Pratibha', 1267 Dalmandai, Ahmednagar
+(Hereinafter referred to as the Borrower which expression shall
+unless repugnant to the context or meaning thereof be deemed to
+include its successors and permitted assigns) with the Lead Bank of
+the other part on the 22nd August 2015 executed between the
+Borrower and the Lead Bank (hereinafter the said working capital
+consortium agreement, Joint Deed of Hypothecation and Supplement
+Agreement collectively referred to as the said Agreement of Loan) the
+Lead Bank/Central Bank of India consortium has agreed to grant to
+the borrower all or some or any of the credit facilities either in Indian
+or foreign currencies by way of over drafts, cash credits, term loans,
+pre-shipment credits, opening of letters of credit, issuing of
+guarantees including deferred payment guarantees and indemnities
+negotiations and discounting of demand and /or Usance bills and
+cheques inland as well as foreign and such other facilities as may be
+agreed upon from time to time between the bank and the borrower
+(hereinafter called the above mention facilities) for sums not
+
+[PAGE 10]
+Page 10 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+exceeding in the aggregate the sum of Rs. 73 .61 crores (hereinafter
+for the sake of brevity referred to as the principle sum) on the terms
+and conditions specified and contained therein.
+....
+“1. If any time default shall be made by the borrower in payment of
+the principal sum (not exceeding Rs 73.61 Crores) together with
+interest, costs, charges, expenses and/or other money for the time
+being due to the Central Bank of India consortium in respect of or
+under the above mentioned credit facilities or any of them the
+guarantors shall forthwith on demand pay to the Central Bank of
+India consortium the whole of such principal sum (not exceeding Rs
+73.61 Crores) together with interest, costs, charges, expenses and or
+any other money as may be then due to the Central Bank of India
+consortium in respect of the above mentioned credit facilities and
+shall indemnify and keep indemnified the Central Bank of India
+consortium against all losses of the said principal sum, interest or
+other money due and all cost, charges and expenses whatsoever
+which the Central Bank of India consortium may incur by reason of
+any default on the part of the borrower.”
+(Emphasis supplied)
+
+12.
+Clause 1 of the above Guarantee Deed dated 22.08.2015 clearly stipulates
+that if at any time default is made by the borrower in making payment, the
+Corporate Guarantor-SEPL shall forthwith on demand pay to the Central Bank
+of India amount not exceeding Rs. 73.61 Cr. It is also clear from the language
+employed in the above Guarantee Deed that the guarantee could be invoked
+either by the consortium or any of the members. Thus, no bar was placed on
+individual constituent member of the consortium to proceed with invocation of
+the guarantee on a default committed by the Principal Borrower.
+13.
+The subsequent Guarantee Deed dated 18.11.2016 reads as follows:
+“This Deed of Guarantee made on this 18th day of November 2016 by
+SUPERFINE EXTRUSION PVT LTD, a company incorporated under
+the Companies Act 1956 and having its registered office at 'Pratibha",
+1267 Dalmandai, Ahmednagar hereinafter referred to as the
+
+[PAGE 11]
+Page 11 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+Guarantors which expression shall unless repugnant to context or
+meaning thereof be deemed to include its successor and assigns in
+favour of Central Bank of India Consortium represented by Central
+Bank of India as Lead Bank as defined in the working capital
+consortium agreement dated 18th November 2016 (hereinafter
+referred to us Lead Bank which expression shall unless repugnant to
+the context or meaning thereof be deemed to include the Central Bank
+of India and other consortium member banks constituting the Central
+Bank of India Consortium from time to time or each of them or any
+one or more of them and their respective successor and assigns)
+whereas in terms of the working capital consortium Agreement dated
+18th November 2016 and Joint Deed of Hypothecation dated 18th
+November 2016 executed by SUPERFINE METALS PVT LTD, a
+company within the meaning of the Companies Act 1956 and having
+its registered office at 'Pratibha', 1267 Dalmandai, Ahmednagar
+(Hereinafter referred to as the Borrower which expression shall
+unless repugnant to the context or meaning thereof be deemed to
+include its successors and permitted assigns) with the Lead Bank of
+the other part on the 18th November 2016 executed between the
+Borrower and the Lead Bank (hereinafter the said working capital
+consortium agreement, Joint Deed of Hypothecation and Supplement
+Agreement collectively referred to as the said Agreement of Loan) the
+Lead Bank/Central Bank of India consortium has agreed to grant to
+the borrower all or some or any of the credit facilities either in Indian
+or foreign currencies by way of over drafts, cash credits, term loans,
+pre-shipment credits, opening of letters of credit, issuing of
+guarantees including deferred payment guarantees and indemnities
+negotiations and discounting of demand and /or Usance bills and
+cheques inland as well as foreign and such other facilities as may be
+agreed upon from time to time between the bank and the borrower
+(hereinafter called the above mention facilities) for sums not
+exceeding in the aggregate the sum of Rs. 92.47 crores (hereinafter
+for the sake of brevity referred to as the principle sum) on the terms
+and conditions specified and contained therein.
+....
+1. If any time default shall be made by the borrower in payment of
+the principal sum (not exceeding Rs 92.47 Crores) together with
+interest, costs, charges, expenses and/or other money for the time
+being due to the Central Bank of India consortium in respect of or
+under the above mentioned credit facilities or any of them the
+
+[PAGE 12]
+Page 12 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+guarantors shall forthwith on demand pay to the Central Bank of
+India consortium the whole of such principal sum ( not exceeding
+Rs 92.47 Crores) together with interest, costs, charges, expenses
+and or any other money as may be then due to the Central Bank
+of India consortium in respect of the above mentioned credit
+facilities and shall indemnify and keep indemnified the Central
+Bank of India consortium against all losses of the said principal
+sum, interest or other money due and all cost, charges and
+expenses whatsoever which the Central Bank of India consortium
+may incur by reason of any default on the part of the borrower.
+
+(Emphasis supplied)
+
+14.
+Clause 1 of the Guarantee Deed dated 18.11.2016 also clearly stipulated
+that if at any time default is made by the borrower in making payment, the
+guarantors shall forthwith on demand pay to the Central Bank of India amount
+not exceeding Rs. 92.47 Cr. Like in the Guarantee Deed of 22.08.2015, the
+language employed in the present Guarantee Deed also provided that the
+guarantee could be invoked either by the consortium or any of the members.
+Thus, no bar was placed on the Respondent No.1 Bank to proceed with
+invocation of the guarantee on a default committed by the Principal Borrower.
+15.
+Now that we have noticed the Deeds of Guarantee, we now come to the
+Guarantee Deed of 06.11.2020 which is based on sanction letters dated
+26.12.2019 and 09.09.2020. These sanction letters, according to the Appellant,
+related to sanction of further amounts and therefore without invoking the
+guarantee dated 06.11.2020, this rendered the application under Section 7 non-
+maintainable.
+16.
+We may now have a look at the sanction letter issued by the Central Bank
+of India consortium to SPML-Principal Borrower on 26.12.2019 with regard to
+
+[PAGE 13]
+Page 13 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+Ad-hoc Limit of Rs.3.70 Crores for a period of 90 days. Letter dated 26.12.2019
+contains following:
+“BR/AHMPOO/2019-20/1
+
+Date: 26/12/2019
+SUPERFINE METALS PVT. LTD.,
+1267, PRATIBHA, DALMANDAI,
+AHMEDNAGAR-414001
+
+Reg: Adhoc Limit Sanction- Superfine Metal Pvt. Ltd.
+Ref:
+1)
+Regional
+Office
+Letter
+no.RO/NAGAR/CREDIT/2019-
+20/464dated 26/12/2019
+2) Zonal Office Letter No. ZO: CR: 2019-20:161 dated 26/12/2019
+We are pleased to inform you that your ad-hoc limit proposal has been
+approved by ZLCC, Pune vide their Agenda Item No. ZO/ZLCC/2019-
+20/31 DATED 26/12/2019 as under subject to compliance of terms
+and conditions as stipulated in this letter:
+✓ Committee has approved adhoc limit of Rs.3.70 crore for a period
+of 90 days, subject to compliance of terms & conditions as stipulated
+under:
+1. Interest rate- 1 yr MCLR + 3.00% p.a. + additional interest
+2.00% p.a. (i.e. ROI for Adhoc Limit 1 yr MCLR + 5.00% p.a)
+2. Security-As applicable for existing FBWC limits.
+3. Margin-25% on paid stock & 25% on book-debts upto 90 days
+4. Processing charges:- Concession of 50% in processing charges
+on pro rata basis or till adjustment of ad-hoc, whichever is
+later.
+5. Validity:- 90 days. Ad-hoc is to be adjusted on or before the
+expiry of 90 days from the date of availment
+6. The Ad-hoc limit shall be secured by way of our exclusive
+charge over the additional current assets created out of the
+said Ad-hoc limit.”
+Committee Observations:
+1. You are advised to rectify the observation/s of Stock Audit
+report.
+2. During ad-hoc limit period, any asset insurance falling due
+for renewal should be got renewed in time.
+
+[PAGE 14]
+Page 14 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+3. Committee has observed that you are maintaining current
+a/c with our bank and other member banks. Whether you
+have sought specific approval of bank for maintaining
+current a/c based on necessity of operations? If no such
+approval taken, kindly give your comments/ justification for
+routing operations through current a/c instead of CC a/c.
+Kindly comply with all the Terms & Conditions and convey your
+acceptance of the above mentioned Terms & Conditions duplicate
+copy of this letter for our record.
+
+RAVI KANT
+CHIEF MANAGER”
+(Emphasis supplied)
+
+17.
+The other sanction letter dated 09.09.2020 by which an amount of
+Rs.3,16,90,762/- has been sanctioned under FITL Scheme provides as follows:
+BR/AHMPOO/2020-21/FITL/01
+
+Date:09.09.2020
+TO:
+M/S SUPERFINE METALS PVT. LTD.
+PRATIBHA 1267 DALMANDAI
+AHMEDNAGAR-414001
+MAHARASHTRA
+
+Dear Sir,
+REG: SANCTION OF FITL
+
+With reference to your application for FITL SCHEME, We have
+examined
+your
+application
+based
+on
+the
+application
+submitted by you and We are pleased to inform you sanction
+of FITL SCHEME on terms and conditions mentioned in this
+sanction letter.
+1. Name
+of
+the
+Borrower
+M/S SUPERFINE METALS PVT.
+LTD.
+
+[PAGE 15]
+Page 15 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+2. Address
+PRATIBHA 1267 DALMANDAI
+AHMEDNAGAR-414001
+MAHARASHTRA
+3.
+Purpose
+of
+Loan
+Deferment of interest in working
+capital facility.
+4. Loan Amount
+Rs. 3,16,90,762.00
+5.Facility type
+Term Loan
+6.Rate of Interest 10.30% pa. Rate of interest as being
+applied on the existing FBWC limit of
+the borrower.
+7.Repayment
+term
+6 Instalment of Rs 52,81,794 +
+Interest.
+Commencing
+from
+1st
+October 2020.
+FITL shall be repayable fully not
+later than 31.03.2021
+8.Documentation
+Agreement for FITL
+
+OTHER TERMS AND CONDITIONS-
+1. Any unpaid arrears of interest/Instalments/
+Charges pertaining to 01/03/2020, will be repaid
+before disbursement.
+2. The instalments in the term loan falling due during
+the period from 01/03/2020 to 31/08/2020 in
+respect of Term Loan will be repaid by you as per the
+revised repayment schedule by extending the tenor
+of the loan as allowed in the Regulation Package.
+3. All necessary agreements on account of the above
+deferment of interest/allowing moratorium to be
+executed before disbursement of FITL.
+4. All existing securities in the captioned facilities will
+continue to be the security for the existing facilities with
+the revised repayment schedule. Further the said
+securities will also cover the fresh FITL facility opened
+to park the interest on the captioned working capital
+facilities.
+(Emphasis supplied)
+
+[PAGE 16]
+Page 16 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+18.
+It is relevant to notice that Clause 2 of the sanction letter dated 26.12.2019
+clearly mentions that: “Security- As applicable for existing FBWC limits” which
+clearly indicates that existing securities were continuing. Similarly, in the
+sanction letter of 09.09.2020, Clause 4 clearly mentions that all existing
+securities in the captioned facilities will continue to be the security for the
+existing facilities with the revised repayment schedule. It was further mentioned
+that the said securities will also cover the fresh FITL facility. Thus, both the
+sanction letters dated 26.12.2019 and 09.09.2020 were fully covered by
+existing securities included in the guarantees dated 22.08.2015 and 18.11.2016.
+19.
+Before we peruse the Deed of Guarantee dated 06.11.2020, we may first
+take notice of Part-IV of the Section 7 petition filed by the Central Bank of India
+which contains the amounts claimed as per all the facilities which is as
+reproduced below:
+Part IV
+
+PARTICULARS OF FINANCIAL DEBT
+
+1.
+
+TOTAL AMOUNT
+OF
+DEBT
+GRANTED
+DATE(S)
+OF
+DISBURSEMENT
+
+Total amount of debt granted to Superfine Metals Pvt. Ltd.
+for which corporate debtor has provided corporate
+guarantee dated August 22, 2015 and November 18, 2016,
+and
+Board
+Resolution
+dated
+August
+21,2015
+Rs.66,21,05,008/- (Rupees Sixty-Six Crore Twenty-One
+Lakh Five Thousand and Eight Only).
+
+Nature
+of
+Facility
+A/C No.
+Amount
+Disbursed (Rs.)
+Cash Credit
+3056432616
+54,27,45,208.00
+Term Loan
+3305046620
+5,06,70,198.00
+FITL
+3852802470
+3,16,90,762.00
+
+[PAGE 17]
+Page 17 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+Cash
+Credit
+Adhoc
+3793059834
+3,69,98,840.00
+Total
+
+66,21,05,008/
+
+A copy of the disbursement schedule of the principal
+borrower is hereto annexed and marked as Annexure D.
+
+2. AMOUNT
+CLAIMED TO BE
+IN
+DEFAULT
+AND THE DATE
+ON WHICH THE
+DEFAULT
+OCCURRED
+(ATTACH
+THE
+WORKINGS FOR
+COMPUTATION
+OF
+AMOUNT
+AND DAYS OF
+DEFAULT
+IN
+TABULAR
+FORM)
+
+Total Amount of debt in default from the Corporate Debtor is
+Rs.94,71,23,119.18/- (Rupees Ninty Four Crore Seventy
+One Lakh Twenty Three Thousand One Hundred and
+Nineteen and Eighteen Paisa Only) The breakup of the said
+defaulted amount is as under-
+
+Nature
+of
+Facility
+A/C No
+Amount
+Disbursed (Rs.)
+Cash Credit
+3056432616
+77,85,36,496.00
+Term Loan
+3305046620
+6,68,45,124.18
+FITL
+3852802470
+4,15,05,088.00
+Cash
+Credit
+Adhoc
+3793059834
+6,02,36,411.00
+Total
+
+94,71,23,119.18/
+Hereto annexed is the copy of breakup of the defaulted
+amount for each facility as on 6.03.2023 annexed as
+Annexure "E"
+A copy of the System Generated proof for the above-
+defaulted amount dated March 06, 2023 is annexed
+herewith as Annexure - F.
+
+The Account of the Superfine Metals Private Limited
+(Hereinafter called as Principal Borrower) was classified as
+a Non-Performing Asset (NPA) on 29th November 2020. The
+classification of an account as an NPA is when an account
+remains not serviced/ in default for a period of Three
+months. Hence, the date of the first default was 29th
+November 2020.
+
+[PAGE 18]
+Page 18 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+A copy of the system generated extract showing proof of NPA
+dated November 29, 2020 is annexed herewith as
+Annexure - G.
+
+The Financial Creditor issued a notice dated 29th June 2022
+under section 13(2) of the Securitization and Reconstruction
+of Financial Assets and Enforcement of Security Interest Act,
+2002.
+
+Further, a recall notice was addressed by the applicant to
+the Superfine Metals Private Limited on 02.01.2023 inter
+alia calling upon the corporate debtor to clear outstanding
+as mentioned above on or before 10th January 2023.
+However, the Principal Borrower has failed to rectify the
+default and the said default continues till date.
+
+As per the corporate guarantee deed executed between the
+Financial creditor and corporate debtor on behalf of
+Superfine Metals, corporate debtor agreed to pay the
+amount in case the principal borrower makes a default in
+repayment of such borrowed amount. A copy of Corporate
+Guarantee Deeds dated August 22, 2015 and November 18,
+2016 and Board Resolution dated August 21, 2015 is
+annexed herewith as Annexure – H (Colly.).
+
+A demand notice was then addressed to the Corporate
+Guarantor on 6.03.2023 to repay the outstanding loan
+amount of Rs. 94,71,23,119.18. Hereto annexed as
+Annexure "I"
+
+When we look at Part-IV of the Section 7 application, we notice that Cash Credit,
+Term Loan, FITL and Cash Credit Adhoc are the facilities made by Central Bank
+of India against which disbursals, default was claimed.
+20.
+We now glance through the guarantee deed dated 06.11.2020 which was
+guarantee deed executed with regard to Term Loan Facility aggregating to
+
+[PAGE 19]
+Page 19 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+Rs.114.22 Crores. The relevant extract of the corporate guarantee dated
+06.11.2020 is as follows:
+“WHEREAS AT THE REQUEST OF THE BORROWER- which is the
+Group Company of the Guarantor and also on the request of the
+Guarantor, which is the Group Company of the Borrower, THE
+LENDER agreed in principle to lend and advance to the Borrower the
+Term Loan (Hypothecation) facility aggregating to Rs.114.22 Crores
+(Rs. Rupees One Hundred Fourteen Crores Twenty Two Lacs only),
+hereinafter referred to as the said Facilities as the context admits, on
+the terms and conditions mentioned in its respective Sanction Letter
+dated 24.06.2019, 22.01.2020, 21.09.2019 & 12.08.2020 and
+also other agreements and security documents entered into between
+the Borrower and THE LENDER (hereinafter referred to as "the said
+agreements")”
+
+21.
+Guarantee Deed of 06.11.2020 was executed by Corporate Guarantor in
+favour of the Financial Creditor for Term Loan of Rs.114.22 Cr. Further, the
+Consortium Agreement which was executed on 06.11.2020 between the parties
+clearly mentions that it was not to affect existing securities. Thus, the reading of
+the Guarantee Deed of 06.11.2020 does not indicate that it takes away the
+existing securities.
+22.
+We may now have a look at the Notice of Invocation dated 06.03.2023
+which is as follows:
+“To,
+
+March 06, 2023
+Superfine Extrusions Private Ltd
+1267 Pratibha Dalmandai Ahemednagar-414001
+
+Subject: Legal Notice for invocation of corporate guarantee and calling
+upon you to repay the outstanding loan amount of Rs.
+94,71,23,119.18/- (Rupees Ninety Four Crore Seventy One Lakhs
+Twenty Three Thousand One Hundred and Nineteen and Eighteen
+Paisa).
+
+[PAGE 20]
+Page 20 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+Reference:
+1. Recall Notice sent to Superfine Metal Pvt Ltd dtd 02-01-2023
+2. Corporate Guarantee deed dated August 22, 2015
+3. Corporate Guarantee deed dated November 18, 2016
+4. Sanction Letter dated 27-11-2013, 26-12-2019, 09-09-2020 &
+19-01-2021
+5. Review the Proposal dated January 19, 2021
+6. Notice under section 13(2) SARFAESI Act, 2002
+7. POA of Mr Abhay Kulkarni
+Sir,
+Aware as you are, we the undersigned, and the superfine group
+shares a Banking relationship for the last couple of years. The
+Superfine Metal Pvt ltd. approached the Central Bank of India
+(Lender) with a request for the advancement of a loan facility for an
+amount of Rs. 66,21, 05,008/- (Rupees Sixty Six Crore Twenty One
+Lakhs Five Thousand and Eight Only) ("Hereinafter referred to as the
+said Loan').
+The bank has sanctioned the credit facilities wide sanctioned letter
+dated 27-11-2013, 26-12- 2019, 09-09-2020, 19-01-2021. Loan was
+disbursed from time to time to Superfine Metal Pvt Ltd wherein your
+company has given corporate guarantee.
+We have to inform you that the principal borrower i.e. Superfine
+Metals Pvt Ltd has committed defaults in payment of their labilities
+and consequently their account has been classified as a non-
+performing asset. A copy of the notice dated 29.06.2022 under
+section 13(2) of the Securitisation and Reconstruction of Financial
+Assets and Enforcement of Security Interest Act, 2002 and Recall
+Notice dated 02.01.2023 sent by us to the Principle borrower is
+enclosed.
+Since the borrower has committed defaults. in terms of the guarantee
+deed dated August 22, 2015 and November 18, 2016, Superfine
+Extrusions Pvt Ltd have become liable to pay to us the outstanding
+amount of loan/credit facilities aggregating balance 0/s as of
+06.03.2023 Rs 94,71,23,119.18/- (Rupees Ninety Four Crore Seventy
+One Lakhs Twenty Three Thousand One Hundred and Nineteen and
+Eighteen Paisa) exclusive of other charges, and we hereby invoke the
+corporate guarantee and call upon you to pay the said amount within
+
+[PAGE 21]
+Page 21 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+10 days from the date of this notice, failing which we have been
+instructed to initiate the legal proceeding including but not limited to
+appropriate legal actions under the provisions of Insolvency &
+Bankruptcy Code, 2016.
+The cost of the notice being INR 25,000/- are a lien on you.
+Please note. Hence, the notice.
+Yours sincerely,
+(ABHAY KULKARNI)
+MANAGER
+Ahmednagar.”
+
+23.
+Now we proceed to answer the question as to whether there was a novation
+of contract between the parties which necessitated invocation of Guarantee Deed
+of 06.11.2020 to render the Section 7 application maintainable. We notice that
+even though sanction letters were issued on 26.12.2019 and 09.09.2020 for Ad-
+Hoc Limit and FITL by the Respondent Bank in respect of which the Appellant-
+Corporate Debtor/Corporate Guarantor had given a guarantee on 06.11.2020,
+the sanction letters had clearly mentioned that the securities which were covered
+in the guarantees dated 22.08.2015 and 18.11.2016 were to continue. Thus, the
+guarantees issued by the Corporate Guarantor on 22.08.2015 and 18.11.2016
+continued to hold ground. Thus, the Corporate Debtor continued to remain
+bound by the earlier bank guarantees dated 22.08.2015 and 18.11.2016 to
+discharge the debt liability of the Principal Borrower. We cannot accept the
+submission of the Appellant that Guarantee Deed dated 06.11.2020 which was
+for term loan of Rs 114.22 Cr. had wiped off the earlier guarantees. We cannot
+view this as a novation of contract between the parties. The invocation of
+
+[PAGE 22]
+Page 22 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+guarantee on 06.03.2023 by the Bank was therefore a correct invocation which
+obligated the Corporate Guarantor to clear the dues.
+24.
+We also do not find any merit in a related contention raised by the
+Appellant that the Respondent No.1 Bank being one of the constituents of the
+consortium of banks which had extended credit facilities to the Principal
+Borrower, it could not have filed the Section 7 application on its own. We are not
+inclined to agree with the above contention of the Appellant. The wordings
+employed in the Deed of Guarantee indicate that it gave independent and
+separate rights to the consortium members including Respondent No.1 Bank to
+realise their debt. Merely because the Respondent No.1 Bank was a member of
+the consortium can in no manner come in their way to file a Section 7 petition
+independently. Hence, when the loan account of the Principal Borrower had been
+declared NPA on 29.11.2020, each of the consortium members was entitled to
+file the Section 7 application on their own steam without any need of consent or
+approval or permission from the other members. That being so, the right of the
+Respondent No.1 Bank to file the Section 7 petition cannot be questioned.
+25.
+This brings us to the second limb of argument of the Appellant that Deeds
+of Guarantee of 22.08.2015 and 18.11.2016 could not have been relied upon by
+the Adjudicating Authority since these Guarantee Deeds were insufficiently
+stamped documents and the defects not having been cured, the Guarantee
+Deeds were not enforceable in law.
+26.
+Per contra, it is submitted by Respondent No.1 that the Working Capital
+Consortium Agreement of 22.08.2015 entered into by the Principal Borrower was
+
+[PAGE 23]
+Page 23 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+for the same property for which Stamp Duty Exemption Certificate was given.
+When the Appellant was in possession of a Stamp Duty Exemption Certificate
+which covered their property which had been mortgaged to secure the loan
+sanctioned to the Principal Borrower, they have no ground to raise this plea to
+contend that the Guarantee Deed suffered from any infirmity. The Corporate
+Guarantee Deed being exempt from payment of stamp duty under Section 4 of
+the Maharashtra Stamp Act, the objection of the Appellant that the Guarantee
+Deeds were insufficiently stamped in terms of the provisions of the Maharashtra
+Stamp Act is untenable.
+27.
+Before we answer the question about the inadmissibility of the Guarantee
+Deed on account of insufficient stamping, it may be worthwhile to notice the
+Stamp Duty Exemption Certificates in possession of the Principal Borrower and
+the Corporate Guarantor. The Stamp Duty Exemption Certificate of the Principal
+Borrower which has been produced on record by the Respondent Bank in their
+Additional Affidavit reads as follows:
+Date: 10 SEP. 2007
+CERTIFICATE
+M/s Superfine Metal Pvt. Ltd., Plot No. E-29 & E-39 M.I.D.C. Supa, Tal-
+Parner, District-Ahmednagar situated here for proposed new industries,
+this unit is certified as New Project as per Government Order No.
+Mudrank/2007/Pra.Kra.
+-196(1)/M-1,
+dated
+12/06/2007
+under
+Bombay Stamp Duty Act 1958.
+This certificate is issued as per above Government Order under Bombay
+Stamp Duty Act 1958 for exemption of Stamp Duty. This certificate is
+issued for land transfer letter from Maharashtra Industrial Development
+Corporation situated at Plot No. E-29 & E-39 M.I.D.C. Supa, Ta-Parner,
+District-Ahmednagar, lease deed and execution of Bank loan
+hypothecation, mortgage deed Other agreements.”
+
+[PAGE 24]
+Page 24 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+28.
+A similar Stamp Duty Exemption Certificate of the Corporate Guarantor
+which has been produced on record by the Respondent Bank in their Additional
+Affidavit reads as follows:
+Date: 05.10.2004
+CERTIFICATE
+“M/s Superfine Extrusion Pvt. Ltd.,
+Factory address- Gat No. 53, KM No. 17, Mu. Post. Bhalwani, Taluka
+Parner, District Ahmednagar, unit is being established / established
+here. This unit is certified as new business/extension of new business
+as per Government Order No. Stamp 2000/4229 Pra. kra. 1064/M-1
+dated 05.05.2001 under Bombay Stamp Duty Act 1958.
+This certificate is issued as per above Government Order under Bombay
+Stamp Duty Act 1958 to said industrial unit to get exemption from
+registration fee and stamp duty for availing the loans from Bank for
+expansion of industrial unit.”
+
+29.
+We therefore find that both the Principal Borrower and the Corporate
+Guarantor who were involved in the loan transaction held valid Stamp Duty
+Exemption Certificates. The SPML-Principal Borrowers’ Certificate covered Plot
+No. E-29 and E-39, Taluka Parner, Distt. Ahmednagar which was offered as
+primary security for the loan. Similarly, the property described at page 760 of
+Appeal Paper Book in Corporate Guarantor-SEPL’s own stamp duty exemption
+certificate viz. GAT No. 53, Km No. 17, Post Bhalwani was the same property
+which was mortgaged to secure the loans sanctioned to the Principal Borrower.
+The above properties referred to in the Stamp Duty Exemption Certificates were
+the same properties as was mentioned in the Section 13(2) SARFAESI Notice.
+Even at that stage, no objections were raised regarding insufficient stamping.
+
+[PAGE 25]
+Page 25 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+Again, when the sanction letters of 26.11.2019 and 09.09.2020 were issued,
+there was not even a whisper of protest by the Appellant with regard to
+insufficiency of stamp duty in the said Guarantee Deeds. Once the opportunity
+available to object to the admissibility of the document was not availed by the
+Appellant, the validity of the document cannot be ignored, discarded or wished
+away by them now.
+30.
+We also notice that the Principal Borrower had sworn an affidavit affirming
+that they have with them a Stamp Duty Exemption Certificate which is
+applicable for bank loan agreements and that, if necessary, they would pay in
+case stamp duty was payable by them. This letter is as extracted below:
+“Superfine Metals Pvt Ltd has received 100% stamp duty exemption
+certificate No B-22234 from Directorate of Industries. The stamp duty
+exemption certificate is applicable for bank loan agreements and
+documentations.
+We hereby undertake that in case stamp duty is payable on the
+agreements executed by us, we shall pay the stamp duty immediately
+along with penalty if any thereon.”
+For Superfine Metals Pvt Ltd
+Director
+Date: 06.11.2020
+Place: Ahmednagar
+
+31.
+We are of the view that that insufficiently stamped Deed of Guarantee is a
+curable defect and the onus to cure the same was on the Principal Borrower or
+the Corporate Guarantor as it was their obligation to pay the stamp duty.
+Furthermore, we find that the Principal Borrower had even undertaken to pay
+the deficit stamp duty payable in case any such demand was raised. The deficit
+
+[PAGE 26]
+Page 26 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+was admittedly not paid by the Principal Borrower as no such demand was
+raised. In such circumstances, when the Principal Borrower was expressly aware
+of the stamp duty that was required to be paid and having given an explicit
+undertaking to pay for any shortfall, they had ample opportunity to remedy the
+purported deficiency in the stamp duty payment. Since neither the Principal
+Borrower nor Corporate Guarantor took any corrective steps in this direction,
+the Appellant as the Corporate Guarantor cannot be seen to take undue benefit
+of inaction/lapse on their own part to cure the defect. The Adjudicating Authority
+had correctly applied the ratio of the decision of the Hon’ble Supreme Court in
+N.N. Global Mercantile judgement supra in holding that technical deficiencies
+like insufficient stamp duty being curable, and the same not having been cured,
+there was no good ground placed by the Appellant to demonstrate that the
+Guarantee Deeds could not have been taken into cognisance as they were
+insufficiently stamped. We are inclined to agree with the Respondent No.1 Bank
+that the issue of insufficient stamping has been raised as an after-thought in the
+present appeal and that such technical objections cannot be a ground to defeat
+the substantive rights of the Respondent Bank to initiate insolvency proceedings
+against the Corporate Debtor/Corporate Guarantor.
+32.
+The core issue of any insolvency proceeding is debt and default. Debt and
+default have not been contested by the Appellant. There is no submission of the
+Appellant that no amount is due qua their guarantee obligations. The Appellant
+has only tried to get over their liabilities on the ground that the earlier contract
+of guarantee having been novated, there was no liability on the part of the
+Corporate Guarantor until the new Guarantee Deed was invoked and on the
+
+[PAGE 27]
+Page 27 of 27
+Company Appeal (AT) (Insolvency) No. 395 of 2025
+
+ground that no occasion had arisen for the Appellant to discharge their liabilities
+due to insufficient stamping of the Guarantee Deeds. For detailed reasons stated
+above, both these grounds have been found to be devoid of merit. The admission
+of the Section 7 application cannot be obfuscated or defeated by raising such
+unfounded technical pleas. In the present case, when debt and default is
+undisputedly established, the Adjudicating Authority did not commit any error
+in accepting the Section 7 application.
+33.
+We do not find any error in the order passed by the Adjudicating Authority
+admitting Section 7 application. There is no merit in the Appeal. The Appeal is
+dismissed with no order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+
+Place: New Delhi
+Date: 25.09.2025
+
+Abdul/Harleen.

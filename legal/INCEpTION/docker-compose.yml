@@ -1,0 +1,63 @@
+networks:
+  inception-net:
+
+services:
+
+  db:
+    image: "mariadb:11.4"
+
+    environment:
+      - MARIADB_RANDOM_ROOT_PASSWORD=yes
+      - MARIADB_DATABASE=inception
+      - MARIADB_USER=inception
+      - MARIADB_PASSWORD=inception
+      - MARIADB_AUTO_UPGRADE=1
+
+    volumes:
+      - ./db-data:/var/lib/mysql
+
+    command:
+      - "--character-set-server=utf8mb4"
+      - "--collation-server=utf8mb4_bin"
+
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "mariadb-admin",
+          "ping",
+          "-h",
+          "localhost",
+          "-pinception",
+          "-uinception"
+        ]
+      interval: 20s
+      timeout: 10s
+      retries: 10
+
+    networks:
+      - inception-net
+
+
+  app:
+    image: "ghcr.io/inception-project/inception:41.4"
+
+    ports:
+      - "8080:8080"
+
+    environment:
+      - INCEPTION_DB_URL=jdbc:mariadb://db:3306/inception?useSSL=false&useUnicode=true&characterEncoding=UTF-8
+      - INCEPTION_DB_USERNAME=inception
+      - INCEPTION_DB_PASSWORD=inception
+
+    volumes:
+      - ./app-data:/export
+
+    depends_on:
+      db:
+        condition: service_healthy
+
+    restart: unless-stopped
+
+    networks:
+      - inception-net

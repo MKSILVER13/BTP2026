@@ -1,0 +1,477 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 636 of 2026
+(Arising out of order dated 03.02.2026 passed by the National Company Law
+Tribunal, Chandigarh Bench-I in CP (IB) No. 335 of 2024)
+
+In the matter of:
+
+WILD DREAMS TRADING COMPANY PVT. LTD.
+A company having its registered office at:
+401, 4th Floor, Landmark Plot, 554,
+Dr. G.M. Bhosale Marg, Nr. Mahindra Tower,
+Worli, Mumbai, Maharashtra – 400 018
+
+...Appellant
+
+Vs.
+
+ASCENDANCY FINANCIAL SERVICES PVT. LTD.
+A company having its registered office at:
+H. No.3, Sector 3, adjoining Khullar Market Extn.,
+Yrikuta Nagar, Jammu, Union Territory of Jammu and Kashmir,
+India, 180012
+
+...Respondent
+
+Present:
+
+For Appellant:
+
+Mr. Tishampati Sen, Mr. Mukul Kulhari and Ms. Riddhi
+Sancheti, Advocates.
+
+For Respondents:
+
+J U D G M E N T
+(13th July, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+
+The present Company Appeal has been preferred under Section 61 of
+the Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as ‘Code’)
+by Wild Dreams Trading Company Pvt. Ltd. (Financial Creditor), assailing
+
+[PAGE 2]
+Page 2 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+the Judgment dated 03.02.2026 passed by the National Company Law
+Tribunal, Chandigarh Bench (Court-I) (Adjudicating Authority) in CP (IB)
+No. 335 of 2024, whereby the Adjudicating Authority dismissed the
+Appellant's application filed under Section 7 seeking initiation of the
+Corporate Insolvency Resolution Process (CIRP) against Ascendancy
+Financial Services Pvt. Ltd. (Corporate Debtor). The Adjudicating Authority
+held that the interest component could not be added to the claim of the
+Financial Creditor merely on the basis of Tax Deducted at Source (TDS)
+deductions and consequently concluded that the amount of default fell below
+the statutory threshold prescribed under Section 4 of the Code. Aggrieved by
+the dismissal of its Section 7 application despite the acknowledgment by the
+Corporate Debtor of the entire outstanding financial debt, including the
+interest component; the Appellant has preferred the present appeal
+challenging the legality and correctness of the Impugned Judgment.
+Brief Facts of the Case
+
+2.
+The brief facts of the case relevant to this appeal are given below:
+i. The Appellant, Wild Dreams Trading Company Pvt. Ltd., had been
+extending financial assistance to the Respondent, Ascendancy
+Financial Services Pvt. Ltd., in the form of Inter Corporate Deposits
+(ICDs) over several years. Between 22.07.2016 and 18.07.2024, the
+Appellant advanced an aggregate sum of Rs.2,32,00,000/- to the
+Respondent under an oral and mutually agreed arrangement whereby
+each ICD was repayable either on demand by the Appellant or within
+
+[PAGE 3]
+Page 3 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+seven years from the respective date of disbursement, or within such
+other period as might be mutually agreed between the parties,
+whichever occurred earlier. The parties had also mutually agreed that
+the Respondent would pay interest at the rate of 11.50% per annum on
+the ICDs advanced during the financial years 2016-17 and 2017-18,
+which was subsequently revised to 8% per annum in accordance with
+prevailing market standards.
+ii. Pursuant to the aforesaid understanding, the Respondent borrowed
+various sums from the Appellant in the form of eleven Inter Corporate
+Deposits (ICDs) advanced in different tranches during the period
+between 22.07.2016 and 18.07.2024. The Appellant initially advanced
+six ICDs during the period 2016-2017, followed by three ICDs in the
+year 2022 and two further ICDs in the year 2024, thereby extending
+total financial assistance of Rs.2,32,00,000/- to the Respondent, which
+was repayable along with the agreed interest component.
+iii. The Respondent thereafter made repayments towards the principal
+amounts of certain ICDs from time to time. The Respondent repaid the
+principal amount of the First to Eighth ICDs, either fully or in parts,
+including payments made towards the First ICD in 2017 and 2023 and
+substantial repayments towards other ICDs during May 2023. However,
+despite repayment of the principal amounts, the Respondent failed to
+pay the accrued interest on any of the said ICDs. Further, only a partial
+payment of Rs.1,00,000/- was made towards the Ninth ICD, while the
+remaining amount under the Ninth ICD along with the entire principal
+
+[PAGE 4]
+Page 4 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+amounts advanced under the Tenth and Eleventh ICDs remained
+unpaid. Consequently, according to the Appellant, a principal amount
+of Rs.62,00,000/- along with the accrued interest component continued
+to remain outstanding against the Respondent.
+iv. According to the Appellant, despite making partial repayments of
+principal amounts under certain ICDs, the Respondent persistently
+failed to honour its obligation to pay interest on any of the borrowings.
+The Appellant asserted that the Respondent also failed to repay the
+outstanding principal amount under the Ninth ICD as well as the entire
+principal amounts advanced under the Tenth and Eleventh ICDs.
+Consequently,
+a
+principal
+sum
+of
+Rs.62,00,000/-
+remained
+outstanding, while interest amounting to Rs.45,44,700/- (net of TDS)
+up to 30.09.2024 had accrued on the unpaid financial assistance. The
+Appellant further alleged that although the Respondent had not
+remitted the interest to the Appellant, it had consistently deducted and
+deposited TDS on the interest component with the statutory authorities,
+which according to the Appellant constituted an acknowledgment of its
+liability to pay the agreed interest.
+v. Following the continued non-payment, the Appellant addressed a
+Demand Letter dated 13.09.2024 calling upon the Respondent to repay
+a
+total
+outstanding
+amount
+of
+Rs.1,07,08,010/-,
+comprising
+Rs.62,00,000/- towards the principal and Rs.45,08,010/- towards
+accrued interest up to August 2024, within ten days. The demand letter
+
+[PAGE 5]
+Page 5 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+was delivered by hand and was duly received by the Respondent on the
+very same day.
+vi. In response to the said demand, the Respondent, by its letter dated
+19.09.2024, informed the Appellant that it was in the process of
+arranging funds for repayment of Rs.1,07,08,010/- and sought an
+extension of two weeks to clear the dues. According to the Appellant,
+this communication constituted an express acknowledgment of the
+entire outstanding financial debt, including both the principal and
+interest components. However, upon expiry of the requested period on
+03.10.2024, the Respondent failed to make payment of the admitted
+dues.
+vii. Owing to the continued default, the Appellant issued a second
+demand letter on 08.10.2024, once again requiring the Respondent to
+repay the outstanding financial debt within seven days, failing which
+appropriate legal proceedings would be initiated. In reply dated
+10.10.2024, the Respondent requested a further extension of a few days
+and attributed its inability to repay the debt to significant financial
+difficulties arising from delays in receiving payments from its own
+debtors and creditors.
+viii. As the Respondent continued to default despite repeated
+opportunities, the Appellant instituted Company Petition (IB) No. 335
+of 2024 under Section 7 of the Insolvency and Bankruptcy Code, 2016
+before the National Company Law Tribunal, Chandigarh Bench on
+
+[PAGE 6]
+Page 6 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+21.12.2024, seeking initiation of the Corporate Insolvency Resolution
+Process against the Respondent on the basis of the alleged financial
+debt and default.
+ix. The Adjudicating Authority, vide the Impugned order dated
+03.02.2026, dismissed the Section 7 application primarily on the
+ground that the interest component calculated on the principal amount
+could not be added merely on the basis of TDS deductions and,
+consequently, held that the alleged default amount fell below the
+statutory threshold prescribed under Section 4 of the Code.
+x. Aggrieved by the dismissal of its Section 7 application despite
+contending that the Respondent had expressly acknowledged the entire
+outstanding financial debt, including the interest component, and that
+the debt exceeded the statutory threshold under the Insolvency and
+Bankruptcy Code, the Appellant instituted the present appeal,
+challenging the legality, correctness and sustainability of the Impugned
+Judgment passed by the Adjudicating Authority.
+ANALYSIS AND FINDINGS
+
+3.
+We have heard Learned Counsel appearing for the Appellant and gone
+through the documents on record. Despite service of notice, the Respondent
+has chosen not to appear before this Tribunal and has been proceeded ex
+parte. However, merely because the Respondent has remained absent in the
+present Appeal, this Tribunal is still required to examine the correctness of
+the Impugned Order dated 03.02.2026 passed by the Adjudicating Authority,
+
+[PAGE 7]
+Page 7 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+and determine whether the ingredients necessary for admission of an
+application under Section 7 of the Code were satisfied on the basis of the
+material available on record.
+
+4.
+The present Appeal arises from the dismissal of the Application filed by
+the Appellant under Section 7 of the Code seeking initiation of Corporate
+Insolvency Resolution Process against the Corporate Debtor. The Adjudicating
+Authority rejected the Application primarily on the ground that the principal
+outstanding amount was only Rs.62,00,000/- and that the interest
+component claimed by the Financial Creditor could not be added merely on
+the basis of TDS deductions. On such reasoning, the Adjudicating Authority
+concluded that the default amount did not cross the minimum threshold
+prescribed under Section 4 of the IBC and consequently dismissed the Section
+7 Application.
+
+5.
+The submission advanced by Learned Counsel for the Appellant is that
+the Adjudicating Authority has proceeded on an incorrect appreciation of the
+factual and legal position. It is contended that the Appellant had advanced
+various Inter Corporate Deposits (“ICDs”) to the Corporate Debtor from time
+to time aggregating to Rs.2,32,00,000/-, which carried an agreed rate of
+interest. It is further submitted that although the Corporate Debtor repaid
+certain principal amounts, it failed to discharge the complete outstanding
+liability, resulting in an unpaid principal amount of Rs.62,00,000/- along
+with accrued interest. According to the Appellant, the total amount due and
+payable by the Corporate Debtor was Rs.1,07,08,010/-, which was well above
+the threshold prescribed under Section 4 of the Code.
+
+[PAGE 8]
+Page 8 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+6.
+The Appellant has further submitted that the present case was not one
+where interest liability was sought to be established only through TDS
+deductions. It is argued that the Adjudicating Authority failed to consider the
+most material document on record, namely the letter dated 19.09.2024 issued
+by the Corporate Debtor itself, wherein the Corporate Debtor acknowledged
+the outstanding amount of Rs.1,07,08,010/- and sought time for arranging
+funds to repay the same. The Appellant therefore submits that once the
+Corporate Debtor had itself acknowledged the liability comprising both
+principal and interest, there was no occasion for the Adjudicating Authority
+to exclude the interest component while determining the threshold
+requirement.
+
+7.
+Before examining the correctness of the Impugned Order, it is necessary
+to notice the scope of enquiry contemplated under Section 7 of the IBC. At the
+stage of considering an application filed by a Financial Creditor, the
+Adjudicating Authority is required to satisfy itself regarding: (i) existence of a
+financial debt; (ii) occurrence of default; and (iii) completeness of the
+application. The enquiry is not in the nature of a recovery proceeding but is
+limited to determining whether a financial debt exceeding the statutory
+threshold exists and whether there has been a default in repayment of such
+debt.
+
+8.
+Section 5(8) of the IBC defines “financial debt” as a debt along with
+interest, if any, which is disbursed against consideration for the time value of
+money. The same is extracted below:
+
+[PAGE 9]
+Page 9 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+Section 5(8)
+(8)"financial debt" means a debt alongwith interest, if
+any, which is disbursed against the consideration for
+the time value of money and includes---
+
+9.
+The expression itself makes it clear that where interest forms part of
+the agreed financial arrangement between the parties, such interest cannot
+be artificially separated while determining the amount of financial debt. The
+legislative intent behind Section 5(8) is to include the complete financial
+obligation arising from a transaction involving time value of money and not
+merely the original principal amount advanced.
+
+10.
+In the present case, the material placed on record indicates that the
+Corporate Debtor had received financial assistance from the Appellant in the
+form of ICDs. The nature of the transaction as financial assistance has not
+been disputed. The record further reflects that the ICDs were not gratuitous
+advances, but were accompanied by an understanding regarding payment of
+interest. The Appellant’s case is supported not merely by unilateral
+calculations of interest, but also by the conduct of the Corporate Debtor,
+including deduction of TDS on the interest component and its subsequent
+correspondence acknowledging the outstanding liability.
+
+11.
+At this stage, it becomes necessary to consider the correspondence
+exchanged between the parties prior to initiation of proceedings under Section
+7 of the Code. The Financial Creditor issued a Demand Letter dated
+13.09.2024 calling upon the Corporate Debtor to repay the total outstanding
+amount of Rs.1,07,08,010/-, comprising Rs.62,00,000/- towards the
+
+[PAGE 10]
+Page 10 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+principal amount and Rs.45,08,010/- towards the accrued interest
+component. The said communication clearly reflected that the claim of the
+Financial Creditor was not confined only to the principal amount but also
+included the interest payable on the ICDs advanced to the Corporate Debtor.
+The same has been extracted below:
+
+12.
+The response of the Corporate Debtor to the aforesaid Demand Letter
+assumes significance. By its Reply dated 19.09.2024, the Corporate Debtor
+did not dispute either the amount claimed or the liability towards payment of
+interest. On the contrary, the Corporate Debtor stated that it was in the
+
+[PAGE 11]
+Page 11 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+process of arranging funds for repayment of the amount of Rs.1,07,08,010/-
+and requested a period of two weeks for making the payment. The said
+communication amounts to a clear acknowledgment of the outstanding
+liability comprising both principal and interest components. Relevant
+document has been extracted below:
+
+[PAGE 12]
+Page 12 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+13.
+Even thereafter, in response to the second Demand Letter dated
+08.10.2024, the Corporate Debtor, vide communication dated 10.10.2024,
+did not dispute either the outstanding amount or the interest component and
+instead sought further time for repayment on account of financial difficulties.
+
+14.
+Thus, the present case cannot be examined merely from the perspective
+of whether deduction of TDS independently establishes liability towards
+interest. The Demand Letter dated 13.09.2024, when read together with the
+Corporate Debtor’s Reply dated 19.09.2024, clearly demonstrates that the
+Corporate Debtor was aware of the complete claim raised against it and
+nevertheless sought time for repayment instead of disputing the interest
+component. The acknowledgment of liability, coupled with the admitted ICD
+transactions and TDS deductions, establishes the existence of financial debt
+exceeding the statutory threshold prescribed under Section 4 of the Code.
+
+15.
+In order to substantiate the aforesaid outstanding liability and the
+manner in which the total financial debt was computed, the Financial Creditor
+had placed on record the calculation of interest payable on the ICDs along
+with details of TDS deposited on such interest component which is available
+on page nos. 111 and 112 of appeal paper book, same is extracted below:
+
+[PAGE 13]
+Page 13 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+16.
+The aforesaid calculation indicates that apart from the outstanding
+principal
+amount
+of
+Rs.62,00,000/-,
+an
+interest
+component
+of
+Rs.45,08,010/- had accrued, thereby taking the total outstanding financial
+debt to Rs.1,07,08,010/-. The said material, when considered along with the
+
+[PAGE 14]
+Page 14 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+subsequent acknowledgment by the Corporate Debtor, demonstrates that the
+claim was not based merely upon TDS deductions but upon the overall
+financial arrangement between the parties.
+
+17.
+The present case was not one where the Financial Creditor relied only
+upon TDS entries to create an interest liability. The TDS deductions were only
+one circumstance forming part of the overall chain of evidence. The
+acknowledgment dated 19.09.2024, the admitted receipt of ICD amounts, the
+previous repayment conduct of the Corporate Debtor, and the absence of any
+contemporaneous denial of interest liability were all relevant factors which
+ought to have been considered cumulatively. The Adjudicating Authority was
+required to examine the entire transaction and could not isolate one piece of
+evidence while disregarding other relevant documents.
+
+18.
+It is true that there was no written agreement executed between the
+parties specifically recording the rate of interest payable on the ICDs.
+However, the absence of a written agreement by itself cannot be a ground to
+disregard the interest component when the surrounding circumstances and
+subsequent conduct of the parties demonstrate the existence of such an
+understanding. The payment of interest was based on the mutual oral
+arrangement between the parties, which stood corroborated by the calculation
+of interest, deduction and deposit of TDS on such interest, and the
+subsequent communications exchanged between the parties acknowledging
+the outstanding liability. Thus, the interest component claimed by the
+Financial Creditor cannot be treated as a unilateral claim unsupported by
+material evidence.
+
+[PAGE 15]
+Page 15 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+19.
+The Adjudicating Authority, while passing the Impugned Order,
+appears to have confined its consideration only to the question whether TDS
+deductions by themselves could establish an agreement to pay interest. The
+Adjudicating Authority proceeded on the premise that since the principal
+outstanding amount was Rs.62,00,000/-, the threshold under Section 4 was
+not satisfied. However, such an approach ignores the statutory definition of
+financial debt, which expressly includes interest, if applicable. The threshold
+requirement under Section 4 is to be examined with reference to the total
+amount of default in respect of the financial debt and not by excluding a
+legally payable interest component forming part of such debt.
+
+20.
+We are conscious that proceedings under the IBC cannot be used as a
+substitute for recovery proceedings and that disputed claims cannot be
+mechanically admitted merely on the assertion of a creditor. However, the
+facts of the present case disclose more than a mere claim for recovery. The
+Corporate Debtor had availed ICD facilities, had made repayments towards
+the same, had acknowledged its obligation to repay the outstanding amount
+and had sought time for arranging funds. These circumstances establish the
+existence of financial debt and occurrence of default within the meaning of
+the Code.
+
+21.
+In view of the aforesaid discussion, we are of the considered opinion
+that the Adjudicating Authority erred in rejecting the Section 7 Application by
+excluding the interest component from consideration. The Impugned Order
+failed to appreciate the cumulative effect of the documents available on record
+and proceeded on a narrow consideration that interest was claimed only on
+
+[PAGE 16]
+Page 16 of 16
+Company Appeal (AT) (Ins.) No. 636 of 2026
+
+the basis of TDS deductions. The acknowledgment of liability by the Corporate
+Debtor and the admitted financial transactions between the parties clearly
+established that the outstanding financial debt exceeded the threshold
+prescribed under Section 4 of the IBC.
+
+22.
+We accordingly hold that the Impugned Order dated 03.02.2026 passed
+by the Adjudicating Authority cannot be sustained. The Appellant had
+successfully established the existence of financial debt and default exceeding
+the statutory threshold required under Section 7 of the IBC. Accordingly, the
+Appeal is allowed, with the further direction that the Corporate Debtor/
+Respondent is allowed 15 days’ time from the date of issue of this order for
+making full payment of outstanding debt along with interest due. In case the
+Respondent fails to make the payment, the Adjudicating Authority would
+admit the Section 7 petition and issue appropriate orders initiating CIRP
+Proceedings against the Respondent after a period of 15 days from the date of
+this order. Pending IA’s, if any, are closed. No order as to costs.
+
+Justice N. Seshasayee
+Member (Judicial)
+
+Arun Baroka
+Member (Technical)
+
+Indevar Pandey
+Member (Technical)
+
+Place: New Delhi
+
+Harleen/
+Pragya (LRA)

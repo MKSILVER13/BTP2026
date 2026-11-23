@@ -1,0 +1,1001 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+[Arising out of the Impugned Order dated 01.02.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, New Delhi,
+Bench-II in I.A. No. 5300/ND/2022 in C.P.(IB) No. 491/ND/2022]
+In the matter of:
+SUBHASH AGGARWAL
+S/O OM PRAKASH AGARWAL
+HOUSE NO. A-251
+SURAJ MAL VIHAR
+NEW DELHI 110092
+
+.... Appellant
+
+Versus
+
+1.
+STATE BANK OF INDIA
+
+STRESSED ASSETS MANAGEMENT BRANCH - I
+
+12th FLOOR, JAWAHAR VYAPAR BHAWAN,
+
+STC BUILDING, 1 TOLSTOY MARG,
+
+JANPATH ROAD, NEW DELHI -1100001
+
+.... Respondent No.1
+
+2.
+MR. VIJENDER SHARMA
+
+RESOLUTION PROFESSIONAL
+
+HAVING IBBI REGISTRATION NO.
+
+IBBI/IPA-003/IP-N00003/2016-2017/10022
+
+11, HARGOVIND ENCLAVE,
+
+3rd FLOOR, VIKAS MARG,
+NEW DELHI - 110092
+Email: vijender@vsa.net.in
+Mob: +91-9810166877
+
+.... Respondent No.2
+Present:
+
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Arindam Ghose,
+Mr. Upinder Singh and Ms. Shavanya Bhatnagar,
+Advocates.
+
+For Respondent
+: Mr. Bheem Sain Jain, Advocate for R-1.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+
+[PAGE 2]
+Page 2 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+01.02.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, New Delhi, Bench-II)
+in I.A. No. 5300/ND/2022 in Company Petition (IB) No. 491/ND/2022. By the
+impugned order, the Adjudicating Authority has allowed the application filed
+under Section 95 of the IBC by the Respondent Bank for initiating insolvency
+resolution of the Appellant-Personal Guarantor. Aggrieved by the impugned
+order, the present appeal has been preferred by the Appellant-Shri Subhash
+Aggarwal.
+2.
+The relevant facts of the case which are necessary to be noticed for
+deciding the matter before us are as outlined below:
+ The Appellant-Subhash Aggarwal had joined the Corporate Debtor-M/s
+J.V. Strips Ltd. as an Executive Director on 01.09.2008.
+ During his tenure in the Corporate Debtor company, the Appellant had
+signed a personal guarantee on 25.08.2009 in favour of State Bank of
+India-Respondent No.1 for a credit facility of Rs 41.25 Cr. extended to the
+Corporate Debtor. The Appellant had stood as a guarantor to the tune of
+Rs 3.84 Cr. only.
+ The credit facility was further renewed and enhanced by the Respondent
+Bank on 07.06.2010 for Rs 47.75 Cr.; on 23.10.2010 for Rs 57.50 Cr.; and
+on 12.10.2011 for Rs 51 Cr.
+ The Appellant purportedly resigned from the Directorship of the Corporate
+Debtor on 13.02.2012. The resignation letter is claimed to have been
+uploaded on the website of the Registrar of Companies. However, the
+
+[PAGE 3]
+Page 3 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+resignation letter was purportedly not communicated to the Respondent
+Bank.
+ Subsequent to the resignation of the Appellant from the Directorship of
+the Corporate Debtor, the Respondent Bank had renewed the credit facility
+of the Corporate Debtor for Rs 56.70 Cr. on 05.12.2012 and 11.12.2012.
+This renewal was accompanied by signing of Supplementary Agreement of
+Loan dated 11.12.2012 alongwith a Deed of Guarantee.
+ Another sanction letter dated 27.01.2014 was issued by the Respondent
+Bank renewing and enhancing the credit facility for Rs 64.52 Cr. for which
+a Supplementary Agreement of Loan and a Deed of Guarantee was entered
+into on 28.01.2014.
+ The Respondent Bank further renewed the credit facilities on 15.02.2015
+for Rs 70 Cr.; on 16.02.2016 for Rs 64 Cr.; on 20.03.2017 for Rs 64 Cr.
+and 20.01.2018 for Rs 64 Cr.
+ The account of the Corporate Debtor was declared NPA on 25.07.2018.
+ The Respondent Bank issued a letter on 21.09.2018 to the Appellant
+informing that the loan account of the Corporate Debtor had been
+migrated to the Stressed Assets Management (“SAM” in short) Branch.
+ The Appellant informed the Respondent Bank on 29.10.2018 that he had
+resigned from the Directorship of the Corporate Debtor w.e.f. 13.02.2012
+and that he had not signed any documents post resignation. The Appellant
+also sought copies of the letters of renewal and extension of the credit
+facility after 13.02.2012 including personal guarantee.
+
+[PAGE 4]
+Page 4 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+ While the Respondent Bank claimed that the documents sought by the
+Appellant was provided by them on 06.11.2018, the Appellant claimed that
+he accessed the documents on his own initiative from the website of the
+Ministry of Corporate Affairs. On finding that his signature was affixed as
+a guarantor to the credit facilities, which were allegedly not his signature,
+the Appellant on his own engaged a handwriting expert who submitted a
+report on 04.11.2018 stating that the signatures of the Appellant on the
+documents/deeds submitted to the Respondent Bank were forged and
+fabricated.
+ The Appellant thereafter sent a communication on 17.11.2018 to the
+Respondent Bank denying that he had signed any document on or behalf
+of the Corporate Debtor company since his resignation therefrom on
+13.02.2012.
+ The Respondent Bank issued a notice under Section 13(2) of the
+SARFAESI Act, 2002 on 15.03.2019. The Appellant responded to the said
+notice on 02.05.2019 denying the execution of any of the loan documents
+having already resigned from the Corporate Debtor company. The
+Respondent Bank also filed an OA before the Debt Recovery Tribunal
+which led to issue of summons to the Appellant.
+ The Appellant filed a police complaint on 09.06.2019 against the Corporate
+Debtor and the Respondent Bank for commission of forgery and
+fabrication in collusion with each other in the letters of renewal/extension
+of credit facilities and personal guarantee.
+
+[PAGE 5]
+Page 5 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+ The Respondent Bank addressed a communication to the Appellant on
+16.07.2019 seeking a notarized asset and liability statement to which the
+Appellant responded on 24.07.2019 stating that having resigned from the
+Corporate Debtor company and not having signed any loan documents, he
+was not in a position to provide any such accounts statement.
+ On 29.07.2019, the Respondent Bank issued a Loan Recall cum Demand
+Notice (“LRDN” in short) inter alia to the Appellant seeking discharge of
+liabilities to the tune of Rs 68.86 Cr. The Appellant responded on
+06.08.2019 reiterating his resignation and the non-signing of any
+documents by him. This was followed by another communication from the
+Appellant to the Respondent Bank on 16.09.2019 specifically stating that
+he had initially given a bank guarantee for Rs 3.84 Cr. which was not
+renewed and that all subsequent documents carry his forged signature
+without his approval, consent and authorization.
+ The Appellant also filed two complaints on 16.08.2019 and 04.10.2019
+with the EOW which were however closed by EOW on 09.10.2020 since
+the matter was subjudice before DRT.
+ On 23.08.2021, the Respondent Bank served a Form-B Demand Notice
+under Section 95(4)(b) of the IBC upon the Appellant. The Appellant
+responded to the said notice on 16.09.2021 denying their liability to pay
+any amount.
+ The Respondent Bank thereafter filed the Section 95 application before the
+Adjudicating Authority seeking initiation of insolvency resolution of the
+Appellant. The Adjudicating Authority on 28.09.2022 appointed
+
+[PAGE 6]
+Page 6 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+Respondent No.2 as the Resolution Professional (“RP” in short) to file his
+report under Section 99 of IBC.
+ The RP filed the first report on 08.10.2022 in which the RP had stated that
+it was not in a position to make any recommendation on the acceptance
+or rejection of the Section 95 application in view of dispute over the
+genuineness of the signature affixed by the Appellant on the loan
+documents.
+ The Respondent No.1 Bank filed its objections on 14.11.2022 to the first
+report of the RP. On 14.12.2022, the RP sought liberty from the
+Adjudicating Authority to file additional report which was allowed by the
+Adjudicating Authority on the same date. This order of the Adjudicating
+Authority was not challenged by any party.
+ The RP filed IA No. 5300 of 2022 on 19.12.2022 before the Adjudicating
+Authority to take the additional report on record. The RP in the additional
+report had recommended initiation of insolvency process against the
+Appellant. The Appellant had also filed their objections to the additional
+report of the RP by way of an additional affidavit on 21.02.2023.
+ The Adjudicating Authority after hearing the parties passed the impugned
+order on 01.02.2024 allowing the Section 95 petition filed by Respondent
+Bank and ordering the insolvency resolution of the Appellant-Personal
+Guarantor.
+ Aggrieved by the impugned order, the present appeal has been filed by the
+Appellant.
+
+[PAGE 7]
+Page 7 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+3.
+Making his submissions, Shri Abhijeet Sinha, Ld. Senior Advocate for
+Appellant submitted that the Appellant had only signed the Guarantee Deed
+dated 25.08.2009 for an amount of Rs 3.84 Cr. only and was never a signatory
+of any facility renewal/enhancement thereafter. Emphatically asserting that the
+liability of the Appellant was only restricted to the Guarantee Deed of
+25.08.2009, it was contended that the non-invocation of the Guarantee Deed of
+2009 vitiated the entire insolvency resolution process qua the Appellant. As the
+Guarantee Deed of 25.08.2009 had not been invoked by the Respondent Bank,
+no liability stood fastened on the Appellant. It was also denied that the
+Guarantee Deed of 25.08.2009 was a continuing guarantee. It was contended
+that Clause 8 of the 2009 Guarantee Deed limited the continuance of the
+guarantee to the amount mentioned in Clause 1 of the guarantee and did not
+cover the subsequent facilities extended by the Respondent Bank. Hence the
+impugned order which held the 2009 Guarantee Deed to be irrevocable and
+continuing is not sustainable.
+4.
+Submission was pressed that the demand made by the Respondent Bank
+was by invoking the Guarantee Deed of 28.01.2014 which had not been executed
+by the Appellant but were forged and fabricated documents submitted by other
+directors of the Corporate Debtor in collusion with the Respondent Bank.
+Reliance was placed on the judgment of the Hon’ble High Court of Bombay in
+Narayan Ramchandra Bhagwat Vs Markandya Tukaram AIR 1959 BOM
+516 wherein it was held that if there is a substantial alteration in a contract
+without the consent of the surety, even if no extra prejudice caused to the surety
+can be shown, the surety will be discharged. Thus, the Appellant could not have
+
+[PAGE 8]
+Page 8 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+been bound to do something for which he has not contracted. It was contended
+that the impugned order also contravened Section 62 of the Indian Contract Act
+which stipulated that once the parties alter the contract, the original contract
+need not be performed. Further, Section 133 of the Contract Act discharges a
+surety for subsequent transactions. It was also vehemently contended that the
+Appellant had resigned from the Directorship of the Corporate Debtor company
+on 13.02.2012 and the resignation letter having been filed on the ROC portal, it
+was a matter of public knowledge. In the present case, if the Respondent Bank
+did not exercise due diligence on ascertaining the fact that the Appellant had
+resigned, it cannot hold the Appellant liable for Guarantee Deeds not signed by
+him. It was also asserted that the fact that these documents carrying the
+signature of the Appellant post his resignation were forged signatures which fact
+had also been clearly brought out by the independent report of the handwriting
+experts. The bonafide of the Appellant is also borne out by the fact that they had
+filed complaints with the police authorities as well as the EOW about the forged
+and fabricated documents.
+5.
+Contention was also made that for a Notice to be issued under Rule 7(1)
+of the Insolvency and Bankruptcy (Application to Adjudicating Authority for
+Insolvency Resolution Process of Personal Guarantors to Corporate Debtors)
+Rules, 2019, default must exist on the part of the guarantor prior to issue of
+Notice. The Appellant stood discharged from the Deed of Guarantee of 2009 on
+account of the material variations which arose on the execution of the
+Supplementary Guarantee of 2014. Further without invocation of the Guarantee
+Deed of 2009, there was no due that could be claimed against the guarantor.
+
+[PAGE 9]
+Page 9 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+Therefore, since the Deed of Guarantee of 2009 to which the Appellant was a
+signatory had not been invoked, no default in terms of Section 3(12) of IBC can
+be said to have occurred.
+6.
+It was further pointed out that the present Section 95 petition was time-
+barred and not maintainable. Reliance was also placed on the judgment of the
+Hon’ble Supreme Court in Babulal Vardharji Gurjar Vs Veer Gurjar
+Aluminium Industries Pvt. Ltd. (2020) 15 SCC 1 in which it has been held
+that the IBC does not intend to give a new lease of life to time-barred debts. The
+Deed of Guarantee of 2009 not having been invoked, the period of limitation of
+three years in terms of Article 137 of the Limitation Act stood surpassed. Further,
+since the default had occurred on 25.07.2018 which was the date of NPA and
+the Section 95 application was filed on 26.05.2022, the application was beyond
+three years and hence time-barred. Attention was adverted to the decision of this
+Tribunal in Jagdish Prasad Sarda Vs Allahabad Bank in CA(AT)(Ins) No. 183
+of 2020 wherein it has been held that the period of limitation commences from
+the date of declaration of NPA.
+7.
+Submission was also pressed that the report of the RP suffered from a
+serious infirmity. It has been contended that the RP is not permitted to submit
+multiple reports. However, in the present case the RP was allowed by the
+Adjudicating Authority to submit an Additional Report which is not permissible
+under law. Further, in the Additional Report, the initiation of insolvency process
+was recommended by the RP against the Appellant which was contrary to the
+findings in the earlier report. The RP had also wrongly factorised the Guarantee
+Deed of 2009 when it was neither part of the Demand Notice nor the Section 95
+
+[PAGE 10]
+Page 10 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+application, which reflects bias on the part of the RP. Moreover, since the
+Additional Report was filed beyond the statutory period of ten days provided
+under Section 99 of IBC, this report could not have been considered by the
+Adjudicating Authority.
+8.
+Refuting the contentions of the Appellant, Shri Bheem Sain Jain, Ld.
+Counsel representing Respondent No.1-State Bank of India submitted that it is
+an uncontested fact that the Guarantee Deed of 2009 was signed and executed
+by the Appellant. It was strenuously contended that the terms of this Guarantee
+Deed clearly spelt out that the Deed was continuing and irrevocable in nature.
+It was asserted that under Section 129 of the Contract Act a continuing
+guarantee is defined as a guarantee which extends to a series of transactions
+and hence also embraces future transactions. The terms of the Guarantee Deed
+of 2009 also provided scope for subsequent variations and hence the future
+variations remained binding on the Appellant.
+9.
+It was vehemently contended that the Appellant had also never
+communicated to the Respondent Bank regarding his resignation from the
+Corporate Debtor. In any case, merely because the Appellant had resigned from
+the Directorship of the Corporate Debtor, that did not automatically absolve the
+Appellant from discharging his surety obligations. The resignation of the
+Appellant from the Corporate Debtor company does not by itself lead to
+revocation of his personal guarantee. It was also added that in terms of Sections
+130 and 133 of the Indian Contract Act, any revocation or discharge of guarantee
+obligations is permissible only for future transactions. Even if it is agreed that
+the Appellant did not sign or execute any documents after his resignation, the
+
+[PAGE 11]
+Page 11 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+Appellant nevertheless continued to remain liable to the credit limits granted
+under the sanction letter dated 12.10.2011 which preceded the resignation. Even
+this much of admission is sufficient for admission of the Appellant in the
+insolvency resolution process under IBC. In support of their contention reliance
+has been placed on the judgment of the Hon’ble Supreme Court in Sitaram
+Gupta Vs Punjab National Bank (2008) 5 SCC 711 and in H.R. Basavaraj Vs
+Canara Bank (2010) 12 SCC 458 in which it was held that when a party enters
+into a guarantee with a bank which is in the nature of continuing guarantee, the
+guarantee was to continue and remain in operation for all subsequent
+transactions. The plea taken by the Appellant of novation of contract following
+the execution of the Supplemental Deed of Guarantee of 2014 was opposed as
+misconceived.
+10.
+It was also pressed that all the requirements as set out under Section 95
+of the IBC read with Rule 7(1) of the Insolvency and Bankruptcy (Application to
+Adjudicating Authority for Insolvency Resolution Process of Personal Guarantors
+to Corporate Debtors) Rules, 2019 had been complied with by the Respondent
+Bank to initiate insolvency resolution against the Appellant. The LRDN
+specifically mentioned that the debt became due on 29.07.2019 and was payable
+before the expiry of seven days i.e. 05.08.2019. Thereafter the Respondent Bank
+had sent a Demand Notice dated 23.08.2021 in Form-B under Rule 7(1) to the
+Appellant-Personal Guarantor. The failure of repayment on the part of the
+Appellant in respect of their guarantee obligation qua the Respondent Bank also
+not being in dispute, the Adjudicating Authority had committed no error in
+admitting the Section 95 petition. It was further pointed out that the documents
+
+[PAGE 12]
+Page 12 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+referred to in Form-B and Form-C were in continuation of the documents
+executed under the 2009 Guarantee Deed which was continuing in nature. Since
+the Guarantee Deed of 2009 was the foundational document on which the
+Supplementary Agreement was resting on, the non-mention of the Guarantee
+Deed of 2009 did not render the Form-B and Form-C defective.
+11.
+In the present case, as reliance had been placed by the Appellant on the
+findings of a privately engaged handwriting which could not have been taken as
+an unimpeachable piece of evidence, the Respondent Bank was well within its
+rights to object to the Section 99 report initially submitted by the RP basis this
+private opinion. It was also contended that the Appellant has wrongly questioned
+the conduct of the RP in the submission of his reports. It was argued that Section
+99 of IBC vests the RP with ample powers to seek any further information from
+any party. There was no statutory embargo on the filing of an Additional Report.
+The RP had candidly pointed out the constraints faced in tendering his
+conclusive findings on the genuineness of the signatures on the Supplementary
+Agreement and related documents and brought the same to the notice of the
+Adjudicating Authority. In turn, the Adjudicating Authority, in all fairness, had
+directed the RP to file its additional report and had even given liberty also to the
+Appellant to file additional reply, which liberty had also been availed by the
+Appellant. When sufficient opportunity had been given to the Appellant to deal
+with the Additional Report, the Appellant cannot claim to have suffered from any
+prejudice on this count.
+12.
+It was further added that Section 95 petition filed by the Respondent Bank
+against the other three guarantors in respect of the same loan transactions
+
+[PAGE 13]
+Page 13 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+which stem from the Guarantee Deed of 2009 onwards having been already
+admitted, the Appellant standing on the same footing as the other three
+guarantors, cannot be seen to claim any differential treatment.
+13.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+14.
+It is the case of the Appellant that he had only signed the Guarantee Deed
+dated 25.08.2009 for an amount of Rs 3.84 Cr. which Guarantee Deed had not
+been invoked by the Respondent bank. The Section 95 petition on the other hand
+had been filed by the Respondent Bank on the basis of renewal/enhancement of
+the credit facility for which a Supplementary Agreement of Loan and a Deed of
+Guarantee was entered into on 28.01.2014. These documents had not been
+signed by the Appellant but were forged and fabricated documents submitted by
+other directors of the Corporate Debtor in collusion with the Respondent Bank.
+Thus, this Supplementary Agreement could not be made the basis for making a
+demand on the Appellant who was not party to the Supplementary Agreement.
+Submission was therefore pressed that the Appellant cannot be held liable for
+documents not signed by him and could not have been admitted into insolvency
+resolution for guarantee obligations not consented or given by him. Elaborating
+further, it was stated that the Appellant had resigned from the Directorship of
+the Corporate Debtor company on 13.02.2012. Though his resignation was in
+the public domain as the resignation letter had been filed on the ROC portal, the
+Respondent Bank had failed to carry out due diligence to check the correctness
+and authenticity of the signatures affixed on the facility documents and
+Supplementary Deed of Guarantee. It was further pointed out that the Reserve
+
+[PAGE 14]
+Page 14 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+Bank of India Rules mandates it necessary for the Bank to obtain the signatures
+of continuing personal guarantors and satisfy themselves of the authenticity of
+the signatures while enhancing the credit facilities. In the present case, the
+Respondent Bank never approached the Appellant to get his signatures on the
+sanction letters and the Supplementary Deed of Guarantee of 2014. The
+Respondent Bank, having not exercised due diligence, they cannot hold the
+Appellant liable for Guarantee Deeds not signed by him. The Appellant also
+asserted that once he came to know of the forged documents, it had apprised the
+Respondent Bank and issued several communications about the fact of forgery
+of their signature and denial of any liability arising out of such forged document.
+Though the Respondent Bank was fully aware of this mis-representation, yet it
+had proceeded with issue of notice to the Appellant illegally and arbitrarily. The
+conduct of the Respondent Bank, it was contended, is an abuse of the process
+of law.
+15.
+Another related contention pressed by the Appellant is that there was
+substantial material alteration of the Guarantee Deed of 2009 which alteration
+had been carried out to the disadvantage of the Appellant-Personal Guarantor
+and that too without their consent, hence, the Appellant was entitled to claim
+that their guarantee stood discharged. In support of their contention, reliance
+has been placed on the judgment of the Hon’ble Supreme Court in M.S.
+Anirudhan Vs Thomco’s Bank Ltd., AIR 1963 SC 746 and in Ram Khilona
+& Ors. Vs Sardar & Ors., AIR 2002 SC 2548 wherein it was held that the
+effect of making an alteration in a Deed of Guarantee after its execution without
+the consent of the party is exactly the same as that of cancelling the deal. In the
+
+[PAGE 15]
+Page 15 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+present case, it was contended that since the alteration made in the subsequent
+guarantees were substantially material as it enhanced the guaranteed amount
+without the consent of the Appellant, the Appellant stood discharged under the
+Guarantee Deed of 25.08.2009 and Section 95 petition could not have been
+initiated basis the Guarantee Deed of 25.08.2009.
+16.
+Per contra, it is the contention of the Respondent Bank that the it is an
+admitted fact that the Guarantee Deed of 2009 was signed and executed by the
+Appellant. Even if the Appellant’s contention that he was not liable for facilities
+sanctioned after 2012 post his resignation, the liability of the Appellant as a
+guarantor would undeniably continue to the extent of the amount guaranteed
+under the Guarantee Deed of 2009. Hence, the liability of the Appellant in
+respect of the Guarantee Deed of 2009 which was clearly before the resignation
+of the Appellant was to continue unhindered. It was further contended that the
+terms of this Guarantee Deed clearly spell out that the Guarantee Deed would
+remain unaffected by any subsequent variations and that on demand being
+made, the guarantor was liable to honour the same. Much emphasis was laid on
+the fact that the Guarantee Deed of 2009 was a continuing guarantee and the
+same not having been expressly revoked, the Appellant-Personal Guarantor
+would remain bound by the terms and conditions executed at the time of entering
+into the guarantee. It was added that prior to the resignation of the Appellant
+from the Directorship of the Corporate Debtor, there were certain renewals and
+enhancements of the credit facilities which were also in the nature of variation
+from the original guarantee amount but had not been objected to by the
+Appellant. This reinforces the fact that the Appellant was well abreast of the fact
+
+[PAGE 16]
+Page 16 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+that the terms of the Guarantee Deed of 2009 provided scope for subsequent
+variations and that the future variations would remain binding on the Appellant.
+The Appellant had never sent any intimation to the Respondent Bank that
+personal guarantee given by him to secure the debts of the Corporate Debtor
+stood withdrawn or revoked consequent upon his resignation. Further the
+Appellant had not even communicated to the Respondent Bank regarding his
+resignation from the Corporate Debtor. All these facts and circumstances
+reinforce the fact that the Appellant has raised the bogey of forged and fabricated
+documents and variation in the Deed of Guarantee of 2009 amounting to
+novation of the contract as a specious argument which is more of an afterthought
+to stave off the admission of Section 95 petition.
+17.
+This brings us to the moot question whether the Deed of Guarantee of
+2009 was a continuing and an irrevocable guarantee which argument has been
+canvassed by the Respondent Bank. To appreciate this issue, we may peruse the
+terms of the Guarantee Deed of 2009, the relevant excerpts of which are as
+reproduced below:
+“1. If at any time default shall be made by the Borrower in payment of
+the principal sum (not exceeding Rs 41,25,00,000/-) together with
+interest, costs, charges, expenses and/or other monies for the time being
+due to the Bank in respect of or under the aforesaid credit facilities or any
+of them the Guarantors shall forthwith on demand pay to the Bank the
+whole of such principal sum (not exceeding Rs. 41,25,00,000/- ) together
+with interest, costs, charges, expenses and/ or any other monies as may
+be then due, to the Bank in respect of the aforesaid credit facilities and
+shall indemnify and keep indemnified the Bank against all losses of the
+said principal sum, interest or other monies due and all costs charges and
+expenses whensoever which the Bank may incur by reason of any default
+on the part of the Borrower.
+.....
+
+[PAGE 17]
+Page 17 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+8. The guarantee herein contained is a continuing one and amounts
+advanced by the Bank to the Borrower in respect of or under aforesaid
+credit facilities as also for all interest costs and other monies which may
+from time to time become due and remain unpaid to the Bank thereunder
+and shall not be determined or in any way be affected by any account or
+accounts opened or to be opened by the Bank becoming nil or coming into
+credit at any time or from time to time or by reason of the said account or
+accounts being closed and fresh account or accounts being opened in
+respect of fresh facilities being granted within the overall limit Sanctioned
+to the Borrower.
+.....
+11. The guarantee shall be irrevocable and enforceable against the
+Guarantors notwithstanding any dispute between the Bank and the
+Borrower.
+12. The Guarantors affirm confirm and declare that any balance
+confirmation and/or acknowledgment of debt and/or admission of
+liability given or promise or part payment made by the Borrower or the
+authorised agent of the Borrower to the Bank shall be deemed to have
+been made and/or given by or on behalf of the Guarantors themselves
+and shall be binding upon each of them.
+14. The Guarantors hereby agree that notwithstanding any variation
+made in the terms of the said Agreement of Loan and/or any of the said
+security documents including reallocation/interchange of the individual
+limits within the principal sum variation in the rate of interest, extension
+of the date for payment of the Instalments, if any, or any composition
+made between the Bank and Borrower to give time to or not to sue the
+Borrower, or the Bank parting with any of the securities given by the
+Borrower, the Guarantors shall not be released or discharged of their
+obligation under this Guarantee provided that in the event of any such
+variation or composition or agreement the liability of the Guarantor shall
+notwithstanding anything herein contained be deemed to have accrued
+and the Guarantors shall be deemed to have become liable hereunder on
+the date or dates on which the Borrower shall become liable to pay the
+amount/amounts due under the said Agreement of Loan and/or any of
+the said security documents as a result of such variation or composition
+or agreement.
+....
+18. The Guarantee hereby given is independent and distinct from any
+security that the Bank has taken or may take in any manner whatsoever
+whether it be by way of hypothecation pledge and/or mortgage and/or
+any other charge over goods, movables or other assets and/or any other
+property movable or immovable and that the Guarantors have not given
+
+[PAGE 18]
+Page 18 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+this guarantee upon any understanding faith or belief that the 'Bank has
+taken and/or may hereafter take any or other such security and that
+notwithstanding the provisions of Sections 140 and 141 of the Indian
+Contract Act, 1872 or other section of that Act or any other law, the
+Guarantors will not claim to be discharged to any extent because of the
+Bank's failure to take any or other such security or in requiring or
+obtaining any or other such security or losing for any reason whatsoever
+including reasons attributable to its default and negligence benefit of any
+or other such security or rights to any or other such security that have
+been or could have been taken.”
+(Emphasis supplied)
+
+18.
+That that the Deed of Guarantee of 2009 was a “continuing” guarantee
+which was “irrevocable” in nature is evident from a plain reading of Clauses 8
+and 11 of the Guarantee Deed. Further when we look at Clause 14 it is amply
+clear that the terms of the Guarantee Deed of 2009 provided scope for
+subsequent variations. Thus, when the clauses of Guarantee Deed of 2009 by
+itself provided that it was to remain unaffected by subsequent variations, the
+guarantor was liable to honour the variations also on demand being made. Hence
+the future variations remained binding on the Appellant.
+19.
+We are therefore not inclined to agree with the skewed and selective
+reading of the clauses by the Appellant that that Clause 8 of the 2009 Guarantee
+Deed limited the continuance of the guarantee only to the amount mentioned in
+Clause 1 of the guarantee and that it did not cover the subsequent facilities
+extended by the Respondent Bank and therefore the Guarantee Deed of
+25.08.2009 was not in the nature of a continuing guarantee.
+20.
+Reliance has been placed by the Respondent bank on the judgements of
+the Hon’ble Supreme Court in Sitaram judgment and Basavraj judgment
+supra to contend that once a guarantee deed has been lawfully entered into, the
+
+[PAGE 19]
+Page 19 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+terms of the deed of guarantee becomes binding and, therefore, once a party has
+subscribed to the principles of a continuing guarantee, it was not open for him
+run counter to the terms and conditions of the agreement executed at the time
+of entering the guarantee.
+21.
+It may therefore be useful to notice these two judgements and find out
+their applicability in the facts of the present case. The relevant extracts of the
+Sitaram judgment supra are as reproduced below:
+“7. We have carefully examined the submissions made on behalf of the
+parties and also the relevant clauses in the agreement of guarantee. In our
+view, the High Court was perfectly justified in holding that the appellant
+was liable to pay the decretal amount to the Bank in view of the clause, as
+mentioned hereinearlier, in the agreement of guarantee itself. The
+agreement of guarantee clearly provides that the guarantee shall be a
+continuing guarantee and shall not be considered as cancelled or in any
+way affected by the fact that at any time, the said accounts may show no
+liability against the borrower or may even show a credit in his favour but
+shall continue to be a guarantee and remain in operation in respect of all
+subsequent transactions. This was an agreement entered into by the
+appellant with the Bank, which is binding on him. Therefore, the question
+arises whether the statutory provision under Section 130 of the Act shall
+override the agreement of guarantee. In our view, the agreement cannot be
+said to be unlawful nor the parties have alleged that it was unlawful either
+before the trial court or before the High Court. Let us, therefore, keep in
+mind that the agreement of guarantee entered into by the appellant with
+the Bank was lawful.
+8. The question is whether the appellant, having entered into such an
+agreement of guarantee with the Bank, had waived his right under the Act.
+In our view, the High Court has rightly held and we too are of the view that
+the appellant cannot claim the benefit under Section 130 of the Act because
+he had waived the benefit by entering into the agreement of guarantee with
+the Bank. In Lachoo Mal v. Radhey Shyam this Court observed that the
+general principle is that everyone has a right to waive and to agree to waive
+the advantage of a law or rule made solely for the benefit and protection of
+the individual in his private capacity which may be dispensed with without
+infringing any public right or public principle. In Halsbury's Laws of
+
+[PAGE 20]
+Page 20 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+England, Vol. 8, 3rd Edn., it has been stated in Para 248 at p. 143 as
+under:
+"248. Contracting out.- As a general rule, any person can enter into
+a binding contract to waive the benefits conferred upon him by an
+Act of Parliament, or, as it is said, can contract himself out of the Act,
+unless it can be shown that such an agreement is in the
+circumstances of the particular case contrary to public policy.
+Statutory conditions may, however, be imposed in such terms that
+they cannot be waived by agreement, and, in certain circumstances,
+the legislature has expressly provided that any such agreement shall
+be void."
+9. In Brijendra Nath Bhargava v. Harsh Wardhan it has been observed at
+p. 461 in para 10 that if a party had given up the advantage he could take
+of a position of law, it was not open to him to change and say that he could
+avail of that ground. The same principle has been followed in Bank of India
+v. O.P. Swarnakar.
+10. Keeping this principle in mind, we now look at the clause in the
+agreement of guarantee, as noted hereinearlier. There cannot be any
+dispute that the appellant had clearly agreed that the guarantee that he
+had entered into with the Bank was a continuing guarantee and the same
+was to continue and remain in operation for all subsequent transactions.
+Having entered into the agreement in the manner indicated above, in our
+view, it was, therefore, not open to the appellant to turn around and say
+that in view of Section 130 of the Act, since the guarantee was revoked
+before the loan was advanced to Defendants 1 to 4 and 6, he was not liable
+to pay the decretal amount as a guarantor to the Bank as his guarantee
+had already stood revoked. In this view of the matter, we are not in a
+position to accept the submissions of the learned counsel for the appellant
+and we hold that in view of the nature of guarantee entered into by the
+appellant with the Bank, the statutory provision under Section 130 of the
+Act shall not come to his help......”
+22.
+We next come to the Basavraj judgment supra in which the Hon’ble
+Apex Court has affirmed the findings of the Sitaram judgment, the relevant
+excerpts being as reproduced below:
+“16. On the principles of continuing guarantee, the position was cleared by
+a decision of this Court in Sita Ram Gupta v. Punjab National Bank
+whereby it was held that it was not open to a party to revoke a guarantee
+
+[PAGE 21]
+Page 21 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+when he had agreed to it being a continuing one and thus would be bound
+by the terms and conditions of the agreement executed at the time of
+entering into the guarantee. In the present facts and circumstances, we,
+therefore, do not find any difficulty in affirming the concurrent findings of
+the High Court and of the trial court on the point that the agreement
+executed for the purpose of a continuing liability despite the variation of
+terms of the contract and in the absence of a specific written document by
+Basavaraj (since deceased) revoking the guarantee, the guarantee stands
+and the legal representatives of the deceased are liable to repay the loan.”
+23.
+The ratio of the above two judgements are squarely applicable to the facts
+of the present case which is premised on a Guarantee Deed hinged on the
+precepts of a continuing guarantee. Under Section 129 of the Contract Act, a
+continuing guarantee is defined as a guarantee which extends to a series of
+transactions and hence also embraces future transactions. The Appellant cannot
+be seen to reason out that he was not bound by the transactions emanating out
+of the Guarantee Deed of 2009 as this deed was of a continuing nature and would
+remain operational even for subsequent transactions. All guarantees after the
+Guarantee Deed of 2009 were supplemental in nature and would not change the
+legal status of the Appellant as a Personal Guarantor nor would it extinguish his
+liability as a guarantor. The plea of novation of contract taken by the Appellant
+is misconceived as novation of contract can take effect only with the consent of
+all the parties. No such consent or mutual agreement has been placed on record
+by the Appellant. The Basavraj judgment supra has held in no uncertain terms
+that it was not open to a party to revoke a guarantee when the party had agreed
+to it being a continuing one and thus would be bound by the terms and
+conditions of the agreement executed at the time of entering into the guarantee.
+The plea taken by the Appellant that the Sitaram judgment and Basavraj
+judgment supra are not applicable since those judgments were prior in time to
+
+[PAGE 22]
+Page 22 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+the promulgation of IBC and because they did not involve any enhancement of
+credit facilities in the subsequent bank guarantees appears to be misplaced for
+it fails to explain how and why the settled proposition of law with regard to the
+principles of continuing guarantee in the above two judgements need not be
+abided in insolvency resolution under IBC.
+24.
+Having taken notice that the Deed of Guarantee of 2009 was a continuing
+and irrevocable guarantee, we now proceed to find out if the Deed of Guarantee
+of 2009 was revoked at the instance of the Appellant post his purported
+resignation from the Corporate Debtor. At this juncture, we may turn our
+attention to a letter dated 17.11.2018 addressed by the Appellant to the
+Respondent bank on hearing that the account of the Corporate Debtor having
+become NPA had been shifted to SAM Branch. The said letter is as reproduced
+below:
+“To, Deputy General Manager,
+
+17.11.2018
+State Bank of India
+
+Sub: Stressed Asset Management Migration of Account
+J.V. Ships Limited-Total Dues Rs 11.43 Crores (As on :30.O6.2018)
+Respected Sir,
+This is in response to your Letter No. SAMB-I/CL..II/MJ/1209 dated
+06.l1.2018. This is to inform you that I have resigned as a Director of
+M/s. J V. Strips Limited w.e.f. 03.02.2012. Please find enclosed
+herewith a copy of Form 32 filed before the Registrar of Companies
+containing my resignation letter dated 13.02.2012 for your perusal. I
+would also like to inform you that the enclosed Form 32 containing my
+resignation letter dated 12.02.2012 was also uploaded on the website
+of the Registrar of Companies, as required under the Companies Act. I
+would also like to bring to your notice that since my resignation from
+M/s J.V. Strips Limited·, I have not signed any document on or behalf of
+M/s. J. V. Strips Limited in any capacity whatsoever in nature.
+
+[PAGE 23]
+Page 23 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+Hence, documents dated 27.01.2014, 28.013.2014, 12.01.2017 and
+20.03.2017 as referred by you in your letter under reply are not in my
+knowledge and the same have not been executed by me.
+This is for your information and necessary action.
+Regards,
+
+Subhash Aggarwal”
+
+25.
+When we look at the above letter, we do not find any mention in this letter
+of the Appellant seeking discharge/release from the guarantee obligations given
+by the Appellant prior to his purported resignation on 13.02.2012. We also notice
+that the Appellant has not disputed the signing and execution of renewal and
+enhancement of facility documents dated 07.06.2010, 23.10.2010 and
+12.012.2011 which were all subsequent to the Guarantee Deed of 2009 but prior
+to his resignation. Thus, even if for arguments sake, we are to agree that the
+Appellant did not sign or execute any documents after his resignation, the
+Appellant will nevertheless continue to remain liable to the credit limits granted
+under the sanction letter dated 12.10.2011. Even this admission is sufficient for
+admission of the Appellant in the insolvency resolution process under IBC. The
+liability of the Appellant can willy nilly be fixed with reference to the Deed of
+Guarantee signed on 25.08.2009. The liability for discharge of the surety prior
+to resignation remains unaffected and default thereof forms sufficient basis for
+admission of Section 95 petition. We also notice that even when the account of
+the Corporate Debtor was classified as NPA on 25.07.2018, the Appellant had
+admittedly only sought copies of documents of renewal/extension of credit
+facilities after 13.02.2012 but did not seek documents before the date of
+resignation. This means that the Appellant did not dispute any of the documents
+
+[PAGE 24]
+Page 24 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+signed before his purported resignation. Neither did the Appellant claim any
+discharge or release from his personal guarantee spelt out in the Guarantee Deed
+of 2009. Neither has any material been placed on record to show that the
+Respondent Bank had discharged the Appellant of his guarantee obligations.
+26.
+We are aware that the Appellant has placed reliance on the judgment of
+the Hon’ble High Court of Bombay in Narayan Ramchandra Bhagwat
+judgement supra in that if there is any material alteration in a contract without
+the consent of the surety, the surety will stand discharged. We notice that this
+legal precept was in the horizon of thinking of the Adjudicating Authority while
+it considered the implications of Section 133 of the Contract Act. At para 14 to
+16 of the impugned order, the Adjudicating Authority held that Section 133 of
+the Contract Act only discharges a surety for transactions subsequent to the
+variance and does not discharge a guarantor for transactions entered into prior
+to the variance. Hence the Appellant’s guarantee obligations in terms of the Deed
+of Guarantee of 25.08.2009 does not get obliterated by any measure.
+27.
+The Adjudicating Authority has thus not committed any error in observing
+that the Appellant had acknowledged and never disputed the fact that he stood
+as a Personal Guarantor to the credit facilities granted to the Corporate Debtor
+on 25.08.2009. Further the Adjudicating Authority has rightly concluded after
+perusing the loan documents available on the MCA portal that the respondent
+had signed the loan documents on several occasions before his resignation. We
+are therefore of the considered view that the Adjudicating Authority has rightly
+concluded that simply because the Appellant had resigned from the Directorship
+of the Corporate Debtor, this cannot be sufficient ground leading to revocation
+
+[PAGE 25]
+Page 25 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+of his personal guarantee or discharge from his surety obligations arising out of
+the Deed of Guarantee of 2009 which was a continuing guarantee.
+28.
+This brings us to the contention of the Appellant that non-invocation of
+the Guarantee Deed of 2009 was a substantive error which vitiated the entire
+insolvency resolution process. The argument canvassed by the Appellant that
+the Guarantee Deed of 2009 was not invoked is unfounded. When we look at the
+documents referred to in Form-B and Form-C, we find those documents to be
+clearly in continuation of documents executed under the 2009 Guarantee Deed.
+The Guarantee Deed of 2009 being the principal guarantee, on which
+foundational document, the Supplementary Agreement rested, non-mention of
+the Guarantee Deed of 2009 did not render the Form-B and Form-C defective.
+The Demand Notice issued by the Respondent Bank as well as the Section 95
+petition both referred to the Supplemental Deed of Guarantee which was based
+on the continuing Deed of Guarantee of 2009.
+29.
+The grant of loan facilities to the Corporate Debtor by the Respondent
+Bank and in consideration thereof, the execution of the Deed of Guarantee of
+2009 by the Appellant is a factum not in dispute. No material has been placed
+on record to substantiate discharge of the Appellant in respect of the above
+guarantee obligation tendered by the Appellant. We also cannot be unmindful of
+the fact that the Respondent Bank in their objections filed before the
+Adjudicating Authority on the initial report of the RP filed under Section 99 of
+IBC had clarified that the Respondent Bank had not been in a position to
+produce the Guarantee Deed of 2009 as the same was not readily traceable
+because this account was originally lying with erstwhile State Bank of Bikaner
+
+[PAGE 26]
+Page 26 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+and Jaipur which later merged with SBI-Respondent Bank w.e.f. 01.04.2017.
+Merely because the Guarantee Deed of 2009 was not filed with the Section 95
+petition but produced subsequently, will not come to the rescue of the Appellant
+in making out a case for discharge of the guarantee obligations of the Appellant.
+The failure of repayment on the part of the Appellant in respect of their guarantee
+obligation qua the Respondent Bank also not being in dispute, the Adjudicating
+Authority had committed no error in admitting the Section 95 petition.
+30.
+We next come to yet another limb of argument raised by the Appellant
+that the present petition was time-barred and not maintainable when seen in
+the context of the Deed of Guarantee of 2009. It was contended that in terms of
+the Contract Act, once the parties alter the contract, the original contract need
+not be performed. When the substance of the original agreement is substantially
+altered, the original agreement no longer can be held to exist. It was submitted
+that as the Appellant stood discharged from the Deed of Guarantee of 2009
+because of the material variations caused thereto on account of the
+Supplementary Guarantee of 2014, no Section 95 petition could be raised basis
+default of Deed of Guarantee of 2009 as it would be hit by the period of limitation
+of three years in terms of Article 137 of the Limitation Act. Attention was also
+adverted to the decision of this Tribunal in Jagdish Prasad Sarda Vs
+Allahabad Bank in CA(AT)(Ins) No. 183 of 2020 wherein it has been held that
+the period of limitation commences from the date of declaration of NPA.
+Contention had been raised that since the default in the present case had
+occurred on 25.07.2018 which was the date of NPA, while the Section 95
+application was filed on 26.05.2022, it clearly surpassed three years and hence
+
+[PAGE 27]
+Page 27 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+stood time-barred. Reliance was also placed on the judgment of the Hon’ble
+Supreme Court in Babulal Vardharji judgement supra in which it has been
+held that the IBC does not intend to give a new lease of life to time-barred debts.
+31.
+We have no quarrel with the proposition of law laid down in Babulal
+Vardharji case that the IBC cannot be used to give a new lease of life to time-
+barred debts. Be that as it may, the unilateral and self-serving statement that
+the debt was time-barred since the Appellant stood discharged from the Deed of
+Guarantee of 2009 cannot be accepted. The Deed of Guarantee of 2009 was a
+continuing guarantee and no proof or substantiation of revocation of the same
+has been placed on record. We are also not amenable to subscribe to the view
+taken by the Appellant that the debt was time-barred for it was filed beyond the
+three years period since declaration of NPA. It is well settled law that the date of
+default cannot be strictly interpreted to be the date of NPA. The date of default
+in terms of Section 3(12) of the IBC means non-payment of a debt which has
+become due and payable whether in whole or any part and is not paid by the
+Corporate Debtor or the guarantor. The expression used is ‘default’ and not the
+date of notifying the loan account of the corporate person as NPA. In the present
+case, the date on which the debt fell due was shown as 29.07.2019 in Form-B
+and the date of default shown as 05.08.2019. The Section 95 application having
+been filed on 26.05.2022 fell very much within the three-year period.
+32.
+Yet another contention has been made that the RP is not permitted to
+submit multiple reports and yet the RP was allowed by the Adjudicating
+Authority to submit an Additional Report which is not permissible under law.
+The RP had also taken into account the Guarantee Deed of 2009 when it was not
+
+[PAGE 28]
+Page 28 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+part of the Section 95 application or the Demand Notice which shows the bias
+on the part of the RP. Moreover, since the Additional Report was filed beyond the
+statutory period of ten days provided under Section 99 of IBC, this report could
+not have been considered by the Adjudicating Authority.
+33.
+Before we return our findings on this aspect, it may be useful to have a
+look at the interim order of the Adjudicating Authority dated 14.12.2022 allowing
+the RP to submit the additional report. The said order reads as follows:
+
+14.12.2022
+ORDER
+IA-5300/2022: Ld. Counsel appearing for the Applicant submits that he
+wants to file additional report/ documents. The Applicant is permitted to
+file the same with a copy to the Respondent/Personal Guarantor within
+one week. The Respondent is also allowed to file additional reply, if any,
+within 14 days.
+List the matter on 19.01.2023.
+
+34.
+When we glance through the above order and look at the material placed
+on record, it is clear that the RP in his first report of 08.10.2022 had held that it
+was not in a position to conclude his report in view of dispute between the
+Respondent Bank and the Appellant over the authenticity of the signature of the
+Appellant in loan/guarantee documents which had been executed post the
+purported resignation of the Appellant from the Corporate Debtor. Permitting the
+RP to file an Additional Report, in view of the peculiar circumstances having
+arisen on account of a handwriting expert’s report having been commissioned by
+the Appellant on his own, does not appear to be unreasonable on the part of the
+Adjudicating Authority. Section 99 of IBC vests the RP with ample powers to seek
+
+[PAGE 29]
+Page 29 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+any further information from any party. The Adjudicating Authority, in all
+fairness, had directed the RP to file his additional report within a span of one
+week and gave liberty also to the Appellant to file additional reply which liberty
+had also been availed by the Appellant.
+35.
+In such circumstances, it does not appeal to reason for the Appellant to
+question the submission of the Additional Report. When sufficient opportunity
+had also been given to the Appellant to deal with the Additional Report, the
+Appellant cannot claim to have suffered any prejudice on this count. Even the
+contention that the Additional Report filed by the RP could not have been
+considered by the Adjudicating Authority as it was beyond the statutory period
+of 10 days provided under Section 99 of IBC is not tenable since there is no
+prohibition on the RP to file an Additional Report in continuation of his earlier
+report. Moreover, the Additional Report was placed with the prior approval of the
+Adjudicating Authority. Further under Section 100 of IBC, any aggrieved party
+can produce additional documents before the RP. In the present case, the
+Appellant had also filed additional documents. Having availed this benefit, they
+cannot now question the conduct of the RP on this count. Apart from the fact
+that there was no embargo on the filing of an Additional Report, the Appellant
+cannot raise this ground at this stage when it did not challenge the order passed
+by the Adjudicating Authority on 14.12.2022. The contention raised by the
+Appellant that the RP could not have filed an additional report is a frivolous
+technical plea which lacks basis.
+36.
+For all the given reasons as discussed above, we are of the view that the
+Adjudicating Authority committed no error in holding that debt and default is
+
+[PAGE 30]
+Page 30 of 30
+Company Appeal (AT) (Insolvency) No. 512 of 2024
+
+established beyond doubt in respect of the guarantee given by the Appellant and
+in ordering the initiation of insolvency resolution of the Appellant. However, to
+meet the ends of justice, the liability of the Appellant is restricted to Rs 3.84 Cr.
+in terms of the Deed of Guarantee dated 25.08.2009 which had been entered
+into prior to his resignation. The impugned order is modified accordingly. The
+Appeal is disposed of in the above terms. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+Place: New Delhi
+Date: 29.10.2025
+
+Abdul/ Harleen

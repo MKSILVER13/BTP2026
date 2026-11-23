@@ -1,0 +1,1271 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+
+(Arising against the impugned order dated 04.07.2024 passed by the Hon’ble
+National Company Law Tribunal, New Delhi, Bench-III, in IA No. 4421/2023
+in CP (IB) No. 589/ND/2020)
+
+IN THE MATTER OF:
+
+Akshat Gupta,
+Resident of 163/F, W-2, Western Avenue, Sainik
+Farm, New Delhi-110062.
+
+...Appellant
+
+Versus
+
+Union Bank of India,
+Stressed
+Asset
+Management
+Branch,
+603B,
+Konnectus Tower, Bhav Bhuti Marg, Ajmeri Gate, New
+Delhi-110001.
+
+Ajay Gupta,
+Bankruptcy Trustee of Mr. Anil Syal, Office at 7,
+Siddhartha Extension, Pocket-B, New Delhi-110014.
+
+...Respondent No.1
+
+...Respondent No.2
+
+Present:
+
+For Appellant: Mr. Sameer Rohatgi, Advocate.
+For Respondents:
+Mr. Brijesh Kumar Tamber, Mr. Prateek Kushwaha,
+Mr. Aryan Data and Mr. Kirti Baithwal, Advocates for
+R-1/UBI.
+Mr. Milan Singh Negi, Mr. Nikhil Kumar Jha and
+Mr. Gautam Goel, Advocates for R-2.
+Ms. Prachi Johri and Ms. Mrigangi Parul, Advocates for
+Intervenor.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+J U D G M E N T
+(25th March, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+The present appeal has arisen from the order dated 04.07.2024
+passed by the National Company Law Tribunal, New Delhi, Bench-III, in IA
+No. 4421/2023 in CP (IB) No. 589/ND/2020, whereby the Adjudicating
+Authority set aside, the completed public auction sale of the 50% undivided
+rights of the personal guarantor Mr. Anil Syal in the residential property
+situated at H. No. 117, First Floor, Uday Park, New Delhi-110049. The
+auction process was completed successfully on 27.06.2023 and the entire
+sale consideration had been deposited by the successful bidder. Thereafter,
+the Sale Certificate dated 05.07.2023 was issued in favour of the Appellant.
+2.
+The Adjudicating Authority allowed the application filed by Union
+Bank of India on the grounds that the auction sale was undervalued and
+directed the Bankruptcy Trustee to conduct fresh valuation, followed by a
+fresh auction, simultaneously ordering refund of the entire sale amount to
+the Appellant. Feeling aggrieved by the cancellation of a legally concluded
+auction process and the consequential deprivation of vested rights created
+in his favour, the successful auction purchaser Mr. Akshat Gupta has
+preferred the present appeal.
+Brief facts of the case
+3.
+The brief facts of the case are as given below:
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+i.
+The bankruptcy process of Mr. Anil Syal commenced pursuant to his
+own application under Sections 121 and 122 of the IBC, which
+culminated in the order of the Adjudicating Authority dated
+30.09.2022 appointing Mr. Ajay Gupta (Respondent No. 2 herein) as
+the Bankruptcy Trustee.
+ii.
+Following commencement of bankruptcy, the Bankruptcy Trustee
+initiated the process for realization from the bankrupt’s assets,
+including the 50% undivided ownership rights of the bankrupt in the
+property at H. No. 117, First Floor, Uday Park, New Delhi-110049,
+which formed part of the bankruptcy estate.
+iii.
+A public auction notice was published on 02.06.2023 in Financial
+Express and Jansatta inviting bids for purchase of the aforesaid 50%
+rights of the bankrupt in the property, thereby offering equal
+opportunity for participation to the public at large.
+iv.
+Based on the public notice, the Appellant Akshat Gupta approached
+the Bankruptcy Trustee and expressed willingness to participate by
+submitting a Letter of Intent and a duly filled Bid Declaration Form
+dated 12.06.2023, along with earnest money of Rs. 9,07,216 through
+demand draft dated 09.06.2023 drawn on HDFC Bank.
+v.
+The e-auction was conducted on 27.06.2023 between 11 AM and 2
+PM on the online auction portal NeSL, where the Appellant
+participated after fulfilling all protocols and auction requirements. On
+conclusion of bidding, the Appellant was declared the successful
+bidder and was directed to deposit the balance sale consideration
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+within 10 days from 27.06.2023. Pursuant to being declared
+successful bidder, the Appellant transferred Rs. 82,64,945 through
+RTGS on 05.07.2023 towards the balance sale consideration, thereby
+completing the full payment of Rs. 91,72,161, which was above the
+reserve price fixed for the auction.
+vi.
+Thereafter, the Bankruptcy Trustee issued a Sale Certificate dated
+05.07.2023 in favour of the Appellant, thereby completing the auction
+sale and vesting equitable rights in the Appellant in respect of 50%
+undivided share in the property.
+vii.
+The Union Bank of India (Respondent No. 1) filed an IA No. 4421/2023
+on 08.08.2023, before the Adjudicating Authority alleging that the
+property had been sold at an undervalued price and sought setting
+aside of the sale and refund of the sale consideration.
+viii.
+Based on the said application, the Adjudicating Authority issued
+notice on 22.08.2023 and directed parties to maintain status quo in
+respect of the property, thereby restraining the Appellant from
+exercising rights emanating from the Sale Certificate.
+ix.
+The Adjudicating Authority finally decided the IA No. 4421/2023, vide
+the impugned order dated 04.07.2024, whereby the auction sale held
+on 27.06.2023 and the Sale Certificate dated 05.07.2023 were set
+aside, and directions were issued to conduct fresh valuations of the
+property, by both Respondent No. 1 and Respondent No. 2 and
+thereafter conduct a fresh auction. The Adjudicating Authority also
+ordered the refund of the entire sale consideration to the Appellant.
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+The relevant paras 17 to 22 of the impugned order dated 04.07.2024
+are extracted below:
+“17. The following issues arise for consideration:
+i. Whether the Bankruptcy Trustee has committed any
+illegality or material irregularity in conducting the e-auction?
+ii. Whether the e-auction dated 27.06.2023 (advertisement
+dated 02.06.2023) is liable to be set aside?
+18. In order to answer the above questions, it would be relevant
+to note that the advertisement for conducting the e-auction was
+published in two newspapers namely Financial Express (English)
+and Jansatta (Hindi) on 02.06.2023. In the said advertisement
+the date of e-auction was mentioned as 27.06.2023. In the normal
+course, the e-auction would have to be conducted after a period
+of 30 days from the date of publication of the advertisement in
+the Newspapers. In this connection, as a referring point, we
+would like to refer to the provision of sub-rule 6 of Rule 8 of the
+SARFAESI Security Interest (Enforcement) Rules, 2002, which
+stipulates that 30 days’ time period should be given for
+conducting the e-auction. In the instant case, admittedly the
+advertisement was issued on 02.06.2023 and e-auction was
+conducted on 27.06.2023 which is much before the 30 days
+period. In this regard, we would like to refer to the judgement
+passed by the Hon’ble NCLAT in the case of Naren Seth Vs.
+Sunrise Industries & Ors. in Company Appeal (AT) (Insolvency)
+No. 401 of 2023 wherein the Hon’ble Appellate Authority has
+made the following observations:
+
+***** “Although, no specific timelines have been given in the
+Insolvency & Bankruptcy Board of India (Liquidation Process)
+Regulations, 2016, normally notice period of 30 days is given to
+get best value. In this connection, as a referring point only, we
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+would like to refer to the provision of sub-rule (6) of Rule 8 of the
+SARFAESI Security Interest (Enforcement) Rules, 2002 which are
+as under:- "Rule 8 Sale of immovable secured assets (6) the
+authorised officer shall serve to the borrower a notice of thirty
+days for sale of the immovable secured assets, under sub-rule (5)
+****
+(Emphasis Supplied)
+This also indicates that sufficient time say 30 days ought to have
+been given. Thus, we find the Liquidator acted in hurry in
+concluding the Eauction.”
+19. The above observation made by the Hon’ble NCLT makes it
+clear that a sufficient time of 30 days ought to be given for
+conducting e-auction to get the best value. However, in the instant
+case, the Bankruptcy Trustee acted in a hasty manner and
+conducted the e-auction on 25th day from the date of the issuance
+of the advertisement dated 02.06.2023. We are therefore of the
+view that the Bankruptcy Trustee of Mr. Anil Syal has acted in a
+hest in conducting the auction of the 50% undivided share in the
+residential flats in question.
+20. We direct the Bankruptcy Trustee to conduct the fresh
+valuation w.r.t. the sale of the property (50% undivided share in
+a residential flat which is indivisible) bearing H. No. 117, First
+Floor, Uday Park, New Delhi-110049. The Applicant Bank is also
+directed to conduct a fresh valuation w.r.t. the sale of the property
+(50% undivided share in a residential flat which is indivisible)
+bearing H. No. 117, First Floor, Uday Park, New Delhi-110049.
+Thereafter, the Average of both the Valuation will be considered
+for the fresh auction by the meeting of the Creditors.
+21. We further direct the Bankruptcy Trustee to return the e-
+auction sale proceeds to Mr. Akshat Gupta, Auction Purchaser
+including EMD, if any and cancel the sale certificate issued to Mr.
+Akshat Gupta, Auction Purchaser.
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+22. Accordingly, the IA-4421/2023 is allowed by setting aside
+the e-auction dated 27.06.2023 conducted by the bankruptcy
+trustee by directing the bankruptcy trustee to conduct a fresh
+auction by maintaining at least 30 days’ time between the paper
+publication and the e-auction so as to enable more bidders to
+participate in the auction for fetching high value of the property.
+The bankruptcy trustee shall also clearly mention the timings for
+the inspection of the property in the paper publication.”
+
+x. The impugned order dated 04.07.2024 resulted in the annulment of
+a concluded auction process in which the Appellant had already
+deposited the entire sale consideration and a Sale Certificate had been
+issued in his favour, and further directed refund of the consideration
+amount and initiation of a fresh valuation and auction exercise.
+Aggrieved by the same, the present appeal has been filed by the appellant
+seeking the quashing of impugned order.
+Submission of the Appellant
+4.
+Ld. counsel for the Appellant/ Successful Auction Purchaser, submits
+that the present Appeal has been preferred in the Bankruptcy Process of one
+Mr. Anil Syal, which was undertaken by the Bankruptcy Trustee
+(Respondent No. 2). The auction culminated in the Appellant being declared
+as the highest bidder, and a valid Sale Certificate was issued on 05.07.2023
+in favour of the Appellant. However, vide the Impugned Order dated
+04.07.2024, passed on an application preferred by Union Bank of India
+(Respondent No. 1), a CoC Member, the entire auction process was set aside,
+without there being any finding against the Appellant and without any
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+violation attributable to the Appellant. It is submitted that the Impugned
+Order is not only legally unsustainable, but fundamentally ignores the vested
+rights of a bona fide third-party auction purchaser, who has acted in
+complete transparency and good faith.
+5.
+The Ld. Counsel highlights that Respondent Bank had raised multiple
+objections regarding valuation and other process-related aspects, yet the
+NCLT rejected each and every specific objection of the Bank. Instead, the
+NCLT gave an altogether new and un-pleaded finding that the auction notice
+was published with 25 days' time instead of 30 days. The Adjudicating
+Authority relying solely on this basis, without any statutory support and
+without any pleading by any party; set aside the auction. Subsequently,
+without citing reasons, the NCLT directed both BT and Respondent Bank to
+conduct a fresh valuation and further gave liberty to the CoC to fix the
+reserve price for the re-auction, despite the fact that the CoC had
+relinquished the secured interest and therefore lost all direct rights in the
+property. This direction is alien to the IBC framework and not backed by
+Regulations. Thereafter, Respondent Bank, exploiting the wording of the
+order, stalled the re-auction process and effectively ensured that neither the
+Appellant nor any other participant obtains an opportunity to bid, thereby
+causing prejudice only to the bona fide auction purchaser.
+6.
+The Ld. counsel for the Appellant submits that the auction process in
+the present case was completely transparent, competitive and compliant with
+law. The auction notice was publicly published on 02.06.2023. Two eligible
+bidders participated in the auction; both placed competing bids; the
+Appellant outbid the competitor; and the bid price exceeded the reserve price.
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+No party has alleged fraud, collusion, manipulated bidding, lack of publicity,
+lack of participation, or any form of procedural unfairness. Where there is
+no allegation of fraud or procedural defect, the sanctity of auction cannot be
+destroyed merely to give a fresh opportunity for bidding.
+7.
+Ld. Counsel further submits that it is the settled law of the Hon’ble
+Supreme Court that a public auction, once complete, cannot be interfered
+with except in extremely limited and exceptional circumstance such as fraud.
+The principle has been consistently affirmed, including in Valji Khimji and
+Co. v. Official Liquidator of Hindustan Nitro Product (Gujarat) Ltd., Civil Appeal
+No. 4992 of 2008, wherein Hon’ble Supreme Court held that entertaining
+objections after a confirmed sale should not be permitted except in cases of
+fraud, as doing so would defeat the finality of auction procedures and erode
+public confidence. Similarly, in Celir LLP v. Bafna Motors (Mumbai) Pvt. Ltd.,
+Civil Appeal Nos. 5542-5543 of 2023, the Hon’ble Supreme Court held that
+courts must protect the sanctity of an auction and once the auction
+purchaser has complied with obligations, vested rights arise which cannot
+be undone by subsequent claims arising from other parties.
+8.
+The appellant states that in the present case, the auction was complete
+on the fall of hammer on 27.06.2023, and the Appellant was formally
+declared as the successful bidder, and rights crystallized in the Appellant’s
+favour, consistent with the ratio laid down by Hon’ble SC in ‘Sadashiv Prasad
+Singh v. Harendar Singh, [Civil Appeal Nos. 161–162 of 2014]’. Therefore,
+setting aside the auction despite there being no fraud, and despite the
+Appellant having completed all compliances, is contrary to established law.
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+9.
+It is the submission of the Ld. Counsel that the Appellant has acted at
+all times as a completely bona fide third-party purchaser, having no nexus
+or privity with the bankrupt, with the Bank, or with any creditor. The
+Appellant submitted Expression of Interest on 12.06.2023, participated in
+the auction, deposited the entire purchase consideration in compliance with
+timelines, and received a Sale Certificate on 05.07.2023. He submits that the
+Impugned Order, particularly paragraphs 16–22, restricts the Appellant
+merely to refund of purchase consideration, without assessing rights already
+vested in the Appellant.
+10.
+He states that the law is emphatically clear that rights of a bona fide
+third-party purchaser cannot be divested even if the underlying decree or
+process is subsequently challenged. Hon’ble Supreme Court in ‘M/s Janatha
+Textiles & Ors v. Tax Recovery Officer & Anr., (2008) 12 SCC 582’ has held
+that an auction purchaser’s title continues to be protected, even where the
+underlying decree or process is later interfered with. The Bankruptcy
+Tribunal, instead of protecting the bona fide purchaser, has imposed a
+consequence only on the purchaser and not on the persons actually alleged
+to have committed procedural irregularity, if any, viz. BT or Bank. Therefore,
+rights of the Appellant deserved to be preserved rather than penalized.
+11.
+The Ld. Counsel submits that the present Appeal was filed by the
+Appellant on 18.07.2024, which was well before the Intervenor, Anil Sayal’s
+Appeal was disposed on 30.07.2024. No notice at any stage was issued to
+the Appellant in the said proceedings. Even in the Intervenor’s proceedings,
+the Intervenor’s limited prayer was only for his discharge and not for
+annulment of auction, and he was directed to approach the NCLT again for
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+that limited purpose. Therefore, the Appellant’s challenge to the Impugned
+Order is on merits and cannot be extinguished on account of subsequent
+proceedings where the Appellant was neither heard nor impleaded.
+12.
+The Appellant submits that Respondent Bank’s allegation of
+undervaluation in its Application IA 4421/23 was wholly misconceived. The
+Bank relied upon a valuation of Rs. 3.81 crore for the full flat in 2021 and
+claimed the current market value should be Rs. 4.5 crore. However, the Bank
+deliberately compared the value of 100% unencumbered flat with peaceful
+possession to the subject asset, which consisted of only 50% rights in an
+indivisible residential unit without possession of any portion. The two values
+are not comparable in law or in valuation practice. The NCLT made no finding
+of undervaluation and rightly so; yet the NCLT thereafter directed fresh
+revaluation by BT and Bank which was without reasons, and beyond the IBC
+framework.
+13.
+Ld. Counsel submits that the fresh valuation carried out under
+coercion of the Impugned Order reflects the absurdity of Bank’s case which
+can be seen from the following:
+
+• BT’s valuation dated 15.07.2024 placed the value at Rs. 1.05
+crore, only about Rs. 14.2 lakhs above the March 2023
+valuation of Rs. 90.72 lakh.
+• Bank’s own valuer on 11.07.2024 valued full flat at Rs. 4.20
+crore, halved it for indivisibility and assigned Rs. 89.50 lakh to
+the Bankrupt’s share, which is less than the reserve price fixed
+earlier by BT. Dissatisfied by the same, the Bank engaged
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+another valuer on 05.08.2024, without even sharing the
+Impugned Order, valuing the property at Rs. 4.14 crore for
+100% share without adjusting indivisibility.
+• Even the built-up area relied upon by Bank (1450 and 1453
+sq.ft.) was demonstrably incorrect, as per Sanction Plan and
+Sale Deed confirming 1033.18 sq.ft. BT highlighted this in the
+6th CoC Meeting but the Bank still continued with incorrect
+area in the 7th CoC Meeting dated 29.10.2024.
+14.
+It is the submission of Ld. Counsel that the entire narrative of
+undervaluation was manufactured only to disturb an already concluded
+auction, whereas the purpose of an open auction is to determine true value
+through competitive bidding, which has already occurred in this case.
+15.
+The counsel submits that there was no pleading whatsoever in Bank’s
+application regarding 25 or 30 days’ notice period, nor any oral argument to
+that effect. The Impugned Order introduces this finding suo motu without
+pleadings, without evidence, and without Invoking any provision of the IBC.
+The IBC does not fix 30 days between publication of auction notice and the
+auction date. NCLT relied on ‘Naren Seth v. Sunrise Industries in Company
+Appeal (AT)(INS) No. 40112023, decided on 04.07.2023’, i.e., after the auction
+notice, making retrospective application of unrelatable reasoning.
+16.
+The Counsel submits that the auction was not rendered uncompetitive
+by a notice period of 25 days. It was published in Financial Express and
+Jansatta, conducted on NeSL platform, two eligible bidders participated, and
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+competitive bidding occurred with the Appellant offering higher than the
+reserve price. It is therefore factually and legally incorrect to hold that any
+stakeholder suffered prejudice.
+17.
+The Counsel further submits that valuation is part of BT’s Preliminary
+Report dated 23.03.2023, duly shared with the Bank on the same date. The
+Bank had three months to object before auction on 27.06.2023, but did not
+raise any concern. There is no provision under IBC making valuation by a
+single CoC member mandatory. Under IBC Regulations, auction is the
+default mode of sale and does not require prior permission of the CoC, except
+in matters enumerated under Section 153, where valuation, auction and sale
+do not appear. Therefore, even assuming, arguendo, that the valuation was
+needed to be reassessed, penalizing only the bona fide purchaser violates
+foundational fairness.
+18.
+In light of the above submissions, the counsel for the Appellant prays
+that the Impugned Order dated 04.07.2024 be set aside, as it is contrary to
+settled law, unsupported by pleadings, inconsistent with the IBC, and
+gravely prejudicial to the vested rights of a bona fide auction purchaser,
+despite complete compliance from the Appellant.
+Submissions of Respondent No. 1: Union Bank of India
+19.
+Ld. Counsel for the Respondent No.1 (Union Bank) submitted at the
+outset, that its submissions are based on three principal grounds. These
+grounds, taken cumulatively as well as independently, demonstrate that the
+impugned order dated 04.07.2024 passed by the Learned Adjudicating
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+Authority suffers from no legal infirmity whatsoever and therefore does not
+warrant any interference by this Hon’ble Appellate Tribunal. The three
+grounds on which the Respondent Bank rests its opposition to the present
+appeal are (i) that the present appeal is barred by the doctrine of res judicata;
+(ii) that the sale conducted by the Bankruptcy Trustee is grossly
+undervalued; and (iii) that the Bankruptcy Trustee acted with undue haste
+and in violation of settled procedure.
+20.
+Learned counsel for Respondent No.1 submits that the impugned
+order dated 04.07.2024 has already attained finality in law. It is pointed out
+that the said order was previously subjected to appellate scrutiny before this
+Hon’ble Tribunal in Company Appeal (AT) (INS) No. 1437 of 2024 filed by Anil
+Syal (Intervenor herein). In the said appeal, despite advance service of the
+appeal papers through email dated 23.07.2024 upon the Appellant herein,
+the Appellant failed to appear before this Tribunal. Consequently, vide a
+detailed order dated 30.07.2024 passed by the Hon’ble Chairperson Bench,
+this Appellate Tribunal declined to interfere with the direction of re-auction
+and expressly upheld the impugned order dated 04.07.2024. The operative
+portion of the said order clearly records that no ground was found to interfere
+with the direction for re-auction of the property, though liberty was granted
+to the Appellant (Anil Sayal) to raise the issue of his discharge before the
+Adjudicating Authority.
+21.
+It is further submitted that the order dated 30.07.2024 has attained
+finality as no Civil Appeal or Special Leave Petition was preferred by the
+Appellant before the Hon’ble Supreme Court. In the absence of any challenge
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+to the said order, the issue stands concluded between the parties. It is
+respectfully contended that this Hon’ble Tribunal, exercising appellate
+jurisdiction, is now functus officio, in relation to the same impugned order
+dated 04.07.2024, as entertaining the present appeal would result in
+conflicting orders by coordinate Benches of the same Tribunal.
+22.
+Learned counsel further submits that the impugned order dated
+04.07.2024 was once again affirmed by this Hon’ble Tribunal in its judgment
+dated 08.07.2025 passed in Company Appeal (AT) (INS) No. 523 of 2025 filed
+by Anil Syal (Intervenor herein), which arose from proceedings initiated by
+the Bankrupt himself. In the said judgment, while dealing with the discharge
+application, this Hon’ble Tribunal categorically recorded that the order dated
+04.07.2024 directing re-auction of the property had already been upheld and
+was not interfered with earlier. Thus, the legality and correctness of the re-
+auction direction stands reaffirmed twice over by this Hon’ble Tribunal.
+23.
+It is submitted that despite these categorical findings, neither the
+auction purchaser nor the Intervenor Anil Sayal has challenged either the
+order dated 30.07.2024 or the judgment dated 08.07.2025 by way of any
+further appeal or review. This deliberate inaction reinforces the finality
+attached to the impugned order.
+24.
+Learned counsel further submits that the principles of res judicata
+squarely apply, even where an order is passed ex parte or at the first hearing,
+provided the parties are the same and the issue stands conclusively decided.
+In this regard, reliance is placed on the judgment of the Hon’ble Supreme
+Court in ‘Saroja v. Chinnusamy (Dead) by LRs & Anr., [(2007) 8 SCC 329]’,
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+wherein it was authoritatively held that an ex parte decree is as binding as a
+decree passed after contest and operates as res judicata unless fraud is
+established.
+25.
+The Ld. Counsel further places reliance on ‘Ishwar Dutt v. Land
+Acquisition Collector & Anr., [(2005) 7 SCC 190]’, wherein the Hon’ble
+Supreme Court emphasised that the doctrine of res judicata is founded on
+public policy and aims at giving finality to judicial decisions. The object is to
+prevent multiplicity of litigation and inconsistent verdicts. In view of the
+above authoritative pronouncements and the undisputed procedural history,
+it is submitted that the present appeal is clearly barred by res judicata and
+deserves to be dismissed at the threshold without entering into merits.
+26.
+Without prejudice to the preliminary objection on maintainability,
+learned counsel submits that the sale conducted by the Bankruptcy Trustee
+suffers from gross undervaluation. It is pointed out that the methodology
+adopted by the Registered Valuer for determining the value of the subject
+property is contrary to internationally accepted valuation standards. The
+valuation exercise, including the basis for arriving at the 50% value of the
+property, was never discussed or approved in any meeting of the Committee
+of Creditors.
+27.
+Ld. Counsel further submitted that in the notice of the Respondent
+No.2, during the insolvency resolution process, the Bank has also filed the
+claim on 20.11.2020 of Rs. 56,36,94,071.84/- with the Resolution
+Professional. Even in the claim form filed with the Resolution Professional it
+was mentioned by the Bank in the FORM that the Respondent Bank has
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+security interest on the property situated at First Floor 117, Uday Park, New
+Delhi- 110049 owned by the Bankrupt/ Anil Syal and his wife Mrs.
+Meenakshi Syal and the value of the property is Rs. 3.80 crores.
+28.
+It is submitted by the Ld Counsel that the Bankruptcy Trustee had
+appointed the Bankrupt in accordance with the 153(i)(c) of the Code, 2016
+for the assistance in administrating the estate of the Bankrupt. Since the
+Bankruptcy Trustee was seeking the assistance of the Bankrupt it is ought
+to be in the knowledge of the Respondent No.2 that the Applicant Bank has
+already served the notice under Section 13(2) of the SARF AESI Act, 2002
+with respect to the property in question which is jointly owned by the
+Bankrupt and Mrs. Meenakshi Syal who are husband and wife in relation.
+29.
+Ld. Counsel further pointed out that despite being in the notice of the
+Respondent No. 2, the entire property is mortgaged to the Bank, the
+Respondent No. 2 being an officer of the Court did not give any heed to
+consult with the Respondent Bank nor any application is filed by impleading
+the Union Bank of India for seeking appropriate direction with respect to the
+way forward in the given scenario.
+30.
+Ld. Counsel stated that despite the fact that the Bank has charge on
+the entire asset on which the Bankrupt have 50% share, the Respondent
+No.2 have failed to conduct any due diligence and did not even check the
+public records which clearly reflects that the Respondent Bank have charge
+on the entire property situated at First Floor 117, Uday Park, New
+Delhi110049.
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+31.
+It is submitted by the counsel for respondent that the valuation report
+was never shared transparently and was disclosed to the Respondent Bank
+for the first time, only as an annexure to the reply filed by the Bankruptcy
+Trustee in IA No. 4421 of 2023. On scrutiny, it became evident that after
+initially determining the value, the valuer arbitrarily reduced the value by
+nearly 40% by assigning vague and unsubstantiated reasons, thereby
+causing grave prejudice to the secured creditor.
+32.
+Learned counsel further submits that Regulation 30(3) of the IBBI
+(Bankruptcy Process) Regulations, 2019 expressly empowers the Bankruptcy
+Trustee to appoint an additional registered valuer, where circumstances so
+warrant. Given the substantial reduction in valuation and the high-value
+nature of the asset, the Trustee was duty-bound to obtain an independent
+valuation. The failure to do so demonstrates a clear lack of diligence and
+reflects favouritism towards the auction purchaser.
+33.
+Learned counsel points out that as per the claim form requirements,
+particularly Column No.11, the secured creditor is mandated to disclose the
+value of the security held. In compliance thereof, Union Bank of India had
+informed the Bankruptcy Trustee that the value of the property stood at Rs.
+3.82 Crores as determined on 18.02.2021. This valuation was deliberately
+ignored by the Trustee without assigning any valid reason.
+34.
+It is submitted that pursuant to the affirmation of the impugned order
+by this Hon’ble Tribunal, the Respondent Bank has already filed IA No. 873
+of 2025 before the Adjudicating Authority seeking withdrawal of
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+relinquishment of its security interest, so that the property may be sold
+under the SARFAESI Act, 2002. The said application is pending adjudication.
+35.
+Learned counsel further submits that the Respondent Bank is
+presently willing and prepared to sell the mortgaged property under the
+SARFAESI Act to ensure maximum value realisation. The current market
+value of the property is approximately Rs. 4.5 Crores or more, and sale under
+SARFAESI would be far more beneficial to all stakeholders than continuation
+under a flawed bankruptcy sale process. In these circumstances, it is
+submitted that the impugned order calls for no interference on this ground
+either.
+36.
+Learned counsel submits that the conduct of the Bankruptcy Trustee
+is vitiated by undue haste and procedural irregularity. The first meeting of
+the Committee of Creditors was held even before the Respondent Bank’s
+claim was formally filed. The Bank filed its claim on 27.06.2023 along with
+disclosure of asset value, yet in the very next CoC meeting, the Trustee
+astonishingly announced that the property stood sold.
+37.
+It is submitted that despite objections being raised by the Bank’s
+representative during the meeting, the same were not recorded in the
+minutes. Furthermore, the Trustee failed to adhere to the mandatory 30-day
+period between issuance of auction notice and conduct of auction, a
+requirement which has long been embedded in SARFAESI jurisprudence and
+later clarified by this Hon’ble Tribunal in Naren Seth v. Sunrise Industries.
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+38.
+Learned counsel submits that the said judgment is merely clarificatory
+and does not lay down any new law. The statutory requirement of
+maintaining adequate notice period has existed for more than two decades,
+and the Trustee cannot take shelter under the plea that the judgment was
+rendered after the auction.
+39.
+It is further submitted that pursuant to the order dated 30.07.2024,
+the Bankruptcy Trustee has already refunded the sale consideration to the
+auction purchaser, which was accepted without protest. Having accepted the
+refund, the Appellant cannot approbate and reprobate by simultaneously
+challenging the setting aside of the auction.
+40.
+In view of the totality of facts, the settled legal position, and the binding
+finality of earlier appellate orders, Respondent No.1 submitted that the
+present appeal is devoid of merit and is liable to be dismissed.
+Submissions of Respondent No. 2 — Bankruptcy Trustee
+41.
+Ld. Counsel for the Bankruptcy Trustee Respondent No. 2 submits
+that the bankruptcy trustee has acted strictly in accordance with the letter
+and spirit of the Insolvency and Bankruptcy Code, 2016 and the applicable
+Bankruptcy Regulations at every stage of the process. It is submitted that in
+compliance with Regulation 8 of the PG Regulations, the preliminary report
+was duly prepared and furnished within the statutory timeline of 90 days
+from the bankruptcy commencement date. The preliminary report contained
+the complete particulars envisaged under Regulation 8, including the details
+of the assets and liabilities of the bankrupt, the strategy for resolution, and
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+the proposed plan of action for realisation of assets. The said report was duly
+submitted before the Adjudicating Authority as well as circulated to the
+Committee of Creditors (CoC) and the bankrupt, and there exists sufficient
+documentary material to demonstrate that no objections were raised at any
+stage by Union Bank of India regarding the filing, content or supply of the
+said report.
+42.
+It is further submitted that the registered valuer, Value Edge
+Professional Pvt. Ltd., an IBBI-approved entity, was appointed strictly in
+consonance with Regulation 30 of the PG Regulations, which mandates
+appointment of a registered valuer for valuation of the bankrupt’s estate. The
+valuation was duly undertaken by the certified expert using legally accepted
+methodologies in line with the International Valuation Standards (IVS). At no
+point during the process, including during multiple CoC meetings and
+progress reports submitted from time to time, did the creditor, Union Bank
+of India raise, even a single objection either to the appointment of the valuer
+or to the valuation conducted.
+43.
+Counsel further submits that the allegation that the bankruptcy
+trustee ought to have appointed an additional valuer under Regulation 30(3)
+is wholly misconceived, as the said provision is attracted only on the
+existence of special circumstances warranting such appointment. In the
+present case, no such special circumstance ever arose. On the contrary, the
+CoC was always privy to the valuation report and was consistently apprised
+of each development, including in the 2nd Progress Report dated 18.04.2023
+and the 3rd Progress Report dated 08.07.2023, both of which were circulated
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+to the CoC without any protest. Moreover, in the 3rd CoC meeting held on
+02.08.2023, the UBI/CoC, holding 100% voting share, approved the valuer’s
+fee and all expenses incurred toward the e-auction. Having expressly
+approved all such actions, the Bank cannot now be permitted to contend
+that an additional valuer ought to have been appointed or that the valuation
+was undervalued. The belated challenge initiated only upon filing of the
+application on 08.08.2023 clearly establishes that the objection is an
+afterthought without any legal or factual basis.
+44.
+Counsel for Respondent No. 2 submits that the challenge of UBI to the
+valuation and the e-auction is flawed and devoid of factual foundation. The
+asset in question was only a 50% undivided share in a residential flat in Uday
+Park, New Delhi, and therefore, the valuation necessarily required
+consideration of the inherent deterrents such as (i) the undivided nature of
+the title and (ii) pending litigation associated with the property, both of which
+materially reduce market value. The valuation was carried out using
+internationally accepted IVS standards and there is no evidence placed on
+record demonstrating that the valuation is incorrect, undervalued or
+commercially unreasonable.
+45.
+It is the submission of the Ld. Counsel that for several months,
+including until the 3rd CoC meeting on 02.08.2023, the CoC/UBI fully
+approved and endorsed both the valuation and the e-auction process at every
+stage. Only thereafter, unexplainedly and without any material justification,
+the Bank opted to file the application for setting aside the auction. Such
+conduct indicates that the Bank has attempted to retract from its previously
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+approved position without any cogent reason, and therefore, the challenge is
+contrary to the principles of acquiescence and approbation-reprobation. The
+record demonstrates categorically that the valuation and e-auction were
+conducted transparently, lawfully, and with complete knowledge and
+approval of the CoC.
+46.
+Ld. Counsel states that the realisation of the sole asset of the bankrupt
+was undertaken in strict conformity with law. The e-auction held on
+27.06.2023 was conducted via the IBBI-approved auction vendor i.e. NeSL,
+in which two eligible bidders duly participated. The Appellant herein emerged
+as the highest bidder at Rs.91,72,161/-, and the Letter of Intent was issued
+on the same day. The entire auction consideration was deposited by the
+successful bidder on 05.07.2023, following which the sale certificate was
+issued on the same date.
+47.
+Ld. Counsel further submits that Regulation 21 of the PG Regulations
+empowers the bankruptcy trustee to convene CoC meetings as and when
+necessary and further mandates that the CoC may request such a meeting
+when creditors having at least 33% voting share so demand. Therefore, if UBI
+had any reservation whatsoever regarding the valuation or auction process,
+which was already known to them and they could have sought a CoC meeting
+to address the same. Their silence and approval throughout the valuation
+and auction proceedings, followed by a challenge only after completion of the
+auction and issuance of the sale certificate, completely undermines their
+case. The trustee has strictly complied with both Section 152 and 153 of the
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+IBC, which empower and guide the sale of assets of the bankrupt estate,
+leaving no room for suggesting any illegality in the process.
+48.
+Counsel for Respondent No. 2 submits that the entire foundation of
+the impugned order rests solely on the assumption that a 30-day notice
+period was mandatory for the e-auction. It is submitted that there exists no
+provision under the Insolvency and Bankruptcy Code or the PG Regulations
+mandating a 30-day notice period for auction of assets by the bankruptcy
+trustee. The bankruptcy trustee is therefore not in breach of any statute or
+regulation.
+49.
+He further submitted that the judgment relied on by the Adjudicating
+Authority in Naren Seth v. Sunrise Industries & Ors., Company Appeal (AT)
+(Ins) No. 401 of 2023, was delivered on 04.07.2023. By this date, the auction
+had already been conducted (27.06.2023), the full amount had been
+deposited (05.07.2023), and the sale certificate had been issued. There was
+therefore no occasion in law for Respondent No. 2 to comply with a judgment
+that arose after conclusion of the auction process. Thus, the sole ground on
+which the impugned order has been passed is unsustainable in law.
+50.
+In view of the above submissions, Respondent No.2/ Bankruptcy
+Trustee argues that throughout acted transparently, objectively, impartially,
+and strictly in accordance with the IBC and regulations. Every action was
+undertaken with complete participation and prior knowledge of the
+CoC/UBI, and no irregularity has occurred at any stage. The present
+challenge is an afterthought, contrary to the record, and liable to be rejected.
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+Analysis and findings
+51.
+The only issue that we need to decide in this appeal is whether the
+Adjudicating Authority was justified in cancelling the e-auction held on
+27.06.2023 on the basis that the auction notice, published on 02.06.2023,
+allowed only twenty-five days before the auction date, and whether, in the
+facts of this case, this shortened period, along with other alleged procedural
+irregularities resulted in an auction process, that did not provide adequate
+market exposure or safeguard the value maximisation objective of the
+Insolvency and Bankruptcy Code. We need to look into whether the sale was
+conducted in a manner consistent with fairness, stakeholder consultation,
+and proper market participation, which are essential parts of the insolvency
+process.
+52.
+The Appellant argues that the auction was conducted in accordance
+with the Regulations. He points out that the Bankruptcy Trustee completed
+the valuation, published the auction notice in two newspapers on
+02.06.2023, conducted the auction on 27.06.2023 on the NeSL platform, and
+received participation from two genuine bidders. The Appellant immediately
+paid the full sale amount and received the sale certificate. He emphasises
+that Union Bank, despite being a major stakeholder, never raised any
+objections during the entire auction process viz. during the valuation stage,
+i.e. a stage when progress report dated 18.04.2023 was submitted to the
+bank; and at auction stage for which a progress report dated 08.07.2023 was
+submitted. The Appellant also states that the Regulations do not mandate a
+30-day period and that the Tribunal introduced this requirement on its own.
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+He maintains that, since no fraud or illegality occurred, the Tribunal should
+not have overturned a completed auction that had already transferred title
+in his favour.
+53.
+Per contra the Respondent No.1/Union Bank, states that the entire
+process suffered from shortcomings. The Bank explains that the property
+was not a standard flat, but a 50% undivided share in a residential unit, i.e.
+an asset which is not simple to evaluate and does require deeper due
+diligence from potential buyers. The Bank highlights that the valuation was
+done close to the publication date and was never shared in advance for
+discussion, because the Trustee acted quickly and the CoC was informed,
+only after steps were completed. The Bank submits it had no meaningful
+opportunity to request a second valuation or examine, whether the valuation
+reflected the true market potential. According to the Bank, a 25-day notice
+is not enough for a fractional, legally complicated asset, and this shortened
+period could have prevented more bidders from participating and offering a
+higher value.
+54.
+The Bankruptcy Trustee on the other hand maintains that every step
+was carried out properly and that Union Bank remained silent throughout.
+The Trustee says that two bidders’ participation shows that the publication
+was effective and that the Tribunal should not have interfered with a sale
+already completed.
+55.
+We note that, based on the claims admitted, the Committee of
+Creditors was constituted by the Bankruptcy Trustee, with Union Bank of
+India holding an overwhelmingly dominant share, having an admitted claim
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+of Rs. 71,90,78,635, which translated into 97.27% of the voting share. Arvind
+Jain was the second creditor with an admitted claim of Rs. 2,02,17,061,
+carrying only 2.73% of the voting share. ICICI Bank, though listed as a
+creditor, had no admitted claim and consequently no voting share. Thus,
+Union Bank of India was the principal and decisive creditor in the CoC,
+effectively representing almost the entire voting strength.
+56.
+In the present case, however, from the factual record, we find an
+important pattern that most of the key information was shared with the CoC,
+only after the Bankruptcy Trustee had already completed the activity. A
+review of the dates surrounding the process makes this pattern clear:
+Events completed before the first CoC meeting held on
+18.04.2023 - communicated only through 2nd Progress Report
+dated 18.04.2023:
+
+Appointment of valuer
+
+Completion of valuation
+
+Internal preparation and asset administration
+Events completed before the Second CoC meeting held on
+08.07.2023 - communicated only through 3rd Progress Report
+dated 08.07.2023:
+
+Publication of auction notice – 02.06.2023
+
+Auction conducted – 27.06.2023
+
+Highest bidder selected – 27.06.2023
+
+Sale certificate issued – 05.07.2023
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+57.
+These Progress reports merely narrated past events, rather than giving
+stakeholders an opportunity to discuss, question, or influence those steps.
+This “post-facto sharing” deprived the CoC of the opportunity to participate
+meaningfully at the valuation and auction-planning stages. In insolvency
+law, stakeholder consultation is not a formality; it is part of ensuring that
+the process maximises value and that the concern of major creditors,
+especially the largest financial creditor, such as Union Bank in this case, are
+addressed before crucial decisions are taken by the Bankruptcy Trustee.
+58.
+The CoC plays a very important role in IBC proceedings whether it is
+CIRP stage; Liquidation stage; or Bankruptcy of Personal Guarantors. The
+Code insists on primacy of CoC in CIRP proceedings, and keeping the CoC
+involved in decision-making process by informing them at every stage of
+liquidation and bankruptcy proceedings. post-facto sharing of activities
+already undertaken is akin to treating the CoC as a post-box, contrary to the
+objectives of IBC, which require keeping CoC informed well in time and
+consider its advice, if the same is in accordance with the Code. Bankruptcy
+Trustee, by keeping the CoC out of the loop, reinforced the Tribunal’s
+conclusion that the sale process did not fully meet the standards of fairness
+and value maximisation mandated under the Code. This clearly shows
+procedural lapse on the part of Bankruptcy Trustee which could vitiate the
+auction proceedings.
+59.
+It is in this context that the issue related to 25-day notice period
+becomes highly relevant. Although a 25-day gap between publication and
+auction may appear reasonable in a normal commercial sale, it cannot
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+automatically be treated as adequate in an insolvency auction, particularly
+for a complex asset like a half-share in a residential flat. This is the type of
+property, where buyers require more time to understand co-ownership
+issues, marketability risks, legal limitations, and the practical feasibility of
+purchasing an undivided share. In such a circumstance, a longer notice
+period 30 days or more may be practical to ensure that the market has a
+proper window to respond. The shorter 25-day window, coupled with limited
+prior consultation and delayed sharing of crucial information, increased the
+risk that fewer bidders would participate or that bidders would not have
+adequate time for due diligence. Even though two bidders participated in the
+auction, this does not prove full competitiveness. For specialised complex
+assets like fractional property, even a single additional bidder could
+significantly raise the price. When Union Bank questioned the process, the
+Tribunal had to examine whether this compressed timeline materially
+affected the fairness and transparency of the sale. In these circumstances,
+we find that the Tribunal’s concern was reasonable, and the 25-day notice
+period, as applied to the facts of this case, was indeed inadequate.
+60.
+We now take up the matter relating to alleged undervaluation of the
+asset as submitted by the Respondent No.1/Union Bank. In para 47 of their
+reply, Bank has submitted a table in this regard:
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+
+61.
+The above figures clearly show a wide variation in the valuation of the
+property over time, ranging from Rs. 2.75 crores in 2016, Rs. 3.82 crores in
+2021, and an approximate present market value of about Rs. 4.5 crores in
+2023. The Bankruptcy Trustee has taken a drastically lower valuation of only
+Rs. 0.90 crore for 50% of the property, as determined by its registered valuer
+in 2023 (the valuation of full property would be Rs. 1.80 cr.). It is material to
+note that this valuation of Rs. 0.90 crore, which ultimately formed the basis
+of the auction and sale in favour of the Appellant, was never shared with
+Union Bank of India prior to the conduct of the auction. The Bank was thus
+deprived of any meaningful opportunity to examine, question, or object to
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+this valuation, despite being the principal creditor. The non-sharing of such
+a crucial valuation figure, especially when it was substantially lower than all
+earlier valuations on record, seriously affected transparency and fairness of
+the sale process and prevented the Bank from raising timely concerns before
+the auction was concluded.
+62.
+We also take note of Regulation 30(3) of the IBBI (Bankruptcy Process)
+Regulations, 2019, which is extracted below:
+“Regulation 30. Valuation of assets.
+(3) The bankruptcy trustee may appoint an additional
+registered valuer, for valuing the assets of the bankrupt if
+required in the circumstances of the case, who shall
+independently submit his estimate as per sub-regulation (2).”
+As per the Regulation 30 (3) bankruptcy trustee may obtain more than
+one valuation to ensure a fair assessment of the asset. This would be
+required in peculiar circumstances of the case. The property in the present
+case was a 50% undivided share in a residential flat, which is inherently
+complex and not easily marketable. Obtaining only a single valuation,
+without prior stakeholder consultation, was therefore inadequate. This
+omission, when read with the short 25-day notice period and post-facto
+information sharing, reinforces the conclusion that the auction process did
+not ensure proper value discovery and justified the direction for fresh
+valuation and re-auction.
+63.
+We also note that despite being aware that the entire property was
+mortgaged in favour of Union Bank of India, Respondent No. 2 proceeded
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+with the valuation and sale without consulting the Bank or seeking
+directions from the Adjudicating Authority. The Respondent No. 2 was
+expected to act with greater caution while dealing with an encumbered asset,
+particularly where a secured creditor held a charge over the entire property.
+64.
+We further note that, Respondent No. 2 failed to carry out basic due
+diligence by verifying public records, which clearly reflected that Respondent
+No.1 had a charge over the property situated at First Floor, 117, Uday Park,
+New Delhi–110049. This lapse is material, especially when the bankrupt held
+only a 50% undivided share, yet the security interest extended to the whole
+asset. The fact that property was encumbered and 50% share of the property
+was in the name of Meenakshi Syal, the wife of bankrupt, and that SARFAESI
+proceedings are ongoing against both should have been highlighted in the
+auction notice.
+65.
+We also note that Respondent No. 2 did not share the valuation report
+with Union Bank of India prior to the auction, despite being aware that the
+Bank had disclosed the property value at around Rs. 3.80 crores in its claim
+form. The non-sharing of the valuation prevented the Bank from examining
+or questioning the valuation and adversely affected the transparency and
+fairness of the sale process.
+66.
+It is also to be noted that Respondent No. 2 failed to comply with
+Regulation 8(3)(d)(iv) of the IBBI (Bankruptcy Process for Personal
+Guarantors to Corporate Debtors) Regulations, 2019, which requires the
+bankruptcy trustee to place all relevant and material facts before the
+Adjudicating Authority. In the present case, Respondent No. 2 did not
+
+[PAGE 33]
+-33-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+disclose that the entire property, comprising the 50% share of the bankrupt
+and the remaining 50% share of his wife, Mrs. Meenakshi Syal, was
+mortgaged in favour of Union Bank of India and was already under
+SARFAESI proceedings initiated by the Bank. It was also not disclosed that
+the bankrupt had filed an application under Section 94 of the Code, the effect
+of which was to stall the SARFAESI action. Further, having taken assistance
+from the bankrupt under Section 153(1)(c) of the Code for administering the
+estate, the Trustee could not have been unaware of these facts. Despite such
+knowledge, the Trustee proceeded with valuation and sale without factoring
+in the existing encumbrance or coordinating with the secured creditor. This
+omission deprived the Adjudicating Authority of a complete factual picture
+and demonstrates a lack of due diligence, thereby undermining the fairness
+and transparency of the sale process.
+67.
+We also find it necessary to look into the Company Appeal (AT)(Ins) No.
+1437 of 2024 in the same C.P. (IB) No. 589 (PB)/2020 filed by the bankrupt
+Sh. Anil Syal who is also an Intervenor in this case. In the aforesaid appeal,
+the Appellant, Anil Syal, has sought, inter alia, setting aside of the impugned
+order dated 04.07.2024 passed by the Adjudicating Authority in IA No. 4421
+of 2023 in (IB) No. 589 (PB)/2020; and a direction to discharge the Appellant
+under Section 138(1)(a) of the Insolvency and Bankruptcy Code on the
+ground that one year has elapsed from the Bankruptcy Commencement
+Date; and such other consequential reliefs as may be deemed appropriate.
+The prayers in the said appeal have been extracted below:
+(i)
+Pass an order setting aside the impugned order dated
+04.07.2024
+passed
+by
+the
+Adjudicating
+
+[PAGE 34]
+-34-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+Authority i.e., Hon'ble NCLT, New Delhi Bench in IA
+4421/2023 in (IB) No. 589 (PB)/2020;
+(ii)
+Pass
+an
+order
+directing
+Hon'ble
+NCLT,
+New
+Delhi
+Bench to discharge the Appellant, u/s 138(1)(a), in the light of
+completion of one year from the Bankruptcy Commencement
+Date;
+(iii) Pass
+any
+other
+further
+order
+as
+this
+Appellate
+Tribunal
+may
+deem
+appropriate
+in
+the
+facts
+and
+circumstances of the instant case.
+
+68.
+This Appellate Tribunal passed the following order in the said appeal
+on 30.07.2024. The relevant paras 5 & 6 are extracted below:
+“5. In view of the aforesaid, we are of the view that in so far
+as present appeal, we do not find any ground to interfere
+with the order directing for reauction of the property. We,
+however, give liberty to the Appellant to make appropriate
+application before the Adjudicating Authority for raising the
+issue of discharge of Appellant.
+6. Learned counsel for the Appellant submits that although
+Appellant has no issue with regard to re-auction but the re-
+auction should be held by some other authority and he may
+be discharged in the meanwhile. We are unable to accept
+the submission of the Appellant that re-auction should be
+held by some other authority. It is the Bankruptcy Trustee
+who has to hold the auction as directed by the Adjudicating
+Authority. Appeal is disposed of accordingly.”
+69.
+The appellant had sought the setting aside of the impugned order
+dated 04.07.2024 in prayer (a) of his appeal as seen above. However, we can
+see from the decision of the Tribunal that it did not find any ground to
+interfere with the order directing re-auction of the property, nor did it agree
+
+[PAGE 35]
+-35-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+to the submission of the appellant that the re-auction should be held by
+another authority.
+70.
+We now examine the judgments relied upon by the Appellant in the
+context of the present factual matrix of this case:
+i. The first Judgment relates to Hon’ble SC’s decision in ‘Valji Khimji & Co.
+v. Official Liquidator (Civil Appeal No. 4992 of 2008)’. In this case Hon’ble
+Supreme Court observed that once a sale is confirmed and no illegality
+is found, it should not be lightly interfered with. In the present case,
+however, the irregularity identified goes to the heart of the insolvency
+sale process: information was shared only post-facto; and the auction
+notice allowed only a 25-day period for a complex asset requiring deeper
+market exposure. These circumstances created a real possibility of
+suppressed participation and incomplete value discovery. Valji Khimji
+(supra) involved no analogous irregularity; the ratio is distinguishable
+and cannot be applied to validate the present auction.
+ii. In ‘Celir LLP v. Bafna Motors (Civil Appeal Nos. 5542–5543 of 2023)’
+Hon’ble Supreme court declined to interfere in an auction, where the
+process had been repeatedly exposed to the market, multiple rounds of
+bidding had taken place, a surplus over the reserve price had already
+been achieved, and the stakeholder challenge was filed at a stage, where
+the auction had attained finality, without any defect being pointed out
+earlier. In the present matter, however, the challenge arose from the
+grievance of the secured creditor who also had 97% voting share in CoC
+and its grievance related to undervaluation of asset, and procedural
+
+[PAGE 36]
+-36-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+irregularities including inadequate notice, rushed valuation, and a
+compressed auction timeline for a fractional undivided share, which
+legitimately required wider publicity. Unlike Celir LLP, where the
+auction process was transparent, prolonged and fully market-tested, the
+present auction was conducted on a 25-day notice, without meaningful
+opportunity for creditors to verify valuation or broaden bidder
+participation. Hence, the principle in Celir LLP (supra), that courts
+should not reopen auction processes which are procedurally flawless
+and have undergone adequate price discovery is not applicable to this
+case.
+iii. The appellant further relied upon Hon’ble SC’s Judgment in ‘Sadashiv
+Prasad Singh v. Harendar Singh (Civil Appeal Nos. 161–162 of 2014)’.
+The ruling in this case related to the protection of a bona fide purchaser,
+where the sale had been confirmed in execution proceedings and no
+defect in the auction process had been demonstrated. The Supreme
+Court held that unless fraud or collusion is shown, a confirmed sale
+should not be set aside. That principle does not govern the present case
+because the irregularity here is not post-sale dissatisfaction, but relate
+to pre-sale procedural lapses; an insufficient auction notice period; lack
+of advance consultation with stakeholders; compressed valuation
+timelines; and the sale of a difficult asset (50% undivided share) without
+adequate market exposure. These circumstances directly affect the
+fairness and competitiveness of the auction, which is a central criterion
+under the insolvency framework. Sadashiv Prasad Singh (supra) did not
+involve insolvency law, did not consider stakeholder consultation duties,
+
+[PAGE 37]
+-37-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+and did not address value maximisation obligations. The precedent
+therefore cannot be applied to a case where the challenge arises from
+the flawed conduct of the auction rather than from any attempt to
+unsettle a procedurally sound sale.
+iv. Reliance also been placed upon the Judgment of Hon’ble SC in ‘Janatha
+Textiles v. Tax Recovery Officer (2008) 12 SCC 582’
+In this case Hon’ble Supreme Court held that unless a substantial
+injury or prejudice is shown, confirmed sales should not be set aside.
+This dealt with a tax recovery sale where the issue was whether minor
+procedural defects could invalidate an otherwise lawful auction. The
+present case, however deals with auction sale under Bankruptcy
+Proceedings under the code which is a complete legislation providing a
+comprehensive framework wherein all procedures are conducted
+according to the Act Rules and Regulations of the Code. Unlike the sale
+in Janatha Textiles, which involved no procedural error affecting market
+exposure or valuation integrity, the irregularities in the present case
+were significant and directly connected to the objective of achieving
+maximum value under the IBC. Therefore, Janatha Textiles offers no
+protection to the Appellant.
+We can see from the case laws cited by the appellant that none of the
+cases cited in support of his contentions are applicable in the current factual
+matrix.
+71.
+We have also gone through the judgment of this Appellate Authority in
+‘Naren Seth v. Sunrise Industries, [Company Appeal (AT)(Ins) No. 401 of
+
+[PAGE 38]
+-38-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+2023]’. It only explains and clarifies an existing principle that auctions must
+allow sufficient time between the auction notice and the auction date so that
+interested bidders can properly participate. The requirement of giving around
+30 days’ time between the notice and the auction has existed under the
+SARFAESI Act for more than 20 years and is therefore not a new legal
+requirement. Even though the judgment in Naren Seth (supra) was delivered
+after the auction in the present case, it merely clarifies a principle that was
+already part of the legal framework at the time the auction was conducted.
+In the case of Personal Bankruptcy, the entire process is dealt by Debt
+Recovery Tribunal (DRT hereinafter) under SARFAESI Act, which provides
+for a notice period of 30 days for the auction. In the specific case of
+Bankruptcy of personal guarantors of Corporate Debtors under IBC, the
+power of DRT has been vested in NCLT. So, the Adjudicating Authority in
+such cases has to apply the norms as followed by DRT. The Adjudicating
+Authority was therefore justified in relying on this judgment to assess the
+adequacy of the 25-day notice period. Since the auction in the present case
+was conducted with a shorter notice period, than that in case of similar
+proceedings in DRT; and NCLT has been vested with the power of DRT, the
+ratio laid down by the Naren (supra) applies directly to the present case. The
+finding of the Adjudicating Authority that the auction process was not
+sufficiently fair or transparent due to such short notice period is therefore
+absolutely correct.
+72.
+We also note that Respondent No.1 has already filed IA No. 873 of 2025
+before the Adjudicating Authority seeking withdrawal of relinquishment of
+
+[PAGE 39]
+-39-
+
+Company Appeal (AT) (Ins.) No. 1577 of 2024
+its security interest, so that the property may be sold under the SARFAESI
+Act, 2002. The said application is pending adjudication.
+73.
+We further note that the appellant has sought and obtained refund of
+the auction amount deposited by him, consequent to judgment of coordinate
+bench of this Court in Comp. App. (AT) (Ins.) No. 523 of 2025 dated
+08.07.2025. The appellant at the same time is pursuing this appeal. Such a
+conduct is not permissible, as he cannot be allowed to seek setting aside of
+impugned order from which he is not adversely affected.
+74.
+After carefully noting the complex nature of the asset; the under-
+valuation of the asset; repeated post-facto communication to the CoC and
+the effect of allowing only 25 days of notice, we fully endorse the findings of
+the Adjudicating Authority that the auction process did not provide sufficient
+opportunity for fair market participation and value discovery. We further
+note that the appellant has already taken the refund of auction amount paid
+by him.
+75.
+In view of above findings, we find no infirmity in impugned order. The
+appeal is hereby dismissed. No order as to costs. Pending I.As, if any, are
+also closed.
+[Justice N Seshasayee]
+Member (Judicial)
+
+[Mr. Arun Baroka]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+SA/Pragya (LRA)

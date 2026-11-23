@@ -1,0 +1,605 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+
+[Arising out of the Impugned Order dated 09.06.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, New Delhi
+Bench, Court-IV in C.P. (IB) No. 870/ND/2022]
+In the matter of:
+Ruchira Green Earth Private Limited
+Through its Authorised Representative
+Mr. Paras
+Having Address at:
+542-R Model Town, Yamuna Nagar,
+Haryana – 135001
+
+...Appellant
+Versus
+
+KLB Komaki Private Limited
+Having Address at:
+10, First Floor, Rani Jhansi Road,
+Jhandewalan, New Delhi
+Central Delhi 110055
+Email ID: KLBKOMAKI@GMAIL.COM
+.... Respondent
+Present:
+For Appellant
+: Mr. Anand Chhibbar, Sr. Advocate with Mr. Abhishek
+Anand, Mr. Karan Kohli, Mr. Vaibhav Sahni, Mr. Arjun
+Cbhibbar, Advocates.
+
+For Respondent
+: Dr. Swaroop George, Mr. Abhinandan Jain, Mr. Sunil
+Roy, Mr. Shivam Prajapati, Mr. Kartikey, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+09.06.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, New Delhi Bench-
+IV) in C.P. (IB) No. 870/ND/2022. By the impugned order, the Adjudicating
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 2 of 17
+
+Authority has dismissed the Section 9 petition filed by the Appellant-
+Operational Creditor. Aggrieved by the impugned order, the present appeal
+has been preferred by the Appellant-Ruchira Green Earth Private Limited.
+2.
+The brief factual matrix of the present case is that the Appellant-
+Operational Creditor, namely, Ruchira Green Earth Pvt. Ltd. is an MSME
+which was having business transactions with the Corporate Debtor-
+Respondent, namely KLB Komaki Pvt. Ltd. for supply of batteries. The
+Appellant had supplied batteries to the Respondent under purchase orders
+raised from time to time and issued invoices for payments. Inspite of alleged
+regular follow up by the Appellant, the Corporate Debtor started defaulting in
+making payments from August 2022. In view of unpaid invoices, the Appellant
+issued a Section 8 Demand Notice on 21.10.2022 on the Corporate Debtor.
+Since the Corporate Debtor did not reply to the Section 8 Demand Notice nor
+made the outstanding payments, the Appellant filed a Section 9 petition before
+the Adjudicating Authority on 30.11.2022 seeking initiation of CIRP of the
+Corporate Debtor. The Section 9 application was dismissed on 09.06.2025 by
+the Adjudicating Authority. Assailing the impugned order, the present appeal
+has been preferred by the Appellant.
+3.
+Making his submissions, Shri Anand Chhibbar, Ld. Sr. Counsel for the
+Appellant submitted that the Adjudicating Authority has erroneously
+dismissed the Section 9 application by holding that there was a pre-existing
+dispute between the Appellant and the Respondent. It was also submitted that
+the outstanding amount was a legally enforceable operational debt as it was
+supported by invoices, delivery confirmations and ledger entries. Reliance has
+been placed on the judgment of this Tribunal in Naresh Choudhary Vs
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 3 of 17
+
+Sterling Enamelled Wires Pvt. Ltd. in CA(AT)(Ins.) No. 39 of 2023 to
+contend that the Section 9 petition deserves to be admitted as the Corporate
+Debtor had acknowledged that an outstanding amount was due and payable
+to the Operational Creditor and given an assurance to clear the said amount.
+The invoices which formed the basis of the Section 9 application was
+unrelated to the alleged pre-existing disputes and pertained to an entirely
+separate set of invoices and transactions relating to supplies made between
+April to August 2022 which had never been disputed. By conflating unrelated
+transactions, the Corporate Debtor had fabricated a defence of pre-existing
+dispute while in reality there was no dispute. It was contended that the alleged
+dispute raised by the Corporate Debtor regarding the quality of battery
+supplied was not a genuine dispute but a moonshine dispute which is
+established by the fact that the Corporate Debtor even after raising complaints
+had placed a high value purchase order of Rs 6.32 Cr. on 09.08.2022.
+Further, the Adjudicating Authority wrongly relied on certain routine
+WhatsApp communications exchanged between two employees of both parties
+to hold them to be evidence of pre-existing disputes without properly
+examining their relevance. The Adjudicating Authority also failed to
+appreciate that the dispute raised by the Corporate Debtor that they had
+indemnified themselves vide an indemnity bond was without basis since the
+bond had been executed after the goods had already been supplied. The
+warranty document was also not applicable since it was not formally executed
+and hence could not have been treated as a ground of dispute. It was
+contended that the Corporate Debtor has raised these frivolous disputes as
+an afterthought to avoid discharging of their liabilities. The Ld. Sr. Counsel
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 4 of 17
+
+also asserted that the finding of the Adjudicating Authority overlooks the
+settled law laid down by the Supreme Court in Mobilox Innovations Pvt. Ltd.
+Vs Kirusa Software Pvt. Ltd. (2018) 1 SCC 353 which held that a pre-
+existing dispute must be genuine and one which is supported by evidence.
+4.
+Refuting the contentions made by the Appellant, the Ld. Counsel for the
+Respondent, Dr. Swaroop George submitted that the Operational Creditor had
+been supplying faulty batteries which caused huge loss to the Corporate
+Debtor due to resultant loss of consumer confidence in the Corporate Debtor.
+Asserting that it is an irrefutable fact that regular conversation was held on
+the WhatsApp Group between both parties regarding the defects in the
+batteries supplied, it was added that the Operational Creditor in their
+WhatsApp messages had admitted to the faults in the battery and assured to
+take corrective measures. The faulty goods were however either not replaced
+or even if replaced continued to remain faulty. Though the Operational
+Creditor had assured to supply batteries free from any manufacturing defects
+and had even given a warranty proposal of three years against all defects in
+material and workmanship, the Operational Creditor did not honour the
+warranty commitments. The failure on the part of the Operational Creditor to
+provide after-sales service within the warranty period was yet another cause
+of dispute between the parties. Further adverting attention to the indemnity
+bond, it was contended that there is no crystallization of the claim and no
+admission on the part of the Corporate Debtor qua the operational debt
+claimed by the Appellant. Since there was no debt due or owed, the question
+of default did not arise. Hence, it was contended that the Adjudicating
+Authority has therefore rightly held basis the WhatsApp communications,
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 5 of 17
+
+photographs, warranty terms and indemnity bond that there was evidence of
+pre-existing dispute and therefore proceeded to dismiss the Section 9
+application.
+5.
+We have duly considered the arguments advanced by the Learned
+Counsel for both the parties and perused the records carefully.
+6.
+The short point for our consideration is whether an operational debt is
+due and payable in the instant case and whether there is any pre-existing
+dispute between the parties in the context of the debt in terms of the test laid
+down by the Hon’ble Supreme Court in Mobilox Innovations (P) Ltd. v.
+Kirusa Software (P) Ltd. (2018) 1 SCC 353.
+7.
+It is the case of the Appellant that the Adjudicating Authority has
+ignored material evidence on record that the Corporate Debtor had
+acknowledged the outstanding operational debt and sent a communication
+dated 16.08.2022 requesting the Appellant to send current invoices which is
+a clear admission/acknowledgement of liability on their part towards the
+Operational Creditor. The Adjudicating Authority had also committed an error
+in ignoring the commercial conduct of both the parties which conduct does
+not reveal any trace of dispute. The conduct of the Corporate Debtor by way
+of placing of fresh purchase orders including a high-value purchase order of
+Rs. 6.32 cr on 09.08.2022 shows that in reality there was no dispute.
+Submission was also pressed that WhatsApp messages relied upon by the
+Adjudicating Authority only reflected routine after-sales correspondences and
+such informal grievances do not merit treatment as a genuine pre-existing
+dispute envisaged under the IBC. Sans any independent test report, the
+allegations of quality defects in respect of the batteries supplied by the
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 6 of 17
+
+Appellant lacked conclusive proof. The Adjudicating Authority also failed to
+appreciate that the issue of indemnity bond raised by the Respondent as a
+ground of dispute was misplaced as this bond was executed after the goods
+had already been supplied and therefore inapplicable in respect of the
+outstanding operational debt which had already crystallised. The disputes
+raised by the Respondent was therefore dubbed as moonshine dispute by the
+Appellant.
+8.
+Per contra, it is the case of the Respondent that in their reply filed to
+the Section 9 application before the Adjudicating Authority they had
+categorically denied and disputed the outstanding debt claimed by the
+Operational Creditor. At no stage had they ever admitted the debt or assured
+that necessary payments will be made to the Operational Creditor. It was
+asserted that the Appellant had misconstrued the communication dated
+16.08.2022 to send current invoices to be an admission/acknowledgement of
+any liability on their part towards the Operational Creditor. The Learned
+Counsel for the Respondent further pointed out that the Corporate Debtor
+had raised issues with respect to deficient quality of battery and poor after-
+sales services to the Operational Creditor from May 2022 onwards as
+communicated through several WhatsApp messages from time to time. The
+Operational Creditor had also admitted defects in the battery supplied by
+them in their email dated 10.09.2022 and inspite of their assurances to
+replace the battery did not take appropriate remedial measures in that
+direction. From the contents of the above multifarious communications
+available on record, it is clear that they had clearly articulated an array of
+disputes arising from the warranty document, indemnity bond, defective and
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 7 of 17
+
+faulty battery supply, denial of debt etc. It was vehemently contended that
+the Adjudicating Authority not finding these disputes to be spurious, frivolous
+or vexatious correctly applied the ratio of the Mobilox judgment supra in
+dismissing the Section 9 application.
+9.
+Before we deliberate on the issue at hand and weigh the rival
+contentions made by both parties, it may be useful to notice the findings
+recorded by the Adjudicating Authority. The relevant portions of the impugned
+order are as extracted below:-
+“6. ANALYSIS AND FINDINGS:
+.......
+iv. From the documents and submissions placed on record, it is
+evident that there were substantial quality issues in the batteries
+supplied by the Applicant, which were communicated to the Applicant
+at various stages starting from May 2022 as evident from the chat.
+The record reveals contemporaneous and repeated communications
+acknowledging and discussing the defects, including the Applicant’s
+own assurances for rectification and replacement. It is also noted that
+the Applicant had signed an indemnity bond accepting responsibility
+for any fire hazards or defects, which were allegedly not honoured.
+The disputes cannot be termed as mere bald assertions or moonshine
+defences raised for the first time in response to the demand notice;
+rather, they appear to be genuine and pre-existing in nature.
+
+v. The contention of the Operational Creditor that there was no such
+dispute is belied by the documents and communications filed by the
+Corporate Debtor. The Applicant's assertion in its affidavit under
+Section 9(3)(b) that no disputes were ever raised by the Corporate
+Debtor is, therefore, incorrect and appears to be a deliberate
+suppression of material facts. Such suppression further casts doubt
+on the bona fides of the Application and undermines its
+maintainability. Further, the cases relied upon by the Applicant are
+distinguishable on facts and not applicable to the present case.
+
+(vi) These disputes in the present case are genuine and substantial,
+rather than being spurious, hypothetical, or illusory. It is well-settled
+by the Hon'ble Supreme Court in Mobilox Innovations Pvt. Ltd. v.
+Kirusa Software Put. Ltd., (2018) 1 SCC 353, that if there exists
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 8 of 17
+
+a genuine dispute prior to the issuance of demand notice, the
+Application under Section 9 is liable to be rejected.
+(vii) In view of the above, this Adjudicating Authority finds that the
+existence of a pre-existing dispute between the parties serves as a
+valid ground for rejecting the present Application.”
+(Emphasis supplied)
+From the above findings, we note that the Adjudicating Authority has applied
+the test laid down in the Mobilox judgment supra in rejecting the Section 9
+application by holding that the disputes raised by the Corporate Debtor was
+both genuine and pre-existing and not spurious, hypothetical or illusory.
+10.
+It is a well settled legal proposition that for a pre-existing dispute to be
+a ground to nullify an application under Section 9, the dispute raised must
+be truly existing at the time of filing a reply to notice of demand as
+contemplated by Section 8(2) of IBC or even at the time of filing the Section 9
+application.
+11.
+We now proceed to examine whether in the instant factual matrix the
+disputes raised by the Corporate Debtor can qualify to be treated as pre-
+existing dispute which can constitute the basis for rejection of Section 9
+application.
+12.
+At the very outset we take notice that in the reply to the Section 9
+application as placed at page 657 of APB, it has been clearly stated by the
+Corporate Debtor that “there is no crystallisation of the claim, there is no debt
+due or owed or default on the part of the Respondent and since that is sine qua
+non for admission of an application under Section 9 of the Insolvency and
+Bankruptcy Code 2016, the present petition deserves to be dismissed.” We also
+notice that the Corporate Debtor has further stated in the said reply that large
+sums of money as well as replacement products are due from the Operational
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 9 of 17
+
+Creditor and that for such reasons the Section 9 petition deserves to be
+dismissed. Further the Appellant vide their WhatsApp message of 10.09.2022
+had not only assured to resolve the complaints raised by the Respondent
+regarding the batteries supplied by them on account of FRC (Fire Related
+cases) but also admitted that more than Rs. 3 crores worth of batteries were
+defective. Further, a few days before the Appellant sent the demand notice,
+the Respondent had communicated to the Appellant that the replacement
+batteries supplied were also defective. This by itself shows that the debt
+amount was yet to crystallise and this coupled with the fact that the Appellant
+had failed to replace the batteries by the time the demand notice was sent
+clearly shows that there were pre-existing dispute between the two parties.
+13.
+Having noticed that the Corporate Debtor has denied the existence of
+debt qua the Appellant, we now proceed to examine the tenability of the
+argument canvassed by the Corporate Debtor that the claim of Operational
+Creditor had not crystallized since the transactions with the Operational
+Creditor was embroiled in dispute. It is an indisputable fact that the Corporate
+Debtor had placed purchase order of batteries on them between October 2021
+to December 2021. The Corporate Debtor had purportedly received
+complaints of manufacturing defects and quality issues from their
+consumers/dealers of the batteries being sub-standard. This supply of
+defective batteries was communicated on 29.12.2021 to the Operational
+Creditor, a fact which has not been denied by the Appellant as noticed at page
+727 of Appeal Paper Book (APB). Following the complaint, as per the
+Corporate Debtor, an Engineer of the Operational Creditor carried out an
+inspection and assured to replace the defective batteries but backtracked
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 10 of 17
+
+thereafter and replaced only limited number of batteries which also turned
+out to be defective. To the contrary, the Appellant in their Rejoinder Reply to
+the Section 9 application admitted that while they had received this message
+of defective batteries from the Corporate Debtor, they had replaced all
+defective batteries prior to sending of Demand Notice and that the complaints
+stood closed.
+14.
+Quite clearly, there is clear difference of standpoint between the
+Corporate Debtor and the Operational Creditor as to whether the complaint
+with respect to defective batteries was a continuing dispute as claimed by the
+Corporate Debtor or the same stood resolved with replacement of defective
+battery as claimed by the Appellant.
+15.
+When we further examine the exchange of correspondence between the
+two parties, we find that the Respondent had informed the Appellant on
+16.05.2022 that batteries 72*39 had got burnt due to the excessive increase
+in temperature of battery on account of manufacturing defects. This was
+reiterated through WhatsApp messages on 05.06.2022, 06.06.2022 and
+07.06.2022 as placed at page 686-688 of APB. On 07.06.2022 we also find
+that the Appellant apologized for the defects and admitted to the deficiency
+besides agreeing to replace them as a corrective measure. Similar chats
+continued to be exchanged in the subsequent months including short-
+circuiting of batteries and fire related cases allegedly posing as hazard to life
+and property as placed at pages 693, 698-699 of APB. The dispute between
+them seemed to have reached a head in September-October 2022 as is evident
+from the tone and tenor of messages exchanged as extracted below:
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 11 of 17
+
+(On 10.09.2022)
+
+Corporate Debtor: Replace all 600 batteries of December month with
+new batteries. Reason for ask - Multiple FRC cases for the same lot of
+December.
+Operational Creditor: First of all, we want to say we stand by with
+every request Komaki makes and are ready to replace each and every
+battery to gain your trust and customer satisfaction. We have already
+given 135 new batteries till date for that lot. And are prepared to give
+the remaining amount as well. We have a couple of requests from our
+side.
+1. Based on our learnings, we want to give new batteries only with
+Software BMS to ensure extra safety and better performance. We
+request Komaki to help us out with the additional cost.
+2. Given the replacement will directly impact us with over 3 Cr hit, we
+request to increase our business with Komaki to the maximum
+possible so that we can cover for these losses in coming months.
+
+(On 21.09.2022)
+Corporate Debtor: What about 250 pcs replacement batteries you
+committed in our office las Week.
+Operational Creditor: We have started production last week. Batteries
+are getting ready.
+Operational Creditor: 250 pcs replacement had to reach us by last
+week end but nothing sent till today.
+
+(On 17.10.2022)
+Corporate Debtor: These batteries provided by you are garbage
+replacement.
+(Emphasis supplied)
+16.
+It is also clear from the above messages that the Respondent was
+consistently badgering the Appellant about defective batteries supplied by
+them and insisted on their replacement. Even before the demand notice was
+issued on 21.10.2022, the Corporate Debtor had sent a terse message to the
+Appellant that even the replaced batteries were faulty and were like “garbage”.
+The Appellant never denied the exchange of these chats. We also notice that
+the Appellant had recognised the need to replace the batteries though they
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 12 of 17
+
+also tried to slip in issues relating to additional costs etc. Further when we
+see the Rejoinder Reply of the Appellant to the Section 9 application, we find
+that the Operational Creditor took a contrary stand and stated that they had
+never apologized for supply of faulty battery but that they had only expressed
+their concern as a gesture to retain the Corporate Debtor as their customer.
+It was also their contention that necessary remedial measures had been taken
+by them and that the complaint stood closed. We also find that the Appellant
+had thus tried to impart a new dimension and perspective to their email and
+WhatsApp messages which was different from how the messages were
+contemporaneously understood by the Corporate Debtor at the time when
+these messages were exchanged. All this when seen cumulatively together
+display a clear sign of pre-existing dispute between the two parties. Given this
+scenario, the reliance placed on Naresh Choudhary judgement supra by
+the Appellant is misplaced since in the present case, the facts are
+distinguishable in that the Corporate Debtor had not acknowledged any
+outstanding debt while sending the WhatsApp messages articulating
+disputes.
+17.
+Thus, to return our findings, we are of the view that by no stretch of
+imagination can the regular exchange of these WhatsApp chats on the quality
+of battery supplied and the replacement modalities of defective batteries can
+be treated as mere routine business communications lacking the flavour of
+pre-existing dispute.
+18.
+We find that the Corporate Debtor has also raked up the issue that the
+Appellant had given a warranty policy of 3 years vide email dated 22.04.2021
+which had been breached by the Appellant. We find the email conveying the
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 13 of 17
+
+“Warranty of 3* years 750-800 lifecycles” at page 680 of APB. When we look
+at this Warranty document, we notice that Clause 2 provided warranty against
+all manufacturing defects in material and workmanship of the batteries. The
+warranty was to start from the date of the billing and it is the contention of
+the Corporate Debtor that only on the basis of the said warranty that they
+began to place orders for batteries. It is pertinent to notice that the warranty
+document also pre-dates the issue of Demand Notice. At page 808 of APB, we
+also notice that the Respondent had messaged the Appellant to follow the
+warranty terms which had been “mutually decided” to which the Appellant
+had given an affirmation to surely follow the terms of the warranty proposal.
+It is equally pertinent to note that that the Appellant has not controverted the
+email or the WhatsApp chats on the warranty document. However, it has been
+subsequently contended by the Appellant that this warranty document was
+only a draft proposal which was yet to be formally signed and accepted by
+both the sides and hence placing any reliance on the same is misplaced.
+Without getting into finding out as to whether the warranty was actually
+executed or not, we nevertheless would like to observe that the applicability
+of the warranty had become a bone of contention between the two parties and
+this by itself goes into the root of the matter as a pre-existing dispute.
+19.
+It is also contended by the Corporate Debtor that the Appellant also
+undertook by way of a duly signed and stamped Indemnity Bond dated
+27.08.2022 that the Appellant would be liable for all repairs/replacement of
+the defective batteries already supplied, under supply and to be supplied in
+the future as well and that the Appellant shall compensate the Respondent
+for any losses caused due to the faulty batteries supplied by the Appellant.
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 14 of 17
+
+The relevant clauses of the Indemnity Bond as placed at page 70 of APB are
+as extracted below:
+WHEREAS, Indemnifier has assured Indemnified that the batteries (for
+electric vehicle) so already supplied and still being supplied and to be
+supplied in the future by Indemnifier were/are/ will be of good quality
+and there are no issues in the said batteries. That, believing the above
+representations and assurances of the Indemnifier, the Indemnified
+has purchased and continues to purchase the batteries so supplied by
+the Indemnifier and has further sold and continues to sell the said
+batteries along with its E-Vehicles(battery-operated).
+2. That, the Indemnifier agrees and undertakes that, in case the end
+customer/dealer/distributor
+of
+the
+Indemnified
+approach
+the
+Indemnified in regard to any repair of faults/defects, fire issues,
+exchange, replacement etc, of the said batteries within the warranty
+period of 39 months from the date of sale of batteries by the
+Indemnified to its end-customers/dealers/distributors etc, then, in that
+case, the Indemnifier shall be solely responsible for the repair of
+faults/defects, fire issues, exchange, replacement etc of the said
+batteries and the Indemnifier shall keep the Indemnified absolutely
+indemnified in the events above and the Indemnified shall have
+absolutely no liability towards any person. KLB/Indemnified shall
+return the said faulty batteries to the Indemnifier by raising an Invoice
+on the Indemnifier and the Indemnifier shall be bound to honour the
+said Invoice/s and shall buy back the said faulty batteries from
+KLB/Indemnified within 24 hours of receipt of such Invoice from the
+Indemnified. The Indemnifier agrees and undertakes to repair the said
+returned batteries or in case of irreparable faults, the Indemnifier
+undertakes to replace the said batteries with new batteries, in either
+case keeping KLB indemnified, against any claims in regard to the said
+batteries. The Indemnifier shall and undertakes to bear the
+losses/damages etc in case of any fire issues in the batteries and to
+provide necessary requisite servicing/service in regards to the said
+batteries.
+(Emphasis supplied)
+
+20.
+From a plain reading of the above clauses of the Indemnity Bond, it is
+clear that that the Appellant would be liable for all repairs/replacement of the
+batteries for a warranty period of 39 months from the date of invoice including
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 15 of 17
+
+the batteries already sold. Nothing has been placed on record by the Appellant
+to establish that the indemnity bond was not signed by them. Nothing on
+record
+shows
+that
+any
+steps
+were
+taken
+by
+the
+Appellant
+to
+contemporaneously seek cancellation of the indemnity bond. However, in
+their Rejoinder Reply to the Section 9 application it has been belatedly
+contended that indemnity bond was signed under coercion and duress that
+further payments would not be released until the Appellant had signed the
+bond. When the signing of the indemnity bond by the Appellant as such is not
+disputed, for the Appellant to subsequently contend that this was signed
+under intimidation and not out of free-will is a matter that would clearly
+require deeper investigation and trial which is clearly beyond the scope of
+summary proceedings under IBC. Hence the Adjudicating Authority did not
+commit any error in holding the indemnity bond to be another ground of pre-
+existing dispute and factoring the same in rejecting the Section 9 application.
+21.
+At this stage, we may refer to paragraph 51 of the judgment of the
+Hon’ble Supreme Court in Mobilox judgment supra wherein it has been held
+that Adjudicating Authority while rejecting a Section 9 application has to only
+notice whether there is a dispute pending between the parties which dispute
+warrants further investigation. In paragraph 51, the following was laid down:
+“51. It is clear, therefore, that once the operational creditor has filed an
+application, which is otherwise complete, the adjudicating authority
+must reject the application under Section 9(5)(2)(d) if notice of dispute
+has been received by the operational creditor or there is a record of
+dispute in the information utility. It is clear that such notice must bring
+to the notice of the operational creditor the “existence” of a dispute or
+the fact that a suit or arbitration proceeding relating to a dispute is
+pending between the parties. Therefore, all that the adjudicating
+authority is to see at this stage is whether there is a plausible
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 16 of 17
+
+contention which requires further investigation and that the “dispute”
+is not a patently feeble legal argument or an assertion of fact
+unsupported by evidence. It is important to separate the grain from the
+chaff and to reject a spurious defence which is mere bluster. However,
+in doing so, the Court does not need to be satisfied that the defence is
+likely to succeed. The Court does not at this stage examine the merits
+of the dispute except to the extent indicated above. So long as a dispute
+truly exists in fact and is not spurious, hypothetical or illusory, the
+adjudicating authority has to reject the application.”
+
+22.
+It is well settled that in Section 9 proceedings, the Adjudicating
+Authority is not supposed to enter into final adjudication with regard to
+existence of dispute between the parties regarding operational debt. What has
+to be looked into is whether the defence raises a dispute which needs further
+adjudication by a competent court. Disputes pertaining to contractual issues
+are not to be resolved in Section 9 proceedings. On hearing both the parties
+and perusing the documents/materials placed on record, we are satisfied that
+the Adjudicating Authority did not commit any error in finding the defence
+raised by the Corporate Debtor not to be one in the nature of being a patently
+feeble legal argument or being a hypothetical assertion unsupported by
+evidence.
+23.
+The Adjudicating Authority therefore did not commit any error rejecting
+the Section 9 application after noticing the voluminous exchange of chat and
+email communications between the Corporate Debtor and Operational
+Creditor spread over a long period of time on the supply of defective goods,
+which clearly establishes that there were serious differences between them in
+the nature of real pre-existing disputes. If we apply the test laid down in
+Mobilox judgement supra to the facts of the present case it is clear that the
+defence raised by the Corporate Debtor in their reply filed in Section 9
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 1102 of 2025
+Page 17 of 17
+
+application is not illusory or moonshine. For such disputed operational debt,
+Section 9 proceeding under IBC cannot be initiated at the instance of the
+Operational Creditor.
+24.
+For the foregoing reasons, we are of the considered view that the
+Adjudicating Authority has rightly dismissed the application of the Appellant
+filed under Section 9 of IBC. We are satisfied that the impugned order does
+not warrant any interference. We however make it clear that in the event the
+Appellant seeks remedy before any other appropriate forum, it shall be open
+for the Appellant to do so in accordance with law. There is no merit in the
+Appeal. The Appeal is dismissed. No order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 07.08.2025
+
+Abdul/Harleen

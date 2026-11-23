@@ -1,0 +1,182 @@
+# FILE 001-58272.txt  n_chars=78934  units=598  paragraphs=244
+# SCOPE: legal reasoning starts at char 33581 (unit u290) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 61460 (unit u465) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 33581 hidden (facts/procedure; use --show-all to see them) --
+u290 p159  [33581-33594) H | AS TO THE LAW
+u291 p160  [33595-33597) | I.
+u292 p160  [33598-33654) | ALLEGED violation of Articles 9 and 10 of the Convention
+u293 p161 ¶34 [33659-33839) | In his application Mr Gerger submitted that his conviction pursuant to section 8 of the Prevention of Terrorism Act (Law no. 3713) had breached Articles 9 and 10 of the Convention.
+u294 p161  [33841-34152) | The Court considers however that, as the Government and the Commission have proposed, this complaint should be considered from the standpoint of Article 10 alone (see, among other authorities, the Incal v. Turkey judgment of 9 June 1998, Reports of Judgments and Decisions 1998-.., p. .., § 60), which provides:
+u295 p161  [34153-34156) Q | “1.
+u296 p161  [34157-34205) Q | Everyone has the right to freedom of expression.
+u297 p161  [34206-34373) Q | This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers.
+u298 p161  [34374-34491) Q | This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.
+u299 p162 ¶2 [34495-35078) | The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.”
+u300 p162  [35079-35081) | A.
+u301 p163  [35082-35110) H | Existence of an interference
+u302 p164 ¶35 [35115-35368) | Those appearing before the Court agreed that the applicant’s conviction following the reading out of the message at the ceremony on 23 May 1993 (see paragraph 10 above) amounted to an interference with the exercise of his right to freedom of expression.
+u303 p164  [35369-35485) | Such an interference breaches Article 10 unless it satisfies the requirements of the second paragraph of Article 10.
+u304 p164  [35486-35713) | The Court must therefore determine whether it was “prescribed by law”, was directed towards one or more of the legitimate aims set out in that paragraph and was “necessary in a democratic society” to achieve the aims concerned.
+u305 p164  [35714-35716) | B.
+u306 p165  [35717-35751) H | Justification for the interference
+u307 p166  [35752-35754) | 1.
+u308 p166  [35755-35774) Q | “Prescribed by law”
+u309 p167 ¶36 [35779-36004) | The applicant submitted that the notion of the indivisibility of the State, as set out in section 8 of the Prevention of Terrorism Act (Law no. 3713), was so vague as to make his conviction under that provision unforeseeable.
+u310 p168 ¶37 [36009-36050) | The Government contested that submission.
+u311 p169 ¶38 [36055-36254) | In this instance, the Court intends to adopt the Commission’s approach of examining the case on the basis that the section did satisfy the foreseeability requirements inherent in the notion of “law”.
+u312 p169  [36255-36257) | 2.
+u313 p170  [36258-36272) H | Legitimate aim
+u314 p171 ¶39 [36277-36412) | The applicant asserted that his conviction did not pursue any of the aims that are legitimate under the second paragraph of Article 10.
+u315 p172 ¶40 [36417-36545) | The Commission considered that the interference was aimed at maintaining “national security” and preventing “[public] disorder”.
+u316 p173 ¶41 [36550-36661) | The Government submitted that it had also been intended to preserve “territorial integrity” and national unity.
+u317 p174 ¶42 [36666-37199) | The Court considers that, having regard to the sensitivity of the security situation in south-east Turkey (see the Zana v. Turkey judgment of 25 November 1997, Reports 1997-VII, p. 2539, § 10) and to the need for the authorities to be alert to acts capable of fuelling additional violence, the measures taken against the applicant can be said to have been in furtherance of certain of the aims mentioned by the Government, namely the protection of national security and territorial integrity and the prevention of disorder and crime.
+u318 p174  [37200-37402) | This is certainly true where, as with the situation in south-east Turkey at the time of the circumstances of this case, the separatist movement had recourse to methods which rely on the use of violence.
+u319 p174  [37403-37405) | 3.
+u320 p174  [37406-37441) Q | “Necessary in a democratic society”
+u321 p174  [37442-37445) | (a)
+u322 p174  [37446-37495) | Arguments of those appearing before the Court (i)
+u323 p175  [37496-37509) H | The applicant
+u324 p176 ¶43 [37514-37758) | The applicant submitted that by associating the opinions expressed in his message with terrorist crime and by convicting him the National Security Court had hindered free discussion on the Kurdish problem and criticism of the official ideology.
+u325 p176  [37759-38024) | In addition, the National Security Court had not shown that the message was an incitement to violence or set out in its judgment the objective criteria on which it had relied in finding that the applicant’s opinions might threaten the “indivisibility of the State”.
+u326 p176  [38025-38174) | Lastly, the applicant complained that he had been punished twice for the same offence, following the amendments made by Law no. 4126 to Law no. 3713.
+u327 p176  [38175-38179) | (ii)
+u328 p177  [38180-38194) H | The Government
+u329 p178 ¶44 [38199-38614) | The Government emphasised the fact that the ceremony on 23 May 1993 had been held in memory of people who had taken part in acts of terrorism at the end of the 1960s. They quoted passages from the applicant’s message which they said were intended to incite citizens of Kurdish origin to engage in armed combat against the Turkish State, supported separatist violence and glorified the Kurdish independence movement.
+u330 p178  [38615-38785) | The message was no mere analysis of the situation or even a criticism of the Turkish authorities but an encouragement for Kurdish terrorism and the activities of the PKK.
+u331 p178  [38786-38936) | Article 10 left Contracting States a particularly broad margin of appreciation in cases where their territorial integrity was threatened by terrorism.
+u332 p178  [38937-39310) | What is more, when confronted with the situation in Turkey – where the PKK systematically carried out massacres of women, children, schoolteachers and conscripts – the Turkish authorities had a duty to prohibit all separatist propaganda, which could only incite violence and hostility between society’s various component groups and thus endanger human rights and democracy.
+u333 p178  [39311-39633) | Lastly the Government submitted that, since the message had been read out at a time when, taking advantage of the disorder created on the border with Iraq by the Gulf War, the PKK had been escalating its operations in south-east Turkey, the applicant’s conviction had by no means been disproportionate to the aims pursued.
+u334 p178  [39634-39639) | (iii)
+u335 p179  [39640-39654) H | The Commission
+u336 p180 ¶45 [39659-39932) | The Commission adverted to the “duties and responsibilities” mentioned in the second paragraph of Article 10, which made it important for people expressing an opinion in public on sensitive political issues to ensure that they did not condone “unlawful political violence”.
+u337 p180  [39933-40208) | Freedom of expression nevertheless included the right to engage in open discussion of difficult problems like those with which Turkey was confronted with a view to analysing, for example, the historical causes of the situation or to expressing opinions on possible solutions.
+u338 p180  [40209-40441) | The Commission noted that in his message the applicant had accused the Turkish State of denying the Kurds their basic rights; he had been particularly robust in his criticism of Turkey and had alluded to the liberation of the Kurds.
+u339 p180  [40442-40544) | It nonetheless considered that that was not sufficient to justify the criminal penalty imposed on him.
+u340 p180  [40545-40734) | It noted in particular that although the message referred to the guerrilla in the mountains of Kurdistan, it did so solely as a “factual element”, without inciting others to violent action.
+u341 p180  [40735-40865) | The applicant’s conviction therefore constituted a form of censorship, which was incompatible with the requirements of Article 10.
+u342 p180  [40866-40869) | (b)
+u343 p181  [40870-40892) H | The Court’s assessment
+u344 p182 ¶46 [40897-41174) | The Court reiterates the fundamental principles underlying its judgments relating to Article 10, as set out in, for example, the Zana v. Turkey judgment (cited above, p. 2547-48, § 51) and the Fressoz and Roire v. France judgment of 21 January 1999, Reports 1999-, p. …, § 45).
+u345 p182  [41175-41361) | (i) Freedom of expression constitutes one of the essential foundations of a democratic society and one of the basic conditions for its progress and for each individual’s self-fulfilment.
+u346 p182  [41362-41590) | Subject to paragraph 2 of Article 10, it is applicable not only to “information” or “ideas” that are favourably received or regarded as inoffensive or as a matter of indifference, but also to those that offend, shock or disturb.
+u347 p182  [41591-41708) | Such are the demands of that pluralism, tolerance and broadmindedness without which there is no “democratic society”.
+u348 p182  [41709-41887) | As set forth in Article 10, this freedom is subject to exceptions, which must, however, be construed strictly, and the need for any restrictions must be established convincingly.
+u349 p182  [41888-42008) | (ii) The adjective “necessary”, within the meaning of Article 10 § 2, implies the existence of a “pressing social need”.
+u350 p182  [42009-42266) | The Contracting States have a certain margin of appreciation in assessing whether such a need exists, but it goes hand in hand with European supervision, embracing both the legislation and the decisions applying it, even those given by an independent court.
+u351 p182  [42267-42422) | The Court is therefore empowered to give the final ruling on whether a “restriction” is reconcilable with freedom of expression as protected by Article 10.
+u352 p182  [42423-42639) | (iii) In exercising its supervisory jurisdiction, the Court must look at the interference in the light of the case as a whole, including the content of the impugned statements and the context in which they were made.
+u353 p182  [42640-42862) | In particular, it must determine whether the interference in issue was “proportionate to the legitimate aims pursued” and whether the reasons adduced by the national authorities to justify it are “relevant and sufficient”.
+u354 p182  [42863-43116) | In doing so, the Court has to satisfy itself that the national authorities applied standards which were in conformity with the principles embodied in Article 10 and, moreover, that they based themselves on an acceptable assessment of the relevant facts.
+u355 p183 ¶47 [43121-43516) | The Court observes that the message addressed by Mr Gerger to those who attended the ceremony on 23 May 1993 sought to vindicate the acts of Deniz Gezmiş, Yusuf Aslan and Hüseyin İnan, who at the end of the 1960s had founded an extreme left-wing movement and had in May 1972 been executed after receiving the death sentence for using violence with the aim of destroying the constitutional order.
+u356 p183  [43517-43852) | Using words with Marxist overtones, the applicant asserted, in particular, that the Turkish Republic was “based on negation of the rights of workers and Kurds” and that its leaders had “always distinguished themselves through a cruel militarism that [was] the product of their mediocrity, backwardness, and thirst for ever more money”.
+u357 p183  [43853-44165) | He added that the revival in the 1960s of “dynamic social strata previously excluded from the political life of the country” and the “revolutionary democratic resistance movement” of the early 1970s had helped to “transform the history of the nation” and instilled in society a “spirit of resistance and revolt”.
+u358 p183  [44166-44416) | He stated that socialism was the only system capable of replacing capitalism and proclaimed that “[f]rom the seeds of liberation of the Kurdish people sown in those days were born the guerrilla in the mountains of Kurdistan” (see paragraph 10 above).
+u359 p183  [44417-44538) | The Government took such comments to mean that the applicant accepted the legitimacy of the Kurdish independentist cause.
+u360 p183  [44539-44764) | The Court does not share that view: it considers that the applicant’s comments constituted political criticism of the Turkish authorities, to which the use of words such as “revolt” and “oppression” added a certain virulence.
+u361 p184 ¶48 [44769-45034) | The Court recalls that there is little scope under Article 10 § 2 of the Convention for restrictions on political speech or on debate on matters of public interest (see the Wingrove v. the United Kingdom judgment of 25 November 1996, Reports 1996-V, p. 1957, § 58).
+u362 p184  [45035-45184) | Furthermore, the limits of permissible criticism are wider with regard to the government than in relation to a private citizen, or even a politician.
+u363 p184  [45185-45369) | In a democratic system the actions or omissions of the government must be subject to the close scrutiny not only of the legislative and judicial authorities but also of public opinion.
+u364 p184  [45370-45636) | Moreover, the dominant position which the government occupies makes it necessary for it to display restraint in resorting to criminal proceedings, particularly where other means are available for replying to the unjustified attacks and criticisms of its adversaries.
+u365 p184  [45637-45961) | Nevertheless, it certainly remains open to the competent State authorities to adopt, in their capacity as guarantors of public order, measures, even of a criminal-law nature, intended to react appropriately and without excess to such remarks (see the Incal v. Turkey judgment of 9 June 1998, Reports 1998-IV, p. 1567, § 54).
+u366 p184  [45962-46231) | Finally, where such remarks constitute an incitement to violence against an individual or a public official or a sector of the population, the State authorities enjoy a wider margin of appreciation when examining the need for an interference with freedom of expression.
+u367 p185 ¶49 [46236-46426) | The Court takes into account the background to the cases submitted to it, particularly problems linked to the prevention of terrorism (see the above-mentioned Incal judgment, p. 1568, § 58).
+u368 p185  [46427-46669) | On that point, it takes note of the Turkish authorities’ concern about the dissemination of views which they consider might exacerbate the serious disturbances that have been going on in Turkey for some fifteen years (see paragraph 42 above).
+u369 p185  [46671-46999) | Nonetheless, it is not persuaded by the Government’s contention that special weight should be attached in the instant case to the fact that the message was delivered at a time when, taking advantage of the disorder created at the border with Iraq by the Gulf War, the PKK had been escalating its operations in south-east Turkey.
+u370 p185  [47000-47085) | Indeed, the events in the present case took place long after that conflict had ended.
+u371 p186 ¶50 [47090-47343) | Furthermore, the Court observes that the applicant’s message was read out only to a group of people attending a commemorative ceremony, which considerably restricted its potential impact on “national security”, public “order” or “territorial integrity”.
+u372 p186  [47344-47608) | In addition, even though it contained words such as “resistance”, “struggle” and “liberation”, it did not constitute an incitement to violence, armed resistance or an uprising; in the Court’s view, this is a factor which it is essential to take into consideration.
+u373 p187 ¶51 [47613-47697) | Lastly, the Court is struck by the severity of the penalty imposed on the applicant.
+u374 p187  [47698-47851) | He was sentenced by the National Security Court on 9 December 1993 to one year, eight months’ imprisonment and a fine of 208,333,333 Turkish liras (TRL).
+u375 p187  [47852-48121) | After completing his sentence, he was detained from 23 September to 26 October 1995 pursuant to section 5 of the Execution of Sentences Act (Law no. 647) before being ordered to pay an additional fine of TRL 84,833,333 for the same offence (see paragraphs 13-17 above).
+u376 p187  [48122-48308) | The Court notes in that connection that the nature and severity of the penalties imposed are also factors to be taken into account when assessing the proportionality of the interference.
+u377 p188 ¶52 [48313-48448) | In conclusion, Mr Gerger’s conviction was disproportionate to the aims pursued and accordingly not “necessary in a democratic society”.
+u378 p188  [48449-48518) | There has therefore been a violation of Article 10 of the Convention.
+u379 p188  [48519-48522) | II.
+u380 p189  [48523-48575) H | ALLEGED VIOLATION OF ARTICLE 6 § 1 OF THE CONVENTION
+u381 p190 ¶53 [48580-48759) | The applicant maintained that the Ankara National Security Court was not an “independent and impartial tribunal” and had not given sufficient reasons for its decision in his case.
+u382 p190  [48760-48856) | He therefore argued that he had been the victim of a violation of Article 6 § 1, which provides:
+u383 p190  [48858-49030) Q | “In the determination of ... any criminal charge against him, everyone is entitled to a fair ... hearing ... by an independent and impartial tribunal established by law...”
+u384 p190  [49031-49033) | A.
+u385 p190  [49034-49109) | Whether the Ankara National Security Court was independent and impartial 1.
+u386 p191  [49110-49149) H | The Government’s preliminary objections
+u387 p192 ¶54 [49154-49377) | The Government contended that domestic remedies had not been exhausted and that the Court had no jurisdiction ratione materiae to examine the issue of the independence and impartiality of the Ankara National Security Court.
+u388 p192  [49378-49578) | They submitted that the applicant had not raised this complaint before either the national courts or the Commission and that the latter had considered it of its own motion without having jurisdiction.
+u389 p193 ¶55 [49583-49647) | Both the applicant and the Commission contested those arguments.
+u390 p194 ¶56 [49652-50042) | The Court reiterates that it takes cognisance of preliminary objections in so far as the State in question has already raised them, at least in substance and with sufficient clarity, before the Commission, in principle at the stage of the initial examination of admissibility (see, among other authorities, the Aytekin v. Turkey judgment of 23 September 1998, Reports 1998-VII, p. …, § 77).
+u391 p194  [50043-50409) | In the instant case, the Court observes that although the applicant did not allege a lack of impartiality or independence on the part of the Ankara National Security Court in his application to the Commission, he did, in his memorial lodged with the Court, make a general reference to the report of the Commission, which had concluded that the complaint was founded.
+u392 p194  [50410-50675) | In addition, when communicating the application, the Commission invited the Government (on 27 February 1995) to indicate whether “the applicant had had a fair trial before an independent and impartial tribunal within the meaning of Article 6 § 1 of the Convention”.
+u393 p194  [50676-50825) | In their observations in reply, the Government did not address that point and raised no objection to the Commission considering it of its own motion.
+u394 p194  [50826-51014) | Furthermore, on 31 October 1996 the Commission sent the Government its decision regarding the admissibility of the application and invited the Government to lodge additional observations.
+u395 p194  [51015-51194) | Despite the fact that is was clear from the wording of the admissibility decision that the Commission had considered the complaint of its own motion, the Government did not reply.
+u396 p194  [51195-51319) | It follows from the foregoing that the Government are estopped from raising the objections at this stage of the proceedings.
+u397 p194  [51320-51322) | 2.
+u398 p195  [51323-51346) H | Merits of the complaint
+u399 p196 ¶57 [51351-51562) | In the applicant's submission, the Ankara National Security Court could not be regarded as an “independent and impartial tribunal” within the meaning of Article 6 § 1, as one of its members was a military judge.
+u400 p197 ¶58 [51567-51925) | The Government replied that the rules governing the appointment of military judges to the National Security Courts and the guarantees which they enjoy in the performance of their judicial functions on the bench were such as to ensure that these courts fully complied with the requirements of independence and impartiality within the meaning of Article 6 § 1.
+u401 p197  [51926-52040) | The Government disputed the applicant’s argument that military judges were accountable to their superior officers.
+u402 p197  [52041-52226) | In the first place, it was an offence under Article 112 of the Military Code for a public official to attempt to influence the performance by a military judge of his judicial functions.
+u403 p197  [52227-52348) | Secondly, when acting in a judicial capacity a military judge is assessed in exactly the same manner as a civilian judge.
+u404 p197  [52349-52459) | The Government said that the National Security Courts were not special courts but specialised criminal courts.
+u405 p197  [52460-52681) | The Turkish authorities had judged it necessary to include a military judge on the bench because of the situation that had prevailed in Turkey for a number of years and the armed forces’ experience in combating terrorism.
+u406 p197  [52682-52927) | The Government added that in the present case neither the superiors of the military judge who had sat in the applicant’s case, nor the public authorities which had appointed him had had any interest in the proceedings or the outcome of the case.
+u407 p197  [52928-53091) | Indeed, the dissenting opinion of the military judge showed that his view of the case had been more favourable to Mr Gerger than the views of the other two judges.
+u408 p197  [53092-53223) | Furthermore, the judgment of the National Security Court had been upheld by the Court of Cassation, in which only civil judges sat.
+u409 p198 ¶59 [53228-53412) | The Commission concluded that the Ankara National Security Court could not be regarded as an “independent and impartial tribunal” within the meaning of Article 6 § 1 of the Convention.
+u410 p198  [53413-53543) | It referred in that connection to the opinion and reasoning set out in its report of 25 February 1997 in the Incal v. Turkey case.
+u411 p199 ¶60 [53549-53823) | The Court recalls that in its Incal v. Turkey judgment of 9 June 1998 (Reports 1998-IV, p. 1547) and in its Çıraklar v. Turkey judgment of 28 October 1998 (Reports 1998-, p. …) the Court had to address arguments similar to those raised by the Government in the instant case.
+u412 p199  [53824-54058) | In those judgments the Court noted that the status of military judges sitting as members of National Security Courts did provide some guarantees of independence and impartiality (see the above-mentioned Incal judgment, p. 1571, § 65).
+u413 p199  [54059-54558) | On the other hand, the Court found that certain aspects of these judges’ status made their independence and impartiality questionable (ibid., § 68): for example, the fact that they are servicemen who still belong to the army, which in turn takes its orders from the executive; the fact that they remain subject to military discipline; and the fact that decisions pertaining to their appointment are to a great extent taken by the administrative authorities and the army (see paragraphs 25-29 above).
+u414 p200 ¶61 [54563-54781) | As in its Incal judgment the Court considers that its task is not to determine in abstracto the necessity for the establishment of National Security Courts in the light of the justifications advanced by the Government.
+u415 p200  [54782-55183) | Its task is to ascertain whether the manner in which the Ankara National Security Court functioned infringed Mr Gerger’s right to a fair trial, in particular whether, viewed objectively, he had a legitimate reason to fear that the court which tried him lacked independence and impartiality (see the above-mentioned Incal judgment, p. 1572, § 70; and the above-mentioned Çıraklar judgment, p. …, § 38).
+u416 p200  [55185-55372) | As to that question, the Court sees no reason to reach a conclusion different from that in the cases of Mr Incal and Mr Çıraklar, both of whom, like the present applicant, were civilians.
+u417 p200  [55373-55702) | It is understandable that the applicant – prosecuted in a National Security Court of disseminating propaganda aimed at undermining the territorial integrity of the State and national unity - should be apprehensive about being tried by a bench which included a regular army officer, who was a member of the Military Legal Service.
+u418 p200  [55703-55899) | On that account he could legitimately fear that the Ankara National Security Court might allow itself to be unduly influenced by considerations which had nothing to do with the nature of the case.
+u419 p200  [55900-56036) | In other words, the applicant’s fears as to that court’s lack of independence and impartiality can be regarded as objectively justified.
+u420 p200  [56037-56226) | The proceedings in the Court of Cassation were not able to dispel these fears since that court did not have full jurisdiction (see the above-mentioned Incal judgment, p.1573, § 72 in fine).
+u421 p201 ¶62 [56231-56311) | For these reasons the Court finds that there has been a breach of Article 6 § 1.
+u422 p201  [56312-56314) | B.
+u423 p201  [56315-56397) | Alleged absence of reasoning in the judgment of the Ankara National Security Court
+u424 p202 ¶63 [56402-56570) | The applicant maintained that the Ankara National Security Court had not given sufficient reasons for its decision, and had thereby infringed his right to a fair trial.
+u425 p203 ¶64 [56575-56631) | The Government argued that that complaint was unfounded.
+u426 p204 ¶65 [56636-56860) | Like the Commission, the Court holds that in view of its finding of a violation of Mr Gerger’s right to be tried by an independent and impartial tribunal (see paragraph 62 above), it is unnecessary to examine this complaint.
+u427 p204  [56861-56865) | III.
+u428 p204  [56866-56949) | alleged violation of Article 14 of the Convention Taken together with Article 5 § 1
+u429 p205 ¶66 [56954-57289) | The applicant said that the fact that he had been sentenced to a term of imprisonment under Law no. 3713 meant that he had not been entitled to automatic parole until he had served three quarters of his sentence, unlike prisoners sentenced under the ordinary criminal law, who were entitled to parole after serving half their sentence.
+u430 p205  [57290-57412) | He considered that that difference constituted unlawful discrimination under Article 14 of the Convention, which provides:
+u431 p205  [57413-57711) Q | “The enjoyment of the rights and freedoms set forth in this Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.”
+u432 p206 ¶67 [57716-57945) | The Court considers that this question relates to “the lawful detention of a person after conviction by a competent court” and should therefore be examined under Article 14 taken together with Article 5 § 1 (a) of the Convention.
+u433 p206  [57946-57976) | The latter provision provides:
+u434 p206  [57977-57980) Q | “1.
+u435 p206  [57981-58038) Q | Everyone has the right to liberty and security of person.
+u436 p206  [58039-58160) Q | No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:
+u437 p206  [58161-58237) | (a) the lawful detention of a person after conviction by a competent court;”
+u438 p207 ¶68 [58242-58353) | The Government submitted that Article 5 § 1 (a) did not secure convicted prisoners a right to automatic parole.
+u439 p207  [58354-58567) | They added that in any event the restrictions on entitlement to parole imposed on persons convicted of an offence under the Prevention of Terrorism Act were warranted by the intrinsic seriousness of such offences.
+u440 p208 ¶69 [58572-58868) | The Court considers, firstly, that, although Article 5 § 1 (a) of the Convention does not guarantee a right to automatic parole, an issue may arise under that provision taken together with Article 14 of the Convention if a settled sentencing policy affects individuals in a discriminatory manner.
+u441 p208  [58869-59130) | The Court notes that in principle the aim of Law no. 3713 is to penalise people who commit terrorist offences and that anyone convicted under that law will be treated less favourably with regard to automatic parole than persons convicted under the ordinary law.
+u442 p208  [59131-59319) | It deduces from that fact that the distinction is made not between different groups of people, but between different types of offence, according to the legislature’s view of their gravity.
+u443 p208  [59320-59452) | The Court sees no ground for concluding that that practice amounts to a form of “discrimination” that is contrary to the Convention.
+u444 p208  [59453-59565) | Consequently, there has been no violation of Article 14 taken together with Article 5 § 1 (a) of the Convention.
+u445 p208  [59566-59569) | IV.
+u446 p208  [59570-59613) | Application of ARTICLE 41 OF THE CONVENTION
+u447 p209 ¶70 [59618-59690) | The applicant sought just satisfaction under Article 41, which provides:
+u448 p209  [59691-59972) Q | “If the Court finds that there has been a violation of the Convention or the protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”
+u449 p209  [59973-59975) | A.
+u450 p210  [59976-59982) H | Damage
+u451 p211 ¶71 [59987-60103) | Without supplying any details, Mr Gerger sought reparation for damage which he put at 1,000,000 French francs (FRF).
+u452 p212 ¶72 [60108-60234) | The Government replied that there was no causal link between the alleged violation of the Convention and any pecuniary damage.
+u453 p212  [60235-60344) | Any non-pecuniary damage would be sufficiently compensated for by a finding of a violation of the Convention.
+u454 p213 ¶73 [60349-60452) | The Court considers that the applicant must have suffered distress on account of the facts of the case.
+u455 p213  [60453-60546) | Ruling on an equitable basis, it consequently awards him FRF 40,000 for non-pecuniary damage.
+u456 p213  [60547-60740) | The Court notes that if it was Mr Gerger’s intention to claim pecuniary damage also, he has not supplied any evidence in support of such a claim; accordingly, it makes no award under that head.
+u457 p213  [60741-60743) | B.
+u458 p214  [60744-60762) H | Costs and expenses
+u459 p215 ¶74 [60767-60838) L | The applicant sought payment of FRF 250,000 for his costs and expenses.
+u460 p216 ¶75 [60843-60961) L | The Government said the claim was “exorbitant” and argued that the applicant had not produced any supporting evidence.
+u461 p217 ¶76 [60967-61223) L | On the basis of the information in its possession, the Court considers it reasonable to award the applicant FRF 20,000 by way of reimbursement of his costs and expenses for the proceedings before the national courts and before the Commission and the Court.
+u462 p217  [61224-61226) L | C.
+u463 p218  [61227-61243) H | Default interest
+u464 p219 ¶77 [61248-61459) L | The Court deems it appropriate to adopt the statutory rate of interest applicable in France at the date of adoption of the present judgment which according to the information available to it, is 3.47% per annum.
+-- tail from char 61460 hidden --

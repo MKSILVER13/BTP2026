@@ -1,0 +1,780 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+[Arising out of the Impugned Order dated 16.12.2022 passed by the
+Adjudicating Authority, National Company Law Tribunal, New Delhi
+Bench-II in CP (IB) No. 792 (ND)/2021]
+
+In the matter of:
+Chemical Suppliers India Private Limited
+(CIN: U24299DL1997PTC090695)
+507 Plot No-D-4,5,6 5th Floor Krishna Apra Business,
+Square N.S.P Pitampura, Delhi-110034
+Emil ID: chemicalpeople@gmail.com
+
+...Appellant
+
+Versus
+
+GLS Films Industries Private Limited
+(CIN:U74950DL2003PTC120112)
+8/106, 3rd Floor, East Guru Angad Nagar
+Near Gurudwara, Laxmi Nagar,
+Delhi-1100092
+Email: cscompliance@glsind.com
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Krishnendu Dutta, Sr. Advocate with Mr. Nikhil
+Kumar, Mr. Kapil Sharma and Ms. Mahak Agarwal,
+Advocates.
+
+For Respondent : Mr. Virendra Ganda Sr. Advocate with Mr. Ashraf Belal
+and Mr. Vishal Ganda, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+16.12.2022 (hereinafter referred to as ‘Impugned Order’) passed by the
+
+[PAGE 2]
+Page 2 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+Adjudicating Authority (National Company Law Tribunal, New Delhi Bench-II) in
+CP (IB) No. 792 (ND)/2021. By the impugned order, the Adjudicating Authority
+has dismissed the Section 9 application filed by the Operational Creditor-
+Appellant for initiation of Corporate Insolvency Resolution Process (“CIRP” in
+short) of the Corporate Debtor-Respondent. Aggrieved by the impugned order,
+the Appellant has come up with the present appeal.
+2.
+We have heard Shri Krishnendu Datta, Ld. Sr. Advocate for the Appellant
+and Shri Virendra Ganda, Ld. Sr. Advocate, representing the Respondent.
+
+3.
+Giving a brief factual overview of the present matter at hand, Shri
+Krishnendu Datta, Ld. Sr. Advocate for Appellant submitted that M/s Chemical
+Suppliers India Ltd-Operational Creditor is in the business of supplying chemical
+products and had entered into a business arrangement with M/s GLS Films
+Industries Pvt. Ltd.-Corporate Debtor for supply of chemicals. Goods were
+supplied by the Appellant-Operational Creditor from time to time and invoices
+were raised. The Operational Creditor had sent eight invoices dated 27.03.2021
+to 26.07.2021 amounting Rs 1,72,04,137/- to the Corporate Debtor for goods
+received by them. Since the Corporate Debtor had defaulted in making payment
+of invoices within 60 days from the date of delivery, the Appellant had charged
+interest @24% p.a. as per invoice conditions which amounted to Rs
+1,20,89,086/-. Since payments were not forthcoming, the Appellant issued a
+Section 8 Demand Notice on 12.11.2021 demanding a payment of Rs
+2,92,93,223/- which included both principal and interest amounts. Since the
+Respondent-Corporate Debtor failed to pay the above outstanding amount of Rs
+
+[PAGE 3]
+Page 3 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+2.92 Cr., the Appellant filed a Section 9 petition on 21.12.2021 to initiate CIRP
+against the Corporate Debtor for committing a default of Rs 2.92 Cr.
+4.
+Contending that all the ingredients necessary for filing a Section 9
+application stood fulfilled in that there was an undisputed operational debt
+above the threshold limit due to the Appellant and established default on the
+part of the Corporate Debtor, the Adjudicating Authority had however wrongly
+dismissed the Section 9 application on the ground of pre-existing disputes when
+there were none. On the pre-existing disputes raised by the Corporate Debtor
+the Adjudicating Authority had erroneously relied on the fact that the Corporate
+Debtor had issued a debit note on 31.12.2021 which debit note was
+inconsequential and irrelevant being subsequent to the filing of Section 9
+petition. This debit note does not merit to be treated as pre-existing disputes as
+these related to defective goods with respect to invoices dated 09.04.2021 and
+10.04.2021 which were being raised for the first time after Section 8 Demand
+Notice. These disputes had never been raised by the Corporate Debtor either at
+the time of receipt of the goods or within seven days from delivery of goods as
+per terms and conditions specified in the invoice. This dispute was therefore
+raised as an afterthought. Also, the police complaint which has been taken
+cognisance of by the Adjudicating Authority is misplaced since the dispute raised
+in the said complaint had already been settled by correcting the credit note in
+the ledger account and could not have been treated as a pre-existing dispute.
+The foundational basis of the police complaint being non-existent, this was a
+frivolous and redundant defence. Above all, when the Respondent in their own
+ledger account had by themselves acknowledged their liability to pay the
+
+[PAGE 4]
+Page 4 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+Operational Creditor the principal amount of Rs 1.72 Cr as on 16.08.2021,
+subsistence of any pre-existing dispute lacks foundation. In support of their
+contention, reliance has been placed on the judgment of this Tribunal in
+Surendra Sancheti vs Gospell Digital Technologies Co. Ltd. in CA(AT)(Ins)
+No.583 of 2024 wherein it has been held that once debt confirmation is made
+by the Corporate Debtor under invoices submitted by the Operational Creditor,
+it tantamount to valid and proper admission of debt and default in the eyes of
+law.
+5.
+Refuting the contentions made by the Appellant, Shri Virendra Ganda, Ld.
+Sr. Counsel of the Respondent submitted emphatically that the Adjudicating
+Authority had rightly rejected the Section 9 application on coming to the
+conclusion that there was a pre-existing dispute between the parties. It was
+submitted that the Operational Creditor had supplied two consignments of
+chemical solvents on 09.04.2021 and 10.04.2021 which were not of the requisite
+quality and standards which in turn led to defective printing of plastic films
+causing huge loss to the Corporate Debtor. Even the subsequent batch of goods
+delivered on 21.06.2021 continued to remain defective and hence returned to
+the Operational Creditor. It was also submitted that sample of the material was
+sent to a third-party lab by the Respondent which carried out due tests and
+reported suspended particles in the solvent supply by the Operational Creditor.
+That the Operational Creditor had themselves issued credit notes for the
+defective goods delivered on 21.06.2021 clearly evidences disputed transactions
+between the two parties. After taking into account the defective material supplied
+and the losses sustained amounting Rs 2,42,11,648/-, they had issued a debit
+
+[PAGE 5]
+Page 5 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+note to the Operational Creditor on 31.12.2021 following which the Corporate
+Debtor was liable to pay only an amount of Rs 70,09,430/- to the Operational
+Creditor which is clearly below the threshold level of Rs 1 cr and hence did not
+attract provisions contained in Section 9 of IBC. It was also contended that the
+Operational Creditor was inflating the dues by adding interest amount at a time
+when interest was not ever charged earlier. It was further contended that the
+Operational Creditor was requested by the Corporate Debtor to compensate them
+for the losses caused to them and were invited for a meeting to settle the
+accounts. However, the Operational Creditor instead of settling the accounts
+started demanding for payment including interest aggregating Rs 4.60 Cr. The
+malafide of the Operational Creditor is also evident from the fact that while
+demanding outstanding payment, they did not factorise the need to provide
+credit note to the tune of Rs 1.66 Cr. for supply of defective goods. It was further
+asserted that the original credit note had still not been received by them. The
+Appellant besides sending notices demanding wrongful amounts as outstanding
+also threatened to commit suicide attributing responsibility for the same on the
+Corporate Debtor and its officials. This led to a police complaint being filed
+against the Operational Creditor on 27.09.2021 which was prior to the Section
+8 Demand Notice and clearly constituted to be a pre-existing dispute.
+6.
+It was also pointed out that the Respondent had filed Civil Suit No. 37 of
+2022 in the Commercial Court which is pending adjudication and that during
+the cross examination of the Managing Director of the Appellant-Operational
+Creditor in the said suit, the pre-existing dispute has been corroborated. The
+related documents have been placed by way of an additional affidavit which show
+
+[PAGE 6]
+Page 6 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+that the Appellant did not follow the standard operating procedure for delivery
+of the chemicals and had not submitted report on the authenticity and purity of
+the chemicals supplied. It was strongly contended that all such issues ranging
+from damages caused to the Respondent due to supply of contaminated material
+and quantum of debt etc are triable issues which are already pending
+adjudication before the Civil Court which amounts to a pre-existing dispute. The
+Ld. Counsel for the Respondent also asserted that an Operational Creditor can
+justifiably seek initiation of CIRP only where no real dispute exists between
+parties and the provisions of IBC cannot be turned into a debt recovery
+proceeding to jeopardise the functioning of a solvent and healthy Corporate
+Debtor.
+7.
+We have duly considered the arguments advanced by the Learned Sr.
+Counsels for both the parties and perused the records carefully.
+
+8.
+Before we come to our analysis and findings, we would like to bear in mind
+the guiding principles laid down by the Hon’ble Supreme Court in Mobilox
+Innovations Pvt. Ltd. Vs. Kirusa Software Private Limited (2018) in C.A.
+No.9405 of 2017 and the relevant paras are extracted as hereunder:
+“33......What is important is that the existence of the dispute and/or the suit
+or arbitration proceeding must be pre-existing i.e. it must exist before the
+receipt of the demand notice or invoice, as the case maybe......”
+“34.
+Therefore, the adjudicating authority, when examining an
+application under Section 9 of the Act will have to determine:
+(i) Whether there is an “operational debt” as defined exceeding Rs. 1 lakh?
+(See Section 4 of the Act)
+(ii) Whether the documentary evidence furnished with the application
+shows that the aforesaid debt is due and payable and has not yet been
+paid? and
+
+[PAGE 7]
+Page 7 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+(iii) Whether there is existence of a dispute between the parties or the record
+of the pendency of a suit or arbitration proceeding filed before the receipt of
+the demand notice of the unpaid operational debt in relation to such dispute?
+If any of the aforesaid conditions is lacking, the application would have to
+be rejected. Apart from the above, the adjudicating authority must follow
+the mandate of Section 9, as outlined above, and in particular the mandate
+of Section 9(5) of the Act, and admit or reject the application, as the case
+may be, depending upon the factors mentioned in Section 9(5) of the Act.”
+“51. It is clear, therefore, that once the operational creditor has filed an
+application, which is otherwise complete, the adjudicating authority must
+reject the application under Section 9(5)(2)(d) if notice of dispute has been
+received by the operational creditor or there is a record of dispute in the
+information utility. It is clear that such notice must bring to the notice of the
+operational creditor the “existence” of a dispute or the fact that a suit or
+arbitration proceeding relating to a dispute is pending between the parties.
+Therefore, all that the adjudicating authority is to see at this stage is
+whether there is a plausible contention which requires further investigation
+and that the “dispute” is not a patently feeble legal argument or an assertion
+of fact unsupported by evidence. It is important to separate the grain from
+the chaff and to reject a spurious defence which is mere bluster. However,
+in doing so, the Court does not need to be satisfied that the defence is likely
+to succeed. The Court does not at this stage examine the merits of the
+dispute except to the extent indicated above. So long as a dispute truly exists
+in fact and is not spurious, hypothetical or illusory, the adjudicating
+authority has to reject the application.”
+“56. Going by the aforesaid test of “existence of a dispute”, it is clear that
+without going into the merits of the dispute, the appellant has raised a
+plausible contention requiring further investigation which is not a patently
+feeble legal argument or an assertion of facts unsupported by evidence. The
+defense is not spurious, mere bluster, plainly frivolous or vexatious. A
+dispute does truly exist in fact between the parties, which may or may not
+ultimately succeed, and the Appellate Tribunal was wholly incorrect in
+characterizing the defense as vague, got-up and motivated to evade
+liability.”
+
+9.
+Coming to the statutory scheme as contained in Sections 8 and 9 of the
+IBC, we notice that Section 8 requires the Operational Creditor, on occurrence
+of a default by the Corporate Debtor, to deliver a Demand Notice in respect of
+
+[PAGE 8]
+Page 8 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+the outstanding Operational Debt. Section 8(2) lays down that the Corporate
+Debtor within a period of 10 days of the receipt of the Demand Notice would have
+to bring to the notice of the Operational Creditor of the existence of dispute, if
+any. Section 9(1) of IBC further provides that if the Operational Creditor does
+not receive payment from the Corporate Debtor or notice of the dispute under
+Section 8(2), he may file an application under Section 9(1) of the IBC. However,
+Section 9(5)(ii) envisages that if a notice of dispute is received by the Operational
+Creditor or there is a record of dispute in the Information Utility, the application
+is liable to be rejected by the Adjudicating Authority.
+10.
+Given this background of relevant statutory construct of IBC and the legal
+precepts laid down by the Mobilox judgment supra, we now proceed to see from
+the facts of the present case whether the Adjudicating Authority was justified in
+dismissing the Section 9 application on the ground that the operational debt
+claimed by the Appellant was embroiled in pre-existing disputes.
+11.
+We would first like to whether there was a debt and default on the part of
+the Corporate Debtor qua the Operational Creditor. It is the case of the Appellant
+that the Corporate Debtor through its own ledger account as placed at 146 of
+Appeal Paper Book (“APB” in short) had acknowledged liability for the principal
+amount of Rs 1.72 Cr. as of 16.08.2021 qua the Appellant. It is also canvassed
+that when the Respondent has acknowledged the liability for the principal
+amount of Rs 1.72 Cr as evidenced from their ledger account, in such
+circumstances subsistence of any pre-existing dispute with regard to
+outstanding operational debt above the threshold lacks foundation. Per contra,
+we notice that the Corporate Debtor has claimed in their reply to the Section 9
+
+[PAGE 9]
+Page 9 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+petition that it had issued a debit note dated 31.12.2021 for Rs 2.42 cr. as placed
+at page 173 of APB and that if this amount is adjusted against the amount
+claimed by the Appellant, it is the Appellant who was liable to pay them Rs 70
+lakhs. It was also submitted that a legal notice was sent to the Appellant on
+13.01.2022 for payment of Rs. 70 lakhs.
+12.
+We have perused the records carefully and find that e-way bills placed on
+record from pages 52-59 of the APB and related invoices clearly show that goods
+against these invoices had been delivered by the Operational Creditor to the
+Corporate Debtor. The invoice amounts for the goods supplied as placed at pages
+44-51 of APB also stood reflected in the ledger accounts of the Corporate Debtor
+as maintained by the Appellant. Further, in the calculations in a tabular chart
+submitted by the Respondent in their Reply before this Tribunal at page 11, we
+find that there is no denial by them with respect to the amount claimed by the
+Appellant of Rs 1.72 Cr. Thus, by their own computation, the Corporate Debtor
+had themselves admitted and acknowledged their liability of Rs 1.72 Cr which
+represented the principal outstanding amount. Their computation in the said
+tabular chart however does not reflect the interest amount claimed by the
+Appellant as per the terms and conditions mentioned on the invoices. As per
+these terms and conditions, the Corporate Debtor was required to pay interest
+@24% p.a. in the event of delay on the payment of invoice amount beyond
+prescribed number of days. Basis this calculation, the interest amount of Rs
+1,20,89,086/- for delay in payment was claimed by the Appellant. It is the case
+of the Appellant that since an aggregate amount of Rs 2.92 Cr. including
+principal and interest remains unpaid, default also stands established.
+
+[PAGE 10]
+Page 10 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+Furthermore on 01.07.2021 credit was given for Rs 35.59 lakhs by way of credit
+note and a sale discount by journal entry of Rs 1.66 Cr was given on 31.07.2021
+as placed at page 68 of APB. We notice that while the credit note of Rs 35.59
+lakhs has been reflected by the Respondent in their computation, the credit note
+of Rs 1.66 Cr has been omitted. While the Corporate Debtor has claimed loss of
+Rs. 2.42 cr and claimed adjustment thereto, nothing has been placed on record
+to show that the disputes regarding quality of goods in respect of invoices dated
+09.04.2021 and 10.04.2021 amounting to Rs. 2.42 cr had been raised by them
+within the stipulated time. Material on record clearly shows that the debit note
+was clearly raised subsequent to filing of Section 9 application and was non-
+existent at the time of filing of the Section 8 demand Notice. Even the reply to
+the Section 8 Demand Notice which we have reproduced in the succeeding
+paragraph 21 below is silent about this debit note.
+13.
+Clearly therefore the amount of Rs. 2.92 cr had crystallised as operational
+debt well before the issue of the debit notes and the legal notice of 13.01.2022
+and only this amount of Rs. 2.92 cr has been the basis of the Section 8 Demand
+Notice. The Corporate Debtor’s reply to Section 8 demand notice is bereft of
+details on how these debts have been discharged. No material has been placed
+on record by Corporate Debtor to show that they had categorically rejected the
+outstanding dues but for raising issues like Appellant not attending meetings
+for reconciliation of accounts. Prima-facie, there is no clinching evidence placed
+on record by the Corporate Debtor that they had unambiguously and outrightly
+denied their liability to pay.
+
+[PAGE 11]
+Page 11 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+14.
+It is the case of the Appellant that the Adjudicating Authority has wrongly
+rejected their Section 9 application by relying on certain frivolous disputes on
+the disputes raised by the Corporate Debtor.
+15.
+At this stage, it may be useful to take note of the findings of the
+Adjudicating Authority while dismissing the Section 9 application filed by the
+Appellant which is as extracted hereunder:
+“13.
+Thus, from the series of the letters/e-mails/WhatsApp messages
+exchanged between the parties, as placed on record and the claims and
+counter-claims raised by the parties, we find that there is a plausible
+contention/dispute raised by the respondent prior to issue of the demand
+notice, which is not disclosed by the Applicant upfront in its application
+and which is yet to be settled conclusively and further, the applicant has
+approached this Adjudicating Authority for recovery of its alleged dues,
+which is not the objective of IBC.
+14.
+In view of the above discussion, this Bench is of the considered
+view that there exists a dispute between the parties prior to the issue of
+the demand notice, which necessitates a detailed investigation of
+documents and adducing of evidence from the all concerned, which is
+beyond the scope of the summary jurisdiction of this Adjudicating
+Authority.”
+
+It is clear from a plain reading of paragraphs 13 and 14 above of the impugned
+order that the Adjudicating Authority came to the conclusion that there was pre-
+existing dispute between the two parties warranting further investigation which
+was beyond the remit and scope of the summary jurisdiction of this Adjudicating
+Authority and hence dismissed the Section 9 application.
+16.
+We now proceed to examine the various pre-existing disputes which have
+been raised by the Respondent. One of the principal grounds for dismissal of the
+Section 9 petition by the Adjudicating Authority is an e-mail dated 16.10.2021
+complaining about the defective materials supplied by the Operational Creditor.
+
+[PAGE 12]
+Page 12 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+Though this letter has been noticed at paragraph 9 of the impugned order, at the
+cost of repetition, we wish to reproduce the same as hereunder:
+From: Sachin (mailto:sachin@glsmail.com)
+Sent;16 October 2021 15:39
+To; Chemical Supplier India (P) Limited
+Cc:
+rajesh@glsflims.com;sandeepglsflim.com;
+‘Jitendra
+Sharma
+’;
+‘Purchase’; ‘HB Kala’; Rajesh BHaiya BKS; ‘Raj Solvent Pvt. Ltd.’; Sandeep
+Sharma; ‘ SAURAV ROHATGI’;’Arvind accounts’; ‘Sand chem India ltd’;
+;Krishna’;’sandeep singh’
+Subject: RE: Require statement of account from both GLS & YANSEFU
+Dear Mr. Ankur Aggarwal,
+With reference to your mails till date, please refer to our letter dated
+10.12.2020 wherein we have complained about the poor quality of
+Chemicals which were supplied by you and received by us during the
+period-16.09.2020 to 24.10.2020. This has led to material rejection and
+consequent losses.
+You have been repeatedly asked to come to check the status and reconcile
+the accounts, but you have failed to comply to the same.
+Your actions of making false accounts and demanding money through illegal
+threats have put us under tremendous stress and mental agony.
+You are, therefore, called upon to reconcile the accounts and appropriate the
+losses occurred due to defective materials.
+Hope you shall comply at the earliest.
+Sachin Rao”
+
+17.
+We notice from the contents of the above letter of 16.10.2021 that the
+Corporate Debtor had made mention therein of their letter of 10.12.2020
+complaining about the defective materials supplied by the Operational Creditor
+and consequent losses suffered by them. The dispute raised in the email of
+16.10.2021 by the Corporate Debtor was clearly premised on their earlier letter
+dated 10.12.2020. Since both these correspondences pre-date the Section 8
+
+[PAGE 13]
+Page 13 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+Demand Notice, we therefore need to see whether this constituted pre-existing
+dispute.
+18.
+When we look at the material on record, we find that the Appellant has
+admitted that the Corporate Debtor had sent a letter dated 10.12.2020 to them
+in which a complaint had been made that the solvents supplied by them from
+September 2020 to October 2020 contained “impurities” and that it carried
+“stringent smell”. It is the case of the Respondent that they had sent this letter
+of dispute on 10.12.2020 which was much before the issue of Section 8 Demand
+Notice which thus clearly signified pre-existing dispute. However, it was rebutted
+by the Appellant that they had already issued a credit note to the Corporate
+Debtor of Rs 1.66 Cr. qua these supplies. This adjustment entry had not only
+been made in their own ledger account but the Corporate Debtor had also
+incorporated the credit note in their ledger account of 31.03.2021. When we see
+the ledger account of the Corporate Debtor as placed at page 145 of APB, we find
+this entry of Rs. 1.66 Cr. where in the remarks column against this entry, it is
+clearly shown that the adjustment was on account of “stringent smell & impurity
+in solvents”. This shows that there is a clear admission on the part of the
+Corporate Debtor that the Operational Creditor had incorporated the credit note
+of Rs 1.66 Cr albeit with a subsequent caveat that the original credit note was
+not delivered. This fact has also been clearly recorded by the Adjudicating
+Authority at para 10 of the impugned order wherein it has been recorded:
+“Further, the respondent has submitted that though upon repeated objections, the
+Appellant incorporated the credit note of Rs 1.66 crore, however, the Original of
+the said Credit Note and tax paid note was not delivered to it....”
+
+[PAGE 14]
+Page 14 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+19.
+Since the credit notes were already issued against the defective materials
+pointed out by the Corporate Debtor, we are inclined to agree with the Appellant
+that the dispute of inferior quality of goods raised in the letter of 10.12.2020
+which was raked up again in the letter of 16.10.2021 stood resolved and settled
+and hence cannot be held to be a pre-existing dispute. It is equally pertinent to
+note that in their letter of 16.10.2021, there is no denial of outstanding payments
+claimed by the Operational Creditor except for stating that the Operational
+Creditor should reconcile the accounts and adjust the losses caused due to
+defective material supplied. To our minds, the Adjudicating Authority had failed
+to appreciate that the dispute raised in the e-mail dated 16.10.2021 by the
+Corporate Debtor was with reference to their earlier letter dated 10.12.2020
+which dispute stood already resolved with the debit note having been issued.
+Hence this letter cannot be viewed as a letter which was adverting attention to a
+subsisting dispute.
+20. This now brings us to the reply of the Corporate Debtor to the Section 8
+Demand Notice of the Appellant which is as reproduced below:
+“From: Sachin Rao sachin@glsfilms.com
+Dec 6, 2021
+To: Chemical Suppliers India (P) limited
+Dear Mr. Ankur Agarwal,
+We have received your Demand Notice which is false & frivolous.
+Detailed Reply against the said Notice is being prepared and the same
+would reach you very soon. However please note that the calculation of
+amount due as claimed in your demand notice is per se wrong and does
+not take into account the rejections occurred due to inferior quality of
+chemicals supplied by you. You have also charged exorbitant interest on
+amounts already paid and settled between us. You are taking
+advantage of our business dealings done on good faith.
+
+[PAGE 15]
+Page 15 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+Your malafide intentions are clear as you are sending wrong account
+statements giving different figures on different emails. You have
+deliberately omitted one Credit Note No. REG/CR/001 dated
+31.07.2021 for an amount of Rs.1,66,89,770/- (Rupees One Crore Sixty
+Six Lacs Eighty Nine Thousand Seven Hundred & Seventy Only) issued
+by your goodself. We also await the Original Copy of this Credit Note till
+date. Please be noted that this omission is serious in nature and
+tantamount to fraud and is punishable u/s 420 of IPC.
+You have been sending me threatening mails since last 2-3 months
+although I have asked you on numerous times to come to the factory and
+reconcile the accounts but somehow you did not want to come and face
+the reality. We have lost so many business opportunities due to poor
+quality of chemicals supplied by you during last 2-3 years. Since
+business are done on good faith basis and due to your association with
+us since last 4-5 years we have given you so many chances and you
+have also accepted the rejections by issuing us Credit notes and giving
+rebates on rates for supplies from time to time. Now you are taking
+advantage of our good relation and have started harassing me and my
+Directors by issuing demand notices, sending wrong statement of
+accounts and charging exorbitant interests. Rest assure we will take
+necessary action against you if you do not come to the factory and
+reconcile the accounts and take stock of rejected materials lying with us
+since last 7-8 months.”
+(Emphasis supplied)
+
+21.
+When we look at the above letter, we find that the Corporate Debtor has
+mentioned about omission of the credit note for Rs 1.66 Cr. However, when we
+look at the Section 8 Demand Notice at page 69 of APB, it is clear that the
+demand raised therein did not include the amount of Rs 1.66 cr with respect to
+defective goods supplied from September 2020 to October 2020. In fact, as noted
+in the preceding paragraphs, credit had already been given for Rs 1.66 Cr. and
+therefore the outstanding operational debt claimed was exclusive of Rs 1.66 Cr.
+There is no clear denial on the part of the Corporate Debtor of the credit note of
+Rs 1.66 Cr except stating that the original credit note was not delivered. Further,
+
+[PAGE 16]
+Page 16 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+there is no outright denial that no outstanding amount was payable on their part
+to the Operational Creditor. The dispute raised by the Corporate Debtor with
+regard to wrong calculation of outstanding unpaid debt therefore clearly lacks
+substance is devoid of merit.
+22.
+The other set of disputes raised by the Corporate Debtor finds mention in
+their reply to the Section 9 petition on 28.04.2022. The disputes raised in reply
+to the Section 9 petition again relate to the defective quality of the goods supplied
+vide invoices dated 09.04.2021 and 10.04.2021. Per contra, it is contended by
+the Appellant that these disputes had never been raised by the Corporate Debtor
+either at the time of receipt of the goods or within seven days from the date of
+delivery of goods as per terms and conditions specified in the invoice. Also, the
+lab test report which has been adverted attention to by the Corporate Debtor
+cannot be viewed as a pre-existing dispute since it is dated 27.01.2022 which is
+well after the issue of the Section 8 demand Notice. Moreover, the test report
+cannot be relied upon since it does not clearly indicate that the tested goods were
+those which were supplied by the Appellant which demonstrates that
+Respondent was only trying to evade liability by raising false grounds. Further,
+since these disputes were clearly raised after the Section 8 Demand Notice had
+been issued, it would be misconceived to treat them as pre-existing. In support
+of their contention, reliance was placed on the judgement of this Tribunal in the
+matter of Rajeev K Aggarwal Vs Panipat Texo Fabs Pvt. Ltd. in CA (AT) (Ins.)
+No.715 of 2013 wherein it was held in Para 3 that:
+"Raising
+of
+dispute
+in
+regard
+to
+quality
+of
+goods
+being
+inferior/substandard or defective for the first time in reply to demand
+notice or in response to notice served by the Adjudicating Authority would
+not constitute a prior and pre-existing dispute contemplated under law as
+
+[PAGE 17]
+Page 17 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+a defence to the initiation of Corporate Insolvency Resolution Process more
+so when the contemporary record in regard to transactions between the
+Corporate Debtor and the Operational Creditor at the time of delivery of
+goods or immediately thereafter does not demonstrate raising of any
+dispute with respect to quality of goods supplied by the Operational
+Creditor.”
+
+23.
+When we look at the material on record, we find that the Corporate Debtor
+had issued a debit note dated 31.12.2021 for Rs 2.42 Cr. as placed at page 173
+of APB. The Corporate Debtor in their reply to the present appeal has reiterated
+at page 11 therein that a debit note was issued seeking adjustment of Rs 2.42
+Cr. on 31.12.2021. Admittedly, the debit note bearing invoice No. PR
+275/FY2122 amounting to Rs 2.42 Cr is dated 31.12.2021 which date is clearly
+after issue of Demand Notice. This debit note was therefore clearly issued by the
+Respondent after the date of filing of Section 9 application. Chronologically seen
+it would be misconstruing of facts to treat these debit notes as pre-existing
+disputes.
+24.
+Coming to the plausibility aspect of this debit note related dispute, when
+we look at the invoices placed at pages 44 to 51 of the APB, we find that it was
+clearly indicated on the invoices that no complaint about quality and shortage
+would be attended after 7 days from the delivery of goods. However, the
+complaints of defective goods were undisputedly filed much after the prescribed
+period of seven days allowable for filing a complaint. If there was any deficiency
+in the quality of goods, the Respondent should have brought it to the notice of
+the Appellant immediately after receipt of the goods in terms of the invoice.
+However, nothing has been put on record to show that the Corporate Debtor had
+brought to the notice of the Operational Creditor that these materials were
+
+[PAGE 18]
+Page 18 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+rejected by them. There has been no communication regarding quality of goods
+after delivery of goods. Not having done so, the belated defence taken does not
+inspire our confidence. This validates the contention of the Appellant that the
+defence taken by the Corporate Debtor of defective goods and attendant issue of
+belated debit note on 31.12.2021 is nothing but a moonshine defence.
+25.
+Yet another tier of dispute that has been raised is that the Appellant had
+charged exorbitant interest with a view to orchestrate debt and default beyond
+the threshold level. Infact the Respondent has contended that no interest was
+payable as there was no practice of levying interest. When we look at the invoices
+in respect of the chemicals supplied, we find that the invoices clearly stipulate
+interest on delayed payment. These invoices placed at pages 44 to 51 of the APB
+clearly indicate therein that interest @24% p.a. will be charged on delayed
+payment of the bill. When the goods were delivered by the Operational Creditor
+to the Corporate Debtor and the Corporate Debtor accepted delivery of the goods
+without any demur or protest, the plea cannot be accepted that interest on
+delayed payment was not chargeable. When invoices were raised alongwith the
+delivery of goods which invoices clearly stipulated interest on delayed payment,
+the terms and conditions contained in the invoices hold good. The invoice itself
+acts like a written contract. The Corporate Debtor having enjoyed the benefit of
+the goods supplied to them, the terms and conditions of the invoices becomes
+willy-nilly applicable. Interest on delayed payment, once reflected in the invoice,
+the same acquires the character and nature of claim in terms of Section 3(6)(b)
+of IBC which includes a right to remedy for breach of contract under any law for
+the time being in force, if such breach gives rise to a right to payment, whether
+
+[PAGE 19]
+Page 19 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+or not such right is reduced to judgment, fixed, matured, unmatured, disputed,
+undisputed, secured or unsecured. A liability or obligation in respect of such a
+claim which is due from any person is a debt in terms of Section 3(11) of IBC.
+We also find that the Operational Creditor had issued debit notes in respect of
+interest amount to the Corporate Debtor which have been placed from pages 60-
+66 of the APB. Hence, we are not persuaded to accept the contention of the
+Respondent that levy of interest on delayed payment made the transactions
+disputed.
+26.
+This now brings us to the reliance placed by the Adjudicating Authority on
+the police complaint of 27.09.2021 filed by the Corporate Debtor as a proof of
+pre-existing dispute. It was submitted by the Respondent that this Tribunal in
+Anil J Nemavaarkar Vs M/s Kumar Builders Mumbai Reality Pvt. Ltd. in
+CA(AT)(Ins)No. 330 of 2022, has held that police complaint filed with reference
+to claim amount is a pre-existing dispute and that the IBC is not for the purpose
+of resolving such disputes.
+27.
+It was admitted by the Appellant that a police complaint was filed by the
+Respondent against the directors of the Operational Creditor and their Chartered
+Accountant for having demanded Rs 4.60 Cr as an outstanding amount without
+accommodating the debit notes issued against them. It was also argued that the
+Appellant on noticing the mistake committed by them in their email dated
+10.09.2021 in demanding Rs 4.60 Cr as outstanding amount, they had already
+clarified on 09.12.2021 that they had mistakenly missed out adjusting the debit
+note of Rs 1.66 cr. It was therefore contended that since this mistake of
+demanding Rs 4.60 Cr had already been rectified and the outstanding debt
+
+[PAGE 20]
+Page 20 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+amount corrected, this dispute did not subsist any longer. This email of
+10.09.2021 was a stand-alone case of inadvertent error out of the numerous
+communications exchanged between them and this solitary email cannot be
+treated to be a subsisting dispute. It was therefore asserted that this was a case
+of spurious defence set up by the Respondent.
+28.
+We have no quarrel with the proposition that Section 9 application can be
+dismissed on account of pre-existing disputes arising out of police complaints.
+Be that as it may, each such complaint has to be balanced on the basis of facts
+and surrounding circumstances in which parties act and behave. When we look
+at the Section 8 Demand Notice, we find that the total amount of debt claimed is
+only Rs 2.92 Cr and not Rs 4.60 Cr which therefore clearly shows that the
+adjustment of Rs 1.66 Cr has been taken care off. The Demand Notice had been
+issued with the correct principal amount of Rs 1.72 Cr. and Rs 1.20 cr as interest
+on delayed payment. In this backdrop, we are inclined to agree with the Appellant
+that the filing of a police complaint premised on a ground which was no longer
+in existence cannot be considered as a pre-existing dispute.
+29.
+Lastly, we come to the contention of the Respondent that the Recovery Suit
+filed by them in April 2022 was yet another ground showing dispute between the
+two parties. It was also pointed out by the Respondent that they had filed Civil
+Suit No. 37 of 2022 in the Commercial Court which is pending adjudication and
+that during the cross examination of the Managing Director of the Appellant-
+Operational Creditor in the said suit, the pre-existing dispute has been
+corroborated. This contention was opposed by the Appellant and contended that
+this cannot be treated as a pre-existing dispute since the civil suit was filed much
+
+[PAGE 21]
+Page 21 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+after filing of Section 9 application. In support of their contention reliance has
+been placed on the judgement of this Tribunal in the matter of State Bank of
+India Vs Abhijeet Ferrotech Limited in CA(AT)(Ins) No.690 of 2023 wherein
+it has been held DRT proceedings which are still inconclusive cannot be a ground
+to hold Section 7 Application as barred.
+30.
+When pointedly asked to clarify during our hearings, the Learned Sr.
+Counsel for the Respondent admitted that the cross-examination report in the
+civil suit which has been relied upon by the Respondent has not reached its
+culmination and that the additional documents pertaining to the civil suit filed
+by the Respondent on 23.04.2024 and 15.06.2024 before this Tribunal to
+corroborate pre-existing disputes did not form part of the records before the
+Adjudicating Authority. We are of the considered view that a Civil Suit filed after
+filing of Section 9 application cannot be used to defeat a Section 9 application.
+We also do not wish to deal with the cross-examination report in the civil suit
+and related documents as these have not been considered by the Adjudicating
+Authority as the latter did not have the benefit of these documents particularly
+so since the suit is still ongoing and the outcome of the suit is still not concluded.
+31.
+We find that the Adjudicating Authority has in a very superfluous manner
+dismissed the Section 9 application by relying on pre-existing disputes which
+were non-existent at the time of Section 8 Demand Notice or were disputes which
+were clearly catapulted by the Respondent after filing of their reply to the Section
+8 Demand Notice. The findings of the Adjudicating Authority do not commend
+us for the reasons stated in the foregoing paragraphs.
+
+[PAGE 22]
+Page 22 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+32.
+The Corporate Debtor has however contended that the present appeal is a
+gross abuse of the process of law by the Appellant. It is also submitted that the
+Corporate Debtor is a going concern having on its roll about 350 to 400
+employees and a turnover of Rs 738 Cr. The Ld. Counsel for the Respondent has
+asserted that the provisions of IBC cannot be turned into a debt recovery
+proceeding and a going concern cannot be put to death. We quite agree that the
+objective of IBC is not to penalise solvent companies. The IBC cannot be a tool
+to coerce and intimidate the Corporate Debtor to capitulate to the unreasonable
+demands of the Operational Creditor. However, this cannot also be a broad
+spectrum shield to knock down a Section 9 application against the Corporate
+Debtor as long as the debt is due, payable and undisputed and there is incidence
+of default/failure to repay the dues of an Operational Creditor which is above
+the threshold level. An Operational Creditor can justifiably seek initiation of
+CIRP when no real dispute exists between parties which is pretty much the case
+here. However, keeping in mind that the Corporate Debtor is a going concern, in
+the interest of justice, we are however, amenable to allow them an opportunity
+to clear their operational debt to stave off the initiation of CIRP.
+33.
+With the aforesaid discussion, we are of the considered view that the
+Adjudicating Authority has erroneously rejected the application under Section 9
+of IBC. The Appeal is allowed with the following directions:
+(i)
+The impugned order dated 16.12.2022 passed by the Adjudicating
+Authority rejecting the Section 9 application is set aside.
+(ii)
+On a copy of this order being produced before the Adjudicating
+Authority by the Appellant within 10 days of its uploading, the
+
+[PAGE 23]
+Page 23 of 23
+Company Appeal (AT) (Insolvency) No. 157 of 2023
+
+Adjudicating Authority may pass an order admitting the Section 9
+application after allowing a period of one month.
+(iii)
+During the aforesaid period of one month, it shall be open to the
+Corporate Debtor to enter into settlement with the Operational Creditor
+for discharge of their debt. In the event of a settlement fructifying, the
+same may be brought on record before the Adjudicating Authority
+which then may consider the same and pass appropriate orders in
+accordance with law.
+(iv)
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 11.02.2025
+
+Abdul/Harleen

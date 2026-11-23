@@ -1,0 +1,1491 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+[Arising out of the Impugned Order dated 04.09.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench-V in C.P. (IB) No. 603/MB/2021]
+In the matter of:
+Union Roadways Limited,
+having its office at:
+113/10, 2nd Floor, Gee Gee Shroff Centre
+Ponamallee High Road, Chennai 600084, India
+
+...Appellant
+Versus
+
+Ice Steel 1 Private Limited,
+Room No.7 & 8, First Floor, Onlooker Building,
+Sir Pherozeshah Mehta Road, Fort,
+Mumbai, 40000, India
+Email rajesh.jayaraman@steel1india.com
+.... Respondent
+Present:
+
+For Appellant
+: Mr. Pai Amit and Ms. Bhavana Duhoon, Advocates.
+
+For Respondent
+: Mr. Arun Sri Kumar, Advocate.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+04.09.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-V) in
+Company Petition (IB) No. 603/MB/2021. By the impugned order, the
+Adjudicating Authority has dismissed Section 9 application filed by the
+
+[PAGE 2]
+Page 2 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+Appellant-Operational Creditor. Aggrieved by the impugned order, the present
+appeal has been preferred by the Appellant.
+2.
+Narrating the factual background, it was submitted by the Ld. Counsel of
+the Appellant that the Operational Creditor was engaged in the business of
+providing transportation and trucking services to the Corporate Debtor since
+2017. The Corporate Debtor had placed several work orders on the Appellant-
+Operational Creditor for transportation of their goods. The Appellant discharged
+their service obligations and had submitted invoices from 24.06.2019 to
+24.02.2020 for payment by the Corporate Debtor. Further in terms of the
+contract of services, the Corporate Debtor had to make payment under each
+invoice within 14 days failing which 24% p.a. interest was leviable for delayed
+payment. It was submitted that the Appellant-Operational Creditor had raised
+247 invoices for the period 24.06.2019 to 24.02.2020 for a total amount of Rs
+3.57 Cr. against which only Rs 10.08 lakh had been paid by the Corporate Debtor
+on 30.12.2020. As the balance amount of Rs 3.47 Cr. continued to remain
+unpaid, inspite of several reminders to pay, the Operational Creditor sent a
+Section 8 Demand Notice to the Corporate Debtor dated 15.04.2021 claiming Rs
+3.47 Cr. as the principal component of the operational debt alongwith Rs 1.24
+Cr. towards interest component amounting to a total operational debt of Rs 4.72
+Cr. including interest. The Corporate Debtor failed to respond to the Section 8
+Demand Notice following which the Appellant-Operational Creditor filed the
+Section 9 petition before the Adjudicating Authority basis these 247 invoices
+which constituted the subject matter of the Section 9 petition. The Adjudicating
+
+[PAGE 3]
+Page 3 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+Authority having dismissed the Section 9 application, the Appellant has come
+up in appeal.
+3.
+Assailing the impugned order, it was contended that Adjudicating
+Authority had come to the wrong conclusion that the operational debt claimed
+by the Operational Creditor was not a crystallized amount. The Adjudicating
+Authority had ignored the fact that the Corporate Debtor had acknowledged the
+debt arising out of these 247 invoices and their liability to make the payments.
+It is the contention of the Appellant that the Corporate Debtor had never raised
+any objection or dispute with respect to the invoices dated 24.06.2019 to
+24.02.2020 either at any time as and when they were raised or at any time prior
+to the issue of statutory Demand Notice dated 15.04.2021. The Corporate Debtor
+having not responded to the Section 8 Demand Notice, the invoices remain
+undisputed. Hence, when the invoices were never disputed nor any notice of
+dispute raised pursuant to receipt of Section 8 Demand Notice, there is no basis
+to assert pre-existing dispute between the Operational Creditor and the
+Corporate Debtor. It was therefore emphatically contended that the operational
+debt qua the invoices between 24.06.2019 and 24.02.2020 was an undisputed
+and a crystallised debt. Submission was pressed that the Corporate Debtor in
+their e-mail dated 04.02.2022 had clearly acknowledged that there is an
+outstanding amount of Rs 1.53 Cr. towards the Appellant. A debt once
+acknowledged cannot be disputed subsequently. This outstanding quantum of
+debt being above the threshold limit, made it fit case for admission of Section 9
+petition. The Appellant had failed to respond to the Section 8 Demand Notice
+within the prescribed 10 days period under Section 8(2) of the IBC. The failure
+
+[PAGE 4]
+Page 4 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+to raise a genuine dispute in response to the statutory notice establishes the
+default. The invoices have been disputed subsequently only as an afterthought
+after the issue of the Section 8 Demand Notice. Reliance was placed on the
+judgment of the Hon’ble Supreme Court in Mobilox Innovations Pvt. Ltd. Vs
+Kirusa Software Pvt. Ltd. (2018) 1 SCC 353 to contend that spurious defence
+and feeble disputes raised by the Corporate Debtor ought to be rejected unless
+it is shown that there was a plausible dispute which required investigation. The
+Adjudicating Authority had thus erred in holding that there was a pre-existing
+dispute between the parties.
+4.
+Refuting the submissions made by the Appellant, it has been contended
+by the Ld. Counsel of the Respondent that during the period 25.02.2020 to
+30.09.2021, from time to time, several payments had been made by the
+Corporate Debtor to the Appellant amounting Rs. 2.89 Cr. towards the 274
+invoices which the Appellant has claimed to be outstanding and made the basis
+of their Section 9 application. The Appellant never denied the receipt of payment
+of Rs. 2.89 Cr. but falsely claimed that these amounts has been appropriated
+towards “previously pending invoices”. No such list of older pending invoices had
+ever been made available at any stage prior to the appeal. Hence, the “older
+pending invoices” is only a smoke-screen to claim that payments were still
+outstanding. It was vehemently contended that the Appellant could not have
+unilaterally appropriated these payments towards “previously pending invoices”
+contrary to their clear directions in their e-mail communications that these
+payments were to be made towards invoices which formed part of 274 invoices.
+It was also pointed out that several invoices which form the basis of the Section
+
+[PAGE 5]
+Page 5 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+9 petition suffer from grave infirmities for payment against many such invoices
+had admittedly been received by the Appellant but was still shown as
+outstanding in the Section 9 petition. Thus, the Section 9 petition was based on
+invoices which have been falsely claimed by the Appellant to have remained
+unpaid. Buttressing their arguments that the invoices were disputed it was
+canvassed that the invoices of the Appellant are inflated, fabricated and not
+supported by necessary documents. The Respondent contended that the invoices
+are without lorry receipt, challan slip, proof of delivery documents and there is
+incidence of overcharging including levy of halting and detention charges etc.
+Further non-crystallisation of the debt amount has also been occasioned by the
+fact that there is clear of lack of consensus between the parties with respect to
+interest payment in the event of delayed settlement of invoices. Request for
+reconciliation was also made by them because of non-submission of relevant
+supporting documents by the Operational Creditor and lack of proper accounting
+of the payments already made. Further in aid of their contention of being a
+solvent entity with capacity to pay, much emphasis was laid on the fact that they
+had never showed any lack of willingness to make payments in respect of
+outstanding debt which fell in the undisputed category as is effectively
+demonstrated by their conduct in terms of payments made between 25.02.2020
+and 30.09.2021. Towards resolving the dispute of uncrystallised amount of
+operational debt, they had consistently taken up the issue of reconciliation of
+accounts with the Operational Creditor but to no avail. Instead the Operational
+Creditor has been trying to take recourse to the IBC proceedings as a recovery
+
+[PAGE 6]
+Page 6 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+mechanism of recouping uncrystallized debt which is impermissible and hence
+the Adjudicating Authority has rightly rejected the Section 9 application.
+5.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully. The crux of the matter in the
+present case is for us to determine whether the Adjudicating Authority was right
+in holding that there was a plausible dispute which had been raised by the
+Corporate Debtor which require further investigation.
+6.
+A cursory look at the statutory provisions of the IBC reveals that Section
+8(2) obligates a Corporate Debtor who has been delivered a Demand Notice under
+Section 8(1) by Operational Creditor to bring to the notice of the Operational
+Creditor the existence of a dispute. In the present case, it is an admitted fact
+that the service of the Demand Notice could not be effected on the registered
+office of the Corporate Debtor. While the Appellant has claimed that the demand
+notice was purportedly served by e-mail, however, the Respondent has denied
+the receipt of the Demand Notice. Be that as it may, there is no dispute that no
+reply was received from the Respondent to the Section 8 Demand Notice and the
+Appellant went ahead and filed the Section 9 application.
+7.
+It is a well settled proposition that for a pre-existing dispute to be a
+justifiable ground to thwart an application under Section 9, the dispute raised
+must be truly existing either at the time of filing a reply to notice of demand as
+contemplated by Section 8(2) or at the time of filing the Section 9 application. In
+the present case, as already observed by us, while it is not contested that there
+was no Notice of dispute from the Corporate Debtor in response to the Section 8
+demand notice, the Corporate Debtor has contested the service of of the Section
+
+[PAGE 7]
+Page 7 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+8 Demand Notice. In such circumstances, the Adjudicating Authority was
+required to look into the substance of the pleadings made in response to the
+Section 9 application to find out whether the Corporate Debtor had alleged pre-
+existing dispute and if so whether any real dispute is discernible from the stated
+facts.
+8.
+It is an undisputed fact that the Corporate Debtor had filed a detailed reply
+to the Section 9 petition on 25.04.2022. At this stage we may take notice of the
+reply to the Section 9 application, the relevant extracts of which are as placed
+below:
+“....
+3) The Corporate Debtor vehemently deny that they are liable to pay a sum
+of Rs. 4,72,08,491/- as is claimed by the Applicant in the present
+application. Similarly, the Corporate Debtor deny and dispute that payments
+in respect of total 274 invoices aggregating to a sum of Rs 3,47,27,033/-
+alongwith interest @ 24 % thereon amounting to Rs. 1,24,81,458/- as on
+13.04.2021 is due and payable by the Corporate Debtor to the Applicant.
+The Corporate Debtor further states that the said amount being claimed by
+the Applicant in the application is an exaggerated amount, which is disputed
+and vehemently denied. The Applicant has over charged the Corporate
+Debtor and that many of the invoices raised by the Applicant were disputed
+and never accepted by the Corporate Debtor. Moreover, the Corporate Debtor
+has made various on- account payments to the Applicant against the said
+invoices and has from time to time called upon them to provide reconciliation
+of account. However, on one or the other pretext, the Applicant failed and
+neglected to provide the same to the Corporate Debtor. The Corporate Debtor
+further denies that they are liable to pay any interest @ 24 % p.a amounting
+to Rs. 1,24,81,458/ -. The Corporate Debtor submits that they had never
+agreed to pay any interest @ 24 % p.a. to the Applicant at any point of time.
+Moreover, even the Applicant has never issued any Debit note and/or
+claimed interest payments from the Corporate Debtor.
+....
+5) Be that as it may, in the month of July, 2021 discussions were held
+between the Applicant and Corporate Debtor for amicable settlement of all
+their pending issues and that it was mutually agreed between the parties
+
+[PAGE 8]
+Page 8 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+that the Corporate debtor will send their accounts statement for review to
+the Applicant and subsequently, after reviewing, the Applicant will send
+some person to Ranipet office of the Corporate Debtor with all the relevant
+supporting documents in respect of their said claim so as to close all the
+pending issues. It was further agreed that the Corporate Debtor will restart
+making on account payments to the Applicant. It is pertinent to mention
+herein that during the course of said discussion, the Applicant has informed
+the Corporate Debtor that their bank account has changed and requested
+the Corporate Debtor to effect on-account payments in the said new bank
+account bearing No 991316694 maintained with Kotak Mahindra Bank. As
+a matter of fact, the Corporate debtor vide its email dated 23/07/2021 put
+the said fact on record and further on 23/07/2021 itself, they made on
+account payments of Rs.39,33,216/- to the Applicant in their said new bank
+account and further requested the Applicant to close the process of
+reconciliation of accounts at the earliest. Here to annexed and marked as
+Exhibit "R-1" is a copy of said email correspondences dated 23/07/2021.
+....
+8) It is needs to be mentioned herein that during the period from
+25/02/2020 to 30/09/2021, the Corporate Debtor made substantial
+payments to the tune of Rs. 2,89,11,221/- to the Applicant in respect of the
+subject invoices raised by the Applicant. The details of the said payments
+made by the Corporate Debtors to the Applicant are as under:
+Date
+Amount in INR
+25-02-2020
+5,00,000
+03-03-2020
+4,60,932
+07-03-2020
+9,87,540
+13-03-2020
+7,50,000
+17-03-2020
+10,13,569
+19-05-2020
+6,00,312
+26-05-2020
+5,04,616
+09-06-2020
+2,01,867
+15-06-2020
+2,00,414
+22-06-2020
+6,12,130
+02-07-2020
+8,49,004
+17-07-2020
+4,21,183
+23-07-2020
+5,00,624
+14-08-2020
+4,00,438
+25-08-2020
+6,00,777
+11-09-2020
+5,00,214
+22-09-2020
+8,03,628
+28-09-2020
+10,06,325
+
+[PAGE 9]
+Page 9 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+13) The Corporate Debtor further submits that despite repeated follow up
+and reminder the Applicant to provide proper invoices alongwith all
+supporting documents and do reconciliation of account. However, the
+Applicant with a malafide intention have deliberately failed and neglected
+to do so. It is further submitted that the Applicant is merely attempting to
+use the present proceedings "for a purpose other than for the resolution of
+insolvency" and as a tool to arm-twist the Corporate Debtor into paying the
+unjust and disputed amounts. The present application is merely an attempt
+by the Applicant to harass the Corporate Debtor to extract exaggerated
+amount, which is neither legally due nor payable by the Corporate Debtor to
+the Applicant and thus, the present application deserves to be dismissed.
+
+When we look at the above reply to the Section 9 application, we notice that
+there is a categorical denial of outstanding operational debt by the Corporate
+Debtor besides raising several grounds to show that there was a pre-existing
+dispute between the parties with respect to the operational debt.
+9.
+We come to the first bone of contention between the two parties raised at
+para 8 of the pleadings in the reply of the Corporate Debtor to the Section 9
+application. It is the case of the Appellant that the Corporate Debtor had
+defaulted in clearing their outstanding debt. Without denying the fact that
+payments amounting Rs 2.89 Cr. was made by the Corporate Debtor during the
+period 25.02.2020 and 30.09.2021, it was contended that these payments were
+made by the Corporate Debtor towards invoices for the period 25.03.2020 to
+12-10-2020
+4,98,310
+22-10-2020
+6,94,378
+29-10-2020
+6,01,971
+06-11-2020
+9,92,165
+24-11-2020
+9,96,354
+04-12-2020
+12,73,046
+30-12-2020
+10,08,208
+23-07-2021
+39,33,216
+25-08-2021
+40,00,000
+30-09-2021
+40,00,000
+Total paid
+2,89,11,221/-
+
+[PAGE 10]
+Page 10 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+24.03.2021 and not towards the pending invoices of Rs 3.47 Cr. which formed
+the basis of the Section 9 petition. Since the two parties were maintaining
+running accounts, it was contended that the Appellant was entitled to
+appropriate the payments received from the Corporate Debtor towards any lawful
+debt which was due and payable. Accordingly, these payments were appropriated
+by the Appellant towards “older pending invoices”. Further, when the Corporate
+Debtor did not specify to the Appellant as to which debt of theirs should be
+covered by the payments made by them, the Appellant exercised their discretion
+to appropriate payments towards “older pending invoices”.
+10.
+Per contra, it is the contention of the Corporate Debtor that in terms of
+Section 59 of the Indian Contract Act, 1872, it is for the Corporate Debtor to
+elect as to how the payment made by them is to be appropriated by the
+Operational Creditor. It was for the Corporate Debtor to specify the particular
+debt for which payment made by them were to be adjusted. It was contended
+that payments made by them between 25.02.2020 and 30.09.2021 were to be
+appropriated towards invoices raised between 24.06.2019 to 24.02.2020 and
+there being clear indication given by the Corporate Debtor on how the payment
+was to be adjusted, the Appellant could not have appropriated these payments
+in any other manner. Several e-mail correspondences were claimed to have been
+sent by the Respondent to the Appellant dated 10.07.2020, 28.07.2020,
+24.08.2020 and 26.08.2020 stating that payments made by them were towards
+invoices which formed part of 274 invoices which have been claimed by the
+Appellant to have remained unpaid. This relates to six invoices amounting to Rs
+11.51 Lakhs bearing Nos. 12370, 12372, 12373, 12378, 12379 and 12380. The
+
+[PAGE 11]
+Page 11 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+Respondent has also adverted attention to contradiction in the pleadings made
+by the Appellant with respect to manner of appropriation of payments made by
+the Respondent. It is asserted that while the Appellant has claimed that the
+payments were appropriated towards “previously pending invoices”, in the
+computation sheets which have been placed by them at pages 1256-1258 of the
+Appeal Paper Book, the payments have been adjusted against “subsequent
+invoices” between 15.03.2020 and 30.09.2021. It was contended that when the
+two parties were not at ad idem on how the payments made were to be adjusted
+against the outstanding debt, it was clear that the debt amount had not
+crystallised. Therefore, the Adjudicating Authority had not erred in holding that
+the debt claimed in the Section 9 petition was not a crystallised amount.
+11.
+Having noted the rival contentions of both parties, we now proceed to
+return our findings on whether the payment made by the Corporate Debtor
+between 25.02.2020 and 30.09.2021, which payment has also been admitted by
+the Operational Creditor had the ingredients of pre-existing dispute between the
+two parties. We find that the Respondent, on the one hand, has contended that
+the payment of Rs 2.89 Cr. was made by them towards invoices which formed
+the basis of the Section 9 application while the Appellant, on the contrary, has
+adjusted these payments towards invoices of the period 25.03.2020 to
+25.03.2021 which do not form part of the Section 9 invoices. It is the contention
+of the Respondent that the Operational Creditor had wrongly settled the
+payments made by them against invoices not identified by them. Further they
+had appropriated the payments against invoices raised between 25.03.2020 and
+25.03.2021 which cannot be subject of action under Section 9 because of Section
+
+[PAGE 12]
+Page 12 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+10A bar. On the other hand, it is the case of the Appellant that the two parties
+were maintaining running accounts and hence the Appellant was entitled to
+appropriate the payment towards any lawful debt which was due and payable
+and therefore they had correctly appropriated by them towards older pending
+invoices. Thus, there is a manifest dispute between them over the invoices
+against which the payments made by the Corporate Debtor were appropriated.
+In view of the conflicting claims made by both parties with regard to the invoices
+against which payments were purportedly released by the Corporate Debtor and
+the invoices against which these payments were adjusted by the Appellant clearly
+shows dispute between parties. This was therefore a clear bone of contention
+between the two parties which needs adjudication by evidencing which is beyond
+the remit of the summary jurisdiction of the Adjudicating Authority.
+12.
+Coming to another ground of pre-existing dispute, we find that the
+Corporate Debtor at para 3 of their reply to the Section 9 application has raised
+the contention that the amount claimed by the Appellant is an exaggerated
+amount.
+13.
+One of the reasons for the Corporate Debtor finding the amount to be
+inflated is the interest component. The Appellant has however canvassed that
+interest liability finds clear mention in the invoices and the Corporate Debtor
+having never raised objections with respect to invoices at the time of receipt of
+the invoices cannot raise this dispute now. It was submitted that the Respondent
+has now raised this dispute as an afterthought to avoid payments obligations. It
+is the counter case of the Respondent that the Operational Creditor cannot make
+interest claim unilaterally when the element of interest on delayed payment is
+
+[PAGE 13]
+Page 13 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+not supported by any written agreement or contract to that effect. Mere
+stipulation of interest payment unilaterally in the invoices cannot create binding
+obligation on the other party to pay interest until and until there is mutual
+understanding between the parties in this regard. No such understanding is
+either buttressed by conduct and practice.
+14.
+Coming to our findings on the tenability of holding the interest component
+to be a ground of dispute, we notice that nothing has been placed on regard to
+demonstrate that the Corporate Debtor had ever paid interest to the Operational
+Creditor in the past for delayed payment. The interest clause does not appear to
+have been enforced earlier. We are therefore inclined to agree with the
+Respondent-Corporate Debtor that mere mention of interest claim in the invoice
+without any mutually acceptable agreement between them do not constitute
+sufficient basis for including interest component in the computation of the
+outstanding operational debt and that creates a shadow of dispute in respect of
+the operational debt.
+15.
+We also notice that the Respondent has placed on record a list of 135
+invoices wherein there is a discrepancy in the amount shown in the invoices as
+placed by the Appellant before the Adjudicating Authority and the amounts
+reflected against the same invoices sent to the Respondent. Hence it is contended
+by the Corporate Debtor that this variation in the amounts for the same
+transactions is clear evidence of operational debt being a disputed amount. The
+list of invoices containing discrepancies as brought on record by the Respondent
+are as reproduced below:-
+
+[PAGE 14]
+Page 14 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+Sr.
+Inv.
+No.
+Amount shown
+in invoice
+placed on record
+by the Appellant
+before the NCLT
+(in INR)
+Appeal Page
+No.
+Amount
+shown in
+invoice
+issued to
+the
+Respondent
+(in INR)
+Objection
+s Page
+No.
+1
+12370
+1,72,305
+Vol. I: 112
+1,88,809
+53
+2
+12372
+1,58,747
+Vol. I: 115
+1,64,747
+54
+3
+12373
+1,78,806
+Vol. I: 118
+1,93,806
+55
+4
+12413
+1,54,067
+Vol. I: 198
+1,74,738
+56
+5
+12418
+1,55,700
+Vol. I: 212
+1,68,658
+57
+6
+12419
+2,00,877
+Vol. I: 216
+2,36,947
+58
+7
+12420
+1,47,041
+Vol. I: 218
+1,68,817
+59
+8
+12422
+1,40,000
+Vol. I: 225
+1,55,379
+60
+9
+12423
+1,40,000
+Vol. I: 227
+1,64,379
+61
+10
+12427
+1,53,000
+Vol. I: 240
+1,65,052
+62
+11
+12428
+1,40,000
+Vol. I: 244
+1,50,879
+63
+12
+12454
+1,40,000
+Vol. II:330
+1,59,879
+64
+13
+12455
+1,40,000
+Vol. II: 333
+1,52,379
+65
+14
+12456
+1,47,938
+Vol. II: 336
+1,60,768
+66
+15
+12461
+142,260
+Vol. II: 340
+1,69,771
+67
+16
+12462
+1,40,000
+Vol. II: 343
+1,71,879
+68
+17
+12463
+1,40,000
+Vol. II: 346
+1,74,879
+69
+18
+12464
+1,47,705
+Vol. II: 349
+1,81,521
+70
+19
+12465
+1,40,000
+Vol. II: 352
+1,65,879
+71
+20
+12466
+1,40,000
+Vol. II: 357
+1,74,879
+72
+21
+12467
+1,40,000
+Vol. II: 360
+1,74,879
+73
+22
+12468
+1,43,707
+Vol. II: 363
+1,78,795
+74
+
+[PAGE 15]
+Page 15 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+23
+12469
+1,40,000
+Vol. II: 366
+1,74,879
+75
+24
+12470
+1,40,000
+Vol. II: 369
+1,50,879
+76
+25
+12473
+1,62,296
+Vol. II: 375
+1,82,122
+77
+26
+12477
+1,40,990
+Vol. II: 378
+1,75,928
+78
+27
+12479
+1,44,762
+Vol. II: 381
+1,72,314
+79
+28
+12501
+1,40,000
+Vol. II: 386
+1,74,879
+80
+29
+12507
+1,46,700
+Vol. II: 405
+1,62,879
+81
+30
+12508
+1,47,178
+Vol. II: 408
+1,62,114
+82
+31
+12509
+1,40,000
+Vol. II: 411
+1,77,879
+83
+32
+12510
+1,41,850
+Vol. II: 414
+1,82,406
+84
+33
+12511
+1,61,254
+Vol. II: 417
+1,77,235
+85
+34
+12512
+1,43,700
+Vol. II: 420
+1,58,379
+86
+35
+12519
+1,40,000
+Vol. II: 423
+1,70,379
+87
+36
+12520
+1,51,718
+Vol. II: 426
+1,84,260
+88
+37
+12521
+1,46,700
+Vol. II: 429
+1,64,379
+89
+38
+12522
+1,37,700
+Vol. II: 432
+1,55,379
+90
+39
+12523
+1,37,700
+Vol. II: 435
+1,47,879
+91
+40
+12526
+1,37,700
+Vol. II: 438
+1,68,879
+92
+41
+12527
+1,71,250
+Vol. II: 441
+1,90,856
+93
+42
+12530
+1,45,200
+Vol. II: 450
+1,61,379
+94
+43
+12531
+1,43,700
+Vol. II: 453
+1,61,379
+95
+44
+12532
+1,43,700
+Vol. II: 456
+1,59,879
+96
+45
+12533
+1,37,700
+Vol. II: 459
+1,67,379
+97
+46
+12534
+1,48,200
+Vol. II: 462
+1,70,379
+99
+47
+12536
+1,48,200
+Vol. II: 468
+1,68,879
+100
+48
+12537
+1,51,416
+Vol. II: 471
+1,62,879
+101
+49
+12538
+1,70,459
+Vol. II: 474
+1,91,727
+102
+
+[PAGE 16]
+Page 16 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+50
+12539
+1,48,200
+Vol. II: 477
+1,67,379
+103
+51
+12542
+1,42,200
+Vol. II: 480
+1,56,879
+104
+52
+12543
+1,49,700
+Vol. II: 483
+1,70,379
+105
+53
+12544
+1,49,700
+Vol. II: 486
+1,70,379
+106
+54
+12545
+1,84,113
+Vol. II: 489
+2,06,058
+107
+55
+12546
+1,42,200
+Vol. II: 492
+1,59,879
+108
+56
+12547
+1,69,879
+Vol. II: 495
+1,90,777
+109
+57
+12548
+1,39,301
+Vol. II: 498
+1,52,599
+110
+58
+12549
+1,52,700
+Vol. II: 501
+1,77,879
+111
+59
+12550
+1,65,278
+Vol. II: 504
+1,92,511
+
+60
+12551
+1,60,178
+Vol. II: 507
+1,78,423
+112
+61
+12552
+1,53,925
+Vol. III: 510
+1,72,364
+113
+62
+12556
+1,47,113
+Vol. III: 513
+1,64,822
+114
+63
+12557
+1,52,700
+Vol. III: 516
+1,74,879
+115
+64
+12558
+1,37,700
+Vol. III: 519
+1,47,879
+116
+65
+12561
+1,70,040
+Vol. III: 528
+2,06,778
+117
+66
+12563
+51,000
+Vol. III: 532
+59,400
+118
+67
+12564
+46,000
+Vol. III: 535
+47,000
+119
+68
+12573
+46,000
+Vol. III: 546
+47,000
+120
+69
+12584
+1,40,700
+Vol. III: 564
+1,66,815
+121
+70
+12590
+1,51,012
+Vol. III: 582
+1,55,512
+122
+71
+12597
+1,43,700
+Vol. III: 603
+1,62,879
+123
+72
+12608
+1,68,500
+Vol. III: 631
+1,74,000
+124
+73
+12610
+1,37,700
+Vol. III: 640
+1,43,700
+125
+74
+12611
+1,57,700
+Vol. III: 643
+1,65,700
+126
+75
+12612
+1,68,500
+Vol. III: 649
+1,74,000
+127
+76
+12613
+1,57,700
+Vol. III: 655
+1,63,200
+128
+
+[PAGE 17]
+Page 17 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+77
+12614
+1,57,700
+Vol. III: 661
+1,63,200
+129
+78
+12617
+1,79,000
+Vol. III: 676
+1,99,815
+130
+79
+12623
+1,68,500
+Vol. III: 688
+1,75,000
+131
+80
+12624
+1,57,700
+Vol. III: 694
+1,61,200
+132
+81
+12625
+1,57,700
+Vol. III: 700
+1,74,000
+133
+82
+12626
+1,57,700
+Vol. III: 706
+1,65,700
+134
+83
+12627
+1,57,700
+Vol. III: 712
+1,64,200
+135
+84
+12628
+1,57,700
+Vol. III: 718
+1,64,200
+136
+85
+12630
+1,57,700
+Vol. III: 731
+1,65,700
+137
+86
+12631
+1,57,700
+Vol. III: 737
+1,63,200
+138
+87
+12637
+46,000
+Vol. III: 755
+47,000
+139
+88
+12638
+46,000
+Vol. IV: 759
+59,400
+140
+89
+12639
+57,000
+Vol. IV: 762
+59,400
+141
+90
+12640
+49,000
+Vol. IV: 767
+59,400
+142
+91
+12641
+54,000
+Vol. IV: 773
+59,400
+143
+92
+12642
+1,48,500
+Vol. IV: 776
+1,51,500
+144
+93
+12651
+1,42,200
+Vol. IV: 804
+1,55,379
+145
+94
+12652
+1,47,900
+Vol. IV: 807
+1,57,900
+146
+95
+12653
+1,57,700
+Vol. IV: 813
+1,73,700
+147
+96
+12654
+1,37,700
+Vol. IV: 819
+1,46,900
+148
+97
+12656
+57,000
+Vol. IV: 822
+59,400
+149
+98
+12659
+1,63,700
+Vol. IV: 826
+1,75,200
+150
+99
+12660
+1,58,200
+Vol. IV: 832
+1,67,700
+151
+100
+12662
+1,58,200
+Vol. IV: 842
+1,71,636
+152
+101
+12663
+1,58,200
+Vol. IV: 848
+1,77,636
+153
+102
+12664
+1,58,200
+Vol. IV: 854
+1,67,700
+154
+103
+12665
+1,47,900
+Vol. IV: 860
+1,53,900
+155
+
+[PAGE 18]
+Page 18 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+104
+12667
+1,37,700
+Vol. IV: 867
+1,46,700
+156
+105
+12668
+54,000
+Vol. IV: 870
+59,400
+157
+106
+12670
+1,59,811
+Vol. IV: 873
+1,65,311
+158
+107
+12698
+1,40,000
+Vol. IV: 929
+1,49,379
+159
+108
+12699
+1,44,200
+Vol. IV: 932
+1,58,200
+160
+109
+12700
+1,66,700
+Vol. IV: 939
+1,81,700
+161
+110
+12706
+1,44,200
+Vol. IV: 969
+1,54,200
+162
+111
+12719
+59,400
+Vol. IV: 998
+61,101
+163
+112
+12720
+59,400
+Vol. IV: 1002
+62,400
+164
+113
+12724
+1,52,235
+Vol. V: 1023
+1,55,943
+165
+114
+12725
+59,400
+Vol. V: 1026
+62,400
+166
+115
+12727
+59,400
+Vol. V: 1033
+62,400
+167
+116
+12729
+59,400
+Vol. V: 1041
+68,400
+168
+117
+12731
+1,57,300
+Vol. V: 1048
+2,02,486
+169
+118
+12733
+1,57,715
+Vol. V: 1057
+1,69,998
+170
+119
+12734
+1,57,530
+Vol. V: 1065
+1,73,530
+171
+120
+12735
+1,57,256,
+Vol. V: 1070
+1,73,613
+172
+121
+12741
+59,400
+Vol. V: 1080
+68,400
+173
+122
+12743
+1,69,567
+Vol. V: 1088
+1,75,108
+174
+123
+12744
+1,80,055
+Vol. V: 1094
+1,88,487
+175
+124
+12756
+1,44,200
+Vol. V: 1117
+1,54,200
+176
+125
+12757
+1,44,200
+Vol. V: 1125
+1,61,700
+177
+126
+12758
+1,63,886
+Vol. V: 1135
+1,79,886
+178
+127
+12759
+1,48,200
+Vol. V: 1141
+1,55,700
+179
+128
+12762
+1,54,400
+Vol. V: 1151
+1,57,900
+180
+129
+12763
+1,53,584
+Vol. V: 1157
+1,71,084
+181
+130
+12770
+1,47,900
+Vol. V: 1194
+1,61,400
+182
+
+[PAGE 19]
+Page 19 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+131
+12772
+59,400
+Vol. V: 1199
+62,400
+183
+132
+12773
+64,492
+Vol. V: 1203
+68,421
+184
+133
+12775
+59,400
+Vol. V: 1209
+66,900
+185
+134
+12778
+175280
+Vol. V: 1224
+184780
+186
+135
+12779
+204030
+Vol. V: 1229
+214940
+187
+
+16.
+Though it was persuasively canvassed by the Corporate Debtor that
+clearly two sets of invoices for the same transactions reflecting varying amounts
+which were in circulation is a clear evidence of dispute we do not wish to dwell
+upon the discrepancies in these invoices as the Operational Creditor pointed out
+that the disputes in respect of the above 135 invoices cannot be relied upon as
+these had been raised for the first time by the Respondent in their written
+submission before the Adjudicating Authority after the hearing was closed thus
+denying them an opportunity to deal with the same.
+17.
+We also notice that the Adjudicating Authority in the impugned order has
+extracted at paras 4.III, IV and V, two e-mails wherein both parties had agreed
+to a need for account reconciliation to settle their differences. We notice that at
+pointers 3 and 4 of the e-mail dated 23.06.2021, it has been clearly stated that
+payment would be made by the Respondent only in respect of “undisputed bills”
+in a phased manner and that “disputed items” would be resolved mutually.
+Similarly, the e-mail dated 15.11.2021 points out that the two parties had
+differences over the invoices against which the payments made by the Corporate
+Debtor were getting adjusted by the Appellant and that there should be a
+reconciliation of payments done so far. The Appellant has however contended
+that these e-mails cannot be relied upon since these were issued subsequent to
+
+[PAGE 20]
+Page 20 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+the issue of Section 8 Demand Notice as well as filing of Section 9 application.
+We quite agree that the timing of these emails being post the filing of Section 9
+application does not strictly qualify as a pre-existing dispute.
+18.
+Nevertheless, even if we discount the issue of duality and discrepancy in
+the 135 invoices submitted by the Appellant to the Corporate Debtor and the
+invoices placed in their Section 9 application and the issue of reconciliation of
+accounts for the reasons noted by us at paras 16 and 17 above, we cannot fail
+to notice that the Appellant and Respondent had clear differences between
+themselves on the crystallised amount of operational debt. The Adjudicating
+Authority has rightly adverted attention to the issue of validity and accuracy of
+the invoices which has led to a situation of non-crystallization of the claim
+amount leading to the spectre of disputed debt.
+19.
+The Hon’ble Supreme Court in its judgment in Mobilox Innovations Pvt.
+Ltd. Vs Kirusa Software Pvt. Ltd. (2018) 1 SCC 353 has held that it is enough
+that a dispute exists. The Adjudicating Authority has to only look into the factual
+matrix as to whether there is a plausibility of dispute and that the defence of
+pre-existing dispute raised by the Corporate Debtor is not a feeble defence or
+unsupported by evidence without entering into adjudication of the dispute. The
+relevant extracts of the above judgment are as reproduced below:
+“33............What is important is that the existence of the dispute and/or the
+suit or arbitration proceeding must be pre-existing i.e. it must exist before
+the receipt of the demand notice or invoice, as the case maybe. In case the
+unpaid operational debt has been repaid, the corporate debtor shall within
+a period of the self-same 10 days sent and attested copy of the record of the
+electronic transfer of the unpaid amount from the bank account of the
+corporate debtor or send an attested copy of the record that an operational
+creditor has encashed a cheque or otherwise received payment from the
+corporate debt [Section 8(2) (b)]. It is only if, after the expiry of the period of
+
+[PAGE 21]
+Page 21 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+the said 10 days, the operational creditor does not either receive payment
+from the corporate debtor or notice of dispute, that the operational creditor
+may trigger the insolvency process by filing an application before the
+adjudicating authority under Sections 9(1) and 9(2).........”
+*******
+
+******
+
+******
+51. It is clear, therefore, that once the operational creditor has filed an
+application, which is otherwise complete, the adjudicating authority must
+reject the application under Section 9(5)(2)(d) if notice of dispute has been
+received by the operational creditor or there is a record of dispute in the
+information utility. It is clear that such notice must bring to the notice of the
+operational creditor the “existence” of a dispute or the fact that a suit or
+arbitration proceeding relating to a dispute is pending between the parties.
+Therefore, all that the adjudicating authority is to see at this stage is
+whether there is a plausible contention which requires further investigation
+and that the “dispute” is not a patently feeble legal argument or an assertion
+of fact unsupported by evidence. It is important to separate the grain from
+the chaff and to reject a spurious defence which is mere bluster. However,
+in doing so, the Court does not need to be satisfied that the defence is likely
+to succeed. The Court does not at this stage examine the merits of the
+dispute except to the extent indicated above. So long as a dispute truly exists
+in fact and is not spurious, hypothetical or illusory, the adjudicating
+authority has to reject the application.”
+*******
+
+******
+
+******
+“56. Going by the aforesaid test of “existence of a dispute”, it is clear that
+without going into the merits of the dispute, the appellant has raised a
+plausible contention requiring further investigation which is not a patently
+feeble legal argument or an assertion of facts unsupported by evidence. The
+defense is not spurious, mere bluster, plainly frivolous or vexatious. A
+dispute does truly exist in fact between the parties, which may or may not
+ultimately succeed, and the Appellate Tribunal was wholly incorrect in
+characterizing the defense as vague, got-up and motivated to evade
+liability.”
+20.
+If we apply the test laid down in Mobilox judgement by the Hon’ble Apex
+Court to the facts of the present case it is clear that the defence raised by the
+Corporate Debtor in their reply filed in Section 9 application is not illusory or
+moonshine. The present is not a case where there is undisputed debt for which
+
+[PAGE 22]
+Page 22 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+insolvency can be asked for initiation by the Appellant. The Adjudicating
+Authority has, therefore, correctly applied the ratio of the Mobilox judgment in
+dismissing the Section 9 application and holding at Para 4 XIV of the impugned
+order:
+“XIV. Therefore, considering the totality of circumstances, including the
+disputed nature of the debt, the Corporate Debtor's solvency, the payments
+made by the Corporate Debtor during the pendency of this matter, the
+withholding of payments due to non-cooperation in view of reconciliation of
+accounts, and the use of IBC as a recovery mechanism by the Operational
+Creditor, this Bench is of the view that this is not a fit case for admission
+into CIRP.”
+
+21.
+It is well settled that in Section 9 proceedings the Adjudicating Authority
+is not to enter into final adjudication with regard to existence of dispute between
+the parties regarding operational debt. Section 9 proceedings cannot be
+converted into proceedings for adjudication of disputes between the parties.
+What has to be looked into is whether the defence raises a dispute which needs
+further adjudication by a competent court. Disputes pertaining to contractual
+issues are not to be resolved in Section 9 proceedings. We are of the considered
+view that present is a case where pre-existing disputes between the parties is
+writ large. In the given facts and circumstances, this is not a case where the
+Adjudicating Authority could have admitted the Section 9 application. Hence,
+there was no error committed by the Adjudicating Authority in rejecting the
+Section 9 application.
+22.
+For the forgoing reasons, we are of the considered view that the
+Adjudicating Authority has not committed any error in dismissing the Section 9
+application filed by the Appellant. We do not find any merit in the Appeal. The
+
+[PAGE 23]
+Page 23 of 23
+Company Appeal (AT) (Insolvency) No. 2072 of 2024
+
+Appeal is dismissed. We however make it clear that in the event the Appellant
+seeks remedy before any other appropriate forum, it shall be open for them to do
+so in accordance with law. No order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+
+Place: New Delhi
+Date: 15.10.2025
+
+Harleen/Abdul

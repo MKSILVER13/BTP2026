@@ -1,0 +1,712 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 67 of 2025
+[Arising out of order dated 14.11.2024 passed by the Adjudicating Authority
+(National Company Law Tribunal, Mumbai Bench, Court – II) in I.A. No.
+4874/2023 in C.P. (IB) No. – 1624/MB/2017]
+IN THE MATTER OF:
+
+Cosmos Co-Operative Bank Ltd.
+...Appellant
+Versus
+
+CS Anaghaanasingaraju,
+Liquidator for Pandit Automotive Pvt. Ltd. & Ors.
+
+...Respondents
+Present:
+
+For Appellant
+: Mr. Ramchandra Madan and Mr. Tushar Nigam,
+Advocates.
+
+For Respondents
+: Mr. Avinash R. Khanolkar, Ms. Surekha Yadav and
+Ms. Khushbu Bhanushali, Advocates.
+
+Mr. V. Deshpande, Advocate for R-3.
+J U D G M E N T
+ASHOK BHUSHAN, J.
+This appeal by a secured creditor of the corporate debtor M/s. Pandit
+Automotive Private Ltd. has been filed challenging the order dated 14.11.2024
+passed by the adjudicating authority (National Company Law Tribunal,
+Mumbai Bench, Court – II) allowing the I.A. No.4873/2023 filed by the
+liquidator. By the impugned order, adjudicating authority has directed the
+appellant to make a contribution out of the amount realised by it under
+Section 52 of the Insolvency and Bankruptcy Code, 2016, (for short the ‘Code’
+or the ‘IBC’), proportionately towards workmen’s dues in accordance with the
+Section 226(1)(b) of the Companies Act, 2013 and also towards liquidation
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+2 of 19
+cost in terms of the Section 52(8) of the IBC. Aggrieved by the order impugned,
+this appeal has been filed.
+2.
+Brief facts of the case necessary to be noticed for deciding the appeal
+are:
+i.
+The corporate debtor mortgaged its immovable property with the
+appellant as a guarantor to two borrower companies namely M/s.
+Pandit Automotive Sangli Private Limited and M/s. Pandit Automotive
+Satara Private Ltd.
+ii.
+The appellant issues notice under Section 13(2) of the Securitisation
+and Reconstruction of Financial Assets and Enforcement of Security
+Interest Act, 2002 (for short the ‘SARFAESI Act, 2002), calling upon the
+borrower companies and the corporate debtor to repay the amount
+mentioned therein with interest.
+iii.
+On account of failure of borrower companies and corporate debtor,
+appellant issued notice under Section 13(4) and took symbolic
+possession on 18.10.2017.
+iv.
+On an application filed under Section 7 by Reliance Commercial
+Finance Limited, Corporate Insolvency Resolution Process (CIRP)
+against the corporate debtor commenced on 12.03.2018.
+v.
+Committee of Creditors (CoC) on 09.07.2018 decided to proceed with
+the liquidation of the corporate debtor. Adjudicating Authority passed
+an order on 09.08.2018, directing for liquidation of the corporate
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+3 of 19
+debtor. Liquidator on 13.08.2018 published notice inviting claim from
+stakeholders of the corporate debtor.
+vi.
+On 04.09.2018, appellant filed its claim that is of ₹60,50,002,003/-.
+Appellant also sent a letter dated 22.11.2018, intimating liquidator that
+appellant shall realise its security interest under Section 52(1) of the
+IBC.
+vii.
+On 25.07.2019, Insolvency and Bankruptcy Board of India (Liquidation
+Process) Regulation, 2016 (for short the “Liquidation Regulations,
+2016”) was amended by inserting Regulation 21A in the Liquidation
+Regulation.
+viii.
+On 26.08.2019, IBBI issued a circular clarifying that provisions of the
+Amendment Regulations 2019 are applicable only to liquidation process
+which commenced on or after 25.07.2019.
+ix.
+Liquidator verified the claim of the appellant on 04.12.2020 as well as
+the security interest in parcel 1 and parcel 2 of the plot of land and
+permitted the appellant to realise its security.
+x.
+On 28.04.2022, IBBI Liquidation Process Amendment Regulation, 2002
+was issued clarifying that Regulation 21A would apply only to
+liquidation process commencing on or after date of commencement of
+IBBI Liquidation Process Amendment Regulation, 2019.
+xi.
+One Shah Lagoo Properties LLP purchased the assets of the corporate
+debtor, which were mortgaged with the appellant for total consideration
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+4 of 19
+of ₹21,35,00,000/- which was accepted by appellant on 20.01.2023.
+Sale certificate was also issued on 23.03.2023 after deposit of the entire
+amount. Appellant informed the liquidator on 23.03.2023 about the
+sale of its asset by private treaty for consideration of ₹21,35,00,000/-.
+xii.
+Liquidator filed an application I.A. No.4874/2023, under Section 60(5)
+seeking contribution from secured creditors including the appellant
+who had chosen to exercise their rights to realise the secured interest.
+xiii.
+The appellant was impleaded as Respondent No. 2 in the application
+4874/2023. Adjudicating Authority heard the liquidator as well as the
+secured creditor in the application and by impugned order has allowed
+the application. In paragraph 41 of the judgement following order has
+been passed:
+“41. In the light of the foregoing discussion, IA No.
+4874/2023 filed by the Liquidator is hereby allowed to
+the extent that Respondents No. 1 and 2 shall make
+contribution out of the amount realised by them under
+Section 52 of the Code proportionately towards workmen’s
+dues in accordance of Section 326 (1) (b) of the Companies
+Act, 2013 and also towards liquidation cost in terms of
+Section 52 (8) of the Insolvency and Bankruptcy Code,
+2016. There shall be, however, no order as to cost.”
+xiv.
+Appellant aggrieved by this order has come up in this appeal.
+3.
+We have heard learned counsel Mr. Ramchandra Madan and Mr.
+Tushar Nigam appearing for the appellant. Learned counsel Mr. Avinash R
+Khanolkar has appeared for the liquidator and learned counsel Mr. V.
+Deshpande has appeared for Respondent No. 3.
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+5 of 19
+4.
+Learned counsel for the appellant challenging the impugned order
+submits that Regulation 21A was inserted in the Liquidation Regulation 2016
+only on 25.07.2019, which entitled the liquidator to receive cost of liquidation
+from secured creditors, who have realised their security interest outside the
+liquidation which regulation is not applicable in the facts of the present case
+since the liquidation commenced against the corporate debtor on 09.08.2018.
+There is no other provisions in the Liquidation Regulation, 2016, under which
+liquidator could have asked the appellant to make a payment towards
+workmen’s dues and liquidation cost. Adjudicating authority, although in the
+impugned order has accepted that Regulation 21A does not apply to the facts
+of the present case but in substance, applied the regulation by directing
+payments towards the workmen’s dues and liquidation cost. Adjudicating
+Authority has relied on Section 13(9) of the SARFAESI act 2002, which has
+no application in the IBC proceeding. Provisions of winding up under the
+Companies Act 1956 and Companies Act 2013 have no application in the IBC.
+Section 13(9) of the SARFAESI Act 2002, which has been relied by the
+adjudicating authority commences with phrase “subject to the provisions of
+the Insolvency and Bankruptcy Code, 2016” which clearly means that when
+provisions of IBC are applicable Section 13(9) shall not apply. Further Section
+326 of the Companies Act 2013, which is pari materia to Section 529A of the
+Companies Act 1956 has been explicitly made inapplicable to cases where
+liquidation proceeded under the IBC. The exclusion is incorporated under
+Section 327(7) of the Companies Act, which provisions have been completely
+overlooked by the adjudicating authority. Regulation 21A being clearly
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+6 of 19
+prospective could not have been utilised for issuing directions by the
+adjudicating authority. When the IBC was enacted including the Liquidation
+Regulation, 2016, there was no provisions for asking the secured creditors
+who decides to realise its security interest to contribute which provisions for
+the first time came to be added in Liquidation Regulation on 25.07.2019 can
+have no application in the facts of the present case. It is submitted that dues
+of the workmen by the appellants have already been stand satisfied.
+Workmen entered into settlement with purchaser. Appellant cannot be held
+liable either workmen’s dues or liquidation cost. It is prayed that impugned
+order be set aside.
+5.
+Learned counsel appearing for the liquidator refuting the submissions
+of the appellant submits that adjudicating authority has correctly appreciated
+the legal position and issued direction to the appellant to contribute towards
+the workmen’s dues and liquidation cost. It is submitted that adjudicating
+authority has passed the direction in the peculiar situation arising in the
+present case. Adjudicating authority nowhere has applied the provisions of
+Regulation 21A. Adjudicating authority has rightly placed reliance on the
+provisions of SARFAESI Act, 2002 and the Companies Act 2013. Adjudicating
+authority has not exceeded its jurisdiction in issuing directions. Appellant
+has realised its security interest under the provisions of SARFAESI Act, 2002.
+Appellant is liable to comply the requirement of SARFAESI Act, 2002, under
+which provisions appellant was liable to contribute towards workmen’s dues.
+The process of realization of its security interest by the appellant has not been
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+7 of 19
+affected by the impugned order. Only direction is to contribute towards the
+unpaid workmen’s dues and liquidation cost.
+6.
+We have considered the submissions of the counsel for the parties and
+perused the records.
+7.
+Regulation 21A of the Liquidation Regulation, 2016 has been inserted
+in regulation with effect from vide notification dated 25.07.2019, which
+Regulation 21A is as follows:
+“21A. Presumption of security interest.
+(1) A secured creditor shall inform the liquidator of its
+decision to relinquish its security interest to the
+liquidation estate or realise its security interest, as the
+case may be, in Form C or Form D of Schedule II:
+Provided that, where a secured creditor does not intimate
+its decision within thirty days from the liquidation
+commencement date, the assets covered under the
+security interest shall be presumed to be part of the
+liquidation estate.
+(2) Where a secured creditor proceeds to realise its security
+interest, it shall pay –
+(a) as much towards the amount payable under clause (a)
+and sub-clause (i) of clause (b) of sub-section (1) of section
+53, as it would have shared in case it had relinquished the
+security interest, to the liquidator within ninety days from
+the liquidation commencement date; and
+(b) the excess of the realised value of the asset, which is
+subject to security interest, over the amount of his claims
+admitted, to the liquidator within one hundred and eighty
+days from the liquidation commencement date:
+Provided that where the amount payable under this sub-
+regulation is not certain by the date the amount is payable
+under this sub-regulation, the secured creditor shall pay
+the amount, as estimated by the liquidator:
+Provided further that any difference between the amount
+payable under this sub-regulation and the amount paid
+under the first proviso shall be made good by the secured
+creditor or the liquidator, as the case may be, as soon as
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+8 of 19
+the amount payable under this sub-regulation is certain
+and so informed by the liquidator.
+(3) Where a secured creditor fails to comply with sub-
+regulation (2), the asset, which is subject to security
+interest, shall become part of the liquidation estate.”
+8.
+An explanation Regulation 21A has also been inserted vide notification
+dated 28.04.2022, which explanation is as follows:
+“Explanation.- It is hereby clarified that the requirements
+of this regulation shall apply to the liquidation processes
+commencing on or after the date of the commencement of
+the Insolvency and Bankruptcy Board of India (Liquidation
+Process) (Amendment) Regulations, 2019.”
+9.
+In the present case as noted above liquidation proceeding had
+commenced vide order dated 09.08.2018. Regulation 21A thus is clearly not
+applicable in the facts of the present case. Adjudicating authority being
+conscious of the fact has made observations in paragraphs 31 & 33 of the
+judgement:
+“31. The liquidator has candidly admitted that Regulation
+21 A of the Liquidation Rules, 2016 was introduced only
+with effect from 25.07.2019 and the explanation to the
+said Regulation itself provides that the requirements of
+this Regulation shall apply to the liquidation processes
+commencing on or after the date of commencement of the
+said amendment i.e. 25.07.2019 whereas the liquidation
+in this case commenced much earlier on 09.08.2018. Now,
+the
+question
+arises
+as
+to
+whether
+under
+the
+circumstances, the Respondents can be made to
+contribute towards the liquidation cost and also towards
+the outstanding dues of the workmen or not.
+33. However, the question is that Regulation 21 A is not
+applicable to the instant case, being prospective in nature,
+and in the absence of the said Regulation, how and in what
+manner, the situation cropping up in this case has to be
+or can be resolved which should be fair and equitable to
+all the stakeholders. To our mind, even if, we presume that
+Regulation 21 A is not applicable to the present case, some
+solution has to be conjured up to meet the situation. The
+necessity for the introduction of Regulation 21 A also arose
+on account of the fact that the legislature must have been
+conscious of the absence of a provision to meet a situation
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+9 of 19
+when all the secured creditors have exercised their right
+under 52 of the Code and to device ways and means to
+close the liquidation process which may be fair and
+equitable to all the stakeholders.”
+10.
+Adjudicating authority in the impugned order has placed reliance on
+two provisions; (i) Section 13(9) of the SARFAESI Act, 2002; and (ii) Section
+52(8) of the IBC for allowing the application filed by the liquidator.
+11.
+Section 52(1) entitles the secured creditor to realise its security interest
+in the manner specified in this Section. Section 52(1), (4) & (8) which are
+relevant are as follows:
+“52. Secured creditor in liquidation proceedings. –
+(1) A secured creditor in the liquidation proceedings may—
+(a) relinquish its security interest to the liquidation estate
+and receive proceeds from the sale of assets by the
+liquidator in the manner specified in section 53; or
+(b) realise its security interest in the manner specified in
+this section.
+(4) A secured creditor may enforce, realise, settle,
+compromise or deal with the secured assets in accordance
+with such law as applicable to the security interest being
+realised and to the secured creditor and apply the proceeds
+to recover the debts due to it.
+(8) The amount of insolvency resolution process costs, due
+from secured creditors who realise their security interests
+in the manner provided in this section, shall be deducted
+from the proceeds of any realisation by such secured
+creditors, and they shall transfer such amounts to the
+liquidator to be included in the liquidation estate.”
+12.
+Sub-section (4) of Section 52, entitled the secured creditor to enforce or
+realise its secured asset in accordance with such law as applicable to the
+security interest being realised and apply the proceed to recover the debts
+issued to it. The present is a case where appellant has realised its security
+interest by invoking the provisions of the SARFAESI Act, 2002. Section 13 of
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+10 of 19
+the SARFAESI Act, 2002 deals with enforcement of security interest. As noted
+above notices were issued by the appellant under Section 13(2) and Section
+13(4) of the SARFAESI Act, 2002, and the appellant proceeded to realise its
+security interest under Section 13. Section 13(9) on which reliance has been
+placed by the adjudicating authority in the impugned order is as follows:
+“13. Enforcement of security interest. –
+(9) Subject to the provisions of the Insolvency and
+Bankruptcy Code, 2016, in the case of] financing of a
+financial asset by more than one secured creditors or joint
+financing of a financial asset by secured creditors, no
+secured creditor shall be entitled to exercise any or all of
+the rights conferred on him under or pursuant to sub-
+section (4) unless exercise of such right is agreed upon by
+the secured creditors representing not less than 8[sixty per
+cent.] in value of the amount outstanding as on a record
+date and such action shall be binding on all the secured
+creditors:
+Provided that in the case of a company in liquidation, the
+amount realised from the sale of secured assets shall be
+distributed in accordance with the provisions of section
+529A of the Companies Act, 1956 (1 of 1956):
+Provided further that in the case of a company being
+wound up on or after the commencement of this Act, the
+secured creditor of such company, who opts to realise his
+security instead of relinquishing his security and proving
+his debt under proviso to sub-section (1) of section 529 of
+the Companies Act, 1956 (1 of 1956), may retain the sale
+proceeds of his secured assets after depositing the
+workmen's dues with the liquidator in accordance with the
+provisions of section 529A of that Act:
+Provided also that liquidator referred to in the second
+proviso shall intimate the secured creditor the workmen's
+dues in accordance with the provisions of section 529A of
+the Companies Act, 1956 (1 of 1956) and in case such
+workmen's dues cannot be ascertained, the liquidator
+shall intimate the estimated amount of workmen's dues
+under that section to the secured creditor and in such case
+the secured creditor may retain the sale proceeds of the
+secured assets after depositing the amount of such
+estimate dues with the liquidator:
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+11 of 19
+Provided also that in case the secured creditor deposits the
+estimated amount of workmen's dues, such creditor shall
+be liable to pay the balance of the workmen's dues or
+entitled to receive the excess amount, if any, deposited by
+the secured creditor with the liquidator:
+Provided also that the secured creditor shall furnish an
+undertaking to the liquidator to pay the balance of the
+workmen's dues, if any.
+Explanation. – For the purposes of this sub-section, -
+(a) "record date" means the date agreed upon by the
+secured creditors representing not less than 8[sixty per
+cent.] in value of the amount outstanding on such date;
+(b) "amount outstanding" shall include principal, interest
+and any other dues payable by the borrower to the secured
+creditor in respect of secured asset as per the books of
+account of the secured creditor.”
+13.
+It is undisputed case of the parties that realization of security interest
+by appellant is under the SARFAESI Act, 2002. When appellant has realised
+its security interest under SARFAESI Act, 2002, it is obviously obliged to
+follow the provisions of SARFAESI Act, 2002.
+14.
+Learned counsel for the appellant submits that provisions of Section
+13(9) are not attracted in the present case since the Section 13(9) begins with
+the phrase “subject to provision of Insolvency and Bankruptcy Code, 2016”.
+The above phrase thus makes the provision of Section 13(9) subject to
+Insolvency and Bankruptcy Code, 2016. Section 52(4) of the IBC itself permits
+secured creditor to enforce or realise its secured assets in accordance with
+such law as applicable to the security interest. Appellant having invoked the
+SARFAESI Act, 2002 for realizing its security interest. There is no conflict
+between the provisions of Section 13(9) of the SARFAESI Act, 2002 and the
+IBC. Thus, security realization by the appellant is in accordance with the
+provisions of Section 52(4) of the IBC. The secured creditors having opted to
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+12 of 19
+realise its security outside the liquidation process and decided not to put the
+secured assets in the liquidation estate, the provisions of Section 13(9) are
+fully attracted in the realization of security interest by the appellant. The
+statutory scheme as delineated by Section 13(9) proviso clearly indicates that
+amount realised from the sale of secured assets is to be distributed as per the
+Companies Act 1956. Companies Act 1956, having been repealed and
+Companies Act 2013 having been enforced, the distribution contemplated has
+to be under the Companies Act 2013. Secured creditor is liable to pay
+workmen’s dues as per the statutory scheme under Section 13(9) of the
+SARFAESI Act, 2002. Under the statutory scheme under Section 13(9)
+secured creditors were obliged to carry on distribution of the assets as per
+Section 529A of the Companies Act 1956, which is now pari materia to Section
+326 of the Companies Act 2013. The secured creditors statutorily required to
+deposit the workmen’s dues with the liquidator. Appellant having realised its
+security interest under SARFAESI Act, 2002. It cannot shirk of its obligation
+to deposit the workmen’s dues with the liquidator which is the scheme of
+legislation.
+15.
+We thus do not find any error in the order of the adjudicating authority,
+placing reliance on Section 13(9) of the SARFAESI Act, 2002 to support his
+direction to the appellant to deposit the proportionate workmen’s dues with
+the liquidator.
+16.
+The second issue raised is with regard to liquidation cost. Adjudicating
+Authority has relied on Section 52(8) for issuing direction for payment of
+liquidation cost. Section 52(8) is as follows:
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+13 of 19
+“52. Secured creditor in liquidation proceedings. –
+(8) The amount of insolvency resolution process costs, due
+from secured creditors who realise their security interests
+in the manner provided in this section, shall be deducted
+from the proceeds of any realisation by such secured
+creditors, and they shall transfer such amounts to the
+liquidator to be included in the liquidation estate.”
+17.
+When we look into Section 52(8), it refers to insolvency resolution
+process cost due from secured creditors who realised their security interest
+provided in this Section. The insolvency resolution process cost is defined in
+Section 5(13), which is as follows:
+“5. Definitions.
+In this Part, unless the context otherwise requires,—
+(13) “insolvency resolution process costs” means—
+(a) the amount of any interim finance and the costs
+incurred in raising such finance;
+(b) the fees payable to any person acting as a resolution
+professional;
+(c) any costs incurred by the resolution professional in
+running the business of the corporate debtor as a going
+concern;
+(d) any costs incurred at the expense of the Government
+to facilitate the insolvency resolution process; and
+(e) any other costs as may be specified by the Board;”
+18.
+The expression insolvency resolution process cost itself is clearly
+referred to Section 5(13) and any cost which is payable by secured creditor
+under Section 52(8) has to confine to insolvency resolution process cost
+mentioned in Section 5(13). Section 5(13) of the IBC does not include any
+liquidation cost.
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+14 of 19
+19.
+We thus do not subscribe to the view of the adjudicating authority that
+direction to pay liquidation cost can be sustained under Section 52(8) of the
+IBC.
+20.
+Learned counsel for the appellant has relied on BLRC Report. Learned
+counsel for the appellant has referred to paragraph 5.5.6, which is as follows:
+“5.5.6 Right of the secured creditors to withdraw from
+collective Liquidation
+Once the moratorium is lifted at the closure of the IRP, the
+secured creditors can initiate debt recovery action on the
+assets of the entity. As recognised in other jurisdictions
+and in the IRP under the Code, the Committee argues that
+there are likely benefits to collective action in liquidation
+just as there is in assessing viability during the IRP
+(Mukherjee, Thyagarajan, and Anchayil, 2015).
+However, at the close of the IRP, the Committee
+appreciates that the secured creditor must be able to
+enforce their interest and act to maximise their loss given
+default through sale of the security without the costs of the
+Liquidation process under the Code. Thus, the Code
+provides that the secured creditor can withdraw the asset
+against which they hold security interest.
+Drafting instructions for provisions in the Code enforcing
+the rights of secured creditors in Liquidation is presented
+in Box 5.20.”
+21.
+The above paragraph at best can be read that security interest can be
+realised without the cost of liquidation process under the Code. The above
+paragraph of the Report of BLRC does not throw any light with regard to
+obligation of the secured creditor to contribute to the workmen’s dues when
+security is realised under the SARFAESI Act, 2002.
+22.
+Learned counsel for the appellant has also referred to a discussion
+paper of IBBI dated 27.04.2019. In the discussion paper which is relied by
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+15 of 19
+the appellant in paragraph 5.1 deals with security interest. It is useful to
+refer to paragraphs 5.1.5 & 5.1.6 which are to the following effect:
+“5.1.5 Where the secured creditors decide to realize their
+security interest, the workmen would recover lesser
+amount or nothing depending upon the realisation during
+the liquidation process. The stakeholders feel that there is
+a need to make necessary changes in section 52 of the
+Code on the lines of section 2529(1) of the Companies Act,
+1956 or in the Regulations to protect dues of workmen.
+The said section entitled the Liquidator to recover the cost
+of preservation of security if the secured lenders sell assets
+independently. The secured creditor was liable to pay his
+portion of the expenses incurred by the Liquidator for the
+preservation of the security before its realisation by the
+secured creditor. Regulation 21 of the Regulations may
+provide that if a secured creditor, instead relinquishing his
+security and proving for his debt, proceeds to realise his
+security, he shall be liable to pay his share of the expenses
+incurred by the Liquidator for the preservation of the
+security before its realisation by the secured creditor.
+5.1.6 Similarly, if a CD has only secured assets and all
+security holders decide to realise their security interests
+outside the liquidation assets, there will be no liquidation
+proceeds and hence there will be no resource to meet the
+liquidation costs. It is necessary to provide that the
+liquidation costs must be met out of proceeds from sale of
+secured assets whether these are sold as part of
+liquidation asset or security interests are realised outside.”
+23.
+The amendments in Liquidation Regulations were incorporated on
+25.07.2019, i.e., subsequent to the discussion paper, which now specifically
+provides that the contribution by the secured creditors who realises their
+security interest outside the liquidation process.
+24.
+Learned counsel for the appellant has also placed reliance on the
+judgement of the Hon’ble Supreme Court in Writ Petition (Civil) No.
+421/2019, ‘Mosar Baer Karamchari Union’ Vs. ‘Union of India & Ors.’
+reported in [(2023) 9 SCC 499]. In the above Writ Petition, the petitioners
+have prayed for striking of Section 327(7) of the Companies Act 2013. The
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+16 of 19
+Writ Petition was dismissed and the statutory provisions of Companies Act
+were upheld. Repelling the contentions of the writ petitioner that provisions
+of Sections 326 & 327 are arbitrary following was observed in paragraphs 26
+to 29:
+“26. In view of the enactment of IBC and Section 53 IBC,
+it necessitated to amend the 2013 Act. As per sub-section
+(7) of Section 327, Sections 326 and 327 shall not be
+applicable in the event of liquidation under IBC. The object
+and purpose of amending the 2013 Act and to exclude
+Sections 326 and 327 in the event of liquidation under IBC
+seems to be that there may not be two different provisions
+with respect to winding up/liquidation of a company.
+Therefore, in view of the enactment of IBC, it necessitated
+to exclude the applicability of Sections 326 and 327 of the
+2013 Act which cannot be said to be arbitrary as
+contended on behalf of the petitioner.
+27. At this stage, it is required to be noted that sub-section
+(7) of Section 327 of which the vires are under challenge,
+shall be applicable in case of liquidation of a company
+under IBC. Meaning thereby, in case of liquidation of a
+company under IBC, the provisions of Section 53 IBC and
+other provisions of IBC shall be applicable as the company
+is ordered to be liquidated or wound up under the
+provisions of IBC. Therefore, merely because under the
+earlier regime and in case of winding up of a company
+under the 1956 Act/the 2013 Act, the dues of the workmen
+may have pari passu priority with that of the secured
+creditor, the petitioner cannot claim the same benefit in
+case of winding up/liquidation of the company under IBC.
+The parties shall be governed by the provisions of IBC in
+case of liquidation of a company under the provisions of
+IBC.
+28. Now so far as Section 53 IBC is concerned, it provides
+for distribution of the assets in case of liquidation of a
+company under IBC. As per Section 53(1)(b) the workmen's
+dues for the period of twenty-four months preceding the
+liquidation commencement date shall rank equally
+between the workmen and the secured creditor in the
+event such secured creditor has relinquished security in
+the manner set out in Section 52. Therefore, workmen's
+dues for the period of twenty-four months preceding the
+liquidation commencement date shall have pari passu
+priority with the dues of secured creditor. At this stage, it
+is required to be noted that as per Section 36(4) IBC, all
+sums due to any workman or employee from the provident
+fund, the pension fund and the gratuity fund shall not be
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+17 of 19
+included in the liquidation estate assets and shall not be
+used for the recovery in the liquidation. Therefore, a
+conscious
+decision
+has
+been
+taken
+by
+Parliament/Legislature in its wisdom to keep out of all
+sums due to any workman/employee from the provident
+fund, the pension fund and the gratuity fund from the
+liquidation estate assets [as per Section 36(4)] and that the
+workmen's dues for the period of twenty-four months
+preceding the liquidation commencement date shall rank
+equally between the workmen's dues to the said extent and
+the dues to the secured creditor. Therefore, the same
+cannot be said to be arbitrary and violative of Article 21 of
+the Constitution of India as contended on behalf of the
+petitioner. As per the settled position of law, IBC is a
+complete code and the object and purpose of IBC is
+altogether different than that of the 1956 Act/the 2013
+Act. IBC is a new insolvency mechanism, therefore, the
+provisions under IBC cannot be compared with that of the
+earlier regime, namely, the Companies Act, 1956/the
+Companies Act, 2013.
+29. At this stage, it is required to be noted that the issue
+with respect to the workman and the secured creditor
+being kept at equal footing under Section 53 IBC is only in
+a case wherein the secured creditor has relinquished its
+security and the same is the part of the stage of the
+liquidation pool.”
+25.
+Observations made in paragraph 29 clearly mentions that issues with
+respect to workmen as a secured creditor being kept on and equal footing
+under Section 53 is only in case where secured creditor has relinquished its
+security and the same is part of the stage of liquidation pool. It was due to
+the waterfall mechanism under Section 53 that provisions of Section 327(7)
+were upheld. On waterfall mechanism under Section 53, Hon’ble Supreme
+Court laid down in paragraph 48:
+“48. The waterfall mechanism is based on a structured
+mathematical formula, and the hierarchy is created in
+terms of payment of debts in order of priority with several
+qualifications, striking down any one of the provisions or
+rearranging the hierarchy in the waterfall mechanism may
+lead to several trips and disrupt the working of the
+equilibrium as a whole and stasis, resulting in instability.
+Every change in the waterfall mechanism is bound to lead
+to cascading effects on the balance of rights and interests
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+18 of 19
+of the secured creditors, operational creditors and even the
+Central and State Governments. Depending upon the
+facts, in some cases, the waterfall mechanism in the Code
+may be more beneficial than the hierarchy provided under
+Section 326 of the Companies Act, 2013 and vice-versa.
+Therefore, we hesitate and do not accept the arguments of
+the petitioners.”
+26.
+As observed above, waterfall mechanism is to be restored with regard
+to workmen’s dues only when secured creditors have relinquished their
+security interest. No exception can be taken to the law laid down by the
+Hon’ble Supreme Court in the above case. Hon’ble Supreme Court had
+upheld the provisions of Sections 326 & 327 of the IBC and repelled the
+challenge that provisions are arbitrary. It goes without saying that when
+secured creditors are relinquishing their security interest, it is Section 53,
+which shall be applied for distribution. In the present case, applicability of
+Section 53 in the distribution is not attracted, secured creditors having not
+relinquished their security interest.
+27.
+In view of the above discussions, we sustain the direction of the
+adjudicating authority directing the appellant to make contribution out of the
+amount realised under Section 52 of the Code proportionate towards
+workmen’s dues. However, direction to make contribution towards
+liquidation cost in terms of Section 52(8) cannot be sustained.
+28.
+In result, the appeal is partly allowed. Direction to the appellant to
+make contribution out of the amount realised by it under Section 52 of the
+Code proportionate towards workmen’s dues is upheld, whereas, direction to
+the appellant to make contribution out of the amount realised by it under
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 67 of 2025
+19 of 19
+Section 52 of the Code, proportionate towards liquidation cost in terms of
+Section 52(8) are set aside.
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+NEW DELHI
+08th July, 2025
+himanshu

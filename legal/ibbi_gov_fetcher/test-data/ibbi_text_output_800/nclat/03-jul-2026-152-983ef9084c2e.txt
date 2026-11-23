@@ -1,0 +1,814 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1205 of 2025
+
+[Arising out of the Common Order dated 27.05.2025, passed
+by the ‘Adjudicating Authority’ (National Company Law
+Tribunal, Guwahati Bench in IA(IBC)/119/GB/2024 in
+CP(IB)/16/GB/2022]
+
+IN THE MATTER OF:
+
+M/s Assam Power Distribution Company Ltd.
+(Operational Creditor)
+5th Floor, Bijulee Bhawan, Paltanabazar,
+Guwahati – 7810001.
+
+...Appellant
+
+Versus
+
+Mrs. Meena Sureka
+(Insolvency Professional)
+Central Plaza, 6th Floor,
+Room No. H, 41, B.B. Ganguly Street,
+Kolkata – 700012
+
+...Respondent
+Present:
+
+For Appellant
+:
+Mr. Nalin Kohli, Sr. Advocate with Mr. Anshul Malik,
+Mr. Ayuushman Arora and Mr. Aditya Rathee,
+Advocates.
+
+For Respondent
+:
+Mr. Shaunak Mita and Mr. Saurav Jain, Advocates
+Ms. Meena Sureka, Advocate for Liquidator.
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+The present Appeal arises out of the order dated 27th May, 2025 passed
+by the learned NCLT (Guwahati Bench) in an application preferred under
+Section 60(5) read with Section 35 of the Insolvency and Bankruptcy Code,
+2016 (hereinafter referred to as the 'Impugned Order') filed by the
+Respondent-liquidator, wherein the request to direct the Appellant-
+Operational Creditor – Assam Power Distribution Company Limited, to pay
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 2 of 21
+
+the outstanding dues of ₹37,66,906.80 along with applicable interest from
+31.12.2014 was allowed while disregarding that parallelly the same group of
+companies owed the Appellant ₹9,07,03,124/-.
+Submissions of Appellant:
+2.
+In I.A. (IBC) 119/GB/2024 in CP(IB)/16/GB/2022, was allowed and
+the Respondent Company is directed to pay the admitted dues of
+₹37,66,906.80 along with applicable interest from 31.12.2014 to the
+Liquidator of Brahmaputra Rolling Mills Pvt. Ltd.
+
+3.
+The admitted amount payable to the Appellant from the three (3)
+entities of the Brahmaputra Group of Industries are as follows:
+Entity under Liquidation
+Net claim Admitted
+in favour of Appellant
+(Amount in ₹)
+Brahmaputra Galvochem Pvt. Ltd.
+18,48,918/-
+Brahmaputra Iron and Steel Co.
+Pvt. Ltd.
+46,63,326/-
+Brahmaputra TMT Bars Pvt. Ltd.
+8,41,90,880/-
+Total
+9,07,03,124/-
+
+4.
+The Appellant is a Government company with audited accounts. In the
+instant case, the Appellant on the representation of the Brahmaputra Group
+of Industries, provided essential electricity services in the year 2013 to the
+group entities until the disconnection dated 31.12.2014 due to non-payment
+of legitimate dues. The application moved by the Respondent and the order
+passed by the learned NCLT, disregarding Regulation 29 of the Liquidation
+Process Regulations, 2016, has caused significant prejudice and monetary
+loss to the Appellant.
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 3 of 21
+
+5.
+The core issue in the instant matter is whether the Appellant/
+Operational Creditor is liable to pay the alleged outstanding dues of
+₹37,66,906.80/- to the Respondent despite the applicability of the "Group of
+Companies Doctrine" read with Regulation 29 of the Liquidation Process
+Regulation, 2016. Further despite substantive material on record to
+demonstrate that the Brahmaputra Group of Industries has from the
+inception presented itself to be a single economic entity, including as evident
+from the actions of the Respondent herself. In this context it is the appellant's
+argument that whether selective invocation of separate legal identities at such
+a belated stage be permitted to support a fragmented claim and ignore the
+setoff permitted under the settled law and Regulation 29 of the Liquidation
+Process Regulation, 2016 as held by the Hon'ble Supreme Court in Bharti
+Airtel Ltd. & Anr. Vs. Vijay Kumar V. Iyer & Ors. (2024) 4 SCC 668 on the
+doctrine of set-off has held:
+XXX
+21. A few judgments of this Court and the High Courts allow the defendant
+to claim equitable set-off in respect of an unascertained sum of money
+payable as damages. Equitable set-off can also be claimed in respect of an
+ascertained sum of money. However, the claim for an equitable set-off
+must haye a connection between the plaintiff's claim for the debt and the
+defendant's claim to set-off, which would make it inequitable to drive the
+defendant to a separate suit. It has been accordingly held that the claim for
+set-off should arise out of the same transaction, or transactions which can
+be regarded as one transaction. Equitable set-off is allowed in common law,
+as distinguished from legal set-off, which is allowed by the court only for
+an ascertained sum of money and is a statutory right. We shall be
+subsequently examining the right to equitable set-off while examining the
+provisions of IBC.
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 4 of 21
+
+22. Rory Derham on the law of set-offs observes that insolvency set-offs
+should not be equated with equitable setoffs. This statement reflects the
+development of law in the United Kingdom, which has resulted in
+enactment of special provisions on set-off in case of insolvency. We need
+not examine in detail the law as applicable to insolvency set-off in the
+United Kingdom for the present decision, albeit it is relevant to state that
+they are broader and wider than the provisions of equitable set-off.
+
+23. Insolvency set-off under the law of the United Kingdom is permitted
+when there are mutual debts, mutual credits and other mutual dealings
+between the parties at the relevant cutoff time, which is essentially the
+stage of commencement of the liquidation process. We shall subsequently
+examine the term "mutual dealings" as applicable to liquidation
+proceedings in India...
+xxx
+48. The second exception will be in the case of "equitable setoff" when the
+claim and counterclaim in the form of set-off are linked and connected on
+account of one or more transactions that can be treated as one. The set-
+off should be genuine and clearly established on facts and in law, so as to
+make it inequitable and unfair that the debtor be asked to pay money,
+without adjustment sought that is fully justified and legal. The amount to
+be adjusted should be a quantifiable and unquestionable monetary claim,
+as the corporate insolvency resolution process is a time-bound summary
+procedure. It is not a civil suit where disputed questions of law and facts
+are adjudicated after recording evidence. Set-off of this nature does not
+require legal proceedings. Further, set-off of money is to be given against
+money alone. It will not apply to assets. Lastly, being an equitable right, it
+can be denied when grant of relief will defeat equity and justice...
+xxx
+50. Thus, while accepting contractual and transactional setoff on the
+conditions specified, we have struck a balance with the doctrines of pari
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 5 of 21
+
+passu and anti-deprivation, which we believe is just and fair. Insolvency set-
+off in terms of Regulation 29 of the Liquidation Regulations is statutory.
+XXX
+6.
+Appellant contends that the impugned order dated 27.05.2025 passed
+by the Ld. NCLT suffers from a patent error in relation to the findings recorded
+in paragraph 4.4, which states as follows:
+"4.4 The Respondent Company submits that it has admitted claims pending
+against other entities within the BISCON Group. As per the records placed
+before this Tribunal, the claims admitted by the Applicant in respect of the
+entities within the BISCON Group are as follows: –
+Entity under Liquidation
+Net claim Admitted
+(Amount in ₹)
+Brahmaputra Galvochem Pvt. Ltd.
+18,48,918.04
+Brahmaputra Iron and Steel Company Pvt. Ltd.
+46,63,326.09
+Brahmaputra Rolling Mills Pvt. Ltd.
+-37,66,906.80
+Brahmaputra Tubulars Pvt. Ltd.
+-4,11,041
+Brahmaputra TMT Bars Pvt. Ltd.
+2,75,86,788.67
+Total
+2,99,21,085.80
+
+The Respondent Company has erroneously stated the admitted claim
+amount in respect of Brahmaputra TMT Bars Pvt. Ltd. to be
+₹8,41,90,880/-, whereas, as per the records, the correctly admitted
+amount stands at ₹2,75,86,788.67.”
+
+However, the Ld. NCLT failed to consider its own order dated 23.01.2024 in
+IA
+(IBC)/17/GB/2024
+in
+CP
+(IB)/20/GB/2022,
+by
+which
+the
+revised/enhanced claim was duly admitted by the Respondent to be
+₹8,41,90,880/-.
+
+7.
+In light of the aforesaid facts, the impugned order dated 27.05.2025
+passed by the Ld. NCLT is being challenged inter alia on the following
+grounds:
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 6 of 21
+
+a. The learned NCLT has incorrectly and narrowly interpreted
+Regulation 29 of the IBBI (Liquidation Process) Regulation, 2016 by
+applying it narrowly without considering that the dealings with the
+Respondent, as a common liquidator, were interrelated and common
+transaction across the Brahmaputra Group of Industries. The
+rejection by the learned NCLT of the argument of set-off claims solely
+on the ground that they arise from different legal entities, despite
+mutuality of transaction, amounts to a technical interpretation
+thereby defeating the purpose of the IBC which provides for equal
+treatment of all stakeholders.
+
+b. Appellant is a government-owned power utility entrusted with
+managing and accounting for public funds. The learned NCLT failed
+to give any weight to the fiduciary and public interest obligations of
+the Appellant in ensuring that its dues from various entities within
+the same group are equitably set off before further disbursement
+under Regulation 29 of the IBBI (Liquidation Process) Regulations,
+2016 thereby, imposing a liability without accounting for such dues
+violates the principles of equity and justice.
+
+c. The learned NCLT has erred in directing the Appellant to pay interest
+on the amount of ₹37,66,906.80/- from 31.12.2014 despite the
+disputed nature of the claim and the unresolved cross-claims
+pending with the same group companies. Further, the learned NCLT
+has given a relief beyond what was sought by the Respondent in the
+prayer by imposing interest on the Appellant from 31.12.2014,
+without any basis or reasoning which is arbitrary and inequitable in
+the facts and circumstances of the present case.
+
+d. In passing the impugned order which, in effect, unreasonably
+fastens the entire liability including the interest component upon the
+Appellant/Discom, despite the admitted fact that it is the Corporate
+Debtor and its group entities who owed substantial sums to the
+Appellant. Even assuming, without admitting, the non-applicability
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 7 of 21
+
+of the 'Group of Companies Doctrine', the impugned order leads to an
+absurd and inequitable outcome where the Appellant is compelled
+to contribute to the liquidation estate of the Brahmaputra Group of
+Industries, from which the Appellant itself is a creditor and is yet to
+recover legitimate dues thereby causing unjust enrichment to the
+Respondent.
+
+e. No demand whatsoever was raised by the Corporate Debtor on the
+Appellant at any point prior to the initiation of the CIRP, and any
+such purported claim was never crystallized. Further, the impugned
+order disregards the commercial and legal realities of the case and
+penalises the Appellant by denying the right to set-off, and by forcing
+it to fund a liquidation estate from which it is entitled to receive
+amounts, thereby resulting in manifest injustice.
+
+Submissions of Respondent – Liquidator:
+8.
+A Corporate Insolvency Resolution Process (CIRP) was initiated against
+the corporate debtor by an order dated 18.11.2022 passed by the Hon’ble
+NCLT, Guwahati Bench (Hon’ble NCLT). The Respondent, Mrs. Meena Sureka
+was appointed to act as the Resolution Professional of the Corporate Debtor
+by an order dated 10.02.2023 passed by the Hon’ble NCLT. Thereafter, on
+13.10.2023, the Hon’ble NCLT passed an order for initiation of liquidation
+process against the Corporate Debtor and appointed Mrs. Meena Sureka as
+the Liquidator.
+
+9.
+During the CIRP, the Appellant company had filed its claim in Form B
+dated 08.12.2022 for an amount of ₹21,61,779.88. Upon due verification and
+reconciliation of accounts, it was discovered that the Corporate Debtor had
+earlier deposited a substantial amount as load security. After adjustment of
+the outstanding dues, it was conclusively established that a sum of
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 8 of 21
+
+₹37,66,906.80 is recoverable from the Appellant and payable to the Corporate
+Debtor. The same was communicated to the appellant company by an email
+dated 06.01.2023 attaching a detailed response against the claim and further
+requested the Appellant company to pay a sum of ₹37,66,906.80 to the
+account of the Corporate Debtor.
+
+10.
+In the meantime, NCLT vide order dated 13.10.2023 ordered liquidation
+and the erstwhile RP was replaced with the Respondent, who also took utmost
+effort to recover the same from the Appellant company and in this regard
+several email correspondences have been exchanged.
+
+11.
+The Respondent in her capacity as liquidator issued “Form B” and
+pursuant to this the appellant had again submitted his claim in Form C dated
+02.12.2023 for an amount of ₹28,39,285.24. After verification of the same the
+respondent had rejected the said claim and further sent a reminder email to
+the appellant to pay the outstanding amount which was already stated to the
+appellant during the CIRP Period.
+
+12.
+Respondent had sent several reminder emails to the Appellant;
+however, all efforts went into vein. Lastly the Appellant sent a reply enclosing
+a letter dated 06.02.2024, wherein the Appellant has admitted its liability of
+₹37,66,906.80. However, wrongfully the appellant has attempted to set it off
+against an alleged counterclaim of ₹8,65,25,177/- purportedly owed by other
+entities of the BISCON Group. It is submitted that such a counterclaim is not
+only baseless and unsubstantiated, but also irrelevant and legally untenable
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 9 of 21
+
+in the present proceedings. The appellant company has chosen to shy away
+from its debts by counter claiming an amount of ₹8,65,25,177/-.
+
+13.
+It is significant to mention that in the said letter the Appellant company
+has specifically admitted its liability amounting to ₹37,66,906.80/-, towards
+the Corporate Debtor.
+
+14.
+The Respondent has wrongly relied upon Sections 173 and 174 of the
+Electricity Act, 2003. In any case, Section 238 of the IBC, 2016 gives
+overriding effect to the provisions of the Code in case of any inconsistency
+with other laws.
+
+15.
+Despite repeated follow-ups, emails, reminders, and even a legal notice
+dated 13.03.2024, the appellant has failed to pay the outstanding dues. The
+appellant, while admitting liability, has resorted to irrelevant and baseless
+counterclaims against other group entities, which are separate legal persons.
+
+16.
+After several email correspondences, the Appellant Company by an
+email dated 05.04.2024 assured to respond to this issue within a period of
+two weeks. On 26.04.2024, the Appellant sent an email to the Respondent
+wherein the Appellant acknowledged the legal notice dated 13.03.2024 and
+again sought time till 07.05.2024 to process and/or resolve the matter citing
+the election polls in the state but even after that neither replied to the notice
+nor made the payment to the account of the corporate debtor.
+
+17.
+It is evident and established in the eye of law that the Corporate Debtor
+is a separate juristic person, distinct from other group entities, and each of
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 10 of 21
+
+the BISCON entities namely Brahmaputra Galvochem Pvt Ltd, Brahmaputra
+Iron & Steel Pvt Ltd, Brahmaputra TMT Bars Pvt Ltd and Brahmaputra
+Tubulars Pvt Ltd have undergone separate CIRP or liquidation proceedings.
+
+18.
+In fact, all these group companies have already been dissolved pursuant
+to the final order of dissolution passed by the Hon’ble NCLT, Guwahati Bench
+on 13.12.2024. Hence, no claim or counterclaim against those dissolved
+entities can be adjusted by the Respondent or sought to be set off against the
+admitted amounts owed by Respondent to the present CD.
+
+19.
+It is significant to mention that the group companies cannot be tagged
+along with the Corporate Debtor as the liquidation proceedings of each
+company were done as separate entity.
+
+20.
+It is further submitted that as per Regulation 29 of the IBBI (Liquidation
+Process) Regulations, 2016, it is clearly stated that if the Corporate Debtor
+and another party owe money to each other, then the amounts should be
+adjusted against each other. After setting off what each side owes, only the
+final balance amount either payable to the Corporate Debtor or to the other
+party will be considered as due.
+“Regulation 29: Mutual credits and set-off
+Where there are mutual dealings between the corporate debtor and
+another party, the sums due from one party shall be set off against the
+sums due from the other to arrive at the net amount payable to the
+corporate debtor or to the other party.”
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 11 of 21
+
+The benefit of set-off under Regulation 29 is available only if the same parties
+(i.e. CD and appellant) are involved and the same cannot be applied in case
+of third party entities.
+
+21.
+The Appellant's conduct of admitting the debt, yet continuously seeking
+extensions under frivolous pretexts and delaying payment, is indicative of
+mala fide intent. This continued delay is detrimental to the conclusion of the
+liquidation process and prejudicial to the interest of the stakeholders.
+
+22.
+The Liquidator is under statutory obligation under Section 35 of the
+IBC, 2016 to take all necessary steps to protect and realize the assets and
+actionable claims of the Corporate Debtor. The admitted dues of
+₹37,66,906.80 form part of such recoverable assets, and failure to recover the
+same directly impacts the liquidation estate and the distribution to
+stakeholders under Section 53 of the Code.
+
+23.
+The Hon’ble NCLT has passed a detailed and well-reasoned order on
+27th May, 2025, directing the appellant to pay the admitted dues of
+₹37,66,906.80 along with applicable interest from 31.12.2014 to the
+Liquidator of Brahmaputra Rolling Mills Pvt. Ltd.
+
+24.
+The Hon’ble NCLT has further categorically observed as follows:
+XXX
+4.6. This Tribunal notes that while the Applicant has previously issued
+communications on shared or even incorrect letterheads, including those
+of entities other than the Corporate Debtor. The Respondent Company has
+also raised the issue of common date and place for meeting of SCC. Such
+conduct of informal grouping of companies, cannot in itself alter the
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 12 of 21
+
+separate legal identity of each company under the Code. While this may
+have been adopted as a matter of procedural convenience by the
+Applicant, the Corporate Debtor retains its nature and character as a
+separate juristic entity. The CIRP or the liquidation process may involve one
+Resolution Professional or one Liquidator for more than one company as a
+matter of convenience but the company does not lose its basic identity in
+the eyes of law.
+XXX
+4.10 Furthermore, as per the records placed before this Tribunal, the
+respective load security deposits of each entity were distinct and
+maintained in the name of each individual Corporate Debtor separately.
+The bills for charges against consumption of electricity were also separately
+raised on each of the BISCON Group entities by the Respondent Company.
+This conduct unequivocally affirms the Respondent Company’s recognition
+of the separate legal identity of each Corporate Debtor and undermines its
+present contention of a collective or consolidated treatment.
+
+4.11. Subsequently, when the Applicant, in its capacity as Liquidator,
+sought recovery of the balance load security amount from the Respondent
+Company after adjusting the outstanding electricity dues as on the date of
+disconnection, i.e. 31.12.2014, the Respondent Company sought to alter
+its earlier position by raising a defense of set-off against purported dues
+from other entities of the group. Therefore, the doctrine of approbate and
+reprobate squarely applies on the Respondent Company itself and it
+cannot be permitted to blow hot and blow cold at its convenience
+
+4.13. The variance in voting rights further reinforces that each entity is
+being dealt with separately under the Code, both in SCC constitution and
+in the application of Section 53 of the Code, i.e. waterfall mechanism.
+
+4.14. Hence, we are of considered opinion that, having filed and pursued
+separate claims, the Respondent Company is entitled to the benefit under
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 13 of 21
+
+Section 53 of the Code only and set-off as demanded by the Respondent
+Company is not allowable under the Code.
+
+4.15. Therefore, the Respondent Company shall be entitled to distribution
+of admitted claim strictly in accordance with the priority prescribed under
+Section 53 of the Code, and to the extent of realizations made in the
+respective liquidation estate. Any surplus or deficiency in recovery in one
+entity cannot be adjusted against the dues of another entity under
+liquidation. The Respondent Company’s attempt to aggregate dues owed
+by other group entities and set them off against the Corporate Debtor in
+this application is thus not legally tenable.
+XXX
+
+25.
+The Appellant's conduct shows clear intent to delay and avoid payment.
+Hence, the Respondent prays for dismissal of the appeal and seeking
+appropriate directions to the Appellant to pay the sum of ₹37,66,906.80 along
+with interest, in the interest of justice and for effective liquidation.
+
+26.
+There is and can be no genuine defense to the present application. In
+fact, the only purported contention of the Appellant is that the Corporate
+Debtor is part of a group and that since these “group” of entities (apart from
+Corporate Debtor) totally owed some amount to Appellant, the Appellant is
+not liable to pay the admitted amounts to the Corporate Debtor. Such
+contention of the appellant militates against the provisions of the Code and of
+law generally. The plea of set-off is not available if different parties are
+involved.
+
+27.
+In any event, the other entities in question all stand dissolved by orders
+passed by this Hon’ble Tribunal under Section 54 of the Code. Thus, because
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 14 of 21
+
+of such reason also, the Appellant cannot take the plea of set-off. In short, the
+Appellant having admitted its liability to the present Corporate Debtor (inter
+alia, in Appellant’s letter dated 06.02.2024) cannot avoid repayment on the
+fallacious ground that there was amount owed by other BISCON group
+entities. It is reiterated that the CIRP and Liquidation Proceedings of the said
+entities were conducted as separate processes, and not as part of any group
+insolvency.
+Analysis
+28.
+As per the impugned order the Appellant-Operational Creditor - Assam
+Power Distribution Company Ltd. has been directed to pay the admitted dues
+of Corporate Debtor 37,66,906 (approximately) along with applicable interest
+from 13.12.2014 to the liquidator of the Corporate Debtor (CD) namely
+Brahmaputra Rohini Mills Pvt. Ltd.
+
+29.
+Appellant is aggrieved with this order and claims that the same group
+of companies owed the Appellant ₹9,07,03,124 (approximately ₹9 crores). The
+main ground of the Appellant is that the CD namely M/s. Brahmaputra
+Rolling Mills Pvt. Ltd. is part of a group of companies and that since these
+groups of entities (apart from CD) totally owed some amount to the Appellant
+and therefore that Appellant is not liable to pay the admitted amounts to the
+CD.
+
+30.
+In the facts and circumstances of the case we find that the CD is a
+separate juristic person. The CD is distinct from other group entities of the
+BISCON group [namely Brahmaputra Galvochem Pvt. Ltd., Brahmaputra Iron
+and Steel Co. Pvt. Ltd. and Brahmaputra TMT Bars Pvt. Ltd. and
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 15 of 21
+
+Brahmaputra Tubulars Pvt. Ltd.] and each of them have undergone separate
+CIRP and later on liquidation proceedings. It is also brought to our notice
+that all the group companies have already been dissolved, pursuant to the
+final order of dissolution passed by NCLT Guwahati Bench on 13.12.2014.
+Thus, the group companies cannot be tagged along with the CD, as the
+liquidation proceedings of each company were done as separate entity. We
+find Respondent’s justification of set-off of the claims or the counter claims
+against these dissolved entities to be adjusted against the admitted amounts
+owed by Respondent to the present CD to be without any legal backing.
+
+31.
+The Appellant has relied on regulation 29 of the IBBI (liquidation
+process) Regulations, 2016 which states that if the CD and another party owe
+money to each other than the amounts should be adjusted against each other.
+After setting-off what each side owes, only the final balance amount either
+payable to the CD or to the other party will be considered as due. The
+Regulation 29 is extracted as below: -
+“Regulation 29: Mutual credits and set-off
+Where there are mutual dealings between the corporate debtor and
+another party, the sums due from one party shall be set off against the
+sums due from the other to arrive at the net amount payable to the
+corporate debtor or to the other party.”
+
+We observe that per Regulation 29 of the IBBI (Liquidation Process)
+Regulations, 2016, if the Corporate Debtor and another party owe money to
+each other, then the amounts should be adjusted against each other. After
+setting- off what each side owes, only the final balance amount either payable
+to the Corporate Debtor or to the other party will be considered as due. The
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 16 of 21
+
+benefit of set-off under Regulation 29 is available only if the same parties (i.e.
+CD and Appellant) are involved and the same cannot be applied in case of
+third-party entities. In this case, there are third party entities and these
+parties have also undergone dissolution.
+
+32.
+We further observe that the liquidator is under statutory obligation
+under Section 351 of the Code to take necessary steps to protect and realise
+
+1 Section 35. Powers and duties of liquidator.
+(1) Subject to the directions of the Adjudicating Authority, the liquidator shall have the following powers and
+duties, namely:—
+(a) to verify claims of all the creditors;
+(b) to take into his custody or control all the assets, property, effects and actionable claims of the corporate
+debtor;
+(c) to evaluate the assets and property of the corporate debtor in the manner as may be specified by the Board
+and prepare a report;
+(d) to take such measures to protect and preserve the assets and properties of the corporate debtor as he
+considers necessary;
+(e) to carry on the business of the corporate debtor for its beneficial liquidation as he considers necessary;
+(f) subject to section 52, to sell the immovable and movable property and actionable claims of the corporate
+debtor in liquidation by public auction or private contract, with power to transfer such property to any person
+or body corporate, or to sell the same in parcels in such manner as may be specified;
+Provided that the liquidator shall not sell the immovable and movable property or actionable claims of the
+corporate debtor in liquidation to any person who is not eligible to be a resolution applicant.
+(g) to draw, accept, make and endorse any negotiable instruments including bill of exchange, hundi or promissory
+note in the name and on behalf of the corporate debtor, with the same effect with respect to the liability as if
+such instruments were drawn, accepted, made or endorsed by or on behalf of the corporate debtor in the
+ordinary course of its business;
+(h) to take out, in his official name, letter of administration to any deceased contributory and to do in his official
+name any other act necessary for obtaining payment of any money due and payable from a contributory or his
+estate which cannot be ordinarily done in the name of the corporate debtor, and in all such cases, the money
+due and payable shall, for the purpose of enabling the liquidator to take out the letter of administration or
+recover the money, be deemed to be due to the liquidator himself;
+(i) to obtain any professional assistance from any person or appoint any professional, in discharge of his duties,
+obligations and responsibilities;
+(j) to invite and settle claims of creditors and claimants and distribute proceeds in accordance with the provisions
+of this Code;
+(k) to institute or defend any suit, prosecution or other legal proceedings, civil or criminal, in the name of on
+behalf of the corporate debtor;
+(l) to investigate the financial affairs of the corporate debtor to determine undervalued or preferential
+transactions;
+(m) to take all such actions, steps, or to sign, execute and verify any paper, deed, receipt document, application,
+petition, affidavit, bond or instrument and for such purpose to use the common seal, if any, as may be necessary
+for liquidation, distribution of assets and in discharge of his duties and obligations and functions as liquidator;
+(n) to apply to the Adjudicating Authority for such orders or directions as may be necessary for the liquidation of
+the corporate debtor and to report the progress of the liquidation process in a manner as may be specified by
+the Board; and
+(o) to perform such other functions as may be specified by the Board.
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 17 of 21
+
+the asset and actionable claims of the CD. The admitted dues of ₹37,66,906
+approx form part of such recoverable assets and the failure to recover the
+same directly impacts the liquidation estate and the distribution to
+stakeholders under Section 53 of the Code. Therefore, we cannot find any
+fault in the course of action being followed by the liquidation. The argument
+that the Appellant is the Govt. owned power utility entrusted with managing
+and accounting for public funds and NCLT should keep in mind that it is
+fiduciary and public interest obligation of the appellant in ensuring that its
+dues from various entities within the same group or equitably set of before
+disbursement under Regulation 29 of the liquidation process, 2016 is not a
+ground sustainable under the Insolvency and Bankruptcy Code. The
+liquidation process is governed by the liquidation process regulations under
+the code and the liquidator has proceeded as per that procedure and the
+Appellant had also filed its claims as per that procedure. At this stage, by
+clubbing of the claims and setting off against its dues is not sustainable
+
+33.
+We also find that in the claim form submitted by the Appellant, before
+the IRP, it is clearly noted at serial No. 7 i.e., details of any mutual credit,
+mutual debts or other mutual dealings between the CD and the OC which
+may be set off against the claim and we find there is a “N/A” entry.
+
+34.
+The Respondent-Liquidator has also brought to our notice that
+communication dated 06.02.2024, which was received from the Appellant at
+
+(2) The liquidator shall have the power to consult any of the stakeholders entitled to a distribution of proceeds
+under section 53:
+Provided that any such consultation shall not be binding on the liquidator:
+Provided further that the records of any such consultation shall be made available to all other stakeholders not
+so consulted, in a manner specified by the Board.
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 18 of 21
+
+page No. 126 of the Appeal paper book, wherein the Appellant has calculated
+its claim basis Electricity Supply Code Of Regulation, 2017, which relates to
+a single consumer having more than one service connections in his name, and
+is therefore not applicable in this case as in the present case there are distinct
+connections in the name of distinct legal entities and therefore the vary basis
+of calculation of the claim is factually incorrect. On the other hand, the claim
+secured by the Respondent and the justification for its calculation is as
+follows:
+
+Claim Made
+Claim Accepted
+Principal
+Amount
+as
+on
+31.12.2014
+41,75,776.00
+41,75,776.00
+Outstanding Surcharge as on
+31.12.2014
+2,42,466.00
+2,42,466.00
+Delayed payment surcharge @
+1.5%
+per
+month
+on
+outstanding principal as on
+18.11.2022
+59,28,686.68
+---
+(Refer Note 1
+Below)
+Less: Load Security Amount
+with Interest as on 31.12.2014
+81,85,148.80
+81,85,148.80
+Net
+Amount
+payable/
+(Refundable) as 28.10.2022
+21,61,779.88
+(37,66,906.80)
+
+Note 1: As per Regulation 6.3.14 of the AERC Supply Code, and other
+regulations mentioned by you in mail dated 04.01.2023 and previous
+mails, the Load Security amount along with Interest as on 31.12.2014
+should be first adjusted with Late Payment Surcharge amount as on
+31.12.2014, and then with Arrears of electricity charges as on
+31.12.2014. In this case after making the above adjustments no Principal
+or Surcharge Amount is due as on 31.12.2014. So there is no Additional
+Surcharge payable by the company. The detailed excel sheet calculation
+is attached.
+
+Also with regards to your mail dated 04.01.2023, wherein you have
+calculated the total outstanding together for all the companies of the
+Brahmaputra Group along with Brahmaputra TMT Bars Private Limited.
+In this regard we would like to state that Brahmaputra TMT Bars Private
+Limited is in CIRP proceedings with another Resolution Professional so
+separate calculations for all the companies need to be made as each
+company has separate legal identity and is to be dealt with individually.”
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 19 of 21
+
+35.
+We find that the justification provided by the Liquidator – Respondent
+is in-consonance with the Electricity Supply Code as per regulation 16.3.14
+of the AERC supply code.
+
+36.
+The appellant has also relied on the judgment of this Tribunal in
+Company Appeal (AT) (Ins.) No.1081 of 2024 which had allowed the
+security amount to be adjusted setting off as per Regulation 29. There is no
+quarrel in accepting the judgment cited but it will not be applicable in the
+present facts of the case, as we are dealing not with the single CD and not
+between two entities but multiple entities having multiple CIRP and
+liquidation proceedings. Therefore, this judgment is of no assistance to the
+Appellant.
+
+37.
+The Appellant is harping on the Group of Companies doctrine and
+claims that the group of companies’ doctrine have been presenting themselves
+as a singular entity before the Appellant and to substantiate it's claim the
+Appellant has produced one communication sent by the BISCON Group of
+companies, which is placed at page No. 128 of the Appeal paper book in which
+they have shared information with respect to change of the office address. We
+find that in this communication the BISCON, which is Brahmaputra group of
+industries, just intimated that that have shifted their registered office from
+Athgaon to Bora Service and all the units were operating work from the new
+address. We find that this communication does not change the distinct legal
+character of these companies and this letter is of no assistance to the
+appellant. We don’t find any infirmity in the finding of the NCLT that CIRP or
+the liquidation process may involve one RP or one liquidator for more than
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 20 of 21
+
+company as a matter of convenience but the company does not lose its
+separate legal status in the eyes of law.
+
+38.
+We also note that as per records placed before us, the respective load
+security deposits of each entity were different and maintained the name of
+each individual CD separately. The bills against consumption of electricity
+were also raised separately in each of the units of the BISCON Group.
+
+39.
+We observe that only defense to the present application is that the CD
+is part of a group and that since these "group" of entities (apart from CD)
+totally owed some amount to Appellant, the appellant is not liable to pay the
+admitted amounts to the CD. Such contention of the Appellant militates
+against the provisions of the Code and of law generally. The plea of set-off is
+also not available if different parties are involved.
+
+40.
+We also find that the Respondent has wrongly relied upon Sections 173
+and 174 of the Electricity Act, 20032. In any case, Section 238 of the IBC,
+2016 gives overriding effect to the provisions of the Code in case of any
+inconsistency with other laws.
+
+2 Section 173. (Inconsistency in laws):
+Nothing contained in this Act or any rule or regulation made thereunder or any instrument having effect by virtue
+of this Act, rule or regulation shall have effect in so far as it is inconsistent with any other provisions of the
+Consumer Protection Act, 1986 or the Atomic Energy Act, 1962 or the Railways Act, 1989.
+Section 174. (Act to have overriding effect):
+Save as otherwise provided in section 173, the provisions of this Act shall have effect notwithstanding anything
+inconsistent therewith contained in any other law for the time being in force or in any instrument having effect
+by virtue of any law other than this Act.
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 1205 of 2025 21 of 21
+
+41.
+It is observed that the liquidator has sought recovery of the balance load
+security amount from the Appellant separately after adjusting the outstanding
+electricity dues as on the date of this connection i.e., 31.12.2014. We also
+observe that each entity is being dealt with separately under the Insolvency
+and Bankruptcy Code 2016, both in the stakeholder consultation committee
+constitution and also in the application of Section 53 of the Code i.e., the
+waterfall mechanism. Therefore, the Appellant company is entitled to the
+benefit under Section 53 of the Code only and set-off as demanded by the
+appellant is not allowable under the Code. We find that there is no
+justification in the appeal and there are no reasons for us to interfere with the
+order of the Adjudicating Authority.
+
+Order:
+42.
+Based on the above analysis the appeal is dismissed and all the related
+IAs are also disposed of. Parties to meet their own costs.
+
+[JusticeN Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+New Delhi.
+July 03, 2026.
+
+pawan

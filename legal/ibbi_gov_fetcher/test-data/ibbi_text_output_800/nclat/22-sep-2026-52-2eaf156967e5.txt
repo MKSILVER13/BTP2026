@@ -1,0 +1,508 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+
+[Arising out of the Impugned Order dated 12.06.2026 passed by the
+Adjudicating Authority, National Company Law Tribunal, New Delhi
+Bench – Court III in C.P.(IB) No. 169(ND)/2026]
+
+IN THE MATTER OF:
+
+Affle 3i Limited
+Formerly known as Affle India Limited
+A47, Lower Ground Floor, Off Amar Bhawan,
+Hauz Khas, New Delhi 110016
+Through its authorised representative
+Mr. Kapil Mohan Bhutani
+Email: legal@affle.com
+
+...Appellant
+Versus
+
+Axis Trustee Services Limited
+Axis House, P.B. Marg, Worli,
+Mumbai, Maharashtra 400025
+Also at: Plot 25, 2nd Floor, Pusa Road,
+Karol Bagh, New Delhi 110005
+Email: atsl.legal@axistrustee.in,
+debenturetrustee@axistrustee.in
+
+...Respondent No. 1
+Talent Unlimited Online Services Private Limited
+Through Mr. Manish Agarwal
+Interim Resolution Professional
+808, Devika Tower, Nehru Place,
+South Delhi, Delhi 110019
+Email: cirp.tuos@gmail.com
+
+...Respondent No. 2
+Present:
+
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Nakul
+Sachdeva, Mr. Abhishek Ghai, Mr. Sagar Arora, Mr.
+Abhinandan Sharma, Advocates.
+For Respondents
+: Mr. Harshit Khare, Mr. Prafful Suri, Mr. Ayuj Agarwal,
+Mr. Brijesh Gupta, Advocates for R1
+Mr. Apoorv Agarwal, Ms. Vaishnavi, Advocates for R2
+Ms. Shruti Munjal, Ms. Trisha Dhara, Ms. Chitna
+Verma, Advocates for Suspended Board.
+
+[PAGE 2]
+Page 2 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+J U D G M E N T
+(Hybrid Mode)
+Per: Barun Mitra, Member (Technical)
+The present appeal filed under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘IBC’ in short) by the Appellant arises out of the
+Order dated 12.06.2026 (hereinafter referred to as the ‘Impugned Order’)
+passed by the Adjudicating Authority (National Company Law Tribunal, New
+Delhi-Court III) in C.P.(IB) No. 169(ND)/2026. By the said impugned order,
+the Adjudicating Authority admitted the Section 7 application filed by
+Respondent No. 1-Axis Trustee Services Ltd. admitting the Corporate Debtor-
+Talent Unlimited Online Services Pvt. Ltd. into the rigours of Corporate
+Insolvency Resolution Process (‘CIRP’ in short). Being aggrieved by the
+impugned order, the Appellant has come up in appeal.
+2.
+Before we go into the merits of the matter, we would like to deal with
+I.A No. 5683 of 2026 filed by the Appellant seeking condonation of delay of 13
+days in filing the appeal.
+3.
+Explaining the reasons for delay, the Ld. Sr. Counsel for the Appellant
+submitted that since it was not a party to the proceeding before the
+Adjudicating Authority, they could acquire knowledge of the impugned order
+only on 16.06.2026. Thereafter they needed some time to collect, collate,
+examine and organise the relevant records necessary for preferring the appeal.
+Moreover, some more time got consumed as before preferring the appeal, the
+Appellant had made a proposal to the Debenture Holders through the
+Debenture Trustee-Axis Trustee Services Ltd. to acquire the entire financial
+debt of the Corporate Debtor without any haircut. On finding that their efforts
+
+[PAGE 3]
+Page 3 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+to resolve the matter through their bonafide settlement proposal did not evoke
+any meaningful response, they took recourse to filing of appeal proceedings
+and this wait led to delay in the filing of the appeal. It was submitted that
+delay was not intentional and denial of delay condonation would result in
+miscarriage of justice. The condonation of delay application was opposed by
+the Respondent No. 1 on the ground that the Appellant was well aware of the
+impugned order initiating CIRP which is evident from the fact that they had
+already filed their claim before the Resolution Professional (‘RP’ in short) on
+26.06.2026 while the appeal was filed on 25.07.2026, which clearly shows
+that the Appellant was sleeping over their rights and hence the delay does not
+deserve condonation.
+4.
+We have perused para 2 of the IA No. 5683 of 2026 wherein the reasons
+for the delay have been elaborated by the Appellant. We find that sufficient
+basis has been provided justifying the condonation of delay. Since the period
+of delay is within the extended period of 15 days as provided under Section
+61(2) of the IBC, we allow the delay condonation application.
+5.
+For better appreciation of the substantive issues, it would be useful to
+begin by taking notice of the broad factual background of the instant case at
+hand. On a Section 7 application filed by Axis Trustee Services Ltd.-
+Respondent No.1 in its capacity as the Debenture Trustee, the Corporate
+Debtor was admitted into CIRP vide impugned order dated 12.06.2026 passed
+by the Adjudicating Authority, following which the RP had made the public
+announcement on 14.06.2026 inviting claims from the creditors of the
+Corporate Debtor. Basis the claims filed by the creditors and subsequent to
+
+[PAGE 4]
+Page 4 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+verification thereof, the RP had constituted the Committee of Creditors (‘CoC’
+in short). At this stage, it will also suffice to note that the present Appellant-
+Affle 3i Ltd. (‘Affle’ in short) which had a share-holding in the Corporate
+Debtor had purportedly submitted an assignment/settlement proposal on
+03.07.2026 to the Respondent No.1 to bring the CIRP to an end, on which no
+positive response having been received, the Appellant has preferred the
+present appeal, assailing the impugned order admitting the Corporate Debtor
+into insolvency.
+6.
+Making submissions on behalf of the Appellant, Shri Abhijeet Sinha,
+Ld. Sr. Counsel of the Appellant submitted that the Adjudicating Authority
+while admitting the Section 7 application had proceeded on a narrow debt and
+default analysis while disregarding the material circumstances that the CIRP
+was invoked fraudulently. It was further submitted that the Appellant was a
+substantial investor in the Corporate Debtor including holding of Compulsory
+Convertible Preference Shares (‘CCPS’ in short) and therefore not a
+shareholder simplicitor. It was also asserted that the Appellant possessed
+independent and enforceable contractual rights under the Shareholders
+Agreement. The Appellant as a creditor/decree holder of the Corporate Debtor
+and by virtue of having a direct and subsisting legal and commercial interest
+in the affairs of the Corporate Debtor, it enjoyed locus to file the present
+appeal as an aggrieved party. It was contended that since CIRP was initiated
+against the Corporate Debtor not for the statutory purpose of insolvency
+resolution but initiated in a fraudulent manner for ulterior motives, the
+Adjudicating Authority had erred in having failed to examine the matter on
+
+[PAGE 5]
+Page 5 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+the touchstone of Section 65 of the IBC while admitting the Section 7
+application.
+7.
+Elaborating further it was submitted that there were on-going disputes
+between the Appellant, Corporate Debtor and its suspended management
+prior to the initiation of CIRP. Due to these disputes, the Appellant, in exercise
+of its contractual inspection rights, had issued inspection notices to the
+Corporate Debtor on 02.12.2022 and 07.12.2022 seeking access to material
+contracts, financial accounts, funding requirements and other affairs of the
+Corporate Debtor. However, as the Appellant was denied access to the
+records, it had initiated inspection related proceedings before the High Court
+of Delhi leading to the orders of the Delhi High Court dated 31.07.2023
+allowing informational and inspection rights of the books and records of the
+Corporate Debtor. Attention was also adverted to the fact that Singapore
+International Arbitration Centre (‘SIAC’ in short) had also passed an
+Inspection Order dated 11.03.2024 and an Award on Reimbursement of Costs
+dated 02.04.2024. It was also added that the Delhi High Court by its judgment
+dated 04.04.2026 had dismissed the challenge to the Arbitral Tribunal’s order
+and permitted execution of the inspection order passed by SIAC on
+11.03.2024. The Appellant had clearly been accorded judicial recognition of
+its enforceable rights concerning access to the affairs and records of the
+Corporate Debtor. It was therefore emphatically asserted that besides being a
+substantial strategic investor and a contractual inspection rights-holder, the
+Appellant was an award-holder and decree-holder.
+
+[PAGE 6]
+Page 6 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+8.
+It was strenuously contended that the CIRP was fraudulently initiated
+with a view to resist implementation of the arbitral award. The suspended
+management had deliberately pushed the Corporate into rigours of CIRP so
+as to absolve itself from implementation of the arbitration award by taking
+advantage of the provisions of moratorium. It was asserted that this was not
+a case of genuine insolvency but one where the IBC framework was being
+misused so that no contractual rights could be asserted by the Appellant nor
+any award executed. This clearly prejudiced the interest of the Appellant and
+the creditors of the Corporate Debtor. However, this aspect was totally
+overlooked by the Adjudicating Authority. It was also submitted that in terms
+of the judgment of the Hon’ble Supreme Court of India in Independent Sugar
+Corporation Ltd. Vs. Girish Shriram Juneja & Ors. in Civil Appeal No.
+6071 of 2023, a person aggrieved under Section 61 of the IBC cannot be
+subjected to an unduly rigid conception of locus which principle has also been
+followed by this Tribunal in Chandra Shekhar Jha & Anr. Vs. Religare
+Enterprises Ltd. & Ors in CA(AT)(Ins)No. 992 of 2023. Hence the Appellant
+has a right to file the present appeal in the background of Section 61(1) of the
+IBC which permits any person, aggrieved by an order of the Adjudicating
+Authority, to file an appeal.
+9.
+It was further submitted that no bonafide effort was made to preserve
+the Corporate Debtor as a going concern which is evident from the fact that
+the Corporate Debtor did not genuinely explore the alternative avenues of
+available rescue funding. It was submitted that even prior to CIRP when the
+Corporate Debtor had run into certain financial difficulties following which
+
+[PAGE 7]
+Page 7 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+the Appellant had proposed a loan facility in March, 2023 to the Corporate
+Debtor, the same was rejected and the Corporate Debtor had instead preferred
+a competing financing proposal from Trifecta and that it was Trifecta which
+later preferred the Section 7 application. The preference given to Trifecta’s
+financing proposal coupled with the exclusion of the Appellant from all
+material developments of the Corporate Debtor leading to alleged default and
+initiation of CIRP evidences a deliberate design to marginalise the Appellant
+and to proceed with a pre-conceived insolvency process. Even after admission
+of CIRP, the Appellant had addressed a letter on 03.07.2026 offering to
+acquire or take assignment of the alleged debt without any haircut but got no
+positive response. Instead of availing a friendly loan to discharge the entire
+debt, Form G was engineered within five days of CIRP initiation. This
+insistence on continuation of CIRP despite an available settlement route
+shows misuse of IBC.
+10.
+Per contra, it was contended by Shri Krishnendu Dutta, Ld. Sr. Counsel
+for Respondent No. 1 that the purported grievance of the Appellant has arisen
+solely from its interest as a shareholder of the Corporate Debtor which did not
+constitute any direct or independent injury to the Appellant. Hence the
+Appellant cannot be regarded as an aggrieved person under Section 61 of the
+IBC thus rendering the appeal non-maintainable.
+11.
+It was also asserted that the withdrawal/termination of CIRP could not
+have been sought by the Appellant merely on the basis of a subsequent
+proposal or settlement given by them as in terms of the amended Section 12A
+of the IBC, no withdrawal of CIRP under Section 12A is possible before the
+
+[PAGE 8]
+Page 8 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+constitution of the CoC and after the first invitation for submission of a
+resolution plan by the RP. The statutory restrictions and procedural
+safeguards introduced by the amended Section 12A require to be strictly
+complied with. In the present case, where the CoC has already been
+constituted and Form-G has already been published, the prayer of the
+Appellant to bring the CIRP to an end basis their settlement proposal is
+contrary to the statutory construct of Section 12A and is legally
+impermissible.
+12.
+It was vehemently argued that when no objections were raised before
+the Adjudicating Authority either by way of pleading or oral submissions that
+CIRP was fraudulently or maliciously initiated, the Appellant cannot
+introduce this new plea under Section 65 for the first time in an appeal under
+Section 61 of IBC. The allegation of fraudulent or malicious initiation of CIRP
+which had neither been pleaded before the Adjudicating Authority nor
+adjudicated upon by the Adjudicating Authority, cannot constitute a valid
+ground for interference with the impugned order in the facts of the present
+case wherein debt and default has been proven.
+13.
+We have heard the Ld. Counsel for the parties and perused the records
+carefully.
+14.
+The short point for our consideration is whether the Section 7
+application was fraudulently initiated and whether it has been overlooked by
+the Adjudicating Authority in the impugned order.
+
+[PAGE 9]
+Page 9 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+15.
+To arrive at our analysis and findings, we may first run our eyes
+through the impugned order. The relevant excerpts of the order are as
+reproduced below:
+“21. The Applicant in order to establish the existence of financial debt, its
+disbursement, and the occurrence and continuance of default has placed
+on record the Securities Subscription Agreement dated 03.03.2023,
+Debenture Trust Deed dated 03.03.2023, Debenture Trustee Appointment
+Agreement dated 03.03.2023 and Deed of Hypothecation dated
+03.03.2023, the Addendum Cum Amendment Deed dated 14.09.2023,
+copies of debenture certificates issued by the Corporate Debtor, bank
+statements
+evidencing
+disbursement
+of
+funds,
+statement
+of
+account/ledger reflecting the outstanding principal and interest, Warning
+Letter dated 02.01.2026, Event of Default Notice dated 22.01.2026, Final
+Demand
+Notice
+dated
+09.02.2026,
+email
+communications
+and
+correspondence wherein the Corporate Debtor has acknowledged its
+liability and sought time for repayment, minutes of meetings recording
+admission of financial distress and Record of Default filed with the
+Information Utility (NeSL).
+22. The Respondent has not denied the fact that the execution of the
+documents and disbursal of the amount.
+23. Moreover, the Applicant had issued a warning letter dated 02.01.2026
+calling upon the Corporate Debtor to regularize the default within five
+days.
+24. Thereafter, the default notice dated 22.01.2026 was issued by the
+Debenture Trustee to which the Respondent/Corporate Debtor vide e-mail
+dated 23.01.2026 replied.......
+25. It is thus very clear that the Respondent/Corporate Debtor has
+acknowledged its liability and requested for 9 to 12 months’ time for
+repayment of the outstanding dues.
+27. Further, the Applicant has filed the information of default with the
+Information Utility i.e. NeSL on 23.01.2026 for part amount under default
+i.e. INR 1,89,13,351 on behalf of one of the debenture holders pursuant to
+which the NeSL has issued a record of default and the Record of Default
+has been placed on record by the Applicant.”
+(Emphasis supplied)
+
+[PAGE 10]
+Page 10 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+16.
+When we look at the impugned order, it is clear that the Adjudicating
+Authority has satisfied itself on the basis of material on record that there was
+a debt on the part of the Corporate Debtor qua Respondent No. 1 and that the
+Corporate Debtor had committed a default in the discharge of this debt
+liability which is also reflected in the NeSL records. The legal position is now
+well settled by the judgement of the Hon’ble Supreme Court in Innoventive
+Industries Ltd. v. ICICI Bank (2018) 1 SCC 407 that once the Adjudicating
+Authority is satisfied that a financial debt exists and a default has occurred,
+it must admit the application unless it is incomplete. Any enquiry under
+Section 7(5)(a) of IBC is required to be confined strictly to the determination
+of debt and default. Similarly, in Swiss Ribbons P. Ltd. v. Union of India
+(2019) 4 SCC 17, the Hon’ble Apex Court had reiterated that the CIRP trigger
+point is default. These binding principles have been consistently followed and
+therefore admission under Section 7 becomes mandatory once debt and
+default is established but for a narrow exception confined to its peculiar facts,
+of which no such articulation was done before the Adjudicating Authority.
+17.
+This now brings us to the contention of the Appellant that the impugned
+order has simply recorded debt and incidence of default without going into
+the questions of lack of bonafide in the invocation of the insolvency. It is the
+case of the Appellant that Corporate Debtor’s persistent denial of inspection;
+non-disclosure of insolvency risk; rejection of pre-CIRP funding proposal
+made by the Appellant; non-engagement of the Appellant inspite of their no-
+haircut post CIRP acquisition settlement proposal; invocation of moratorium
+as a shield against the enforcement of arbitral awards and court decrees
+
+[PAGE 11]
+Page 11 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+cumulatively show that there was a deliberate and pre-conceived design on
+the part of the Corporate Debtor to initiate insolvency in the present facts of
+the case thereby warranting interference under Section 65 of the IBC.
+18.
+At this stage we may glance through the statutory provision of Section
+65 of the IBC which reads as follows:
+“Section 65: Fraudulent or malicious initiation of proceedings.
+65. (1) If, any person initiates the insolvency resolution process or
+liquidation proceedings fraudulently or with malicious intent for any
+purpose other than for the resolution of insolvency, or liquidation, as the
+case may be, the Adjudicating Authority may impose upon such person a
+penalty which shall not be less than one lakh rupees, but may extend to
+one crore rupees.
+(2) If, any person initiates voluntary liquidation proceedings with the
+intent to defraud any person, the Adjudicating Authority may impose upon
+such person a penalty which shall not be less than one lakh rupees but
+may extend to one crore rupees.
+(3) If any person initiates the pre-packaged insolvency resolution process—
+(a) fraudulently or with malicious intent for any purpose other than for
+the resolution of insolvency; or
+(b) with the intent to defraud any person,
+the Adjudicating Authority may impose upon such person a penalty which
+shall not be less than one lakh rupees, but may extend to one crore
+rupees.”
+From a reading of the above provision, it is clear that Section 65 provides
+that if any person initiates the insolvency resolution process or liquidation
+proceedings fraudulently or with malicious intent for any purpose other
+than for resolution of insolvency or liquidation, the Adjudicating Authority
+may impose upon such person a penalty in order to prevent such person
+from taking undue benefit of provisions of IBC to detriment of the rights of
+legitimate creditors as well as to protect the Corporate Debtor from being
+
+[PAGE 12]
+Page 12 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+dragged into CIRP with mala-fide. This statutory provision also empowers
+the Adjudicating Authority to interdict the abuse of CIRP process at any
+stage, if the Adjudicating Authority is satisfied from the surrounding facts
+and circumstances on record, of fraud and/or malicious intent on the part
+of any party seeking admission of CIRP of the Corporate Debtor.
+19.
+At this juncture, it will also be constructive to take note of the
+contentions raised and submissions made by the Corporate Debtor raised
+before the Adjudicating Authority, as recorded at paras 15 and 16 of the
+impugned order, to find out whether the Corporate Debtor had resisted the
+admission of the Section 7 application. The relevant paragraphs are as
+reproduced below:
+“15. The Corporate Debtor submitted that since discussions and
+negotiations were being held between the Applicant/Financial Creditor
+and the Corporate Debtor for repayment of the dues, it cannot be said that
+the amount of default has crystalized and therefore there is no default
+within the meaning of Section 3(12) read with Section 7 of the Code.
+16. The Respondent further submitted that the Applicant is attempting to
+use the Code as a recovery mechanism. The Respondent/Corporate Debtor
+further submitted that mere description of the Applicant as "Debenture
+Trustee" does not automatically clothe it with locus under Section 5(7) of
+the
+Code
+unless
+it
+is
+demonstrated
+that
+the
+underlying
+beneficiaries/debenture holders are Financial Creditors to whom financial
+debt is actually owed and that the Applicant is duly authorized under the
+debenture documentation to initiate Section 7 proceedings under the
+Code.”
+When we look at the above submissions made by the Corporate Debtor before
+the Adjudicating Authority, we find that the Corporate Debtor had clearly
+contested the debt and default and resisted the initiation of CIRP. In such
+circumstances, when there was clearly no cogent evidence before the
+Corporate Debtor to demonstrate that the Corporate Debtor had willfully
+
+[PAGE 13]
+Page 13 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+pushed itself into insolvency, the allegation cannot be accepted unless
+substantiated.
+20.
+In understanding the contours of Section 65 of the IBC, we are also
+guided by the judicial precedent laid down by the Hon’ble Supreme Court in
+the case of Beacon Trusteeship Limited Vs. Earthcon Infracon Pvt. Ltd.
+& Anr. in Civil Appeal no. 7641 of 2019 where under para 7, it held as
+follows:
+“7. Considering the provision of Section 65 of the IBC, it is necessary for
+the Adjudicating Authority in case such an allegation is raised to go into
+the same. In case, such an objection is raised or application is filed before
+the Adjudicating Authority, obviously, it has to be dealt with in accordance
+with law. The plea of collusion could not have been raised for the first time
+in the appeal before the NCLAT or before this Court in this appeal. Thus,
+we relegate the appellant to the remedy before the Adjudicating Authority.”
+This judgement clearly lays down that in the first instance it is the
+Adjudicating Authority which is obliged to investigate the nature of the alleged
+fraudulent transaction in accordance with law and exercise caution while
+considering the attendant facts and circumstances of the case.
+21.
+To answer the question as to whether the CIRP was initiated in the
+present case in a fraudulent/malicious manner which attracted Section 65 of
+the IBC, we must bear in mind that it is well settled that the degree of proof
+and evidence required to prove any proceeding to initiate CIRP as fraudulent
+should be beyond reasonable doubt and of an unimpeachable nature. The
+threshold for determining fraudulent or malicious proceeding under Section
+65 is rigorous and requires proof of deliberate intent of causing wrongful loss
+to creditors. Specific material facts are therefore required to be pleaded if a
+proceeding is sought to be brought under Section 65.
+
+[PAGE 14]
+Page 14 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+22.
+Since Section 65 is designed to deter misuse and protect the integrity
+of the insolvency framework, it is incumbent upon the Adjudicating Authority
+to examine the conduct of the Corporate Debtor in the surrounding
+circumstances for satisfying itself that the threshold element of fraudulent
+intent was met. However, in the present facts of the case, the records basis
+which the Appellant has claimed fraudulent proceedings and sought to invoke
+Section 65 were not made available to the Adjudicating Authority. We are also
+inclined to agree with the Respondent No.1 that any grievance of fraudulent
+or malicious initiation of CIRP was required to have been raised by the
+Appellant before the Adjudicating Authority and adjudicated in accordance
+with law. An issue which was required to have been considered by the
+Adjudicating Authority in the first place cannot be raised by the Appellant at
+the appellate stage.
+23.
+In the absence of any cogent material having been placed before the
+Adjudicating Authority to demonstrate any dishonest design on the part of
+the suspended management to defraud creditors or to carry on business with
+an intent to deceive, we are not persuaded to hold that the Adjudicating
+Authority had knowingly omitted material facts basis which Section 65 of IBC
+could have been invoked.
+24.
+We are also of the considered view that for reasons of judicial propriety,
+it may not be fair on the part of the Appellate Tribunal to arrive at any
+conclusion on the fraudulent initiation of CIRP proceedings when no
+foundational material was placed before the Adjudicating Authority. As
+proceedings under Section 65 of the IBC requires strict construction, there is
+
+[PAGE 15]
+Page 15 of 15
+Company Appeal (AT) (Insolvency) No. 1474 of 2026
+an imperative need for the Appellant to place its contentions with supporting
+material and evidentiary basis forming the foundation of their allegation of
+fraudulent initiation of CIRP before the Adjudicating Authority.
+25.
+In result, we do not find any good reasons to interfere with the
+impugned order as it stands. However, we are allowing liberty to the Appellant
+to place a proper Section 65 application before the Adjudicating Authority
+which may consider all contentions raised therein alongwith other aspects
+including the locus of the Appellant to file such an application to adjudicate
+whether the proceedings have been initiated in a fraudulent manner. We
+dispose of the appeal in accordance with the aforesaid direction. Parties shall
+bear their own costs.
+
+[Justice Yogesh Khanna]
+Officiating Chairperson
+
+[Barun Mitra]
+Member (Technical)
+Place: New Delhi
+Date : 22.09.2026
+Sheetal

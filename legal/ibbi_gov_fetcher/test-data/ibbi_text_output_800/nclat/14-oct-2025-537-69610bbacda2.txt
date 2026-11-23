@@ -1,0 +1,861 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 1353 of 2023
+
+[Arising out of Order dated 18.09.2023 passed by the Adjudicating Authority
+(National Company Law Tribunal), New Delhi Bench (Court-II) in Company
+Petition No. (IB)-556(ND)2020]
+
+IN THE MATTER OF:
+
+Puneet Kumar
+Suspended Board of Director of
+NYSA Communications Pvt. Ltd
+...Appellant
+
+Versus
+Computer Junction Pvt. Ltd. & Anr.
+...Respondents
+
+Present:
+
+For Appellant:
+Ms. Pooja Saigal Sr. Advocate with Mr. Milan Singh
+Negi, Mr. Nikhil Kumar Jha, Mr. Nivesh Dixit and
+Ms. Ananya Choudhary, Advocates.
+For Respondents:
+Mr. Tushar Thareja, Advocate for R1.
+
+J U D G M E N T
+(14th October, 2025)
+
+Ashok Bhushan, J.
+
+This Appeal by a Suspended Director of the Corporate Debtor has been filed
+challenging the order dated 18.09.2023 passed by the Adjudicating Authority (National
+Company Law Tribunal) New Delhi Bench (Court-II) admitting Section 9 application
+filed by M/s. Computer Junction Private Limited (Operational Creditor) Respondent
+No.1 herein. By the impugned order, the Adjudicating Authority has admitted Section
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+9 application. Appeal was heard by this Tribunal and interim order was passed on
+12.10.2023.
+
+2.
+Brief facts of the case necessary to be noticed for deciding the Appeal are:-
+
+2.1.
+The Corporate Debtor is into the business of online / offline examination
+services. Indian Council of Agricultural Research (‘ICAR’) issued e-tender for
+conducting online AIEE for admission to UG, PG and Ph.D. courses including
+invitation of online application, online computer-based test, online counselling
+etc. by tender notice dated 23.03.2018. The Corporate Debtor submitted its
+technical and financial bids online which was accepted by the ICAR vide letter
+dated 09.05.2018. For executing the assignment, Corporate Debtor entered
+into an agreement with the Operational Creditor w.e.f. 25.05.2018 which
+identifying the role, responsibilities, services and duties of the parties. The
+Operational Creditor under the agreement was service provider to the
+Corporate Debtor for conduct of online AIEE test. Examination was conducted
+on 22nd and 23rd June, 2018. On 26.06.2018, ICAR sent an e-mail to the
+Corporate Debtor asking for urgent report with respect to aforesaid exams,
+including the CCTV footage of the examination venues at few centers.
+Corporate Debtor discussed the matter in relation to communication of CCTV
+Surveillance data and requested the Operational Creditor and its partner
+Testpan to provide necessary CCTV footage. On 26.06.2018, Testpan wrote
+back to the Corporate Debtor with information to Operational Creditor assuring
+that no venue will delete the CCTV Footage unless and until the clearance of
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+receiving is done from Corporate Debtor. ICAR on 29.06.2018 again wrote to
+the Corporate Debtor seeking CCTV Footage of examination centers at 27
+cities. Corporate Debtor again wrote to Operational Creditor on 29.06.2018 and
+Testpan to seek CCTV recordings which was not provided till date. Corporate
+Debtor informed the Testpan that CCTV at one of the location is deleted and
+not available. On 03.07.2018, ICAR again sent an e-mail seeking CCTV Footage
+in light of the allegations of mass copying at certain centres. Some reports were
+submitted by ICAR with respect to CCTV Footages issued where non-
+availability of CCTV cameras at certain locations was highlighted. On
+05.07.2018, Corporate Debtor again wrote to Testpan (partner of the
+Operational Creditor) that CCTV at couple of locations is deleted and not made
+available. Corporate Debtor engaged third party agency (Stellar) for inspection
+/ retrieval of data from the HDD where the Operational Creditor and its partner
+Testpan claimed to have the Data. Stellar sent a report that data was over
+written and could not be retrieved. Emails were sent by the Corporate Debtor
+on 18.07.2018 and thereafter to try to retrieve the recording of the locations
+where the tests were conducted. On 30.07.2018, ICAR terminates the contract
+of the Corporate Debtor. Invoices were sent by the Operational Creditor to the
+Corporate Debtor for payment. There have been e-mails exchanged between the
+parties with respect to amount. The Corporate Debtor’s e-mail dated
+01.08.2018 was sent for an amount of Rs.3,75,83,000/-. A demand notice was
+issued by the Operational Creditor dated 23.12.2019 claiming total amount of
+Rs.3,54,54,483/- as operational debt. Demand notice was replied by Corporate
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+Debtor by letter dated 15.01.2020. The Corporate Debtor in its reply claimed
+that the Operational Creditor failed to provide end to end services to the
+Corporate Debtor as per the Facility Agreement dated 30.05.2018. At various
+centres adequate infrastructure including CCTV and other surveillance devices
+were not provided due to which Corporate Debtor was unable to contradict the
+allegation of mass copying at various centres and the contract was terminated
+by ICAR. Dispute and differences were communicated to the Operational
+Creditor. It was pleaded that there being pre-existing dispute between the
+parties, the demand is denied. The Operational Creditor filed Section 9
+application claiming an operational debt and default. A counter affidavit to
+Section 9 application was filed by the Corporate Debtor giving details of Facility
+Agreement, award to contract by ICAR to conduct AIEE examination for
+admission to UG, PG and Ph.D. courses. The details regarding complaints
+received from ICAR and the correspondences with Corporate Debtor and its
+partner Testpan were highlighted and relevant materials were brought on the
+record in the counter affidavit claiming that the Operational Creditor failed to
+provide necessary services and there was quality issue. Section 9 application
+was admitted on 13.10.2021 by the Adjudicating Authority which order was set
+aside by this Tribunal on 09.05.2022 remitting the matter for fresh
+consideration. This Tribunal also noted the submission on behalf of the
+Corporate Debtor that there is pre-existing dispute and judgment of the
+Hon’ble Supreme Court in “Mobilox Innovations Private Limited versus
+Kirusa Software Private Limited- (2018) 1 SCC 353” was relied. After the
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+remand, the Adjudicating Authority by the impugned order has admitted
+Section 9 application aggrieved by which order this Appeal has been filed.
+
+3.
+We have heard Learned Counsel for the Appellant as well as Learned
+Counsel for the Respondent.
+
+4.
+Learned Counsel for the Appellant submits that pre-existing dispute
+between the parties with regard to conduct of examination and services
+provided by Operational Creditor and its partner were in existence which were
+supported by necessary documents filed by the Corporate Debtor in its reply.
+There was issue regarding quality of service and deficiency in services by the
+Operational Creditor, the amount was not payable. It is submitted that on
+account of quality issue and other issues, the invoices for Rs.3,75,83,000/-
+was reduced to Rs.1,13,30,756/-. It is submitted that notice of dispute having
+been issued by the Corporate Debtor after receiving the demand notice with
+relevant details and materials pointing out pre-existing dispute, Adjudicating
+Authority ought not to have admitted Section 9 application. Reliance of
+Adjudicating Authority on the ledger of the Corporate Debtor that it is showing
+balance of more than Rs.4,00,000/-, hence, it being more than threshold of
+Rs.1 lakh, application need to be admitted is erroneous. There was no case set
+up by the Operational Creditor of any amount of Rs.4 lakhs due and payable.
+The Adjudicating Authority proceeded to adjudicate the merits of the dispute
+raised by the Operational Creditor. It is submitted that the material evidences
+on the record proving deficiencies and shortcomings overlooked. It was on the
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+record that the ICAR has demanded CCTV Footage with respect to centers were
+examination was conducted. Operational Creditor and its partner failed to
+provide CCTV Footage of all the centres.
+
+5.
+Counsel appearing for the Respondent refuting the submissions of the
+Appellant submits that it was the responsibility of the Corporate Debtor to
+provide for DVR facilities and the manpower. As per the Facility Agreement,
+responsibility for CCTV Surveillance recording vested solely with the Corporate
+Debtor. Corporate Debtor was specifically required to provide hard disks and
+pen drives. There being undisputed debt or more than Rs.1 lakh, Adjudicating
+Authority rightly admitted Section 9 application. The Corporate Debtor in its
+reply to demand notice as well as in reply to Section 9 application sought to
+raise moonshine dispute. Corporate Debtor before the Ministry of Agriculture,
+Government of India has categorically stated that the examination was
+conducted in accordance with terms and there were no deficiencies in services.
+Corporate Debtor having taken stand before the Government that examination
+is successfully conducted, it cannot put any blame on the Operational Creditor
+and its partner. Representation dated 08.12.2018 sent by the Corporate Debtor
+to Ministry of Agriculture, Government of India has been referred to. The case
+of the Appellant that invoice dated 10.08.2018 Rs. 3,75,83,000/- reduced to
+Rs. 1,13,30,735/- is incorrect. Copy of invoices sent by the Operational
+Creditor does not record any reduction. Corporate Debtor has initiated
+Arbitration proceedings against the ICAR for recovery of its dues. Adjudicating
+Authority rightly admitted Section 9 application.
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+6.
+We have considered the submissions of the parties and perused the
+record.
+
+7.
+It is admitted fact that the parties entered into Facility Agreement dated
+30.05.2018 w.e.f. 25.05.2018 which outlines the scope of work of the
+Operational Creditor who was referred to as service provider in the Agreement.
+The Operational Creditor through partner Testpan India Pvt. Ltd. under Clause
+2(V) was entrusted following responsibilities:-
+
+“V. DVR Facility for recording the exam proceedings at
+each lab along with cameras and NYSA designated
+manpower will be responsible to take backup of these
+location, in server or any other medium provided by
+Nysa.”
+
+8.
+The storage of device of CCTV Surveillance recording to be arranged by
+Corporate Debtor. The Corporate Debtor was awarded contract for conduct of
+AIEE examination by the ICAR which was conducted on 22nd June and 23rd
+June, 2018. On 26.06.2018, ICAR sent an e-mail to the Corporate Debtor
+asking for various reports including following:-
+
+“8. In addition to above, you are also requested to
+provide the cctv footage of the examination venues at
+Bangalore, Guwahati, Cuttak, Dhanwad, Chapra and
+Delhi recorded during the examination. For rest of the
+centres, the same may be provided in due course.”
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+9.
+The Operational Creditor and its partner were informed about the CCTV
+data requirement. The partner of the Operational Creditor sent an e-mail on
+26.06.2018 at 7:20 PM to the Corporate Debtor which is to the following effect:-
+
+“Dear Sir
+
+We have assured that no venue will delete the CC TV
+footage unless and until the clearance of receiving the
+same is done from your end.
+We had categorically mentioned that the manpower
+should collect the same in servers that they had taken
+to conduct the exam. This message was not cleared to
+all the manpower wherever you have hired the
+manpower from.
+Now most of the venues have confirmed that they have
+given (still the status has to be provided by you), now
+please arrange the pen drives or HDD so that venues
+can give the footage in those depending on size and
+accordingly logistic to be arranged.
+Please take necessary action, our venue will support
+you for same.
+
+Regards,
+for TESTPAN India Pvt Ltd,
+
+Rajesh Setia
+Director”
+
+10.
+The CCTV Footage with respect to certain examinations centres was not
+provided. ICAR again asked the relevant CCTV Footage. ICAR informed that
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+CCTV Footage was not provided and once again Corporate Debtor was
+requested on 03.07.2018 which is as follows:-
+
+“Dear Sirs,
+Vide trail mail the Firm was asked to provide the CCTV
+footage of 26 Examination City Centres where alleged
+mass copying taken place where as you have provided
+the CCTV footage for only seven examination city
+centres. There were total 35 examination venues at
+Delhi Examination City Centre out of that only for 16
+venues CCTV footage were provided on 02.07.2018
+and seen by the Agril. Edn. Division officials. The logic
+given by the Firm that the complete CCTV footage for
+all the centres would be possible to provide by 10th
+July, 2018 as they are in transit is not very convincing
+because even for all the Delhi venues, adg the CCTV
+footage have not been provided. Once again you are
+requested to provide the CCTV footage of the remaining
+examination city centres without any further delay so
+that same can be seen by the committee to arrive at the
+decision on alleged mass copying/cheating at these
+centres.
+Quoted text hidden]
+M.K. Agnihotri
+Controller of Examinations (Agril. Edn.)
+ICAR, KAB-II, Pusa, New Delhi-12
+Ph.: 011-25840746
+Fax: 011-25843329”
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+11.
+As noted above, the Corporate Debtor has engaged a third party Stellar
+for retrieving the data who informed the Corporate Debtor that data was over
+written and ultimately the contract awarded to the Corporate Debtor was
+cancelled on 30.07.2018 by the ICAR. A demand notice was issued by the
+Operational Creditor to the Corporate Debtor dated 23.12.2019 of principal
+amount of Rs.2,65,77,028/-. Demand notice was replied by the Corporate
+Debtor on 15.01.2020. Demand notice was denied. Details of contract given by
+ICAR for conduct of examination on 22nd and 23rd June, 2018 have been
+detailed. Details of Facility Agreement dated 30.05.2018 entered with
+Operational Creditor. In reply notice, in paragraphs 8 to 12, following has been
+pleaded:-
+
+“8. That on 30.05.2018, an "Facilities Agreement" was
+entered into between 'my Client' and you the
+addressee's client, for 'my Clients' requirement for end
+to end infrastructure support and laptops servers to be
+used
+during
+the
+conduction
+of
+the
+aforesaid
+examination. That as per Clause 1, your client was
+under the obligation as per the contract to provide
+"laptops servers 1 primary and 1 backup to be
+provided on average ratio of 160 candidates that is to
+1000+1000 for 1.60 lacs candidates (proportionate
+increase for increase in candidate count) rental server
+laptops configuration: (HP, DELL Lenovo) core i5 or
+equivalent, 8GB RAM, 250 GB or above HDD and
+laptop". That as per Clause 2 your client was also
+under the obligation to provide end to end support qua
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+"activities
+including
+booking
+and
+facilities
+of
+examination center":
+9. That from the very beginning you the addressee's
+client, miserably failed to discharge its obligation(s)
+under the contract and failed to provide end to end
+services to 'my Client'. That your client was duty bound
+to provide the details of all the examination centres as
+per the deadline, resulting into the delay in issuance of
+admit cards to the candidates who had applied for the
+aforesaid examination. That State wise data was
+provided by 'my Client' to you the addressee's client in
+advance for number of examination centres to be
+provided State wise, but you the addressee's client
+miserably failed to provide the adequate centres on
+time, resulting into poor attendance of candidates from
+the States of Kerala, Manipur, Meghalaya, etc. That
+further in certain centres where your client was obliged
+to provide adequate infrastructure for the candidates,
+the details of which was already shared in advance to
+your client, your client failed to make adequate
+arrangements, leading to utter chaos at the centres,
+resulting into cancelation of examination at various
+centres.
+10. That further due to not providing of adequate
+infrastructures at various centres like CCTV cameras
+and other surveillance devises at the centre, 'my Client'
+was not able to contradict the allegation of mass
+copying at various centres due to the failure of you the
+addressees client to provide the recorded CCTV footage
+of the relevant examination centres, due to which ICAR
+by virtue of its letter dated 30.07.2018, terminated the
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+contract as executed between 'my Client' and ICAR
+resulting into exemplary losses to 'my Client'.
+11. That all the aforesaid disputes and differences
+were well conveyed to you by virtue of 'my Client's'
+emails dated 15.06.2018 and 16.06.2018, by virtue of
+which the delay in issuance of admit cards were
+brought on record due to failure of your client to
+provide the details of the examination centres on time;
+email dated 29.06.2018, thereby asking your client to
+provide CCTV recording for certain centres for the
+examinations conducted on 22.06.2018; email dated
+05.07.2018 thereby putting your client to notice to
+recover the CCTV recording qua certain centres in
+which the recording was found to be deleted.
+12. That all the aforesaid emails clearly bring on record
+the existence of disputes, between 'my Client' and you
+the addressee's client for its failure to discharge its
+obligations under the contract which had so resulted
+into the termination of the contract of 'my Client'.”
+
+12.
+The reply to demand notice, thus, clearly raised issue of deficiencies in
+services resulting in termination of contract by ICAR on 30.07.2018. Existence
+of dispute between the Corporate Debtor and Operational Creditor was
+specifically pleaded. The Corporate Debtor has disputed the invoices and
+denied any claim.
+
+13.
+The first question which need to be considered is as to whether there was
+any pre-existing dispute between the parties which is relevant factor for
+passing an order under Section 9 of the application. We may refer to the
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+judgment of the Hon’ble Supreme Court in “Mobilox Innovations Private
+Limited” (supra). The Hon’ble Supreme Court had occasion to consider the
+scheme under Sections 8 and 9 of the IBC and after noticing the scheme, in
+paragraph 34, following has been observed:-
+
+“34. Therefore,
+the
+adjudicating
+authority,
+when
+examining an application under Section 9 of the Act
+will have to determine:
+(i) Whether there is an “operational debt” as defined
+exceeding Rs 1 lakh? (See Section 4 of the Act)
+(ii) Whether the documentary evidence furnished
+with the application shows that the aforesaid debt is
+due and payable and has not yet been paid? and
+(iii) Whether there is existence of a dispute between
+the parties or the record of the pendency of a suit or
+arbitration proceeding filed before the receipt of the
+demand notice of the unpaid operational debt in
+relation to such dispute?
+If any one of the aforesaid conditions is lacking, the
+application would have to be rejected. Apart from the
+above, the adjudicating authority must follow the
+mandate of Section 9, as outlined above, and in
+particular the mandate of Section 9(5) of the Act, and
+admit or reject the application, as the case may be,
+depending upon the factors mentioned in Section 9(5)
+of the Act.”
+
+14.
+Notice of dispute has also been dealt in paragraph 51. In paragraph 51 of
+the judgment, following has been held:-
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+“51. It is clear, therefore, that once the operational
+creditor has filed an application, which is otherwise
+complete, the adjudicating authority must reject the
+application under Section 9(5)(i)(d) if notice of dispute
+has been received by the operational creditor or there
+is a record of dispute in the information utility. It is
+clear that such notice must bring to the notice of the
+operational creditor the “existence” of a dispute or the
+fact that a suit or arbitration proceeding relating to a
+dispute is pending between the parties. Therefore, all
+that the adjudicating authority is to see at this stage is
+whether there is a plausible contention which requires
+further investigation and that the “dispute” is not a
+patently feeble legal argument or an assertion of fact
+unsupported by evidence. It is important to separate
+the grain from the chaff and to reject a spurious
+defence which is mere bluster. However, in doing so,
+the Court does not need to be satisfied that the defence
+is likely to succeed. The Court does not at this stage
+examine the merits of the dispute except to the extent
+indicated above. So long as a dispute truly exists in
+fact and is not spurious, hypothetical or illusory, the
+adjudicating authority has to reject the application.”
+
+15.
+The present is a case where notice of dispute was issued by the
+Corporate Debtor. Submission which has been raised by Counsel for the
+Respondent is that the dispute raised by the Corporate Debtor is a moonshine
+dispute. The test for finding out existence of dispute itself has been clearly laid
+down by the Hon’ble Supreme Court in paragraph 51 of the judgment where it
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+was held that the adjudicating authority is to see at this stage is whether there
+is a plausible contention which requires further investigation and that the
+“dispute” is not a patently feeble legal argument or an assertion of fact
+unsupported by evidence. Present is a case where Facility Agreement between
+the Corporate Debtor and the Operational Creditor was entered on 30.05.2021
+for conduct of the examination entrusted to the Corporate Debtor by the ICAR.
+There was allegation regarding mass copying in the examination due to which
+ICAR has asked the Corporate Debtor to provide CCTV Footage. There has been
+a correspondence at relevant time in June 2018 itself (examination was
+conducted on 22nd and 23rd June, 2018). Corporate Debtor has asked the
+Operational Creditor and its partner Testpan to provide CCTV Footage.
+Correspondences at the relevant time between the parties Corporate Debtor
+and the Operational Creditor was brought on the record which indicate that
+ICAR has written to the Corporate Debtor even on 03.07.2018 that CCTV
+Footage was asked to provide. has not been provided. CCTV Footages were
+missing on certain centres. Corporate Debtor has appointed third party Stellar
+to retrieve the data who could not retrieve the data which was also informed
+the Operational Creditor and its partner on 18.07.2018 by the Corporate
+Debtor. The Testpan, partner of Operational Creditor could not provide for
+data, thus, the dispute which has been raised by the Corporate Debtor was
+based on evidence on record. The invoice which has been raised by the
+Operational Creditor where on the strength of Facility Agreement entered with
+the Corporate Debtor on 30.05.2021 with respect to conduct of examination
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+providing services for conduct of examination, issues between the parties was
+flagged immediately after examination. Corporate Debtor in its reply to Section
+9 application has pleaded and brought relevant correspondences between the
+parties and it is useful to notice paragraph 8 to 18 of the reply of the Corporate
+Debtor, which pleading supported by relevant correspondences which were on
+the record:-
+
+“8. As per the said agreement, the Applicant also
+agreed to provide CCTV and DVR facility for recording
+the exam proceedings at each exam center, while the
+Corporate Debtor was to take backup from such DVR
+after completion of exam. As per clause 2 of the said
+agreement, the Applicant agreed to make all the
+arrangements along with one of its associate/partners,
+namely Testpan India Pvt. Ltd. ('Testpan').
+
+9. Thereafter on 22.06.2018, exams were conducted by
+ICAR at respective centers whereby the Applicant along
+with its partner, Testpan, had undertaken to provide
+all the requisites as agreed under the said agreement.
+After completion of examination, on 26.06.2018 (at
+11:29 AM), ICAR wrote to the corporate debtor to
+provide backup of CCTV footage among other things.
+On 26.06.2018 (at 01:06 PM), the corporate debtor,
+pursuant to telephonic discussion, wrote to the
+Applicant and its partner Testpan that the corporate
+debtor shall collect the CCTV footage/ surveillance
+data from the examination centres in storage devices
+(of the corporate debtor).
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+On 26.06.2018 (at 07:20 PM), Testpan (partner of
+Applicant) wrote to the corporate debtor and the
+Applicant that the corporate debtor shall rest assured
+that CCTV footage shall not be deleted from any
+centre/ venue unless any instruction is received from
+the corporate debtor. Also, Testpan writes in the said
+email that all the centres/ venues shall provide CCTV
+footage to the corporate debtor's manpower in
+HDD/pen drives. Copy of emails dated 26.06.2018
+exchanged between ICAR, corporate debtor, Applicant
+and Testpan are annexed herewith and collectively
+marked as ANNEXURE R-2 (COLLY)
+
+10.
+The
+above
+set
+of
+emails/
+communication
+exchanged between the parties clearly explains the
+arrangement between the parties, which was very
+clear that the Applicant and its partner Testpan was to
+provide CCTV cameras and DVR for recording, while
+the corporate debtor was to arrange back-up device for
+taking CCTV footage from each centre.
+
+11. A perusal of emails dated 30.06.2018, 05.07.2018
+and 09.07.2018 (annexed with appeal) shows that the
+CCTV footage of certain centers were either deleted or
+not provided by the Applicant.
+
+12. Further, a herculean attempt was made by
+corporate debtor to recover the deleted footage. In this
+regard, the corporate debtor also took services from
+Stellar Information Technology Pvt. Ltd. ('Stellar'), who
+is a well-recognized data recovery agency.
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+13. The corporate debtor had several rounds of
+discussions and communications with Stellar on
+recovery of deleted CCTV footage, however, even stellar
+could not recover the CCTV footage for the reason "data
+overwritten". In this regard, emails dated 11.07.2018,
+14.07.2018,
+16.07.2018
+and
+17.07.2018
+were
+exchanged between the corporate debtor and Stelar.
+Copy
+of
+emails
+dated
+11.07.2018,
+14.07.2018,
+16.07.2018 and 17.07.2018 exchanged between the
+corporate debtor and Stelar are annexed herewith and
+collectively marked as ANNEXURE R-3(COLLY).
+
+14. As the data was not recoverable and Stellar (on
+17.07.2018) had informed the same, the corporate
+debtor informed the same to the Applicant and its
+partner Testpan on 18.07.2018. In response to the said
+email, Testpan, on 19.07.2018, forwarded the issue to
+its state partner at Chennai to make attempt to recover
+the data, who had given the concerned venue to
+Testpan and had brought the DVR from Chennai to
+Noida for backup.
+In furtherance of this, the partner of Testpan, on
+19.07.2018, requested corporate debtor to send the
+DVR and HDD so to enable them to try recovering
+the data. As no response was received from the
+Applicant, or Testpan or its partner in Chennai, on
+03.08.2018, the corporate debtor wrote to the said
+parties that despite giving the requisite devices, no
+response was received, even Testpan's partner in
+Chennai was taking the corporate debtor's phone
+call.
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+In response to the said email of the corporate
+debtor, Testpan, on 04.08.2018, sought explanation
+from its partner, however, no response was
+received.
+Copy
+of
+emails
+dated
+18.07.2018,
+19.07.2018,
+20.07.2018,
+03.08.2018
+and
+04.08.2018 exchange between the parties are
+annexed herewith and collectively marked as
+ANNEXURE A-4 COLLY.
+15. It is noteworthy that despite efforts from the
+corporate debtor and due acknowledgment of the
+Applicant, its partner Testpan and Testpan's partner in
+Chennai, the CCTV Footage could not be recovered and
+in the interregnum, on 30.07.2018, ICAR terminated
+the contract with the corporate debtor.
+
+16. On 03.07.2018, ICAR informed the corporate debtor
+that despite repeated reminders, CCTV footage of all
+examination centres was not provided. In the said
+email ICAR raised all its concerns and again requested
+the corporate debtor to provide the CCTV footage
+forthwith.
+
+17. Also, in view of non-receipt of CCTV footage and to
+assist the committee formed to look into the issue of
+mass copying, the All India Agricultural Students
+Association ('AIASA') submitted its report in respect of
+CCTV were not even installed in certain centres.
+Needless to say, if there were no CCTV camera
+installed, the question of recording of the footage does
+not arise at all. The Applicant alongwith its partner
+Testpan were making frivolous attempt to recover the
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+CCTV footage, which was actually never even
+captured. Copy of email dated 03.07.2018 alongwith
+letter dated 11.07.2018 written by AIASA and its
+report is annexed herewith and collectively marked as
+ANNEXURE R-5(COLLY).
+
+18. The Applicant herein therefore completely failed to
+observe any of its obligations under the said Facility
+Agreement, such deficient services at the end of the
+Applicant and its partner, Testpan, led to issuance of
+contact termination letter dated 30.07.2018 by ICAR.
+Copy of contract termination letter dated 30.07.2018
+issued by ICAR is annexed herewith and marked as
+ANNEXURE -R-6.”
+
+16.
+Thus, the present is a case where issues pertaining to deficiency in
+services provided by Operational Creditor were on the record. The Adjudicating
+Authority in the impugned order noted the submission of the Corporate Debtor
+regarding Operational Creditor not been able to provide CCTV Footage which
+was required by ICAR and the Adjudicating Authority also noticed various e-
+mails, correspondences between the Corporate Debtor, Operational Creditor
+and the ICAR. The Adjudicating Authority, however, observed that under the
+Facility Agreement, the Corporate Debtor was responsible for taking back up of
+the DVR on the location. The Adjudicating Authority after noticing the various
+correspondences has entered into the dispute between the parties and
+proceeded to examine the same and gives its opinion which is not remit
+Adjudicating Authority. The Adjudicating Authority was only to look into as to
+
+[PAGE 21]
+21
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+whether notice of dispute has been issued by the Corporate Debtor and as to
+whether the defence taken by the Corporate Debtor is moonshine defence and
+not supported by any evidence. Dispute itself has been noticed by the
+Adjudicating
+Authority
+in
+its
+judgment
+which
+is
+apparent
+from
+correspondences in relevant time. However, Adjudicating Authority recorded
+the finding that under the Facility Agreement, it was the Corporate Debtor who
+was responsible for taking the backup of the CCTV Footage through its
+manpower. It is further relief that on the representation of the Corporate
+Debtor to the Minister of Agriculture where Corporate Debtor stated that
+examination was successfully conducted. It is useful to notice paragraphs 18
+and 19 of the impugned order, which is as follows:-
+
+“18. Moreover, during the course of the hearing, the
+Applicant had contended that the Respondent itself
+vide its letter dated 19.11.2018 addressed to the
+Hon’ble Minister of Agriculture, Government of India
+has specifically stated in para 10 (page 38 of the
+rejoinder) “That the aforesaid online examination was
+so conducted successfully to the satisfaction of the
+observers so appointed by ICAR at the aforesaid
+centers and to the satisfaction of the candidates.”
+
+19. From the conjoint reading of the documents (ibid)
+relied upon by the Applicant, it is observed that in
+terms of the Facility Agreement dated 30.05.2018, the
+Respondent was responsible for taking the backup of
+the CCTV Footage through its manpower. Further, we
+find that as per its own statement made by the
+
+[PAGE 22]
+22
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+Respondent in its letter dated 19.11.2018 addressed
+to the Hon’ble Minister of Agriculture, the examination
+was
+conducted
+successfully.
+In
+view
+of
+the
+abovementioned, we see no plausible contention raised
+by the Respondent which requires any further
+investigation with respect to the deletion of CCTV
+Footage.”
+
+17.
+The Adjudicating Authority was not to enter into dispute which has
+arisen out of the Facility Agreement between the parties and to examine the
+dispute on merits. Limited jurisdiction of the Adjudicating Authority was to find
+out as to whether the dispute raised by the Corporate Debtor is not a
+moonshine dispute and unsupported by relevant evidence. The legislative
+scheme is that Section 9 cannot be invoked by Operational Creditor when there
+is a dispute between the parties since Section 9 was not a proceeding for
+determining the contractual dispute between the parties and is not a forum to
+decide the liabilities under a contract between the parties. Demand notice in
+the present case was issued on 03.12.2019 and there was sufficient material
+on the record to indicate that there was pre-existing dispute between the
+parties in June 2018 itself.
+
+18.
+Insofar as reliance of the Adjudicating Authority on the letter/
+representation of the Corporate Debtor to the Minister of Agriculture,
+Government of India that it has successfully conducted the examination, the
+said was a stand taken by the Corporate Debtor before the Minister of
+Agriculture by filing a representation in relation to termination of contract by
+
+[PAGE 23]
+23
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+ICAR. The dispute between the ICAR and Corporate Debtor regarding
+termination of contract and any representation made by the Corporate Debtor
+to the Minister of Agriculture can have no bearing between pre-existing dispute
+between the Corporate Debtor and the Operational Creditor. Present is not a
+case where the Adjudicating Authority was required to look into any dispute
+between the Corporate Debtor and the ICAR and reliance on the representation
+made by the Corporate Debtor to the Minister that examination was
+successfully conducted is wholly misplaced and irrelevant. The Adjudicating
+Authority further in paragraphs 20 and 21 referring to ledger account of the
+Corporate Debtor stated that there are admitted balance of Rs.4,04,260/-
+which is being more than threshold, Section 9 application has to be admitted.
+
+19.
+We have already held that there being pre-existing dispute, Section 9
+application deserves rejection and the ledger account of the Corporate Debtor
+showing balance of Rs.4,04,260/- was not relevant in the facts of the present
+case. More so, when there was dispute between the Operational Creditor and
+the Corporate Debtor with regard to invoices raised by the Operational Creditor
+which were refuted by notice of dispute given by Corporate Debtor.
+Adjudicating Authority was obliged to reject the application under Section
+9(5)(2)(d). The present is a case where notice of dispute has been received by
+the Operational Creditor and it is not the finding of the Adjudicating Authority
+that notice of dispute is a moonshine dispute and unsupported by evidence.
+The judgment of the Adjudicating Authority, thus, cannot be approved in view
+of the law laid down by the Hon’ble Supreme Court in paragraph 51 of the
+
+[PAGE 24]
+24
+
+Company Appeal (AT) (Insolvency) No.1353 of 2023
+
+“Mobilox Innovations Private Limited” (supra). We, thus, are satisfied that
+the Adjudicating Authority committed error in admitting Section 9 application
+filed by the Operational Creditor. The order impugned dated 18.09.2023 cannot
+be sustained. In result, the Appeal is allowed. Order dated 18.09.2023 passed
+by the Adjudicating Authority is set aside. Section 9 application being CP (IB)
+No.556 of 2020 is rejected.
+
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+New Delhi
+Anjali

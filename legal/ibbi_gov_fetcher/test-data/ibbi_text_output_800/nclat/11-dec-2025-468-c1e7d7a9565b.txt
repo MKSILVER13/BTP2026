@@ -1,0 +1,1393 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Ins) No. 1129 of 2022
+
+[Arising out of the Order dated 14.07.2022, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Kolkata Bench, Kolkata), in I.A No. 600/KB/202l in C.P (IB)
+No. 1198/KB/2018]
+
+IN THE MATTER OF:
+
+1.
+
+Rana Sarkar
+183, Rajdanga, Main Road
+Kolkata – 700 107
+West Bengal
+
+...Appellant
+Versus
+
+1.
+Mr. Bimal Agarwal,
+Resolution Professional of Dagcon (India)
+Private Limited,
+AAA Insolvency Professionals LLP,
+AVB & Associates, P-2 New CIT Road,
+3rd Floor, Room No. 302,
+Kolkata – 700 073, West Bengal
+
+...Respondent No. 1
+2.
+Mr. Arunendu Sarkar,
+9/65, Jagatipota,
+Kolkata – 700 152,
+West Bengal
+
+...Respondent No. 2
+3.
+Mrs. Snigdha Sarkar,
+Kandi, Dangapara,
+Murshidabad – 742 137,
+West Bengal
+
+...Respondent No. 3
+4.
+DAG Creative Media Pvt. Ltd.,
+143A, Rasbehari Avenue,
+Kolkata – 700 029
+West Bengal
+
+...Respondent No. 4
+
+Present:
+
+For Appellant
+:
+Mr. Gaurav Mitra, Ms. Niharika Sharma, Ms.
+Lavanya, Advocates.
+For Respondent
+:
+Mr. Amar Vivek, Mr. Aditya Gauri, Mr. Anant Jain
+& Ms. Damini Srestha & Mr. Aryan Chhabra,
+Advocates for RP.
+
+[PAGE 2]
+Company Appeal (AT) (Ins) No. 1129 of 2022 2 of36
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Justice Mohd. Faiz Alam Khan, Member (Judicial)]
+
+The instant appeal has been preferred by the appellant under Section
+61 of the Insolvency and Bankruptcy Code, 2016 (Code) against the
+impugned order date 14.07.2022 passed by Ld. National Company Law
+Tribunal, Kolkata Bench in CP (IB) No. 1198/KB/2018 whereby the IA
+bearing No. 600/KB/2021 was moved under Section 66 of the Code was
+allowed and the appellant was directed to deposit a sum of Rs. 1,00,700/-
+(One lakh seven hundred only) and sum of Rs. 10,54,00,000/- (Ten crores
+fifty-four lakhs only) jointly with other directors of the corporate debtor (CD)
+with a consequential interest of 8% p.a. within one month of the date of
+passing of the order.
+2.
+We find from the record that in fact 4 appeals were filed by the
+appellant as well as other Directors of the CD. CA (AT) (Ins) No. 1129 of
+2022 is the instant appeal filed by one of the Director of the CD, namely
+Rana Sarkar, CA (AT) (Ins) No. 1130 of 2022 was filed by the Respondent
+No. 4 of the instant appeal namely, DAG Creative Media Pvt. Ltd. and the
+CA (AT) (Ins) No. 1145 of 2022 was filed by Mr. Arunendu Sarkar who has
+been arrayed as Respondent no. 2 in the instant appeal and who is reported
+to have died. Another appeal, CA (AT) (Ins) no. 1146 of 2022, was filed by
+Mrs. Snighda Sarkar who has been arrayed as Respondent No. 3 in the
+instant appeal.
+3.
+The record would further reveal that all aforesaid appeals including
+the instant appeal were connected and were being listed together and the
+fact of the death of Respondent No. 2, Arunendu Sarkar was brought to the
+
+[PAGE 3]
+Company Appeal (AT) (Ins) No. 1129 of 2022 3 of36
+
+knowledge of this appellate tribunal on which notices were issued to the
+legal representative of the Respondent no. 2 Arunendu Sarkar (deceased) in
+the appeal filed by him and they were served, as has been recorded in the
+order sheet of this appeal of date 28.08.2024 and noticing their absence this
+appellate tribunal had directed to proceed against them ex-parte in
+connected appeal no. 1130 of 2022. Thus, the LR’s of the Respondent No. 2
+even after having full knowledge of the pendency of the instant appeal as
+well as the connected appeals chose not to appear/ contest this appeal. The
+Respondent No. 3 and 4 namely, Mrs. Snigdha Sarkar and DAG Creative
+Media Pvt. Ltd. have also filed appeals, as stated herein before and they did
+not appear in this appeal as well as in the appeals filed by them and on this
+score the appeals filed by them were dismissed for non-prosecution. Thus,
+the Respondent No. 3 and 4 have also chosen to remain absent and in this
+scenario we have heard Ld. Counsel for the appellant and Ld. Counsel for
+the Resolution Professional i.e. Respondent No. 1.
+4.
+Brief factual matrix of this appeal appears to be that the CIRP of the
+CD had commenced vide order dated 20.11.2019, passed in CP (IB) No.
+1198/KB/2018 and Respondent No. 1 was appointed as the Interim
+Resolution Professional (IRP) and in the first CoC meeting he was also
+confirmed as the RP of the CD, which was also confirmed by Ld. Tribunal
+vide its order dated 02.01.2020.
+5.
+The Respondent No. 1 has alleged non-cooperation by the Suspended
+Directors of the CD and a direction in this regard was issued by Ld. Tribunal
+in pursuance of an application filed by the RP under Section 19 (2) of the
+Code, wherein, it was alleged that documents and possession of the assets
+
+[PAGE 4]
+Company Appeal (AT) (Ins) No. 1129 of 2022 4 of36
+
+has not been handed over by the Suspended Directors of the CD to the RP
+and also that they are not cooperating with him.
+6.
+It is also alleged by the RP that this matter was brought by the
+appellant before this appellate tribunal also by filing an appeal and this
+appellate tribunal vide its order dated 04.02.2020, passed in CA (AT) (Ins)
+No. 211 of 2020 Rana Sarkar vs. Asset Reconstruction Company (India) Ltd.
+and Anr. directing the Suspended Management of the CD, to hand over the
+assets and records of the CD immediately to the RP.
+7.
+The RP stated to have collected details of various bank accounts of the
+CD and smelling foul transactions therein appointed Neha B Agarwal and
+Company as the transaction auditor to conduct the transaction audit of CD
+and upon receiving the transaction audit report, wherein certain
+transactions are held to be doubtful and fraudulent, moved an application
+before Ld. Tribunal under Section 66, 67 of the IBC, which has been allowed
+by Ld. Tribunal by passing the impugned order, which is the subject matter
+of this appeal , which has been preferred by the appellant-Rana Sarkar
+(Suspended Director of the CD).
+8.
+Ld. Counsel for the appellant, while drawing our attention towards the
+impugned judgment, submits that Ld. Tribunal has passed the impugned
+judgment without application of judicial mind and without appreciating the
+facts and material placed on record in right perspective, has endorsed the
+view taken by the RP which was based only on the bank accounts of the CD
+and the report of the transaction auditor, without independently analysing
+the evidentiary value of the same.
+
+[PAGE 5]
+Company Appeal (AT) (Ins) No. 1129 of 2022 5 of36
+
+9.
+It is vehemently submitted that Ld. Tribunal has failed to fulfil its
+duty, of application of judicial mind, pertaining to the impugned
+transactions in order to assess, so far as the appellant is concerned, as to
+whether they actually fall under the preview of Section 66, by holding that it
+cannot sit in an appeal against the opinion formed by the RP.
+10.
+It is submitted that it was incumbent upon Ld. Tribunal to
+independently scrutinize and analyse the impugned transactions, before
+labelling these transactions as fraudulent. However, Ld. Tribunal has
+miserably failed to perform its duty.
+11.
+It is further submitted that Ld. Tribunal has also failed to assess as to
+whether the ingredients and requirements of Section 66 are satisfied in the
+instant case and also failed to note that the transaction audit report was
+prepared solely on the basis of the bank statements while no financial
+statement of the CD was available post financial year 2011-2012.
+12.
+It is further submitted that Ld. Tribunal has not considered and
+appreciated the explanation tendered by the appellant and other
+Respondents and therefore the findings arrived at by Ld. Tribunal cannot be
+deemed conclusive or determinative. There is no application of mind of the
+tribunal with regard to the fact as to whether the impugned transactions are
+fraudulent or wrongful while the main ingredient of Section 66 of the Code is
+the establishment of the intent to defraud creditors or to carry on business
+for fraudulent or wrongful purpose, which was completely lacking in this
+case.
+13.
+It is also submitted that Ld. Tribunal has failed to appreciate that
+appellant was neither in the management of the day to day affairs of the CD
+
+[PAGE 6]
+Company Appeal (AT) (Ins) No. 1129 of 2022 6 of36
+
+nor was the signatory to any of the bank account of the CD at the time of
+happening of these transactions which was also evident by the averments
+made in the appeal filed by the Managing Director of the CD namely,
+Arunendu Sarkar, who has died during the pendency of his appeal and his
+appeal was never pursued by his legal heirs and has been dismissed for
+non-prosecution.
+14.
+It is also submitted that so far as the cash withdrawal of Rs. 693
+lakhs, Rs. 203 lakhs, 60 lakhs, Rs. 9 lakhs and Rs. 89 lakhs alleged to have
+been withdrawn as cash in the year 2011-2012, 2012-2013, 2013-2014,
+2014-2015 and 2015-2016 are concerned, it is explained that appellant had
+resigned from the company on 27.05.2016, however his resignation was not
+accepted by the Board of Directors on account of appellant’s personal
+guarantee which was given to the institutional creditors, however, the then
+Director of the CD namely, Arunendu Sarkar (deceased) was primarily in
+charge of the affairs of the CD and he has already admitted so, in his appeal
+i.e. CA (AT) (Ins) No. 1145 of 2022 and thus it was clear that appellant was
+not in charge of the affairs of the CD. The appellant was also not a signatory
+to any of the accounts of the CD and it has also not been alleged by the
+Respondent No. 1. However, even when these aspects were brought in the
+knowledge of Ld. Tribunal, these have not been considered in right
+perspective and the findings have been based against the appellant, only on
+the transactional audit report which was based only on the bank accounts
+of the CD.
+15.
+It is further submitted that so far as payment received by the
+appellant and the deceased Arunendu Sarakar of Rs. 9 lakhs is concerned
+
+[PAGE 7]
+Company Appeal (AT) (Ins) No. 1129 of 2022 7 of36
+
+the same is the Directors remuneration and this has been completely
+ignored by the RP as well as by Ld. Tribunal.
+16.
+It is further submitted that the having regard to the nature of
+business of the CD, cash withdrawals were made for being used for labour,
+site expenses and mess bill and in fact he had spent a huge money, from his
+own pocket, pertaining to various litigations, in which the CD was involved
+and this amount was never paid to him.
+17.
+Ld. Counsel for the appellant in support of his submissions has relied
+on following case laws:
+a.Piramal Capital and Housing Finance Ltd.(Formerly known as Dewan
+Housing Finance Corporation Ltd.) vs. 63 moons Technologies Ltd. [Civil
+Appeal Nos. 1632-1634 of 2022 dated 01.04.2025]
+b.Atlanti Spinning and Weaving Mills Ltd. vs. Dolly Investment Company
+Pvt. Ltd. [Civil Appeal No. 7420 of 2023 dated 07.08.2025]
+c.Renuka Devi Rangaswamy vs. MR. Madhusudan Khemka [CA (AT) (CH)
+(Ins) No. 356 of 2022]
+d.Mr. Shibu job Cheeran & Ors. vs. Mr. Ashok Velamur Seshadri [CA (AT)
+(CH) (Ins) No. 350 of 2021]
+e. Ramakrishna Forgings Ltd. vs. Ravindra Loonkar [Civil Appeal No. 1527
+of 2022]
+f. Mr. Nalinesh Kumar Paurush vs. Mr. Arvind Mittal [CA (AT) (Ins) No. 346
+of 2024]
+g. Swapan Kumar Saha vs. Ashok Kumar Agarwal [CA (AT) (Ins) No. 2355 of
+2024].
+
+[PAGE 8]
+Company Appeal (AT) (Ins) No. 1129 of 2022 8 of36
+
+Ld. Counsel for the appellant has relied on law propounded by Hon’ble
+Supreme Court in Civil Appeal No. 1527/2022 RamKrishan Forgings Ltd. vs.
+Ravindra Loonkar, RP of ACIL Ltd., decided on 21.11.2023 in the context
+that the Resolution Plan has already been approved and therefore there was
+no occasion for the Ld. Tribunal to have considered the recovery as directed.
+18.
+Ld. Counsel for the Respondent No. 1/RP submits that there is no
+error or infirmity so far as the impugned judgment is concerned as after
+assuming the charge of the IRP, after initiation of CIRP on 20.11.2019, he
+filed an application under Section 19 (2) of the Code and vide order dated
+02.01.2020, passed therein, directions were given to the Suspended
+Directors of the Corporate debtor to handover the books of accounts and
+other relevant information to the RP. Moreover, this appellate tribunal has
+also directed the Suspended Directors to hand over assets and records of the
+CD, however, they remained absolutely non-cooperative, through out.
+19.
+It is further submitted that in these circumstances the RP engaged a
+transaction auditor i.e. Neha B Agarwal and Company on 18.02.2021 to
+examine the CD’s bank record and financial transactions as the CD’s books
+of accounts were not provided by the Suspended Management including the
+appellant and it was in the auditor’s report, certain evidence had surfaced
+on the basis of which an opinion was formed by the RP and he filed an
+application under Section 66 and 67 of the IBC before tribunal.
+20.
+It is vehemently submitted that RP found massive cash withdrawals
+aggregating to Rs. 10.54 Crores between financial year 2011-2012 to 2015-
+2016, and no acceptable explanation with regard to these huge cash
+withdrawals was given and it was stated that these cash withdrawals were
+
+[PAGE 9]
+Company Appeal (AT) (Ins) No. 1129 of 2022 9 of36
+
+used for labour, site expenses, mess bills, however no supporting
+documentation was provided and in absence of any voucher or project
+record such explanation are untenable.
+21.
+While highlighting transaction of withdrawal of cash of Rs.
+6,92,77,265/- against realisation of Rs. 8,06,90,064/- on 20.11.2012, Cash
+withdrawal of Rs. 203 lakhs in financial year 2012-2013, cash withdrawal of
+Rs. 59,57,500/- against realisation of Rs. 35,096,271/- in financial year
+2013-2014, Cash withdrawal of Rs. 886,500/- against realisation of Rs.
+12,987,038/- in financial year 2014-2015 and finally Cash withdrawal of
+Rs. 8,993,000/- against realisation of Rs. 1,366,349/- in the financial year
+2015-2016, it is submitted that in these years’ total cash withdrawal of Rs.
+10.54 Crores have been made and this pattern of substantial debt recovery
+followed by unjustified cash withdrawal establishes a clear diversion of
+funds from the CD and thus it is evident that Suspended Directors have
+siphoned of significant money for the benefit of themselves and related
+parties, to defraud the secured financial creditors.
+22.
+It is further submitted that the CD’s bank accounts revealed refund of
+Rs. 79.70 lakhs to (i) DAG Creative Media Pvt. Ltd. (Rs. 15.20 lakhs) (ii)
+Gour Gopal Sarkar (Rs. 1.007 lakhs) (iii) Singdha Sarkar (Rs. 63.50 lakhs,
+on the pretext of repayments of unsecured loans or consultancy fees,
+however no supporting document was provided and it is to be noticed that
+Gour Gopal Sarkar aforesaid is the father of the Suspended Director Rana
+Sarkar (Appellant) who has received money on the pretext of receiving
+consultancy payment and Snigdha Sarkar is the wife of deceased Suspended
+Director Arunendu Sarkar and it was also established that Suspended
+
+[PAGE 10]
+Company Appeal (AT) (Ins) No. 1129 of 2022 10 of36
+
+Director Rana Sarkar was also a Director of DAG Creative Media Pvt. Ltd.,
+during the relevant time and thus the questionable payments were made to
+the related parties and absence of any documentations fortifies that by
+showing these transactions the money of the CD has been siphoned out of
+reach of the creditors of the CD
+23.
+It is further submitted that so much so Rs. 43.42 lakhs are shown to
+have been paid to Suspended Directors (Rs. 16.86 lakhs to Arbinda Sarkar
+and Rs. 26.56 lakhs to Arunendu Sarkar) in the name of reimbursement
+and advances for supplier payments, however ledger reconciliation shows
+that Arunendu Sarkar paid Rs. 56,57,000/- into the company's HDFC
+account and received Rs. 83,12,800/- resulting in an excess payment of Rs.
+26,55,800/- and therefore, the supplier payments have been routed through
+a Directors personal account instead of CD’s bank account which is a clear
+indication of diversion of funds outside the company’s system and non-
+compliance of ROC filings, which have been made only upto 2011 fortifies
+the ill intention of diversion of funds out of CD by appellant and other
+directors.
+24.
+It is vehemently submitted that intention of the appellant to defraud
+the creditors of the CD is evident on record by these transactions and
+therefore all the ingredients of Section 66 IBC are attracted and thus no
+illegality has been committed by Ld. Tribunal in passing the impugned
+order.
+
+[PAGE 11]
+Company Appeal (AT) (Ins) No. 1129 of 2022 11 of36
+
+25.
+Ld. Counsel for the Respondent No. 1 has placed reliance on following
+case laws:
+(i)Swapan Kumar Saha vs. Ashok Kumar Agarwal, RP of PKS Ltd. CA (AT)
+(Ins) No. 2355 of 2024, decided on 06.11.2025.
+(ii)Aditya Kumar Tibrewal, Resolution Professional, M/s Sri Balaji Forest
+Products Pvt. Ltd. vs. Om Prakash Pandey, CA (AT) (Ins) No. 583 of 2021.
+(iii)State Bank of India vs. Dommeti Surya Rama Krishna Saibaba,
+Liquidator of Kumar Aquatech Agencies Pvt. Ltd., CA (AT) (CH) (Ins) No. 461
+of 2023.
+26.
+Having heard Ld. Counsel for the parties and having perused the
+record it is reflected that after being appointed as IRP in pursuance of order
+dated 20.11.2019, whereby the CIRP was initiated against the CD, the IRP
+complained of non-cooperation from Suspended Board of management of
+the CD, including the appellant and in this regard he filed an application
+before Ld. Tribunal under Section 19 (2) of the Code where on certain
+directions were given by Ld. Tribunal to the Directors of the CD.
+27.
+It is also evident that this appellate tribunal also in CA (AT) (Ins) No.
+211 of 2020 vide its order dated 04.02.2020, has directed the Suspended
+Management of the CD to hand over the assets and records of the CD,
+immediately.
+28.
+It is also reflected that the RP collected bank statements of about 20
+different banks accounts pertaining to the CD and on the basis of these
+documents formed an opinion that these transactions are doubtful and in
+this regard Neha B Agarwal and Company was appointed by him as
+transaction auditor to conduct the transaction audit of the CD and upon
+
+[PAGE 12]
+Company Appeal (AT) (Ins) No. 1129 of 2022 12 of36
+
+receiving of the audit report the RP formed an opinion that there are certain
+fraudulent transactions and he moved an application bearing IA No.
+600/KB/2021.
+29.
+The record further reveals that aforesaid IA bearing No. 600/KB/2021
+was moved by the Respondent No. 1/RP of the CD under Section 66 and 67
+of the IBC with following prayers:
+“a. As this Tribunal may be pleased to allow this instant
+application and condone the delay in filing the said
+application due to non-co-operation by the Suspended
+Directors
+and
+hardships
+faced
+to
+gather
+relevant
+document/information
+to
+determine
+the
+doubtful
+transaction carried out in the name of the Corporate
+Debtor;
+
+b. To direct Respondent No. 1 & 2 to make deposit of Rs.
+10,54,00,000/- reported to have been withdrawn in cash
+in the account of the Corporate Debtor being A/C No.
+01900202148899 maintained with UCO Bank;
+
+c. To direct Respondent No. 3 to make deposit of Rs.
+15,20,000/-
+reported
+to
+have
+been
+fraudulently
+transferred to DAG Creative Media Pvt. Ltd. in the account
+of the Corporate Debtor being A/C No. 01900202148899
+maintained with UCO Bank;
+
+d. To direct Respondent No. 2 to make deposit of Rs.
+1,00,700/- reported to have bene fraudulently transferred
+to Gour Gopal Sarkar, father of Rana Sarkar in the account
+of the Corporate Debtor being A/C No. 01900202148899
+maintained with UCO Bank;
+
+e. To direct Respondent No. 4 to make deposit of Rs.
+63,50,000/-
+reported
+to
+have
+been
+fraudulently
+transferred to Snigdha Sarkar, wife of Late Arabinda
+Sarkar in the account of the Corporate Debtor being A/C
+No. 01900202148899 maintained with UCO bank;
+
+f. To direct Respondent No. 1 to make deposit of Rs.
+26,56,000/-
+reported
+to
+have
+been
+fraudulently
+transferred to Arunendu Sarkar in the account of the
+Corporate
+Debtor
+being
+A/C
+No.
+01900202148899
+maintained with UCO Banks”.
+
+[PAGE 13]
+Company Appeal (AT) (Ins) No. 1129 of 2022 13 of36
+
+30.
+Perusal of the application moved by the RP before the Ld. Tribunal
+would further reveal that following transaction of huge cash withdrawals, in
+the opinion of the RP, were fraudulent.
+
+Sl. No. Financial Year
+Amount of Withdrawal (in lakhs)
+1.
+2011-12
+693.00
+2.
+2012-13
+203.00
+3.
+2013-14
+60.00
+4.
+2014-15
+09.00
+5.
+2015-16
+89.00
+Total
+1054.00
+
+31.
+Apart from the aforesaid transaction the RP was also of the view that
+Rs. 15.20 lakhs was refunded to DAG Creative Media Pvt. Ltd. (DCMPL) as
+unsecured loan however the payment which was received from the DCMPL
+was Rs. 52,60,000/- and payment from the account of the CD to DCMPL
+was Rs. 67,80,000/- thus Rs. 15,20,000/- is stated to be paid in excess to
+the amount received from such creditor. It is to be recalled that appellant is
+stated to be a Director of the DCMPL also at the relevant time.
+32.
+It is also pertinent to mention here that on the basis of the ROC
+records of DCMPL the appellant resigned from this company on 27.05.2016
+while the CIRP of the CD was initiated in the year 2019. Likewise, Rs.
+63,50,000/- shown to be taken as unsecured loan from Snigdha Sarkar
+which is shown to be refunded in full in the year 2012 and Snigdha Sarkar
+is shown to be the wife of another Suspended Director namely Arbinda
+Sarkar and thus is a related party to the CD and this transaction has been
+labelled as fraudulent.
+
+[PAGE 14]
+Company Appeal (AT) (Ins) No. 1129 of 2022 14 of36
+
+33.
+Similarly, it is also to be recalled that payment of Rs. 26.56 lakhs
+which was shown to have been made to Arunendu Sarkar as reimbursement
+of different expenses is also labelled as fraudulent on account of the fact
+that payment of Rs. 56,57,000/- was taken to the HDFC account of the CD
+and a payment of Rs. 83,12,800/- was received from the said account
+pertaining to which a defence has been taken that this amount i.e. Rs.
+26,55,800/- was paid as an advance to the suppliers however no document
+is stated to have been provided with regard to this transaction and likewise
+Rs. 16.86 lakhs were shown to be given to Mr. Arbinda Sarkar as an
+advance and this amount could not be realised as Mr. Arbinda Sarkar has
+died.
+34.
+The report of the transaction auditor who has conducted the report of
+the transaction audit report of date 07.06.2021, was also placed before Ld.
+Tribunal and is also placed on record of this appeal and at page No. 133 to
+136 of the said report certain transactions which have been found
+fraudulent has been highlighted which is also been placed as under:
+“D. Fraudulent Transactions
+66. (1) If during the corporate insolvency resolution process
+or a liquidation process, it is found that any business of
+the corporate debtor has been carried on with intent to
+defraud creditors of the corporate debtor or for any
+fraudulent purpose, the Adjudicating Authority may on the
+application of the resolution professional pass an order
+that any person who were knowingly parties to the
+carrying on of the business in such manner shall be
+liable to make such contributions to the assets of the
+corporate debtor as it may deem fit.
+(2) On an application made by a resolution professional
+during the corporate insolvency resolution process, the
+Adjudicating Authority may by an order direct that a
+director or partner of the corporate debtor, as the case may
+be shall be liable to make such contribution to the assets of
+the corporate debtor as it may deem fit, if -
+
+[PAGE 15]
+Company Appeal (AT) (Ins) No. 1129 of 2022 15 of36
+
+(a) before the insolvency commencement date, such
+director or partner knew or ought to have known that the
+there was no reasonable prospect of avoiding the
+commencement of a corporate insolvency resolution
+process in respect of such corporate debtor, and
+(b) such director or partner did not exercise due diligence in
+minimizing the potential loss to the creditors of the
+corporate debtor.
+2[(3) Notwithstanding anything contained in this section,
+no application shall be filed by a resolution professional
+under sub-section (2), in respect of such default against
+which initiation of corporate insolvency resolution process
+is suspended as per section 10A.]
+Explanation. -For the purposes of this section a director
+or partner of the corporate debtor, as the case may be,
+shall be deemed to have exercised due diligence if such
+diligence was reasonably expected of a person carrying
+out the same functions as are carried out by such director
+or partner, as the case may be, in relation to the corporate
+debtor.
+RBI by Mater Direction RBI Master Direction on Frauds-
+Classification and reporting by Commercial Banks and
+select FIs, DBS.CO.CFMC. BC.No.1/23.04.001/2016-17,
+classifies Fraud as
+In order to have uniformity in reporting, frauds have been
+classified as under, based mainly on the provisions of the
+Indian Penal Code:
+a. Misappropriation and criminal breach of trust.
+b. Fraudulent encashment through forged instruments,
+manipulation of books of account or through fictitious
+accounts and conversion of property.
+c. Unauthorised credit facilities extended for reward or for
+illegal gratification.
+d. Cash shortages.
+e. Cheating and forgery.
+f. Fraudulent transactions involving foreign exchange
+
+Any other type of fraud not coming under the specific
+heads as above
+
+[PAGE 16]
+Company Appeal (AT) (Ins) No. 1129 of 2022 16 of36
+
+Our Observation: It is observed that a huge amount of cash is withdrawn from
+and certain payments are made to related parties and Directors; for which no
+clarifications has been provided by any of the suspended board of Directors of
+the Corporate Debtor despite repeated malls and follow ups. These unusual
+series of withdrawals and lack of clarifications relating to certain payments
+made to related parties & directors creates a doubt with respect to the nature
+of transactions. Hence in the absence of any clarification, we believe this to be
+fraudulent in nature. Summary of all such transactions are mentioned below:
+Sl. No.
+Financial Year
+Amount of Withdrawal (Figure in
+Lacs)
+1.
+2011-212
+693.00 (Annexure:1)
+2.
+2012-2013
+203.00 (Annexure2)
+3.
+2013-2014
+60.00 (Annexure:3)
+4.
+2014-2015
+09.00 (Annexure:4)
+5.
+2015-2016
+89.00 (Annexure:5)
+6.
+Total
+1054.00
+
+2. Unexplained Related Party Transaction:
+Sl. No.
+Related Party
+Amount (Figure in Lacs)
+1.
+DAG Creative Media Pvt. Ltd.
+15.20 Lacs (Annexure:6)
+2.
+Gour Gopal Sarkar
+1.007 Lacs (Annexure:7)
+3.
+Snigdha Sarkar
+63.50 Lacs (Annexure: 8)
+
+3. Unexplained Payments to Directors:
+Sl. No.
+Payments to Directors
+Amount (Figure in Lacs)
+1.
+Advance to Arabinda Sarkar
+16.86 Lacs (Annexure:9)
+2.
+Advance to Arunendu Sarkar
+26.56 Lacs (Annexure:10)
+3.
+Advance to Rana Sarkar &
+Arunendu Sarkar
+09.00 Lacs (Annexure: 11)
+4.
+LIC Payment
+18.05 Lacs (Annexure: 12)
+5.
+Mediclaim Payment
+01.64 Lacs (Annexure:13)
+
+4. Payments received from Allottee:
+Sl. No.
+Payments to allottee
+Amount (Figure in Lacs)
+1.
+Received
+from
+Pradip
+Kr.
+Chaudhuri
+180.00 Lacs (Annexure:14)
+2.
+Received from B.C.Sen
+231.70 Lacs (Annexure:14)
+3.
+Remico enterprise
+21.00 Lacs (Annexure: 14)
+
+[PAGE 17]
+Company Appeal (AT) (Ins) No. 1129 of 2022 17 of36
+
+35.
+It is on the basis of aforesaid material, Ld. Tribunal found these
+transactions as fraudulent and passed the order impugned herein. The
+relevant part of the order of the Ld. Tribunal is also reproduced as under:
+“5. We have heard the Ld. Counsel for the parties and
+perused the record. After consideration of the contentions
+of the parties and the record produced before along with
+the pleadings, we find that:
+A.At page 66 i.e., part of transaction audit report a
+methodology of audit for conducting the transaction audit
+of corporate debtor was formulated. One of the important
+features of this methodology included decides analysing
+the documents and discussions with the Resolution
+Professional.
+B.From the averments contained in the application we find
+that opinion of Resolution Professional while filing the
+instant application is not based merely on the report of the
+transaction audit as contended by the respondents. It was
+only after the satisfaction of the Resolution Professional it
+was thought appropriate to appoint the transactional
+auditor to determine the transactions more closely and in
+detail.
+Contentions of the applicant as noted and summarized
+herein above which are supported by the record referred
+hereinabove, we find that the opinion of Resolution
+
+[PAGE 18]
+Company Appeal (AT) (Ins) No. 1129 of 2022 18 of36
+
+Professional (RP) has been arrived at and in the manner as
+per the law laid down in the above referred case.
+The opinion of Resolution Professional has been formed on
+the basis of the transactions noted individually from page
+15 to 28 and supported by various documents in the form
+of Annexure-A3 to A18. There has been an independent
+exercise conducted by the Resolution Professional and this
+evident from the averments contained in these paragraphs.
+C.Further as noted above in summary of arguments, there
+has been a detailed consideration on various aspects by
+the Resolution Professional while forming his opinion with
+respect to these transactions as fraudulent and after
+affording respondents sufficient opportunity to put forward
+their case. This is evident from number of E mails referred
+by RP in this application and noted above.
+D.In view of the above, we find the plea of the respondents
+that the Resolution Professional did not form his
+independent
+opinion
+and
+merely
+relied
+upon
+the
+transaction report is explicitly incorrect and is therefore
+rejected.
+E. We also may like to add here, this appellate authority
+does not sit in appeal over the opinion formed by the
+Resolution Professional. This adjudicating authority is only
+required to see there has bene a due compliance of the
+provisions of law and in the present case we find
+
+[PAGE 19]
+Company Appeal (AT) (Ins) No. 1129 of 2022 19 of36
+
+Resolution Professional has complied with the provisions of
+law and the parameters laid down by the Hon’ble
+Supreme Court in above referred judgment while forming
+his opinion the transactions to be fraudulent”.
+6.For the foregoing reasons, this application is allowed as
+the transactions referred in application by RP are found to
+be fraudulent in terms of Section 66 of the Code and as a
+consequence of which respondents 1 to 4 are directed to
+deposit amounts as asked for in prayer part of the
+application and referred herein above along with interest
+@8% per annum within one month from today, i.e. the date
+of pronouncement of the order. IA stands disposed of.
+7. Certified copy of this order may be issued, if applied for,
+upon compliance of all requisite formalities”.
+36.
+Section 66 of the Code for convenience is reproduced as under:
+Section 66: Fraudulent trading or wrongful trading.
+(1) If during the corporate insolvency resolution process or
+a liquidation process, it is found that any business of the
+corporate debtor has been carried on with intent to
+defraud creditors of the corporate debtor or for any
+fraudulent purpose, the Adjudicating Authority may on the
+application of the resolution professional pass an order
+that any persons who were knowingly parties to the
+carrying on of the business in such manner shall be liable
+to make such contributions to the assets of the corporate
+debtor as it may deem fit.
+
+(2) On an application made by a resolution professional
+during the corporate insolvency resolution process, the
+Adjudicating Authority may by an order direct that a
+director or partner of the corporate debtor, as the case may
+be, shall be liable to make such contribution to the assets
+of the corporate debtor as it may deem fit, if—
+
+[PAGE 20]
+Company Appeal (AT) (Ins) No. 1129 of 2022 20 of36
+
+(a) before the insolvency commencement date, such
+director or partner knew or ought to have known that there
+was
+no
+reasonable
+prospect
+of
+avoiding
+the
+commencement of a corporate insolvency resolution
+process in respect of such corporate debtor; and
+(b) such director or partner did not exercise due diligence in
+minimising the potential loss to the creditors of the
+corporate debtor.
+Explanation. —For the purposes of this section a director
+or partner of the corporate debtor, as the case may be,
+shall be deemed to have exercised due diligence if such
+diligence was reasonably expected of a person carrying
+out the same functions as are carried out by such director
+or partner, as the case may be, in relation to the corporate
+debtor.
+
+37.
+In Renuka Devi Rangaswamy v. Mr. Madhusudan Khemka
+Suspended Director of M/s. Regen Infrastructure and Services Pvt. Ltd.
+[Company Appeal (AT)(CH)(Ins) No. 356 of 2022], relied on by appellant, this
+appellate tribunal held in paragraph No.37 as under; -
+"37 `Dishonesty’, is an essential ingredient of `Fraudulent
+Trading’. The `Aspect of Dishonesty’, is to be established
+and it cannot be inferred in any manner. Whether a
+`Director’, had exercised his skill, experience and general
+knowledge, to be expected of a person, in carrying out the
+`duties of his functions’, is to be determined for a
+`Liability’, in the considered opinion of this `Tribunal’."
+
+38.
+Reliance has also been placed by Ld. Counsel for the appellant on
+paragraph 60 of Piramal Capital and Housing Finance Limited v. Moons
+Technologies Ltd. & Ors. [2025 SCC Online SC 690], relevant paragraphs
+of the same are reproduced as under:
+
+[PAGE 21]
+Company Appeal (AT) (Ins) No. 1129 of 2022 21 of36
+
+60. However, in cases of “Fraudulent or Wrongful trading”
+in respect of the business of the CD as contemplated Civil
+Appeal Nos. 1632-1634 of 2022 Page 94 of 145 in Section
+66, the properties and the persons involved may or may
+not be ascertainable and therefore the Adjudicating
+Authority is not empowered to pass orders to avoid or set
+aside such transactions, but is empowered to pass orders
+to the effect that any persons, who were knowingly parties
+to the carrying on of business in such manner, shall be
+liable to make such contributions to the assets of the CD,
+as it may deem fit. The Adjudicating Authority in such
+applications may also direct that the Director of the CD
+shall be liable to make such contribution to the assets of
+the CD as it may deem fit, as contemplated in Section
+66(2). In case of Fraudulent trading or Wrongful trading, it
+would be a matter of inquiry to be made by the
+Adjudicating Authority as to whether the business of CD
+was carried on with intent to defraud creditors of the CD or
+was carried on for any fraudulent purpose.
+
+61. In view of the above, the Applications filed in respect of
+“Fraudulent and Wrongful trading” carried on by the CD,
+could not be termed as “Avoidance Applications” used for
+the Applications filed under Sections 43, 45 and 50 to
+avoid or set aside the Preferential, Undervalued or
+Extortionate Civil Appeal Nos. 1632-1634 of 2022 Page 95
+of 145 transactions, as the case may be. There is clear
+demarcation of powers of the Adjudicating Authority to
+pass orders in the Avoidance Applications filed by the
+Resolution Professional under Section 43, 45 and 50
+falling under Chapter III and the Applications filed by the
+Resolution Professional in respect of the Fraudulent and
+Wrongful trading of CD, under Section 66 falling under
+Chapter VI of the IBC. If the Resolution Professional has
+filed common applications under Sections 43, 45, 50 and
+also under Section 66, the Adjudicating Authority shall
+have to distinguish the same and decide as to which
+provision would be attracted to which of the Applications,
+and then shall exercise the powers and pass the orders in
+terms of the provisions of IBC."
+
+39.
+In the case of Mr. Nalinesh Kumar Paurush & Ors. v. Mr. Arvind
+Mittal Resolution Professional of Temple Leasing and Finance Limited
+[Company Appeal (AT) (Insolvency) No. 346 of 2024 & IA No. 6783 of 2024]
+this appellate tribunal set aside order of the NCLT directing appellants to
+
+[PAGE 22]
+Company Appeal (AT) (Ins) No. 1129 of 2022 22 of36
+
+contribute to the asset of the CD holding that "the transactional audit report
+which may not be termed as a conclusive piece of evidence, has arrived at an
+erroneous conclusion that impugned transactions made by the appellant at
+the relevant point of time were fraudulent without adverting to see the
+impugned transactions in the broad spectrum of commercial wisdom."
+40.
+The appellate tribunal again in Shibu Job Cheeran & Ors. v. Ashok
+Velamur Seshadri Liquidator of M/s. Archana Motors Ltd. (2023 SCC
+OnLine NCLAT 804), the case relied on by appellant held as under:
+"43. It is therefore clear that for establishing the fraudulent
+purpose, it must be shown that the Ex-Directors of the
+‘Corporate Debtor’ knew that the Company was insolvent
+but continued to run business with dishonest intentions.
+On a broader sense, concealment of true financial position
+of the ‘Corporate Debtor’ can also be covered under such
+provisions.
+
+44.This ‘Appellate Tribunal’, therefore, observes that the
+following elements need to be established for success of
+Section 66 Application, namely,
+(i) Business of the ‘Corporate Debtor’ has been carried out
+with an intent to defraud the creditors.
+(ii) Directors participated in carrying on business of the
+‘Corporate Debtor’ despite knowing likely insolvency of the
+‘Corporate Debtor’."
+
+41.
+This appellate tribunal in Swapan Kumar Saha v. Ashok Kumar
+Agarwal, (2025) ibclaw.in 911 NCLAT, while considering many cases,
+including those relied on by Ld. counsel for the appellants, held as under:
+
+[PAGE 23]
+Company Appeal (AT) (Ins) No. 1129 of 2022 23 of36
+
+“28......b. Can Section 66(1) of the Code be interpreted or
+invoked or made operational without recourse to Section
+66(2) of the Code? Do they operate independent of each
+other or jointly?”
+
+44.We further note that the next subsection 66(2) relates to
+specific provisions for a Director or partner of the CD for
+which CIRP is going on. This subsection provides that if
+before the insolvency commencement date, a director or
+partner knew or ought to have known that CIRP could not
+have been avoided and failed to exercise due diligence in
+minimising potential loss to the creditors, AA may direct
+the erring director or partner to be liable and make such
+contributions to the assets of the CD as it may deem fit.
+We observe that the first provision (section 66(1)) is very
+broad but not the second one (Section 66(2)) ......
+
+45. From a bare reading of Section 66(1) and Section 66(2)
+of the IBC we find that both have self-contained
+provisions, with clear mechanisms for their invocation
+during a CIRP. Further, a perfunctory glance at Section 67
+of the IBC will make it abundantly clear that the draftsmen
+and legislators clearly intended for Sec 66(1) and Section
+66(2) to operate independently, as the opening line of
+Section 67(1) and 67(2) of the IBC would reflect, ........"
+
+The crux of the above placed cases is that Section 66 of the IBC, 2016 deals
+with two different situations. Section 66(1) of IBC, 2016 deals with
+‘Fraudulent Trading’ and Section 66(2) of IBC, 2016 deals with ‘Wrongful
+Trading’. Section 66(1) of IBC, 2016 imposes liability on ‘any person’ who
+were knowingly parties to the carrying on the business with a dishonest
+intention to defraud the creditors, to make contribution to the assets of the
+Corporate Debtor. Therefore to qualify under Section 66(1) of IBC, 2016, the
+
+[PAGE 24]
+Company Appeal (AT) (Ins) No. 1129 of 2022 24 of36
+
+transaction should be knowingly transacted with a dishonest intention to
+defraud the creditors of the CD, while under Section 66(2) of IBC, 2016 ,
+which deals with ‘Wrongful Trading’, Liability can only be fixed upon only
+‘Director’ or ‘Partner’ and for a transaction to qualify under this Sub Section
+it must be shown that the parties to such transaction knew, or ought to
+have concluded that there was no reasonable prospect of avoiding insolvency
+proceedings and they did not take due diligence with a view to minimizing
+the potential loss to the creditors of the company. Thus both these sub
+sections of Section 66 of the Code takes care of two different situations and
+also the scope of sub - section (1) and (2) of Section 66 of IBC, 2016 is
+different. No need to say that the facts alleged and evidence produced must
+satisfy the ingredients of this section and the facts from which the intention
+to defraud may be deduced must be proved to satisfy the conscience of the
+‘Tribunal’ certainly on the scale of ‘preponderance of probability’. However,
+no strait jacket formula can be formulated to fit in all factual situations and
+it will depend on the facts and evidence placed in each case to asses as to
+whether the particular transaction may be treated as fraudulent or not. Thus
+we now proceed to appreciate the facts and circumstances of the present
+case on the touch stone of the law laid down in above mentioned cases.
+42.
+Ld. Counsel for the Respondent apart from relying on Swapan Kumar
+Saha (supra) has also relied on State Bank of India vs. Dommeti Surya
+Rama Krishna Saibaba & Ors. (COMPANY APPEAL (AT) (CH) (INS)
+NO.461/2023 (IA NO.1444/2023), wherein this appellate tribunal held as
+under: -
+
+[PAGE 25]
+Company Appeal (AT) (Ins) No. 1129 of 2022 25 of36
+
+"11. In the absence of such supporting documents and
+evidence, we are of the view that, the Forensic Auditors
+Report alone, in its present shape, cannot be extracted to
+be applied for the purposes of deciding an application
+under Section 66 of the I & B Code, 2016, for the purposes
+of determining the fraudulent act, as it was alleged therein
+in the application. The plea of the Appellant herein and the
+Resolution Professional before the learned Adjudicating
+Authority is that because of non-cooperation of Suspended
+management, supporting evidence could not be produced.
+In such a case, only criminal investigation can unearth the
+evidence and learned Adjudicating Authority in para 12 of
+the Impugned Order has rightly noted that the FC has filed
+a complaint with CBI, New Delhi on 16.07.2022."
+
+The facts of this case is to be appreciated in the background of above place
+dictum of law.
+43.
+We find that it is reflected from the record that the resolution
+professional since taking charge of the corporate debtor was complaining
+about the non-cooperation by the suspended directors of the corporate
+debtor, including the appellant. The resolution professional has also moved
+an application before the learned Tribunal under section 19(2) of the IBC
+and vide order dated 2nd January 2020 certain directions were given to the
+suspended Board of management of the corporate debtor to to cooperate
+with RP by handing over all books of accounts and required information of
+assets within seven days without fail, failing which liberty was given to the
+RP to approach the local police station. RP also informed learned tribunal
+that the registered office of the CD is under lock and directors are not giving
+access to RP to hand over possession.
+
+[PAGE 26]
+Company Appeal (AT) (Ins) No. 1129 of 2022 26 of36
+
+44.
+Ld. Counsel for the appellant has relied on the law laid down by
+Supreme Court in Atlanti Spinning (Supra) wherein Supreme Court held
+that Sub-Section (1) of Section 66 makes it clear that before consequential
+directions as contemplated under sub-section (1) of Section 66, or under
+Section 67, are issued a finding would have to be recorded that the business
+of the corporate debtor has been carried on with the intent to defraud
+creditors of the corporate debtor or for any fraudulent.
+
+45.
+We also notice that this appellate Tribunal vide order dated 4th
+February 2020, passed in I.A. No. 551 of 2020 in company appeal (AT) (Ins)
+No.211 of 2020, filed by the instant appellant has also directed the
+suspended directors of the corporate debtor to hand over the Assets and
+records of the corporate debtor to resolution professional. In this
+background the allegations which have been levelled by the resolution
+professional are that as the suspended Board of management of the
+corporate debtor was non cooperative and the relevant documents have not
+been provided by them to him, he himself collected the bank statements of
+20 bank accounts of the corporate debtor and sensing foul transactions took
+a decision to get the transactional audit of the CD done and in this regard a
+transactional auditor was appointed.
+46.
+We have already stated that resolution professional was consistently
+complaining about the non-cooperation of the suspended directors of the
+corporate debtor and despite order of Ld. tribunal and this Appellate
+tribunal and various reminders issued by the RP, when no material/
+documents was made available to him, RP relied on the bank statements of
+
+[PAGE 27]
+Company Appeal (AT) (Ins) No. 1129 of 2022 27 of36
+
+various bank accounts of the corporate debtor and on the basis of the
+entries found in these bank statements, pertaining to huge withdrawal of
+cash from the Corporate Debtor and payments to related parties, he took a
+decision to get the transaction audit done. We do not find any fault in the
+process adopted by the resolution professional as withdrawal of huge
+amount of cash prima facie is not a common practice in the corporate world
+and since no documents are shown to have been provided by suspended
+Board of management of CD, no alternate was available to the RP except to
+get the Audit done of the CD. Thus the decision of the resolution
+professional to appoint a transaction auditor is justified in the facts and
+circumstances of the case.
+47.
+Coming to the transaction audit report submitted by the auditor,
+perusal of the same would reveal that apart from other facts the auditor has
+found the following unexplained cash withdrawals from the corporate debtor
+and pertaining to which no reasonable explanation was provided by the
+suspended board of directors. The details of the unexpected cash withdrawal
+found by the auditor as fraudulent is being reproduced as under:
+
+“1. Unexplained Cash Withdrawal
+We have noted that large sum of money was withdrawn in
+Cash by the Corporate Debtor for which no reasonable
+explanation could be provided by the suspended board of
+directors.
+The Summary of Cash withdrawal in following years is
+given below:
+
+Sl. No.
+Financial Year
+Amount of Withdrawal (Figure in
+Lacs)
+1.
+2011-212
+693.00 (Annexure:1)
+2.
+2012-2013
+203.00 (Annexure2)
+3.
+2013-2014
+60.00 (Annexure:3)
+4.
+2014-2015
+09.00 (Annexure:4)
+
+[PAGE 28]
+Company Appeal (AT) (Ins) No. 1129 of 2022 28 of36
+
+5.
+2015-2016
+89.00 (Annexure:5)
+6.
+Total
+1054.00
+
+2.Unexplained Related Party Transaction:
+Sl. No.
+Related Party
+Amount (Figure in Lacs)
+1.
+DAG Creative Media Pvt. Ltd.
+15.20 Lacs (Annexure:6)
+2.
+Gour Gopal Sarkar
+1.007 Lacs (Annexure:7)
+3.
+Snigdha Sarkar
+63.50 acs (Annexure: 8)
+
+48.
+We also note that during the course of preparation of the audit report
+the auditor has given ample opportunity to the appellant as well as to other
+directors of the suspended Board of management of the corporate debtor to
+explain these huge cash withdrawals and it is also reflected from the
+transaction audit report that an email was also sent by the RP to the
+suspended board of directors on 17th March 2021 whereby they were
+requested to reply/explain within 5 days and the auditor has also provided
+details of the bank statements as the same was sought by the directors on
+24th March 2021 through email and on 4th April 2021 physically. Mr
+Arunendu Sarkar and the appellant filed their responses on 29th April 2021
+and in nutshell they explain that such huge withdrawal of money was drawn
+in cash to pay to the respective labours for the ongoing work, for site
+expenses and also for food and mess bills at different sites. The auditor, RP
+and Ld. tribunal has not found this explanation as justified, in absence of
+any documentary evidence.
+49.
+We also notice that in the transaction audit report the transaction
+auditor has also found some transactions to have been transacted with
+related parties, the details of these transactions were also provided in the
+report and we are reproducing the same as under: -
+
+[PAGE 29]
+Company Appeal (AT) (Ins) No. 1129 of 2022 29 of36
+
+2. Unexplained Related Party Transaction:
+Sl. No.
+Related Party
+Amount (Figure in Lacs)
+1.
+DAG Creative Media Pvt. Ltd.
+15.20 Lacs (Annexure:6)
+2.
+Gour Gopal Sarkar
+1.007 Lacs (Annexure:7)
+3.
+Snigdha Sarkar
+63.50 Lacs (Annexure: 8)
+
+3.Unexplained Payments to Directors:
+Sl. No.
+Payments to Directors
+Amount (Figure in Lacs)
+1.
+Advance to Arabinda Sarkar
+16.86 Lacs (Annexure:9)
+2.
+Advance to Arunendu Sarkar
+26.56 Lacs (Annexure:10)
+3.
+Advance to Rana Sarkar &
+Arunendu Sarkar
+09.00 Lacs (Annexure: 11)
+4.
+LIC Payment
+18.05 Lacs (Annexure: 12)
+5.
+Mediclaim Payment
+01.64 acs (Annexure:13)
+
+50.
+It has been categorically stated by the auditor that the management of
+the CD was not willing to provide any verifications with respect to these
+transactions and therefore these issues were addressed by the auditor with
+respect to clear evidence available pertaining to huge cash withdrawals and
+certain payments which were made to related parties and no reasonable
+explanation of the same was given by the directors and thus the auditor
+hold these transactions as fraudulent in nature as the purpose for such
+withdrawal and payments was not explained.
+51.
+In our considered opinion the auditor has involved the appellant and
+other directors of the suspended Board of management of the corporate
+debtor in preparation of the transaction audit report of the CD and it is
+evident that except lame explanation no reliable documentation was
+provided by the appellant or any of the directors, which may justify these
+huge cash withdrawals and related party transactions without any proper
+documentations.
+
+[PAGE 30]
+Company Appeal (AT) (Ins) No. 1129 of 2022 30 of36
+
+52.
+We also notice that so far as appellant is concerned, he in this appeal
+has stated that at the relevant time, he was having dispute with the other
+directors of the corporate debtor from 2010 -11 and in fact he was not
+allowed by them to participate in the affairs of the company and the dispute
+has escalated to such an extent that a complaint was also filed at some
+police station on 24.01.2013. He further took a defence in para No. 7(vii) of
+the appeal that he resigned from the directorship of the corporate debtor in
+the year 2013. Significantly in the same breath the appellant in paragraph
+number 7(viii) 7(ix) and 7(x) of the memo of appeal has stated that he
+remained associated with the corporate debtor as he had given personal
+guarantee in favour of banks for the funds borrowed by the corporate debtor
+and he was also looking after the litigation of the corporate debtor and also
+expanded huge amount from his own pocket. We notice that the appellant
+has himself filed copy of the reply filed by him before learned Tribunal and
+in paragraph No. 3(c) of the same has stated to have resigned from the
+directorship of the CD in 2016 while as noted above he in his appeal has
+stated the year as 2013, when he resigned from the directorship of the
+corporate debtor. We also do not find any document in support of this
+contention. In paragraph number 3(m) of his reply filed before Learned
+Tribunal appellant has also admitted that when disputes arose during the
+period 2010-11, there were large outstanding due to the company (CD) and
+also there were a series of litigations and for the conduct of these litigations
+he has also incurred about 36 lakhs from his own pocket i.e. for conduction
+of arbitration proceedings.
+
+[PAGE 31]
+Company Appeal (AT) (Ins) No. 1129 of 2022 31 of36
+
+53.
+Aforesaid averments made by the appellant at first suggest that he is
+himself not sure as to in which year he had resigned and it gives an
+impression that the fact of his resignation from the directorship of the
+corporate debtor has been carved out subsequently and therefore his
+contention that he had resigned from the directorship of the corporate
+debtor could not be accepted to be genuine and truthful.
+54.
+The averments made by the appellant before Learned tribunal would
+also reflect on the fact that the financial condition of the corporate debtor, at
+that point of time (year 2011-12), was not good and series of litigations were
+going on involving CD and also that huge amount was due on the corporate
+debtor. Appellant and other directors of the CD in the year 2011-12, when
+the financial condition of the corporate debtor was not sound and there was
+a series of litigation pending against it, had withdrawn, Rs. 203 lakhs in
+cash in the year 2012-13 followed by cash withdrawal of rupees 60 lacs, 9
+lakhs and 89 lakhs in the year 2013-14, 2014-15 and 2015-16, respectively.
+In our considered opinion also these transactions, having regard to the
+timing of withdrawal and non-furnishing of any documentation appears to
+be per se fraudulent and this huge amount of cash was withdrawn when the
+corporate debtor was in financial distress and these huge cash withdrawals
+have not been justified by the appellant or any of the directors of the CD.
+55.
+We also observe here that no doubt the formation of an opinion
+pertaining to fraudulent transaction and initial burden with regard to
+establishing transactions as fraudulent, is on the Resolution Professional,
+but the Resolution Professional could not be compelled to tender that
+evidence which is impossible for him to file. We may recall that the only
+
+[PAGE 32]
+Company Appeal (AT) (Ins) No. 1129 of 2022 32 of36
+
+record which was available with the resolution professional was the bank
+statements of the Corporate Debtor and finding certain entries as
+suspicious, the RP formed an opinion and took a decision of transaction
+audit of the CD, which we have already approved and when his suspicion
+was fortified by the report of the transaction auditor, he rightly formed an
+opinion pertaining to these transactions being fraudulent and made to
+defraud the creditors of the corporate debtor and thereafter filed an
+appropriate application before the Tribunal. We do not find any illegality or
+to say any irregularity either in the forming of above opinion by the
+Resolution Professional or in filing the application before the Tribunal.
+56.
+Apart from the cash withdrawals which have not been explained by
+the appellant and other directors of the CD there is another transaction
+which has been labelled as fraudulent by the resolution professional as well
+as by the learned Tribunal pertaining to the appellant. It is to be recalled
+that appellant was also the director of DAG Creative Media Private Limited
+(DAGCMPL) till 2016 and Rs 15.20 lakhs were refunded to (DAGCMPL) as it
+has been shown to have given unsecured loan to the CD. The ledger however
+shows and the payment which was received from this company was Rs.
+5,260,000/- while the payment from the CD to (DAGCMPL) was Rs.
+6,780,000/-. Thus Rs. 15.20 lakhs were paid to DAGCMPL in excess was
+with the intention to take the money out of the corporate debtor. We do not
+find any illegality in the conclusions drawn by the landed Tribunal in this
+regard also.
+57.
+The Other transaction which has been branded as fraudulent by the
+Adjudicating Authority is with regard to the alleged unsecured loan of
+
+[PAGE 33]
+Company Appeal (AT) (Ins) No. 1129 of 2022 33 of36
+
+rupees 6,350,000/- given to the CD by Snidha Sarkar, wife of another
+director of the CD, Arabinda Sarkar. This loan is shown to have been
+refunded in full in financial year 2012 while the CD was declared as a Non
+Performing Asset (NPA) on 29th March 2012. In our considered opinion this
+transaction which has been done with a related party just before the
+declaration of the CD as NPA and there is no documentation of alleged loan
+was prima facie done in order to siphon off the money out of the CD to
+defraud the creditors of the CD. Likewise, the payment made to deceased
+Director Arunendu Sarkar of Rs. 26.56 lakhs was correctly held to be a
+fraudulent transaction as apparently deceased Arunendu Sarkar had made
+payment of rupees 56,57,000/- to the HDFC account of the CD and he
+received rupees 83,12,800/-, thus rupees 26,55,800/- was received by the
+deceased Arunendu Sarkar in excess, while the same should have been
+deposited in the account of the CD. Similarly, rupees 16.86 lakhs are shown
+to have been paid in advance to the Director Arabinda Sarkar and it has not
+been explained as to why this payment is being made as no voucher or any
+book of account or relevant information was made available by the appellant
+or any other director, which may justify these transactions.
+58.
+We have perused not only the impugned judgement but also the
+transaction audit report as well as the reply of the appellant filed before
+learned tribunal and are of the considered view that the opinion of the
+Resolution Professional pertaining to labelling these transactions as
+fraudulent and transacted with the intention to defraud the creditors of the
+CD was based on documentary evidence which was available before him in
+the shape of bank statements and the transaction audit report pertaining to
+
+[PAGE 34]
+Company Appeal (AT) (Ins) No. 1129 of 2022 34 of36
+
+the CD. The Resolution Professional as well as the Adjudicating Authority
+has taken into consideration all the relevant facts, evidence and
+circumstances in order to arrive at a justified conclusion that the
+transactions in questions are fraudulent and have been made with the
+intention to defraud the creditors of the CD. It appears to be an admitted
+situation that no reliable document was ever provided by the appellant or
+any other director of the suspended Board of management of the CD to the
+resolution professional or before Adjudicating Authority or even before this
+appellate tribunal, which may justify these transactions to have been done
+in ordinary course of business.
+59.
+The facts and documentary evidence available in this case is required
+to be appreciated in the background of this vital factual situation that the
+directors of the corporate debtor who are accused of making fraudulent
+transactions were also under an obligation to justify these transactions to
+establish that these transactions are such, which have been made in
+ordinary course of business and they cannot take any benefit of the lack of
+documentary evidence, which they themselves did not provide to the
+Resolution Professional. Once the burden has been discharged by the RP
+pertaining to the establishment of aforesaid transactions as fraudulent, the
+onus has shifted on the directors of the company, including the appellant to
+justify these transactions to have been done in ordinary course of business
+and if they did not produce any reliable documentary evidence in support of
+their explanation/justification they cannot avoid the liability under section
+66 of the IBC. The vague reply given by the appellant in the instant case, to
+justify these transactions to have been done in ordinary course of business,
+
+[PAGE 35]
+Company Appeal (AT) (Ins) No. 1129 of 2022 35 of36
+
+in our considered opinion is not sufficient enough to justify these
+transactions, especially when withdrawals of cash from the account of the
+CD were made when the company was admittedly in financial distress and
+facing various litigations.
+60.
+Much emphasis has been given by Ld. counsel for the appellant with
+regard to the observation of learned tribunal to the effect that the appellate
+authority does not sit in appeal over the opinion formed by the resolution
+professional. In our considered opinion the judgment of the tribunal could
+not be read in piecemeal and the observations or averments made by the
+learned Tribunal, highlighted by Ld. counsel for the appellant could not be
+read in isolation, the impugned judgment is required to be read in full. It is
+evident that after making above observation, in the same breath, in para
+number 5E of the impugned judgment, it has been highlighted by the
+tribunal that in the present case it is found that resolution professional has
+complied with the provisions of law and the parameters laid down by the
+Hon'ble Supreme Court in the judgement of Anuj Jain, Interim Resolution
+Professional for Jaypee infratech Ltd. vs. Axis Bank Ltd. & Ors. (2020) 8
+SCC 401). In paragraph 5C of the judgement learned tribunal has clearly
+opined that the opinion of the RP has been formed on the basis of the
+transactions noted individually from page number 15 to 28 of the
+application and are supported by various documents in the form of
+annexure i.e. A3 to A18 and also that there is an independent exercise
+conducted by the RP and further that there has been detailed consideration
+on various aspects by the RP, thus Ld. Tribunal has considered all the facts
+and documentary evidence pertaining to the impugned transactions and
+
+[PAGE 36]
+Company Appeal (AT) (Ins) No. 1129 of 2022 36 of36
+
+then came to the conclusion that the opinion of the resolution professional
+with regard to these transactions is correct. We also do not find any
+perversity in this approach.
+61.
+In view of above having considered all the facts, circumstances and
+evidence, made available on record by the parties and for the reasons given
+herein before, we do find any good ground to interfere in the impugned
+judgement passed by the learned Tribunal.
+62.
+In result the Appeal filed by the appellant lacks merits and is hereby
+dismissed.
+63.
+There is no order as to costs. Pending IA if any is also disposed of.
+
+[Justice Mohd. Faiz Alam Khan]
+Member (Judicial)
+
+[Naresh Salecha]
+Member (Technical)
+New Delhi
+11.12.2025
+
+sr

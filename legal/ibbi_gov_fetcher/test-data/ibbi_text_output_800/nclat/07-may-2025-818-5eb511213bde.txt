@@ -1,0 +1,451 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 386 of 2025
+
+[Arising out of the Impugned Order dated 02.01.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Chandigarh
+Bench-I in Company Petition (IB) No.157/CHD/HRY/2021]
+In the matter of:
+M/s SNJ Synthetics Limited,
+Through its authorised person Mr. Sanjay Jalan
+having its Corporate Office at Factory & Admin Office:
+149, Sri Venkateswara Co-operative Industrial Estate,
+Bollaram Village (Patancheru Mandal),
+District Sangareddy- 502 325.
+
+...Appellant
+
+Versus
+
+M/s PepsiCo India Holdings Private Limited,
+Having its registered office at:
+Level 3-6, Pioneer Square, Sector 62,
+Near Golf Course Extension Road,
+Gurugram- 122101 Haryana, India.
+
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Anupam Lal Das, Sr. Advocate with Mr. Nithin
+Chowdary Pavuluri, Mr. Anirudh Singh and Mr. Subham
+Saurabh, Advocates.
+
+For Respondent
+: Mr. Krishnendu Dutta & Mr. Abhijeet Sinha, Sr. Advocates
+with Ms. Avni Sharma and Ms. Simarpreet Kaur N.,
+Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+02.01.2025 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Chandigarh Bench-I)
+in C.P. (IB) No.157/CHD/HRY/2021. By the impugned order, the Adjudicating
+Authority has dismissed the Section 9 application filed by the M/s SNJ
+Synthetics Ltd.-Operational Creditor seeking admission of M/s PepsiCo India
+
+[PAGE 2]
+Page 2 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+Holdings Pvt. Ltd.-Corporate Debtor into the rigours of Corporate Insolvency
+Resolution Process (“CIRP” in short). Aggrieved by the impugned order, the
+present appeal has been preferred by the Appellant.
+2.
+Coming to the relevant factual background and sequence of events in the
+matter, put briefly, the Appellant-M/s SNJ Synthetics Limited, an MSME
+Operational
+Creditor,
+engaged
+in
+manufacturing
+PET
+preforms
+and
+thermoplastics maintained a long-standing business relationship with the
+Respondent-M/s PepsiCo India Holdings Private Ltd. being the Corporate
+Debtor. This relationship was formalised through a Supply Agreement dated
+09.10.2018 and the transactions arising from this agreement were maintained
+through periodically reconciled mutual and open accounts. The Appellant
+continued fulfilling its obligations under the Supply Agreement and raised
+invoices from 2018 to 2021. Since the dues remained unpaid, the operational
+debt purportedly accumulated to Rs.1,96,80,953/- as on 28.02.2021. On
+13.03.2021, the Appellant served a demand notice upon the Corporate Debtor
+under Section 8 of the IBC, enclosing invoices and account statements. Although
+the notice was acknowledged by the Respondent, no payments followed. The
+Appellant subsequently filed Section 9 petition seeking initiation of CIRP of the
+Corporate Debtor for the unpaid operational debt of Rs. 91,63,886/- towards
+principal and Rs. 1,05,17,067/- towards interest on delayed payment @ 24%
+p.a. The parties undertook a reconciliation of accounts during pendency of
+proceedings following which the principal amount was revised to Rs. 77,37,886/-
+. The Appellant however continued to claim interest at 24% p.a. On the direction
+of the Adjudicating Authority dated 02.01.2023, the Respondent paid
+
+[PAGE 3]
+Page 3 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+Rs.77,37,886/- towards the reconciled principal amount on 10.02.2023 which
+the Appellant accepted without prejudice but continued pressing for unpaid
+interest amount of Rs.1,05,17,067/-. The matter was finally heard by the
+Adjudicating Authority and impugned order was passed on 02.01.2025
+dismissing the Section 9 petition by holding that CIRP could not be initiated
+against the Corporate Debtor since the principal amount had already been paid
+by the Corporate Debtor and therefore Section 9 petition is non-maintainable for
+interest component alone.
+3.
+The Ld. Sr. Counsel, Shri Anupam Lal Das for the Appellant submitted
+that the Adjudicating Authority erred in dismissing the petition merely on the
+ground that the principal amount was paid. It was wrong on the part of the
+Adjudicating Authority to hold that after principal amount was settled, CIRP
+cannot be initiated solely for the interest component. The Adjudicating Authority
+had erroneously overlooked the principle that operational debt, including
+interest, must be considered in totality for determining the threshold under the
+IBC and cannot be bifurcated.
+4.
+Submission was pressed that bifurcation of operational debt into principal
+and interest components lacked statutory sanction of IBC. It was asserted that
+the statutory threshold limit prescribed under Section 4 of IBC must be
+determined based on the aggregate of both principal amount as well as interest
+thereof. Segregation of operational debt into principal and interest is contrary to
+law and the Adjudicating Authority by treating the payment of principal amount
+as a full and final settlement has unsettled this settled position thereby
+undermining the statutory rights of the Appellant. Reliance was placed on the
+
+[PAGE 4]
+Page 4 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+judgement of this Tribunal in Prashat Agarwal v. Vikas Parasrampuria in
+CA(AT)(Ins.) No. 690 of 2022 and Anuj Sharma v. Rustagi Projects Pvt. Ltd.
+in CA(AT)(Ins) No. 550 of 2023 wherein it was held that interest stipulated in
+invoices formed part of operational debt and must be aggregated with the
+principal amount in computing the threshold limits under Section 4 of IBC.
+5.
+It was submitted that the interest component of 24% p.a. on delayed
+payment was part of the operational debt as interest was clearly stipulated in
+the invoices issued by the Appellant. Since these invoices were issued pursuant
+to the Supply Agreement of 09.10.2018, the interest component mentioned
+therein constituted an integral part of the contractual relationship between the
+two parties. Since these invoices bearing interest terms were issued regularly by
+the Appellant and was acted upon by the Respondent without any protest, this
+constituted a valid contract under Regulation 7(2)(b)(ii) of the Insolvency and
+Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons)
+Regulations, 2016 (“CIRP Regulations” in short). Reliance was placed on the
+judgment of the Hon’ble Bombay High Court in Jatin Koticha v. VFC Industries
+Pvt. Ltd. 2007 SCC Online Bom 1092 wherein it was held that unsigned
+invoices accepted through conduct amounted to enforceable contracts.
+Moreover, it was contended that the interest claim raised at the rate of 24% p.a.
+was never objected to by the Respondent during years of their business dealings
+or even at the accounting reconciliations undertaken. Objection to the payment
+of interest amount was raised by the Respondent for the first time during the
+hearing before the Adjudicating Authority which clearly shows that this belated
+objection to interest claim was an afterthought.
+
+[PAGE 5]
+Page 5 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+6.
+It was also contended that the Appellant being an MSME, it was entitled
+to protection and safeguards under MSME Act. Under Sections 15 and 16 of the
+MSME Act, the buyer is statutorily required to make timely payments, failing
+which, interest is payable. Hence, levy of interest at the rate of 24% p.a for
+delayed payment mentioned in the Appellant’s invoices was in conformity with
+this statutory entitlement. It was further contended that even if the MSME Act
+is not applied, the Appellant still remained entitled to compensatory interest
+under the Interest Act, 1978 and general law. Thus, whether viewed through the
+lens of the IBC, the MSME Act or the Interest Act, the Appellant’s right to the
+interest component is irrefutable. Hence, the findings returned by the
+Adjudicating Authority vide the impugned order that CIRP cannot be initiated
+solely for interest amount failed to appreciate the composite nature of
+operational debt comprising of both principal amount and interest component
+thereby rendering the impugned order legally unsustainable.
+7.
+Refuting the contentions of the Appellant, Shri Krishnendu Dutta and Shri
+Abhijeet Sinha, Ld. Senior Counsels appearing for the Respondent contended
+that there was no contractual basis for claiming interest since the Supply
+Agreement dated 09.10.2018 which governed the business transactions between
+the two parties did not contain any clause providing for interest on delayed
+payments. It was submitted that the Adjudicating Authority had rightly held that
+the Section 9 application was not maintainable once the undisputed principal
+amount of Rs.77,73,886/- was fully paid by the Respondent during the pendency
+of the proceedings. It was emphatically asserted that the appeal is a clear misuse
+of the statutory provisions of IBC to recover a disputed and unsubstantiated
+
+[PAGE 6]
+Page 6 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+interest claim. Interest cannot be claimed merely on the basis of a stipulation to
+that effect in a bill or invoice, unless it is proven that such a provision is based
+on a contract or agreement on the part of the purchaser to pay interest. The
+invoices relied upon by the Appellant are unilateral documents which were not
+signed or acknowledged by the Respondent. No communication has been placed
+on record wherein the Respondent had agreed to pay interest. Hence the claim
+of interest is entirely untenable and contrary to the commercial understanding
+between the parties.
+8.
+Assertion was made that IBC is a remedy of last resort intended for
+resolution of genuine insolvency and not for recovery proceedings. Thus, if an
+Operational Creditor pursues the Section 9 application only for the realisation of
+interest amount, as in the instant case, this violates the spirit, ethos and
+principles of IBC and should be treated as an application pursued with malafide
+intent. Submission was pressed that it is settled law that once the principal
+amount is paid and only a contested interest claim remains, a petition under
+Section 9 is not maintainable. The conduct of the present Appellant in persisting
+with the Section 9 application despite having received full payment of the
+principal amounts to an abuse of the process of law. Once the reconciled amount
+was paid, only the claim with respect to interest survives. The liability towards
+payment of interest being disputed by the Respondent could not become the
+basis of the application under Section 9. The question of the whether an interest
+liability had arisen and the quantum to be paid is subject matter to be
+determined by a court of competent jurisdiction and cannot be agitated before
+the Adjudicating Authority which is conferred only summary jurisdiction.
+
+[PAGE 7]
+Page 7 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+9.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+10.
+It is the case of the Appellant that the total amount for maintainability of
+claim will include both principal debt amount as well as interest on delayed
+payment which was clearly stipulated in the invoice itself. It was asserted that
+Regulation 7(b)(ii) of the Insolvency and Bankruptcy Board of India (Insolvency
+Resolution Process for Corporate Persons) Regulations, 2016, recognizes an
+invoice as sufficient proof of operational debt. In other words, interest payment
+as operational debt can be demonstrated through invoice. In the present case,
+the Respondent not having disputed the interest stipulation in the invoice either
+at the time of placing orders or upon receipt of goods must be construed as
+Appellant’s acceptance of the entire debt including interest. Hence, the total
+operational debt, including interest accrued at 24% p.a. surpasses the Rs. 1
+crore threshold under Section 4 of the IBC, rendering their Section 9 petition
+fully maintainable. Stressing that the principal amount and interest on delayed
+payment as provided for in the invoice stipulation cannot be bifurcated, the
+Appellant has relied on the judgment of this Tribunal in Prashat Agarwal
+supra wherein it was held that when interest on delayed payment is clearly
+stipulated in the invoice, this entitles the supplier to “right to payment” under
+Section 3(6) of IBC and interest amount would form part of the “debt” under
+Section 3(11) of IBC.
+11.
+Coming to our analysis and findings, when we look at material on record,
+it clearly reflects that the parties had established their business dealing basis a
+Supply Agreement. The relevant clause viz. clause 9 which deals with ‘Payment
+
+[PAGE 8]
+Page 8 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+Terms’ and Schedule-D which deals with ‘Contract Prices and Payment Terms’
+do not provide for payment of interest. At the cost of repetition, for reasons of
+clarity, we would like to extract these clauses though the same has been
+reproduced at para 14.3 of the impugned order which reads as follows:
+“9. PAYMENT TERMS
+9.1 Seller shall issue Tax Invoice properly capturing all the relevant
+information and details as required under the GST law and
+rules/formats framed there under. The respective parties would be liable
+to pay GST, as applicable to the Government under the GST laws.
+9.2 Notwithstanding anything contained in the agreement, both parties
+agree that in the event PIH is not able to avail Input Tax Credit due to
+reasons attributable to the Seller. PIH may hold the payment or debit an
+amount to the extent of input tax credit disallowed to PIH until the PIH
+actually avails Input Tax Credit.
+9.3 Payment terms will be net no. of days as specified in price note in
+SCHEDULE ‘D’ i.e. 30 days from the later of the invoice received date or
+the date that the product is received at the Buyer's plant. If the payment
+due date falls on a Saturday, Sunday or holiday, the payment due date
+will be the next business day following such Saturday, Sunday or
+holiday. Payment will be deemed made if by electronic funds transfer
+(‘EFT’), upon evidence of actual transfer to the Seller Account, Seller will
+issue an invoice, transport documents to the Buyer on the basis of the
+scheduled delivery.
+Schedule - D
+Contract Prices and Payment terms
+Prices as per the price note duly signed in Dec 2017
+SNJ 21st DEC 2017
+The Payment terms for soft tolling under new vendor remains as 30 days
+from the date of receipt of invoice.
+The additional cost for doing soft tolling with Pepsico India is Rs. 2.25
+Rs / KG, by adding 1% wastage in edition to the purchase price of the
+resin.
+Pricing will be can be mutually revised after Dec 2018.”
+
+[PAGE 9]
+Page 9 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+Neither the Appellant nor the Respondent has questioned the veracity of the said
+clause and Schedule-D of the Supply Agreement. We do not find either of the
+two parties to have claimed that there was any amendment with respect to the
+above payment terms as envisaged in the Supply Agreement which undisputedly
+did not provide for payment of interest on delayed payments. Furthermore, there
+is no previous instance of payment of interest by the Corporate Debtor. Even in
+the reconciliation sign-off dated 12.06.2018, which was signed by both parties,
+no reference to interest was made.
+12.
+Since there has been no amendment of the Agreement, the terms agreed
+between the parties in the Supply Agreement prevail over unilateral invoices.
+Even though invoices can play a crucial role in defining the rights and
+obligations between parties, however, there has to be an element of mutual
+consent, which can be discernible from conduct. When the ingredient of levy of
+interest on delayed payment is absent in the written contract, stipulation of
+interest payment in invoices can override the written contract only if there is
+mutual consent and mutual understanding between the parties in this regard
+which in the present case has not been demonstrated by conduct and practice.
+There is no evidence of payment of interest by the Respondent which has been
+substantiated by the Appellant. We are therefore inclined to agree with the
+Adjudicating Authority that unilaterally generated invoices signed by only one
+party cannot overrun or recast the terms of bi-partite agreements and create
+binding obligations on the other party to pay interest.
+13.
+In this regard attention has been adverted by the Respondent to the
+judgement of this Tribunal in Krishna Enterprises vs. Gammon India Limited
+
+[PAGE 10]
+Page 10 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+in CA (AT) (Ins) No. 144 of 2018 wherein it has been held therein that if no
+interest was payable, in terms of the contractual agreement, then only the
+principal amount would constitute the claim, basis which Section 9 application
+can be filed. We find the ratio of the above judgment to be squarely applicable to
+the facts of the present case and for easy reference reproduce the relevant
+portion of the said judgment as below:
+“4. It is submitted that the ‘debt’ includes the interest, but such submission
+cannot be accepted in deciding all claims. If in terms of any agreement
+interest is payable to the Operational or Financial Creditor then debt will
+include interest, otherwise, the principle amount is to be treated as the debt
+which is the liability in respect of the claim which can be made from the
+Corporate Debtor.
+5. In the present appeals, as we find that the principle amount has already
+been paid and as per agreement no interest was payable, the applications
+under Section 9 on the basis of claims for entitlement of interest, were not
+maintainable. If for delayed payment Appellant(s) claim any interest, it will
+be open to them to move before a court of competent jurisdiction, but
+initiation of Corporate Insolvency Resolution Process is not the answer.”
+(Emphasis supplied)
+
+14.
+We also agree with the Adjudicating Authority that the facts of the present
+case are distinguishable from the Prashat Agarwal judgment supra in view of
+the fact that in the present case the payment of interest clause on delayed
+payment does not figure in the Supply Agreement which was a bi-partite
+agreement. Moreover, the invoices basis which interest has been claimed by the
+Appellant in the present case were not even counter-signed by the Respondent
+thereby making the imposition of interest unilateral. There is nothing to
+substantiate that the Respondent has accepted the obligation to pay interest on
+delayed payment. Even the reliance placed on Anuj Sharma judgment supra
+also does not come to the rescue of the Appellant as in that case also the
+
+[PAGE 11]
+Page 11 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+Purchase Order containing interest clause on advance payment was issued basis
+a Distributorship Agreement which contained the terms of payment and delivery.
+15.
+We further notice that the Adjudicating Authority has taken note that the
+Respondent has paid off the principal amount to the Appellant after
+reconciliation. The principal amount was paid off after it was revised downwards
+by the Appellant from Rs 91.63 lakhs to Rs 77.37 lakhs. The Adjudicating
+Authority has also noticed the stubborn reluctance on the part of the Appellant
+to revise the interest amount corresponding to reduced principal amount.
+Despite clear directions by the Adjudicating Authority on 20.04.2023 to furnish
+a detailed computation, the Appellant has been intransigently sticking to the
+same figure of interest amount leading the Adjudicating Authority to rightly
+question the basis and legitimacy of the interest claimed. For reasons of fairness
+and transparency, the Appellant should have offered a credible explanation to
+the Adjudicating Authority as to why the claim of interest amount remained
+unchanged inspite of scaling down of principal amount post reconciliation. This
+opacity on the part of the Appellant lends force to the contention of the
+Respondent that the interest component of Rs 1.05 Cr was being insisted upon
+to artificially to cross the threshold limit of Rs 1 Cr.
+16.
+In the given circumstances when the principal amount claimed by the
+Appellant has already been paid, we agree with the Adjudicating Authority that
+there was no legally enforceable unpaid operational debt as required under
+Section 9(5) of IBC to trigger CIRP. We are also guided by the decision rendered
+by this Tribunal in case of S.S.Polymers Vs Kanodia Technoplast Limited in
+CA(AT)(Ins.) No. 1227 of 2019 in which a similar issue had arisen and this
+
+[PAGE 12]
+Page 12 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+Tribunal had held that claim of interest basis one-sided invoices cannot be the
+foundation for a Section 9 application. The relevant extracts of the judgment is
+as reproduced below:
+“3.The Adjudicating Authority has noticed that a sum of Rs.25,00,000/- out
+of Rs.32,71,800/- was paid to the Appellant by 31st December, 2018
+through RTGS(s). The remaining amount of Rs.7,71,800/- was also paid by
+‘Corporate Debtor’ to the Applicant by 17th January, 2019 through NEFT(s).
+The said amounts were paid before the admission of the application under
+Section 9 of the I&B Code. Even after receiving the total amount due, the
+Appellant pursued the application under Section 9 of the I&B Code for a sum
+of Rs.2,16,155/- towards interest. In these background, the Adjudicating
+Authority observed that in the absence of any Agreement, no such amount
+can be claimed.
+4. The Learned Counsel for the Appellant relied on ‘Invoices’ to suggest that
+in the ‘Invoices’, the claim was raised for payment of interest. However, we
+are not inclined to accept such submission as they were one side Invoices
+raised without any consent of the ‘Corporate Debtor’.
+5. Admittedly, before the admission of an application under Section 9 of the
+I&B Code, the ‘Corporate Debtor’ paid the total debt. The application was
+pursued for realisation of the interest amount, which, according to us is
+against the principle of the I&B Code, as it should be treated to be an
+application pursued by the Applicant with malicious intent (to realise only
+Interest) for any purpose other than for the Resolution of Insolvency, or
+Liquidation of the ‘Corporate Debtor’ and which is barred in view of Section
+65 of the I&B Code.
+6. We find no merit in this Appeal and it is accordingly dismissed.”
+(Emphasis supplied)
+17.
+The preambular objective of the IBC being insolvency resolution has been
+oft emphasised by the Hon’ble Supreme Court in a catena of judgements. The
+provisions of IBC cannot be turned into a debt recovery proceeding. Hence, the
+Adjudicating Authority has not committed any infirmity in not allowing the CIRP
+of the Corporate Debtor to be initiated solely on the basis of the claim of the
+contested and unsubstantiated interest component. The provisions of IBC
+
+[PAGE 13]
+Page 13 of 13
+Company Appeal (AT) (Ins) No. 386 of 2025
+
+cannot be turned into a debt-recovery proceedings and to commend any such
+course of action would tantamount to pushing the Corporate Debtor to face the
+perils of corporate death instead of being rejuvenated and revived. We also notice
+that the Appellant has relied on the provisions of other laws like MSME Act or
+Interest Act to justify their claim of interest payment. Without making any
+observation on the merits of their contention, we would only like to add that
+neither the Adjudicating Authority nor this Appellate Tribunal is the appropriate
+forum for making any such determination on the liability of the Respondent-
+Corporate Debtor to pay interest under the MSME Act or Interest Act.
+18.
+For the aforesaid reasons, we find no merit in the Appeal. There is no good
+ground which warrants interference of the impugned order. Appeal stands
+dismissed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+[Arun Baroka]
+Member (Technical)
+
+Place: New Delhi
+Date: 07.05.2025
+
+Abdul/Harleen

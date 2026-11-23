@@ -1,0 +1,1462 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1710 of 2025
+
+(Arising out of the Order dated 16.10.2025 passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Mumbai Bench) in IA No. 33/MB/2024 in CP(IB) No.
+1790/2017)
+
+IN THE MATTER OF:
+
+Taguda Pte. Limited
+Having its address at:
+1, Magazine Road,
+#04-11, Central Mall, Singapore – 059567
+
+...Appellant
+
+Versus
+
+1. State Bank of India
+Having its address at:
+Stressed Assets Resolution Group, 2nd Floor,
+World Trade Centre, Cuffe Parade,
+Mumbai – 40000
+
+...Respondent No.1
+
+2.
+Trupal Kumar Patel
+Liquidator of the Corporate Debtor C/505,
+The First B/h ITC Narmada, Near Keshav
+Baug Party, Plot Vastrapur Ahmedabad,
+Gujarat – 380015
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. T. Gowthaman, Sr. Advocate with Mr. Vivek
+Jain, Mr. Sadiq Noor, Mr. Angad Pathak, Mr. Mehul
+Khare, Mr. Padmesh Mishra and Ms. Ginni Med,
+Advocates
+
+For Respondent
+:
+Mr. Krishnendu Data, Sr. Advocate with Mr. Yugal
+Jain, Mr. Vaijyant Paliwal, Ms. Charu Bansal, Mr.
+S. Biswas and Ms. Kirti Gupta, Advocates for R-
+1/SBI.
+
+Mr. Kumar Shubham and Mr. Arpan Behl,
+Advocates for R-2.
+
+Mr. Eshaan S. Advocate for CD.
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 2 of 42
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+
+The Present Appeal is filed by the Appellant challenging the Impugned
+Liquidation Order dt.16.10.2025 passed by the Hon’ble National Company
+Law Tribunal, Mumbai Bench (hereinafter referred to as “the Hon’ble
+Tribunal”) in the Interlocutory Application No. 33 of 2024 in the Company
+Petition (IB) No. 1790 of 2017 filed under Section 7 of the Insolvency &
+Bankruptcy Code, 2016 (“the Code”) read along with Rule 11 of the National
+Company Law Tribunal Rules, 2016 (“the NCLT Rules”). The Hon’ble Tribunal
+vide Impugned Order dated 16.10.2025 had allowed the Liquidation of Ushdev
+International Limited, the Corporate Debtor, without hearing the Interlocutory
+Application No. 4253 0f 2025 filed by the Appellant with a proposal to make
+a one-time, unconditional Payment of the entire Resolution Plan Amount
+thereby dismissing the said Interlocutory Application.
+2.
+Brief relevant facts are as follows:
+Date
+Particulars
+17.05.2018
+NCLT passed an order initiating CIRP against the Corporate
+Debtor and appointed Subodh Kumar Agarwal as IRP, later
+confirmed as RP.
+06.02.2019
+CoC rejected Taguda’s resolution plan (77.61% votes) and
+authorized RP to file liquidation application under Section 33 of
+the Code.
+07.02.2019
+RP filed Liquidation Application (I.A. No. 626/2019). Taguda filed
+I.A. No. 762/2019 seeking approval of its rejected resolution
+plan.
+07.11.2019
+NCLT dismissed Liquidation Application and approved Taguda’s
+resolution plan (‘NCLT Order’).
+29.11.2019
+NCLAT stayed NCLT Order in Company Appeal No. 1377/2019
+filed by SBI. During the pendency of this appeal, RA filed the
+revised resolution plan (‘Revised Resolution Plan’).
+08.04.2021
+NCLAT granted 6 weeks to CoC to consider Taguda’s revised
+resolution plan.
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 3 of 42
+
+31.05.2021
+NCLAT extended time for CoC consideration till 25.06.2021.
+22.06.2021
+CoC approved the revised resolution plan submitted by
+Taguda with 91.06% votes. RP filed I.A. No. 1447/2021
+seeking NCLT approval under Section 31.
+03.02.2022
+NCLT approved Taguda’s Revised Resolution Plan (‘Plan
+Approval Order’).
+15.03.2022
+First IMA meeting held; Radha Rawat appointed as
+authorized signatory for regulatory approvals.
+18.04.2022
+& 01.06.2022
+IMA discussed SEBI and RBI approvals. SRA’s application
+through PNB to RBI remained pending.
+08.09.2022
+IMA noted SRA’s duty to obtain approvals expeditiously;
+over 7 months elapsed without RBI approval.
+14.10.2022
+Taguda filed I.A. Nos. 887/2022 and 1606/2022 before the
+Ld. NCLT seeking modification of Plan Approval Order.
+NCLT granted 6-month extension for implementation.
+01.03.2023
+SBI wrote to SRA citing Section 31(4) and Clause 3.1 of
+RFRP (1-year approval deadline; RP/CoC not responsible
+for approvals), urging expedited implementation.
+31.03.2023
+SRA responded stating implementation awaits RBI approval
+13.04.2023
+SBI sent follow-up letter noting non-implementation despite
+expiry of 1-year deadline and additional 6-month extension.
+28.04.2023
+SBI filed I.A. No. 1857/2023 seeking: (i) direction for
+immediate
+implementation; (ii) 10% p.a. interest on
+resolution amount; (iii) failing
+implementation, initiation of fresh CIRP; (iv) interim deposit
+of resolution amount in escrow.
+10.08.2023
+RBI directed PNB to approach overseas investment
+divisions regarding FEMA compliance issues relating to
+erstwhile management’s guarantee.
+23.08.2023
+NCLT directed SRA and IMA to pursue RBI for early decision.
+11.09.2023
+IMA wrote to RBI seeking early disposal per NCLT Order
+dated 23.08.2023.
+14.09.2023
+Per RBI instructions, IMA authorized Radha Rawat to sign
+and submit Form-FC through AD Bank.
+08.12.2023
+NCLT directed SRA to implement Revised Resolution Plan
+within 2 months (by 08.02.2024), noting all prerequisites
+rest with SRA (“December Order”).
+19.12.2023
+SRA emailed SBI regarding undertakings required by its
+financer, ANZA Capital.
+03.01.2024
+ANZA
+Capital
+wrote
+to
+SBI
+seeking
+undertakings/confirmations regarding Corporate Debtor.
+11.01.2024
+19th IMA meeting: SRA assured upfront payment of entire
+resolution amount
+and proposed depositing foreign
+creditors’ share in designated account. IMA clarified ANZA
+clarifications are SRA’s responsibility.
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 4 of 42
+
+16.01.2024
+Instead of implementing its upfront payment proposal,
+SRA filed present Appeal against Impugned Order.
+06.02.2024
+20th IMA meeting: SRA confirmed providing clarifications
+to ANZA and sought one week's extension.
+07.02.2024
+SRA emailed SBI seeking waiver of certain conditions and
+one-month extension for implementation.
+08.02.2024
+Two-month deadline for implementation expired. Joint
+lender meeting decided: (i) SRA failed to implement despite
+2+ years; (ii) invoke BBG (₹5 Cr) and PBG (₹11.50 Cr); (iii)
+liquidation is only viable option; (iv) authorized SBI to
+invoke guarantees and file liquidation application.
+08.02.2024
+SBI informed SRA of lenders’ decision to deny further
+extension and proceed with invoking BBG and PBG.
+09.02.2024
+SBI invoked and forfeited BBG and PBG totaling ₹18.13 Cr.
+05.07.2024
+NCLAT directed SRA to deposit ₹225.14 Cr in SBI
+Singapore/UAE branch within one week.
+10.07.2024
+SBI furnished Singapore and UAE (DIFC) branch details
+to
+SRA
+for
+compliance with NCLAT Order dated
+05.07.2024.
+16.07.2024
+SBI followed up seeking update on account opening and
+fund deposit.
+16.07.2024
+SRA proposed letter of comfort from UAE financer instead of
+deposit, citing time-consuming account opening process.
+24.07.2024
+SBI DIFC requested documents/information for account
+opening formalities.
+29.07.2024
+SRA proposed bank guarantee for acquisition instead of
+depositing funds as directed.
+01.08.2024
+NCLAT granted 15-day extension to SRA to deposit ₹225 Cr
+per NCLAT Order dated 05.07.2024.
+05.09.2024
+SRA communicated meeting minutes with SBI Dubai,
+however, on contrary to NCLAT Order dated 05.07.2024 it
+proposed different fund source.
+06.09.2024
+SRA disclosed fund source as ANZA Capital Investment LLC,
+UAE (owned by H.H. Shaikh Mohammed Bin Sultan Bin
+Hamdan).
+25.09.2024
+SBI DIFC informed SRA that DFSA regulations prohibit
+accepting deposits sourced from UAE state market; urged
+immediate transfer per NCLAT Order
+dated 05.07.2024.
+October 2024
+– May 2025
+SRA
+continued
+seeking
+adjournments
+in
+NCLAT
+proceedings, further delaying Liquidation Application and
+deteriorating Corporate Debtor's asset value.
+30.05.2025
+NCLAT dismissed SRA’s appeal (NCLAT Order) and directed
+NCLT to decide Liquidation Application within 3 months.
+23.07.2025
+Supreme Court dismissed Taguda’s challenge to NCLAT
+Order.
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 5 of 42
+
+16.10.2025
+The Impugned Order was passed by the Ld. NCLT in the
+Liquidation Application, vide which the Ld. NCLT was
+pleased to allow the liquidation of the Corporate Debtor,
+and dismissed I.A. No. 4253/2025 filed by Appellant with a
+proposal to make a one-time payment proposal.
+
+Submissions of the Appellant-SRA
+3.
+The Hon’ble Tribunal vide impugned Order dated 16.10.2025 directed
+liquidation of the Corporate Debtor without granting the Appellant an
+opportunity of being heard in its Interlocutory Application No.4253 of 2025,
+wherein the Appellant had proposed to make a one-time, unconditional
+Payment of the entire Resolution Plan Amount.
+
+4.
+The Corporate Debtor went into CIRP vide order dated 17.05.2018 in
+CP(IB) No. 1790/2017. The Resolution Plan of the Appellant was approved by
+100% vote vide order dated 11.03.2022 and the Interim Monitoring agency
+was constituted thereafter. Though the Appellant was fully ready to set the
+Resolution Plan into motion and sourced the requisite funds for the same, it
+did not fructify owing to want of various approvals, including RBI approvals.
+In spite of the Appellant approaching the RBI by itself and through IMA, the
+approval did not come through.
+
+5.
+The Appellant also filed a Writ Petition Writ Petition (L) No. 34990 of
+2025 before the Hon’ble Bombay High Court to secure the approvals but the
+final orders have not been passed in the same.
+
+6.
+In the meanwhile, Respondent No. 1 SBI, being part of the IMA and
+CoC, filed IA No. 1857 of 2023 in CP(B) No. 1790/MB/CII/2017 before the
+Hon’ble NCLT seeking implementation of the Resolution Plan, which came to
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 6 of 42
+
+be allowed vide Order dated 08.12.2023, directing implementation of the Plan
+within two months.
+
+7.
+The Appellant preferred Company Appeal (AT) (Insolvency) No. 351 of
+2024 before the Hon’ble NCLAT, citing the approval issues, which was
+dismissed vide Order dated 30.05.2025 with a direction to the Hon’ble NCLT
+to dispose of the liquidation application within three months.
+
+8.
+The Appellant thereafter approached the Hon’ble Supreme Court of
+India, which dismissed the challenge vide Order dated 23.07.2025. It is
+pertinent to note that the proceedings before the Hon’ble Supreme Court arose
+out of the Order directing implementation of the Resolution Plan and did not
+involve any order of liquidation, contrary to the case now sought to be
+advanced by Respondent No. 1.
+
+9.
+Thereafter, the Appellant, with much difficulty, moved an alternate
+source and managed to mobilize the funds required for the implementation of
+the Resolution Plan which was approved and eventually directed by the NCLT
+and confirmed up to the Hon’ble Supreme Court. It bears mention at this
+juncture that the Appellant/Successful Resolution Applicant was not merely
+expressing willingness to implement the Resolution Plan, but was fully ready
+and financially equipped to immediately disburse the entire Resolution Plan
+amount in accordance with direction of the Hon’ble Supreme Court. The
+Appellant has already deposited ₹15 Crores with the Official Liquidator and
+was ready to make payments aggregating to ₹153 Crores, in addition to the
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 7 of 42
+
+₹18 Crores already lying as Performance Bank Guarantee and Bid Bond
+Guarantee and the ₹41 Crores cash balance available with the Corporate
+Debtor, thereby fully securing and accounting for the entire Resolution Plan
+amount of ₹227 Crores.
+
+10.
+The plan value that the Appellant herein undertook to pay upfront is
+more than the liquidation value and the fair market value which is evident
+from the Form-H filed by the RP before the Ld. Adjudicating Authority u/r
+39(4) of IBBI Regulation, 2016. The liquidation value of the CD has been
+evaluated to ₹71.28 Cr and the fair value was evaluated as ₹105.06 Cr.
+
+11.
+In order to show the bonafide of the Appellant, the Appellant has filed
+the Writ Petition (L) No. 34990 of 2025, seeking directions to the RBI to grant
+the requisite Approvals to the Appellant, eventuating in the implementation
+of the Resolution Plan. This act of the Appellant, further strengthens its the
+stance, proving its willingness and eagerness to implement the said
+Resolution Plan.
+
+12.
+The following payments with respect to the Resolution Plan have
+already been effectuated:
+AMOUNT
+HEADING
+₹ 18 Crores
+Performance Bank Guarantee and
+Bid Bond Guarantee
+₹ 41 Crores
+Cash Balances
+₹ 15 Crores
+Deposited
+in
+the
+Official
+Liquidator’s Account
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 8 of 42
+
+13.
+Over and above the same, Pay Orders amounting to ₹153 Crores are
+readily available with the Appellant. The aforesaid amounts equate to the
+Resolution Plan amount of ₹227 Crores.
+
+14.
+The Appellant is ready and amenable to disburse the entire funds to the
+Bank Account of State Bank of India, the lead bank of the Consortium of
+lenders, for it to distribute it amongst all the financial creditors of the
+Corporate Debtor. Alternatively, Taguda is also ready to disburse the entire
+funds along with the aforementioned Pay Orders issued to the account of the
+Official Liquidator to facilitate the distribution amongst the Financial
+Creditors of the Corporate Debtor.
+
+15.
+The Appellant has demonstrated its bona fides before the Hon’ble
+Tribunal by unequivocally undertaking to release the funds forthwith upon
+permission being granted for implementation of the Resolution Plan. In fact,
+inspection of the said Pay Orders has already been provided to the
+Respondents, clearly evidencing that the funds are readily available and
+capable of immediate disbursal to the Financial Creditors without any
+uncertainty or delay.
+
+16.
+In such circumstances, when the entire consideration under the
+approved Resolution Plan stands secured and available for immediate
+payment, pushing the Corporate Debtor into liquidation would be wholly
+contrary to the objectives of the Insolvency and Bankruptcy Code, 2016,
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 9 of 42
+
+which prioritizes value maximisation and revival of the Corporate Debtor as a
+going concern.
+
+17.
+The Official Liquidator’s Report shows the Net Total Liquidation Value
+as INR 1,67,84,69,168/-. However, it is pertinent to record that the said
+liquidation value includes the Investments (4.49% in unlisted shares of Uttam
+Galva Ferrous Ltd.) amounting to INR 75,77,62,779/-. This investment seems
+to be unrealizable in 2018 as per Resolution Professional conducted valuation
+but it seems to have increased to INR 75.78 crores in liquidation process.
+Apart from that, the major concerns in the company are as follows:
+o Uttam Galva Ferrous Limited has zero revenue;
+
+o Karnataka Government allotted land for steel project in 2013 and 2015
+but till date project remain unexecuted;
+
+o The company belong to now insolvent group well known to lenders.
+The land held by the company is at the risk of resumption by the
+government due to continuous delays in the project. The said entity
+itself is under severe financial distress, has negligible operational
+revenue and its purported asset base remains speculative and
+unrealized. The alleged appreciation in valuation of the Uttam
+investment despite the company being effectively insolvent and
+commercially unviable is wholly illusory and cannot form the basis to
+justify liquidation of the Corporate Debtor.
+
+18.
+It is also pertinent to note that the depreciated value of the machinery
+has not been taken into consideration and the capital value of the machinery
+has been taken to arrive at the value of the same.
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 10 of 42
+
+19.
+Thus, the liquidation valuation of the Corporate Debtor is highly
+inflated in an attempt to draw it closer to the Resolution Plan Amount and to
+justify the decision of the SCC to refuse to exercise commercial wisdom that
+any prudent man would be able to apprehend. The attempt to portray
+liquidation as commercially beneficial is founded upon an artificially inflated
+valuation exercise undertaken during liquidation.
+
+20.
+It can be straightaway seen that the liquidation value of the Corporate
+Debtor is substantially lower than the Resolution Plan amount offered by the
+Appellant/Successful
+Resolution
+Applicant
+and,
+therefore,
+the
+implementation of the approved Resolution Plan would result in significantly
+greater value maximisation for all stakeholders. Even as per the figures placed
+on record, the original liquidation value assessed during CIRP was only
+₹71.28 Crores, whereas the Resolution Plan amount aggregates to Rs. 227
+Crores, which is far in excess of both the liquidation value and the fair value
+of the Corporate Debtor.
+
+21.
+The following table reflects the difference in the amounts in the
+Liquidation Plan and the Resolution Plan as per the inflated amounts
+mentioned by the Liquidator in his Report filed before this Hon’ble Tribunal:
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 11 of 42
+
+22.
+In both the abovementioned scenarios, the Resolution Plan amount is
+substantially higher than the Liquidation Value.
+
+23.
+The strong resolve of the Stakeholders Consultation Committee (“SCC”)
+to initiate Liquidation of the Corporate Debtor over implementation of the
+Resolution Plan is unintelligible and indecipherable since the present scenario
+the liquidation amount is lesser than the Resolution Plan amount and instead
+the Creditors and stakeholders shall suffer huge losses if the Liquidation is
+proceeded with.
+
+24.
+The Resolution of the Corporate Debtor shall benefit not just the
+Creditors, but also the employees of the Corporate Debtor and the economy
+at large since the implementation will facilitate running of the Corporate
+Debtor as a going concern.
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 12 of 42
+
+25.
+Thus, the stubborn stance of the SCC to liquidate the Corporate Debtor,
+when the Appellant/Successful Resolution Professional is ready with the
+entire amount of ₹227 crores immediately that have already been issued by
+way of Pay Orders/Demand Drafts in favour of the Official Liquidator,
+inspection of which has already been provided to the Respondents, is not just
+detrimental to the benefit of the SCC members but also to the other
+stakeholders upon whom the commercially incoherent decision of the SCC is
+being thrust.
+
+26.
+The offer of the Appellant could be rejected on two counts - a) If third
+party interests had set into the assets of the Corporate debtor by virtue of a
+full or even a partial sale of its assets and/or if the value that is offered by the
+Appellant is lesser than the realizable liquidation value of the assets. In the
+present case, the Report filed by Respondent No.2, the Official Liquidator,
+clearly discloses the fact that no asset of the Corporate Debtor has been
+subjected to Sale or alienation to create any third-party rights. As set out in
+detail herein above, the value offered by the Appellant for the assets is more
+than twice the assessed fair value of the assets. Therefore, both the scenarios
+under which the offer of the Appellant could be rejected stand nullified.
+
+27.
+Since the liquidation process has not reached an irreversible stage, the
+implementation of the Corporate Debtor can be very well achieved at this point
+of time.
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 13 of 42
+
+28.
+In fact, the said Report also states that the Corporate Debtor is being
+run as a going concern and the same shall be continued if the liquidation of
+the Corporate Debtor is not proceeded with.
+
+29.
+The Appellant/Successful Resolution Applicant has already deposited
+INR 15,00,00,000/- to the account of the Official Liquidator and has Pay
+Orders/Demand Drafts amounting to INR 1,53,00,00,000/- in favour of the
+Official Liquidator, thus completing the payments of the entire Resolution
+Plan amount.
+
+30.
+The inspection of the said Pay Orders/Demand Drafts were presented
+to the Respondents and the same are ready to be disbursed amongst the
+Creditors as soon as the Implementation of the Resolution Plan is acceded to
+by the SCC and the Liquidation of the Corporate Debtor is stayed.
+
+31.
+However, for reasons best known to the Respondents, they are
+obstinately bound on the liquidation of the Corporate Debtor when a much
+more commercially beneficial and a more solid proposal is served to them,
+which shall consequently also benefit the government ex-chequer.
+
+32.
+However, the firm and incomprehensible stance of SBI giving preference
+to liquidation over the resolution of the Corporate Debtor only raises a
+question as to the lack of Commercial Wisdom that is being exercised by the
+SCC Members overruling the commercial wisdom exercise by the CoC by
+approving the Resolution Plan with 100% approval. The SCC merely acts in
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 14 of 42
+
+an advisory and facilitative capacity and remains subservient to the
+commercial wisdom and decisions of the CoC.
+
+33.
+The Respondent No.1, SBI relied on the Judgement of “Asha Chopra &
+Ors. v/s M/s. Hind Motors India Limited” dated 29.08.2024 wherein inter
+alia this Hon’ble Appellate Tribunal decides the question of whether CIRP
+proceedings can be withdrawn after the commencement of Liquidation of the
+Corporate Debtor. However, the crucial element of the said Judgement that
+SBI has failed to take into consideration is that in the said Judgement the
+Appeal before this Hon’ble Appellate Tribunal was with respect to the
+liquidation order of the Corporate Debtor that was confirmed upto the Hon’ble
+Supreme Court, while in the subject Company Appeal filed by the Appellant,
+the Order was only for the implementation of the Resolution Plan of the
+Appellant. Therefore, the Judgement of Asha Chopra does not apply to the
+present matter and has been wrongly relied upon by the Respondent No.1.
+
+34.
+The judgment in State Bank of India & Ors. v. Consortium of Mr.
+Murari Lal Jalan & Anr. concerned the persistent and repeated failure of the
+Successful Resolution Applicant to comply with the essential terms and
+timelines of the Resolution Plan despite multiple opportunities granted by the
+judicial forums, ultimately resulting in the Hon’ble Supreme Court invoking
+its powers under Article 142 to direct liquidation of Jet Airways. The Supreme
+Court emphasized that once a Resolution Plan is approved, the Successful
+Resolution Applicant is bound to strictly comply with its obligations and that
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 15 of 42
+
+repeated defaults and uncertainty in implementation cannot be permitted to
+continue indefinitely.
+
+35.
+However, the said judgment is clearly distinguishable from the present
+case both on facts and in law. In the present matter, the Appellant/Successful
+Resolution Applicant is not seeking any modification, withdrawal,
+renegotiation or dilution of the approved Resolution Plan, unlike the
+circumstances in the Jet Airways matter. On the contrary, the Appellant is
+unequivocally ready and willing to implement the approved Resolution Plan
+in its entirety and has already secured the entire Resolution Plan amount of
+₹227/- Crores, including deposits already made and Pay Orders kept ready
+for immediate disbursal. Further, no irreversible steps in liquidation have
+taken place in the present case, no third-party rights have been created, and
+the Corporate Debtor continues to remain a going concern. The present
+proceedings therefore concern preservation and implementation of an already
+approved Resolution Plan which offers substantially higher and certain value
+to creditors than liquidation.
+
+36.
+The Respondent No. 1 has in fact failed to exercise not just commercial
+wisdom but no wisdom at all. It is therefore fair, necessary and in the interest
+of justice and equity to all the creditors that this Hon’ble Tribunal be pleased
+to accept the Resolution Plan, particularly when the amount of ₹227/- Crores
+being ready and available for disbursement immediately rather than permit a
+time-drawn and uncertain process of liquidation that is invariably
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 16 of 42
+
+accompanied by its own vagaries, more so when the value offered by the
+Appellant is more than twice the value of the assets.
+
+37.
+In view of the aforesaid submissions, it is most respectfully prayed that
+this Hon’ble Tribunal may be pleased to allow this Appeal, set aside the
+impugned order dated 16.10.2026 and direct the Resolution Plan to be
+accepted and thus render justice.
+Submissions of the R1/SBI
+38.
+Vide the Impugned Order, the Ld. NCLT has rightly directed initiation of
+the liquidation process of the Corporate Debtor, while observing that despite
+approval of Taguda’s Resolution Plan on 03.02.2022, the same remained
+unimplemented for over three years due to Taguda’s failure to obtain
+necessary regulatory approvals and funds from the foreign investor.
+
+39.
+The present appeal is barred by finality and principles of res judicata.
+The Appellant’s core pleas vis-a-vis, implementation of Resolution Plan being
+delayed due to RBI approvals, readiness to park funds offshore, and grant of
+further indulgence for implementation, have already been squarely
+considered and rejected by this Hon’ble Tribunal while dismissing Company
+Appeal (AT) (Ins.) No. 351 of 2024 on 30.05.2025 (‘NCLAT Order’) – that too
+with a specific request to the Ld. NCLT to decide the pending liquidation
+application expeditiously.
+
+40.
+Taguda’s challenge against the NCLAT Order met with dismissal by the
+Hon’ble Supreme Court on 23.07.2025, which categorically recorded that
+although the resolution plan had been approved on 03.02.2022, it remained
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 17 of 42
+
+unimplemented even after three years because the SRA/Taguda failed to
+obtain the necessary clearances. The present appeal is thus an impermissible
+collateral attack on orders inter partes that have attained finality and
+deserves to be dismissed at this very threshold. In any case, the Impugned
+Order merely gives effect to the NCLAT’s 30.05.2025 direction, affirmed by
+the Hon’ble Supreme Court, to bring the matter to closure, which is consistent
+with the Code’s time-bound objective.
+
+41.
+Further, the Appellant’s attempt to find a ‘natural justice’ plea based
+on I.A. No. 4253 of 2025 is misconceived. The Ld. NCLT has recorded on
+08.10.2025 that the application was filed after arguments were concluded and
+orders reserved in the liquidation application, wherein post-reservation any
+application does not confer a right to reopen hearings.
+The instant appeal is barred by finality
+42.
+The issues raised by the Appellant in the present Appeal are
+substantially the same as those that were squarely raised and decided against
+the Appellant in Company Appeal (AT) (Ins.) No. 351 of 2024, which was
+dismissed by this Hon’ble Tribunal vide the NCLAT Order dated 30.05.2025.
+This Hon’ble Tribunal had specifically held that no grounds were made out to
+interfere with the December Order and requested the Ld. NCLT to decide the
+pending Liquidation Application expeditiously, preferably within three
+months. The Hon’ble Supreme Court, vide order dated 23.07.2025, dismissed
+the Appellant’s Civil Appeal No. 7648 of 2025 against the NCLAT Order,
+recording that the resolution plan was approved on 03.02.2022 but remained
+unimplemented even after three years because the SRA failed to get the
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 18 of 42
+
+necessary clearances. The present Appeal is therefore an impermissible
+attempt to re-litigate issues that have been conclusively decided against the
+Appellant and attained finality.
+
+43.
+Further, the Ld. NCLT has correctly exercised jurisdiction under
+Section 60(5) of the Code to adjudicate and dispose of the Liquidation
+Application. The Impugned Order merely gives effect to the directions of this
+Hon’ble Tribunal itself and the Hon’ble Supreme Court to bring finality to
+these protracted proceedings, consistent with the Code's time-bound
+objective. As otherwise, the SRA would endlessly delay implementation and
+cause insufferable value erosion of the Corporate Debtor, leaving lenders
+remediless, thus, defeating entire object of the Code.
+There was inordinate delay on part of the Appellant in taking any
+effective steps towards implementing the Resolution Plan
+
+44.
+The main plank of the present Appeal is that the Appellant has been
+making sincere efforts to implement the Resolution Plan and has also been
+pursuing the matter of RBI Approvals, despite which the Impugned Order has
+directed liquidation of the Corporate Debtor. However, the assertion is
+absolutely wrong, as no effective steps were taken towards implementation of
+the resolution plan by the Appellant despite categorical directions by the Ld.
+NCLT vide the December Order and also this Hon'ble Appellate Tribunal vide
+the NCLAT Order. It is undisputed that the Resolution Plan itself, as
+voluntarily submitted by the Appellant, expressly contemplated the
+requirement of obtaining certain regulatory approvals, including approvals
+from the Reserve Bank of India, for the benefit of the Appellant and its
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 19 of 42
+
+proposed foreign investor. Having consciously incorporated these conditions
+into its own Resolution Plan, the Appellant cannot now seek to evade its
+statutory and contractual obligations by taking shelter behind its own failure
+to secure such approvals.
+
+45.
+Section 31(4) of the Code unequivocally mandates that the Successful
+Resolution Applicant shall obtain all approvals required under applicable laws
+for implementation of the Resolution Plan within a period of one year from the
+date of approval of the Resolution Plan. A plain and purposive reading of
+Section 31(4) leaves no manner of doubt that the timelines prescribed therein
+are mandatory and not directory. The deliberate use of the word “shall” by the
+legislature is of critical significance and reflects a clear legislative intent to
+impose a binding and non-negotiable obligation on the Successful Resolution
+Applicant to secure all requisite approvals within the stipulated timeframe. In
+the present case, the mandatory statutory obligation under Section 31(4) was
+further reinforced by Clause 3.1 of the RFRP issued in respect of the
+Corporate Debtor, which expressly stipulates that the Resolution Applicant is
+required to obtain all approvals, including approvals from the Reserve Bank
+of India, necessary for implementation of the Resolution Plan within a period
+of one year from the date of approval of the Resolution Plan. The RFRP
+categorically clarifies that neither the Resolution Professional nor the
+members of the CoC bear any responsibility for procuring such approvals,
+thereby placing the obligation squarely and exclusively upon the Appellant.
+
+46.
+Even if the Appellant had initiated an application before the RBI, such
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 20 of 42
+
+a step, by itself, does not amount to compliance with Section 31(4) of the Code
+or Clause 3.1 of the RFRP. The Appellant was required to take all necessary
+and legally permissible steps to ensure that the requisite approval was
+actually obtained within the prescribed period. Mere pendency of an
+application cannot be used as a shield to indefinitely postpone
+implementation of the Resolution Plan. In the present case, the Appellant
+failed to obtain the requisite approvals despite the lapse of more than three
+(3) years since the passing of the Plan Approval Order. This prolonged inaction
+clearly evidences that the Appellant has used the pendency of regulatory
+approval as a ruse to delay and ultimately avoid implementation of the
+Resolution Plan.
+
+47.
+By way of the NCLAT Order dated 05.07.2024, this Hon’ble Court
+directed the SRA to deposit a sum of ₹225.14 crores with SBI in
+Singapore/UAE, and adjourned the matter to 01.08.2024, recording the
+Appellant’s submission that it was willing to park the balance amount abroad
+to allay the apprehensions of the lenders. Instead of depositing the amount as
+directed, the Appellant, by an email dated 16.07.2024, sought to deviate from
+the NCLAT Order dated 05.07.2024 by proposing, as an interim arrangement,
+to furnish a letter of comfort through its UAE-based financier, citing delays
+in account opening, which was contrary to the express directions of this
+Hon’ble Court. Despite this non-compliance, this Hon’ble Court on
+01.08.2024 granted a further 15 days’ time to the Appellant to deposit the
+balance amount and adjourned the matter to 21.08.2024. The impasse
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 21 of 42
+
+continued when, on 25.09.2024, SBI, DIFC, specifically informed the
+Appellant that under the regulatory framework of the Dubai Financial
+Services Authority (DFSA), it was not permitted to accept deposits where the
+source of funds originated from the UAE state market, and called upon the
+Appellant to immediately transfer the balance amount in terms of the NCLAT
+Order dated 05.07.2024.
+
+48.
+In these circumstances, the Ld. NCLT has rightly taken note of the
+Appellant’s dilatory conduct and correctly directed to initiate liquidation vide
+the Impugned Order, to avoid further erosion of the value of the Corporate
+Debtor, which is fully in consonance with the scheme of the Code.
+The Impugned Order is rightly passed in furtherance of the objectives of the
+Code and to preserve the value of the Corporate Debtor
+
+49.
+The Impugned Order directing liquidation of the Corporate Debtor on
+account of the Appellant’s persistent and inordinate failure to implement the
+approved Revised Resolution Plan is in full consonance with the foundational
+objectives of the Code. While the Code undoubtedly prioritises resolution over
+liquidation, such preference is neither absolute nor unconditional. The
+overarching aim of the Code is value maximisation through a time-bound
+process, and not the perpetuation of an unworkable or illusory resolution at
+the cost of continuous value erosion. The Ld. NCLT has correctly recognised
+that endless indulgence under the guise of resolution, where implementation
+remains uncertain and repeatedly deferred, defeats the very purpose of the
+Code.
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 22 of 42
+
+50.
+The Ld. NCLT rightly exercised jurisdiction under Section 33 of the
+Code, which mandates initiation of liquidation where the resolution process
+has failed or the approved resolution plan is not implemented within a
+reasonable and time-bound framework. In the present case, the Appellant
+failed to take effective steps towards implementation for more than three years
+after plan approval, including failure to secure mandatory regulatory
+approvals such as RBI permissions.
+
+51.
+The necessity of liquidation is further underscored by tangible evidence
+of ongoing and irreversible value destruction. Financial creditors continue to
+suffer weekly interest losses, while the Corporate Debtor’s principal
+businesses, being ferrous metal trading and wind power generation, are
+asset-intensive and particularly susceptible to degradation over time. More
+than three years have gone by post-approval, creditors have received no value,
+and the Corporate Debtor’s estate stands materially impaired. In these
+circumstances, the Appellant’s conduct does not inspire confidence and
+demonstrates a pattern of delay rather than bona fide efforts towards
+implementation. Where the successful resolution applicant itself frustrates
+the process through inaction, liquidation becomes not only permissible but
+necessary to preserve value and bring finality. The Ld. NCLT has correctly
+relied upon the judgment of the Hon’ble Supreme Court in State Bank of
+India v. Consortium of Murari Lal Jalan and Florian Fritsch, 2024 SCC
+Online SC 3945, wherein it was recognised that while resolution is preferred,
+it cannot be pursued endlessly to the detriment of stakeholders and erosion
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 23 of 42
+
+of value, and that liquidation is warranted where resolution becomes
+impracticable or illusory.
+Erroneous and misleading claim of multiple payment proposals by the
+Appellant
+
+52.
+The Appellant’s contention that it had proposed payment of the entire
+resolution amount upfront is patently misleading and factually untenable. No
+such proposal, whether for an upfront payment or for any modification in the
+payment structure, was ever placed before the lenders and/or the erstwhile
+CoC, who alone are competent to consider and approve any variation to the
+terms or timelines of an approved Resolution Plan. The so-called ‘upfront
+payment’ construct was never subjected to commercial scrutiny by the lenders
+nor approved in accordance with the statutory framework. Instead, this offer
+was advanced for the first time in IA No. 4253/2025, filed unilaterally before
+the Ld. NCLT. Such a post facto and unilateral submission before the Ld. NCLT
+cannot cure the Appellant’s admitted non-compliance with the Revised
+Resolution Plan as approved, nor can it substitute the mandatory approval of
+the lenders for any alteration to the commercial terms of the plan. The NCLT
+is not a forum for entertaining ex-parte renegotiation or restructuring of
+payment mechanics under an approved resolution plan, particularly after the
+Resolution Applicant has defaulted on material milestones. It is well settled
+that the sanctity of the CoC’s commercial wisdom and the finality of the
+approved plan cannot be undermined through collateral applications before
+the NCLT.
+
+53.
+Significantly, the Appellant’s IA was filed only after the Ld. NCLT had
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 24 of 42
+
+extensively heard the Liquidation Application and had reserved orders
+therein. The timing itself betrays the lack of bona fides and reinforces that
+the alleged proposal was a belated afterthought, intended solely to stave off
+the inevitable consequences of prolonged non-implementation. A proposal that
+is neither approved by the lenders nor placed before the competent
+stakeholders, and which surfaces only after conclusion of hearings, does not
+merit consideration in law. Having admittedly failed to implement the Revised
+Resolution Plan within the prescribed and extended timelines, the Appellant
+cannot rely on an unapproved, procedurally infirm, and post-hoc “proposal”
+to avoid the legal consequences of its own default. The Impugned Order,
+therefore, rightly rejected such belated attempts and directed liquidation, in
+consonance with the statutory scheme and settled jurisprudence.
+
+54.
+Even after the Impugned Order dated 16.10.2025 directing liquidation,
+the Appellant has continued with its dilatory tactics. Pursuant to an order
+dated 23.03.2026 passed by this Hon’ble Tribunal, the SRA submitted a fresh
+offer to the financial creditors and operational creditors on 07.04.2026, which
+was placed before the Stakeholders’ Consultation Committee (‘SCC’) for
+deliberation in its 6th SCC Meeting held on 20.04.2026. The SCC, after
+extensive deliberations, rejected the SRA’s offer and decided to proceed with
+the liquidation process with an overwhelming majority of 81.778%. The
+grounds for rejection included: (i) consistent pattern of delay by the SRA over
+the past several years; (ii) failure to deposit actual funds, with only scanned
+copies of demand drafts/pay orders aggregating to Rs.135 crore being shared
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 25 of 42
+
+via email without physical instruments or realizable funds being received; (iii)
+lack of clarity on source of funds and timeline for implementation; (iv) the
+SRA’s reliance on the Corporate Debtor’s own cash balance accumulated
+during CIRP and liquidation as part of the amount to be paid to financial
+creditors; and (v) absence of demonstrated intent through actual fund
+infusion despite multiple opportunities granted by the Hon’ble NCLT, NCLAT,
+and Supreme Court.
+
+55.
+Thus, in view of the foregoing submissions, the Respondent No. 1
+submits that the captioned Appeal has no merit and shall be dismissed with
+exemplary costs. The Appellant’s consistent failure to implement the Revised
+Resolution Plan for over three years, coupled with its repeated dilatory tactics,
+has frustrated the core objectives of the Code. The Impugned Order rightly
+brings finality to this protracted process, prioritizing value preservation over
+an endless and illusory resolution. The Appeal is, therefore, a misuse of
+process and deserves to be dismissed with exemplary costs.
+
+Submissions of R2/Liquidator
+56.
+Respondent No. 2 is the Liquidator of the Ushdev International Limited
+(“Corporate Debtor”). The Corporate Debtor was admitted into Liquidation
+vide order dated 16.10.2025 (“Liquidation order”),1 passed by the National
+Company Law Tribunal, Mumbai Bench – II, (“Ld. NCLT”) in CP (IB) No.
+1790/MB/2017 (“Petition”), pursuant to which, the Respondent No. 2 was
+appointed as the Liquidator.
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 26 of 42
+
+57.
+Taguda Pte. Limited (“Appellant”) was the Successful Resolution
+Professional of the Corporate Debtor, whose revised Resolution Plan was
+approved by the Ld. NCLT vide order 03.02.2022 (“Plan Approval Order”). As
+per the payment scheme enumerated under the Appellant’s Resolution Plan,
+it was required to remit a payment of INR 227 Crore, in five (5) tranches (“total
+plan value”), to the creditors and other stakeholders of the Corporate Debtor.
+Pertinently, an amount of INR 225 Crore out of the total plan value was to be
+disbursed in favour of the financial creditors.
+
+58.
+However, the Appellant repeatedly failed to perform its obligations
+under the Resolution Plan and, despite lapse of more than two (2) years from
+the Plan Approval Order, failed to disburse the entire amount contemplated
+thereunder, notwithstanding the numerous opportunities granted by the
+financial creditors, including State Bank of India (“Respondent No.1”).
+Pursuant to such non – implementation of the Resolution Plan by the
+Appellant, the Respondent No. 1 filed IA No. 33 of 2024 before the Ld. NCLT
+in the aforesaid Petition, seeking initiation of liquidation proceedings against
+the Corporate Debtor, which was subsequently allowed vide the Liquidation
+Order. The captioned Appeal has been filed by the Appellant, assailing the
+Liquidation Order passed by Ld. NCLT.
+
+59.
+During the pendency of the liquidation proceedings of the Corporate
+Debtor, the Appellant had proposed to make a one-time payment of the entire
+amount contemplated under the Resolution Plan, for fulfilment of its
+obligation. However, the Appellant’s proposal has been rejected by the
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 27 of 42
+
+Stakeholders Consultation Committee (“SCC”) in the 6th and 7th SCC meeting,
+who are opinion that they have no faith in the Appellant, and that the proposal
+made by the Appellant is merely a delaying tactic without actual deposit of
+amount in liquidation account, without any intent to perform even after four
+(4) years from the date of Plan Approval Order.
+
+60.
+In view of the above, it is submitted that the Appellant had remitted
+merely an amount of INR 15 Crore in the liquidation account of the Corporate
+Debtor in January, 2026, against the total plan value of INR 227 Crore. No
+further amount has been remitted by the Appellant in the liquidation account
+of the Corporate Debtor.
+
+61.
+It is further submitted that so far, the Respondent No. 2 has taken the
+following steps qua the liquidation proceedings of the Corporate Debtor:
+i.
+Respondent No. 2 undertook the process of examination,
+verification and admission/rejection of claims submitted
+by various stakeholders and updated list of stakeholders,
+along with the composition of the SCC as on 23.04.2026;
+
+ii.
+The status of claims admitted, has been duly circulated
+to the SCC members and filed before the Ld. NCLT on
+30.04.2026.
+
+iii. An updated Asset Memorandum dated 28.04.2026,
+based on valuation reports received, has also been
+prepared and filed before the Ld. NCLT on 30.04.2026.
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 28 of 42
+
+62.
+The valuation process of the assets of the Corporate Debtor has been
+completed, and further steps in the liquidation process are presently
+underway. Pursuant thereto, the average current market value of the total
+assets of the Corporate Debtor has been assessed at INR 2,41,49,15,893/-,
+while the average liquidation value total assets of the has been determined at
+INR 2,02,58,85,165/-. However, the State bank of India and the Canara
+bank have not relinquished their charge on Windmill and land located in
+Satara and Theni respectively. Therefore, the average market value of the
+liquidation estate of the Corporate Debtor has been assessed at INR
+1,99,72,71,229/-, whereas the liquidation value of the liquidation estate of
+the corporate debtor has been assessed at INR 1,67,84,69,169/-.
+
+63.
+Pursuant to the decision taken in the 7th SCC meeting dated
+18.05.2026, an amount of INR 41,05,08,625/-, out of surplus fund of INR
+50.93 crore held in FDR being the proceeds generated from the business
+operations of the Corporate Debtor, came to be disbursed amongst the
+secured financial creditor members of the SCC after paying CIRP and
+Liquidation cost on 20.05.2026.
+Analysis and Evaluation
+64.
+The Corporate Insolvency Resolution Process (“CIRP”) of Ushdev
+International Limited (“UIL”) a Company incorporated under the Companies
+Act, 1956, (“Corporate Debtor”) commenced vide order dated 17.05.2018
+passed by the Hon’ble Tribunal. The Appellant, Taguda Pte. Limited herein is
+the Successful Resolution Applicant of Ushdev International Limited (“UIL”)
+the Corporate Debtor, herein. In the Present filed by the Appellant it
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 29 of 42
+
+challenges Impugned Liquidation Order dt.16.10.2025 passed by the Hon’ble
+National Company Law Tribunal, Mumbai Bench (hereinafter referred to as
+“the Hon’ble Tribunal”) in the Interlocutory Application No. 33 of 2024 in the
+Company Petition (IB) No. 1790 of 2017 filed under Section 7 of the Insolvency
+& Bankruptcy Code, 2016 (“the Code”) read along with Rule 11 of the National
+Company Law Tribunal Rules, 2016 (“the NCLT Rules”). NCLT vide Impugned
+Order dated 16.10.2025 allowed the Liquidation of Ushdev International
+Limited, the Corporate Debtor.
+
+65.
+We observe that Taguda Pte. Limited (“Appellant”) was the Successful
+Resolution Professional of the Corporate Debtor, whose revised Resolution
+Plan was approved by the Ld. NCLT vide order 03.02.2022 (“Plan Approval
+Order”). As per the payment scheme enumerated under the Appellant’s
+Resolution Plan, it was required to remit a payment of INR 227 Crore, in five
+(5) tranches (“total plan value”), to the creditors and other stakeholders of the
+Corporate Debtor. Pertinently, an amount of INR 225 Crore out of the total
+plan value was to be disbursed in favour of the financial creditors. However,
+the Appellant repeatedly failed to perform its obligations under the Resolution
+Plan and, despite lapse of more than two (2) years from the Plan Approval
+Order, failed to disburse the entire amount contemplated thereunder,
+notwithstanding the numerous opportunities granted by the financial
+creditors, including State Bank of India (“Respondent No. 1”).
+
+66.
+Pursuant to such non – implementation of the Resolution Plan by the
+Appellant, the Respondent No. 1 filed IA No. 33 of 2024 before the Ld. NCLT
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 30 of 42
+
+in the aforesaid Petition, seeking initiation of liquidation proceedings against
+the Corporate Debtor, which was subsequently allowed vide the Liquidation
+Order. The captioned Appeal has been filed by the Appellant, assailing the
+Liquidation Order passed by Ld. NCLT.
+
+67.
+While analyzing the relief sought, it will be appropriate to delve into the
+background in which during the pendency of the liquidation proceedings of
+the Corporate Debtor, the Appellant had proposed to make a one-time
+payment of the entire amount contemplated under the Resolution Plan, for
+fulfilment of its obligation by filing an Interlocutory Application No. 4253 of
+2025 dated 31.07.2025 with a proposal to make a one-time, unconditional
+Payment of the entire Resolution Plan; the gist of the repayment plan is as
+extracted below:
+Date
+Amount (INR)
+15.08.2025
+₹98,14,00,000/- equivalent to the first 2
+tranches of payment under the terms of the
+Resolution Plan.
+
+After
+adjusting
+amount
+of
+performance
+guarantee
+and
+bid
+guarantee
+of
+₹18,00,00,000/- appropriated by Financial
+Creditors and an amount of ₹41,00,00,000/-
+cash balances with Corporate Debtor which
+are available to the Appellant as per provision
+of the Resolution Plan.
+
+The balance amounting to ₹39,14,00,000/-.
+31.10.2025
+₹ 500,000,000/-
+30.11.2025
+₹ 500,000,000/-
+31.12.2025
+₹ 270,000,000/-
+
+[PAGE 31]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 31 of 42
+
+68.
+However, the Appellant’s proposal has been rejected by the
+Stakeholders Consultation Committee in the 6th and 7th SCC meeting, who
+were of the opinion that they have no faith in the Appellant, and that the
+proposal made by the Appellant is merely a delaying tactic without actual
+deposit of amount in liquidation account, without any intent to perform even
+after four (4) years from the date of Plan Approval Order.
+
+69.
+In this background we observe that it is the prayer in this appeal that
+payment plan was not considered by the Adjudicating Authority and without
+any bona fide reason the Adjudicating Authority dismissed the interlocutory
+application and the impugned order was passed by the Adjudicating Authority
+in IA No. 33/MB/2024 CP(IB) No. 1790/MB/2017, thereby ordering for the
+liquidation of the Corporate Debtor.
+
+70.
+We note that the appellant has prayed for setting aside the impugned
+liquidation order dated 16.10.2025, also requested to remand the
+Interlocutory Application No.253 of 2025 in the Interlocutory Application No.
+33 of 2024 in Company Petition (IB) No. 1790 of 2017 to ensure that a fair
+hearing of the said Interlocutory Application is conducted and also requested
+to accept the Appellant's one-time unconditional payment proposal towards
+the resolution plan.
+
+71.
+Basis the material placed on record, we now delve into the merits of the
+reliefs sought by the Appellant.
+
+[PAGE 32]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 32 of 42
+
+72.
+Before considering the reliefs sought in detail, we observe that despite
+approval of Appellant-SRA-Taguda’s Resolution Plan on 03.02.2022, the same
+remained unimplemented for over three years due to appellant-SRA- Taguda’s
+failure to obtain necessary regulatory approvals and funds from the foreign
+investor.
+
+73.
+We further observe that the Appellant’s core pleas vis-a-vis,
+implementation of Resolution Plan being delayed due to RBI approvals,
+readiness to park funds offshore, and grant of further indulgence for
+implementation, were squarely considered and rejected by this Appellate
+Tribunal while dismissing Company Appeal (AT) (Ins.) No. 351 of 2024 on
+30.05.2025 (‘NCLAT Order’) – and also with a request to the Ld. NCLT to
+decide the pending liquidation application expeditiously.
+
+74.
+The Appellant-SRA-Taguda’s challenged the order of this appellate
+tribunal, which was met with dismissal by the Hon’ble Supreme Court on
+23.07.2025, which categorically recorded that although the resolution plan
+had been approved on 03.02.2022, it remained unimplemented even after
+three years because the SRA/Taguda failed to obtain the necessary clearances.
+
+75.
+The issues raised by the Appellant in the present Appeal are
+substantially the same as those that were squarely raised and decided against
+the Appellant in Company Appeal (AT) (Ins.) No. 351 of 2024, which was
+dismissed by this Appellate Tribunal vide the NCLAT Order dated 30.05.2025.
+This Appellate Tribunal had specifically held that no grounds were made out
+to interfere with the December Order and requested the Ld. NCLT to decide
+
+[PAGE 33]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 33 of 42
+
+the pending Liquidation Application expeditiously, preferably within three
+months. The Hon’ble Supreme Court, vide order dated 23.07.2025, dismissed
+the Appellant’s Civil Appeal No. 7648 of 2025 against the NCLAT Order,
+recording that the resolution plan was approved on 03.02.2022 but remained
+unimplemented even after three years because the SRA failed to get the
+necessary clearances. We find that the present Appeal is an impermissible
+attempt to re-litigate issues that have been conclusively decided against the
+Appellant and attained finality. It is an impermissible collateral attack on
+orders inter partes that have attained finality. We further observe that the
+Impugned Order gives effect to the NCLAT’s 30.05.2025 direction which was
+even affirmed by the Hon’ble Supreme Court, to bring the matter to closure,
+which is consistent with the Code’s time-bound objective. Thus, in our view,
+the present appeal is barred by finality and principles of res judicata.
+
+76.
+We further observe that the appellants attempt to seek natural justice
+based on I.A. 4253 of 2025 is misconceived. Adjudicating authority has
+recorded on 08.10.2025 that the application was filed after arguments were
+concluded and orders reserved in the liquidation application, wherein post-
+reservation any application does not confer a right to reopen hearings. The
+timing of the filing of the IA by the Appellant - after the NCLT had extensively
+heard the Liquidation Application and had reserved orders therein- itself
+betrays the lack of bona fides and reinforces that the alleged proposal was a
+belated afterthought, intended solely to stave off the inevitable consequences
+of prolonged non-implementation. In our view a proposal that is neither
+approved by the lenders nor placed before the competent stakeholders, and
+
+[PAGE 34]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 34 of 42
+
+which surfaces only after conclusion of hearings, does not merit
+consideration. Having admittedly failed to implement the Revised Resolution
+Plan within the prescribed and extended timelines, the Appellant cannot rely
+on an unapproved, procedurally infirm, and post-hoc “proposal” to avoid the
+legal consequences of its own default. We find that filing of such an
+interlocutory application is a dilatory tactic and an attempt to derail the
+process of liquidation and would endlessly delay the implementation and
+cause insufferable value erosion of the Corporate Debtor, leaving lenders
+remediless, thus, defeating entire object of the Code. The Impugned Order,
+therefore, rightly rejected such belated attempts and directed liquidation, in
+consonance with the statutory scheme and settled jurisprudence.
+
+77.
+It is also brought on record by Respondent No.1 that even after the
+Impugned Order dated 16.10.2025 directing liquidation, the Appellant has
+continued with its dilatory tactics. Pursuant to an order dated 23.03.2026
+passed by this Appellate Tribunal, the SRA submitted a fresh offer to the
+financial creditors and operational creditors on 07.04.2026, which was placed
+before the Stakeholders’ Consultation Committee (‘SCC’) for deliberation in its
+6th SCC Meeting held on 20.04.2026. The SCC, after extensive deliberations,
+rejected the SRA’s offer and decided to proceed with the liquidation process
+with an overwhelming majority of 81.778%. The grounds for rejection
+included: (i) consistent pattern of delay by the SRA over the past several years;
+(ii) failure to deposit actual funds, with only scanned copies of demand
+drafts/pay orders aggregating to ₹135 crore being shared via email without
+physical instruments or realizable funds being received; (iii) lack of clarity on
+
+[PAGE 35]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 35 of 42
+
+source of funds and timeline for implementation; (iv) the SRA’s reliance on the
+Corporate Debtor’s own cash balance accumulated during CIRP and
+liquidation as part of the amount to be paid to financial creditors; and (v)
+absence of demonstrated intent through actual fund infusion despite multiple
+opportunities granted by the Hon’ble NCLT, NCLAT and Supreme Court.
+
+78.
+We note that the main argument canvassed by the appellant is that it
+has been making sincere efforts to implement the resolution plan and has
+also been pursuing the matter of RBI approvals. Despite that the Adjudicating
+Authority has passed the impugned order for liquidation of the corporate
+debtor. We observe that the Resolution Plan itself, expressly contemplated the
+requirement of obtaining certain regulatory approvals, including approvals
+from the Reserve Bank of India, for the benefit of the Appellant and its
+proposed foreign investor. Having incorporated these conditions into its own
+Resolution Plan, the Appellant cannot now seek to evade its statutory and
+contractual obligations by taking shelter behind its own failure to secure such
+approvals. The Appellant may be making efforts but we note that these were
+not effective steps towards implementation of the resolution plan despite
+categorical directions by the Ld. NCLT vide the December Order and also this
+Appellate Tribunal’s orders.
+
+79.
+We further observe that per Section 31(4) of the Code, the Successful
+Resolution Applicant shall obtain all approvals required under applicable laws
+for implementation of the Resolution Plan within a period of one year from the
+date of approval of the Resolution Plan. In the present case, the mandatory
+
+[PAGE 36]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 36 of 42
+
+statutory obligation under Section 31(4) was further reinforced by Clause 3.1
+of the RFRP issued in respect of the Corporate Debtor, which expressly
+stipulates that the Resolution Applicant is required to obtain all approvals,
+including approvals from the Reserve Bank of India, necessary for
+implementation of the Resolution Plan within a period of one year from the
+date of approval of the Resolution Plan. The RFRP categorically clarifies that
+neither the Resolution Professional nor the members of the CoC bear any
+responsibility for procuring such approvals, thereby placing the obligation
+squarely and exclusively upon the Appellant.
+
+80.
+We also agree with the arguments of the respondents that even if the
+Appellant had initiated an application before the RBI, such a step, by itself,
+does not amount to compliance with Section 31(4) of the Code or Clause 3.1
+of the RFRP. The Appellant was required to take all necessary and legally
+permissible steps to ensure that the requisite approval was actually obtained
+within the prescribed period. Mere pendency of an application cannot be used
+as a shield to indefinitely postpone implementation of the Resolution Plan. In
+the present case, the Appellant failed to obtain the requisite approvals despite
+the lapse of more than three (3) years since the passing of the Plan Approval
+Order. This prolonged inaction clearly evidences that the Appellant has used
+the pendency of regulatory approval as a ruse to delay and ultimately avoid
+implementation of the Resolution Plan.
+
+81.
+Briefly looking at the opportunities provided to the appellant for the
+implementation of the resolution plan, we observe that vide NCLAT Order
+
+[PAGE 37]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 37 of 42
+
+dated 05.07.2024, this Appellate Tribunal directed the SRA to deposit a sum of
+₹225.14 crores with SBI in Singapore/UAE, while recording the Appellant’s
+submission that it was willing to park the balance amount abroad to allay the
+apprehensions of the lenders. Instead of depositing the amount as directed,
+the Appellant, by an email dated 16.07.2024, sought to deviate from the
+NCLAT’s Order dated 05.07.2024 by proposing, as an interim arrangement,
+to furnish a letter of comfort through its UAE-based financier, citing delays in
+account opening, which was contrary to the express directions of this
+Appellate Tribunal. Despite this non-compliance, this Appellate Tribunal on
+01.08.2024 granted a further 15 days’ time to the Appellant to deposit the
+balance amount. The impasse continued when, on 25.09.2024, SBI, DIFC,
+specifically informed the Appellant that under the regulatory framework of the
+Dubai Financial Services Authority (DFSA), it was not permitted to accept
+deposits where the source of funds originated from the UAE state market, and
+called upon the Appellant to immediately transfer the balance amount in
+terms of the NCLAT Order dated 05.07.2024. In these circumstances, the
+Adjudicating authority has rightly taken note of the Appellant’s dilatory
+conduct and correctly directed to initiate liquidation vide the Impugned Order,
+to avoid further erosion of the value of the Corporate Debtor, which is fully in
+consonance with the scheme of the Code.
+
+82.
+We also take note of the fact that the Appellant had remitted merely an
+amount of INR 15 Crore in the liquidation account of the Corporate Debtor in
+January, 2026, against the total plan value of INR 227 Crore. No further
+
+[PAGE 38]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 38 of 42
+
+amount has been remitted by the Appellant in the liquidation account of the
+Corporate Debtor. On the contrary Respondent No.1-SBI brings to our notice
+that the Appellant’s contention that it had proposed payment of the entire
+resolution amount upfront is patently misleading and factually untenable. No
+such proposal, whether for an upfront payment or for any modification in the
+payment structure, was ever placed before the lenders and/or the erstwhile
+CoC, who alone are competent to consider and approve any variation to the
+terms or timelines of an approved Resolution Plan. The so-called ‘upfront
+payment’ construct was never subjected to commercial scrutiny by the lenders
+nor approved in accordance with the statutory framework. Instead, this offer
+was advanced for the first time in IA No. 4253/2025, filed unilaterally before
+the Ld. NCLT. We agree with the contention of Respondent No.1-SBI that such
+a post facto and unilateral submission before the Ld. NCLT cannot cure the
+Appellant’s admitted non-compliance with the Revised Resolution Plan as
+approved, nor can it substitute the mandatory approval of the lenders for any
+alteration to the commercial terms of the plan. We also agree with the
+contention of Respondent No.1-SBI that the NCLT is not a forum for
+entertaining ex-parte renegotiation or restructuring of payment mechanics
+under an approved resolution plan, particularly after the Resolution Applicant
+has defaulted on material milestones. The sanctity of the CoC’s commercial
+wisdom and the finality of the approved plan cannot be undermined through
+collateral applications before the NCLT.
+
+[PAGE 39]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 39 of 42
+
+83.
+We further observe that the Impugned Order directing liquidation of the
+Corporate Debtor on account of the Appellant’s persistent and inordinate
+failure to implement the approved Revised Resolution Plan is in full
+consonance with the foundational objectives of the Code. While the Code
+undoubtedly prioritizes resolution over liquidation, such preference is neither
+absolute nor unconditional. The overarching aim of the Code is value
+maximization through a time-bound process, and not the perpetuation of an
+unworkable or illusory resolution at the cost of continuous value erosion.
+Endless indulgence under the guise of resolution, where implementation
+remains uncertain and repeatedly deferred, defeats the very purpose of the
+Code. Where the resolution process has failed or the approved resolution plan
+is not implemented within a reasonable and time-bound framework the
+jurisdiction under Section 33 of the Code, mandating initiation of liquidation
+is rightly exercised by the AA and it cannot be faulted. In the present case, the
+Appellant failed to take effective steps towards implementation for more than
+three years after plan approval, including failure to secure mandatory
+regulatory approvals such as RBI permissions. The necessity of liquidation is
+further underscored by tangible evidence of ongoing and irreversible value
+destruction. Financial creditors continue to suffer weekly interest losses,
+while the Corporate Debtor’s principal businesses, being ferrous metal trading
+and wind power generation, are asset-intensive and particularly susceptible
+to degradation over time. More than three years have gone by post-approval,
+creditors have received no value, and the Corporate Debtor’s estate stands
+materially impaired. In these circumstances, the Appellant’s conduct does not
+
+[PAGE 40]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 40 of 42
+
+inspire confidence and demonstrates a pattern of delay rather than bona fide
+efforts towards implementation. Where the successful resolution applicant
+itself frustrates the process through inaction, liquidation becomes not only
+permissible but necessary to preserve value and bring finality.
+
+84.
+Even the Hon’ble Supreme Court in State Bank of India v.
+Consortium of Murari Lal Jalan and Florian Fritsch, 2024 SCC Online SC
+3945, has recognized that while resolution is preferred, it cannot be pursued
+endlessly to the detriment of stakeholders and erosion of value, and that
+liquidation is warranted where resolution becomes impracticable or illusory.
+Thus, we find that the Impugned Order is rightly passed in furtherance of the
+objectives of the Code and to preserve the value of the Corporate Debtor.
+
+85.
+The Appellant has canvassed another argument that the Resolution
+Plan amount is more than double the value of the Liquidation of the Corporate
+Debtor. Therefore, implementation of the Plan shall greatly benefit not just
+the Corporate Debtor, but also the Stakeholders, the Financial Creditors, the
+employees, the management, etc. Liquidation is a long-drawn and value-
+destructive process, wherein recoveries are uncertain. Thus, in these
+circumstances, the implementation of the Resolution Plan, as opposed to the
+Liquidation of the Corporate Debtor would maximise the recovery scale of the
+Financial Creditors, while also enabling the continuity of the business and
+maintenance of the Stakeholder value. The appellant also contends that the
+liquidation valuation of the Corporate Debtor is highly inflated in an attempt
+to draw it closer to the Resolution Plan Amount and to justify the decision of
+
+[PAGE 41]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 41 of 42
+
+the SCC to refuse to exercise commercial wisdom that any prudent man would
+be able to apprehend. The attempt to portray liquidation as commercially
+beneficial is founded upon an artificially inflated valuation exercise
+undertaken during liquidation. The strong resolve of the Stakeholders
+Consultation Committee (“SCC”) to initiate Liquidation of the Corporate
+Debtor over implementation of the Resolution Plan is unintelligible and
+indecipherable since the present scenario the liquidation amount is lesser
+than the Resolution Plan amount and instead the Creditors and stakeholders
+shall suffer huge losses if the Liquidation is proceeded with. The appellant
+also claims that the stubborn stance of the SCC to liquidate the Corporate
+Debtor, when the Appellant/Successful Resolution Professional is ready with
+the entire amount of ₹227/- crores immediately is not just detrimental to the
+benefit of the SCC members but also to the other stakeholders upon whom
+the commercially incoherent decision of the SCC is being thrust. Vehemently,
+opposing such arguments the liquidator has brought to our notice that during
+the pendency of the liquidation proceedings of the Corporate Debtor, the
+Appellant had proposed to make a one-time payment of the entire amount
+contemplated under the Resolution Plan, for fulfilment of its obligation.
+However, the Appellant’s proposal has been rejected by the Stakeholders
+Consultation Committee in the 6th and 7th SCC meeting, who are of the
+opinion that they have no faith in the Appellant, and that the proposal made
+by the Appellant is merely a delaying tactic without actual deposit of amount
+in liquidation account, without any intent to perform even after four (4) years
+from the date of Plan Approval Order.
+
+[PAGE 42]
+Company Appeal (AT) (Insolvency) No. 1710 of 2025 42 of 42
+
+86.
+Reliance placed by the Appellant on the judgments with respect to State
+Bank of India (supra) and Asha Chopra & Ors. (supra) are of no assistance
+to the Appellant as the facts are distinguishable in the present case.
+Orders
+87.
+In the facts and circumstances of the case, we find that the Appellant's
+consistent failure to implement the Revised Resolution Plan for over three
+years, coupled with its repeated dilatory tactics, has frustrated the core
+objectives of the Code. The Impugned Order rightly brings finality to this
+protracted process, prioritizing value preservation over an endless and
+illusory resolution and therefore we do not find any infirmity in the impugned
+order. Accordingly, the appeal is dismissed. All related IA’s are also disposed
+of accordingly. We further find that the appellant has wasted precious judicial
+time in multiple appeals and has not allowed the proceedings under the Code
+to move on swiftly and has thus has misused the judicial process and
+deserves to be dismissed with a cost of ₹5 Lakhs, to be deposited in Prime
+Minister Care Fund.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+July 06, 2026.
+
+pawan

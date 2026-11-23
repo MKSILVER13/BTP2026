@@ -1,0 +1,356 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, PRINCIPAL BENCH,
+NEW DELHI
+Company Appeal (AT) (Ins) No. 463 of 2026
+[Arising out of the Impugned Order dated 16.01.2026 passed by the
+Adjudicating Authority, National Company Law Tribunal, Cuttack Bench
+in CP (IB) NO. 33/CB/2025]
+IN THE MATTER OF:
+M/S. SHIVANI ENTERPRISES
+(Represented by its partner, Mr. Anirudh Prashad Agarwal)
+Registered Office at: #318, Maheshwari Chambers,
+Somajiguda, Hyderabad-500 082, Telangana
+
+...Appellant
+VERSUS
+M/S. S SQUARE CARGO MOVERS PRIVATE LIMITED
+Registered Office at: 29/09,
+Nehru Nagar East, Bhilai, Durg,
+Chhattisgarh-490020
+Motilal Nehru Nagar,
+
+...Respondent
+
+Present:
+For Appellant :
+Mr. Amir Bavani, Mr. Milan Singh Negi and Ms.
+Rishika Kumar, Advocates.
+For Respondents :
+None
+O R D E R
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of the Insolvency and
+Bankruptcy Code 2016 (‘IBC’ in short) by the Appellant-Operational Creditor
+arises out of the Order dated 16.01.2026 (herein after referred as ‘Impugned
+Order’) passed by the Adjudicating Authority, National Company Law
+Tribunal, Cuttack Bench in CP (IB) NO. 33/CB/2025. By the impugned order,
+the Adjudicating Authority has dismissed the Section 9 application filed by
+the Appellant on the ground of the operational debt claimed not meeting the
+
+[PAGE 2]
+Page 2 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+threshold limit. Aggrieved by the impugned order, the present appeal has been
+preferred by the Appellant.
+2.
+The Ld. Counsel for the Appellant, Shri Amir Bavani, giving a brief
+factual background of the matter at hand, submitted that the Appellant-
+Operational Creditor had supplied goods to the Corporate Debtor for which
+they raised invoices aggregating Rs. 1,52,02,816/- against which the
+Corporate Debtor- M/s S Square Cargo Movers Pvt. Ltd. made part-payment
+of Rs. 48,58,837/- leaving the principal amount of Rs. 70,54,167/- as
+outstanding. Since the invoices clearly stipulated levy of compounded interest
+@ 3% p.a on delayed payments, computing the interest liability alongwith the
+principal amount, a total amount of Rs. 1,06,09,920/- stood due and payable.
+As the goods supplied by the Appellant had been received and accepted by
+the Corporate Debtor without raising any disputes, but the Corporate Debtor
+did not release payment thereof, a Section 8 demand notice was issued to the
+Corporate Debtor on 03.03.2025 by the Operational Creditor. The Corporate
+Debtor not having repaid the outstanding amount, the Appellant-Operational
+Creditor filed a Section 9 petition. The Adjudicating Authority gave sufficient
+opportunity to the Respondent-Corporate Debtor to submit their reply but on
+not receiving their reply, proceeded ex-parte. The Section 9 application was
+however dismissed by Adjudicating Authority on threshold grounds, aggrieved
+by which order, the present appeal has been preferred by the Appellant.
+3.
+Assailing the impugned order, it was submitted by the Ld. Counsel for
+the Appellant that the Adjudicating Authority had failed to appreciate that in
+the present factual matrix, the foundational requirements under Section 9 of
+the IBC stood fully satisfied in that there was substantial evidence to show
+
+[PAGE 3]
+Page 3 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+existence of operational debt and default which default amount exceeded the
+statutory limits prescribed under Section 4 of the IBC. It was added that the
+Corporate Debtor in their reply dated 18.03.2025 and 13.03.2025 to the
+Section 8 Demand Notice had acknowledged their outstanding liability
+without disputing the principal amount. Furthermore, when there was no pre-
+existing dispute surrounding the debt and default thereto, the Adjudicating
+Authority could not have rejected the Section 9 application. It was further
+added that the Adjudicating Authority had wrongly relied on the judgment of
+this Tribunal in Pramod Kumar Jain Vs Mangesh Vitthal Kekre in
+CA(AT)(Ins) No. 617 of 2024 to conclude that interest liability could not have
+been added to the principal amount and therefore after excluding the interest
+amount held that the operational debt had failed to meet the threshold bar. It
+was asserted that this judgment was clearly distinguishable on facts as in
+that case, the Section 9 application was filed solely for recovery of interest in
+the absence of any outstanding principal amount.
+4.
+Elaborating their arguments further, submission was pressed by the
+Appellant that the Adjudicating Authority had erred in not taking into account
+the accrued interest though interest liability was clearly stipulated in the
+invoices which invoices constituted binding contract between the parties.
+Moreover, when the Corporate Debtor had not disputed the interest clause
+contained in the invoices at any time prior to issue of Section 8 demand notice,
+it amounted to unequivocal acceptance of the terms of invoice including the
+interest clause by the Corporate Debtor. Hence, the Adjudicating Authority
+could not have disregarded the interest component reflected in the invoices.
+In support of their contention, it was emphatically asserted that the judgment
+
+[PAGE 4]
+Page 4 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+of this Tribunal in Prashat Agarwal Vs. Vikash Parasrampuria in
+CA(AT)(Ins) No. 690 of 2022, it has been categorically laid down that interest
+is to be included in operational debt. It was vehemently asserted that the
+impugned order passed by the Adjudicating Authority rejecting the Section 9
+application was in utter disregard of the law laid down in the above judgment
+has and hence the impugned order deserves to be set aside.
+5.
+We have heard the Appellant and perused the records carefully.
+6.
+When we look at the impugned order, we find that the Adjudicating
+Authority has held at para 10.8 that there is no material on record evidencing
+acknowledgement or acceptance of liability towards interest. It has also been
+noted in the impugned order that the interest claim made by the Appellant
+has been expressly disputed by the Corporate Debtor and that in the absence
+of acknowledgement of interest by the Corporate Debtor, the Adjudicating
+Authority cannot rely upon the interest claimed by the Appellant for inclusion
+in the aggregate operational debt to determine the statutory threshold limit.
+We also find that in arriving at this conclusion, the Adjudicating Authority
+has also relied on a judgment of this Tribunal in Pramod Kumar Jain supra
+wherein it was held that if interest clauses contained in invoices are not
+backed by any agreed contractual terms, such interest cannot be treated as
+part of operational debt. It would therefore be useful to extract the relevant
+portions of the impugned order as below:
+“26. On the other hand, in the present case, condition prescribed in
+the invoice is that in case of delay in payment, interest will be charged
+at the rate of 12 @ as per the agreed terms. This clause in the invoice
+is totally vague because it does not specify the period within which
+the amount was to be paid unlike the case of Prashat Agarwal (Supra)
+in which it was prescribed that interest will be charged after due date
+
+[PAGE 5]
+Page 5 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+of bill. Secondly, it is mentioned in this clause that interest will be
+charged as per the agreed terms whereas no agreed terms have seen
+the light of the day to enable the OC to claim interest as a part of debt.
+In this regard, the observation has been made, in the case of Comet
+Performance (Supra) by a three members bench of this Court, relying
+upon Rishabh Infra Through Hari Mohan Gupta Vs. Sadbhav
+Engineering Ltd., CA (At)(Ins) No. 1881 of 2024) in which it has been
+held that "invoices with interest clauses which were not part of the
+formal agreement are unenforceable".”
+The Adjudicating Authority after relying on the above judgment held that
+when interest clauses contained in the invoices are not backed by any agreed
+contractual terms, the interest component cannot be treated as part of
+enforceable operational debt and if the interest amount was segregated in the
+present facts of the case, the operational debt would not cross the threshold
+bar set out under Section 4 of IBC.
+7.
+It is the case of the Appellant that it is an undisputed fact that the
+Corporate Debtor had issued invoices with interest component and that the
+interest component was never disputed. When interest was stipulated in the
+invoices, this interest liability was rightly clubbed with the outstanding
+principal amount by the Appellant. It was canvassed that the Corporate
+Debtor cannot run away from discharging the interest liability when interest
+payment clause was clearly reflected in the invoices raised by the Operational
+Creditor and these invoices having been acknowledged by the Corporate
+Debtor, it amounted to their acceptance of the interest clause. It was asserted
+that this Tribunal has held in the judgment of Descent Buildwell LLP Vs
+Reliance Communications Infrastructure Ltd. in CA(AT)(Ins) No. 871 of
+2025 that when invoices stipulate interest, the invoices constitute a valid and
+enforceable contract. Further, the Corporate Debtor not having disputed the
+
+[PAGE 6]
+Page 6 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+interest stipulation in the invoice either at the time of placing orders or upon
+receipt of goods must be construed as their acceptance of the entire debt
+including interest. Hence, as the total operational debt, including interest,
+crossed the Rs. 1 crore threshold of Section 4 of the IBC, the Section 9 petition
+could not have been non-suited by the Adjudicating Authority. Contending
+that the principal amount and interest on delayed payment as provided for in
+the invoice could not have been segregated by the Adjudicating Authority, the
+Appellant has relied on the judgment of this Tribunal in Prashat Agarwal
+supra wherein it was held that when interest on delayed payment is clearly
+stipulated in the invoice, this entitles the supplier to “right to payment” under
+Section 3(6) of IBC and interest amount would form part of the “debt” under
+Section 3(11) of IBC.
+8.
+To arrive at our analysis, a pointed query was made during the course
+of hearing to the Appellant to clarify whether the levy of interest was laid down
+by way of any formal contractual arrangement between the parties. In all
+fairness, the Ld. Counsel for the Appellant submitted that there was no
+contractual agreement governing their business arrangement but added the
+caveat that since interest liability figured in the invoices, this was sufficient
+ground to show that interest liability was binding on the Corporate Debtor.
+This Bench had posed another question to the Appellant as to whether
+interest amount was ever paid in the past by the Corporate Debtor to which
+the Appellant admitted that there was no instance of any interest liability
+having been paid in the past by the Corporate Debtor.
+9.
+It can therefore be safely concluded that there was no contractual term
+which made provision for payment of interest liability on delayed payment by
+
+[PAGE 7]
+Page 7 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+the Corporate Debtor. We have also noted that it has been categorically
+admitted by the Appellant that there was no practice of interest payment made
+by the Corporate Debtor in respect of these business transactions.
+10.
+This brings us to the issue whether mere stipulation of interest in the
+invoices makes the interest amount form part of operational debt which can
+be conjoined with the principal amount for computing the threshold limits
+under Section 4 of IBC. This aspect has been looked into by this Tribunal in
+Shri Durga Scaffolding Noida Pvt Ltd Vs Kanwar Enterprises Pvt Ltd in
+CA(AT)(Ins) No. 1666 of 2025. It is pertinent to add here that this judgement
+has also considered the ratio contained in the Prashat Agarwal judgement
+supra and the relevant para reads to the effect:
+15.
+Coming to our findings, we notice that the Appellant has
+contended that when interest is stipulated in the invoices, this liability
+can be clubbed with the outstanding principal amount and in support
+of their contention, the Appellant has relied on the judgment of this
+Tribunal in Prashat Agarwal judgement supra. This contention of the
+Appellant is misplaced since in Prashat Agarwal case, the interest
+amount was added to the principal amount as the Operational Creditor
+and Corporate Debtor were at ad idem on the levy of interest as it was
+reflected in the contractual agreement between them unlike in the
+present case where the hiring order does not specify the levy of interest
+nor has the Appellant been able to demonstrate that there was any
+practice in vogue of interest having been earlier paid by the Corporate
+Debtor. In this backdrop, we find force in the contention of the Corporate
+Debtor that mere mention of interest liability in the invoices cannot be
+operated against the Corporate Debtor sans a separate agreement for
+payment of interest as has been held by this Tribunal in Rishabh Infra
+judgement supra.....”
+(Emphasis supplied)
+
+11.
+Similar views have been expressed in another judgement of this
+Tribunal in SNJ Synthetics Ltd vs Pepsico India Holdings Pvt Ltd in
+
+[PAGE 8]
+Page 8 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+CA(AT)(Ins)386 of 2025. The relevant excerpts from the said judgment are as
+reproduced below:
+“12. .... Even though invoices can play a crucial role in defining the rights
+and obligations between parties, however, there has to be an element of
+mutual consent, which can be discernible from conduct. When the
+ingredient of levy of interest on delayed payment is absent in the written
+contract, stipulation of interest payment in invoices can override the written
+contract only if there is mutual consent and mutual understanding between
+the parties in this regard which in the present case has not been
+demonstrated by conduct and practice. There is no evidence of payment of
+interest by the Respondent which has been substantiated by the Appellant.
+We are therefore inclined to agree with the Adjudicating Authority that
+unilaterally generated invoices signed by only one party cannot overrun or
+recast the terms of bi-partite agreements and create binding obligations on
+the other party to pay interest.
+13. In this regard attention has been adverted by the Respondent to the
+judgement of this Tribunal in Krishna Enterprises vs. Gammon India
+Limited in CA (AT) (Ins) No. 144 of 2018 wherein it has been held therein
+that if no interest was payable, in terms of the contractual agreement, then
+only the principal amount would constitute the claim, basis which Section
+9 application can be filed. We find the ratio of the above judgment to be
+squarely applicable to the facts of the present case and for easy reference
+reproduce the relevant portion of the said judgment as below:
+“4. It is submitted that the ‘debt’ includes the interest, but such
+submission cannot be accepted in deciding all claims. If in terms of
+any agreement interest is payable to the Operational or Financial
+Creditor then debt will include interest, otherwise, the principle
+amount is to be treated as the debt which is the liability in respect of
+the claim which can be made from the Corporate Debtor.
+5. In the present appeals, as we find that the principle amount has
+already been paid and as per agreement no interest was payable, the
+applications under Section 9 on the basis of claims for entitlement of
+interest, were not maintainable. If for delayed payment Appellant(s)
+claim any interest, it will be open to them to move before a court of
+competent jurisdiction, but initiation of Corporate Insolvency
+Resolution Process is not the answer.”
+(Emphasis supplied)
+
+12.
+The essence of the above two judgements is that the interest amount
+claimed by an operational creditor cannot be justifiably added to the
+
+[PAGE 9]
+Page 9 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+operational debt if the interest amount reflected in the invoices was not
+backed by a contractual agreement nor demonstrated by past conduct and
+practice between the parties. Given this backdrop, we find that the reliance
+placed by the Appellant on the judgment of this Tribunal in Prashat Agarwal
+Vs Vikas Parasrampuria in CA(AT)(Ins) No. 690 of 2022 is misplaced since
+the Operational Creditor and Corporate Debtor are not in tandem with each
+other on the levy of interest and there is no contractual agreement on record
+which provides for levy of interest nor has the Appellant been able to
+effectively demonstrate that interest was ever paid by the Corporate Debtor.
+Even the reliance placed on the judgment of this Tribunal in Descent
+Buildwell supra is misplaced as it was clearly held therein that when written
+contract does not contemplate interest on delayed payments, mere inclusion
+of interest in the invoices unilaterally is of no consequence as acceptance of
+payment of interest by a conduct or actual payment has to be proved which
+is not the case here.In this backdrop, we find substance in the finding of the
+Adjudicating Authority that unilateral claim of interest liability in the invoices
+sans a mutually accepted formal agreement stipulating payment of interest
+cannot become part of operational debt.
+13.
+Hence, we are not in a position to accept the contention of the Appellant
+that the interest liability in the present factual matrix be added to the
+principal amount outstanding for computing the total operational debt which
+is outstanding qua the Corporate Debtor. Since it is an admitted fact that the
+total principal outstanding is Rs 70,54,167/- and any application under
+Section 9 must comply with Section 4 of IBC which mandates a minimum
+
+[PAGE 10]
+Page 10 of 10
+Company Appeal (AT) (Ins) No. 463 of 2026
+
+default amount of Rs 1 Cr., the present Section 9 application clearly falls
+below the statutory threshold and hence cannot be maintained.
+14.
+We also observe that the Adjudicating Authority has also taken notice
+at para 10.5 of the impugned order that the Corporate Debtor had specifically
+disputed the interest component in their reply to the Demand Notice. When
+the payment of interest is not found to have been mutually agreed to between
+the parties, the levy of interest by the Appellant and the denial to pay any
+such interest by the Corporate Debtor in itself becomes a ground of dispute.
+Hence, we do not find any error on the part of the Adjudicating Authority to
+hold that the dispute raised by the Corporate Debtor over enforceability of
+interest amount claimed by the Appellant was a ground of dispute between
+the two parties. Whether this interest component could have been factored in
+by the Appellant in computing the outstanding liability of the Corporate
+Debtor is clearly a question which can only be adjudicated by a court of
+competent jurisdiction and not in the summary proceedings conducted by the
+Adjudicating Authority.
+15.
+For the aforesaid reasons, we find no merit in the Appeal. There is no
+good ground which warrants interference of the impugned order. Appeal
+stands dismissed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 17.04.2026
+Sheetal/Abdul

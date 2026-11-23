@@ -1,0 +1,694 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Ins) No. 246 of 2025
+
+23.09.2025
+
+Present:
+JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+
+MR. ARUN BAROKA, MEMBER (TECHNICAL)
+
+STATE BANK OF INDIA
+
+....Appellant
+
+Vs
+
+1. RAKESH HARIRAM AGARWAL
+
+....Respondent No.1
+
+2. MR. BIRENDRA KUMAR AGRAWAL
+
+....Respondent No.2
+
+(Arising out of Impugned Order dated 09.12.2024 passed by the Adjudicating
+Authority (National Company Law Tribunal, Mumbai Bench-IV, Mumbai) in
+C.P. (I.B) No. 15/MB/2023)
+
+With
+Company Appeal (AT) (Ins) No. 282 of 2025
+
+STATE BANK OF INDIA
+
+....Appellant
+
+Vs
+
+1. SARVESH HARIRAM AGARWAL
+
+....Respondent No.1
+
+2. MR. BIRENDRA KUMAR AGRAWAL
+
+....Respondent No.2
+
+[PAGE 2]
+2
+
+(Arising out of Impugned Order dated 09.12.2024 passed by the Adjudicating
+Authority (National Company Law Tribunal, Mumbai Bench-IV, Mumbai) in
+C.P. (I.B) No. 62/MB/2023)
+
+For Appellant:
+Mr. Harshit Khare and Mr. Prafful Saini, Advocates
+
+For Respondents:
+Mr. Pranjit Bhattacharya and Ms. Salonee Shukla,
+Advocates for Respondents
+
+JUDGEMENT
+Per Justice N. Seshasayee, Member (Judicial)
+Challenging two separate Orders of the Adjudicating Authority (NCLT – IV,
+Mumbai), both dated 09.12.2024 in C.P (IB) 15 of 2023 and C.P.(IB) 62 of
+2023, dismissing the aforesaid two petitions filed by the appellant/Financial
+Creditor under Sec.95 IBC for initiating insolvency proceedings against two
+personal guarantors of the principal borrower (the 1st Respondent in both the
+cases) on the ground of limitation, these appeals have been preferred.
+1.2 Except for the date of filing the petition under Sec.95 (with a difference of
+about one month between them), the facts in both the cases are the same.
+Therefore, the narration and discussion in this Order will be the same and
+wherever the date of filing of the petition before the Adjudicating Authority is
+relevant it will be indicated.
+Facts:
+2. The material facts which are relevant for the current purpose are bullet
+
+[PAGE 3]
+3
+
+pointed as below:
+a) The appellant is a Nationalised Bank. On 23.09.2009 it advanced a
+loan of Rs.10.50 Crores to a certain Asis Global Limited, to which the
+1st respondent in both the appeals had given a personal guarantee. The
+loan limit to the principal borrower was subsequently enhanced to Rs.
+18.0 crores and then to Rs. 20.0 crores. The personal guarantors had
+duly executed supplementary personal guarantee agreements dated
+30.07.2010 and 28.06.2012.
+b) The principal borrower however, did not repay the loan amount
+promptly and the loan was notified by the appellant as NPA. In these
+circumstances on 31.12.2013 the appellant issued a notice under Sec
+13 (2) of SARFAESI Act, 2002 both to the principal borrower and also
+to the personal guarantor. Subsequently the appellant laid O.A
+1819/2016 before DRT, Mumbai.
+c) During the pendency of O.A. 1819 of 2016, on 09.08.2017, the borrower
+and the personal guarantor made an OTS proposal. On 31.10.2017 this
+proposal was accepted by the appellant, as per which the total loan-
+liability was fixed at Rs. 9.10 crores. Eventually based on the terms so
+agreed, on 22.03.2018, the DRT issued a recovery certificate in O.A
+1819 of 2016.
+d) Between the date of acceptance of the OTS on 31.10.2017 and the date
+of decree of the DRT, the borrower had paid Rs. 2.50 crores in five
+different instalments.
+
+[PAGE 4]
+4
+
+e) Be that as it may, after the DRT had passed its decree, both the
+borrower and the personal guarantor stopped making any further
+payments. Instead, the principal borrower namely Asis Global Limited
+laid a debtors Insolvency petition in C.P (IB) 4442 of 2018 under section
+10 IBC. Significantly, the principal borrower had admitted and
+acknowledged its liability to the appellant in its petition.
+f) Subsequently, the appellant had issued a notice dated 30.11.2018 (not
+seen to have been produced by the appellant) to which the personal
+guarantors had issued their separate replies, both dated 27.12.2018
+(which is produced) in which they have stated that bonafide efforts were
+being made to repay the debts.
+g) In the meantime, on 18.03.2021, in the principal borrower initiated
+CIRP proceedings in C.P.4442 of 2018, the Adjudicating Authority had
+ordered liquidation.
+h) It is in this background, on 30.05.2022, the appellant had issued a
+demand notice in terms of Sec.95(4)(b) of IBC read with Rule 7 of the
+Sec.95(4)(b) read with Rule 7 of the Insolvency and Bankruptcy
+(Application to Adjudicating Authority, etc.,) Rules, 2019. In this
+notice, reference indeed was made to the Order of the Adjudicating
+Authority ordering liquidation of the principal borrower. This was
+responded to by the first respondent (in both the cases) with their reply
+dated 10.06.2022, in which they took up a position that the Order of
+the NCLT in C.P.4442 of 2018 will not have the effect of enlarging the
+limitation against him.
+
+[PAGE 5]
+5
+
+i) Eventually, on 30.11.2022, the appellant had laid the two petitions
+petition under Sec.95 IBC against the personal guarantors for initiating
+PIRP. The first was filed on 30.11.2022 (against the first respondent in
+C.A.246 of 2025) and the other on 28.12.2022 (against the first
+respondent in C.A.282 of 2025) In Part III of these petitions the
+appellant had indicated that the debt fell due for payment on
+28.02.2014. However, while explaining the nature of debt the appellant
+had provided two information: (a) that in the CD initiated CIRP, the
+claim of the appellant had been accepted; and (b) the demand notice
+dated 30.05.2022 that it had issued under Rule 7 (referred to above) as
+well as the reply of the personal guarantors to the same.
+3. Before the Adjudicating authority the 1st respondent (in both the cases)
+appeared and contested. Their principal line of defence was that in Part III of
+the petition, the appellant had indicated the date of default in paying the debt
+as 28.02.2017. If this date is reckoned as the terminus a quo, debt will become
+time barred on 28.02.2017. If 31.10.2017, the date on which the OTS was
+accepted by the appellant limitation would end by 31.10.2020. If the date of
+the consent decree of the DRT (22.03.2018) is taken as the commencing date
+of limitation, the debt would be time barred on 21.03.2021. According to it,
+even if the period from 25.03.2020 to 28.02.2021, the period exempted vide
+Order of the Hon’ble supreme Court in Suo motu W.P.(C) 3/2020 is excluded,
+the period of limitation for initiation of a CIRP Proceedings would expire by
+30.05.2022. However, the petitions in the two cases were laid only on
+30.11.2022 and 28.12.2022, as the case may be.
+
+[PAGE 6]
+6
+
+4. As outlined earlier the Adjudicating Authority has dismissed the
+Application under section 95 of IBC on the ground of limitation. It may be
+mentioned that in its order the Adjudicating Authority had only reckoned
+31.10.2017, the date of acceptance of OTS proposal by the appellant, as the
+commencing date for computing the period of limitation. Very evidently it has
+not taken into account either 22.03.2018, the date on which DRT had passed
+the consent decree, nor 20.11.2018, the date on which the principal borrower
+had laid its petition under Sec.10 IBC for computing limitation.
+Arguments
+5.1 The arguments advanced by the rival parties were along predictable lines,
+and it essentially revolved around the point of limitation. The learned counsel
+for the appellant was focusing more on how the Adjudicating Authority had
+fallen in error when it did not apply the Order of the Hon’ble Supreme Court
+in W.P.(C) 3 of 2020 the way it should have been applied. According to him
+in all cases where the unexpired period of limitation is more than 90 days
+from 15.03.2020, then the actual number of such unexpired number of days
+must be reckoned from 01.03.2022. Reliance was placed on the ratio in
+Prakash Corporates Vs Dee Vee Projects Ltd., [(2022)5 SCC 112].
+5.2 Refuting the same, the counsel for the first respondent in both the appeals
+argued:
+a) That Rule 7 notice cannot be equated to a notice invoking personal
+guarantee as per the ratio in SBI Vs Deepak Kumar Singhania [2025
+SCC OnLine NCLAT 461], and notice issued under Sec.13(2) of IBC
+cannot be construed as the notice of demand invoking personal
+
+[PAGE 7]
+7
+
+guarantee vide ratio of this tribunal in Amanjyot Singh Vs Navneet
+Kumar Jain [2023 SCC OnLine NCLAT 1621]. In effect there is no
+proper invocation of personal guarantee.
+b) On 25.10.2024, the appellant had issued a second notice under
+Sec.13(2) of the SARFAESI Act by which it inter alia had withdrawn the
+earlier notice, dated 31.12.2013 issued under the same provision.
+When the first notice is thus withdrawn, there is no demand, even if
+Sec.13(2) notice is presumed to be a notice invoking personal
+guarantee. Reliance was placed on the ratio in Canara Bank Vs Hides
+International Ltd., [Manu/DA/0003/2015]
+c) that in Part III of the petition filed under Sec.95 IBC, the date of default
+is mentioned as 28.02.2014, and hence the appellant cannot alter this
+date to reckon the terminus a quo.
+d) that the appellant now relies on three additional documents before this
+tribunal namely, the reply to the show cause notice dated 31.12.2018;
+the balance sheet of the CD for the year ending 31.03.2019, and the
+offer letter of ITS dated 31.07.2021, which have not been produced
+before the Adjudicating Authority which cannot be considered as per
+the ratio the Hon’ble Supreme Court in Xentis Infotech Ltd., Vs UCO
+Bank [C.A.9325 of 2022].
+e) That the appellate tribunal cannot go beyond ascertaining the
+correctness of the line of reasoning of the tribunal below.
+5.3 In response the learned counsel for the appellant submitted that the
+personal guarantors herein had neither pleaded this fact nor produced this
+
+[PAGE 8]
+8
+
+document before the Adjudicating Authority, when they could have produced
+it, since the impugned orders were passed only on 09.12.2024.
+Discussion & Decision
+6. The Adjudicating Authority has chosen not to admit both the petitions for
+initiating PIRP against the personal guarantors only on a point of limitation.
+The issue appears straight forward, but if the nature of the arguments of the
+first respondent in both the appeals is analysed, the issue is bit layered. It
+involves an examination of the effect of the second notice issued under
+Sec.13(2), more particularly the effect of withdrawal of the first notice vis-à-
+vis the date of default as mentioned in Part III of the petition. How to reckon
+the terminus a quo?
+On Receiving Additional Documents
+7. The foundation for the ancillary issues raised above is the second notice
+which the appellant has issued under Sec.13(2), dated 24.10.2024.
+Interestingly, the personal guarantors have produced this document only
+before this tribunal, something they could have produced before the
+Adjudicating Authority. But the same respondents who require this tribunal
+to consider certain additional documents before this appellate tribunal are
+seen canvassing a case that the appellant’s additional documents should not
+be looked into. Not an irony that it is, but a classic case of pot calling kettle
+black. If the judgement of the Hon’ble Supreme Court in Xentis Infotech
+Ltd., is to be understood the way these respondents require this tribunal to
+understand it, then the additional document produced by the personal
+guarantors also do not merit consideration.
+
+[PAGE 9]
+9
+
+8.1 But, does Xentis Infotech case prohibit this appellate tribunal from
+considering any additional documents that litigants may produce? First, it
+was not brought to the notice of this tribunal that production and
+consideration of additional documents at the appellate stage are statutorily
+barred. Secondly, Xentis Infotech case also does not restrain this appellate
+forum from considering any additional documents. Xentis was a case where
+the bank initiated a CIRP proceeding and it came to be dismissed on a point
+of limitation. The bank, the financial creditor, took up the matter in appeal
+before this tribunal where it produced a certain letter of the appellant as an
+additional document, acting on which this tribunal found that the CIRP was
+initiated in time. This order was challenged by the CD before the Hon’ble
+Supreme Court. The argument before the Hon’ble Supreme Court was that
+the CD did not get an opportunity to defend this letter. It is in that context
+the Hon’ble Supreme Court has noted that the document has been produced
+before the appellate tribunal and that the respondent has not got an
+opportunity to defend it. This judgement was more an authority in aid of the
+maxim audi alterem partem and procedural fairness, and not an authority for
+the proposition that the appellate tribunal shall not receive or consider
+additional documents, for that was not even an issue before the Hon’ble
+Supreme Court. On the other hand, Part XII Rule 73 of the NCLAT Rules
+enables the appellate tribunal to allow production of documents in terms of
+the provisions of the CPC, which implies that documents could be received at
+the appellate stage broadly on the same principles enunciated in Order XLI
+Rule 27 CPC. However, since the proceeding under the IBC is summary in
+
+[PAGE 10]
+10
+
+nature, XLI Rule 28 may not apply, even though Part XIII of the NCLAT Rules
+provides for recording of even oral evidence by this tribunal.
+8.2 What may now be deduced is that where the genuineness of the
+documents is not disputed and where they have a bearing on the outcome of
+the appeal, then there can be no bar on the appellate tribunal to consider any
+additional documents. The only requirement will be that no document may
+not be considered without hearing the other side on such document. After
+all, every remedial fora under the Constitution, be it the court or the tribunal,
+or by whatever name they may be called, are not created to discipline the
+litigants endlessly, but to do justice. It would be an outrageous travesty of
+justice to ignore a piece of evidence when it is available right before the
+tribunal and still to decide an issue without it, especially when such
+document can influence the outcome of the appeal. This tribunal is conscious
+of its Constitutional obligations to the litigants before it.
+9. Here is a scenario where neither side have denied the genuineness of the
+additional or new documents which the other side has produced. Turning to
+the appellant it has produced the additional documents only to sustain its
+initial pleadings, whereas only the personal guarantors, with the new
+document which they have now produced, attempt to help them with an
+alternative ground of defence. However, this alternative line of defence based
+on the effect of the second notice under Sec.13(2) of the SARFAESI Act
+withdrawing the first notice throws only a legal plea, and since the issuance
+of the second notice was not disputed by the appellant, there is hardly any
+harm in considering this notice.
+
+[PAGE 11]
+11
+
+Effect of Second Notice u/sec.13(2) of SARFAESI Act
+10. The defence of the personal guarantors founded on the second notice
+under Sec.13(2) of the SARFESI Act, and the arguments based on it appears
+more of a distraction from the main issue, for, unless the date of terminus a
+quo is confined to the date of the first notice under Sec.13(2) of the SARFAESI
+Act issued sometime in 2013, the second notice under the said provision
+withdrawing the first notice will be of zero consequence. So far as the case of
+the appellant goes, from the date of the first notice under Sec.13(2) of the
+SARFAESI Act in 2013 to issuance of Rule 7 notice on 30.05.2022, several
+facts have happened, which continuously shifted the dated of commencement
+of limitation from the date of the first notice under Sec.13(2). This incidentally
+will involve the argument on the unalterability of the date of default as has
+been provided in Part III of the petition under Sec.95 IBC for the purpose of
+computing limitation.
+11. Was the bank guarantee invoked by the appellant? Here personal
+guarantors contend that a notice under Sec.13(2) of the SARFAESI Act cannot
+amount to invocation of personal guarantee based on the ratio of this tribunal
+in Amanjyot Singh case [2023 SCC OnLine NCLAT 1621]. That this
+judgement does not intend to make a proposition as was widely believed has
+since been clarified by this tribunal in Asha Basantilal Surana Vs SBI and
+others [C.A.(AT) (Ins) 84 of 2025, dated 15.05.2025]. Indeed, in Shantanu
+Jagadish Prakash Vs SBI & another [(2025)ibclaw.in 73 NCLAT] this
+tribunal has held that a notice under Sec.13(2) of the SARFAESI Act is
+adequate enough demand for invoking personal guarantee. This has to be
+
+[PAGE 12]
+12
+
+understood in the context of the ratio in Mahdoom Bava Bahrudeen Noorul
+Ameen Vs SBI & another [(2025) ibclaw.in 108 NCLAT], where this tribunal
+has held that invocation of personal guarantee must precede notice under
+Rule 7 issuing which is a statutory pre-condition for invoking Sec.95 IBC.
+Therefore, there must first be a communication or notice to the personal
+guarantor demanding payment of debt which the principal debtor has not
+paid. This notice does not have any prescribed statutory form. All it requires
+is a demand especially where the contract of guarantee provides that the
+liability of the guarantor commences with a demand for payment. If the
+statutory setting in which Se.13(2) notice is positioned is considered, it is a
+pre-condition before the creditor bank lay its hands physically on the security
+interest. Under Sec.13(2) the bank only makes a demand for repayment of
+debt. And, even if there is a default in payment despite the notice under
+Sec.13(2), it was not obligatory for the bank to invoke Sec.13(4) and take
+physical possession of the secured assets of the debtor. It has an option there.
+But it all starts with a demand for repayment. As stated earlier, as long as
+the statute does not prescribe any particular form for making the demand for
+repayment, which is what the invocation of personal guarantee is all about,
+there is hardly any reason not to construe the notice under Sec.13(2) of the
+SARFAESI Act as a notice invoking personal guarantee.
+12. In the present case, after issuing notice under Sec.13(2) the appellant
+had instituted OA 1819 of 2016. Therefore, the entire debt became the subject
+matter of a litigation and therefore, no bar of limitation could intervene. And,
+it is not in dispute that on 22.03.2018, the DRT concerned had issued a
+
+[PAGE 13]
+13
+
+recovery certificate based on the OTS as approved by the appellant, and it
+pushes terminus a quo for computing limitation for initiating an action under
+the IBC to the date of this recovery certificate. Subsequently, on 20.11.2018,
+the principal debtor had filed C.P.4442 of 2018 under Sec.10 IBC wherein it
+had admitted its liability to the appellant. This constitutes an
+acknowledgement of debt in law, and it pushes the date of commencement of
+limitation to 20.11.2018. This was followed by the balance sheet of the
+principal borrower for the year ending 31.03.2019 signed by the board of its
+directors on 05.09.2019 where it has acknowledged its debt to the appellant.
+13. Now, what consequence can the second notice under Sec.13(2) dated
+24.10.2024 have, even if it purports to withdraw the first notice issued in
+2013. The demand part necessary for invoking the bank guarantee is
+complete when it is first made. After all, how many times a personal guarantee
+can be invoked? The second notice under Sec.13(2) and its legal consequence
+may concern the DRT but not this tribunal when it deals with issues under
+the IBC. For instance, can the second notice under Sec.13(2) invalidate the
+effect of the recovery certificate which the DRT has passed? Very obviously it
+cannot. And, when the recovery certificate has crystalised the liability of the
+personal guarantor, a mere issuance of another notice under Sec.13(2) cannot
+have any effect on the validity of the original demand for repayment. The
+purpose behind the second notice may be entirely different, which as stated
+above, must concern only the DRT.
+14.1 Few relevant facts are now collated:
+
+[PAGE 14]
+14
+
+a) The date of default as mentioned in Part III of the petition under Sec.95
+is 28.02.2014, whereas the limitation for instituting the PIRP would
+commence from 20.11.2018, the date on which the principal borrower
+laid its own CIRP under Sec.10 IBC, or could be from 05.09.2019, the
+date on which the board of directors of the principal borrower approved
+its balance sheet for the year ending 31.03.2019.
+b) The PIRP, however were filed only on 30.11.2022 and 28.12.2022 as the
+case may be, some three years after 20.11.2018.
+14.2 This now requires an understanding on two aspects:
+a) Given the fact that the terminus a quo for commencing limitation is on
+20.11.2018, whether the tribunals created under the IBC must be
+pinned down to 28.02.2014, the date of default as mentioned in Part III
+of the petition under Sec.95 IBC for computing the period of limitation?
+To state it differently, can the tribunal act on the date for
+commencement of limitation as could be gathered from the facts
+pleaded and the documents produced without any amendment of date
+of default of Part III?
+b) How the Order of the Hon’ble Supreme Court in Suo Motu W.P.(C) 3 of
+2020 must be understood in the factual context of this case?
+Date of Default in Part III & Limitation
+15.1 A distinction between date of arising of cause of action for filing a petition
+under Sec.7,9 or Sec. 95 IBC and the date relevant for computation of
+limitation is now required to be understood. As is well known cause of action
+(to understand it better, cause for an action) are the bundle of facts which are
+
+[PAGE 15]
+15
+
+required to be proved by a litigant to succeed in an action. So far as the law
+of limitation is concerned, it does not act on the cause of action, but acts on
+the right to maintain an action – it acts on the remedy. Thus, even though
+there may be a cause for initiating an action, the action can be instituted till
+the last date on which limitation prescribed for initiating the intended action
+intervenes.
+15.2 In the context of a CIRP or a PIRP, for initiating an action, the creditor is
+required to establish two facts which provides the cause for initiating it:
+existence of a debt and the default in repaying it. The default in paying the
+debt, therefore, provides one of the facts constituting the cause of action for
+initiating any of these proceedings. The date of default which is required to
+be provided in Part IV of a petition under Sec.7 or 9, or Part III of a petition
+95 only indicates the date on which one of the facts constituting the cause of
+action has arisen. As earlier stated, limitation for initiating a CIRP or a PIRP
+is not about constituting a cause of action, for about enforcing a cause of
+action. Therefore, the date of commencement of limitation need not
+necessarily be the same, and it depends on the facts of each particular case.
+To explain, if the IBC has not prescribed any Form of pleadings, or if it had
+suggested that it may assume the form of a plaint, then the factum of default
+in repaying the debt would have to be indicated as one of the facts constituting
+a cause of action and so is the date as to when this fact has happened. Merely
+because the IBC has prescribed a Form of pleading, that does not ipso facto
+imply that the date of default in paying the debt and the date of
+commencement of limitation for commencing a CIRP or PIRP should not be
+
+[PAGE 16]
+16
+
+different. And, this distinction should neither be lost sight of, nor should they
+be confused.
+16.1 Here, two authorities of the Hon’ble Supreme Court need consideration.
+The first is the ratio in Ramesh Kyamal Vs Siemens Games A Renewable
+Power Pvt. Ltd. [(2021) 3 SCC 224] and it is believed to be an authority for
+the proposition that the date of default as provided in Part IV of a petition for
+commencing a CIRP alone must be construed as the date for computing the
+period of limitation. A close reading of this judgement nowhere shows that
+the Hon’ble Supreme Court has ever proposed to declare the ratio such as the
+one attributed to it. That was a case where the controversy was whether the
+date of default as specified in Part IV of the petition can be shifted to an
+anterior date to beat the consequence of Sec.10A of the IBC. If the facts of
+that case are considered, the appellant before the court was a certain
+employee of the respondent and he had tendered his resignation on 21st
+January, 2020. The respondent company however, required him to work for
+60 more days and the appellant agreed to work till 30th April, 2020. On 28th
+April, 2020, the respondent issued the letter of termination and on
+30.04.2020, the appellant issued his demand notice for certain monetary
+benefits due to him. It was Covid times when the appellant’s service with the
+respondent came to an end, and the date of termination fell right during the
+period covered by Sec.10A of the IBC, which provided that no action under
+the IBC could ever be preferred where the default in payment of debt has
+occurred from 25.03.2020, for a period of six months which is extendable by
+another six months. The argument before the Supreme Court was that
+
+[PAGE 17]
+17
+
+inasmuch as the appellant had tendered his resignation even prior to
+25.03.2020, the date of resignation must be reckoned as the date of default.
+This was negatived by the Court when it said that the date of default as given
+in Part IV of the petition cannot be retrospectively given effect to. Even on
+facts, the appellant was relieved from his service only on 28.04.2020, and
+therefore, the appellant was very much in service till then. And, his first
+demand for the monetary benefits was on 30.04.2020, to receive which he
+would be entitled to only on the termination of his service and not on the date
+he had tendered his resignation. Where does this judgement say that the date
+of default as mentioned in Part IV (which is similar to Part III of the petition
+under Sec.95 of the IBC) alone should be considered as the date of
+commencement of limitation?
+16.2 The other authority is Vidyasagar Parasad Vs UCO Bank and another
+[2024 SCC OnLine SC 2993]. It could be gathered from the judgement of this
+tribunal (which was challenged before the Hon’ble Supreme Court), that the
+date of default in Form I was given as 05.11.2014 whereas the CIRP was laid
+only in 2019 based on certain acknowledgements of the debt by the CD, and
+no amendment was ever sought by the financial creditor. Still this tribunal
+acted on the acknowledgement of debt and held that the admission of the CD
+to the CIRP is valid. When the matter was taken before the Hon’ble Supreme
+Court it approved the ratio of this tribunal, and to fortify its opinion it relied
+on the ratio in Dena Bank (now Bank of Baroda) Vs C. Shivakumar Reddy
+[(2021)10 SCC 330], where the Supreme Court has relied on Sec.238A of the
+IBC which enabled the application of Limitation Act to any proceedings before
+
+[PAGE 18]
+18
+
+the tribunals constituted under the Code. Incidentally the document which
+the Court relied on as providing an acknowledgement of debt for extending
+the limitation is the balance sheet of the CD. The Court merely took note of
+this fact, and proceeded to apply the Limitation Act to the facts that were
+available before it and did not require the financial creditor to amend the date
+of default in Form I.
+16.3 Vidyasagar case was decided a few months after the judgement in
+Ramesh Kymal case was delivered, and most appropriately the latter case
+was not even cited before the Court, for Ramesh Kymal did not declare any
+law that date of default as provided in Part IV of Form I alone must be
+reckoned for computing the period of limitation.
+16.4 The proposition that could now be deduced is that irrespective of the
+date of default as provided in Part IV of a petition for CIRP or Part III of a
+petition for PIRP, period of limitation could be computed based on any fact
+which has the effect of enlarging the period of limitation from the date of
+default as given by the creditor without any need for amending such date of
+default. After all, as held in Shivakumar Reddy case [(2021)10 SCC 330],
+the pleadings under the IBC should not be read as a pleading in a civil suit,
+but even there the thumb rule is that pleadings must be read as a whole and
+not dissected to suit one’s convenience. And, when Sec.238A stipulates that
+Limitation Act would apply to the proceedings under the IBC, necessarily
+Sec.3 thereof cast a statutory obligation on the tribunals to compute based
+on the facts before it even if limitation is not pleaded.
+
+[PAGE 19]
+19
+
+16.5 If the arguments of the personal guarantors here (which is not the first
+of its kind) is taken to its logical end, it insists in giving greater prominence
+to the form of pleading and not its substance. It should not be forgotten that
+parties to any CIRP or a PIRP are already in a jural relationship through
+contract, and they know the facts, and, as J.R.Midha J. of Delhi High Court
+had said, only courts are on trial. And pleadings in whatever form is but a
+notice to the other side about the cause on the basis of which an action is
+brought about, or the grounds on which an action is defended. Besides
+pleadings aids a neutral remedial forum, by whatever name it may be called,
+to ascertain the fact in issue.
+17. Before moving to the next aspect, this tribunal intends to record that at
+least two cases were cited to fortify certain proposition, which they do not lay
+down. Care must be taken to ascertain the precedential value of any
+judgement and it requires that care must be bestowed to identify the ratio of
+a judgement. It has been long decided that a judgement is a precedent for
+what it actually decides. Very unfortunately, the art of filtering a judgement
+through the right legal filters for decocting its ratio appears to be fast
+disappearing from contemporary legal research, which appears to put
+premium on faster results over the need to ascertain the ratio of a judgement.
+There is also on display an increasing tendency to use a couple of sentences
+in a judgement, or a catch phrase which a judge may have coined for
+conveying his opinions, quite out of context. As has been pointed out Ramesh
+Kyammal case is said to have declared a certain ratio which it did not.
+Similar has been the experience with Amanjyot Singh Vs Navneet Kumar
+
+[PAGE 20]
+20
+
+Jain [2023 SCC OnLine NCLAT 1621], (which has been understood as
+declaring that a notice under Sec.13(2) of the SARFAESI Act cannot be the
+basis for initiating a CIRP or a PIRP) which invited a clarification in Asha
+Basantilal Surana case [C.A.(AT) (Ins) 84 of 2025, dated 15.05.2025] that
+no such proposition was ever declared in that case.
+18. To conclude this point, it must be held that the terminus a quo for
+commencement of limitation is 20.11.2018, the date of which the principal
+borrower had laid its debtor initiated CIRP proceedings under Sec.10 IBC. The
+appellant has now produced a balance sheet of the principal borrower for the
+year ending 31.03.2019, which the board of directors had singed on
+05.09.2019. If limitation period is computed from 05.09.2019, it would expire
+on 05.09.2022. The CIRP however, was laid 30.11.2022 (as regards C.A.246
+of 2025) and 28.12.2022 (as regards C.A,282 of 2025) and here the counsel
+for the appellant relies on the Order of the Hon’ble Supreme Court in suo
+motu W.P.(C) 3 of 2020, dated 10.01.2022.
+Is the PIRP barred by time?
+19. Before adverting to this aspect, as outlined in paragraph 4 above, the
+Adjudicating Authority had reckoned 31.10.2017, the date of acceptance of
+OTS by the appellant, ignoring all subsequent events which have kept the
+debt alive. Very obviously this tribunal expresses its difficulty to adopt the
+approach of the Adjudicating Authority. If the Sec.10 IBC petition of the
+principal borrower constitutes an acknowledgement of debt, then the
+terminus a quo for commencement of limitation would be 20.11.2018 and
+would expire on 20.11.2021. If however, the date of signing of the balance
+
+[PAGE 21]
+21
+
+sheet for 2018-2019 by the Board is reckoned then period of limitation expires
+only on 05.09.2019. Of the two dates the former falls within Covid times when
+the Hon’ble Supreme Court has frozen time for limitation to run on any cause
+for an action whereas the latter falls outside it.
+20.1 The ameliorative Order passed in the suo motu W.P.(C) 3 of 2020 to
+protect the right of action of the litigants during the Covid times had the effect
+of eclipsing the limitation. The Covid-eclipse, if this period may be so stated,
+ended in the manner delineated in the Order of the Hon’ble Supreme Court in
+M.A.21 of 2022. It reads:
+“I.
+The order dated 23.03.2020 is restored and in continuation of
+the subsequent orders dated 08.03.2021, 27.04.2021 and 23.09.2021,
+it is directed that the period from 15.03.2020 till 28.02.2022 shall stand
+excluded for the purposes of limitation as may be prescribed under any
+general or special laws in respect of all judicial or quasi-judicial
+proceedings.
+II.
+Consequently, the balance period of limitation remaining as on
+03.10.2021, if any, shall become available with effect from 0
+1.03.2022.
+III.
+In cases where the limitation would have expired during the
+period between 15.03.2020 till 28.02.2022, notwithstanding the actual
+balance period of limitation remaining, all persons shall have a Dena
+limitation period of 90 days from 01.03.2022. In the event the actual
+balance period of limitation remaining, with effect from 01.03.2022 is
+greater than 90 days, that longer period shall apply.
+IV.
+It is further clarified that the period from 15.03.2020 till
+28.02.2022 shall also stand excluded in computing the periods
+prescribed under Sections 23 (4) and 29A of the Arbitration and
+Conciliation Act, 1996, Section 12A of the Commercial Courts Act, 2015
+and provisos (b) and (c) of Section 138 of the Negotiable Instruments
+Act, 1881 and any other laws, which prescribe period(s) of limitation for
+
+[PAGE 22]
+22
+
+instituting proceedings, outer limits (within which the court or tribunal
+can condone delay) and termination of proceedings.”
+The working of this Order is explained in Prakash Corporates Vs Dee Vee
+Projects Ltd., [(2022)5 SCC 112] where the Hon’ble Supreme Court has
+equated the eclipsed period due to above extracted suo motu Order to the
+period of exclusion as provided in Sec.12 to 15 of the Limitation Act. It has
+held:
+“28.... A look at the scheme of the Limitation Act, 1963 makes it clear
+that while extension of prescribed period in relation to an appeal or
+certain applications has been envisaged under Section 5, the exclusion
+of time has been provided in the provisions like Sections 12 to 15 thereof.
+When a particular period is to be excluded in relation to any suit or
+proceeding, essentially the reason is that such a period is accepted by
+law to be the one not referable to any indolence on the part of the litigant,
+but being relatable to either the force of circumstances or other
+requirements of law (like that of mandatory two months' notice for a suit
+against the Government [ Vide Section 15 of the Limitation Act, 1963.] ).
+The excluded period, as a necessary consequence, results in
+enlargement of time, over and above the period prescribed.”
+The key to understand the Order in MA 21 of 2022 in Suo Motu W.P.(C) 3 of
+2020, is provided in yet another judgement of the Hon’ble Supreme Court in
+IL & FS Financial Services Ltd., Vs Adhunik Meghalaya steels Pvt. Ltd.,
+[2025 SCC OnLine SC 1567]. There the facts are that the limitation for
+initiating a CIRP under Sec.7 commenced on 01.03.2018 and end on
+28.02.2021. In between the CD came out with its balance sheet for the year
+2019-2020, signed by the board of directors of the CD on 12.08.2020,
+disclosing its liability to the financial creditor which constituted an
+acknowledgement of its liability. The Court noted that this acknowledgement
+
+[PAGE 23]
+23
+
+had extended the period of limitation till 11.08.2023. The financial creditor
+however, initiated the CIRP on 15.01.2024, well beyond 11.08.2023. Taking
+note of the Order in Suo Motu W.P.(C) 3 of 2020, the Honble Court held:
+“46. We have no manner of doubt that sub-para 1 of para 5 of the order of
+this Court dated 10.01.2022 would apply and the entire period from
+15.03.2020 to 28.02.2022 would stand excluded, which would mean that
+the limitation would, reckoning the acknowledgement of 12.08.2020,
+commence on 01.03.2022 and continue till 28.02.2025.”
+20.2 In the present case, as explained earlier, if limitation is reckoned from
+20.11.2018 (the date on which the principal borrower had laid C.P.4442 of
+2018 under Sec.10 IBC), then limitation would expire on 19.11.2021. And,
+even if the second part of paragraph 5 (II) of the order in the suo motu writ
+petition is applied such balance period which is in excess of 90 days should
+be available in entirety. However, in terms of the above authorities of the
+Hon’ble Supreme Court, the entire period when cause of action was in a state
+of eclipse (between 15.03.2020 to 28.02.2022) is required to be excluded and
+must be added after 28.02.2022, by bringing the entire case before it within
+para 5(I) of the said Order. The adjudicating authority has not only overlooked
+Para 5(I) of the above extracted suo motu order, but also applied the first part
+of Para 5(II) and from a wrong date as the terminus a quo.
+21. Now, if the entire period from 15.03.2020 to 28.02.2022 (approximately
+two years), limitation would be available till March, 2024. However, both the
+petitions to initiate PIRP involved in this batch of appeals were filed
+respectively in November and December, 2022. Needless to state they are
+within time.
+
+[PAGE 24]
+24
+
+Conclusion
+22. We have little hesitation in holding that both the PIRP were laid in time.
+Both the appeals are accordingly allowed, and the Orders of the Adjudicating
+Authority (NCLT – IV, Mumbai) in C.P (IB) 15 of 2023 and C.P.(IB) 62 of 2023,
+dated 09.12.2024 are set aside. The Adjudicating Authority is now required
+to admit both the petitions involved in this batch of appeals and to proceed
+with them in accordance with law. No costs.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+rs/sk

@@ -1,0 +1,841 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1057 of 2024
+
+[Arising out of the Impugned Order dated 18.04.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench in I.A. No. 1435/2022 in C.P. (IB) No. 1567 of 2018]
+In the matter of:
+RELIGARE FINVEST LIMITED
+having its office at 406-407, 4th Floor,
+So Lucky Corner Building, Chakala,
+Andheri Kurla Road, Andheri (East), Mumbai - 99
+
+...Appellant
+
+Versus
+
+1. Resolve Support Services Private Limited
+Through its authorized representative
+Mr. Hitesh Jain,
+having its registered office at
+Flat No. 1902, Plot No. 24 to 29,
+D Wing Sector 4, Amey CHSL,
+Palm Beach Road, Nerul,
+Mumbai-706
+
+2. Mr. Ashish Vyas
+
+Liquidator of Orient Tourism Private Limited
+
+Having address at
+
+B-1 A, Viceroy Court CHS Thakur Village,
+
+Kandivali (East), Mumbai- 101
+
+3. Mr. Anurag Jain
+
+Resolution Professional of Orient Tourism Pvt Ltd.
+
+Regd. No. IBBI/IPA001/IP-P01049/2017-18/11732,
+
+1401, Oriental Heights, Sector 44,
+
+Plot No. 158, Seawoods West,
+
+Navi Mumbai, Maharashtra - 400706
+
+.... Respondents
+
+Present:
+
+For Appellant
+: Mr. Saahil Bahety, Advocate.
+
+For Respondent
+: Mr. Aditya Gauri & Mr. Amar Vivek, for R1.
+
+Mr. Dhananjaya Sud, for R-3.
+
+[PAGE 2]
+Page 2 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+WITH
+Company Appeal (AT) (Insolvency) No. 1346 of 2024
+
+[Arising out of the Impugned Order dated 18.04.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench
+in I.A. No. 1435/2022 in C.P. (IB) No. 1567 of 2018]
+In the matter of:
+Resolve Support Services Private Limited
+Through its Authorized Representative
+Mrs. Dimple Jain
+Having its Reg. Off. at:
+Flat No. 1902, Plot No. 24 to 29, D Wing
+Sector 4, Amey CHSL, Palm Beach Road,
+Nerul, Mumbai, Maharashtra - 400706
+legal@resolvegroup.co.in
+
+...Appellant
+
+Versus
+
+1. ASHISH VYAS
+
+Liquidator of Orient Tourism Pvt. Ltd.
+
+Having Address at:
+
+B-lA Viceroy Court CHS,
+
+Thakur Village, Kandivali (East),
+
+Mumbai Suburban, Maharashtra-400101
+
+2. Religare Finvest Limited
+
+Having its office at: 406-407, 4th Floor,
+
+So Lucky Corner Building, Chakala,
+
+Andheri Kurla Road, Andheri (East), Mumbai - 99
+
+3. Anurag Jain
+
+ERSTWHILE RESOLUTION PROFESSIONAL
+
+ORIENT TOURISM PVT. LTD.
+
+Regd. No. IBBI/IPA-001/IP-P01049/2017-18/ 11732
+
+R/o. 1401, Oriental Heights, Sector-44,
+
+Plot-158, Seawoods West,
+
+Navi Mumbai Maharashtra – 400706
+
+ipanuragjain@gmail.com
+
+.... Respondents
+
+Present:
+
+For Appellant
+: Mr. Aditya Gauri & Mr. Amar Vivek, Advocates.
+
+For Respondent
+: Mr. Sahil Bahety, for R-2.
+
+Mr. Dhananjaya Sud, for R-3.
+
+[PAGE 3]
+Page 3 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+WITH
+Company Appeal (AT) (Insolvency) No. 1199 of 2024
+
+[Arising out of the Impugned Order dated 18.04.2024 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench
+in I.A. No. 1435/2022 in C.P. (IB) No. 1567 of 2018]
+In the matter of:
+ANURAG JAIN
+ERSTWHILE RESOLUTION PROFESSIONAL
+ORIENT TOURISM PVT. LTD.
+Regd. No. IBBI/IPA-001/IP-P01049/2017-18/11732
+R/o 1401, 1401, Oriental Heights, Sector-44,
+Plot-158, Seawoods West, Navi Mumbai
+Maharashtra – 400706
+ipanuragjain@gmail.com
+
+...Appellant
+
+Versus
+
+1. ASHISH VYAS
+
+Liquidator of Orient Tourism Pvt. Ltd.
+
+Having Address at:
+
+B-lA Viceroy Court CHS,
+
+Thakur Village, Kandivali (East),
+
+Mumbai Suburban, Maharashtra-400101
+
+2. Religare Finvest Limited
+
+Having its office at: 406-407, 4th Floor,
+
+Lucky Corner Building, Chakala,
+
+Andheri Kurla Road, Andheri (East), Mumbai - 99
+
+3. Resolve Support Services Private Limited
+
+Through its Authorized Representative
+
+Mr. Hitesh Jain
+
+Having its Reg. Off. at:
+
+Flat No. 1902, Plot No. 24 to 29, D Wing
+
+Sector 4, Amey CHSL, palm Beach Road,
+
+Nerul, Mumbai, Maharashtra - 400706
+
+.... Respondents
+
+Present:
+
+For Appellant
+: Mr. Dhananjaya Sud, Advocate.
+
+For Respondent
+: Mr. Aditya Gauri, Mr. Amar Vivek and Mr. Siddharth
+Sharma for R-3.
+
+[PAGE 4]
+Page 4 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present set of three appeals filed under Section 61 of Insolvency and
+Bankruptcy Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order
+dated 18.04.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-I) in
+I.A. No. 1435 of 2022 in C.P. (IB) No. 1567/MB/2018. By the impugned order,
+the Adjudicating Authority has allowed the I.A.No 1435 of 2022 filed by Resolve
+Support Services Pvt. Ltd. for repayment of Rs 67,74,109/- claimed by them as
+interim finance provided by them in the CIRP of the Corporate Debtor-Orient
+Tourism Pvt. Ltd. Aggrieved by the impugned order, three separate appeals have
+been filed.
+2.
+Aggrieved by the above impugned order, three separate appeals have been
+filed viz Appeal No. 1346 of 2024 filed by interim finance provider-Resolve
+Support Services Pvt. Ltd. (“Resolve” in short); Appeal No. 1057 of 2024 filed by
+Religare Finvest Pvt. Ltd. (“Religare” in short)-CoC member and Appeal No.
+1199 of 2024 filed by the Resolution Professional (“RP” in short). The prayer
+made in Appeal No. 1346 of 2024 by Resolve is for allowing modification of the
+impugned order so as to secure repayment of full amount of Rs 90,80,214/- to
+the Appellant with further interest of 15%p.a. and default interest of 2% p.m. till
+date of full repayment. The prayer urged in Appeal No. 1057 of 2024 by Religare
+is for setting aside of the impugned order; to declare that Resolve is not entitled
+to any refund of amount and to declare the interim finance raised by the RP to
+
+[PAGE 5]
+Page 5 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+be unauthorised; direct the RP to refund the amount appropriated towards his
+fees/expenses; declare the transfer of expenses towards fees of Vishal and
+towards processing fees as unauthorised. The prayer urged in Appeal No. 1199
+of 2024 by the RP is for expunging the adverse remarks made by the Adjudicating
+Authority in para 4.4 of the impugned order describing the conduct of RP in
+raising the interim finance as deplorable.
+3.
+Since all the three appeals arise out of one common impugned order and
+stems broadly from the same set of facts, for reasons of convenience, we will
+proceed to take up for consideration Appeal No. 1057 of 2024 and apply our
+findings on the other two appeals also while keeping in mind distinguishing
+facts, if any, in the other two appeals.
+4.
+Coming to the brief factual matrix of the matter at hand, the Corporate
+Debtor-Orient Tourism Pvt. Ltd. was admitted into the rigours of CIRP on
+17.09.2019 on a Section 9 application filed by the Operational Creditor. The RP
+constituted the CoC on 04.11.2019 comprising solely of Religare Finvest Pvt. Ltd.
+at the time of initial constitution. The RP held the first CoC meeting on
+13.11.2019 in which the RP apprised the CoC to contribute to the Corpus Fund
+to meet the costs of CIRP including the fees/expenses of RP, fees of Legal
+Counsel, valuation fees etc. The CoC members indicated that they would not be
+able to provide any contribution to the Corpus Fund and proposed that RP may
+secure interim funding including interest upto @ 15% p.a. This resolution was
+put to vote and was voted 100% in favour. The Operational Creditor who had
+filed the Section 9 application meanwhile entered into a settlement with the
+Corporate Debtor following which the Operational Creditor had submitted an
+
+[PAGE 6]
+Page 6 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+application in Form-FA for withdrawal of the CIRP process. Accordingly, the RP
+filed IA No. 3595 of 2019 for withdrawal of the CIRP under Section 12A of the
+IBC. This application was dismissed by the Adjudicating Authority after nearly
+2 years on 08.02.2021. After dismissal of the Section 12A application, the RP
+approached Resolve for raising interim finance of Rs 1 Cr. and a Loan Agreement
+dated 15.02.2021 was entered into between them. The RP on 16.02.2021
+requested Resolve to disburse interim finance facility of Rs 50 lakhs and followed
+up with subsequent letters for additional disbursement of interim finance loan.
+The RP subsequently informed the CoC about the Loan Agreement to raise
+interim finance of Rs 1 Cr. at a rate of interest of 15% p.a. from Resolve during
+its second meeting held on 22.02.2021. The CoC in its third meeting held on
+14.06.2021 unanimously passed the resolution for initiating liquidation process
+of the Corporate Debtor. The RP thereafter filed IA No. 1626 of 2021 seeking the
+liquidation of the Corporate Debtor which was allowed by the Adjudicating
+Authority on 05.08.2021 following which a Liquidator was appointed. The RP
+thereafter informed the Liquidator vide e-mail dated 27.08.2021 to repay to
+Resolve the interim finance alongwith interest and default interest @ 2% p.m. in
+case of delay. The RP sent further reminder e-mails on 05.09.2021, 18.09.2021
+and 05.12.2021 in this regard. On 05.12.2021, the Liquidator informed the RP
+that Religare had disputed the interim finance and the CIRP cost. The Liquidator
+also requested the RP to share documents relating to the interim finance raised
+by him on 08.04.2022 to which the RP sent the Loan Agreement of 15.02.2021.
+As the Liquidator and CoC refused to repay the interim finance provided by the
+Resolve, hence, Resolve filed IA No. 1435 of 2022 before the Adjudicating
+
+[PAGE 7]
+Page 7 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+Authority for repayment of Rs 90.80 lakhs alongwith interest of 15% p.a. and
+default interest of 2% p.m. The Adjudicating Authority has passed the impugned
+order dated 18.04.2024 allowing refund of principal amount of Rs 64,74,109/-
+instead of Rs 90,80,214/- without allowing interest and processing fees.
+Aggrieved by this impugned order, the three separate appeals have been filed as
+noted above.
+5.
+Making submissions on behalf of Appellant Religare in Appeal No. 1057 of
+2024, Shri Rohit Gupta, Ld. Counsel submitted that the interim finance sanction
+of Rs 1 Cr. obtained by the RP from Resolve alongwith interest rate and default
+interest was without the final and formal approval of CoC as the RP had not
+taken any steps to seek the consent from the CoC on the specific terms and
+conditions recorded in the Loan Agreement. Both members of the CoC, namely,
+Religare and City Union Bank had raised this concern pertaining to fees of RP
+and CIRP costs. The RP had also not disclosed to the CoC the relationship it had
+with the interim finance provider and this non-disclosure violated the principles
+of transparency and fiduciary duty cast upon the RP under the IBC. The
+Adjudicating Authority erred in directing the Liquidator to repay the interim
+finance amount of Rs 64.74 lakhs to Resolve inspite of noticing clear conflict of
+interest between the RP and Resolve as also the inappropriate conduct of the RP
+in raising interim finance from a related party for own undue enrichment. It was
+also submitted that the RP had engaged Vishal, one of the directors of Resolve
+as the legal professional which was a clear case of a conflict of interest. Further,
+the interim finance was utilised for the fees of the RP during the Covid period
+when there was no activity undertaken towards conduct of insolvency
+
+[PAGE 8]
+Page 8 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+proceedings. This constituted a misuse of funds and a breach of trust. Reliance
+was also placed on the judgment of this Tribunal in IndusInd Bank Ltd. Vs Mr.
+Rajendra K. Bhuta, RP in CA(AT)(Ins) No. 177 of 2022 to contend that when
+insolvency proceedings are stayed, the RP is not entitled for any fee. In the
+present case, since the Section 12A withdrawal application had been filed
+immediately after admission of the Corporate Debtor into CIRP, the CIRP
+proceedings was as good as stayed for which no fees could be claimed.
+6.
+The Ld. Counsel making submissions on behalf of the Resolve refuted the
+contentions of Religare to submit that the RP had apprised the members of CoC
+to contribute to the Corpus Fund during the first meeting of CoC and it was only
+in pursuance of CoC’s approved resolution by 100% vote-share that the RP had
+approached Resolve to provide interim finance and entered into a Loan
+Agreement on 15.02.2021. Further Religare cannot claim that it was unaware
+about raising of interim finance particularly when the minutes of the second CoC
+clearly record that the RP had apprised the CoC including Religare about the
+approval in the first CoC meeting to the raising of interim finance. The RP could
+also not have been faulted for raising interim finance and in support of their
+contention adverted attention to the judgement of this Tribunal in Sajeve
+Bhushan Deora Vs Axis Bank Ltd. & Ors. in CA(AT)(Ins) No. 741 of 2019
+wherein it was held that in terms of Section 25 of the IBC, interim finance can
+be raised by the RP subject to approval of CoC. On the issue of Resolve and RP
+being related party, it was asserted the IBC does not put any bar on the RP from
+taking interim finance from a related party and since the RP had made the
+relevant disclosure to the Corporate Debtor, there was no infirmity committed
+
+[PAGE 9]
+Page 9 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+by the RP. The Liquidator and the CoC had therefore arbitrarily refused to repay
+the interim finance advanced by Resolve at a time when the same had been
+availed and consumed by the Corporate Debtor. Reliance was also placed on the
+judgment of this Tribunal in ODAT GmbH Vs CA Santanu Brahma (IRP) in
+CA(AT)(Ins) No. 1900 of 2024 wherein it has been held that of the Insolvency
+and Bankruptcy Board of India (Insolvency Resolution Process for Corporate
+Persons) Regulations, 2016 (“CIRP Regulation” in short). CIRP Regulation 34-
+B(5) clearly provided that the fee of the RP can be paid from the funds available
+with the Corporate Debtor and/or funds raised by way of interim finance and
+shall be included in the insolvency resolution process cost. The repayment of
+interim finance including the principal, interest and default interest constituted
+a valid CIRP cost which was payable by the Liquidator. It was also asserted that
+the amount of any interim finance and cost incurred in raising such finance
+being a part of CIRP cost must be accorded priority under the water fall
+mechanism before making payment to other stakeholders. The Adjudicating
+Authority by disregarding and denying their legitimate claim to refund of interim
+finance provided including processing fees, agreed interest and default interest
+amount as set out in the Loan Agreement had caused significant financial
+detriment to their interests and sought redressal on this score.
+7.
+Making submissions on behalf of the RP, the Ld. Counsel submitted that
+RP had acted in accordance with the statutory construct of IBC in discharging
+his functions and obligations in the CIRP of the Corporate Debtor. It was asserted
+that the RP is duly authorised by Section 25(2)(c) and Section 28(1)(a) of the IBC
+to raise interim finance with the approval of the CoC and that RP had in the
+
+[PAGE 10]
+Page 10 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+present case acted in terms of the resolution passed by the CoC in the first
+meeting to enter into a Loan Agreement with Resolve to raise interim finance. It
+was strenuously contended that RP had made due related party disclosures in
+terms of IBBI circular for raising the finance from a related party. It was also
+stated that in the second CoC meeting, the Appellant had informed the CoC that
+the CIRP cost sheet had been circulated alongwith the meeting notice. It was
+asserted that the draw-down from the interim finance and its utilisation towards
+CIRP costs was in consonance with the cost sheet circulated with the second
+CoC meeting notice. Moreover, though Section 12-A application had been filed,
+as there was no stay on the CIRP of the Corporate Debtor, the RP was not
+prohibited legally from claiming his own professional fees and fees for the legal
+professional even for the period excluded from CIRP time-line by the Adjudicating
+Authority. It was therefore stated that when the RP had not violated the
+provisions of IBC in any manner, the Adjudicating Authroity travelled beyond its
+jurisdiction in making adverse observations against the RP in the impugned
+order and prayed that these remarks need to be expunged.
+8.
+We have duly considered the arguments advanced by the Learned Counsel
+for all the parties and perused the records carefully.
+9.
+The first issue which requires our consideration is whether the RP had
+raised interim finance with the prior approval of the CoC and in accordance with
+the statutory construct of IBC and Regulations framed thereunder.
+10.
+It is the case of Religare that the interim finance sanction of Rs 1 Cr. was
+obtained by the RP from a related party-Resolve with interest rate of 15% p.a.
+and default interest of 2% p.m. without the approval of CoC. Submission was
+
+[PAGE 11]
+Page 11 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+pressed that though the minutes of first CoC meeting had authorised the RP to
+avail interim finance but the structuring of the terms of interim finance was
+never discussed or approved by the first CoC. Submission was pressed that
+Religare had addressed an e-mail to the RP conveying disagreement with the
+minutes of first CoC meeting as it did not properly record the deliberations on
+the aspect of the fees of RP and CIRP cost and that they had requested the RP to
+repropose the resolutions pertaining to fees of RP and CIRP costs during the next
+CoC meeting which was not done. Moreover, when the Loan Agreement with
+Resolve and the terms and conditions of the interim finance contained in the
+Agreement was discussed in the second CoC meeting, Religare as the principal
+constituent of the CoC had raised objections to the interim finance raised as well
+as on the manner of appropriation of sums therefrom by the RP. It was asserted
+that the Loan Agreement came to the knowledge of Religare for the first time only
+during the hearing of IA No. 1435 of 2022 before the Adjudicating Authority.
+When the RP had not taken the consent from the CoC prior to executing the Loan
+Agreement as is clearly borne out from the minutes of the second CoC, raising
+of interim finance was unauthorised and that being so any appropriation by the
+RP from the corpus of the interim finance lacked legitimacy and therefore need
+to be refunded by the RP.
+11.
+Per contra, it is the case of Resolve that the minutes of the first CoC
+meeting clearly recorded that RP had apprised the members of CoC to contribute
+to the Corpus Fund towards meeting CIRP costs and it was the CoC which had
+not only ideated the proposal to raise interim finance but also passed a
+resolution to that effect with 100% vote share. It was submitted that Religare
+
+[PAGE 12]
+Page 12 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+cannot claim to have been unaware of the raising of interim finance until filing
+of IA No. 1435 of 2022 as the minutes of the second CoC clearly show to the
+contrary that the RP had apprised the CoC including Religare about the approval
+during the first CoC meeting for raising of interim finance. It was only in
+pursuance of CoC’s approved resolution that the RP had approached Resolve to
+provide interim finance and entered into a Loan Agreement on 15.02.2021.
+Though admittedly Religare had declined to approve the minutes of the second
+CoC, it was asserted that Religare failed to explain how the RP had acted
+inconsistently with the decision taken by the CoC in its first meeting. Echoing
+similar contentions, it was contended by the RP that the first CoC had not only
+approved the appointment of RP as well as his fees but had resolved that interim
+finance at a maximum interest rate of 15% p.a. be raised to meet CIRP costs
+including the fees of RP and legal fees. It was emphatically asserted that in the
+second CoC meeting, the RP had also annexed the CIRP cost sheet with the
+meeting notice. The CoC never objected to the raising of the interim finance at
+that stage and only after commencement of liquidation, the Liquidator and the
+CoC have arbitrarily refused payment of interim finance.
+12.
+Having noted the rival submissions, it will be useful for us to notice the
+relevant minutes of the first and second CoC meetings to see whether the CoC
+had approved the raising of interim finance as well as the terms of such interim
+finance. The first CoC meeting held on 13.11.2019 had recorded the following
+minutes:
+“n. Providing corpus fund to run the process and more
+importantly to complying with various tax laws and other
+regulations;
+
+[PAGE 13]
+Page 13 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+The IRP informed the members the need for the CoC to contribute to
+the corpus fund to run the CIR process of the company and more
+importantly for complying with various tax laws and other
+regulations. A sheet detailing the calculation of amount of corpus fund
+was annexed to the notice and discussed at length by the CoC. The
+members stated that they will not be able to provide any such
+contribution and that the IRP can get interim funding at appropriate
+terms and that interest can be paid at 15% p.a. The CoC members
+however decided to put the issue for e-voting.”
+
+13.
+When we look at the above minutes of first CoC meeting held on
+13.11.2019, which minutes also find reflected in the impugned order at para 4.1
+thereof, it is clear that the CoC in its first meeting had proposed the idea to
+secure interim funding at appropriate terms by the RP and had decided to put
+the resolution to voting. It is also an undisputed fact that the CoC including
+Religare had voted 100% in favour of this resolution. However, this resolution
+only authorised the RP to avail of interim finance in general terms. Clearly there
+was no discussion or approval of the final terms of the exact amount of interim
+finance to be raised; the interest rate; default interest etc. that was to be
+chargeable.
+14.
+We now proceed to see what further steps were taken by the RP on the
+raising of the interim finance and the minutes of the second CoC meeting
+acquires special relevance. The second meeting of CoC was held on 22.02.2021
+after a lapse of nearly 15 months from the holding of the first CoC meeting. More
+significantly we also notice that even before the convening of the second CoC
+meeting on 22.02.2021 the RP had already finalised the Loan Agreement with
+Resolve on 15.02.2021. The two relevant agenda items of the second CoC
+meeting are as extracted below:
+
+[PAGE 14]
+Page 14 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+“4.
+To table and approve the minutes of the 1st Meeting of the CoC
+held on 13th November, 2019:
+
+The Chairman informed the members that the minutes of the 1st
+meeting of the CoC were duly circulated to the participants of the
+meeting.
+No
+objections/suggestions
+for
+any
+changes
+or
+inconsistencies were received from them and hence requested the
+members to take the same on record. City Union Bank stated that as
+they were not part of the 1st CoC they are not approving the minutes.
+Religare Finvest Limited stated that they also refrain from approving
+the minutes of 1st CoC. The RP clarified that since City Union Bank
+was not a participant, it cannot approve or disapprove taking the
+same on record. More so, the minutes had already been shared with
+them on 09.12.2019 and no observations were received from them.
+Religare Finvest Limited also did not point out any inconsistency in
+the minutes after circulation on 15.11.2019 till date and also during
+this meeting; so, it is not appropriate that the minutes are not taken
+on record without raising any particular inconsistency.
+
+9. To table the details of approved/ratified Corporate Insolvency
+Resolution Process (CIRP) costs incurred till date:
+
+The RP informed that he had circulated a sheet of CIRP cost incurred
+till date to the CoC members. City Union Bank queried that as no
+service is rendered by the RP after filing of withdrawal application,
+then what is the justification for payment of RP fees till date. They
+strictly objected to the fees of the RP for the excluded period. The RP
+clarified that the statement that there is no service is incorrect and
+that though a withdrawal application was filed, the RP is incharge of
+the affairs of the CD, until the application is allowed. The IRP/RP
+conducted the first meeting of the CoC inspite of the withdrawal
+application and also continued to be in charge of the operations of the
+Corporate Debtor. In the very first meeting the IRP was confirmed as
+the RP. Though as an IRP he had charged a fee of Rs. 3 lacs, the CoC
+noting well that since there are no or minimal business operations of
+the CD and in view of the impending withdrawal of CIRP, which they
+also approve for, they humbly requested the IRP/RP to reduce his fees
+to Rs. 2,00,000/- p.m and the fees of the legal advisor at Rs 50,000/-
+p.m. on retainership basis. The IRP had stated that such a fee of Rs.
+2 lacs is the bare minimum fees charged by the RPs wherein there are
+no operations of the CD but since there are some operations in this
+CD, fee of Rs. 3 lacs is reasonable, and the applicant OC had also
+
+[PAGE 15]
+Page 15 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+agreed for the same fee, though not being an institutional creditor.
+However, at the insistence of the CoC, the IRP/RP had agreed for a
+lower fee of Rs. 2 lacs per month. So the fees were fixed
+commensurate with the work involved and at the bare minimum
+market rate.
+
+Even after the first meeting, the RP had been carrying on the
+operations of the CD, but since there was no substantial revenue
+generation, and due to inability to pay the salaries, all the employees
+had left. The suspended directors were also not co-operating
+completely and the business suffered. Later on, lockdown was
+imposed and the whole tourism sector is gravely impacted till date.”
+(Emphasis supplied)
+
+15.
+When we look at the above minutes, it is quite clear that Religare had
+refrained from signing the minutes of the first CoC meeting. Admittedly, Religare
+had also sent a written communication earlier to the RP objecting to the
+proceedings recorded in respect of the first CoC meeting. It is pertinent to also
+notice that the gap between the first and second CoC meeting was nearly fifteen
+months but during this long intervening period, the RP took no steps to keep the
+CoC apprised about the negotiations being undertaken to finalise the Loan
+Agreement. Instead, the RP had executed the Loan Agreement even before
+convening the second CoC meeting on 22.02.2021. In other words, the Loan
+Agreement which contained the exact terms of interim finance arrangement had
+been decided unilaterally by the RP without the approval of CoC. This action on
+the part of the RP does not appear to be compatible with CIRP Regulations 34-A
+and 34-B which obligated the RP to disclose to the CoC insolvency resolution
+process costs including fees/expenses to be incurred by the RP.
+16.
+A defence was taken by the RP that CIRP cost sheet was annexed to the
+notice of the second CoC meeting on which the terms of the interim finance was
+
+[PAGE 16]
+Page 16 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+predicated. It was pointed out that the minutes of the second CoC meeting also
+records that CIRP costs incurred till date was circulated by the RP to the CoC
+members. A pointed query was therefore made by this Bench to the Ld Counsel
+of RP to show the purported CIRP cost sheet which was annexed to the second
+CoC meeting notice. However, as the Ld. Counsel for the RP could not readily
+show the same, he was allowed to furnish copy of the same with his written
+submissions which has however not been complied to by the RP. This lends
+credence to the argument canvassed by Religare that the RP took undue
+advantage of the preliminary approval taken in the first CoC meeting to
+unilaterally enter into a detailed agreement with Resolve for interim finance and
+serving the same on the CoC as a fait accompli without fleshing out reasons as
+to why Resolve which was a related entity was chosen as the lender or why the
+RP had opted for a quantum of Rs 1 Cr. interim finance with interest of 15% p.a.
+and default interest. Mere receipt of a general and preliminary approval in the
+first CoC meeting to raise interim finance without the stamp of final approval by
+the CoC on the specific terms and conditions of interim finance cannot be read
+as compliance to the requirements outlined under Sections 25 and 28 of IBC
+and CIRP Regulation 34-B for obtaining the specific approval of CoC before
+entering into any actual interim finance transaction.
+17.
+We next proceed to examine whether the remarks of the Adjudicating
+Authority describing the professional conduct of the RP as “deplorable” was
+unwarranted or not. This examination would need to be seen from the point of
+view whether the fees claimed by the RP was commensurate with the services
+performed and whether the funds appropriated from the interim finance was
+
+[PAGE 17]
+Page 17 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+used for the benefit of RP and alleged related parties as alleged by Religare or for
+furthering the beneficial interest of the Corporate Debtor.
+18.
+From the sequence of events which has already been noticed at para 4
+above, it is an indisputable fact that immediately after the admission of the
+Corporate Debtor into CIRP, the Operational Creditor had entered into a
+settlement with the Corporate Debtor and had decided to withdraw the Section
+9 application. The RP thereafter filed the Section 12A withdrawal application
+which application got rejected by the Adjudicating Authority on 08.01.2021.
+During this period of nearly two years when the Section 12A application was
+pending before the Adjudicating Authority, we do not find any status report filed
+by the RP before the CoC on what action or efforts were taken by the RP. We also
+find that when the second CoC meeting was held which happened after the
+dismissal of Section 12-A application, City Union Bank which was one of the
+CoC members had objected to the payment of fees to the RP for the period
+excluded by the Adjudicating Authority and had questioned the reasonability
+and justification of the fees claimed by the RP.
+19.
+It is equally pertinent to note that the second CoC meeting had also noticed
+that there was minimal business operation of the Corporate Debtor with no
+substantial revenue generation during this period when the Section 12-A
+withdrawal application remained pending as all employees had left and business
+was gravely impacted by lockdown. We also take cognisance of the fact that while
+rejecting the Section 12A application, the Adjudicating Authority had excluded
+the litigation period from 06.11.2019 to 08.01.2021 from the CIRP time-lines.
+We are therefore inclined to agree that though CIRP as such was not stayed,
+
+[PAGE 18]
+Page 18 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+however, the very fact that the RP had filed the Section 12A withdrawal
+application immediately after admission of the Corporate Debtor into the rigours
+of corporate insolvency, the CIRP proceedings remained in a moribund state and
+there is nothing on record to show that any significant work was undertaken by
+the RP during this period.
+20.
+In such circumstances, when the CIRP remained practically in abeyance
+for almost a period of two years on account of filing of Section 12A application,
+the claim of the full fees of the RP is clearly unsustainable. The RP can charge
+fees only in a transparent manner and the fees should be a reasonable reflection
+of the work undertaken and should have been validly incurred. The hefty fees
+appropriated by the RP from the Corpus Fund raised through interim finance
+facility does not appear justified. The RP is expected to conduct the CIRP process
+with the highest sense of responsibility. Section 208(2)(a) of the IBC enjoins upon
+the RP to scrupulously abide by a Code of Conduct which Code at Article 35
+clearly obligates the RP to charge his fees in a transparent and reasonable
+manner. We are therefore of the considered opinion that the Adjudicating
+Authority did not commit any error in disapproving the conduct of the RP for
+getting suddenly active in raising interim finance after dismissal of Section 12A
+application and appropriating the major chunk therefrom to recover their fees.
+21.
+We now like to address the finding returned by the Adjudicating Authority
+that the RP, the legal professional-Vishal and Resolve as the entity from whom
+interim finance was raised were all related parties belonging to one common
+group and that these related parties acted in collusion to utilise the interim
+
+[PAGE 19]
+Page 19 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+finance arrangements for their own benefit and unjust enrichment rather than
+furthering the beneficial interest of the Corporate Debtor as a going concern.
+22.
+It is the case of Religare that professional fees of RP accounted for 73%;
+legal fees payment accounted for 17%; the interest and processing fees payable
+to Resolve accounted for 7% and only 3% was for other expenses was
+appropriated out of the Corpus Fund raised. We find that this percentage-wise
+profile of appropriation of Corpus Fund is borne out by material on record and
+has not been denied or controverted either by the RP or Resolve. We also notice
+that besides the professional fees of RP which accounted for major part of the
+amount which was appropriated from the Corpus Fund, the fees of the legal
+professional, namely, Vishal, accounted for Rs 11.48 lakhs which was next big
+ticket of payment.
+23.
+When we further look at the material placed on record, we find that Vishal
+who was a related party was appointed as the legal professional. This legal
+professional hired by the RP happened to be director of Resolve from whom
+interim finance was raised and interim finance was purportedly transferred from
+the HUF account of Vishal to the account of the Corporate Debtor which was
+being handled by the RP. Given this backdrop, this was a clear case of conflict
+of interest since Vishal, on the one hand, was financing the Corporate Debtor
+through the RP, and on the other hand, was dipping into the corpus of interim
+finance through the RP by claiming legal fees. The RP had also not disclosed to
+the CoC the relationship it had with the Resolve as the Loan Agreement had been
+executed by RP without placing the specific terms thereof for approval of the
+CoC. This non-disclosure to the CoC of appointment of related parties as interim
+
+[PAGE 20]
+Page 20 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+finance provider and legal professional by the RP clearly violated the principles
+of transparency and fiduciary duty exercisable by the RP under the IBC.
+24.
+It was vehemently contended by Resolve that there was no bar on the RP
+from taking interim finance from a related party for and IBBI Regulation 34-B
+clearly provides that the fees of the RP can be paid from the funds available with
+the Corporate Debtor which fund can also be raised by way of interim finance
+and shall be included in the insolvency resolution process cost. Moreover, as the
+RP had made the relevant disclosure to the Corporate Debtor to the Indian
+Institute of Insolvency Professional of ICAI, there was no infirmity committed by
+the RP. The RP has also contended that he is duly authorised by Section 25(2)(c)
+and Section 28(1)(a) of the IBC to raise interim finance with the approval of the
+CoC and in the present case he had acted in terms of the resolution passed by
+the CoC to enter into a Loan Agreement with Resolve to raise interim finance
+and made due disclosures in terms of IBBI circular.
+25.
+Be that as it may, it is well settled that RP is an administrator of the IBC
+and is expected to work under the directions of the CoC. The relationship
+between the RP and the CoC is required to be one characterised by trust,
+confidence and transparency. There is however nothing paced on record by the
+RP to substantiate that the CoC was also kept apprised of this aspect of related
+party arrangements which was required under Section 28(1)(f) of the IBC. The
+manner in which the RP has raised interim finance and appropriated amounts
+out of the same largely towards his own fees and fees of the legal professional
+who was a related party shows lack of transparency on the part of the RP. The
+Adjudicating Authority has therefore rightly observed that the RP had raised
+
+[PAGE 21]
+Page 21 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+interim finance from a related party for the purpose of clearing his own dues and
+that of related party. In this backdrop, the Adjudicating Authority was not off
+the mark in finding the conduct of the RP to be deplorable and deprecatory.
+26.
+This now brings us to the directions contained in the impugned order by
+the Adjudicating Authority for refund of interim finance to the interim finance
+provider as both the fees of the RP and legal fees as well as the interim finance
+raised were in the nature of CIRP cost and required to be paid in priority with
+the caveat that no refund of interim finance to the interim finance provider be
+done in respect of payment of interest and processing fees since the funds had
+been raised from a related entity.
+27.
+From the material placed on record and foregoing discussions, we find no
+good grounds to disagree with the Adjudicating Authority that the interim
+finance had been raised by the RP from a related party and has been used to
+clear his own fees as well as that of the legal professional. We have already
+noticed that the approval of the first CoC to the raising of interim finance was
+only preliminary and prefatory in nature and that the RP had gone ahead and
+inked the Loan Agreement with the interim finance provider without obtaining
+formal approval of the CoC on the terms and conditions of the Loan Agreement.
+It is for the CoC to ratify, modify or set aside the CIRP cost and in the present
+case when CIRP cost was not shown to have been placed before the CoC for its
+examination, consideration and decision, it was not open for the RP to expend
+on CIRP costs unilaterally. We therefore do not find any infirmity with the
+directions of the Adjudicating Authority in the impugned order not to allow
+refund of interim finance to the interim finance provider in respect of interest
+
+[PAGE 22]
+Page 22 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+payment and processing fees. We have however find sufficient basis in the
+contention of Religare that the interim finance has been misused by the RP to
+pay his own fees and that of the legal professional despite objections raised by
+the CoC that no substantial work was done during the period when the Section
+12A application was pending. We are of the considered view that there is
+adequate justification for rationalising the fees appropriated by the RP for
+himself and the legal professional and to that extent disagree with the
+Adjudicating Authority for having allowed the entire amount of Rs 64,74,109/-
+to the RP and in directing the Liquidator to reimburse this amount in full. We
+are of the view that it would be reasonable to restrict this amount to Rs 50 lakhs
+only and hold that the impugned order passed by the Adjudicating Authority
+dated 18.04.2024 requires to be modified to that extent.
+28.
+In sum, all the three Appeals are decided in following manner:
+(i) Company Appeal Nos. 1346 and 1199 of 2024 are found to be devoid of
+merit and are dismissed.
+(ii) Appeal No. 1054 of 2024 is allowed with the following directions:
+(a) Out of the principal interim finance amount of Rs 64,74,109/- raised
+by the RP, the Liquidator shall pay an amount of Rs 50,00,000/- only to
+the interim finance provider within a period of 30 days from the date of
+the order.
+(b) The balance amount of Rs 14,74,109/- shall be refunded by the RP to
+the Liquidator within a period of 30 days and thereafter this amount so
+refunded shall be paid to the interim finance provider within 7 days of
+receipt of the said amount.
+
+[PAGE 23]
+Page 23 of 23
+Company Appeal (AT) (Insolvency) Nos. 1057, 1346 & 1199 of 2024
+
+(c) We also reaffirm the directions contained in the impugned order that
+interim finance shall not be refunded with any provision for interest and
+no processing fees shall be payable to the interim finance provider.
+(d) We also uphold the findings of the Adjudicating Authority on the
+deplorable professional misconduct on the part of the RP and direct that
+a copy of this order be sent by this Registry to the Insolvency and
+Bankruptcy Board of India for initiating appropriate action.
+(e) No order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+Place: New Delhi
+Date: 14.01.2026
+
+Abdul

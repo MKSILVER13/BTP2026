@@ -1,0 +1,33 @@
+# FILE 001-60324.txt  n_chars=10015  units=99  paragraphs=67
+# SCOPE: legal reasoning starts at char 5644 (unit u65) via law-heading. Earlier units are hidden (facts/procedure).
+# TAIL: from char 9228 (unit u90) = operative part / separate opinions (hidden: not annotated in the corpus; use --include-tail to show). 
+# WARNING: the text appears TRUNCATED (it ends mid-sentence). The last unit is flagged T. Annotate what is there; do not invent the missing end (07_edge_cases.md section 4).
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (Art. 41/50 just satisfaction, costs, default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 5644 hidden (facts/procedure; use --show-all to see them) --
+u65 p45  [5644-5651) H | THE LAW
+u66 p46  [5652-5703) H | I. ALLEGED VIOLATION OF ARTICLE 8 OF THE CONVENTION
+u67 p47 ¶18 [5708-5893) | The applicant alleged that the control and censorship of his correspondence by the prison administration amounted to a violation of Article 8 of the Convention, which states as follows:
+u68 p47  [5895-5898) Q | “1.
+u69 p47  [5899-5998) Q | Everyone has the right to respect for his private and family life, his home and his correspondence.
+u70 p48 ¶2 [6002-6410) | There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.”
+u71 p49 ¶19 [6415-6568) | The Government did not comment on these allegations, acknowledging that censorship of the applicant’s correspondence was permitted under the Prison Code.
+u72 p50 ¶20 [6573-6659) | The Court notes that the Government do not contest the facts alleged by the applicant.
+u73 p50  [6660-6988) | It has been established that the letters addressed to the applicant by the CBSS (letter of 16 October 1998), the Secretariat of the Commission (letter of 21 October 1998), as well as the applicant’s letter to his wife (of an unspecified date, see § 12 above) were opened in his absence and censored by the prison administration.
+u74 p50  [6989-7218) | There was, therefore, an interference with the applicant’s right to respect for his correspondence under Article 8 of the Convention, which can only be justified if the conditions of the second paragraph of the provision are met.
+u75 p50  [7219-7469) | In particular such interference must be “in accordance with the law”, pursue a legitimate aim and be necessary in a democratic society in order to achieve that aim (Valašinas v. Lithuania, no. 44558/98, 24.7.2001, § 128, to be reported in ECHR 2001).
+u76 p51 ¶21 [7474-7671) | The interference in the present case had a legal basis, namely Article 41 of the Prison Code, and the Court is satisfied that it pursued the legitimate aim of “the prevention of disorder or crime”.
+u77 p51  [7672-7873) | However, as regards the necessity of the interference, the Government have not submitted any reasons which could justify this control of his correspondence with international institutions and his wife.
+u78 p51  [7874-8081) | Accordingly, the interference complained of was not necessary in a democratic society within the meaning of Article 8 § 2 of the Convention (see, mutatis mutandis, the Valašinas judgment cited above, § 129).
+u79 p52 ¶22 [8086-8139) | There has consequently been a violation of Article 8.
+u80 p53  [8140-8187) H | II. APPLICATION OF ARTICLE 41 OF THE CONVENTION
+u81 p54 ¶23 [8192-8230) L | Article 41 of the Convention provides:
+u82 p54  [8231-8512) QL | “If the Court finds that there has been a violation of the Convention or the Protocols thereto, and if the internal law of the High Contracting Party concerned allows only partial reparation to be made, the Court shall, if necessary, afford just satisfaction to the injured party.”
+u83 p55  [8513-8522) H | A. Damage
+u84 p56 ¶24 [8527-8641) L | The applicant requested the Court to afford him just satisfaction, but specified no further claims in this regard.
+u85 p57 ¶25 [8646-8705) L | The Government did not submit any comments in this respect.
+u86 p58 ¶26 [8710-8907) L | The Court, bearing in mind its finding above regarding the applicant’s complaint, considers that he suffered some moral damage as a result of the screening of his correspondence (loc. cit., § 141).
+u87 p58  [8908-9026) L | Making its assessment on an equitable basis, the Court awards the applicant 300 euros (EUR) for non-pecuniary damage.
+u88 p59  [9027-9046) H | B. Default interest
+u89 p60 ¶27 [9051-9227) L | According to the information available to the Court, the statutory rate of interest applicable in Lithuania at the date of adoption of the present judgment is 5.95 % per annum.
+-- tail from char 9228 hidden --

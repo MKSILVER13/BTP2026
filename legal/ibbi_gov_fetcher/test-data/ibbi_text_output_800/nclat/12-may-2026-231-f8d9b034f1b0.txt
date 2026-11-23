@@ -1,0 +1,817 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Comp. App. (AT) (Ins) No. 2038 of 2024 & I.A. No. 738 of 2025
+(Arising out of the Order dated 23.10.2024 passed by the National Company
+Law Tribunal, Ahmedabad Bench, in Company Petition (IB) No.
+(IB)/200(AHM) 2024 with IA/1072(AHM)2024) and Company Petition
+(IB)/199(AHM) 2024 with IA/1068(AHM)2024
+
+IN THE MATTER OF:
+Amit Bhatnagar
+S/O Sh. Suresh Narain Bhatnagar,
+Aged Around 42 Years, R/O 6 Green Park,
+Nizampura, Vadodara, Gujarat 380005
+
+...Appellant
+
+Versus
+
+1.
+UCO Bank
+Having Its Branch Office At:
+Mid Corporate Branch, 14-17 Earth Complex, Akshar
+Chowk, Old Padra Road, Vadodara 390020
+Through Authorized Representative,
+Vishal Dileeprao Niam
+
+2.
+CS & IP Amrish Gandhi
+Resolution Professional 504, Shivalik Abaise,
+Nr. Anand Nagar Bus Stand,
+Opp Shell Petrol Pump Anand Nagar Road,
+Satellite, Ahmedabad 380015
+
+3. Indian Overseas Bank
+Having its Registered Office:
+At 703, Anna Salai,
+Chennai-600002
+Having its Branch Office sat: -
+Asset Recovery Management Branch,
+Ground Floor, Sharad shopping, opp.
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+[PAGE 2]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 2 of 27
+
+Present
+For Appellants:
+Mr. Malak Bhatt, Ms. Neeha Nagpal & Ms. Sukanya
+Joshi, Advocates.
+
+For Respondents:
+
+Mr. Amrish Gandhi, Advocate for RP
+Mr. Jaimohan, Mr. Aayush Gupta, Advocates for
+R-1
+Ms. Swati Sood, Advocate
+
+With
+Comp. App. (AT) (Ins) No. 2039 of 2024 & I.A. No. 740 of 2025
+
+IN THE MATTER OF:
+Handloom House Chinubhai tower centre Chinubhai
+tower Road, Ashram Road, Ahmedabad - 380009
+
+... Intervenor
+Sumit Bhatnagar
+S/O Sh. Suresh Narain Bhatnagar, Aged Around 42
+Years, R/O 6 Green Park, Nizampura,
+Vadodara, Gujarat 380005
+
+...Appellant
+
+Versus
+
+1.
+UCO Bank
+Having Its Branch Office At:
+Mid Corporate Branch, 14-17 Earth Complex, Akshar
+Chowk, Old Padra Road, Vadodara 390020
+Through Authorized Representative,
+Vishal Dileeprao Niam
+
+2.
+CS & IP Amrish Gandhi
+Resolution Professional 504, Shivalik Abaise,
+Nr. Anand Nagar Bus Stand,
+Opp Shell Petrol Pump Anand Nagar Road,
+Satellite, Ahmedabad 380015
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+[PAGE 3]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 3 of 27
+
+Present
+For Appellants:
+Mr. Malak Bhatt, Ms. Neeha Nagpal & Ms. Sukanya
+Joshi, Advocates.
+
+For Respondents:
+
+Mr. Amrish Gandhi, Advocate for RP
+Mr. Jaimohan, Mr. Aayush Gupta, Advocates for
+R-1
+Ms. Swati Sood, Advocate
+
+J U D G E M E N T
+(12 .05.2026)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+There are two appeals in the present case. We are taking both the appeals
+together. The appeals have been filed by the Appellants i.e., Amit Bhatnagar and
+Sumit Bhatnagar, who are the Personal Guarantors of M/s Diamond Power
+Transformers Ltd. (“Corporate Debtor”), under Section 61 of the Insolvency
+and Bankruptcy Code, 2016 (‘Code’) against the Order dated 23.10.2024
+("Impugned Order") passed by the National Company Law Tribunal, Ahmedabad
+Bench ("Adjudicating Authority") in Company Petition (IB) No. Company
+3.
+Indian Overseas Bank
+Having its Registered Office:
+At 703, Anna Salai,
+Chennai-600002
+Having its Branch Office sat: -
+Asset Recovery Management Branch,
+Ground Floor, Sharad shopping, opp.
+Handloom House Chinubhai tower centre Chinubhai
+tower Road, Ashram Road, Ahmedabad - 380009
+
+...Intervenor
+
+[PAGE 4]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 4 of 27
+
+Petition (IB) No. (IB)/200(AHM) 2024 with IA/1072(AHM)2024 and Company
+Petition (IB)/199(AHM) 2024 with IA/1068(AHM)2024.
+UCO Bank, who is the Financial Creditor of the Corporate Debtor, is the
+Respondent No.1/Respondent Bank, herein.
+CS & IP Amrish Gandhi, who is the Resolution Professional of Mr. Amit
+Bhatnagar and Mr. Sumit Bhatnagar, is Respondent No. 2, herein.
+Indian Overseas Bank, who was the other Financial Creditor of the
+Corporate Debtor in addition to Respondent No.1 /UCO Bank, is the Intervenor
+in both the appeals.
+2.
+We will refer both UCO Bank- Respondent No. 1 and Indian Overseas
+Bank-Intervenor, as “Consortium Banks”, since their cause and grounds are same,
+hereinafter.
+3.
+The Appellants submitted that the Consortium Banks extended a credit
+facility of Rs. 40 crores to the Corporate Debtor (DPTL) on 15.10.2011, which
+was renewed on 29.06.2013. Pursuant thereto, a Consortium Agreement dated
+31.03.2015 was executed for an aggregate credit facility of Rs. 114.60 crores. The
+Appellants contended that despite the explicit terms of the said Consortium
+Agreement, the Consortium Banks failed to disburse Rs. 24 crores to the
+Corporate Debtor (DPTL). This non-disbursement amounted to a unilateral
+variation in the essential terms of the Consortium Agreement and a breach of the
+obligations assumed by the Consortium Banks thereunder.
+
+[PAGE 5]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 5 of 27
+
+4.
+The Appellants submitted that the Deed of Guarantee dated 31.03.2015
+executed by the Appellants and Diamond Power Infrastructure Ltd. (DPIL)
+(Corporate Guarantor) in favour of the Consortium Banks was predicated entirely
+upon the Consortium Agreement and the promised disbursement of the full Rs.
+114.60 crores. The Appellants contended that the failure to disburse Rs. 24 crores
+constituted a material alteration in the terms of the contract between the creditor
+and the principal debtor without the consent of the sureties. Consequently, the
+Appellants stands fully discharged from all liability under the Deed of Guarantee
+in terms of Section 133 of the Indian Contract Act, 1872, and the Adjudicating
+Authority was duty-bound to recognise the same while examining the petition
+under Section 95 of the Code.
+5.
+The Appellants submitted that the account of the Corporate Debtor (DPTL)
+was declared NPA on 30.07.2016, leading to admission of Company Petition (IB)
+No. 28 of 2017 under Section 10 of the Code on 06.07.2017 and subsequent order
+of liquidation dated 19.03.2018 in IA No. 92 of 2018. Separately, the lead bank
+of the Consortium (Bank of India) initiated proceedings under Section 7 against
+the Corporate Guarantor (DPIL), resulting in admission into CIRP on 24.08.2018.
+The Appellants contended that the Consortium Banks filed its claim before the
+Resolution Professional of DPIL, which was accepted and crystallised on the
+strength of the corporate guarantee furnished by DPIL for the dues of the
+Corporate Debtor (DPTL). The said claim were dealt with and satisfied in full
+under the approved Resolution Plan.
+
+[PAGE 6]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 6 of 27
+
+6.
+The Appellants submitted that the Resolution Plan of the Corporate
+Guarantor (DPIL) was approved by the Committee of Creditors on 06.01.2022
+with 89.46% voting share and thereafter allowed by the Adjudicating Authority
+on 20.06.2022 in CP (IB) No. 137 of 2018. The Consortium Banks, being a
+member of the Committee of Creditors, actively participated and accorded its
+consent to the Resolution Plan, which expressly dealt with and extinguished its
+entire claim. The Appellants contended that the Successful Resolution Applicant
+took over management of DPIL and made upfront cash payments as well as
+deferred payments to all financial creditors, including the Respondent Bank, and
+issued Bond Certificate No. 17 dated 17.09.2022 bearing face value of Rs.
+49,96,91,500/- in favour of the Respondent Bank. Thereafter, the Successful
+Resolution Applicant repurchased the said bonds from the Respondent Bank
+under the Bond Repurchase Agreement dated 07.10.2022 executed with M/s
+Gomax. The Respondent Bank further issued an Acknowledgement Letter dated
+07.10.2022 to the Successful Resolution Applicant (Consortium of GSEC Ltd.
+with Rakesh Shah) expressly accepting the treatment of its claims under the
+approved Resolution Plan as full and final settlement.
+7.
+The Appellants submitted that the dues of the Consortium Banks stood
+completely extinguished and satisfied in accordance with the approved
+Resolution Plan of the Corporate Guarantor (DPIL), which is binding on all
+stakeholders under Section 31 of the Code. The Appellants contended that after a
+lapse of more than two years from the date of full satisfaction and
+
+[PAGE 7]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 7 of 27
+
+acknowledgement, the Consortium Banks issued Demand Notice dated
+25.01.2024 claiming an amount of Rs. 116,15,08,125/- towards purported
+outstanding liability and interest and thereafter filed Company Petition (IB) No.
+200 of 2024 under Section 95 of the Code seeking initiation of insolvency
+resolution against the Appellants as personal guarantors while claiming an
+aggregate sum of Rs. 116.40 crores. The Appellants submitted that no debt or
+liability whatsoever survives against the Appellants in view of the complete
+extinguishment of the underlying debt through the CIRP of the Corporate
+Guarantor (DPIL).
+8.
+The Appellants contended that the Resolution Professional (Respondent
+No. 2) filed a Report dated 06.07.2024 under Section 99 of the Code mechanically
+confirming a default of Rs. 122.19 crores without any independent scrutiny of
+documents, without examining the discharge of the guarantee under Section 133
+of the Contract Act, 1872, without considering the approved Resolution Plan of
+DPIL, and without addressing the issue of limitation. The Report is a verbatim
+reproduction of the petition filed by the Respondent Bank and discloses no
+application of mind. The Appellants submitted that the Resolution Professional
+failed to discharge the statutory duty cast under Section 99(2) of the Code to
+examine whether the application satisfies the requirements of Section 95(4),
+including existence of a debt, occurrence of default, and production of relevant
+evidence of non-repayment.
+
+[PAGE 8]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 8 of 27
+
+9.
+The Appellants contended that the petition under Section 95 of the Code
+does not fulfil the mandatory criteria prescribed under Section 95(4) inasmuch as
+there is no debt owed by the Appellants to the Respondent Bank after full
+satisfaction under the DPIL Resolution Plan, there has been no failure to pay any
+subsisting debt within fourteen days of demand, and no credible evidence of any
+default has been produced. The Appellants submitted that in the absence of any
+existing debt or default, the petition was not maintainable and ought to have been
+rejected at the threshold.
+10.
+The Appellants submitted that the claim are barred by limitation. The NPA
+date is 30.07.2016, the liquidation order records default as on 19.03.2018, and the
+Demand Notice was issued only on 25.01.2024. The Appellants contended that
+the Consortium Banks failed to demonstrate any acknowledgment of debt or any
+continuous cause of action that could extend the period of limitation under the
+Limitation Act, 1963. The proceedings under Section 95 are thus barred by time
+and the Adjudicating Authority erred in not dismissing the petition on this ground
+alone.
+11.
+The Appellants contended that the Resolution Professional (Respondent
+No. 2) had itself issued a No Dues Certificate confirming complete settlement of
+all dues of the Corporate Guarantor (DPIL) and had also ensured deletion of the
+name of DPIL from the list of defaulters. Having accepted full and final payment
+under the Resolution Plan, the Consortium Banks have no locus to pursue any
+further claim against the Appellants/personal guarantors. The Appellants
+
+[PAGE 9]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 9 of 27
+
+submitted that once the corporate guarantor’s liability has been discharged and
+the debt extinguished, no residual or balance claim can be enforced against the
+Appellants under the principle of co-extensiveness of guarantees and the doctrine
+of discharge by performance.
+12.
+The Appellants submitted that the impugned order dated 23.10.2024
+passed by the Adjudicating Authority in Company Petition (IB) No. 200 of 2024
+and Company Petition (IB) No. 199 of 2024 are perverse, passed in a callous and
+casual manner without appreciation of facts or law, and is contrary to the scheme
+and object of the Code. The Appellants alleged that the Adjudicating Authority
+failed to consider the discharge of the guarantee, the binding nature of the
+approved Resolution Plan of DPIL, the acknowledgement of full settlement by
+the Respondent Bank, the absence of any subsisting debt, and the bar of
+limitation. The order merely reiterates the erroneous Report of the Resolution
+Professional without independent application of mind.
+13.
+The Appellants contended that the entire proceedings initiated by the
+Respondent Banks are an afterthought and an attempt at unjust enrichment and
+extortion in flagrant violation of the provisions of the Code and settled principles
+of law. The Appellants submitted that the present appeal have been preferred bona
+fide and in the interest of justice.
+14.
+Concluding their arguments, the Appellants requested this Appellate
+Tribunal to set aside the Impugned Orders and allow both appeals.
+
+[PAGE 10]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 10 of 27
+
+15.
+Per contra, the Consortium Banks denied all averments made by the
+Appellants as misleading and baseless.
+16.
+The intervenor (Indian Overseas Bank) submitted that it has been
+impleaded as a party to the present appeal in view of its significant financial
+interest in the outcome of the proceedings. The intervenor contended that the
+Applicant/Respondent Bank holds substantial outstanding dues aggregating to
+Rs. 273.34 crores as on 23.10.2024, recoverable from Diamond Power
+Transformers Ltd. (DPTL) and Diamond Power Infrastructure Ltd. (DPIL), and
+the adjudication of the present appeal directly impacts the rights and remedies
+available to the intervenor in respect of the said dues.
+17.
+The Consortium Banks contended that the debts owed by the Appellants as
+personal guarantors have not been settled or extinguished in terms of the
+Resolution Plan dated 20.06.2022 approved in the CIRP of the corporate
+guarantor (DPIL). The Consortium Banks submitted that the acknowledgement
+letter dated 07.10.2022 and the treatment of its claim under the said Resolution
+Plan were limited to the amount crystallised and admitted in the CIRP of DPIL
+and do not operate as a discharge or waiver of the remaining unpaid dues of the
+Consortium Banks recoverable from the Appellants under the personal guarantee
+and the final adjudication made by DRT-II, Ahmedabad vide judgment and
+Recovery Certificate dated 06.02.2020 in OA No. 436 of 2018.
+18.
+The Consortium Banks contended that they had extended a credit facility
+of Rs. 40,00,00,000/- as part of the consortium arrangement. The total sanctioned
+
+[PAGE 11]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 11 of 27
+
+limit under the Consortium Agreement dated 31.03.2015 was Rs. 114,60,00,000/-
+(Rs. 40 crores by the Respondent No. 1 + Rs. 50.60 crores by Indian Overseas
+Bank + additional Rs. 24 crores). The Consortium Banks submitted that the plea
+of alleged non-disbursement of Rs. 24,00,00,000/- is wholly misconceived, non-
+jurisdictional under the code, and in any event stands finally adjudicated and
+rejected by the DRT in the above-referred recovery proceedings. The Consortium
+Banks contended that the liabilities of the Appellants have been conclusively
+determined by the DRT for a sum of Rs. 109,11,40,210.00 together with interest
+at 14.25% p.a. and penal interest at 2% p.a. with effect from 12.04.2018, which
+adjudication has attained finality.
+19.
+The Consortium Banks submitted that there was never any unilateral
+variation in the terms of the loan or the Deed of Guarantee dated 31.03.2015
+executed by one of the Appellant, Sumit Bhatnagar and DPIL. The Consortium
+Banks contended that the plea of discharge of the guarantee under Section 133 of
+the Indian Contract Act, 1872 is completely misconceived and ill-founded,
+inasmuch as the alleged non-disbursement (if any) of part of the limit does not
+constitute a material alteration that discharges the personal guarantor, more
+particularly when the entire matter has been adjudicated by the DRT and the
+Recovery Certificate has been issued. The Consortium Banks submitted that the
+said plea is hit by the principles of res judicata and is non-est in proceedings under
+the Code.
+
+[PAGE 12]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 12 of 27
+
+20.
+The Consortium Banks contended that the CIRP proceedings initiated by
+Bank of India (Lead Bank of Consortium of Banks) against DPIL (corporate
+guarantor) under Section 7 of the Code were in respect of an independent lending
+transaction and have no bearing on the separate and distinct rights of the
+Consortium Banks to recover their own dues from the Appellants as personal
+guarantors. The Consortium Banks submitted that although claims were filed by
+the Consortium Banks in the CIRP of DPIL, the law is well-settled that recovery
+proceedings can validly continue against non-CIRP obligants, including personal
+guarantors.
+21.
+The Consortium Banks submitted that the approval of the Resolution Plan
+of DPIL on 20.06.2022 and the subsequent compliance thereof by the Successful
+Resolution Applicant (including upfront cash payments, deferred payments and
+issuance/repurchase of Bond Certificate No. 17 dated 17.09.2022 for face value
+of Rs. 49,96,91,500/-) do not absolve the Appellants of their independent and co-
+extensive liability as personal guarantors. The Consortium Banks contended that
+the said Resolution Plan neither limits nor extinguishes the right of the
+Consortium Banks to claim the remaining unpaid debts from the Appellants.
+22.
+The Consortium Banks submitted that the claims filed by them in the CIRP
+of DPIL were updated only up to the date of admission of that petition and did
+not include future accruals of interest or other charges as per the contractual terms
+and the DRT decree. The unpaid balance therefore continues to remain
+recoverable from the Appellants.
+
+[PAGE 13]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 13 of 27
+
+23.
+The Consortium Banks contended that the Demand Notice dated
+25.01.2024 was issued strictly in terms of the outstanding dues crystallised under
+the Recovery Certificate dated 06.02.2020 for the remaining unpaid amount of
+Rs. 1,16,15,08,125/-. The Consortium Banks submitted that the Appellants’
+failure to pay the said amount despite receipt of the demand notice gave a fresh
+and valid cause of action to initiate proceedings under Section 95(1) of the Code.
+The Consortium Banks contended that the petition under Section 95 of the Code
+satisfies all criteria under Section 95(4) of the Code, including the existence of a
+debt, occurrence of default, and production of relevant evidence in the form of
+the DRT judgment, Recovery Certificate and the Deed of Guarantee by the
+Appellant.
+24.
+The Consortium Banks submitted that the Resolution Professional
+(Respondent No. 2) submitted its report dated 06.07.2024 filed under Section 99
+of the Code, based on due consideration of all facts, claims and documents on
+record and is not a mechanical reproduction of the petition. The Consortium
+Banks contended that the Resolution Professional has rightly confirmed the debt
+and the default amounting to Rs. 122.19 crores after independent scrutiny.
+25.
+The Consortium Banks submitted that their claims are well within the
+period of limitation. The Consortium Banks contended that the date of default
+recorded in the liquidation order of the corporate debtor, i.e. 19.03.2018 does not
+bar the present proceedings, more particularly when the dues have been finally
+adjudicated by the DRT on 06.02.2020 and the Demand Notice was issued on
+
+[PAGE 14]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 14 of 27
+
+25.01.2024, taking into account Suo-moto judgement of Hon’ble Supreme Court
+of India extended the period of limitation. The Consortium Banks submitted that
+the cause of action is continuous in nature and the proceedings under Section 95
+of the code are not barred by limitation.
+26.
+The Consortium Banks contended that the plea of unjust enrichment or lack
+of locus is wholly untenable. The Consortium Banks submitted that they have
+claimed only their legitimate dues as per the contractual relationship, the personal
+guarantees and the binding DRT adjudication. The threshold limit under the code
+is duly satisfied. The Consortium Banks contended that the issuance of any No
+Dues Certificate or deletion of DPIL’s name from the list of defaulters in the
+CIRP of the corporate guarantor has no effect on the independent liability of the
+Appellants as personal guarantors.
+27.
+The Consortium Banks submitted that the impugned order dated
+23.10.2024 has been passed after complete application of mind, due consideration
+of all rival pleadings, written submissions, additional written submissions,
+rejoinders and documents placed on record. The Consortium Banks contended
+that the Adjudicating Authority has rightly admitted the petition under Section 95
+of the Code and the present appeals are devoid of any merit. The Consortium
+Banks submitted that the both appeals have been preferred malafide and are not
+in the interest of justice. The Consortium Banks contended that the Appellant are
+merely attempting to evade their admitted and adjudicated liabilities as personal
+guarantors.
+
+[PAGE 15]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 15 of 27
+
+28.
+Concluding arguments, the Consortium Banks requested this Appellate
+Tribunal to dismiss both the appeals with cost.
+29.
+The Respondent No. 2/ Resolution Professional submitted that he does not
+want to file any reply as recorded vide this Appellate Tribunal’s order dated
+16.01.2025.
+Findings
+30.
+We note that two Company Petitions i.e. CP(IB)/200(AHM)2024 and
+CP(IB)/199(AHM)2024 were filed on 21.05.2024 under Section 95(1) of the
+Code by the Respondent Banks seeking initiation of Insolvency Resolution
+Process against Mr. Amit Bhatnagar and Mr. Sumit Bhatnagar respectively
+(hereinafter referred to as "Personal Guarantors") for default amount of Rs.122.19
+Crores in respect of Deed of Guarantee dated 31.03.2015 executed in favour of
+the Consortium Bank. We note that Diamond Power Transformers Limited
+("DPTL") is the Corporate Debtor and Diamond Power Infrastructure Limited
+("DPIL") is Corporate Guarantor to the Corporate Debtor. In respect of the
+guarantee issued by the Appellants as Personal Guarantors for DPTL, the
+Consortium Banks have invoked guarantee vide letter dated 06.04.2018.
+31.
+We also take into consideration that the Consortium Banks granted
+aggregate facility of Rs. 40.00 Crores to the Corporate Debtor DPTL (Under
+Liquidation) vide sanction letter dated 15.10.2011 which was renewed vide
+Sanction Letter dated 29.06.2013 & 31.03.2015 at the request of the Corporate
+
+[PAGE 16]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 16 of 27
+
+Debtor. The Consortium Banks had sanctioned Working Capital facilities vide
+Consortium Agreement entered with the Corporate Debtor for financial facility
+of Rs 114.60 Crores. The Corporate Debtor ("DPTL") and others executed
+various loan/security documents in favour of the Banks from time to time.
+Similarly, the Appellants as Personal Guarantors also executed Deed of
+Guarantee on 31.03.2015 in favour of the Consortium Banks to secure the Credit
+Facilities granted to the Corporate Debtor. We note that the loan accounts of the
+Corporate Debtor (“DPTL”) were classified as NPA on 30.07.2016. Meanwhile,
+the Corporate Debtor (“DPTL”) itself filed CP (IB) No. 28/10/NCLT/AHM/2017
+under Section 10 of the Code seeking CIRP against itself before the Adjudicating
+Authority and vide order dated 06.06.2017, the Corporate Debtor was admitted
+into the CIRP and later an order of liquidation was passed on 19.03.2018 in IA
+No. 92 of 2018 by the Adjudicating Authority.
+32.
+We note that the Consortium Banks invoked personal guarantees executed
+by the Appellants as personal guarantors in its favour through Notice of
+Invocation of Guarantee dated 06.04.2018. The Consortium Banks also filed O.A.
+No. 436 of 2018 on 12.04.2018 before DRT Ahmedabad which was allowed and
+Recovery Certificate was issued vide DRT order dated 06.02.2020 against the
+Corporate Debtor ("DPTL") as well as the Appellants/Personal Guarantors.
+33.
+It has been empathetically pleaded by the Consortium Banks that the
+personal guarantees extended for the Corporate Debtor ("DPTL") nowhere
+mentioned/dealt in the Resolution Plan of the Corporate Guarantor ("DPIL").
+
+[PAGE 17]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 17 of 27
+
+Thus, the Consortium Banks have retained their right to initiate actions under the
+joint and several personal guarantees of the Corporate Debtor ("DPTL") for the
+balance amounts due to them against the Appellants as personal guarantors.
+34.
+It has been pleaded by the Consortium Banks that the pay-out by the
+Successful Resolution Applicant of the Corporate Guarantor ("DPIL") was based
+upon the admitted claim of Rs.52.00 Crores exclusive of the interest amounts
+payable by the Corporate Debtor ("DPTL") and subsequently awarded by the
+DRT, Ahmedabad and the interest receivable by the Banks still remain
+outstanding.
+35.
+We also note that the Interim Resolution Professional filed the report dated
+06.07.2024 through IA/1072(AHM)2024 dated 08.07.2024 recommending the
+admission of the application filed under Section 95 of the Code against the
+Appellants.
+36.
+It is the case of the Consortium Banks that the settlement with the
+Corporate Guarantor does not automatically extinguish the liability of the
+Personal Guarantors, unless specifically stated in the Resolution Plan and further
+submitted that, after reviewing the documents, no evidence was found suggesting
+that the Appellant's liability as personal guarantor had been fully discharged.
+37.
+We also take into consideration that the liability of the Personal Guarantor
+has been calculated to the extent of Rs.122,19,18,337.07 as on 31.03.2024, based
+upon the Judgment dated 06.02.2020 passed by the DRT, Ahmedabad.
+
+[PAGE 18]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 18 of 27
+
+38.
+After noting rival contentions and going through the facts in the appeals,
+we find that basically there are only two issues which have been raised by the
+Appellants in both the appeals i.e., the claims of the Consortium Banks are barred
+by law of limitation and further entire payment of all creditors including
+Consortium Banks have fully been paid by the SRA as per approved Resolution
+Plan, which stand implemented.
+39.
+We shall take first issue of limitation raised by the Appellants
+(a) It is the case of the Appellants that the Corporate Debtor was declared NPA
+way back on 30.07.2016 and Consortium Banks invoked personal
+guarantees against the Appellants on 06.04.2018. The Appellants
+empathetically pleaded that the Consortium Banks have consistently
+treated this date of 30.07.2016 as the date of default w.r.t. the Appellants
+as personal guarantors and the same has been reflected in demand notice
+issued under Rule 7 dated 25.01.2024 and in the Section 95 application
+filed by the Consortium Banks before the Adjudicating Authority. The
+Appellants also submitted that the personal guarantees against the
+Appellants involved on 06.04.2018 therefore, according to Consortium
+Banks own case, the last possible date for the purpose of limitation could
+be computed w.r.t 06.04.2018 and thus, even taking this date, the limitation
+would have expired on 06.04.2021 whereas the application under Section
+95 against the Appellants were filed much after expiry of this limitation
+
+[PAGE 19]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 19 of 27
+
+period of 06.04.2021 and indeed the application under Section 95 was filed
+by the Consortium Banks on 18.05.2024.
+(b) The Appellants stated that this clearly proves that the applications of the
+Consortium Banks under Section 95 were completely barred by the
+limitation Act and therefore, the impugned orders are perverse and contrary
+to established fact and settled laws and therefore, on this ground alone the
+impugned orders need to be set aside.
+(c) In this connection, we note that the CIRP was initiated against the
+Corporate Guarantor (“DPIL”) 24.08.2018 and subsequently the Bank filed
+an OA 436 of 2018 before the DRT, Ahmedabad, which gave its judgement
+on 06.02.2020 and recovery certificate was issued in favour of Consortium
+Banks.
+(d) We would also take into consideration that the Hon’ble Supreme Court of
+India in Suo-moto case as noted earlier, had extended the limitation period
+due to Covid for all cases and as such, the law of limitation for all case got
+extended between 15.03.2020 to 28.02.2022. Thus, the decree of DRT and
+further taking into consideration Suo-moto judgment of the Hon’ble
+Supreme Court of India extended the limitation period for the Consortium
+Banks in the present case.
+(e) We reiterate that the loan accounts of the Corporate Debtor (“DPTL”) were
+classified as NPA on 31.07.2016, and as per NeSL records, the date of
+default of the Corporate Debtor (“DPTL”) is recorded as 30.07.2016.
+
+[PAGE 20]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 20 of 27
+
+Initially, joint Notice of Innovation of Guarantee dated 06.04.2018 were
+issued and served by the Banks upon the Appellants/Personal Guarantors
+with in three years of limitation period from the date of default. Thus, in
+terms of Notice of Invocation of Guarantee dated 06.04.2018, three years
+of limitation period for filing the Petition U/s 95(1) of the Code, was
+available to the Respondent Banks till 06.04.2021, however, in view of the
+order dated 06.02.2020 passed by the DRT, Ahmedabad in O.A. No. 436
+of 2018, the debt liability of the Appellants/Personal Guarantors were
+crystalized by giving them two-month period to pay the same from the date
+of order. Thus, the period of Limitation stood extended for three years
+w.e.f. order dated 06.02.2020 to 05.02.2023 in terms of section 18 of the
+Limitation Act, 1963. The decree of guarantee by DRT, Ahmedabad gives
+a fresh lease to the limitation and a new cause of action to the Applicant.
+(f) We also note that the Deed of Guarantee were again involved by the
+Consortium Banks on 25.01.2024, whereas the present applications under
+Section 95 were filed on 18.05.2024 before the Adjudicating Authority.
+Thus, we do not find any merit in the contentions of the Appellant w.r.t.
+limitation, as, the limitation is clearly covered by the series of events and
+judicial pronouncements as discussed above.
+40.
+Now, we shall deal with another issue raised by the Appellants/Personal
+Guarantors qua the absolvent of the liability from Personal Guarantee, in view of
+the Resolution Plan approved by the Adjudicating Authority in respect of the
+
+[PAGE 21]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 21 of 27
+
+Corporate Debtor (“DPIL”) M/s. Diamond Power Infrastructure Limited. During
+hearing, the Consortium Banks categorically stated that the personal guarantees
+extended for the Corporate Debtor ("DPTL") nowhere mentioned/dealt in the
+Resolution Plan of the Corporate Guarantor ("DPIL"), thus, the Consortium
+Banks retained their rights to initiate actions under the joint and several personal
+guarantees of the Corporate Debtor (“DPTL”) for the balance amounts due to
+them. It has been brought out during hearings that the pay-out by the successful
+resolution applicant of the corporate Guarantor ("DPIL") was based upon the
+admitted claim of Rs.52 Crores, exclusive of the interest amounts payable by the
+Corporate Debtor ("DPTL") and subsequently awarded by the DRT, Ahmedabad.
+The approval of Resolution Plan for the Corporate Guarantor ("DPIL") (Diamond
+Power Infrastructure Limited) to the Corporate Debtor (Diamond Power
+Transformers Limited) has no bearing on the rights of the banks against the
+Appellants as no resolution plan has even been approved for the Corporate
+Debtor/DPTL and the Corporate Debtor is under liquidation. The interest
+receivable by the banks still remain outstanding, hence, the Consortium Banks
+issued demand notice on 25.01.2024 to the Appellants/Personal Guarantors in
+Form-B under Rule 7(1) of the I&B Consortium Banks to recover the outstanding
+interest amounts from the Respondent/Personal Guarantor. The total debt owed
+to the Banks as per DRT Judgment as on 31.03.2024 under the personal guarantee
+is Rs. 122,19,18,337.07 which comprises of interest and penal interest.
+
+[PAGE 22]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 22 of 27
+
+41.
+We observe that it is a settled position of law that the liability of the
+personal guarantor remains co-extensive with that of the principal debtor and is
+not extinguished merely by reason of the approval of a Resolution Plan in the
+insolvency proceedings of the corporate debtor or the corporate guarantor.
+42.
+We also note that the Hon’ble Supreme Court in Lalit Kumar Jain v.
+Union of India & Ors. [(2021) 9 SCC 321] has held that the approval of a
+Resolution Plan under Section 31 of the Code does not operate as a discharge of
+the guarantor’s liability and that the liability of the guarantor continues to remain
+co-extensive with that of the principal debtor. The said judgment applies to the
+facts of the present case and completely negates the Appellant’s contention that
+the debt stands extinguished upon approval of the Resolution Plan.
+43.
+This Appellate Tribunal, in case of Roshan Lal Mittal & Ors. v. Rishabh
+Jain & Ors., Company Appeal (AT) (Insolvency) No. 1558 of 2023, has reiterated
+that a Resolution Plan does not absolve personal guarantors and that their liability
+continues notwithstanding the approval of the Resolution Plan. Similarly, the
+Hon’ble Calcutta High Court in Gouri Shankar Jain v. Punjab National Bank,
+W.P. No. 10147(W) of 2019 has held that the approval of a Resolution Plan and
+the acceptance of a haircut by the financial creditors does not impair or extinguish
+the creditor’s right to recover the balance amount from the guarantor. The
+Appellant’s plea that the entire debt stands extinguished subsequent to approval
+of Resolution Plan is therefore is not sustainable.
+
+[PAGE 23]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 23 of 27
+
+44.
+We also take into consideration that under Section 128 of the Indian
+Contract Act, 1872, the liability of the guarantor is co-extensive with that of the
+principal debtor. The Hon’ble Supreme Court in BRS Ventures Investments Ltd.
+v. SREI Infrastructure Finance Ltd., Civil Appeal No. 4565 of 2021 has held
+that recovery of part of the debt or settlement with one obligant does not
+extinguish the liability of the other obligants and that the creditor retains the full
+right to recover the balance debt from the remaining obligants, including the
+personal guarantor. Thus, even where a Resolution Plan results in partial
+recovery, the remaining unpaid debts survive and the guarantors continue to
+remain liable for the unpaid portion as applicable in the present case
+45.
+We observe that proceedings under Section 95(1) of the Code against
+personal guarantors are fully maintainable even after or during the CIRP of the
+corporate debtor or the corporate guarantor and the Respondent Banks are
+therefore entitled to proceed against the Appellant for recovery of the unpaid debt
+under the personal guarantee. The filing and admission of claims in the CIRP of
+the corporate guarantor does not amount to full satisfaction of the debt and does
+not bar the recovery of the remaining dues from other obligants, including the
+personal guarantors. It is well settled that recovery proceedings can validly
+continue against the personal guarantors for the unpaid amount.
+46.
+The Appellants pleaded that the total claims w.r.t. all Secured Financial
+Creditors of the Corporate Debtor were Rs. 2833.62 Crores and total amount
+admitted for all Secured financial Creditor was Rs. 2372.87 Crores. The
+
+[PAGE 24]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 24 of 27
+
+Appellants submitted that the entire claim of Indian Overseas Bank was of Rs
+1195.46 Crores which was admitted whereas UCO Bank’s claim of Rs. 52.01
+Crores was admitted at Rs. 52 Crores. The Appellants submitted that approved
+Resolution Plan has dealt the claims of the Consortium Banks in full. In this
+connection, the Appellants in his written submissions dated 15.04.2026 has given
+a table which, we reproduce as under, for sake of convenience: -
+
+[PAGE 25]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 25 of 27
+
+47.
+From above, we note that against the claims of Operational Creditors of
+Rs. 900.74 Crores, Rs. 5 Crores has been provided by SRA. Similarly, again the
+admitted claims of all Secured Financial Creditors including Consortium Banks
+were of Rs. 2372.87 Crores whereas Rs. 42.60 Crores were made as upfront
+payment. Further, the approved Resolution Plan provided for payment of Rs. 431
+Crores in favour of Secured Financial Creditors as deferred payment and also
+21,92,112 new equity shares in the Corporate Debtor of Rs. 10 each, post capital
+redemption by the Corporate debtor.
+
+[PAGE 26]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 26 of 27
+
+48.
+During hearing, the Appellants emphasising submitted that SRA proposed
+issuance of Unsecured redeemable bond aggregating Rs. 1900 Crores carrying
+zero coupon rates for a period of thirty years, as such the combined values of cash
+payments, deferred payments, equity shares and bonds, equal to total admitted
+debts of unsecured Financial Creditors. On the face of it, the arguments of the
+Appellants sound quite attractive. However, the fact remains that the payment to
+the Consortium Banks are not fully covered especially interest and do not cover
+due amount as awarded by DRT Ahmedabad. We reiterate that due to failure of
+the Appellants for failure to repay the amount due to the Consortium Banks on
+account of its personal guarantees extended by the Appellants, the Consortium
+Banks issued demand notice and also filed OA before the DRT Ahmedabad,
+which has gone into all aspects and crystallised the liabilities against the
+Corporate Guarantor and the Appellants as Personal Guarantors at Rs. 109.11
+Crore along with interest @ 14.25% and penal interest of @ 2% w.rt. 12.04.2018.
+49.
+We also take into consideration the DRT Ahmedabad’s order has not been
+challenged by the Appellants, thus, the DRT’s order has attained finality based
+on which the Consortium Banks invoked Section 95 applications before the
+Adjudicating Authority. The Adjudicating Authority, in the impugned order, after
+going through all the facts and law, concluded that the petitions under Section 95,
+based on the report of the Interim Resolution Professional, submitted
+subsequently under Section 99 of the Code, fully satisfy the requirements of the
+Code. The Adjudicating Authority thus, after recording comprehensive findings,
+
+[PAGE 27]
+Comp. App. (AT) (Ins) No. 2038 of 2024 & Comp. App. (AT) (Ins) No. 2039 of 2024
+
+Page 27 of 27
+
+admitted the applications against the Appellants. We also find merit in the
+Consortium Banks submissions that their claims are still outstanding. We do not
+find any merit in the contentions of the Appellants on this point that the claims of
+the Consortium Banks stand settled in view of approved Resolution Plan.
+50.
+In view of above detailed examinations of facts and law, we reject both the
+grounds of the Appellants i.e., limitation as well as full discharge of claims of the
+Consortium Banks.
+51.
+We do not find any error in the impugned orders. Both the appeals fail and
+stand rejected. No cost. I.A.’s, if any, are closed.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Naresh Salecha]
+Member (Technical)
+Sim

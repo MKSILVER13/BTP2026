@@ -1,0 +1,16 @@
+{
+  "schema": "lam-am/1.1",
+  "file": "001-60612.txt",
+  "n_chars": 10365,
+  "offsets": "lf",
+  "spans": [
+    [1, 6602, 6813, "APP", "ECHR"],
+    [2, 7296, 7717, "APP", "STATE"],
+    [3, 7723, 8144, "DEC", "ECHR"],
+    [4, 8204, 8385, "APP", "APPL"],
+    [5, 8629, 8914, "APP", "STATE"]
+  ],
+  "relations": [
+
+  ]
+}

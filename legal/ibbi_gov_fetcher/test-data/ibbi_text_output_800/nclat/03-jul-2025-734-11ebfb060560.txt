@@ -1,0 +1,747 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 210 of 2024 & I.A. No. 718 of 2024
+
+(Arising out of the Order dated 19.12.2023 passed by the National Company
+Law Tribunal, Mumbai Bench, Court-II in lA No. 2620/2023 in CP (IB) No.
+2043/ MB/ C-II/ 2018)
+
+IN THE MATTER OF:
+
+Present
+For Appellants:
+Mr. Mohit Choudhary, Mr. Jayesh Gupta, Mr. Arjun
+Arora & Mr. Mohit Gulia, Adv.
+For Respondents:
+
+Mr. Bharat Gupta, Mr. Varun Tyagi, Mr. Saurabh
+Khanijon & Mr. Ishan Srivastava, Adv.
+J U D G E M E N T
+(03.07.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by Bizloan Private Limited who is the
+Financial Creditor for providing credit facilities in form of sales bill discounting
+Bizloan Private Limited
+Through its Director, Vikram Diwan Regd.
+Office at: AN-21/B, Shalimar Bagh, Delhi-110088
+Also at: 132, Qutub Plaza, DLF CityPhase-1,
+Gurugram-122002
+Email: vikrani.diwan@bizloanindia.com
+
+...Appellant
+Versus
+
+Mr. Amit Chandrashekhar Poddar [Liquidator
+For Autocop (India) Private Limited]
+R/o.: Akshat, 7, Vijay Nagar, Katol Road, Nagpur,
+Maharastra- 40013
+Email: amitpoddar.ca@gmail.com
+cirp.autocop@gmail.com
+
+...Respondent
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 2 of 24
+
+(SBD) and purchase bill discounting (PBD) of Rs. 1 Crore in aggregate to the
+Autocop (India) Private Limited i.e., the Corporate Debtor (now under
+liquidation) against the Impugned Order dated 19.12.2023 passed in IA No.
+2620/2023 in CP (IB) No. 2043/ MB/ C-II/ 2018 by National Company Law
+Tribunal, Mumbai Bench (Court-II) (“Adjudicating Authority”) which
+classified the Appellant as Unsecured Creditors instead of Secured Financial
+Creditor.
+2.
+Shorn of unnecessary details, it is noted that the Corporate Insolvency
+Resolution Process (‘CIRP’) was initiated against the Corporate Debtor by the
+Adjudicating Authority vide order dated 16.03.2022 subsequent to which the IRP
+published Form-A on 24.03.2022. The Appellant filed the claims in Form C with
+IRP on 04.04.2022 which were admitted in full by Resolution Professional
+without indicating whether these are secured or unsecured.
+3.
+The Appellant also submitted that he received final Resolution Plan dated
+16.12.2022 from the Respondent vide an email dated 20.12.2022 when the
+Appellant came to know that he has been classified as Unsecured Creditor instead
+of Secured Financial Creditor. Aggrieved by the same, the Appellant filed an IA
+but by the time, the Corporate Debtor had moved into liquidation proceeding
+vide order dated 19.05.2023 passed by the Adjudicating Authority.
+4.
+The Appellant subsequently filed an IA No. 2620/2023 in CP (IB) No.
+2043/ MB/ C-II/ 2018 under section 60(5)(b) of the Code before the Adjudicating
+Authority seeking direction that the Appellant be treated as Secured Financial
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 3 of 24
+
+Creditor. The Impugned Order, however, rejected the IA No. 2620/2023 of the
+Appellant holding that the Appellant cannot be treated as Secured Financial
+Creditor. Aggrieved by the same, the Appellant has filed the present appeal
+before us.
+5.
+It is case of the Appellant that the charge is duly registered with CERSAI
+records which is (publicly accessible). Thus, the Appellant ought to have been
+classified as a secured financial creditor. The Appellant submitted that the same
+was brought to the notice of the Respondent to which the Respondent sought for
+a legal opinion dated 06.02.2023, which categorically records the Appellant as a
+secured financial creditor. Furthermore, the same was circulated in CoC by the
+Respondent, however, the Appellant was treated as Unsecured Creditor only.
+6.
+The Appellant alleged that the Adjudicating Authority failed to appreciate
+Section 52(3) of the Code r/w Regulation 21 of the IBBI (Liquidation Process)
+Regulations, 2016 which recognizes other modes of registration of charge/
+proving security interest including registration of charge with CERSAI.
+7.
+The Appellant assailed that the Adjudicating Authority has failed to
+appreciate that Section 238 of the Code over rides the provisions of other statues.
+The Appellant further argued that, even if there exists dichotomy in the two acts,
+it is of no relevance as the present proceedings are Liquidation proceedings under
+the Code and not winding up proceedings. The Appellant emphatically submitted
+that his case is squarely covered under Clause (c) of Regulation 21 of the IBBI
+(Liquidation Process) Regulations, 2016.
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 4 of 24
+
+8.
+The Appellant pleaded that the Respondent is relying on Section 52 (1) of
+the Code, that itself states the word 'Secured Creditor', in that capacity the position
+of either relinquishing or realising is with a Secured Creditor, hence, in his own
+submissions of the Respondent, the Respondent has accepted the stand of the
+Appellant as a secured creditor.
+9.
+Concluding his arguments, the Appellant requested this Appellate Tribunal
+to set aside the Impugned Order and allow his appeal.
+10.
+On the other hand, the Respondent denied all the averments made by the
+Appellant as misleading and incorrect.
+11.
+It is the case of the Respondent that the Appellant was rightly classified as
+Unsecured Financial Creditor since the charge was not registered with the RoC
+under Section 77 of the Companies Act, 2013 and it was only registered with the
+CERSAI. The Respondent highlighted that Section 77 (3) of the Companies Act,
+2013 starts with non-obstante clause which reads “notwithstanding anything
+contained in any other law for the time being in force”, as such the Companies
+Act, 2013 prevailed over the Code and its regulations.
+12.
+The Respondent emphasized that he was duty bound to follow the
+provision of Section 77 (3) of the Companies Act, 2013 as the word ‘shall’ has
+been used which gives pre-eminence and pre-dominance over provisions of the
+Code and Liquidation Regulations.
+13.
+It is further the case of the Respondent that Section 77 of the Companies
+Act, 2013 is a specific provision which deals with the particular situation and
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 5 of 24
+
+therefore in any event is always over-riding the special laws like the Code. The
+Respondent also pleaded that Section 77(1) and (3) of the Companies Act, 2013
+are without any ambiguity and overrides Regulation 21 of the IBBI (Liquidation
+Process) Regulations, 2016 and further Section 77 (3) of the Companies Act,
+2013.
+14.
+The Respondent also argued that during liquidation, Section 52 (1) of the
+Code provides two alternatives to a Secured Creditor: (a) either to relinquish its
+security interest to the liquidation estate and receive the sale proceeds in terms of
+Section 53, or (b) to 'realise' its security interest in the manner specified in Section
+It is only when Secured Creditor choses option (b) i.e. to realise its security. does
+other sub-Sections of 52 gets activated. Other sub-Sections of Section 52 are not
+applicable to a Secured Creditor who chooses to relinquish its security interest to
+the liquidation estate. The Respondent argued that therefore, Regulation 21 of the
+IBBI (Liquidation Process) Regulations, 2016, which is an outcome of sub-
+Section (3) to Section 52, does not come into picture at all in such a case and so
+also in the present case. The Respondent further submitted that Section 52 (3),
+which stipulates that before any security interest is realized by the secured
+creditor, the liquidator shall verify such security interest and permit secured
+creditor to realise only such security interest, existence of which may be proved
+either by records maintained by information utility or by such other means as may
+be specified by the Board.
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 6 of 24
+
+15.
+It is also the case of the Respondent that the language of Regulation 21 of
+the IBBI (Liquidation Process) Regulations, 2016 uses the word "may prove",
+which is discretionary and not mandatory, as against Section 77 (3) of the
+Companies Act, 2013 which uses the word "shall" which is mandatory and
+binding. The Respondent referred to Lalita Kumari v. Government of Uttar
+Pradesh and Ors., [(2014) 2 SCC 1] and Vidarbha Industries Power Limited v.
+Axis Bank Ltd. [(2022) 8 SCC 352].
+16.
+The Respondent further pleaded that even Regulation 21 of the IBBI
+(Liquidation Process) Regulations, 2016 is inconsistent with Section 77 of the
+Companies Act, 2013, then it is Section 77 of the Companies Act, 2013 which
+will over-ride Regulation 21 of the IBBI (Liquidation Process) Regulations, 2016.
+The Respondent stated that as it is settled law that Regulation or Rules, which are
+framed under the aegis of the Parent Act, cannot over-ride the provisions of the
+parent Act. In any event, Liquidation Regulation, which is the creature of the
+Code (Section 240 of the Code), will have to give way to the provisions of the
+Parent Act i.e. Section 255 of the Code, which has given more weightage to
+Section 77 (3) of the Companies Act, 2013.
+17.
+The Respondent tried to elaborate the difference between the role of
+CERSAI and ROC and stated that with ROC, instrument creating charge is also
+registered and a Certificate is issued whereas, with CERSAI only details of the
+Charge are uploaded, and no document/instrument is provided. The Respondent
+stated that provisions relating to CERSAI, incorporated in Section 20 (4) of the
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 7 of 24
+
+SARFAESI Act, 2002 is only in addition to and not in derogation to the
+provisions of the Companies Act, 2013 and any other law, and it shall not affect
+the priority of charges or validity thereof under those Acts or laws.
+18.
+In the opinion of the Respondent the Committee of Creditors (‘CoC’)
+exercising its commercial wisdom has taken a conscious decision that Appellant
+cannot be treated as Secured Financial Creditor and same should be respected.
+19.
+Concluding his pleadings, the Respondent requested this Appellate
+Tribunal to dismiss the appeal.
+Findings
+20.
+We have heard the argument of all the concerned parties and perused the
+record made available.
+21.
+We note that Section 52(3) of the Code pertains to the existence of security
+and states that security 'may be proved either by the 'Records provided by the
+Information Utility' or by 'other means specified by the Board. The Board has
+exercised this power vide Regulation 21 of the IBBI (Liquidation Process)
+Regulations, 2016 which provides 3 ways in which the security 'may be proved'.
+This includes under Regulation 21(a), 'records available with the information
+utility' and under Regulation 21(b), the ROC under section 77(3) of the
+Companies Act, 2013. Regulation 21(c) clearly mentions another way i.e., Proof
+of registration with the CERSAI. Regulation 21 of the IBBI (Liquidation Process)
+Regulations, 2016 came into force on 15.12.2016.
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 8 of 24
+
+22.
+The only legal issue involved in the present appeal is whether the Appellant
+should have been treated as Secured Financial Creditor based on the charge
+created in favour of the Appellant on the basis of information of its charge over
+the assets of the Corporate Debtor provided in Central Registry of Securitisation
+Asset Reconstruction and Security Interest of India (‘CERSAI’) without getting
+such charge and instrument, creating such charge over the assets of the Corporate
+Debtor registered under Section 77 of the Companies Act, 2013 with Registrar of
+Companies (‘RoC’). Thus, we need to look into the relevant provisions of
+various law dealing with registration of charge and impact of registration or non
+registration of such charge during liquidation proceedings of the Corporate
+Debtor .
+23.
+We note that Section 52 of the Code which reads as under :-
+“Section 52. Secured creditor in liquidation proceedings.
+(1) A secured creditor in the liquidation proceedings may—
+(a) relinquish its security interest to the liquidation estate and
+receive proceeds from the sale of assets by the liquidator in
+the manner specified in section 53; or
+(b) realise its security interest in the manner specified in this
+section.
+(2) Where the secured creditor realises security interest
+under clause (b) of sub-section (1), he shall inform the
+liquidator of such security interest and identify the asset
+subject to such security interest to be realised.
+(3) Before any security interest is realised by the secured
+creditor under this section, the liquidator shall verify such
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 9 of 24
+
+security interest and permit the secured creditor to realise
+only such security interest, the existence of which may be
+proved either—
+(a) by the records of such security interest maintained by an
+information utility; or
+(b) by such other means as may be specified by the Board.
+(4) A secured creditor may enforce, realise, settle,
+compromise or deal with the secured assets in accordance
+with such law as applicable to the security interest being
+realised and to the secured creditor and apply the proceeds
+to recover the debts due to it.
+(5) If in the course of realising a secured asset, any secured
+creditor faces resistance from the corporate debtor or any
+person connected therewith in taking possession of, selling or
+otherwise disposing of the security, the secured creditor may
+make an application to the Adjudicating Authority to
+facilitate the secured creditor to realise such security interest
+in accordance with law for the time being in force.
+(6) The Adjudicating Authority, on the receipt of an
+application
+from
+a
+secured
+creditor
+under
+sub-
+section (5) may pass such order as may be necessary to
+permit a secured creditor to realise security interest in
+accordance with law for the time being in force.
+(7) Where the enforcement of the security interest under sub-
+section (4) yields an amount by way of proceeds which is in
+excess of the debts due to the secured creditor, the secured
+creditor shall—
+(a) account to the liquidator for such surplus; and
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 10 of 24
+
+(b) tender to the liquidator any surplus funds received from
+the enforcement of such secured assets.
+(8) The amount of insolvency resolution process costs, due
+from secured creditors who realise their security interests in
+the manner provided in this section, shall be deducted from
+the proceeds of any realisation by such secured creditors,
+and they shall transfer such amounts to the liquidator to be
+included in the liquidation estate.
+(9) Where the proceeds of the realisation of the secured
+assets are not adequate to repay debts owed to the secured
+creditor, the unpaid debts of such secured creditor shall be
+paid by the liquidator in the manner specified in clause (e) of
+sub-section (1) of section 53.
+(NOTE: Above provision become effective from 15.12.2016)
+(Emphasis Supplied)
+24.
+Now, we note non-obstante clause as stipulated in Section 238 of the Code
+which reads as under :-
+“Section 238: Provisions of this Code to override other
+laws.
+238. The provisions of this Code shall have effect,
+notwithstanding anything inconsistent therewith contained in
+any other law for the time being in force or any instrument
+having effect by virtue of any such law.
+(NOTE: Above provision become effective from 01.12.2016)
+(Emphasis Supplied)
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 11 of 24
+
+25.
+Now, we note Section 255 of the Code which reads as under :-
+“Section 255 of the Code : Amendments of Act 18 of 2013.
+255. The Companies Act, 2013 shall be amended in the
+manner specified in the Eleventh Schedule.
+(Effective from 15.11.2016.)
+26.
+Now, we note Regulation 21 IBBI (Liquidation Process) Regulations, 2016
+which reads as under:-
+“Regulation 21 : Proving security interest.
+21. The existence of a security interest may be proved by a
+secured creditor on the basis of-
+(a) the records available in an information utility, if any
+(b) certificate of registration of charge issued by the
+Registrar of Companies; or
+(c) proof of registration of charge with the Central Registry
+of Securitisation Asset Reconstruction and Security Interest
+of India.”
+(NOTE: Above provision become effective from 15.12.2016)
+(Emphasis Supplied)
+27.
+We look into Section 77 of the Companies Act, 2013 which reads as
+under:-
+“Section 77 in The Companies Act, 2013
+77. Duty to register charges, etc.—(1) It shall be the duty of
+every company creating a charge within or outside India, on
+its property or assets or any of its undertakings, whether
+tangible or otherwise, and situated in or outside India, to
+register the particulars of the charge signed by the company
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 12 of 24
+
+and the charge holder together with the instruments, if any,
+creating such charge in such form, on payment of such fees
+and in such manner as may be prescribed, with the Registrar
+within thirty days of its creation:
+[Provided that the Registrar may, on an application by the
+company, allow such registration to be made— (a) in case of
+charges created before the commencement of the Companies
+(Amendment) Act, 2019, within a period of three hundred
+days of such creation; or
+(b) in case of charges created on or after the commencement
+of the Companies (Amendment) Act, 2019, within a period of
+sixty days of such creation,
+on payment of such additional fees as may be prescribed:
+Provided further that if the registration is not made within
+the period specified—
+(a) in clause (a) to the first proviso, the registration of the
+charges shall be made within six months from the date of
+commencement of the Companies (Amendment) Act, 2019, on
+payment of such additional fees as may be prescribed and
+different fees may be prescribed for different classes of
+companies;
+(b) in clause (b) to the first proviso, the Registrar may, on an
+application, allow such registration to be made within a
+further period of sixty days after payment of such ad valorem
+fees as may be prescribed.]
+Substituted by Act 22 of 2019, S. 11, for the first and second
+provisos (w.r.e.f. 2-11-2018). Prior to their substitution, the
+first and second provisos read as under: - "Provided that the
+Registrar may, on an application by the company, allow such
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 13 of 24
+
+registration to be made within a period of three hundred days
+of such creation on payment of such additional fees as may
+be prescribed:
+Provided further that if registration is not made within a
+period of three hundred days of such creation, the company
+shall seek extension of time in accordance with section 87:".
+Provided also that any subsequent registration of a charge
+shall not prejudice any right acquired in respect of any
+property before the charge is actually registered:
+[Provided also that this section shall not apply to such
+charges as may be prescribed in consultation with the
+Reserve Bank of India.]
+The proviso ins. by Act 1 of 2018, s. 18 (w.e.f. 7-5-2018)
+(2) Where a charge is registered with the Registrar under
+sub-section (1), he shall issue a certificate of registration of
+such charge in such form and in such manner as may be
+prescribed to the company and, as the case may be, to the
+person in whose favour the charge is created.
+(3) Notwithstanding anything contained in any other law for
+the time being in force, no charge created by a company shall
+be taken into account by the liquidator [appointed under this
+Act or the Insolvency and Bankruptcy Code, 2016 (31 of
+2016), as the case may be,] or any other creditor unless it is
+duly registered under sub-section (1) and a certificate of
+registration of such charge is given by the Registrar under
+subsection (2). [2. Ins. by Act 31 of 2016, s. 255 and the
+Eleventh Schedule (w.e.f. 15-11-2016)]
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 14 of 24
+
+(4) Nothing in sub-section (3) shall prejudice any contract or
+obligation for the repayment of the money secured by a
+charge.”
+(Emphasis Supplied)
+28.
+Now, we shall go into Section 20 of SARFAESI Act, 2002 which reads as
+under :-
+“Section 20: Central Registry. (SARFAESI Act, 2002)
+20. (1) The Central Government may, by notification, set up
+or cause to be set up from such date as it may specify in such
+notification, a registry to be known as the Central Registry
+with its own seal for the purposes of registration of
+transaction of securitisation and reconstruction of financial
+assets and creation of security interest under this Act.
+(2) The head office of the Central Registry shall be at such
+place as the Central Government may specify and for the
+purpose of facilitating registration of transactions referred to
+in sub-section (1), there may be established at such other
+places as the Central Government may think fit, branch
+offices of the Central Registry.
+(3) The Central Government may, by notification, define the
+territorial limits within which an office of the Central
+Registry may exercise its functions.
+(4) The provisions of this Act pertaining to the Central
+Registry shall be in addition to and not in derogation of any
+of the provisions contained in the Registration Act, 1908 (16
+of 1908), the Companies Act, 1956 (1 of 1956), the Merchant
+Shipping Act, 1958 (44 of 1958), the Patents Act, 1970 (39 of
+1970), the Motor Vehicles Act, 1988 (49 of 1988), and the
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 15 of 24
+
+Designs Act, 2000 (16 of 2000) or any other law requiring
+registration of charges and shall not affect the priority of
+charges or validity thereof under those Acts or laws.”
+(NOTE: Above provision become effective from 21-6-2002)
+(Emphasis Supplied)
+29.
+From above, we note that the Central Registry of Securitisation Asset
+Reconstruction and Security Interest of India (CERSAI) was set up under section
+20 of the Securitisation and Reconstruction of Financial Assets and Enforcement
+of Security Interest Act, 2002 (SARFAESI Act, 2002). CERSAI is a centralised
+online platform created by the Reserve Bank of India (RBI) to maintain records
+of all types of securities interests created over any type of property, including
+movable and immovable properties and it acts as a comprehensive database that
+stores details of all securitisations, reconstructions, and security interests created
+by banks and other financial institutions. We understand that CERSAI helps
+lenders to check whether a property has already been used as collateral before
+granting loans to borrowers, thus CERSAI helps in reducing fraudulent activities
+such as multiple financing, benami transactions, and others and provides
+transparency and efficiency in the loan processing system, making it easier for
+lenders to track and manage their assets.
+30.
+After noting above various law relating to Registration charges over
+amounts of the Corporate Debtor, we need to understand the inter-play of
+Regulation 21 of the IBBI (Liquidation Process) Regulations, 2016, r/w Section
+52, 255 and 238 of the Code vis-à-vis Section 20(4) of the SARFAESI Act, 2002
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 16 of 24
+
+vis-à-vis Section 77 of the Companies Act, 2013 and its implications for a
+financial creditor's "secured" status.
+31.
+The moot question is whether a financial creditor automatically becomes a
+"Secured Financial Creditor" solely by having its "Charge" (security interest)
+registered with CERSAI or if it is also mandatory to register that charge and the
+instrument creating it with the RoC under Section 77 of the Companies Act, 2013.
+32.
+We note that a financial creditor under the Code is a person to whom a
+financial debt is owed, which includes a debt along with interest, if any, that has
+been disbursed against the consideration for the time value of money and
+the Secured Financial Creditor is a financial creditor whose debt is secured by a
+charge on the assets of the corporate debtor. Being "secured" give creditors a
+higher priority in the event of insolvency or liquidation of the Corporate Debtor
+compared to unsecured creditors.
+33.
+We also take into consideration that a charge is essentially a security
+interest created by a company on its assets (movable or immovable, tangible or
+intangible) in favour of a lender to secure a debt. It can be a mortgage,
+hypothecation, pledge, etc. We have already noted that RoC is responsible for
+registering charges created by the companies and maintaining records related to
+them, including charges created by companies. We consciously note that Section
+77 of the Companies Act, 2013 mandates every company creating a charge on its
+property or assets (whether in India or outside) to register the particulars of the
+charge and the instrument creating it with the RoC. The registration typically
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 17 of 24
+
+needs to be done within 30 days of the charge's creation, with provisions for
+extended periods subject to additional fees. We do note that Section 77(3) of
+Companies Act, 2013 states that no charge created by a company shall be taken
+into account by a liquidator or any other creditor unless it is duly registered under
+sub-section (1) of Section 77 of Companies Act, 2013 and a certificate of
+registration is issued by the RoC.
+34.
+Registration of charge may highlight a potential conflict, as far as
+requirement stipulated under Section 77 of Companies Act, 2013 vis-à-vis under
+Regulation 21 of the IBBI (Liquidation Process) Regulations, 2016. We have
+already observed that CERSAI provides a central repository for security interests,
+aiding in fraud prevention and transparency for financial institutions whereas,
+Section 77 of the Companies Act, 2013, explicitly requires registration of charges
+with the RoC for them to be recognized in insolvency/liquidation scenarios.
+35.
+The core of the dispute lies in whether CERSAI registration can substitute
+or override the requirement of RoC registration under Section 77 of Companies
+Act, 2013 for a financial creditor to become "secured," especially when it comes
+to the priority of claims during CIRP or Liquidation proceedings under the Code.
+We also need to ponder, if a charge is registered only with CERSAI but not with
+the RoC, would a liquidator or CoC acknowledge the "secured" status of that
+financial creditor or reject the same.
+36.
+Secured creditors generally have a higher priority for repayment from the
+corporate debtor's assets compared to unsecured creditors. The classification as
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 18 of 24
+
+"secured" is therefore vital for a creditor's recovery prospects. It is also fact that
+Companies are legally obligated to comply with Section 77 of Companies Act,
+2013 and non-compliance of the same can have serious consequences, impacting
+the validity and enforceability of the charge.
+37.
+Based on legal interpretation, it may be argued, that at broad level, wording
+of the Companies Act, 2013 under Section 77, Registration of charge will
+generally takes precedence over CERSAI registration when it comes to a financial
+creditor claiming itself to be a "Secured Financial Creditor" in the context of
+insolvency or liquidation of a company. However, this needs to be looked into
+more deeply before coming to any concrete conclusion.
+38.
+At this stage, we would also like to see the impact of the conflicting non
+obstante clause as mentioned in the Code vis-à-vis in the Companies Act, 2013.
+A "non-obstante clause" signifies that the provision it introduces will prevail over
+any other law that might be inconsistent with it.
+39.
+We observe that Section 77(3) of the Companies Act, 2013 begins with a
+non-obstante clause, i.e. "Notwithstanding anything contained in any other law
+for the time being in force, no charge created by a company shall be taken into
+account by a liquidator or any other creditor unless it is duly registered under sub-
+section (1) and a certificate of registration is issued by the Registrar."
+We need to understand that while CERSAI registration is crucial for
+lenders' for exercising rights under SARFAESI Act, 2002 and it may not relieve
+a company from its statutory obligation to register charges with the RoC under
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 19 of 24
+
+Section 77 of the Companies Act, 2013. For a financial creditor to claim the full
+benefits and priority of being a "Secured Financial Creditor" in CIRP or
+Liquidation process, registration of the charge with the RoC under Section 77 of
+the Companies Act, 2013, is generally considered indispensable.
+40.
+On the other hand, we also observe that Section 255 of the Code is crucial
+because it amends various other laws, including the Companies Act, 2013, to
+align them with the provisions of the Code. These amendments were made to
+ensure consistency and to facilitate the smooth functioning of the insolvency
+framework. Section 255 of the Code and the Eleventh Schedule of the Code
+introduced amendments to the Companies Act, 2013. These amendments
+primarily focus on shifting jurisdiction over winding up from the High Courts to
+the NCLT and ultimately transferring it to the IBC framework and ensuring that
+the provisions for CIRP are governed by the Code.
+41.
+The principle of "later law prevails" (Lex Posterior Derogat Priori) is a
+general rule of statutory interpretation. If there are two laws covering the same
+subject matter, and they are inconsistent, the later enacted law is generally
+presumed to override the earlier one. Applying this principle in the present
+appeal, we note that the Code came into force w.e.f. 01.12.2016 i.e., later than the
+Section 77(3) of the Companies Act, 2013 which came into force on 15.11.2016.
+As discussed earlier, Section 238 of the Code (the non-obstante clause) states that
+the Code's provisions shall have effect "notwithstanding anything inconsistent
+therewith contained in any other law." The prevailing judicial view is that the
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 20 of 24
+
+IBC, which is a self-contained code and being a special law for insolvency and a
+later enactment, overrides general laws or earlier special laws to the extent of
+inconsistency in matters of insolvency (including liquidation) resolution. On the
+interplay between non-obstante clauses between different statutes. We take into
+consideration that it was held in the case of Owners and Parties Interested in the
+Vessel M.V. Polaris Galaxy vs. Banque Cantonale De Geneva passed in Civil
+Appeal Nos. 6897-6898 of 2022 (Arising out of SLP (C) Nos. 19314-19315 of
+2021)by the Hon’ble Supreme Court of India that a non- obstante clause in a
+subsequent enactment prevails over one in a prior law.
+42.
+Looking from different angle, Section 77(3) of the Companies Act, 2013
+may not really be "inconsistent" with the Code as Section 77(3) of the Companies
+Act, 2013 which provides for a charge to be "taken into account by a liquidator
+or any other creditor.”, whereas the Code deals with the process of insolvency
+resolution or Liquidation process and the prioritization of creditors. We need,
+therefore to consider harmonious construction and interpret laws harmoniously.
+Thus, there may exist the interplay between:
+* Regulation 21 of the IBBI (Liquidation Process) Regulations, 2016
+* Section 77 of the Companies Act, 2013
+* Section 20 of SARFAESI Act, 2002
+43.
+Regulation 21 of the IBBI (Liquidation Process) Regulations, 2016 have
+been framed by the IBBI under the powers granted by the Code and provide the
+detailed procedural framework for the liquidation process. We note that
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 21 of 24
+
+Regulation 21 is relating to Proof of Claim by a Secured Creditor. This regulation
+deals with how a secured creditor submits its claim during liquidation. It requires
+a secured creditor to submit proof of their security interest, including evidence of
+its creation.
+44.
+On the other hand, Section 77 of the Companies Act, 2013 mandates the
+registration of charges created by companies with the RoC and Section 77(3)
+stipulate that, "Notwithstanding anything contained in any other law for the time
+being in force, no charge created by a company shall be taken into account by a
+liquidator or any other creditor unless it is duly registered under sub-section (1)
+and a certificate of registration is issued by the Registrar."
+45.
+We note that the purpose of SARFAESI Act, 2002 is to allow secured
+creditors (banks/financial institutions) to enforce their security interests without
+court intervention. The SARFAESI Act, 2002 also has Section 35 (Non-Obstante)
+which state “The provisions of this Act shall have effect, notwithstanding
+anything inconsistent therewith contained in any other law...". Similarly, Section
+26D of SARFAESI Act, 2002, mandates registration of security interests with
+CERSAI to make them enforceable against third parties. However, it also
+explicitly states this is "notwithstanding anything contained in any other law for
+the time being in force relating to registration of charges."
+46.
+Thus, the complexity arises because all these laws have their own "non-
+obstante" clauses and specific purposes.
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 22 of 24
+
+47.
+The overarching principle remains that the Code, being a special law for
+insolvency, and self-contained code overrides other laws to the extent of
+inconsistency in matters of insolvency resolution.
+48.
+As already discussed earlier, the basic issue is whether Section 77 (3) of
+the Companies Act, 2013 which mandates registration of charge will prevail over
+Regulation 21 of the IBBI (Liquidation Process) Regulations, 2016 or vice-versa.
+We have already noted that the purpose of registration of charge with the RoC
+under Section 77 is distinct and non compliance result into consequential
+implication for concerned stakeholders, whereas the registration with CERSAI in
+terms of Section 20 of SARFAESI Act, 20052 is for realisation of security interest
+by banks and NBFC and help in preventing frauds since the lender becomes alert
+so that he does not land money on the assets already hypothecated or mortgaged.
+49.
+To recapitulate Regulation 21 is for proving existence of security interest
+which may be proved by security creditor on the basis of (a) the records available
+in the information utility, if any, (b) certificate of registration of charge issued by
+the Registrar of Companies or (c) proof of registration of charge with the Central
+Registry of Securitisation Asset Reconstruction and Security Interest and India.
+50.
+Thus, it is clear that Regulation 21 of the IBBI (Liquidation Process)
+Regulations, 2016 provides three alternatives certification of registration of
+charge issued by RoC or proof of registration of charge with CERSAI. It is
+utmost important to note that the word “or” has been used in Regulation 21 of the
+IBBI (Liquidation Process) Regulations, 2016 sub-clause (b) and sub-clause (c)
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 23 of 24
+
+which make it clear that the security interest may be proved either by registered
+charge maintained by RoC or registration of charge has entered with CERSAI.
+We have already noted that Regulation 21 of the IBBI (Liquidation Process)
+Regulations, 2016 came into force with effect from 15.12.2016. Thus, this
+amendment is later then Section 77(3) of Companies Act, 2013 which was done
+on 15.11.2016.
+51.
+Based on above laws and facts, it becomes clear that security interest by
+the Creditors can also be proved if the same is available in CERSAI and is not
+completely and exclusively dependent on charge registered with RoC under
+Section 77 of the Companies Act, 2013.
+52.
+In the present appeal before us, the Appellant has indeed entered charge
+over the assets of the Corporate Debtor with CERSAI, however, the same is not
+registered with the RoC under Section 77(3) of the Companies, 2013.
+53.
+Thus, we hold that the Appellant should have been treated as secured
+Financial Creditor based on the registered charge with CERSAI in accordance
+with Regulation 21 of the IBBI (Liquidation Process) Regulations, 2016.
+54.
+In fine, the appeal succeeds and the Impugned Order is set aside. The
+original petition bearing in IA No. 2620/2023 in CP (IB) No. 2043/ MB/ C-II/
+2018 is restored back. Both the parties are directed to appear before the
+Adjudicating Authority on 14.07.2025, who shall take further action in
+accordance with law.
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 210 of 2024
+Page 24 of 24
+
+55.
+No cost. I.A., if any, are closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+Sim

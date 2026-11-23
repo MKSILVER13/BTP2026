@@ -1,0 +1,673 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+[Arising out of the Impugned Order dated 17.01.2024 passed by the
+Adjudicating
+Authority,
+National
+Company
+Law
+Tribunal,
+Ahmedabad Bench-II in C.P. (IB) No. 122 of 2022]
+In the matter of:
+M/s Meck Pharmaceuticals and
+Chemicals Pvt. Ltd.
+CIN: U24110GJ1992PTC018370
+Having Registered Office at:
+606, Harikrupa Tower,
+B/h. Gujarat College,
+S.M. Road, Ahmedabad,
+Gujarat- 380006
+e-mail: account@meckgroup.co.in
+
+.... Appellant
+
+Versus
+
+M/s Accurate Infrabuild Pvt. Ltd.
+CIN: U70101GJ2009PTC058972
+Having registered office at:
+202, Cama Commercial Centre,
+Opp. Mirzapur Court, Mirzapur,
+Ahmedabad, Gujarat - 380001,
+Also having address at:
+Madina Heights
+Next to Rajiv Gandhi Bhavan
+(G. P. C. C) Ellisbridge,
+Ahmedabad - 380006, Gujarat, India
+E-mail: sikandardosani@gmail.com
+.... Respondent
+
+Present:
+
+For Appellant
+: Mr. Jaimin K. Dave, Mr. Karan Valecha and Ms. Hirva
+Dave, Advocates.
+
+For Respondent
+: Mr. Gaurav Mitra, Ms. Honey Satpal, Mr. Nipun Singhvi,
+Ms. Pooja Singh, Ms. Aarushi Mishra and Mr. Akash
+Agarwalla, Advocates.
+
+[PAGE 2]
+Page 2 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+17.01.2024 (hereinafter referred to as ‘Impugned Order’) passed by the
+Adjudicating Authority (National Company Law Tribunal, Ahmedabad Bench-II)
+in Company Petition (IB) No. 122 of 2022. By the impugned order, the
+Adjudicating Authority dismissed the Section 7 application. Aggrieved by the
+impugned order, the present appeal has been preferred by the Appellant.
+2.
+Introducing the facts of the present case, Shri Jaimin K. Dave, Ld.
+Counsel for Appellant, the Ld. Counsel for the Appellant submitted that the
+Respondent/Corporate
+Debtor-M/s
+Accurate
+Infrabuild
+Pvt.
+Ltd.
+had
+undertaken to construct a project named “Madina Heights” (hereinafter referred
+to as the “project”) and for this purpose had approached M/s Meck
+Pharmaceuticals and Chemicals Ltd. (“Meck” in short) for advancing a sum of
+Rs 1 Cr. only. The Corporate Debtor-Respondent had purportedly assured to
+repay the advance with interest @ 18% p.a. besides offering 15% share in the
+profit of the project. The amount of Rs 1 Cr. was given by Meck to the Corporate
+Debtor on 19.02.2010. Though the Corporate Debtor was to repay the
+outstanding loan on completion of the project, they did not release payments to
+Meck as per the terms even though the project was purportedly completed. Meck
+issued a Legal Notice on 03.11.2020 claiming repayment of the outstanding
+amount from the Corporate Debtor. On not receiving the outstanding amount
+
+[PAGE 3]
+Page 3 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+from the Corporate Debtor, the Appellant-Meck issued a Demand Notice on
+01.07.2021. Realizing that their Demand Notice of 01.07.2021 was erroneous,
+another Legal Notice was issued on 25.03.2022 demanding repayment of Rs 6.30
+Cr. which included Rs 1 Cr. towards principal component and interest amount
+of Rs 5.30 Cr. Since payments were still not forthcoming from the Corporate
+Debtor, the Appellant filed a Section 7 petition on 13.04.2022 seeking the
+admission of the Corporate Debtor into Corporate Insolvency Resolution
+Proceedings (“CIRP” in short) which was rejected by the Adjudicating Authority
+on 17.01.2024 as non-maintainable. Aggrieved by the impugned order, the
+present appeal has been preferred by the Appellant.
+3.
+Making further submissions on behalf of the Appellant, it was stated that
+on the request of the Respondent-Corporate Debtor, they had issued a cheque
+amounting Rs. 1 Cr dated 18.02.2010 to the account of the Corporate Debtor for
+construction of the Madina project. The Appellant has claimed that the bank
+certificate issued by ICICI Bank on 04.05.2021 indicating disbursal of Rs 1 Cr.
+to the Corporate Debtor; audited accounts for the year ending 31.03.2010,
+31.03.2011 and 31.03.2021 acknowledging the receipt of this sum; TDS Form
+26AS showing deduction of TDS on Interest other than Interest on Securities all
+go to substantiate that the sum had been advanced to the Corporate Debtor as
+a loan. Submission was further pressed that the disbursal of Rs 1 Cr. was made
+with the consideration of time value of money which was substantiated by the
+fact that there was an oral understanding between the Appellant and the
+Corporate Debtor that the sum would be repaid by Corporate Debtor on
+completion of the project alongwith interest of 18% p.a. and 15% share in the
+
+[PAGE 4]
+Page 4 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+profits of the project and hence it met the twin ingredients of disbursal with
+consideration of time value of money as required for a debt to qualify as a
+“financial debt” as defined under Section 5(8) of the IBC. It was contended that
+the Corporate Debtor has not given any evidence to show that the outstanding
+amount had been paid by them. There was clear default on the part of the
+Corporate Debtor in the repayment of the debt which had become due and
+payable on and from 01.09.2019 which was the date of completion of project
+construction. The Section 7 application having been filed on 18.04.2022, it was
+very much within the three years period of the debt becoming due and hence
+was within the limitation period. Assailing the impugned order, it was further
+stated that the Adjudicating Authority had erred in holding that there is no case
+of debt and default.
+4.
+Shri Gaurav Mitra, Ld. Advocate representing the Respondent rebutted the
+contentions made by the Appellant and stated that the Appellant was not a
+Financial Creditor in terms of Section 5(7) of IBC. The sum advanced by them
+was not in the nature of ‘financial debt’ in terms of the statutory provisions of
+IBC as it was bereft of the commercial effect of borrowing. The Appellant had
+failed to place on record any document executed between the parties regarding
+the tenure of loan given, terms of repayment or rate of interest and has not been
+able to establish that the disbursal had taken place against consideration for
+time value of money. It was asserted that the Adjudicating Authority had rightly
+held that when money given by the Appellant to the Corporate Debtor was
+without an end tenure but linked to the completion of Madina project, this was
+clearly a case of investment for speculative profit and not for time value of money.
+
+[PAGE 5]
+Page 5 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+It was vehemently contended that the primary obligation of making out a case of
+default lies on the Financial Creditor. In the facts of the present case, from the
+time of disbursal till 2020, no proof has been submitted which shows that any
+demand for payment of an amount due and payable was raised on the Corporate
+Debtor by Meck. It was also asserted that the Appellant had taken a wrong stand
+that payment had become due since the Madina project was complete. The
+Appellant had acquired incorrect information that the project stood completed.
+The Madina project was still in progress and not yet completed and hence there
+was no occasion for default to have occurred. Further attention was drawn to
+the fact that the Demand Notice served by the Appellant mentioned the date of
+default as 18.02.2010. In the absence of any proof of acknowledgment of debt
+liability having been given by the Corporate Debtor after 2011, the limitation
+period would have come into play on the expiry of three years from the purported
+date of default. The three years period having expired long back, the Section 7
+application filed in 2022 was clearly hit by limitation.
+5.
+We have duly considered the arguments advanced by the Learned Counsel
+for the parties and perused the records carefully.
+6.
+The short question before us is whether the sum of Rs 1 Cr. advanced by
+the Appellant to the Corporate Debtor satisfied the ingredients of financial debt
+of disbursal, time value of money and commercial effect of borrowing.
+7.
+For a proper appreciation of the matter at hand, at this stage it may be
+proper to notice the relevant statutory provisions of IBC which are as reproduced
+below:
+
+[PAGE 6]
+Page 6 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+"3(6) "claim" means— (a) a right to payment, whether or not such right is
+reduced to judgment, fixed, disputed, undisputed, legal, equitable, secured
+or unsecured;
+(b) right to remedy for breach of contract under any law for the time being
+in force, if such breach gives rise to a right to payment, whether or not such
+right is reduced to judgment, fixed, matured, un matured, disputed,
+undisputed, secured or unsecured;
+3(11) “debt” means a liability or obligation in respect of a claim which is
+due from any person and includes a financial debt and operational debt;
+3(12) "default" means non-payment of debt when whole or any part or
+instalment of the amount of debt has become due and payable and is not
+paid by the debtor or the corporate debtor, as the case may be;
+5(7) “financial creditor” means any person to whom a financial debt is
+owed and includes a person to whom such debt has been legally assigned
+or transferred to;
+5(8) “financial debt” means a debt along with interest, if any, which is
+disbursed against the consideration for the time value of money and
+includes—
+(a) money borrowed against the payment of interest;
+(b) any amount raised by acceptance under any acceptance credit facility
+or its de-materialised equivalent;
+(c) any amount raised pursuant to any note purchase facility or the issue
+of bonds, notes, debentures, loan stock or any similar instrument;
+(d) the amount of any liability in respect of any lease or hire purchase
+contract which is deemed as a finance or capital lease under the Indian
+Accounting Standards or such other accounting standards as may be
+prescribed;
+(e) receivables sold or discounted other than any receivables sold on
+nonrecourse basis;
+(f) any amount raised under any other transaction, including any forward
+sale or purchase agreement, having the commercial effect of a borrowing;
+[Explanation. -For the purposes of this sub-clause, -
+(i)
+any amount raised from an allottee under a real estate project shall
+be deemed to be an amount having the commercial effect of a borrowing;
+and
+
+[PAGE 7]
+Page 7 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+(ii)
+the expressions, “allottee” and “real estate project” shall have the
+meanings respectively assigned to them in clauses (d) and (zn) of section 2
+of the Real Estate (Regulation and Development) Act, 2016 (16 of 2016);]
+g) any derivative transaction entered into in connection with protection
+against or benefit from fluctuation in any rate or price and for calculating
+the value of any derivative transaction, only the market value of such
+transaction shall be taken into account;
+(h) any counter-indemnity obligation in respect of a guarantee, indemnity,
+bond, documentary letter of credit or any other instrument issued by a bank
+or financial institution; (i) the amount of any liability in respect of any of the
+guarantee or indemnity for any of the items referred to in sub-clauses (a) to
+(h) of this clause;"
+
+8.
+It would also be instructive to glance at one of the landmark judgments of
+the Hon’ble Supreme Court which has lucidly explained the concept of financial
+debt. We may notice the judgment of the Hon’ble Supreme Court in Anuj Jain,
+Interim Resolution Professional for Jaypee Infratech Limited vs. Axis Bank
+Ltd. & Ors. (2020) 8 SCC 401 where the Hon’ble Supreme Court while
+examining the definition of Financial Debt under Section 5(8) of the IBC
+emphasised that the essential elements of financial debt is disbursement against
+time-value of money. These key ingredients of Financial Debt were noticed in
+para 46 of the said judgment which read as follows:-
+“46. Applying the aforementioned fundamental principles to the
+definition occurring in Section 5(8) of the Code, we have not an iota of
+doubt that for a debt to become ‘financial debt’ for the purpose of Part II
+of the Code, the basic elements are that it ought to be a disbursal against
+the consideration for time value of money. It may include any of the
+methods for raising money or incurring liability by the modes prescribed
+in sub-clauses (a) to (f) of Section 5(8); it may also include any derivative
+transaction or counter-indemnity obligation as per sub-clauses (g) and
+(h) of Section 5(8); and it may also be the amount of any liability in
+respect of any of the guarantee or indemnity for any of the items referred
+to in sub-clauses (a) to (h). The requirement of existence of a debt, which
+
+[PAGE 8]
+Page 8 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+is disbursed against the consideration for the time value of money, in
+our view, remains an essential part even in respect of any of the
+transactions/dealings stated in sub-clauses (a) to (i) of Section 5(8), even
+if it is not necessarily stated therein. In any case, the definition, by its
+very frame, cannot be read so expansive, rather infinitely wide, that the
+root requirements of ‘disbursement’ against ‘the consideration for the
+time value of money’ could be forsaken in the manner that any
+transaction could stand alone to become a financial debt. In other words,
+any of the transactions stated in the said sub- clauses (a) to (i) of Section
+5(8) would be falling within the ambit of ‘financial debt’ only if it carries
+the essential elements stated in the principal clause or at least has the
+features which could be traced to such essential elements in the
+principal clause. In yet other words, the essential element of disbursal,
+and that too against the consideration for time value of money, needs to
+be found in the genesis of any debt before it may be treated as ‘financial
+debt’ within the meaning of Section 5(8) of the Code. This debt may be
+of any nature but a part of it is always required to be carrying, or
+corresponding to, or at least having some traces of disbursal against
+consideration for the time value of money.”
+
+(Emphasis supplied)
+9.
+Thus, for any debt to be treated as financial debt there has to take place
+disbursal of money against consideration for time-value of money. It may be
+pertinent to add here that the Hon’ble Supreme Court in Orator Marketing (P)
+Ltd. Vs Samtex Desinz (P) Ltd. (2023) 3 SCC 753 also clarified that the
+definition of financial debt in Section 5(8) of the IBC does not expressly exclude
+an interest free loan. Thus, for a transaction to be treated as financial debt under
+the statutory framework of IBC, it is not necessary that interest has to be paid
+in respect of money that has been borrowed. As long as the commercial effect of
+borrowing is decipherable in the disbursal, the transaction can always qualify to
+be treated as financial debt.
+
+[PAGE 9]
+Page 9 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+10.
+Another relevant judgment delivered by the Hon’ble Apex Court wherein it
+has been explained as to when a Financial Creditor can invoke the provisions of
+Section 7 against the Corporate Debtor is the Innoventive Industries Ltd. Vs
+ICICI Bank (2018) 1 SCC 407 wherein it has been observed:
+“27. The scheme of the Code is to ensure that when a default takes place,
+in the sense that a debt becomes due and is not paid, the insolvency
+resolution process begins. Default is defined in Section 3(12) in very wide
+terms as meaning non-payment of a debt once it becomes due and
+payable, which includes non-payment of even part thereof or an
+instalment amount. For the meaning of “debt”, we have to go to Section
+3(11), which in turn tells us that a debt means a liability of obligation in
+respect of a “claim” and for the meaning of “claim”, we have to go back to
+Section 3(6) which defines “claim” to mean a right to payment even if it is
+disputed. The Code gets triggered the moment default is of rupees one
+lakh or more (Section 4). The corporate insolvency resolution process may
+be triggered by the corporate debtor itself or a financial creditor or
+operational creditor. A distinction is made by the Code between debts
+owed to financial creditors and operational creditors. A financial creditor
+has been defined under Section 5(7) as a person to whom a financial debt
+is owed and a financial debt is defined in Section 5(8) to mean a debt
+which is disbursed against consideration for the time value of money. As
+opposed to this, an operational creditor means a person to whom an
+operational debt is owed and an operational debt under Section 5(21)
+means a claim in respect of provision of goods or services.
+XXXX XXXX XXXX XXXX
+30. On the other hand, as we have seen, in the case of a corporate debtor
+who commits a default of a financial debt, the adjudicating authority has
+merely to see the records of the information utility or other evidence
+produced by the financial creditor to satisfy itself that a default has
+occurred. It is of no matter that the debt is disputed so long as the debt
+is “due” i.e. payable unless interdicted by some law or has not yet become
+due in the sense that it is payable at some future date. It is only when
+this is proved to the satisfaction of the adjudicating authority that the
+adjudicating authority may reject an application and not otherwise”.
+(Emphasis supplied)
+
+[PAGE 10]
+Page 10 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+11.
+When we peruse the above judgment of the Hon’ble Apex Court, we find
+that it has laid down the guiding principles for admission or rejection of an
+application filed under Section 7 of the IBC. Under the ambit of Section 7 of the
+IBC, the Adjudicating Authority is only required to determine whether a default
+has occurred and whether the debt, which may still be disputed, was due and
+remained unpaid. It is a well settled proposition of law that only two alternative
+courses of action are available to the Adjudicating Authority under Section 7(5)
+of the IBC which is to either admit the application under Section 7(5)(a) or reject
+the petition under Section 7(5)(b). The moment the Adjudicating Authority is
+satisfied that a default has occurred, the Application is to be admitted unless it
+is incomplete.
+12.
+Having taken cognizance of the above-cited statutory provisions of IBC
+and the two landmark judgements of the Hon’ble Apex Court, we can safely
+conclude that for any debt to be treated as financial debt, the pre-requisite is
+disbursal of money to the borrower for utilization by the borrower and that the
+disbursal must be against consideration for time value of money even if it is not
+interest- bearing. As to when a Financial Creditor who has disbursed money to
+a Corporate Debtor against consideration for time value of money can trigger the
+insolvency resolution process against the Corporate Debtor, as per the scheme
+of IBC, that stage arises when a default arises in that a debt which has become
+due, in fact and in law, but has not been paid in whole or part thereof.
+13.
+Submission has been made by the Appellant that an amount of Rs 1 Cr.
+had been disbursed to the Corporate Debtor which is validated by the certificate
+issued by ICICI Bank on 04.05.2021 which clearly states that Rs 1 Cr. had been
+
+[PAGE 11]
+Page 11 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+credited to the account of the Corporate Debtor from the current account of the
+Appellant on 19.02.2010 as placed at page 98 of the Appeal Paper Book (APB”
+in short). It was also pressed that the disbursal of the above loan amount to the
+Corporate Debtor was substantiated by the fact that the Corporate Debtor had
+acknowledged the receipt of this amount in their balance sheets of 31.03.2010
+and 31.03.2011 as placed at pages 140 and 155 of the APB respectively and is
+duly reflected as “Loan from Directors and Shareholders”. It was further added
+that this sum had been disbursed with time value of money on the
+understanding with the Corporate Debtor that they would repay the amount with
+interest @ 18% p.a. That TDS was deducted by the Corporate Debtor on the
+interest amount payable to the Appellant as is evident from the TDS Certificate
+placed at page 99 of APB for the month of March 2010 shows that disbursal had
+been made against consideration for time value of money.
+14.
+It was contended that there is no need of a written contract to prove the
+existence of a financial debt and in support of their contention reliance has been
+placed on the judgment of this Tribunal in Agarwal Polysacks Ltd. Vs K.K.
+Agro Foods and Storage Ltd. in CA(AT)(Ins) No. 1126 of 2022 and Pradeep
+Tayal Vs Essbert Fashion Pvt. Ltd. in CA(AT)(Ins) No. 950 of 2022 which
+have held that written contract is not mandatory nor a necessary precondition
+for the purpose of proving existence of financial debt. Submission was pressed
+that the terms and conditions of the loan including the period of loan and the
+purpose of the loan was not documented but rested on an oral understanding
+mutually arrived at between the two parties that the loan amount advanced
+would be returned by the Corporate Debtor on completion of the Madina Project.
+
+[PAGE 12]
+Page 12 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+Since this project was already completed and yet no payment was forthcoming
+from the Appellant, a legal notice was served upon them claiming repayment of
+the amount financed by them. Thus, this was a case where a default had been
+committed by the Corporate Debtor which the Adjudicating Authority failed to
+appreciate. It was therefore contended that the Adjudicating Authority had
+committed a grave error by holding that the Appellant was not a financial creditor
+and that the amount advanced by the Appellant to the Corporate Debtor did not
+qualify as financial debt.
+15.
+Per contra, it was contended by the Corporate Debtor that the Appellant
+has failed to show that any default had occurred on the part of the Corporate
+Debtor. Even if it is accepted that the right to payment arose on the completion
+of the Madina Project, the said project was not yet complete as procedural
+compliances were still in the pipeline. It was also submitted that since it is for
+the Appellant as Financial Creditor to substantiate that the project stood
+completed and until such substantiation is done, the claim made by the
+Appellant under Section 7 was pre-mature. Further as there was no tenure of
+the loan, it shows that the amount advanced was in the nature of an investment
+and not a loan. The Adjudicating Authority had therefore correctly held that the
+Appellant had invested money for speculative purposes and such a speculative
+investor cannot file a Section 7 petition.
+16.
+It was emphatically asserted that the primary obligation of making out
+a case of default lies on the Financial Creditor. It was contended that the
+burden of proof to show non-payment of a legally recoverable debt which is
+not time-barred lay on the Financial Creditor as settled by the Hon’ble Apex
+
+[PAGE 13]
+Page 13 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+Court in Rajendra Narottamdas Sheth Vs Chandra Prakash Jain (2022)
+5 SCC 600. It was also submitted that the present Section 7 petition was not
+maintainable as it was barred by limitation. There is no acknowledgment of
+the alleged debt which has been given by the Corporate Debtor after 2011. No
+document has been produced after 2011 by the Appellant which establishes
+that the Corporate Debtor had acknowledged their liability qua the Appellant.
+If the date of default is 18.02.2010 and the Section 7 petition was filed in 2022,
+it was barred by limitation in the absence of any acknowledgement of liability
+having been placed on record. Thus, the Section 7 petition being time-barred,
+in such circumstances, the Appellant cannot be allowed to revive a stale claim.
+17.
+Coming to our analysis and findings, we would like to first address the
+question of limitation. We notice that in Form 4 of the Demand Notice dated
+30.06.2021 at page 123-124 of the APB, it has been shown that the unpaid
+operational debt “fell due from 18.02.2010 @18% interest per annum as a running
+interest till 30.06.2021”. In Form 3 of the Demand Notice dated 01.07.2021 at
+pages 116-118 of the APB, it has been stated that the “debt fell due from the date
+of finance being 18.02.2010 and when on completion of the project in August 2019
+when the amount with interest is not paid”. The Appellant has however contended
+that they had submitted this notice under wrong legal advice. In Form 1 in Part
+IV of Section 7 application at page 69 of the APB, we notice that the Appellant
+has linked the date of default to the date of completion of the Madina Project
+which has been held to be 01.09.2019. The relevant part is as reproduced below:
+
+[PAGE 14]
+Page 14 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+Part – IV
+PARTICULARS OF THE FINANCIAL DEBT
+2. AMOUNT CLAIMED TO BE IN
+DEFAULT AND THE DATE ON
+WHICH
+THE
+DEFAULT
+OCCURRED
+Amount claimed to be in default:
+As on 30.06.2021, a total amount of Rs.
+6,30,07,982/- (Rupees Six Crores Thirty
+Lacs Seven Thousand Nine Hundred and
+Eighty-Two Only), which is inclusive of
+principal amount of Rs. 1,00,00,000/-
+(Rupees One Crore Only) and an interest
+amount of Rs. 5,30,07,982/- (Rupees Five
+Crores Thirty Lacs Seven Thousand Nine
+Hundred and Eighty-Two Only) calculated
+at the rate of 18% per annum, however,
+exclusive of the agreed share in profit at
+the rate of 15%, is outstanding and
+payable by the Corporate Debtor to the
+Financial Creditor. (A copy of the interest
+calculation sheet is marked and annexed
+hereto as ANNEXURE-N)
+
+Date on which the default occurred:
+The default occurred when the Corporate
+Debtor failed to repay the principal
+amount along with a share in profit at the
+rate of 15% as well as running interest of
+18% per annum on completion of the
+project "Madina Heights", i.e., on and
+from
+August
+2019.
+Under
+the
+circumstances, the default occurred on
+and from 01.09.2019.
+
+18.
+The Respondent has drawn attention to the fact that in the Demand Notice
+served by the Appellant on 01.07.2021, the date of default mentioned therein
+was 18.02.2010. In the absence of any proof of acknowledgment of debt liability
+given by the Corporate Debtor after 2011, it was asserted by the Respondent that
+the limitation period of three years period having expired long back, the Section
+7 application filed in 2022 was clearly hit by limitation. However, keeping in view
+that the Appellant has contended that they had submitted this notice under
+wrong legal advice and thereafter corrected the same, if we then compute the
+
+[PAGE 15]
+Page 15 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+limitation from 01.09.2019 as claimed in Part IV, the Section 7 application
+having been filed on 18.04.2022 fell within the period of limitation.
+19.
+We now proceed to examine whether in the present factual matrix,
+disbursement of money took place and, if so, whether the disbursal was made
+against the consideration for time value of money and whether commercial
+effect of borrowing is found to underpin the transaction.
+20.
+When we look at the facts of the present case, there is no dispute to the
+fact that the Appellant had disbursed Rs 1 Cr. to the account of the Corporate
+Debtor in 2010. The fact that the above sum of money was also received by the
+Corporate Debtor has not been controverted by the Corporate Debtor. Further,
+this fact of disbursal gets reinforced when we find that the financial statements
+of the Corporate Debtor ending financial years 2010 and 2011 clearly reflects
+receipts of Rs 1,01,07836/- from Meck Pharma and Chem. Pvt. Ltd. In view of
+the above, we entertain no doubts in our mind that there exists sufficient proof
+that disbursal had taken place. Having satisfied ourselves that there was a
+disbursal of Rs. 1 Cr to the Corporate Debtor by the Appellant sans any written
+contract or agreement between them, we next would like to see whether there
+was a disbursal with the consideration of time value of money.
+21.
+It is an admitted fact that there was no written contract or agreement
+between the Appellant and the Corporate Debtor governing the terms and
+conditions by which the sum was advanced by the Appellant and disbursed to
+the account of the Corporate Debtor. Be that as it may we are guided by the
+decision of this Tribunal in Agarwal Polysacks judgement supra wherein it
+has been held by that requirement of written financial contract between parties
+
+[PAGE 16]
+Page 16 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+is not a pre-condition for determining whether any amount disbursed is financial
+debt or not. When there are no written agreements or financial contract between
+the parties as in the present case, the real nature of transaction becomes the
+key to decide as to whether the transaction is in nature of financial debt or not.
+Thus, even if there is no agreement/contract between the parties, nothing
+precludes the Adjudicating Authority or this Tribunal from looking into the real
+nature of transaction to determine whether the transaction in question is in the
+nature of financial debt in terms of the statutory construct of IBC.
+22.
+Though the expression ‘time value of money’ finds mention in Section 5(8)
+of the IBC, the term has not been defined in the said enactment. It is well
+recognised that the most typical example of ‘time value of money’ is in the form
+of interest charged on the principal amount that has been borrowed. In the
+present case, the Appellant has claimed that there was an oral understanding
+between the two parties that the loan was interest-bearing @ 18%p.a., and that
+being so, the sum was disbursed with the intent of extending a financial debt to
+the Corporate Debtor.
+23.
+To substantiate the fact that the loan was actually interest-bearing, the
+Appellant has contended that the TDS certificates placed on record corroborate
+that interest amount had been paid by the Corporate Debtor. Secondly, the
+Corporate Debtor had acknowledged the receipt of this amount in their balance
+sheets of 31.03.2010 and 31.03.2011 which is duly reflected as “Loan from
+Directors and Shareholders”.
+24.
+Even though it has been held by this Tribunal in Prayag Polytech Pvt.
+Ltd. Vs Gem Batteries Pvt. Ltd. in CA(AT)(Ins) No. 713 of 2019 and in Pawan
+
+[PAGE 17]
+Page 17 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+Kumar Vs Utsav Securities Pvt. Ltd. in CA(AT)(Ins) No. 251 of 2020 that TDS
+deduction does not prove a debt, it does not restrain us from noticing that TDS
+deductions were actually made which have corroborative value in substantiating
+the element of time value of money. When we see the material available on
+record, we notice that the Appellant has been able to show TDS certificates on
+interest payment for only two financial years ending 2010 and 2011. For the
+subsequent years, the Appellant has not been able to submit any proof or
+evidence of TDS deductions to substantiate that interest liability was being
+enforced. We do not find any proof to show that any reminders were sent to the
+Corporate Debtor seeking interest payment. For the transaction to have been
+interest-bearing in the true sense, the interest payment should have been paid
+annually and by logical corollary corresponding TDS deductions ought to have
+been reflected. This does not seem to have happened. Thus, we are of the view
+that deduction of TDS for only two years is insufficient to determinatively
+conclude that interest liability was a quintessential adjunct of the sum disbursed
+by the Appellant.
+25.
+Coming to the balance sheets of the Corporate Debtor, we notice that for
+financial years ending 2010 and 2011, the amount of loan of the Corporate
+Debtor qua the Appellant in both the years is shown as Rs. 1,01,07,836/-.
+However, no other balance sheets of subsequent years have been placed on
+record thereafter to show that the debt and interest amount continued to be
+reflected in their balance-sheets. Though the Appellant has claimed that the
+2021 balance sheet of the Corporate Debtor also mentions unsecured loans from
+Director and other related parties, on a pointed query made by this Bench, it
+
+[PAGE 18]
+Page 18 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+was admitted that the balance sheet ending 2021 had not been produced before
+the Adjudicating Authority. Hence, we are of the view that when this document
+was not placed before the Adjudicating Authority, we cannot rely on this
+contention raised at the appellate stage. We are therefore of the view that the
+Appellant has failed to muster clinching proof and evidence in terms of financial
+records to show that the sum advanced by them was indisputably interest-
+bearing and that interest had continued to accrue and was being realised as
+consideration for time value of money.
+26.
+We now come to another averment made by the Appellant that the
+Corporate Debtor had agreed to repay the outstanding amount alongwith 15%
+share of profits on the Madina project. Prima facie, investment made to derive
+profit on the completion of the Madina Project can be viewed as a transaction
+having consideration for time value for money thus reflecting commercial effect
+of borrowing. However, this share of profit has not been made part of the claim
+in the petition filed under Section 7 of IBC. The present Section 7 application
+was only limited to the principal and the interest amount. When the Appellant
+on their own volition have chosen not to exclude share in profit from Part-IV of
+Section 7 application, the Appellant cannot be seen to claim that the disbursal
+of Rs 1 Cr. had been made by them with a view to have a share in the profits
+arising out of the Madina Project. We now come to the contention whether the
+default had actually arisen. The basis of arriving at the occurrence of default by
+the Appellant has been the purported completion of Madina Project. This
+unilateral fixing of date of default has been vehemently contested by the
+Respondent by stating that the Madina project was not complete. It was
+
+[PAGE 19]
+Page 19 of 19
+Company Appeal (AT) (Insolvency) No. 544 of 2024
+
+contended that the Appellant merely by adverting reference to the agenda item
+of a Board Meeting called by Corporate Debtor inter alia inviting Meck to
+participate regarding execution of Sale Deeds in favour of the allottees of the said
+project cannot substantiate that the project was complete. It has been contended
+by the Corporate Debtor that the Madina project was still in progress and
+compliances, both procedural and regulatory, were still pending and hence we
+are inclined to agree that no occasion for default can be said to have occurred as
+the debt was not due or payable.
+27.
+For the reasons discussed, debt and default not having been clearly
+established, we are of the considered opinion that there is no infirmity in the
+impugned order rejecting the Section 7 application. We are, therefore, of the
+considered view that no grounds have been made out to interfere with the order
+passed by the Adjudicating Authority. There is no merit in the Appeal. The
+Appeal is dismissed. No costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+
+Member (Technical)
+
+Place: New Delhi
+Date: 29.10.2025
+
+Abdul

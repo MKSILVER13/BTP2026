@@ -1,0 +1,971 @@
+[PAGE 1]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+1 of 25
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+Company Appeal (AT) (Insolvency) No. 214 of 2024
+[Arising out of Order dated 19.01.2024 passed by the Adjudicating Authority
+(National Company Law Tribunal, Allahabad Bench, Prayagraj), in C.P. (IB)
+No.280/ALD/2018]
+IN THE MATTER OF:
+
+1. Sashi Kanta Jha
+70, Golf Link, Lodhi Road,
+Central Delhi, New Delhi – 110003
+
+...Appellant No. 1
+
+2. Acme Consultant Private Limited
+21 A, Shakespeare Sarani,
+2nd Floor, Kolkatta – 700017
+Email: limitedconsultant@gmail.com
+
+...Appellant No. 2
+
+Versus
+
+1. Devi Prasad
+84/57, Zarib Chowki,
+Kanpur Nagar, Uttar Pradesh.
+
+...Respondent No. 1
+
+2. Deepak Kumar Agarwal
+(Resolution Professional)
+Registration no. IBBI/IPA-002/IP-N00584/2017-
+2018/11778,
+R/o B-27, Sector 47, Gautam Buddha Nagar,
+Uttar Pradesh – 201301
+Email: dkagarwal.ip@gmail.com
+
+...Respondent No. 2
+
+3. Geo Jute Limited
+Formerly known as (Juggilal Kamlapath Jute
+Mills Company Limited)
+84/49, Zarib Chauki, Kalpi Road,
+Kanpur U.P. – 208012
+
+...Respondent No. 3
+
+Present:
+
+For Appellant
+: Mr. Abhijeet Sinha, Sr. Advocate with Mr. Anuj
+Tiwari, Ms. Kaanchi Ahuja and Mr. Vaibhav Vats,
+Advocates.
+
+For Respondent
+: Ms. Malvika Trivedi, Sr. Advocate with Mr. Ankit
+Kohli, Advocates for R-1.
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+2 of 25
+Mr. Govind Bhardwaj, Mr. Ashwarya C. Jha and
+Mr. Anuj Kumar, Advocates for R-2 (IRP).
+
+Mr. Ashok Kumar Jain, Mr. Amit Kasera, Mr.
+Arjun Aggarwal and Mr. Aman Kumar, Advocates
+for Intervenor.
+
+J U D G M E N T
+ASHOK BHUSHAN, J.
+This appeal by a suspended director of the corporate debtor, M/s.
+Juggilal Kamlapat Jute Mills Company Limited (now Geo Jute Ltd.) has been
+filed challenging the order dated 19.01.2024 passed by the adjudicating
+authority (National Company Law, Tribunal, Allahabad Bench, Prayagraj),
+admitting a Section 9 application C.P. (IB) No.280(ALD)/2018 filed by Devi
+Prasad Respondent No. 1, herein.
+2.
+There is a chequered history of litigation with respect to corporate
+debtor (hereinafter referred to as JK Jute Mills Company Ltd.).
+3.
+We need to notice certain background facts leading to filing of Section
+9 application by Respondent No. 1 against the corporate debtor:
+i.
+JK Jute Mills Company Limited having its registered office at Kanpur,
+Uttar Pradesh filed Reference No. 149/1994 before the Board of
+Industrial and Financial Reconstruction (BIFR) under the provisions of
+Sick Industrial Companies (Special Provisions Act) 1985. Though a
+scheme was initially sanctioned for reconstruction, BIFR, however,
+subsequently held the scheme to have failed and directed the company
+to be wound up.
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+3 of 25
+ii.
+Appeal was filed before the appellate authority for Industrial and
+Financial Reconstruction, which stayed the wind-up order, however,
+proceeding before the BIFR continued. During pendency of the
+proceeding, Sarda group took over the company and took over the
+management.
+iii.
+The Draft Representation Scheme before BIFR abated due to repeal of
+SICA with effect from 25.11.2016.
+iv.
+The management of the corporate debtor had executed sale deed of
+asset of one of the assets on 02.04.2013, (Katihar property). Sale of
+asset was without leave of the BIFR. A contempt petition was also filed
+against management and its officers where Hon’ble Supreme Court held
+that Company and its director guilty of having violated order dated
+08.05.2014 passed by the Hon’ble Supreme Court and fine was also
+imposed.
+v.
+The Writ Petition (C) No.440/2017 was filed by the JK Jute Mazdoor
+Ekta Union before the Delhi High Court challenging Section 4(b)of Sick
+Industrial Companies (Special Provisions) Repeal Act, 2003, where it
+was also pleaded that provisions of Insolvency and Bankruptcy Code
+2016, (for short the ‘Code’ or the ‘IBC’) do not provide for any factual
+remedies for implementing direction of Hon’ble Supreme Court in order
+dated 13.11.2014. In the Writ Petition, the order was passed by the
+Delhi High Court on 26.05.2017, directing the Company JK Jute Mills
+to preserve an amount of ₹2.5 crore.
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+4 of 25
+vi.
+A Suit No.500/2017 was filed by company on 19.05.2017 filed by M/s.
+Geo Jute Limited seeking declaration and permanent injunction.
+vii.
+The Writ Petition filed by the JK Jute Mazdoor Ekta Union was decided
+on 06.12.2017. High Court extended the interim order in the Writ
+Petition for a period of 2 months so as to enable the workmen to
+approach the NCLT.
+viii.
+Before the disposal of the above Writ Petition, the JK Jute Mazdoor
+Morcha has filed Section 9 application being C.P. IB No.36(ALD)/2017
+on 28.03.2017 seeking initiation of Corporate Insolvency Resolution
+Process (CIRP) proceedings against the company/corporate debtor.
+ix.
+The adjudicating authority vide its order dated 28.04.2017 dismissed
+Section 9 application holding that Section 9 application is not
+maintainable.
+x.
+An Appeal was also filed against the order dated 28.04.2017 before this
+Tribunal, which was also dismissed on 12.09.2017. Appellate Tribunal
+took the view that each worker may file a separate application before
+the NCLT. The order was challenged before the Hon’ble Supreme Court
+in Civil Appeal No. 20978/2017.
+xi.
+On 15.12.2017, corporate debtor filed a Suit No. 2506/2017 before the
+Civil Court seeking injunction against the workmen from representing
+their alleged dues in various forums till the suit is finally decided.
+Declaration was also sought that document submitted in the Draft
+Rehabilitation Scheme (DRS) by any parties is null and void.
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+5 of 25
+xii.
+The R-1 Devi Prasad sent a demand notice under Form-III dated
+29.05.2018, claiming an outstanding amount of ₹5,24,132/-.
+xiii.
+Section 9 application was filed by respondent on which C.P. IB
+No.280/ALD/2018 was registered, notices were issued, reply was filed
+by corporate debtor to which rejoinder was filed.
+xiv.
+The Civil Appeal filed by JK Jute Mazdoor Morcha, was against the
+order of this Tribunal dated 12.09.2017, which was passed in appeal
+against the order dated 28.04.2017, rejecting Section 9 application by
+JK Jute Mazdoor Morcha. Hon’ble Supreme Court vide its order
+judgment dated 30.04.2019 has held that application under Section 9
+by a Trade Union is maintainable. It was held that Trade Union can be
+an operational creditor. The order of this Tribunal dismissing the
+appeal was set aside and matter was remanded to the NCLAT who was
+to hear the appeal filed by JK Jute Mazdoor Morcha.
+xv.
+In the appeal which was filed by JK Jute Mazdoor Morcha and pending
+in this Tribunal being Comp. App. (AT) (Ins.) No. 82/2017, this Tribunal
+on 08.08.2019 directed to file an affidavit. Respondent Devi Prasad also
+filed an affidavit that the claim of the respondent be also considered
+while deciding the appeal. It was also stated in the affidavit by
+Respondent
+Devi
+Prasad
+that
+he
+has
+also
+filed
+C.P.
+(IB)
+No.280(ALD)/2018, which is pending.
+xvi.
+Appeal came to be dismissed by this Tribunal vide order dated
+17.03.2023 in the matter of ‘JK Jute Mills Mazdoor Morcha’ Vs.
+‘Juggilal Kamlapat Jute Mills Company Ltd.’ in Comp. App. (AT)
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+6 of 25
+(Ins.) No.82/2017. This Tribunal held that Section 9 application was
+premature since the Section 9 application was filed before expiry of 10
+days of the delivery of demand notice.
+xvii.
+Against the order dated 17.03.2023, Civil Appeal No. 3163/2023 was
+filed which was also dismissed by the Hon’ble Supreme Court on
+17.05.2024.
+xviii.
+Section 9 application which was filed by R-1 came to be heard by
+adjudicating authority and by impugned order dated 19.01.2024,
+adjudicating authority admitted Section 9 application holding that
+operational creditor has been able to prove the debt and default. It was
+also held that application filed by R-1 under Section 9 is well within
+time. Adjudicating authority appointed the Interim Resolution
+Professional (IRP) and declared the moratorium.
+xix.
+Aggrieved by the order passed by the adjudicating authority dated
+19.01.2024, this appeal has been filed.
+xx.
+This Tribunal on 02.04.2024 passed an interim order, directing the IRP
+to continue in its place, receive claims and collate the claims, however,
+no further steps was to be taken till the next date. In this appeal, reply
+has been filed by R-1. Several intervention applications have been filed
+by the several workmen seeking intervention in the appeal. Intervenors
+have also referred to the separate Section 9 application filed before the
+adjudicating authority which were disposed by order dated 19.01.2024
+passed by the adjudicating Authority. In view of order dated
+19.01.2024 passed in Section 9 application filed by Devi Prasad
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+7 of 25
+respondent herein. All applications filed by Section 9 were disposed of.
+By this common order dated 19.02.2024, 54 Section 9 applications were
+disposed of. Both operational creditors to the Section 9 application
+were disposed of in view of admission of Section 9 application filed by
+Devi Prasad has filed intervention applications in these appeals. Reply
+has been filed by R-1. Affidavit in a common reply of the appellant have
+been filed in the intervention application. Resolution Professional (RP)
+has also filed a reply in the appeal. Affidavit in the rejoinder has been
+filed by the appellant.
+4.
+We have heard learned sr. counsel, Mr. Abhijeet Sinha appearing for
+the appellant. Learned Senior counsel, Ms. Malvika Trivedi appearing for R-
+1. Learned counsel Govind Bhardwaj has appeared for IRP. We have also
+heard learned counsel appearing for the intervenors.
+5.
+Learned sr. counsel Mr. Abhijit Sinha appearing for the appellant
+challenging the impugned order dated 19.01.2024, admitting Section 9
+application submits that claim made by R-1 is not an operational debt.
+Counsel for the appellant has relied on the judgment of this Tribunal in the
+matter of ‘Kishore Kamlakar Lonkar’ Vs. ‘Hindustan Antibiotics Ltd.’ in
+Comp. App. (AT) (Ins.) No.934/2021. It is further submitted that petition
+filed by R-1 is hit by res judicata. R-1 having already pressed his claim as
+part of JK Jute Mazdoor Morcha in Comp. App. (AT) (Ins.) No. 82/2019, which
+has been dismissed by this Tribunal on 17.03.2023, application filed by R-1
+was barred by res judicata and adjudicating Authority committed an error in
+admitting Section 9 application. It is submitted by the appellant that there
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+8 of 25
+are pre-existing disputes between the parties, hence the application was liable
+to be rejected. Counsel for the appellant has referred to Suit No. 500/2017
+filed in the Court of Civil Judge (Senior Division) Kanpur Nagar Uttar Pradesh
+and Suit No. 2506/2017 filed before Civil Judge Kanpur Nagar, Uttar Pradesh.
+It is submitted that both the suits are pending and suits having been filed
+before issuance of demand notice, there is a pre-existing dispute between the
+parties and the adjudicating authority erred in admitting Section 9
+application. It is further submitted that intervention application is not
+maintainable, where claim is also barred by principle of res judicata. It is
+submitted that R-1 and other interveners have been set up by the previous
+management to create obstruction. It is submitted that the application filed
+by R-1 has to stand on its own strength and intervenors cannot give strength
+to the application filed by R-1. It is further submitted that corporate debtor
+was always desirous of making payment of gratuity amount due on R-1 and
+offer has also been made before the adjudicating authority by an I.A. enclosing
+a demand draft for an amount of ₹1,30,830/- which was erroneously taken
+by the adjudicating authority as admission of liability. Company petition is
+hit by Section 65. The RP even after interim order dated 02.02.2024 is writing
+to the promoters seeking records and has filed the progress report.
+6.
+Learned counsel appearing for the R-1 Mrs Malvika Trivedi refuting the
+submissions of the appellant submits that payment of gratuity claim by the
+creditor constitute an operational debt for admission of Section 9 application.
+Judgment relied by the appellant in ‘Kishore Kamlakar Lonkar’ (Supra) is
+distinguishable where the gratuity payment was entirely paid and issue was
+regarding LTC and Earned Leave Encashment. There is order passed by
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+9 of 25
+Labour Commissioner on 26.02.2014, awarding gratuity with 8% interest, the
+said claim was debt within meaning of Section 5(21) of the Code, which was
+sufficient to admit Section 9 application. It is submitted that there is no pre-
+existing dispute. Suit No. 500/2017, which has been filed by the corporate
+debtor seeking declaration against Union of India with the DRS or any other
+pleading before DRS by the company was only in order to compromise worker
+due and not an admission of debt. The said suit in no manner disputes the
+claim of gratuity which has been established by award dated 26.02.2024. It
+was admitted by the corporate debtor before the adjudicating authority that
+order dated 26.02.2024 was never challenged. Adjudicating authority has
+rightly held that suit only concern with DRS and operate on different field.
+Award by Labour Commissioner dated 26.02.2024 has become final and there
+are no pre-existing disputes between the parties regarding claim of gratuity
+amount. It is submitted that operational debt has been acknowledged and
+admitted by the corporate debtor. Learned counsel for the appellant has
+referred to the order of Delhi High Court dated 06.12.2017 where Writ Petition
+was disposed of with the consent of the corporate debtor, granting liberty to
+the workmen to invoke jurisdiction of NCLAT. The Civil Suit seeking to injunct
+workers was filed on 12.12.2017 and 15.12.2017, after the order of the Delhi
+High Court. Learned counsel for R-1 further submits that there is no question
+of applicability of res judicata since the proceeding which was initiated by the
+JK Jute Mazdoor Ekta Union came to be dismissed by this Tribunal on the
+ground that application was premature. No such issue was decided in that
+proceeding which may operate res judicata against the claim of R-1. It is
+submitted that the mill is closed from March 2014 and the insolvency
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+10 of 25
+resolution process is the only hope of revival of the corporate debtor and
+getting a chance of employment by the workers. The corporate debtor has
+been obstructing all proceedings by workmen to deny the rightful claim of the
+workmen. Directors have alienated the assets of the corporate debtor and
+they have been held guilty of contempt by the Hon’ble Supreme Court. There
+are 54 company petitions which were filed under Section 9 by different
+workmen which were closed on 19.02.2024 in view of the order passed in the
+application filed by R-1. The facts clearly indicate that present is a fit case
+for initiation of CIRP against the corporate debtor.
+7.
+Learned counsel for the IRP submits that after initiation of CIRP by
+order dated 19.01.2024 be undertook mandatory and statutory compliances,
+claims received till 02.02.2024, are aggregating to ₹180,23,67,779/- out of
+which ₹94,07,20,916/- have been filed by operational creditors.
+8.
+Learned counsel for the intervenors also supported the impugned order
+and submitted that large number of Section 9 application having already been
+filed against the corporate debtor and on account of admission of Section 9
+filed by Devi Prasad, all other applications have been disposed of. Corporate
+debtor is liable to make payment of rightful dues of the workmen. CIRP is
+liable to be continued. It is submitted that mill is closed from March 2014,
+and for revival of the mill, CIRP is the only hope. The promotors have been
+diverting the funds of the corporate debtor. Suit filed by the management are
+frivolous and to create a scrupulous, hypothetical and illusionary dispute.
+9.
+We have considered the submissions of the counsel for the parties and
+perused the records.
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+11 of 25
+10.
+We have noticed above that JK Jute Mill is laying closed from March
+2024. The company was in BIFR from 1994 till 25.11.2016 on which date the
+provisions of SICA were repealed. BIFR had also passed an order directing
+for winding of the corporate debtor since sanctioned scheme had failed. There
+being stay by the Appellate Authority for Industrial and Financial
+Reconstruction, no steps could be taken regarding winding up, but the fact
+remains that corporate debtor continue to be the Sick Company till the
+provisions were repealed. The JK Jute Mazdoor Morcha had filed an
+application under Section 9 by giving a Section 8 notice on 14.03.2017 on
+behalf of roughly 3000 workers under Section 8 of the IBC for outstanding
+dues of the workers. The JK Jute Mazdoor Morcha filed Section 9 application
+which was dismissed by adjudicating authority on 28.04.2017, against which
+appeal was also dismissed by this Tribunal, and the matter was taken to the
+Hon’ble Supreme Court, where judgment dated 30.04.2019 was delivered by
+the Hon’ble Supreme Court in the matter of ‘JK Jute Mills Mazdoor Morcha’
+Vs. ‘Juggilal Kamlapat Jute Mills Company Ltd.’ reported in (2019) 11
+SCC 332. Hon’ble Supreme Court held that Trade Union is also included
+within the definition of persons under Section 3(23) and union could also be
+an operational creditor. Hon’ble Supreme Court set aside the order of this
+Tribunal and remanded the matter to this Appellate Tribunal for hearing the
+appeal. In paragraph 17 of the judgment following was held:
+“17. The Nclat, by the impugned judgment [Mazdoor
+Morcha v. Juggilal Kamlapat Jute Mills Co. Ltd., 2017
+SCC OnLine NCLAT 257] , is not correct in refusing to
+go into whether the trade union would come within the
+definition of “person” under Section 3(23) of the Code.
+Equally, the Nclat is not correct in stating that a trade
+union would not be an operational creditor as no
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+12 of 25
+services are rendered by the trade union to the
+corporate debtor. What is clear is that the trade union
+represents its members who are workers, to whom
+dues may be owed by the employer, which are
+certainly debts owed for services rendered by each
+individual workman, who are collectively represented
+by the trade union. Equally, to state that for each
+workman there will be a separate cause of action, a
+separate claim, and a separate date of default would
+ignore the fact that a joint petition could be filed under
+Rule 6 read with Form 5 of the Insolvency and
+Bankruptcy (Application to Adjudicating Authority)
+Rules, 2016, with authority from several workmen to
+one of them to file such petition on behalf of all. For all
+these reasons, we allow the appeal and set aside the
+judgment [Mazdoor Morcha v. Juggilal Kamlapat Jute
+Mills Co. Ltd., 2017 SCC OnLine NCLAT 257] of
+the Nclat.
+The
+matter
+is
+now
+remanded
+to
+the Nclat who will decide the appeal on merits
+expeditiously as this matter has been pending for quite
+some time. The appeal is allowed accordingly.”
+11.
+It was after the remand by the Hon’ble Supreme Court, the matter was
+again heard by this Tribunal and it was by judgment of this Tribunal dated
+17.03.2023, the appeal was dismissed. This Tribunal dismissed the appeal
+holding that Section 9 application by JK Jute Mazdoor Morcha was filed
+prematurely within 10 days of delivery of demand notice, hence the
+application was not maintainable. It is useful to extract the judgment of this
+Tribunal dismissing the appeal filed by JK Jute Mazdoor Morcha. It is useful
+to notice paragraph 18 of the judgment, which is as follows:
+“18. Since, we have decided the aforesaid issues and
+found that the date of delivery was 21.03.2017 and
+the petition was filed on 28.03.2017, therefore, the
+said petition was totally premature because it is
+stipulated in Section 9 of the Code that the application
+under Section 9 could be filed only after the expiry of
+10 days of the delivery of demand notice and not
+before the expiry of 10 days, therefore, the application
+filed by the Appellant, was premature and not
+maintainable and has rightly been dismissed by the
+Adjudicating Authority.”
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+13 of 25
+12.
+Appellate Tribunal, thus dismissed the appeal filed by JK Jute Mazdoor
+Morcha as premature. No other issue was decided by this Tribunal against
+which order of Civil Appeal 3163/2023, was also dismissed by the Hon’ble
+Supreme Court on 17.05.2023.
+13.
+It is also relevant to notice that in the said appeal being Comp. App.
+(AT) (Ins.) No. 82 of 2017, an affidavit was filed by Devi Prasad on which
+much reliance has also been placed by the appellant which shall be
+considered hereinafter. It was after the dismissal of the said appeal and
+judgment of the Hon’ble Supreme Court that Section 9 application filed by the
+R-1 came to be admitted on 19.01.2024. Adjudicating authority in the
+impugned order has framed three issues for consideration in paragraph 13,
+which are as follows:
+“13. We have perused the materials submitted on
+record and heard the Ld. Counsels for both the parties.
+The operational Creditor has sought initiation of CIRP
+against the Corporate Debtor based on the dues
+mentioned in Part-IV of the this Application which are
+:- Gratuity, 10% Wages Deduction as per MoU of 1995
+and 1999 from 1996 to 2000 along with 18% interest
+p.a.
+Provident
+Fund,
+Money
+deposited
+in
+the
+Company’s Society and Savings, Wages from the
+period since the factory has been closed i.e. 2003-2008
+plus 18%p.a and Towards Leave Encashment/Holiday
+Arrears plus 18% interest p.a. which amounts to Rs.
+5,24,132. The issues for consideration before us are:-
+i. Whether the payment of gratuity claimed by the
+petitioners
+will
+constitute
+operational
+debt
+for
+admission of this application under section 9 of the
+IBC, 2016.
+ii. Whether there is any pre-existing dispute before the
+issuance of demand notice on 21.03.2017 as specified
+under section 9 of the IBC, 2016.
+iii. Whether the present application filed under Section
+of 9 IBC, 2016 is barred by limitation.”
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+14 of 25
+14.
+The above three issues were answered by the adjudicating authority,
+holding that payment of gratuity is an operational debt and application cannot
+be dismissed on the ground of pre-existing dispute and application was well
+within time.
+15.
+On the submissions made by counsel for the parties and materials on
+record, we need to consider and answer following questions for deciding this
+appeal:
+I.
+Whether the payment of gratuity claim by operational creditor
+constitute an operational debt within meaning of the IBC?
+II.
+Whether Section 9 application deserves rejection by the adjudicating
+authority on ground of pre-existing dispute on the absence of Suit No.
+500/2017 (filed on 19.05.2017) and Suit No. 2506/2017 (filed on
+15.12.2017)?
+III.
+Whether order passed in Section 9 Application filed by JK Jute Mazdoor
+Morcha shall operate res judicata against R-1, Devi Prasad, in view of
+the affidavit filed by Devi Prasad in said company appeal praying that
+claim of Devi Prasad be also considered in the said proceeding?
+Now we proceed to consider the above questions.
+Question No. I
+16.
+Operational debt is defined under Section 5(21) of the IBC, which is as
+follows:
+“5. In this Part, unless the context otherwise
+requires,—
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+15 of 25
+(21) “operational debt” means a claim in respect of
+the
+provision
+of
+goods
+or services
+including
+employment or a debt in respect of the 5[payment] of
+dues arising under any law for the time being in force
+and payable to the Central Government, any State
+Government or any local authority;”
+17.
+Payment of gratuity along with interest claimed by the R-1 is on the
+basis of award dated 26.02.2014, which award had become final and was
+never questioned by the corporate debtor, which fact has been recorded by
+the adjudicating authority in the impugned order. In paragraph 22 of the
+order, following has been observed:
+“22. It may be noted that the minimum amount of
+default as has been prescribed under Section 4 of the
+Code has a purpose and object. The object is that
+unless there is a minimum amount of default, no
+person should be permitted to initiate CIRP. The
+threshold limit for initiating CIRP in this case is in terms
+of the order dated 26.02.2014 passed by the Asst.
+Labour Commissioner which is decretal amount of Rs.
+70,700 along with interest @8% p.a. till date of filing
+application before the Asst. Labour Commissioner i.e.
+24.01.2013. The total decretal amount is 1,23,725.
+This decretal amount is adjudicated by the Labour
+Court as a legally payable claim crystallized and
+payable in law, the same would constitute a ‘debt’
+which remained unpaid by the Corporate Debtor. The
+decretal amount awarded by the Civil Court, Kanpur
+Nagar in respect of gratuity along with 8% till the date
+of filing of Petition which constitutes a sum of Rs.
+1,23,725 is above the threshold limit of Rs. 1.0 Lakh
+as specified under Section 4 of the IBC,2016.”
+18.
+The definition of operational debt also includes the claim in respect of
+services including employment. The workmen dues have been defined under
+Section 326 of the Companies Act 2013 (for short the ‘Act’). In explanation to
+Section 326, Clause (b) defines workmen dues which is as follows:
+“326. Overriding preferential payments.–
+Explanation.—For the purposes of this section,
+and section 327—
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+16 of 25
+(a) “workmen”, in relation to a company, means the
+employees of the company, being workmen within the
+meaning of clause (s) of section 2 of the Industrial
+Disputes Act, 1947 (14 of 1947);
+(b) “workmen’s dues’‘, in relation to a company, means
+the aggregate of the following sums due from the
+company to its workmen, namely:—
+(i) all wages or salary including wages payable for time
+or piece work and salary earned wholly or in part by
+way of commission of any workman in respect of
+services
+rendered
+to
+the
+company
+and
+any
+compensation payable to any workman under any of
+the provisions of the Industrial Disputes Act, 1947 (14
+of 1947);
+(ii) all accrued holiday remuneration becoming payable
+to any workman or, in the case of his death, to any
+other person in his right on the termination of his
+employment before or by the effect of the winding up
+order or resolution;
+(iii) unless the company is being wound up voluntarily
+merely
+for
+the
+purposes
+of
+reconstruction
+or
+amalgamation with another company or unless the
+company has, at the commencement of the winding up,
+under such a contract with insurers as is mentioned in
+section 14 of the Workmen’s Compensation Act, 1923
+(19 of 1923), rights capable of being transferred to and
+vested in the workmen, all amount due in respect of
+any compensation or liability for compensation under
+the said Act in respect of the death or disablement of
+any workman of the company;
+(iv) all sums due to any workman from the provident
+fund, the pension fund, the gratuity fund or any other
+fund for the welfare of the workmen, maintained by the
+company;
+(c) “workmen’s portion”, in relation to the security of
+any secured creditor of a company, means the amount
+which bears to the value of the security the same
+proportion as the amount of the workmen’s dues bears
+to the aggregate of the amount of workmen’s dues and
+the amount of the debts due to the secured creditors.”
+19.
+All sums due to any workmen from the gratuity fund or any other fund
+for the welfare of the workmen is maintained by the company is specifically
+included in workman dues.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+17 of 25
+20.
+Learned counsel for the appellant has relied on the judgment of this
+Tribunal in ‘Kishore K. Lonkar’ Vs. ‘Hindustan Antibiotics Ltd.’ reported
+in 2022 SCC OnLine SC NCLAT 287 to submit that this Tribunal held that
+welfare dues do not constitute and cannot be treated to be service benefits
+due and payable. When we look into the above judgment of this Tribunal in
+the above case, the principal amount of gratuity was already paid to the
+employee which has been noticed in paragraph 5 of the judgment, which is
+as follows:
+“5. Learned Sr. Counsel Mr. D. Ray Choudhuri argued
+that as per Section 14 of the Payment of Gratuity Act,
+1972, the Gratuity disputes would be decided by the
+Regional Labour Commissioner. It is submitted that the
+Appellant had approached the Commissioner and
+obtained an Order for payment of Gratuity. On
+17/02/2022, the principal amount of the Gratuity was
+already paid to the Appellant and the question of
+whether interest is to be paid or not, is to be decided
+by the Regional Labour Commissioner and that this
+Tribunal does not have jurisdiction to entertain such
+disputes.”
+21.
+The claim which was pressed before this Tribunal was on the ground of
+LTC and Earned Leave and Encashment. This Tribunal held that “for seeking
+to initiate CIRP on the ground of LTC and EL Encashment has not been paid,
+which fall within the ambit of welfare benefit cannot be said to be the intent
+and objective of the code”. Thus, this Tribunal noticing the fact that gratuity
+amount was paid and question of interest could not be gone into in Section 9
+proceeding has affirmed the order of the adjudicating authority rejecting
+Section 9 application. It is useful to notice paragraph 9 and 10 of the
+judgment, which is as follows:
+“9. The aforenoted Section includes any ‘Claim’ in
+respect of the provision of Goods and Services
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+18 of 25
+including ‘employment’. It is not the case of the
+Appellant that the amounts claimed are due towards
+any emoluments/salary for the services rendered by
+him to the ‘Corporate Debtor’, while he was in service.
+Though ‘service benefits’ like ‘LTC’ accrue, on account
+of the service rendered during the period of
+employment, the scope and objective of the Code is
+simply not just for recovery of ‘dues’ but Resolution of
+the Companies meant for ‘maximisation of the value of
+assets’, to promote entrepreneurship, availability of
+credit and balance all interest of the stakeholders.
+Employees and workmen do constitute a major part of
+the stakeholders. The term ‘employee’ in general
+parlance refers to a person, who is hired by the
+employer to perform a particular job and is entitled to
+a specific wage or salary. Section 3(36) of the Code
+states that the term ‘workmen’ shall have the same
+meaning as provided under Section 2(s) of the
+Industrial Disputes Act, 1947. For the purpose of the
+Code, the term ‘workmen dues’ has to be interpreted in
+terms of explanation to Section 326 of the Companies
+Act, 2013. As per the definition incorporated therein,
+the dues would cover wages and salary, accrued
+holiday remuneration, workmen compensation, and all
+sums due from Provident Fund, Pension, Gratuity Fund
+or any other fund for the welfare of the workmen,
+maintained by the employer. Generally speaking, the
+‘Claims’ of the workmen/employees may be classified
+as ‘service claims’ which arise during the terms of
+employment, in lieu of service rendered by the
+employee, salary, wages, bonus, dues etc., and
+‘welfare claims’ which arise after cessation of
+employment, like ‘Gratuity’, ‘Leave Encashment’,
+Superannuation Dues, Workmen Compensation for
+closure of the entity which all depend on the tenure of
+the employment. Subsequent to the Company going
+into the Insolvency, all such claims may be submitted
+in Form D under Regulation 9 of the (Insolvency and
+Bankruptcy) CIRP Regulations, 2016. But seeking to
+initiate CIRP on the ground that ‘LTC’ and ‘EL
+Encashment’ has not been paid, which fall within the
+ambit of service benefits/welfare benefits cannot be
+said to be the intent and objective of the Code.
+10. We are also conscious of the fact that the Principal
+Gratuity amount was paid to the Appellant on
+17/02/2022 and deciding the question of interest is
+not within the domain of IBC. Hence, this Tribunal is of
+the considered view that there is no illegality or
+infirmity
+in
+the
+well-considered
+Order
+of
+the
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+19 of 25
+Adjudicating Authority. Therefore, this Appeal fails
+and is accordingly dismissed. No Order as to costs.”
+22.
+The above judgment is clearly distinguishable from the facts of the
+present case. We, thus are of the view that claim of gratuity with interest
+was fully included in operational debt and application under Section 9 was
+fully maintainable.
+Question No. II
+23.
+Now we come to Question No. II. The appellant has vehemently
+submitted that the suit having already filed by the corporate debtor being Suit
+No. 500/2017 and another Suit No. 2506/2017, there being pre-existing
+dispute and Section 9 application deserves to be rejected on this ground. Suit
+No. 500/2017 was filed by the corporate debtor, which was suit filed against
+the Union of India. The prayers in the suit are as follows:
+“a. To declare that any Draft Rehabilitation Scheme
+filed by the Plaintiff Company and/or its present
+Management and/or any other person before Board for
+Industrial and Financial Reconstruction in case No.
+149 of 1994 (on any other ancillary or incidental
+proceedings arising from or in connection with the said
+case including Appeals, Writs, Revisions, Reviews etc.)
+shall not be construed as an admission and/or offer
+against any creditor or any party including by the
+Plaintiff Company and/or by its present Management
+or by its Past Management;
+b. To declare that the financial statements of the
+Plaintiff Company is cast on the basis of any potential
+and even disputed claims and the Plaintiff Company
+has the right to contest such claims on its merits and
+the financial statement or records created by the staffs
+and employees of the erstwhile management itself
+cannot be treated as an admission by the Plaintiff
+Company or the present Management of the Plaintiff
+Company;
+c. To injunct any person or creditor or alleged worker
+from raising a claim against the Plaintiff Company
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+20 of 25
+and/or its present Management based on the
+pleadings filed before Board for Industrial and
+Financial Reconstruction in case No. 149 of 1994 on
+any other ancillary or incidental proceedings arising
+from or in connection with the said case including
+Appeals, Writs, Revisions, Reviews etc.;
+d. To injunct any person or creditor as per Annexure A
+or alleged worker from raising a claim against the
+Plaintiff company and/or its present Management
+based on the financial statements of the Plaintiff
+Company issued in the past by the erstwhile
+management or the Plaintiff Company;”
+24.
+Suit No. 500/2017 was filed on May, 2017. The said suit cannot be
+said to be raising any dispute regarding the claim of the workmen. The prayer
+was with regard to compromise proposal by the corporate debtor, which was
+claimed that should not be treated any admission of the claim against the
+company or management. The said suit cannot constitute any pre-existing
+dispute with regard to claim of the workmen. The next suit which has been
+relied by the appellant is Suit No. 2506/2017. The date of filing of the said
+suit is relevant which is 15.12.2017, why the said date is relevant is noticed
+hereinafter.
+25.
+We have noticed above that the JK Jute Mazdoor Morcha has filed the
+Writ Petition in the Delhi High Court being Writ Petition 440/2017, which
+Writ Petition was filed by JK Jute Mazdoor Morcha after their application
+under Section 9, was rejected on 28.03.2017. In the said Writ Petition, Delhi
+High Court directed by interim order 26.05.2017 to preserve an amount of
+₹2.5 crore by the company to take over the dues of the workmen. The Writ
+Petition came to be finally decided on 06.12.2017, where learned counsel for
+the company (corporate debtor) has submitted and both the counsels have
+agreed that workmen of JK Jute Mill could be operational creditor and they
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+21 of 25
+are entitled to invoke jurisdiction of NCLT under Sections 6, 8 & 9. It is useful
+to notice paragraphs 3 & 7 of the judgment which is as follows:
+“3. Learned counsels agree that the workmen of M/s
+J.K. Jute Mills Company Limited/Respondent No. 3
+would be "operational creditors' as defined in Section 5
+(20) of the Code. It is also agreed that they are entitled
+to invoke the jurisdiction of the NCLT under Sections 6,
+8 and 9 of the Code.
+7. In view of our above observations and the consensus
+on the ambit and power of the NCLT under the Code,
+learned Senior counsel for the petitioner submits that
+the workmen would invoke the jurisdiction of the NCLT
+under Sections 6, 8 and 9 of the Code and would move
+applications under Sections 47 and 49 of the Code for
+appropriate relief and directions before the NCLT. It is
+obvious that the application so filed would be dealt
+with in accordance with the provisions of the Code.”
+26.
+Thus on 06.12.2017, the counsel for the company (corporate debtor)
+categorically submitted before the Delhi High Court that workmen can invoke
+their jurisdiction under Sections 8 & 9 and the Suit No. 2506/2017 was filed
+on 15.12.2017 immediately thereafter, when the High Court has permitted
+with the consent of the company/corporate debtor to initiate proceeding
+under Sections 8 & 9. The filing of suit on 15.12.2017 cannot be said to be
+bona fide nor that can be treated to be pre-existing dispute with regard to the
+claim of workmen. It is useful to notice the prayers made in the Suit No.
+2506/2017. In suit number 2506/2017, following reliefs were prayed for:
+“a. Injunct; the Retired workers from representing their
+alleged Dues in various forum till the Suit is finally
+decided.
+b. Declare any document submitted in the DRS by any
+Party as null and Void.
+c. Declare that no amount is due and payable, if any,
+as allegedly claimed by the Defendants allegedly from
+the Plaintiff Company;
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+22 of 25
+d. Award damages/compensation to the tune of
+Rs.100000 Lac;
+e. Pass such other or further orders as this Hon'ble
+Court deem fir and proper in the facts and
+circumstances of the case and in the interest of justice.”
+27.
+Along with the suit, a list of retired workmen was annexed in which the
+R-1 Devi Prasad was also mentioned as serial number 425. When the
+company before the Delhi High Court agreed that workers can file their claim
+under Sections 8 & 9 and 06.12.2017, on which stand the Writ Petition was
+disposed of, filing of suit of 15.12.2017, restraining the workmen regarding
+their dues is mala fide on part of the company/corporate debtor and cannot
+be termed to be raising a dispute regarding the claim. There is one more
+reason due to which the plea of pre-existing dispute raised by the appellant
+has to be rejected.
+28.
+We have noticed that JK Jute Mazdoor Ekta Union has filed Section 9
+application after giving a notice under Section 8, which application was for
+claiming outstanding dues of 3000 workers. Notice under Section 8 before
+filing the Section 9 application by JK Jute Mazdoor Ekta Union was given on
+14.03.2017, which has been noticed by the Hon’ble Supreme Court in its
+judgment of JK Jute Mazdoor Morcha. It is useful to notice paragraph 2 of
+the judgment, which is as follows:
+“2. On 14-3-2017, the appellant issued a demand
+notice on behalf of roughly 3000 workers under Section
+8 of the Code for outstanding dues of workers. This
+was replied to by Respondent 1 on 31-3-2017. The
+National Company Law Tribunal (“NCLT”), on 28-4-
+2017 [Mazdoor Morcha v. Juggilal Kamlapat Jute Mills
+Co. Ltd., 2017 SCC OnLine NCLT 1317] , after
+describing all the antecedent facts including suits that
+have been filed by Respondent 1 and referring to
+pending writ petitions in the High Court of Delhi,
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+23 of 25
+ultimately held that a trade union not being covered as
+an operational creditor, the petition would have to be
+dismissed. By the impugned order dated 12-9-2017
+[Mazdoor Morcha v. Juggilal Kamlapat Jute Mills Co.
+Ltd., 2017 SCC OnLine NCLAT 257] , the National
+Company Law Appellate Tribunal (“Nclat”) did likewise
+and dismissed the appeal filed by the appellant before
+us, stating that each worker may file an individual
+application before NCLT.”
+29.
+The notice under Section 8 regarding claims of all 3000 workmen was
+given on 14.03.2017 on basis of which the Section 9 application was filed by
+workmen on 20.03.2017, which came to be dismissed on 28.04.2017 by the
+NCLT. Even Suit No. 500/2017 was filed much after the said date, i.e., on
+19.05.2017. Notice on behalf of the claim of workmen on behalf of the by JK
+Jute Mazdoor Morcha was given much before filing of the Suit Nos. 500/2017
+and 2506/2017. The plea of the appellant that there was pre-existing dispute
+with respect to claim of the workmen deserves to be rejected. The plea raised
+is wholly frivolous and moonshine defense.
+Question No. III
+30.
+The submission which has been made by the appellant is that the
+application under Section 9 filed by the JK Jute Mazdoor Morcha having been
+dismissed in which R-1 has also filed an affidavit stating that his claim also
+be considered in Comp. App. (AT) (Ins.) No.82/2017 by the dismissal of
+Section 9 application, appeal as well as appeal by Hon’ble Supreme Court, the
+claim of R-1 is barred by principle of res judicata. We may notice the affidavit
+which was filed by Devi Prasad, copy of which has been filed by Annexure A –
+7 to the appeal. In the affidavit which was filed by Devi Prasad in Comp. App.
+(AT) (Ins.) No.82/2017, all facts and claims regarding R-1 has been stated in
+the affidavit and in paragraph 13 of the affidavit, following was pleaded:
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+24 of 25
+“13. I say that while adjudicating the instant appeal,
+this Hon’ble Appellate Tribunal may consider the claim
+of the deponent herein against the Corporate Debtor. I
+say that the deponent in view of the undisputed claim
+has already filed Insolvency petition before NCLT,
+Allahabad bearing C.P. (IB)/280/ALD/2018. Copy of
+the demand notice and Insolvency Petition (Form-5) are
+annexed herewith and marked as ANNEXURE- E.”
+31.
+What was stated by R-1 that his claim may also be adjudicated in the
+appeal and he authorises JK Jute Mazdoor Morcha to represent his case. We
+have noticed the judgment of this Tribunal in JK Jute Mazdoor Morcha.
+Judgment of this Tribunal dated 17.03.2023, where this Tribunal dismissed
+the appeal filed by JK Jute Mazdoor Morcha holding that application filed
+under Section 9 by JK Jute Mazdoor Morcha was premature since it was filed
+within 10 days from delivery of demand notice. Date of delivery was held on
+21.03.2017 and petition was filed on 28.03.2017, hence it was held as
+premature. The order passed by the adjudicating authority rejecting Section
+9 application by JK Jute Mazdoor Morcha shall be merged with order dated
+17.03.2023 of this Tribunal, where the only finding returned was that the
+application was premature. The said order was also affirmed by the Hon’ble
+Supreme Court on 17.05.2023. In the appeal, no such issue was decided on
+basis of which the appellant can contend that claim of R-1 is barred by res
+judicata. We, thus reject the submission of the appellant that claim of the R–
+1 was barred by res judicata.
+32.
+The facts have been noticed above that JK Jute Mills is closed from
+March 2014. The company was under the SICA from 1994 to 25.11.2015.
+The claims which have been filed in the CIRP of the corporate debtor as has
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 214 of 2024
+25 of 25
+been submitted by IRP in its reply is about ₹180 crore and claim of about ₹94
+crore is those of operational creditors only.
+33.
+In view of the facts of the present case, the resolution of the corporate
+debtor is imminent and we fully endorse the view of the adjudicating authority
+admitting Section 9 application. In view of the forgoing discussions, we do
+not find any merit in any of the submissions of the appellant.
+34.
+The Appeal is dismissed. Interim order stands vacated. While
+dismissing the appeal, we exclude the period from 02.02.2024, till date of
+passing of this order from the CIRP of the corporate debtor.
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+NEW DELHI
+30th April, 2025
+himanshu

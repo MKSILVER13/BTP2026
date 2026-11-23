@@ -1,0 +1,1668 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH: NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 461 of 2025
+
+[Arising out of the Order dated 05.02.2025, passed by the
+‘Adjudicating Authority’ (National Company Law Tribunal,
+Kolkata Bench), Court-I in I.A (Companies Act) No. 1 of 2025 in
+T.P (Companies Act) No. 20 of 2022]
+
+IN THE MATTER OF:
+
+CA Santanu Brahma,
+(Liquidator of The Corporate Debtor
+M/s. Maheswary Ispat Limited
+Having his office at
+AH 276 Salt Lake,
+Sector II, Kolkata 700091
+
+...Appellant
+
+Versus
+
+1.
+Indian Bank
+Having its Stressed Assets Management Large
+Branch at 14 India Exchange Place,
+1" Floor, Kolkata 700001
+
+...Respondent No.1
+
+2.
+State Bank of India
+Having its Stressed Assets Management
+(SAM-II Branch at 8th Floor, Nagaland House,
+11 & 13 Shakespeare Sarani, Kolkata-700071
+
+...Respondent No.2
+
+Present:
+
+For Appellant
+:
+Mr. Shounak Mitra & Mr. Ishan Roy Chowdhury,
+Advocates
+
+For Respondent
+:
+Mr. Krishnendu Datta, Sr. Advocate with Mr.
+Santosh Kumar Ray, Ms. Zeba Khan, Ms. Ritika
+Khanwar and Mr. Yash Tandon, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+[Per: Arun Baroka, Member (Technical)]
+Introduction
+
+The present Appeal is being filed by the Liquidator-Appellant of
+Maheswary Ispat Limited – Corporate Debtor under Section 61(1) of the
+
+[PAGE 2]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 2 of 45
+
+Insolvency and Bankruptcy Code, 2016 (hereinafter, “IBC”) against the
+impugned order dated 05.02.2025 (Impugned Order) passed by National
+Company Law Tribunal, Kolkata Bench (hereinafter, “AA”/ “NCLT”) in IA
+(Companies Act) No 1 of 2025 in T.P (Companies Act) No. 20 of 2022.
+
+2.
+The Appellant - Liquidator contends that it was denied fees as per the
+provisions of the IBC and Regulation 4(2)(b) of the Insolvency and Bankruptcy
+Board of India (Liquidation Process) Regulations, 2016 (“Liquidation Process
+Regulations”) – LPR 2016 in short) and also the impugned order is in the teeth
+of the judgment passed by this Hon’ble Tribunal in Shikshak Sahakari Bank
+Limited vs Mr. Jagdish Kumar Parulkar (Company Appeal (AT)(Ins.) No.
+2023 of 2024) where near identical issues of fact and law were involved. The
+judgment of this Hon’ble Appellate Tribunal has been upheld upto Hon’ble
+Supreme Court which has dismissed the Civil Appeal No. 1973 of 2025
+therefrom on 24.02.2025.
+Submissions of the Appellant-Liquidator
+
+3.
+A Company Petition was filed by Tata Capital Limited (erstwhile Tata
+Capital Financial Services Limited) before the Hon’ble High Court at Calcutta
+numbered as C.P. No. 560 of 2011 against the Corporate Debtor under the
+provisions of Sections 433, 434 and 439 of the Companies Act, 1956. The
+Hon’ble High Court admitted the said petition on 12.10.2012 and
+subsequently, by order dated 21.06.2016 read with order dated 28.11.2016,
+the Corporate Debtor was directed to be wound-up. Accordingly, the Official
+Liquidator was directed to take the possession of the Corporate Debtor. By
+order dated 17.05.2022 the Hon'ble High Court at Calcutta transferred the
+winding up proceedings to NCLT. Thereafter, pursuant to an application (IA
+
+[PAGE 3]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 3 of 45
+
+No. 103/KB/2023) filed by one of the Secured Creditors, State Bank of India
+(“SBI”), liquidation was commenced under the provisions of the IBC and the
+Appellant was appointed as Liquidator by order dated 19.12.2023 passed by
+the NCLT. The said order was brought to the notice of the Liquidator only on
+10.01.2024. On 15.01.2024, the Appellant / Liquidator made a Public
+Announcement in Form B in the newspaper namely ‘Business Standard’ in
+English and ‘Aajkaal’ in Bengali, inviting stakeholders of the Corporate Debtor
+to file their claims. Accordingly, Indian Bank, being Respondent No. 1 herein
+and State Bank of India being Respondent No. 2 herein submitted their claims
+in Form D, on 17.01.2024 and 09.02.2024 respectively wherein they
+expressed their intention to not relinquish their security interest being pari
+passu first charge in respect of the Corporate Debtor’s Panagarh Factory
+situated at Village Beldanga, Panagarh- Morgram State Highway, Opposite
+Amrit Chicken, PO- Chota Ramchandrapur, PS - Kansa, District- Paschim
+Burdwan, Pin-713148 (“Panagarh Factory”).
+
+4.
+By order dated 28.02.2024, the Hon’ble Tribunal excluded a period of
+27 days from the Liquidation period pursuant to an application pursuant to
+IA No. 27/KB/2024 filed by the Appellant / Liquidator.
+
+5.
+The 1st (first) meeting of the Stakeholder’s Consultation Committee
+(“SCC”) was held on 07.03.2024 wherein the remuneration of the Liquidator
+was decided by the stakeholders through e-voting. However, no voting share
+was assigned to Indian Bank and SBI, the Respondents herein, in terms of
+Regulation 31A(2) of the Liquidation Process Regulations, 2016.
+
+[PAGE 4]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 4 of 45
+
+6.
+The Liquidator made email communication dated 11.01.2024 with the
+office of Official Liquidator (“OL”) attached to the Hon’ble High Court at
+Calcutta, to initiate the handover proceedings and met the OL on 17.01.2024
+to decide the way ahead. Thereafter, the Liquidator visited the OL’s office on
+18.01.2024, 19.01.2024 and 31.01,2024 for inspecting the files and records
+relating to the instant liquidation matter. With permission from the OL, the
+documents and records were obtained by the Liquidator from the office of OL
+which were vital for the instant Liquidation proceedings.
+
+7.
+After thorough verification of the documents, the Liquidator made an
+independent visit (prior to takeover of possession) to the Panagarh Factory to
+understand the state of affairs and to ensure the presence of the Assets (as
+per the list obtained from OL’s record) in the factory premises. During the
+same, the Liquidator observed that certain assets appearing in the list
+(retrieved from OL’s record) were not present in the factory premises. The
+Liquidator summarised his findings and thereafter sent an email on
+29.02.2024 to the OL for his record. The same was also reported and
+discussed during the 1st SCC meeting.
+
+8.
+Upon scrutinization of the Status Report dated 14.01.2022 filed by the
+OL, the Appellant / Liquidator came to know that Respondent No. 2 SBI by
+letter dtd.19.01.2017 had informed the OL that SBI as a Secured Creditor and
+lead banker under consortium arrangement had taken physical possession of
+Cuttack Unit (another asset) of the CD on 09.12.2015 under SARFAESI Act,
+2002 and had taken only symbolic possession of the Panagarh Factory. The
+report further enumerates that by a letter dated 31.12.2021 SBI intimated the
+
+[PAGE 5]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 5 of 45
+
+OL that the said Cuttack Unit was sold by them through e-auction. The matter
+was also reported in the 1st SCC meeting wherein the Respondent Banks were
+present.
+
+9.
+Notably, no document (as retrieved from OL’s office) suggests that SBI
+made any effort to obtain physical possession of the Panagarh Unit and
+thereafter to sell the unit in order to ensure ‘value maximization’ of the CD’s
+asset. SBI instead left the assets in an inoperative state causing ‘value erosion’
+of the assets. Finally, on 14.03.2024, as a result of the perseverance of the
+Appellant Liquidator and several personal follow-ups with OL’s Office, the
+Appellant was able to obtain handover of physical possession of the Panagarh
+Factory from the authorized representatives of the Official Liquidator in the
+presence of authorized representatives of State Bank of India and Indian
+Bank, the Respondents herein.
+
+10.
+Pursuant to an email communication dated 29.02.2024 from the
+Appellant for compliance of Regulation 37(1) of the Liquidation Process
+Regulations, 2016, the Respondents provided their proposed realization value
+for the Panagarh Factory. The Respondent No. 1 via email dated 02.03.2024
+intimated the intended value of the sale of the Panagarh Factory of INR 20
+crores to the Appellant and the Respondent No. 2 herein, after Appellant’s
+reminder email dated 08.03.2024, intimated the intended value of the sale of
+the Panagarh Factory at INR 15.79 crores, via email dated 12.03.2024, to the
+Appellant.
+
+11.
+On 15.03.2024, the Appellant requested the Respondents to contribute
+jointly towards the liquidation cost of Rs. 1,34,55,000/- (Rupees One Crores
+
+[PAGE 6]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 6 of 45
+
+Thirty-Four Lakhs and Fifty-Five Thousand only) in compliance of Regulation
+21A (2) of the IBBI (Liquidation Process) Regulations within 14.04.2024 (i.e.
+90 days from the liquidation commencement date of 16.12.2023 after
+considering exclusion period of 27 days). The details of the share of the
+estimated liquidation costs of the Respondents were also elaborated in the
+said email. Furthermore, on 09.04.2024, the Appellant sent a reminder mail
+to the Respondents herein to make payment of their share of liquidation cost
+of Rs. 1,34,55,000/- (Rupees One Crores Thirty-Four Lakhs and Fifty-Five
+Thousand only) in terms of Regulation 21A(2) of the Liquidation Process
+Regulations, 2016 within 14.04.2024. Further, the Appellant informed the
+Respondents that non-payment of the share of liquidation expenses within
+14.04.2024 may cause the Panagarh Factory to become part of the
+Liquidation estate in terms of Regulation 21(A)(3) of the Liquidation Process
+Regulations, 2016 thereby alerting the Respondent Banks to act as per the
+provision of IBC in a time bound manner in their own interest as well as
+overall interest of the Code.
+
+12.
+In response to the said emails issued by the Appellant, the Respondent
+No. 1 informed the Appellant via email dated 12.04.2024 that a sum of
+Rs.21,55,706/- (which was 100% of the estimated liquidation cost excluding
+the Liquidator’s fee) had been remitted to the designated bank account
+towards their share of Liquidation costs. The Respondent No. 1 also requested
+the Appellant / Liquidator to handover the possession of the Panagarh
+Factory solely to Respondent No. 1 as there was no term loan outstanding of
+Respondent No, 2 in respect of Panagarh Factory.
+
+[PAGE 7]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 7 of 45
+
+13.
+Importantly, the Respondent No. 1 gave an undertaking to make
+payment of the Liquidator’s fee as per Regulation 4(2)(b) of the Liquidation
+Process Regulations, 2016, to be determined after sale of the Panagarh
+Factory. The Respondent No. 1 requested the Appellant herein to handover
+the physical possession of the said Panagarh Factory solely to Respondent
+No.1.
+
+14.
+The Respondent No. 2, in response to the emails of the Appellant as
+mentioned above, informed the Appellant via email dated 12.04.2024, that an
+ad-hoc lump-sum payment of Rs. 5,40,000/- (25% of Rs. 21.55 lakhs being
+estimated liquidation cost excluding the Liquidator’s fee) had been paid
+towards their share of Liquidation costs. Additionally, the Respondent No. 2
+also gave an undertaking to pay its share of Liquidator’s fee after successful
+completion of sale of the Panagarh Factory and requested the Appellant herein
+to handover possession of the Panagarh Factory.
+
+15.
+Thus, relying on the undertakings provided by the two nationalized
+banks i.e. Indian Bank and State Bank of India, and honoring the time
+essence of the liquidation proceedings and to avoid unnecessary litigations,
+the Appellant proceeded to hand over the physical possession of the said
+Panagarh Factory to the Respondents jointly, on 30.04.2024 and accordingly
+a handover document was executed between the Appellant and Respondents
+on the same date. Notably, in the handover document dated 30.04.2024
+jointly executed and signed by both the Respondent Secured Creditors, being
+nationalized banks, also record the agreement and undertaking of the
+Respondents to pay the Liquidator’s Fees on completion of the sale of
+
+[PAGE 8]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 8 of 45
+
+Panagarh Factory in accordance with the formula mentioned in Regulation
+4(2)(b) of the Liquidation Process Regulations, 2016 along with clerkage @ 5%
+thereon.
+
+16.
+The Appellant has undertaken several measures for the purpose of
+taking care of the realisation of the assets through the secured financial
+creditors and for that reason has also coordinated with third parties and the
+secured financial creditors in order to ensure successful completion of sale of
+the Panagarh factory. Brief particulars of some of the steps taken by the
+Appellant in coordination with third parties are mentioned below:
+a. The Appellant coordinated with the office of the Official Liquidator to
+get possession of the Panagarh factory from the Official Liquidator.
+
+b. The Appellant made independent visits to the Panagarh Factory to
+make ground level assessment of the state of affairs at the factory
+premises so that appropriate measure can be taken to protect the
+structures and the assets lying there.
+
+c. The Appellant took handover of possession of the Panagarh factory
+from the Official Liquidator and took all necessary measures to
+preserve the said asset. Upon taking possession the Liquidator
+immediately engaged a new Security Agency so that strict vigilance
+can be exercised on the premises and structures and assets there
+at. During the Lok Sabha Elections in the month of April 2024, the
+Liquidator, through the Security Agency, coordinated with the local
+Police Station so that Licensed Gunmen with firearms be allowed to
+continue their duty in the said premises and for protection of the
+premises. During ground assessment it was felt by the Liquidator
+that without proper security including deputation of Gunman the
+assets under security interest of the Respondent Bank could not be
+protected in its true spirit.
+
+d. The Appellant has coordinated with the Respondents to ensure
+handover of possession to the Respondents.
+
+e. The Appellant was approached by several interested buyers who
+wanted to participate in the auction of the Panagarh Factory. The
+
+[PAGE 9]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 9 of 45
+
+Appellant has held meetings with such prospective buyers and has
+duly explained to them about the status of the liquidation
+proceedings and the auction process. The Appellant assisted the
+Respondents in liaising with prospective buyers.
+
+f. The Appellant has informed prospective buyers that the Panagarh
+Factory is with the respondent banks since they invoked their
+security interest. The Appellant has also requested the prospective
+buyers to contact the respondent banks and has ensured
+coordination between the respondent banks and prospective buyers.
+
+g. The Appellant has also coordinated with the consultants of the
+prospective buyers and informed them regarding the Environmental
+Clearance License (ECL) which is part of the Liquidation estate and
+has not been transferred to the respondent banks. The ECL is a very
+important document in the relevant business sector of the corporate
+debtor. Though the ECL has expired, the relevance of such a license
+is very important for initiating operation of the corporate debtor
+which involves production of 'Sponge Iron’.
+
+h. The Appellant has coordinated with the respondent banks and has
+also advised the two banks and sought to resolve difference of
+opinion between the two banks in relation to possession of the said
+asset. Notably, the Respondent no.1 was desirous to obtain sole
+possession of the Panagarh factory as will be evident from its email
+dated 02.03.2024 and subsequently in the email dated 12.04.2024.
+Similarly, the Appellant Liquidator was also requested by
+Respondent No. 2 to handover the possession of Panagarh Factory
+in favour of Respondent No. 2 as the original deed was mortgaged
+with them, which is evident from the email received from Respondent
+No. 2 on 12.03.2024. It is only due to the Appellant’s timely
+intervention and assistance that differences between the respondent
+banks were resolved in an amicable manner without any litigation.
+
+17.
+Thereafter on 24.10.2024, the Respondent No. 1 communicated to the
+Appellant Liquidator by email that the Panagarh Factory has been sold to H1
+bidder, Manbhum Ispat Private Limited (“Manbhum Ispat”) and buyer has
+deposited the sale consideration amount of INR 55.10 Crores on 21.10.2024.
+Consequent thereto, the ‘Certificate of Sale’ and possession has been handed
+
+[PAGE 10]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 10 of 45
+
+over to Manbhum Ispat. The copy of ‘Certificate of Sale’ has been provided by
+Respondent No. 1 via email dated 25.10.2024.
+
+18.
+Considering that 30.56 acres of land were sold by the Respondents, out
+of the total area of 35.6 acres which has been physically transferred to the
+said Manbhum Ispat, the Appellant filed an application being IA (Comp. Act)
+No. 189/KB/2024 praying, inter alia, for direction on Manbhum Ispat to hand
+over the unsold 5.04 acres of land, which was handed over by the
+Respondents over and above the land of 30.56 acres sold by them. The NCLT
+by order dated 17.12.2024 directed Manbhum Ispat to hand over the excess
+land of 5.04 acres to the Liquidator within 2 months from the date of the
+pronouncement of the order.
+
+19.
+The Appellant Liquidator prayed for recalling of the order dated
+17.12.2024 by application no. IA No. 18/KB/2025 filed before Hon’ble NCLT,
+Kolkata after it came to his attention that the application (i.e. IA No.
+200/KB/2024) pursuant to which the order dated 17.12.2024 was passed by
+NCLT, was not served on Manbhum Ispat. Simultaneously, an appeal CA (AT)
+(Ins) No. 161 of 2025 was filed by Manbhum Ispat before this Hon’ble Tribunal
+which was heard on 28.01.2025 and accordingly, the order dated 17.12.2024
+was set aside with consent of the Appellant Liquidator with direction to revive
+IA No.200 of 2024 and for fresh hearing on the matter. The Adjudicating
+Authority by order dated 28.01.2025 noted the direction of this Appellate
+Tribunal and directed accordingly. The recalling application IA No.
+18/KB/2025 was disposed of as infructuous.
+
+[PAGE 11]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 11 of 45
+
+20.
+On 25.10.2024, the 1st SCC meeting was held wherein the details on
+the determination of the share of liquidation cost upon the sale of Panagarh
+Factory as well as the liquidator’s fees was discussed and shared with all the
+stakeholders including the Respondents by an email dated 26.10.2024.
+
+21.
+After the successful completion of the sale of the said Panagarh Factory,
+the Appellant by an email dated 28.10.2024 requested the Respondents for
+contributing additional amount of Rs. 1,87,76,133/- (Rupees One Crore
+Eighty-Seven Lakhs Seventy-Six Thousand One Hundred Thirty Three only),
+jointly, towards the share of liquidation cost, in terms of proviso to Regulation
+21A(2). In the said email it was clarified that the liquidator’s fees arising upon
+sale of the said Panagarh Factory was determined as per the undertaking
+provided by the Respondents in their emails dated 12.04.2024 (issued for
+initial compliance of Regulation 21A) which was also agreed and recorded in
+para 5 of the handover document dated 30.04.2025, related to Panagarh
+Factory. The determination of INR 1,87,76,133/- has been provided in the
+said email dated 28.10.2024. The summary of the same is as under: -
+
+Share of Secured
+FCs (Indian Bank
+&
+SBI
+i.e.
+Respondent Bank
+Consolidated
+share of all
+other
+stakeholders
+
+Total (INR)
+Total
+Liquidation Cost
+(Est.)
+2,14,71,839
+26,29,386
+2,41,01,225
+Less:
+Already paid
+(INR 21,55,706
++ INR 5,40,000
+
+(-) 26,95,706
+X
+X
+Additional
+Contribution
+Payable
+1,87,76,33
+X
+X
+
+[PAGE 12]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 12 of 45
+
+22.
+On 19.11.2024, the Appellant issued a reminder email to the
+Respondents herein requesting for payment of the additional contribution of
+Rs. 1,87,76,133/- (Rupees One Crore Eighty-Seven Lakhs Seventy-Six
+Thousand One Hundred Thirty-Three only).
+
+23.
+Thereafter, a Joint Lenders’ Meeting (JLM) was called on 22.11.2024 to
+discuss the Liquidator’s fees arising from the additional contribution towards
+Liquidation Cost wherein the Respondents requested the presence of the
+Appellant. The Appellant discussed and deliberated upon the compliance of
+Regulation 21A the IBBI (Liquidation Process) Regulations, 2016 and
+expressed that the Respondents had partly contributed towards the
+liquidation cost in terms of Regulation 21A prior to taking possession of the
+Panagarh Factory and had given an undertaking via email dated 12.04.2024
+to pay the fees of the Liquidator in terms of Regulation 4(2)(b) of the IBBI
+(Liquidation Process) Regulations, 2016 on final determination of the proceeds
+from the sale of the Panagarh Factory. Furthermore, solely relying on the
+undertaking provided by two nationalized banks, the Respondents herein, the
+Appellant handed over the possession of the Panagarh Factory to the
+Respondents. After sale of the said Panagarh Factory, the Appellant requested
+the Respondents to comply with the undertaking and also adhere to the
+provisions of the Liquidation Process Regulations in this regard. The Appellant
+also submits that aforesaid facts shall also be explicitly evident from the
+emails dated 12.04.2024 issued by the Respondents respectively and the
+terms of the handover documents dated 30.04.2024 executed by the
+Respondents. After the aforesaid discussions and deliberations, the
+Respondents expressed that the matter needs to be discussed with their
+
+[PAGE 13]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 13 of 45
+
+respective competent authorities for approval/guidance for the payment of the
+liquidation costs.
+
+24.
+The Appellant issued another reminder mail on 16.12.2024, requesting
+the payment of Rs. 1,87,76,133/- (Rupees One Crore Eighty-Seven Lakhs
+Seventy-Six Thousand One Hundred Thirty-Three only). Further, vide email
+dated 19.12.2024, the Appellant, requested the Respondents to contribute
+towards the balance Liquidation cost.
+
+25.
+However, despite several reminder emails, the Respondents failed to pay
+the aforesaid liquidation cost and have failed to comply with the provisions
+Regulation 21A(2)(a) of the IBBI (Liquidation Process) Regulations, 2016,
+which provides for payment of Liquidation Costs including the fees of the
+liquidator as per Regulation 2(1)(ea)(i) which would be determined as per
+Regulation 4(2)(b) of the IBBI (Liquidation Process) Regulations, 2016 despite
+providing the undertakings via emails dated 12.04.2024 and executing the
+handover documents dated 30.04.2024 in respect of Panagarh Factory.
+
+26.
+In the aforementioned facts and circumstances, the Appellant filed I.A
+(Companies Act) No 1 of 2025 in T.P 22 of 2022 before the NCLT, Kolkata
+Bench praying for, inter-alia, a direction on the Respondents to make
+payment of Rs. 1,87,76,133/- (Rupees One Crore Eighty-Seven Lakhs
+Seventy-Six Thousand One Hundred and Thirty-Three only) jointly towards
+the Liquidation Cost including the Liquidator’s Fees in adherence to the
+provisions of Regulation 21A read with Regulation 2(ea) and 4(2)(b) of the IBBI
+(Liquidation Process) Regulations, 2016.
+
+[PAGE 14]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 14 of 45
+
+27.
+The said I.A (Companies Act) No 1/KB/2025 appeared in the cause list
+of the Hon’ble NCLT, Kolkata Bench on 13.01.2025 and was heard at length
+and was subsequently reserved for orders on the very same date i.e.
+13.01.2025. No prayer was made by the Respondents to file any reply thereto
+and the matter was heard out on the basis of the application itself. Written
+Notes of Arguments were also filed by the Appellant. Thereafter, on
+05.02.2025, the Adjudicating Authority, National Company Law Tribunal,
+Kolkata Bench passed the impugned order disposing of I.A. (Companies Act)
+No. 1/KB/2025, inter alia observing that:
+“In this case, since the sale is conducted by the Secured Creditor
+under Section 52 of the Insolvency and Bankruptcy Code, 2016, the
+liquidator shall not be entitled to any fees from such realization, as
+the liquidator's fees are solely meant to compensate for actual work
+done in the process of realizing/selling assets. For all other assets,
+except those sold by the secured creditor, the liquidator's fees shall
+be payable as per the rates approved by the SCC in its meeting
+dated 07.03.2024 if any. Accordingly, this application being I.A.
+(Companies Act) No. 1/KB/20285 is disposed of.”
+
+28.
+The NCLT has misconstrued and misinterpreted the dictum of
+Shikshak Sahakari Bank Limited (supra) as passed by this Hon’ble
+Tribunal. In fact, the impugned order passed is per incuriam. The ratio of
+Shikshak Sahakari Bank Limited (supra) is squarely applicable in the present
+case. Even in Shikshak Sahakari Bank Limited (supra) there was no separate
+“realisation” or “distribution” and despite that Appellate Tribunal ruled that
+irrespective of realization or distribution, the Liquidator will still be entitled to
+fee in terms of Regulation 21A of the Liquidation Process Regulations NCLT
+has perversely held that in the present case, the Appellant is not entitled to
+any fee from sale of the Panagarh factory.
+
+[PAGE 15]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 15 of 45
+
+29.
+Compliance of regulations 2(ea), 2-A, 21-A and 37 of the Liquidation
+Process Regulations is “absolutely necessary” as held by this Hon’ble Tribunal
+in Small Industries Development Bank of India (SIDBI) v. Shri Vijender
+Sharma (Company Appeal (AT) (Insolvency) No. 1027 of 2021). The refusal by
+the Respondent banks to pay the Appellant’s fee from sale of the Panagarh
+factory amounts to non-compliance on the part of the Respondents with the
+provisions of Regulation 4(2)(b) of the Liquidation Process Regulations.
+
+30.
+The NCLT has failed to appreciate that a liquidator, who has
+coordinated with secured financial creditors, the prospective / interested
+buyers, the office of OL and has taken necessary steps to ensure sale of an
+asset is entitled to a fee in terms of Regulation 4(2)(b) of the Liquidation
+Process Regulations as has been held by this Hon’ble Tribunal in Shikshak
+Sahakari Bank Limited (supra).
+
+31.
+The Appellant played a crucial and vital role in facilitating the sale of
+the said factory. In fact, if the Appellant had not coordinated with the Official
+Liquidator, the Respondent banks and prospective buyers, no sale at all could
+have taken place, which ultimately led to maximization of value of the assets
+of the Corporate Debtor.
+
+32.
+There is no embargo under Regulation 4(2)(b) of the Liquidation Process
+Regulations prohibiting payment of fee to a liquidator who has taken due care
+to preserve the asset and ensure coordination between secured financial
+creditors, prospective buyers as well as the successful auction purchaser.
+
+[PAGE 16]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 16 of 45
+
+33.
+The auction took place under the provisions of the SARFAESI Act, 2002
+arising from the provisions of Insolvency and Bankruptcy Code, 2016 based
+on the prerequisite duties carried out by the Appellant Liquidator which
+involved obtaining and handing over peaceful possession of Panagarh Factory.
+The Appellant had coordinated and taken care for realization of the asset
+through the secured financial creditors by coordinating with the secured
+financial creditors, prospective buyers and Official Liquidator in the
+proceedings, in order to achieve ‘value maximization’ objective of IBC Laws in
+a time bound manner.
+
+34.
+The NCLT erred in holding that Regulation 4(2)(b) of the Liquidation
+Process Regulations is not applicable to the present case. The NCLT erred in
+holding that the entire action to sell the Panagarh unit was conducted solely
+by the Respondent banks sans any involvement of the Appellant. Without the
+involvement of the Appellant, no sale at all could have taken place.
+
+35.
+In this context it is imperative to mention that for the purpose of
+Regulation 37, the expected sale price of the Panagarh Factory was intimated
+by Respondent No. 1 namely Indian Bank, by email dated 02.03.2024, as INR
+20 (Twenty) Crores and by Respondent No. 2 namely State Bank of India, vide
+email dated 12,03.2024 as INR 15.79 Crores and that the asset was sold at
+INR 55.10 Crores pursuant to a Sale Notice dated 06.09.2024 having Reserve
+Price at INR 51 Crores. Thus, the sale realization of Panagarh Factory has
+been nearly 3 (three) times more than the expected sale realization of the
+Respondent Secured Creditors. Such value maximization could not have been
+
+[PAGE 17]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 17 of 45
+
+possible without a team effort (including the Respondents) where the efforts
+of the Appellant Liquidator was vital and essential.
+
+36.
+Appellant Liquidator played a crucial role in facilitating discussions
+between the two Respondent Secured Creditors. As reflected in the email
+dated 02.03.2024, Respondent No. 1 asserted exclusive first charge over the
+Panagarh Factory and similar contention was also made by Respondent No.
+2 as evident from the email dated 12.03.2024. Without intervening in the
+shareholding arrangement among the Respondent Secured Creditors, the
+Appellant Liquidator apprised them of the relevant provisions of Regulation
+21A, particularly the 180-day timeline, and requested the Banks to resolve
+the matter amicably to avoid litigation and ensure timely value maximization
+which is the spirit, object and the crux of IBC and its Rules and Regulations
+thereunder. Consequently, the Respondents reached a resolution, leading to
+the publication of the sale notice for the Panagarh Factory on 06.09.2024 by
+Respondent No. 1. While not a statutory obligation, the Appellant undertook
+this effort in good faith, guided by the principles of law.
+
+37.
+Regulation 4 of the Insolvency and Bankruptcy Board of India
+(Liquidation Process) Regulations, 2016, delineates the framework for
+determining the Liquidator's fees. Specifically, Regulation 4(2)(b) outlines a
+fee structure based on the amounts realized and distributed during the
+liquidation process. However, the regulation does not preclude the Liquidator
+from claiming fees in scenarios where assets of the Corporate Debtor is sold
+by Secured Creditors who have not relinquished their security interest. The
+
+[PAGE 18]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 18 of 45
+
+absence of restrictive language implies the Liquidator's entitlement to fees
+under such circumstances.
+
+38.
+There has been non-compliance on the part of Respondents in respect
+of the provision of Regulation 21A(2) of the Liquidation Process Regulations,
+2016 wherein it has been explicitly stated that the Secured Creditor who
+proceeds to realise its security interest shall pay towards the liquidation cost
+(as referred to in Section 53(1)(a) read with Section 5(16) of IBC, 2016 read
+with Regulation 2(1)(ea) of Liquidation Process Regulations, 2016) in the
+manner as it would have shared such cost in case it had relinquished the
+security interest. Further, the conjunctive reading of 1st and 2nd proviso to
+Regulation 21A(2) specifies that the Secured Creditor shall make good the
+difference between the amount already paid, on estimated basis, and certain
+amount payable arising from sale of the assets. The ‘Liquidation Cost’
+includes fees payable to the Liquidator under Regulation 4 of the Liquidation
+Process Regulations, 2016. In the given instance, the Stakeholder’s
+Consultation Committee (SCC) in its 1st meeting held on 07.03.2024 decided
+for payment of liquidator fees in accordance with the provision of Reg. 4(2)(b)
+where the Respondents were present but did not have any voting share.
+However, the Respondents confirmed their consensus with the decision taken
+by the SCC in their respective emails dated 12.04.2024 and also in the
+handover document dated 31.04.2024 of Panagarh Factory, by explicitly
+undertaking to pay liquidator fees in accordance with the provision of
+Reg.4(2)(b) of Liquidation Process Regulations, 2016. Respondents provided
+the undertaking prior to handover of the Panagarh Factory as a part of their
+statutory obligation to comply with the provision of Regulation 21A which has
+
+[PAGE 19]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 19 of 45
+
+been relied upon by the Appellant being undertakings made by officials of
+Nationalized Banks. Subsequently, the Respondents failed to make additional
+contribution towards liquidation cost including liquidator’s fees, the basis of
+which was already agreed upon and was undertook to be paid, thereby
+blatantly contravening the provision of Regulation 21A.
+
+39.
+Adjudicating Authority has failed and/or neglected to consider the
+provision of Regulation 21A in conjunctive reading with the provision of
+Regulation 4(2)(b) rather considered the provision of Regulation 4(2)(b) in
+isolation, The gamut of including the liquidator fees on realization of
+Corporate Debtor’s assets by the Secured Creditor pursuant to non-
+relinquishment of security interest, initiates from the provision of Regulation
+21A(2) extract of which is as follows —
+“(2)
+Where a secured creditor proceeds to realise its security
+interest, it shall pay —
+(a) as much towards the amount payable under clause (a) and sub-
+clause (i) of clause (b) of sub-section (1) of section 53, as it would
+have shared in case it had relinquished the security interest, to the
+liquidator within ninety days from the liquidation commencement
+date; and
+(b)....”
+
+40.
+While determining the liquidation cost, as covered under Section
+53(1)(a), for the purpose of Regulation 21A, the prerequisite condition in
+determination of such cost stands on the premise that the security interest
+have been relinquished by such secured creditor. By stretch of all practical
+assumption, it can be understood that ‘realization’ and ‘distribution’ of assets
+as envisaged in Regulation 4(2)(b) cannot be directly done by a Liquidator in
+the circumstance where the security interest has not been relinquished by the
+Secured Creditor. Thus, bare perusal of Regulation 4(2)(b) in isolation to
+Regulation 21A completely defeats its purpose and spirit, which has precisely
+
+[PAGE 20]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 20 of 45
+
+been done in the impugned order, as evident from inter alia, paragraph 16 of
+the impugned order.
+
+41.
+Secured creditors are required to pay liquidation costs, including the
+Liquidator's fees, within a stipulated period to retain their security interests.
+Liquidator's fees are considered a part of the liquidation costs, irrespective of
+asset realization or distribution by the Liquidator.
+
+42.
+The matter of Shikshak Sahakari Bank Limited (supra) was not on a
+different footing in comparison to the instant subject matter. The Adjudicating
+Authority has derived wrong inference that the Liquidator (in Shikshak
+Sahakari Bank Limited) did not sell the assets and realise any proceeds but
+has distributed the amount that was realized. In this context, the Appellant
+humbly submits that, this Hon’ble Tribunal at paragraph 12 of the order
+dated 11.12.2024 in the matter of Shikshak Sahakari Bank Limited has
+recorded the submission of the Appellant Bank (i.e. Shikshak Sahakari Bank
+Limited) as under —
+“12.
+Appellant (i.e. Shikshak Sahakari Bank) also contended that
+the Respondent is only eligible for entitlement of fees under
+Regulation 4 Sub-Regulation 2(b), only when the Liquidator has
+actually realized or distributed any amount. However, in the present
+case, there has neither been any distribution nor any realization of
+amounts by the Respondent (i.e. the Liquidator), in so far as the
+secured asset of the Appellant is concem.”
+
+43.
+The Adjudicating Authority has failed to recognize the identity of the
+instant matter with that of Shikshak Sahakari Bank Limited (supra) thereby
+rendering the impugned order per incuriam. In either of the matters the
+Secured Creditors did not relinquish their security interest and have not paid
+the liquidation cost vis-à-vis the liquidator’s fees. However, the instant matter
+is on a higher footing to the extent that the Respondent Secured Creditors
+
+[PAGE 21]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 21 of 45
+
+have agreed upon and have given undertaking to the Appellant Liquidator
+before taking over the possession of the Corporate Debtor’s assets being the
+Panagarh Factory. Further, the Appellant Liquidator provided detailed
+calculation of the Liquidator Fees as was initially estimated and thereafter
+upon final determination arising from sale of assets. Hence the subject of both
+the matters are identical with more weightage being on the instant subject
+matter being appealed for, on grounds that (a) the basis of determination of
+liquidator fees under Regulation 4(2)(b) was agreed by the Respondents
+Secured Creditors as evident from email dated 12.04.2024 received from
+Respondents and execution of handover document dated 30.04.2024 by the
+Respondents, for compliance of Regulation 21A(2); (b) the basis of
+determination of liquidator fees under Regulation 4(2)(b) were consented by
+the SCC in its 1st meeting held on 07.03.2024; and (c) subsequent contest on
+an agreed matter relating to basis of determination of liquidator fees under
+Regulation 4(2)(b) has been an after-thought and clear violation of the
+provision of Regulation 21A.
+
+44.
+The Appellant Liquidator is not making a ‘demand’ of fees on the plea
+of having a blanket undertaking from the Respondents, as conceived from
+paragraph 27 of the impugned order. On the contrary, the Appellant
+Liquidator is making a rightful claim of the fee amount agreed upon by the
+Respondents in accordance with the provisions of Reg. 21A.
+
+45.
+Secured Creditor is mandatorily obligated to pay its share as per
+Section 53(1)(a) and 53(1)(b)(i) of the Code for distribution of assets from the
+sale of liquidation assets in the order of priority (waterfall mechanism).
+
+[PAGE 22]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 22 of 45
+
+46.
+Liquidator’s fees are liquidation costs, as prescribed under Regulation
+2(1)(ea) and Regulation 4 of the Insolvency and Bankruptcy Board of India
+(Liquidation Process) Regulations, 2016. These regulations do not make the
+Liquidator’s fees contingent on realization or distribution of assets but
+recognize them as an essential part of the liquidation process.
+
+47.
+Under Section 53(1)(a) of the Insolvency and Bankruptcy Code (IBC),
+2016, liquidation costs, including the Liquidator's fees, are to be paid in
+priority before any other claims. The impugned order erroneously suggests
+that fees are only payable if the Liquidator realizes or distributes assets, which
+contradicts the statutory scheme of the IBC.
+
+48.
+In determining the Liquidators fee pertaining to “realization and/or
+“distribution” the Adjudicating Authority failed to appreciate that the term
+“distribution” under the Insolvency and Bankruptcy Code, 2016 (IBC) is not
+confined merely to the final allocation of realized proceeds but inherently
+includes all preparatory and intermediary actions undertaken by the
+Liquidator leading to such distribution. The process of distribution begins
+much before the actual realization of assets and includes various statutory
+duties such as taking possession of the assets, securing, managing, valuing,
+and facilitating their sale. These activities are intrinsic to the liquidation
+process and are inextricably linked to the ultimate distribution of proceeds.
+To interpret "distribution" in an isolated and narrow sense would be contrary
+to the intent and framework of the IBC, which envisages liquidation as a
+holistic process rather than a mere disbursement of funds. In the given
+instance, the Appellant Liquidator, jointly, handed over the possession of the
+
+[PAGE 23]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 23 of 45
+
+Panagrah Factory on 30.04.2024 in compliance of the IBC Laws in effect to
+substantiate ‘distribution’ on the part of the Appellant Liquidator. Liquidator’s
+act of taking possession of the assets, securing them, maintaining their value,
+and undertaking necessary legal and procedural steps for their realization
+form an essential and inseparable part of “distribution” as contemplated
+under the IBC. The very process of liquidation necessitates a structured
+approach wherein every action undertaken by the Liquidator—from
+possession to realization and eventual disbursement—is an element of
+distribution. Excluding such integral activities from the scope of "distribution"
+would not only be legally erroneous but would also defeat the purpose of
+maximizing value for stakeholders in a time-bound manner, as envisioned
+under the Code. By limiting the meaning of "distribution" solely to the final
+allocation of sale proceeds, it disregards the comprehensive nature of the
+Liquidator’s role as defined under the IBC and the Liquidation Regulations.
+The Liquidator's functions, including taking control of assets, resolving
+disputes regarding ownership, ensuring compliance with legal mandates, and
+overseeing the entire liquidation process, are all fundamental components of
+distribution as well as realization within the broader statutory framework.
+Any restrictive interpretation that severs these essential activities from the
+scope of distribution would create ambiguity, disrupt the settled principles of
+liquidation, and unfairly undermine the Liquidator’s statutory duties and
+entitlement to fees.
+
+49.
+The breakup of Sharing of the Liquidation Costs was placed and
+discussed at the 8th SCC meeting convened on 25.10.2024 and it was in
+compliance with Regulation 21-A of the Liquidation Process Regulations,
+
+[PAGE 24]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 24 of 45
+
+2016. Segregating the assets which formed part of the Liquidation estate with
+those not forming part of the Estate in deciding the Liquidators fee payable is
+de hors the provision of law and IBC. The segregation of assets forming part
+of the Liquidation Estate from those that do not, for the purpose of
+determining the Liquidator’s fee, is contrary to the provisions of the Insolvency
+and Bankruptcy Code, 2016 (IBC), as well as the established legal framework
+governing liquidation proceedings. The IBC provides a comprehensive
+mechanism for the liquidation process, including the manner in which the
+Liquidator’s fee is to be computed, without permitting arbitrary exclusions or
+artificial classifications of assets within the Liquidation Estate. By
+undertaking such segregation, the Adjudicating Authority has acted beyond
+the scope of the statutory provisions and established judicial precedents,
+thereby creating an inconsistency with the principles of law governing
+liquidation. The Liquidation Estate, as defined under the IBC, comprises all
+assets, properties, and rights of the corporate debtor, and any attempt to
+selectively classify or exclude certain assets from this Estate while
+determining the Liquidator’s fee is legally untenable. This approach not only
+disregards the express provisions of the IBC but also undermines the objective
+of ensuring a fair and transparent liquidation process in accordance with law.
+Such an interpretation adversely affects the rights of the Liquidator, who is
+entitled to fees in accordance with the framework prescribed under the IBC
+and the Liquidation Regulations. It also sets an incorrect precedent that could
+lead to unwarranted complications in future liquidation proceedings.
+Therefore, the impugned decision warrants reconsideration, as it is not only
+
+[PAGE 25]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 25 of 45
+
+inconsistent with the legal provisions but also detrimental to the efficient and
+orderly conduct of the liquidation process.
+
+50.
+A holistic interpretation of the Insolvency and Bankruptcy Code (IBC)
+and its associated regulations suggests that the Liquidator's fees are integral
+to the liquidation costs. The regulations aim to ensure that the Liquidator is
+fairly compensated for the duties performed, regardless of the outcome
+concerning asset realization. This interpretation aligns with the broader
+objectives of the IBC to facilitate an effective and equitable insolvency
+resolution process. By failing to recognize the Liquidator's entitlement to fees,
+effectively penalizes the Liquidator for circumstances beyond his control.
+Further, it violates the principle of natural justice, as it deprives the
+Liquidator of due compensation for his work.
+
+51.
+IBC does not differentiate between liquidation processes with assets
+and those without. Even where a corporate debtor has no assets, a Liquidator
+is still required to complete the process, file reports, and ensure compliance.
+In multiple cases it has been upheld that the Liquidator’s fees must be paid
+as part of the liquidation cost, regardless of realization or distribution. The
+impugned order, by holding otherwise, introduces an artificial distinction that
+has no legal basis. If the Liquidators are not compensated unless they recover
+assets, many cases where the corporate debtor has no, or limited assets will
+go unattended. This would frustrate the objectives of the IBC, which seeks to
+provide a time-bound resolution mechanism. In the facts and circumstances
+as stated herein above, the Appellant states and respectfully submit that there
+is just cause to forthwith set aside the order dated 05.02.2025 in I.A
+
+[PAGE 26]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 26 of 45
+
+(Companies Act) No 1 of 2025 in T.P (Companies Act) No. 22 of 2022, to the
+extent challenged herein.
+
+52.
+The impugned order to the extent that it decides that the Appellant is
+not entitled to any fee from the sale of Panagarh unit is contrary to the ratio
+of State Bank of India v. Navjit Singh as held by this Hon’ble Tribunal.
+
+53.
+NCLT failed to appreciate that in the present case in the absence of the
+Appellant’s fee remaining unpaid, there has not been absolute compliance of
+regulations 2(ea), 2-A,21-A and 37 of the Liquidation Process Regulations and
+sections 52/53 of the IBC as held by this Hon’ble Tribunal in Small Industries
+Development Bank of India (SIDBI) v. Shri Vijender Sharma.
+Counter of R1– Indian Bank
+
+54.
+The Respondent No. 1 claims that are secured financial creditor of the
+Corporate Debtor, M/ s. Maheshwary Ispat Limited, with a valid security
+interest over the Panagarh Factory. The Respondent No. 1 had submitted its
+claim in Form D on 17.01.2024, clearly expressing its intention not to
+relinquish its security interest in the Panagarh Factory. This was in
+accordance with the provisions of Section 52 of the Insolvency and
+Bankruptcy Code, 2016 ("IBC"), which grants secured creditors the right to
+realize their security interest outside the liquidation process.
+
+55.
+The Respondent No. 1 submits that the Appellant's contention
+regarding entitlement to liquidator's fees on the sale proceeds of the Panagarh
+Factory is misconceived and contrary to the scheme of the IBC. The
+Respondent No. 1, along with Respondent No. 2 (State Bank of lndia), had
+clearly opted to realize its security interest outside the liquidation process
+
+[PAGE 27]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 27 of 45
+
+under Section 52 of the IBC. The sale was conducted by the secured creditors
+themselves without any involvement of the Liquidator. Therefore, the
+Liquidator is not entitled to any fees on such realization. The Respondent No.
+1 categorically denies that it had given any unconditional undertaking to pay
+the Liquidator's fees as alleged by the Appellant. While there were discussions
+regarding contribution towards liquidation costs as required under
+Regulation 21A of the IBBI (Liquidation Process) Regulations, 2016, there was
+never any agreement to pay the Liquidator's fees on the entire sale proceeds
+of the Panagarh Factory. The Respondent No. 1 had already contributed a
+sum of Rs. 21,55,706/- towards the liquidation costs, which was
+proportionate to its obligation under Regulation 21A.
+
+56.
+The sale was conducted by the secured creditors themselves without
+any involvement of the Liquidator. The Liquidator's fees are meant to
+compensate for the actual work done in selling assets. In the present case,
+the Liquidator did not conduct the sale of the Panagarh Factory; it was done
+by the secured creditors under Section 52 of the IBC. Therefore, the
+Liquidator is not entitled to any fees on such realization.
+
+57.
+The Joint Lenders' Meeting (JLM) held on 21.11.2024 and 22.11. 2024
+did not result in any binding agreement to pay the Liquidator's fees as alleged
+by the Appellant. The minutes of the meeting clearly state that both banks
+agreed to "take up the matter with their Higher Competent Authorities and
+also Legal clearance for seeking guidance/ approval for the payment of
+Liquidation Fees". This was merely an agreement to consider the matter
+further and not a binding commitment to pay the fees.
+
+[PAGE 28]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 28 of 45
+
+58.
+The Respondent No. 1 submits that the NCLT has correctly interpreted
+the provisions of the IBC and the IBBI (Liquidation Process) Regulations,
+2016. The Liquidator's fees are meant to compensate for the actual work done
+in selling assets. In the case, the Liquidator did not conduct the sale of the
+Panagarh Factory; it was done by the secured creditors under Section 52 of
+the IBC. Therefore, the Liquidator is not entitled to any fees on such
+realization. The Appellant's reliance on the decision of this Appellate Tribunal
+in the case of Shikshak Sahakari Bank Limited is misplaced and inapplicable
+to the present case. The factual matrix in that case was entirely different.
+
+59.
+The refusal of banks to pay the Liquidator's fee in the present case
+would not amount to non-compliance, as the Liquidator is not entitled to any
+fee as per Regulation 21A of the Liquidation Process Regulations. The NCLT
+correctly interpreted that Regulation 4(2)(b) of the IBBI (Liquidation Process)
+Regulations, 2016, which deals with the Liquidator's fees, applies only to
+assets that form part of the liquidation estate and are realized by the
+Liquidator. It does not apply to assets realized by secured creditors outside
+the liquidation process under Section 52 of the IBC.
+
+60.
+It is claimed that Regulation 21A of the IBBI (Liquidation Process)
+Regulations, 2016 requires secured creditors to contribute towards the
+liquidation costs in proportion to the amount they realize from the secured
+assets. The Respondent No. 1 has already contributed a sum of Rs.
+21,55,706/-towards the liquidation costs, which is proportionate to its
+obligation under Regulation 21A.
+
+61.
+It is denied that Rs. 1,87,76,133/-is pending fee of the Appellant.
+
+[PAGE 29]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 29 of 45
+
+Section 52 of the IBC grants secured creditors the right to realize their
+security interest outside the liquidation process. This is a special right given
+to secured creditors, recognizing the primacy of their security interest. When
+a secured creditor opts to realize its security interest outside the liquidation
+process, the asset is effectively taken out of the liquidation estate. As such,
+the fees for such assets are not part of the Liquidation costs.
+
+62.
+It is contended that the Clarification of Regulation 4(2)(b) clarifies that
+where a liquidator the Clarification of Regulation 4(2)(b) clarifies that where
+a liquidator realizes any amount, but does not distribute the same, he shall
+be entitled to a fee corresponding to the amount realised by him, and where
+a liquidator distributes any amount, which is not realised by him, he shall be
+entitled to a fee corresponding to the amount distributed by him only. In the
+present case, liquidator having neither realised nor distributed is entitled to
+NIL fees.
+
+63.
+NCLT has correctly held that the Appellant's claim for liquidator's fees
+on the entire sale proceeds of the Panagarh Factory is not only contrary to
+the scheme of the IBC but also amounts to unjust enrichment. The Liquidator
+did not conduct the sale of the Panagarh Factory, it was done by the secured
+creditors themselves. Therefore, the Liquidator is not entitled to any fees on
+such realization. The impugned order is legally sound and does not suffer
+from any infirmity warranting interference by this Hon'ble Tribunal.
+Appraisal
+
+64.
+In this case, pursuant to transfer of winding-up proceedings
+(winding-up order passed in Oct 2016) from the Hon'ble High Court at
+
+[PAGE 30]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 30 of 45
+
+Calcutta, the Adjudicating Authority (NCLT, Kolkata) initiated Liquidation
+proceedings of the Corporate Debtor (CD) under the Code, by order dated
+19.12.2023 and appointed the Appellant as the Liquidator. There was no
+CIRP proceedings in the instant matter. The Respondent Banks submitted
+their claims and did not relinquish the security interest in Panagarh
+Factory, in terms of Section 52 of the Code. The Respondents informed the
+Appellant about the estimated realization value of Panagarh Factory as INR
+20 Crores (R1) and INR 15.79 Crores (R2), respectively, in terms of Reg.
+37(1) of the IBBI Liquidation Process Regulations. On 12.04.2024 (i.e. 115
+days from the date of commencement of Liquidation proceedings of
+19.12.2023) the Respondent Banks paid INR 21,55,706/-, in aggregate, being
+part payment of the estimated Liquidation Cost without considering the
+Liquidator’s fees. We note that by part payment, the Respondents failed to
+comply with the provision of Reg. 21A(2)(a), in its entirety. The Respondent
+Banks had agreed and undertook to pay the Liquidator’s Fees in accordance
+with the provision of Reg. 4(2)(b). (emails issued in this regard are @ 189 and
+191 of APB). Considering the undertaking given by the Respondents
+Nationalized Banks in terms of the second proviso to Reg. 21A(2), the
+Appellant obtained possession from the Official Liquidator and handed over
+the possession of the Panagarh Factory, jointly, to the Respondents. In
+the handover document dated 30.04.2024, both the Respondent Banks,
+reconfirmed their agreement by providing an undertaking to pay the
+Liquidator Fees in accordance with the provision of Reg. 4(2)(b). The
+Respondents sold the Panagarh Factory on 21.10.2024 i.e. 307 days from the
+liquidation commencement of 19.12.2023, for an amount of INR 55.10 Crores
+
+[PAGE 31]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 31 of 45
+
+which is 200% more than their expected realizable value, as stated in para 2
+above.
+Issue in this Appeal
+65.
+Heard both sides and also perused the material on record basis. The
+issue in this Appeal is –
+“Whether the liquidator can be denied his entitlement to fees
+under Reg. 4(2)(b) read with Reg. 21A(2) of the Liquidation
+Process Regulations, 2016 when the secured creditors have
+directly realised security interest (namely Panagarh Factory)
+under SARFAESI Act?”
+
+66.
+Before proceeding further, it would be beneficial to reproduce the
+meaning of liquidation cost as per the Insolvency & Bankruptcy Code,
+2016 and the Liquidation Process Regulations, 2016 governing the
+payment of liquidation cost, which are reproduced as follows:
+“Section 5(16) of IBC 2016: liquidation cost means any cost
+incurred by the liquidator during the period of liquidation subject
+to such regulations, as may be specified by the Board.
+
+Regulation 2(ea) (ea)1: “liquidation cost” under clause (16)
+of section 5 means-
+(i) fee payable to the liquidator under regulation 4;
+(ii) remuneration payable by the liquidator under sub-regulation (1)
+of regulation 7;
+(iii) costs incurred by the liquidator under sub-regulation (2)
+of regulation 24;
+(iv) costs incurred by the liquidator for preserving and protecting
+the assets, properties, effects and actionable claims, including
+secured assets, of the corporate debtor;
+(v) costs incurred by the liquidator in carrying on the business of
+the corporate debtor as a going concern;
+
+1 Liquidation Process Regulations, 2016
+
+[PAGE 32]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 32 of 45
+
+(vi) interest on interim finance for a period of twelve months or for
+the period from the liquidation commencement date till repayment
+of interim finance, whichever is lower;
+(vii) the amount repayable under sub-regulation (3) of regulation
+2A;
+(viii) any other cost incurred by the liquidator which is essential for
+completing the liquidation process:
+
+Provided that the cost, if any, incurred by the liquidator in relation
+to compromise or arrangement under section 230 of the Companies
+Act, 2013 (18 of 2013), if any, shall not form part of liquidation
+cost.”
+
+67.
+Regulation 21-A1 mandates Secured Creditors to inform the Liquidator
+of their decision to realise their security interest and to pay their share of the
+liquidation costs. The relevant portion of Regulation 21-A(2)1 is extracted as
+follows:
+“21-A. Presumption of security interest. (1) A secured creditor
+shall inform the liquidator of its decision to relinquish its security
+interest to the liquidation estate or realise its security interest, as
+the case may be, in Form C or Form D of Schedule II:
+
+Provided that, where a secured creditor does not intimate its
+decision within thirty days from the liquidation commencement
+date, the assets covered under the security interest shall be
+presumed to be part of the liquidation estate.
+
+(2) Where a secured creditor proceeds to realise its security
+interest, it shall pay -
+
+(a) as much towards the amount payable under clause (a) and
+sub- clause (i) of clause (b) of sub-section (1) of section 53, as
+it would have shared in case it had relinquished the security
+interest, to the liquidator within ninety days from the
+liquidation commencement date; and
+
+(b) the excess of the realised value of the asset, which is subject
+to security interest, over the amount of his claims admitted, to
+the liquidator within one hundred and eighty days from the
+liquidation commencement date:
+
+Provided that where the amount payable under this sub-
+regulation is not certain by the date the amount is payable under
+
+[PAGE 33]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 33 of 45
+
+this sub-regulation, the secured creditor shall pay the amount,
+as estimated by the liquidator:
+
+Provided further that any difference between the amount
+payable under this sub regulation and the amount paid under
+the first proviso shall be made good by the secured creditor or
+the liquidator, as the case may be, as soon as the amount
+payable under this sub-regulation is certain and so informed by
+the liquidator.
+
+(3) Where a secured creditor fails to comply with sub-regulation
+(2), the asset, which is subject to security interest, shall become
+part of the liquidation estate.
+
+Explanation. It is hereby clarified that the requirements of this
+regulation shall apply to the liquidation processes commencing on
+or after the date of the commencement of the Insolvency and
+Bankruptcy Board of India (Liquidation Process) (Amendment)
+Regulations, 2019.”
+
+68.
+On a conjoint reading of Reg. 21A(2), Reg. 2(ea) and Reg. 4(2)(b) of
+the Liquidation Process Regulations 2016, we note the legal position that
+emerges is as follows:-
+
+Reg. 21A(2) clearly establishes that the Secured Creditors who
+have realized their security interest under section 52 of IBC,
+2016 are obligated and mandated to pay their share of
+liquidation cost as they would have done “in case they had
+relinquished the security interest.” Simply put, the decision of
+the Secured Creditors to relinquish security interest or not, has
+no bearing on the payment obligation of such secured creditors
+towards the liquidation cost which includes liquidator’s fees
+under Reg.2(ea)(i) and also has no bearing on the mode of
+calculation of such amount to be contributed.
+
+
+Reg. 21A(2) categorically binds all secured creditors to pay the
+share of liquidation cost regardless of whether the security
+interest is relinquished or not. In fact, Regulation 21A(2) makes
+it clear that the quantum of contribution to liquidation costs
+including liquidator’s fees by such secured creditors is to be
+calculated as they would have done “in case they had
+relinquished the security interest.” The only way to calculate
+such costs as per Reg.21A(2) under the Liquidation Process
+Regulations in regard to a sale of security interest under section
+52, is by applying the formula in Reg.4(2)(b).
+
+
+Reg. 2(ea)(i) of the Liquidation Process Regulations, 2016
+distinctly defines ‘Liquidation Cost’ as including the Liquidator’s
+fee as per Regulation 4.
+
+
+The manner of determination of Liquidator’s Fees is also not
+open to interpretation. Reg. 4 enumerates the method of
+determination of the liquidator’s fee.
+
+[PAGE 34]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 34 of 45
+
+69.
+In the facts of the present case, there is no scope of application of Reg.
+4(1) or Reg. 4(2)(a). As per Reg. 4(1A), the Stakeholders’ Consultation
+Committee has decided upon payment of the Liquidator’s fee in terms of
+Reg. 4(2)(b) in regard to the clear mandate of Reg.21A(2). Furthermore, the
+Respondent Banks have confirmed and undertaken to pay the Liquidator’s
+fees in terms of Reg. 4(2)(b) as evident from the emails dated 12.04.2024. They
+have also made initial part payment of INR 21.56 Lacs (by R1) and INR 5.40
+(by R2), respectively.
+
+70.
+Furthermore, the Adjudicating Authority has come to conclusion that
+ratio of this Appellate Tribunal’s judgment of Shikshak Sahakari Bank Limited
+(supra) is not applicable in the present case. We note that the facts of the
+aforementioned case are analogous to those in the current case. The issue
+framed in the referred judgment were:
+“25. The issues which arise from the facts of the case are as follows:
+I. Whether the Liquidator’s fee is payable even if the Liquidator
+did not directly realise or distribute the secured asset?
+
+II. Whether the Appellant has complied with Regulation 214A of
+the Liquidation Process Regulations, 2016?”
+
+71.
+We also note that the judgment of this Hon’ble Tribunal in Shikshak
+Sahakari Bank Limited (supra) squarely applies in the instant appeal as both
+have identical facts:
+
+Sale of CD’s Asset:
+By Secured Lenders under SARFAESI Act, 2002
+
+
+Proceeds from
+Asset Sale:
+Received by Secured Lenders without direct
+involvement of Liquidator
+
+
+Distribution of
+Proceeds on Asset
+Sale:
+By Secured Lenders without direct involvement
+of Liquidator
+
+[PAGE 35]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 35 of 45
+
+
+Compliance of 90-
+day period as per
+Reg. 21A(2)(a):
+Amount received
+beyond 90 days
+in the
+Shikshak Sahakari Bank Limited (supra). In
+the present case the amount received on
+12.04.2024 (i.e. 115 days from Liquidation
+commencement date of 19.12.2023)
+
+
+Contribution
+to
+Liquidation
+Cost
+in terms of Reg.
+21A:
+In Shikshak Sahakari Bank Limited (supra)
+NCLAT observed that full liquidation cost was
+not paid by Banks. And in the present case
+Respondent Banks did not pay the Liquidation
+Cost in full but made payment excluding the
+Liquidator’s Fees which is also part of
+Liquidation Cost.
+
+Conclusion of Sale
+of Assets whether
+within 180 days as
+per Reg. 21A(2)(b):
+Beyond 180 days.
+
+(Note: In the present case sale concluded on
+22.10.2024 i.e. 307 days from Liquidation
+commencement date of 19.12.2023)
+
+In the earlier case of Shikshak Sahakari Bank Limited (supra) this Appellate
+Tribunal had held that:
+“37.
+In brief, with respect to the Secured Financial
+Creditor, the situation is clearly enumerated in Regulation 21-
+A(2)(a), which is applicable in this case. The Liquidator’s fee is
+also prescribed under Regulation 4. Regulations 4(1) and 4(1A)
+provides primacy to CoC and consultation Committee. The
+Respondent’s claim that the Liquidator is entitled for a fee
+under Regulation 4(2)(b) only when he has actually realised or
+distributed any amount is not tenable in the light of Regulation
+21A.”
+72.
+Respondent No. 1 referred to para 31 of the order of Shikshak Sahakari
+Bank Limited (supra) judgment at the time of hearing and argued that the
+Secured Creditor in that case had failed to comply with the 90-day time
+limit as stipulated in Reg. 21A(2). Based on such observation, the
+Respondent No. 1 attempted to draw a completely artificial and non-
+existent distinction and fallaciously argued that the assets in Shikshak
+Sahakari Bank Limited (supra) case became part of Liquidation Estate. But
+the actual fact in that case is that the secured asset did not vest in the
+
+[PAGE 36]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 36 of 45
+
+Liquidation Estate, but rather was sold under the SARFAESI Act without
+involvement of the Liquidator and definitely not under IBC, 2016. In any
+event, in the present appeal also, there has been complete failure of the
+Respondent Banks to comply with the 90-day timeline in Reg.21A(2)(a) and
+also the 180-day timeline in Reg. 21A(2)(b). In other words, there is no factual
+distinction between the present Appeal and the case of Shikshak Sahakari
+Bank Limited (supra).
+
+73.
+In the impugned order, NCLT Kolkata held that the Liquidator in
+Shikshak Sahakari Bank Limited (supra) made distribution of the amount
+realised and hence concluded that the instant matter is on a different footing
+from the Shikshak Sahakari Bank Limited (supra) matter. Such conclusion is
+completely erroneous, as paragraph 8 and 9 of the order of Shikshak Sahakari
+Bank Limited (supra) case clearly establishes the fact that the Liquidator in
+Shikshak Sahakari Bank Limited (supra) matter did not make any
+distribution of the proceeds, which is exactly identical to the instant
+appeal. In view of the above, it is evident that Shikshak Sahakari Bank Limited
+(supra) is absolutely identical to the present case and the same is a binding
+precedent and ought to be followed in the present case to grant appropriate
+relief to the Liquidator.
+
+74.
+NCLT erred in holding that the ratio of this Hon’ble Tribunal in
+Shikshak Sahakari Bank Limited (supra), as has been approved by the Hon’ble
+Supreme Court, is not applicable to the present case. NCLT misconstrued,
+misinterpreted and misread the ratio of this Hon’ble Tribunal in Shikshak
+Sahakari Bank Limited (supra), as has been approved by the Hon’ble Supreme
+
+[PAGE 37]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 37 of 45
+
+Court. We note that NCLT failed to appreciate that even in Shikshak Sahakari
+Bank Limited (supra) there was no separate “realisation” or “distribution”. The
+Appellant took due care for sale of the Panagarh factory through the secured
+financial creditors and for that reason, coordinated for all the activities to
+ensure sale of the said factory as was held in Shikshak Sahakari Bank Limited
+(supra). NCLT erred in holding that in the case of Shikshak Sahakari Bank
+Limited (supra), the liquidator therein did not sell the asset or realize any
+proceeds but merely distributed the amount that was realized. NCLT despite
+observing that even in Shikshak Sahakari Bank Limited (supra) this Hon’ble
+Tribunal held that irrespective of realization or distribution, the Liquidator
+would still be entitled to fee under regulation 21A of the Liquidation Process
+Regulations, could not have held that the Appellant was not entitled to any
+fee from sale of the Panagarh Unit.
+
+75.
+Further this Tribunal’s judgment in ‘State Bank of India Vs. Navjit
+Singh in Company Appeal (AT) (Insolvency) No. 151 of 2022’ it was held:
+
+“.....
+6.
+We have considered the submissions of Learned Counsel for
+the parties and perused the record. In so far as the claim of the
+Appellant is concerned of Rs. 29,34,54,879.59/- it has been
+admitted by the Liquidator the said claim is the claim admitted in
+the Liquidation Process and no further adjudication was called for
+with regard to the said claim. In the present case, the admission of
+the claim is not sought to be challenged by State Bank of India. In
+so far as the payment of Liquidator's Fee in paragraph 13 as noted
+above, Adjudicating Authority has disposed of the application with
+the direction to make payment of Liquidator's Fee and ensure
+compliance of Regulations 2(ea), 2A, 21A, 37 of the Liquidation
+Regulations and Section 52/53 of the Code. The order passed by the
+Adjudicating Authority does not warrant any interference. What was
+directed was as per Liquidation Regulation 21A as extracted in
+Paragraph 10 of the Judgment from which it is clear, even if the
+secured creditor proceeds to realise its security interest it is liable
+to pay fee as contemplated under Regulation 21A (2)(a). The
+
+[PAGE 38]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 38 of 45
+
+Adjudicating Authority has only directed the Applicant to follow the
+regulations as noted in paragraph 13.”
+
+76.
+Further in this Tribunal’s judgment in Small Industries Development
+Bank of India (SIDBI) v. Shri Vijender Sharma [Company Appeal (AT) (Ins.)
+No. 1027 of 2021] it was held that:
+“21.
+It thus becomes quite clear that compliance of
+regulations 2(ea), 2-А, 21-A and 37 of the Liquidation Process
+Regulations and Section 52/53 of the IBC are absolutely
+necessary even if the secured creditor proceeds to realise its
+security interest.
+
+22.
+We thus, find that the liquidator has carried out his
+responsibility with due diligence and without any prejudice to
+Appellant or any other stakeholder, and therefore, cannot be held
+responsible for delay that has taken place in pursuing the
+liquidation of the corporate debtor. Therefore, we come to the
+conclusion that the Adjudicating Authority has not committed any
+error in excluding period from 30.11.2018 to 24.2.2020 from the
+liquidation process for calculation of liquidator's fees slab under
+Regulation 4 of the Liquidation Process Regulations. Being devoid
+of merit, the appeal is dismissed.”
+
+77.
+Both the above judgements support the case of the Appellant-
+Liquidator.
+
+78.
+Additionally, we find that the reliance placed on the Clarification in Reg.
+4(2)(b) is misconceived as the same evidently refers to and covers the situation
+where one liquidator who is realizing the assets is different from another
+liquidator who is distributing the proceeds and hence does not apply to the
+instant matter.
+
+79.
+So far, as the terms ‘realisation’ and ‘distribution’ in Reg. 4(2)(b) are
+concerned, they have to be given same meaning when read in the context
+of Reg. 21A(2). If the contention of Respondent No. 1, as orally argued is
+accepted then it will lead to a completely illogical and unwanted situation
+where a liquidator will never be able to earn any fees in regard to
+
+[PAGE 39]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 39 of 45
+
+Reg.21A(2). As highlighted above, Reg.21A(2) is a mandatory provision
+imposing obligation on secured creditors to pay Liquidation Costs (which
+includes Liquidation fees) calculated on the basis as they would have
+shared in case they had relinquished the security interest.
+
+80.
+We also note that the Respondent Banks have given repeated written
+undertakings to pay the balance amount of liquidation cost comprising of
+liquidator’s fees determined in terms of Reg. 4(2)(b). This tantamounts to a
+binding obligation against the Respondent Banks. The undertakings of the
+Respondent Banks relating to determination and payment of Liquidator’s
+Fees as per Reg. 4(2)(b) read with Reg. 21A(2), was consequent to their
+decision of selling Panagarh Factory under SARFAESI Act, as it is evident
+from the facts mentioned above. Thus, we find that the undertakings given
+by Respondent Banks were based on conscious commercial decision and
+subsequent denial for payment of Liquidator’s fees arising on attaining the
+sale of Panagarh Factory, is surely an afterthought to deprive the Appellant
+of his legitimate entitlement. Hence, construing such undertaking by the
+NCLT, Kolkata as ‘not a blanket undertaking’ is erroneous, and the
+Respondents are estopped from resiling from their admitted obligation to pay
+Liquidator’s fees in terms of Reg. 4(2)(b) read with Reg. 21A(2) of the
+Liquidation Process Regulations, 2016 arising on sale of Panagarh Factory.
+
+81.
+The Respondent No. 1 argued that the Liquidator had not played any
+role in selling or realizing of the asset and that the Respondents made
+realization by themselves. Further, referring to the clarification to Reg.
+4(2)(b), the Respondent No. 1 contended that the payment of fees to
+
+[PAGE 40]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 40 of 45
+
+Liquidator is performance – linked. The above arguments have been
+squarely rejected by this Hon’ble Tribunal in Shishak case (supra) where
+it has been categorically held that –
+“... the Respondent / Liquidator is taking care of the realization of
+the assets through the Secured Financial Creditor and, for that
+reason, he has to coordinate for all activities and it is his overall
+responsibility to take care of the realization. In such situation,
+as argued by the Appellant (i.e. Shishak Sahakari Bank) the
+clarification provided under Sub-Reg. 2(b) (of Reg. 4) may not be
+helpful for the Appellant.”
+
+82.
+We further note that, Involvement and role of Liquidator, without which
+sale of security interest would not have been possible. The Appellant
+Liquidator undertook several steps / activities for protecting the Panagarh
+Factory without which the Respondent Banks would not have achieved a
+successful sale under SARFAESI Act. Appellant has elaborated the steps
+taken by it which are noted in its submissions herein earlier and are not being
+repeated here. Appellant Liquidator also coordinated with the Respondent
+No. 1 and 2 in mediating / resolving differences of opinion between the
+Respondent Banks in relation to taking over possession of the Panagarh
+Factory inter alia referring to their respective rights on the sale proceeds. As
+will be evident from the letter dated 02.03.2024 (page 180 of the Appeal), the
+Respondent No. 1 contended that since Respondent No. 2’s exposure in
+respect of the Panagarh factory was “...towards working capital loan only and
+not term loan. Hence, SBI (i.e R 2) is having second charge on fixed assets of
+Panagarh unit of the Company.” Similar views were iterated by Respondent
+No. 1 in its email dated 12.04.2024. Thus, the Respondent No.1 asserted that
+it should have first right from sale proceeds of the said factory. It is only when
+the Liquidator intervened, the two Respondent Banks resolved their disputes
+
+[PAGE 41]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 41 of 45
+
+and agreed “...to have the handover of possession of the assets of the CD at
+Panagarh made jointly in favour of the secured creditors...”. We note that
+without the Liquidator’s efforts to get handover of the premise from the
+Official Liquidator and dispute mitigation among the Respondent Banks,
+the sale of the Panagarh Factory would have been difficult, if not
+impossible. The Appellant-Liquidator is taking care of the realisation of the
+assets through the Secured Financial Creditor and, for that reason, he has to
+coordinate for all the activities and it is his overall responsibility to take care
+of the realisation. In such a situation, as argued by the Appellant, the
+clarification provided under Regulation 4(2)(b) may not be helpful for the
+Appellant. We note that the Liquidator has undertaken significant
+responsibilities during the liquidation process, including asset management,
+stakeholder communication, and compliance with statutory obligations.
+These duties necessitate considerable effort and resources, justifying the
+entitlement to fees. The absence of asset realization or distribution does not
+diminish the scope of the Liquidator's work. Therefore, compensating the
+Liquidator solely based on physical realization or distribution would not
+adequately reflect the services rendered. We therefore find that, apart from
+the legal stand stated hereinabove, the mentioned activities clearly
+demonstrate that the Liquidator is entitled to fee as per Regulation 4(2)(b) for
+‘realization’ and ‘distribution.’
+Conclusion
+83.
+Upon careful consideration of the pleadings, the submissions advanced
+by the learned counsel for the parties, and the documentary record, this
+Appellate Tribunal is persuaded to hold that the Adjudicating Authority
+
+[PAGE 42]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 42 of 45
+
+committed a manifest error in law and on facts, in dismissing the Application
+of the Appellant–Liquidator.
+
+84.
+The Adjudicating Authority failed to appreciate that Regulation 21A(2)
+of the IBBI (Liquidation Process) Regulations, 2016, read conjointly with
+Regulation 2(ea) and Regulation 4(2)(b), unequivocally obligates a Secured
+Creditor, who chooses to realise its security interest outside liquidation under
+Section 52 of the Code, to bear its proportionate share of the liquidation costs
+— which statutorily include the fee of the Liquidator. The Respondent Banks,
+by their express emails dated 12.04.2024 as well as the handover document
+dated 30.04.2024, consciously undertook to pay the Liquidator’s fees as per
+Regulation 4(2)(b). Having derived the benefit of possession and subsequent
+sale of the Panagarh Factory, they cannot now resile from their statutory and
+contractual undertaking.
+
+85.
+The interpretation adopted by the Adjudicating Authority, that the
+Liquidator’s fees are payable only when he directly realises or distributes
+assets, is contrary to settled law. In Shikshak Sahakari Bank Limited v. Mr.
+Jagdish Kumar Parulkar [Company Appeal (AT) (Ins.) No. 2023 of 2024,
+decided on 11.12.2024], this Tribunal held that:
+“With respect to the Secured Financial Creditor, the situation is
+clearly enumerated in Regulation 21A(2)(a), which is applicable in
+this case. The Liquidator’s fee is also prescribed under Regulation
+4. Regulations 4(1) and 4(1A) provides primacy to CoC and
+Consultation Committee. The Respondent’s claim that the
+Liquidator is entitled for a fee under Regulation 4(2)(b) only when
+he has actually realised or distributed any amount is not tenable in
+the light of Regulation 21A.”
+
+[PAGE 43]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 43 of 45
+
+86.
+The above ratio, which has been affirmed up to the Hon’ble Supreme
+Court by dismissal of Civil Appeal No. 1973 of 2025 on 24.02.2025, squarely
+governs the present case. The factual matrix is virtually identical — in both
+cases, the secured creditors did not relinquish their security interest, yet the
+Tribunal recognised that the Liquidator’s statutory entitlement to fee cannot
+be defeated by such election.
+
+87.
+Similarly, in State Bank of India (supra), this Tribunal upheld the
+Adjudicating Authority’s direction that even if the secured creditor proceeds
+to realise its security interest, it is bound to make payment of the Liquidator’s
+fee in terms of Regulations 2(ea), 2A, 21A and 37 of the Liquidation
+Regulations read with Sections 52 and 53 of the Code.
+
+88.
+Again, in Small Industries Development Bank of India (SIDBI)
+(supra), this Tribunal categorically observed that:
+“Compliance of Regulations 2(ea), 2-A, 21-A and 37 of the
+Liquidation Process Regulations and Sections 52/53 of the
+IBC are absolutely necessary even if the secured creditor
+proceeds to realise its security interest.”
+
+89.
+In the present case, not only did the Respondent Banks fail to comply
+with the timelines prescribed under Regulation 21A(2)(a) and (b) (i.e., 90 and
+180 days respectively), but also defaulted in paying the full liquidation cost
+including the Appellant’s fee, despite repeated reminders and despite having
+given written undertakings. Such conduct amounts to a clear violation of the
+statutory mandate and undermines the objectives of the Code.
+
+[PAGE 44]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 44 of 45
+
+90.
+The reasoning adopted by the Adjudicating Authority that the
+Liquidator had “no role in the sale” is also factually untenable. The record
+demonstrates that the Appellant took possession of the Panagarh Factory
+from the Official Liquidator, secured the premises, engaged security,
+coordinated with local authorities, mediated disputes between Respondent
+Banks, liaised with prospective buyers, and ensured that the asset could be
+put to sale in a value-maximising manner. The sale proceeds of INR 55.10
+crores, nearly three times the expected realisation indicated by the
+Respondents (INR 15.79–20 crores), would not have been possible without the
+intervention and efforts of the Appellant. The Appellant’s role falls squarely
+within the scope of “realisation” and “distribution” as contemplated under
+Regulation 4(2)(b).
+
+91.
+In view of the foregoing, we hold that the impugned order dated
+05.02.2025 passed by the Adjudicating Authority in I.A. (Companies Act) No.
+1 of 2025 in T.P. (Companies Act) No. 20 of 2022 is contrary to law and binding
+precedents, and therefore liable to be set aside.
+Order
+
+92.
+Accordingly, this Appellate Tribunal passes the following order:
+a)
+The Appeal, being Company Appeal (AT) (Insolvency) No. 461 of
+2025, is allowed.
+
+b)
+The impugned order dated 05.02.2025 passed by the National
+Company Law Tribunal, Kolkata Bench, in I.A. (Companies Act) No.
+1 of 2025 in T.P. (Companies Act) No. 20 of 2022 is hereby set
+aside.
+
+[PAGE 45]
+Company Appeal (AT) (Insolvency) No. 461 of 2025 45 of 45
+
+c)
+It is held that the Appellant–Liquidator is entitled to his fees
+determined in accordance with Regulation 4(2)(b) of the IBBI
+(Liquidation Process) Regulations, 2016, arising from the sale
+proceeds of the Panagarh Factory, being part of the liquidation cost
+as defined under Regulation 2(ea).
+
+d)
+The Respondent Banks are directed to forthwith contribute jointly
+the balance amount of Rs. 1,87,76,133/- towards liquidation costs
+including the Liquidator’s fee, together with clerkage at 5% as
+agreed in the handover document dated 30.04.2024, within a
+period of six weeks from the date of this judgment.
+
+e)
+In the event of default, the Appellant–Liquidator shall be at liberty
+to seek enforcement of this order before the Adjudicating Authority.
+
+f)
+No order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+New Delhi.
+August 29, 2025.
+
+Pawan

@@ -1,0 +1,687 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+[Arising out of the Impugned Order dated 14.12.2023 passed by the
+Adjudicating Authority, National Company Law Tribunal, Allahabad
+Bench, Prayagraj in C.P. (IB) No. 12/ALD/2021]
+In the matter of:
+M/s Morex Corporation Limited
+Through its Authorized Representative
+Mr. Kranthi Kumar Kare
+Having its registered office at:
+Workshop 06, II/ F, Lemmi Centre,
+No. 50, Hoi Yuen Road, Kwun Tong,
+Kowloon, Hong Kong
+Email: kranthi@yamaribbon.com
+
+...Appellant
+
+Versus
+
+Jindal Poly Films Ltd.
+Having its registered office at:
+Registered Number: - 3979,
+19th, K.M. Hapur,
+Bulandshahr Road, P.O. Gu1aothi,
+Bulandshahr, UP- 245408
+Email: csjpoly@jindalgroup.com
+
+...Respondent
+
+Present:
+
+For Appellant
+: Mr. Gaurav Kejriwal, Mr. Gaurav Choudary, Mr. A.N.
+Purushotham and Mr. A.V. Subba Raju, Advocates.
+
+For Respondent
+: Mr. Alok Dhir, Ms. Varsha Banerjee and Ms. Aishwarya
+Nabh, Advocates.
+
+J U D G M E N T
+(Hybrid Mode)
+
+Per: Barun Mitra, Member (Technical)
+The present appeal filed under Section 61 of Insolvency and Bankruptcy
+Code 2016 (‘IBC’ in short) by the Appellant arises out of the Order dated
+14.12.2023 (hereinafter referred to as ‘Impugned Order’) passed by the
+
+[PAGE 2]
+Page 2 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+Adjudicating Authority (National Company Law Tribunal, Allahabad Bench,
+Prayagraj) in C.P. (IB) No.12/ALD/2021. By the impugned order, the
+Adjudicating Authority has rejected the Section 9 application filed by the
+Appellant-M/s Morex Corporation Limited. Aggrieved by the impugned order, the
+present appeal has been preferred by the Appellant.
+2.
+Putting the facts briefly, the Appellant-M/s Morex Corporation Limited
+had entered into a business understanding with the Respondent-M/s Jindal Poly
+Films Ltd. for supply of non-woven fabric (hereinafter referred to as “contracted
+materials”) for export to a China based company. As part of this business
+arrangement, the shipping terms for the contracted material was on FOB basis
+and for this purpose, the Appellant had also booked a charter flight for the
+consignment to be shipped from India to China. The Appellant had issued a
+Purchase Order on 12.03.2020 for supply of contracted material and made an
+advance payment of Rs.1.61 crores and Rs.1.38 crores on 04.03.2020 and
+12.03.2020 to the Respondent for performing their part of the contract. The
+Respondent was required to hand over the cargo to the Forwarder as designated
+by the Appellant on or before the 23.03.2020. In the meantime, the Government
+of India had issued a notification vide No. 52/2015-2020 dated 19.03.2020
+prohibiting the export of the contracted materials due to Covid-19 and due to
+this ban notification, the Respondent purportedly could not deliver the goods.
+However, the Appellant by holding that the contracted material was not
+manufactured by the Corporate Debtor by the scheduled date of 23.20.2020 and
+the consignment was not ready for dispatch, terminated the contract on
+01.04.2020 and requested the Respondent to refund the advance amount. The
+
+[PAGE 3]
+Page 3 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+Respondent did not reply to the email of the Appellant dated 01.04.2020 and not
+having delivered the consignment or refunded the advance, the Appellant
+thereafter issued a demand notice on 15.05.2020 under Section 8 of the IBC to
+the Respondent. A Notice of dispute was sent by the Respondent on 20.05.2020.
+The Appellant thereafter filed Section 9 application seeking admission of the
+Corporate Debtor into the rigours of CIRP. The Adjudicating Authority dismissed
+the Section 9 application and aggrieved by the same, the present appeal has
+been preferred by the Appellant.
+3.
+Making his submissions, Shri Gaurav Kejriwal, Ld. Counsel for Appellant-
+Operational Creditor stated that though the Respondent-Corporate Debtor had
+received the full advance payment against the Purchase Order of 12.03.2020,
+they had failed to manufacture the goods within the scheduled time. The
+contracted materials were to be manufactured by 19.03.2020 and delivered by
+23.03.2020 but were not delivered on that date to the designated Forwarder. It
+was strenuously contended that the Adjudicating Authority had failed to
+appreciate that the Respondent in their own mail on 18.03.2020 had admitted
+delay in the production of contracted goods and that they would not be in a
+position to supply the said material by 23.03.2020. Though the Respondent had
+failed to give credible and authentic proof that the contracted goods had been
+manufactured by them on or before the agreed date, the Adjudicating Authority
+relied on certain unauthoritative documents put forth before it by the
+Respondent in their Additional Affidavit basis which Adjudicating Authority
+erroneously held that the contracted material had been manufactured on time.
+
+[PAGE 4]
+Page 4 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+4.
+Emphasis was laid by the Appellant that present was a case of FOB
+contract where time was of essence. The Respondent had clearly breached in
+complying to the terms of contract by failing to deliver the contracted materials
+on time with the Forwarder and this default led to consequential termination of
+the contract by the Appellant. Reliance was placed on the judgement of the
+Hon’ble Supreme Court in M/s Bawa Paulins Pvt. Ltd. Vs UPS Freight
+Services (India) Pvt. Ltd. (2023) 2 SCC 330 to assert that under FOB contract
+the seller’s responsibility ends with putting the goods on board without any
+further responsibility of shipping of goods. Since the Respondent’s obligation was
+only to deliver the goods to the Forwarder, the ban notification of 19.03.2020 is
+only an excuse to cover up their inability to manufacture the contracted goods
+on time. The Corporate Debtor was therefore liable to refund the amounts
+received as advance payment from the Operational Creditor. It is also contended
+that the termination of contract dated 01.04.2020 was not disputed by the
+Corporate Debtor until filing of reply to the Demand Notice on 20.05.2020. When
+the termination of contract was never opposed or challenged by the Respondent
+until receipt of the Demand Notice on 15.05.2020, the Adjudicating Authority
+committed a grave mistake in treating the termination of contract as a pre-
+existing dispute and for dismissing the Section 9 application on this ground.
+5.
+Refuting the submissions made by the Appellant, it was contended by Shri
+Alok Dhir, Ld. Advocate that the Corporate Debtor is a reputed going-concern
+which was financially healthy and solvent. The Respondent had completed the
+manufacture of contracted material and was in a ready position to supply the
+same on the scheduled date as is borne out by the communications exchanged
+
+[PAGE 5]
+Page 5 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+with the Operational Creditor. However, the ban imposed by the Government of
+India vide its notification dated 19.03.2020 on the export of the contracted
+material came in the way of dispatch and delivery. The Appellant was also aware
+of this ban acting as a roadblock and both parties were trying to find out a
+solution to overcome the hurdle of exporting these goods because of ban. The
+Corporate Debtor was even ready to deliver the goods for local sale during the
+ban. However the Appellant was unwilling to accept the delivery of the contracted
+goods. Instead, the Corporate Debtor was asked on 20.03.2020 to hold on to the
+contracted materials but soon thereafter the Appellant on his own volition
+proceeded with termination of the contract. The Corporate Debtor having fulfilled
+their contractual obligations by manufacturing goods upon receipt of the
+advance payment, the unilateral termination of the contract by the Operational
+Creditor was illegal. This was a case where the Appellant had resiled from its
+obligation to perform the contract. Hence the Corporate Debtor refused to pay
+the amount claimed by the Operational Creditor in the Demand Notice on
+account of pre-existing dispute qua the unilateral termination of the contract.
+This was a clear case of commercial dispute which dispute was raised
+categorically in the Notice of Dispute sent by them in response to demand notice
+of the Operational Creditor.
+6.
+Submission was pressed that the Section 9 petition filed by the Appellant-
+Operational Creditor is an abuse of the process of law which runs contrary to
+the objectives of the IBC as the forum of IBC and insolvency proceedings cannot
+be used to recover disputed contractual claims. The Appellant is legally entitled
+to seek remedies under appropriate law but not under IBC. Assertion was made
+
+[PAGE 6]
+Page 6 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+that the Appellant without taking recourse to remedies available to it before a
+court of competent civil jurisdiction came up before the Adjudicating Authority
+with ulterior motives and hence the Adjudicating Authority took a well-
+considered decision to dismiss the Section 9 application.
+7.
+We have duly considered the arguments advanced by the Learned Counsel
+for both the parties and perused the records carefully.
+8.
+When we peruse the impugned order, we find that the Adjudicating
+Authority in the impugned order has inter alia observed that there is a pre-
+existing dispute in the present case as envisaged under Sections 8 and Section
+9(5)(ii)(d) of the IBC which stems from the termination of the contract by the
+Operational Creditor. The Adjudicating Authority has further held that the ratio
+laid down by the Hon'ble Supreme Court in case of Mobilox Innovations Private
+Limited Versus Kirusa Software Private Limited (2018) 1 SCC 353 is
+attracted in the facts of this case and on grounds of existence of pre-existing
+dispute, dismissed the Section 9 application.
+9.
+The short point for consideration is whether the Adjudicating Authority
+was right or wrong in holding that the Section 9 deserved to be dismissed as this
+was a case of genuine pre-existing dispute arising out of the termination of the
+contract by the Operational Creditor in respect of the Purchase Order of
+12.03.2020.
+10.
+Before we return our analysis and findings, a look at the relevant statutory
+construct of IBC at this juncture would be useful. Section 8 of the IBC reads as
+follows:
+
+[PAGE 7]
+Page 7 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+“Section 8: Insolvency resolution by operational creditor.-
+(1) An operational creditor may, on the occurrence of a default, deliver a
+demand notice of unpaid operational debt or copy of an invoice demanding
+payment of the amount involved in the default to the corporate debtor in
+such form and manner as may be prescribed.
+(2) The corporate debtor shall, within a period of ten days of the receipt of
+the demand notice or copy of the invoice mentioned in sub-section (1) bring
+to the notice of the operational creditor—
+(a) existence of a dispute, if any, or record of the pendency of the suit
+or arbitration proceedings filed before the receipt of such notice or
+invoice in relation to such dispute;
+(b) the [payment]of unpaid operational debt—
+(i) by sending an attested copy of the record of electronic transfer of
+the unpaid amount from the bank account of the corporate debtor;
+or
+(ii) by sending an attested copy of record that the operational
+creditor has encashed a cheque issued by the corporate debtor.
+Explanation-For the purposes of this section, a “demand notice”
+means a notice served by an operational creditor to the corporate
+debtor demanding payment of the operational debt in respect of
+which the default has occurred.”
+
+11.
+A plain reading of Section 8 of the IBC shows that the Operational
+Creditor, on occurrence of a default by the Corporate Debtor, is required to
+deliver a Demand Notice in respect of the outstanding operational debt. Section
+8(2) lays down that the Corporate Debtor within a period of 10 days of the receipt
+of the Demand Notice would have to bring to the notice of the Operational
+Creditor, the existence of dispute, if any.
+12.
+After issue of demand notice by the Operational Creditor, if the
+Operational Creditor does not receive payment from the Corporate Debtor or any
+notice of the dispute under Section 8(2), he may file an application under Section
+9(1) of IBC which reads as follows:
+
+[PAGE 8]
+Page 8 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+“Section 9: Application for initiation of corporate insolvency resolution
+process by operational creditor.-
+(1) After the expiry of the period of ten days from the date of delivery of the
+notice or invoice demanding payment under sub-section (1) of section 8,
+if the operational creditor does not receive payment from the corporate
+debtor or notice of the dispute under sub-section (2) of section 8, the
+operational creditor may file an application before the Adjudicating
+Authority for initiating a corporate insolvency resolution process.”
+
+13.
+When we read Section 9 further, we find that Section 9(5)(ii) envisages that
+Adjudicating Authority shall reject the Section 9 application, if a notice of
+dispute has been received by the Operational Creditor or there is record of
+dispute in the Information Utility. Section 9(5)(ii) is as extracted below:
+
+“(5) The Adjudicating Authority shall, within fourteen days of the receipt of
+the application under subsection (2), by an order—
+(i).....
+(ii) reject the application and communicate such decision to the
+operational creditor and the corporate debtor, if—
+(a) the application made under sub-section (2) is incomplete;
+(b) there has been [payment] of the unpaid operational debt;
+(c) the creditor has not delivered the invoice or notice for payment
+to the corporate debtor;
+(d) notice of dispute has been received by the operational creditor
+or there is a record of dispute in the information utility; or
+(e) any disciplinary proceeding is pending against any proposed
+resolution professional:
+Provided that Adjudicating Authority, shall before rejecting
+an application under sub-clause (a) of clause (ii) give a notice
+to the applicant to rectify the defect in his application within
+seven days(i) of the date of receipt of such notice from the
+adjudicating Authority.”
+
+[PAGE 9]
+Page 9 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+14.
+From a plain reading of the above statutory provisions, it is clear that the
+existence of dispute and communication of such a dispute to the Operational
+Creditor is statutorily provided for in Section 8. It is an undisputed fact that in
+the present matter the Operational Creditor had issued a Demand Notice on
+15.05.2020 following which the Corporate Debtor had sent a Notice of Dispute
+on 20.05.2020 highlighting inter alia the dispute surrounding the “illegal and
+unilateral contract termination”. We also notice that the Corporate Debtor did
+not return the advance payment to the Operational Creditor by contending that
+the demanded amount was “not payable legally”. The Appellant thereafter filed
+the Section 9 application before the Adjudicating Authority which has been
+rejected on grounds of pre-existing dispute.
+15.
+Now that we have seen the statutory construct of the IBC which
+contemplates that Section 9 application can be rejected by the Adjudicating
+Authority if there is a pre-existing dispute, we proceed to analyse whether in the
+facts of the present case, the Adjudicating Authority had committed any infirmity
+in holding that the Section 9 application was not maintainable in view of pre-
+existing disputes.
+16.
+It is the case of the Appellant that Section 8(2)(a) of the IBC provides that
+the Corporate Debtor in the event of raising the issue of a dispute to the Demand
+Notice issued by the Operational Creditor, that dispute should be pre-existing.
+The termination of the contract dated 01.04.2020 which has been held to be a
+ground of dispute by the Adjudicating Authority does not qualify to be a pre-
+existing dispute since the contract termination was never opposed or challenged
+by the Corporate Debtor any time before 15.05.2020 on which date the Demand
+
+[PAGE 10]
+Page 10 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+Notice was served upon the Corporate Debtor. It has been contended that the
+impugned order is contrary to the decision of the Hon’ble Supreme Court in
+Mobilox judgment supra where it has been held that the dispute must be raised
+prior to the issue of demand notice and the said dispute has to be real and ought
+to be supported by documents.
+17.
+Adverting attention to the facts of the case leading to termination of the
+contract of 12.03.2020, it has been submitted by the Appellant that though
+adherence to the stringent time-lines was the bedrock of the instant FOB
+contract, the Respondent had failed in performing its obligation of dispatching
+the contracted material by the scheduled time-line of 23.03.2020. This
+incapacity to supply was clearly admitted by the Respondent in their email of
+18.03.2020 wherein they have stated that production was delayed “due to
+production issues” and that they would be able to dispatch contracted goods
+only by 24th or 25th March, 2020 which was beyond the time-line. It was also
+emphasised that subsequent emails after 23.03.2020 are a pointer to the fact
+that the Respondent had admitted that the contracted material had neither been
+manufactured by them nor was it ready for dispatch as per agreed timelines.
+Respondent had sent an email on 13.04.2020 to the Appellant proposing to
+supply the material for sale locally in India and in subsequent emails sent on
+21.07.2020 and 31.08.2020 expressing their willingness to manufacture
+alternate woven fabric product instead of supplying the original contracted
+material. All these communication show that the Respondent had breached the
+terms of the contract.
+
+[PAGE 11]
+Page 11 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+18.
+Submission was further made that parties to a contract have the right to
+cancel the contract. It was pointed out that in the present contract, timely
+performance was the underlying essence of the contract. Since advance payment
+had been made against purchase order but the contracted material was not
+ready for dispatch on the date of delivery, the contract was terminated. Hence,
+the advance payment made to the Corporate Debtor had become an outstanding
+debt. The Operational Creditor was fully entitled to recover the advance amount
+paid. The Adjudicating Authority has failed to notice the applicability of Section
+65 of the Indian Contract Act, 1872 wherein it is the obligation of a person who
+has received advantage under a void agreement to return the benefits under the
+void agreement. The Corporate Debtor was bound to refund the amount received
+as advance from the Appellant. However, as they refused to refund the advance
+payment received by them from the Operational Creditor, the latter was justified
+in filing the Section 9 application.
+19.
+Per contra, it was submitted by the Respondent that the contracted
+material had been manufactured by the Corporate Debtor on time as per
+schedule and was ready for dispatch on 23.03.2020. Thus, having manufactured
+the goods, the Corporate Debtor had already performed their part of the contract.
+However, on account of Covid-19 pandemic, Government of India had issued a
+notification dated 19.03.2020 prohibiting the export of the contracted material.
+It is on account of this notification imposing a ban that the Corporate Debtor
+was precluded from supplying the material for export. It was contended that the
+Appellant being fully aware of the ban orders and its ramifications had requested
+the Corporate Debtor to hold on to the contracted goods until further directions
+
+[PAGE 12]
+Page 12 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+from them but soon backtracked suddenly on 01.04.2020 by unilaterally
+terminating the purchase order in breach of the contractual terms.
+20.
+Submission was made that since the goods were already manufactured
+and ready for shipment, there was no ground for the Appellant to terminate the
+contract. It was contended that in the present case the Respondent had duly
+discharged their contractual obligation on the part of the Corporate Debtor, the
+termination of the contract by the Appellant was wrongful. It was only on
+account of the prevailing prohibition imposed on the export of goods by the
+Government of India that the contract had become impossible to be completed.
+Thus, this was a case of frustration of contract for which no amount was
+recoverable by the Appellant from the Corporate Debtor. It is the contention of
+the Respondent that since the dispute arises from the wrongful termination of
+contract on 01.04.2020 which pre-dated the sending of the Demand Notice on
+15.05.2020 this was a case of pre-existing dispute. The parties being already in
+dispute regarding unilateral cancellation of the purchase order, this was a case
+of pre-existing dispute for which a Section 9 application could not have been
+filed by the Operational Creditor particularly so since CIRP cannot be initiated
+to penalize a solvent company with healthy financial parameters when there is
+a pre-existing dispute between the parties. Even if the Corporate Debtor was
+responsible for the purported loss suffered by the Appellant, then at best the
+Appellant is entitled to claim damages under the provisions of Indian Contract
+Act, 1872, the quantification of which damages can be done only by an
+appropriate court of competent jurisdiction and not under IBC. Hence, the
+Adjudicating Authority had rightly dismissed the Section 9 application.
+
+[PAGE 13]
+Page 13 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+21.
+For a proper appreciation of the issue at hand, it may be useful at this
+stage to peruse the emails exchanged between the two parties on 18.03.2020
+and the WhatsApp messages exchanged on 20.03.2020 with regard to supply
+and dispatch of the contracted material while also keeping in mind that
+Government of India in the meantime had issued a ban notification on
+19.03.2020.
+22.
+We first come to the two emails of 18.03.2020 which are as extracted
+below. The first email was from the Corporate Debtor to the Operational Creditor:
+“From: M Mallyah
+Sent: 18 March 2020 19:40
+To: jathin@yamaribbon.com
+Subject: RE: Required quotation for Air charter
+Dear Jatin
+Due to production issues, we can dispatch your material 24th and 25th.”
+
+23.
+The response email from Operational Creditor to Corporate Debtor is as
+follows:
+“From: jathin@yamaribbon.com<From: jathin@yamaribbon.com >
+Sent: 18 March 2020 19:51
+To: M Mallyah <mmallyah@globalnonwovens.in>
+Dear mallyah,
+I will face a big loss if material is not dispatched on 23rd kindly stick to the
+date. I cannot afford for delayed delivery as the flight is on 27th .”
+
+24.
+A plain reading of the first email dated 18.03.2020 from Corporate Debtor
+to Operational Creditor reveals that the Corporate Debtor has admitted its
+difficulty in making good the supply by 23.03.2020. The reply email from
+Operational Creditor to Corporate Debtor makes it clear that the Operational
+Creditor was emphatic that the supply is to be completed by 23.03.2020.
+
+[PAGE 14]
+Page 14 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+25.
+When we look at the material placed on record at page 108 of Appeal Paper
+Book, we find that there is an e-mail on 19.03.2020 wherein the Corporate
+Debtor has informed the Operational Creditor regarding how the cargo would be
+packaged by them to accommodate higher volume in the carrier. At para 9.8 of
+the impugned order, reliance has been placed by the Adjudicating Authority on
+this e-mail of 19.03.2020 to hold that the contracted material had already been
+manufactured and ready for dispatch. The Operational Creditor has however
+held that this communication is only a discussion on cargo dimension and
+cannot be read to mean that cargo was ready. Hence, it was contended that it
+was erroneous for Adjudicating Authority to hold that the contracted material
+was ready basis the e-mail of 19.03.2020.
+26.
+More importantly, we find a spate of messages exchanged between the
+Corporate Debtor and Operational Creditor on 20.03.2020. The series of
+conversation which took place between the Operational Creditor and the
+Corporate Debtor over WhatsApp on 20.03.2020 regarding the production,
+delivery and dispatch of the contracted material is as extracted below. For
+convenience the messages have been serially numbered:
+1.
+Operational Creditor: Is this applicable to us...Wats our product code
+2.
+Corporate Debtor:
+Yes. Our code Is 560031100
+3.
+Operational Creditor: So now wat is the solution
+4.
+Corporate Debtor:
+Please decide your course of action and let us
+know. We can sell in local also
+5.
+Operational Creditor: Ok.. I’ll let u know in few minutes time ... So,
+in case if the order is cancelled... There will be
+refund from your end?
+6.
+Corporate Debtor:
+Unfortunately, material has been already
+produced. We are trying to lift this embargo.
+We can keep your stock in our warehouse till
+the ban is lifted and ship it for exports
+
+[PAGE 15]
+Page 15 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+7.
+Operational Creditor: Ok... No issue.. Let us proceed as discussed
+wait till Monday 23rd..we shall update you on
+further proceedings
+8.
+Corporate Debtor:
+Ok
+9.
+Operational Creditor: Yea..Keep the material ready for 23rd...
+Thankyou
+10. Corporate Debtor:
+Ok
+
+27.
+When we look at the tone and tenor of the WhatsApp messages from Sl.
+No. 1 to 4 exchanged between the two parties, it becomes clear that both the
+parties were aware of the Government of India notification banning export of
+contracted material and were mulling on how to tackle the unexpected roadblock
+which had come up on account of the said notification. We also notice that the
+Corporate Debtor has made a categorical statement at Sl. No. 6 on 20.03.2020
+that the contracted material had already been produced and that they had kept
+the stock in their warehouse to ship it for exports when the ban is lifted. The
+bonafide of the Corporate Debtor is also manifested from a statement made by
+them in the same message that they were trying to lift this embargo. It is equally
+noteworthy that the Operational Creditor in these messages did not controvert
+or raise any doubts on the claim made by the Corporate Debtor that they had
+already produced the contracted material. Instead it appears that implicitly they
+had accepted that the goods had been produced as they requested the Corporate
+Debtor to keep the material ready for dispatch on 23.03.2020 besides assuring
+to update the Corporate Debtor on the future course of action as is seen at
+messages at Sl. No. 7 and 9. Neither has any document or material put on record
+by the Appellant to show that they had offered any clarity on the cargo despatch.
+Given this backdrop of e-mails and WhatsApp messages we are therefore of the
+considered view that the reliance placed by the Adjudicating Authority on the
+
+[PAGE 16]
+Page 16 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+aforementioned communications to conclude that the Corporate Debtor had
+already produced the contracted material was not premised on wrong
+assumptions.
+28.
+We would now like to focus on the Notice of Dispute raised by the
+Corporate Debtor on 20.05.2020 in response to the Demand Notice served by
+the Operational Creditor on 15.05.2020. The relevant extracts of the said letter
+is as reproduced below:
+Sub.: Reply to Demand Notice under the provisions of Insolvency and
+Bankruptcy Code, 2016 on behalf of M/s. Morex Corporation Ltd.,
+Workshop-6, 11/F, Lemmi Centre, No.50, Hoi Yuen Road, Kwun Tong,
+Kowloon, Hong Kong.
+Dear Ms. Sonali,
+We are in receipt of your subject demand notice dated 5 May 2020 issued
+on behalf of your client M/s. Morex Corporation Ltd. Hong Kong under the
+provisions of Insolvency and Bankruptcy Code, 2016 (IBC). At the very
+outset, we deny the contents of your demand notice, being baseless and
+false and far from the facts of the matter. The present notice itself is not
+maintainable as there exists a dispute qua the illegal and unilateral
+contract termination request dated 01.04.2020, which is not acceptable to
+us.
+We deny the demanded amounts including the interest and other charges
+etc. as mentioned in your demand notice being not payable legally or
+otherwise. The alleged claim amount cannot be treated as a Default in
+terms of the provisions of IBC, as we are still ready to deliver the goods to
+your client against which the advance money is received, subject to lifting
+of the prohibition as imposed vide notification dated 19.03.2020 by
+Government of India due to COVID-19. The facts regarding the present
+contract with your client are elaborated hereunder-
+.......
+2. After receipt of the advance from your client, as agreed, we started
+manufacturing the ordered quantity of goods to be supplied to your client
+as per the terms of Proforma Invoice dated 09.03.2020. The said goods
+which were manufactured by us are currently lying at our warehouse.
+However, before the said goods could be shipped, the Government of India
+
+[PAGE 17]
+Page 17 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+vide its notification dated 19 March 2020, prohibited the export of such
+goods due to COVID-19 pandemic.
+.......
+6. Under the present notice, on the one hand your client alleges that they
+have already terminated the contract vide their email dated 01.04.2020
+and on the other hand they were following up for the material till
+14.05.2020, which is evident from the regular exchange of messages on
+WhatsApp from Mr. Jathin S. Amin, the presentative of M/s Yama Ribbons
+and Bows India Pvt. Ltd. with our representatives wherein he is rigorously
+asking about lifting of ban by Government of India so that the goods can
+be dispatched to your client. In any case, one sided correspondence on
+closure of contract by one party cannot be treated as termination until and
+unless it is accepted by the other party in terms of the contract. Hence, your
+client cannot claim that the contract stands terminated. Even a bare
+perusal of the contents of said email dated 01.04.2020, it doesn't qualify
+for termination of the contract. Despite the above, if your client still claims
+that they have terminated the contract, in such case it would be treated as
+an illegal termination and we object to such termination.
+7. It may further be pertinent to point that as all the said goods have
+already been manufactured timely as per the specifications provided by
+your client, no cause of action arises for your client to issue such demand
+notice or initiate any proceedings against us in any manner. On the
+contrary, refusal by your client to take delivery of the goods once the ban
+is lifted or unilaterally terminating the contract shall itself amounts to
+dispute between the parties. Hence, even otherwise, if such dispute
+persists between the parties, the provisions of IBC cannot be invoked as
+there exists a dispute between the parties.
+....
+Mr. Mallyah Marimuthu
+For Jindal Poly Flims
+(Emphasis supplied)
+
+29.
+It is an undisputed fact that the Reply to Demand Notice was served upon
+the Operational Creditor. When we look at the Notice of Dispute, we find that
+the Corporate Debtor has categorically denied its liability to pay the demanded
+amount including interest. The alleged default has also been denied by them and
+assertion made that the contracted goods had already been manufactured and
+
+[PAGE 18]
+Page 18 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+kept in the warehouse ready for delivery subject to the lifting of the imposition
+of ban by the Government of India. The Reply Notice also categorically mentions
+that the closure of contract by the Operational Creditor cannot be treated as
+termination of the contract as it is a unilateral decision without notice or
+discussion between the parties. In the absence of this closure of contract being
+accepted by the Corporate Debtor, it was clearly spelt out in the Notice of Dispute
+that the unilateral termination of contract is illegal and tantamount to a dispute
+between the parties.
+30.
+Coming to the ratio contained in the Bawa Paulins judgment supra,
+which has been relied upon by the Appellant, we have no quarrel with the
+principle laid down that under the FOB contract, the seller is not under any duty
+to make advance arrangements for shipping the goods beyond placing the goods
+on board the carrier. However the facts and contextual situation of the present
+case is clearly distinguishable as in this case a supervening impossibility had
+been triggered by a ban on exports by virtue of a valid notification issued by the
+Government of India and in the wake of the ban, even placement of goods on
+board the carrier for shipment would have entailed the possibility of risk of
+violating the ban. We are therefore not impressed by the argument canvassed by
+the Appellant of the applicability of the above judgment in the facts of the present
+case.
+31.
+We are satisfied with the finding returned by the Adjudicating Authority
+that the Corporate Debtor has raised genuine pre-existing dispute of illegal
+termination of the contract in the Reply Notice to the Demand Notice. It is well
+settled that in a Section 9 matter, the Adjudicating Authority is only to take
+
+[PAGE 19]
+Page 19 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+notice that a dispute was in existence prior to issue of Section 8 Demand Notice
+but is not required to enter into final adjudication with regard to existence of
+dispute. All that is required to be seen is whether the defence taken by the
+Corporate Debtor raises a dispute which needs further adjudication by the
+competent court and that the defence taken is not orchestrated or a moonshine
+defence unsupported by evidence. Given the background of communications
+exchanged between the Corporate Debtor and the Operational Creditor which
+have been referred to in details in the preceding paragraphs coupled with the
+ban notification issued by the Government of India, we are of the considered
+view that the Adjudicating Authority has not committed any error in holding the
+contract termination to be a pre-existing dispute which contractual dispute
+figures prominently in the Notice of Dispute issued by the Corporate Debtor.
+Keeping in view that the time span being only about 45 days from the date of
+cancellation of the contract on 01.04.2020 to the issue of Demand Notice on
+15.05.2020, we are of the view that raising the ground of cancellation of contract
+as a pre-existing dispute in the Notice of Dispute of 20.05.2020 suffices for the
+purpose of Section 9(5)(ii)(d) of IBC. The Adjudicating Authority did not commit
+any error in taking cognisance of the termination of the contract as ground of
+pre-existing dispute. The reliance placed on the principles of Mobilox judgment
+supra by the Adjudicating Authority is therefore found to be in order.
+32.
+IBC is a remedy of last resort intended for resolution of genuine insolvency
+and not for recovery proceedings. The present is not a case where there is any
+insolvency resolution of the Corporate Debtor. We are thus of the view that the
+Adjudicating Authority has rightly rejected the Section 9 application filed by the
+
+[PAGE 20]
+Page 20 of 20
+Company Appeal (AT) (Insolvency) No. 768 of 2024
+
+Appellant which warrants no interference in this Appeal. The Appeal being
+devoid of merit is dismissed. We also observe that in the event the Appellant
+seeks remedy before the appropriate forum, it shall be open for the Appellant to
+raise all pleas as permissible in law. No order as to costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+
+Place: New Delhi
+Date: 24.07.2025
+
+Harleen/Abdul

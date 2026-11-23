@@ -1,0 +1,2178 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins) No. 916 of 2023 & I.A. No. 1662 of 2024
+
+(Arising out of the Order dated 15.05.2023 passed by the National Company
+Law Tribunal, Mumbai Bench, Court-II in IA/3525/2022 in CP (IB)
+934/MB/2020.)
+
+IN THE MATTER OF:
+
+Present
+For Appellants:
+Mr. Anuj Solanki & Mr. Rohit Gaur, Advocates.
+
+For Respondents:
+
+Mr. Mohammed Zain Khan for Intervenor/SRA.
+
+Mr. Anuj P. Agarwala, for CoC.
+
+Mr. Amit Sangal Proprietor of M/s. Nitin Plastic
+Head/ Registered Office : First Floor, Rana Marke,
+Meerut Road, Muzaffar Nagar- 251003
+(Uttar Pradesh)
+E-mail: nitinplastics@gmail.com
+
+...Appellant
+Versus
+
+1.
+Mr. Kairav Anil Trivedi
+IRP of M/s. Prince MFG Industries Private Limited
+(IBBI Registration No. :IBBI/ IPA-002/ IP-N00728/
+2018-2019/12332)
+Address: 413-414, Sharamjeevan B5, Opp. Lodha,
+New Cuffee Parade, Wadala (E),
+Mumbai – 400037 (Maharashtra)
+E-mail : kairavtrivedi2002@yahoo.com
+
+2.
+Canara Bank Ltd.
+Member of Committee of Creditors of M/s. Prince
+MFG Industries Private Limited
+Office Address: Ground Floor, Mittal Tower, “C”
+Wing,
+Nariman
+Point,
+Mumbai
+–
+400021
+(Maharashtra)
+E-mail: cb2360@canarabank.com
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 2 of 97
+Mr. Prakash Shinde, Ms. Ruchita Jain, Advocates
+for CoC.
+
+Mr. Gaurav Mitra, Mr. Ishan Roy Chowdhury,
+Advocates for RP.
+
+With
+
+Company Appeal (AT) (Ins) No. 792 of 2023
+& I.A No. 2680, 4184, 5214 of 2023, 2203, 2573 of 2024
+
+(Arising out of the Order dated 15.05.2023 passed by the National Company
+Law Tribunal, Mumbai Bench, Court-II in IA/2977/2022 in CP (IB)
+934/MB/2020.)
+
+IN THE MATTER OF:
+
+Mr. Amit Sangal Proprietor of M/s. Nitin Plastic
+Head/ Registered Office : First Floor, Rana Marke,
+Meerut Road, Muzaffar Nagar- 251003
+(Uttar Pradesh)
+E-mail: nitinplastics@gmail.com
+
+...Appellant
+Versus
+
+1.
+Mr. Kairav Anil Trivedi
+Resolution Professional of M/s. Prince MFG
+Industries Private Limited
+(IBBI Registration No. :IBBI/ IPA-002/ IP-N00728/
+2018-2019/12332)
+Address: 413-414, Sharamjeevan B5, Opp. Lodha,
+New Cuffee Parade, Wadala (E),
+Mumbai – 400037 (Maharashtra)
+E-mail : kairavtrivedi2002@yahoo.com
+
+2.
+M/s Prince MFG Industries Private Limited
+Through Resolution Professional
+Registered Address: A-101, 1st Floor, Sunshine plaza
+Naigaum Cross Road, Dadar (East)
+Mumbai – 400014 (Maharashtra)
+E-mail : kadam@princeswr.com;
+kairavtrivedi2002@yahoo.com
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 3 of 97
+
+Present
+For Appellants:
+Mr. Anuj Solanki & Mr. Rohit Gaur, Advocates.
+
+For Respondents:
+Mr. Mohammed Zain Khan for Intervenor/SRA.
+
+Mr. Krishnendu Datta, Sr. Advocate, Mr. Anuj P.
+Agarwala, Mr. Akhil Nene, for CoC.
+
+Mr. Prakash Shinde, Ms. Ruchita Jain, Advocates
+for CoC.
+
+Mr. Gaurav Mitra & Mr. Ishan Roy Chowdhury,
+Advocates for RP.
+With
+
+Company Appeal (AT) (Ins) No. 1034 of 2024
+
+(Arising out of the Order dated 28.03.2024 passed by the National Company
+Law Tribunal, Mumbai Bench, Court-II in Company Petition No. 04/2023 in
+CP (IB) 934/MB/2020.)
+
+3.
+Committee of Creditors (CoC)
+Which comprises of :
+
+(a) Canara Bank
+Ground Floor, Mittal Tower, “C” Wing,
+Nariman Point,
+Mumbai – 400021 (Maharashtra)
+E-mail: cb2360@canarabank.com
+
+(b) Axis Bank
+7th
+Floor,
+Axis
+House,
+C-2,
+Wadia
+International Centre, P.B Marg, Worli,
+Mumbai – 400025 (Maharashtra)
+
+(c) ICICI Bank
+ICICI Bank Tower, Bandra-Kurla Complex,
+Mumbai- 400051
+E-mail: rupam.gupta@icicibank.com;
+Saurabh.periwal@icicibank.com;
+Kamleshkumar.chaudhary@icicibank.com
+
+...Respondent No. 3
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 4 of 97
+
+IN THE MATTER OF:
+
+Present
+For Appellants:
+Mr. Anuj Solanki & Mr. Rohit Gaur, Advocates.
+
+For Respondents:
+
+Mr. Gaurav Mitra & Mr. Ishan Roy Chowdhury,
+Advocates for RP.
+J U D G E M E N T
+(20.02.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1. The first two appeals have been filed under Section 61(1) of the Insolvency
+and Bankruptcy Code, 2016 (‘Code’) by the Appellant i.e., Mr. Amit Sangal,
+Proprietor of M/s. Nitin Plastic (the Operational Creditor of the Corporate Debtor
+herein), against the Impugned Order dated 15.05.2023 passed by the National
+Company Law Tribunal, Mumbai Bench (II) (‘Adjudicating Authority’) in
+IA/3525/2022 and IA/2977/2022 in Company Petition No. (IB) 934(MB)/2020).
+Mr. Amit Sangal Proprietor of M/s. Nitin Plastic
+Head/ Registered Office : First Floor, Rana Marke,
+Meerut Road, Muzaffar Nagar- 251003
+(Uttar Pradesh)
+E-mail: nitinplastics@gmail.com
+
+...Appellant
+Versus
+
+Mr. Kairav Anil Trivedi
+Resolution Professional/Insolvency Professional
+(IBBI Registration No. :IBBI/ IPA-002/ IP-N00728/
+2018-2019/12332)
+Address: 413-414, Sharamjeevan B5, Opp. Lodha,
+New Cuffee Parade, Wadala (E),
+Mumbai – 400037 (Maharashtra)
+E-mail : kairavtrivedi2002@yahoo.com
+
+...Respondent No. 1
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 5 of 97
+2. The first appeal has been filed U/S 61(1) of the Code by the Appellant i.e.,
+Mr. Amit Sangal, Proprietor of M/s. Nitin Plastic, the Operational Creditor of the
+Corporate Debtor herein, under section 425 of the Companies Act, 2013 and
+Section 60(5) of the Code r/w Section 10 and Section 12 of the Contempt of Court
+Act, 1971, read with Rules 11 and 34 of the National Company Law Tribunal
+Rules, 2016, against the Impugned Order 28.03.2024 passed by the National
+Company Law Tribunal, Mumbai Bench (II) (‘Adjudicating Authority’) in
+Contempt Petition No. 04/2023 in Company Petition No. (IB) 934(MB)/2020).
+3. Mr. Kairav Anil Trivedi, who is the Interim Resolution Professional (IRP) of
+M/s. Prince MFG Industries Private Limited (‘Corporate Debtor’) is the
+Respondent No. 1 in all the three appeals.
+
+Canara Bank who is the one of the Members of CoC of the Corporate Debtor,
+is the Respondent No. 2 in Company Appeal (AT) (Ins.) No. 916 of 2023 and
+Respondent No. 3(a) in Company Appeal (AT) (Ins.) No. 792 of 2023 .
+
+The Committee of Creditors (‘CoC’) in Company Appeal (AT) (Ins.) No. 792
+of 2023 have been bifurcated into three parts constituting Canara Bank holding
+67.36% voting rights as Respondent No. 3(a), Axis Bank Limited holding 18.72%
+voting rights as Respondent No. 3(b) and ICICI Bank, 13.92% voting rights as
+Respondent No. 3(c), and together they constitute as the Respondent No. 3 herein.
+
+M/s. Prince MFG Industries Private Limited (‘Corporate Debtor’), through
+its Resolution Professional, is the Respondent No. 2 in Company Appeal (AT)
+(Ins.) No. 792 of 2023.
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 6 of 97
+4. The Appellant, the Operational Creditor of the Corporate Debtor filed an
+application being CP (IB) No.934/MB/2020 under Section 9 of the Code for
+initiating Corporate Insolvency Resolution Process (CIRP) against the Corporate
+Debtor, which was admitted by the Adjudicating Authority and CIRP was
+initiated vide Impugned Order dated 05.10.2021.
+5. The Appellant submitted that Respondent No. 1, who is the Interim
+Resolution Professional was not appointed as the Resolution Professional (RP)
+during the first meeting of the CoC held on 10.11.2021. The Appellant Submitted
+that it is evident from item No. 15 of the said meeting agenda, which proposed
+the confirmation of Respondent No. 1 as Resolution Professional, was rejected by
+the members of CoC through a voting process. It is further submitted that this is
+clearly evidenced by the email dated 19.11.2021, from Right2Vote Infotech
+Private Limited, the online voting platform, wherein it was stated that the voting
+result for Item No. 15 was recorded as "dissent." It is the case of the Appellant
+that despite this, Respondent No. 1 manipulated the voting outcome by tampering
+with the results and intentionally filed false and fabricated documents, thereby
+wrongly claiming his appointment as the Resolution Professional of the Corporate
+Debtor. Furthermore, the Respondent No.1 deliberately withheld correct facts and
+misrepresented the outcome to the Adjudicating Authority through false
+submissions and affidavits, thereby committing perjury for his personal gain and
+for providing unlawful benefits to the Suspended Board of Directors (‘SBOD’).
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 7 of 97
+6. The Appellant contended that Canara Bank, a member of the CoC,
+Respondent No. 2 in Company Appeal (AT) (Ins.) No. 916 of 2023 and
+Respondent No 3(a) in Company Appeal (AT) (Ins.) No. 792 of 2023 filed an
+application (I.A. No. 247/2022) on 02.02.2022, under Section 27 of the Code,
+seeking the replacement of Respondent No. 1 as the Interim Resolution
+Professional highlighting misconduct of Respondent No. 1. An additional
+affidavit by Respondent No. 2 in Company Appeal (AT) (Ins.) No. 916 of 2023
+and Respondent No 3(a) in Company Appeal (AT) (Ins.) No. 792 of 2023,
+presented evidence of Respondent No. 1’s false submissions, manipulation of
+voting results, and violations of the Code’s provisions, rules, and regulations. The
+Appellant submitted that these actions reflect fraudulent intent of the Respondent
+No. 1 to mislead the CoC, the Adjudicating Authority, creditors, stakeholders,
+and the Insolvency and Bankruptcy Board of India (IBBI). The Appellant
+submitted that Respondent No. 1 deliberately concealed the results of the e-
+voting, misrepresented himself as being appointed as the Resolution Professional,
+and committed serious irregularities during the CIRP in collusion with the SBOD
+to undermine the integrity of the Code’s framework and violated the rules and
+procedures of the Adjudicating Authority which amounted to grave misconduct
+and fraud.
+7. The Appellant submitted that Respondent No. 1 executed a Memorandum of
+Understanding (‘MoU’) dated 10.11.2021 in collusion with SBOD and handed
+over possession of the factory, including movable assets, inventories, plant and
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 8 of 97
+machinery, moulds, etc., at Haridwar to M/s. Sarvashree Industries Private
+Limited (SIPL), with retrospective effect, i.e. from 05.10.2021. The Appellant
+highlighted that this occurred on the same date that the application under Section
+9 of the Code was admitted, at a time when the Interim Resolution Professional
+had neither received the order nor made a public announcement. This action was
+carried out without the prior consent and approval of the CoC, which constitutes
+a violation of Section 28 of the Code. The Appellant elaborated that under Section
+28 of the Code, the Interim Resolution Professional is required to seek the prior
+approval and consent of the CoC before transferring any assets of the Corporate
+Debtor during the CIRP. The Appellant asserted that the transfer of assets to SIPL,
+carried out without the necessary approval of the CoC is contrary to the interests
+of all creditors and stakeholders of the Corporate Debtor. The Appellant also
+contended that Respondent No. 1 acted beyond the duties assigned to the Interim
+Resolution Professional under Section 18 of the Code during the CIRP, violating
+the provisions of Section 18 of the Code and committed material irregularity in
+exercise of power is arbitrary and illegal.
+8. The Appellant submitted that on 30.12.2021, Respondent No. 1 presented a
+draft MoU during the second meeting of the CoC for approval, however, it is
+brought out by the Appellant that this MoU had already been executed on
+10.11.2021 with retrospective effect from 05.10.2021, which was done without
+the prior consent or approval of the CoC. The appellant contended that this action
+was taken to mislead the CoC and the Adjudicating Authority.
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 9 of 97
+9. The Appellant highlighted that the Respondent No. 1 violated several
+provisions of the CIRP Regulations. The Appellant cited some of these violations
+as enumerated below: -
+(a)
+Violation of Regulation 19: The appellant
+submitted that the first CoC meeting was called with only a
+2-day notice dated 08.11.2021, whereas the regulations
+mandate a minimum of 5 days' prior notice for convening a
+CoC meeting.
+(b)
+Violation of Regulation 26: The Respondent No. 1
+as the Interim Resolution Professional failed to submit the
+record of the first CoC meeting and did not conduct the
+second CoC meeting for 50 days. Even during the second
+CoC meeting on 30.12.2021, the Interim Resolution
+Professional made false and misleading statements
+regarding the agenda. Specifically, item No. 7 in the minutes
+of the second CoC meeting was fraudulently included to
+mislead the CoC. The agenda mentioned the review of efforts
+made by the Respondent No. 1 for entering into a third-party
+MOU and the possibility of continuing plant operations at
+Haridwar during the CIRP where the said MoU mentioned
+was already executed on 10.11.2021 with retrospective effect
+dated 05.10.2021, without the consent of the CoC.
+(c)
+Violation of Regulation 35A: The Interim
+Resolution Professional/alleged Resolution Professional
+failed to take any steps or furnish reports regarding
+preferential or fraudulent transactions, despite stating that
+the Corporate Debtor had borrowed a huge loan and that
+there was no balance in the bank accounts or any
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 10 of 97
+stock/inventory available at the factory in Haridwar. The
+Appellant accused that the Respondent No. 1 did not
+investigate how the funds were allocated by the SBOD or
+whether any preferential or fraudulent transactions
+occurred, which clearly indicates that the Respondent No. 1
+was colluding with the SBOD for ulterior motives.
+(d)
+Violation of Regulation 36: The Respondent No. 1
+failed to provide the Information Memorandum to the CoC
+within the required time frame, resulting in a delay of 94
+days.
+10.
+The Appellant also submitted that the Respondent No.1 has violated the
+Code of Conduct for Insolvency Professionals, as outlined in the First Schedule
+of Regulation 7(2)(h) of the IBBI (Insolvency Professional) Regulations, 2016,
+read with Sections 207 and 208 of the Code, which further established the
+improper conduct and collusion of the Respondent No. 1 in the handling of the
+CIRP.
+11.
+The Appellant submitted that Respondent No.1, was never formally
+appointed as the Resolution Professional in the first meeting of the CoC under
+Section 22 of the Code, nor in any subsequent CoC meetings under Section 27.
+Despite this, the Respondent No. 1 falsely represented himself as the Resolution
+Professional in the MoU and the minutes of the first CoC meeting. The Appellant
+alleged that Respondent No.1 committed fraud and misrepresentation before the
+Adjudicating Authority to obtain orders, and such orders are void ab initio as per
+established legal principles.
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 11 of 97
+12.
+The Appellant assailed that Respondent No. 1 had committed the offence
+of perjury by intentionally and willfully filing false documents and submissions,
+along with an affidavit, before Adjudicating Authority, including false or
+tampered minutes of the first CoC meeting. As a result, Respondent No. 1 is liable
+for proceedings under Section 195 read with Section 340 of the Code of Criminal
+Procedure, 1973 (‘CrPC’). The appellant further asserted that Respondent No.
+1's actions constitute a serious violation of legal and procedural integrity, and
+should be dealt with accordingly under criminal law.
+13.
+The Appellant contended that the CoC filed an application IA 247 of 2022
+for the replacement of the Resolution Professional under Section 27 of the Code.
+The Respondent No. 1 submitted that under the provisions of the Code, there is
+no requirement to make the Resolution Professional a party in the application for
+replacement, as it is within the commercial discretion of the CoC to replace the
+Resolution Professional without providing any reasons. However, in this case,
+Respondent No. 1, with malafide intention, interfered and objected to his
+replacement, arbitrarily attempting to retain and usurp the position of Resolution
+Professional for the Corporate Debtor. The Appellant highlighted that
+Respondent No. 1 had failed to specifically deny any of the allegations made by
+the CoC in their additional affidavit filed in I.A. No. 247 of 2022.
+14.
+The Appellant submitted that, as per item No. 13 of the Minutes of the 6th
+CoC Meeting, the CoC informed Respondent No. 1 about the fraud committed by
+the SBOD during the management of the Corporate Debtor before the initiation
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 12 of 97
+of the CIRP. The Appellant stated that Canara Bank, member of the CoC holding
+67.36% voting rights of CoC, shared the Forensic Audit Report dated 10.05.2021,
+with Respondent No. 1, and based on this report, further actions were initiated
+against the Corporate Debtor and its promoters, including an intimation to the
+CBI. The Appellant further submitted that the Canara Bank, has classified the
+account of Corporate Debtor as "fraud" and was in the process of declaring the
+promoters and Corporate Debtor as willful defaulters, in line with RBI guidelines.
+Axis and ICICI Banks also classified the account as fraud.
+15.
+The Appellant contended that despite having full knowledge of these facts
+and documents, Respondent No. 1 failed to conduct any forensic or transaction
+audit after the initiation of the CIRP against the Corporate Debtor. Additionally,
+Respondent No. 1 did not file any application under Section 66 of the Code for
+fraudulent trading or wrongful trading, which is a mandatory course of action in
+light of the fraud identified by the CoC and the banks.
+16.
+The Appellant submitted that on 13.10.2022, Respondent No. 1 filed an
+IA - 2977 of 2022 seeking approval for the Resolution Plan. The Appellant
+asserted that the Resolution Plan was presented by Respondent No. 1 to conceal
+the misdeeds, fraud, material irregularities, and violations of the provisions, rules,
+and regulations of the Code committed by him during his tenure as Interim
+Resolution Professional/alleged Resolution Professional for the Corporate
+Debtor.
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 13 of 97
+17.
+The Appellant submitted that the Adjudicating Authority, without
+considering the documents and applications filed by the Appellant regarding the
+material irregularities, fraud, and violations of the Code and other laws committed
+by Respondent No. 1 in collusion with the SBOD, allowed IA No. 2977 of 2022
+and approved the Resolution Plan on 15/05/2023 and further the Adjudicating
+Authority dismissed the Appellant's application (IA No. 3525 of 2022) on the
+same date, without reviewing the facts and documents provided by the Appellant.
+18.
+The Appellant submitted that a complaint was filed by the Appellant
+against Respondent No. 1 for misconduct before the IBBI, which was registered
+on 03.10.2022 and disciplinary action was taken against Respondent No. 1,
+finding him guilty of material irregularities and violations of the Code during his
+tenure as Interim Resolution Professional and suspended the Respondent No. 1
+for six months vide its order dated 23.05.2023 (IBBI/DC/173/2023).
+19.
+The Appellant submitted that the Corporate Debtor transferred its assets
+and inventories to M/s. SIPL, which was managed by the SBOD. This was done
+to defraud creditors and suppliers, as shown by the matching GST registration
+address. The Appellant stated that the Respondent No. 1 approved these asset
+transfers without the CoC’s consent, violating the principles of the Code that aim
+to maximize value and protect stakeholders. The Appellant argued that allowing
+such actions of the Respondent No. 1 would set a harmful precedent, encouraging
+future insolvency professionals to bypass the Code for personal gain in collusion
+with ex-management. The Appellant further asserted that permitting these
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 14 of 97
+unlawful acts will set a dangerous precedent for future Corporate Insolvency
+Resolution Processes. It will encourage insolvency professionals to act in
+collusion with the ex-management of the Corporate Debtor for personal gain,
+undermining the integrity of the Code and enabling violations of the Code for
+selfish motives.
+20.
+The Appellant urged this Appellate Tribunal to dismiss the Impugned
+Order dated 15.05.2023 and allow the Appeal Nos. 916 of 2023 and 792 of 2023.
+21.
+As regards, the third appeal no. Comp. App. (AT) (Ins) No. 1034 of 2024
+which is a Contempt Petition arising out of Impugned Order dated 28.03.2024 in
+Contempt Petition No. 4 of 2023 in CP (IB) No.934/MB/2020, the Appellant
+submitted that basic facts remain same as enumerated by him in Appeal Nos. 916
+of 2023 and 792 of 2023.
+22.
+The Appellant submitted that on 08.03.2023, the Appellant filed a
+Contempt Petition (Contempt Petition No. 4 of 2023) before the Adjudicating
+Authority against the Respondent No. 1, prompting the Adjudicating Authority to
+issue a notice to the Respondent No. 1.
+23.
+The Appellant contended that the Respondent filed a vague and evasive
+reply to the contempt petition, failing to specifically deny the allegations made
+against him. The Appellant further submitted that the Adjudicating Authority, in
+passing the Impugned order dated 15.05.2023, approving the Resolution Plan in
+IA 2977 of 2022 in C.P. (IB)/934/2020, did not properly consider the documents,
+facts, submissions, and objections filed by the Appellant. These objections
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 15 of 97
+highlighted material irregularities, fraud, violations of the provisions, rules, and
+regulations of the Code, and other relevant laws committed by the Respondent in
+collusion with the SBOD.
+24.
+The Appellant submitted that he filed Company Appeal No. 792/2023
+under Section 61(3) of the Code before this Appellate Tribunal, challenging the
+approval of the Resolution Plan and this Appellate Tribunal issued a notice to all
+Respondents on 21.06.2023, which was duly accepted by the Respondent No. 1.
+The Appellant contended that despite the notice of this Appellate Tribunal,
+Respondent No. 1 fraudulently and with dishonest intent proceeded to implement
+the Resolution Plan during the pendency of the Appeal. The Appellant highlighted
+that, as per the Terms of the Resolution Plan, once an appeal has been filed against
+the order approving the Resolution Plan (IA 2977 of 2022 in C.P. (IB)/934/2020),
+the Plan could not be implemented, a fact that was known to the Respondent
+No. 1.
+25.
+The Appellant submitted that the CoC, in its reply filed before the
+Appellate Tribunal in Appeal No. 792 of 2023, has admitted that the management
+of the Corporate Debtor was handed over to the SRA and acknowledged that the
+Resolution Plan was implemented on 30.06.2023, just days after the Appellate
+Tribunal issued a notice in Appeal No. 792 of 2023, which challenges the
+approval of the Resolution Plan under Section 61(3) of the Code.
+26.
+The Appellant submitted that on 11.01.2024, written submissions were
+filed in Contempt Petition No. 04 of 2023 before the Adjudicating Authority and
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 16 of 97
+obtained favorable order from the Adjudicating Authority by concealing material
+information and facts, thereby committing fraud to secure an order. The Appellant
+further contended that the order obtained by the Respondent should be declared
+void ab-initio.
+27.
+The Appellant submitted that the Respondent is liable to be prosecuted for
+Contempt of Court under Section 425 of the Companies Act, 2013, read with
+Sections 10 and 12 of the Contempt of Court Act, 1971, as well as Rule 11 and
+34 of the NCLT Rules, 2016. To buttress his point, he relied on the judgements
+of Hon'ble Supreme Court of India in case of Suo-Motu Contempt Petition (Civil)
+No. 3 of 2021 In Re: Perry Kansagra, A.V. Papayya Sastry and Ors. Vs.
+Government of A.P. and Ors. [(2007) 4 SCC 22l] and Dhananjay Sharma v.
+State of Haryana [(1995) 3 SCC 757], Chandra Shashi v. Anil Kumar Sharma
+[(1995) 1 SCC 421] and in ABCD v. Union of India [(2020) 2 SCC 52]. The
+Appellant stated that these judgements support his case.
+28.
+The Appellant contended that the Adjudicating Authority dismissed his
+Contempt Petition No. 4 of 2023 in C.P. (IB)/934/2020 without considering the
+documents submitted by the Appellant, on the ground that there was no evidence,
+whereas all relevant documents and evidence regarding false submissions and
+fraudulent actions by the Respondent were on record, including the IBBI's Order
+No. IBBI/DC/173/2023 dated 23.05.2023, which was filed before the
+Adjudicating Authority on 12.06.2023.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 17 of 97
+29.
+Concluding his arguments, the Appellant urged this Appellate Tribunal to
+dismiss the Impugned Order dated 28.03.2024 and allow his appeal.
+30.
+Per contra, the Respondent No. 1 denied all the averments made by the
+Appellant in the all three appeals.
+31.
+The Respondent No. 1 stated that the Appellant had no locus standi to
+raise objections in the ongoing CIRP. The Respondent No. 1 stated that post CIRP
+order, the Operational Creditor has no longer any role in the process and lacks
+locus standi to challenge the proceedings. The Respondent No. 1 alleged that the
+Appellant fraudulently obtained confidential documents, such as the minutes of
+CoC meetings and the Contract Manufacturing MoU, which were not part of the
+CoC, and has misused these documents to misrepresent facts. The Respondent
+No. 1 submitted that the Appellant had been filing multiple applications before
+the Adjudicating Authority, the IBBI, using these fraudulently obtained
+documents, even after the CoC approved the Resolution Plan. The Respondent
+No. 1 stated that the CoC has already resolved to retain the existing Resolution
+Professional and the application for the replacement of the Resolution
+Professional (IA/247/2022) was withdrawn long before the Appellant’s
+application in IA No. 3525 of 2022.
+32.
+The Respondent No. 1 submitted that the Appellant's claim was fully
+accepted, and payment was made as per the approved Resolution Plan, which was
+implemented on 30.06.2023. The Appellant submitted that the CIRP had been
+completed in accordance with the timelines specified in FORM G, despite the
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 18 of 97
+challenges posed by the COVID-19 pandemic. The Appellant stated that 12 CoC
+meetings were held, and the Resolution Plan was approved by 100% of the CoC,
+after multiple rounds of negotiations. A forensic audit was conducted with CoC
+approval, and IA 993 of 2023 had been filed with Adjudicating Authority.
+33.
+The Respondent No. 1 contended that the legal implementation of the
+Resolution Plan remains unaffected by the CIRP followed in the First CoC
+meeting, and therefore, it cannot be grounds for rejecting the Resolution Plan
+under Section 30(2)(e) of the Code. The Respondent No. 1 asserted that the
+Appellant is misusing the CIRP as a recovery tool rather than aiming for the
+revival of the Corporate Debtor, filing multiple applications and complaints based
+on fraudulent documents.
+34.
+The Respondent No. 1 submitted that filing an appeal is not an automatic
+right, but is only available to an aggrieved party on valid grounds of fact or law
+and the Appellant has no role in the CIRP, nor is he a member of the CoC. The
+Respondent No. 1 stated that the Appellant cannot be considered as an aggrieved
+person regarding the appointment or replacement of the Resolution Professional
+under Section 27 of the Code, and the Appellant has no entitlement to access
+confidential CoC documents, including the minutes of meetings or the MoU.
+Furthermore, the Appellants was not involved in the proceedings of IA 247 of
+2022, which had been withdrawn long before the filing of his IA 3525 of 2022.
+35.
+The Respondent No. 1 submitted that the Appellant has consistently
+misused the CIRP for recovery purposes rather than facilitating the resolution of
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 19 of 97
+the Corporate Debtor. Prior to the initiation of the CIRP, the Corporate Debtor
+had proposed a settlement to the Appellant, offering an upfront payment of
+Rs. 25 lakhs along with post-dated cheques (PDCs) of Rs. 1 crore for full
+repayment of the outstanding debt. Although the Appellant accepted the Rs. 25
+lakhs, he refused to withdraw the case and insisted that the CIRP should proceed,
+despite the debt being acknowledged. Furthermore, the Appellant neither returned
+the Rs. 25 lakhs nor the PDCs as per the settlement terms, and instead filed section
+138 of NI Act cases against the Corporate Debtor and its directors, alleging non-
+honoring of the PDCs, even though the settlement had failed.
+36.
+The Respondent No. 1 contended that during the CIRP, the Appellant
+attempted to put pressure on the Respondent No. 1 for acting according to the
+Appellant’s demands and sought various favors, including the filing of Section
+19(2) applications, police complaints, and fraud applications, all of which were
+aimed at harassing the SBOD. The Respondent No. 1 stated that he refused to
+comply with these requests, maintaining that the primary objective of the Code is
+the revival of the Corporate Debtor, not recovery.
+37.
+The Respondent No. 1 submitted that the Appellant, through his lawyer
+Mr. Anuj Solanki, has made repeated misrepresentations in the past six months,
+with the same request in all applications—namely, to stay, delay, or reject the
+approval of the Resolution Plan. In the first instance, the Appellant objected to
+the Resolution Plan at the hearing on 17.10.2022, but was informed by the
+Adjudicating Authority that he was not a party and could not raise objections
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 20 of 97
+without filing a separate IA. In the second instance, the Appellant filed IA 3525
+of 2022 under Section 60(5) of the Code, falsely claiming that the Resolution
+Professional was improperly appointed and raising personal allegations against
+the Resolution Professional, thereby seeking rejection of the Resolution Plan. The
+third misrepresentation involved the Appellant filing IA 726 of 2023 under
+Section 47 of the Code, where he again misrepresented the existence of
+undervalued transactions without providing any supporting data, despite the
+Resolution Plan already filing a fraud application being heard in IA 993 of 2023.
+Finally, in the fourth instance, the Appellant filed Contempt Application 4 of
+2023, once again seeking to stay the approval of the Resolution Plan. The
+Respondent No. 1 emphasized that these actions highlight the Appellant’s
+ongoing attempts to derail the CIRP and undermine the Resolution Plan.
+38.
+The Respondent No. 1 conceded that while the CoC filed an application
+for the replacement of the Interim Resolution Professional due to its internal
+policies, the Respondent No. 1 continued to perform his duties. The Respondent
+No. 1 stated that he successfully ensured the completion of the Resolution Plan,
+with all payments being received and distributed as per the plan approved by the
+Adjudicating Authority.
+39.
+The Respondent No. 1 contended that the Resolution Plan has been
+approved by 100% of the CoC during its 10th meeting, conducted by the
+Respondent No. 1. This was followed by approval from the Adjudicating
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 21 of 97
+Authority 15.05.2023, in IA 2977 of 2022, after hearing and dismissing IA
+3525/2022 of the Appellant as misconceived.
+40.
+The Respondent No. 1 also refuted all the averments made by the
+Appellant in the Company Appeal (AT) (Ins.) No. 1034 of 2024 and denied tha
+the has committed any contempt.
+41.
+Concluding his arguments, the Respondent No. 1 requested this Appellate
+Tribunal to dismiss all three appeals with cost.
+42.
+The CoC collectively submitted that the Corporate Debtor was admitted
+into the CIRP under Section 9 of the Code in Company Petition No. 934 of 2020.
+Pursuant to this, Respondent No. 1, was appointed as the Interim Resolution
+Professional by an order dated 06.10.2021.
+43.
+The CoC submitted that during the first CoC meeting, in the exercise of
+their commercial wisdom, the CoC informed that, as per the bank's policy, the
+Resolution Professional must be appointed from the bank's panel. Consequently,
+the CoC filed an application for the appointment of the Resolution Professional
+from the bank's panel. The CoC together stated that Respondent No. 1 executed a
+MoU on 10.11.2021, concerning the factory and Respondent No. 1 explained and
+clarified the benefits of executing this MoU, which was subsequently agreed upon
+by the CoC.
+44.
+The CoC jointly consented to retain the Resolution Professional appointed
+by the Adjudicating Authority and decided to withdraw the application for the
+replacement of the Resolution Professional.
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 22 of 97
+45.
+The CoC further submitted that following this, the Resolution
+Professional filed Application No. 2977 of 2022 for the approval of the
+Resolution Plan, which was approved by the CoC. The plan has been successfully
+executed, with the entire amount under the plan having been received by the CoC.
+Furthermore, the management has already been handed over to the Successful
+Resolution Applicant.
+46.
+The CoC submitted that the Resolution Professional has acted in the best
+interests of the stakeholders and the Corporate Debtor. Furthermore, the CoC
+contended that the Appellant, being an Operational Creditor, is not even a part of
+the CoC and, therefore, has no standing to allege material irregularities or
+challenge the Resolution Plan.
+47.
+At this stage, we note that SRA has also filed his intervention application
+which we will elaborate in finding.
+48.
+Concluding the arguments, the CoC collectively submitted that the Appeal
+being frivolous is liable to be dismissed with cost.
+Findings
+49. The first two appeals has been filed by the Appellant in Comp. App. (AT)
+(Ins.) No. 916 of 2023 & Comp. App. (AT) (Ins.) No. 792 of 2023 against the
+same Impugned Order dated 15.05.2023 passed by the Adjudicating Authority in
+CP(IB) 934/MB/2020. The Adjudicating Authority has disposed of two IA’s and
+hence two appeals have been filed by the Appellant. IA No. 2977/2022 was filed
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 23 of 97
+by the Interim Resolution Professional for approval of the Resolution Plan which
+is subject matter in present appeal before us in Company Appeal (AT) (Ins.) No.
+792 of 2023 and IA 3525/ 2022 was filed by the Appellant raising his objections
+to approval of the Resolution Plan, which was rejected by the Adjudicating
+Authority in the Impugned Order dated 15.05.2023 which is in appeal before us
+in Company Petition No. (IB) -934 (MB)/2020.
+50. Since both the appeals have been filed against the same Impugned Order
+dated 15.05.2023 on the approval/ rejection of the Resolution Plan by the
+Adjudicating Authority and have been pleaded by the same counsels on the same
+issues, hence we shall deal both the appeals jointly in the following discussion.
+We have already noted the facts of the same, hence we shall not repeat the same
+for the purpose of brevity.
+51. From the pleadings, the following issues emerge which are required to be
+resolved in order to decide the first two appeals.
+Issue No. (I) (A) Whether, Mr. Kairav Anil Trivedi appointed as Interim
+Resolution Professional by the Adjudicating Authority vide CIRP order dated
+05.10.2021 was lawfully appointed as Resolution Professional by the CoC in
+accordance with the Regulations or not.
+Issue No. (I) (B) Whether the CoC dissented the appointment of Mr. Kairav
+Anil Trivedi working as Interim Resolution Professional of the Corporate Debtor
+being appointed as Resolution Professional of the Corporate Debtor or approved
+his appointment as Resolution Professional in the First CoC Meeting.
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 24 of 97
+Issue No. (I) (C) Whether conduct of Mr. Kairav Anil Trivedi the Interim
+Resolution Professional of Corporate Debtor has been fair, reasonable and in
+accordance with the provisions of the Code and Regulations or acted in arbitrary
+and pre-judicial manner as alleged by the Appellant.
+Issue No. (I) (D) What has been stand of CoC on CIRP Process.
+Issue No. (II) (A) Whether the MoU signed with the SIPL was in accordance
+with provision of the Code and the Regulations or otherwise. Whether Mr. Kairav
+Anil Trivedi violated any of the laid down provisions in approving and signing
+the said MoU.
+Issue No. (II) (B) Whether the contractor of Haridwar plant of the Corporate
+Debtor i.e., SIPL was related party of the Corporate Debtor. Whether Mr. Kairav
+Anil Trivedi brought out misleading facts before CoC .
+52. Issue No. (III)
+Whether, material irregularities, if any, by Interim
+Resolution Professional /Resolution Professional while taking approval from the
+Adjudicating Authority will affect the fate of approved Resolution Plan.
+53.
+These points are interconnected and inter dependent and shall be dealt in
+conjoint manner in the following discussions :-
+Issue No. (I) (A) Whether, Mr. Kairav Anil Trivedi appointed as Interim
+Resolution Professional by the Adjudicating Authority vide CIRP order dated
+05.10.2021 was lawfully appointed as Resolution Professional by the CoC in
+accordance with the Regulations or not.
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 25 of 97
+Issue No. (I) (B) Whether the CoC dissented the appointment of Mr. Kairav
+Anil Trivedi working as Interim Resolution Professional of the Corporate Debtor
+being appointed as Resolution Professional of the Corporate Debtor or approved
+his appointment as Resolution Professional in the First CoC Meeting.
+Issue No. (I) (C) Whether conduct of Mr. Kairav Anil Trivedi the Interim
+Resolution Professional of Corporate Debtor has been fair, reasonable and in
+accordance with the provisions of the Code and Regulations or acted in arbitrary
+and pre-judicial manner as alleged by the Appellant.
+(a) It is noted that Mr. Kairav Anil Trivedi was appointed as Interim
+Resolution Professional by the Adjudicating Authority while passing the
+order of initiation of the CIRP of the Corporate Debtor vide order dated
+05.10.2021 passed in application filed by the Appellant under Section 9 of
+the Code in CP(IB) 934/MB/2020 which reads as under :-
+
+[PAGE 26]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 26 of 97
+(b) We note that the issue of confirmation and approval of the appointment of
+Mr. Kairav Anil Trivedi was taken up as Agenda Item no. 15 in the first
+CoC meeting held on 10.11.2021, as noted from the minutes of 1st CoC
+meeting which reads as under :-
+
+(c) We note that the voting on the proposed resolution for confirmation and
+approval of Mr. Kairav Anil Trivedi as Resolution Professional was
+conducted i.e., e-voting platform by M/s Right2vote Infotech Pvt Ltd
+(Online Voting Platform Provider) that communicated result vide an e-mail
+dated 19.11.2021, according to which the resolution of item No. 15 of First
+
+[PAGE 27]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 27 of 97
+CoC meeting held on 10.11.2021 was “dissent” i.e., non approval. The
+relevant portion of the said e-mail is reproduced as under ;-
+
+(d) We take into consideration that on 30.12.2021, Second CoC meeting was
+held in which CoC proposed name of new Resolution Professional
+Mr. Pradeep Kabra in place of Mr. Kairav Anil Trivedi vide Item No. 16
+of the minutes of meeting which is seen as under :-
+
+[PAGE 28]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 28 of 97
+
+(e) From the above, it is noted that Canara Bank who is the majority member
+of CoC (holding 67.36 % of voting rights), proposed the name of
+Mr. Pradeep Kabra as new Resolution Professional. We also take into
+consideration that the said resolution has been put for e-voting and the last
+date of e-voting was 06.01.2022. It was submitted during pleadings that
+the said resolution for changing Mr. Kairav Anil Trivedi and appointing
+Mr. Pradeep Kabra was approved by the CoC with 100% voting.
+
+[PAGE 29]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 29 of 97
+(f) The CoC filed an IA No. 247/2022 on 27.01.2022 and the relevant portion
+of the said IA reads as under :-
+
+[PAGE 30]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 30 of 97
+(g) It is noted that in IA No. 247 of 2022, it was mentioned in Para 9 that the
+Interim Resolution Professional Mr. Kairav Anil Trivedi was appointed as
+Resolution Professional in the first CoC meeting held on 10.11.2021. We
+consciously note that this fact has been wrongly pointed out in IA No. 247
+of 2022 by the CoC in view of the previous facts where it has been clearly
+stated vide an e-mail dated 19.11.2021 that M/s Right2vote Infotech Pvt
+Ltd has declared resolution regarding appointment of Mr. Kairav Anil
+Trivedi as Resolution Professional which was dissented i.e., not approved.
+(h) Thus, it becomes clear that in Second CoC meeting, the CoC with 100%
+voting rights, approved replacement of the Mr. Kairav Anil Trivedi and
+appointment of new Resolution Professional Mr. Pradeep Kabra.
+(i) We have noted that IA. No. 247 of 2022 was filed for replacement of
+Mr. Kairav Anil Trivedi by new Resolution Professional and Canara Bank
+filed an additional affidavit on behalf of the CoC on 28.03.2022. The
+additional affidavit is reproduced as under :-
+
+[PAGE 31]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 31 of 97
+
+[PAGE 32]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 32 of 97
+
+[PAGE 33]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 33 of 97
+
+[PAGE 34]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 34 of 97
+
+[PAGE 35]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 35 of 97
+
+[PAGE 36]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 36 of 97
+
+[PAGE 37]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 37 of 97
+
+[PAGE 38]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 38 of 97
+
+[PAGE 39]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 39 of 97
+
+[PAGE 40]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 40 of 97
+
+[PAGE 41]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 41 of 97
+
+[PAGE 42]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 42 of 97
+
+[PAGE 43]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 43 of 97
+
+[PAGE 44]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 44 of 97
+➢ We note that Reply was filed by the Respondent No. 1/ Mr. Kairav Anil
+Trivedi to I.A No 247 of 2022 filed before the Adjudicating Authority. The
+relevant portion of the reply reads as under :-
+
+[PAGE 45]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 45 of 97
+➢ From above additional affidavit dated 28.03.2022 of Canara Bank, we
+observe that the Canara Bank has raised several objection and highlighted
+misconduct of Mr. Kairav Anil Trivedi the Interim Resolution Professional.
+From the above additional affidavit, we also note that the grounds for
+replacement comprised of several violations of regulations by Respondent
+No. 1/ Mr. Kairav Anil Trivedi. The grounds have been specifically
+enumerated in para 9 above, where the CoC categorically stated that Mr.
+Kairav Anil Trivedi attempted to mislead the Adjudicating Authority by
+submitting that he is performing his duty in professional manner. The CoC
+further mentioned in para 9 that Mr. Kairav Anil Trivedi has been
+extremely unprofessional and CoC does not desire to continue him as the
+Resolution Professional.
+➢ In para 17 of the additional affidavit dated 28.03.2022, the CoC highlighted
+that Respondent No. 1/ Mr. Kairav Anil Trivedi violated section 28 of the
+Code in executing MoU with third party in collusion with SBOD and
+handed over the possession of factory situated at Haridwar along with plant
+and machinery, mould, etc. The alleged illegal action of Respondent No. 1
+regarding MoU were also elaborated in Para 18 to 20 of the additional
+affidavit, where the CoC has submitted that the Respondent No. 1/ Mr.
+Kairav Anil Trivedi has falsely represented himself as Resolution
+Professional duly appointed by CoC whereas voting for his appointment
+was yet be take place at that stage. The CoC also mentioned that the
+
+[PAGE 46]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 46 of 97
+contractor appointed by the Interim Resolution Professional was related
+party of the Corporate Debtor and the Suspended Director of the Corporate
+Debtor and concluded that the MoU was executed by the Respondent No.
+1/ Mr. Kairav Anil Trivedi in collusion with SBOD with wrongful
+intentions.
+➢ In para 21 of additional affidavit dated 28.03.2022, the CoC highlighted
+violation of regulation 19 by the Respondent No. 1.
+➢ In para 22 of the additional affidavit dated 28.03.2022, the CoC
+categorically and specifically mentioned that Mr. Kairav Anil Trivedi was
+not appointed as the Resolution Professional in the first CoC meeting and
+Respondent No. 1 has falsely represented himself as Resolution
+Professional appointed by the CoC.
+➢ The CoC also mentioned in the additional affidavit dated 28.03.2022 that
+the Respondent No. 1 neither submitted report of first CoC meeting nor
+conducted the Second CoC meeting for 50 days, violating regulation 26 of
+CIRP Regulations.
+➢ One of the other serious allegation made by the CoC before the
+Adjudicating Authority in additional affidavit dated 28.03.2022 pertained
+to conduct of the Respondent No. 1/ Mr. Kairav Anil Trivedi who has been
+alleged by CoC that“IRP/RP maliciously and fraudulent mentioned item
+No. 7 to the minutes of the Second CoC .....”.
+
+[PAGE 47]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 47 of 97
+➢ We further note that in para 26 of the additional affidavit dated 28.03.2022,
+the CoC has stated that a total 171.13 Crores (approx.) was outstanding
+admitted debts towards financial creditors and as per report of the
+Respondent No. 1/ Mr. Kairav Anil Trivedi the Corporate Debtor was not
+functioning as going concern and there was hardly any stock/ inventory,
+whereas the Interim Resolution Professional at the cost of CoC claimed to
+restart the plan under pretext of maximisation of value of the Corporate
+Debtor.
+➢ We further note that in para 27 of the additional affidavit dated 28.03.2022
+the CoC pointed out that although the Resolution Professional himself
+reported that inspite of huge loan borrowed by the Corporate Debtor, there
+was no balance in the bank accounts of the Corporate Debtor nor any
+stock/inventory was available in the factory at Haridwar. The Respondent
+No. 1/ Mr. Kairav Anil Trivedi failed to take any action to investigate
+regarding syphoning of funds and preferring the preferential or fraudulent
+transaction applications before the Adjudicating Authority.
+➢ The CoC also accused the Respondent No. 1 of violation of Regulation 36
+regarding delay to furnish Information of Memorandum to CoC till date of
+filing of additional affidavit of CoC (94 days).
+➢ The CoC also accused Respondent No. 1 regarding violation of 36A i.e.,
+delay “not later than 74 days from the commencement of CIRP. The RP
+has delayed it after 148 days, therefore, there is a delay of 74 days. Due
+
+[PAGE 48]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 48 of 97
+the acts of the RP the CoC has lost opportunities of having better
+Resolution Plans for the resolution of the Corporate Debtor. The RP has
+thereafter surpassed all the timelines and frustrated the entire CIRP of the
+Corporate Debtor.”
+➢ We note that in Para 32 of the additional affidavit dated 28.03.2022 the
+CoC has recorded that “....the RP in violation of Section 29A of IBC has
+considered, the suspended Directors Mr. Piyush Chheda and Prince Pipes
+and Fittings Limited a replated company having same management as
+prospective resolution applicants.”
+➢ We also note that the CoC has categorically stated Para 33 of the additional
+affidavit that, “From the aforesaid conduct of the RP, the CoC is of
+considered view that either the RP has been incompetent to conduct the
+CIRP of the Corporate Debtor in timely manner or the RP is working at
+the behest of the suspended Directors to defraud the Creditors.”
+➢ Finally, the CoC gave concluding remarks and appealed to the
+Adjudicating Authority in their additional affidavit which is self
+explanatory and reads as “in view of the above, strict action may be taken
+against the RP and report its conduct to IBBI and the application u/S 27 of
+the IBC be allowed and existing RP be replaced by Mr. Pradeep Kabra”.
+➢ We also note from reply of the Respondent No. 1 to the I.A. No. 247 of
+2022, wherein the Respondent No. 1 accused the CoC of misrepresentation,
+not maintaining objectivity of the code and acting contrary to the Code.
+
+[PAGE 49]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 49 of 97
+➢ Thus, we note that at the stage of additional affidavit dated 28.03.2022
+before the Adjudicating Authority, the CoC has labelled the Respondent
+No. 1/ Mr. Kairav Anil Trivedi as involved in malicious and fraudulent acts
+based on specific facts.
+(j) We observe that IA No. 247/2022 was filed by CoC on 27.01.2022 for
+replacement of Mr. Kairav Anil Trivedi from Interim Resolution
+Professional and appointment of Mr. Pradeep Kabra as new Resolution
+Professional of the Corporate Debtor and additional affidavit was filed in
+connection with IA. No. 247 of 2022 by Canara Bank on behalf of the CoC
+on 28.03.2022. But till 09.11.2022 these were not adjudicated.
+(k) We further note that on 10.11.2022, the CoC filed new IA No. 3346/2022
+withdrawing I.A. No. 247 of 2022 which was approved by the Adjudicating
+Authority on the same day i.e.., 10.11.2022 and the order reads as under :-
+
+[PAGE 50]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 50 of 97
+
+(l) From the above, it become clears that the Respondent No. 1/Mr. Kairav
+Anil Trivedi although appointed as Interim Resolution Professional by the
+Adjudicating Authority in the CIRP order dated 05.10.2021, was never
+confirmed or appointed as Resolution Professional by the CoC. In fact, the
+CoC dissented the confirmation or appointment of Mr. Kairav Anil Trivedi
+as Resolution Professional as noted in the earlier discussions along with the
+relevant extract of the minutes of the CoC meetings, Right2Vote email and
+
+[PAGE 51]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 51 of 97
+the additional affidavit dated 28.03.2022 filed by Canara Bank on behalf of
+the CoC before the Adjudicating Authority in IA No 247 of 2022. From
+additional affidavit of the CoC dated 28.03.2022, we have already noted
+that CoC castigated the conduct of Respondent No. 1 on several grounds
+and used harsh words about the Respondent No. 1 to be “malicious and
+fraudulent”.
+(m)
+At this stage, it would be desirable to note the developments which
+happened between the first event i.e., denial of confirmation and approval
+of Respondent No. 1/ Mr. Kairav Anil Trivedi as Resolution Professional
+in 1st CoC meeting held on 10.11.2021 till the CoC withdrew the I.A. No.
+247/2022 and filed new IA No. 3346 of 2022 on 10.11.2022 before the
+Adjudicating Authority i.e., exactly one full year from 10.11.2021 to
+10.11.2022. We note that the Resolution Plan by SRA was approved by
+the CoC in 10th meeting held on 18.09.2022. An IA No. 2977/2022 was
+filed by the Respondent No. 1 on 27.09.2022 before the Adjudicating
+Authority for approval of the Resolution Plan. As both these events i.e.,
+approval of the Resolution Plan by CoC as submitted by SRA and filing of
+IA No. 2977/2022 for approval of Resolution Plan by the Respondent No.
+1 before the Adjudicating Authority happened prior to withdrawal of
+application for change of Interim Resolution Professional and appointment
+of new Resolution Professional by the CoC before the Adjudicating
+Authority on 10.11.2022, it is indicated that on both critical junctures, the
+
+[PAGE 52]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 52 of 97
+Respondent No. 1 was not lawfully confirmed/ appointed as Resolution
+Professional by the CoC.
+(n) In this regard, we also note that the same issue of non appointment of the
+Respondent No. 1 as Resolution Profession by the CoC was also examined
+by IBBI based on the complaint filed by the Appellant. The IBBI
+investigated and has given the order finding Respondent No. 1 as guilty
+and suspended the registration of Respondent No. 1 for a period of six
+months. The relevant portion of IBBI order dated 23.05.2023 regarding
+alleged misrepresentation by the Respondent No. 1 in the minutes of the
+CoC is reproduced as under :-
+
+[PAGE 53]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 53 of 97
+
+[PAGE 54]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 54 of 97
+
+[PAGE 55]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 55 of 97
+
+[PAGE 56]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 56 of 97
+(o) We find sufficient logic in IBBI reasoned order quoted above on the issue
+being discussed herein.
+(p) After discussing above, we come back to the moot question i.e., whether
+the Respondent No. 1 was at all appointed by the CoC and the answer is
+straight that Respondent No. 1 was never appointed by the CoC. In fact,
+the CoC dissented for confirmation and appointment of Respondent No. 1
+as Resolution Professional and further filed additional affidavit dated
+28.03.2022 before the Adjudicating Authority accusing Respondent No. 1/
+Mr. Kairav Anil Trivedi of several serious violations of regulations and his
+involvement in misconduct. It is only after Resolution Plan was approved
+by the CoC for which IA was filed by the Respondent No. 1, CoC decided
+to change their stand and filed IA No. 3346/2022 before the Adjudicating
+Authority for withdrawing earlier IA No. 247/2022 for change of Interim
+Resolution Professional.
+➢ Thus, we hold that there was no formal and proper appointment of
+Mr. Kairav Anil Trivedi as Resolution Professional of the Corporate
+Debtor by the CoC. We also find that CoC did not approve the
+Respondent No. 1/ Mr. Kairav Anil Trivedi as the Resolution Professional
+in 1st CoC meeting.
+➢ On issue of contravention of Regulations by the Respondent No. 1/ Mr.
+Kairav Anil Trivedi, we take into consideration material made available
+before us especially additional affidavit dated 28.03.2022 filed by Canara
+
+[PAGE 57]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 57 of 97
+Bank on behalf of CoC before the Adjudicating Authority. We find
+prima-facie Respondent No. 1/ Mr. Kairav Anil Trivedi conducted CIRP
+proceeding in violation of several regulations.
+(q) We will now take up another issue raised in the appeal i.e., misconduct of
+Respondent No. 1/ Mr. Kairav Anil Trivedi as alleged by the Appellant.
+➢ It is the case of the Appellant that the misconduct of the Interim
+Resolution Professional Mr. Kairav Anil Trivedi has been seen in
+various cases and has been held so in many other courts as well as
+this court and the Respondent No. 1 is found to be guilty.
+➢ The Appellant alleged that based on Appellant’s complaint against
+the Respondent No. 1, IBBI conducted investigation. As per the
+order of Disciplinary Committee of Insolvency and Bankruptcy
+Board of India bearing No. IBBI/DC/173/2023 dated 23rd May,
+2023, the committee thoroughly examined the conduct of Interim
+Resolution Professional, Mr. Kairav Anil Trivedi and upon their
+findings, has suspended him for a period of six months.
+➢ The Appellant submitted that the IBBI, exercising its powers under
+Section 218 of the Code, along with Regulation 7(2) and 7(3) of the
+Insolvency and Bankruptcy Board of India (Inspection and
+Investigation) Regulations, 2017, appointed an Investigating
+Authority to conduct an investigation into the CIRP of the Corporate
+Debtor.
+
+[PAGE 58]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 58 of 97
+➢ The Appellant brought out that based on the findings of the
+investigation detailed in the Investigation Report submitted by the
+Investigating Authority, the IBBI issued a Show Cause Notice
+(SCN) to Mr. Trivedi on 21.03.2023. The SCN, along with Mr.
+Trivedi’s response and other relevant material on record, was
+referred to the Disciplinary Committee (DC) for consideration. Mr.
+Trivedi was given an opportunity for a personal hearing, which he
+attended virtually before the DC on 28.04.2023.
+➢ After the investigation by the DC, it was found that Mr. Trivedi has
+inter alia violated Sections 28(l)(h), 208(2)(a) &(e) of the Code and
+Regulation 7(2)(a) and 7(2)(h) read with clauses 1, 2, 3, 5 and 14 of
+the Code of Conduct of the IP Regulations. The order of the DC
+suspending Mr. Kairav Anil Trivedi reads as under: -
+“3.1. In view of the foregoing discussion, and material
+available on record, it is clear that Mr. Trivedi has not
+recorded the minutes of the 1st CoC meeting accurately.
+Moreover, it is evident that Mr. Trivedi has not
+disclosed to CoC about the factual status of MoU for
+Contract Manufacturing Activity. The draft MoU was
+shared with CoC on 30.12.2021 for vetting and a second
+opinion was being considered. However, the MoU was
+already
+executed
+on
+10.11.2021
+without
+the
+approval/intimation of CoC. Hence, the DC finds that
+Mr. Trivedi has suppressed the fact of already entered
+MoU with the CoC. Therefore, the DC, in exercise of the
+
+[PAGE 59]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 59 of 97
+powers conferred under section 220 of the Code read
+with regulation 13 of the IBBI (Inspection and
+Investigation) Regulations, 2017 and Regulation 11 of
+the IBBI (Insolvency Professionals) Regulations, 2016
+hereby suspends the registration of Mr. Kairav Anil
+Trivedi bearing registration number IBBI/IPA-
+002/IP-N00728/2018-2019/12332 for a period of six
+months.”
+(r) The Appellant conceded that the Respondent No. 1/ Mr. Kairav Anil
+Trivedi filed a Writ Petition bearing W.P (L) No. 16317 of 2023 before the
+Hon’ble High Court of Bombay, to which a reply affidavit was filed by
+IBBI, responding the said Writ Petition. The reply by IBBI clearly
+demonstrates that the Interim Resolution Professional was not confirmed
+as the Resolution Professional during the first CoC meeting. Furthermore,
+it highlighted that the Respondent No. 1 deliberately concealed crucial facts
+and documents, thereby misleading the court through fraudulent means.
+The Appellant submitted that Paras 3, 5, 6, 9,10,14, 29, and other sections
+of the reply affidavit clearly establish misconduct of Appellant which reads
+as under: -
+“Para 3- I say that Petitioner has approached this Hon'ble
+High Court by suppressing material facts and therefore not
+entitled to invoke the extra ordinary jurisdiction of this
+Hon'ble Court. The Petitioner, it appears, has intentionally
+did not produce the email dated 19.11.2021 from online
+voting platform Right2Vote InfoTech Private Limited and
+
+[PAGE 60]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 60 of 97
+the affidavit of Committee of Creditors (hereinafter
+referred as COC) dated 28.03.2022, both clearly stating
+that COC in its first meeting held on 10.11.202 l had voted
+against the appointment of the Petitioner as the Resolution
+Professional, contrary to what the Petitioner is contending
+now, Annexed herewith and marked as Exhibit 1 is the
+copy of the email dated 19.11.2021 from online voting
+platform Right 2 Vote InfoTech Private Limited and the
+affidavit of Committee of Creditors dated 28.03.2022 filed
+before the NCLT.
+Para 5- I say that the Petitioner has further suppressed the
+facts which resulted in the impugned order. The Petitioner
+is guilty of two major lapses which undermines his
+integrity and honesty, namely (i) having wrongly recorded
+in the first COC meeting that he has been confirmed
+Resolution Professional by the COC and (2) in executing
+a Memorandum of Understanding (herein after referred as
+MOU) for contract manufacturing activity on 10.11.2021
+with effect from 05.10.2021, whereas on the date of
+execution of MOU, no such approval was obtained from
+COC. Notwithstanding when the draft of the MOU was
+being discussed during the COC meetings for its vetting,
+the Petitioner did not disclose to COC that the MOU has
+already been executed.
+Para 6- It is a settled doctrine that suppressing material
+facts amounts to playing fraud upon the Court and
+approaching the Court with unclean hands and not entitled
+for any discretionary reliefs. It is therefore prayed that this
+
+[PAGE 61]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 61 of 97
+Hon'ble High Court may be pleased to not extend the stay
+granted to the Petitioner.
+Para 9- I say that the lapse on the part of Petitioner in not
+recording COC's objection to his appointment as the
+Resolution Professional and by misrepresenting that he
+has been confirmed as the Resolution Professional and
+further to enter into a MOU for contract manufacturing
+activity without the approval/intimation of the COC while
+the COC was deciding on the said proposal are serious
+lapses which attracts penal consequences as per the Code,
+notwithstanding that the Respondent was let off with mere
+six months suspension.
+Para 10- The entire case of Petitioner is on the ground that
+COC has allegedly condoned his lapses by subsequently
+appointing him as the Resolution Professional and that the
+Resolution Plan submitted by him has been approved by
+the COC and hence no disciplinary action ought to have
+been against the Petitioner. It is submitted that the
+insolvency resolution process under the Code is in rem
+proceeding and therefore the COC approving the
+Petitioner as the RP or the approval of the Resolution Plan
+by the COC does not absolve the Petitioner from the
+serious lapses committed by the Petitioner while acting as
+an IRP during the course of CIRP.
+Para-14 The Petitioner did not provide any explanation for
+the false statement recorded by him in the minutes of the
+first COC that he has been confirmed as Resolution
+Professional by the COC and secondly for executing the
+MOU with Sarvashree Industries Private Limited for
+
+[PAGE 62]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 62 of 97
+contract manufacturing activity from 10.11.2021 with
+effect front 05.10.2021 while COC was only considering
+the said draft of MOL. The investigating authority
+subsequently after complying with procedure, submitted
+the report to the Board. The Report is annexed as Exhibit
+L to the Writ Petition. The Board after considering the
+report on coming to a prima facie opinion that sufficient
+cause exists 10 take action u/s 220 of the Code, issued a
+Show Cause Notice in accordance to Regulation 12 of the
+Inspection and Investigation Regulations, The copy of
+which is annexed at Exhibit Pto the Writ Petition. In reply
+thereof the Petitioner submitted his, Reply, which is
+annexed a Exhibit T to the Writ Petition.
+- Para 24- The notes to clauses appended with the Bill, The
+Insolvency and Bankruptcy Code, 2015 as introduced
+before Parliament observed as follows:
+"Clause 194 provides that no act or proceeding of the
+Board shall be invalid merely by reason of a) any vacancy
+in, or any defect in the constitution of the Board, or b) any
+defect in the appointment of a person acting as a member
+of the Board; or c) any irregularity in the procedure of the
+Board not affecting the merits of the case. This Clause also
+provides that the Board may appoint such other officers
+and employees as it considers necessary for the efficient
+discharge of its functions under this Code.....”
+
+➢ The Appellant stated that the Hon’ble High Court of Bombay granted
+interim relief to Respondent No.1 on a limited issue regarding whether the
+
+[PAGE 63]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 63 of 97
+Chairperson is a Whole-Time Member, until the filing of IBBI's reply, as
+per the order dated 20.06.2023. It was stated by the High Court of Bombay
+that: -
+“4. On the limited issue of Interim relief, we have heard
+the learned counsel for Petitioner. From perusal of
+Section 220 of the IBC, 2016 read with definition of the
+words "Disciplinary Committee" in the Insolvency and
+Bankruptcy Board of India (Inspection and Investigation)
+Regulations, 2017, prima facie we are of the opinion that
+the Disciplinary Committee can consist only of Whole
+Time Member(s), who can then pass orders. In the
+present case, the impugned order dated 23.05.2023 is
+passed by Mr. Ravi Mital, who, at least on the Website of
+the IBBI, is shown as the Chairperson of the IBBI and not
+its Whole Time Member.”
+➢ All these allegations were denied vehemently by the Respondent No. 1 who
+stated that the Appellant is a habitual litigants. The Respondent No. 1 also
+submitted that since he refused to comply ulterior and unlawful demand of
+the Appellant, the Appellant has taken up personal vendetta against the
+Respondent No. 1. The Respondent No. 1 also clarified that all cases cited
+by the Appellant are misleading and the Respondent has also taken stay
+from the Hon’ble High Court of Bombay in the present case, where IBBI
+debarred him for 6 months. The Respondent No. 1 emphatically requested
+to ignore the baseless allegations of the Appellant about his misconduct.
+
+[PAGE 64]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 64 of 97
+(s) The Appellant also brought to our notice that earlier also this Appellate
+Tribunal has passed a judgment in the matter of Kairav Anil Trivedi vs.
+State Bank of India & Anr., (MANU/NL/0955/2023) vide its order dated
+05.12.2023 in Company Appeal (AT) (Insolvency) Nos. 1439 and 1440 of
+2023 wherein this Appellate Tribunal adjudicated an appeal filed by the
+Respondent No.1, Mr. Kairav Anil Trivedi, who was accused to mislead
+the Adjudicating Authority regarding the application of Sections 22 and 27
+of the Code. Para 10 of our earlier judgment states:
+“10. From the facts which have been brought on the
+record, it is clear that the appointment of the Appellant as
+IRP was never confirmed by the CoC nor any material has
+been brought on record to indicate that the appointment of
+IRP was confirmed by the CoC by majority of not less than
+66% of the vote. When Appellant's appointment as IRP has
+not been confirmed, the Appellant could have been
+replaced by the CoC under Section 22. The mere fact that
+in the Resolution which was placed before e-voting as
+extracted above, there was alternate resolution both
+under Sections 22 and 27 cannot be read to mean that
+there is any infirmity in the resolution passed for
+replacement with 100% vote.”
+(Emphasis Supplied)
+(t) The above judgment of this Appellate Tribunal was challenged by Kairav
+Anil Trivedi before the Hon’ble Supreme Court of India in Civil Appeal
+Diary Nos. 3150/2024 who dismissed the appeal vide order dated
+
+[PAGE 65]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 65 of 97
+19.04.2024 in the matter of Kairav Anil Trivedi Vs. State Bank of India &
+Anr. (MANU/SCOR/55999/2024), which reads as under:
+“We do not find any reason to interfere with the impugned
+judgement and other. The Special Leave Petition is
+accordingly dismissed. Pending application(s), if any, shall
+stand disposed of.”
+(Emphasis Supplied)
+
+(u) Thus, we find that in case of State Bank of India (Supra), the Respondent
+No 1 was clearly held guilty for same Section 22 & 27 of the Code and
+finally the Hon’ble Supreme Court of India also rejected Respondent
+No. 1 is appeal.
+(v) The Appellant also mentioned that it has been observed at various instances
+that Mr. Kairav Anil Trivedi has committed instances of fraud,
+misrepresentation, ultra vires acts and concealment/suppression of facts
+and documents during his assignment as the Interim Resolution
+Professional/Resolution Professional. To buttress his point, the Appellant
+brought out yet another instance of misconduct of the Respondent No. 1
+can be observed in the CIRP of M/s Parenteral Drugs Private Limited
+(Corporate Debtor), where the IBBI has once again recently on 17.12.2024
+suspended Respondent No.1, Kairav Anil Trivedi, for almost similar
+contraventions and irregularities for a period of two years.
+
+[PAGE 66]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 66 of 97
+(w)
+It has been brought to our notice that the IBBI issued a show-cause
+notice to Respondent No. 1, Mr. Kairav Anil Trivedi, on 10.04.2024 in the
+abovementioned matter to which an order was passed vide order no.
+IBBI/DC/256/2024 dated 17.12.2024. The Disciplinary Committee of the
+IBBI states that: -
+“2.1. Irregularity in entering into an MoU.
+Alleged contravention
+2.1.1. It was observed that the CIRP of the CD was
+initiated by the AA vide its order dated 09.02.2023 and Mr.
+Kairav Anil Trivedi was appointed as IRP in the CIRP of
+the CD. It was further observed from Mr. Kairav Anil
+Trivedi's reply to the IA that he visited the Panwa plant of
+the CD on 13.02.2023 and on the same day, a contract
+manufacturing Memorandum of Understanding (MoU)
+between the CD and Virat Tradecorp Private Limited
+(Virat) was entered into in respect of pharmaceutical plant
+of the CD situated at Village -Panwa. District - Khargone,
+Madhya Pradesh. The first meeting of the Committee of
+Creditors (CoC) was conducted on 13.03.2023 which was
+adjourned to 18.04.2023. Hence, it is seen that the MoU
+with Virat was entered on 13.02.2023 without the
+knowledge and approval of the CoC. The CoC was
+informed of the MoU with Virat vide email dated
+13.03.2023, the day on which first meeting of CoC was
+held partially.
+2.1.2. Section 28(1)(k) provides that prior approval of
+COC is required for certain actions such as for
+
+[PAGE 67]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 67 of 97
+transferring rights, delegation of authority etc. It was
+observed from Mr. Kairav Anil Trivedi's reply to IA that
+Panwa Plant of the CD had closed its operation one year
+prior to initiation of CIRP of the CD. It is mentioned in the
+SCN that starting manufacturing operation in a closed
+plant after commencement of CIRP was an important
+decision and not a decision in ordinary course of business.
+3.1.In view of the foregoing, the DC in exercise of the
+powers conferred under Section 220 of the Code read with
+Regulation 13 of the Inspection and Investigation
+Regulations and Regulation 11 of the IP Regulations
+hereby suspends the registration of Mr. Kairav Anil
+Trivedi
+(Registration
+No.
+IBBI/IPA-002/IP-
+N00728/2018-2019/12332) for a period of two years
+which shall run consecutive to period of suspension of
+registration of Mr. Kairav Anil Trivedi by any other DC
+order whenever the same takes effect.”
+
+(x) Based on above detailed submissions, we find that IBBI who is the
+regulator for Resolution Professionals as per the Code, has categorically
+held Respondent No. 1 as guilty in the present case and debarred the
+Respondent No. 1 for six months. It is also a fact that the Respondent No.
+1 filed a Writ Petition and obtained ad-interim relief from the Hon’ble High
+Court of Bombay. However, we consciously note that the Hon’ble High
+Court of Bombay gave interim relief to the Respondent No. 1 only on one
+limited technical ground that whether Mr. Ravi Mittal who signed final
+
+[PAGE 68]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 68 of 97
+disciplinary order acted as whole time member (WTM) or chairman of
+IBBI. In fact, the Hon’ble High Court of Bombay did not comment on any
+aspect of merit based on IBBI finding, holding Respondent No. 1 to be
+involved in misconduct in the present case.
+(y) We note that one of ground in the present appeal is violation of CIRP
+Regulations No. 28 i.e., transferring assets of the Corporate Debtor during
+CIRP without consent of CoC by signing MoU with SIPL, again alleged to
+be a related party of Corporate Debtor. In the above quoted case of
+Parental Drug (Supra) which is an independent case in relation to the
+present appeal, the Respondent No. 1 has been found guilty of violation of
+Regulation as well as Section 28(1)(h) (for obtaining prior approval of CoC
+in certain cases) and IBBI, the regulator has debarred the Respondent No.
+1/ Mr. Kairav Anil Trivedi for a period of two years.
+(z) Thus, based on wholistic reading of several cases instituted against the
+Respondent No. 1/ Mr. Kairav Anil Trivedi, we find merit in the arguments
+of the Appellant and find Respondent No. 1 involved in misconduct which
+has also been investigated and confirmed by IBBI.
+Issue No. (I) (D) What has been stand of CoC on CIRP Process.
+(a) We have already taken into consideration the various facts regarding stand
+of the CoC w.r.t. non confirmation and non appointment of the Respondent
+No. 1 as Resolution Professional. We have already noted the details of IA
+
+[PAGE 69]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 69 of 97
+247 of 2022 filed by the CoC for replacement of Respondent No. 1 and
+appointment of Mr. Pradeep Kabra as new Resolution Professional.
+(b) We have further examined in detail the additional affidavit dated
+28.03.2022 filed by the Canara Bank on behalf of the CoC in which several
+allegations of malicious and fraudulent act by Respondent No. 1 were
+elaborated along with violation of Code & CIRP regulations as contained
+therein.
+(c) In the additional affidavit dated 28.03.2022, the CoC has used the word
+malicious and fraudulent act of the Respondent No. 1, whereas the CoC
+filed a fresh IA 3346 of 2022 on 10.11.2022 withdrawing earlier IA 247
+2022. During pleadings we asked the reasons for change of such drastic
+stand from complete castigation and alleging the Respondent No. 1
+involving fraudulent activities to clean chit to the Respondent No 1 vide
+our earlier order dated 30.05.2024 advising CoC to submit facts explaining
+same in affidavit which reads as under:-.
+“On 13.05.2024 the following order was passed :-
+“This appeal is directed against the order dated 15.05.2023
+passed by National Company Law Tribunal, Mumbai Bench,
+Court-II by which IA 3525 of 2022 filed by the present
+appellant (Amit Sangal) under Section 65 (2) of Insolvency &
+Bankruptcy Code, 2016 (in short ‘Code’) seeking various
+reliefs, has been dismissed.
+2. The CIRP proceedings was triggered by Amit Sangal
+(Appellant) as an Operational Creditor by filing an
+
+[PAGE 70]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 70 of 97
+application against ‘Prince MFG Industries Pvt. Ltd.’ which
+was admitted on 05.10.2021. By virtue of that order,
+Respondent No. 1 was appointed as IRP.
+3. The first meeting of the CoC was held on 10.11.2021. In
+the said meeting, Item No. 15 was in regard to confirmation
+of approval of appointment of Respondent No. 1 as the
+Resolution Professional (RP) of the corporate debtor along
+with his fee and expenses and the manner of payments.
+4. However, according to Respondent No. 1, he was duly
+appointed on 10.11.2021 and therefore, intimated the
+Adjudicating Authority through email dated 17.11.2021.
+5. However, the Member of CoC who had voted in respect of
+that resolution had all dissented.
+6. The second meeting of the CoC was held on 30.12.2021 in
+which the CoC proposed the name of Pradeep Kabra with his
+written consent and sought to replace Respondent No. 1.
+7. As per Section 22 (3) (b) of the Code, the CoC has to file
+an application before the AA for the purpose of taking an
+order and in this regard, we have been informed that CoC
+filed the application bearing I.A. No. 247 of 2022 for
+confirmation of the appointment of Pradeep Kabra as the
+IRP. However, I.A. No. 247 of 2022 was withdrawn through
+an application filed by the RP (Respondent No. 1) bearing
+I.A. No. 3346 of 2022 though allegedly authorized by the
+CoC. The said application was withdrawal on 10.11.2022
+8. During the course of hearing, the issue arose that if the
+resolution dated 10.11.2021, appointing the Respondent No.
+1 as the RP was dissented then how Respondent No. 1 had
+
+[PAGE 71]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 71 of 97
+conveyed to the AA on 17.11.2021 itself that he has been
+appointed as such.
+9. We have pertinently asked Respondent No. 1 about the
+voting which may have taken place on the approval of his
+appointment on 10.11.2021.
+10. At this juncture, he has submitted that he has no
+instructions for making the submissions in this regard,
+therefore, he prays for an adjournment. Adjourned to
+29.05.2024.
+11. The Respondent No. 1 shall state on an affidavit about the
+date on which voting took place on the resolution dated
+10.11.2021 and also the detail of the voting and it has to be
+in consonance with the Regulation 26 of the IBBI (CIRP)
+Regulation, 2016 if it was the case of electronic voting.”
+2. Pursuant to the aforesaid order, Respondent No. 1 has
+filed his Affidavit dated 21.05.2024.
+3. Counsel for Respondent No. 3 submits that the CoC passed
+the resolution in its first meeting dated 10.11.2021 regarding
+appointment of Respondent No. 1. But according to Appellant
+the CoC, at the time of confirming the appointment of
+Respondent No. 1/ Resolution Professional, dissented.
+5. Counsel for CoC submits that the voting took place in the
+first CoC Meeting held on 10.11.2021 regarding appointment
+of Respondent No. 1. However, nothing is available on
+record about the voting.
+6. Counsel for Respondent No. 3 is therefore directed to file
+an Affidavit of all the Members of the CoC, who have
+allegedly voted on the resolution dated 10.11.2021 on
+10.11.2021 regarding appointment of Respondent No. 1 and
+
+[PAGE 72]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 72 of 97
+also state as to why they dissented about his appointment on
+17.11.2021.
+7. The CoC shall also explain in its Affidavit about the
+contents of the Additional Affidavit of the application bearing
+I.A. No. 247 of 2022. In which working of Respondent No. 1
+has been labelled as malicious and fraudulent and showed
+state about the sudden change of heart for filing the
+application I.A. 3346 of 2022.
+8. Let the Affidavit be filed by the responsible person of the
+CoC before the next date of hearing with an advance copy to
+Counsel for the Appellant.
+9. Adjourned to 22nd July, 2024.
+
+(d) In pursuant to above, the CoC filed affidavit before this Appellate Tribunal
+dated 29.07.2024. We have gone through the affidavit and will take into
+consideration para no. 10, 11 and 12 explaining the reasons.
+“10. We say that the Right2Vote document was
+erroneously created much after the confirmation of
+the IRP as RP in the first meeting of the CoC. The
+dissent reflected in the said Right2Vote document
+is on the part of Canara Bank which sought to
+replace the RP for the reasons set out above. We
+say that by this time, the RP was already confirmed
+in terms of Section 22 of the IBC and the
+notification thereof was already sent to the
+Adjudicating
+Authority.
+Consequently,
+the
+subsequent dissent recorded is on no legal
+consequence.
+11.We say that thereafter, IA No.247 of 2022 was
+filed
+for
+replacement
+of
+the
+Resolution
+
+[PAGE 73]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 73 of 97
+Professional. At the first instance, the Hon'ble
+NCLT Bench Mumbai, was not impressed with the
+submissions made in support of the Application
+No.247 of 2022 and made critical comments
+against the CoC in order dated 3rd February 2022.
+Therefore, the CoC filed an additional Affidavit
+dated 28th March 2022, in support of the
+Application
+stating
+additional
+grounds
+for
+replacement of the RP. The CoC made several
+allegations against the RP including his non-
+appointment which were contrary to the record
+and incorrect due to the confusion caused on
+account of the Right2Vote document which was
+created at a later point of time as explained above.
+12. It is pertinent to state and submit that
+subsequently during the CIRP, CoC realised that
+the RP acted in the best interests of the
+stakeholders & Corporate Debtor, and the
+Resolution Plan for Corporate Debtor being in
+place, CoC withdrew the allegations including
+non-appointment of RP and found no justifiable
+reason to pursue the Application. The unanimous
+decision to withdraw the application was taken
+during the 11th CoC Meeting dated 5th November
+2022.
+(e) From above, we observe that the CoC is trying to justify that the
+Right2Vote document was erroneously created which caused confusion.
+We find that the additional affidavit dated 28.03.2022 filed by Canara Bank
+in support of IA 247 of 2022 before the Adjudicating Authority, where the
+CoC made several allegations against the Respondent No.1 are quite
+contrary to new affidavit dated 29.07.2024 before us.
+
+[PAGE 74]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 74 of 97
+(f) The CoC has now tried to justify their action in their affidavit dated
+29.07.2024 before us merely on the ground that the right to vote document
+was erroneously created and is the cause of all fall outs.
+(g) When we compare this affidavit of the CoC dated 29.07.2024 filed before
+us with the additional affidavit of the CoC dated 28.03.2022 filed before
+the Adjudicating Authority in connection with the IA 247 of 2022 (which
+we have already noted in detail reproducing the entire additional affidavit
+in the preceding discussion), we find it rather strange that the affidavit filed
+before the Adjudicating Authority was backed up by exact details of several
+violation of regulations including Regulation 19, 26, 35A, 36 A, etc., by
+the Respondent No. 1 which have completely been ignored by the CoC in
+the new affidavit dated 29.07.2024 before us.
+(h) We do not find the new affidavit dated 29.07.2024 filed by the CoC before
+us as convincing and we rather find it in complete contrast with the factual
+position presented before the Adjudicating Authority, in additional
+affidavit dated 28.03.2022 in IA No. 247 of 2022, hence we are unable to
+accept the reasoning given by the CoC in the present affidavit dated
+29.07.2024. The bank management may like to review whole process
+involved to safeguard public money of hundreds of crores of rupees. We
+rest at this only.
+54. Issue No. (II) (A) Whether the MoU signed with the SIPL was in accordance
+with provision of the Code and the Regulations or otherwise. Whether Mr. Kairav
+
+[PAGE 75]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 75 of 97
+Anil Trivedi violated any of the laid down provisions in approving and signing
+the said MoU.
+(a) We note that the MoU was signed between the Respondent No. 1/ Mr.
+Kairav Anil Trivedi on behalf of the Corporate Debtor and SIPL the
+manufacture contractor for the purpose of allowing the SIPL to operate the
+plant of the Corporate Debtor at Haridwar on agreed upon terms and
+conditions. The MoU was signed by the Respondent No. 1 on behalf of the
+Corporate Debtor. We note that the MoU was signed on 10.11.2021 with
+the start date of contract manufacturer has been stated to be 05.10.2021 i.e.,
+with retrospective effects.
+(b) We consciously note that CIRP itself was initiated vide order dated
+05.10.2021 by the Adjudicating Authority passed in Section 9 application
+field by the Appellant. It is interesting to note that effective date of MoU
+dated 05.10.2021 is also the date on which by the Adjudicating Authority
+passed the order for initiation of the CIRP. We wonder how, when the
+CIRP was initiated and the Interim Resolution Professional was appointed
+on 05.10.2021, the SIPL plant was handed over to the contractor w.e.f.
+05.10.2021. This does not stand to any logic.
+(c) Incidentally in the said MoU, the Respondent No. 1 has represented himself
+as duly appointed Resolution Professional of the Corporate Debtor, which
+we have seen in preceding discussions that the Respondent No. 1 was never
+appointed as Resolution Professional of the Corporate Debtor and
+
+[PAGE 76]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 76 of 97
+apparently statement made by the Respondent No. 1 in the said MoU was
+not correct. During the Second CoC meeting held on 30.12.2021, the
+Respondent No. 1 had proposed agenda no. 7 with draft copy of MoU for
+contract manufacturing dated 10.11.2021 for vetting of CoC and the agenda
+reads as under :-
+
+(d) In this case, we recall that CoC in their additional affidavit dated
+08.03.2022 filed before the Adjudicating Authority has recorded as under:-
+
+(e) We have already noted that the MoU was signed by Respondent No. 1 on
+10.11.2021, however, the same was put up to the CoC in 2nd CoC meeting
+
+[PAGE 77]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 77 of 97
+held on 30.12.2021 as draft MoU which again clearly shows mis-
+representation by the Respondent No. 1.
+(f) In this connection, we note that the CoC had filed IA No. 247 of 2022
+before the Adjudicating Authority labelling the Respondent No 1 involved
+in fraudulent, malicious intents without any authority. We have already
+noted the details of additional affidavit filed by the CoC and also
+reproduced the relevant extract in the previous discussion, which are self
+explanatory and speak volumes.
+(g) We observe that IBBI has taken cognizance of a complaint of the Appellant
+on the same issue of signing MoU by the Respondent No. 1 without
+authority of the CoC and found the Respondent No. 1 guilty of violation of
+Section 28(1) (h), 208(2)(a) and (e) of the Code and regulation 7(2) (a) and
+7(2)(h) read with clauses 1,2,3,5 and 14 of the Code of Conduct of the IP
+Regulations of the Code and the relevant findings of IBBI reads as under :-
+
+[PAGE 78]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 78 of 97
+
+[PAGE 79]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 79 of 97
+
+(h) We observe that the CoC is vested with the authority to oversee the work
+of Interim Resolution Professional / Resolution Professional and need to
+specifically approve actions that could impact the Corporate Debtor's
+
+[PAGE 80]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 80 of 97
+financial health requiring the CoC's prior approval like the transfer of rights
+or financial or operational debts under material contracts, except when
+carried out in the ordinary course of business. This provision ensures that
+the Interim Resolution Professional /Resolution Professional cannot make
+significant changes to the Corporate Debtor's financial or contractual
+arrangements without the informed decision and approval of CoC. We note
+that in present appeal, the Respondent No. 1 did not take prior approval or
+consent of CoC before signing the said MoU with SIPL.
+(i) We take into consideration Section 28 K of the Code, which reads as
+under:-
+“Section 28 K of the Code
+28. Approval of committee of creditors for certain actions –
+(k) transfer rights or financial debts or operational debts
+under material contracts otherwise than in the ordinary
+course of business;”
+(Emphasis Supplied)
+(j) Based on above analysis, we hold that the Respondent No. 1 signed the said
+MoU with SIPL in violation of the provisions of the Code and the CIRP
+Regulations.
+55. Issue No. (II) (B) Whether the contractor of Haridwar plant of the
+Corporate Debtor i.e., SIPL was related party of the Corporate Debtor. Whether
+Mr. Kairav Anil Trivedi brought out misleading facts before CoC .
+
+[PAGE 81]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 81 of 97
+(a) It has been brought to our notice that SIPL is a related party of the
+Corporate Debtor and in this connection, the Appellant referred to GST
+Registration details filed in annexures 16 of the appeal. From registration
+details it is noted that even prior to commencement of CIRP on 05.10.2021,
+the SIPL has given the registration effective date as 07.03.2021 and it
+indicates that the principal places of business for SIPL is the same as the
+address of the Haridwar plant of the Corporate Debtor. We have perused
+that on effective date of GST document of SIPL i.e., 07.03.2021 the
+principal office of SIPL was shown at address- Sarvashree Industries
+Private Limited, C/O- M/S Prince MFG Industries Pvt. Ltd., Cabin No-02,
+Ground Floor Plot No-5B, Sector 03, IIE,, Sidcul, Haridwar, Haridwar,
+Uttarakhand, 249403. This prima-facie indicate that there was a co-relation
+between the SIPL and the Corporate Debtor/ SBOD.
+➢ The relevant documents are reproduced as under :-
+
+[PAGE 82]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 82 of 97
+
+[PAGE 83]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 83 of 97
+
+[PAGE 84]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 84 of 97
+
+(b) Thus, we find that the Respondent No. 1 signed MoU with SIPL violating
+provision of the Code and Regulations as discussed earlier.
+(c) We also hold that the SIPL was related party of the Corporate Debtor and
+Respondent No. 1 gave misleading facts to the CoC in 2nd CoC meeting.
+56. Issue No. (III) Whether, material irregularities, if any, by Interim
+Resolution Professional /Resolution Professional while taking approval from the
+Adjudicating Authority will affect the fate of approved Resolution Plan.
+(a) At the first instance, we would mention that there is no specific definition
+of Material Irregularity in the Code :-
+
+[PAGE 85]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 85 of 97
+(b) We observe that the Black’s law dictionary defines the terms “Material”
+& “Irregularity” separately. These reads as under :-
+Material: ‘Important; more or less necessary; having
+influence or effect; going to the merits; having to do with
+matter, as distinguished from form. Representation relating
+to matter which is so substantial and important as to
+influence party to whom made is "material." See Material
+fact; Relevant.’ and irregularity as-
+Irregularity: ‘The doing or not doing that, in the conduct of
+a suit at law, which, conformably with the practice of the
+court, ought or ought not to be done. Violation or non-
+observance of established rules and practices. The want of
+adherence to some prescribed rule or mode of proceeding;
+consisting either in omitting to do something that is necessary
+for the due and orderly conducting of a suit, or doing it in an
+unseasonable time or improper manner. The technical term
+for every defect in mechanics of proceedings, or the mode of
+conducting an action or defense, as distinguishable from
+defects in pleadings (see e.g. Fed.R.Civil P. 32(d),
+irregularities in taking of depositions). Term is not
+synonymous with "illegality." In Canon law, any impediment
+which prevents a man from taking holy orders.’
+➢ Thus, as per the definition mentioned above, Material Irregularity refers to
+a significant deviation from established rules, practices, or procedures that
+is substantial enough to influence the outcome of a legal proceeding or
+decision. It involves a failure to adhere to prescribed methods, either by
+
+[PAGE 86]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 86 of 97
+omitting necessary actions or performing them improperly or untimely.
+Such irregularities are not merely formal defects but have a material
+impact, affecting the merits of a case or the rights of the parties involved.
+Unlike illegality, which denotes a violation of law, material irregularity
+pertains to procedural defects that can undermine the fairness or validity of
+legal proceedings.
+➢ It is crucial to note that the Code provides a comprehensive legal
+framework for the resolution of insolvency of corporate debtor in a time-
+bound manner, with the objective of maximizing the value of assets of the
+Corporate Debtor and ensuring the equitable treatment of stakeholders. The
+CIRP is a critical mechanism under the Code, and it is imperative that the
+process is conducted fairly, transparently, and in strict compliance with the
+provisions of the law.
+➢ Thus, we may derive an interference that a material irregularity in the
+conduct of the CIRP is one that significantly impacts the fairness, legality,
+and integrity of the process. Such irregularities can lead to delays, financial
+losses, and litigation, thereby defeating the objectives of the Code. Material
+irregularities may arise from non-compliance with the statutory provisions,
+rules, and regulations governing the CIRP. Any deviation from these
+prescribed legal provisions, both procedural or substantive, may amount to
+a material irregularity and affect the legitimacy of the resolution process,
+
+[PAGE 87]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 87 of 97
+of-course, depending upon the facts and context of each case and no strict
+guidelines can be laid down.
+➢ In this connection, we note that Section 61(3)(ii) of the Code provides that
+an appeal against an order passed by the Adjudicating Authority approving
+the Resolution Plan may be filed if there has been material irregularities in
+exercise of the powers of Resolution Professional during CIRP. Section
+61(3)(ii) of the Code reads as under :-
+“61(3) An appeal against an approving a resolution plan
+under Section 31 may be filed on the following grounds,
+namely, ....-
+(ii)There has been material irregularities in exercise of the
+powers by the Resolution Professional during the corporate
+insolvency resolution period.”
+(Emphasis Supplied)
+➢ Fraud or collusion by the resolution professional with the corporate debtor,
+or any other stakeholder involved in the CIRP concealment of material
+facts, non-adherence to significant CIRP Regulations etc. also constitutes
+a material irregularities. Any act of misrepresentation, concealment, or
+fraudulent conduct undermines the transparency and fairness of the
+process. Similarly, mismanagement of the corporate debtor during the
+CIRP can give rise to material irregularity. The resolution professional is
+entrusted with the responsibility of managing the affairs of the corporate
+debtor in a manner that preserves its value. Any instance of
+mismanagement, including diversion of funds, dissipation of assets, or any
+
+[PAGE 88]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 88 of 97
+conduct that is detrimental to the corporate debtor, may be considered a
+material irregularity.
+➢ If a material irregularity is established, the Adjudicating Authority is
+empowered under the Code to take corrective measures. Such measures
+may include setting aside decisions taken during the CIRP, directing an
+investigation into the conduct of the resolution professional, or imposing
+sanctions on the parties involved. We are conscious that the Adjudicating
+Authority has limited scope for rejecting a Resolution Plan under Section
+31 of the Code and cannot unnecessarily interfere with the “commercial
+wisdom of CoC”. However, it may not mean that the Adjudicating
+Authority cannot look into any relevant aspect before approving the
+Resolution Plan proposed by the CoC. The Adjudicating Authority can
+reject a plan, if it does not meet the requirement of the Code or Regulations
+or it violate the Code or Regulations. The Resolution Plan has to be in
+compliance with Section 30 of the Code. The Hon’ble Supreme Court of
+India, time and again has stipulated that the commercial wisdom of the CoC
+is supreme and cannot be interfered as held in catena of judgements
+including, K. Shashidhar Vs. Indian Overseas Bank & Ors. [(2019) 12
+SCC 15] and Committee of Creditors of Essar Steel India Ltd. Vs. Satish
+Kumar Gupta [(2020) 8 SCC 531]. While the Adjudicating Authority
+cannot interfere with the CoC’s commercial decisions, it needs to ensure
+that the procedure followed by the CoC and/or Resolution Professional is
+
+[PAGE 89]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 89 of 97
+in accordance with the Code and Regulations. Any significant procedural
+lapses may be a ground for rejection.
+➢ The evolving jurisprudence in this area will continue to define the scope
+and implications of material irregularities, but the fundamental principles
+of fairness, transparency, and compliance with the law must be upheld at
+all times. All parties involved in the CIRP, including resolution
+professionals, creditors, and corporate debtors, must adhere to the highest
+standards of integrity and diligence to ensure that the insolvency resolution
+process is conducted in a manner that upholds the objectives of the Code
+and protects the interests of all stakeholders.
+➢ In the present matter before us, the material irregularities have been
+observed in various instances. The conduct of Mr. Kairav Anil Trivedi, as
+an Interim Resolution Professional has been investigated by IBBI
+subsequent to which the Disciplinary Committee of IBBI found the
+Respondent No. 1 guilty of misconduct and therefore suspended the
+Respondent No. 1, for 6 months. Thus, we find that there have been
+material irregularities in CIRP Process, which we have discussed earlier
+and will not repeat once again here.
+(c) In this connection, we note that the Respondent No. 1 has brought out
+that the Resolution Plan as proposed by Ashish Shah has already been
+approved by the CoC and confirmed by the Adjudicating Authority vide
+the Impugned Order dated 15.05.2023 passed in I.A. No. 2977 of 2022
+
+[PAGE 90]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 90 of 97
+for approval of the Resolution Plan. It has also been brought out by the
+Respondent no. 1 that the Resolution Plan has been implemented and the
+money has been distributed to the Creditors. The same fact has been
+confirmed by the CoC. We also note that there has been intervention
+application filed by Mr. Ashish Shah which also confirms the same fact.
+(d) We further note that in both the appeals, i.e. Company Appeal (AT)(Ins.)
+No. 916 of 2023 and Company Appeal (AT)(Ins.) No 792 of 2023, two
+IAs have been filed, namely IA No. 1662 of 2024 and IA No. 2203 of
+2024 respectively by an Intervenor/Applicant, Mr. Ashish Shah, who is
+the Successful Resolution Applicant (SRA).
+(e) The Intervenor has brought out that the Appellant had initiated CIRP
+against Corporate Debtor under Section 9 of the Code, leading to the
+appointment of Respondent No. 1 as the Interim Resolution Professional
+by the Adjudicating Authority.
+(f) The Intervenor submitted that Respondent No. 1 was subsequently
+confirmed as the Resolution Professional vide order dated 10.11.2021
+and, in compliance with the CIRP Regulations, undertook necessary
+procedural steps, including the public announcement, constitution of the
+CoC, and appointment of independent valuers. The valuation report
+determined the Corporate Debtor’s average liquidation value as Rs. 39.20
+Crores and the fair market value as Rs. 53.16 crores. The Respondent
+No. 1 proceeded with the issuance of an Expression of Interest (‘EOI’),
+
+[PAGE 91]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 91 of 97
+following which the Intervenor duly submitted its EOI and Resolution
+Plan along with the requisite bidding amount of Rs. 5 Lakhs.
+(g) It has been submitted by the Intervenor/Applicant that subsequently, the
+Resolution Plans were presented before the CoC, and all prospective
+resolution applicants were granted the opportunity to interact with CoC
+members. After reviewing the submitted plans, the CoC, exercising its
+commercial wisdom, unanimously approved the Applicant’s Resolution
+Plan through a 100% e-voting process. The said plan was deemed to be
+most feasible and viable in terms of compliance with the provisions of
+the Code and asset maximization. The Adjudicating Authority, vide order
+dated 15.05.2023, also acknowledged the merits of the Applicant’s plan,
+approving it as the most suitable resolution plan in consonance with the
+objectives of the Code. Furthermore, the Resolution Plan remained
+unchallenged under Sections 43, 45, 49, 50, and 66 of the Code. The
+Adjudicating Authority directed the Resolution Professional to hand over
+all relevant records and documents to the Intervenor/Applicant for further
+implementation.
+(h) The Intervenor/SRA asserts that its role in the CIRP has been crucial,
+from presenting the Resolution Plan before the CoC to obtaining
+Adjudicating Authority’s approval, thereby ensuring the successful
+resolution of the Corporate Debtor. The Applicant has since taken over
+
+[PAGE 92]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 92 of 97
+control of Corporate Debtor from the Resolution Professional as of
+30.06.2023, rendering the present appeal infructuous.
+(i) In this connection, we note that the total claims of the creditors were of
+Rs. 286,95,18,291/- out of which Rs.278,62,79,988/- pertain to Financial
+Creditors. The total admitted claim of Rs. 179,45,41,528/-. The claimed
+amount of Canara Bank was Rs. 115,26,84,497/-, Axis Bank was
+Rs. 32,03,6/8,777/- and ICICI Bank was Rs. 23,82,49,950/-. We also note
+that the liquidation value of the Corporate Debtor was assessed at
+Rs. 39.20 Crores and fair value of the Corporate Rs. 53.16 Crores.
+(j) The Resolution Plan has been approved by the CoC and the Adjudicating
+Authority which is incidentally lower than the fair value Rs. 53.16 Crores
+and liquidation value of Rs. 39.20 Crores. However, we will not go into
+aspect, as this lies within the domain of commercial wisdom of the CoC.
+We note that Rs. 34.95 Crores has been paid by SRA to CoC.
+(k) However, we have to deal with the issue raised by the Appellant in both
+the appeals that if the approval of Plan was accorded based on
+concealment of facts or misrepresentation of fact which affect the interest
+of the stakeholders of the Corporate Debtor, then whether such
+Resolution Plan could have been approved by the Adjudicating Authority
+under Section 31 of the Code. We have already examined the that the
+Appellant has been able to convince us regarding several irregularities
+and violation of the Code and CIRP regulations by the Respondent No.
+
+[PAGE 93]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 93 of 97
+1. We have already taken into account in detail and analysed the facts
+brought out by the Canara Bank on behalf of the CoC in an additional
+affidavit filed dated 28.03.2022 before the Adjudicating Authority in
+connection with IA No. 247 of 2022,
+(l) We have also taken into account the investigation conducted by the IBBI
+on the issues of irregularities conducted by the Respondent No. 1 which
+pertain to present case and we have noted the finding of IBBI holding the
+Respondent No. 1 of guilty of misrepresentation and various concealment
+affecting the stakeholders of the Corporate Debtor. We consciously note
+that the IBBI has held the Respondent No. 1 responsible for violation of
+provisions of the Code and CIRP Regulations and has debarred the
+Respondent No. 1 for 6 months.
+(m)
+In this connection, we would like to refer to the recent judgement of
+Hon’ble Supreme Court of India in the matter of Independent Sugar
+Corporation Ltd. v/s Girish Sriram Juneja and others, [(2025) SCC
+OnLine SC 181] bearing Civil Appeal No. 6071 of 2023. Although, the
+said judgement primarily focuses interplay between Competition
+Commission of India Act, 2002 and IBC Code, 2016 and the mandatory
+nature of the proviso to Section 31 (4) of the Code, it is much relevant to
+the subject matter of our present case. The relevant portion of the above
+mentioned case is reproduced as under:
+
+[PAGE 94]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 94 of 97
+“150. In the present case, for reasons discussed above, the
+statutory provision and legislative intent unequivocally
+affirm the mandatory nature of the proviso to Section 31(4)
+of the IBC. For a Resolution Plan containing a combination,
+the CCI's approval to the Resolution Plan, in our opinion,
+must be obtained before and consequently, the CoC's
+examination and approval should be only after the CCI's
+decision. This interpretation respects the original legislative
+intent, and deviation from the same would not only
+undermine the statute but would also erode the faith posed by
+the stakeholders in the integrity of our legal and regulatory
+framework.
+152. Further, the indispensability of procedural safeguards
+as an integral component of a just legal order must be given
+its due weight, especially as procedural requirements are not
+mere formalities to be circumvented for expediency but
+substantive protections designed to ensure fairness and
+transparency. In that light, the procedural lapses with respect
+to objections to the proposed combination and the
+consequent divestiture modification proposed within the
+framework of the Competition Act, 2002, seriously vitiated
+the integrity of the process. It is therefore reiterated and
+reinforced that adherence to procedural propriety is non-
+negotiable and that the ends cannot justify the means.
+153. By upholding the mandatory nature of the statutory
+provision and emphasising upon the critical importance of
+procedural safeguards, the principle of rule of law is upheld
+in alignment with global best practices which underscore
+fairness, predictability and transparency. Such an approach
+
+[PAGE 95]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 95 of 97
+not only reinforces the integrity and credibility of the legal
+framework but also highlights India's commitment to
+fostering a regulatory environment, which is conducive to
+both business and innovation. Additionally, it also ensures
+the protection and enforcement of rights in an equitable
+manner, free from bias or favouritism.
+154. Therefore, a balance between the need for expeditious
+relief and adherence to the statutory framework must
+necessarily be maintained, in order to ensure that the
+objectives of both, the IBC and the Competition Act are met
+in a manner that supports India's long term economic
+aspirations.
+155.2. Any action taken pursuant to the Resolution Plan
+shall stand nullified, and the rights of all stakeholders shall
+be restored as per status quo ante, prior to the approval of
+the Resolution Plan by the CoC on 28.10.2022.”
+(Emphasis Supplied)
+(n) From above, we note that the Hon’ble Supreme Court of India has
+emphasised regarding indispensability of procedural safeguards as an
+integral component of a just, legal ordered must be given its due weight,
+especially as procedural requirements are not mere formalities to be
+circumvented for expediency but substantive protections designed to
+ensure fairness and transparency.
+(o) The Hon’ble Supreme Court of India further laid down the law regarding
+critical importance of procedural safeguards, the principle of rule of law
+is upheld in alignment with global best practices which underscore
+
+[PAGE 96]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 96 of 97
+fairness, predictability and transparency. We note that the Hon’ble
+Supreme Court of India in the above quoted case has declared that any
+action taken pursuant to the Resolution Plan shall stand nullified, and the
+rights of all stakeholders shall be restored as per status quo ante, prior to
+the approval of the Resolution Plan by the CoC.
+(p) We find that the position is similar in the present case.
+57. We are duty bound to follow ratio as stipulated by the Hon’ble Supreme
+Court of India in above case of Independent Sugar (Supra). As such, we hold
+that even the approved Resolution Plan will get affected.
+58. In view of the above detailed examination, we find merit in both the appeals
+bearing Company Appeal (AT)(Ins.) No. 916 of 2023 and Company Appeal
+(AT)(Ins.) No 792 of 2023. Both appeals are allowed. Impugned Order dated
+15.05.2023 is set aside. IA, if any, are closed. No costs.
+59. Parties are directed to appear before the Adjudicating Authority on
+28.02.2025.
+60. As regards, the Appellant’s Contempt Petition bearing no. 1034 of 2024, we
+understand that the Appellant was aggrieved by the approval of the Resolution
+Plan and rejection of his objection to approval of Resolution Plan, both in IA No.
+IA/3523/2022 and IA/2977/2022 dealt in CP (IB) No.934/MB/2020 by the
+Adjudicating Authority vide Impugned Order dated 15.05.2023. We also note that
+before the Impugned Order dated 15.05.2023 in CP (IB) No.934/MB/2020 was
+passed by the Adjudicating Authority, the Appellant also filed Contempt Petition
+
+[PAGE 97]
+Comp. App. (AT) (Ins.) No. 916 of 2023, 792 of 2023 & 1034 of 2024
+Page 97 of 97
+No. 04 of 2023 before the Adjudicating Authority on 08.03.2024, which was
+disposed of by Adjudicating Authority vide Impugned Order dated 28.03.2024 in
+CP (IB) No.934/MB/2020.
+61. Although we have noted the contention of the Appellant and Respondent in
+the Company Appeal (AT) (Ins.) No. 1034 of 2024, we do not intend to examine
+this further, in view of the fact that we have allowed the Company Appeal (AT)
+(Ins.) No. 916 of 2023 and Company Appeal (AT) (Ins.) No. 792 of 2023. We are
+of the opinion that no further purpose would be served now.
+62. The Company Appeal (AT) (Ins.) No. 1034 of 2024 is disposed of in view
+of the above observations. IA, if any, are closed. No costs.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+Sim

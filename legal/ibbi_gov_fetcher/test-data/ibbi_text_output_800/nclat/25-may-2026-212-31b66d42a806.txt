@@ -1,0 +1,1263 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) No. 1872 of 2025
+
+[Arising out of the Impugned Order dated 16.09.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai
+Bench-V in I.A. No. 4588 of 2024 in C.P. (IB) No. 1139(MB)/2020]
+
+In the matter of:
+M/s Dharampal Premchand Ltd.,
+Through its Director,
+Shashi Kumar Maheshwari,
+Regd. Office: 4873, Chandni Chowk,
+Delhi-110006
+Corporate Office:
+A-34 & 35, Sector 60,
+Noida-201301 (Uttar Pradesh)
+
+.... Appellant
+Versus
+
+1.
+Mr. Jitendra Bhandari,
+
+‘Kasturi Bangla’ Sanmitra Housing,
+
+Manmad Road, Savedi,
+
+Ahmedabad-414003
+....Respondent No.1/SRA
+
+2.
+Mr. Manoj Kumar Mishra,
+
+Resolution Professional of
+
+Trimurti Foodtech Private Limited,
+
+Office at 18, 3rd Floor, 84,
+
+Dholakawala Building,
+
+Janmabhoomi Marg, Fort,
+
+Mumbai-400001
+....Respondent No.2/RP
+
+3.
+Trimurti Foodtech Ltd.
+
+Through its Managing Director,
+
+Shri Atul Dattatraya Banginwar,
+
+Regd. Office at Plot No.
+
+A-5, MIDC Area Railway Station,
+
+Aurangabad-431005, Maharashtra
+.... Respondent No.3/CD
+
+[PAGE 2]
+Page 2 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+Present:
+
+For Appellant
+: Mr. Brajesh Kumar and Mr. Saurav Kumar, Advocates.
+
+For Respondent
+: Mr. Amir Arsiwala and Ms. Neha Arya, Advocates.
+
+J U D G M E N T
+(25th May, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+The present Appeal has arisen from the order dated 16.09.2025 passed
+by the National Company Law Tribunal, Mumbai Bench-V (Adjudicating
+Authority) in I.A. No. 4588 of 2024 in CP (IB) No. 1139 of 2020, whereby the
+application filed by the Appellant, M/s Dharampal Premchand Ltd.
+(Claiming to be an Operational Creditor), seeking recall of an earlier order
+passed by Adjudicating Authority in IA No. 1916 of 2022 dated 31.03.2023,
+whereby it approved the Resolution Plan of Corporate Debtor-Trimurti
+Foodtech Ltd., who is Respondent No.3 herein, was dismissed.
+2.
+The Appeal has been preferred against the said impugned order
+primarily on the ground that despite the operational debt claim of the
+Appellant being admittedly above the statutory threshold prescribed under
+Section 24(3)(c) of the Insolvency and Bankruptcy Code, 2016,(hereinafter
+referred to as ‘Code’), the Resolution Professional of the Corporate Debtor Mr.
+Manoj Kumar Mishra/ Respondent No.2, allegedly failed to issue notice of
+the Committee of Creditors meetings to the Appellant during the Corporate
+Insolvency Resolution Process. The Appellant has further alleged that
+although it had filed their claim in Form B during the CIRP, the same was
+
+[PAGE 3]
+Page 3 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+subsequently treated as a “contingent claim” on the basis of an alleged
+counterclaim raised by Respondent No.2/RP, resulting in complete denial of
+any payment to the Appellant under the Resolution Plan submitted by the
+Successful Resolution Applicant-Mr. Jitendra Bhandari/ Respondent
+No.1. The Appellant has also challenged the CIRP process on the ground that
+machinery and equipment belonging to the Appellant and merely leased to
+Respondent No.3/Corporate Debtor were unlawfully treated as assets of the
+Corporate Debtor during the insolvency proceedings, apart from alleging
+various procedural irregularities and arbitrary exercise of jurisdiction during
+the resolution process.
+FACTS OF THE CASE
+3.
+The facts relevant for deciding this matter are as given below:
+(i) The Appellant, namely M/s Dharampal Premchand Ltd. (Claiming to
+be an Operational Creditor), is stated to be a well-established company
+operating in the FMCG sector for several decades and having diversified
+into manufacturing and marketing of fruit pulp-based jelly products and
+fruit bars. In connection with its business operations, the Appellant
+entered into commercial arrangements with Respondent No.3/Corporate
+Debtor namely Trimurti Foodtech Ltd. for manufacturing and packaging
+of fruit bars.
+(ii) A fresh “Contract Manufacturing and Packaging Agreement” was
+executed between the Appellant and the Corporate Debtor on
+20.08.2014, superseding an earlier agreement dated 28.11.2013. Under
+
+[PAGE 4]
+Page 4 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+the said arrangement, the Corporate Debtor undertook manufacturing
+and packaging activities for the Appellant’s products. In furtherance of
+the arrangement, the Appellant extended substantial financial support
+to the Corporate Debtor in the form of mobilisation advance, security
+deposit, and advance towards procurement of raw material and
+packaging material. The total financial assistance extended under the
+arrangement was stated to be approximately Rs.6.25 Crores.
+(iii) Simultaneously, assurances were allegedly extended by the Corporate
+Debtor regarding enhancement of manufacturing capacity and
+procurement of additional machinery for its Waluj Plant. Acting upon
+such assurances, the Appellant purchased necessary equipment and
+machinery worth approximately Rs.3.60 Crores and provided the same
+to the Corporate Debtor under an “Equipment Lease Agreement”
+executed on 20.08.2014. According to the Appellant, the ownership of
+the said machinery and equipment always remained vested with the
+Appellant and the same was merely leased to the Corporate Debtor for
+operational purposes.
+(iv) Appellant terminated the above agreement on 20.12.2017 on grounds
+of non-adherence as per agreement unilaterally and sent the letter of
+termination to the Respondent No. 3/Corporate Debtor but Respondent
+No. 3 rebutted it and stated that it was invalid, as no notice was served
+to Respondent No. 3 as specified in the clause R of the above agreement
+and no mandatory written notice prior of 180 days as per clause N was
+given to Corporate Debtor.
+
+[PAGE 5]
+Page 5 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+(v) Subsequently, Sandhya Dinesh Sancheti & Ors. (Financial Creditors)
+of the M/s Trimurti Foodtech Pvt. Ltd. (Corporate Debtor) initiated
+insolvency proceedings under the Code against the Respondent
+No.3/Corporate Debtor. The Corporate Debtor was admitted in Corporate
+Insolvency Resolution Process (CIRP), vide order dated 11.08.2021
+passed by the Adjudicating Authority in CP (IB) No.1139 (MB) of 2020
+the Respondent No.2 was appointed as Resolution Professional (RP).
+(vi) Pursuant to public announcement made during the CIRP, the
+Appellant submitted its claim as Operational Creditor before the RP in
+Form-B on 13.09.2021. The Appellant claimed an amount of
+Rs.6,81,21,070/- as payable by the Corporate Debtor and submitted
+supporting documents in relation thereto. The RP vide e-mail dated
+02.12.2021 informed the Appellant that the claim was not tallying with
+books of account of the Corporate Debtor and the claim was under
+verification.
+(vii) Respondent No.2/RP issued a legal notice dated 12.04.2022 to the
+Appellant, in the said notice, the RP expressly referred to the Appellant’s
+claim and informed the Appellant that the erstwhile Directors of the
+Corporate Debtor had informed the RP that no valid termination notice
+had been issued by the Appellant in accordance with the contract.
+Further relying upon the renewal clause in the agreement, the RP
+asserted that the manufacturing agreement had automatically renewed
+itself and continued to remain operational even after expiry of its original
+tenure. The RP further alleged that due to non-adherence by the
+
+[PAGE 6]
+Page 6 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+Appellant to the “production commitment” obligations under the
+agreement, the manufacturing capacity of the Corporate Debtor
+remained underutilized, thereby causing massive financial losses to the
+Corporate Debtor. The RP computed such alleged losses for the period
+from January 2015 till March 2022 at approximately Rs.55.68 Crores
+and characterized the same as a “counterclaim” against the Appellant. It
+was further stated that although the Appellant’s claim stood admitted,
+the same would remain contingent upon adjudication of the alleged
+counterclaim.
+(viii) The Appellant denied the alleged counterclaim, and the Respondent
+No.2/RP therefore invoked the arbitration clause contained in the
+agreement and issued a notice dated 01.06.2022 under Section 11 of the
+Arbitration and Conciliation Act, 1996, calling upon the Appellant to
+appoint an arbitrator for adjudication of disputes arising out of the
+contract dated 20.08.2014. The Appellant, through a reply dated
+08.07.2022, rejected invocation of arbitration and asserted that no
+arbitrable dispute existed since the agreements had already stood
+terminated long back and the claims raised by the RP were baseless and
+untenable.
+(ix) The Resolution Process continued and the Resolution Plan submitted
+by Respondent No.1/SRA namely, Mr. Jitendra Bhandari, was approved
+by the Committee of Creditors in its 9th Meeting with 78.58% voting and
+thereafter it was approved by the Adjudicating Authority vide order dated
+31.03.2023 passed in IA No.1916 of 2023. Respondent No. 2/RP vide
+
+[PAGE 7]
+Page 7 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+email dated 27.04.2023, informed the Appellant that ‘NIL’ amount was
+payable to him and this status was also published on the IBBI website
+on 23.05.2022.
+(x) Aggrieved by the approval of the Resolution Plan, the Appellant
+initially preferred Company Appeal (AT)(Ins.) No.829 of 2023 before this
+Appellate Tribunal. However, during pendency of the proceedings, the
+Hon’ble Supreme Court in “Greater Noida Industrial Development
+Authority vs. Prabhjit Singh Soni & Anr.” clarified the legal position
+regarding recall jurisdiction of the NCLT. In light of the said development
+and availability of alternative remedy, the Appellant sought liberty to
+withdraw the appeal and pursue recall proceedings before the NCLT. The
+said liberty was granted by this Tribunal by order dated 09.05.2024.
+(xi) Thereafter, the Appellant filed I.A. No.4588 of 2024 before the
+Adjudicating Authority seeking recall of the order dated 31.03.2023
+approving the Resolution Plan. In the reply affidavit filed by Respondent
+No.2/RP, several additional stands were taken. It was contended that as
+per the books of accounts and audit reports of the Corporate Debtor, the
+Appellant was actually a debtor of the Corporate Debtor and that an
+amount of approximately Rs.55.68 Crores was receivable from the
+Appellant. The RP also relied upon an alleged letter dated 12.03.2016
+purportedly written by the erstwhile Managing Director of the Corporate
+Debtor demanding approximately Rs.698 Lakhs from the Appellant.
+
+[PAGE 8]
+Page 8 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+(xii) The Adjudicating Authority vide its order dated 16.09.2025,
+dismissed the Appellant’s recall application. Aggrieved by the said
+dismissal order and reiterating allegations relating to violation of Section
+24(3)(c), wrongful treatment of its admitted claim, illegal subsuming of
+leased machinery into CIRP assets, arbitrary conduct of the RP, and
+material irregularities in the resolution process, the Appellant has filed
+the present Appeal.
+Submissions of the Appellant
+4.
+Ld. Counsel for the Appellant submits that the prayer seeking recall of
+the Resolution Plan approved vide order dated 31.03.2023 came to be rejected
+on a fundamentally erroneous premise that the claim of the Appellant had not
+been admitted by the Resolution Professional, whereas the records
+unmistakably demonstrate that the claim of the Appellant had in fact been
+categorically admitted by the Resolution Professional himself.
+
+5.
+He submits that the Appellant had entered into a “Contract
+Manufacturing & Packaging Agreement” dated 20.08.2014 with Corporate
+Debtor/Respondent No.3, for a fixed tenure of five years. In order to facilitate
+performance under the said agreement, the Appellant had also procured new
+Equipment and Machinery, which was provided to the Corporate Debtor on
+lease under a separate Equipment and Machinery Agreement executed on the
+same date. It is submitted that the contractual arrangement was purely
+commercial in nature and governed by specific terms and conditions relating
+to production commitments, duration and termination.
+
+[PAGE 9]
+Page 9 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+6.
+He further submits that owing to various defaults and operational
+difficulties attributable to Respondent no.3, the Appellant was constrained to
+prematurely terminate the said Contract on 20.12.2017. He submitted that
+such termination was duly communicated to the erstwhile Managing Director
+of the Corporate Debtor. Thereafter, the Appellant continuously followed up
+the matter through various communications dated 20.03.2018, 21.05.2018
+and 14.06.2018, besides legal notices dated 30.11.2018 and 04.02.2019,
+reiterating and affirming the factum of termination of the Contract. Despite
+receipt of such communications, neither the Corporate Debtor nor its
+erstwhile Directors ever protested against the termination nor raised any
+grievance alleging any loss or damages on account of the said termination. It
+is submitted that the complete silence maintained by the Corporate Debtor
+over several years clearly establishes that the termination of the Contract had
+attained finality and stood accepted by all concerned.
+
+7.
+Ld. Counsel submits that even otherwise, the original tenure of the
+Contract itself expired on 30.09.2019. Thus, by the time CIRP commenced
+against the Corporate Debtor on 11.08.2021, not only had the Contract
+already been terminated nearly four years earlier, but even the maximum
+contractual tenure had long expired. It is submitted that after expiry of the
+tenure, no fresh agreement was executed between the parties and no renewal
+document was ever brought into existence. Therefore, there remained no
+surviving contractual relationship capable of being revived, continued or
+renewed by the Resolution Professional.
+
+[PAGE 10]
+Page 10 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+8.
+He submits that in the course of CIRP, the Appellant submitted its claim
+amounting to approximately Rs. 6.81 Crores on 10.09.2021. Thereafter, on
+10.01.2022, the list of claims uploaded by the Resolution Professional
+reflected that all claims, including the claim of the Appellant, were under
+verification. Subsequently, the Information Memorandum dated 28.02.2022,
+which was published on 01.03.2022, captured the claim of the Appellant in
+its entirety and Expressions of Interest were invited by 28.03.2022.
+
+9.
+Ld. Counsel further submits that the Resolution Professional issued a
+legal notice dated 12.04.2022 to the Appellant. He submitted that by the said
+notice, the Resolution Professional unequivocally admitted the claim of the
+Appellant. However, in complete contradiction to the admitted factual position
+regarding termination and expiry of the Contract, the Resolution Professional
+proceeded to assert that the Contract should be assumed to be continuing.
+The Resolution Professional further unilaterally asserted that the Contract
+stood automatically renewed on the basis of a purported renewal clause,
+notwithstanding the fact that the contractual tenure had expired on
+30.09.2019 itself.
+
+10.
+He submits that the Resolution Professional further alleged that the
+Appellant had failed to comply with the production commitment clauses under
+the Contract since January 2015, due to which the Corporate Debtor allegedly
+suffered losses. On this basis, the Resolution Professional purportedly
+quantified alleged losses of approximately Rs.55 Crores to Rs.55.68 Crores for
+the period January 2015 till March 2022 and held the Appellant liable to
+compensate the same. The said alleged liability was described as a “Counter
+
+[PAGE 11]
+Page 11 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+Claim” and the Resolution Professional arbitrarily declared that the admitted
+claim of the Appellant would be treated as contingent upon such alleged
+counter claim. It is submitted that by such unilateral action, the Resolution
+Professional attempted to virtually set-off an admitted operational debt
+against an entirely unadjudicated and uncrystallized damages claim.
+
+11.
+Ld. Counsel submits that even the correspondence attributed to the
+suspended directors of the Corporate Debtor does not deny the termination of
+the Contract. Rather, the only issue sought to be raised therein pertains to
+the
+mode
+of
+communication
+of
+termination,
+which
+itself
+implies
+acknowledgment and knowledge of such termination on the part of the
+Corporate Debtor and its directors. It is submitted that once the factum of
+termination stood acknowledged and remained unchallenged for years
+together, the Resolution Professional had absolutely no authority under law
+to revive, continue or renew a dead contract.
+
+12.
+He further submits that the Sixth Meeting of the Committee of Creditors
+held on 20.04.2022 included an agenda item relating to the steps taken by
+the Resolution Professional for issuance of legal notice to the Appellant.
+However, the agenda notes and explanatory material placed before the CoC
+were deliberately vague and cryptic. It is submitted that the Resolution
+Professional suppressed crucial facts from the Committee of Creditors,
+namely, the earlier termination of the Contract and expiry of the contractual
+tenure on 30.09.2019. The Resolution Professional also failed to disclose
+before the CoC that the alleged action proposed against the Appellant was
+
+[PAGE 12]
+Page 12 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+founded entirely upon his own unilateral assumptions regarding continuation
+and automatic renewal of the Contract.
+
+13.
+It is the submission of Ld. Counsel that the copy of the legal notice dated
+12.04.2022 itself was not placed before the Committee of Creditors and
+neither were the relevant extracts or contemplated actions disclosed.
+Consequently, the CoC was never placed in a position to appreciate the
+illegality and arbitrariness of the action being taken by the Resolution
+Professional against the Appellant. It is submitted that such concealment of
+material information amounts to suppression of vital facts from the CoC and
+vitiates the entire CIRP process.
+
+14.
+He further submits that Item No.11 of the Minutes of Meeting reveals
+that out of twenty-four applicants, only Respondent No.1 was ultimately
+declared eligible by the Resolution Professional. It is submitted that the
+competitive bidding process, which constitutes the essence of a fair insolvency
+resolution mechanism, was effectively eliminated in a highly deceitful manner.
+The steps taken by the Resolution Professional adversely affecting the
+Appellant, including the virtual disappearance of the Appellant’s admitted
+claim by converting it into a contingent claim, were nowhere reflected in
+Version-1 of the Information Memorandum circulated to prospective
+applicants. Consequently, prospective bidders were deprived of accurate
+information necessary for assessing the true financial position and valuation
+of the Corporate Debtor.
+
+15.
+Ld. Counsel submits that on 23.04.2022, the Resolution Professional
+circulated Version-2 of the Information Memorandum only to Respondent
+
+[PAGE 13]
+Page 13 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+No.1 along with other documents. The amended Information Memorandum
+was not circulated either to the Committee of Creditors or to other bidders
+who had responded pursuant to the first Expression of Interest. It is
+submitted that such selective disclosure clearly demonstrates collusion
+between the Resolution Professional and the Successful Resolution Applicant.
+Even in the amended Information Memorandum, the reasons for converting
+the admitted claim of the Appellant into a contingent claim were
+conspicuously absent. The Resolution Professional ought to have retained the
+status of the claim as “admitted” while merely indicating by way of note that
+a purported counter claim was being contemplated. Instead, the Resolution
+Professional deliberately altered the character of the claim itself in order to
+deprive the Appellant of its statutory rights under the Code.
+
+16.
+Ld. Counsel further submits that thereafter the Resolution Plan
+submitted by Respondent No.1 was approved by the Committee of Creditors
+and subsequently by the Ld. Adjudicating Authority on 31.03.2023. However,
+although the claim of the Appellant had admittedly been accepted by the
+Resolution Professional through legal notice dated 12.04.2022, the status of
+the claim as “admitted” completely disappeared from the Resolution Plan and
+was instead reflected as “contingent”.
+
+17.
+Ld. Counsel submits that Section 24(3)(c) of the Code casts a mandatory
+obligation upon the Resolution Professional to issue notice of every meeting of
+the Committee of Creditors to operational creditors whose aggregate dues
+exceed the prescribed threshold. It is submitted that the admitted claim of the
+Appellant by itself crossed the statutory threshold and therefore the Appellant
+
+[PAGE 14]
+Page 14 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+was legally entitled to notice of CoC meetings. However, by artificially
+converting the admitted claim into a “contingent” claim through the device of
+an unadjudicated counter claim, the Resolution Professional sought to evade
+the rigours of Section 24(3)(c) and illegally deprived the Appellant of
+participation rights in the CoC meetings.
+
+18.
+He submits that the mandate of Section 24(3)(c) is inviolable and
+mandatory in nature. He places reliance upon “ANG Industries Ltd. Vs Shah
+Brothers Ispat Pvt Ltd. & Anr.” and “Bhushan Shringarpure & Ors Vs. B.K
+Mishra & Ors.” wherein this Appellate Tribunal held that compliance with
+Section 24(3)(c) is mandatory and incumbent upon the Resolution
+Professional. It is submitted that once the Appellant stood excluded from the
+CoC process by an illegal device, the entire resolution process stood vitiated.
+
+19.
+Ld. Counsel submits that the Equipment and Machinery leased by the
+Appellant to the Corporate Debtor always remained the property of the
+Appellant and never formed part of the assets of the Corporate Debtor. In
+terms of Section 18 of the Code, only assets belonging to the Corporate Debtor
+can form part of the insolvency estate. Therefore, the leased Equipment and
+Machinery could not have been appropriated or dealt with in the resolution
+process in the absence of any authority of law permitting such appropriation.
+He further submits that Article 300A of the Constitution of India guarantees
+that no person shall be deprived of property save by authority of law. It is
+submitted that such deprivation of property rights through the CIRP
+mechanism is wholly illegal and unconstitutional.
+
+[PAGE 15]
+Page 15 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+20.
+Ld. Counsel further submits that the Resolution Professional acted
+wholly beyond jurisdiction in assuming continuation of a contract that had
+already been terminated years prior to commencement of CIRP. He submitted
+that renewal of a contract or lease cannot take place automatically in the
+absence of execution of a fresh document evidencing such renewal.
+
+21.
+Ld. Counsel places reliance upon “Hardesh Ores Pvt. Ltd. Vs. M/s
+Hede and Company” wherein the Hon’ble Supreme Court categorically held
+that in order to give effect to renewal of a lease, a document has to be executed
+evidencing renewal of the agreement and there exists no concept of automatic
+renewal merely by exercise of an option. It is submitted that in the present
+case there was not even any exercise of option, much less execution of a
+renewal document. Therefore, the entire basis adopted by the Resolution
+Professional for foisting liability upon the Appellant is contrary to settled law.
+
+22.
+Ld. Counsel submits that the so-called counter claim raised by the
+Resolution
+Professional
+is
+entirely
+unadjudicated,
+hypothetical
+and
+unsupported by any evidence of actual loss. Until such adjudication takes
+place, they remain disputed and contingent in nature. In absence of any
+adjudication, evidence or determination of damages, the Resolution
+Professional sought to treat the alleged counter claim as a basis for converting
+the admitted operational debt of the Appellant into a contingent claim. Such
+action is arbitrary, illegal and contrary to settled legal principles. Reliance is
+placed upon CSA Corporation Private Limited vs. Mr. Rajiv Bhatnagar,
+Associate Builders vs. Delhi Development Authority and M/S Embassy
+Property Developments Pvt. Ltd. Vs State of Karnataka. It is submitted
+
+[PAGE 16]
+Page 16 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+that the Hon’ble Supreme Court in Embassy Property Developments has
+clearly held that the purpose of moratorium is merely to preserve status quo
+and not to create new rights. In the present case, the Resolution Professional
+has attempted to create entirely new rights and liabilities after commencement
+of CIRP.
+
+23.
+Ld. Counsel submits that the Resolution Plan approved by the Ld.
+Adjudicating Authority was obtained by suppression of material facts and by
+playing fraud upon the Committee of Creditors as well as the Court. The
+Resolution Professional deliberately concealed the fact of termination of the
+Contract, expiry of its tenure, absence of any crystallized counter claim, and
+the actual status of the Appellant’s admitted claim. The selective circulation
+of the amended Information Memorandum only to the Successful Resolution
+Applicant further establishes collusion and manipulation of the CIRP process.
+
+24.
+Ld. Counsel submits that fraud vitiates every solemn proceeding and
+any judicial order obtained by fraud is a nullity in the eyes of law. Reliance is
+placed upon S.P. Chengalvaraya Naidu vs. Jagannath wherein the Hon’ble
+Supreme Court held that a judgment or decree obtained by playing fraud upon
+the Court is non-est and nullity in the eyes of law. It is therefore submitted
+that the impugned order rejecting recall of the Resolution Plan is
+unsustainable and deserves to be set aside.
+Submissions of the Respondent 1/SRA and Respondent no.3/Corporate
+Debtor
+25.
+Shri Amir Arsiwala Ld. Counsel appearing for Respondents No.1 and 3
+most respectfully submits that Ld. Adjudicating Authority rightly dismissed
+
+[PAGE 17]
+Page 17 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+the Application filed by the Appellant after appreciating the factual and legal
+position in its correct perspective. He submitted that the Appellant never
+acquired the status of either a Secured Creditor or an admitted Operational
+Creditor during the CIRP. On the contrary, the Appellant’s alleged claim was
+continuously treated as a contingent claim owing to the substantial counter-
+claims and disputes existing between the parties. The Appellant was aware of
+such classification throughout the CIRP period and yet consciously chose not
+to challenge the same at any relevant stage.
+
+26.
+He submits that the commercial relationship between the parties was
+based upon a Contract Manufacturing and Packaging Agreement dated
+28.11.2013 executed between, the Corporate Debtor/ Trimurti Foodtech Pvt.
+Ltd., and the Appellant/Dharampal Premchand Ltd., for manufacture of fruit
+bars. Thereafter, on 20.08.2014, a fresh Contract Manufacturing and
+Packaging Agreement came to be executed superseding the earlier agreement
+of 2013. Under the said agreement, the Appellant was obligated to place
+indents of 400 MT per month, subject to a minimum of 320 MT. It is submitted
+that the said agreement subsequently gave rise to reciprocal claims and
+counter-claims between the parties, including substantial receivables due to
+the Corporate Debtor from the Appellant.
+
+27.
+The Ld. Counsel further submits that on 12.03.2016, the Corporate
+Debtor issued a demand notice upon the Appellant claiming an amount of Rs.
+2698.05 lakhs on account of breach and non-performance of contractual
+obligations by the Appellant. The said notice was never effectively disputed
+and formed the foundational basis for the Corporate Debtor’s counter-claim
+
+[PAGE 18]
+Page 18 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+against the Appellant. It is submitted that because of the subsisting disputes
+and counter-claims, the alleged claim of the Appellant could never have been
+treated as an admitted operational debt. The existence of such disputes fully
+justified the treatment of the Appellant’s claim as contingent in nature during
+the CIRP.
+
+28.
+The Ld. Counsel submits that by order dated 11.08.2021, the Ld.
+Adjudicating Authority admitted the Corporate Debtor into CIRP under
+Section 7 of the Code and appointed Respondent No.2 as the IRP, who was
+later confirmed as the RP. During the CIRP process, the RP examined the
+claims filed by various stakeholders, including the Appellant. Upon
+verification, the RP informed the Appellant on 02.12.2021 that its claim did
+not reconcile with the books and records of the Corporate Debtor. This
+communication itself clearly demonstrated that the claim was under
+verification and had not been admitted as a crystallized debt.
+
+29.
+He submits that on 16.02.2022, the RP circulated Version-1 of the
+Information
+Memorandum
+to
+the
+Successful
+Resolution
+Applicant/Respondent No.1, wherein the admitted amount against the
+Appellant’s claim was specifically reflected as “Rs. 0”. This clearly establishes
+that at no stage was the Appellant treated as an admitted operational creditor
+entitled to any voting rights or participation rights in the Committee of
+Creditors meetings. The Appellant was therefore never entitled to receive
+notices or minutes of CoC meetings as claimed in the present Appeal.
+
+[PAGE 19]
+Page 19 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+30.
+It is submitted that on 14.03.2022, the suspended director of the
+Corporate Debtor addressed an email to the RP enclosing the earlier demand
+notice dated 12.03.2016 and reiterating that substantial amounts were due
+and payable by the Appellant to the Corporate Debtor. The said
+communication reaffirmed the existence of disputes and counter-claims
+against the Appellant and further justified the contingent classification
+accorded to the Appellant’s claim.
+
+31.
+The Ld. Counsel further submits that in the 5th meeting of Committee
+of Creditors (CoC) held on 17.03.2022, the CoC resolved to initiate recovery
+proceedings against the Appellant by issuance of a legal notice. The said
+resolution clearly demonstrates that the CoC was fully conscious of the fact
+that the Appellant was not a creditor, whose dues stood admitted, but rather
+a party against whom substantial recoveries were claimed by the Corporate
+Debtor. The collective commercial wisdom of the CoC therefore consistently
+treated the Appellant’s claim as contingent and disputed.
+
+32.
+He submits that on 12.04.2022, the RP issued a legal notice terminating
+the agreement dated 20.08.2014 and demanded an amount of Rs. 55.68
+crores from the Appellant. Simultaneously, the suspended director confirmed
+that the agreement had not previously been terminated. The action taken by
+the RP was duly approved by the CoC and was entirely consistent with the
+materials available on record. It is specifically submitted that paragraph 13 of
+the said communication expressly records that the Appellant’s claim was
+admitted only as a contingent claim due to the subsisting counter-claim of the
+
+[PAGE 20]
+Page 20 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+Corporate Debtor. Despite receiving this communication, the Appellant never
+challenged the classification accorded to its claim.
+
+33.
+The Ld. Counsel submits that despite being fully informed that its claim
+had not been admitted in entirety and had only been considered as a
+contingent claim, the Appellant consciously failed to take any legal steps to
+challenge such classification either before the RP, before the CoC, or before
+the Adjudicating Authority during the CIRP period. Such prolonged silence
+and inaction clearly amount to acquiescence and acceptance of the contingent
+status recorded against the Appellant’s claim.
+
+34.
+It is further submitted that on 17.04.2022, the RP issued notice
+convening the 6th CoC meeting for the specific purpose of amending the
+Information Memorandum so as to incorporate the Corporate Debtor’s
+counter-claim against the Appellant and to formally record the contingent
+classification of the Appellant’s claim. Thereafter, on 20.04.2022, the 6th CoC
+meeting approved the proposed amendment to the Information Memorandum
+with the requisite majority. The decision was thus taken transparently and
+strictly in accordance with the commercial wisdom of the CoC.
+
+35.
+The Ld. Counsel further submits that on 27.04.2022, the RP circulated
+Version-2 of the amended Information Memorandum to the CoC members. It
+is submitted that on the same date, the Hon’ble Tribunal passed an order in
+I.A. (IBC) No. 1055 of 2022 filed by another claimant, namely Ajit Kad,
+whereby delay in filing claim was condoned and liberty was granted to the RP
+to further amend the Information Memorandum. Pursuant thereto, the RP
+further revised the Information Memorandum and circulated Version-3 of the
+
+[PAGE 21]
+Page 21 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+amended Information Memorandum to the SRA on 21.05.2022. These
+repeated revisions and disclosures clearly establish that the entire process
+was conducted transparently and with full disclosure of the contingent nature
+of the Appellant’s claim.
+
+36.
+The Ld. Counsel submits that on 23.05.2022, the RP published the list
+of stakeholders on the official website of IBBI wherein the Appellant’s claim
+was specifically reflected as “NIL amount admitted” and only a contingent
+amount of Rs. 6,81,21,070/- was recorded. Even at this stage, no challenge
+whatsoever was raised by the Appellant against the said classification. The
+Appellant therefore cannot now be permitted to reopen the concluded CIRP
+process after consciously accepting its position during the entire resolution
+process.
+
+37.
+It is further submitted that the RP received the hard copy of the
+Resolution Plan submitted by Respondent No.1/SRA on 26.05.2022 through
+Blue Dart courier and thereafter received the password-protected electronic
+copy of the Final Resolution Plan on 27.05.2022 through email. The
+Resolution Applicant had thus prepared and submitted its plan with full
+knowledge of the contingent status accorded to the Appellant’s claim as
+disclosed in the Information Memorandum.
+
+38.
+The Ld. Counsel submits that on 01.06.2022, the RP invoked the
+arbitration clause contained in the agreement dated 20.08.2014 against the
+Appellant. The said action clearly demonstrates that the disputes between the
+parties were intended to be adjudicated through the agreed contractual
+dispute resolution mechanism. Once arbitration proceedings had already
+
+[PAGE 22]
+Page 22 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+been invoked, there was no occasion whatsoever for the Appellant to seek
+reopening or recall of the completed CIRP proceedings.
+
+39.
+The Ld. Counsel further submits that on 31.03.2023, the Adjudicating
+Authority approved the Resolution Plan submitted by Respondent No.1/SRA.
+The approved Resolution Plan expressly treated the Appellant as an
+Operational Creditor whose claim was contingent and subject to the outcome
+of the arbitration proceedings. Thus, the Appellant’s claim was neither ignored
+nor suppressed. In fact, the order approving the Resolution Plan specifically
+records the contingent nature of the Appellant’s claim as well as the treatment
+accorded to such claim under the plan. Consequently, the allegation of
+suppression of the Appellant’s claim before the Adjudicating Authority is
+entirely false and contrary to record.
+
+40.
+It is further submitted that the RP subsequently issued a letter
+confirming that the Appellant’s claim had been recognized in the approved
+Resolution Plan as a contingent operational creditor claim pending
+crystallization through arbitration proceedings. The said communication
+conclusively establishes that the status of the Appellant’s claim was always
+transparent, known, and duly recorded in the CIRP records. Hence, the
+allegation that the Resolution Applicant or RP concealed any material fact is
+completely baseless.
+
+41.
+The Ld. Counsel submits that on 19.08.2023, Respondent No.1/SRA
+initiated Arbitration Application No. 18 of 2023 before the Hon’ble Bombay
+High Court, Aurangabad Bench under Sections 11(5) and 11(6) of the
+Arbitration and Conciliation Act, thereby activating the contractual remedy
+
+[PAGE 23]
+Page 23 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+available between the parties. This clearly establishes that the disputes were
+always intended to be resolved independently through arbitration and not
+within the framework of the concluded CIRP proceedings.
+
+42.
+The Ld. Counsel further submits that the Appellant had earlier filed
+Company Appeal (AT) (INS) No. 829 of 2023 challenging the approved
+Resolution Plan. However, on 09.05.2024, the Appellant voluntarily withdrew
+the said appeal. By withdrawing the earlier appeal, the Appellant effectively
+abandoned its challenge to the approved Resolution Plan and accepted the
+treatment accorded to its claim therein. Having once withdrawn its challenge,
+the Appellant cannot now be permitted to reagitate the same issues indirectly
+through the present Appeal.
+
+43.
+It is submitted that throughout the CIRP process and even after
+approval of the Resolution Plan, the Appellant never took any steps to oppose
+the Resolution Plan or to challenge its classification as a contingent
+operational creditor. Such prolonged silence and complete inaction amount to
+unequivocal acquiescence. The Appellant consciously allowed the CIRP
+process to attain finality and implementation and therefore cannot now seek
+reopening of a settled process after substantial implementation of the
+Resolution Plan.
+
+44.
+Ld. Counsel submits that on 29.08.2024, the Hon’ble NCLT recorded
+successful implementation of the Resolution Plan and dissolved the
+Monitoring Committee. Once the Resolution Plan stood fully implemented, the
+same attained complete statutory finality under Section 31 of the Insolvency
+and Bankruptcy Code, 2016. It is settled law that a successfully implemented
+
+[PAGE 24]
+Page 24 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+Resolution Plan cannot be lightly reopened at the instance of a party who had
+consciously accepted the process throughout the CIRP period.
+
+45.
+Ld. Counsel further submits that on 05.05.2025, the Adjudicating
+Authority directed the RP to clarify how the SRA was aware of the contingent
+nature of the Appellant’s claim before submission of the Resolution Plan.
+Pursuant thereto, on 28.06.2025, the RP filed an additional affidavit placing
+on record all contemporaneous communications including emails, CoC
+minutes, versions of the Information Memorandum, and the RP’s confirmatory
+letters. The said affidavit conclusively proved that the Appellant’s claim was
+duly disclosed, discussed, and treated in the approved Resolution Plan. Thus,
+the allegation that the Resolution Applicant lacked knowledge of the
+contingent claim is wholly incorrect and contrary to documentary record.
+
+46.
+The Ld. Counsel submits that after considering all the above facts,
+documents, contemporaneous records, and the conduct of the parties, the
+Adjudicating Authority rightly dismissed I.A. (IBC) No. 4588 of 2024 by order
+dated 16.09.2025. The Ld. Adjudicating Authority correctly appreciated that
+the Appellant never held the status of an admitted operational creditor, that
+the Appellant’s claim was consistently treated as contingent, and that the
+Appellant never challenged such classification during the CIRP process.
+
+47.
+Ld. Counsel submits that the present Company Appeal (AT) (INS) No.
+1872 of 2025 is nothing but a belated attempt to reopen a concluded and
+successfully implemented resolution process despite the Appellant having
+accepted its recorded position throughout the CIRP proceedings. The Appeal
+
+[PAGE 25]
+Page 25 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+is devoid of merit, contrary to the factual record, and liable to be dismissed
+with costs.
+ANALYSIS AND FINDINGS
+48.
+The principal issue which arises for consideration in the present Appeal
+is whether the Adjudicating Authority was justified in rejecting I.A. No. 4588
+of 2024 seeking recall of the order dated 31.03.2023 approving the Resolution
+Plan, and whether the Appellant has been able to establish any material
+illegality, procedural irregularity, fraud, suppression of facts, or violation of
+mandatory provisions of the Code so as to warrant interference with the
+approved Resolution Plan which has already been implemented.
+
+49.
+The above issue substantially covers all objections raised by the
+Appellant regarding non-service of notice of CoC meetings under Section
+24(3)(c) of the Code, classification of its claim as “contingent”, alleged wrongful
+assumption by the Resolution Professional regarding continuation and
+renewal of the contract, alleged suppression before the CoC, and challenge to
+the CIRP process itself. Since all these objections ultimately seek recall of the
+approved Resolution Plan and challenge the correctness of the Impugned
+Order, they are being considered together.
+
+50.
+At the outset, it is necessary to note that the jurisdiction under Section
+61 of the Insolvency and Bankruptcy Code is limited. Interference with an
+approved Resolution Plan can be made, only if the Appellant is able to show
+patent illegality, material irregularity, violation of mandatory provisions of law,
+or perversity in the findings of the Adjudicating Authority. Mere dissatisfaction
+with the outcome of the CIRP or disagreement with the manner in which a
+
+[PAGE 26]
+Page 26 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+claim was treated cannot by itself become a ground to reopen a completed
+insolvency process, particularly after approval of the Resolution Plan. The
+object of the Code is to ensure resolution, revival of the Corporate Debtor, and
+finality of the insolvency process within prescribed timelines.
+
+51.
+The case of the Appellant is that its claim of approximately Rs. 6.81
+Crores was categorically admitted by the Resolution Professional through legal
+notice dated 12.04.2022, yet the same was wrongly treated as “contingent” in
+the Resolution Plan. The Appellant contends that despite its admitted claim
+being above the statutory threshold prescribed under Section 24(3)(c) of the
+Code, no notice of CoC meetings was ever served upon it, thereby vitiating the
+entire CIRP process. The Appellant further argues that the Contract
+Manufacturing Agreement dated 20.08.2014 had already been terminated on
+20.12.2017 and, in any case, the contractual tenure expired in 2019.
+Therefore, according to the Appellant, the Resolution Professional had no
+authority to assume continuation or automatic renewal of the contract after
+its termination and expiry. The Appellant has also alleged that an
+unadjudicated and uncrystallized counter-claim of the Corporate Debtor was
+illegally used to render its admitted claim contingent and thereby deprive it of
+its rights during CIRP. It is further contended that material facts regarding
+termination of the contract and the basis of the alleged counter-claim were
+not properly disclosed before the CoC and that the Resolution Plan was
+approved on a fundamentally erroneous basis.
+
+52.
+Per contra, the Respondents submit that the Appellant never acquired
+the status of an admitted Operational Creditor during CIRP because its claim
+
+[PAGE 27]
+Page 27 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+was disputed and remained contingent on account of substantial counter-
+claims raised by the Corporate Debtor. According to the Respondents, the
+contractual
+disputes
+between
+the
+parties
+existed
+much
+prior
+to
+commencement of CIRP and notices had already been issued by the Corporate
+Debtor claiming damages and losses from the Appellant. It is their case that
+the Resolution Professional was justified in treating the Appellant’s claim as
+contingent in view of the reciprocal claims and disputes between the parties.
+The Respondents further contend that the Appellant was fully aware since
+April 2022 that its claim was being treated as contingent, yet it never
+challenged such classification during CIRP and raised objections only after
+approval of the Resolution Plan. It is also submitted that there was no violation
+of Section 24(3)(c) because the Appellant was not treated as an admitted
+Operational Creditor for the purpose of participation in CoC meetings. The
+Respondents deny all allegations of fraud, collusion, suppression, or material
+irregularity and contend that the Impugned Order rightly rejected the recall
+application after considering all relevant facts and circumstances.
+
+53.
+Upon consideration of the record, we find that the dispute between the
+parties arises out of the Contract Manufacturing and Packaging Agreement
+dated 20.08.2014 entered into between the Appellant and the Corporate
+Debtor. Under the said arrangement, advances and certain equipment were
+also provided by the Appellant to the Corporate Debtor. The Appellant claims
+that the contract was prematurely terminated on 20.12.2017 and, therefore,
+no contractual relationship survived thereafter. On the other hand, the
+Respondents consistently maintained that the alleged termination was not in
+
+[PAGE 28]
+Page 28 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+accordance with the contractual terms and that the Corporate Debtor had
+suffered substantial losses on account of non-fulfilment of production
+commitments by the Appellant.
+
+54.
+It is not in dispute that when CIRP commenced against the Corporate
+Debtor on 11.08.2021, the Appellant submitted its claim in form B on
+10.09.2021 for an amount of approximately Rs. 6.81 Crores as an Operational
+Creditor. The RP in its email dated 02.12.2021 informed the appellant that
+the claim was under verification and that RP was facing certain difficulties in
+verification as the claims were not tallying with the books of accounts of the
+company. A typed copy of the email dated 02.12.2021 sent by IRP to the
+appellant is extracted below:
+
+“Information regarding amount of Rs.68121070/- receivable from
+Trimurti Foodtech Pvt. Ltd.-Reg
+
+Manoj Mishra rp.trimurtifoodtech@gmail.com
+To: Prashant Kumar prashant.swain@baba.in
+
+Dear Sir,
+
+Your claim is received and it is under verification. We are facing
+certain difficulties as the claims are not even remotely tallying
+with the books of account of the company.
+
+Let us revert to you once claim verification process is completed.
+
+Best Regards
+Team-IRP-Trimurti Foodtech Pvt. Ltd.”
+
+55.
+The material placed on record shows that the said claim was never
+finally admitted as an undisputed operational debt payable to the Appellant.
+The record further shows that serious disputes and counter-claims existed
+between the parties arising from the same contractual arrangement.
+
+[PAGE 29]
+Page 29 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+56.
+We note that the Appellant has placed reliance on the legal notice dated
+12.04.2022 issued by the Resolution Professional in regard to its claim being
+already admitted by the RP. According to the Appellant, paragraph 13 of the
+said notice clearly admitted its claim. However, on a complete reading of the
+notice, it becomes clear that the Resolution Professional simultaneously
+recorded the Corporate Debtor’s counter-claim of approximately Rs.55 Crores
+and specifically stated that the Appellant’s claim was being treated as
+contingent in view of the reciprocal liabilities and disputes between the
+parties.
+
+57.
+In our considered view, the Appellant cannot rely upon one isolated
+portion of the communication while ignoring the overall context in which the
+notice was issued. The Resolution Professional never treated the Appellant as
+an Operational Creditor having an unconditional and crystallized payable
+debt. The claim always remained disputed because of the counter-claims
+asserted by the Corporate Debtor. Once such reciprocal claims and allegations
+of breach existed, the Resolution Professional was justified in classifying the
+claim as contingent pending adjudication of disputes between the parties.
+
+58.
+It is also significant that despite being aware since April 2022 that its
+claim had been categorized as contingent, the Appellant admittedly did not
+challenge such classification during the CIRP period. No application was filed
+before the Adjudicating Authority seeking correction of the claim status or
+seeking participation rights in the CoC meetings. The Appellant remained
+silent throughout the CIRP process and chose to challenge the issue only after
+approval of the Resolution Plan. Such conduct assumes importance because
+
+[PAGE 30]
+Page 30 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+the insolvency process under the Code is strictly time-bound and is intended
+to attain finality within prescribed timelines.
+
+59.
+The Appellant has strongly argued that Section 24(3)(c) of the Code
+required mandatory issuance of notice of CoC meetings since its claim
+exceeded the statutory threshold. However, applicability of Section 24(3)(c)
+presupposes that the claimant is recognized as an Operational Creditor with
+admitted dues above the prescribed threshold. In the present case, the
+Appellant’s claim itself remained disputed and contingent. Therefore, the
+Resolution Professional did not treat the Appellant as an admitted Operational
+Creditor entitled to notice under Section 24(3)(c).
+
+60.
+Even otherwise, it is now settled that participation rights under Section
+24 do not confer voting rights upon Operational Creditors. More importantly,
+every procedural irregularity cannot automatically invalidate the CIRP, unless
+material prejudice affecting the resolution process is demonstrated. The
+Appellant has failed to show how non-service of notices altered the commercial
+wisdom exercised by the CoC or rendered the Resolution Plan illegal. The
+Appellant has also failed to demonstrate that any objection which it could
+have raised during CoC meetings would have materially changed the outcome
+of the CIRP process.
+
+61.
+The submission of the Appellant that the Resolution Professional
+illegally revived a “dead contract” or wrongly assumed automatic renewal of
+the agreement also does not persuade us. Questions regarding validity of
+termination, continuation of the contract, interpretation of renewal clauses,
+and entitlement to damages are matters arising out of disputed contractual
+
+[PAGE 31]
+Page 31 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+rights requiring adjudication in appropriate proceedings. In fact, the record
+itself shows that arbitration proceedings were also contemplated between the
+parties.
+
+62.
+The Resolution Professional, while verifying claims during CIRP, was
+not expected to conclusively adjudicate complicated contractual disputes in
+the manner of a civil court or arbitral tribunal. His role was limited to
+determining whether the claim was undisputed and payable or whether it was
+contingent and disputed in nature. In the facts of the present case, where
+substantial reciprocal claims existed between the parties, treatment of the
+Appellant’s claim as contingent cannot be termed arbitrary or illegal.
+
+63.
+The Appellant has also argued that an unadjudicated counter-claim
+could not have been used to render its claim contingent. While it is true that
+claims for damages ordinarily require adjudication before they crystallize, the
+same does not mean that the Resolution Professional was bound to treat the
+Appellant’s claim as fully admitted and payable despite serious disputes
+existing between the parties. The Resolution Professional was not finally
+adjudicating liabilities between the parties; he was only classifying the claim
+for purposes of the CIRP process. Therefore, existence of serious reciprocal
+disputes itself justified cautious treatment of the claim.
+
+64.
+We also find no merit in the allegation that material facts were
+suppressed from the CoC or that the Information Memorandum was
+manipulated to favour the Successful Resolution Applicant. The record
+indicates that the CoC was informed regarding the contingent nature of the
+Appellant’s claim and the counter-claims asserted by the Corporate Debtor.
+
+[PAGE 32]
+Page 32 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+Mere disagreement with the commercial decisions taken during CIRP cannot
+by itself lead to an inference of fraud or collusion. Allegations of fraud must
+be supported by clear and cogent material, which is absent in the present
+case.
+
+65.
+The Appellant has further argued that machinery and equipment leased
+to the Corporate Debtor remained its own assets and could not have been
+subjected to insolvency proceedings. However, such disputes regarding title,
+possession, ownership, or contractual rights cannot by themselves invalidate
+an approved Resolution Plan. The Appellant was always free to pursue
+remedies available in law regarding such assets. However, those disputes do
+not establish any illegality in the CIRP process itself.
+
+66.
+Another contention raised by the Appellant is regarding change in
+composition of the Bench before pronouncement of the Impugned Order. We
+do not find any procedural infirmity on this ground. The matter was heard,
+documents were considered, and the succeeding Bench proceeded in
+accordance with law. The Appellant has failed to show any actual prejudice
+caused due to change in composition of the Bench.
+
+67.
+The Appellant has relied upon the following judgements of this Appellate
+tribunal in “ANG Industries Ltd. Vs. Shah Brothers Ispat Pvt. Ltd. & Anr.,
+Company Appeal (AT)(Ins) No. 109 of 2018, 2018 SCC OnLine NCLAT 270”; and
+“Bhushan Shringarpure & Ors. Vs. B.K. Mishra & Ors., Company Appeal
+(AT)(Ins) No. 1504 of 2022”. We note that in the aforesaid judgments delivered
+by this Tribunal, the claims of Operational Creditors were recognized by the
+
+[PAGE 33]
+Page 33 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+RP and claims stood admitted during CIRP and, therefore, they were held
+entitled to notice under Section 24(3)(c) of the Code. In the present case,
+however, the Appellant’s claim was never treated as an admitted operational
+debt. The Resolution Professional had consistently treated the claim as
+contingent because substantial counter-claims and contractual disputes were
+already existing between the parties arising out of the same agreement. The
+Appellant was informed about such contingent classification during CIRP
+itself, yet no challenge was made at that stage before the Adjudicating
+Authority. Therefore, the factual foundation necessary for invoking Section
+24(3)(c), namely existence of an admitted operational debt, was itself absent
+in the present matter. Consequently, the ratio of the aforesaid judgments does
+not apply to the facts of the present case.
+
+68.
+The Appellant has further cited the judgement of Hon’ble Supreme
+Court in “Hardesh Ores Pvt. Ltd. Vs. M/s Hede and Company, (2007) 5 SCC
+614”. In the Hardesh (Supra) the issue related to renewal of leasehold rights
+in immovable property and the requirement of execution of a fresh document
+for renewal of lease. In the present case, the Resolution Professional was not
+adjudicating final contractual rights between the parties nor granting a
+declaration that the contract stood legally renewed for all purposes. The
+Resolution Professional only considered the contractual clauses, conduct of
+parties, and stand of the suspended management, while examining whether
+reciprocal claims and liabilities survived between the parties for the purpose
+of claim verification during CIRP. The dispute in the present case concerns
+classification of claims during insolvency proceedings and not enforcement of
+
+[PAGE 34]
+Page 34 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+lease renewal rights under property law. Therefore, the observations made in
+Hardesh Ores Pvt. Ltd. are distinguishable and do not govern the controversy
+involved herein.
+
+69.
+The appellant has further relied upon the judgement of this Appellate
+Tribunal in “CSA Corporation Private Limited Vs. Mr. Rajiv Bhatnagar,
+Resolution Professional of UM Green Lighting Private Limited, Company Appeal
+(AT)(Ins) No. 1497 of 2024”. We note that the issue in CSA (supra) related to
+crystallization of damages claims in insolvency proceedings. In the present
+case, the Resolution Professional did not finally adjudicate the alleged
+counter-claim of the Corporate Debtor nor treat it as a decreed or crystallized
+liability recoverable from the Appellant. The counter-claim was only taken into
+consideration, while examining, whether the Appellant’s own claim could be
+treated as fully admitted and undisputed for CIRP purposes. The Resolution
+Professional was performing only a claim verification exercise under the Code
+and not exercising powers of a Civil Court or Arbitral Tribunal. Since
+substantial reciprocal disputes existed between the parties regarding breach
+of contractual obligations and alleged losses suffered by the Corporate Debtor,
+the claim of the Appellant was treated as contingent pending adjudication of
+such disputes. Thus, the observations regarding crystallization of damages
+claims in the aforesaid judgment do not assist the Appellant in the facts of the
+present case.
+
+70.
+The Appellant further places reliance upon the judgement of Hon’ble
+Supreme Court in “Associate Builders Vs. Delhi Development Authority, (2015)
+3 SCC 49”. The aforesaid judgement is in the context of challenge to an arbitral
+
+[PAGE 35]
+Page 35 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+award under Section 34 of the Arbitration and Conciliation Act, 1996. The
+observations therein relate to principles governing arbitral awards and
+assessment of damages by an Arbitral Tribunal. In the present case, the
+Resolution Professional was not adjudicating damages or determining final
+liabilities between the parties. He was only examining the nature of claims
+placed before him during CIRP. No arbitral determination or judicial
+adjudication was undertaken by the Resolution Professional. Therefore, the
+ratio laid down in Associate Builders (supra) do not apply to the present case.
+
+71.
+Lastly the Appellant places reliance upon the judgeemt of Hon’ble
+Supreme court in M/s Embassy Property Developments Pvt. Ltd. Vs. State of
+Karnataka, (2019) 17 SCC 653. The aforesaid judgment deals with issues
+concerning mining lease approvals and exercise of statutory powers by
+government authorities during moratorium. In the present case, no new right
+was created by the Resolution Professional during CIRP. The Resolution
+Professional merely examined the existing contractual relationship and
+reciprocal claims between the parties while determining the status of the
+Appellant’s claim. No fresh contractual right or ownership right was created
+in favour of the Corporate Debtor. The issue here is limited to treatment of the
+Appellant’s claim as contingent in view of pending disputes and counter-
+claims. Therefore, the observations made in the aforesaid judgment are
+distinguishable from the facts of the present case.
+
+72.
+The Impugned Order dated 16.09.2025 shows detailed consideration of
+the pleadings, conduct of the parties, claim status, and the stage at which the
+recall application was filed. The Adjudicating Authority correctly noted that
+
+[PAGE 36]
+Page 36 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+the Appellant never challenged the contingent classification of its claim during
+CIRP and approached the Tribunal only after approval of the Resolution Plan.
+The Adjudicating Authority also rightly held that the Appellant failed to
+establish fraud, suppression, or material irregularity warranting recall of the
+Resolution Plan.
+
+73.
+We are also conscious of the larger object and scheme of the Insolvency
+and Bankruptcy Code. Once a Resolution Plan has been approved and
+implemented, judicial interference must remain extremely limited. The
+Hon’ble Supreme Court has repeatedly emphasized the importance of
+certainty and finality in the insolvency process. Endless reopening of approved
+Resolution Plans on the basis of disputed contractual claims would defeat the
+very object of the Code.
+
+74.
+In the present case, the grievances raised by the Appellant essentially
+arise out of contractual disputes existing between the parties much prior to
+commencement of CIRP. Those disputes may survive independently in
+appropriate legal proceedings, subject to law, but they do not furnish
+sufficient ground to invalidate the CIRP process or recall the approved
+Resolution Plan. The Appellant has failed to establish any perversity,
+jurisdictional error, material irregularity, or violation of mandatory provisions
+of the Code in the Impugned Order.
+
+75.
+Accordingly, after considering the entire factual matrix, submissions
+advanced by both parties, conduct of the parties during CIRP, the treatment
+of the Appellant’s claim as contingent, and the reasoning adopted by the
+Adjudicating Authority, we are of the considered opinion that the Impugned
+
+[PAGE 37]
+Page 37 of 37
+Company Appeal (AT) (Ins.) No. 1872 of 2025
+
+Order dated 16.09.2025 does not suffer from any infirmity warranting
+interference under Section 61 of the Insolvency and Bankruptcy Code, 2016.
+
+76.
+In view of findings above, the Appeal is dismissed. Pending I.A.s, if any,
+are closed. No order as to costs.
+
+[Justice Ashok Bhushan)
+Chairperson
+
+[Mr. Indevar Pandey]
+Member (Technical)
+Place: New Delhi
+Harleen/
+Pragya (LRA)

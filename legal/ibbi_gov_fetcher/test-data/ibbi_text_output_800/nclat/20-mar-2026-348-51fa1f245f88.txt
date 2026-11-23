@@ -1,0 +1,1406 @@
+[PAGE 1]
+Cont’d..../
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+
+(Arising against the impugned order dated 30.09.2025 passed by the Hon’ble
+National Company Law Tribunal, Ahmedabad Bench–I, in IA No.
+766/(AHM)/2021 in CP (IB) No. 289(AHM) of 2020.
+
+IN THE MATTER OF:
+
+Malharshanti Enterprises, through its Sole
+Proprietor Mr. Sunil Pande, having its office at
+59A/12, Nagari Niwara Parishad, Gen A.K. Vaidya
+Marg (Film City Road), Goregaon West, Mumbai –
+400053.
+
+...Appellant
+
+Versus
+
+1. Mr. Naresh Sevantilal Shah, residing at Flat No.
+103, Thosar House, Hanuman Cross Road No.I,
+Near Shiv Leela Hotel, Vile Parle (East), Mumbai –
+400057.
+2. Mr. Nitin Narang, Resolution Professional of Afcan
+Impex Private Limited, having office at Building
+No.19, Vijay Nagar, Kingsway Camp, New Delhi –
+110009.
+
+...Respondent No.1
+
+...Respondent No.2
+
+Present:
+
+For Appellant: Mr. Anshuj Dhingra, Ms. Akansha Sharma, Advocates.
+For Respondents:
+Ms. Ganga Mitra, Advocate for SRA.
+Mr. Gaurav Joshi, Advocate for Monitoring Committee.
+
+[PAGE 2]
+-2-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+
+J U D G M E N T
+(20th March, 2026)
+
+INDEVAR PANDEY, MEMBER (T)
+The present Appeal has been preferred under Section 61 of the
+Insolvency and Bankruptcy Code, 2016 (hereinafter referred to Code) by
+Malharshanti Enterprises, (Appellant) through its Sole Proprietor Mr. Sunil
+Pande, assailing the order dated 30.09.2025 passed by the National
+Company Law Tribunal, Ahmedabad Bench–I (Adjudicating Authority), in IA
+No. 766/(AHM)/2021 in CP (IB) No. 289 of 2020 whereby the Resolution
+Plan submitted by Mr. Naresh Sevantilal Shah (Respondent No.1), in the
+CIRP of Afcan Impex Private Limited (Corporate Debtor) was approved,
+despite serious objections regarding his statutory ineligibility under Section
+29A of the Code.
+2.
+The Appellant contends that the impugned order has been passed
+without proper judicial scrutiny of material facts relating to Respondent
+No.1’s status as promoter and director of CAN Enterprises Private Limited, a
+company already undergoing CIRP before the Hon’ble NCLT, Mumbai Bench,
+and whose admission order has attained finality up to the Hon’ble Supreme
+Court. The Appeal therefore arises out of alleged suppression of material
+facts, misrepresentation before the Adjudicating Authority, and non-
+consideration of mandatory statutory disqualifications.
+Brief facts of the case
+3.
+The brief facts of the case are as given below:
+
+[PAGE 3]
+-3-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+i.
+CIRP against Afcan Impex Private Limited/ Corporate Debtor
+commenced pursuant to admission of a Section 7 petition filed by the
+Bank of Maharashtra. Ld. NCLT, Ahmedabad Bench (Adjudicating
+Authority), vide order dated 17.02.2021 admitted the petition CP (IB)
+No. 289/2020 and appointed Mr. Nitin Narang (Respondent No.2) as
+IRP, who was later confirmed as RP.
+ii.
+Form G was published on 19.06.2021 inviting Expression of Interest,
+pursuant to which five EOIs were received and three were shortlisted
+including Respondent No.1.
+iii.
+The CoC, consisting of a sole Financial Creditor /Bank of
+Maharashtra, on 06.10.2021 approved the Resolution Plan submitted
+by Respondent No.1 with 100% voting share.
+iv.
+The suspended Board of Directors had preferred an appeal against
+initiation of CIRP against the CD before this Tribunal, which was
+registered as Comp. App. (AT) (Ins.) No. 441 of 2021. The appeal was
+dismissed vide an order dated 11.08.2021. Thereafter, the suspended
+management challenged the admission order before the Hon’ble
+Supreme Court in Civil Appeal No. 5580 of 2021. The Hon’ble Supreme
+Court vide its order dated 01.04.2024 dismissed the aforesaid appeal.
+During the intervening period when the matter was pending before
+Hon’ble Supreme Court, there was not much progress in the CIRP
+proceedings before the Adjudicating Authority.
+v.
+In compliance with subsequent orders of Adjudicating Authority dated
+01.10.2024 the SRA filed an affidavit on 11.11.2024 under Section 29A
+of the IBC, 2016 along with the Resolution Plan submitted by SRA,
+
+[PAGE 4]
+-4-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+wherein it has been declared that SRA along with all the SRA
+connected person are eligible under Section 29A of the IBC. Further,
+in the Resolution Plan, SRA has proposed that resolution applicant
+and his nominee shall be inducted as Director in the board of corporate
+debtor upon approval of Resolution Plan by this Tribunal. The SRA
+states that, upon approval of the Resolution Plan by this Tribunal, SRA
+shall take steps to induct the following Director in the Board of the
+Corporate Debor –
+(a) Naresh Sevantilal Shah having DIN No. - 00928887
+(b) Aalok Shah S/o Naresh Shah having DIN No. - 10831679
+vi.
+During hearing on 12.11.2024, the Hon’ble NCLT, Ahmedabad
+recorded that Respondent No.1 was promoter/director of CAN
+Enterprises Private Limited which was undergoing CIRP before NCLT
+Mumbai and that he had sought time till December 2024 to “come
+clean” from the said CIRP.
+vii.
+An affidavit dated 19.05.2025 was filed by Respondent No.1 before the
+NCLT Ahmedabad bringing on record the pendency of IA 1586 of 2025
+before NCLT Mumbai and annexing copies of pleadings.
+viii.
+The Adjudicating Authority vide the impugned order dated 30.09.2025
+in IA/766/(AHM)/2021, approved the Resolution Plan submitted by
+Respondent No.1 while recording that the alleged settlement proposal
+had been rejected by the Appellant and that proceedings pending
+before NCLT Mumbai had no adverse consequence on approval of the
+plan.
+
+[PAGE 5]
+-5-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+ix.
+The Appellant asserts that the approval of the Resolution Plan was
+granted without independent adjudication of Respondent No.1’s
+eligibility under Section 29A, without verification of actual status of
+CIRP proceedings of CAN Enterprises Private Limited, and despite
+pendency of liquidation proceedings therein.
+4.
+The appellant had filed a petition under Section 9 of the Code against
+CAN Enterprises Pvt. Ltd. in which Respondent No.1 was one of the
+promoter-director of the company. It is relevant to state the facts relating to
+this particular case as the appellant has relied on this case to argue that the
+Respondent No.1/SRA was ineligible under Section 29A of the Code to
+submit the resolution plan in CP (IB) No. 289(AHM) of 2020. The brief details
+of the said CIRP proceedings are given below:
+i.
+The Corporate Insolvency Resolution Process (CIRP) against CAN
+Enterprises Private Limited was initiated pursuant to admission of a
+Section 9 petition filed by the present Appellant, and Ld. NCLT,
+Mumbai Bench, vide order dated 27.01.2020 in CP (IB) No. 3753 of
+2018, admitted the petition and commenced CIRP, thereby suspending
+the powers of the Board of Directors including Respondent No.1, who
+was promoter and director of the Corporate Debtor.
+ii.
+The said admission order was challenged by Respondent No.1 before
+this Appellate Tribunal in Company Appeal (AT) (Insolvency) No. 415
+of 2020. The aforesaid Appeal was dismissed vide order dated
+19.01.2021. The consequent civil appeal against the said dismissal by
+NCLAT filed before Hon’ble Supreme Court came to be dismissed as
+
+[PAGE 6]
+-6-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+withdrawn vide order dated 10.03.2021, thereby rendering the
+admission of CIRP final.
+iii.
+In the first CoC meeting held on 18.03.2020, the Interim Resolution
+Professional duly verified and admitted the claim of the Appellant as
+an Operational Creditor. Subsequently, M/s Paton Construction
+Private Limited emerged as the sole Financial Creditor with a claim of
+Rs. 1,00,000/- and consequently constituted the entire CoC holding
+100% voting share, thereby exercising exclusive control over decisions
+in the CIRP. The said CoC resolved to replace the IRP and pursuant
+thereto Mr. Manish Jaju was appointed as Resolution Professional vide
+order dated 09.06.2020 passed by the Hon’ble NCLT, Mumbai Bench.
+iv.
+The Resolution Professional thereafter rejected the duly admitted claim
+of the Appellant through an email dated 02.12.2020, which prompted
+the Appellant to file I.A. No. 47 of 2021 challenging such rejection. The
+Hon’ble NCLT, Mumbai Bench, vide detailed order dated 16.02.2023,
+allowed the said application and categorically held that the RP had
+acted illegally and exceeded his jurisdiction while rejecting the
+Appellant’s claim.
+v.
+Appeals preferred by Respondent No.1, the Resolution Professional
+and the CoC member against the order dated 16.02.2023 were
+dismissed by the NCLAT vide order dated 17.09.2024, wherein the
+conduct of the RP was termed deplorable and costs of Rs. 1,00,000/-
+were imposed.
+vi.
+The Hon’ble Supreme Court, vide order dated 02.01.2025, dismissed
+the Civil Appeal filed against the NCLAT judgment, thereby affirming
+
+[PAGE 7]
+-7-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+the validity of the Appellant’s claim and exposing the attempt to
+introduce a nominal financial creditor.
+vii.
+Pursuant to the Apex Court order, the Resolution Professional restored
+the claim of the Appellant vide email dated 06.01.2025. Respondent
+No.1 thereafter addressed a letter dated 05.03.2025 to the RP offering
+settlement of the entire claim, which proposal was rejected by the
+Appellant vide email dated 10.03.2025.
+viii.
+An application being IA No. 1586 of 2025 was thereafter filed by
+Respondent No.1 before the Hon’ble NCLT, Mumbai Bench seeking
+directions to record settlement and stay CIRP, which application
+remains pending.
+ix.
+In view of abnormal delay in the CIRP, the Appellant filed an
+application under Section 33 of the Code seeking liquidation of CAN
+Enterprises Private Limited, which application is also pending before
+the Hon’ble NCLT, Mumbai Bench.
+5.
+The appellant submits that the Respondent No.1 was, at all relevant
+times, promoter and director of CAN Enterprises Private Limited undergoing
+CIRP since 27.01.2020. The present Appeal therefore arises from the alleged
+failure of the Adjudicating Authority to examine statutory ineligibility,
+suppression of material developments, and exercise of jurisdiction in
+conformity with Sections 29A, 30 and 31 of the Insolvency and Bankruptcy
+Code, 2016.
+
+[PAGE 8]
+-8-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+Submissions of the Appellant
+6.
+Ld. Counsel for the Appellant submits that the approval of the
+Resolution Plan by the Hon’ble NCLT, Ahmedabad Bench is ex facie perverse
+and contrary to the statutory mandate of the Insolvency and Bankruptcy
+Code, 2016. It is submitted that Respondent No. 1 is admittedly a
+director/promoter of CAN Enterprises Pvt. Ltd., a company which has been
+undergoing CIRP since 2020 before the Ld. NCLT, Mumbai. In view of the
+admitted position that CAN Enterprises Pvt. Ltd. has been under CIRP and
+Respondent No. 1 continues to be associated with its management,
+Respondent No. 1 stands disqualified under Section 164 of the Companies
+Act, 2013 and is squarely hit by Section 29A(e) of the IBC, 2016.
+Consequently, he is ineligible to submit, implement, or derive any benefit
+under a Resolution Plan. The approval of the plan submitted by such an
+ineligible person vitiates the entire process.
+7.
+Ld. Counsel further submits that Respondent No. 1, with a calculated
+and deliberate objective of securing approval of his Resolution Plan and
+unlawfully retaining the status of Successful Resolution Applicant,
+suppressed and misrepresented material facts before the NCLT, Ahmedabad.
+It is submitted that the satisfaction recorded by the Adjudicating Authority
+under Sections 30(2) and 31 of the Code is founded upon misleading
+disclosures. The statutory satisfaction contemplated under the Code must
+be based on full and true disclosure; any suppression strikes at the root of
+the jurisdiction exercised.
+
+[PAGE 9]
+-9-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+8.
+He submits that in November 2024, Respondent No. 1 filed an affidavit
+before the Hon’ble NCLT, Ahmedabad. The Ld. Bench recorded in its order
+dated 12.11.2024 that one of the companies where the SRA, i.e., Respondent
+No. 1, is a director was undergoing CIRP and that the matter was under
+challenge before the Hon’ble Supreme Court. The Bench further recorded the
+statement of Respondent No. 1 that he was attempting a settlement and
+sought time till the end of December 2024 to come clean from the CIRP of
+CAN Enterprises Pvt. Ltd. Ld. Counsel submits that this statement was made
+to create an impression of imminent settlement and compliance.
+9.
+It is the submission of Appellant that the aforesaid representation was
+wholly contrary to the consistent conduct of Respondent No.1. From the
+inception of the Section 9 petition filed by the Appellant against CAN
+Enterprises Pvt. Ltd., Respondent No. 1 has persistently adopted every
+conceivable tactic to obstruct and derail the CIRP. It is submitted that
+Respondent No. 1 initially challenged the admission order before this
+Appellate Tribunal, which was dismissed by an order dated 19.01.2021.
+Thereafter, he approached the Hon’ble Supreme Court, however, there also
+the proceedings were dismissed as withdrawn on 10.03.2021. This
+constituted the first round of challenge and demonstrates his consistent
+attempt to frustrate the CIRP.
+10.
+Ld. Counsel submits that upon failing to obtain relief through judicial
+scrutiny, Respondent No. 1 fraudulently inducted M/s. Paton Construction
+as a Financial Creditor in the CIRP of CAN Enterprises Pvt. Ltd. Acting in
+collusion with the said Financial Creditor, voting rights were arbitrarily
+
+[PAGE 10]
+-10-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+exercised to appoint a new Resolution Professional. Thereafter, in clear
+connivance with the newly appointed Resolution Professional, the
+Appellant’s claim as an Operational Creditor, the very foundation upon
+which CIRP was admitted, was illegally rejected.
+11.
+It is further submitted that the illegal rejection of the Appellant’s claim
+was set aside by the Ld. NCLT, Mumbai Bench by order dated 16.02.2023
+with adverse observations against the Resolution Professional. It is
+submitted that Respondent No. 1, in collusion with the Resolution
+Professional and the Financial Creditor, preferred three separate appeals
+against the said order. This Appellate Tribunal, by order dated 17.09.2024,
+dismissed all three appeals and imposed costs upon the Resolution
+Professional, thereby affirming the illegality and mala fides underlying their
+conduct. Even thereafter, Respondent No. 1 preferred a Civil Appeal before
+the Hon’ble Supreme Court challenging the order dated 17.09.2024, which
+came to be dismissed on 02.01.2025. This constituted the second round of
+challenge. Ld. Counsel submits that for more than five years, Respondent
+No. 1 has continuously sought to frustrate the CIRP with the sole objective
+of defeating the Appellant’s legitimate claim.
+12.
+Ld. Counsel submits that the statement made before the Ld. NCLT,
+Ahmedabad regarding settlement was merely a ploy to buy time until
+disposal of the Civil Appeal before the Hon’ble Apex Court on 02.01.2025.
+Thereafter, a camouflage of settlement was engineered with active
+involvement of the Resolution Professional of CAN Enterprises Pvt. Ltd. It is
+submitted that after five years of litigation, the Appellant’s claim was
+
+[PAGE 11]
+-11-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+restored, and a settlement proposal dated 05.03.2025 was sent by
+Respondent No. 1, which was rejected by the Appellant on 10.03.2025.
+Subsequently, I.A. No. 1586/2025 was pressed into service before the
+Hon’ble NCLT, Mumbai dehors the provisions of the IBC to create an
+impression of settlement, and notice was issued on 04.04.2025. Ld. Counsel
+submits that even the Hon’ble Supreme Court recorded that the facts were
+startling and indicated an attempt to set up a financial creditor.
+13.
+He submits that to further impress upon the Ld. NCLT, Ahmedabad,
+statements regarding I.A. No. 1586/2025 and its listing before the Hon’ble
+NCLT, Mumbai were recorded in proceedings dated 07.05.2025, and copies
+of orders were placed on record. It is submitted that these steps were taken
+to create a narrative of bonafide settlement.
+14.
+Ld. Counsel submits that the Hon’ble NCLT, Ahmedabad, while
+passing the impugned order, relied solely upon the misleading averments
+made by Respondent No. 1 and, without independent verification of the
+proceedings pending before the Hon’ble NCLT, Mumbai, approved the
+Resolution Plan. The Adjudicating Authority recorded that the RA had
+already made a proposal for payment of the entire claim of the Appellant and
+that the Appellant rejected it with mala fide intention. Ld. Counsel submits
+that this finding is contrary to the record. The alleged settlement application
+remains pending adjudication before the Hon’ble NCLT, Mumbai. The
+Appellant cannot be saddled with adverse findings rendered in proceedings
+to which it was not a party.
+
+[PAGE 12]
+-12-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+15.
+It is further submitted that Respondent No. 1, despite being
+disqualified under Section 164(2)(a) of the Companies Act, 2013 read with
+Section 29A(e) of the IBC, has persistently indulged in calculated and mala
+fide misrepresentation before judicial forums. Such conduct constitutes a
+gross abuse of the process of law and vitiates the entire approval of the
+Resolution Plan.
+16.
+Ld. Counsel submits that although the Appellant was not a formal
+party before the Ld. NCLT, Ahmedabad, it is a settled position of law that the
+expression “person aggrieved” under Sections 61 and 62 of the IBC is of wide
+import and cannot be narrowly construed. The right of appeal is conferred
+upon a “person aggrieved” and not merely upon a party to the proceedings.
+The determinative test is whether the impugned order adversely affects the
+legal rights and interests of such person. Ld. Counsel relies upon the
+judgments in Southern Power Distribution Company of Telangana Ltd. v.
+Kalvakolanu Murali Krishna Prasad, Trimex Industries Pvt. Ltd. v. Bhuvan
+Madan (RP), Bar Council of Maharashtra v. M.V. Dabholkar, Samir Agrawal v.
+Competition Commission of India, and Vishnu Vardhan v. State of Uttar
+Pradesh, as cited in the written submissions.
+17.
+Ld. Counsel further submits that the impugned order has caused
+direct and imminent prejudice to the Appellant in the pending I.A. No.
+1586/2025 before the Hon’ble NCLT, Mumbai. The said application seeks
+acceptance of a purported settlement and closure of the CIRP of CAN
+Enterprises Pvt. Ltd., wherein the Appellant is the Operational Creditor. The
+adverse judicial observation that the Appellant rejected settlement with mala
+
+[PAGE 13]
+-13-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+fide intent, recorded without hearing the Appellant, is capable of materially
+affecting adjudication of the pending application. The prejudice is immediate
+and real. It is settled law that civil consequences extend to adverse findings
+capable of affecting a party’s position in pending proceedings. The Appellant
+has therefore sustained a clear legal injury and squarely falls within the
+meaning of “person aggrieved” under Section 61 of the IBC.
+18.
+It is submitted that this Hon’ble Tribunal has already issued notice in
+the connected appeals filed by the suspended board of Afcan Impex (P) Ltd.,
+which inter alia raise similar issues, and the matter is listed for further
+proceedings on 19.03.2026. A copy of the order dated 29.01.2026 has been
+annexed on record.
+19.
+The appellant has made the following specific prayers in the appeal:
+‘Therefore, in the light of the facts enumerated above, the
+Appellant hereinmost respectfully states and submits that
+this Hon'ble Tribunal may be graciously pleased to pass
+necessary directions:
+(a.) Setting aside the Order dated 30.09.2025 passed by the
+Ld. NCLT, Ahmedabad in IA No. 766 (AHM) 2021 on the
+facts and the grounds mentioned above;
+(b.) Directing the Ld. NCLT to declare the Respondent No. 1
+Mr. Naresh Sevantilal Shah as ineligible for propounding
+any resolution plan for the Corporate Debtor Afcan Impex
+(P) Limited.’
+
+[PAGE 14]
+-14-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+Submissions of Respondent No.1 (Mr. Naresh Sevantilal Shah/ SRA)
+20.
+In his initial submissions, Ld. Counsel for R1 states that the Appellant
+is admittedly not a creditor of Afcan Impex Pvt. Ltd. It is an Operational
+Creditor of CAN Enterprises Pvt. Ltd. which is a completely separate
+corporate debtor undergoing CIRP before NCLT Mumbai. The Appellant has
+no admitted claim, no financial stake, and no status in the Afcan Impex CIRP
+proceedings. Section 61 of the IBC permits appeal only by a "person
+aggrieved" meaning a person with direct legal interest in the impugned order.
+A creditor in one CIRP cannot challenge resolution plans in unrelated CIRPs
+on speculative grounds. The IBC is a self-contained code, creditors in one
+proceeding cannot interfere in another proceeding, where they have no stake.
+The Appellant's claimed grievance is entirely collateral.
+21.
+Ld. Counsel states that Being Promoter/Related Party of Company
+Under CIRP is Not Per Se a ground of ineligibility. The Section 29A(c) of the
+Code requires that the person have an account classified as NPA in
+accordance with RBI guidelines. Mere pendency of CIRP proceedings against
+a related company does not automatically disqualify a resolution applicant.
+The Appellant has not shown that any account of Respondent No. 1 or CAN
+Enterprises is classified as NPA. The Resolution Professional conducted due
+diligence and certified the SRA as eligible under Section 29A.
+22.
+Ld. Counsel further states that for Director disqualification Under
+Section 164, the declaration of Registrar Of Companies (ROC)would be
+required. The Hon'ble Supreme Court in M. K. Rajagopalan v. Dr. Periasamy
+Palani Gounder (2024) has categorically held that there is no concept of
+
+[PAGE 15]
+-15-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+"deemed disqualification" under Section 164(2)(b) of the Companies Act,
+2013. A resolution applicant cannot be rendered ineligible based on an
+assumed disqualification under Section 164. The disqualification must be
+formally declared by the competent authority i.e. ROC/Ministry of Corporate
+Affairs, it cannot be inferred by this Tribunal. There is no ROC or MCA order
+declaring Respondent No. 1 disqualified as a director has been placed on
+record. The Section 29A(e) ground therefore fails entirely.
+23.
+He submits that the Appellant admittedly did not appear before or
+participate in the NCLT Ahmedabad proceedings. The grounds it now raises
+(Section 29A ineligibility) were never put before the Adjudicating Authority.
+It is a settled principle that new grounds cannot be raised for the first time
+in appellate proceedings. The Appellant had ample opportunity to intervene
+if genuinely aggrieved, but it chose not to, despite CIRP proceeding of Afcan
+continuing for five years i.e. from 2021 to 2025. It cannot now take advantage
+of appellate jurisdiction to raise issues it never brought before the
+Adjudicating Authority.
+24.
+Ld. Counsel states that The Appellant's real purpose is to exert
+pressure on Respondent No. 1 in the parallel CAN Enterprises CIRP before
+NCLT Mumbai and not to vindicate any genuine right in the Afcan Impex
+CIRP. The Appellant has zero financial stake in Afcan Impex, yet it has
+challenged a resolution plan, where every creditor with an admitted claim
+has been paid in full. This is a textbook case of abuse of process. An appeal
+filed not to enforce a legal right, but as a weapon of pressure in unrelated
+proceedings must be dismissed with exemplary costs. The present Appeal is
+
+[PAGE 16]
+-16-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+a transparent attempt to use these proceedings as leverage in the CAN
+Enterprises CIRP, where Respondent No. I has made repeated bona fide
+settlement offers.
+25.
+He submits that Respondent No. 1, in complete good faith and with
+genuine intent to settle all dues in the CAN Enterprises CIRP, offered to pay
+100% of the Appellant's entire admitted claim of Rs. 1.97 Crores plus all
+CIRP costs. as evidenced by:
+(a) Letter dated 05.03.2025 addressed to the Resolution Professional
+of CAN Emerprises Pvt. Ltd. offering settlement of the claim in its
+entirety;
+(b) I.A No. 1586/2025 filed before NCLT Mumbai formalizing the
+settlement proposal and seeking directions to accept payment and
+close CIRP proceedings;
+(c)
+NCLT Mumbai Order dated 10.12.2025 which records that
+Corporate Debtor reiterated willingness to pay Rs. 1.97 Crores to
+Malharshanti + CIRP Costs + Rs. 1 lakh to Financial Creditor.
+26.
+Ld. Counsel states that despite being offered full 100% payment, the
+Appellant vide email dated 10.03.2025 rejected the settlement without any
+justifiable reason whatsoever. The Hon'ble NCLT Ahmedabad itself
+specifically recorded in Para 20 of the impugned order that the Appellant
+rejected Respondent No. 1’s proposal with "mala fide intentions".
+
+[PAGE 17]
+-17-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+27.
+It is the submission of Ld. Counsel that the question therefore which
+would fall for consideration is that: Whether a creditor which refuse 100% of
+its admitted claim and then file an appeal in an unrelated proceeding? The
+answer is self-evident-the purpose is not recovery of dues but harassment
+and arm-twisting.
+28.
+He
+further
+submits
+that
+The
+Appellant
+has
+also
+filed
+IA(IBC)(LIQ.)/89/2025 on 04.11.2025 before NCLT Mumbai seeking
+liquidation of CAN Enterprises Pvt. Ltd. under Section 33 of the IBC i.e.
+immediately after approval of Resolution Plan by NLCT Ahmedabad, this
+despite having been offered 100% settlement of its admitted claim. This
+application itself demonstrates the Appellant's mala fide intent and misuse
+of legal proceedings. An individual Operational Creditor has no independent
+locus to file a liquidation application. He invites attention to Section 33 of
+the IBC in this regard.
+29.
+Ld. Counsel for R1 further states that the liquidation application filed
+in CAN Enterprises CIRP proceedings, when a 100% payment offer is pending
+and when the Resolution Plan for Afcan Impex (approved on 30.09.2025) has
+been fully implemented reveals the sincerity of the respondent and true
+motive of the Appellant, which is not recovery of dues but destruction of the
+company to prevent Respondent No. 1 from completing his obligations and
+coming clean.
+30.
+He further submits that the Resolution Professional in the NCLT
+Mumbai proceedings reported receipt of Form-318 under Rule 48 of the
+Maharashtra Value Added Tax Act, a demand of Rs. 1.48 Crores against
+
+[PAGE 18]
+-18-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+Malharshanti Enterprises itself for VAT dues (NCLT Mumbai Order dated
+10.12.2025), further casting serious doubt on the Appellant's bona fides and
+financial standing.
+31.
+Ld. Counsel states that the Resolution Plan was approved vide order
+dated 30.09.2025 and has been completely implemented within the
+stipulated period of 30 days. All payments totalling 6,51,19,488.68 have
+been made to all creditors; Management has been taken over by SRA; new
+Board has been constituted; and assets handed over to SRA. The law is
+settled that an implemented Resolution Plan cannot be unscrambled.
+32.
+Ld. Counsel for R1 further states that in light of the above
+submissions, it is most respectfully prayed that this Hon'ble Tribunal may
+be pleased to:
+(a) Dismiss the Appeal being wholly devoid of merit, filed without locus
+standi, and constituting an abuse of process;
+(b) Impose heavy costs on the Appellant for filing a frivolous and
+vexatious appeal with ulterior motives and for misusing the legal
+process to arm-twist Respondent No. 1 after rejecting a 100%
+settlement offer in a separate proceeding
+Submissions of Respondent No.2/ Resolution Professional
+33.
+In his preliminary submissions, Ld. Counsel for R2 states that the
+Appellant is not a shareholder or creditor or any stakeholder of Afcan Impex
+Pvt. Ltd. It is an Operational Creditor of CAN Enterprises Pvt. Ltd. a
+
+[PAGE 19]
+-19-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+completely separate entity. Section 61 of the IBC confers right of appeal only
+on a "person aggrieved" by an order of the Adjudicating Authority. The
+concept of "person aggrieved" requires direct and legal aggrievement, not
+remote or speculative injury. The Appellant has no admitted claim in the
+Afcan Impex CIRP. Its grievance is collateral-arising from the alleged
+involvement of the SRA in a separate CIRP. The IBC is a self-contained code;
+creditors in one CIRP cannot interfere in another CIRP on speculative
+grounds.
+34.
+Ld. Counsel states that being Promoter/Related Party of Company
+Under CIRP is not per se a ground of ineligibility. Section 29A(c) of the Code
+requires that the person have an account classified as NPA in accordance
+with RBI guidelines. Mere pendency of CIRP proceedings against a related
+company does not automatically disqualify a resolution applicant. The
+Appellant has not shown from the records that any account of Respondent
+No. 1 or CAN Enterprises is classified as NPA. The Resolution Professional
+conducted due diligence and certified the SRA as eligible under Section 29A.
+35.
+Ld. Counsel further states that for disqualification as Director Under
+Section 164 of the Companies Act, 2013, the Declaration of ROC is required.
+The Hon'ble Supreme Court in M.K. Rajagopalan v. Dr. Periasamy Palani
+Gounder CIVIL APPEAL NOS. 1682-1683 OF 2022 (2024) has categorically held that
+a resolution applicant cannot be deemed ineligible solely based on assumed
+disqualification under Section 164(2)(b) of the Companies Act, 2013. There
+is no concept of "deemed disqualification" in the Companies Act, 2013, which
+requires a specific order from the Registrar of Companies/MCA. In the
+
+[PAGE 20]
+-20-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+present case, there is no ROC order declaring Respondent No. 1 disqualified
+as a director. The Appellant seeks to have this Tribunal presume a
+disqualification that has not been formally declared by any competent
+authority, which is impermissible in law.
+36.
+He states that the Appellant admittedly did not appear before or
+participate in the NCLT Ahmedabad proceedings. The grounds it now raises
+(Section 29A ineligibility) were never put before the Adjudicating Authority.
+It is a settled principle that new grounds cannot be raised for the first time
+in appellate proceedings. In this regard he cites the judgment of this
+Appellate Tribunal in ‘Anish Lawrence v. Renahan Vamakesan’ (NCLAT
+Chennai) CA AT (CH) (INS) No. 377 OF 2023.
+37.
+It is stated that the Resolution Plan was approved vide order dated
+30.09.2025 and has been completely implemented within the stipulated
+period of 30 days. All payments totalling Rs.6,51,19,488.68 have been made
+to all creditors as follows
+38.
+Ld. Counsel further states that the identical impugned order dated
+30.09.2025 was challenged by the State Tax Officer in Company Appeal (AT)
+(Ins) Nos. 1804 & 1805 of 2025. This Hon'ble Tribunal vide judgment dated
+07.01.2026 dismissed both appeals and expressly upheld the Resolution
+Plan, holding it to be in full compliance with Section 30(2) of IBC. The
+Appellant's challenge would amount to unsettling an order already confirmed
+by this Tribunal.
+
+[PAGE 21]
+-21-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+39.
+He states that the Appellant is a "wait-and-watch" litigant seeking to
+derail a successfully implemented resolution. Having failed to participate
+before the Adjudicating Authority, they cannot now challenge a Plan that has
+already received the seal of approval from both the CoC and this Hon'ble
+Appellate Tribunal.
+40.
+In light of the above, R2 prays that this Tribunal may be pleased to
+dismiss the present Appeal with exemplary costs.
+Analysis and findings
+41.
+We have heard learned counsel for the parties at length and carefully
+perused the record. The issues that arise for determination in this case are:
+(i)
+Whether the appellant has locus to maintain the present Appeal
+challenging the order dated 30.09.2025 approving the Resolution
+Plan of Afcan Impex Pvt. Ltd., and
+(ii)
+whether the impugned order suffers from any illegality on account of
+the alleged ineligibility of Respondent No.1 under Section 29A of the
+Insolvency and Bankruptcy Code, 2016 or alleged suppression of
+material facts.
+42.
+The Appellant herein has challenged the approval of the Resolution
+Plan submitted by Respondent No.1 in the Corporate Insolvency Resolution
+Process of Afcan Impex Pvt. Ltd. The Appellant seeks setting aside of the
+impugned order on the ground that Respondent No.1 was allegedly ineligible
+to submit the Resolution Plan under Section 29A of the Insolvency and
+Bankruptcy Code, 2016, on account of his position as promoter/director of
+
+[PAGE 22]
+-22-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+another company, namely CAN Enterprises Pvt. Ltd., which has been
+undergoing CIRP before the NCLT Mumbai since the year 2020.
+43.
+Learned counsel for the Appellant submits that the impugned order
+approving the Resolution Plan is vitiated in law because Respondent No.1
+was ineligible to submit the Resolution Plan under Section 29A of the Code.
+It is submitted that Respondent No.1 is admittedly the promoter and director
+of CAN Enterprises Pvt. Ltd., a corporate debtor whose CIRP was initiated by
+an order dated 27.01.2020 passed by the NCLT Mumbai. The admission
+order was challenged up to the Hon’ble Supreme Court and has attained
+finality.
+44.
+It is contended that Respondent No.1 deliberately suppressed these
+facts before the Adjudicating Authority and sought to create an impression
+that a settlement was imminent in the CIRP proceedings of CAN Enterprises
+Pvt. Ltd. According to the Appellant, no settlement under Section 12A of the
+Code was ever approved, and the CIRP of CAN Enterprises Pvt. Ltd. continues
+even today. The Appellant submits that the Adjudicating Authority accepted
+the Resolution Plan solely on the basis of the submissions made by
+Respondent No.1 without undertaking an independent examination of his
+eligibility under Section 29A of the Code. It is further submitted that the
+impugned order contains adverse observations regarding the conduct of the
+Appellant in rejecting the settlement proposal, which are likely to prejudice
+the Appellant in proceedings pending before NCLT Mumbai. On these
+grounds, the Appellant submits that the approval of the Resolution Plan is
+legally unsustainable and liable to be set aside.
+
+[PAGE 23]
+-23-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+45.
+Per contra, learned counsel appearing for the Respondents submits
+that the present Appeal is not maintainable at the instance of the Appellant
+as the Appellant was not a stakeholder in the CIRP of Afcan Impex Pvt. Ltd.
+It is submitted that the Appellant is an Operational Creditor only in the CIRP
+proceedings of CAN Enterprises Pvt. Ltd., which are entirely separate
+proceedings involving a different corporate debtor.
+46.
+The Respondents further submit that the Resolution Plan submitted
+by Respondent No.1 was duly considered and approved by the Committee of
+Creditors with 100% voting share after evaluating its feasibility and viability.
+It is contended that the Adjudicating Authority, while approving the
+Resolution Plan, examined the relevant material on record and was satisfied
+that the plan met the requirements prescribed under Section 30(2) of the
+Code. According to the Respondents, the mere pendency of CIRP proceedings
+against another company where Respondent No.1 was a promoter does not
+automatically attract disqualification under Section 29A of the Code. It is
+further submitted that Respondent No.1 had indeed made a settlement
+proposal dated 05.03.2025 offering payment of the entire claim of the
+Appellant, which the Appellant rejected on 10.03.2025. The letter dated
+05.03.2025 of the Respondent No.1 is extracted below:
+
+[PAGE 24]
+-24-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+
+[PAGE 25]
+-25-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+
+[PAGE 26]
+-26-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+
+[PAGE 27]
+-27-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+47.
+It is their submission that the issues related to another company
+under CIRP are being brought to these proceedings by a party which has not
+taken part in the proceedings before the Adjudicating Authority. The
+appellant is not a stakeholder in these proceedings in any capacity. He is not
+a Financial or Operational Creditor, Prospective Resolution Applicant,
+Resolution Professional or any other person/ entity affected by the approval
+of the resolution plan. At the threshold the appellant has no locus to
+maintain this appeal.
+48.
+At the first instant it is necessary to determine whether the Appellant
+possesses the locus standi to maintain the present Appeal under Section 61
+of the Code. The question of maintainability is of fundamental importance
+because the appellate jurisdiction of this Tribunal can be invoked only by a
+“person aggrieved” by the impugned order.
+49.
+Section 61 of the Code deals with the ‘persons who can prefer an
+appeal before this Appellate Tribunal, the grounds for challenge to
+Resolution Plan which are relevant in this matter are provided in Sub-
+sections 1 and 3 of Section 61, and the same are extracted below:
+“Section 61: Appeals and Appellate Authority.
+*61. (1) Notwithstanding anything to the contrary contained
+under the Companies Act 2013, any person aggrieved by the
+order of the Adjudicating Authority under this part may prefer
+an appeal to the National Company Law Appellate Tribunal.
+(2) - - -
+
+[PAGE 28]
+-28-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+(3) An appeal against an order approving a resolution plan
+under section 31 may be filed on the following grounds,
+namely:—
+(i) the approved resolution plan is in contravention of the
+provisions of any law for the time being in force;
+(ii) there has been material irregularity in exercise of the powers
+by the resolution professional during the corporate insolvency
+resolution period;
+(iii) the debts owed to operational creditors of the corporate
+debtor have not been provided for in the resolution plan in the
+manner specified by the Board;
+(iv) the insolvency resolution process costs have not been
+provided for repayment in priority to all other debts; or
+(v) the resolution plan does not comply with any other criteria
+specified by the Board.”
+50.
+The right to prefer an appeal under Section 61 of the Insolvency and
+Bankruptcy Code is conferred upon a “person aggrieved” by the order of
+the Adjudicating Authority. The expression “person aggrieved” necessarily
+implies that the impugned order must directly affect the legal rights or
+interests of the person invoking the appellate jurisdiction.
+51.
+The matter relating to who can be person aggrieved in a CIRP
+proceeding was examined by Hon’ble Supreme Court in a bench headed by
+Hon’ble CJI in [Civil Appeal No. 9986 of 2024] GLAS Trust Company LLC
+Versus BYJU Raveendran & Ors. [2024 INSC 811]. The relevant Paras 73, 74
+and 75 of the Judgment are extracted below:
+“73. The counsel for the respondents sought to argue that
+the appellant does not have the locus to maintain the
+
+[PAGE 29]
+-29-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+present proceedings before this Court. They contend that in
+a case for settlement between the Corporate Debtor and the
+second respondent, there is no scope for hearing any other
+creditors, such as the appellant. We do not find merit in this
+submission
+
+74. Section 62 of the IBC governs statutory appeals to the
+Supreme Court from the orders of the NCLAT. The provision
+reads as follows:
+
+“62. Appeal to Supreme Court – (1) Any person aggrieved by
+an order of the National Company Law Appellate Tribunal
+may file an appeal to the Supreme Court on a question of
+law arising out of such order under this Code within forty-
+five days from the date of receipt of such order.
+
+(2) The Supreme Court may, if it is satisfied that a person
+was prevented by sufficient cause from filing an appeal
+within forty-five days, allow the appeal to be filed within a
+further period not exceeding fifteen days.
+
+75. The provision stipulates that “any person” who is
+aggrieved by the order of the NCLAT may file an appeal
+before the Supreme Court within the prescribed limitation
+period. Similar language is used in Section 61 of the IBC,
+which provides for appeals to NCLAT from orders of the
+NCLT. The use of the phrase “any person aggrieved”
+indicates that there is no rigid locus requirement to
+institute an appeal challenging an order of the
+NCLT, before the NCLAT or an order of the NCLAT,
+before this Court. Any person who is aggrieved by the
+order may institute an appeal, and nothing in the
+provision restricts the phrase to only the applicant
+creditor and the corporate debtor. As noted above,
+once the CIRP is initiated, the proceedings are no
+longer restricted to the individual applicant creditor
+and the corporate debtor but rather become
+collective proceedings (in rem), where all creditors,
+such as the appellant, are necessary stakeholders.
+The appellant is not an unrelated party to the CIRP, but is
+
+[PAGE 30]
+-30-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+in fact, an entity whose claims had been verified by the
+IRP vide letter 19 August 2024. The appellant who claims
+to be a Financial Creditor, has expressed reasonable
+apprehensions about the prejudice it would face if there
+were roundtripping of the funds, and the prioritization of
+the debts of the second respondent, an operational
+creditor.”
+52.
+Hon’ble SC vide the above judgment had held that once the CIRP is
+initiated, the proceedings are no longer restricted to the individual applicant
+creditor and the corporate debtor, but rather become collective proceedings
+(in rem) where all creditors, such as appellant, are necessary stakeholders.
+The Hon’ble Court, thereby, expanded the scope of who all can be person
+aggrieved. More importantly, the Court’s findings indicate that a person
+aggrieved has to be a stakeholder in the CIRP process. A stakeholder cannot
+be denied locus to maintain appeal against the orders of the Adjudicating
+Authority. In the Byju’s case, the appellant claimed to be the Financial
+Creditor of the CD.
+53.
+In the factual matrix of the present case, the impugned order arises
+from the CIRP of Afcan Impex Pvt. Ltd., in which the Appellant admittedly
+had no role and he did not participate in the CIRP proceedings at any stage,
+before the Adjudicating Authority. The Appellant has not demonstrated that
+it was a Financial or Operational creditor; Probable Resolution Applicant
+(PRA); Resolution Professional (RP); or any other participant in the CIRP
+process, who could be classified as stakeholder in the CIRP process of Afcan
+Impex Pvt. Ltd.
+
+[PAGE 31]
+-31-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+54.
+The appellant is admittedly an Operational Creditor in the CIRP of CAN
+Enterprises Pvt. Ltd., which is a separate corporate debtor undergoing
+independent insolvency proceedings before NCLT Mumbai. The grievance
+raised by the Appellant essentially relates to the conduct of Respondent No.1
+in the CIRP proceedings of CAN Enterprises Pvt. Ltd., including disputes
+relating to settlement proposals and pending applications before NCLT
+Mumbai.
+55.
+In view of the above factual matrix, we see that the appellant has not
+been able to establish any relation with the CIRP proceedings of Afcan Impex
+and is not a stakeholder in any capacity in these proceedings. Therefore, he
+cannot be considered as a ‘person aggrieved’ in accordance with Section 61
+of the Code.
+56.
+Appellant has relied upon several judgments to contend that the
+expression “person aggrieved” under Section 61 of the Code should be
+interpreted broadly so as to permit the present Appeal. We have examined
+their applicability to the facts of the present case hereinafter:
+(i) The Appellant has relied upon the judgment of this Appellate Tribunal
+in ‘Southern Power Distribution Company of Telangana Ltd. v.
+Kalvakolanu Murali Krishna Prasad, RP for Vaksh Steels Pvt. Ltd.’
+(MANU/NL/0713/2024) to contend that the expression “person
+aggrieved” should be interpreted broadly. However, the said decision
+was rendered in a completely different factual context. As noted in that
+judgment Para 1 itself, the appeal arose in peculiar circumstances and
+primarily concerned the limited question of determination of limitation
+
+[PAGE 32]
+-32-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+for filing an appeal under the Code. The observations regarding the
+expression “person aggrieved” were made in the context of examining
+whether the appellant therein could pursue an appeal in relation to
+the limitation issue. In the present case, the issue before us is not one
+relating to limitation but concerns the maintainability of the appeal
+itself in the absence of any direct legal grievance arising from the CIRP
+of Afcan Impex Pvt. Ltd. Unlike the appellant in the cited case, the
+present Appellant has no participation, claim, or legal stake in the
+CIRP proceedings of Afcan Impex Pvt. Ltd., and the impugned order
+does not directly affect its rights. The reliance placed on the said
+judgment is therefore misplaced, as the observations made therein
+arose in a different factual setting and do not apply to the
+circumstances of the present case.
+(ii) The Appellant has relied upon the decision of this Appellate Tribunal
+in ‘Trimex Industries Pvt. Ltd. v. Bhuvan Madan (RP) and Anr.’ [(2023
+ibclaw.in 351 NCLAT] to contend that any “person aggrieved” can file
+an appeal under Section 61 of the Code. The Judgment in Trimex
+Industries is based on entirely different context. Relevant paras 1 and
+13 of the Judgment are extracted below:
+“1. The reference has been made for answering following two
+questions:-
+I. Whether in appeal filed under Section 61 of the I&B Code, by
+a third party who was not party to the proceedings before the
+Adjudicating Authority, an application seeking leave to prefer
+the appeal is necessary to be filed and decided before
+entertaining the Appeal?
+
+[PAGE 33]
+-33-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+II. Whether the Two Member Bench judgement of Chennai Bench
+dated 24.05.2023 in Company Appeal (AT) (CHY) (INS) No.130
+of 2023 in IA Nos 439, 440 and 441/2023, Trimex Industries
+Pvt Ltd Vs Bhuvan Madan, RP of Sathavahana Ispat Ltd & Anr
+holding that there is no requirement for filing an application for
+leave to appeal lays down current law?
+13. At the very outset we may clarify that since reference has
+been made only to answer aforesaid two questions, it would not
+be appropriate for us to record anything on the point as to
+whether appellant in the present appeal is aggrieved person or
+not. Such questions are always open to be examined by the
+concerned Bench. Of course, Mr PH Arvindh Pandian, learned
+senior counsel besides arguing that there is no need for asking
+a third party to file leave application to file appeal, he tried to
+persuade that the appellant is aggrieved person, we are not in
+a position to record any observation on this issue in view of
+terms of reference to this Bench.”
+It can be seen from the para 1 of the Judgment Trimex supra that
+it arose in a different context. The reference before the Tribunal was
+made only to answer two specific questions, namely: (i) whether a third
+party who was not a party before the Adjudicating Authority is required
+to file an application seeking leave to prefer an appeal under Section
+61 of the Code, and (ii) whether the earlier judgment of the Chennai
+Bench holding that such leave was not required laid down the correct
+law. Further, the Tribunal itself clarified in paragraph 13 of the
+judgment that since the reference was limited to answering the above
+questions, it would not be appropriate to record any finding on whether
+the appellant in that case was in fact a “person aggrieved”. The
+Tribunal expressly observed that such question would remain open for
+
+[PAGE 34]
+-34-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+examination by the concerned Bench. Thus, the judgment does not
+decide the substantive issue of whether a particular appellant qualifies
+as a “person aggrieved”.
+In the present case, the issue before us is precisely whether the
+Appellant can be regarded as a “person aggrieved” when it has no claim
+or participation in the CIRP of Afcan Impex Pvt. Ltd. Since the Trimex
+judgment itself refrained from deciding that question, the reliance
+placed by the Appellant on the said decision does not assist its case.
+(iii) The Appellant has further relied upon the decision of the Hon’ble
+Supreme Court in ‘Bar Council of Maharashtra v. M.V. Dabholkar and
+Ors.’ [MANU/SC/0003/1975] to contend that the expression “person
+aggrieved” should be interpreted broadly. However, the said judgment
+arose in a different statutory context. As recorded in paragraph 1 of
+the judgment, the question before the Hon’ble Supreme Court was
+whether the Bar Council of a State could be regarded as a “person
+aggrieved” for the purpose of maintaining an appeal under Section 38
+of the Advocates Act, 1961. In para 27 of the Judgment Hon’ble
+Supreme Court observed as follows:
+“27. Where a right of appeal to Courts against an
+administrative or judicial decision is created by statute the
+right is invariably con fined to a person aggrieved or a per
+son who claims to be aggrieved. The meaning of the words
+"a person aggrieved" may vary according to the context of
+the statute. One of the meanings is that a person will be
+held to be aggrieved by a decision if that decision is
+materially adverse to him. Normally, one is required to
+
+[PAGE 35]
+-35-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+establish that one has been denied or deprived of something
+to which one is legally entitled in order to make one "a
+person aggrieved." Again a person is aggrieved if a legal
+burden is imposed on him. The meaning of the words "a
+person aggrieved" is sometimes given a restricted meaning
+in certain statutes which provide remedies for the protection
+of private legal rights. The restricted meaning requires
+denial or deprivation of legal rights. A more liberal approach
+is required in the back ground of statutes which do not deal
+with property rights but deal with professional conduct and
+morality. The role of the Bar Council under the Advocates
+Act is comparable to the role of a guardian in professional
+ethics. The words "persons aggrieved" in Sections 37 and
+38 of the Act are of wide import and should not be subjected
+to a restricted interpretation of possession or denial of legal
+rights or burdens or financial interests. The test is whether
+the words "person aggrieved" include "a person who has a
+genuine grievance because an order has been made which
+pre judicially affects his interests." It has, therefore, to be
+found out whether the Bar Council has a grievance in
+respect of an order or decision affecting the professional
+conduct and etiquette.”
+We can see from para 27 that the Hon’ble SC has clarified that
+meaning of the expression “person aggrieved” varies according to the
+context of the statute. The Court observed that while a broader
+interpretation may be adopted in statutes dealing with professional
+conduct and ethics, such as the Advocates Act where the Bar Council
+acts as a guardian of professional standards, in statutes dealing with
+protection of private legal rights, a more restricted meaning is applied
+which requires denial or deprivation of a legal right.
+
+[PAGE 36]
+-36-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+In the present case, the proceedings arise under the Insolvency and
+Bankruptcy Code, which governs the resolution process of a specific
+corporate debtor and primarily concerns the rights of its creditors and
+stakeholders. The Appellant has not demonstrated that the impugned
+order approving the Resolution Plan of Afcan Impex Pvt. Ltd. has denied
+or deprived it of any legal right in that CIRP. Therefore, even applying
+the test laid down in the said judgment, the Appellant cannot be
+regarded as a “person aggrieved” in the present case.
+(iv) The Appellant has relied upon the judgment of the Hon’ble Supreme
+Court in ‘Samir Agrawal v. Competition Commission of India and Ors.’
+[MANU/SC/0940/2020] to contend that the expression “person
+aggrieved” should be interpreted widely. However, the said judgment
+was rendered in the context of the Competition Act, 2002. As observed
+in the judgment itself, the Competition Commission of India exercises
+powers in matters affecting competition in the market and consumer
+interest, and therefore the proceedings under the Act operate in rem
+and in public interest.
+In that context, the Hon’ble Supreme Court held that the
+expression “person aggrieved” under the Competition Act should be
+construed broadly, particularly since Sections 53B and 53T of the Act
+use the expression “any person”, thereby allowing even informants who
+provide information regarding anti-competitive conduct to challenge an
+adverse order of the Commission.
+
+[PAGE 37]
+-37-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+The statutory framework of the Insolvency and Bankruptcy Code
+is materially different. The CIRP process concerns the resolution of a
+specific corporate debtor and the rights of its identified stakeholders
+such as creditors and participants in the resolution process. In the
+present case, the Appellant has not demonstrated any direct
+participation or legal stake in the CIRP of Afcan Impex Pvt. Ltd.
+Therefore, the broader interpretation adopted in the context of the
+Competition Act cannot be applied to the present proceedings under the
+Insolvency and Bankruptcy Code.
+(v) Lastly, the Appellant has relied upon the observations of the Hon’ble
+Supreme Court in ‘Vishnu Vardhan v. State of Uttar Pradesh and Ors.’
+[MANU/SC/0967/2025] to contend that procedural rules should be
+interpreted in a manner that promotes justice. However, the said
+judgment arose in a different context involving issues relating to the
+doctrine of merger, allegations of fraud, and disputes concerning land
+acquisition compensation.
+The Hon’ble Supreme Court interfered in view of the peculiar
+circumstances of that case and the potential prejudice arising from
+strict application of procedural doctrines. The present case does not
+involve any such exceptional circumstances. The Appellant has not
+demonstrated any fraud in the resolution process of Afcan Impex Pvt.
+Ltd. or any issue of public importance. Therefore, the observations
+made in the said judgment do not apply to the facts of the present
+case.
+
+[PAGE 38]
+-38-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+57.
+Based on the factual matrix of the case and judicial pronouncements
+in this regard, we are of the view that the grievance sought to be raised in
+the present Appeal is not a direct grievance arising from the CIRP of Afcan
+Impex Pvt. Ltd., but rather a collateral objection arising from the alleged
+involvement of Respondent No.1 in another CIRP. The approval of the
+Resolution Plan in this CIRP proceedings has not resulted in any direct legal
+injury to the Appellant. Such remote or indirect grievance cannot confer
+locus standi to invoke the appellate jurisdiction under Section 61 of the
+Code.
+58.
+We now consider the appeal on Merits also. The Appellant seeks to
+argue that Respondent No.1 was disqualified under Section 29A merely
+because he was a promoter or related party of a company undergoing CIRP.
+“Section 29A: Persons not eligible to be resolution
+applicant.
+1[29A. A person shall not be eligible1A to submit a resolution plan,
+if such person, or any other person acting jointlyJ1 or in
+concertJ1 with such person—
+(a) is an undischarged insolvent;
+(b) is a wilful defaulter in accordance with the guidelines of the
+Reserve Bank of India issued under the Banking Regulation Act,
+1949;
+(c) 2[at the time of submission of the resolution plan has an
+account,] or an account of a corporate debtor under the
+management or control of such person or of whom such person is
+a promoter, classified as non-performing asset in accordance
+with the guidelines of the Reserve Bank of India issued under the
+Banking Regulation Act, 1949 3[or the guidelines of a financial
+sector regulator issued under any other law for the time being in
+force,] and at least a period of one year has lapsed from the date
+of such classification till the date of commencement of the
+corporate insolvency resolution process of the corporate debtor:
+Provided that the person shall be eligible to submit a resolution
+plan if such person makes payment of all overdue amounts with
+
+[PAGE 39]
+-39-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+interest thereon and charges relating to non-performing asset
+accounts before submission of resolution plan;
+3[Provided further that nothing in this clause shall apply to a
+resolution applicant where such applicant is a financial entity
+and is not a related party to the corporate debtor.
+(e) is disqualified to act as a director under the Companies Act,
+2013;
+3[Provided that this clause shall not apply in relation to a
+connected person referred to in clause (iii) of Explanation I;]”
+
+59.
+The appellant has relied upon Section 29A (c) and Section 29A (e) of
+the Code to argue that the Respondent No.1/SRA is covered by these two
+sub-sections of Section 29A and is therefore barred from submitting the
+resolution plan.
+60.
+A plain reading of Section 29A does not support such a proposition.
+The provision enumerates specific disqualifications which must be satisfied
+before a person can be rendered ineligible to submit a resolution plan. In
+particular, Section 29A(c) requires that the person concerned must have an
+account classified as a Non-Performing Asset in accordance with the
+guidelines of the Reserve Bank of India, and that such default must remain
+unpaid for the prescribed period. The language of the provision clearly links
+ineligibility to the existence of a financial default leading to NPA
+classification.
+61.
+The provision does not state that mere association with another
+corporate debtor undergoing CIRP would automatically render a person
+ineligible. The Appellant has not placed any material to show that any
+account of Respondent No.1 or of CAN Enterprises Pvt. Ltd. was classified as
+
+[PAGE 40]
+-40-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+an NPA in terms of RBI guidelines. As the account of CAN Enterprises was
+not qualified as NPA, the disqualification contemplated under Section 29A(c)
+cannot be attracted merely on the basis of the pendency of CIRP against
+another entity.
+62.
+The Appellant has also attempted to invoke Section 29A(e) by
+contending that Respondent No.1 stood disqualified as a director under
+Section 164 of the Companies Act, 2013. The Section 164 of Companies Act
+is extracted below:
+“Section
+164:
+Disqualifications
+for
+appointment
+of
+director.
+*164. (1) A person shall not be eligible for appointment as a
+director of a company, if —
+(a) he is of unsound mind and stands so declared by a competent
+court;
+(b) he is an undischarged insolvent;
+(c) he has applied to be adjudicated as an insolvent and his
+application is pending;
+(d) he has been convicted by a court of any offence, whether
+involving moral turpitude or otherwise, and sentenced in respect
+thereof to imprisonment for not less than six months and a period
+of five years has not elapsed from the date of expiry of the
+sentence:
+Provided that if a person has been convicted of any offence and
+sentenced in respect thereof to imprisonment for a period of seven
+years or more, he shall not be eligible to be appointed as a director
+in any company;
+(e) an order disqualifying him for appointment as a director has
+been passed by a court or Tribunal and the order is in force;
+(f) he has not paid any calls in respect of any shares of the
+company held by him, whether alone or jointly with others, and
+six months have elapsed from the last day fixed for the payment
+of the call;
+(g) he has been convicted of the offence dealing with related party
+transactions under section 188 at any time during the last
+preceding five years; or
+
+[PAGE 41]
+-41-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+(h) he has not complied with sub-section (3) of section 152.
+1[(i) he has not complied with the provisions of sub-section (1)
+of section 165.]
+(2) No person who is or has been a director of a company which—
+(a) has not filed financial statements or annual returns for any
+continuous period of three financial years; or
+(b) has failed to repay the deposits accepted by it or pay interest
+thereon or to redeem any debentures on the due date or pay
+interest due thereon or pay any dividend declared and such
+failure to pay or redeem continues for one year or more,
+shall be eligible to be re-appointed as a director of that company
+or appointed in other company for a period of five years from the
+date on which the said company fails to do so.
+[Provided that where a person is appointed as a director of a
+company which is in default of clause (a) or clause (b), he shall
+not incur the disqualification for a period of six months from the
+date of his appointment.]
+(3) A private company may by its articles provide for any
+disqualifications for appointment as a director in addition to those
+specified in sub-sections (1) and (2):
+[Provided that the disqualifications referred to in clauses (d), (e)
+and (g) of sub-section (1) shall continue to apply even if the appeal
+or petition has been filed against the order of conviction or
+disqualification.]”
+
+63.
+The appellant has relied upon Section 164 (2) (a) and 164 (2) (b) of the
+Companies Act, 2013 to argue that in accordance with these provisions the
+Respondent No.1 is disqualified to act as Director of company and therefore
+ineligible to submit the resolution plan in accordance with Section 29A (e).
+However, this argument also does not withstand scrutiny, as Section 29A(e)
+specifically refers to a person who “is disqualified to act as a director under
+the Companies Act, 2013.” The language of the provision indicates that the
+disqualification must already exist in law; it cannot be presumed or inferred.
+
+[PAGE 42]
+-42-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+64.
+In other words, for Section 29A(e) to apply, there must be a formal and
+operative disqualification under Section 164 of the Companies Act. Such
+disqualification is determined and declared by the competent statutory
+authority, namely the Registrar of Companies (RoC) or the Ministry of
+Corporate Affairs.
+65.
+The Hon’ble Supreme Court in ‘M.K. Rajagopalan v. Dr. Periasamy
+Palani Gounder’ CIVIL APPEAL NOS. 1682-1683 OF 2022 (2024) had held that
+there is no concept of “deemed disqualification” under Section 164(2) of the
+Companies Act, 2013, and that such disqualification cannot be presumed.
+The Hon’ble Supreme Court clarified that disqualification of a director must
+be formally declared by the competent authority such as the Registrar of
+Companies or the Ministry of Corporate Affairs, and cannot be inferred by a
+tribunal. In the present case, no material has been placed on record to show
+that Respondent No.1 has been formally declared disqualified under Section
+164 by the competent authority. In the absence of such declaration, the
+ineligibility under Section 29A(e) of the Code cannot be presumed.
+Accordingly, the reliance placed by the Respondents on the said judgment
+supports their contention.
+66.
+In the present case, no material has been placed on record to show
+that Respondent No.1 has been declared disqualified by the Registrar of
+Companies or any other competent authority under Section 164 of the
+Companies Act. The Appellant is essentially inviting this Tribunal to assume
+a disqualification which has not been formally declared. Such an assumption
+would be contrary to the statutory scheme of both Section 164 of the
+Companies Act and Section 29A(e) of the Insolvency and Bankruptcy Code.
+
+[PAGE 43]
+-43-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+We also note that the Resolution Professional has also placed on record that
+due diligence was carried out and the eligibility of Respondent No.1 as a
+Resolution Applicant under Section 29A was duly verified before the plan
+was placed before the Committee of Creditors. Therefore, the contention of
+ineligibility under Section 29A cannot be sustained.
+67.
+Another aspect which needs to be examined is the conduct of the
+Appellant in the proceedings before the Adjudicating Authority. We now
+consider whether the Appellant, having not participated before the NCLT
+Ahmedabad, can raise these grounds for the first time in the present Appeal.
+The Appellant admittedly did not appear or participate in the proceedings
+relating to approval of the Resolution Plan. The objections now sought to be
+raised in the present Appeal, particularly the allegation of ineligibility under
+Section 29A, were never raised before the Adjudicating Authority. It is a
+settled principle that new grounds cannot be permitted to be raised for the
+first time in appellate proceedings.
+68.
+The Chennai Bench of this Appellate Tribunal in ‘Anish Lawrence v.
+Renahan Vamakesan (NCLAT Chennai)’ [CA AT (CH) (INS) No. 377 OF 2023].
+held that new grounds cannot be raised for the first time in appellate
+proceedings, if they were not urged before the Adjudicating Authority. In the
+present case, the Appellant did not raise any objection before the
+Adjudicating Authority in the CIRP proceedings of Afcan Impex Pvt. Ltd.,
+which continued from 2021 to 2025. Despite having sufficient opportunity,
+the Appellant chose not to intervene in those proceedings. Therefore, the
+Appellant cannot now seek to raise fresh issues for the first time before this
+Appellate Tribunal.
+
+[PAGE 44]
+-44-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+69.
+It is also necessary to consider the stage at which the present challenge
+has been brought and the status of the implementation of the Resolution
+Plan. It is relevant to note that the Resolution Plan was approved by order
+dated 30.09.2025 and was implemented within the stipulated period. The
+payments under the plan amounting to Rs. 6,51,19,488.68 have already been
+made to all stakeholders, including secured financial creditors, operational
+creditors, statutory authorities and CIRP costs. The management of the
+Corporate Debtor has been taken over by the Successful Resolution
+Applicant, the new board has been constituted and the assets of the
+Corporate Debtor have already been handed over. Once a resolution plan has
+been fully implemented and the management of the corporate debtor has
+changed hands, the settled position of law is that such a plan cannot
+ordinarily be unsettled or unscrambled at a belated stage.
+70.
+A further circumstance which weighs with us is that the very same
+impugned order dated 30.09.2025 approving the Resolution Plan has already
+been challenged before this Appellate Tribunal in other proceedings. The
+State Tax Officer had challenged the same order in Company Appeal (AT)
+(Ins) Nos. 1804 and 1805 of 2025. This Tribunal, by judgment dated
+07.01.2026, dismissed those appeals and upheld the Resolution Plan,
+holding that the plan was in compliance with the requirements of Section
+30(2) of the Insolvency and Bankruptcy Code. The challenge raised in the
+present Appeal would therefore amount to reopening and unsettling a
+resolution plan which has already been upheld by this Appellate Tribunal
+and implemented in its entirety.
+
+[PAGE 45]
+-45-
+
+Company Appeal (AT) (Ins.) No. 2032 of 2025
+71.
+Seen in this background, the conduct of the Appellant appears to be
+that of a “wait and watch” litigant, who did not participate before the
+Adjudicating Authority and now seeks to challenge a resolution process
+which has already been successfully concluded. The Insolvency and
+Bankruptcy Code is designed to ensure certainty and finality in the
+resolution process. Permitting such belated challenges by persons, who are
+not stakeholders in the CIRP would undermine the insolvency framework
+and defeat the very objective of timely resolution contemplated under the
+Code.
+72.
+In view of the above discussion, we are of the considered view that the
+Appellant has failed to establish that it is a ‘person aggrieved’ within the
+meaning of Section 61 of the Code in relation to the impugned order
+approving the Resolution Plan of Afcan Impex Pvt. Ltd. Even on merits the
+Appellant has failed to demonstrate that Respondent No.1 was ineligible
+under Section 29A of the Code or that the impugned order suffers from any
+legal infirmity.
+73.
+Accordingly, the present Appeal is not maintainable and is dismissed.
+Pending I.As, if any, are closed. There would be no order as to costs.
+
+[Justice Ashok Bhushan)
+Chairperson
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+SA/Pragya (LRA)

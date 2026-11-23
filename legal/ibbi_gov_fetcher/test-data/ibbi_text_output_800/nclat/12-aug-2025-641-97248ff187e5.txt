@@ -1,0 +1,658 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL AT CHENNAI
+(APPELLATE JURISDICTION)
+Company Appeal (AT) (CH) (Ins) No.120/2025 (IA Nos.329 , 330,
+381,406 & 405 /2025)
+IN THE MATTER OF:
+Byju Raveendran, Suspended Director
+and Promoter of M/s. Think and Learn Pvt. Ltd.
+...Appellant
+
+Vs.
+Aditya Birla Finance Ltd. & 3 Ors.
+
+...Respondents
+Present :
+For Appellant :
+Mr. Guru Krishnakumar, Senior Advocate Mr.
+Abhijit Sinha, Advocate Mr. V. Shyamohan, Advocate
+Ms. Sradhaxna Mudrika, Advocate Ms. Isha Ghai,
+Advocate Ms. Anshika Bajpai, Advocate Ms. Vrinda
+Baheti, Advocate Ms. Riya Sara Renchen, Advocate
+Mr. Vishesh Goel, Advocate
+For Respondents :
+Mr.
+Aparajith
+Vishwantath
+&
+Ms.
+Sneha
+Parthasarathy, Advocates for R1
+Mr. Abhinav Vasisht, Senior Advocate Ms. Pooja
+Mahajan Mr. Arveena Sharma Mr. Savar Mahajan
+Mr. Ichchha Kalash Ms. Samridhi Shrimali Ms.
+Lakshana Viravalli Ms. S. Madhusmitha Ms. Akshita
+Sachdeva Jaitly, Advocates for R2
+Mr Krishnendu Datta, Senior Advocate with Prateek
+Kumar, Raveena Rai, Moha Paranjpe, Mr. Sidhant
+Grover, Adv. for Respondent No. 3
+Ms. Haripriya Padmanabhan, Senior Advocate Ms.
+Pooja Dhar, Advocate Mr. Vishal Sinha, Advocate Ms.
+Shreya Nair, Advocate Mr. Pratul Pratap Singh,
+Advocate for IA No. 405/2025
+J U D G M E N T
+Per: Justice Rakesh Kumar Jain:
+
+This appeal is filed by Byju Raveendran, suspended director and
+promoter of M/s Think and Learn Pvt. Ltd. under Section 61 of the Insolvency
+and Bankruptcy Code, 2016 to assail the validity of the order passed by the
+NCLT, Bengaluru Bench dated 29.01.2025 by which it had disposed of two
+
+[PAGE 2]
+2
+
+applications bearing I.A No. 660 of 2024 and I.A No. 820 of 2024 by a common
+order, on the ground that identical issues are raised in these applications,
+with the following directions:-
+“a. The reconstitution of the Committee of Creditors carried out
+by the Interim Resolution Professional on 31st August 2024 is
+hereby set aside. The Committee of Creditors constituted on 21st
+August 2024 is upheld and shall remain in effect.
+b. The Interim Resolution Professional is directed to convene a
+meeting of the Committee of Creditors as constituted on 21st
+August 2024 and submit their recommendation on appointment
+of the Resolution Professional.
+c. The resolution passed by the reconstituted Committee of
+Creditors on 3rd September 2024, which appointed the Interim
+Resolution Professional as the Resolution Professional, is hereby
+set aside. In addition, any subsequent resolutions, if passed by
+the reconstituted CoC, are also nullified.
+d. The Applicant No. 1, Aditya Birla Finance Limited is hereby
+restored to the status of a Financial Creditor, with all attendant
+rights, privileges, and obligations, as envisaged under the Code
+and letter dated 05/09/2024 re-classifying Applicant No.1 as
+Operational Creditor is set aside.
+e. Accordingly, consequential prayers are dealt with.”
+2.
+I.A No. 660 of 2024 was filed by Aditya Birla Finance Limited/
+Respondent No. 1 on 10.09.2024 under Section 60(5) of the Code with the
+following prayers:-
+“a) set aside the decision made by the Respondent in respect of the
+Applicant's classification as an Operational Creditor;
+b) direct Respondent to exclude the Applicant from Annexure S List
+of Operational Creditors dated 30th August 2024 and to consider
+the Applicant's claim as a ‘financial debt’ within the meaning of
+Section 5(8) of the Insolvency and Bankruptcy Code, 2016;
+
+[PAGE 3]
+3
+
+c) direct the Respondent to appropriately reconstitute the
+Committee of Creditors with the Applicant classified as a Financial
+Creditor with the proportionate voting accruing in light of the
+financial debt owed to it by the Corporate Debtor”
+3.
+The basic facts leading to the filing of the aforesaid application are that
+CP (IB) No. 149/BB/2023 filed by the Board of Control for Cricket in India
+(BCCI)/Respondent No. 4/Operational Creditor against M/s Think and Learn
+Pvt. Ltd. (CD) was admitted on 16.07.2024 and Pankaj Srivastava
+(Respondent No. 2) was appointed as the IRP.
+4.
+The IRP after having been appointed as such, made public
+announcement on 17.07.2024 to invite claims from the creditors of the CD.
+Respondent No. 1 submitted its claim of Rs. 47,12,00,000/- in Form C as
+financial creditor in terms of Regulation 8 of the Insolvency and Bankruptcy
+Board of India (Insolvency Resolution Process for Corporate Persons),
+Regulations, 2016 (in short ‘Regulations”).
+5.
+In the meantime, the order of admission dated 16.07.2024 came to be
+challenged in appeal before the Appellate Authority.
+6.
+The Respondent No. 2, vide its email dated 02.08.2024, asked
+Respondent No. 1 to provide the details of the bank guarantee documents,
+details of security realisation and other relevant agreements and documents
+in support of their claim whereas on the same date i.e. 02.08.2024 CA (AT)
+(CH) (Ins) No. 262 of 2024 was allowed by the Appellate Authority on the basis
+of a settlement arrived at between the parties therein.
+7.
+The Respondent No. 3 (Glass Trust Company LLC) challenged the order
+dated 02.08.2024 in appeal before the Hon’ble Supreme Court in which, vide
+
+[PAGE 4]
+4
+
+order dated 14.08.2024, operation and effect of the order dated 02.08.2024
+was stayed and as a result thereof, the CIRP proceedings were restored. The
+amount paid by the CD to Respondent No. 4 was further directed to be kept
+in an escrow account.
+8.
+The Respondent No. 2, vide email dated 21.08.2024, informed both
+Respondent No. 1 and 3 about the constitution of the CoC with the following
+members, namely, Glass Trust Company LLC, Aditya Birla Finance Ltd.,
+Incred Financial Services Ltd. and ICICI Bank Ltd.
+9.
+The Respondent No. 2 informed the members of the CoC that 1st
+meeting of CoC of the CD shall take place on 27.08.2024 and informed
+Respondent No. 1 vide letter dated 21.08.2024 that its claim of Rs. 47.12 Cr.
+is verified subject to submission of certain documents and queries.
+10.
+The Respondent No. 1, vide its mail dated 02.09.2024, responded to the
+queries raised by Respondent No. 2 and submitted that amount claimed is
+the Financial debt.
+11.
+The Respondent No. 2, vide mail dated 26.08.2024 cancelled the first
+meeting of the CoC which was scheduled to be held on 27.08.2024, on the
+request of one of the members of the CoC and postponed it to 30.08.2024.
+Simultaneously, Respondent No. 2 (IRP) reclassified Respondent No. 1 as an
+operational creditor which was reflected in the revised notice and agenda of
+the first meeting of the CoC dated 01.09.2024.
+12.
+Aggrieved by this action of Respondent No. 2, application bearing I.A
+No. 660 of 2024 was filed by Respondent No. 1 with the prayers made therein
+which have already been reproduced herein before.
+
+[PAGE 5]
+5
+
+13.
+The Application was contested by Respondent No. 2 who contended that
+the claim of Respondent No. 1 and other parties who had applied to be a part
+of the CoC was only provisionally accepted based on the limited documents
+sent by each party and that since all the relevant documents were not
+received, therefore, he again wrote to Respondent No. 1 on 02.08.2024 to
+furnish them and then based on his analysis of the documents that were
+provided, found that Respondent No. 1 should have been classified as an
+operational creditor and not as a financial creditor.
+14.
+It is further alleged that the IRP issued a fresh notice of first meeting of
+the CoC which was scheduled to be held on 03.09.2024 and since Respondent
+No. 1 was reclassified as an operational creditor on 02.09.2024, he shared
+certain documents to substantiate his claim as a financial creditor.
+15.
+It is further alleged that Respondent No.1, vide letter dated 05.09.2024,
+objected to its reclassification. The Respondent No. 1 filed the rejoinder and
+alleged that business agreement dated 28.10.2020 and its subsequent
+addendum and amendments were entered into to procure finance from it in
+connection with the purchase of CD services and products and not mere
+services as alleged by the Respondent No. 2 to classify it as an operational
+creditor under Section 5(21) of the Code. It is also alleged that documents
+submitted vide mail dated 02.09.2024 and 06.09.2024 support their
+contention that the amount claimed by Respondent No. 1 was a financial debt
+and not the operational debt.
+16.
+I.A No. 880 of 2024 was filed by Respondent No. 3 under Section 60(5)
+of the Code in which the following prayers were made by it:-
+
+[PAGE 6]
+6
+
+“(i) declare that Respondent No.1 does not have the power to re-
+constitute to the Committee of Creditors [“CoC”] of the Corporate
+Debtor;
+(ii) Set aside reconstitution of CoC and restore the CoC as on
+21.08.2024 and
+(iii) Set aside resolutions of the CoC held on 03.09.2024 and all
+subsequent meetings which may have taken place.”
+17.
+According to Respondent No. 3, after the admission of the application
+on 16.07.2024 and pursuant to public announcement dated 17.07.2024 it
+had submitted its claim of Rs. 11432,98,87,753/- on 27.07.2024. However,
+the order dated 16.07.2024 was set aside on 02.08.2024 which was stayed in
+appeal on 14.08.2024 by the Hon’ble Supreme court. The claim of Respondent
+No. 3 was verified on 19.08.2024 by Respondent No. 2 with the advice to
+submit the notarized/apostilled documents in due course which were hand
+delivered on 20.08.2024. The CoC was constituted on 21.08.2024 with
+Respondent No. 3 as a member besides other three members, namely,
+Respondent No. 1, Incred Financial Services Ltd. and ICICI Bank Limited and
+the first meeting of the CoC was fixed for 27.08.2024. The said meeting dated
+27.08.2024 was rescheduled to 30.08.2024 which was further adjourned to
+03.09.2024 by Respondent No. 2.
+18.
+It was alleged that by Respondent No. 3 that they received a letter
+backdated as 01.09.2024 from Respondent No. 2 informing that their claim
+has been classified as contingent and hence they are removed from the CoC
+and that on 03.09.2024 it was submitted on behalf of the Respondent No. 2
+before the Tribunal that first meeting of the reconstituted COC was convened
+and the only action taken in the meeting was that Respondent No. 2 was
+confirmed as RP of the CD.
+
+[PAGE 7]
+7
+
+19.
+This application was also contested by the Respondent No. 2 by filing
+the reply in which he alleged that Respondent No. 3 had filed an application
+I.A No. 657 of 2024 on 02.09.2024 before the Tribunal seeking the
+replacement of the RP and subsequently on 06.09.2024 filed complaint with
+IBBI against him alleging about his fraudulent act regarding reconstitution of
+COC. In respect of the issue of replacement of RP, he has alleged that only
+IBBI has the jurisdiction to investigate into the facts by way of disciplinary
+proceedings and once the proceedings have been initiated before the IBBI, the
+Respondent No. 3 cannot be permitted to initiate parallel proceedings before
+the Tribunal on the same cause of action. He also contended in his counter
+that claim of Respondent No. 3 is a contingent claim because the claims
+submitted are subject to adjudication in multiple proceedings and therefore,
+Respondent No. 3 was removed from the CoC and was accordingly
+reconstituted.
+20.
+The Respondent No. 3 filed the rejoinder to the counter of Respondent
+No. 2 stating that Respondent No. 2 had no authority to adjudicate and to
+reclassify a claim after verification, after validly constituting CoC, on
+21.08.2024 as per law.
+21.
+On the basis of the aforesaid pleadings, the Tribunal framed two issues,
+namely, (i) whether the IRP has the power to reconstitute the CoC, without
+the leave of the Adjudicating Authority? and (ii) whether the Respondent No.
+2 has exceeded his authority conferred under law?
+22.
+In so far as the first question is concerned, the Tribunal has referred to
+email dated 21.08.2024 sent by the Respondent No. 2 to both Respondent No.
+
+[PAGE 8]
+8
+
+1 and 3. The extract of the said email has also been reproduced in the
+impugned order which is also reproduced hereinunder for a quick reference
+:-
+“Dear Members of the CoC,
+This is in reference to the captioned matter. In this regard, please
+note that the undersigned has constituted the Committee of
+Creditors (CoC) of Think & Learn Limited (Corporate Debtor) in
+accordance with the provisions of the Insolvency & Bankruptcy
+Code, 2016 and the Regulations made thereunder, comprising of
+the following members:
+1. Glas Trust Company LLC
+2. Aditya Birla Finance Limited
+3. Incred Financial Services Limited
+4. ICICI Bank Limited
+Accordingly, enclosed is the Notice of the 1st CoC Meeting of the
+Corporate Debtor which will be held on Tuesday, the 27th day of
+August 2024 at 7:00 PM IST at the Registered office of Think &
+Learn Pvt. Ltd. located at 2nd Floor, Tower D, IBC Knowledge Park,
+4/1, Bannerghatta Main Road, Bengaluru, Karnataka, India.”
+
+23.
+It has also been recorded by the Tribunal that Respondent No. 2 had
+filed an application I.A No. 942 of 2024 dated 22.08.2024 in which the
+following averments were made:-
+
+[PAGE 9]
+9
+
+24.
+It was thus observed that the Respondent No. 2 had constituted the
+CoC on 21.08.2024 and had reported the same to the Tribunal on 22.08.2024
+vide his I.A No. 942 of 2024.
+25.
+The controversy in this case has arisen when the Respondent No. 2
+decided to reconstitute the CoC by striking off two major financial creditors,
+namely, Respondent No. 1 and Respondent No. 3 who were having 0.41%
+voting share and 99.41% voting share respectively.
+26.
+The Reconstituted CoC dated 31.08.2024 had only one financial
+creditor, namely, Incred Financial Services Ltd. with 100% voting share, even
+though it was having 0.18% share earlier. The said table is also reproduced
+as under:-
+
+27.
+The Tribunal made a reference to a decision of this court in the case of
+Mr. K. N. Rajkumar Vs. V Nagarajan, (2021) ibclaw.in 223 NCLAT which was
+affirmed by the Hon’ble Supreme court and reported as (2021) ibclaw.in 150
+SC in which it has been held that “On a careful consideration of the respective
+contentions advanced on either side, this Tribunal is of the considered view that
+the ‘Resolution Professional’ has no ‘Adjudicatory Power’ under the I & B Code,
+2016 and further that when once the ‘Committee of Creditors’ is/was formed,
+the ‘Resolution Professional’ cannot change the ‘Committee of Creditors’. Suffice
+it for this Tribunal to make a pertinent mention that the Resolution
+
+[PAGE 10]
+10
+
+Professional/1st Respondent cannot constitute a ‘Committee of Creditors’
+afresh, in negation of the earlier constituted ‘Committee of Creditors”
+
+28.
+The Tribunal has also discussed Regulation 14, relied upon by the
+Respondent No. 2 and referred to a decision of this Appellate Tribunal in the
+case of Union Bank of India Vs. Rajdeep Clothing & Advisory Pvt. Ltd. & Ors.,
+CA (AT) (Ins) No. 399 of 2021 in which it has been held that there is no
+provision in the Code or Regulations which permit review of status of a
+creditor as the provision focuses only on the amount of claim. Thus, IRP/RP,
+on its own cannot review and reverse his own earlier decision without
+approval of AA.
+29.
+In the aforesaid judgment, it has further been held that scope of
+updating exercise is limited and confined to the determination of quantum of
+claim and by no stretch of imagination it gives any power to the IRP/RP to
+review the status of the creditor.
+30.
+The Tribunal after detailed discussion, disposed of both the
+applications with direction that CoC which was constituted on 21.08.2024
+shall remain in effect, that status of Respondent No. 1 was restored to
+financial creditor and that the conduct of the Respondent No. 2 was fully
+deprecated.
+31.
+Counsel for the Appellant has argued that since the Tribunal has
+recorded a categoric finding of misconduct and violation of the duties by the
+IRP and has also ordered for disciplinary proceedings to be taken against him
+by the IBBI, therefore, all action taken by him including that of the
+constitution of the CoC on 21.08.2024 shall have to be declared void. He has
+
+[PAGE 11]
+11
+
+further submitted that the claim of Respondent No. 3 was only provisionally
+assessed based upon incomplete documents at the time when the CoC was
+first constituted on 21.08.2024 that in respect of Respondent No. 1, the IRP
+had also failed to examine the claim of Respondent No. 1 before declaring its
+status as financial creditor because the relationship between the CD and
+Respondent No. 1 has arisen from a service agreement and did not involve a
+financial facility and therefore, there has been no error in reconstitution of
+the CoC on 31.08.2024. He has further submitted that the Tribunal has
+violated the principle of natural justice because I.A No. 841 of 2024 was still
+pending and the Appellant was not heard before passing the impugned order.
+He has also submitted that the purported constitution of CoC on 31.08.2024
+is not a reconstitution but merely an updation based on proper verification
+because the constitution of CoC on 21.08.2024 was provisional as
+Respondent No. 2 did not have all the documents to verify the claim and the
+information sought was not provided, that I.A No. 942 of 2024 was filed by
+IRP because the constitution of CoC on 21.08.2024 has to be reported and
+approved by the Tribunal in terms of Regulation 17 of the Regulations but no
+order was passed by the Tribunal on the same and in any case, the CoC
+constituted on 21.08.2024 was, in any case, a properly constituted CoC
+because ICICI Bank was included in it despite having nil claim.
+32.
+During the pendency of this appeal, I.A No. 405 of 2025 has been filed
+by Riju Ravindran who is also a suspended director of the CD for his
+impleadment as Respondent No. 5.
+33.
+Counsel for the Applicant has submitted that the payment towards the
+settlement of the dues of the OC was made by the Applicant. It is further
+
+[PAGE 12]
+12
+
+submitted that the Applicant had also filed an impleadment application I.A
+No. 842 of 2024 on 15.11.2024 before the Tribunal which remained pending.
+It is also submitted that the Tribunal should not have passed the impugned
+order without deciding I.A No. 942 of 2024 and 671 of 2024 dealing with the
+constitution of the CoC.
+34.
+On the other hand, Counsel appearing on behalf of Respondent No. 1
+has submitted that the Appellant has no locus standi to challenge the
+impugned order and has referred to a decision of this Tribunal in the case of
+Gurdeep Singh Sahni Vs. Berger Paints India Ltd., (2017) SCC OnLine NCLAT
+437. He has further submitted that the Application no. 405 of 2025 seeking
+impleadment of Riju Ravindran in this appeal is not maintainable because he
+had filed the appeal i.e. CA (AT) (Ins) No. 58 of 2025 against the very same
+impugned order in which a different relief was sought but the same was
+dismissed on 07.02.2025. He has also submitted that the issue being agitated
+in this case is qua the reconstitution of CoC for which the IRP had no
+jurisdiction / power as has been held by this Appellate Tribunal in the case
+of Union Bank of India Vs. Rajdeep Clothing & Advisory Pvt. Ltd., 2022 SCC
+NCLAT 4699 and that the role of the IRP is administrative in nature and not
+adjudicatory who works as facilitator and the adjudicatory functions are
+overseen by the CoC and the AA. Reliance has been placed in this regard upon
+the case of Swiss Ribbons Pvt. Ltd. Vs. Union of India, 2019 4 SCC 17 and
+also Ajay Kumar Goenka Vs. Toursim Finance Corporation of India, (2023)
+10 SCC 545 and a decision of this Appellate Tribunal in the case of NPGCL &
+Anr. Vs. Ram Ratan Modi, 2023 SCC OnLine NCLAT 1168 in which it has
+
+[PAGE 13]
+13
+
+been held that the role of RP is administrative in contrast to the quasi judicial
+role of the liquidator.
+35.
+He has further submitted that as per Regulation 17 of the Regulations,
+the IRP is required to submit a report to the AA certifying the constitution of
+the CoC within two days from the verification of the claim and after such
+submission, to hold a meeting of the CoC within 7 days of filing of such report.
+He has submitted that the constitution of CoC is an administrative ministerial
+act which does not require adjudication. He has also submitted that
+Respondent No. 2, after constitution of the CoC on 21.08.2024, filed his report
+on 21.08.2024 by way of an application I.A No. 942 of 2024 but deliberately
+chose not to cure the defects in the said application which carried the report
+of constitution of the first CoC and instead, in a clandestine manner, moved
+another application subsequently on 31.08.2024 on the same subject and
+pursued the said application in place of the application which was filed on
+21.08.2024. It is submitted that this discrepancy on the part of the IRP was
+specifically mentioned by the Tribunal in the impugned order after a detailed
+discussion of the material on record and his conduct has been deprecated. It
+is further submitted that Respondent No. 2 on the basis of material available
+with him at that time, made Respondent No. 1 member of the CoC as Financial
+Creditor and excluded him in the second CoC on the pretext that it was an
+operational creditor.
+36.
+Counsel for Respondent No. 3 has also submitted that Respondent No.
+2 could not have reclassified its claim after constitution of the CoC on
+21.08.2024 on the ground that its claim is contingent and could not have
+excluded him from the CoC which was constituted on 31.08.2024. It is also
+
+[PAGE 14]
+14
+
+submitted that after the impugned order was passed, I.A No. 942 of 2024 was
+disposed of after taking the report of the first CoC which was constituted on
+21.08.2024. The order passed in I.A No. 942 of 2024 is as under:-
+“This application is filed by the Applicant / RP under Section
+18(C) and 21(1) of the Code r/w Regulation 17(1) of the
+Regulations to place on record the document certifying the
+constitution of the CD. The report is taken on record.
+Accordingly, I.A No. 942 of 2024 is disposed of”
+37.
+It is also submitted that I.A No. 671 of2024 which was also filed by
+Respondent No. 2 for taking on record the status report of the constitution of
+2nd CoC was disposed of as infructuous. The said order is also reproduced as
+under:-
+“This application is filed by the Applicant/RP under Regulation
+18(C) and 21(1) of the Code r/w Regulation 17(1) of the
+Regulations seeking to take on record the report certifying the
+constitution of CoCs of CD. In light of the order dated 29.01.2025
+by this AA in I.A No. 660 and 820 of 2024, the present
+application becomes infructuous. Therefore, I.A No. 671 of 2024
+is disposed of as infructuous.”
+38.
+Both the orders were passed on 17.02.2025 which were produced
+during the course of hearing of this appeal.
+39.
+We have heard Counsel for the parties and perused the record with their
+able assistance.
+40.
+It is needless to mention that Respondent No. 2 had constituted the
+CoC on 21.08.2024 which may be referred to as the first CoC in which he
+
+[PAGE 15]
+15
+
+included four financial creditors, namely, Glass Trust Company LLC, Aditya
+Birla Finance Limited, Incred Financial Services and ICICI Bank Ltd.
+41.
+It is also not in dispute that out of the four financial creditors,
+Respondent No. 3, namely, Glass Trust Company LLC raised a claim of Rs.
+11,432,98,87,753/- which was verified as it is and was given voting share of
+99.41%. Similarly, Respondent No. 1 claimed Rs. 47,12,00,000/- which was
+also verified as it is and was given a voting share of 0.41%. The Respondent
+No. 2 on the very next date i.e. 22.08.2024 filed the application bearing I.A
+No. 942 of 2024 as per Regulation 17 of the Regulation but when the registry
+of the Tribunal raised certain objections in the application, the IRP did not
+rectify it and as a result thereof, the application was not numbered.
+42.
+On the other hand, Respondent No. 1, on his own accord, changed the
+constitution of CoC on 31.08.2024, showing it to have been constituted on
+21.08.2024, in which he kept Incred Financial Services as the sole financial
+creditor with the claim amount of Rs. 20,34,52,440/- which was verified as
+such and with a voting share of 100% as against its voting share of 0.18% as
+reflected in the first CoC.
+43.
+Respondent No. 2 filed an application on 31.08.2024, to place before
+the Tribunal, as per Regulation 17 of the Regulations, the reconstitution of
+the CoC and pursued this application which was numbered as I.A No. 671
+of2024 so that constitution of 2nd CoC gets approval of the Tribunal by taking
+it on record and deliberately did not mention about the first CoC which was
+constituted by him on 21.08.2024 and about the application already filed
+
+[PAGE 16]
+16
+
+under Regulation 17 of the Regulations about the said status of the CoC on
+record.
+44.
+All these facts have been clearly noticed by the Tribunal in para 21 to
+23 of the impugned order. The said paras read as under:-
+
+[PAGE 17]
+17
+
+45. The Tribunal has also ordered for disciplinary proceedings by the IBBI
+against Respondent No. 2 and in this regard made the following observations
+in para 26 of the impugned order which are reproduced as under:-
+“26.Hence, it is clear from the aforementioned that the IRP has
+a duty to assist the Tribunal with integrity in an honest and fair
+manner and the conduct of the IRP in the present case has been
+filed with the intent to mislead the tribunal. The actions and
+decisions taken by the IRP are prejudicial to the interests of the
+CIRP process outlined by the IBC, 2016 and to the stakeholders.
+Further, the conduct of IRP is not fit and proper as expected from
+an officer of the Tribunal. The above conduct on part of IRP needs
+to be dealt by way of disciplinary proceeding by the IBBI. Hence,
+the IBBI may conduct the necessary investigation in this matter.”
+
+46.
+Although, Counsel for the Appellant and even the Applicant have
+argued vehemently that the impugned order is illegal and deserves to be set
+aside yet they have failed to cite any provision in the Code nor any precedent
+to the effect that the status of a creditor who has been made part of the CoC,
+can be reviewed by the RP on his own. In this regard, the observations made
+
+[PAGE 18]
+18
+
+by this Appellate Tribunal in the case of Union Bank of India (Supra) which
+has also been noticed by the Tribunal are required to be reproduced again
+which read as under:-
+““23A. .... First and foremost question which needs to be asked
+is whether in the garb of exercise of such duty IRP/RP can review
+the status of a creditor i.e., from Financial Creditor to
+Operational Creditor or vice-versa or a non-related Financial
+Creditor can be treated as related party without prior approval
+of Adjudicating Authority. From the perusal of all provisions as
+well as regulations it is apparent that no such power exists either
+with RP or COC.
+..........
+Now, coming to the powers of IRP/RP, it is apparent that they
+are responsible for collating the claims, revising the claims from
+time to time based upon information coming to their possession
+or being provided by the creditors. We have found no provision
+in the CODE or Regulations which permit for review of status of
+a creditor as all provisions focus only on the amount of claim.
+Thus, IRP /RP cannot, on its own, review and reverse his own
+earlier decision without approval of Adjudicating Authority.
+..........
+We are further of the view that scope of updating exercise is
+limited and confine to the determination of quantum of claim
+and, by no stretch of imagination it gives any power to the IRP
+/RP to review the status of a creditor.
+........
+23B. The other important question is whether constitution of
+COC can be changed by RP and if so, under what circumstances
+and to what extent. It is an admitted position of law that IRP is
+required to constitute COC in terms of provisions of Section 21(1)
+of the CODE. The RP is also entitled to determine the voting
+share to be assigned to each Financial Creditor, being a member
+of COC and who is not a related party as per the provisions of
+Section 24(6), 24(7) r.w. first proviso to Section 21(2) of the
+CODE. As per Regulation 12(3), if a claim of a Financial Creditor
+is admitted under Regulation 13(2), such Financial Creditor
+shall be included in COC from the date of admission of such
+claim. It is specifically provided in proviso to Regulation 12(3)
+
+[PAGE 19]
+19
+
+that any decision taken prior to such inclusion would remain
+valid in spite of change of constitution of COC because of such
+re-constitution of COC. Thus, the only situation which has been
+prescribed in the CODE r.w. Regulation 12 (3) is this one. This
+re-constitution happens only because of admission of a claim of
+a Financial Creditor subsequently meaning thereby the
+Financial Creditors who have already been included cannot be
+excluded from COC by RP for any reason of whatsoever
+nature.......”
+47.
+Similarly, the argument of the Appellant about the provisional
+constitution of the CoC can not be accepted because there is no provision in
+the Code. In this regard, we do not find any error in the finding recorded by
+the Tribunal in para 16 of the impugned order which read as under:-
+“16.In order to reinforce the point and ensure understanding, we
+make it clear that the role of the IRP and RP is non-adjudicatory
+in nature, as they are expected to act as facilitators, but the
+NCLT holds the adjudicatory powers. We are reiterating again
+that as per the IBC there is no provision to ‘provisionally’
+constitute the CoC, the CoC once constituted is final and cannot
+be revised by the IRP/RP without the interference of the
+Adjudication Authority.”
+48.
+In so far as the reclassification of the status of the financial creditor is
+concerned, the Tribunal has relied upon a decision of this Court in the case
+of Rajnish Jain Vs. BVN Traders & ors., CA (AT) (Ins) No. 519 of 2020 in which
+it has been held that : -
+“59. Based on the above discussion, we clarify and hold that
+during CIRP, the IRP is authorized to collate the claims, and
+based on that he is empowered to constitute the Committee of
+Creditors. We hold that the Resolution Professional may add to
+existing claims of claimants already received, or admit or reject
+further Claims and update list of Creditors. But after
+categorization of a claim by the IRP/Resolution Professional we
+hold that they cannot change the status of a Creditor. For
+
+[PAGE 20]
+20
+
+example, if the Resolution Professional has accepted a claim as
+a Financial Debt and Creditor as a Financial Creditor, then he
+cannot review or change that position in the name of updation
+of Claim. It is also to be clarified that while updating list of
+Claims the Resolution Professional, can accept or reject claims
+which are further received and update list.”
+49.
+The argument of the Appellant that if the IRP has been found lacking
+in discharge of his duties and his act and conduct is deprecated by the
+Tribunal then the entire exercise undertaken by him qua the constitution and
+reconstitution has to be set aside cannot be accepted because Respondent
+No. 2, on the basis of the collation of the claims submitted by Respondent No.
+1 and 3 had duly constituted the CoC on 21.08.2024 and even filed an
+application in terms of Regulation 17 of the Regulations but later on, for the
+reason best known to him, reconstituted the CoC with only one member with
+0.18% voting share in the originally constituted CoC, by excluding
+Respondent No. 1 and 3 in a manner that can only be termed mischievous
+which has been duly commented upon by the Tribunal in para 21 to 23 of the
+impugned order.
+50.
+In so far as Riju Ravindran, who has filed an application I.A No. 405 of
+2025 before this Court and I.A No. 841 of 2024 is concerned, he has nothing
+to add to the appeal which has been filed by non-else than his real brother
+who is also similarly placed.
+51.
+Thus, on the basis of the aforesaid discussion and looking from any
+angle, it is not a case which requires any interference by this Appellate
+Tribunal to tinker with the well-considered order of the Tribunal who has
+taken into consideration all aspects of the matter before disposing of the
+
+[PAGE 21]
+21
+
+application bearing I.A No. 660 and 820 of 2024 and issuing necessary
+direction.
+52.
+Hence, we do not find any merit in the present appeal and the same is
+thus hereby dismissed. The parties to the lis shall bear their on costs.
+I.As, if any, pending are hereby closed.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Jatindranath Swain]
+Member (Technical)
+12th August, 2025
+Sheetal

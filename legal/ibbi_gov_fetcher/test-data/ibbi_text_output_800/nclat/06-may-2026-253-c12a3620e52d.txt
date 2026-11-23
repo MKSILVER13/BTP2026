@@ -1,0 +1,883 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+I.A. No. 7837 of 2025 in Comp. App. (AT) (Ins) No. 2004 of 2025
+
+[Arising out of the Impugned Order dated 07.10.2025 passed by the
+Adjudicating Authority, National Company Law Tribunal, Mumbai Bench -
+II in Company Appeal No.28 of 2025 in CP(IB)/559(MB)2018]
+
+IN THE MATTER OF:
+
+MR. DIVYESH DESAI,
+Liquidator of Trend Electronics Limited Registration No.
+IBBI/IPA-001/IP-P00169/2017-2018/10338
+B2
+402B0, Marathon Innova, Off Ganpatrao Kadam Marg,
+Lower Parel (West), Mumbai- 400013
+Email: divyeshdesai@singhico.com
+
+...Appellant(s)
+Versus
+
+1. LIFE INSURANCE CORPORATION OF INDIA
+Central Office, Mumbai
+Administrative Officer, Stressed Assets Cell,
+Investment (Mid Officer)
+Email: co_inv.mo.sac@licindia.com
+
+2. CHAIRMAN, INSOLVENCY AND BANKRUPTCY
+BOARD OF INDIA
+7th Floor, Mayur Bhawan, Shankar Market, Connaught
+Circus, New Delhl -110001
+Email: chairperson@ibbi.go.in
+
+3.
+SECRETARY,
+MINISTRY
+OF
+CORPORATE
+AFFAIRS
+A-Wing, 5th Floor, Shastri Bhawan, Dr Rajendra
+Prasad Road, New Delhi - 110001
+Email: secy.mca@nic.in
+
+...Respondent(s)
+Present:
+
+For Appellant
+: Mr. Neel Mehta, Rishabh C., Kaustubh Prakash, Hita
+Sharma, Ashraf Belal, Adv.
+For Respondents
+: Mr. Prateek Kumar, Raveena Rai, Roshni Ojha, Adv. for
+R1
+Mr. Durga dutt, Adv. for RoC
+
+With
+
+I.A. No. 456 of 2026 in Comp. App. (AT) (Ins) No. 120 of 2026
+
+[PAGE 2]
+Page 2 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+IN THE MATTER OF:
+
+STATE BANK OF INDIA
+(CoC Member)
+Address at: State Bank of India
+Stressed Asset Management Branch -I
+2nd Floor, "The Arcade", World Trade Centre Cuffe
+Parade, Colaba, Mumbai - 400005
+Email ID- team3.04107@sbi.co.in
+
+...Appellant(s)
+Versus
+
+LIFE INSURANCE CORPORATION OF INDIA,
+Address: Central Office, Mumbai, "Yogakshema", 6th
+Floor, Investment-Mid Office, Jeevan Bima, Nariman
+Point, Mumbai-400021
+Email ID: co_complaints@licindia.com
+
+DIVYESH DESAI
+Liquidator for Trend Electronics Limited Address: 402-
+B, Maratha Innova, Off GanpatraoKdam Marg, Opp
+Peninsula Corporate Park, Lower Parel, Mumbai-
+400013 Email ID: divyeshdesai@singhico.com
+
+...Respondent(s)
+Present:
+
+For Appellant
+: Mr. Harshit Khare, Prafful Saini, Ayuj Agrawal, Adv.
+For Respondents
+: Mr. Prateek Kumar, Raveena Rai, Roshni Ojha, Adv. for
+R1
+Mr. Neel Mehta, Rishabh C., Kaustubh Prakash, Hita
+Sharma, Ashraf Belal, Adv. for R2
+
+O R D E R
+(Hybrid Mode)
+Per: Barun Mitra, Member (Technical)
+
+Present are two appeals which have been filed by the Appellants under
+Section 61 of the Insolvency and Bankruptcy Code, 2016, (‘IBC’ in short)
+challenging a common impugned order dated 07.10.2025 passed by the
+Adjudicating Authority (National Company Law Tribunal, Mumbai Bench-II) in
+Company Appeal No.28 of 2025 (filed under Section 42 of IBC) in
+CP(IB)/559(MB)2018. Both the Appeals are accompanied by applications
+
+[PAGE 3]
+Page 3 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+praying for condonation of delay in filing of the appeal. We propose to deal with
+both the delay condonation applications separately.
+2.
+Company Appeal No. 2004 of 2025 has been e-filed by the Appellant-
+Liquidator before this Tribunal on 29.11.2025. The Appeal has been
+accompanied with I.A No. 7837 of 2024 which is an application praying for
+condonation of delay in the filing of the appeal. The prayers contained in I.A No.
+7837 of 2024 read as follows:
+“15.In view of the aforesaid facts and circumstances, it is therefore
+prayed that this Hon’ble Appellate Tribunal be pleased to:
+a.Allow the present Application and condone the delay of 23 days in
+filing the present Appeal;
+b.Any other reliefs as deemed fit in the facts of case.”
+3.
+At the very outset we take notice that the limitation period for filing an
+appeal under Section 61(2) of the IBC is 30 days, which period is, however,
+extendable by a further period of 15 days in the event the Tribunal is satisfied
+that there was sufficient cause for not filing the appeal within the 30 days
+permissible period of limitation. Section 61(2) is extracted below:
+“61. Appeals and Appellate Authority.
+(2) Every appeal under sub-section (1) shall be filed within thirty days
+before the National Company Law Appellate Tribunal: Provided that the
+National Company Law Appellate Tribunal may allow an appeal to be filed
+after the expiry of the said period of thirty days if it is satisfied that there
+was sufficient cause for not filing the appeal but such period shall not
+exceed fifteen days.”
+4.
+When we look at the present sequence of events, we find that the
+impugned order having been passed on 07.10.2025, 30 days period for filing the
+appeal came to an end on 06.11.2025. Calculated forward, the 15 days
+
+[PAGE 4]
+Page 4 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+extendable period came to an end on 21.11.2025. However, the Appeal has been
+e-filed on 29.11.2025 involving a time-span of 53 days.
+5.
+The ground for delay condonation as mentioned in the I.A No. 7837 of
+2024 is that the Appellant acquired knowledge of the impugned order of
+07.10.2025 only on 30.10.2025 only as the order was uploaded on the website
+of the NCLT on 30.10.2025. It is further pleaded that they applied for a certified
+copy of the impugned order on 31.10.2025 which was made available on
+03.11.2025 and hence, relying on Section 12(1) of the Limitation Act, 1963 read
+with Rule 3 of the National Company Law Appellate Tribunal Rules, 2016, the
+limitation period from 30.10.2025 until receipt of the certified copy of the
+impugned order was required to be excluded while computing limitation for filing
+the appeal under Section 61 of the IBC, 2016. In paragraphs 5, 6,7 and 8 of the
+said application, following has been pleaded:
+“5. The Appellant/Applicant submits that the Impugned Order dated
+07.10.2025 passed by the Ld. Adjudicating Authority was uploaded on
+30.10.2025. The Appellant Appellant/Applicant applied for a certified copy
+of the Impugned Order on 31.10.2025 which was made available on
+03.11.2025.
+6. As per Section 12(1) of the Limitation Act, 1963 read with Rule 3 of the
+NCLAT Rules, 2016; in the computing the period of limitation, inter alia, for
+any appeal, the day from which such period is to be reckoned shall be
+excluded. Hence, considering that the date on which the Impugned Order
+was uploaded on NCLT website is 30.10.2025, the aforesaid day will be
+excluded from computation of 30 days’ period for preferring the appeal in
+terms of Section 61 of IBC.
+7. Further, 30 days’ time period computed from 31.10.2025 shall expire on
+29.11.2025.
+8. The Appellant / Applicant submits that Section 12(2) of the Limitation Act,
+1963 provides for exclusion of time period incurred in obtaining the certified
+copy of the order. Upon the Impugned Order being uploaded on 30.10.2025,
+the certified copy was applied for on the next date, i.e., 31.10.2025 and
+
+[PAGE 5]
+Page 5 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+provided on 03.11.2025, i.e., within the limitation period. Hence, the time
+period between 31.10.2025 to 03.11.2025, i.e., 4 days is to be excluded in
+view of Section 12(2) of the Limitation Act, 1963. Therefore, the limitation
+period ends on 03.12.2025. Thus, the present appeal is within the prescribed
+limitation period. The Appellant / Applicant craves leave to satisfy the Hon’ble
+Appellate Tribunal on limitation and maintainability of the present Appeal at
+the time of hearing.”
+6.
+It is the case of the Appellant that the limitation is to be computed from
+the date of knowledge of the order which was the date of uploading i.e.
+30.10.2025, then the 30 days’ time period shall expire on 29.11.2025 and after
+excluding the 4 days’ time period exhausted in obtaining the certified copy of the
+impugned order which was made available on 03.12.2025 as per Section 12(2)
+of the Limitation Act, 1963, the appeal having been e-filed on 29.11.2025, there
+was delay of only 23 days which is within the condonable period and there being
+sufficient cause, the said delay ought to be condoned. It was also pressed that
+that this was not a case of simpliciter routine delay and as they have a good case
+on merit, the issue of delay has to be seen in its correct perspective so that so
+that the ends of justice are not compromised.
+7.
+The Learned Counsel for the Respondent vehemently opposing the
+arguments canvassed by the Appellant pressed hard that the computation of
+limitation for filing of an appeal shall commence from date of pronouncement of
+the impugned order which in the present case was 07.10.2025. The running of
+limitation is entirely independent of when the Appellant acquires knowledge of
+the impugned order. It is submitted that the appeal has been filed clearly beyond
+the condonable period of 30 days + 15 days. It is submitted that the present
+appeal has been filed on 53rd day which is well beyond 45 days outer limit and
+therefore not condonable.
+
+[PAGE 6]
+Page 6 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+8.
+We have duly considered the arguments advanced by the Ld. Counsel for
+both parties and perused the records carefully. The Learned Counsel for both
+the parties have placed reliance on various judgements of this Tribunal and that
+of the Hon’ble Supreme Court in support of their respective submissions which
+we shall deal with hereinafter.
+9.
+From the submissions of the learned counsel for the parties, the following
+two issues arise for consideration, firstly, whether in the given factual matrix,
+limitation would run for purposes of filing the appeal under Section 61 of the
+IBC against the impugned order of 07.10.2025 from the date of knowledge of the
+impugned order as claimed by the Appellant i.e. commencing from 30.10.2025
+or from the date of pronouncement of the order. The second issue is whether the
+present appeal has been filed by the Appellant within the condonable period of
+15 days after expiry of the limitation or fell beyond the statutory outer limit of
+45 days.
+10.
+From the facts as noticed above, there is clearly no dispute that the date
+of pronouncement of the impugned order is 07.10.2025 which was uploaded on
+the website of the NCLT on 30.10.2025. There is also no dispute that the
+Appellant applied for certified copy of the impugned order on 31.10.2025 and
+the certified copy was made available on 03.11.2025. It is also an admitted fact
+that the appeal has been filed on 29.11.2025. It is also necessary to notice that
+the Appellant was arrayed as a party in the matter and hence was aware of the
+proceedings before the NCLT which fact has not been denied by the Appellant.
+Having set out the undisputed chronology of dates, we now proceed to consider
+the rival contentions.
+
+[PAGE 7]
+Page 7 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+11.
+It is the case of the Appellant that on 07.10.2025, Company Appeal No.28
+of 2025 was not listed in the cause list under the caption “For Pronouncement”
+before the Adjudicating Authority. Instead, it was listed at Item No. 120 under
+the caption of “Ordinary - For further consideration” as has been placed on
+record by the Appellant in their Additional affidavit. It was further added that
+after hearing the parties, the Adjudicating Authority did not reserve the matter
+for orders for pronouncement and the impugned order came to be directly
+uploaded on the website of NCLT on 30.10.2025. Thus, they acquired effective
+knowledge of the order on 30.10.2025 on the uploading of the order. Upon the
+impugned order being uploaded on 30.10.2025, the certified copy was applied
+by them on the very next date i.e. 31.10.2025 which was received on 03.11.2025.
+Hence, the time period of 4 days between 31.10.2025 to 03.11.2025 is to be
+excluded in view of Section 12(2) of the Limitation Act, 1963. Therefore, the
+prescribed limitation period ended on 03.12.2025 and appeal having been filed
+on 29.11.2025, the appeal had been filed within the prescribed limitation period.
+12.
+The Ld. Counsel of the Appellant forcefully argued that the relevant trigger
+date for computation of the limitation period qua the present Appeal under
+Section 61 of the IBC as per the law laid down by the Hon’ble Supreme Court of
+India in the case of Sanjay Pandurang Kalate Vs Vistra ITCL (India) Limited
+& Ors. (2024) 3 SCC 27 and A Rajendra Vs Gonugunta Madhusudhan Rao
+& Ors. (2025) 6 SCC 618 would be 03.11.2025 and not 07.10.2025 after
+excluding the 4 days from 31.10.2025 to 03.11.2025 in terms of Rule 3 of the
+NCLAT Rules, 2016 read with Section 12 of the Limitation Act, 1963. It was
+argued that in the Kalate judgement supra, while the Hon’ble Supreme Court
+held that the date on which the limitation commences is intrinsically linked to
+
+[PAGE 8]
+Page 8 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+the date of pronouncement but more importantly clarified when an order is
+deemed to be pronounced. Reliance was also placed on A Rajendra judgement
+supra of the Hon’ble Supreme Court which reaffirmed the principle that the
+incident which triggers limitation to commence is the date of pronouncement of
+the order but in case where there is no pronouncement of the order when the
+hearing concludes, the key date is the date on which the order is uploaded on
+the website.
+13.
+In the present case, it was further submitted by the Appellant that
+substantive and operative part of the impugned order was not indicated after the
+hearing on 07.10.2025 and hence the order cannot be deemed to have been
+pronounced on that date. The knowledge of the substantive portion of the
+impugned order was made available to the parties concerned only upon the
+uploading of the complete impugned order on the official website of the NCLT on
+30.10.2025. In such circumstances, when there was no unequivocal
+pronouncement of the order before the upload of the order, limitation could not
+have started clocking from 07.10.2025.
+14.
+Rebutting the contentions articulated by the Appellant, the Ld. Counsel
+for the Respondent emphatically asserted that the impugned order was
+pronounced by the Adjudicating Authority in an open court on 07.10.2025 and
+therefore limitation got triggered from that date. It was submitted that the
+prescribed period of 30 days expired on 06.11.2025 and the maximum outer
+limit of 45 days, inclusive of the condonable window of 15 days expired on
+21.11.2025. The appeal was admittedly filed on 29.11.2025 and hence was in
+clear breach of the prescribed outer limit of 45 days and since this Appellate
+Tribunal has no jurisdiction, statutory or otherwise, to condone such delay, this
+
+[PAGE 9]
+Page 9 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+delay condonation application deserves to be rejected. The appeal is therefore
+liable to be dismissed on this ground alone.
+15.
+It was also pressed that not only was the impugned order pronounced in
+open court on 07.10.2025, but the Appellant was present in the proceedings
+before the Adjudicating Authority at the time of such pronouncement. It was
+also contended that the Appellant in its rejoinder to the reply of the Respondent
+in IA 7837 of 2025 has clearly admitted that the matter had been heard and the
+Adjudicating Authority had observed that the Company Appeal No.28 of 2025
+deserves to be allowed. It was also asserted that the ratio of the Kalate
+judgement supra is not applicable in this case since there is no categorical
+denial by the Appellant that the Adjudicating Authority had not pronounced the
+orders on 07.10.2025. Thus, when the order was passed in the presence of both
+parties, the Appellant cannot claim that order was not made on 07.10.2025 or
+that limitation should not commence from that date. Reliance was also placed
+on the judgement of this Tribunal in Supreme Construction and Developers
+Private Limited Vs Puranik Builders Limited in CA(AT)(Ins) No 215 of 2024
+wherein it was held that when the order is passed in presence of both the
+counsels, the Appellant cannot take the plea that he was not aware of the order
+passed by the Adjudicating Authority until it was uploaded.
+16.
+At this stage, it may be useful to extract the relevant paragraphs of the
+Kalate judgement supra which is as extracted below:
+“16. From the above discussion of law, it is clear that the date on which the
+limitation begins to run is intrinsically linked to the date of pronouncement.
+The question that arises in the facts of the present case, therefore, is when is
+an order deemed to be pronounced. The National Company Law Tribunal
+Rules, 2016 ("the NCLT Rules") provide guidance in this regard. Rule 89(1) of
+
+[PAGE 10]
+Page 10 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+the NCLT Rules indicates that when NCLT registry publishes its cause-list, a
+distinction is drawn between cases listed for pronouncement of orders and
+other cases.......
+
+19. In the present case, the cause-list for 17-5-2023 placed on record by the
+appellant indicates that the case was listed for admission and not for
+pronouncement. Further, on a specific query of the Court, it is not in dispute
+between the counsel for the appellant and the respondent, that no
+substantive order was passed on 17-5-2023 by NCLT. In these
+circumstances, limitation would not begin to run on 17-5-2023 which was the
+date on which hearings concluded. As no order was passed before 30-5-
+2023, there was no occasion for the appellant to lodge an application for a
+certified copy on 17-5-2023. Time for filing an appeal would commence only
+when the order appealed from was uploaded since prior to that date no order
+was pronounced.
+
+20. In Cethar Ltd. (Resolution Professional), there was an unequivocal
+pronouncement of the order before the upload of the order and thus, the
+decision is not applicable to the facts of the case. In the facts of the present
+case, the date of upload of the order is the same as the date of
+pronouncement. To avoid situations such as these, in cases where the matter
+has been heard on a particular day but the order is pronounced on a later
+date, NCLT must refrain from affixing the date of hearing on the order. Such
+an approach would be a violation of the NCLT Rules, which create a
+distinction between hearing and pronouncement and do not allow NCLT to
+dispense with the requirement of pronouncement.”
+(Emphasis supplied)
+17.
+From a plain reading of the above judgement, it becomes clear that the
+date on which the limitation begins to run is intrinsically linked to the date of
+pronouncement. At the same time, it is equally clear that when order is
+pronounced, the period of limitation starts running from the date of
+pronouncement and not from the date of uploading of the order. It is equally
+pertinent to notice that in the Kalate case both parties had acquiesced to the
+fact that when the matter was heard, the order was not pronounced in open
+court and that the order was subsequently uploaded.
+
+[PAGE 11]
+Page 11 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+18.
+To arrive at our finding on the present matter as to whether the order was
+pronounced on 07.10.2025 or not, we need to see whether in the facts of this
+case how both the parties have viewed the proceedings held on 07.10.2025.
+19.
+When we see the reply filed by the Respondent in IA No.7837 of 2025, we
+notice that at pages 2-3 therein, they have categorically contended that the order
+was pronounced in open court by the Adjudicating Authority on 07.10.2025. It
+has also been pleaded that even the Appellant was present in the court at the
+time of the pronouncement of the order. The relevant paragraphs are as
+extracted below:
+“6. In the present case, the Impugned Order was pronounced by the Ld.
+Adjudicating Authority in an open court on 07.10.2025. The prescribed
+period of 30 days accordingly expired on 06.11.2025, and the maximum
+outer limit of 45 days, inclusive of the condonable window of 15 days,
+expired on 21.11.2025. The appeal was admittedly filed on 29.11.2025,
+which is 8 days beyond even the outer limit of 45 days.
+8. It is submitted that the Impugned Order was pronounced by the Ld.
+Adjudicating Authority in an open court on 07.10.2025, and the Appellant,
+being the Liquidator and the principal functionary in the proceedings before
+the Ld. Adjudicating Authority was itself present in court at the time of
+such pronouncement.”
+(Emphasis supplied)
+20.
+When we look at the delay condonation application filed by the Appellant
+and also their rejoinder reply, there is no trace of any outright denial that the
+order was not pronounced after the hearing on 07.10.2025. When we see the
+rejoinder reply of the Appellant at pages 2-3 in IA 7837 of 2025, we notice that
+it was admitted by the Appellant that they were aware of the order passed by the
+Adjudicating Authority that Company Appeal No.28 of 2025 “deserved to be
+allowed”. To remove any ambiguities, we may take notice of the rejoinder reply
+of the Appellant which is as extracted below:
+
+[PAGE 12]
+Page 12 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+“5. On 07.10.2025, certain other matters which were listed under the
+caption “For Pronouncement” before the Ld. Adjudicating Authority,
+Mumbai Bench-II, however, undisputedly, the matter adjudicated in the
+Impugned Order was listed at Item No. 120 under the caption “ordinary for
+further consideration” which is evident from the cause-list of even date.
+Pertinently, after hearing the parties to some extent, the Ld. Adjudicating
+Authority did not reserve the matter for orders in terms of NCLT Rules,
+2016 for pronouncement, however, it indicated to the parties that the
+company appeal filed u/s 42 of the IBC, 2016 by Respondent No.1 herein,
+deserves to be allowed.
+7. The knowledge of the aforesaid substantive portions of the Impugned
+Order was made available to the parties concerned only upon the
+uploading of the complete Impugned Order on the official website of the Ld.
+NCLT i.e., on 30.10.2025 and not on 07.10.2025, as on 07.10.2025, the
+Ld. Adjudicating Authority only indicated that the Section 42 appeal
+deserves to be allowed.....”
+(Emphasis supplied)
+21.
+Even in their appeal petition before this Tribunal, the Appellant has
+alluded at page 32 of the Appeal Paper Book that the Company Appeal No.28
+of 2025 filed before the Adjudicating Authority was heard and even disposed
+of though in a hasty manner. The relevant para 7.23 is as extracted below:
+7.23. After completion of pleadings, the aforesaid Company Appeal was
+listed for hearing before the Ld. Adjudicating Authority on 07.10.2025.
+During the course of the hearing, the legal counsel for the Appellant made
+it clear at the outset that Liquidator is a neutral party, however,
+considering that certain SCC Members are not inclined about such belated
+inclusion of LIC’s claim, it is the duty of the Appellant as responsible officer
+of the Court, to assist the Ld. Adjudicating Authority in effective
+adjudication of the matter by inviting attention to relevant facts. With the
+aforesaid bona fide intention, the legal counsel of the Appellant made
+certain legal arguments for consideration of the Ld. Adjudicating Authority
+on the lines of the pleadings which are set out in the Appellant’s Reply to
+the Company Appeal No. 28 of 2025 and hence the same is not being
+repeated for the sake of brevity. However, the Ld. Adjudicating Authority
+did not allow the Appellant’s legal counsel to put forth all the legal and
+factual points relevant for effective adjudicating of the issue and in a hasty
+manner not only disposed of the matter by condoning the inordinate delay
+of 713 days of LIC/Respondent No.1 in submitting its claim.....
+
+[PAGE 13]
+Page 13 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+22.
+From the pleadings made both by the Appellant and the Respondent at
+paras 19 to 21 above, it is quite clear that unlike in the Kalate judgement
+supra where both parties were at ad idem that that the orders had not been
+pronounced in the open court, in the present case there is no such convergence
+of opinion. Hence, we are fully satisfied that Kalate judgement supra is not
+applicable to the facts of the present case. Seen from any angle, we are satisfied
+that the matter was heard and disposed of and the order was pronounced in the
+open court. Once the Adjudicating Authority had clearly pronounced in the open
+court that the Company Appeal No.28 of 2025 was being allowed, wherein the
+Appellant was also present, that was sufficient to show that the Adjudicating
+Authority had made a pronouncement of the order in the open court.
+23.
+From the facts brought on the record and the pleadings filed by both
+parties, it is clear that the order was pronounced on 07.10.2025 and therefore
+the stand taken by the Appellant now that they were not aware of the effective
+order cannot be reason to extend period of limitation from the date of uploading
+of the order. The law on commencement of limitation under Section 61(2) is well
+settled by judgement of the Hon’ble Apex Court in V. Nagarajan v. SKS Ispat
+& Power Ltd. (2022) 2 SCC 244 wherein it has been held that limitation begins
+from the date of pronouncement of the order and not from the date of receipt of
+a certified copy or the date of uploading. Once an order is pronounced in open
+court, which fact has not been controverted in the present case by both the
+parties, the clock of limitation is set into motion. The judgment of Hon’ble
+Supreme Court in A. Rajendra judgement supra which has been relied upon
+by the Appellant also does not come to their support as it has been held in no
+uncertain terms that once the order is pronounced in open court, limitation
+
+[PAGE 14]
+Page 14 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+commences from that very date and cannot be shifted to the date of uploading
+of the said order. Hence, we are not persuaded by the contention of the Appellant
+that limitation be counted from the date of uploading of the order when the order
+had been pronounced in open court where they were undeniably present.
+24.
+It is the case of the Appellant that that the right of appeal could have been
+exercised by them only when they became aware of the contents of the order
+passed by the court. Since the operative portion of the order was not known to
+the Appellant, they could not have filed an appeal. The knowledge of the contents
+of the order by the Appellant enjoyed primacy in the computation of limitation
+for filing an appeal.
+25.
+Per contra, it is the case of the Respondent that it was the responsibility
+of the Appellant to apply for a certified copy upon pronouncement of the order
+which would have given them the benefit of exclusion of time taken in obtaining
+the order and prevent the limitation from running. However, it is the own case
+of the Appellant that they applied for the certified copy only on 31.10.2025 which
+was only after uploading of the order. Reliance has been placed on the judgement
+of this Tribunal in Raiyan Hotels and Resorts Pvt. Ltd. V. Unrivalled Projects
+Pvt. Ltd. in CA(AT)(Ins)No. 1071 of 2023 to contend that once the orders are
+pronounced by the Adjudicating Authority in presence of the counsels of the
+relevant parties, it is not open for them to contend that they were not aware of
+the contents of the order and hence limitation for filing of the appeal does not
+commence on the date when the Appellant becomes aware of contents but it
+shall commence when order was pronounced.
+
+[PAGE 15]
+Page 15 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+26.
+We may at this stage take note of the relevant excerpts of the Raiyan
+Hotels judgement supra which is as under:
+31. In the present case, orders passed by the Adjudicating Authority were
+pronounced in the open Court in the presence of the Counsel for the
+Appellant. In any view of the matter, they cannot contend that they do not
+have even constructive knowledge of the order on the said date.
+Knowledge of the order has to be actual or constructive knowledge and
+when the orders are pronounced, it can very well be said that the
+constructive knowledge has to be imputed to the contents of the order to
+an aggrieved party. In event the submission of the Appellant is accepted
+that unless the contents of the order are known to an aggrieved party, he
+cannot exercise the right of appeal and period of limitation for filing an
+Appeal shall not commence till he is aware of the contents of the order, it
+may lead to uncertainty and delay in resolution process which are not in
+accordance with the scheme of the IBC. IBC is a statute which provide for
+timely resolution/ liquidation of the Corporate Debtor. Timeline for various
+acts are prescribed. The Hon’ble Supreme Court in “V. Nagarajan” (supra)
+has held that Section 61 has to be interpreted keeping in view the purpose
+and object of the IBC and Section 61 has to be put to interpretation in the
+above manner. We, thus, are of the view that the submission of the
+Appellant that the period of limitation shall commence for filing the Appeal
+when aggrieved party/Appellant is aware of the contents of the order
+cannot be accepted.
+32. In the present case, when orders were pronounced by the Adjudicating
+Authority, they cannot be allowed to contend that they are not aware of
+the order of the Adjudicating Authority. Further, Section 12 of the
+Limitation Act provides for exclusion of the time taken in obtaining certified
+copy of an order. After an order is pronounced which pronouncement is
+well known to the Appellant in the present case, it was open for them to
+apply for the certified copy of order, even if they are not aware of the
+contents of the order as per their submissions on that date. Certified copy
+of the order could have been very well obtained by them and time taken in
+preparing the certified copy of the order is required to be excluded. It is the
+scheme of the Limitation Act, 1963 which has been held to be applicable
+in the IBC proceeding. Law, thus, clearly provides opportunity to any
+aggrieved party to obtain certified copy of the order and file an appeal after
+exclusion of the period obtaining in certified copy of the order. Legislative
+scheme takes care of all situations where order was pronounced by a
+Court, it is expected for the parties to diligently apply for certified copy of
+the order in event there may be any chance to file an appeal.”
+
+[PAGE 16]
+Page 16 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+The reliance placed by the Respondent on the Raiyan Hotels judgement supra
+is squarely applicable to the facts of this case. Under Section 61(2) IBC, the
+limitation period for filing an appeal before this Tribunal commences from the
+date of pronouncement of the order by the NCLT, not from the date when the
+order is received or made available to the party aggrieved by the order. Thus to
+answer the first issue outlined by us whether in the given set of facts, as to
+whether limitation would run for purposes of filing the appeal under Section 61
+of the IBC from the date of knowledge of the impugned order as claimed by the
+Appellant i.e. 30.10.2025 or from the date of pronouncement of the order i.e.
+07.10.2025, we are of the considered view that the clock of limitation in the
+present case started ticking with effect from 07.10.2025 being the date of
+pronouncement of the order.
+27.
+This brings us to the second issue as to whether the present appeal has
+been filed by the Appellant within the condonable period of 15 days after expiry
+of the limitation or filed beyond the statutory outer limit of 45 days. We are
+guided by the recent judgement of Hon'ble Supreme Court in Tata Steel Ltd.
+Vs. Raj Kumar Banerjee & Ors. in Civil Appeal No. 408 of 2023 which reads
+to the effect:
+“11. As indicated above, the IBC prescribes strict timelines for filing
+appeals and taking legal action so as to ensure that insolvency
+proceedings are not misused to recover time-barred debts. The proviso to
+Section 61(2) clearly limits the NCLAT’s jurisdiction to condone delay only
+up to 15 days beyond the initial 30-day period. Where a statute expressly
+limits the period within which delay may be condoned, an Appellate
+Tribunal cannot exceed that limit. In other words, the NCLAT being a
+creature of statute, operates strictly within the powers conferred upon it.
+Unlike a civil suit, it lacks inherent jurisdiction to extend time on equitable
+grounds.
+
+[PAGE 17]
+Page 17 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+11.1. Once the prescribed and condonable periods (i.e., 30 + 15 days)
+expire, the NCLAT has no jurisdiction to entertain appeals, regardless of
+the reason for the delay. In Mobilox Innovations Private Limited v. Kirusa
+Software Private Limited, while interpreting Section 9 IBC, this Court
+underscores the IBC’s strict procedural discipline i.e., only applications
+strictly conforming to statutory requirements can be entertained. This
+principle is also applicable to limitation issues under section 61(2), as it
+supports the idea that tribunals must operate within the bounds of the
+Code, without adding equitable or discretionary powers not conferred by
+statute. This Court in Kalpraj Dharamshi v. Kotak Investment Advisors
+Limited & Another has categorically held that the NCLAT cannot condone
+any delay beyond 15 days even on equitable grounds; and that the
+appellate mechanism under IBC is strictly time-bound by design to
+preserve the speed and certainty of the insolvency resolution process.
+11.2. Thus, the NCLAT has no power to condone delay beyond the period
+stipulated under the statute. Accordingly, the second issue is answered by
+us.”
+28.
+Coming to the chronology of the filing in the present case, we find that the
+impugned order was passed on 07.10.2025. For counting the statutory period of
+30 days for filing the appeal, the same is to be counted from the day after the
+date of pronouncement of the impugned order. The date of knowledge of
+impugned order is immaterial for limitation computation. Calculated
+accordingly, the statutory period of 30 days for filing the appeal in the present
+case came to an end on 06.11.2025. The further extendable period of 15 days in
+terms of proviso to Section 60(2) of the IBC ended on 21.11.2025. However, the
+present appeal has been e-filed by the Appellant on 29.11.2025 which date
+prima facie lies beyond the outer limit of thirty plus fifteen days provided under
+Section 61(2) of the IBC and therefore beyond the condonable jurisdiction of this
+Appellate Tribunal as held by the Hon’ble Apex Court in Tata Steel judgement
+supra.
+29.
+This now brings us to the next appeal viz Company Appeal No. 120 of 2026
+has been e-filed by the Appellant-SBI before this Tribunal on 11.12.2025. The
+
+[PAGE 18]
+Page 18 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+Appeal has been accompanied with I.A No. 456 of 2026 which is an application
+praying for condonation of delay in the filing of the appeal which has been
+computed by the Appellant-SBI to be of only 35 days. The grounds for delay
+condonation as mentioned in the I.A No. 456 of 2026 is that the Appellant was
+not made a party to the Company Appeal No. 28 of 2025 and hence the Appellant
+was not having knowledge of the impugned order dated 07.10.2025. Secondly,
+the Appellant came to know about the impugned order dated 07.10.2025 when
+they received email from the Liquidator apprising about the impugned order
+passed by the Adjudicating Authority which was uploaded on NCLT portal on
+30.10.2025. Thirdly, as the impugned order of 07.10.2025 was not even listed
+in the "Pronouncement" cause list it had not come into the knowledge of the
+Appellant. Delay was also attributed to the fact that the Appellant had sought
+legal opinion from their counsel and time was taken in compilation of
+documents. This constituted sufficient cause for the said delay to be condoned.
+30.
+The Learned Counsel for the Respondent refuting the contentions made
+by the Appellant emphatically asserted that the computation of limitation for
+filing of an appeal has to commence from date of pronouncement of the
+impugned order which in the present case was 07.10.2025. The prescribed
+period of 30 days accordingly expired on 06.11.2025. The maximum outer limit
+of 45 days inclusive of the condonable window expired on 21.11.2025. On the
+other hand, the present appeal has been filed on 11.12.2025 which is at least
+65 days from the date of pronouncement of the impugned order and 20 days
+beyond even the outer statutory limit. The appeal has been filed well beyond 45
+days outer limit and therefore beyond the jurisdiction of the Tribunal to condone.
+It was also added that the Appellant had not even filed any application seeking
+
+[PAGE 19]
+Page 19 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+exemption from filing certified copy of impugned order along with delay
+condonation application but submitted it subsequently on 09.01.2026 which
+was 94 days from the date of the impugned order.
+31.
+Coming to one of the grounds of delay put forth by the Appellant that as
+it was not made a party in Company Appeal 28 of 2025, it was not aware of the
+ongoing proceedings, we find that this plea was countered by the Respondent. It
+was contended by the Respondent that the Appellant was privy to the
+Stakeholders Consultation Committee (“SCC” in short) deliberations and had
+participated in the 15th SCC meeting wherein at Agenda Item No.4 relating to
+update on litigations, at item (g) therein the IA No.236 0f 2025 which had been
+filed by the LIC (present Respondent)seeking condonation of delay in filing of
+their claim was also discussed. The relevant paragraph from the 15th SCC
+meeting is reproduced below:
+“g. IA filed by Life Insurance Corporation of India (“LIC”) for
+condonation of delay in filing of claim:
+As per the directions of NCLT during hearing in IA 236 of 2025, Liquidator
+has received claim of Rs.2847.36 crores from LIC, as secured financial
+creditor on March 12, 2025. The Liquidator has assessed the claim and
+advised LIC to seek condonation of delay in filing of their claim. LIC has
+filed an IA with NCLT seeking condonation of delay in filing of their claim.
+The IA is under scrutiny.
+.......
+Representative of UCO Bank informed that there are a number of
+judgements where delay in filing of claims has not been condoned and
+they feel that it is unfair to the other stakeholders if their claim is
+admitted. They suggested the Liquidator to share their views with the
+NCLT and oppose condonation in delay in filing of claim. All other SCC
+members present in the meeting also expressed their opposition in
+condonation of delay in filing of claim at this advanced stage.
+After detailed deliberations, SCC members decided to discuss the matter
+in their JLM and decide future course of action including filing an
+
+[PAGE 20]
+Page 20 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+intervention petition in IA filed by LIC for condonation of delay. SCC
+members requested Liquidators legal advisor to share the IA filed LIC
+with CAM team.
+(Emphasis supplied)
+32.
+Quite apart from the fact that the Appellant was clearly aware of the
+ongoing proceedings and had yet chosen to remain unperturbed when it could
+have easily moved an intervention application if it had so desired, clearly shows
+lack of diligence. We also find that the laxity had continued even thereafter for
+the Appellant chose to casually file the present condonation delay application
+sans the certified copy of the impugned order. In any event, it is pertinent to
+note that in the A.Rajendra judgement supra which has already been adverted
+to above, the party which had filed the appeal was not a party before the NCLT
+but it was categorically held that once the order was pronounced in the open
+court, limitation started running from that day. Hence in the present case too,
+the Appellant cannot raise the ground that since they were not a party in the
+proceedings, the limitation would stand arrested until receipt of knowledge of
+the order.
+33.
+We have already dealt with the issue in Company Appeal No 2004 of 2025
+that the running of limitation is not contingent upon the date on which the order
+is uploaded on the portal and also entirely independent of when the Appellant
+acquires knowledge of the impugned order as has been held in the V. Nagarajan
+judgement supra and to remove all ambiguities, we reproduce the relevant
+paragraphs therefrom:
+“24. IBC is a complete code in itself and overrides any inconsistencies
+that may arise in the application of other laws. Section 61 IBC, begins
+with a non obstante provision— “notwithstanding anything to the
+contrary contained under the Companies Act, 2013” when prescribing the
+
+[PAGE 21]
+Page 21 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+right of an aggrieved party to file an appeal before NCLAT along within
+the stipulated period of limitation. The notable difference between Section
+421(3) of the Companies Act and Section 61(2) IBC is in the absence of
+the words “from the date on which a copy of the order of the Tribunal is
+made available to the person aggrieved” in the latter. The absence of
+these words cannot be construed as a mere omission which can be
+supplemented with a right to a free copy under Section 420(3) of the
+Companies Act read with Rule 50 of the NCLT Rules for the purposes of
+reckoning limitation. This would ignore the context of IBC's provisions and
+the purpose of the legislation.
+31. ...A Person wishing to file an appeal is expected to file an application
+for a certified copy before the expiry of the limitation period, upon which
+the “time requisite” for obtaining a copy is to be excluded. However, the
+time taken by the court to prepare the decree or order before an
+application for a copy is made cannot be excluded. If no application for a
+certified copy has been made, no exclusion can ensue. In fact, the
+Explanation to the provision is a clear indicator of the legal position that
+the time which is taken by the court to prepare the decree or order cannot
+be excluded before the application to obtain a copy is made. It cannot be
+said that the right to receive a free copy under Section 420(3) of the
+Companies Act obviated the obligation on the appellant to seek a certified
+copy through an application. The appellant has urged that Rule 14 of the
+NCLAT Rules empowers NCLAT to exempt parties from compliance with
+the requirement of any of the rules in the interests of substantial justice,
+which has been typically exercised in favour of allowing a downloaded
+copy in lieu of a certified copy. While it may well be true that waivers on
+filing an appeal with a certified copy are often granted for the purposes
+of judicial determination, they do not confer an automatic right on an
+applicant to dispense with compliance and render Rule 22(2) of the
+NCLAT Rules nugatory. The act of filing an application for a certified copy
+is not just a technical requirement for computation of limitation but also
+an indication of the diligence of the aggrieved party in pursuing the
+litigation in a timely fashion. In a similar factual scenario, NCLAT had
+dismissed an appeal as time barred under Section 61(2) IBC since the
+appellant therein was present in court, and yet chose to file for a certified
+copy after five months of the pronouncement of the order.
+33. The answer to the two issues set out in Section C of the judgment—(i)
+when will the clock for calculating the limitation period run for
+proceedings under IBC; and (ii) is the annexation of a certified copy
+mandatory for an appeal to NCLAT against an order passed under IBC
+— must be based on a harmonious interpretation of the applicable legal
+regime, given that IBC is a Code in itself and has overriding effect.
+
+[PAGE 22]
+Page 22 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+Sections 61(1) and (2) IBC consciously omit the requirement of limitation
+being computed from when the “order is made available to the aggrieved
+party”, in contradistinction to Section 421(3) of the Companies Act. Owing
+to the special nature of IBC, the aggrieved party is expected to exercise
+due diligence and apply for a certified copy upon pronouncement of the
+order it seeks to assail, in consonance with the requirements of Rule 22(2)
+of the NCLAT Rules. Section 12(2) of the Limitation Act allows for an
+exclusion of the time requisite for obtaining a copy of the decree or order
+appealed against. It is not open to a person aggrieved by an order under
+IBC to await the receipt of a free certified copy under Section 420(3) of the
+Companies Act, 2013 read with Rule 50 of the NCLT Rules and prevent
+limitation from running. Accepting such a construction will upset the
+timely framework of IBC. The litigant has to file its appeal within thirty
+days, which can be extended up to a period of fifteen days, and no more,
+upon showing sufficient cause. A sleight of interpretation of procedural
+rules cannot be used to defeat the substantive objective of a legislation
+that has an impact on the economic health of a nation.
+34. On the second question, Rule 22(2) of the NCLAT Rules mandates the
+certified copy being annexed to an appeal, which continues to bind
+litigants under IBC. While it is true that the tribunals, and even this Court,
+may choose to exempt parties from compliance with this procedural
+requirement in the interest of substantial justice, as reiterated in Rule 14
+of the NCLAT Rules, the discretionary waiver does not act as an
+automatic exception where litigants make no efforts to pursue a timely
+resolution of their grievance. The appellant having failed to apply for a
+certified copy, rendered the appeal filed before NCLAT as clearly barred
+by limitation.”
+(Emphasis supplied)
+34.
+Thus, in the present case too the limitation started running from the date
+of pronouncement of the order i.e. 07.10.2025 and calculated from this date, the
+delay in filing the present appeal is well beyond the condonable jurisdiction of
+this Tribunal of 30 plus 15 days. The NCLAT has no power to condone any delay
+beyond the period stipulated under the statute. We are of the considered view
+that the Appeal has been filed beyond the condonable period of 15 days. The
+jurisdiction of this Appellate Tribunal to condone delay being strictly limited by
+statute, we are unable to condone the delay in the filing of this Appeal.
+
+[PAGE 23]
+Page 23 of 23
+I.A. No. 7837 of 2025 in CA (AT) (Ins) No. 2004 of 2025 & I.A. No. 456 of 2026 in CA (AT) (Ins) No. 120 of
+2026
+
+35.
+In view of the foregoing discussion, we are of the considered view that both
+the Appeals have been filed beyond the condonable period of 15 days. The
+jurisdiction of this Appellate Tribunal to condone delay being strictly limited by
+statute, we are unable to condone the delay in the filing of both the Appeals.
+Accordingly, the delay condonation applications in both the Appeals are
+dismissed. Consequently, both the Memos of Appeal and related I.A.s are all
+rejected.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Mr. Barun Mitra]
+Member (Technical)
+Place: New Delhi
+Date: 06.05.2026
+Sheetal

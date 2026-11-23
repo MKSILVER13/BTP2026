@@ -1,0 +1,696 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Ins) No. 1125 of 2024
+& I.A. No. 4037, 4038, 4039 of 2024
+
+(Arising out of the Order dated 17.05.2024 passed by the National Company
+Law Tribunal, Jaipur Bench in MA (IB) No. 06/JPR/2024 lA No.
+655/JPR/2023 & CP No. (IB) - 83/7/JPR/2021)
+
+IN THE MATTER OF:
+
+Present
+For Appellants:
+Mr. Naresh Kumar Sejvani, Advocate.
+
+For Respondents:
+
+Mr. Manit Moorjani & Ms. Manjeet Kaur,
+Advocates for R-1
+Mr. Ashwani Kumar Singla, Ms. Garima Diggiwal
+(IRP), for R-2.
+
+Rohit Suri
+(suspended director of corporate debtor)
+Aged about 50 years, presently residing at :
+484, Nemi Sagar Colony, Vaishali Marg, Jaipur-
+302021 (Rajasthan)
+
+...Appellant
+Versus
+
+1.
+Rajasthan Financial Corporation,
+An entity corporate under the provisions of the State
+Finance Corporation Act, 1951
+Situates its office at Udyog Bhawan, Tilak Marg,
+Jaipur-302005 (Rajsthan)
+[plverma@rfc.rajasthan.gov.in]
+
+2.
+Ms. Garima Diggiwal,
+Interim Resolution Professional of the corporate
+debtor, situates its office at 91, Moji Colony, Malviya
+Nagar, Jaipur-302017 (Rajasthan)
+[garima286@gmail.com]
+
+...Respondent No. 1
+
+...Respondent No. 2
+
+[PAGE 2]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 2 of 25
+J U D G E M E N T
+( 03.04.2025)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1. The present appeal has been filed under Section 61 of the Insolvency and
+Bankruptcy Code, 2016 (‘Code’) by the Appellant i.e., Mr. Rohit Suri, Suspended
+Director of Ruby Buildestates Limited (the Corporate Debtor herein), against the
+Impugned Order 17.05.2024 passed by the National Company Law Tribunal,
+Jaipur Bench (‘Adjudicating Authority’) in Company Petition bearing CP (IB)
+No. 83/7/JPR/2021.
+2.
+The Rajasthan Financial Corporation (Financial Creditor) is the Respondent
+No. 1 herein.
+3.
+Ms. Garima Diggiwala, the Interim Resolution Professional (IRP), is the
+Respondent No. 2 herein.
+4.
+The Appellant submitted that the Respondent No. 1, registered under the
+State Financial Corporation Act, 1951, sanctioned a loan of ₹3.50 Crores to the
+Corporate Debtor in July 2009 and signed loan agreement, disbursing ₹2.40
+Crores on 17.07.2009. The loan was repayable in 19 Equal Quarterly Instalments
+(EQIs) of ₹18.67 Lakhs each, after a six-month moratorium, with the first EQI
+due on or after 16.01.2010. However, during the moratorium period itself, on
+13.01.2010, the Respondent No. 1 issued a demand notice under Section 30 of the
+State Financial Corporation Act, 1951 claiming that the first EQI had become due
+
+[PAGE 3]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 3 of 25
+and defaulted, and subsequently recalled the entire loan amount along with
+interest of ₹15.32 Lakhs.
+5.
+The Appellant further submitted that on 23.02.2010, the Respondent No. 1
+took physical possession of the mortgaged property under Section 29 of the State
+Financial Corporation Act, 1951 and later issued an auction notice for 16.06.2010.
+This auction notice was challenged by several homebuyers/allottees before the
+Hon’ble Rajasthan High Court via Writ Petition No. 7116/2010, resulting in an
+ex-parte stay order on auction proceedings dated 26.05.2010. Despite directions
+from the Hon’ble High Court to consider settlement proposals submitted by the
+Corporate Debtor on multiple occasions, the Respondent No. 1 rejected these
+proposals outright without consideration and failed to initiate any recovery
+proceedings within the limitation period under applicable laws, leading to the
+present dispute regarding limitation in initiating Corporate Insolvency Resolution
+Process (CIRP).
+6.
+The Appellant submitted that the Respondent No. 1 filed Company Petition
+CP (IB) No. 83/7/JPR/2021 on 12.08.2021, which is barred by limitation as per
+its own pleadings. The Appellant stated that despite repeated directions from the
+Adjudicating Authority to address the issue of limitation, the Respondent No. 1
+failed to comply. The Respondent No. 1 sought multiple extensions to file a
+rejoinder on 01.06.2023, 17.07.2023, and 25.09.2023 but did not submit any
+rejoinder. At the final stage of the hearing on 19.01.2024, after arguments were
+completed, the Respondent No. 1 belatedly sought time to file an application
+
+[PAGE 4]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 4 of 25
+under Section 5 of the Limitation Act, 1963, which was allowed, and
+subsequently filed Miscellaneous Application No. 06/2024 seeking condonation
+of delay.
+7.
+The Appellant further submitted that the Respondent No. 1 acknowledged in
+its application under Section 5 of the Limitation Act. 1963 that the petition was
+barred by limitation. The Adjudicating Authority, however, condoned the delay
+and excluded time under Section 14 of the Limitation Act, without being satisfied
+of the essential criteria of due diligence and continuity of proceedings against the
+same party for similar reliefs. The Appellant stated that reliance by Adjudicating
+Authority and Respondent No. 1 on COVID-19-related extensions by the Hon’ble
+Supreme Court of India was misplaced as the limitation had expired well before
+the relevant period (15.03.2020 to 28.02.2022).
+8.
+The Appellant contended that the Adjudicating Authority condoned the
+delay in filing the Company Petition (CP (IB) No. 83/7/JPR/2021, which was
+filed on 12.08.2021 for a default that occurred on 13.01.2010, making it barred
+by limitation. Despite repeated directions from the Adjudicating Authority, the
+Respondent No. 1 failed to justify the delay adequately and later sought
+condonation under Section 5 of the Limitation Act, 1963. The Adjudicating
+Authority considered pending litigations as a statutory prevention despite the
+Respondent No. 1’s ability to initiate CIRP, and incorrectly applied Section 14 of
+the Limitation Act, 1963.
+
+[PAGE 5]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 5 of 25
+9.
+The Appellant submitted that the Adjudicating Authority overlooked the
+Respondent No. 1’s own admission in Form I (Particulars of Financial Debt) that
+a legal notice under Section 30 of the State Financial Corporations Act, 1951 was
+issued on 13.01.2010, and possession of the unit was taken under Section 29 of
+the Act on 23.03.2010. Further, there was no documentary evidence on record to
+suggest that the limitation period was extended or that the Corporate Debtor
+acknowledged its liability.
+10. The Appellant submitted that the Adjudicating Authority, in its judgment,
+failed to appreciate the critical absence of a specific date of default in the
+Respondent No. 1's pleadings. The Respondent No. 1 merely stated that a notice
+of demand was issued on 13.01.2010 and physical possession of the mortgaged
+property was taken on 23.02.2010, without providing any documentary evidence
+or reference to substantiate the claim or address the issue of limitation, i.e.
+unexplained delay exceeding 12 years, rendering it time-barred.
+11. The Appellant submitted that the Adjudicating Authority committed an error
+in law while adjudicating the application for condonation of delay, by erroneously
+computing the limitation period from the date of notification of the Code
+provisions, contrary to established legal principles and judgments placed on
+record. It is contended by the Appellant that such notification is wholly irrelevant
+to condonation, as the cause of action for filing the petition unequivocally accrues
+from the date of default, not the enactment of the statute. Furthermore, the
+Adjudicating Authority failed to appreciate the Respondent No. 1’s own
+
+[PAGE 6]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 6 of 25
+pleadings, wherein it admitted the debt default followed by a demand notice dated
+13.01.2010, thereby establishing that the petition, as per the Respondent No. 1’s
+own case, was filed well beyond the permissible limitation period, rendering it
+time-barred.
+12. The Appellant submitted that the Adjudicating Authority has erred by failing
+to appreciate that the Respondent No. 1, a statutory corporation constituted under
+a special Act, was endowed with specific enabling powers under Section 29 and
+Section 31 of the State Financial Corporation Act, 1951, to enforce its claims
+following the corporate debtor’s default, yet inexplicably chose to remain
+dormant for over 12 years. The Adjudicating Authority further overlooked the
+material on record demonstrating that the Financial Creditor, having issued a
+demand notice under Section 29, was duty-bound to diligently pursue its remedies
+under Section 31 of the State Financial Corporation Act, 1951 to recover the debt,
+rather than allowing the claim to languish beyond the permissible period,
+rendering the present proceedings untenable and barred by limitation.
+13. The Appellant further submitted that the Adjudicating Authority has failed
+to discern the true and correct facts, and has instead blindly accepted the
+Respondent No. 1 submissions regarding possession of the mortgaged property
+under the State Financial Corporation Act, 1951. The Appellant contended that
+the Respondent No. 1 merely issued a demand notice pursuant to Section 29 of
+the State Financial Corporation Act, 1951, which solely outlines the rights of the
+
+[PAGE 7]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 7 of 25
+State Financial Corporation in the event of default, without any evidence or
+indication of subsequent steps to enforce possession or recovery as claimed.
+14. The Appellant submitted that the Respondent No. 1 obtained possession of
+the mortgaged property without adhering to due process of law, in flagrant
+violation of the agreement’s terms and the provisions of the State Financial
+Corporation Act, 1951. Furthermore, the Appellant submitted that the
+Adjudicating Authority overlooked that the debt, stemming from a legal notice
+dated 13.01.2010, could not remain due beyond the statutory limitation period of
+three years, rendering the claim time-barred and the proceedings legally
+unsustainable.
+15. The Appellant submitted that the Adjudicating Authority has erred by
+allowing the Section 5 of the Limitation Act, 1963 application on limitation,
+failing to appreciate the material on record which reveals that the Respondent No.
+1’s claim of being statutorily prevented due to sub-judice proceedings before the
+Hon’ble High Court is untenable. The impugned order dated 17.05.2024
+explicitly notes that on 07.03.2011, the Hon’ble High Court of Rajasthan granted
+liberty to Respondent No. 1 to auction the property, thereby negating any basis
+for the Financial Creditor to assert statutory prevention from proceeding against
+the Corporate Debtor. Furthermore, despite this clear liberty, the Respondent No.
+1 failed to exercise its rights within the limitation period following 07.03.2011,
+and cannot now seek refuge under the pretext of ongoing High Court proceedings,
+rendering the Adjudicating Authority’s findings unsustainable.
+
+[PAGE 8]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 8 of 25
+16. Concluding his arguments, the Appellant urged this Appellate Tribunal to
+dismiss the Impugned Order and allow his appeal.
+17. Per contra, the Respondent No. 1 denied all the averments made by the
+Appellant in the present appeal.
+18. The Respondent No. 1 submitted that the Loan Agreement between the
+parties clearly stipulated a repayment mechanism for both the principal loan
+amount and interest, including a six-month moratorium period applicable solely
+to the principal repayment instalments, and not to the interest, which the loanee
+was obligated to repay as per the agreed schedule. The Respondent No. 1 further
+contended that, in line with standard practice, two separate accounts were
+maintained for the repayment of the principal and interest, and the Respondent
+No. 1 has acted in good faith, adhering to both the provisions of the State Financial
+Corporation Act, 1951, and the terms of the loan agreement. Additionally, it is
+submitted that the appellant failed to raise any objection regarding the invocation
+of Section 30 State Financial Corporations Act, 1951 at the relevant time, and any
+grievance raised at this belated stage lacks merit.
+19. The Respondent No. 1 submitted that it is a well-established principle of law
+that the moratorium period applies solely to the repayment of principal amount
+instalments, whereas no such moratorium extends to the repayment of interest,
+which the appellant was obligated to service as per the loan agreement; however,
+the appellant defaulted by failing to pay even a single interest instalment,
+compelling the Respondent No. 1 to issue a notice recalling the entire loan
+
+[PAGE 9]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 9 of 25
+amount. Upon the appellant’s continued failure to repay the dues after the notice
+period expired, the Respondent No. 1, in accordance with the provisions of
+Section 30 of the State Financial Corporation Act, 1951, took physical possession
+of the mortgaged property, which remains in its custody. The Respondent No. 1
+asserted that these actions were lawfully executed following the issuance of a
+legal notice, necessitated by the appellant’s persistent default, thereby justifying
+the Respondent No. 1’s of the mortgaged assets.
+20. The Respondent No. 1 submitted that the Corporate Debtor initially
+proposed a settlement vide letter dated 22.03.2011, which the Respondent No. 1
+could not accept as its terms were not in its interest, followed by subsequent
+settlement proposals in 2014, 2015, and 2017-18, none of which materialized into
+an agreement. Due to a bona fide oversight, these requests for a one-time
+settlement were inadvertently omitted from the initial records of CP (IB) No.
+84/7/JPR/2021 before the Adjudicating Authority; however, the Respondent No.
+1 contended that the appellant’s own admission in the appeal i.e. acknowledging
+multiple settlement proposals by the Corporate Debtor effectively negates their
+objections to the company petition filed under Section 7 of the Code. The
+Respondent No. 1 asserted that these repeated attempts at settlement, coupled
+with the appellant’s failure to honour repayment obligations, reinforce the
+legitimacy of Respondent No. 1’s actions and the initiation of insolvency
+proceedings.
+
+[PAGE 10]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 10 of 25
+21. The Respondent No. 1 submitted that the Adjudicating Authority issued
+directions for filing written submissions on 04.07.2022, after notices were served
+to the Corporate Debtor through regular service, paper publication, and e-notice
+at its registered address, yet the Corporate Debtor failed to participate, leading to
+ex-parte proceedings being initiated vide order dated 04.07.2022. Despite further
+opportunities on 12.08.2022 and 06.09.2022, the Corporate Debtor remained
+absent, and even after Advocate Sh. Naresh Kumar Sejwani appeared on
+20.09.2022 seeking time to file a vakalatnama, no such document was submitted
+by 10.01.2023, reflecting the Corporate Debtor’s consistent non-engagement with
+the process.
+22. It is further submitted by Respondent No. 1 that the written submissions, as
+directed on 04.07.2022, were duly filed by the Respondent No. 1 on 12.08.2022
+and it was only on that date, and not on 14.07.2022, that the Adjudicating
+Authority directed a chronological date-wise event submission, which the
+Respondent No. 1’s counsel could not immediately furnish due to practical
+difficulties. The appellant’s attempt to suggest that the Respondent No. 1 failed
+to address limitation despite opportunities is misplaced, as the Adjudicating
+Authority, prima facie satisfied with the merits and limitation aspects, proceeded
+with notices and ex-parte orders due to the Corporate Debtor’s evasion, and
+subsequently sought clarifications only after reviewing the Respondent No. 1’s
+submissions, thus attributing no error to the Adjudicating Authority but rather
+highlighting the appellant’s own lapses.
+
+[PAGE 11]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 11 of 25
+23. The Respondent No. 1 submitted that it is a settled proposition of law that
+the omission of the date of default in Column-2, Part IV of Form-I constitutes, at
+most, a technical defect, and does not render the petition non-maintainable,
+provided such information can be discerned from other material available on
+record; this defect is curable by filing an appropriate application. The Respondent
+No. 1 contended that this legal position underscores the maintainability of the
+petition despite the appellant’s objections, as the requisite details substantiating
+the default are adequately disclosed elsewhere in the accompanying
+documentation, thereby aligning with judicial precedents and preserving the
+integrity of the proceedings before the Adjudicating Authority.
+24. The Respondent No. 1 submitted that the Adjudicating Authority correctly
+held that Respondent No. 1 was statutorily prevented from recovering its dues
+from the Corporate Debtor due to interim orders of the Hon’ble High Courts,
+which temporarily restrained direct recovery actions. However, it is emphasized
+by Respondent No. 1 that such interim orders do not bar the initiation of
+proceedings under the Code as the framework of the Code operates independently
+of such restrictions, enabling the corporation to pursue its remedies despite the
+pendency of matters before the Hon’ble High Court.
+25. It is further submitted by the Respondent No. 1 that the Adjudicating
+Authority, not being subordinate to the Hon’ble High Court, was fully empowered
+to admit the petition filed by the Respondent No. 1 and impose a moratorium vide
+its impugned order dated 17.05.2024, unaffected by the interim orders. The
+
+[PAGE 12]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 12 of 25
+Respondent No. 1 asserted that this legal position reinforces the authority of the
+Code framework, ensuring that the Respondent No. 1’s rights to initiate
+insolvency proceedings remain intact, and the Adjudicating Authority’s decision
+aligns with the statutory intent and judicial precedent, warranting no interference.
+26. The Respondent No. 1 submitted that the Adjudicating Authority has
+delivered a just and reasoned order dated 17.05.2024, aptly reflecting the facts
+and circumstances of the case, wherein a notice recalling the Respondent No. 1’s
+dues were issued to the appellant on 13.01.2010, followed by the appellant’s
+proposals for one-time settlement or repayment in 2011, 2014, 2015, 2016, and
+2017, with the last acknowledgment of debt occurring on 16.05.2017. This
+repeated acknowledgment extends the limitation period, rendering the company
+petition filed by the Respondent No. 1 well within the permissible timeframe
+under the law. Thus, the Respondent No. 1 asserted that the Adjudicating
+Authority’s decision to admit the petition is legally sound and merits no
+interference.
+27. The Respondent No. 1 submitted that for the purpose of calculating
+limitation in the present case, the appellant’s acknowledgment of its liability
+under the loan agreement admitted up to 16.05.2017, is pivotal, extending the
+limitation period of three years from that date to 15.05.2020. This
+acknowledgment, stemming from the appellant’s repeated proposals for
+settlement, clearly establishes that the debt remained alive, and thus, the company
+petition filed by the Respondent No. 1 is well within the statutory timeframe,
+
+[PAGE 13]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 13 of 25
+reinforcing the correctness of the Adjudicating Authority’s impugned order dated
+17.05.2024.
+28. The Respondent No. 1 submitted that in the background of the nationwide
+lockdown imposed on 22.03.2020 due to the COVID-19 pandemic, the Hon’ble
+Supreme Court of India vide order dated 10.01.2020 in Misc. Application No.
+21/2022 in Suo Moto Writ Petition (C) No. 3/2020, extended limitation periods
+expiring between 15.03.2020 and 28.02.2022, thereby ensuring that the petition
+remains within limitation regardless. Additionally, the Hon’ble Supreme Court of
+India’s consistent rulings affirm that limitation under the Code is extendible via
+an application under Section 5 of the Limitation Act, 1963 further supporting the
+Respondent No. 1’s position that the petition was timely and lawfully admitted
+by the Adjudicating Authority.
+29. The Respondent No. 1 submitted that the promoters of the Corporate Debtor
+submitted proposals for a one-time settlement of the Respondent No. 1’s dues in
+2011, 2014, 2015, 2016, and 2017, thereby keeping the claim/debt alive, with the
+last acknowledgment occurring vide letter dated 16.05.2017. The Hon’ble
+Supreme Court of India in Dena Bank v. C. Shivakumar Reddy [(2021) 10 SCC
+330] has held that Section 18 of the Limitation Act should not be interpreted with
+pedantic rigidity in IBC proceedings, and an offer of one-time settlement within
+the limitation period constitutes an acknowledgment of debt, extending the
+limitation by a further three years from 16.05.2017 to 15.05.2020, thus supporting
+the maintainability of the Respondent No. 1’s petition.
+
+[PAGE 14]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 14 of 25
+30. The Respondent No. 1 submitted that the homebuyers, who paid booking
+amounts or instalments towards homes/flats, are entitled to submit their claims to
+the Resolution Professional under the Code framework, ensuring their interests
+are addressed within the insolvency process. This mechanism provides an
+adequate remedy for the homebuyers to recover their dues, thereby negating any
+contention that their rights have been overlooked by the respondent’s actions in
+pursuing the Corporate Debtor.
+31. It is further submitted by the Respondent No. 1 that the homebuyers failed
+to initiate independent legal action against the appellant for any alleged fraud or
+misrepresentation, and the appellant cannot now seek refuge in this argument to
+evade its liability towards the dues of Respondent No. 1. Respondent No. 1
+asserted that the appellant’s attempt to shift responsibility onto the homebuyers’
+inaction is untenable, and the Adjudicating Authority rightly focused on the
+Respondent No. 1’s claim, which remains unaffected by the homebuyers’ separate
+grievances.
+32. The Respondent No. 1 submitted that Sections 29, 30, and 31 of the State
+Financial Corporation Act, 1951, provide a robust mechanism for recovering
+dues, with Section 29 empowering the Respondent No. 1 to take over
+management or possession of the industrial concern’s assets, including the right
+to lease or sell mortgaged property, and Section 30 allowing a demand for
+repayment before the agreed period, while Section 31 offers special enforcement
+provisions against the industrial concern. In the present case, the Respondent No.
+
+[PAGE 15]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 15 of 25
+1 invoked Section 29, took possession of the mortgaged assets, and acted within
+its statutory rights, thereby pursuing a lawful recovery process against the
+Corporate Debtor.
+33. The Respondent No. 1 submitted that the Adjudicating Authority committed
+no error in holding that the Respondent No. 1 was statutorily prevented from fully
+recovering its dues, as the appellant’s reliance on the Hon’ble High Court of
+Rajasthan’s interlocutory order dated 07.03.2011 is misplaced. A plain reading of
+the order revealed that while the Respondent No. 1 was granted limited liberty to
+organize auction proceedings and invite bids for the mortgaged property, the
+Hon’ble High Court explicitly prohibited finalizing any auction without its
+approval, thus restricting the Respondent No. 1’s ability to conclude the recovery
+process.
+34.
+The Respondent No. 1 further submitted that, in compliance with the order
+dated 07.03.2011, the Respondent No. 1 diligently attempted to auction the
+Corporate Debtor’s mortgaged assets on more than 80 occasions, yet could not
+finalize the sales due to the High Court’s mandate for prior approval. Respondent
+No. 1 asserted that this statutory constraint justifies the finding of the
+Adjudicating Authority, debunking the appellant’s impression of unrestricted
+liberty and affirming that the Respondent No. 1’s actions were curtailed by
+judicial oversight, thereby supporting the maintainability of the petition filed
+under the Code in addition to extending limitation due to acknowledgement of
+
+[PAGE 16]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 16 of 25
+debts by the Appellant by way of various OTS by the Appellant and the Hon’ble
+Supreme Court of India order dated 10.01.2020 extending limitation suo moto.
+35. Concluding his arguments, Respondent No. 1 prayed to this Appellate
+Tribunal to dismiss the Appeal with cost.
+36. The Respondent No. 2 submitted that the Appellate Tribunal, vide its order
+dated 03.06.2024, directed that the impugned order initiating the CIRP be held in
+abeyance; however, the IRP was not discharged from her duties to safeguard the
+interests of the Corporate Debtor, including its property, and ensure compliance
+with the provisions of the Code and IBBI regulations. In adherence to this
+Appellate Tribunal’s directive, the IRP duly kept the CIRP process in abeyance
+while continuing to fulfil her obligations by deploying security guards at the
+property and personally visiting the site, which had been taken into custody at the
+time of the CIRP orders, to ensure the Corporate Debtor’s interests remained
+protected.
+37. The Respondent No. 2 submitted that the Respondent No. 1 has contributed
+Rs. 2 lakhs towards the CIRP costs, as mandated by the Adjudicating Authority
+in its impugned order dated 17.05.2024. Despite the limited contribution from
+Respondent No. 1, the IRP has continued her responsibilities without being
+relieved of her duties, thereby entitling her to her professional fees for the services
+rendered. The Respondent No. 2 requests this Appellate Tribunal to recognize the
+IRP’s eligibility for remuneration.
+
+[PAGE 17]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 17 of 25
+Findings
+38. We have already noted the facts of the case during pleadings in preceding
+discussions hence we shall not repeat the same.
+39. The only issue which is required to be decided in the present appeal is
+regarding whether the company petition was filed by the Respondent No. 1 i.e.,
+Rajasthan Financial Corporate before the Adjudicating Authority in time or was
+hit by limitation.
+40. The disbursal of loan and non-payment of the loan is undisputed fact, hence,
+we take as it is.
+41. The Appellant submitted that the Company Petition No. 83/7/JPR/2021 was
+filed on 12.08.2021, hence was completely debarred under Limitation Act, 1963.
+On the other hand, it is the case of the Respondent No. 1 that due to pending case
+before the Hon’ble High Court of Rajasthan as well as stay granted by the Hon’ble
+High Court of Rajasthan, the Respondent No. 1 was statutorily prevented from
+taking any legal action, hence, the Respondent No. 1 gets legal protection under
+Section 5 of the Limitation Act, 1963. This was in addition with extension of
+limitation by the Appellant by acknowledging the debt through its various OTS
+proposals and suo moto extension of limitation due to by the Hon’ble Supreme
+Court of India vide its order dated 10.01.2020.
+42. It is the case of the Respondent No. 1 that the Appellant kept on making one
+time settlement (‘OTS’) from time to time which was made on 03.05.2011,
+
+[PAGE 18]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 18 of 25
+24.11.2011, 16.09.2014, 24.02.2015, 26.05.2015, 18.06.2015, 20.05.2016,
+12.05.2017 and 16.05.2017. Thus, acknowledging debt and extending the
+limitation period.
+43. We note that in reply to the appeal, the last OTS date was mentioned as
+16.05.2017 which according to the Respondent No. 1 was acknowledgement of
+the Appellant of its liability in terms of loan facility provided by the Respondent
+No. 1 under loan agreement dated 06.07.2009.
+44. We have already noted that the loan was sanctioned in 2008-09 and
+disbursement was made on 17.07.2009. Thus, first OTS of the Appellant to
+Respondent No. 1 dated 03.05.2011 extended the limitation period. Similarly,
+further OTS dated 24.11.2011 also extended the limitation period. We note that
+within three years of this OTS dated 24.11.2011, the Appellant is stated to have
+made another OTS on 16.09.2014 which was within three years and hence, same
+extended limitation period. This was further followed by another OTS proposal
+by the Appellant dated 24.02.2015 followed by various other OTS proposals by
+various other OTS proposals by the Appellant vide letters dated 26.05.2015,
+18.06.2015, 25.05.2016, 12.05.2017 and finally dated 16.05.2017.
+45. If we take the last OTS by the Appellant dated 16.05.2017 into consideration,
+which signifies the acknowledgement of debt by the Appellant, the limitation
+period gets extended up to 15.05.2020. Hence, the Company Petition could have
+been filed by 15.05.2020, whereas the Company Petition was filed by the
+Respondent No. 1 before the Adjudicating Authority on 12.08.2021.
+
+[PAGE 19]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 19 of 25
+46. Hence, we need to look into the rational for counting this period for the
+purpose of limitation. We take into consideration the pleading made by the
+Respondent No. 1 that the Hon’ble Supreme Court of India, taking suo moto
+cognizance vide Writ Petition (C) No. 03 of 2020 for extension of limitation,
+wherein the Apex Court vide its order dated 10.01.2020 exempted the period from
+15.03.2020 to 28.02.2022 for the purpose of counting of limitation for filing
+applications, suits, etc.
+47. The facts regarding the various OTS proposals of the Appellant have been
+mentioned by the Respondent No. 1 in his reply affidavit to the Appeal dated
+16.07.2024 which was permitted by this Appellate Tribunal in its order dated
+03.06.2024 while issuing notice to the Respondent No. 1.
+48. In the same order dated 03.06.2024, this Appellate Tribunal gave three
+weeks time to the Appellant to file Rejoinder. The said order is reproduced as
+under :-
+“These appeals have been filed against the impugned orders
+both dated 17.05.2024.
+2. The submission of the learned Counsel for the Appellant is
+loans were granted to two companies namely, M/s Amay
+Home Services Ltd. and M/s Ruby Buildestates Pvt. Ltd. in
+the year 2008. The loans after sanction were disbursed
+between the years 2008 till March, 2009. The First Demand
+Notice was given by the Respondent on 13.01.2010 and
+thereafter Respondent Corporation took physical possession
+of the mortgaged property on 23.03.2010. The auction of the
+
+[PAGE 20]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 20 of 25
+property was also scheduled in the year 2010. But on
+04.05.2010, Jaipur Bench of Hon’ble Rajasthan High Court
+restrained Respondent-Corporation from alienating or
+transferring the said property. On 12.08.2021, Company
+Petitions No. 84/7/JPR/2021 and 83/7/JPR/2021 were filed.
+The prime submission made by the learned Counsel for the
+Appellant is the petitions were beyond limitation having been
+filed even three years after coming into force of the Code in
+the year 2016. Further it is alleged the impugned order does
+not disclose sufficient cause to condone the delay under
+Section 5 of Limitation Act, 1963. It is alleged as per own
+admission of the Respondent, these Company Petitions were
+ought to have been filed by December, 2019 and but then
+Respondent-Corporation has taken benefit of orders passed
+by the Hon’ble Supreme Court due to Covid condition. It is
+thus submitted no sufficient cause is shown for not filing the
+petitions between January, 2019 to March, 2020 hence the
+impugned order(s) are challenged before us.
+3. Learned Counsel for the Respondent submits so far the
+debt is concerned, the same is not challenged by the
+Appellant and on at least seventy earlier occasions the
+Respondent is trying to auction the mortgaged property but
+to no avail.
+4. Issue Notice. Learned Counsel for the Respondent-
+Corporation may file Reply Affidavit within four weeks.
+Rejoinder be filed three weeks thereafter.
+5. List these matters on 22nd July, 2024. Till then the
+operation of the impugned order qua initiation of CIRP shall
+remain in abeyance.”
+
+[PAGE 21]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 21 of 25
+
+49. Another two weeks time was granted to the Appellant to file the Rejoinder
+by this Appellate Tribunal vide its order dated 06.09.2024, which reproduce as
+under:-
+“Learned Counsel for Respondent No. 1 submits that they
+have already filed the Reply.
+Appellant submits that Reply has not been served. Counsel
+for Respondent No. 1 is directed to serve the Reply to the
+Counsel for the Appellant within a week.
+Rejoinder, if any, may be filed with further two weeks.
+The name of Mr. Naresh Kr. Sejvani be shown as Counsel for
+the Appellant.
+IRP has also appeared in person. List these Appeals on 18th
+October, 2024.
+Interim Order to continue.”
+50. Further two weeks time was granted by this Appellate Tribunal to the
+Appellant to file rejoinder affidavit vide its order dated 18.10.2024 which reads
+as under :-
+“Learned Counsel for the Appellant prays for and is allowed
+two weeks time to file the Rejoinder Affidavit.
+List this Appeal on 21st November, 2024.”
+
+51. Further, two weeks time was allowed to the Appellant vide this Appellate
+Tribunal’s order dated 21.11.2024 which reads as under ;-
+
+[PAGE 22]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 22 of 25
+“The Respondent No.1 has filed the reply. Rejoinder, if any,
+be filed within two weeks from today.
+It is submitted some applications have been filed by
+Respondent No.1 but are not on record. Be placed on record.
+List these appeals on 09.01.2025.”
+
+52. On 09.01.2025, the Appellant requested for an adjournment on the ground
+that the Senior Arguing Counsel is in some personal difficulty. Finally, the
+Appellant was heard on 17.02.2025 and order was reserved.
+53. We note that this Appellate Tribunal gave four specific opportunities to the
+Appellant to file the rejoinder affidavit, however, the Appellant did not file any
+rejoinder. On next occasion, the Appellant requested for an adjournment. Thus,
+we note that despite of several opportunities, the Appellant did not give any
+contrary facts through his reply affidavit contesting submissions made by the
+Respondent No. 1 before us. Thus, we take into consideration the facts mentioned
+by the Respondent No. 1 regarding OTS letters and the issue of extension of
+limitation from time to time, including last OTS dated 16.05.2017 extending
+limitation period upto 15.05.2020 and the Apex Court, suo moto order dated
+10.01.2020 passed in Writ Petition (c) No. 03 of 2020 which extended limitation
+period from 15.03.2020 to 28.02.2022. The Respondent No. 1 filed the Company
+Petition on 12.08.2021 which was within limitation period available in the present
+case. Thus, we hold that Company Petition was covered under limitation period
+as discussed in preceding discussion.
+
+[PAGE 23]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 23 of 25
+54. We also note that in catena of judgments including by the Hon’ble Supreme
+Court of India, it has been held that limitation is a matter of both facts and law
+and it can be invoked at any stage by any of the party or any court even at an
+appeal stage. We will take into consideration one of recent judgment of the
+Hon’ble Supreme Court of India passed in the case of Pathapati Subba Reddy v.
+LAO [(2024) SCC OnLine SC 513], where the Apex Court stipulated fundamental
+principles which reads as under :-
+“26. On a harmonious consideration of the provisions of the
+law, as aforesaid, and the law laid down by this Court, it is
+evident that:
+(i) Law of limitation is based upon public policy that there
+should be an end to litigation by forfeiting the right to remedy
+rather than the right itself;
+(ii) A right or the remedy that has not been exercised or
+availed of for a long time must come to an end or cease to
+exist after a fixed period of time;
+(iii) The provisions of the Limitation Act have to be construed
+differently, such as Section 3 has to be construed in a strict
+sense whereas Section 5 has to be construed liberally;
+(iv) In order to advance substantial justice, though liberal
+approach, justice-oriented approach or cause of substantial
+justice may be kept in mind but the same cannot be used to
+defeat the substantial law of limitation contained in Section
+3 of the Limitation Act;
+(v) Courts are empowered to exercise discretion to condone
+the delay if sufficient cause had been explained, but that
+exercise of power is discretionary in nature and may not be
+
+[PAGE 24]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 24 of 25
+exercised even if sufficient cause is established for various
+factors such as, where there is inordinate delay, negligence
+and want of due diligence;
+(vi) Merely some persons obtained relief in similar matter, it
+does not mean that others are also entitled to the same benefit
+if the court is not satisfied with the cause shown for the delay
+in filing the appeal;
+(vii) Merits of the case are not required to be considered in
+condoning the delay; and
+(viii) Delay condonation application has to be decided on the
+parameters laid down for condoning the delay and condoning
+the delay for the reason that the conditions have been
+imposed,
+tantamount
+to
+disregarding
+the
+statutory
+provision.”
+(Emphasis Supplied)
+
+The present case of the Respondent No. 1 gets benefits from the above
+judgment.
+55. In view of above analysis, we hold that the Company Petition was filed by
+the Respondent No. 1 within limitation period before the Adjudicating Authority
+and was not hit by limitation as alleged by the Appellant. Since, this is the only
+issue involved in the present appeal, hence we do not find any merit in the appeal.
+56. We also note that the Respondent No. 2 i.e., Ms. Garima Diggiwal, IRP of
+Corporate Debtor has requested this Appellate Tribunal during hearing to
+reimburse her fee and cost. Since, fee and the cost are within the domain of the
+
+[PAGE 25]
+Comp. App. (AT) (Ins.) No. 1125 of 2024
+Page 25 of 25
+Adjudicating Authority, the Respondent No. 2 may file suitable application in
+accordance with law for getting further relief before the Adjudicating Authority.
+57. The Appeal devoid of any merit stand rejected. IA, if any, are closed. No
+costs.
+
+[Justice Rakesh Kumar Jain]
+Member (Judicial)
+
+[Mr. Naresh Salecha]
+Member (Technical)
+
+[Mr. Indevar Pandey]
+Member (Technical)
+
+Sim

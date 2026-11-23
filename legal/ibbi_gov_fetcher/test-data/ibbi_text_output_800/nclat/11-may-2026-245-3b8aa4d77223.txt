@@ -1,0 +1,801 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+11.05.2026
+
+Present:
+JUSTICE N. SESHASAYEE, MEMBER (JUDICIAL)
+ARUN BAROKA, MEMBER (TECHNICAL)
+INDEVAR PANDEY, MEMBER (TECHNICAL)
+
+Company Appeal (AT) (Ins) No.498 of 2025
+
+The State Tax Officer, State Of Gujarat
+
+...Appellant
+
+Vs
+
+1. Jaykumar P. Arlani
+
+...Respondent No.1
+The Interim Resolution Professional/
+Resolution Professional/Liquidator
+
+2. M/s. Shree Raghuvanshi Fibres Private Limited ...Respondent No.2
+
+3. Bank of Baroda
+
+...Respondent No.3
+4. Rama Agri Enterprise LLP Gondal
+
+...Respondent No.4
+Auction Purchaser
+
+(Arising out of Order dated 19.02.2025 passed by the Adjudicating Authority
+(National Company Law Tribunal, Court No.1, Ahmedabad) in Interlocutory
+Application No. 1077(AHM) 2023 in C.P. (IB) No. 563 of 2019)
+
+For Appellant:
+Ms. Ritu Guru, Advocate
+For Respondent:
+Mr. Rohan Talwar, Ms. Preksha Diwakar, Advocates for
+R-3
+
+Mr. Dheeraj Garg, Advocate for R-1
+
+[PAGE 2]
+2
+
+JUDGEMENT
+Per Justice N. Seshasayee, Member (Judicial)
+This appeal arises out of the Order of the Adjudicating Authority (NCLT,
+Ahmedabad Bench), dated 19.02.2025 in I.A. No. 1077 of 2023 in C.P. (IB) No.
+563/9/04.01.2023, NCLT/AHM/2019 by which it has directed that the
+corporate debtor be dissolved post liquidation process. And, the appellant
+contends that it should have been treated as a secured creditor in the
+distribution process under Sec.53 of the Code.
+
+Facts
+2.
+The material facts are:
+a) The appellant is the Sales Tax Authority of the State of Gujarat and the
+CD, M/s. Shree Raghuvanshi Fibres Pvt. Ltd., fell in arrears of VAT
+under the Gujarat Value Added Tax Act, 2003 (henceforth GVAT Act)
+and also CST for four assessment years from 2014-2015 to 2017-2018.
+According to the appellant a statutory first charge is created in terms
+of Sec.48 of the GVAT Act. On 05.09.2019, the appellant initiated
+recovery steps and addressed a communication dated 05.09.2019 to
+the jurisdictional Mamlatdar seeking attachment and for recording of
+charge over the immovable properties of the Corporate Debtor.
+(However, Mamlatdar’s records do not disclose any such charge or
+attachment of the asset of the CD)
+b) On 18.02.2020, the Corporate Debtor, came to be admitted to CIRP. On
+07.07.2021, the appellant preferred its Claim vide Form B for
+₹.36,87,64,745 for the aforesaid four assessment years. Out of this
+
+[PAGE 3]
+3
+
+amount VAT component of the tax arrears constituted ₹.17,94,45,532
+plus interest thereon at 18% p.a., and the balance constituted CST
+arrears plus interest at the same rate.
+c) It is required to be stated that in the relevant column in Form B where
+the details of the security interest which the appellant claims in terms
+of Sec.48 of the GVAT Act, is required to be stated, the appellant has
+indicated as ‘N.A’, meaning thereby that this column is not applicable.
+However, along with the Claim, the appellant also addressed a
+communication
+dated
+07.07.2021
+to
+the
+Interim
+Resolution
+Professional to create a first charge on the property of the dealer,
+namely the corporate debtor, in terms of Sec.48 GVAT Act.
+d) The CIRP of the CD however failed, and on 30.08.2022, liquidation of
+the CD was ordered. Now, on 14.09.2022, the appellant preferred its
+Claim before the liquidator under Form C for ₹.43,45,22,907 for the
+same four assessment years from 2014–15 to 2017–18. (it may be
+stated that this claim was increased to ₹.45,17,26,706/-, owing to
+certain rectification made in the assessment Orders, and on
+03.03.2023 a fresh claim was made. The liquidator however, declined
+to entertain the revised fresh claim vide his communication dated
+07.03.2023, noting that the period for submission of Claims had
+already expired).
+e) It may be noted that as was done on the previous occasion during the
+CIRP, the appellant had indicated ‘NA’ in the column in the Claim Form
+where details of security interest are required to be disclosed. Again,
+consistent with the methods it had adopted on the earlier occasion, the
+
+[PAGE 4]
+4
+
+appellant had addressed a communication along with his Claim Form
+to the liquidator to create a first charge in terms of Sec.48 of the GVAT
+Act.
+f) However, the Liquidator vide his communication dated 03.10.2022,
+had required the appellant (i) to prove its entitlement to claim interest
+etc., (ii) that he (the liquidator) does not have authority to create any
+charge as required; and (iii) required the appellant to prove that it is a
+secured creditor under Sec.3(30) read with Section 3(31) of the IBC, as
+the appellant has not provided any details of the security interest in the
+Claim Form. Eventually, the liquidator has admitted ₹.38,76,12,601/-
+and rejected certain interest component of the claim.
+g) The liquidation process proceeded thereafter. The assets of the
+Corporate Debtor were brought to sale, and on 09.01.2023, M/s. Rama
+Agri Enterprise LLP emerged as the successful bidder for a
+consideration of ₹.9.45 crore.
+h) While so, on 21.04.2023, the Stakeholders’ Consultation Committee
+meeting was held, in which the liquidator indicated that a legal opinion
+had been obtained on the treatment of statutory dues. The 3rd
+respondent Bank of Baroda, had expressed an idea that in the event of
+any subsequent legal development as regards the appellant’s claim to
+be treated as a secured creditor, the amounts received by it could be
+returned to the liquidation account for appropriate redistribution to the
+appellant.
+i) Thereafter, the liquidator had proceeded with the distribution of the
+sale proceeds, and on 24.04.2023, a sum of Rs. 8,80,00,000/- was
+
+[PAGE 5]
+5
+
+distributed to sole financial creditor, the 3rd respondent Bank, in
+accordance with the waterfall under Section 53 of the Code.
+j) The appellant participated in subsequent meetings of the Stakeholders’
+Consultation Committee, including the meeting held on 25.08.2023,
+wherein the distribution already effected was recorded.
+k) The liquidator thereafter, moved an application in I.A.1077 of 2023
+under Section 54 of the Code seeking dissolution of the Corporate
+Debtor. It appears that since the appellant had not provided any
+specific materials to prove that it is a secured creditor as was required
+by the liquidator in his email dated 03.10.2022, the latter has treated
+the claim of the appellant as operational statutory dues.
+l) At the stage when the application for dissolution came to be considered
+by the Adjudicating Authority, the appellant entered appearance and
+raised objections contending that its dues ought to be treated as
+secured debt and that the distribution already made required
+reconsideration.
+
+3.
+By an Order dated 19.02.2025, the Adjudicating Authority declined to
+accept the plea of the appellant to treat it as a secured creditor on the
+ground that the statutory charge as claimed by the appellant is not
+registered and that the security interest is not disclosed in the Claim Form.
+This finding has led to the appellant preferring the present appeal.
+
+Arguments
+4.
+The learned counsel for the appellant contended:
+
+[PAGE 6]
+6
+
+a) that the Adjudicating Authority has erred in treating the dues of the
+State Tax Department as falling under Sec.53(1)(e) of the Insolvency
+and Bankruptcy Code, 2016, overlooking the statutory character of the
+claim as one backed by a first charge created by the operation of law
+vide Sec. 48 of the Gujarat Value Added Tax Act, 2003. The definition
+of ‘secured creditor’ under Section 3(30) of the Code read with Section
+3(31), is of wide amplitude and includes within its fold a charge created
+by operation of law.
+b) The statutory charge so created is neither contingent upon nor
+dependent on any further act of registration or mutation. In Shree
+Radhekrushna Ginning & Pressing Pvt. Ltd. Vs State of Gujarat
+[SCA No. 5413 of 2022] has held that the charge contemplated under
+Sec.48 of the GVAT Act arises immediately upon assessment and does
+not await any further act of enforcement. Hence there is hardly a need
+to register a charge under Sec.77 of the Companies Act.
+c) The fact that in Form C the appellant has denoted NA in the column
+relating to security interest cannot be construed as a waiver of statutory
+right. Indeed, the Form prescribed does not contemplate a security
+interest created by operation of law. At any rate the Form of the Claim
+cannot override the substantive nature of the right.
+d) This apart, by virtue of Sec. 9(2) of the Central Sales Tax Act, 1956, the
+provisions of the State enactment extend to CST dues as well, and
+therefore the statutory charge covers the entirety of the appellant’s
+claim. Reliance was placed on the Division bench judgement of the
+Delhi High Court in IFCI Ltd. Vs Commercial Tax Officer, [2011
+
+[PAGE 7]
+7
+
+SCC OnLine Del 2563], where the Court has held that the CST dues
+partake the same character as State VAT dues by virtue of Section 9(2)
+of the CST Act.
+e) In State Tax Officer Vs Rainbow Papers Pvt. Ltd., [(2023)9 SCC 545]
+which later confirmed in review [See (2024)2 SCC 362], the Hon’ble
+Supreme Court has held that the statutory dues under the GVAT Act
+is required to be treated as a secured debt and the State as a secured
+creditor.
+f) Inasmuch as the appellant is required to be treated as a secured
+creditor, since it has not chosen to enforce its security right, the same
+has to be treated as relinquishment of security interest under
+sec.52(1)(a) read with Proviso to Regulation 21A(1) of the IBBI
+(Liquidation Process) Regulations, 2016, and hence it is entitled to be
+treated at par with other secured creditors under Section 53(1)(b)(ii) of
+the Code.
+g) Finally, the sole financial creditor’s (the Bank of Baroda, the 3rd
+respondent herein) has undertaken vide its undertaking, dated
+21.04.2023, that in the eventuality of appellant’s claim being treated
+as a secured debt the bank will bring back the amount to be payable to
+the appellant as a secured creditor into the liquidation account for
+redistribution in accordance with law, and hence the Adjudicating
+Authority ought not to have proceeded to dissolve the CD without first
+addressing the issue of proper classification of the appellant and its
+entitlement during distribution under Sec.53 of the Code.
+
+[PAGE 8]
+8
+
+5.
+Per contra, the learned counsel appearing for the 1st respondent Liquidator
+argued:
+a) The appellant’s plea for a classification as secured creditor is hit by
+delay and acquiescence. The appellant was aware of its classification,
+participated in the Stakeholders’ Consultation Committee meetings,
+and yet failed to challenge the same within the statutory period
+prescribed under Sec.42. The distribution of Rs. 8,80,00,000/- to the
+3rd respondent bank was made on 24.04.2023, and the present
+objection has been raised only at the stage of dissolution, and it is
+impermissible.
+b) Appellant’s own conduct throughout the CIRP and liquidation
+proceedings is determinative of the issue. In the specific column in
+Claim Form where the appellant is required to provide the details of the
+security interest, it has indicated ‘N.A’. Not stopping there, the
+appellant has even requested the liquidator to create a first charge over
+the assets of the Corporate Debtor to which the liquidator has replied
+that he has no authority to create a charge. This sequence of events
+would go to indicate that at the time when the appellant had preferred
+its claim, it has conceded that no charge has been created. Besides,
+the liquidator also required the appellant to furnish proof of its alleged
+claim as a secured creditor. This communication was never assailed by
+the appellant under Sec. 42 of the IBC, and therefore, the classification
+of the appellant as an operational creditor attained finality.
+c) Under Sec.52 of the Code read with Regulation 21 of the IBBI
+(Liquidation Process) Regulations, 2016, a creditor claiming to be
+
+[PAGE 9]
+9
+
+secured creditor must establish the existence of a security interest
+through legally recognised modes, namely, (i) records in an information
+utility, (ii) registration with the Registrar of Companies, or (iii)
+registration with CERSAI. The appellant has not satisfied any of them.
+Indeed, under Sec. 77(3) of the Companies Act, 2013, when no charge
+created by a company shall be taken into account unless it is duly
+registered. In other words, even if a statutory charge is presumed to
+exist in abstract, the same cannot be recognised in liquidation unless
+it is capable of being proved in the manner contemplated under
+Regulation 21. Reliance was placed on the dictum of the Adjudicating
+Authority in Uttar Gujarat Vij Company Ltd. v. Pradeepkumar
+Kabra (IA 883/2024) and Government of Tamil Nadu Vs Chandra
+Mouli Ramasubramaniam (IA (IBC) 864(CHE)/2023), to contend that
+statutory authorities cannot be treated as secured creditors in the
+absence of legally cognizable proof of security. In Brihanmumbai
+Electric Supply & Transport Undertaking Vs Ashok Kumar
+Golecha, [2025 SCC OnLine NCLAT 808], which has since been
+affirmed by the Hon’ble Supreme Court in Civil Appeal No. 9927 of 2025
+(decided on 08.08.2025), it was held that registration or equivalent
+proof is indispensable for recognition of secured status. In Home Kraft
+Avenues Vs Jayesh Sanghrajka, [2025 SCC OnLine NCLAT 309], this
+tribunal had held that while registration of charge may not be insisted
+upon during CIRP, the same becomes mandatory in liquidation, where
+rights under Section 52 are exercised.
+
+[PAGE 10]
+10
+
+d) In Paschimanchal Vidyut Vitran Nigam Ltd. Vs Raman Ispat Pvt.
+Ltd., [(2023) 10 SCC 60], to submit that the statute itself locates
+government dues in a distinct and lower rung under Section 53(1)(e).
+So far as the ratio in State Tax Officer Vs Rainbow Papers Pvt. Ltd.,
+[(2022) SCC OnLine SC 1162], goes, it was rendered in CIRP setting
+and will not be applicable to the distribution scheme during liquidation
+under Sec.53.
+
+6.
+Supporting the arguments of the liquidator, the 3rd respondent (M/s Bank
+of Baroda) argued:
+a) the Bank’s security interest stands on a fundamentally different
+footing, having been created through a deed of mortgage, and has been
+duly recognized throughout the CIRP and also during the liquidation
+process. In contrast, the appellant has failed to demonstrate the
+existence of any perfected or enforceable charge.
+b) So far as the undertaking of the bank dated 21.04.2023, goes, the same
+was made only in view of the then prevailing uncertainty and would
+operate only upon a change in law. Since no such change of law has
+occurred post Paschimanchal Case, the undertaking cannot be
+invoked to reopen the concluded distribution.
+(Some of the authorities which the bank has relied on were grouped with those
+relied on by the liquidator to avoid repetition of the same idea)
+
+Discussion & Decision
+7.
+The CD was liquidated and indeed, vide the impugned Order has been
+ordered to be dissolved. The grievance of the appellant is that whereas it
+
+[PAGE 11]
+11
+
+should have been treated as a secured creditor in terms of Sec.48 of the
+GVAT Act for the purposes of the waterfall mechanism intended for the
+distribution under Sec.53 IBC, it was treated only as an operational
+creditor.
+
+8.
+So far as the appellant’s claim to be treated as a secured creditor is
+concerned, notwithstanding the fact that it has not disclosed it in the
+Claim Form, it still has been claiming it, pursuing it, and doing it to the
+knowledge of the liquidator and the sole financial creditor through
+communications contemporaneously addressed to the liquidator. It might
+be that the liquidator might not have any authority to create a charge, but
+the fact remains that the appellant was not willing to surrender its right
+to be treated as a secured creditor. Turning to the decision of the liquidator
+to treat the appellant’s claim as operational statutory debt, it is very
+evident that this decision was taken not because the liquidator had the
+materials to hold that the appellant was not eligible to be treated as a
+secured creditor within the meaning of Sec.3(30) read with 3(31) IBC, but
+because he was uncertain about it. In the 6th meeting of the SCC held on
+21.04.2023, he has shred the legal opinion on the status of the appellant.
+It is minuted, “ The liquidator brought to the notice of the stakeholders
+that there is some confusion regarding the distribution process to be
+followed, in Liquidation, due to the recent judgement in the “Rainbow
+Papers Case” by the Hon. Supreme Court. More importantly the treatment
+of the claim of State Tax Office needs to be looked at carefully. The
+Liquidator added that he has classified the claim of the State Tax Office as
+
+[PAGE 12]
+12
+
+a “Secured Operational Creditor – government Dues”. But in the 7th
+meeting of the SCC held on 25.08.2023, the Liquidator changes position
+in view of the Paschimanchal Vidyut Vitran Nigam case that Rainbow
+papers principle will not apply to liquidation. It is in these circumstances
+the failure of the appellant to provide the details of security interest in the
+Claim Form and its mentioning of NA in the column provided therefore
+appears to have come in handy. To strengthen his line of approach, the
+liquidator would allege that the appellant has not proved the security
+interest as contemplated under Regulation 21 of the IBBI (Liquidation
+Process) Regulation, 2016. If the Liquidator is certain that appellant need
+not be treated as a secured operational creditor, then his demand for proof
+of the security interest does not fit in with his decision. Does it not indicate
+that if proof of security interest was made available, then the Liquidator
+would not have an issue to treat the appellant as a secured operational
+creditor? He is apparently caught in certain confusion.
+
+9.
+The oscillating stands of the liquidator in the light of Rainbow Papers and
+the Paschimanchal case now stands clarified by a coordinate bench of
+this tribunal in Cosmos Cooperative Bank Ltd., Vs Kailash T. Shah &
+others [Comp Appeal 774 of 2024, dated 13.11.2025) where it held that
+the Paschimanchal case does not involve any issue of statutory first
+charge but only pure governmental dues.
+
+10.
+Should the appellant be required to prove the statutory first charge
+contemplated in terms of Regulation 21 since distinguished from CIRP,
+proof of security interest is required to be proved under Regulation 21.
+
+[PAGE 13]
+13
+
+11.
+The argument of the liquidator is logically attractive, but it is not without
+its inbuilt fallacies. Creation of a security interest is one thing and its
+proof is another thing. And a charge can be created by contract or by
+operation of law. Whereas a contractual charge is a product of consensus
+ad idem of the contracting parties, a charge by operation of law does not
+require any mutuality of intent. Secondly, during a CIRP where the
+statutory intent is to sell the corporate debtor as a going concern, security
+interest created on its asset is not given prominence for a differential
+treatment except for distribution of the proceeds of the successful
+insolvency resolution process, whereas in liquidation vide Sec.52(1)(b)
+provision is made to grant an option to a secured creditor to realise his
+security interest instead of pooling it. The need for proof of security
+interest as required in Regulation 21 of the Liquidation Process Regulation
+therefore, requires to be contextually understood. More about it in later
+paragraphs.
+
+Whether the entire claim of the appellant is required to be treated as
+secured debt:
+12.
+The Claim of the appellant has two distinct components: the VAT
+component and the CST component. The appellant claims statutory first
+charge for the entirety of its claim. So far as the VAT dues are concerned,
+there can be no doubt that the appellant is a secured creditor, but the
+issue concerning it is not on the legal effect of Sec.48 of the GVAT Act, but
+on how it is required to be proved during the liquidation process.
+
+[PAGE 14]
+14
+
+An associated aspect that may be mentioned here is that while the
+Rainbow Papers case declared the law on the effect of the operation of
+Sec.48 of the GVAT Act,
+
+13.
+The issue therefore would be twofold: (a) whether the CST dues qualify for
+being treated as secured debt? (b) how to prove the security interest
+created by operation of law under Sec.48 of the GVAT Act?
+
+14.
+So far as CST dues are concerned, there is no specific provision in the CST
+Act which creates statutory first charge as in Sec.48 of the GVAT Act. But
+the appellant makes a novel argument that Sec.9(2) of the CST Act enables
+the telescoping of Sec.48 of the GVAT Act into the CST Act to create a first
+charge even as regards the CST dues. The tenability of the same will now
+be considered. Here, the appellant relies on the ratio of the judgement of
+the Division Bench of the Delhi High Court in IFCI Ltd. Vs Commercial
+Tax Officer, [2011 SCC OnLine Del 2563] where the Court, while
+interpreting Sec.9(2) of the CST Act in the context of Rajasthan Sales Tax
+Act, has held that the central sale tax assumes the character of Crown
+debt, and hence it is entitled to priority over other debts in realisation. And
+this decision was made without any reference to any statutory first charge
+akin to the one enabled by Sec.48 of the GVAT Act.
+
+15.
+Turning to the law governing the priority in realisation of governmental
+dues conceptualized on the common law principle of crown debt, in one of
+the earliest post constitutional judgement in Builders Supply
+Corporation Vs Union of India [AIR 1965 SC 1061], the Hon’ble Supreme
+
+[PAGE 15]
+15
+
+Court has recognized the existence of this principle in India. This is also
+recognized by a Constitutional Bench of the Supreme Court in
+Superintendent and Legal Remembrancer, State of West Bengal Vs
+Corporation of Calcutta [AIR 1967 SC 997]. Where however, the Legal
+Remembrancer case differed from the Builders supply case is that while
+the latter case has held that the priority of crown debt is a common law
+rule and is a law in force in India within the meaning of Article 372 of the
+Constitution, the former case has held that crown debt’s preferential
+treatment is not a common law rule but only a construction of the common
+law, and hence it does not qualify to be termed as ‘law in force’ within
+Article 372. A three Judge bench of the Supreme Court in Collector Vs
+Central Bank [AIR 1967 SC 1831] had held that despite apparent
+divergence
+of
+views
+in
+Builders
+Supply case
+and
+the
+Legal
+Remembrancer case, a closer analysis of the second mentioned
+judgement does not indicate a divergence of view from the former. These
+finer aspects however, need not bother us in the context of the present
+case. What is significant in the context is that the governmental dues in
+this country are accorded priority during realization as crown debt. The
+next issue that arose was about the point where such priority should be
+accorded. Should it be given priority over secured debts? In Dena Bank
+Vs Bhikhabhai Prabhudas Parekh & Co and others [(2000)5 SCC 694],
+after considering Builders Supply Corporation case the Supreme Court
+has held:
+“10.... the crown’s preferential right to recovery of debts over other
+creditor is confined to ordinary or unsecured creditor. The
+
+[PAGE 16]
+16
+
+common law of England or the principles of equity and good
+conscience (as applicable to India) do not accord the Crown a
+preferential right for recovery of its debts over a mortgagee or
+pledgee of goods or a secured creditor. It is only in cases where
+the Crown’s right and that of the Subject meet at one and the same
+time that the Crown is in general preferred. Where the right of the
+subject is complete and perfect before that of the King commences,
+the rule does not apply, for there is no point of time at which the
+two right are at conflict, nor can there be a question which of the
+two ought to prevail in a case where one, that of the subject, has
+prevailed already. In Giles Vs Grover, (1832) 131 ER 563, it has
+been held that the Crown has no precedence over a pledgee of
+goods. In Bank of Bihar Vs State of Bihar, (1972) 3 SCC 196, the
+principle has been recognised by this Court holding that the rights
+of the pawnee who has parted with money in favour of the pawnor
+on the security of the goods cannot be extinguished even by lawful
+seizure of goods by making money available to other creditors of
+the pawnor without the claim of the pawnee being first fully
+satisfied. Rashbehary Ghose states in ‘law of Mortgage (Tagore
+Law Lecture, 7th Edition p.386) – “It seems a government debt in
+India is not entitled to precedence over a prior secured debt.”
+
+This view was accepted in Union of India Vs SICOM [(2009) 2 SCC 121].
+See also: Punjab National Bank Vs Union of India [(2022)7 SCC 260]
+and the dictum laid down by the Full Bench of the Madras High Court
+in UTI Bank Vs Deputy Commissioner [ (2007) 1 Mad LJ 1(FB)]. To sum
+up, the effect of treating governmental dues as Crown debt for a
+preferential treatment is available only against unsecured debts, and it
+does not extend to the extent of superseding prior secured debts.
+
+[PAGE 17]
+17
+
+16.
+It could now be derived that while Sec.48 of the GVAT Act has created a
+charge over the assets of the assessee, the CD herein, to enable the
+appellant to be treated as a secured creditor as concerning its claim of
+GVAT dues, but so far as its claim of CST dues is concerned, the appellant
+cannot be treated as a secured creditor.
+
+17.
+So far as fixing the position where the appellant may claim priority over
+other unsecured debt goes, the common law rule of crown debt is
+interfered by Sec.53 of the IBC which has provided where the
+governmental dues must be fitted in, and here the dictum in
+Paschimanchal case shows the way. Where a specific statutory provision
+operates, any rule of common law or its construction should take a back
+seat. To conclude, the argument of the appellant on the inter play of
+Sec.9(2) of the CST Act based on the dictum of the Division bench of the
+Delhi High Court in IFCI case does not take it anywhere, and this
+argument is terribly misconceived.
+
+18.
+To sum up, appellant is entitled to be treated as a secured creditor only
+for the VAT dues recoverable from the CD and not the CST dues.
+
+Proof of statutory Charge under Sec.48 GVAT Act
+
+19.
+The next aspect relates to proof of the security interest created owing to
+the operation of Sec.48 of the GVAT Act in the context of Regulation of 21
+of the IBBI (Liquidation Process) Regulation. According to the liquidator,
+while the appellant claimed security interest in terms of Sec.48 of the
+GVAT Act, it has not produced any proof that it indeed was created. In
+
+[PAGE 18]
+18
+
+particular, the appellant had communicated to the mamlatdar to create
+security interest, but it was not done. Secondly, the appellant required
+the liquidator himself to create security interest, but it was declined by the
+latter for want of authority to do it. In fitness of things, the appellant
+should have registered the charge under Sec.77(3) of the Companies Act
+to prove the security interest created for the purposes of Regulation 21 of
+the Liquidation Process Regulations.
+
+20.
+Regulation 21 reads:
+“21. Proving security interest: The existence of a security
+interest may be proved by a secured creditor upon the non-
+payment of a claim, if any.
+a) The information available in an information utility, if any;
+b) Certificate of registration of charge issued by the
+Registrar of Companies; or
+c) proof of registration of charge with the Central Registry
+of Securitisation Asset Reconstruction and Security
+Interest of India.”
+
+Regulation 21 above being what it is, nowhere it could be seen that a
+security interest could be proved only in the manner provided and no
+other. It could be seen from the choice of expression the IBBI has opted:
+‘may be proved’. And, it does not state how a statutory charge should be
+proved either. Now was it necessary for the appellant to register a charge
+under Sec.77 (3) of the Companies Act? Here, we find the argument of the
+liquidator is misconceived for Sec.77 by its very structure casts a duty to
+register every charge which a company creates on its assets. It applies to
+contractual charge and not statutory charge created by operation of law.
+
+[PAGE 19]
+19
+
+Indeed, in Shree Radhekrushna Ginning and Pressing Pvt., Ltd. Vs
+State of Gujarat [Special Civil Application 5413 of 2022, dated
+29.03.2022], Hon’ble J.B.Pardiwala J (as His Lordship then was) has held:
+“15. A charge ... under Section 48 of the GVAT Act creates no
+interest in or over a specific immovable property, but is only a
+security for the payment of money (See: Dattatreya Shanker
+More Vs Anand Chintaman & Others, (1974)2 SCC 799.
+
+18. The words “by operation of law” are more extensive than
+the words ‘by law’ and a charge created by operation of law
+includes a charge directly created by the provisions of an Act
+(like Sec.48 of the GVAT Act) as well as other charges created
+indirectly as a legal consequence of certain conditions. The
+expression operation of law only means working of the law.
+
+19. A charge, as we have already seen, is a right to receive a
+certain sum of money. If a dealer registered under the GVAT
+Act incurs any inability towards payment of tax, then the state
+has a right to receive a certain sum of money as crystallized in
+the form of liability. This recovery of the money from the
+property can be by attaching the assets of the defaulting dealer,
+thereafter, putting those to auction. This type of recovery would
+be governed by the provisions of Section 46 of the GVAT Act.
+
+20. In the case on hand, it could be said that the day the
+assessment order came to be passed determining the
+liability of the writ applicant under the provisions of the
+GVAT Act, a charge over the immovable assets of the writ
+applicant could be said to have been created in favour of
+the State by operation of law, as envisaged under Section
+48 of the GVAT Act....”
+(emphasis supplied)
+
+[PAGE 20]
+20
+
+21.
+A statutory charge under Sec.48 of the GVAT is thus created the moment
+assessment Order is made. Secondly, nowhere a provision is made either
+in the GVAT Act or in the Rules made thereunder any procedure for
+effecting the charge. In other words, the statutory first charge in terms of
+Sec.48 of the GVAT requires no further action to be made to make the
+charge operational beyond the passing of the assessment order. This
+precisely is what flows from the dictum in Shree Radhakrushna Ginning
+case. The liquidator apparently has not approached the issue in the right
+way and has tried to apply proof required in the context of contractual
+charge to proving the statutory first charge. The proof required for
+establishing the statutory first charge of the kind created by Sec.48 of the
+GVAT Act is the statute itself and no more.
+
+22.
+The next argument in the context of proof of statutory charge is that the
+appellant has indicated NA in the column in the Claim Form where it is
+required to furnish the details of the security interest. Now, if the statutory
+first charge is the legal consequence of an assessment Order, can the
+liquidator plea ignorance of Sec.48 of the GVAT Act and its effect? In other
+words, how far the maxim ignorantia juris non excusat (ignorance of law
+will excuse none) will apply for the liquidator to plea ignorance of any
+statutory charge created by operation of law? In Assistant Commissioner
+of State Tax, Vapi Vs ARCK Resolution Professionals LLP [Comp.
+Appeal 108 of 2025] which we have disposed it of today vide a separate
+judgement, we have dealt with this aspect in detail. Suffice to state that
+this maxim has no application to civil law, and therefore, it will be
+
+[PAGE 21]
+21
+
+mandatory for any governmental agency who claims statutory charge to
+bring it to the notice of liquidator, or a resolution professional for it to
+appreciate. It is hence, detailing the nature of security in interest in the
+claim Form becomes imperative. All that it is required to be stated is that
+statutory charge created under specific provision of the statute which
+creates it.
+
+23.
+In the present case, unquestionably the appellant has mentioned N.A in
+the column where it is required to state the details of the security interest.
+What however, saves the appellant from the impending peril of losing its
+security interest owing to the non-disclosure in the Claim Form is that it
+has addressed a communication contemporaneously with its Claim Form,
+to the liquidator, to create a statutory charge in terms of Sec.48 of the
+GVAT Act. All that the liquidator requires is verifiable information about
+creation of charge, and it does not matter even if it is not disclosed in the
+Claim Form. What is more important is if the liquidator was put on notice
+about the claim of statutory charge and the provision which creates it.
+Once done, it is for the liquidator to verify the same.
+
+24.
+So far as the argument that no charge could be said to have been created
+inasmuch as the appellant has addressed a communication to the
+liquidator to create one goes, law operates on its own strength and not on
+the basis of how an official who administers it understands its operation.
+This will also apply in equal force to the request by the sales tax officials
+to the mamlatdar to register the charge. A mamlatdar is a revenue official
+merely and when the GVAT Act does not enjoin any responsibility on him
+
+[PAGE 22]
+22
+
+vis-à-vis creation of charge under Sec.48, how does it matter if he has not
+recorded the statutory charge so created in the revenue records? After all
+a statutory charge created on a property is not the same as an attachment
+of a property.
+
+On Acquiescence and Waiver
+25.
+To this may also be added rule of estoppel. In our view, none operates to
+affect the entitlement of the appellant to be treated as a secured creditor
+vis-à-vis its VAT claim. The reasons are:
+a) At no time the appellant has waived its right to be treated as a secured
+creditor, but is seen actively pursuing it. It may have made a huge
+demand to include its entire claim, but the fact remains that it has been
+persisting with its demand.
+b) Secondly, in the 6th meeting of the SCC, the liquidator has treated the
+appellant as a secured operational creditor, but in the 7th and the last
+meeting of the SCC he doubted his own earlier view, and has gone
+ahead to file his I.A.1077 of 2023 for dissolution of the CD. Therefore,
+the only time and perhaps the first opportunity the appellant gets to
+challenge the way it is decided to be treated has come only after the 7th
+meeting. It is in these circumstances, the sole financial creditor, the
+3rd respondent herein, has given its undertaking on 21.04.2023. It
+reads: “we understand that as per Regulation 43 of by the IBBI
+Liquidation Process Regulations, 2016, a stakeholder shall forthwith
+return any monies received by him in distribution which he was not
+entitled to at that time of distribution or subsequently become not entitled
+
+[PAGE 23]
+23
+
+to”. To repeat, this undertaking was given when I.A.1077 of 2023 which
+the liquidator has filed for dissolution of the corporate debtor was
+pending consideration of the Adjudicating Authority.
+
+Appellant’s status and dictum in Paschimanchal Vidyut case
+26. That the appellant is a secured operational creditor is regards the VAT
+component of its claim is the legal consequence that flows from Sec.48 of
+the GVAT Act. This is the law declared by the Gujarat High Court in Shree
+Radhekrushna Ginning case [Special Civil Application 5413 of 2022,
+dated 29.03.2022]. And, the Rainbow Papers case ratio recognizes this
+aspect in the context of an insolvency resolution process. The
+Paschimanchal Vidyut Vitran case however, says that the Rainbow
+Papers dictum does not apply to liquidation process, but as clarified by a
+coordinate bench in Cosmos Cooperative Bank Ltd. case [Comp Appeal
+774 of 2024, dated 13.11.2025) by one of us (Mr. Indevar Pandey) that
+Paschimanchal does not involve an issue of statutory first charge, but
+Cosmos is a case involving CIRP and not liquidation. But the present case
+involves an issue seeking to position the status of the appellant with a
+statutory first charge in the context of liquidation.
+
+27. If the Paschimanchal is analysed in its deeper layers, its ratio that the
+Rainbow Papers dictum will not apply to liquidation is founded on the
+right reserved by the Code in favour of a secured creditor to realise its
+security interest under Sec.52(1)(b) which is not available to a creditor in
+the context of a CIRP. However, the distribution mechanism provided for
+
+[PAGE 24]
+24
+
+CIRP and liquidation remains the same as delineated in Sec.53 of the
+Code. How then to harmonise?
+
+28. The cue lies in Regulation 21A of the IBBI (Liquidation Process) Regulation.
+Let the facts that lies beneath the issue be understood and collated in a
+certain sequence:
+a) That the appellant is a statutory first charge holder under Sec.48 of the
+GVAT Act the moment it passes an assessment order, for it is the legal
+consequence which waits for no human intervention for its operation.
+See: Shree Radhekrushna Ginning case. The Rainbow Papers in
+essence reinforces this idea.
+b) This implies that when liquidation of the corporate debtor commenced,
+the appellant is already a secured operational creditor as regards its
+VAT component of its claim.
+c) Now the appellant has a right under Sec.52(1)(b) to retain its right to
+realise its security interest. It did not do. Even as it asserted statutory
+first charge, at no time it had indicated its intention to realise the
+security interest under Sec.52(1)(b). Instead, it has set its eyes on the
+share that it might obtain in the distribution process and not on halting
+the liquidation process.
+d) Here Proviso to Regulation 21A (1) comes into action. It says if a
+secured creditor does not exercise its option under Sec.52(1)(b) within
+a stipulated time, then the such secured creditor is deemed to have
+relinquished its security interest.
+e) In the present case, the appellant is aware that it is a secured
+operational creditor, insisted that it be treated thus, yet it did not
+
+[PAGE 25]
+25
+
+exercise the option available to it under Sec.52(1)(b), then by virtue of
+Proviso to Regulation 21A(1) it is deemed to have relinquished its right
+to realise the security interest. This will bring it within the class of
+secured creditor under Sec.53(1)(b)(ii) of the Code.
+See: Kolkata Municipal Corporation Vs Gajesh Labhchand Jain
+(Liquidator) [(2025)ibclaw.in.813 NCLAT]
+
+29. To sum up, the appellant is entitled and hence required to be treated as a
+secured operational creditor vis-à-vis its VAT dues and as operational
+creditor-government dues for its CST dues. The liquidator is, therefore,
+required to ascertain the amount payable to the appellant if it were to be
+treated as a secured operational creditor for its VAT dues, recall such sum
+from the third respondent as may be necessary to satisfy the appellant
+from the third respondent bank.
+
+30. The appeal is accordingly partly allowed and to the extent intimated in
+paragraph 29 above. As to the rest, we confirm the Order of the
+Adjudicating Authority. No cost.
+
+[Justice N. Seshasayee]
+Member (Judicial)
+
+[Arun Baroka]
+Member (Technical)
+
+[Indevar Pandey]
+Member (Technical)
+
+rs/beena

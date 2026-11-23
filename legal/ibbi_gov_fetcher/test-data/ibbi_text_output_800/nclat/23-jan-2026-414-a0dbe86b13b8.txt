@@ -1,0 +1,1156 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL,
+PRINCIPAL BENCH, NEW DELHI
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+[Arising out of Order dated 17.11.2025 passed by the Adjudicating Authority
+(National
+Company
+Law
+Tribunal),
+Mumbai-
+Bench-VI
+in
+CP
+(IB)
+No.154/MB/2025]
+
+In the matter of:
+Brig. Vikram Singh,
+Suspended Director of Karanja Terminal & Logistics
+Pvt. Ltd.
+...Appellant
+Vs.
+Karanja Terminal & Logistics Pvt. Ltd.,
+Through Vijay P. Lulla, IRP & Ors.
+...Respondents
+
+For Appellant:
+Mr. Arun Kathpalia, Mr. Abhijeet Sinha and Mr. P.
+Nagesh, Sr. Advocates with Mr. Saurabh Kalia, Mr.
+Sameer Chaudhary, Mr. S. Sishir, Mr. Rishabh
+Dhanuka,
+Mr.
+Aman
+Kacheria,
+Ms.
+Anisha
+Didwania, Ms. Mahima and Mr. Zaki Ansari,
+Advocates.
+For Respondents:
+Mr. Anuj Tiwari, Ms. Shalini Basu, Mr. Vaibhav
+Vats and Mr. Sameer Mishra, Advocates for
+R1/RP.
+Mr. Tushar Mehta, SG, Mr. Anoop Rawat, Ms.
+Arushi Chandra, Ms. Snigdha Saraff and Ms.
+Diksha Sharma, Advocates for Canara Bank.
+Mr. Darius Khambata, Mr. S. Niranjan Reddy and
+Mr. Krishnendu Datta, Sr. Advocates with Ms.
+Ananya Kaul, Mr. Aman S. and Mr. Tushar Hathi
+Ramani, Advocates for R3.
+
+J U D G M E N T
+(23rd January, 2026)
+Ashok Bhushan, J.
+
+This Appeal by a Suspended Director of the Corporate Debtor has been
+filed challenging the order dated 17.11.2025 passed by the Adjudicating
+
+[PAGE 2]
+2
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+Authority (National Company Law Tribunal) Mumbai Bench- VI admitting a
+Section 7 application being CP (IB) No.154/MB/2025 filed by the Canara
+Bank and rejecting IA No.4439 of 2025, IA No.5205 of 2025 and IA No.5206
+of 2025 filed by the Appellant. Aggrieved by the aforesaid orders, these
+Appeals have been filed.
+2.
+Brief facts of the case giving rise to these Appeals are:-
+2.1. The Corporate Debtor- Karanja Terminal & Logistics Private Limited
+was sanctioned loan of Rs.150 Crores by Canara Bank on 03.12.2023. Three
+other Banks also sanctioned loan to the Corporate Debtor. A Common Loan
+Agreement was entered into on 28.02.2014 with the Corporate Debtor and
+lenders. Canara Bank being the lead bank. On request received from time to
+time disbursements were made by lenders including the Canara Bank. Total
+disbursement by all the lenders was about Rs.386.48 Crores. Other lenders
+who sanctioned the loan were the Syndicate Bank, Punjab & Sind Bank and
+Vijaya Bank. As per the Circular of the Reserve Bank of India dated
+06.08.2020, One Time Settlement (OTS) restructuring was entered between
+the Corporate Debtor and the lender bank. OTR has been sanctioned on
+11.06.2021. Under the OTR default was committed by the Corporate Debtor
+in making payment of principal and interest. The Canara Bank vide recall
+notice dated 05.08.2024 recalled the sanctioned facility. Canara Bank
+submitted details of default by the Corporate Debtor before the information
+utility NeSL who also authenticated the default on 06.07.2024. On
+29.09.2024, the Canara Bank filed Section 7 application claiming amount in
+default of Rs.330,40,24,498.23/- as on 31.08.2024. During the pendency of
+
+[PAGE 3]
+3
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+the proceeding under Section 7, Corporate Debtor addressed OTS offer dated
+24.03.2025 of Rs.430 Crores payable over six months which was not accepted
+by the Canara Bank. On 23.05.2025, the Corporate Debtor made a proposal
+to all the three lenders bank of Rs.430 Crores with upfront deposit of Rs.25
+Crores. Settlement proposal was contingent upon written acceptance and
+approval by Canara Bank and other two consortium lenders, Punjab & Sind
+Bank and Bank of Baroda within 45 days. Canara Bank issued a letter dated
+13.06.2025 accepting Corporate Debtor’s offer of Rs.430 Crores. The Canara
+Bank sent a letter dated 03.07.2025 to the Corporate Debtor intimating that
+an offer of Rs.465.50 Crores has been received by another bidder.
+Consequently, the Corporate Debtor was called upon to exercise its first right
+of refusal and further either to match the said offer and improve the offer
+given by new bidder. The Corporate Debtor exercised its right of refusal and
+improved its bid by offering Rs.472.10 Crore which was communicated by
+letter dated 05.07.2025 in accordance with the Terms and Conditions
+stipulated in OTS approval letter dated 13.06.2025. On 07.07.2025, the
+Corporate Debtor was declared as successful bidder for an offer of Rs.472.10
+Crores. On 29.07.2025, Punjab & Sind Bank also issued an acceptance letter
+sanctioning the OTS proposal of the Corporate Debtor on similar lines as per
+the letter of the Canara Bank dated 13.06.2025. Corporate Debtor deposited
+Rs.18 Crore in no lien account totalling to Rs.43 Crores. On 25.08.2025,
+Mercantile Ports & Logistics Limited, the parent company of the Corporate
+Debtor wrote a letter to the MD of the Canara Bank, Punjab & Sind Bank and
+Bank of Baroda regarding One Time Settlement loan account of Corporate
+Debtor and informing that although Corporate Debtor has been declared a
+
+[PAGE 4]
+4
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+successful bidder for Rs.472.10 Crores but sanction/approval from the Bank
+of Baroda remains pending. All consortium lenders were requested to expedite
+and conclude the OTS sanctioning process. In reply to the letter dated
+25.08.2025, the Canara Bank wrote to Mercantile Ports & Logistics Limited
+with a copy to the Corporate Debtor that no approvals have been received
+from the Bank of Baroda and in absence of unanimous consent, OTS proposal
+has not become effective or binding. It was stated in the letter that as approval
+from all lenders have not been received, lenders have decided to annul the
+OTS proposal process and withdraw all previous communications. On
+03.09.2025, Punjab & Sind Bank also sent a communication to the Corporate
+Debtor cancelling the OTS process withdrawing all previous communications.
+It is relevant to notice that on 16.08.2025, the lenders have received a
+proposal of Rs.520 Crores from Prudent ARC Limited. The Corporate Debtor
+filed a Writ Petition No.13847 of 2025 before the Delhi High Court assailing
+the letter dated 02.09.2025 issued by the Canara Bank and letter dated
+03.09.2025 issued by Punjab & Sind Bank. After cancelling the OTS process,
+the lenders initiated proceedings for transfer of their debt under the directions
+of the Reserve Bank of India in which Prudent ARC with respect to which bid
+process document dated 03.09.2025 was issued. In the Writ Petition filed
+before the Delhi High Court by the Corporate Debtor, Delhi High Court passed
+an order on 22.09.2025 that e-auction (Swiss Challenge Method) scheduled
+to be held on 23.09.2025 may go on, however, Respondents are restrained
+from declaring the outcome of the e-auction or action upon it till
+pronouncement of the order. On 06.10.2025, Delhi High Court pronounced
+its order on the application filed by the Corporate Debtor praying for stay of
+
+[PAGE 5]
+5
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+the proceeding. Delhi High Court by order dated 06.10.2025 dismissed the
+interim application filed by the Corporate Debtor praying for interim relief.
+High Court held that the petitioner had not been able to make out prima facie
+case for grant of interim reliefs. Accordingly, the application was dismissed.
+2.2. Challenging the order dated 06.10.2025, Letters Patent Appeal No.627
+of 2025 was filed by the Corporate Debtor before the Division Bench. Learned
+Counsel appearing for the Corporate Debtor on instructions made statement
+before the Division Bench of the Delhi High Court that Petitioner is ready to
+match higher offer which may be received in the second process. High Court
+directed Learned Counsel appearing for the consortium of lenders to obtain
+instructions as to whether such offer is acceptable to these Respondents. A
+meeting of the joinder lender forum was held on 16.10.2025 where the offer
+made by the Corporate Debtor before the Delhi High Court was noticed and
+joint lenders forum resolved to give opportunity to the Corporate Debtor to
+pay the entire amount within 45 days and 50% within seven days. Corporate
+Debtor however, did not accepted the offer made by lenders bank to make the
+payment within 45 days.
+2.3. Section 7 application which was pending consideration before the
+Adjudicating Authority was heard on 16.09.2025. After hearing the Learned
+Counsel for the Canara Bank and Counsel for the Corporate Debtor, the
+Adjudicating Authority reserved its order on Section 7 application on
+16.09.2025. The Corporate Debtor on 17.09.2025 filed an IA No.4439 of 2025
+under Section 65 of the IBC for dismissing Section 7 as having been
+maliciously and fraudulently initiated. On 24.09.2025, IA No.4439 of 2025
+
+[PAGE 6]
+6
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+was heard and reserved. On 27.10.2025, the lenders assigned their debt to
+Prudent ARC. Prudent ARC on 27.10.2025 sent a communication to the
+Corporate Debtor about assignment of debt. On 04.11.2025, Corporate
+Debtor wrote to the Prudent ARC about its offer of redemption and repayment
+of entire outstanding debt owed to the consortium of bank or their assignee
+by 31.03.2026. On 06.11.2025, Prudent ARC rejected the offer proposed by
+the Corporate Debtor. Corporate Debtor filed an IA No.5205 of 2025 on
+06.11.2025 praying for staying the pronouncement of the main petition CP
+(IB) No.154 of 2025 and another IA 5205 of 2025 was filed seeking direction
+for redemption of the assigned debt. Both the IA Nos.5205 and 5206 of 2025
+were heard on 11.11.2025 and reserved.
+2.4. By impugned order passed by the Adjudicating Authority on
+17.11.2025, Section 7 petition CP (IB) No.154 of 2025 has been admitted and
+IRP has been appointed. By separate order passed on the same day, IA
+No.4439 of 2025 has been rejected and by another separate order, both the
+IA Nos. 5205 and 5206 of 2025 have been rejected. Aggrieved by the above
+orders, these Appeals have been filed.
+3.
+We have heard Shri Arun Kathpalia, Shri Abhijeet Sinha, Shri P.
+Nagesh, Learned Senior Counsel for the Appellant, Shri Darius Khambata,
+Shri S. Niranhan Reddy and Shri Krishnendu Datta, learned Senior Counsel
+for the Respondent No.3- Prudent ARC, Shri Tushar Mehta, Learned Solicitor
+General has appeared for the Canara Bank and Shri Anuj Tiwari, Learned
+Counsel for the Resolution Professional.
+
+[PAGE 7]
+7
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+4.
+Learned Counsel for the Appellant challenging the impugned order
+submits that Section 7 proceedings cannot be used as a recovery tool. It is
+submitted that when Corporate Debtor has shown its willingness to liquidate
+its debt both to the lenders as well as to the assignee unwillingness of the
+lenders and assignee to accept the entire amount is indicative of not
+resolution of the Corporate Debtor but hostile takeover of the assets of the
+Corporate Debtor. It is submitted that when OTS proposal submitted by
+Corporate Debtor of Rs.430 Crore was put to Swiss Challenge Method by
+Canara Bank and Corporate Debtor was asked to match the bid of Rs.465.50
+Crores received in the challenge process or enhance the bid and Appellant
+having given a bid of Rs.472.10 Crores which was accepted by Canara Bank
+by issuance of acceptance letter dated 13.06.2025. Canara Bank and Punjab
+& Sind Bank who also accepted the proposal constitute more than 81% of
+lenders. Both having accepted the OTS proposal, OTS proposal cannot be
+annulled on the ground that the Bank of Baroda third lender has not given
+its consent. Under the IBC, lenders can take proceeding for resolution of the
+corporate debtor which proceeding cannot be used for any kind of profit
+making. On 02.09.2025, the Canara Bank informed about not approval of the
+OTS and on the next date, they have issued bid document for assignment
+which itself indicate that the lenders were predetermined not to accept any
+reasonable and genuine offer from the Corporate Debtor to enable the
+Corporate Debtor to liquidate its debt and revive itself. Corporate Debtor after
+coming to know that a lenders are assigning the debt to the Prudent ARC for
+amount of Rs.520 Crores, they have also offered to make the entire payment.
+The condition put by lenders to deposit 50% amount within seven days was
+
+[PAGE 8]
+8
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+impossible and impracticable since the amount was to be arranged by the
+Corporate Debtor from its parent company Mercantile Ports & Logistics
+Limited, a UK based company which amount within seven days could not
+have been arranged due to regulatory requirements. The Corporate Debtor
+has also separately written to the Prudent ARC on 04.11.2025 to liquidate the
+entire debt by 31.03.2026 which was also not given any consideration.
+Concluded OTS after Swiss Challenge in which lenders obtained the highest
+bid of Rs.465.50 Crores could not have been annulled when the Corporate
+Debtor had given a higher offer of Rs.472.10 Crores. Annulment of OTS
+proposal was illegally done by the Canara Bank. The second Swiss Challenge
+Method in which Prudent ARC was declared successful was a premeditated
+and engineered exercise driven by recovery greed and was hastily triggered.
+Thus, the Corporate Debtor has filed an application under Section 65 bringing
+into notice of the court malicious intent of the lenders which was writ large
+from illegal annulment of OTS process and assigning the debt of Prudent ARC
+and initiating process for assignment on very next date after annulling the
+OTS. In Section 65 application not only the intention on the date of filing of
+Section 7 application but relevant facts during the pendency of Section 7
+application are relevant to come to conclusion of Section 65 proceeding.
+Subsequent events were required to be considered by the Adjudicating
+Authority whereas IA No. 5205 of 2025 and IA No. 5206 of 2025 were filed.
+Prudent ARC to whom the debt was assigned on 27.10.2025 ought to have
+been brought on the record by the Canara Bank. Canara Bank having
+assigned the debt could not have perused the proceeding under Section 7 any
+further. The submission advanced by Counsel for Respondent No.3 that the
+
+[PAGE 9]
+9
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+Corporate Debtor should take resort Section 12A is only a frivolous and hallow
+submission. The refund of Rs.43 Crores on which much emphasis was given
+by Learned Counsel for Respondent No.3 was unilaterally offered by the
+Canara Bank vide e-mail dated 05.09.2025 and it was not sought or requested
+by the Corporate Debtor at any point of time.
+5.
+Learned Counsel appearing for the Respondent No.3 refuting the
+submission of the Counsel for the Appellant submits that the present is a case
+where Corporate Debtor committed default leading to filing of Section 7
+application by Canara Bank. It was during pendency of Section 7 application
+that OTS proposal for Rs.430 Crores was given by the Corporate Debtor for
+all the lenders which was accepted by the Canara Bank subject to approval
+by Bank of Baroda and Punjab & Sind Bank. OTS offer given by the Appellant
+was only offer which never turned into any completed contract. The OTS offer
+was not accepted by the Bank of Baroda, hence, OTS process was annulled
+which was communicated to the Corporate Debtor on 02.09.2025. No
+concluded contract having entered Corporate Debtor has no right to insist
+that OTS proposal should be accepted. Adjudicating Authority having found
+debt and default which is not even questioned, no error can be found in
+admitting Section 7 application by the Adjudicating Authority. The
+assignment of debt to Prudent ARC was made by the lenders following RBI
+Master Directions (Transfer of Loan Exposure) Directions 2021 which could
+have been assigned only to asset restructuring company. The Corporate
+Debtor had filed Writ Petition in Delhi High Court challenging the annulment
+of OTS process in which Writ Petition all contentions regarding OTS was
+
+[PAGE 10]
+10
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+raised and Delhi High Court vide its order dated 06.10.2025 rejected the
+application for interim relief. Letters Patent Appeal was filed by the Corporate
+Debtor where again Counsel for the Corporate Debtor offered to deposit the
+entire amount. In JLM meeting held on 16.10.2025, lenders finalised the
+terms and conditions for accepting the offer from Corporate Debtor and
+Corporate Debtor was to pay the entire amount within 45 days and 50%
+within 7 days which offer was never accepted by the Corporate Debtor.
+Corporate Debtor thus, from time and again made various OTS offer which
+were never culminated into any binding decision. The submission of the
+Corporate Debtor that Section 7 petition was malicious and fraudulently
+initiated is without any substance. There being debt and default committed
+by the Corporate Debtor, initiation of proceeding under Section 7 in
+September 2024 was neither malicious nor malafide. In IA No.4439 of 2025
+filed by the Corporate Debtor, allegations regarding OTS process was raised
+alleging it to be reason to hold initiation as malicious and fraudulent.
+Adjudicating Authority has rightly rejected IA No.4439 of 2025. When the
+matter was heard and judgment reserved on 16.09.2025, Corporate Debtor
+had made all submissions. After judgment having been reserved Corporate
+Debtor has no authority to file application praying for any further reliefs. The
+request made by the Corporate Debtor to the assignee for liquidating its debt
+has not been accepted. In event, the Corporate Debtor enters into any
+settlement with Prudent ARC, it is open for the Corporate Debtor and the
+Financial Creditor to take appropriate steps under Section 12A of the IBC.
+Adjudicating Authority has given adequate reason for passing the impugned
+order which does not warrant any interference.
+
+[PAGE 11]
+11
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+6.
+Shri Tushar Mehta, Learned Solicitor General appearing for the Canara
+Bank has adopted the submissions made by the Counsel for the Respondent
+No.3. It is submitted by the Counsel that assignment of debt by Canara Bank
+to Prudent ARC was not malafide and it was done in accordance with the RBI
+Master Directions. All grounds with respect to OTS annulment has been
+canvassed by the Corporate Debtor before the Delhi High Court where
+application for interim relief was rejected on 06.10.2025. The annulment of
+the OTS process by Canara Bank is in accordance with terms and conditions
+as communicated by letter dated 13.06.2025 by the Canara Bank. Corporate
+Debtor has no vested right to claim OTS. Adjudicating Authority had only to
+examine debt and default and in view of the law laid down by the Hon’ble
+Supreme Court on debt and default having been established, Section 7
+application has rightly been admitted.
+7.
+Counsel for the Resolution Professional submits that the CoC has
+already been constituted on 04.12.2025.
+8.
+We have considered the submissions of the Counsel for the parties and
+perused the record.
+9.
+We proceed to examine the contentions under following heads:-
+(I)
+Debt and Default
+9.1. The NPA was declared on 11.06.2021 as per One Time Restructuring
+Agreement. The consortium issue recall notices demanding payment of
+outstanding dues. Canara Bank issued notice dated 05.03.2024 and notice
+under Section 13(2) on 25.09.2024. Canara Bank had filed application under
+
+[PAGE 12]
+12
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+Section 7 on 29.09.2024. Corporate Debtor gave an OTS proposal of Rs.275
+Crore on 27.11.2024 again it was enhanced to Rs.310 Crores vide letter dated
+29.01.2025 which were not accepted since the amount was towards lower side
+compared to the Corporate Debtor exposure, another OTS proposal of Rs.430
+Crore on 24.03.2025 was submitted to be payable within six months which
+proposal was again reiterated by letter dated 23.05.2025. in the reply to
+Section 7 application in paragraph 8.7, disbursal of amount of Rs.386.48
+Crore was admitted by the Corporate Debtor. Recall notice issued by the
+Canara Bank and OTS proposal submitted from time to time clearly proves
+that debt and default is not even denied by the Corporate Debtor at any point
+of time. Adjudicating Authority after considering all aspects of the matter and
+materials on the record returned its finding in paragraph 44 that debt and
+default is beyond Rs.1 Crore. In Paragraph 44 of the order, following has been
+observed:-
+“44. In view of the foregoing findings, analysis and
+discussions, we conclude that the Corporate Debtor has
+committed a default in repaying the financial debt to the
+Financial Creditor for a sum well beyond rupees one crores.
+Thus, the present petition satisfies the minimum threshold
+of default of INR 1 crore prescribed u/s 4 of the Code for
+initiating the CIRP of the Corporate Debtor. It is trite to say
+that the Adjudicating Authority need not ascertain the exact
+amount of default committed by the Corporate Debtor for the
+purpose of admitting the application u/s 7 of the Code, as
+the same is the duty of the IRP/RP while verifying and
+collating the claim of the Applicant during the course of the
+CIRP of the Corporate Debtor. We are further satisfied that
+the application filed under Section 7 of the Code is complete
+
+[PAGE 13]
+13
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+in all respects and based on the undertaking of the IRP, we
+believe that there are no disciplinary proceedings pending
+against the proposed Interim Resolution Professional.
+Hence, in light of the law laid down by the Hon'ble Supreme
+Court in Innoventive Industries Ltd. v. ICICI Bank (supra),
+the present application is bound to be admitted under
+Section 7(5)(a) of the Code. Accordingly, we pass the
+following orders:...........”
+
+9.2. We, thus, conclude that debt and default is fully proved by the Financial
+Creditor and in fact, the debt and default was never denied by the Corporate
+Debtor.
+(II)
+OTS proposal dated 23.05.2025 and steps taken thereunder:-
+9.3. The Corporate Debtor during pendency of the Company Petition on
+23.05.2025 sent a letter addressed to the Assistant General Manager, Canara
+Bank. Paragraph 1 of the proposal stated:-
+“1. We, Karanja Terminal & Logistics Private Limited ("KTPL"
+or "Company"), having our registered office at Office No. 705 &
+706, 7th Floor, Shelton Cubix, Plot No. 87, Sector 15, Belapur
+CBD, Navi Mumbai 400614, hereby submit this proposal for a
+comprehensive One Time Settlement ("OTS") of all outstanding
+dues and obligations.
+This proposal is made:
+ On a without prejudice and subject to contract basis
+ In good faith to achieve an amicable resolution
+ Subject to approval by all consortium lenders
+ Without admission of liability or default by KTPL”
+
+[PAGE 14]
+14
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+9.4. The above proposal was contingent upon written acceptance and
+approval by the Canara Bank and all consortium lenders within 45 of receipt
+of this proposal as Anchor Bid. In paragraph 3 of the proposal following was
+stated:-
+“3. This settlement proposal is contingent upon:
+a) Written acceptance and approval by Canara Bank and
+all consortium lenders within 45 days of receipt of this
+proposal as Anchor Bid.
+b) Execution of a comprehensive settlement agreement
+incorporating:
+ Full and final discharge of all claims, demands, and
+obligations
+ Mutual release provisions
+ Confidentiality undertakings
+ No-objection to business operations post-settlement
+d) Removal of all security interests, charges, and
+encumbrances upon payment completion”
+9.5. With respect to said proposal, letter dated 13.06.2025 was issued by
+the Canara Bank informing that Competent Authority has accepted OTS offer
+of Rs.430 Crores to the consortium subject to similar permission from all
+other member banks. It is useful to notice entire letter dated 13.06.2025
+which is as follows:-
+“संदर्भ / Ref: CB/15550/KTLPL/OTS-SAN/84/2025-26
+ददन ंक / Date: 13.06.2025
+सेव में / To,
+M/s Karanja Terminal & Logistics Pvt. Ltd.
+
+[PAGE 15]
+15
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+Office No.705 & 706, 7th Floor, Shelton Cubix,
+Plot No. 87, Sector-15, Belapur CBD,
+Navi Mumbai, Maharashtra 400614 "Without Prejudice"
+
+दिय महोदय / महोदय / Dear Sir/Madam,
+दवषय /Sub: One Time Settlement (OTS) For Loan Account Of
+M/s. Karanja Terminal & Logistics Pvt. Ltd.
+संदर्भ /Ref: Your OTS proposal letter Dtd 23rd May 2025 for
+Rs. 430.00 Crores for consortium.
+We are pleased to inform you that Competent Authority has
+accepted OTS offer of Rs. 430.00 Crore to the consortium (our
+share Rs 263.50 crore) for full and final settlement of dues
+payable within 90 days subject to similar permission from all
+other member banks:
+OTS amount of Rs 430.00 Crore to be paid as under:
+(Rs. in crore)
+Period
+Consortium
+Our share
+(61.28%)
+Remarks
+Upfront
+25.00
+15.32
+Already
+deposited
+and kept in No Lien
+account
+Next
+Installment
+18.00
+11.03
+To
+be
+deposited
+immediately
+on
+convey of sanction
+Remaining
+Amount
+387.00
+237.15
+Within 90 days from
+the
+outcome
+of
+Swiss
+challenge
+process. Last date
+for payment of OTS
+amount shall be on
+or
+before
+29.09.2025.
+Total
+430.00
+263.50
+
+CONDITION:
+
+[PAGE 16]
+16
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+Application filed with NCLT shall be withdrawn only upon
+payment of entire OTS amount.
+➤ Borrower to give PDC for the balance amount coinciding with
+the due date of payment of OTS amount, appropriate action
+(under Section 138 of NI Act) will be taken in case of Cheque
+returns unpaid.
+➤ To file consent decree and the decree shall be for the entire
+sult claim along with cost, interest and reliefs as prayed for, with
+a provision that if the borrower repays the debt in terms of
+compromise as agreed, the decree would stand satisfied,
+otherwise the decree for the total suit claim will be enforceable.
+➤ Upon recovery of entire OTS amount Bank will release the
+documents/ title deeds of securities charged to Bank duly
+ensuring
+that
+the
+borrower
+is
+not
+having
+any
+direct/indirect/contingent liabilities with the Bank and treat the
+account as closed.
+➤ Borrower to withdraw Appeal/ case/ Claim filed against the
+Bank, if any, before any court, etc.
+➤ The concession extended as above stands automatically
+withdrawn in case the borrower fails to remit the compromise
+amount within the stipulated time and the Bank reserves the
+right to proceed legally for recovery of entire dues In case the
+borrower does not comply with the above.
+➤ The proposal is subject to Swiss Challenge. However,
+Company will be provided with the Right of First Refusal to
+match the bid of H1 bidder.
+OTHER TERMS & CONDITIONS:
+
+[PAGE 17]
+17
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+1. Bank reserves the right for withdrawal of the OTS sanctioned
+at any point of time even during the period permitted for payment
+of OTS without assigning any reasons for withdrawal of OTS.
+2. In the event of Bank finding Firm's misrepresentation of facts,
+bank reserves the right to withdraw the OTS permitted and
+proceed legally for recovery of entire dues.
+3. The OTS settlement will not have any bearing whatsoever on
+the ongoing criminal case/proceedings initiated by CBI / Police
+authorities, if any. The OTS shall be without prejudice to the
+rights of CBI/Police to prosecute till conclusion of the pending
+criminal proceedings.
+4. Upon payment of entire OTS amount as per terms of sanction,
+the account will be appear in the records of CIC'S for minimum
+period of seven years with remarks SETTLED as per CIC
+(Regulation) Act-2005.
+5. In the event of non-compliance with any of the terms of the
+sanction by the Firm, including payment of the OTS amount as
+per the stipulated schedule, the OTS sanction stands
+automatically withdrawn without assigning any reasons for the
+same and the Bank reserves the right to proceed as it deems fit
+including proceeding legally for recovery of the entire dues.
+
+र्वदीय / Yours faithfully,
+Rakesh Chandra Shandilya
+सह यक मह िबंधक / ASST. GENERAL MANAGER
+Accepted
+(M/s Karanja Terminal & Logistics Pvt. Ltd.)”
+
+[PAGE 18]
+18
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+9.6. On 03.07.2025, the Bank informed the Corporate Debtor that e-auction
+has been held on 03.07.2025. H-1 Bidder has offered Rs.465.50 Crores.
+Corporate Debtor was asked to match or improve the bide. The Corporate
+Debtor gave a bid of Rs.472.10 Crores in terms of OTS approval letter dated
+13.06.2025. On 07.07.2025, letter was sent by the Canara Bank to the
+Corporate Debtor wherein in paragraph 7, following was stated:-
+“7. Please note that this letter is not an agreement or an
+undertaking, and the Lenders does not undertake any
+liability arising in this regard. Your offer is subject to final
+approval from all the consortium lenders. Further, by
+countersigning this Letter, you acknowledge and agree
+that this letter does not create any binding obligations on
+Lenders or its representatives.”
+9.7. The Punjab and Sind Bank has also sent communication dated
+29.07.2025 in line of letter issued by Canara Bank which also contained
+following condition “the above OTS permission is subject to similar permission
+from all the lenders in consortium”. On 02.09.2025, Canara Bank has
+informed the parent company of the Corporate Debtor with copy to the
+Corporate Debtor that no approval having been received from Bank of Baroda,
+it has been decided to annul the OTS process. On 03.09.2025, Punjab & Sind
+Bank has also sent the similar communication. The Writ Petition was filed by
+the Corporate Debtor in the Delhi High Court challenging the communication
+dated 02.09.2025 and 03.09.2025 wherein on 22.09.2025, after hearing the
+matter, following order was passed by the Delhi High Court:-
+“1. The present matter is listed for clarification.
+
+[PAGE 19]
+19
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+2. I have further heard Mr. Sandeep Sethi and Mr. Sudhir
+Nandrajog,
+learned Senior Counsels appearing on behalf of the
+petitioner, as well as, Mr. Tushar Mehta, learned Solicitor
+General and Mr. Nalin Kohli, learned Senior Counsel
+appearing on behalf of respondent nos. 3 to 5.
+3. List the matter for pronouncement of order on 06.10.2025.
+4. In the meanwhile, let E-auction (Swiss Challenge
+Method), scheduled to be held on 23.09.2025, go on.
+However, respondents are restrained from declaring the
+outcome
+of
+E-auction,
+or
+acting
+upon
+it,
+till
+the
+pronouncement of order.
+5. Needless to say that the direction given hereinabove will
+not create any special equities in favour of the parties.”
+9.8. The Delhi High Court on 06.10.2025 delivered its order on the interim
+application filed by the Corporate Debtor. Delhi High Court after considering
+the materials on the record made observations that concluded and binding
+contract has not come into existence. In paragraphs 79 to 83, following was
+observed:
+“79. Thus, the next question, and the more important one,
+that needs to be addressed is that whether a concluded and
+binding contract had come into existence by mere approval of
+petitioner's bid by respondent no.3/Canara Bank and
+respondent no.4/Punjab & Sind Bank and that whether the
+condition of requirement of approval of all the lenders
+inserted in the approval letters issued by the said banks is a
+post-bid condition, which was not stated in the BPD,
+rendering it ultra vires the BPD.
+
+[PAGE 20]
+20
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+80. In this regard, it is to be noted that respondent
+no.3/Canara Bank's letter dated 13.06.2025, in terms of
+which the petitioner exercised ROFR, contains a condition
+that "bank reserves the right for withdrawal of the OTS
+sanctioned at any point of time even during the period
+permitted for payment of OTS without assigning any reasons
+for withdrawal of OTS".
+81. Further, the Clause 5.15° of BPD clearly brings out that
+the bid of the Anchor Bidder/H-1 bidder shall be subject to
+approval by competent authorities of the lenders. Lenders
+have been defined in the BPD to mean the Canara Bank,
+Punjab & Sind Bank and Bank of Baroda. Clearly, there is a
+stipulation in the BPD itself that the bid of Anchor Bidder i.e.
+the petitioner in the present case, shall be subject to approval
+of
+all
+the
+three
+lender-Banks
+including
+respondent
+no.5/Bank of Baroda, for a binding and concluded contract
+to come into existence.
+82. It is the terms of Clause 5.15, which have been
+incorporated by the respondent no.4/Canara Bank and
+respondent no.5/Punjab & Sind Bank in their respective
+letters dated 07.07 2025 and 29.07 2025 Therefore this
+Court does not find any substance in the submission made
+on behalf of the petitioner that the rules of the game have
+been changed after the game had started. That apart, the
+petitioner unconditionally accepted the terms of the letter
+dated 07.07.2025 by making an endorsement on the said
+letter.
+83. In this factual backdrop, this Court prima facie finds that
+no binding and concluded contract had come into existence
+without approval of the respondent no.5/Bank of Baroda,
+and that the respondent no.3/Canara Bank, as well as,
+respondent no.4/Punjab & Sind Bank, were well within their
+
+[PAGE 21]
+21
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+right to annul and cancel the OTS proposal made by the
+petitioner.”
+9.9. Delhi High Court rejected the application for interim relief. It is to be
+noted that prior to the aforesaid order by the Delhi High Court on 06.10.2025,
+Adjudicating Authority has heard the application under Section 7 on
+16.09.2025. Before the Adjudicating Authority, submissions on the basis of
+OTS proposal dated 23.05.2025 was also pressed. Adjudicating Authority also
+took the view that OTS having not been unanimously approved by the
+members of the consortium, it is not binding on the consortium. In paragraph
+42 of the order, following has been observed:-
+“42. We also observed that during the course of hearing,
+the Ld. Counsel for the Respondent has not denied the
+existence of the aforesaid letters. Since the OTS proposal
+given by the Respondent is not unanimously approved by
+the members of the Consortium, it is not binding on the
+consortium. Moreover, another member of the Lenders'
+Consortium viz. Punjab & Sind Bank has filed an
+application u/s 7 of the Code against the Corporate
+Debtor vide CP(IB) No. 552/MB/2025. Therefore, in view
+of the above findings, it is crystal clear that the OTS
+proposal given by the Respondent to the Lenders'
+Consortium in the year 2025 has failed. Accordingly, we
+cannot entertain any grievance of the Respondent qua the
+OTS Proposal.”
+9.10. After the dismissal of interim relief by the Delhi High Court,
+assignment dated 27.10.2025 was made in favour of the Prudent ARC which
+assignment was communicated by Prudent ARC to the Corporate Debtor.
+
+[PAGE 22]
+22
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+9.11. OTS proposal which was initiated by the Corporate Debtor on
+23.05.2025 continued to remain only a proposal it having not been approved
+by all the three consortium members of the bank ultimately the process of
+OTS was annulled on 02.09.2025 and 03.09.2025. Thus, on the said OTS
+proposal, no right can be claimed by the Appellant. It is well settled that a
+borrower has no right to insist that any OTS proposal require to be accepted
+by the lenders.
+9.12. It is further noticed that the interim order of Delhi High Court passed
+on 22.09.2025 that e-auction scheduled on 23.09.2025 may go on, however,
+Respondents were restrained from declaring the outcome of e-auction. The
+said interim order came to end on 06.10.2025 when Delhi High Court
+dismissed the application thereby the assignment was made.
+(III) Proposal of Corporate Debtor to the lenders and assignee to
+liquidate the debt:-
+9.13. After the dismissal of the interim application by Delhi High Court of
+the Corporate Debtor, Letters Patent Appeal No.627 of 2025 was filed by the
+Corporate Debtor before the Division Bench where before the Division Bench,
+Counsel for the Corporate Debtor submitted that the Corporate Debtor is
+ready to match the higher offer which may have received in the 2nd process.
+Higher offer in the 2nd process was Rs.520 Crore. The Joint Lenders’ Meeting
+took place on 16.10.2025 where the lenders considered the said offer and
+where the lenders unanimously decided following:-
+“➤ After due deliberations, following were unanimously
+agreed by the lenders:
+
+[PAGE 23]
+23
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+o The lenders believe that the process sanctity should
+be maintained and therefore the five days' time
+should be adhered to. In case, Hon'ble court is
+inclined to pass an order permitting to allow the
+Borrower an extended timeline, then lender's interest
+should be protected against potential litigation from
+the present Anchor Bidder (ARC).
+o However, in the event that the Hon'ble Court
+considers the request of Appellant for 45 days time,
+the lenders shall consider the same. However, this
+shall subject to conditions that the appellant:
+ Shall submit an unconditional undertaking that the
+entire settlement amount shall be paid within the
+maximum period of 45 days from the date of the
+order.
+ Shall not seek any further modification or extension
+of timelines
+ Shall deposit 50% of the offer amount upfront
+amount (but not less than minimum 25% in any case)
+within 3 days but not later than 7 days and balance
+amount to be paid in equal instalments of 15 days
+each.
+ Shall also pay the interest calculated at the Lead
+Bank MCLR as on 01.04.2025 +1.50% p.a. i.e.
+9.10+1.50= 10.60% p.a. on the entire settlement
+amount calculated from October 1st, 2025, which is
+the day following the day when the amount was
+supposed to be received by the banks as per the loan
+sales process. The present rate being charged is
+11.05% p.a. (MCLR + 2.15);
+ In the event that the appellant defaults in making
+any payment or breaches the timeline for any
+payment, this entire arrangement will be nullified
+
+[PAGE 24]
+24
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+and the appellant shall not have any further rights
+to object to lenders process for sale of exposure in
+the manner decided by lenders and in the manner it
+is already concluded;
+ Shall submit to the lenders, within 6 days, the
+source of funding of KTLPL's offer - and the lenders
+shall have the right to seek any additional
+clarifications regarding the same from KTLPL; and
+ If there are defaults and this arrangement is
+nullified, the amount paid so far shall be adjusted
+towards the outstanding due from the Borrower and
+the appropriations shall be done in terms of the
+underlying financing documents and the lenders'
+policies.
+As all matters on the agenda were discussed and there
+were no other matters to be discussed, the meeting ended
+with a vote of thanks.”
+9.14. Thus, the lenders accepted offer of the Corporate Debtor under certain
+terms and conditions. It is on the record that the said offer was not accepted
+by the Corporate Debtor. In paragraph 7.63 of the Appeal, Corporate Debtor
+has referred to the said condition as arbitrary and onerous. Paragraph 7.63
+of the Appeal is as follows:-
+“7.63. That it is further clarified that during the
+pendency of the LPA before the Hon'ble Division Bench
+of the Delhi High Court, the Corporate Debtor during
+the course of the proceedings improvised on the offer
+available with the banks, and proposed to pay an
+amount of Rs. 521 Crores along with applicable
+interest from the date of the order till full payment to
+the lenders. However, instead of considering the
+
+[PAGE 25]
+25
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+proposal in its true spirit which in any case would have
+resulted in higher recovery for the public sector banks,
+the banks deliberately and malafidely sought to
+imposed arbitrary and onerous conditions, including
+an unreasonably short payment timeline of merely 45
+days and upfront payment of 50% within 7 days, only
+with the intent to frustrate and render the Corporate
+Debtor's offer incapable of acceptance. A copy of the
+Joint Lenders Meeting dated 16.10.2025 is marked
+and annexed herewith as Annexure-A29.”
+9.15. Thus, the offer which was given even after 2nd Swiss Challenge Process
+for assignment of debt to Prudent ARC has not been accepted.
+9.16. After the assignment dated 27.10.2025 in favour of the Prudent ARC, a
+letter dated 04.11.2025 has been written by Corporate Debtor to the Prudent
+ARC where it offered a payment schedule for the entire debt payment schedule
+as contained in letter dated 04.11.2025 is as follows:-
+“1. Payment Schedule:
+a. 50 Crores-to be paid within 15 (Fifteen) days from the
+date of acceptance of our request for redemption of debt;
+b. 50 Crores-to be paid on or before December 31, 2025;
+c. 50 Crores-to be paid on or before January 31# 2026, and;
+c. Balance Amount -to be paid on or before March 31, 2026.”
+9.17. Prudent ARC did not accept the payment schedule.
+(III) IA No.4439 of 2025
+9.18. IA No.4439 of 2025 has been filed by the Corporate Debtor on
+17.09.2025 i.e. after judgment was reserved on Section 7 application alleging
+
+[PAGE 26]
+26
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+that Section 7 proceeding has been initiated fraudulently and malafidely
+instituted which proceeding need to be dismissed. Copy of the IA has been
+brought on the record by the Appellant as Annexure A-32. When we look into
+the averments and application, the basis of the allegation of malicious nature
+of CIRP despite a concluded settlement. Question has been raised that after
+declaration of successful bidder in Swiss Challenge it was abuse of process of
+IBC for collateral purpose and arbitrary and malafide conduct of annulment
+of OTS. The said allegation clearly indicate that the application is founded on
+events which took place after offer was submitted by Corporate Debtor on
+23.05.2025. Section 65 of the IBC provides as follows:-
+“65. Fraudulent or malicious initiation of
+proceedings. -
+(1) If, any person initiates the insolvency resolution
+process or liquidation proceedings fraudulently or with
+malicious intent for any purpose other than for the
+resolution of insolvency, or liquidation, as the case may
+be, the Adjudicating Authority may impose upon such
+person a penalty which shall not be less than one lakh
+rupees, but may extend to one crore rupees.
+(2) If, any person initiates voluntary liquidation
+proceedings with the intent to defraud any person, the
+Adjudicating Authority may impose upon such person a
+penalty which shall not be less than one lakh rupees but
+may extend to one crore rupees.
+[(3) If any person initiates the pre-packaged insolvency
+resolution process—
+
+[PAGE 27]
+27
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+(a) fraudulently or with malicious intent for any
+purpose other than for the resolution of insolvency;
+or
+(b) with the intent to defraud any person, the
+Adjudicating Authority may impose upon such
+person a penalty which shall not be less than one
+lakh rupees, but may extend to one crore rupees.]”
+
+9.19. The present is a case where Section 7 application was filed on
+29.09.2024 and the application was founded on debt and default committed
+by Corporate Debtor. The debt and default is not even questioned and
+submission of number of OTS proposals by the Corporate Debtor fully proves
+debt and default. Financial Creditor is fully entitled under the IBC to initiate
+process under Section 7 when debt and default is committed. Adjudicating
+Authority has heard the application and has rejected the same vide order
+dated 17.11.2025 holding that the initiation of application cannot be said to
+be malafide or fraudulent purpose. The argument that proceedings have been
+fraudulently or malafidely initiated has been rejected. The said submission
+was also raised by the Corporate Debtor before the Delhi High Court in its
+writ petition where application for interim relief was rejected and it was held
+that the process is bonafide. In Paragraphs 86 to 89 of the judgment, following
+has been held:-
+“86. As regards Mr. Rohatgi's submission that the
+tearing hurry in which the annulment letter annulling
+and cancelling the OTS proposal was issued on
+02.09.2025,
+followed
+by
+issuance
+of
+another
+advertisement within few hours on 03.09.2025, shows
+
+[PAGE 28]
+28
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+lack of bona fide on part of the respondent nos. 3 to 5, it
+is to be noted that this Court has prima facie found that
+the decision of the respondent no.3/Canara Bank and
+respondent no.4/Punjab & Sind Bank to annul and
+cancel the OTS process is a decision taken in
+accordance with the terms and conditions of BPD, as
+well as, the initial proposal made by the petitioner.
+Clearly, the respondent nos. 3 and 4 acted within the
+purview of their authority in terms of the BPD. Merely
+because the cancellation was done on 02.09.2025 and
+fresh bidding process was advertised on 03.09.2025, in
+the absence of any other material, does not lead to the
+conclusion that there this is a mala fide involved.
+87. On the contrary, prima facie there appears to be
+merit in the submission of Mr. Mehta that there is no
+mala fide involved in the entire process related to
+petitioner's OTS handling, as the lenders are getting
+approximately Rs. 50 crores over and above petitioner's
+offer of Rs. 472.10 crore, since the new E-Auction would
+start from the base price of Rs. 520 crores, suggesting
+that interest of the respondent nos. 3 to 5, the public
+sector banks, is not being compromised in the new
+process.
+88. Further, the respondent nos.3 to 5 are resorting to
+the exercise of transfer of loan exposure in terms of the
+RBI Master Directions of 2021 in which only permitted
+transferees can participate and compete. That apart, E-
+Auction would follow the Swiss Challenge Method to
+ensure that the best price is fetched, therefore, the new
+bid process is seemingly not intended to favour
+someone.
+
+[PAGE 29]
+29
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+89. Thus, this Court is of the prima facie view that the
+impugned decision of the respondent nos. 3 and 4,
+followed by launch of fresh bidding process, is bona fide
+- sans any mala fide. Apparently, the decision has been
+taken in the interest of the respondent nos. 3 to 5, the
+public sector banks, who are custodian of the public
+money.”
+9.20. We, thus, do not find any error in the order of the Adjudicating
+Authority rejecting an application filed by the Corporate Debtor under Section
+65.
+9.21. As far as the rejection of two other applications filed by the Corporate
+Debtor being IA No.5205 of 2025 and IA No.5206 of 2025 where prayer for
+staying the pronouncement was made and prayer to liquidate the debt was
+prayed. The said prayer has been noticed in the order dated 17.11.2025 in
+paragraphs 1 and 2, which is as follows:-
+“IA-5205/2025
+1. This application has been filed by the Corporate Debtor
+in C.P. 154/2025 seeking the following prayers:
+α. Direct the original Financial Creditor Le. the
+Respondent to amend the captioned Company Petition
+and bring on record i.e. substitute the assignee Le.
+Prudent ARC Limited as the Financial Creditor;
+b. Stay the passing of orders in the captioned Company
+Petition and the Interlocutory Application No. 4439 of
+2025 till the substitution of the Financial Creditor in the
+captioned matter by amendment by the original Financial
+Creditor;
+
+[PAGE 30]
+30
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+c. Ad-interim reliefs in terms of prayer clause (a) and (b)
+above;
+d. Any other relief as this Hon'ble Tribunal deems fit in
+the facts and circumstances of the case.
+IA-5206/2025
+2. IA 5206/2025 has been filed by the Corporate Debtor
+for seeking the following prayers:
+a. Allow the present Application;
+b. Stay any further pronouncement of orders in the
+captioned Petition till adjudication of the present
+Application;
+c. Direct the Respondent as well as other Consortium
+Lenders, and/or their Assignee to provide an up to date
+outstanding amount, along with Statement of Loan
+Account of the Applicant Company;
+d. Direct the Respondent as well as other Consortium
+Lenders, and/or their Assignee, to consider the offer
+made by the Applicant in the present Application”
+
+9.22. The Adjudicating Authority has also noted all subsequent events and
+has rejected those applications. In paragraph 34 of the order rejecting the
+application, following has been observed:-
+“34. In view of the discussion above and noting that:
+a. Their exists a debt.
+b. The debt is in default.
+c. Applicant has made repeated attempts to settle
+the debt, however the financial creditors have
+
+[PAGE 31]
+31
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+finally rejected/recalled the OTS offered by the
+Applicant.
+d. Hon'ble Delhi High Court has denied any interim
+relief to the Applicant vide order dated 06.10.2025.
+e. Assignment of debt has happened post the
+orders
+were
+reserved
+in
+CP/154/2025
+on
+16.09.2025.
+f. The new assignee has since rejected the offer of
+the Applicant for redemption of debt (In fact the
+Applicant in the IAs has not offered to redeem the
+debt on upfront basis, rather it has sought the
+consent of the consortium of lenders or their
+assignee for repayment of total outstanding dues
+to all lenders in installment over a period of time till
+31.03.2026).
+g. Legal position being that once an order /
+judgment is reserved, no pleadings can be
+entertained by a court or Tribunal,
+We are of the considered view that IA/5205/2025 &
+IA/5206/2025 are not maintainable.”
+9.23. Learned Counsel for the Appellant submitted the view of the
+Adjudicating Authority that no application could have been entertained after
+judgment was reserved is not correct. Reliance on judgment of this Tribunal
+in “Loramitra Rath vs. JM Financial Asset Reconstruction Company
+Ltd.- Company Appeal (AT)) (Insolvency) Nos.1359 & 1360 of 2023”
+cannot be a reason to not look into any subsequent events. Even we accept
+the submission of the Appellant that subsequent events even after reserving
+of the judgment which may have material bearing can be looked into. The
+
+[PAGE 32]
+32
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+present is a case where insofar as offers made by the Corporate Debtor to
+settle with the lenders, that we have already noticed and the offer made by
+Prudent ARC has not been accepted. Thus, no such subsequent events took
+place which could have affected the very maintainability or admission of
+Section 7 application. We, thus, are of the view that the Adjudicating
+Authority did not commit any error.
+9.24. Learned Counsel for the Appellant has submitted that even as on date
+Appellant is ready to settle all debt of the Prudent ARC and it has made an
+offer to deposit the entire amount by 31.03.2026, as noted above, the CoC
+has already been constituted in December 2024. Any proposal for settlement
+has to be now gone into and considered as per Section 12A as per law laid
+down by the Hon’ble Supreme Court in “Glas Trust Company LLC vs Byju
+Raveendran & Ors.- (2025) 3 SCC 625”. It shall be thus, open for the parties
+to take steps under Section 12A which submission has also been advanced
+by Learned Counsel for the Respondent No.3 that course open is to proceed
+under Section 12A.
+9.25. In view of the foregoing discussion, we dispose of these Appeals in
+following manner:-
+(i)
+The order dated 17.11.2025 passed in CP (IB) No.154/2025 and
+IA No.4439 of 2025, IA No.5205 of 2025 and IA No.5206 of 2025 are
+upheld.
+(ii)
+The Appellant is at liberty to submit a proposal under Section
+12A to the Resolution Professional within 15 days from today. In event,
+any such proposal is submitted before the Resolution Professional, the
+
+[PAGE 33]
+33
+
+Company Appeal (AT) (Insolvency) Nos. 1928-1931 of 2025
+
+same shall be placed by the Resolution Professional before the CoC for
+consideration and further steps be taken in accordance with law.
+Parties shall bear their own costs.
+
+[Justice Ashok Bhushan]
+Chairperson
+
+[Barun Mitra]
+Member (Technical)
+New Delhi
+Anjali

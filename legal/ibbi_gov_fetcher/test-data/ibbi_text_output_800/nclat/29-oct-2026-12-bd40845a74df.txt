@@ -1,0 +1,772 @@
+[PAGE 1]
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+PRINCIPAL BENCH, NEW DELHI
+
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+(Arising out of the Order dated 22.07.2026 passed by the Hon'ble National
+Company Law Tribunal, Ahmedabad Bench, Court- I in I.A.
+No.800/AHM/2026 in Company Petition (IB) 59 of 2019)
+
+IN THE MATTER OF:
+Deputy Commissioner of Commercial Taxes,
+(Audit) - I, Mangaluru
+Room No. 301: 00302, 3rd Floor,
+Vanijya Therige Bhavana, Maidan Road,
+Mangaluru - 575001
+Email: dcctauditl.mng@ctd.ka.gov.in
+
+...Appellant
+
+Versus
+
+1.
+M/s Doshion Private Limited
+(in liquidation)
+Represented herein by its Liquidator,
+Sumedha Management Solutions Private Limited
+Represented herein by its Director,
+Mr. Bijay Murmuria
+Having its Registered Office at 8B,
+Middleton Street, 6A Geetanjali Apartments,
+Kolkata-700071
+Email: ip.doshionpvtltd@gmail.com
+
+...Respondent No.1
+
+2.
+Sumedha Management Solutions Private
+Limited
+Liquidator of M/s Doshion Private Limited
+(in liquidation)
+Represented herein by its Director,
+Mr. Bijay Murmuria
+
+[PAGE 2]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 2 of 25
+
+Present
+For Appellant:
+Mr. Janak Purohit & Mr. Sandeep Huilgol,
+Advocates.
+For Respondent:
+
+Mr. Kunal Vaishnav & Mr. Yuvraj Thakore,
+Advocates for Liquidator
+
+J U D G E M E N T
+( 29.10.2026)
+
+NARESH SALECHA, MEMBER (TECHNICAL)
+1.
+The present appeal has been filed by the Appellant i.e., Deputy
+Commissioner of Commercial Taxes, (Audit) -1, Mangaluru who is the
+Operational Creditor of the Corporate Debtor/Respondent No. 1, M/s Doshion
+Private Limited under Section 61 of the Insolvency and Bankruptcy Code, 2016
+(‘Code’) against the Order dated 22.07.2026 ("Impugned Order") passed by
+the Hon’ble National Company Law Tribunal, Ahmedabad Bench, Court- I
+(“Adjudicating Authority”) in I.A. No.800/ AHM/2026 in Company Petition
+(IB) 59 of 2019.
+M/s Doshion Private Limited, (in liquidation) represented herein by its
+Liquidator, Sumedha Management Solutions Private Limited represented herein
+by its Director Mr. Bijay Murmuria is the Respondent No.1 herein.
+Having its Registered Office at 8B, Middleton Street,
+6A Geetanjali Apartments,
+Kolkata-700071
+
+...Respondent No.2
+
+[PAGE 3]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 3 of 25
+
+Sumedha Management Solutions Private Limited represented herein by its
+Director Mr. Bijay Murmuria is the Respondent No.2 herein.
+2.
+The Appellant stated that Respondent No. 1 was engaged, inter alia, in the
+business of water treatment, industrial wastewater treatment, and purification
+solutions. Although its registered place of business was situated in Ahmedabad,
+Gujarat, it also carried on business in Mangaluru, Karnataka. The Appellant
+submitted that, by an order dated 03.10.2023, the Adjudicating Authority initiated
+liquidation proceedings against Respondent No. 1 under the provisions of the
+Code and appointed Respondent No. 2, Sumedha Management Solutions Private
+Limited, as the liquidator of the Corporate Debtor.
+3.
+The Appellant submitted that, in the course of its business, Respondent No.
+1 had affected inter-State sales from Karnataka and was registered as a taxable
+person under the Central Goods and Services Tax Act, 2017 (“CGST Act”) and
+the Karnataka Goods and Services Tax Act, 2017 (“KGST Act”), bearing GSTIN
+No. 29AAACD8771G1ZD. Accordingly, Respondent No. 1 was liable to
+discharge its statutory tax obligations under the applicable GST enactments.
+4.
+The Appellant contended that its office had been assigned the
+responsibility of assessing Respondent No. 1 for the assessment year April 2019
+to March 2020 and initiating adjudication proceedings in respect of discrepancies
+identified during scrutiny of the Corporate Debtor’s returns. Upon scrutiny and
+verification, it was discovered that Respondent No. 1 had discharged Integrated
+
+[PAGE 4]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 4 of 25
+
+Goods and Services Tax (“IGST”) on certain works contract services falling
+under HSN 9954, even though the place of supply was within Karnataka.
+Consequently, the transactions constituted intra-State supplies attracting Central
+Goods and Services Tax (“CGST”) and Karnataka Goods and Services Tax
+(“KGST”), rather than IGST.
+5.
+The Appellant submitted that, pursuant to the assignment issued by the
+Joint Commissioner of Commercial Taxes (Administration), Mangaluru, bearing
+No. ADJ/2389/2024-25 dated 12.08.2024, it initiated adjudication proceedings
+under Section 74 of the GST Acts by issuing an intimation in Form GST DRC-
+01A dated 06.09.2025. Since Respondent No. 1 failed to furnish a satisfactory
+explanation for the erroneous classification and discharge of IGST on intra-State
+supplies, the Appellant proceeded to issue a show-cause notice in Form GST
+DRC-01 dated 23.09.2025, proposing the levy of CGST and KGST on the
+transactions in question.
+6.
+The Appellant stated that Respondent No. 2, through communications
+dated 23.10.2025 and 14.11.2025, responded to the show-cause notice and
+informed the Appellant about the liquidation proceedings concerning Respondent
+No. 1. The Appellant contended that the adjudication proceedings under Section
+74 were continued solely for the limited purpose of determining and crystallising
+the statutory tax liability of the Corporate Debtor. It specifically submitted that
+no coercive recovery proceedings were initiated against Respondent No. 1 during
+the course of such adjudication.
+
+[PAGE 5]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 5 of 25
+
+7.
+The Appellant submitted that, in discharge of its statutory obligations, it
+completed the adjudication proceedings and passed an adjudication order dated
+21.02.2026 under Section 74(9), read with Sections 50 and 122 of the
+CGST/KGST Acts, determining a tax liability of ₹8,10,000 against Respondent
+No. 1, comprising ₹4,05,000 towards CGST and ₹4,05,000 towards KGST.
+Thereafter, Respondent No. 1 filed an application for rectification dated
+26.02.2026 seeking rectification of the said adjudication order.
+8.
+The Appellant contended that the statutory liability forming the subject
+matter of the present proceedings arose from a separate and independent
+adjudication proceeding under Section 74 of the GST Acts and could not be
+equated with the liability involved in the earlier proceedings initiated under
+Section 73 for the same assessment year. It submitted that the present proceedings
+culminated only upon the passing of the adjudication order dated 21.02.2026 and,
+therefore, the liability in question was determined and crystallised only at that
+stage.
+9.
+The Appellant submitted that, after the adjudication order was passed and
+upon obtaining advice from its Special Counsel, it proceeded to prepare and
+submit its proof of claim in Form C before Respondent No. 2. The Appellant
+contended that this course of action was adopted bona fide, in deference to the
+ongoing liquidation proceedings and in compliance with its statutory duty to
+safeguard Government revenue. Accordingly, the Appellant finalised and
+submitted its claim in Form C before the Liquidator on 22.04.2026.
+
+[PAGE 6]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 6 of 25
+
+10.
+The Appellant stated that Respondent No. 2, by an email dated 02.05.2026,
+rejected the claim solely on the ground that it had been filed belatedly and could
+not be accepted at that stage of the liquidation proceedings. The Appellant
+contended that the rejection was based on a technical objection relating to delay,
+without properly appreciating that the adjudication order determining the liability
+had been passed only on 21.02.2026.
+11.
+The Appellant submitted that Respondent No. 2 also referred to the
+rejection of I.A. No. 680/AHM/2025 by the Adjudicating Authority on
+21.11.2025, which concerned a separate claim arising from adjudication
+proceedings under Section 73 of the GST Acts. The Appellant stated that it had
+challenged the said order before this Hon’ble Appellate Tribunal in Company
+Appeal (AT) (Ins.) No. 681 of 2026, along with I.A. Nos. 2569 and 2664 of 2026,
+and that the matter was pending adjudication. However, the Appellant contended
+that the pendency of the earlier appeal did not justify rejection of the present
+claim, since the latter arose from an independent proceeding under Section 74
+and was founded upon a distinct adjudication order dated 21.02.2026.
+12.
+The Appellant submitted that, being aggrieved by the rejection of its claim,
+it filed I.A. No. 800/AHM/2026 under Section 60(5) of the Code, read with Rule
+11 of the National Company Law Tribunal Rules, 2016, seeking condonation of
+the delay of 896 days, calculated from 08.11.2023 to 22.04.2026, in submitting
+its claim during the liquidation proceedings of Respondent No. 1. The Appellant
+contended that the application was necessary because the Liquidator had declined
+
+[PAGE 7]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 7 of 25
+
+to entertain the claim on the ground of delay, notwithstanding the circumstances
+in which the liability had been determined.
+13.
+The Appellant stated that the Respondents filed their affidavit in reply
+dated 26.06.2026, opposing the application on the ground that the delay was
+unjustified and that no sufficient or reasonable explanation had been furnished
+for the period of delay. The Appellant submitted that it thereafter filed a rejoinder
+dated 03.07.2026, denying the Respondents’ contentions, reiterating the bona fide
+reasons for the delay, and relying upon decisions of various Benches of the NCLT
+in which delays in the filing of claims by statutory authorities had been condoned.
+14.
+The Appellant contended that, by the impugned order dated 22.07.2026,
+the Adjudicating Authority dismissed I.A. No. 800/AHM/2026 on the ground that
+the Appellant had failed to establish sufficient reasons for the delay. It submitted
+that the Adjudicating Authority failed to appreciate that the tax liability had
+crystallised only on 21.02.2026 and that the Appellant had submitted its claim on
+22.04.2026, shortly after the determination of the liability. The Appellant further
+contended that the Adjudicating Authority failed to consider the judicial
+precedents placed on record in support of its application.
+15.
+The Appellant contended that the Adjudicating Authority travelled beyond
+the scope of the application by holding that the present case was not one involving
+delay in filing a claim in respect of a liability that had already crystallised as on
+the commencement of liquidation, but rather concerned dues determined and
+becoming payable after the commencement of liquidation proceedings. The
+
+[PAGE 8]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 8 of 25
+
+Appellant submitted that this ground had never been raised by the Respondents
+in the impugned rejection email dated 02.05.2026, which was the subject matter
+of challenge before the Adjudicating Authority. It further stated that the
+Adjudicating Authority had itself framed the issue for consideration as whether
+the Appellant was entitled to condonation of the delay of 896 days in filing its
+claim before the Liquidator. Having framed the issue in those terms, the
+Adjudicating Authority could not have dismissed the application on a different
+ground that had neither been raised by the Respondents in the impugned rejection
+nor put to the Appellant for its response.
+16.
+The Appellant submitted that the aforesaid approach violated the principles
+of natural justice, as the application was dismissed on a ground that the Appellant
+had no opportunity to address. It contended that the Adjudicating Authority could
+not have enlarged the scope of the proceedings beyond the limited question of
+condonation of delay and introduced a distinct issue concerning the nature and
+timing of crystallisation of the liability. Accordingly, the Appellant submitted that
+the findings recorded in the impugned order were legally unsustainable and
+warranted interference by this Hon’ble Appellate Tribunal.
+17.
+The Appellant contended that, even though the Adjudicating Authority
+acknowledged the principle laid down in Sundaresh Bhatt, Liquidator of ABG
+Shipyard v. Central Board of Indirect Taxes and Customs, (2022) 2 SCC 1, it
+failed to give effect to the necessary consequences of the said judgment. The
+Appellant submitted that the Hon’ble Supreme Court recognised the authority of
+
+[PAGE 9]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 9 of 25
+
+revenue departments to determine tax dues, interest and penalties during
+insolvency or liquidation proceedings, while requiring such authorities to pursue
+their claims through the Liquidator rather than resorting to recovery in
+contravention of the applicable insolvency framework.
+18.
+The Appellant stated that, in accordance with the aforesaid judgment, it
+had undertaken adjudication proceedings only to determine the statutory liability
+and had thereafter submitted its claim before the Liquidator. It contended that
+where the assessment or adjudication is permitted to continue after the
+commencement of liquidation, the resulting liability may crystallise only after the
+prescribed timeline for submission of claims has expired. In such circumstances,
+insisting upon strict compliance with the original timelines under Regulations 12
+and 16 of the IBBI (Liquidation Process) Regulations, 2016, without considering
+the date on which the liability actually crystallised, would defeat the very purpose
+of permitting the statutory determination of dues. The Appellant submitted that,
+having filed its claim promptly after determination of the liability, it was entitled
+to have the claim entertained, verified and processed in accordance with law.
+19.
+The Appellant further contended that the Adjudicating Authority adopted
+an inconsistent approach in the impugned order. It submitted that, at paragraph
+13, the Adjudicating Authority expressly declined to examine the Respondents’
+contention that the adjudication proceedings initiated under Section 74 of the
+GST Acts after commencement of liquidation were contrary to Section 33(5) of
+the Code, observing that the application could be rejected on the ground of delay
+
+[PAGE 10]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 10 of 25
+
+and the maintainability of the claim under the liquidation framework. However,
+at paragraph 17, the Adjudicating Authority proceeded to hold that the dues had
+been determined and had become due after commencement of liquidation. The
+Appellant contended that such a finding necessarily involved consideration of the
+very issue that the Adjudicating Authority had expressly left open, thereby
+demonstrating non-application of mind and rendering the impugned order
+unsustainable.
+20.
+The Appellant submitted that the Adjudicating Authority had itself
+observed that the Liquidator possessed no independent power to condone an
+extraordinary delay in filing claims under Regulations 12, 16 and 30 of the
+Liquidation Process Regulations, 2016. The Appellant contended that, having
+recognised the limitations upon the Liquidator’s powers, the Adjudicating
+Authority ought to have exercised its own jurisdiction under Section 60(5) of the
+Code, read with Section 42 thereof, which had specifically been invoked by the
+Appellant. It stated that the application was filed precisely because the Liquidator
+had rejected the claim and the Appellant sought appropriate relief from the
+Adjudicating Authority. By failing to exercise its jurisdiction, the Adjudicating
+Authority effectively treated the Liquidator’s limited administrative powers as
+overriding its own statutory jurisdiction, contrary to the scheme of the Code.
+21.
+The Appellant contended that the Adjudicating Authority erroneously
+treated the delay as 896 days by calculating the period from 08.11.2023, being
+the original cut-off date under the public announcement in Form B, to 22.04.2026,
+
+[PAGE 11]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 11 of 25
+
+being the date on which the claim was filed. It submitted that the relevant period
+ought to have been considered with reference to the date on which the liability
+forming the subject matter of the claim actually crystallised. According to the
+Appellant, the adjudication order was passed on 21.02.2026 and the liability
+attained finality upon rejection of the rectification application on 24.03.2026.
+Therefore, when the period was calculated from the crystallisation of the liability
+to the filing of the claim on 22.04.2026, the delay was less than 30 days. The
+Appellant contended that the failure to distinguish between the original claim-
+submission cut-off date and the date on which the particular liability was
+determined resulted in an erroneous characterisation of its conduct as involving
+an extraordinary delay of 896 days.
+22.
+The Appellant submitted that the delay was neither intentional nor
+deliberate and that it had acted with due diligence throughout the adjudication
+proceedings. It contended that the claim could not have been submitted in its
+present form before the liability was determined by the adjudication order dated
+21.02.2026. The Appellant further stated that, after the liability was determined
+and the relevant legal advice was obtained, it proceeded to submit the claim
+before the Liquidator without undue delay. Accordingly, the Appellant submitted
+that the circumstances constituted bona fide and sufficient grounds for
+condonation of delay.
+23.
+The Appellant submitted that the Adjudicating Authority failed to consider
+the settled principles governing condonation of delay and the judicial precedents
+
+[PAGE 12]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 12 of 25
+
+in which delays in filing statutory claims during liquidation proceedings had been
+condoned. It contended that the timelines prescribed for submission of claims
+should not be applied mechanically where sufficient and bona fide reasons are
+demonstrated, particularly when the claim concerns statutory dues determined by
+a Government authority.
+24.
+The Appellant relied upon N. Balakrishnan v. M. Krishnamurthy, (1998) 7
+SCC 123, to contend that the length of delay is not, by itself, decisive and that the
+acceptability of the explanation furnished for the delay must be considered. It
+submitted that the delay must be assessed in light of the reasons assigned and the
+prejudice, if any, likely to be caused to the opposite party. The Appellant
+contended that no prejudice would be caused to any stakeholder by allowing its
+claim to be considered on merits and that the Adjudicating Authority failed to
+return any finding on the question of prejudice, despite the issue having been
+specifically raised before it.
+25.
+The Appellant further relied upon Bank of India v. Pacific Pipe Systems
+Pvt. Ltd., 2021 SCC OnLine NCLT 14425 (NCLT Ahmedabad), wherein the
+delay on the part of the Regional Provident Fund Commissioner in filing a claim
+was condoned and the Liquidator was directed to consider the claim. The
+Appellant submitted that the said decision supported the proposition that a
+statutory authority’s delayed claim could be entertained upon consideration of the
+circumstances justifying the delay.
+
+[PAGE 13]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 13 of 25
+
+26.
+The Appellant submitted that the consistent approach adopted in the earlier
+judicial decisions warranted consideration of its claim on merits. It contended
+that, where the liability itself was determined only after the commencement of
+liquidation, the circumstances justified a fair and equitable consideration of the
+delay, particularly when the Appellant had acted promptly upon crystallisation of
+the liability. The Appellant stated that the Adjudicating Authority’s failure to
+consider the cited precedents and the reasons furnished by it resulted in an
+erroneous and unsustainable order.
+27.
+The Appellant contended that it had acted in full compliance with the GST
+Acts, the rules framed thereunder, and its statutory duties. It submitted that,
+although the power to initiate recovery proceedings under Section 79 of the GST
+Acts was available, it refrained from taking coercive recovery measures against
+the Corporate Debtor and instead pursued the claim through the Liquidator in
+accordance with the insolvency framework.
+28.
+The Appellant submitted that the claim represented statutory Government
+revenue determined after following the prescribed adjudicatory procedure,
+including issuance of an intimation in Form GST DRC-01A, a show-cause notice
+in Form GST DRC-01, consideration of the responses furnished by the Corporate
+Debtor, passing of the adjudication order, and subsequent rectification
+proceedings. It contended that rejecting the claim on a purely technical ground of
+delay, without demonstrating any prejudice to the stakeholders, would adversely
+affect the legitimate interest of the Government in recovering statutory dues.
+
+[PAGE 14]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 14 of 25
+
+29.
+The Appellant stated that the objective of the Code is to ensure an orderly
+and time-bound insolvency and liquidation process and not to extinguish
+legitimate statutory claims without consideration of the circumstances in which
+they arose. It contended that its claim ought to have been examined on merits,
+subject to verification and admission in accordance with the applicable provisions
+of the Code and the Liquidation Process Regulations, rather than being rejected
+solely on the basis of the original cut-off date.
+30.
+The Appellant further submitted that it was not seeking any preferential
+treatment or priority over other creditors. It only sought permission for its claim
+to be verified, admitted, and processed in accordance with the applicable statutory
+framework and the waterfall mechanism prescribed under the Code. The
+Appellant contended that the admission of its claim for consideration would not
+confer any special status upon it but would merely enable its statutory dues to be
+dealt with in accordance with law.
+31.
+The Appellant submitted that the impugned order was liable to be set aside
+because the Adjudicating Authority failed to consider the bona fide and genuine
+explanation furnished for the delay and instead recorded findings that were
+contrary to the circumstances of the case. It contended that the determination of
+the tax liability only on 21.02.2026 constituted a material circumstance that
+directly explained why the claim could not have been submitted earlier in its
+present form.
+
+[PAGE 15]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 15 of 25
+
+32.
+The Appellant contended that the Adjudicating Authority erred in
+mechanically computing the delay from 08.11.2023 to 22.04.2026 without
+considering the date of crystallisation of the liability. It submitted that the period
+between the determination of the liability and submission of the claim was less
+than 30 days, and that this circumstance demonstrated the promptness and bona
+fides of its conduct.
+33.
+The Appellant submitted that the Adjudicating Authority failed to exercise
+its jurisdiction under Section 60(5), read with Section 42 of the Code, despite the
+Appellant having invoked such jurisdiction to seek appropriate relief against the
+Liquidator’s rejection of its claim. It contended that the Adjudicating Authority
+ought to have considered whether the delay could be condoned and whether the
+claim could be directed to be verified and processed in accordance with law.
+34.
+Concluding the arguments, the Appellant requested this Appellate Tribunal
+to set aside the Impugned Order and allow the present Appeal.
+Findings
+35.
+This appeal is filed by the Deputy Commissioner of Commercial Taxes
+(Audit)-1, Mangaluru, against the order under which the Adjudicating Authority
+dismissed the Appellant’s application under Section 60(5) read with Section 42 of
+the Code. In that application the Appellant asked for three reliefs. First, that the
+Liquidator’s communication dated 02.05.2026, which rejected its Proof of Claim
+
+[PAGE 16]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 16 of 25
+
+in Form C dated 22.04.2026, be set aside. Second, that a delay of 896 days in filing
+the claim be condoned. Third, that the Liquidator be directed to verify and admit
+the claim arising from the order dated 21.02.2026 passed under Section 74(9) of
+the CGST/KGST Acts.
+36.
+At the outset, it may be clarified that on 08.10.2026 learned counsel for the
+Respondents asked that the appeal be decided at the admission stage without a
+reply, as the issue is short. The Appellant also agreed, as such we heard both sides
+and reserved judgment at the admission stage itself.
+37.
+We have not set out the pleadings and arguments of the Respondents
+separately. Every point raised is being dealt with in the findings below, and the
+appeal is being decided finally.
+38.
+We note that the Corporate Debtor was admitted into CIRP on 31.08.2021.
+It was ordered to be liquidated on 03.10.2023 in IA/769(AHM)/2021, and
+Sumedha Management Solutions Private Limited was appointed as Liquidator. A
+public announcement in Form B was made on 11.10.2023, and the last date for
+submitting claims was fixed as 08.11.2023. It is undisputed fact that the Appellant
+did not file any claim by that date.
+39.
+The dues relate to the period April 2019 to March 2020. In that period the
+Corporate Debtor was registered under the CGST and KGST Acts and made
+taxable supplies. On scrutiny of its returns, the Appellant noticed that IGST had
+been paid on intra-State supplies. Adjudication proceedings under Section 74 of
+the CGST/KGST Acts were after the liquidation order. The Appellant issued the
+
+[PAGE 17]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 17 of 25
+
+Show Cause Notice to the Corporate Debtor on 23.09.2025. The Liquidator
+replied to the notice on 23.10.2025 and 14.11.2025 and informed the Appellant
+about the liquidation. It has been brought out that on 21.02.2026, an order was
+passed by the Appellant, under Section 74(9), read with Sections 50 and 122 of
+the CGST/KGST Acts, fixing the liability of the corporate debtor at Rs.8,10,000/-
+, made up of CGST of Rs.4,05,000/- and KGST of Rs.4,05,000/-. A rectification
+application filed by the Corporate Debtor on 26.02.2026 was rejected on
+24.03.2026.
+40.
+We have been informed that the Appellant filed its Proof of Claim in Form
+C on 22.04.2026. The Liquidator rejected it on 02.05.2026 because it was filed
+after the prescribed period. The application before the Adjudicating Authority
+was by the Appellant on 15.05.2026, which is within fourteen days of the
+rejection. It is significant to note that the claim was filed 896 days after the last
+date of 08.11.2023.
+41.
+The Appellant had earlier filed IA No. 680(AHM)/2025 relating to
+proceedings under Section 73 of the Acts. It was dismissed on 21.11.2025.
+Company Appeal (AT) (Ins.) No. 681 of 2026 against that dismissal is pending.
+That appeal is not before us and nothing in this judgment touches it.
+42.
+Based on the above facts, four questions arise. One, whether a claim based
+on the order dated 21.02.2026 can be admitted in a liquidation that began on
+03.10.2023. Two, whether the delay of 896 days deserves to be condoned. Three,
+whether the judgment of the Supreme Court in Sundaresh Bhatt, Liquidator of
+
+[PAGE 18]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 18 of 25
+
+ABG Shipyard v. Central Board of Indirect Taxes and Customs, Civil Appeal
+No. 7667 of 2021, (“ABG Shipyard”), relied on by the Appellant, helps the
+Appellant. Four, whether the other objections taken by the parties call for a
+decision.
+43.
+We note that Section 38(1) of the Code requires the liquidator to receive
+claims within thirty days from the commencement of the liquidation process.
+Regulation 12 of the IBBI (Liquidation Process) Regulations, 2016 requires a
+public announcement calling upon all stakeholders to submit their claims as on
+the liquidation commencement date. It fixes the last date at thirty days from that
+date. Regulation 16 requires a person claiming to be a stakeholder to submit the
+claim as on the liquidation commencement date, on or before the last date. The
+liquidator then verifies the claims under Regulation 30 within thirty days of the
+last date.
+44.
+We further take into consideration that under Sections 39 and 40 of the
+Code, the liquidator verifies the claims and admits or rejects them. Under Section
+42 of the Code, a creditor aggrieved by the decision of the liquidator may appeal
+to the Adjudicating Authority within fourteen days of receiving the decision. So,
+both ends of the process carry short and fixed time limits. The Code does this on
+purpose. Liquidation is meant to move in a fixed order and within a fixed time,
+so that the list of stakeholders is settled early and distribution can follow.
+45.
+We consciously note that the Regulations do not give the liquidator any
+power to accept a claim after the last date. The Appellant also accepts this. The
+
+[PAGE 19]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 19 of 25
+
+Liquidator was therefore right to reject the claim as late. The real question is what
+the Adjudicating Authority, and now this Appellate Tribunal, can and should do
+about it.
+46.
+It is taken into consideration that Section 3(6) of the Code defines a “claim”
+as a right to payment, whether or not it has been reduced to judgment, fixed,
+disputed or undisputed. Section 5(21) of the Code treats dues payable to a State
+Government under any law as operational debt. The State tax authority to whom
+such dues are owed is an operational creditor. It is a creditor like any other. Its
+dues have a place in the waterfall under Section 53 of the Code, but only if they
+come in through the process the Code lays down.
+47.
+At this stage we find that the Appellant’s case needs a closer look at what
+Section 42 of the Code gives, which lets a creditor challenge the liquidator’s
+decision to admit or reject a claim. Thus, we find that it is a remedy against a
+decision, however, it does not create a fresh right to file a claim that the
+Regulations have closed. The Adjudicating Authority, while hearing a Section 42
+of the Code application, can check whether the liquidator acted within the Code
+and the Regulations. Here the Liquidator did exactly that, and applied Regulation
+12 and refused a claim that came after the last date.
+48.
+It is undisputed fact that Section 60(5) of the Code gives the Adjudicating
+Authority wide jurisdiction over claims by or against the corporate debtor and
+over any question of law or fact arising out of or in relation to the insolvency
+resolution or liquidation. That power is real. But it is a power to do justice within
+
+[PAGE 20]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 20 of 25
+
+the Code. It is not a power to rewrite the time limits that the Code and the
+Regulations have fixed. A wide power must still be used in a way that fits the
+scheme of the statute.
+49.
+The Appellant also pointed to Section 238A of the Code, under which the
+Limitation Act applies to proceedings before the Adjudicating Authority. That
+does not help in this case. The Appellant’s difficulty is not that its Section 42 of
+the Code application was filed late. It was filed in time. The difficulty is that the
+claim itself was filed 896 days after the last date fixed under the Regulations. The
+Limitation Act does not fix a period for filing a claim before a liquidator, and
+Section 5 of the Code cannot be used to stretch a period that the Code fixes for a
+different step.
+50.
+The Appellant relied heavily on ABG Shipyard (Supra). In that case the
+Honourable Supreme Court considered whether the Customs authorities could
+proceed against goods of a corporate debtor in liquidation by issuing demand
+notices and moving to sell the goods. The Honourable Supreme Court held that
+demand notices issued during the moratorium under Section 14 or Section 33(5)
+of the Code violate the Code. It also drew a line between assessment and recovery.
+Relying on S.V. Kondaskar v. V.M. Deshpande, AIR 1972 SC 878, the
+Honourable Supreme Court held that an authority may continue to determine the
+tax, interest, fine or penalty due, but cannot enforce recovery during the
+moratorium.
+
+[PAGE 21]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 21 of 25
+
+51.
+Thus, we observe that the ABG Shipyard (supra) decides two things. The
+authority may assess during the moratorium, but it may not recover. And once it
+has assessed, it must claim within the time the Code allows. The judgment does
+not stipulate that the time for filing a claim starts afresh on the date of assessment.
+If it did, a tax authority would have no time limit at all, and the direction to follow
+the time periods in the Code would mean nothing.
+52.
+We have noted that the Appellant’s answer to the delay is that its liability
+was fixed only on 21.02.2026, and that it filed the claim within a reasonable time
+after that. There are two ways of looking at this, and the Appellant fails on both.
+53.
+The first view is that the claim existed from the tax period itself. The
+Corporate Debtor’s liability for April 2019 to March 2020 arose from its supplies
+in that period. It had not been quantified, but Section 3(6) of the Code stipulates
+that a right to payment is a claim even when it is not fixed or is disputed. On this
+view, the claim existed long before the CIRP began on 31.08.2021, and certainly
+on 03.10.2023. The Appellant could have filed it by 08.11.2023 with the
+particulars it had. It did not. The Appellant says it assigned the Section 74
+proceedings of the CGST/KGST Acts only on 12.08.2024. That shows when the
+Appellant chose to look at these returns. A tax authority’s own delay in
+scrutinising returns cannot be passed on to a liquidation that has been running on
+public notice. On this view the claim is simply late by 896 days.
+54.
+The second view is the Appellant’s own case, that the liability came into
+existence only on 21.02.2026. On this view the claim rests on an order passed
+
+[PAGE 22]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 22 of 25
+
+more than two years after the liquidation commencement date. This Appellate
+Tribunal has held more than once that such a claim cannot be admitted. It has
+been held that Regulations 12 and 16 contemplate claims as on the liquidation
+commencement date, and that a claim arising later cannot be admitted. The same
+view was taken for claims founded on assessment orders passed after liquidation
+began.
+55.
+We do not need to choose between the two views, because the result is the
+same. On the first view the claim is late and no good reason is shown requiring
+any intervention. On the second view the claim lies outside Regulations 12 and
+16 and cannot be admitted, whatever the reason for the delay. Whichever way it
+is seen, the Appellant cannot succeed.
+56.
+The Appellant also pleaded and wanted us to accept his logic that
+proceedings under Sections 73 and 74 of the CGST/KGST Acts are different, and
+relied on PEI Industries v. Union of India, W.P (C) No. 7725 of 2026 decided by
+the Delhi High Court on 29.05.2026. Even if we accept the arguments of the
+Appellant that they are different under the CGST/KGST Acts, the time for filing
+a claim in liquidation is fixed by the Code and the Regulations, not by the
+CGST/KGST Acts. The kind of GST proceeding does not change the date on
+which liquidation began or the last date for claims.
+57.
+We also observe that the Appellant rightly used Section 42 of the Code and
+came to the Adjudicating Authority within fourteen days of the rejection. It argued
+that even if the Liquidator cannot condone delay, the Adjudicating Authority can
+
+[PAGE 23]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 23 of 25
+
+do so under Section 60(5) read with Section 42 of the Code. Even if we assume
+that the power exists, it can be used only for sufficient cause and where the time-
+bound working of the liquidation is not harmed. The Code’s own limits are short.
+A claim must be filed in thirty days and a challenge to the liquidator’s decision in
+fourteen. A claimant who comes 896 days late is asking for a large exception to a
+scheme built on short periods. It must show strong reasons for that.
+58.
+The Appellant’s explanation is that the liability crystallised on 21.02.2026
+and that the claim was filed soon after. At most this explains the period after
+21.02.2026. The claim was filed 29 days after the rectification application was
+rejected on 24.03.2026. It does not explain the period from 08.11.2023 to
+21.02.2026, which is more than two years and three months. For that period there
+is no explanation at all. And, as we have seen, the date of crystallisation does not
+decide when a claim must be filed under the Code.
+59.
+The Appellant does not say that it did not know about the liquidation. A
+public announcement was made on 11.10.2023. By 2025 the Appellant had filed
+IA No. 680(AHM)/2025 in the same company petition. In October and November
+2025, the Liquidator wrote to it during the Section 74 proceedings of the
+CGST/KGST Acts and told it about the liquidation. Even then it filed its claim
+only on 22.04.2026. Waiting for the adjudication to finish was the Appellant’s
+own choice. The Code did not require it, because a disputed or unquantified claim
+can be filed.
+
+[PAGE 24]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 24 of 25
+
+60.
+We are aware that the Appellant is a statutory authority, but this fact does
+not give it a longer period. It has its own records of registered persons and has
+access to public notices. ABG Shipyard (supra) itself stipulates such authorities
+to follow the time periods in the Code strictly. Government dues find their place
+in Section 53 of the Code, but only through the claims process.
+61.
+We need to appreciate that the Corporate Debtor has been in liquidation for
+three years. The process has run on the claims received by 08.11.2023. If a claim
+is admitted after this long, the Liquidator must reopen verification and revise the
+list of stakeholders, and distribution may be affected. That is the harm the time
+limits are meant to prevent. The amount is small, but the test is not the amount.
+If this claim is admitted, other late claimants will ask for the same. We feel that it
+is not the intention of the code. We find that no sufficient cause is shown for the
+delay of 896 days. We also find that admitting the claim would be against the
+time-bound working of the Code.
+62.
+We also keep in mind the position of the other stakeholders. Their claims
+were filed and verified on the basis of the list prepared after 08.11.2023. They
+have organised their expectations around that list. A statutory creditor stands in
+the same line as other operational creditors, and Section 53 of the Code does not
+put it ahead of the rest merely because it is the State. Letting it in three years late,
+on a liability that did not exist when the list was made, would treat it better than
+every creditor who obeyed the timelines.
+
+[PAGE 25]
+Comp. App. (AT) (Ins) No. 1752 of 2026
+
+Page 25 of 25
+
+63.
+In view of the above discussion, we are of the considered view that the
+Adjudicating Authority was right to dismiss the application. The Liquidator’s
+rejection dated 02.05.2026 cannot be faulted. The claim was filed 896 days after
+the last date. The Liquidator had no power to accept it. No sufficient cause is
+shown for the Adjudicating Authority to condone the delay. And a claim founded
+on a liability fixed after the liquidation commencement date does not fit the
+scheme of Regulations 12 and 16.
+64.
+We do not find merit in the Appeal. The appeal is dismissed. There shall be
+no order as to costs. All pending interlocutory applications, if any, stand closed.
+
+[Justice Mohammad Faiz Alam Khan]
+Member (Judicial)
+
+[Naresh Salecha]
+Member (Technical)
+Sim

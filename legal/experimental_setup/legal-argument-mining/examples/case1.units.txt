@@ -1,0 +1,16 @@
+# FILE case1.txt  n_chars=1145  units=15  paragraphs=11
+# SCOPE: legal reasoning starts at char 206 (unit u5) via law-heading. Earlier units are hidden (facts/procedure).
+# FLAGS: H=heading (never annotate)  Q=inside a quotation (often verbatim law/judgment: usually no span)  L=low-priority section (costs / default interest: do not annotate by default)  T=truncated end
+# FORMAT: u<unit> p<block> <paragraph-number> [start-end) flags | text
+-- units before char 206 hidden (facts/procedure; use --show-all to see them) --
+u5 p5  [206-219) H | AS TO THE LAW
+u6 p6  [220-253) H | I. ALLEGED VIOLATION OF ARTICLE 8
+u7 p7 ¶19 [258-389) | In the applicants' submission, the refusal to grant a new residence permit after the divorce infringed Article 8 of the Convention.
+u8 p7  [390-463) | They stressed that regular contact with his daughter had been maintained.
+u9 p8 ¶20 [468-522) | The Government accepted that Article 8 was applicable.
+u10 p8  [523-573) | It is not disputed that there was an interference.
+u11 p9 ¶21 [578-789) | The Court reiterates that the Contracting States enjoy a certain margin of appreciation in assessing the need for an interference (see Abdulaziz, Cabales and Balkandali v. the United Kingdom, 28 May 1985, § 67).
+u12 p9  [790-884) | Here, the expulsion order had a basis in the Aliens Act, so it was in accordance with the law.
+u13 p10 ¶22 [889-976) | The Court is not convinced that the interference was necessary in a democratic society.
+u14 p10  [977-1087) | A fair balance was not struck between the interests of the community and the applicants' right to family life.
+u15 p11 ¶23 [1092-1144) | There has accordingly been a violation of Article 8.
